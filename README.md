@@ -1,1 +1,2 @@
-# data_bible-yaml
+# King James Bible - YAML
+Full King James Bible in YAML format.
