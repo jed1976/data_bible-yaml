@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 49:4"
+  class="v">4</span>Unstable as water, thou shalt not excel; because thou
+  wentest up to thy father’s bed; then defiledst thou <span
+  class="add">it:</span> he went up to my couch.</p>
+id: GEN/49/4
+next:
+  id: GEN/49/5
+  number: '5'
+previous:
+  id: GEN/49/3
+  number: '3'
+reference: 'Genesis 49:4'

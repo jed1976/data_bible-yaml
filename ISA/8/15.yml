@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 8:15" class="v">15</span>And
+  many among them shall stumble, and fall, and be broken, and be snared, and be
+  taken.</p>
+id: ISA/8/15
+next:
+  id: ISA/8/16
+  number: '16'
+previous:
+  id: ISA/8/14
+  number: '14'
+reference: 'Isaiah 8:15'

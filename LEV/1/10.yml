@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 1:10" class="v">10</span>¶
+  And if his offering <span class="add">be</span> of the flocks, <span
+  class="add">namely</span>, of the sheep, or of the goats, for a burnt
+  sacrifice; he shall bring it a male without blemish. </p>
+id: LEV/1/10
+next:
+  id: LEV/1/11
+  number: '11'
+previous:
+  id: LEV/1/9
+  number: '9'
+reference: 'Leviticus 1:10'

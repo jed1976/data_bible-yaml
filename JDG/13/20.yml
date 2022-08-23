@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 13:20"
+  class="v">20</span>For it came to pass, when the flame went up toward heaven
+  from off the altar, that the angel of the <span class="nd">LORD</span>
+  ascended in the flame of the altar. And Manoah and his wife looked on <span
+  class="add">it</span>, and fell on their faces to the ground. </p>
+id: JDG/13/20
+next:
+  id: JDG/13/21
+  number: '21'
+previous:
+  id: JDG/13/19
+  number: '19'
+reference: 'Judges 13:20'

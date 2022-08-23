@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 10:7" class="v">7</span>So
+  Joshua ascended from Gilgal, he, and all the people of war with him, and all
+  the mighty men of valour.</p>
+id: JOS/10/7
+next:
+  id: JOS/10/8
+  number: '8'
+previous:
+  id: JOS/10/6
+  number: '6'
+reference: 'Joshua 10:7'

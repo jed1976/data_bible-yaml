@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 13:20"
+  class="v">20</span>And after that he gave <span class="add">unto them</span>
+  judges about the space of four hundred and fifty years, until Samuel the
+  prophet. </p>
+id: ACT/13/20
+next:
+  id: ACT/13/21
+  number: '21'
+previous:
+  id: ACT/13/19
+  number: '19'
+reference: 'Acts 13:20'

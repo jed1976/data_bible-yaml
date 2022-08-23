@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 14:16"
+  class="v">16</span>And he that sat on the cloud thrust in his sickle on the
+  earth; and the earth was reaped. </p>
+id: REV/14/16
+next:
+  id: REV/14/17
+  number: '17'
+previous:
+  id: REV/14/15
+  number: '15'
+reference: 'Revelation 14:16'

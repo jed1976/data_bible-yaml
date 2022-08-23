@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 9:6" class="v">6</span>Thine
+  habitation <span class="add">is</span> in the midst of deceit; through deceit
+  they refuse to know me, saith the <span class="nd">LORD</span>. </p>
+id: JER/9/6
+next:
+  id: JER/9/7
+  number: '7'
+previous:
+  id: JER/9/5
+  number: '5'
+reference: 'Jeremiah 9:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 36:1" class="v">1</span>Then
+  the people of the land took Jehoahaz the son of Josiah, and made him king in
+  his father’s stead in Jerusalem. </p>
+id: 2CH/36/1
+next:
+  id: 2CH/36/2
+  number: '2'
+previous:
+  id: 2CH/35/27
+  number: '27'
+reference: '2 Chronicles 36:1'

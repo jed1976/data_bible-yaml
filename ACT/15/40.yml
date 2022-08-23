@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 15:40"
+  class="v">40</span>And Paul chose Silas, and departed, being recommended by
+  the brethren unto the grace of God. </p>
+id: ACT/15/40
+next:
+  id: ACT/15/41
+  number: '41'
+previous:
+  id: ACT/15/39
+  number: '39'
+reference: 'Acts 15:40'

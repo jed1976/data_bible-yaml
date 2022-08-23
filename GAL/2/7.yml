@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GAL 2:7" class="v">7</span>But
+  contrariwise, when they saw that the gospel of the uncircumcision was
+  committed unto me, as <span class="add">the gospel</span> of the circumcision
+  <span class="add">was</span> unto Peter; </p>
+id: GAL/2/7
+next:
+  id: GAL/2/8
+  number: '8'
+previous:
+  id: GAL/2/6
+  number: '6'
+reference: 'Galatians 2:7'

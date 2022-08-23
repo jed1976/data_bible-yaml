@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JAS 4:14"
+  class="v">14</span>Whereas ye know not what <span class="add">shall be</span>
+  on the morrow. For what <span class="add">is</span> your life? It is even a
+  vapour, that appeareth for a little time, and then vanisheth away. </p>
+id: JAS/4/14
+next:
+  id: JAS/4/15
+  number: '15'
+previous:
+  id: JAS/4/13
+  number: '13'
+reference: 'James 4:14'

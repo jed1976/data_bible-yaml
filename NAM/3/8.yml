@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NAM 3:8" class="v">8</span>Art
+  thou better than populous No, that was situate among the rivers, <span
+  class="add">that had</span> the waters round about it, whose rampart <span
+  class="add">was</span> the sea, <span class="add">and</span> her wall <span
+  class="add">was</span> from the sea? </p>
+id: NAM/3/8
+next:
+  id: NAM/3/9
+  number: '9'
+previous:
+  id: NAM/3/7
+  number: '7'
+reference: 'Nahum 3:8'

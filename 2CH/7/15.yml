@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 7:15" class="v">15</span>Now
+  mine eyes shall be open, and mine ears attent unto the prayer <span
+  class="add">that is made</span> in this place. </p>
+id: 2CH/7/15
+next:
+  id: 2CH/7/16
+  number: '16'
+previous:
+  id: 2CH/7/14
+  number: '14'
+reference: '2 Chronicles 7:15'

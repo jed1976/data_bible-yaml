@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CO 9:6" class="v">6</span>But
+  this <span class="add">I say</span>, He which soweth sparingly shall reap also
+  sparingly; and he which soweth bountifully shall reap also bountifully. </p>
+id: 2CO/9/6
+next:
+  id: 2CO/9/7
+  number: '7'
+previous:
+  id: 2CO/9/5
+  number: '5'
+reference: '2 Corinthians 9:6'

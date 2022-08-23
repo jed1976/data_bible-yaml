@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 2:6" class="v">6</span>His
+  left hand <span class="add">is</span> under my head, and his right hand doth
+  embrace me. </p>
+id: SNG/2/6
+next:
+  id: SNG/2/7
+  number: '7'
+previous:
+  id: SNG/2/5
+  number: '5'
+reference: 'Song of Solomon 2:6'

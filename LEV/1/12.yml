@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 1:12" class="v">12</span>And
+  he shall cut it into his pieces, with his head and his fat: and the priest
+  shall lay them in order on the wood that <span class="add">is</span> on the
+  fire which <span class="add">is</span> upon the altar: </p>
+id: LEV/1/12
+next:
+  id: LEV/1/13
+  number: '13'
+previous:
+  id: LEV/1/11
+  number: '11'
+reference: 'Leviticus 1:12'

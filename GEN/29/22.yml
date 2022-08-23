@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 29:22"
+  class="v">22</span>And Laban gathered together all the men of the place, and
+  made a feast. </p>
+id: GEN/29/22
+next:
+  id: GEN/29/23
+  number: '23'
+previous:
+  id: GEN/29/21
+  number: '21'
+reference: 'Genesis 29:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 19:7" class="v">7</span>And
+  if it be eaten at all on the third day, it <span class="add">is</span>
+  abominable; it shall not be accepted. </p>
+id: LEV/19/7
+next:
+  id: LEV/19/8
+  number: '8'
+previous:
+  id: LEV/19/6
+  number: '6'
+reference: 'Leviticus 19:7'

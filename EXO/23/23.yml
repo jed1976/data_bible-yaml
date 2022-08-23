@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 23:23"
+  class="v">23</span>For mine Angel shall go before thee, and bring thee in unto
+  the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the
+  Hivites, and the Jebusites: and I will cut them off. </p>
+id: EXO/23/23
+next:
+  id: EXO/23/24
+  number: '24'
+previous:
+  id: EXO/23/22
+  number: '22'
+reference: 'Exodus 23:23'

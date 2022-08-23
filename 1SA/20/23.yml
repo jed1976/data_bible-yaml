@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 20:23"
+  class="v">23</span>And <span class="add">as touching</span> the matter which
+  thou and I have spoken of, behold, the <span class="nd">LORD</span> <span
+  class="add">be</span> between thee and me for ever.</p>
+id: 1SA/20/23
+next:
+  id: 1SA/20/24
+  number: '24'
+previous:
+  id: 1SA/20/22
+  number: '22'
+reference: '1 Samuel 20:23'

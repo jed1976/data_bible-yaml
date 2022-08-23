@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 61:5" class="v">5</span>And
+  strangers shall stand and feed your flocks, and the sons of the alien <span
+  class="add">shall be</span> your plowmen and your vinedressers. </p>
+id: ISA/61/5
+next:
+  id: ISA/61/6
+  number: '6'
+previous:
+  id: ISA/61/4
+  number: '4'
+reference: 'Isaiah 61:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 8:5" class="v">5</span>And he
+  said unto the men of Succoth, Give, I pray you, loaves of bread unto the
+  people that follow me; for they <span class="add">be</span> faint, and I am
+  pursuing after Zebah and Zalmunna, kings of Midian.</p>
+id: JDG/8/5
+next:
+  id: JDG/8/6
+  number: '6'
+previous:
+  id: JDG/8/4
+  number: '4'
+reference: 'Judges 8:5'

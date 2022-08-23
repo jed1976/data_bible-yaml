@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 7:9" class="v">9</span><span
+  class="add">As</span> the cloud is consumed and vanisheth away: so he that
+  goeth down to the grave shall come up no <span class="add">more</span>. </p>
+id: JOB/7/9
+next:
+  id: JOB/7/10
+  number: '10'
+previous:
+  id: JOB/7/8
+  number: '8'
+reference: 'Job 7:9'

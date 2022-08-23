@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 10:22"
+  class="v">22</span><span class="wj">And ye shall be hated of all <span
+  class="add">men</span> for my name’s sake: but he that endureth to the end
+  shall be saved.</span> </p>
+id: MAT/10/22
+next:
+  id: MAT/10/23
+  number: '23'
+previous:
+  id: MAT/10/21
+  number: '21'
+reference: 'Matthew 10:22'

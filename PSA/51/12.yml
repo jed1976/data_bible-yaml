@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 51:12"
+  class="v">12</span>Restore unto me the joy of thy salvation; and uphold me
+  <span class="add">with thy</span> free spirit.</p>
+id: PSA/51/12
+next:
+  id: PSA/51/13
+  number: '13'
+previous:
+  id: PSA/51/11
+  number: '11'
+reference: 'Psalms 51:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 15:1" class="v">1</span>Now
+  in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over
+  Judah. </p>
+id: 1KI/15/1
+next:
+  id: 1KI/15/2
+  number: '2'
+previous:
+  id: 1KI/14/31
+  number: '31'
+reference: '1 Kings 15:1'

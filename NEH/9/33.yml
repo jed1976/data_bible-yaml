@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NEH 9:33"
+  class="v">33</span>Howbeit thou <span class="add">art</span> just in all that
+  is brought upon us; for thou hast done right, but we have done wickedly: </p>
+id: NEH/9/33
+next:
+  id: NEH/9/34
+  number: '34'
+previous:
+  id: NEH/9/32
+  number: '32'
+reference: 'Nehemiah 9:33'

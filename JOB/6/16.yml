@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 6:16"
+  class="v">16</span>Which are blackish by reason of the ice, <span
+  class="add">and</span> wherein the snow is hid: </p>
+id: JOB/6/16
+next:
+  id: JOB/6/17
+  number: '17'
+previous:
+  id: JOB/6/15
+  number: '15'
+reference: 'Job 6:16'

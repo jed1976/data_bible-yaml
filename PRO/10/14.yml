@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 10:14"
+  class="v">14</span>Wise <span class="add">men</span> lay up knowledge: but the
+  mouth of the foolish <span class="add">is</span> near destruction. </p>
+id: PRO/10/14
+next:
+  id: PRO/10/15
+  number: '15'
+previous:
+  id: PRO/10/13
+  number: '13'
+reference: 'Proverbs 10:14'

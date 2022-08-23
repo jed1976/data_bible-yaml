@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 10:25"
+  class="v">25</span>For yet a very little while, and the indignation shall
+  cease, and mine anger in their destruction. </p>
+id: ISA/10/25
+next:
+  id: ISA/10/26
+  number: '26'
+previous:
+  id: ISA/10/24
+  number: '24'
+reference: 'Isaiah 10:25'

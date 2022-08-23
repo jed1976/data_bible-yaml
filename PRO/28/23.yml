@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 28:23" class="v">23</span>He
+  that rebuketh a man afterwards shall find more favour than he that flattereth
+  with the tongue. </p>
+id: PRO/28/23
+next:
+  id: PRO/28/24
+  number: '24'
+previous:
+  id: PRO/28/22
+  number: '22'
+reference: 'Proverbs 28:23'

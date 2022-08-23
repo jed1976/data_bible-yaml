@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 19:4" class="v">4</span>And
+  the Egyptians will I give over into the hand of a cruel lord; and a fierce
+  king shall rule over them, saith the Lord, the <span class="nd">LORD</span> of
+  hosts. </p>
+id: ISA/19/4
+next:
+  id: ISA/19/5
+  number: '5'
+previous:
+  id: ISA/19/3
+  number: '3'
+reference: 'Isaiah 19:4'

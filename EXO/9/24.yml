@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 9:24" class="v">24</span>So
+  there was hail, and fire mingled with the hail, very grievous, such as there
+  was none like it in all the land of Egypt since it became a nation. </p>
+id: EXO/9/24
+next:
+  id: EXO/9/25
+  number: '25'
+previous:
+  id: EXO/9/23
+  number: '23'
+reference: 'Exodus 9:24'

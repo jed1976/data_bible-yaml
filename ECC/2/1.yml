@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 2:1" class="v">1</span>I said
+  in mine heart, Go to now, I will prove thee with mirth, therefore enjoy
+  pleasure: and, behold, this also <span class="add">is</span> vanity. </p>
+id: ECC/2/1
+next:
+  id: ECC/2/2
+  number: '2'
+previous:
+  id: ECC/1/18
+  number: '18'
+reference: 'Ecclesiastes 2:1'

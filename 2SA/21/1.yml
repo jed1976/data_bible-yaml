@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 21:1" class="v">1</span>Then
+  there was a famine in the days of David three years, year after year; and
+  David enquired of the <span class="nd">LORD</span>. And the <span
+  class="nd">LORD</span> answered, <span class="add">It is</span> for Saul, and
+  for <span class="add">his</span> bloody house, because he slew the Gibeonites.
+  </p>
+id: 2SA/21/1
+next:
+  id: 2SA/21/2
+  number: '2'
+previous:
+  id: 2SA/20/26
+  number: '26'
+reference: '2 Samuel 21:1'

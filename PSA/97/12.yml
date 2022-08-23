@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 97:12"
+  class="v">12</span>Rejoice in the <span class="nd">LORD</span>, ye righteous;
+  and give thanks at the remembrance of his holiness.</p>
+id: PSA/97/12
+next:
+  id: PSA/98/1
+  number: '1'
+previous:
+  id: PSA/97/11
+  number: '11'
+reference: 'Psalms 97:12'

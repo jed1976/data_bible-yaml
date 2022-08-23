@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="139" data-sid="PSA 119:139"
+  class="v">139</span>My zeal hath consumed me, because mine enemies have
+  forgotten thy words.</p>
+id: PSA/119/139
+next:
+  id: PSA/119/140
+  number: '140'
+previous:
+  id: PSA/119/138
+  number: '138'
+reference: 'Psalms 119:139'

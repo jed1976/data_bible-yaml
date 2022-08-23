@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEP 3:3" class="v">3</span>Her
+  princes within her <span class="add">are</span> roaring lions; her judges
+  <span class="add">are</span> evening wolves; they gnaw not the bones till the
+  morrow. </p>
+id: ZEP/3/3
+next:
+  id: ZEP/3/4
+  number: '4'
+previous:
+  id: ZEP/3/2
+  number: '2'
+reference: 'Zephaniah 3:3'

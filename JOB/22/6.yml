@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 22:6" class="v">6</span>For
+  thou hast taken a pledge from thy brother for nought, and stripped the naked
+  of their clothing. </p>
+id: JOB/22/6
+next:
+  id: JOB/22/7
+  number: '7'
+previous:
+  id: JOB/22/5
+  number: '5'
+reference: 'Job 22:6'

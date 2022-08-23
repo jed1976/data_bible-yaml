@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 2:10"
+  class="v">10</span><span class="wj">But that ye may know that the Son of man
+  hath power on earth to forgive sins,</span> (he saith to the sick of the
+  palsy,) </p>
+id: MRK/2/10
+next:
+  id: MRK/2/11
+  number: '11'
+previous:
+  id: MRK/2/9
+  number: '9'
+reference: 'Mark 2:10'

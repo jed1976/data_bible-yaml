@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 34:13"
+  class="v">13</span>And the sons of Jacob answered Shechem and Hamor his father
+  deceitfully, and said, because he had defiled Dinah their sister: </p>
+id: GEN/34/13
+next:
+  id: GEN/34/14
+  number: '14'
+previous:
+  id: GEN/34/12
+  number: '12'
+reference: 'Genesis 34:13'

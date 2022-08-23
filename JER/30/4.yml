@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 30:4" class="v">4</span>¶ And
+  these <span class="add">are</span> the words that the <span
+  class="nd">LORD</span> spake concerning Israel and concerning Judah. </p>
+id: JER/30/4
+next:
+  id: JER/30/5
+  number: '5'
+previous:
+  id: JER/30/3
+  number: '3'
+reference: 'Jeremiah 30:4'

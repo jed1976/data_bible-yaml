@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JER 52:33"
+  class="v">33</span>And changed his prison garments: and he did continually eat
+  bread before him all the days of his life. </p>
+id: JER/52/33
+next:
+  id: JER/52/34
+  number: '34'
+previous:
+  id: JER/52/32
+  number: '32'
+reference: 'Jeremiah 52:33'

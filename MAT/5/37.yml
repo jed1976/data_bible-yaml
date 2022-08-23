@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 5:37"
+  class="v">37</span><span class="wj">But let your communication be, Yea, yea;
+  Nay, nay: for whatsoever is more than these cometh of evil.</span></p>
+id: MAT/5/37
+next:
+  id: MAT/5/38
+  number: '38'
+previous:
+  id: MAT/5/36
+  number: '36'
+reference: 'Matthew 5:37'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 22:22" class="v">22</span>¶
+  And God’s anger was kindled because he went: and the angel of the <span
+  class="nd">LORD</span> stood in the way for an adversary against him. Now he
+  was riding upon his ass, and his two servants <span class="add">were</span>
+  with him. </p>
+id: NUM/22/22
+next:
+  id: NUM/22/23
+  number: '23'
+previous:
+  id: NUM/22/21
+  number: '21'
+reference: 'Numbers 22:22'

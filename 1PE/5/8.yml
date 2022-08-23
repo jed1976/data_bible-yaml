@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1PE 5:8" class="v">8</span>Be
+  sober, be vigilant; because your adversary the devil, as a roaring lion,
+  walketh about, seeking whom he may devour: </p>
+id: 1PE/5/8
+next:
+  id: 1PE/5/9
+  number: '9'
+previous:
+  id: 1PE/5/7
+  number: '7'
+reference: '1 Peter 5:8'

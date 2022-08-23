@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 3:9" class="v">9</span>Hear
+  this, I pray you, ye heads of the house of Jacob, and princes of the house of
+  Israel, that abhor judgment, and pervert all equity. </p>
+id: MIC/3/9
+next:
+  id: MIC/3/10
+  number: '10'
+previous:
+  id: MIC/3/8
+  number: '8'
+reference: 'Micah 3:9'

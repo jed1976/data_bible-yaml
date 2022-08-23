@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 19:16" class="v">16</span>I
+  called my servant, and he gave <span class="add">me</span> no answer; I
+  intreated him with my mouth. </p>
+id: JOB/19/16
+next:
+  id: JOB/19/17
+  number: '17'
+previous:
+  id: JOB/19/15
+  number: '15'
+reference: 'Job 19:16'

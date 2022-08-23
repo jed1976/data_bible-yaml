@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 26:7" class="v">7</span>And
+  the men of the place asked <span class="add">him</span> of his wife; and he
+  said, She <span class="add">is</span> my sister: for he feared to say, <span
+  class="add">She is</span> my wife; lest, <span class="add">said he</span>, the
+  men of the place should kill me for Rebekah; because she <span
+  class="add">was</span> fair to look upon. </p>
+id: GEN/26/7
+next:
+  id: GEN/26/8
+  number: '8'
+previous:
+  id: GEN/26/6
+  number: '6'
+reference: 'Genesis 26:7'

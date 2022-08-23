@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 46:15"
+  class="v">15</span>These <span class="add">be</span> the sons of Leah, which
+  she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of
+  his sons and his daughters <span class="add">were</span> thirty and three.</p>
+id: GEN/46/15
+next:
+  id: GEN/46/16
+  number: '16'
+previous:
+  id: GEN/46/14
+  number: '14'
+reference: 'Genesis 46:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 88:4" class="v">4</span>I am
+  counted with them that go down into the pit: I am as a man <span
+  class="add">that hath</span> no strength:</p>
+id: PSA/88/4
+next:
+  id: PSA/88/5
+  number: '5'
+previous:
+  id: PSA/88/3
+  number: '3'
+reference: 'Psalms 88:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 34:6" class="v">6</span>And
+  <span class="add">as for</span> the western border, ye shall even have the
+  great sea for a border: this shall be your west border. </p>
+id: NUM/34/6
+next:
+  id: NUM/34/7
+  number: '7'
+previous:
+  id: NUM/34/5
+  number: '5'
+reference: 'Numbers 34:6'

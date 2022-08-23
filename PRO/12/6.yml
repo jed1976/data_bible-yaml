@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 12:6" class="v">6</span>The
+  words of the wicked <span class="add">are</span> to lie in wait for blood: but
+  the mouth of the upright shall deliver them. </p>
+id: PRO/12/6
+next:
+  id: PRO/12/7
+  number: '7'
+previous:
+  id: PRO/12/5
+  number: '5'
+reference: 'Proverbs 12:6'

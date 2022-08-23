@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EST 8:7" class="v">7</span>¶ Then
+  the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold,
+  I have given Esther the house of Haman, and him they have hanged upon the
+  gallows, because he laid his hand upon the Jews. </p>
+id: EST/8/7
+next:
+  id: EST/8/8
+  number: '8'
+previous:
+  id: EST/8/6
+  number: '6'
+reference: 'Esther 8:7'

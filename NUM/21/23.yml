@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 21:23"
+  class="v">23</span>And Sihon would not suffer Israel to pass through his
+  border: but Sihon gathered all his people together, and went out against
+  Israel into the wilderness: and he came to Jahaz, and fought against Israel.
+  </p>
+id: NUM/21/23
+next:
+  id: NUM/21/24
+  number: '24'
+previous:
+  id: NUM/21/22
+  number: '22'
+reference: 'Numbers 21:23'

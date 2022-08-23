@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 8:32" class="v">32</span>And
+  he spake that saying openly. And Peter took him, and began to rebuke him. </p>
+id: MRK/8/32
+next:
+  id: MRK/8/33
+  number: '33'
+previous:
+  id: MRK/8/31
+  number: '31'
+reference: 'Mark 8:32'

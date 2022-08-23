@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 15:12"
+  class="v">12</span>Why doth thine heart carry thee away? and what do thy eyes
+  wink at, </p>
+id: JOB/15/12
+next:
+  id: JOB/15/13
+  number: '13'
+previous:
+  id: JOB/15/11
+  number: '11'
+reference: 'Job 15:12'

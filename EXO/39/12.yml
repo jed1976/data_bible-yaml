@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 39:12"
+  class="v">12</span>And the third row, a ligure, an agate, and an amethyst.
+  </p>
+id: EXO/39/12
+next:
+  id: EXO/39/13
+  number: '13'
+previous:
+  id: EXO/39/11
+  number: '11'
+reference: 'Exodus 39:12'

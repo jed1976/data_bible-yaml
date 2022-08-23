@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 35:18" class="v">18</span>I
+  will give thee thanks in the great congregation: I will praise thee among much
+  people.</p>
+id: PSA/35/18
+next:
+  id: PSA/35/19
+  number: '19'
+previous:
+  id: PSA/35/17
+  number: '17'
+reference: 'Psalms 35:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 7:21"
+  class="v">21</span><span class="wj">For from within, out of the heart of men,
+  proceed evil thoughts, adulteries, fornications, murders,</span> </p>
+id: MRK/7/21
+next:
+  id: MRK/7/22
+  number: '22'
+previous:
+  id: MRK/7/20
+  number: '20'
+reference: 'Mark 7:21'

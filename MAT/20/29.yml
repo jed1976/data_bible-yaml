@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 20:29"
+  class="v">29</span>And as they departed from Jericho, a great multitude
+  followed him.</p>
+id: MAT/20/29
+next:
+  id: MAT/20/30
+  number: '30'
+previous:
+  id: MAT/20/28
+  number: '28'
+reference: 'Matthew 20:29'

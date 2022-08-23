@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 1:1" class="v">1</span>The
+  word of the <span class="nd">LORD</span> that came to Micah the Morasthite in
+  the days of Jotham, Ahaz, <span class="add">and</span> Hezekiah, kings of
+  Judah, which he saw concerning Samaria and Jerusalem. </p>
+id: MIC/1/1
+next:
+  id: MIC/1/2
+  number: '2'
+previous:
+  id: MIC/intro/0
+  number: '0'
+reference: 'Micah 1:1'

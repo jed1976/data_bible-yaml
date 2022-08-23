@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 14:1" class="v">1</span>And
+  it came to pass, as he went into the house of one of the chief Pharisees to
+  eat bread on the sabbath day, that they watched him. </p>
+id: LUK/14/1
+next:
+  id: LUK/14/2
+  number: '2'
+previous:
+  id: LUK/13/35
+  number: '35'
+reference: 'Luke 14:1'

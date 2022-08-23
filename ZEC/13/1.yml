@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 13:1" class="v">1</span>In
+  that day there shall be a fountain opened to the house of David and to the
+  inhabitants of Jerusalem for sin and for uncleanness.</p>
+id: ZEC/13/1
+next:
+  id: ZEC/13/2
+  number: '2'
+previous:
+  id: ZEC/12/14
+  number: '14'
+reference: 'Zechariah 13:1'

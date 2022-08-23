@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 21:30"
+  class="v">30</span><span class="wj">And he came to the second, and said
+  likewise. And he answered and said, I <span class="add">go</span>, sir: and
+  went not.</span> </p>
+id: MAT/21/30
+next:
+  id: MAT/21/31
+  number: '31'
+previous:
+  id: MAT/21/29
+  number: '29'
+reference: 'Matthew 21:30'

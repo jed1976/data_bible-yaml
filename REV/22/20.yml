@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="REV 22:20" class="v">20</span>He
+  which testifieth these things saith, <span class="wj">Surely I come
+  quickly.</span> Amen. Even so, come, Lord Jesus. </p>
+id: REV/22/20
+next:
+  id: REV/22/21
+  number: '21'
+previous:
+  id: REV/22/19
+  number: '19'
+reference: 'Revelation 22:20'

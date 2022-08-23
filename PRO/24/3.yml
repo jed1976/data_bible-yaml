@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 24:3"
+  class="v">3</span>Through wisdom is an house builded; and by understanding it
+  is established: </p>
+id: PRO/24/3
+next:
+  id: PRO/24/4
+  number: '4'
+previous:
+  id: PRO/24/2
+  number: '2'
+reference: 'Proverbs 24:3'

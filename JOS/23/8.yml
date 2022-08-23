@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 23:8" class="v">8</span>But
+  cleave unto the <span class="nd">LORD</span> your God, as ye have done unto
+  this day. </p>
+id: JOS/23/8
+next:
+  id: JOS/23/9
+  number: '9'
+previous:
+  id: JOS/23/7
+  number: '7'
+reference: 'Joshua 23:8'

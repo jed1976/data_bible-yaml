@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 18:12"
+  class="v">12</span>And the man said unto Joab, Though I should receive a
+  thousand <span class="add">shekels</span> of silver in mine hand, <span
+  class="add">yet</span> would I not put forth mine hand against the king’s son:
+  for in our hearing the king charged thee and Abishai and Ittai, saying, Beware
+  that none <span class="add">touch</span> the young man Absalom. </p>
+id: 2SA/18/12
+next:
+  id: 2SA/18/13
+  number: '13'
+previous:
+  id: 2SA/18/11
+  number: '11'
+reference: '2 Samuel 18:12'

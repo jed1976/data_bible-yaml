@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EST 3:3" class="v">3</span>Then
+  the king’s servants, which <span class="add">were</span> in the king’s gate,
+  said unto Mordecai, Why transgressest thou the king’s commandment? </p>
+id: EST/3/3
+next:
+  id: EST/3/4
+  number: '4'
+previous:
+  id: EST/3/2
+  number: '2'
+reference: 'Esther 3:3'

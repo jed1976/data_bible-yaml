@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="NUM 33:53"
+  class="v">53</span>And ye shall dispossess <span class="add">the
+  inhabitants</span> of the land, and dwell therein: for I have given you the
+  land to possess it. </p>
+id: NUM/33/53
+next:
+  id: NUM/33/54
+  number: '54'
+previous:
+  id: NUM/33/52
+  number: '52'
+reference: 'Numbers 33:53'

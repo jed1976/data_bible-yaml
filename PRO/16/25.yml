@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 16:25"
+  class="v">25</span>There is a way that seemeth right unto a man, but the end
+  thereof <span class="add">are</span> the ways of death. </p>
+id: PRO/16/25
+next:
+  id: PRO/16/26
+  number: '26'
+previous:
+  id: PRO/16/24
+  number: '24'
+reference: 'Proverbs 16:25'

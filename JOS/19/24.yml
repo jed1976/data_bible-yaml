@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 19:24" class="v">24</span>¶
+  And the fifth lot came out for the tribe of the children of Asher according to
+  their families. </p>
+id: JOS/19/24
+next:
+  id: JOS/19/25
+  number: '25'
+previous:
+  id: JOS/19/23
+  number: '23'
+reference: 'Joshua 19:24'

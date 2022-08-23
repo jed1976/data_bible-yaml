@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 4:22" class="v">22</span>For
+  the man was above forty years old, on whom this miracle of healing was
+  shewed.</p>
+id: ACT/4/22
+next:
+  id: ACT/4/23
+  number: '23'
+previous:
+  id: ACT/4/21
+  number: '21'
+reference: 'Acts 4:22'

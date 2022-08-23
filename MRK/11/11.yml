@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 11:11"
+  class="v">11</span>And Jesus entered into Jerusalem, and into the temple: and
+  when he had looked round about upon all things, and now the eventide was come,
+  he went out unto Bethany with the twelve.</p>
+id: MRK/11/11
+next:
+  id: MRK/11/12
+  number: '12'
+previous:
+  id: MRK/11/10
+  number: '10'
+reference: 'Mark 11:11'

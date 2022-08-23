@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 3:24"
+  class="v">24</span>When thou liest down, thou shalt not be afraid: yea, thou
+  shalt lie down, and thy sleep shall be sweet. </p>
+id: PRO/3/24
+next:
+  id: PRO/3/25
+  number: '25'
+previous:
+  id: PRO/3/23
+  number: '23'
+reference: 'Proverbs 3:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 5:11"
+  class="v">11</span>But let all those that put their trust in thee rejoice: let
+  them ever shout for joy, because thou defendest them: let them also that love
+  thy name be joyful in thee.</p>
+id: PSA/5/11
+next:
+  id: PSA/5/12
+  number: '12'
+previous:
+  id: PSA/5/10
+  number: '10'
+reference: 'Psalms 5:11'

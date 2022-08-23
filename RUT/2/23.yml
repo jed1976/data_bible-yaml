@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="RUT 2:23" class="v">23</span>So
+  she kept fast by the maidens of Boaz to glean unto the end of barley harvest
+  and of wheat harvest; and dwelt with her mother in law.</p>
+id: RUT/2/23
+next:
+  id: RUT/3/1
+  number: '1'
+previous:
+  id: RUT/2/22
+  number: '22'
+reference: 'Ruth 2:23'

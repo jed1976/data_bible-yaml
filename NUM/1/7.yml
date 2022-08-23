@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 1:7" class="v">7</span>Of
+  Judah; Nahshon the son of Amminadab. </p>
+id: NUM/1/7
+next:
+  id: NUM/1/8
+  number: '8'
+previous:
+  id: NUM/1/6
+  number: '6'
+reference: 'Numbers 1:7'

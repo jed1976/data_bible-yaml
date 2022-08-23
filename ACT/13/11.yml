@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 13:11"
+  class="v">11</span>And now, behold, the hand of the Lord <span
+  class="add">is</span> upon thee, and thou shalt be blind, not seeing the sun
+  for a season. And immediately there fell on him a mist and a darkness; and he
+  went about seeking some to lead him by the hand. </p>
+id: ACT/13/11
+next:
+  id: ACT/13/12
+  number: '12'
+previous:
+  id: ACT/13/10
+  number: '10'
+reference: 'Acts 13:11'

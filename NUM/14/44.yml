@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="NUM 14:44"
+  class="v">44</span>But they presumed to go up unto the hill top: nevertheless
+  the ark of the covenant of the <span class="nd">LORD</span>, and Moses,
+  departed not out of the camp. </p>
+id: NUM/14/44
+next:
+  id: NUM/14/45
+  number: '45'
+previous:
+  id: NUM/14/43
+  number: '43'
+reference: 'Numbers 14:44'

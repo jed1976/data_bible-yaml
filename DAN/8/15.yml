@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 8:15" class="v">15</span>¶
+  And it came to pass, when I, <span class="add">even</span> I Daniel, had seen
+  the vision, and sought for the meaning, then, behold, there stood before me as
+  the appearance of a man. </p>
+id: DAN/8/15
+next:
+  id: DAN/8/16
+  number: '16'
+previous:
+  id: DAN/8/14
+  number: '14'
+reference: 'Daniel 8:15'

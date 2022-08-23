@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 26:15" class="v">15</span>¶
+  And thou shalt make boards for the tabernacle <span class="add">of</span>
+  shittim wood standing up. </p>
+id: EXO/26/15
+next:
+  id: EXO/26/16
+  number: '16'
+previous:
+  id: EXO/26/14
+  number: '14'
+reference: 'Exodus 26:15'

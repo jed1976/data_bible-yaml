@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 25:4" class="v">4</span>¶ And
+  David heard in the wilderness that Nabal did shear his sheep. </p>
+id: 1SA/25/4
+next:
+  id: 1SA/25/5
+  number: '5'
+previous:
+  id: 1SA/25/3
+  number: '3'
+reference: '1 Samuel 25:4'

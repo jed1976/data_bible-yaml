@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 6:38" class="v">38</span>He
+  saith unto them, <span class="wj">How many loaves have ye? go and see.</span>
+  And when they knew, they say, Five, and two fishes. </p>
+id: MRK/6/38
+next:
+  id: MRK/6/39
+  number: '39'
+previous:
+  id: MRK/6/37
+  number: '37'
+reference: 'Mark 6:38'

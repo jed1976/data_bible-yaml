@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 6:10"
+  class="v">10</span>Then should I yet have comfort; yea, I would harden myself
+  in sorrow: let him not spare; for I have not concealed the words of the Holy
+  One. </p>
+id: JOB/6/10
+next:
+  id: JOB/6/11
+  number: '11'
+previous:
+  id: JOB/6/9
+  number: '9'
+reference: 'Job 6:10'

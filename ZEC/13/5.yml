@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 13:5" class="v">5</span>But
+  he shall say, I <span class="add">am</span> no prophet, I <span
+  class="add">am</span> an husbandman; for man taught me to keep cattle from my
+  youth. </p>
+id: ZEC/13/5
+next:
+  id: ZEC/13/6
+  number: '6'
+previous:
+  id: ZEC/13/4
+  number: '4'
+reference: 'Zechariah 13:5'

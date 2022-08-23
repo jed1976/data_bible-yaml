@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 21:20"
+  class="v">20</span>And God was with the lad; and he grew, and dwelt in the
+  wilderness, and became an archer. </p>
+id: GEN/21/20
+next:
+  id: GEN/21/21
+  number: '21'
+previous:
+  id: GEN/21/19
+  number: '19'
+reference: 'Genesis 21:20'

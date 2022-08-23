@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="TIT 3:5" class="v">5</span>Not by
+  works of righteousness which we have done, but according to his mercy he saved
+  us, by the washing of regeneration, and renewing of the Holy Ghost; </p>
+id: TIT/3/5
+next:
+  id: TIT/3/6
+  number: '6'
+previous:
+  id: TIT/3/4
+  number: '4'
+reference: 'Titus 3:5'

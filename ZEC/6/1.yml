@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 6:1" class="v">1</span>And I
+  turned, and lifted up mine eyes, and looked, and, behold, there came four
+  chariots out from between two mountains; and the mountains <span
+  class="add">were</span> mountains of brass. </p>
+id: ZEC/6/1
+next:
+  id: ZEC/6/2
+  number: '2'
+previous:
+  id: ZEC/5/11
+  number: '11'
+reference: 'Zechariah 6:1'

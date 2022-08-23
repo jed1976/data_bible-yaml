@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 48:5" class="v">5</span>¶ And
+  now thy two sons, Ephraim and Manasseh, which were born unto thee in the land
+  of Egypt before I came unto thee into Egypt, <span class="add">are</span>
+  mine; as Reuben and Simeon, they shall be mine. </p>
+id: GEN/48/5
+next:
+  id: GEN/48/6
+  number: '6'
+previous:
+  id: GEN/48/4
+  number: '4'
+reference: 'Genesis 48:5'

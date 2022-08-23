@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 5:1" class="v">1</span>And
+  thou, son of man, take thee a sharp knife, take thee a barber’s razor, and
+  cause <span class="add">it</span> to pass upon thine head and upon thy beard:
+  then take thee balances to weigh, and divide the <span
+  class="add">hair</span>. </p>
+id: EZK/5/1
+next:
+  id: EZK/5/2
+  number: '2'
+previous:
+  id: EZK/4/17
+  number: '17'
+reference: 'Ezekiel 5:1'

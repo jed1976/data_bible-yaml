@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 30:13"
+  class="v">13</span><span class="add">There is</span> none to plead thy cause,
+  that thou mayest be bound up: thou hast no healing medicines. </p>
+id: JER/30/13
+next:
+  id: JER/30/14
+  number: '14'
+previous:
+  id: JER/30/12
+  number: '12'
+reference: 'Jeremiah 30:13'

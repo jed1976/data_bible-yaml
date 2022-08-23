@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 15:7" class="v">7</span>And
+  there was <span class="add">one</span> named Barabbas, <span class="add">which
+  lay</span> bound with them that had made insurrection with him, who had
+  committed murder in the insurrection. </p>
+id: MRK/15/7
+next:
+  id: MRK/15/8
+  number: '8'
+previous:
+  id: MRK/15/6
+  number: '6'
+reference: 'Mark 15:7'

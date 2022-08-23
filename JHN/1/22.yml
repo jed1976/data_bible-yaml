@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 1:22"
+  class="v">22</span>Then said they unto him, Who art thou? that we may give an
+  answer to them that sent us. What sayest thou of thyself? </p>
+id: JHN/1/22
+next:
+  id: JHN/1/23
+  number: '23'
+previous:
+  id: JHN/1/21
+  number: '21'
+reference: 'John 1:22'

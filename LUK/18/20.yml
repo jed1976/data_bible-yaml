@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 18:20"
+  class="v">20</span><span class="wj">Thou knowest the commandments, Do not
+  commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour
+  thy father and thy mother.</span> </p>
+id: LUK/18/20
+next:
+  id: LUK/18/21
+  number: '21'
+previous:
+  id: LUK/18/19
+  number: '19'
+reference: 'Luke 18:20'

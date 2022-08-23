@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PHP 3:20" class="v">20</span>For
+  our conversation is in heaven; from whence also we look for the Saviour, the
+  Lord Jesus Christ: </p>
+id: PHP/3/20
+next:
+  id: PHP/3/21
+  number: '21'
+previous:
+  id: PHP/3/19
+  number: '19'
+reference: 'Philippians 3:20'

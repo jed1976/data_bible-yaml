@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 31:17"
+  class="v">17</span>Now therefore kill every male among the little ones, and
+  kill every woman that hath known man by lying with him. </p>
+id: NUM/31/17
+next:
+  id: NUM/31/18
+  number: '18'
+previous:
+  id: NUM/31/16
+  number: '16'
+reference: 'Numbers 31:17'

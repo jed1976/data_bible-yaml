@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 29:19" class="v">19</span>¶
+  And thou shalt take the other ram; and Aaron and his sons shall put their
+  hands upon the head of the ram. </p>
+id: EXO/29/19
+next:
+  id: EXO/29/20
+  number: '20'
+previous:
+  id: EXO/29/18
+  number: '18'
+reference: 'Exodus 29:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 4:7" class="v">7</span>As
+  they were increased, so they sinned against me: <span
+  class="add">therefore</span> will I change their glory into shame. </p>
+id: HOS/4/7
+next:
+  id: HOS/4/8
+  number: '8'
+previous:
+  id: HOS/4/6
+  number: '6'
+reference: 'Hosea 4:7'

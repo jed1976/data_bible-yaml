@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 13:32"
+  class="v">32</span><span class="wj">¶ But of that day and <span
+  class="add">that</span> hour knoweth no man, no, not the angels which are in
+  heaven, neither the Son, but the Father.</span> </p>
+id: MRK/13/32
+next:
+  id: MRK/13/33
+  number: '33'
+previous:
+  id: MRK/13/31
+  number: '31'
+reference: 'Mark 13:32'

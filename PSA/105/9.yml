@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 105:9"
+  class="v">9</span>Which <span class="add">covenant</span> he made with
+  Abraham, and his oath unto Isaac;</p>
+id: PSA/105/9
+next:
+  id: PSA/105/10
+  number: '10'
+previous:
+  id: PSA/105/8
+  number: '8'
+reference: 'Psalms 105:9'

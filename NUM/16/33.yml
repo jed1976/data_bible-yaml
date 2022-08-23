@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 16:33"
+  class="v">33</span>They, and all that <span class="add">appertained</span> to
+  them, went down alive into the pit, and the earth closed upon them: and they
+  perished from among the congregation. </p>
+id: NUM/16/33
+next:
+  id: NUM/16/34
+  number: '34'
+previous:
+  id: NUM/16/32
+  number: '32'
+reference: 'Numbers 16:33'

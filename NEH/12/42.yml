@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NEH 12:42"
+  class="v">42</span>And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and
+  Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with
+  Jezrahiah <span class="add">their</span> overseer. </p>
+id: NEH/12/42
+next:
+  id: NEH/12/43
+  number: '43'
+previous:
+  id: NEH/12/41
+  number: '41'
+reference: 'Nehemiah 12:42'

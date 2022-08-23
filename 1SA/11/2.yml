@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 11:2" class="v">2</span>And
+  Nahash the Ammonite answered them, On this <span class="add">condition</span>
+  will I make <span class="add">a covenant</span> with you, that I may thrust
+  out all your right eyes, and lay it <span class="add">for</span> a reproach
+  upon all Israel. </p>
+id: 1SA/11/2
+next:
+  id: 1SA/11/3
+  number: '3'
+previous:
+  id: 1SA/11/1
+  number: '1'
+reference: '1 Samuel 11:2'

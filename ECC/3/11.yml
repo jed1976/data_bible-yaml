@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 3:11" class="v">11</span>He
+  hath made every <span class="add">thing</span> beautiful in his time: also he
+  hath set the world in their heart, so that no man can find out the work that
+  God maketh from the beginning to the end. </p>
+id: ECC/3/11
+next:
+  id: ECC/3/12
+  number: '12'
+previous:
+  id: ECC/3/10
+  number: '10'
+reference: 'Ecclesiastes 3:11'

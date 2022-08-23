@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 14:24"
+  class="v">24</span>The crown of the wise <span class="add">is</span> their
+  riches: <span class="add">but</span> the foolishness of fools <span
+  class="add">is</span> folly. </p>
+id: PRO/14/24
+next:
+  id: PRO/14/25
+  number: '25'
+previous:
+  id: PRO/14/23
+  number: '23'
+reference: 'Proverbs 14:24'

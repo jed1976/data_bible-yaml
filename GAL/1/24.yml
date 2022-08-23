@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GAL 1:24" class="v">24</span>And
+  they glorified God in me.</p>
+id: GAL/1/24
+next:
+  id: GAL/2/1
+  number: '1'
+previous:
+  id: GAL/1/23
+  number: '23'
+reference: 'Galatians 1:24'

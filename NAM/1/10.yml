@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NAM 1:10" class="v">10</span>For
+  while <span class="add">they be</span> folden together <span
+  class="add">as</span> thorns, and while they are drunken <span
+  class="add">as</span> drunkards, they shall be devoured as stubble fully dry.
+  </p>
+id: NAM/1/10
+next:
+  id: NAM/1/11
+  number: '11'
+previous:
+  id: NAM/1/9
+  number: '9'
+reference: 'Nahum 1:10'

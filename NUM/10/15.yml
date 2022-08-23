@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 10:15"
+  class="v">15</span>And over the host of the tribe of the children of Issachar
+  <span class="add">was</span> Nethaneel the son of Zuar. </p>
+id: NUM/10/15
+next:
+  id: NUM/10/16
+  number: '16'
+previous:
+  id: NUM/10/14
+  number: '14'
+reference: 'Numbers 10:15'

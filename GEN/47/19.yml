@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 47:19"
+  class="v">19</span>Wherefore shall we die before thine eyes, both we and our
+  land? buy us and our land for bread, and we and our land will be servants unto
+  Pharaoh: and give <span class="add">us</span> seed, that we may live, and not
+  die, that the land be not desolate. </p>
+id: GEN/47/19
+next:
+  id: GEN/47/20
+  number: '20'
+previous:
+  id: GEN/47/18
+  number: '18'
+reference: 'Genesis 47:19'

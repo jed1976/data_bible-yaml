@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 13:18"
+  class="v">18</span>When thou shalt hearken to the voice of the <span
+  class="nd">LORD</span> thy God, to keep all his commandments which I command
+  thee this day, to do <span class="add">that which is</span> right in the eyes
+  of the <span class="nd">LORD</span> thy God.</p>
+id: DEU/13/18
+next:
+  id: DEU/14/1
+  number: '1'
+previous:
+  id: DEU/13/17
+  number: '17'
+reference: 'Deuteronomy 13:18'

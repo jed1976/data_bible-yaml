@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 4:1" class="v">1</span>And
+  the angel that talked with me came again, and waked me, as a man that is
+  wakened out of his sleep, </p>
+id: ZEC/4/1
+next:
+  id: ZEC/4/2
+  number: '2'
+previous:
+  id: ZEC/3/10
+  number: '10'
+reference: 'Zechariah 4:1'

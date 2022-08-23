@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 8:16" class="v">16</span>Go
+  forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with
+  thee. </p>
+id: GEN/8/16
+next:
+  id: GEN/8/17
+  number: '17'
+previous:
+  id: GEN/8/15
+  number: '15'
+reference: 'Genesis 8:16'

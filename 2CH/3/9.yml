@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 3:9" class="v">9</span>And
+  the weight of the nails <span class="add">was</span> fifty shekels of gold.
+  And he overlaid the upper chambers with gold.</p>
+id: 2CH/3/9
+next:
+  id: 2CH/3/10
+  number: '10'
+previous:
+  id: 2CH/3/8
+  number: '8'
+reference: '2 Chronicles 3:9'

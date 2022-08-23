@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 23:9" class="v">9</span>That
+  he may give me the cave of Machpelah, which he hath, which <span
+  class="add">is</span> in the end of his field; for as much money as it is
+  worth he shall give it me for a possession of a buryingplace amongst you. </p>
+id: GEN/23/9
+next:
+  id: GEN/23/10
+  number: '10'
+previous:
+  id: GEN/23/8
+  number: '8'
+reference: 'Genesis 23:9'

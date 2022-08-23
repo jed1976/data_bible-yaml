@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZR 1:11" class="v">11</span>All
+  the vessels of gold and of silver <span class="add">were</span> five thousand
+  and four hundred. All <span class="add">these</span> did Sheshbazzar bring up
+  with <span class="add">them of</span> the captivity that were brought up from
+  Babylon unto Jerusalem.</p>
+id: EZR/1/11
+next:
+  id: EZR/2/1
+  number: '1'
+previous:
+  id: EZR/1/10
+  number: '10'
+reference: 'Ezra 1:11'

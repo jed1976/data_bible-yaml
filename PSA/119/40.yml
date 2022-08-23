@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="40" data-sid="PSA 119:40"
+  class="v">40</span>Behold, I have longed after thy precepts: quicken me in thy
+  righteousness.</p>
+id: PSA/119/40
+next:
+  id: PSA/119/41
+  number: '41'
+previous:
+  id: PSA/119/39
+  number: '39'
+reference: 'Psalms 119:40'

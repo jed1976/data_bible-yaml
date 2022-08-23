@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 14:9" class="v">9</span>Only
+  rebel not ye against the <span class="nd">LORD</span>, neither fear ye the
+  people of the land; for they <span class="add">are</span> bread for us: their
+  defence is departed from them, and the <span class="nd">LORD</span> <span
+  class="add">is</span> with us: fear them not. </p>
+id: NUM/14/9
+next:
+  id: NUM/14/10
+  number: '10'
+previous:
+  id: NUM/14/8
+  number: '8'
+reference: 'Numbers 14:9'

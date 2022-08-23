@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MAT 12:34"
+  class="v">34</span><span class="wj">O generation of vipers, how can ye, being
+  evil, speak good things? for out of the abundance of the heart the mouth
+  speaketh.</span> </p>
+id: MAT/12/34
+next:
+  id: MAT/12/35
+  number: '35'
+previous:
+  id: MAT/12/33
+  number: '33'
+reference: 'Matthew 12:34'

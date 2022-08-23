@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 53:1" class="v">1</span>Who
+  hath believed our report? and to whom is the arm of the <span
+  class="nd">LORD</span> revealed? </p>
+id: ISA/53/1
+next:
+  id: ISA/53/2
+  number: '2'
+previous:
+  id: ISA/52/15
+  number: '15'
+reference: 'Isaiah 53:1'

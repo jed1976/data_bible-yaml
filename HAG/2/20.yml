@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HAG 2:20" class="v">20</span>¶
+  And again the word of the <span class="nd">LORD</span> came unto Haggai in the
+  four and twentieth <span class="add">day</span> of the month, saying, </p>
+id: HAG/2/20
+next:
+  id: HAG/2/21
+  number: '21'
+previous:
+  id: HAG/2/19
+  number: '19'
+reference: 'Haggai 2:20'

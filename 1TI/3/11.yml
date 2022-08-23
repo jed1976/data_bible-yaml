@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1TI 3:11"
+  class="v">11</span>Even so <span class="add">must their</span> wives <span
+  class="add">be</span> grave, not slanderers, sober, faithful in all things.
+  </p>
+id: 1TI/3/11
+next:
+  id: 1TI/3/12
+  number: '12'
+previous:
+  id: 1TI/3/10
+  number: '10'
+reference: '1 Timothy 3:11'

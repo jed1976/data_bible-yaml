@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 4:13" class="v">13</span>The
+  son of Geber, in Ramoth-gilead; to him <span class="add">pertained</span> the
+  towns of Jair the son of Manasseh, which <span class="add">are</span> in
+  Gilead; to him <span class="add">also pertained</span> the region of Argob,
+  which <span class="add">is</span> in Bashan, threescore great cities with
+  walls and brasen bars: </p>
+id: 1KI/4/13
+next:
+  id: 1KI/4/14
+  number: '14'
+previous:
+  id: 1KI/4/12
+  number: '12'
+reference: '1 Kings 4:13'

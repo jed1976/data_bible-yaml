@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 26:6" class="v">6</span>And I
+  will give peace in the land, and ye shall lie down, and none shall make <span
+  class="add">you</span> afraid: and I will rid evil beasts out of the land,
+  neither shall the sword go through your land. </p>
+id: LEV/26/6
+next:
+  id: LEV/26/7
+  number: '7'
+previous:
+  id: LEV/26/5
+  number: '5'
+reference: 'Leviticus 26:6'

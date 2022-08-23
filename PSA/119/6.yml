@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 119:6"
+  class="v">6</span>Then shall I not be ashamed, when I have respect unto all
+  thy commandments.</p>
+id: PSA/119/6
+next:
+  id: PSA/119/7
+  number: '7'
+previous:
+  id: PSA/119/5
+  number: '5'
+reference: 'Psalms 119:6'

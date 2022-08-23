@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 10:9" class="v">9</span>And
+  it came to pass in the morning, that he went out, and stood, and said to all
+  the people, Ye <span class="add">be</span> righteous: behold, I conspired
+  against my master, and slew him: but who slew all these? </p>
+id: 2KI/10/9
+next:
+  id: 2KI/10/10
+  number: '10'
+previous:
+  id: 2KI/10/8
+  number: '8'
+reference: '2 Kings 10:9'

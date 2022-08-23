@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 26:31"
+  class="v">31</span>And when they were gone aside, they talked between
+  themselves, saying, This man doeth nothing worthy of death or of bonds. </p>
+id: ACT/26/31
+next:
+  id: ACT/26/32
+  number: '32'
+previous:
+  id: ACT/26/30
+  number: '30'
+reference: 'Acts 26:31'

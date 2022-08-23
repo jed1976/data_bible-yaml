@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 5:11" class="v">11</span>¶
+  And it came to pass, when the priests were come out of the holy <span
+  class="add">place:</span> (for all the priests <span class="add">that
+  were</span> present were sanctified, <span class="add">and</span> did not
+  <span class="add">then</span> wait by course: </p>
+id: 2CH/5/11
+next:
+  id: 2CH/5/12
+  number: '12'
+previous:
+  id: 2CH/5/10
+  number: '10'
+reference: '2 Chronicles 5:11'

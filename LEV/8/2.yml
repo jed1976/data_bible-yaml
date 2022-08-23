@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 8:2" class="v">2</span>Take
+  Aaron and his sons with him, and the garments, and the anointing oil, and a
+  bullock for the sin offering, and two rams, and a basket of unleavened bread;
+  </p>
+id: LEV/8/2
+next:
+  id: LEV/8/3
+  number: '3'
+previous:
+  id: LEV/8/1
+  number: '1'
+reference: 'Leviticus 8:2'

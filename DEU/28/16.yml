@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 28:16"
+  class="v">16</span>Cursed <span class="add">shalt</span> thou <span
+  class="add">be</span> in the city, and cursed <span class="add">shalt</span>
+  thou <span class="add">be</span> in the field. </p>
+id: DEU/28/16
+next:
+  id: DEU/28/17
+  number: '17'
+previous:
+  id: DEU/28/15
+  number: '15'
+reference: 'Deuteronomy 28:16'

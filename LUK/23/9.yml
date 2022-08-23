@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 23:9" class="v">9</span>Then
+  he questioned with him in many words; but he answered him nothing. </p>
+id: LUK/23/9
+next:
+  id: LUK/23/10
+  number: '10'
+previous:
+  id: LUK/23/8
+  number: '8'
+reference: 'Luke 23:9'

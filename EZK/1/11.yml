@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 1:11"
+  class="v">11</span>Thus <span class="add">were</span> their faces: and their
+  wings <span class="add">were</span> stretched upward; two <span
+  class="add">wings</span> of every one <span class="add">were</span> joined one
+  to another, and two covered their bodies. </p>
+id: EZK/1/11
+next:
+  id: EZK/1/12
+  number: '12'
+previous:
+  id: EZK/1/10
+  number: '10'
+reference: 'Ezekiel 1:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 115:1" class="v">1</span>Not
+  unto us, O <span class="nd">LORD</span>, not unto us, but unto thy name give
+  glory, for thy mercy, <span class="add">and</span> for thy truth’s sake.</p>
+id: PSA/115/1
+next:
+  id: PSA/115/2
+  number: '2'
+previous:
+  id: PSA/114/8
+  number: '8'
+reference: 'Psalms 115:1'

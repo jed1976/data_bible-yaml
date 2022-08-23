@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="HEB 11:36"
+  class="v">36</span>And others had trial of <span class="add">cruel</span>
+  mockings and scourgings, yea, moreover of bonds and imprisonment: </p>
+id: HEB/11/36
+next:
+  id: HEB/11/37
+  number: '37'
+previous:
+  id: HEB/11/35
+  number: '35'
+reference: 'Hebrews 11:36'

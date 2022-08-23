@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 13:22"
+  class="v">22</span>Then the disciples looked one on another, doubting of whom
+  he spake. </p>
+id: JHN/13/22
+next:
+  id: JHN/13/23
+  number: '23'
+previous:
+  id: JHN/13/21
+  number: '21'
+reference: 'John 13:22'

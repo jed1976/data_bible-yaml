@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 6:6" class="v">6</span>So
+  Haman came in. And the king said unto him, What shall be done unto the man
+  whom the king delighteth to honour? Now Haman thought in his heart, To whom
+  would the king delight to do honour more than to myself? </p>
+id: EST/6/6
+next:
+  id: EST/6/7
+  number: '7'
+previous:
+  id: EST/6/5
+  number: '5'
+reference: 'Esther 6:6'

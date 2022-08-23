@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 115:15"
+  class="v">15</span>Ye <span class="add">are</span> blessed of the <span
+  class="nd">LORD</span> which made heaven and earth.</p>
+id: PSA/115/15
+next:
+  id: PSA/115/16
+  number: '16'
+previous:
+  id: PSA/115/14
+  number: '14'
+reference: 'Psalms 115:15'

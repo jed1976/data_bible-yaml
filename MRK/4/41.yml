@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MRK 4:41" class="v">41</span>And
+  they feared exceedingly, and said one to another, What manner of man is this,
+  that even the wind and the sea obey him?</p>
+id: MRK/4/41
+next:
+  id: MRK/5/1
+  number: '1'
+previous:
+  id: MRK/4/40
+  number: '40'
+reference: 'Mark 4:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 13:15" class="v">15</span>¶
+  And Manoah said unto the angel of the <span class="nd">LORD</span>, I pray
+  thee, let us detain thee, until we shall have made ready a kid for thee. </p>
+id: JDG/13/15
+next:
+  id: JDG/13/16
+  number: '16'
+previous:
+  id: JDG/13/14
+  number: '14'
+reference: 'Judges 13:15'

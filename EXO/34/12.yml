@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 34:12"
+  class="v">12</span>Take heed to thyself, lest thou make a covenant with the
+  inhabitants of the land whither thou goest, lest it be for a snare in the
+  midst of thee: </p>
+id: EXO/34/12
+next:
+  id: EXO/34/13
+  number: '13'
+previous:
+  id: EXO/34/11
+  number: '11'
+reference: 'Exodus 34:12'

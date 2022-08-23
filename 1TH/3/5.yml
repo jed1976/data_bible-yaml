@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1TH 3:5" class="v">5</span>For
+  this cause, when I could no longer forbear, I sent to know your faith, lest by
+  some means the tempter have tempted you, and our labour be in vain. </p>
+id: 1TH/3/5
+next:
+  id: 1TH/3/6
+  number: '6'
+previous:
+  id: 1TH/3/4
+  number: '4'
+reference: '1 Thessalonians 3:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 21:6" class="v">6</span>And
+  he said unto them, <span class="wj">Cast the net on the right side of the
+  ship, and ye shall find.</span> They cast therefore, and now they were not
+  able to draw it for the multitude of fishes. </p>
+id: JHN/21/6
+next:
+  id: JHN/21/7
+  number: '7'
+previous:
+  id: JHN/21/5
+  number: '5'
+reference: 'John 21:6'

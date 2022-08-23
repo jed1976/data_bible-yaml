@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 32:3" class="v">3</span>And
+  Jacob sent messengers before him to Esau his brother unto the land of Seir,
+  the country of Edom. </p>
+id: GEN/32/3
+next:
+  id: GEN/32/4
+  number: '4'
+previous:
+  id: GEN/32/2
+  number: '2'
+reference: 'Genesis 32:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2CH 4:2" class="v">2</span>¶ Also
+  he made a molten sea of ten cubits from brim to brim, round in compass, and
+  five cubits the height thereof; and a line of thirty cubits did compass it
+  round about. </p>
+id: 2CH/4/2
+next:
+  id: 2CH/4/3
+  number: '3'
+previous:
+  id: 2CH/4/1
+  number: '1'
+reference: '2 Chronicles 4:2'

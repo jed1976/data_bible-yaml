@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 14:12"
+  class="v">12</span>Here is the patience of the saints: here <span
+  class="add">are</span> they that keep the commandments of God, and the faith
+  of Jesus. </p>
+id: REV/14/12
+next:
+  id: REV/14/13
+  number: '13'
+previous:
+  id: REV/14/11
+  number: '11'
+reference: 'Revelation 14:12'

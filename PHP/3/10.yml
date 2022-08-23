@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PHP 3:10"
+  class="v">10</span>That I may know him, and the power of his resurrection, and
+  the fellowship of his sufferings, being made conformable unto his death; </p>
+id: PHP/3/10
+next:
+  id: PHP/3/11
+  number: '11'
+previous:
+  id: PHP/3/9
+  number: '9'
+reference: 'Philippians 3:10'

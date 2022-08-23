@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 10:12" class="v">12</span>So
+  Jeroboam and all the people came to Rehoboam on the third day, as the king
+  bade, saying, Come again to me on the third day. </p>
+id: 2CH/10/12
+next:
+  id: 2CH/10/13
+  number: '13'
+previous:
+  id: 2CH/10/11
+  number: '11'
+reference: '2 Chronicles 10:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 31:19"
+  class="v">19</span>She layeth her hands to the spindle, and her hands hold the
+  distaff. </p>
+id: PRO/31/19
+next:
+  id: PRO/31/20
+  number: '20'
+previous:
+  id: PRO/31/18
+  number: '18'
+reference: 'Proverbs 31:19'

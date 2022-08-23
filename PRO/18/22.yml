@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 18:22"
+  class="v">22</span><span class="add">Whoso</span> findeth a wife findeth a
+  good <span class="add">thing</span>, and obtaineth favour of the <span
+  class="nd">LORD</span>. </p>
+id: PRO/18/22
+next:
+  id: PRO/18/23
+  number: '23'
+previous:
+  id: PRO/18/21
+  number: '21'
+reference: 'Proverbs 18:22'

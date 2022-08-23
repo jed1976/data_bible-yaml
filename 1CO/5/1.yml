@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 5:1" class="v">1</span>It is
+  reported commonly <span class="add">that there is</span> fornication among
+  you, and such fornication as is not so much as named among the Gentiles, that
+  one should have his father’s wife. </p>
+id: 1CO/5/1
+next:
+  id: 1CO/5/2
+  number: '2'
+previous:
+  id: 1CO/4/21
+  number: '21'
+reference: '1 Corinthians 5:1'

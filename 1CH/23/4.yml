@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 23:4" class="v">4</span>Of
+  which, twenty and four thousand <span class="add">were</span> to set forward
+  the work of the house of the <span class="nd">LORD</span>; and six thousand
+  <span class="add">were</span> officers and judges: </p>
+id: 1CH/23/4
+next:
+  id: 1CH/23/5
+  number: '5'
+previous:
+  id: 1CH/23/3
+  number: '3'
+reference: '1 Chronicles 23:4'

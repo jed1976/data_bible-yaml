@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MRK 10:36"
+  class="v">36</span>And he said unto them, <span class="wj">What would ye that
+  I should do for you?</span> </p>
+id: MRK/10/36
+next:
+  id: MRK/10/37
+  number: '37'
+previous:
+  id: MRK/10/35
+  number: '35'
+reference: 'Mark 10:36'

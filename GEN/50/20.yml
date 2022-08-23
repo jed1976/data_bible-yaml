@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 50:20"
+  class="v">20</span>But as for you, ye thought evil against me; <span
+  class="add">but</span> God meant it unto good, to bring to pass, as <span
+  class="add">it is</span> this day, to save much people alive. </p>
+id: GEN/50/20
+next:
+  id: GEN/50/21
+  number: '21'
+previous:
+  id: GEN/50/19
+  number: '19'
+reference: 'Genesis 50:20'

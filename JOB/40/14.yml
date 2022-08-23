@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 40:14"
+  class="v">14</span>Then will I also confess unto thee that thine own right
+  hand can save thee.</p>
+id: JOB/40/14
+next:
+  id: JOB/40/15
+  number: '15'
+previous:
+  id: JOB/40/13
+  number: '13'
+reference: 'Job 40:14'

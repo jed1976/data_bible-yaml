@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NUM 35:2"
+  class="v">2</span>Command the children of Israel, that they give unto the
+  Levites of the inheritance of their possession cities to dwell in; and ye
+  shall give <span class="add">also</span> unto the Levites suburbs for the
+  cities round about them. </p>
+id: NUM/35/2
+next:
+  id: NUM/35/3
+  number: '3'
+previous:
+  id: NUM/35/1
+  number: '1'
+reference: 'Numbers 35:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="GEN 31:38"
+  class="v">38</span>This twenty years <span class="add">have</span> I <span
+  class="add">been</span> with thee; thy ewes and thy she goats have not cast
+  their young, and the rams of thy flock have I not eaten. </p>
+id: GEN/31/38
+next:
+  id: GEN/31/39
+  number: '39'
+previous:
+  id: GEN/31/37
+  number: '37'
+reference: 'Genesis 31:38'

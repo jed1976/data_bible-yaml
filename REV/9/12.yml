@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 9:12" class="v">12</span>One
+  woe is past; <span class="add">and</span>, behold, there come two woes more
+  hereafter.</p>
+id: REV/9/12
+next:
+  id: REV/9/13
+  number: '13'
+previous:
+  id: REV/9/11
+  number: '11'
+reference: 'Revelation 9:12'

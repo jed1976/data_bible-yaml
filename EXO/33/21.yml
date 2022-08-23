@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 33:21"
+  class="v">21</span>And the <span class="nd">LORD</span> said, Behold, <span
+  class="add">there is</span> a place by me, and thou shalt stand upon a rock:
+  </p>
+id: EXO/33/21
+next:
+  id: EXO/33/22
+  number: '22'
+previous:
+  id: EXO/33/20
+  number: '20'
+reference: 'Exodus 33:21'

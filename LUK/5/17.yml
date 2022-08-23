@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 5:17" class="v">17</span>And
+  it came to pass on a certain day, as he was teaching, that there were
+  Pharisees and doctors of the law sitting by, which were come out of every town
+  of Galilee, and Judæa, and Jerusalem: and the power of the Lord was <span
+  class="add">present</span> to heal them.</p>
+id: LUK/5/17
+next:
+  id: LUK/5/18
+  number: '18'
+previous:
+  id: LUK/5/16
+  number: '16'
+reference: 'Luke 5:17'

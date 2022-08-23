@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 14:10" class="v">10</span>¶
+  So his father went down unto the woman: and Samson made there a feast; for so
+  used the young men to do. </p>
+id: JDG/14/10
+next:
+  id: JDG/14/11
+  number: '11'
+previous:
+  id: JDG/14/9
+  number: '9'
+reference: 'Judges 14:10'

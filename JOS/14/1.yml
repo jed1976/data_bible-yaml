@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 14:1" class="v">1</span>And
+  these <span class="add">are the countries</span> which the children of Israel
+  inherited in the land of Canaan, which Eleazar the priest, and Joshua the son
+  of Nun, and the heads of the fathers of the tribes of the children of Israel,
+  distributed for inheritance to them. </p>
+id: JOS/14/1
+next:
+  id: JOS/14/2
+  number: '2'
+previous:
+  id: JOS/13/33
+  number: '33'
+reference: 'Joshua 14:1'

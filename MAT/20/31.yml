@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 20:31"
+  class="v">31</span>And the multitude rebuked them, because they should hold
+  their peace: but they cried the more, saying, Have mercy on us, O Lord, <span
+  class="add">thou</span> Son of David. </p>
+id: MAT/20/31
+next:
+  id: MAT/20/32
+  number: '32'
+previous:
+  id: MAT/20/30
+  number: '30'
+reference: 'Matthew 20:31'

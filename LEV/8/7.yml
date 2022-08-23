@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 8:7" class="v">7</span>And he
+  put upon him the coat, and girded him with the girdle, and clothed him with
+  the robe, and put the ephod upon him, and he girded him with the curious
+  girdle of the ephod, and bound <span class="add">it</span> unto him therewith.
+  </p>
+id: LEV/8/7
+next:
+  id: LEV/8/8
+  number: '8'
+previous:
+  id: LEV/8/6
+  number: '6'
+reference: 'Leviticus 8:7'

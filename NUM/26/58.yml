@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="NUM 26:58"
+  class="v">58</span>These <span class="add">are</span> the families of the
+  Levites: the family of the Libnites, the family of the Hebronites, the family
+  of the Mahlites, the family of the Mushites, the family of the Korathites. And
+  Kohath begat Amram. </p>
+id: NUM/26/58
+next:
+  id: NUM/26/59
+  number: '59'
+previous:
+  id: NUM/26/57
+  number: '57'
+reference: 'Numbers 26:58'

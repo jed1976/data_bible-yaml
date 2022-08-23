@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 27:6" class="v">6</span>¶ And
+  Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak
+  unto Esau thy brother, saying, </p>
+id: GEN/27/6
+next:
+  id: GEN/27/7
+  number: '7'
+previous:
+  id: GEN/27/5
+  number: '5'
+reference: 'Genesis 27:6'

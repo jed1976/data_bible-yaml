@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 14:22"
+  class="v">22</span>Hast thou faith? have <span class="add">it</span> to
+  thyself before God. Happy <span class="add">is</span> he that condemneth not
+  himself in that thing which he alloweth. </p>
+id: ROM/14/22
+next:
+  id: ROM/14/23
+  number: '23'
+previous:
+  id: ROM/14/21
+  number: '21'
+reference: 'Romans 14:22'

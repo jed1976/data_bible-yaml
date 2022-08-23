@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 4:3" class="v">3</span>From
+  thirty years old and upward even until fifty years old, all that enter into
+  the host, to do the work in the tabernacle of the congregation. </p>
+id: NUM/4/3
+next:
+  id: NUM/4/4
+  number: '4'
+previous:
+  id: NUM/4/2
+  number: '2'
+reference: 'Numbers 4:3'

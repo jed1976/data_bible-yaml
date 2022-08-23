@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 3:4" class="v">4</span>As it
+  is written in the book of the words of Esaias the prophet, saying, The voice
+  of one crying in the wilderness, Prepare ye the way of the Lord, make his
+  paths straight. </p>
+id: LUK/3/4
+next:
+  id: LUK/3/5
+  number: '5'
+previous:
+  id: LUK/3/3
+  number: '3'
+reference: 'Luke 3:4'

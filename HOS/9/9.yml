@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 9:9" class="v">9</span>They
+  have deeply corrupted <span class="add">themselves</span>, as in the days of
+  Gibeah: <span class="add">therefore</span> he will remember their iniquity, he
+  will visit their sins. </p>
+id: HOS/9/9
+next:
+  id: HOS/9/10
+  number: '10'
+previous:
+  id: HOS/9/8
+  number: '8'
+reference: 'Hosea 9:9'

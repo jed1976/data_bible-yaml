@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 21:22" class="v">22</span>A
+  wise <span class="add">man</span> scaleth the city of the mighty, and casteth
+  down the strength of the confidence thereof. </p>
+id: PRO/21/22
+next:
+  id: PRO/21/23
+  number: '23'
+previous:
+  id: PRO/21/21
+  number: '21'
+reference: 'Proverbs 21:22'

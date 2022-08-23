@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 13:20" class="v">20</span>¶
+  And Elisha died, and they buried him. And the bands of the Moabites invaded
+  the land at the coming in of the year. </p>
+id: 2KI/13/20
+next:
+  id: 2KI/13/21
+  number: '21'
+previous:
+  id: 2KI/13/19
+  number: '19'
+reference: '2 Kings 13:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NAM 3:4"
+  class="v">4</span>Because of the multitude of the whoredoms of the
+  wellfavoured harlot, the mistress of witchcrafts, that selleth nations through
+  her whoredoms, and families through her witchcrafts. </p>
+id: NAM/3/4
+next:
+  id: NAM/3/5
+  number: '5'
+previous:
+  id: NAM/3/3
+  number: '3'
+reference: 'Nahum 3:4'

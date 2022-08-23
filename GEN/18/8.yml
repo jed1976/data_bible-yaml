@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 18:8" class="v">8</span>And
+  he took butter, and milk, and the calf which he had dressed, and set <span
+  class="add">it</span> before them; and he stood by them under the tree, and
+  they did eat.</p>
+id: GEN/18/8
+next:
+  id: GEN/18/9
+  number: '9'
+previous:
+  id: GEN/18/7
+  number: '7'
+reference: 'Genesis 18:8'

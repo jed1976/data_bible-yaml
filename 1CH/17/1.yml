@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 17:1" class="v">1</span>Now
+  it came to pass, as David sat in his house, that David said to Nathan the
+  prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the
+  <span class="nd">LORD</span> <span class="add">remaineth</span> under
+  curtains. </p>
+id: 1CH/17/1
+next:
+  id: 1CH/17/2
+  number: '2'
+previous:
+  id: 1CH/16/43
+  number: '43'
+reference: '1 Chronicles 17:1'

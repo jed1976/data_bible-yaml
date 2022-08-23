@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 21:25" class="v">25</span>So
+  David gave to Ornan for the place six hundred shekels of gold by weight. </p>
+id: 1CH/21/25
+next:
+  id: 1CH/21/26
+  number: '26'
+previous:
+  id: 1CH/21/24
+  number: '24'
+reference: '1 Chronicles 21:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 34:4" class="v">4</span>I
+  sought the <span class="nd">LORD</span>, and he heard me, and delivered me
+  from all my fears.</p>
+id: PSA/34/4
+next:
+  id: PSA/34/5
+  number: '5'
+previous:
+  id: PSA/34/3
+  number: '3'
+reference: 'Psalms 34:4'

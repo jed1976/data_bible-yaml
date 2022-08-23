@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GAL 5:7" class="v">7</span>Ye did
+  run well; who did hinder you that ye should not obey the truth? </p>
+id: GAL/5/7
+next:
+  id: GAL/5/8
+  number: '8'
+previous:
+  id: GAL/5/6
+  number: '6'
+reference: 'Galatians 5:7'

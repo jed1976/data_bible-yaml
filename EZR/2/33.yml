@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EZR 2:33" class="v">33</span>The
+  children of Lod, Hadid, and Ono, seven hundred twenty and five. </p>
+id: EZR/2/33
+next:
+  id: EZR/2/34
+  number: '34'
+previous:
+  id: EZR/2/32
+  number: '32'
+reference: 'Ezra 2:33'

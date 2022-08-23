@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1KI 20:43"
+  class="v">43</span>And the king of Israel went to his house heavy and
+  displeased, and came to Samaria.</p>
+id: 1KI/20/43
+next:
+  id: 1KI/21/1
+  number: '1'
+previous:
+  id: 1KI/20/42
+  number: '42'
+reference: '1 Kings 20:43'

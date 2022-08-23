@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 50:7"
+  class="v">7</span>Hear, O my people, and I will speak; O Israel, and I will
+  testify against thee: I <span class="add">am</span> God, <span
+  class="add">even</span> thy God.</p>
+id: PSA/50/7
+next:
+  id: PSA/50/8
+  number: '8'
+previous:
+  id: PSA/50/6
+  number: '6'
+reference: 'Psalms 50:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 76:4" class="v">4</span>Thou
+  <span class="add">art</span> more glorious <span class="add">and</span>
+  excellent than the mountains of prey.</p>
+id: PSA/76/4
+next:
+  id: PSA/76/5
+  number: '5'
+previous:
+  id: PSA/76/3
+  number: '3'
+reference: 'Psalms 76:4'

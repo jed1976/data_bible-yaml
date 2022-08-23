@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="RUT 2:19" class="v">19</span>And
+  her mother in law said unto her, Where hast thou gleaned to day? and where
+  wroughtest thou? blessed be he that did take knowledge of thee. And she shewed
+  her mother in law with whom she had wrought, and said, The man’s name with
+  whom I wrought to day <span class="add">is</span> Boaz. </p>
+id: RUT/2/19
+next:
+  id: RUT/2/20
+  number: '20'
+previous:
+  id: RUT/2/18
+  number: '18'
+reference: 'Ruth 2:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CH 11:12"
+  class="v">12</span>And after him <span class="add">was</span> Eleazar the son
+  of Dodo, the Ahohite, who <span class="add">was one</span> of the three
+  mighties. </p>
+id: 1CH/11/12
+next:
+  id: 1CH/11/13
+  number: '13'
+previous:
+  id: 1CH/11/11
+  number: '11'
+reference: '1 Chronicles 11:12'

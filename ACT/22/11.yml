@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 22:11"
+  class="v">11</span>And when I could not see for the glory of that light, being
+  led by the hand of them that were with me, I came into Damascus. </p>
+id: ACT/22/11
+next:
+  id: ACT/22/12
+  number: '12'
+previous:
+  id: ACT/22/10
+  number: '10'
+reference: 'Acts 22:11'

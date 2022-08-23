@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LAM 3:26"
+  class="v">26</span><span class="add">It is</span> good that <span
+  class="add">a man</span> should both hope and quietly wait for the salvation
+  of the <span class="nd">LORD</span>. </p>
+id: LAM/3/26
+next:
+  id: LAM/3/27
+  number: '27'
+previous:
+  id: LAM/3/25
+  number: '25'
+reference: 'Lamentations 3:26'

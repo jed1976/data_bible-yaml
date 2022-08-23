@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 34:21" class="v">21</span>¶
+  Six days thou shalt work, but on the seventh day thou shalt rest: in earing
+  time and in harvest thou shalt rest.</p>
+id: EXO/34/21
+next:
+  id: EXO/34/22
+  number: '22'
+previous:
+  id: EXO/34/20
+  number: '20'
+reference: 'Exodus 34:21'

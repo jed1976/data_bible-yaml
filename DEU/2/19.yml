@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 2:19" class="v">19</span>And
+  <span class="add">when</span> thou comest nigh over against the children of
+  Ammon, distress them not, nor meddle with them: for I will not give thee of
+  the land of the children of Ammon <span class="add">any</span> possession;
+  because I have given it unto the children of Lot <span class="add">for</span>
+  a possession. </p>
+id: DEU/2/19
+next:
+  id: DEU/2/20
+  number: '20'
+previous:
+  id: DEU/2/18
+  number: '18'
+reference: 'Deuteronomy 2:19'

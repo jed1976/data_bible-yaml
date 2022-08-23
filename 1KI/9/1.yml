@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 9:1" class="v">1</span>And it
+  came to pass, when Solomon had finished the building of the house of the <span
+  class="nd">LORD</span>, and the king’s house, and all Solomon’s desire which
+  he was pleased to do, </p>
+id: 1KI/9/1
+next:
+  id: 1KI/9/2
+  number: '2'
+previous:
+  id: 1KI/8/66
+  number: '66'
+reference: '1 Kings 9:1'

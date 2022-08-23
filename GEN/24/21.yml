@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 24:21"
+  class="v">21</span>And the man wondering at her held his peace, to wit whether
+  the <span class="nd">LORD</span> had made his journey prosperous or not. </p>
+id: GEN/24/21
+next:
+  id: GEN/24/22
+  number: '22'
+previous:
+  id: GEN/24/20
+  number: '20'
+reference: 'Genesis 24:21'

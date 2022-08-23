@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 3:34"
+  class="v">34</span>Which was <span class="add">the son</span> of Jacob, which
+  was <span class="add">the son</span> of Isaac, which was <span class="add">the
+  son</span> of Abraham, which was <span class="add">the son</span> of Thara,
+  which was <span class="add">the son</span> of Nachor, </p>
+id: LUK/3/34
+next:
+  id: LUK/3/35
+  number: '35'
+previous:
+  id: LUK/3/33
+  number: '33'
+reference: 'Luke 3:34'

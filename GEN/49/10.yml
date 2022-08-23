@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 49:10"
+  class="v">10</span>The sceptre shall not depart from Judah, nor a lawgiver
+  from between his feet, until Shiloh come; and unto him <span
+  class="add">shall</span> the gathering of the people <span
+  class="add">be</span>. </p>
+id: GEN/49/10
+next:
+  id: GEN/49/11
+  number: '11'
+previous:
+  id: GEN/49/9
+  number: '9'
+reference: 'Genesis 49:10'

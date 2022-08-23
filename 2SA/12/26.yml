@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2SA 12:26" class="v">26</span>¶
+  And Joab fought against Rabbah of the children of Ammon, and took the royal
+  city. </p>
+id: 2SA/12/26
+next:
+  id: 2SA/12/27
+  number: '27'
+previous:
+  id: 2SA/12/25
+  number: '25'
+reference: '2 Samuel 12:26'

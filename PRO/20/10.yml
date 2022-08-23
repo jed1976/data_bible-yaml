@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 20:10"
+  class="v">10</span>Divers weights, <span class="add">and</span> divers
+  measures, both of them <span class="add">are</span> alike abomination to the
+  <span class="nd">LORD</span>. </p>
+id: PRO/20/10
+next:
+  id: PRO/20/11
+  number: '11'
+previous:
+  id: PRO/20/9
+  number: '9'
+reference: 'Proverbs 20:10'

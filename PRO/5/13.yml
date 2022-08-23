@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 5:13" class="v">13</span>And
+  have not obeyed the voice of my teachers, nor inclined mine ear to them that
+  instructed me! </p>
+id: PRO/5/13
+next:
+  id: PRO/5/14
+  number: '14'
+previous:
+  id: PRO/5/12
+  number: '12'
+reference: 'Proverbs 5:13'

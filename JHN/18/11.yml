@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 18:11"
+  class="v">11</span>Then said Jesus unto Peter, <span class="wj">Put up thy
+  sword into the sheath: the cup which my Father hath given me, shall I not
+  drink it?</span> </p>
+id: JHN/18/11
+next:
+  id: JHN/18/12
+  number: '12'
+previous:
+  id: JHN/18/10
+  number: '10'
+reference: 'John 18:11'

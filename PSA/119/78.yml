@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="78" data-sid="PSA 119:78"
+  class="v">78</span>Let the proud be ashamed; for they dealt perversely with me
+  without a cause: <span class="add">but</span> I will meditate in thy
+  precepts.</p>
+id: PSA/119/78
+next:
+  id: PSA/119/79
+  number: '79'
+previous:
+  id: PSA/119/77
+  number: '77'
+reference: 'Psalms 119:78'

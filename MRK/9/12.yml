@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 9:12" class="v">12</span>And
+  he answered and told them, <span class="wj">Elias verily cometh first, and
+  restoreth all things; and how it is written of the Son of man, that he must
+  suffer many things, and be set at nought.</span> </p>
+id: MRK/9/12
+next:
+  id: MRK/9/13
+  number: '13'
+previous:
+  id: MRK/9/11
+  number: '11'
+reference: 'Mark 9:12'

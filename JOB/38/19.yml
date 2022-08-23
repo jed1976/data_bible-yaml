@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 38:19"
+  class="v">19</span>Where <span class="add">is</span> the way <span
+  class="add">where</span> light dwelleth? and <span class="add">as for</span>
+  darkness, where <span class="add">is</span> the place thereof, </p>
+id: JOB/38/19
+next:
+  id: JOB/38/20
+  number: '20'
+previous:
+  id: JOB/38/18
+  number: '18'
+reference: 'Job 38:19'

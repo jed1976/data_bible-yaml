@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 36:9" class="v">9</span>¶
+  Jehoiachin <span class="add">was</span> eight years old when he began to
+  reign, and he reigned three months and ten days in Jerusalem: and he did <span
+  class="add">that which was</span> evil in the sight of the <span
+  class="nd">LORD</span>. </p>
+id: 2CH/36/9
+next:
+  id: 2CH/36/10
+  number: '10'
+previous:
+  id: 2CH/36/8
+  number: '8'
+reference: '2 Chronicles 36:9'

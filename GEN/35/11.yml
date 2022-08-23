@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 35:11"
+  class="v">11</span>And God said unto him, I <span class="add">am</span> God
+  Almighty: be fruitful and multiply; a nation and a company of nations shall be
+  of thee, and kings shall come out of thy loins; </p>
+id: GEN/35/11
+next:
+  id: GEN/35/12
+  number: '12'
+previous:
+  id: GEN/35/10
+  number: '10'
+reference: 'Genesis 35:11'

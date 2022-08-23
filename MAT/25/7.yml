@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 25:7" class="v">7</span><span
+  class="wj">Then all those virgins arose, and trimmed their lamps.</span> </p>
+id: MAT/25/7
+next:
+  id: MAT/25/8
+  number: '8'
+previous:
+  id: MAT/25/6
+  number: '6'
+reference: 'Matthew 25:7'

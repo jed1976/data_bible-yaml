@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 24:20" class="v">20</span>Or
+  else let these same <span class="add">here</span> say, if they have found any
+  evil doing in me, while I stood before the council, </p>
+id: ACT/24/20
+next:
+  id: ACT/24/21
+  number: '21'
+previous:
+  id: ACT/24/19
+  number: '19'
+reference: 'Acts 24:20'

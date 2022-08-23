@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 8:37" class="v">37</span>¶
+  Then the whole multitude of the country of the Gadarenes round about besought
+  him to depart from them; for they were taken with great fear: and he went up
+  into the ship, and returned back again. </p>
+id: LUK/8/37
+next:
+  id: LUK/8/38
+  number: '38'
+previous:
+  id: LUK/8/36
+  number: '36'
+reference: 'Luke 8:37'

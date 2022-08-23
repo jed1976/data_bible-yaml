@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 23:27" class="v">27</span>¶
+  And there followed him a great company of people, and of women, which also
+  bewailed and lamented him. </p>
+id: LUK/23/27
+next:
+  id: LUK/23/28
+  number: '28'
+previous:
+  id: LUK/23/26
+  number: '26'
+reference: 'Luke 23:27'

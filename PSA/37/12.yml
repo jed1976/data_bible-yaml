@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 37:12"
+  class="v">12</span>The wicked plotteth against the just, and gnasheth upon him
+  with his teeth.</p>
+id: PSA/37/12
+next:
+  id: PSA/37/13
+  number: '13'
+previous:
+  id: PSA/37/11
+  number: '11'
+reference: 'Psalms 37:12'

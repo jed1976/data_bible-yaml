@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 5:22" class="v">22</span>¶
+  His own iniquities shall take the wicked himself, and he shall be holden with
+  the cords of his sins. </p>
+id: PRO/5/22
+next:
+  id: PRO/5/23
+  number: '23'
+previous:
+  id: PRO/5/21
+  number: '21'
+reference: 'Proverbs 5:22'

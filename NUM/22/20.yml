@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 22:20"
+  class="v">20</span>And God came unto Balaam at night, and said unto him, If
+  the men come to call thee, rise up, <span class="add">and</span> go with them;
+  but yet the word which I shall say unto thee, that shalt thou do. </p>
+id: NUM/22/20
+next:
+  id: NUM/22/21
+  number: '21'
+previous:
+  id: NUM/22/19
+  number: '19'
+reference: 'Numbers 22:20'

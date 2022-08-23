@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 45:6" class="v">6</span>For
+  these two years <span class="add">hath</span> the famine <span
+  class="add">been</span> in the land: and yet <span class="add">there
+  are</span> five years, in the which <span class="add">there shall</span>
+  neither <span class="add">be</span> earing nor harvest. </p>
+id: GEN/45/6
+next:
+  id: GEN/45/7
+  number: '7'
+previous:
+  id: GEN/45/5
+  number: '5'
+reference: 'Genesis 45:6'

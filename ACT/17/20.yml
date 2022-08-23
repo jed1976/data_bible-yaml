@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 17:20"
+  class="v">20</span>For thou bringest certain strange things to our ears: we
+  would know therefore what these things mean. </p>
+id: ACT/17/20
+next:
+  id: ACT/17/21
+  number: '21'
+previous:
+  id: ACT/17/19
+  number: '19'
+reference: 'Acts 17:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 51:11"
+  class="v">11</span>Cast me not away from thy presence; and take not thy holy
+  spirit from me.</p>
+id: PSA/51/11
+next:
+  id: PSA/51/12
+  number: '12'
+previous:
+  id: PSA/51/10
+  number: '10'
+reference: 'Psalms 51:11'

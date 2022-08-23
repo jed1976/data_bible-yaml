@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 6:5" class="v">5</span><span
+  class="wj">¶ And when thou prayest, thou shalt not be as the hypocrites <span
+  class="add">are</span>: for they love to pray standing in the synagogues and
+  in the corners of the streets, that they may be seen of men. Verily I say unto
+  you, They have their reward.</span> </p>
+id: MAT/6/5
+next:
+  id: MAT/6/6
+  number: '6'
+previous:
+  id: MAT/6/4
+  number: '4'
+reference: 'Matthew 6:5'

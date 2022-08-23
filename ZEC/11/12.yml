@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 11:12"
+  class="v">12</span>And I said unto them, If ye think good, give <span
+  class="add">me</span> my price; and if not, forbear. So they weighed for my
+  price thirty <span class="add">pieces</span> of silver. </p>
+id: ZEC/11/12
+next:
+  id: ZEC/11/13
+  number: '13'
+previous:
+  id: ZEC/11/11
+  number: '11'
+reference: 'Zechariah 11:12'

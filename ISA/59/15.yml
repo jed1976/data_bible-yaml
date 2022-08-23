@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 59:15"
+  class="v">15</span>Yea, truth faileth; and he <span class="add">that</span>
+  departeth from evil maketh himself a prey: and the <span
+  class="nd">LORD</span> saw <span class="add">it</span>, and it displeased him
+  that <span class="add">there was</span> no judgment.</p>
+id: ISA/59/15
+next:
+  id: ISA/59/16
+  number: '16'
+previous:
+  id: ISA/59/14
+  number: '14'
+reference: 'Isaiah 59:15'

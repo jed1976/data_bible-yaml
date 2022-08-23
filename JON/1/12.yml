@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JON 1:12" class="v">12</span>And
+  he said unto them, Take me up, and cast me forth into the sea; so shall the
+  sea be calm unto you: for I know that for my sake this great tempest <span
+  class="add">is</span> upon you. </p>
+id: JON/1/12
+next:
+  id: JON/1/13
+  number: '13'
+previous:
+  id: JON/1/11
+  number: '11'
+reference: 'Jonah 1:12'

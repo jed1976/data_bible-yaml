@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 44:10"
+  class="v">10</span>Who hath formed a god, or molten a graven image <span
+  class="add">that</span> is profitable for nothing? </p>
+id: ISA/44/10
+next:
+  id: ISA/44/11
+  number: '11'
+previous:
+  id: ISA/44/9
+  number: '9'
+reference: 'Isaiah 44:10'

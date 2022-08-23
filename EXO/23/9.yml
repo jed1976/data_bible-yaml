@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 23:9" class="v">9</span>¶
+  Also thou shalt not oppress a stranger: for ye know the heart of a stranger,
+  seeing ye were strangers in the land of Egypt.</p>
+id: EXO/23/9
+next:
+  id: EXO/23/10
+  number: '10'
+previous:
+  id: EXO/23/8
+  number: '8'
+reference: 'Exodus 23:9'

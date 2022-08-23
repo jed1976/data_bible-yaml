@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GAL 6:18"
+  class="v">18</span>Brethren, the grace of our Lord Jesus Christ <span
+  class="add">be</span> with your spirit. Amen.</p>
+id: GAL/6/18
+next:
+  id: EPH/intro/0
+  number: '0'
+previous:
+  id: GAL/6/17
+  number: '17'
+reference: 'Galatians 6:18'

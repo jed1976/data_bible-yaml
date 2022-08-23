@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 15:16"
+  class="v">16</span>Better <span class="add">is</span> little with the fear of
+  the <span class="nd">LORD</span> than great treasure and trouble therewith.
+  </p>
+id: PRO/15/16
+next:
+  id: PRO/15/17
+  number: '17'
+previous:
+  id: PRO/15/15
+  number: '15'
+reference: 'Proverbs 15:16'

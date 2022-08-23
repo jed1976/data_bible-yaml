@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 5:5" class="v">5</span>In
+  Hebron he reigned over Judah seven years and six months: and in Jerusalem he
+  reigned thirty and three years over all Israel and Judah.</p>
+id: 2SA/5/5
+next:
+  id: 2SA/5/6
+  number: '6'
+previous:
+  id: 2SA/5/4
+  number: '4'
+reference: '2 Samuel 5:5'

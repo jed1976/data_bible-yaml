@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 14:15" class="v">15</span>¶
+  And when it was evening, his disciples came to him, saying, This is a desert
+  place, and the time is now past; send the multitude away, that they may go
+  into the villages, and buy themselves victuals. </p>
+id: MAT/14/15
+next:
+  id: MAT/14/16
+  number: '16'
+previous:
+  id: MAT/14/14
+  number: '14'
+reference: 'Matthew 14:15'

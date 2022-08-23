@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 56:12"
+  class="v">12</span>Come ye, <span class="add">say they</span>, I will fetch
+  wine, and we will fill ourselves with strong drink; and to morrow shall be as
+  this day, <span class="add">and</span> much more abundant.</p>
+id: ISA/56/12
+next:
+  id: ISA/57/1
+  number: '1'
+previous:
+  id: ISA/56/11
+  number: '11'
+reference: 'Isaiah 56:12'

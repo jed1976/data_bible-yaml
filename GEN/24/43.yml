@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 24:43"
+  class="v">43</span>Behold, I stand by the well of water; and it shall come to
+  pass, that when the virgin cometh forth to draw <span
+  class="add">water</span>, and I say to her, Give me, I pray thee, a little
+  water of thy pitcher to drink; </p>
+id: GEN/24/43
+next:
+  id: GEN/24/44
+  number: '44'
+previous:
+  id: GEN/24/42
+  number: '42'
+reference: 'Genesis 24:43'

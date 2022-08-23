@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 41:15"
+  class="v">15</span>Behold, I will make thee a new sharp threshing instrument
+  having teeth: thou shalt thresh the mountains, and beat <span
+  class="add">them</span> small, and shalt make the hills as chaff. </p>
+id: ISA/41/15
+next:
+  id: ISA/41/16
+  number: '16'
+previous:
+  id: ISA/41/14
+  number: '14'
+reference: 'Isaiah 41:15'

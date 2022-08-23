@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 11:14" class="v">14</span>If
+  by any means I may provoke to emulation <span class="add">them which
+  are</span> my flesh, and might save some of them. </p>
+id: ROM/11/14
+next:
+  id: ROM/11/15
+  number: '15'
+previous:
+  id: ROM/11/13
+  number: '13'
+reference: 'Romans 11:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 12:4" class="v">4</span>I am
+  <span class="add">as</span> one mocked of his neighbour, who calleth upon God,
+  and he answereth him: the just upright <span class="add">man is</span> laughed
+  to scorn. </p>
+id: JOB/12/4
+next:
+  id: JOB/12/5
+  number: '5'
+previous:
+  id: JOB/12/3
+  number: '3'
+reference: 'Job 12:4'

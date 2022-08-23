@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 132:11"
+  class="v">11</span>The <span class="nd">LORD</span> hath sworn <span
+  class="add">in</span> truth unto David; he will not turn from it; Of the fruit
+  of thy body will I set upon thy throne.</p>
+id: PSA/132/11
+next:
+  id: PSA/132/12
+  number: '12'
+previous:
+  id: PSA/132/10
+  number: '10'
+reference: 'Psalms 132:11'

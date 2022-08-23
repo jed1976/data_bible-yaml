@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 37:3" class="v">3</span>And
+  he said unto me, Son of man, can these bones live? And I answered, O Lord
+  <span class="nd">GOD</span>, thou knowest. </p>
+id: EZK/37/3
+next:
+  id: EZK/37/4
+  number: '4'
+previous:
+  id: EZK/37/2
+  number: '2'
+reference: 'Ezekiel 37:3'

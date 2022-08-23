@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 16:18"
+  class="v">18</span>Pride <span class="add">goeth</span> before destruction,
+  and an haughty spirit before a fall. </p>
+id: PRO/16/18
+next:
+  id: PRO/16/19
+  number: '19'
+previous:
+  id: PRO/16/17
+  number: '17'
+reference: 'Proverbs 16:18'

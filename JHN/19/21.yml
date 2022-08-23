@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 19:21"
+  class="v">21</span>Then said the chief priests of the Jews to Pilate, Write
+  not, The King of the Jews; but that he said, I am King of the Jews. </p>
+id: JHN/19/21
+next:
+  id: JHN/19/22
+  number: '22'
+previous:
+  id: JHN/19/20
+  number: '20'
+reference: 'John 19:21'

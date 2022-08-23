@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 21:4" class="v">4</span>And
+  it came to pass on the morrow, that the people rose early, and built there an
+  altar, and offered burnt offerings and peace offerings. </p>
+id: JDG/21/4
+next:
+  id: JDG/21/5
+  number: '5'
+previous:
+  id: JDG/21/3
+  number: '3'
+reference: 'Judges 21:4'

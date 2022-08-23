@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 56:5"
+  class="v">5</span>Every day they wrest my words: all their thoughts <span
+  class="add">are</span> against me for evil.</p>
+id: PSA/56/5
+next:
+  id: PSA/56/6
+  number: '6'
+previous:
+  id: PSA/56/4
+  number: '4'
+reference: 'Psalms 56:5'

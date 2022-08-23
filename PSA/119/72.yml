@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="72" data-sid="PSA 119:72"
+  class="v">72</span>The law of thy mouth <span class="add">is</span> better
+  unto me than thousands of gold and silver.</p>
+id: PSA/119/72
+next:
+  id: PSA/119/73
+  number: '73'
+previous:
+  id: PSA/119/71
+  number: '71'
+reference: 'Psalms 119:72'

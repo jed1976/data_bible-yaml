@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 19:11"
+  class="v">11</span>Jesus answered, <span class="wj">Thou couldest have no
+  power <span class="add">at all</span> against me, except it were given thee
+  from above: therefore he that delivered me unto thee hath the greater
+  sin.</span> </p>
+id: JHN/19/11
+next:
+  id: JHN/19/12
+  number: '12'
+previous:
+  id: JHN/19/10
+  number: '10'
+reference: 'John 19:11'

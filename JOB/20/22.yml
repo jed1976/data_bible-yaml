@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 20:22" class="v">22</span>In
+  the fulness of his sufficiency he shall be in straits: every hand of the
+  wicked shall come upon him.</p>
+id: JOB/20/22
+next:
+  id: JOB/20/23
+  number: '23'
+previous:
+  id: JOB/20/21
+  number: '21'
+reference: 'Job 20:22'

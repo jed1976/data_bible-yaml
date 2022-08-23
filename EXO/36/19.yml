@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 36:19"
+  class="v">19</span>And he made a covering for the tent <span
+  class="add">of</span> rams’ skins dyed red, and a covering <span
+  class="add">of</span> badgers’ skins above <span class="add">that</span>.</p>
+id: EXO/36/19
+next:
+  id: EXO/36/20
+  number: '20'
+previous:
+  id: EXO/36/18
+  number: '18'
+reference: 'Exodus 36:19'

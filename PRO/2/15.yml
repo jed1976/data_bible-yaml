@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 2:15"
+  class="v">15</span>Whose ways <span class="add">are</span> crooked, and <span
+  class="add">they</span> froward in their paths: </p>
+id: PRO/2/15
+next:
+  id: PRO/2/16
+  number: '16'
+previous:
+  id: PRO/2/14
+  number: '14'
+reference: 'Proverbs 2:15'

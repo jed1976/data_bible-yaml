@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 1:8" class="v">8</span>And
+  the drinking <span class="add">was</span> according to the law; none did
+  compel: for so the king had appointed to all the officers of his house, that
+  they should do according to every man’s pleasure. </p>
+id: EST/1/8
+next:
+  id: EST/1/9
+  number: '9'
+previous:
+  id: EST/1/7
+  number: '7'
+reference: 'Esther 1:8'

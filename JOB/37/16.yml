@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 37:16"
+  class="v">16</span>Dost thou know the balancings of the clouds, the wondrous
+  works of him which is perfect in knowledge? </p>
+id: JOB/37/16
+next:
+  id: JOB/37/17
+  number: '17'
+previous:
+  id: JOB/37/15
+  number: '15'
+reference: 'Job 37:16'

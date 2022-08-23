@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 27:1" class="v">1</span>And
+  when it was determined that we should sail into Italy, they delivered Paul and
+  certain other prisoners unto <span class="add">one</span> named Julius, a
+  centurion of Augustus’ band. </p>
+id: ACT/27/1
+next:
+  id: ACT/27/2
+  number: '2'
+previous:
+  id: ACT/26/32
+  number: '32'
+reference: 'Acts 27:1'

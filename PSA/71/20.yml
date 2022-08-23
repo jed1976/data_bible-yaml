@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 71:20"
+  class="v">20</span><span class="add">Thou</span>, which hast shewed me great
+  and sore troubles, shalt quicken me again, and shalt bring me up again from
+  the depths of the earth.</p>
+id: PSA/71/20
+next:
+  id: PSA/71/21
+  number: '21'
+previous:
+  id: PSA/71/19
+  number: '19'
+reference: 'Psalms 71:20'

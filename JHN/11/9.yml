@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 11:9" class="v">9</span>Jesus
+  answered, <span class="wj">Are there not twelve hours in the day? If any man
+  walk in the day, he stumbleth not, because he seeth the light of this
+  world.</span> </p>
+id: JHN/11/9
+next:
+  id: JHN/11/10
+  number: '10'
+previous:
+  id: JHN/11/8
+  number: '8'
+reference: 'John 11:9'

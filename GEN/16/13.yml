@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 16:13"
+  class="v">13</span>And she called the name of the <span class="nd">LORD</span>
+  that spake unto her, Thou God seest me: for she said, Have I also here looked
+  after him that seeth me? </p>
+id: GEN/16/13
+next:
+  id: GEN/16/14
+  number: '14'
+previous:
+  id: GEN/16/12
+  number: '12'
+reference: 'Genesis 16:13'

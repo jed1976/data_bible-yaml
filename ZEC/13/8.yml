@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEC 13:8" class="v">8</span>And
+  it shall come to pass, <span class="add">that</span> in all the land, saith
+  the <span class="nd">LORD</span>, two parts therein shall be cut off <span
+  class="add">and</span> die; but the third shall be left therein. </p>
+id: ZEC/13/8
+next:
+  id: ZEC/13/9
+  number: '9'
+previous:
+  id: ZEC/13/7
+  number: '7'
+reference: 'Zechariah 13:8'

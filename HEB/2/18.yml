@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="HEB 2:18" class="v">18</span>For
+  in that he himself hath suffered being tempted, he is able to succour them
+  that are tempted.</p>
+id: HEB/2/18
+next:
+  id: HEB/3/1
+  number: '1'
+previous:
+  id: HEB/2/17
+  number: '17'
+reference: 'Hebrews 2:18'

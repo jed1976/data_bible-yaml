@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CH 27:6" class="v">6</span>This
+  <span class="add">is that</span> Benaiah, <span class="add">who was</span>
+  mighty <span class="add">among</span> the thirty, and above the thirty: and in
+  his course <span class="add">was</span> Ammizabad his son. </p>
+id: 1CH/27/6
+next:
+  id: 1CH/27/7
+  number: '7'
+previous:
+  id: 1CH/27/5
+  number: '5'
+reference: '1 Chronicles 27:6'

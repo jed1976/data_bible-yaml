@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 65:24"
+  class="v">24</span>And it shall come to pass, that before they call, I will
+  answer; and while they are yet speaking, I will hear. </p>
+id: ISA/65/24
+next:
+  id: ISA/65/25
+  number: '25'
+previous:
+  id: ISA/65/23
+  number: '23'
+reference: 'Isaiah 65:24'

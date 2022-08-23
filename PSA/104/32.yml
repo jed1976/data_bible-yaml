@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 104:32"
+  class="v">32</span>He looketh on the earth, and it trembleth: he toucheth the
+  hills, and they smoke.</p>
+id: PSA/104/32
+next:
+  id: PSA/104/33
+  number: '33'
+previous:
+  id: PSA/104/31
+  number: '31'
+reference: 'Psalms 104:32'

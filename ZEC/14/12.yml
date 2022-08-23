@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 14:12" class="v">12</span>¶
+  And this shall be the plague wherewith the <span class="nd">LORD</span> will
+  smite all the people that have fought against Jerusalem; Their flesh shall
+  consume away while they stand upon their feet, and their eyes shall consume
+  away in their holes, and their tongue shall consume away in their mouth. </p>
+id: ZEC/14/12
+next:
+  id: ZEC/14/13
+  number: '13'
+previous:
+  id: ZEC/14/11
+  number: '11'
+reference: 'Zechariah 14:12'

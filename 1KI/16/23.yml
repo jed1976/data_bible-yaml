@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 16:23" class="v">23</span>¶
+  In the thirty and first year of Asa king of Judah began Omri to reign over
+  Israel, twelve years: six years reigned he in Tirzah. </p>
+id: 1KI/16/23
+next:
+  id: 1KI/16/24
+  number: '24'
+previous:
+  id: 1KI/16/22
+  number: '22'
+reference: '1 Kings 16:23'

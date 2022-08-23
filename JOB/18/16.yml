@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 18:16"
+  class="v">16</span>His roots shall be dried up beneath, and above shall his
+  branch be cut off. </p>
+id: JOB/18/16
+next:
+  id: JOB/18/17
+  number: '17'
+previous:
+  id: JOB/18/15
+  number: '15'
+reference: 'Job 18:16'

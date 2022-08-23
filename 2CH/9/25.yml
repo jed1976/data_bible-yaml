@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2CH 9:25" class="v">25</span>¶
+  And Solomon had four thousand stalls for horses and chariots, and twelve
+  thousand horsemen; whom he bestowed in the chariot cities, and with the king
+  at Jerusalem.</p>
+id: 2CH/9/25
+next:
+  id: 2CH/9/26
+  number: '26'
+previous:
+  id: 2CH/9/24
+  number: '24'
+reference: '2 Chronicles 9:25'

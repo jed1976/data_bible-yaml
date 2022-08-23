@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="RUT 3:1" class="v">1</span>Then
+  Naomi her mother in law said unto her, My daughter, shall I not seek rest for
+  thee, that it may be well with thee? </p>
+id: RUT/3/1
+next:
+  id: RUT/3/2
+  number: '2'
+previous:
+  id: RUT/2/23
+  number: '23'
+reference: 'Ruth 3:1'

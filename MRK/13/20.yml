@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 13:20"
+  class="v">20</span><span class="wj">And except that the Lord had shortened
+  those days, no flesh should be saved: but for the elect’s sake, whom he hath
+  chosen, he hath shortened the days.</span> </p>
+id: MRK/13/20
+next:
+  id: MRK/13/21
+  number: '21'
+previous:
+  id: MRK/13/19
+  number: '19'
+reference: 'Mark 13:20'

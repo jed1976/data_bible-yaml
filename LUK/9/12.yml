@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 9:12" class="v">12</span>And
+  when the day began to wear away, then came the twelve, and said unto him, Send
+  the multitude away, that they may go into the towns and country round about,
+  and lodge, and get victuals: for we are here in a desert place. </p>
+id: LUK/9/12
+next:
+  id: LUK/9/13
+  number: '13'
+previous:
+  id: LUK/9/11
+  number: '11'
+reference: 'Luke 9:12'

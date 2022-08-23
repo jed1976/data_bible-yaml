@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, to Jeduthun, A Psalm of David.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 62:1" class="v">1</span>Truly
+  my soul waiteth upon God: from him <span class="add">cometh</span> my
+  salvation.</p>
+id: PSA/62/1
+next:
+  id: PSA/62/2
+  number: '2'
+previous:
+  id: PSA/61/8
+  number: '8'
+reference: 'Psalms 62:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 9:3" class="v">3</span>Then
+  take the box of oil, and pour <span class="add">it</span> on his head, and
+  say, Thus saith the <span class="nd">LORD</span>, I have anointed thee king
+  over Israel. Then open the door, and flee, and tarry not.</p>
+id: 2KI/9/3
+next:
+  id: 2KI/9/4
+  number: '4'
+previous:
+  id: 2KI/9/2
+  number: '2'
+reference: '2 Kings 9:3'

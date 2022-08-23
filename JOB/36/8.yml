@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 36:8" class="v">8</span>And
+  if <span class="add">they be</span> bound in fetters, <span
+  class="add">and</span> be holden in cords of affliction; </p>
+id: JOB/36/8
+next:
+  id: JOB/36/9
+  number: '9'
+previous:
+  id: JOB/36/7
+  number: '7'
+reference: 'Job 36:8'

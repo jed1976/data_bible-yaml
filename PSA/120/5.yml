@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 120:5"
+  class="v">5</span>Woe is me, that I sojourn in Mesech, <span
+  class="add">that</span> I dwell in the tents of Kedar!</p>
+id: PSA/120/5
+next:
+  id: PSA/120/6
+  number: '6'
+previous:
+  id: PSA/120/4
+  number: '4'
+reference: 'Psalms 120:5'

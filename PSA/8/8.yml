@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 8:8" class="v">8</span>The
+  fowl of the air, and the fish of the sea, <span class="add">and
+  whatsoever</span> passeth through the paths of the seas.</p>
+id: PSA/8/8
+next:
+  id: PSA/8/9
+  number: '9'
+previous:
+  id: PSA/8/7
+  number: '7'
+reference: 'Psalms 8:8'

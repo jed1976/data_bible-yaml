@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOL 3:19"
+  class="v">19</span>Egypt shall be a desolation, and Edom shall be a desolate
+  wilderness, for the violence <span class="add">against</span> the children of
+  Judah, because they have shed innocent blood in their land. </p>
+id: JOL/3/19
+next:
+  id: JOL/3/20
+  number: '20'
+previous:
+  id: JOL/3/18
+  number: '18'
+reference: 'Joel 3:19'

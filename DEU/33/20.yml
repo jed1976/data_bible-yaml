@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 33:20" class="v">20</span>¶
+  And of Gad he said, Blessed <span class="add">be</span> he that enlargeth Gad:
+  he dwelleth as a lion, and teareth the arm with the crown of the head. </p>
+id: DEU/33/20
+next:
+  id: DEU/33/21
+  number: '21'
+previous:
+  id: DEU/33/19
+  number: '19'
+reference: 'Deuteronomy 33:20'

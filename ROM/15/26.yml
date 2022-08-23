@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ROM 15:26"
+  class="v">26</span>For it hath pleased them of Macedonia and Achaia to make a
+  certain contribution for the poor saints which are at Jerusalem. </p>
+id: ROM/15/26
+next:
+  id: ROM/15/27
+  number: '27'
+previous:
+  id: ROM/15/25
+  number: '25'
+reference: 'Romans 15:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EXO 35:32"
+  class="v">32</span>And to devise curious works, to work in gold, and in
+  silver, and in brass, </p>
+id: EXO/35/32
+next:
+  id: EXO/35/33
+  number: '33'
+previous:
+  id: EXO/35/31
+  number: '31'
+reference: 'Exodus 35:32'

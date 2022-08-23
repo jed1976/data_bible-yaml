@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 17:5" class="v">5</span>He
+  that speaketh flattery to <span class="add">his</span> friends, even the eyes
+  of his children shall fail. </p>
+id: JOB/17/5
+next:
+  id: JOB/17/6
+  number: '6'
+previous:
+  id: JOB/17/4
+  number: '4'
+reference: 'Job 17:5'

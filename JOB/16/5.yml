@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 16:5" class="v">5</span><span
+  class="add">But</span> I would strengthen you with my mouth, and the moving of
+  my lips should asswage <span class="add">your grief</span>.</p>
+id: JOB/16/5
+next:
+  id: JOB/16/6
+  number: '6'
+previous:
+  id: JOB/16/4
+  number: '4'
+reference: 'Job 16:5'

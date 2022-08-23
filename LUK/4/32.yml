@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 4:32" class="v">32</span>And
+  they were astonished at his doctrine: for his word was with power.</p>
+id: LUK/4/32
+next:
+  id: LUK/4/33
+  number: '33'
+previous:
+  id: LUK/4/31
+  number: '31'
+reference: 'Luke 4:32'

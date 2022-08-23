@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 34:26"
+  class="v">26</span>And the prince of the tribe of the children of Issachar,
+  Paltiel the son of Azzan. </p>
+id: NUM/34/26
+next:
+  id: NUM/34/27
+  number: '27'
+previous:
+  id: NUM/34/25
+  number: '25'
+reference: 'Numbers 34:26'

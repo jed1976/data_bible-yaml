@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 140:3"
+  class="v">3</span>They have sharpened their tongues like a serpent; adders’
+  poison <span class="add">is</span> under their lips. Selah.</p>
+id: PSA/140/3
+next:
+  id: PSA/140/4
+  number: '4'
+previous:
+  id: PSA/140/2
+  number: '2'
+reference: 'Psalms 140:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 25:20"
+  class="v">20</span>And Isaac was forty years old when he took Rebekah to wife,
+  the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the
+  Syrian. </p>
+id: GEN/25/20
+next:
+  id: GEN/25/21
+  number: '21'
+previous:
+  id: GEN/25/19
+  number: '19'
+reference: 'Genesis 25:20'

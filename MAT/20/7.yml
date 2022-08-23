@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 20:7" class="v">7</span><span
+  class="wj">They say unto him, Because no man hath hired us. He saith unto
+  them, Go ye also into the vineyard; and whatsoever is right, <span
+  class="add">that</span> shall ye receive.</span> </p>
+id: MAT/20/7
+next:
+  id: MAT/20/8
+  number: '8'
+previous:
+  id: MAT/20/6
+  number: '6'
+reference: 'Matthew 20:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1CH 9:27" class="v">27</span>¶
+  And they lodged round about the house of God, because the charge <span
+  class="add">was</span> upon them, and the opening thereof every morning <span
+  class="add">pertained</span> to them. </p>
+id: 1CH/9/27
+next:
+  id: 1CH/9/28
+  number: '28'
+previous:
+  id: 1CH/9/26
+  number: '26'
+reference: '1 Chronicles 9:27'

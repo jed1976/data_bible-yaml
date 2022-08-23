@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 7:3" class="v">3</span>¶ And
+  there were four leprous men at the entering in of the gate: and they said one
+  to another, Why sit we here until we die? </p>
+id: 2KI/7/3
+next:
+  id: 2KI/7/4
+  number: '4'
+previous:
+  id: 2KI/7/2
+  number: '2'
+reference: '2 Kings 7:3'

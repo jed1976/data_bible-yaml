@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 10:17"
+  class="v">17</span><span class="nd">LORD</span>, thou hast heard the desire of
+  the humble: thou wilt prepare their heart, thou wilt cause thine ear to
+  hear:</p>
+id: PSA/10/17
+next:
+  id: PSA/10/18
+  number: '18'
+previous:
+  id: PSA/10/16
+  number: '16'
+reference: 'Psalms 10:17'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 5:7" class="v">7</span>For
+  the vineyard of the <span class="nd">LORD</span> of hosts <span
+  class="add">is</span> the house of Israel, and the men of Judah his pleasant
+  plant: and he looked for judgment, but behold oppression; for righteousness,
+  but behold a cry.</p>
+id: ISA/5/7
+next:
+  id: ISA/5/8
+  number: '8'
+previous:
+  id: ISA/5/6
+  number: '6'
+reference: 'Isaiah 5:7'

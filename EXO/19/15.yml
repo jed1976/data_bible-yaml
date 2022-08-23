@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 19:15"
+  class="v">15</span>And he said unto the people, Be ready against the third
+  day: come not at <span class="add">your</span> wives.</p>
+id: EXO/19/15
+next:
+  id: EXO/19/16
+  number: '16'
+previous:
+  id: EXO/19/14
+  number: '14'
+reference: 'Exodus 19:15'

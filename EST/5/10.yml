@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EST 5:10"
+  class="v">10</span>Nevertheless Haman refrained himself: and when he came
+  home, he sent and called for his friends, and Zeresh his wife. </p>
+id: EST/5/10
+next:
+  id: EST/5/11
+  number: '11'
+previous:
+  id: EST/5/9
+  number: '9'
+reference: 'Esther 5:10'

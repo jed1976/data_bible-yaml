@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JON 2:5" class="v">5</span>The
+  waters compassed me about, <span class="add">even</span> to the soul: the
+  depth closed me round about, the weeds were wrapped about my head. </p>
+id: JON/2/5
+next:
+  id: JON/2/6
+  number: '6'
+previous:
+  id: JON/2/4
+  number: '4'
+reference: 'Jonah 2:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 22:2" class="v">2</span>And
+  say, Hear the word of the <span class="nd">LORD</span>, O king of Judah, that
+  sittest upon the throne of David, thou, and thy servants, and thy people that
+  enter in by these gates: </p>
+id: JER/22/2
+next:
+  id: JER/22/3
+  number: '3'
+previous:
+  id: JER/22/1
+  number: '1'
+reference: 'Jeremiah 22:2'

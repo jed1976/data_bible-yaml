@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 34:3" class="v">3</span>Their
+  slain also shall be cast out, and their stink shall come up out of their
+  carcases, and the mountains shall be melted with their blood. </p>
+id: ISA/34/3
+next:
+  id: ISA/34/4
+  number: '4'
+previous:
+  id: ISA/34/2
+  number: '2'
+reference: 'Isaiah 34:3'

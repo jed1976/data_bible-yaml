@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 20:27"
+  class="v">27</span>For I have not shunned to declare unto you all the counsel
+  of God.</p>
+id: ACT/20/27
+next:
+  id: ACT/20/28
+  number: '28'
+previous:
+  id: ACT/20/26
+  number: '26'
+reference: 'Acts 20:27'

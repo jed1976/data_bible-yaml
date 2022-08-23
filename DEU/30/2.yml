@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 30:2" class="v">2</span>And
+  shalt return unto the <span class="nd">LORD</span> thy God, and shalt obey his
+  voice according to all that I command thee this day, thou and thy children,
+  with all thine heart, and with all thy soul; </p>
+id: DEU/30/2
+next:
+  id: DEU/30/3
+  number: '3'
+previous:
+  id: DEU/30/1
+  number: '1'
+reference: 'Deuteronomy 30:2'

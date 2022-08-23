@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1PE 2:7" class="v">7</span>Unto
+  you therefore which believe <span class="add">he is</span> precious: but unto
+  them which be disobedient, the stone which the builders disallowed, the same
+  is made the head of the corner, </p>
+id: 1PE/2/7
+next:
+  id: 1PE/2/8
+  number: '8'
+previous:
+  id: 1PE/2/6
+  number: '6'
+reference: '1 Peter 2:7'

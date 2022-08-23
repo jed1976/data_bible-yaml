@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 6:12" class="v">12</span>¶
+  And it was told king David, saying, The <span class="nd">LORD</span> hath
+  blessed the house of Obed-edom, and all that <span
+  class="add">pertaineth</span> unto him, because of the ark of God. So David
+  went and brought up the ark of God from the house of Obed-edom into the city
+  of David with gladness. </p>
+id: 2SA/6/12
+next:
+  id: 2SA/6/13
+  number: '13'
+previous:
+  id: 2SA/6/11
+  number: '11'
+reference: '2 Samuel 6:12'

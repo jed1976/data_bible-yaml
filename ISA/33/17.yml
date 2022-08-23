@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 33:17"
+  class="v">17</span>Thine eyes shall see the king in his beauty: they shall
+  behold the land that is very far off. </p>
+id: ISA/33/17
+next:
+  id: ISA/33/18
+  number: '18'
+previous:
+  id: ISA/33/16
+  number: '16'
+reference: 'Isaiah 33:17'

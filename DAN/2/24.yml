@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 2:24" class="v">24</span>¶
+  Therefore Daniel went in unto Arioch, whom the king had ordained to destroy
+  the wise <span class="add">men</span> of Babylon: he went and said thus unto
+  him; Destroy not the wise <span class="add">men</span> of Babylon: bring me in
+  before the king, and I will shew unto the king the interpretation. </p>
+id: DAN/2/24
+next:
+  id: DAN/2/25
+  number: '25'
+previous:
+  id: DAN/2/23
+  number: '23'
+reference: 'Daniel 2:24'

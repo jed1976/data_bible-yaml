@@ -1,0 +1,9 @@
+content: <p class="mt1">Obadiah</p>
+id: OBA/intro/0
+next:
+  id: OBA/1/1
+  number: '1'
+previous:
+  id: AMO/9/15
+  number: '15'
+reference: Obadiah

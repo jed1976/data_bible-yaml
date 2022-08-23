@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 71:1" class="v">1</span>In
+  thee, O <span class="nd">LORD</span>, do I put my trust: let me never be put
+  to confusion.</p>
+id: PSA/71/1
+next:
+  id: PSA/71/2
+  number: '2'
+previous:
+  id: PSA/70/5
+  number: '5'
+reference: 'Psalms 71:1'

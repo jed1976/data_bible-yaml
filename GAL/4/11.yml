@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GAL 4:11" class="v">11</span>I
+  am afraid of you, lest I have bestowed upon you labour in vain.</p>
+id: GAL/4/11
+next:
+  id: GAL/4/12
+  number: '12'
+previous:
+  id: GAL/4/10
+  number: '10'
+reference: 'Galatians 4:11'

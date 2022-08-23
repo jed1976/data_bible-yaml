@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 16:21"
+  class="v">21</span><span class="wj">A woman when she is in travail hath
+  sorrow, because her hour is come: but as soon as she is delivered of the
+  child, she remembereth no more the anguish, for joy that a man is born into
+  the world.</span> </p>
+id: JHN/16/21
+next:
+  id: JHN/16/22
+  number: '22'
+previous:
+  id: JHN/16/20
+  number: '20'
+reference: 'John 16:21'

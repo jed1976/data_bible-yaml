@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 10:32"
+  class="v">32</span>And it shall be, if thou go with us, yea, it shall be, that
+  what goodness the <span class="nd">LORD</span> shall do unto us, the same will
+  we do unto thee.</p>
+id: NUM/10/32
+next:
+  id: NUM/10/33
+  number: '33'
+previous:
+  id: NUM/10/31
+  number: '31'
+reference: 'Numbers 10:32'

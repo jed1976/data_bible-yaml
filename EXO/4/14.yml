@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 4:14" class="v">14</span>And
+  the anger of the <span class="nd">LORD</span> was kindled against Moses, and
+  he said, <span class="add">Is</span> not Aaron the Levite thy brother? I know
+  that he can speak well. And also, behold, he cometh forth to meet thee: and
+  when he seeth thee, he will be glad in his heart. </p>
+id: EXO/4/14
+next:
+  id: EXO/4/15
+  number: '15'
+previous:
+  id: EXO/4/13
+  number: '13'
+reference: 'Exodus 4:14'

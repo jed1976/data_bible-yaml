@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 86:9" class="v">9</span>All
+  nations whom thou hast made shall come and worship before thee, O Lord; and
+  shall glorify thy name.</p>
+id: PSA/86/9
+next:
+  id: PSA/86/10
+  number: '10'
+previous:
+  id: PSA/86/8
+  number: '8'
+reference: 'Psalms 86:9'

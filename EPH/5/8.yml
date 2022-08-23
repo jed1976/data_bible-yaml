@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EPH 5:8" class="v">8</span>For ye
+  were sometimes darkness, but now <span class="add">are ye</span> light in the
+  Lord: walk as children of light: </p>
+id: EPH/5/8
+next:
+  id: EPH/5/9
+  number: '9'
+previous:
+  id: EPH/5/7
+  number: '7'
+reference: 'Ephesians 5:8'

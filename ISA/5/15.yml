@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 5:15" class="v">15</span>And
+  the mean man shall be brought down, and the mighty man shall be humbled, and
+  the eyes of the lofty shall be humbled: </p>
+id: ISA/5/15
+next:
+  id: ISA/5/16
+  number: '16'
+previous:
+  id: ISA/5/14
+  number: '14'
+reference: 'Isaiah 5:15'

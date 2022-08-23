@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 18:3" class="v">3</span>¶ And
+  this shall be the priest’s due from the people, from them that offer a
+  sacrifice, whether <span class="add">it be</span> ox or sheep; and they shall
+  give unto the priest the shoulder, and the two cheeks, and the maw. </p>
+id: DEU/18/3
+next:
+  id: DEU/18/4
+  number: '4'
+previous:
+  id: DEU/18/2
+  number: '2'
+reference: 'Deuteronomy 18:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2TH 3:10" class="v">10</span>For
+  even when we were with you, this we commanded you, that if any would not work,
+  neither should he eat. </p>
+id: 2TH/3/10
+next:
+  id: 2TH/3/11
+  number: '11'
+previous:
+  id: 2TH/3/9
+  number: '9'
+reference: '2 Thessalonians 3:10'

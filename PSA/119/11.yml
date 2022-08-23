@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 119:11"
+  class="v">11</span>Thy word have I hid in mine heart, that I might not sin
+  against thee.</p>
+id: PSA/119/11
+next:
+  id: PSA/119/12
+  number: '12'
+previous:
+  id: PSA/119/10
+  number: '10'
+reference: 'Psalms 119:11'

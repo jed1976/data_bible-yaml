@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 8:9" class="v">9</span>A land
+  wherein thou shalt eat bread without scarceness, thou shalt not lack any <span
+  class="add">thing</span> in it; a land whose stones <span
+  class="add">are</span> iron, and out of whose hills thou mayest dig brass.</p>
+id: DEU/8/9
+next:
+  id: DEU/8/10
+  number: '10'
+previous:
+  id: DEU/8/8
+  number: '8'
+reference: 'Deuteronomy 8:9'

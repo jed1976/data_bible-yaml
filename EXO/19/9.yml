@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 19:9" class="v">9</span>And
+  the <span class="nd">LORD</span> said unto Moses, Lo, I come unto thee in a
+  thick cloud, that the people may hear when I speak with thee, and believe thee
+  for ever. And Moses told the words of the people unto the <span
+  class="nd">LORD</span>.</p>
+id: EXO/19/9
+next:
+  id: EXO/19/10
+  number: '10'
+previous:
+  id: EXO/19/8
+  number: '8'
+reference: 'Exodus 19:9'

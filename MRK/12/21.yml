@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 12:21"
+  class="v">21</span>And the second took her, and died, neither left he any
+  seed: and the third likewise. </p>
+id: MRK/12/21
+next:
+  id: MRK/12/22
+  number: '22'
+previous:
+  id: MRK/12/20
+  number: '20'
+reference: 'Mark 12:21'

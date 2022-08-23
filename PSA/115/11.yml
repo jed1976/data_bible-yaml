@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 115:11"
+  class="v">11</span>Ye that fear the <span class="nd">LORD</span>, trust in the
+  <span class="nd">LORD</span>: he <span class="add">is</span> their help and
+  their shield.</p>
+id: PSA/115/11
+next:
+  id: PSA/115/12
+  number: '12'
+previous:
+  id: PSA/115/10
+  number: '10'
+reference: 'Psalms 115:11'

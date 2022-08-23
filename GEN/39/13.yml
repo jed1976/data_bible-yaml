@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 39:13"
+  class="v">13</span>And it came to pass, when she saw that he had left his
+  garment in her hand, and was fled forth, </p>
+id: GEN/39/13
+next:
+  id: GEN/39/14
+  number: '14'
+previous:
+  id: GEN/39/12
+  number: '12'
+reference: 'Genesis 39:13'

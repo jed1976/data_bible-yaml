@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 8:4" class="v">4</span>¶ And
+  when much people were gathered together, and were come to him out of every
+  city, he spake by a parable: </p>
+id: LUK/8/4
+next:
+  id: LUK/8/5
+  number: '5'
+previous:
+  id: LUK/8/3
+  number: '3'
+reference: 'Luke 8:4'

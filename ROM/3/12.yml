@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 3:12"
+  class="v">12</span>They are all gone out of the way, they are together become
+  unprofitable; there is none that doeth good, no, not one. </p>
+id: ROM/3/12
+next:
+  id: ROM/3/13
+  number: '13'
+previous:
+  id: ROM/3/11
+  number: '11'
+reference: 'Romans 3:12'

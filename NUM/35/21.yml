@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 35:21" class="v">21</span>Or
+  in enmity smite him with his hand, that he die: he that smote <span
+  class="add">him</span> shall surely be put to death; <span
+  class="add">for</span> he <span class="add">is</span> a murderer: the revenger
+  of blood shall slay the murderer, when he meeteth him. </p>
+id: NUM/35/21
+next:
+  id: NUM/35/22
+  number: '22'
+previous:
+  id: NUM/35/20
+  number: '20'
+reference: 'Numbers 35:21'

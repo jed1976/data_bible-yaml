@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 4:14" class="v">14</span>And
+  they shall put upon it all the vessels thereof, wherewith they minister about
+  it, <span class="add">even</span> the censers, the fleshhooks, and the
+  shovels, and the basons, all the vessels of the altar; and they shall spread
+  upon it a covering of badgers’ skins, and put to the staves of it. </p>
+id: NUM/4/14
+next:
+  id: NUM/4/15
+  number: '15'
+previous:
+  id: NUM/4/13
+  number: '13'
+reference: 'Numbers 4:14'

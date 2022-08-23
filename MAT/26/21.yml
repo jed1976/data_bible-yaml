@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 26:21"
+  class="v">21</span>And as they did eat, he said, <span class="wj">Verily I say
+  unto you, that one of you shall betray me.</span> </p>
+id: MAT/26/21
+next:
+  id: MAT/26/22
+  number: '22'
+previous:
+  id: MAT/26/20
+  number: '20'
+reference: 'Matthew 26:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 36:27"
+  class="v">27</span>The children of Ezer <span class="add">are</span> these;
+  Bilhan, and Zaavan, and Akan. </p>
+id: GEN/36/27
+next:
+  id: GEN/36/28
+  number: '28'
+previous:
+  id: GEN/36/26
+  number: '26'
+reference: 'Genesis 36:27'

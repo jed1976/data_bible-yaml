@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="2KI 4:30" class="v">30</span>And
+  the mother of the child said, <span class="add">As</span> the <span
+  class="nd">LORD</span> liveth, and <span class="add">as</span> thy soul
+  liveth, I will not leave thee. And he arose, and followed her. </p>
+id: 2KI/4/30
+next:
+  id: 2KI/4/31
+  number: '31'
+previous:
+  id: 2KI/4/29
+  number: '29'
+reference: '2 Kings 4:30'

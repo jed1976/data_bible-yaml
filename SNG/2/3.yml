@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 2:3" class="v">3</span>As the
+  apple tree among the trees of the wood, so <span class="add">is</span> my
+  beloved among the sons. I sat down under his shadow with great delight, and
+  his fruit <span class="add">was</span> sweet to my taste. </p>
+id: SNG/2/3
+next:
+  id: SNG/2/4
+  number: '4'
+previous:
+  id: SNG/2/2
+  number: '2'
+reference: 'Song of Solomon 2:3'

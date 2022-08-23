@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 27:15"
+  class="v">15</span>And Rebekah took goodly raiment of her eldest son Esau,
+  which <span class="add">were</span> with her in the house, and put them upon
+  Jacob her younger son: </p>
+id: GEN/27/15
+next:
+  id: GEN/27/16
+  number: '16'
+previous:
+  id: GEN/27/14
+  number: '14'
+reference: 'Genesis 27:15'

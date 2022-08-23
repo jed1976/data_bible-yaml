@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 38:14"
+  class="v">14</span>The hangings of the one side <span class="add">of the gate
+  were</span> fifteen cubits; their pillars three, and their sockets three. </p>
+id: EXO/38/14
+next:
+  id: EXO/38/15
+  number: '15'
+previous:
+  id: EXO/38/13
+  number: '13'
+reference: 'Exodus 38:14'

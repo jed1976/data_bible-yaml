@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 22:20"
+  class="v">20</span>Whereas our substance is not cut down, but the remnant of
+  them the fire consumeth.</p>
+id: JOB/22/20
+next:
+  id: JOB/22/21
+  number: '21'
+previous:
+  id: JOB/22/19
+  number: '19'
+reference: 'Job 22:20'

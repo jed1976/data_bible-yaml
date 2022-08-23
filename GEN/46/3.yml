@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 46:3" class="v">3</span>And
+  he said, I <span class="add">am</span> God, the God of thy father: fear not to
+  go down into Egypt; for I will there make of thee a great nation: </p>
+id: GEN/46/3
+next:
+  id: GEN/46/4
+  number: '4'
+previous:
+  id: GEN/46/2
+  number: '2'
+reference: 'Genesis 46:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 59:11"
+  class="v">11</span>Slay them not, lest my people forget: scatter them by thy
+  power; and bring them down, O Lord our shield.</p>
+id: PSA/59/11
+next:
+  id: PSA/59/12
+  number: '12'
+previous:
+  id: PSA/59/10
+  number: '10'
+reference: 'Psalms 59:11'

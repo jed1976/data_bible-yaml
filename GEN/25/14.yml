@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 25:14"
+  class="v">14</span>And Mishma, and Dumah, and Massa, </p>
+id: GEN/25/14
+next:
+  id: GEN/25/15
+  number: '15'
+previous:
+  id: GEN/25/13
+  number: '13'
+reference: 'Genesis 25:14'

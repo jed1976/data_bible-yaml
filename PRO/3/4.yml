@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 3:4" class="v">4</span>So
+  shalt thou find favour and good understanding in the sight of God and man.</p>
+id: PRO/3/4
+next:
+  id: PRO/3/5
+  number: '5'
+previous:
+  id: PRO/3/3
+  number: '3'
+reference: 'Proverbs 3:4'

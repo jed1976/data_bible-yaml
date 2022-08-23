@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 5:11"
+  class="v">11</span>When goods increase, they are increased that eat them: and
+  what good <span class="add">is there</span> to the owners thereof, saving the
+  beholding <span class="add">of them</span> with their eyes? </p>
+id: ECC/5/11
+next:
+  id: ECC/5/12
+  number: '12'
+previous:
+  id: ECC/5/10
+  number: '10'
+reference: 'Ecclesiastes 5:11'

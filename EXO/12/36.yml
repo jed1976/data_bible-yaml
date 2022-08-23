@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="EXO 12:36"
+  class="v">36</span>And the <span class="nd">LORD</span> gave the people favour
+  in the sight of the Egyptians, so that they lent unto them <span
+  class="add">such things as they required</span>. And they spoiled the
+  Egyptians.</p>
+id: EXO/12/36
+next:
+  id: EXO/12/37
+  number: '37'
+previous:
+  id: EXO/12/35
+  number: '35'
+reference: 'Exodus 12:36'

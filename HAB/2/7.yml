@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HAB 2:7" class="v">7</span>Shall
+  they not rise up suddenly that shall bite thee, and awake that shall vex thee,
+  and thou shalt be for booties unto them? </p>
+id: HAB/2/7
+next:
+  id: HAB/2/8
+  number: '8'
+previous:
+  id: HAB/2/6
+  number: '6'
+reference: 'Habakkuk 2:7'

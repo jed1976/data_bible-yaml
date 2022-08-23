@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 24:6" class="v">6</span>They
+  reap <span class="add">every one</span> his corn in the field: and they gather
+  the vintage of the wicked. </p>
+id: JOB/24/6
+next:
+  id: JOB/24/7
+  number: '7'
+previous:
+  id: JOB/24/5
+  number: '5'
+reference: 'Job 24:6'

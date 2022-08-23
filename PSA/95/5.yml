@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 95:5" class="v">5</span>The
+  sea <span class="add">is</span> his, and he made it: and his hands formed the
+  dry <span class="add">land</span>.</p>
+id: PSA/95/5
+next:
+  id: PSA/95/6
+  number: '6'
+previous:
+  id: PSA/95/4
+  number: '4'
+reference: 'Psalms 95:5'

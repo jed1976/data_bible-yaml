@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 2:4" class="v">4</span>And
+  let the maiden which pleaseth the king be queen instead of Vashti. And the
+  thing pleased the king; and he did so.</p>
+id: EST/2/4
+next:
+  id: EST/2/5
+  number: '5'
+previous:
+  id: EST/2/3
+  number: '3'
+reference: 'Esther 2:4'

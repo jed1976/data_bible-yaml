@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 19:25"
+  class="v">25</span>When his disciples heard <span class="add">it</span>, they
+  were exceedingly amazed, saying, Who then can be saved? </p>
+id: MAT/19/25
+next:
+  id: MAT/19/26
+  number: '26'
+previous:
+  id: MAT/19/24
+  number: '24'
+reference: 'Matthew 19:25'

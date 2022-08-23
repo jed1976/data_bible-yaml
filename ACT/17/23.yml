@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 17:23"
+  class="v">23</span>For as I passed by, and beheld your devotions, I found an
+  altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly
+  worship, him declare I unto you. </p>
+id: ACT/17/23
+next:
+  id: ACT/17/24
+  number: '24'
+previous:
+  id: ACT/17/22
+  number: '22'
+reference: 'Acts 17:23'

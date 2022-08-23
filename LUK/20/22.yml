@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 20:22" class="v">22</span>Is
+  it lawful for us to give tribute unto Cæsar, or no? </p>
+id: LUK/20/22
+next:
+  id: LUK/20/23
+  number: '23'
+previous:
+  id: LUK/20/21
+  number: '21'
+reference: 'Luke 20:22'

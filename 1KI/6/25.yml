@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 6:25" class="v">25</span>And
+  the other cherub <span class="add">was</span> ten cubits: both the cherubims
+  <span class="add">were</span> of one measure and one size. </p>
+id: 1KI/6/25
+next:
+  id: 1KI/6/26
+  number: '26'
+previous:
+  id: 1KI/6/24
+  number: '24'
+reference: '1 Kings 6:25'

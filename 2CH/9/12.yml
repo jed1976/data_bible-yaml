@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 9:12" class="v">12</span>And
+  king Solomon gave to the queen of Sheba all her desire, whatsoever she asked,
+  beside <span class="add">that</span> which she had brought unto the king. So
+  she turned, and went away to her own land, she and her servants.</p>
+id: 2CH/9/12
+next:
+  id: 2CH/9/13
+  number: '13'
+previous:
+  id: 2CH/9/11
+  number: '11'
+reference: '2 Chronicles 9:12'

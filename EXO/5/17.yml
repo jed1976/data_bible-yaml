@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 5:17" class="v">17</span>But
+  he said, Ye <span class="add">are</span> idle, <span class="add">ye are</span>
+  idle: therefore ye say, Let us go <span class="add">and</span> do sacrifice to
+  the <span class="nd">LORD</span>. </p>
+id: EXO/5/17
+next:
+  id: EXO/5/18
+  number: '18'
+previous:
+  id: EXO/5/16
+  number: '16'
+reference: 'Exodus 5:17'

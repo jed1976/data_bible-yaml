@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 30:16" class="v">16</span>In
+  that I command thee this day to love the <span class="nd">LORD</span> thy God,
+  to walk in his ways, and to keep his commandments and his statutes and his
+  judgments, that thou mayest live and multiply: and the <span
+  class="nd">LORD</span> thy God shall bless thee in the land whither thou goest
+  to possess it. </p>
+id: DEU/30/16
+next:
+  id: DEU/30/17
+  number: '17'
+previous:
+  id: DEU/30/15
+  number: '15'
+reference: 'Deuteronomy 30:16'

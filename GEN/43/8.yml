@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 43:8" class="v">8</span>And
+  Judah said unto Israel his father, Send the lad with me, and we will arise and
+  go; that we may live, and not die, both we, and thou, <span
+  class="add">and</span> also our little ones. </p>
+id: GEN/43/8
+next:
+  id: GEN/43/9
+  number: '9'
+previous:
+  id: GEN/43/7
+  number: '7'
+reference: 'Genesis 43:8'

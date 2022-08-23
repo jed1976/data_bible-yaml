@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 89:5"
+  class="v">5</span>And the heavens shall praise thy wonders, O <span
+  class="nd">LORD</span>: thy faithfulness also in the congregation of the
+  saints.</p>
+id: PSA/89/5
+next:
+  id: PSA/89/6
+  number: '6'
+previous:
+  id: PSA/89/4
+  number: '4'
+reference: 'Psalms 89:5'

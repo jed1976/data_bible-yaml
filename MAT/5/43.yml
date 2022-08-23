@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 5:43"
+  class="v">43</span><span class="wj">¶ Ye have heard that it hath been said,
+  Thou shalt love thy neighbour, and hate thine enemy.</span> </p>
+id: MAT/5/43
+next:
+  id: MAT/5/44
+  number: '44'
+previous:
+  id: MAT/5/42
+  number: '42'
+reference: 'Matthew 5:43'

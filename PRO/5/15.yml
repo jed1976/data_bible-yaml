@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 5:15" class="v">15</span>¶
+  Drink waters out of thine own cistern, and running waters out of thine own
+  well. </p>
+id: PRO/5/15
+next:
+  id: PRO/5/16
+  number: '16'
+previous:
+  id: PRO/5/14
+  number: '14'
+reference: 'Proverbs 5:15'

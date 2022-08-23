@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 14:22" class="v">22</span>Do
+  they not err that devise evil? but mercy and truth <span class="add">shall
+  be</span> to them that devise good. </p>
+id: PRO/14/22
+next:
+  id: PRO/14/23
+  number: '23'
+previous:
+  id: PRO/14/21
+  number: '21'
+reference: 'Proverbs 14:22'

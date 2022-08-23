@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 4:23" class="v">23</span>¶
+  And being let go, they went to their own company, and reported all that the
+  chief priests and elders had said unto them. </p>
+id: ACT/4/23
+next:
+  id: ACT/4/24
+  number: '24'
+previous:
+  id: ACT/4/22
+  number: '22'
+reference: 'Acts 4:23'

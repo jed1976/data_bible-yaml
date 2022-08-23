@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 5:8" class="v">8</span>If I
+  have found favour in the sight of the king, and if it please the king to grant
+  my petition, and to perform my request, let the king and Haman come to the
+  banquet that I shall prepare for them, and I will do to morrow as the king
+  hath said.</p>
+id: EST/5/8
+next:
+  id: EST/5/9
+  number: '9'
+previous:
+  id: EST/5/7
+  number: '7'
+reference: 'Esther 5:8'

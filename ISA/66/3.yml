@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 66:3" class="v">3</span>He
+  that killeth an ox <span class="add">is as if</span> he slew a man; he that
+  sacrificeth a lamb, <span class="add">as if</span> he cut off a dog’s neck; he
+  that offereth an oblation, <span class="add">as if he offered</span> swine’s
+  blood; he that burneth incense, <span class="add">as if</span> he blessed an
+  idol. Yea, they have chosen their own ways, and their soul delighteth in their
+  abominations. </p>
+id: ISA/66/3
+next:
+  id: ISA/66/4
+  number: '4'
+previous:
+  id: ISA/66/2
+  number: '2'
+reference: 'Isaiah 66:3'

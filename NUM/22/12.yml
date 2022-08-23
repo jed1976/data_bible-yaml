@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 22:12"
+  class="v">12</span>And God said unto Balaam, Thou shalt not go with them; thou
+  shalt not curse the people: for they <span class="add">are</span> blessed.
+  </p>
+id: NUM/22/12
+next:
+  id: NUM/22/13
+  number: '13'
+previous:
+  id: NUM/22/11
+  number: '11'
+reference: 'Numbers 22:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 10:13" class="v">13</span>In
+  the lips of him that hath understanding wisdom is found: but a rod <span
+  class="add">is</span> for the back of him that is void of understanding. </p>
+id: PRO/10/13
+next:
+  id: PRO/10/14
+  number: '14'
+previous:
+  id: PRO/10/12
+  number: '12'
+reference: 'Proverbs 10:13'

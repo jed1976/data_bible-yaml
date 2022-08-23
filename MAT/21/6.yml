@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 21:6" class="v">6</span>And
+  the disciples went, and did as Jesus commanded them, </p>
+id: MAT/21/6
+next:
+  id: MAT/21/7
+  number: '7'
+previous:
+  id: MAT/21/5
+  number: '5'
+reference: 'Matthew 21:6'

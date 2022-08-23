@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CO 1:25"
+  class="v">25</span>Because the foolishness of God is wiser than men; and the
+  weakness of God is stronger than men. </p>
+id: 1CO/1/25
+next:
+  id: 1CO/1/26
+  number: '26'
+previous:
+  id: 1CO/1/24
+  number: '24'
+reference: '1 Corinthians 1:25'

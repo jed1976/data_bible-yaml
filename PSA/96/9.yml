@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 96:9" class="v">9</span>O
+  worship the <span class="nd">LORD</span> in the beauty of holiness: fear
+  before him, all the earth.</p>
+id: PSA/96/9
+next:
+  id: PSA/96/10
+  number: '10'
+previous:
+  id: PSA/96/8
+  number: '8'
+reference: 'Psalms 96:9'

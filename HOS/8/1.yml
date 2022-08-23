@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 8:1" class="v">1</span><span
+  class="add">Set</span> the trumpet to thy mouth. <span class="add">He shall
+  come</span> as an eagle against the house of the <span class="nd">LORD</span>,
+  because they have transgressed my covenant, and trespassed against my law.
+  </p>
+id: HOS/8/1
+next:
+  id: HOS/8/2
+  number: '2'
+previous:
+  id: HOS/7/16
+  number: '16'
+reference: 'Hosea 8:1'

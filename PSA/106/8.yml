@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 106:8"
+  class="v">8</span>Nevertheless he saved them for his name’s sake, that he
+  might make his mighty power to be known.</p>
+id: PSA/106/8
+next:
+  id: PSA/106/9
+  number: '9'
+previous:
+  id: PSA/106/7
+  number: '7'
+reference: 'Psalms 106:8'

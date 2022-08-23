@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 14:6" class="v">6</span>A
+  scorner seeketh wisdom, and <span class="add">findeth it</span> not: but
+  knowledge <span class="add">is</span> easy unto him that understandeth. </p>
+id: PRO/14/6
+next:
+  id: PRO/14/7
+  number: '7'
+previous:
+  id: PRO/14/5
+  number: '5'
+reference: 'Proverbs 14:6'

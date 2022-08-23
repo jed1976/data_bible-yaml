@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 76:7"
+  class="v">7</span>Thou, <span class="add">even</span> thou, <span
+  class="add">art</span> to be feared: and who may stand in thy sight when once
+  thou art angry?</p>
+id: PSA/76/7
+next:
+  id: PSA/76/8
+  number: '8'
+previous:
+  id: PSA/76/6
+  number: '6'
+reference: 'Psalms 76:7'

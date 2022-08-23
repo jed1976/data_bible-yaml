@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 19:16" class="v">16</span>¶
+  Thou shalt not go up and down <span class="add">as</span> a talebearer among
+  thy people: neither shalt thou stand against the blood of thy neighbour: I
+  <span class="add">am</span> the <span class="nd">LORD</span>.</p>
+id: LEV/19/16
+next:
+  id: LEV/19/17
+  number: '17'
+previous:
+  id: LEV/19/15
+  number: '15'
+reference: 'Leviticus 19:16'

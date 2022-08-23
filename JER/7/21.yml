@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 7:21" class="v">21</span>¶
+  Thus saith the <span class="nd">LORD</span> of hosts, the God of Israel; Put
+  your burnt offerings unto your sacrifices, and eat flesh. </p>
+id: JER/7/21
+next:
+  id: JER/7/22
+  number: '22'
+previous:
+  id: JER/7/20
+  number: '20'
+reference: 'Jeremiah 7:21'

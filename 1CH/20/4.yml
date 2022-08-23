@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 20:4" class="v">4</span>¶ And
+  it came to pass after this, that there arose war at Gezer with the
+  Philistines; at which time Sibbechai the Hushathite slew Sippai, <span
+  class="add">that was</span> of the children of the giant: and they were
+  subdued. </p>
+id: 1CH/20/4
+next:
+  id: 1CH/20/5
+  number: '5'
+previous:
+  id: 1CH/20/3
+  number: '3'
+reference: '1 Chronicles 20:4'

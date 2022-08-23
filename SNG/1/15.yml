@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="SNG 1:15"
+  class="v">15</span>Behold, thou <span class="add">art</span> fair, my love;
+  behold, thou <span class="add">art</span> fair; thou <span
+  class="add">hast</span> doves’ eyes. </p>
+id: SNG/1/15
+next:
+  id: SNG/1/16
+  number: '16'
+previous:
+  id: SNG/1/14
+  number: '14'
+reference: 'Song of Solomon 1:15'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 9:1" class="v">1</span>So all
+  Israel were reckoned by genealogies; and, behold, they <span
+  class="add">were</span> written in the book of the kings of Israel and Judah,
+  <span class="add">who</span> were carried away to Babylon for their
+  transgression.</p>
+id: 1CH/9/1
+next:
+  id: 1CH/9/2
+  number: '2'
+previous:
+  id: 1CH/8/40
+  number: '40'
+reference: '1 Chronicles 9:1'

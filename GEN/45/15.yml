@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 45:15"
+  class="v">15</span>Moreover he kissed all his brethren, and wept upon them:
+  and after that his brethren talked with him.</p>
+id: GEN/45/15
+next:
+  id: GEN/45/16
+  number: '16'
+previous:
+  id: GEN/45/14
+  number: '14'
+reference: 'Genesis 45:15'

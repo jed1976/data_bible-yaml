@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="PRO 10:31"
+  class="v">31</span>The mouth of the just bringeth forth wisdom: but the
+  froward tongue shall be cut out. </p>
+id: PRO/10/31
+next:
+  id: PRO/10/32
+  number: '32'
+previous:
+  id: PRO/10/30
+  number: '30'
+reference: 'Proverbs 10:31'

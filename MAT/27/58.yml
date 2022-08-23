@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="MAT 27:58" class="v">58</span>He
+  went to Pilate, and begged the body of Jesus. Then Pilate commanded the body
+  to be delivered. </p>
+id: MAT/27/58
+next:
+  id: MAT/27/59
+  number: '59'
+previous:
+  id: MAT/27/57
+  number: '57'
+reference: 'Matthew 27:58'

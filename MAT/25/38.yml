@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 25:38"
+  class="v">38</span><span class="wj">When saw we thee a stranger, and took thee
+  in? or naked, and clothed <span class="add">thee</span>?</span> </p>
+id: MAT/25/38
+next:
+  id: MAT/25/39
+  number: '39'
+previous:
+  id: MAT/25/37
+  number: '37'
+reference: 'Matthew 25:38'

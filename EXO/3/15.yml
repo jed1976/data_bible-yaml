@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 3:15" class="v">15</span>And
+  God said moreover unto Moses, Thus shalt thou say unto the children of Israel,
+  The <span class="nd">LORD</span> God of your fathers, the God of Abraham, the
+  God of Isaac, and the God of Jacob, hath sent me unto you: this <span
+  class="add">is</span> my name for ever, and this <span class="add">is</span>
+  my memorial unto all generations.</p>
+id: EXO/3/15
+next:
+  id: EXO/3/16
+  number: '16'
+previous:
+  id: EXO/3/14
+  number: '14'
+reference: 'Exodus 3:15'

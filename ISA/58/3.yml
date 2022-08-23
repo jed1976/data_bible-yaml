@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 58:3" class="v">3</span>¶
+  Wherefore have we fasted, <span class="add">say they</span>, and thou seest
+  not? <span class="add">wherefore</span> have we afflicted our soul, and thou
+  takest no knowledge? Behold, in the day of your fast ye find pleasure, and
+  exact all your labours. </p>
+id: ISA/58/3
+next:
+  id: ISA/58/4
+  number: '4'
+previous:
+  id: ISA/58/2
+  number: '2'
+reference: 'Isaiah 58:3'

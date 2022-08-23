@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 14:11"
+  class="v">11</span><span class="add">As</span> the waters fail from the sea,
+  and the flood decayeth and drieth up: </p>
+id: JOB/14/11
+next:
+  id: JOB/14/12
+  number: '12'
+previous:
+  id: JOB/14/10
+  number: '10'
+reference: 'Job 14:11'

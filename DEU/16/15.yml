@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 16:15"
+  class="v">15</span>Seven days shalt thou keep a solemn feast unto the <span
+  class="nd">LORD</span> thy God in the place which the <span
+  class="nd">LORD</span> shall choose: because the <span class="nd">LORD</span>
+  thy God shall bless thee in all thine increase, and in all the works of thine
+  hands, therefore thou shalt surely rejoice.</p>
+id: DEU/16/15
+next:
+  id: DEU/16/16
+  number: '16'
+previous:
+  id: DEU/16/14
+  number: '14'
+reference: 'Deuteronomy 16:15'

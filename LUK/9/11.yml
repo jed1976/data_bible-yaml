@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 9:11" class="v">11</span>And
+  the people, when they knew <span class="add">it</span>, followed him: and he
+  received them, and spake unto them of the kingdom of God, and healed them that
+  had need of healing. </p>
+id: LUK/9/11
+next:
+  id: LUK/9/12
+  number: '12'
+previous:
+  id: LUK/9/10
+  number: '10'
+reference: 'Luke 9:11'

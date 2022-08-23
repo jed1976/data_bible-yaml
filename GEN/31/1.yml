@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 31:1" class="v">1</span>And
+  he heard the words of Laban’s sons, saying, Jacob hath taken away all that
+  <span class="add">was</span> our father’s; and of <span
+  class="add">that</span> which <span class="add">was</span> our father’s hath
+  he gotten all this glory. </p>
+id: GEN/31/1
+next:
+  id: GEN/31/2
+  number: '2'
+previous:
+  id: GEN/30/43
+  number: '43'
+reference: 'Genesis 31:1'

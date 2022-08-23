@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 5:6" class="v">6</span>¶ I
+  <span class="add">am</span> the <span class="nd">LORD</span> thy God, which
+  brought thee out of the land of Egypt, from the house of bondage. </p>
+id: DEU/5/6
+next:
+  id: DEU/5/7
+  number: '7'
+previous:
+  id: DEU/5/5
+  number: '5'
+reference: 'Deuteronomy 5:6'

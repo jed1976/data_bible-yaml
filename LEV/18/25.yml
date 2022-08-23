@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 18:25"
+  class="v">25</span>And the land is defiled: therefore I do visit the iniquity
+  thereof upon it, and the land itself vomiteth out her inhabitants. </p>
+id: LEV/18/25
+next:
+  id: LEV/18/26
+  number: '26'
+previous:
+  id: LEV/18/24
+  number: '24'
+reference: 'Leviticus 18:25'

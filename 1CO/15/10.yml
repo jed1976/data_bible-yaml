@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CO 15:10"
+  class="v">10</span>But by the grace of God I am what I am: and his grace which
+  <span class="add">was bestowed</span> upon me was not in vain; but I laboured
+  more abundantly than they all: yet not I, but the grace of God which was with
+  me. </p>
+id: 1CO/15/10
+next:
+  id: 1CO/15/11
+  number: '11'
+previous:
+  id: 1CO/15/9
+  number: '9'
+reference: '1 Corinthians 15:10'

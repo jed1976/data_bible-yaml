@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 7:17"
+  class="v">17</span><span class="wj">Even so every good tree bringeth forth
+  good fruit; but a corrupt tree bringeth forth evil fruit.</span> </p>
+id: MAT/7/17
+next:
+  id: MAT/7/18
+  number: '18'
+previous:
+  id: MAT/7/16
+  number: '16'
+reference: 'Matthew 7:17'

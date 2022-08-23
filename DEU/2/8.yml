@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 2:8" class="v">8</span>And
+  when we passed by from our brethren the children of Esau, which dwelt in Seir,
+  through the way of the plain from Elath, and from Ezion-gaber, we turned and
+  passed by the way of the wilderness of Moab. </p>
+id: DEU/2/8
+next:
+  id: DEU/2/9
+  number: '9'
+previous:
+  id: DEU/2/7
+  number: '7'
+reference: 'Deuteronomy 2:8'

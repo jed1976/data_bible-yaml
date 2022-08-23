@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 19:20"
+  class="v">20</span>This title then read many of the Jews: for the place where
+  Jesus was crucified was nigh to the city: and it was written in Hebrew, <span
+  class="add">and</span> Greek, <span class="add">and</span> Latin. </p>
+id: JHN/19/20
+next:
+  id: JHN/19/21
+  number: '21'
+previous:
+  id: JHN/19/19
+  number: '19'
+reference: 'John 19:20'

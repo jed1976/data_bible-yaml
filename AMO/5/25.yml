@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="AMO 5:25"
+  class="v">25</span>Have ye offered unto me sacrifices and offerings in the
+  wilderness forty years, O house of Israel? </p>
+id: AMO/5/25
+next:
+  id: AMO/5/26
+  number: '26'
+previous:
+  id: AMO/5/24
+  number: '24'
+reference: 'Amos 5:25'

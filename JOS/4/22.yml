@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOS 4:22"
+  class="v">22</span>Then ye shall let your children know, saying, Israel came
+  over this Jordan on dry land. </p>
+id: JOS/4/22
+next:
+  id: JOS/4/23
+  number: '23'
+previous:
+  id: JOS/4/21
+  number: '21'
+reference: 'Joshua 4:22'

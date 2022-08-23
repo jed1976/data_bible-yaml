@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="NUM 26:64"
+  class="v">64</span>But among these there was not a man of them whom Moses and
+  Aaron the priest numbered, when they numbered the children of Israel in the
+  wilderness of Sinai. </p>
+id: NUM/26/64
+next:
+  id: NUM/26/65
+  number: '65'
+previous:
+  id: NUM/26/63
+  number: '63'
+reference: 'Numbers 26:64'

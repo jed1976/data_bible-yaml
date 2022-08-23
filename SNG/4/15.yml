@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="SNG 4:15" class="v">15</span>A
+  fountain of gardens, a well of living waters, and streams from Lebanon.</p>
+id: SNG/4/15
+next:
+  id: SNG/4/16
+  number: '16'
+previous:
+  id: SNG/4/14
+  number: '14'
+reference: 'Song of Solomon 4:15'

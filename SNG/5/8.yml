@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 5:8" class="v">8</span>I
+  charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him,
+  that I <span class="add">am</span> sick of love.</p>
+id: SNG/5/8
+next:
+  id: SNG/5/9
+  number: '9'
+previous:
+  id: SNG/5/7
+  number: '7'
+reference: 'Song of Solomon 5:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 29:1" class="v">1</span>And
+  in the seventh month, on the first <span class="add">day</span> of the month,
+  ye shall have an holy convocation; ye shall do no servile work: it is a day of
+  blowing the trumpets unto you. </p>
+id: NUM/29/1
+next:
+  id: NUM/29/2
+  number: '2'
+previous:
+  id: NUM/28/31
+  number: '31'
+reference: 'Numbers 29:1'

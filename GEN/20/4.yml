@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 20:4" class="v">4</span>But
+  Abimelech had not come near her: and he said, Lord, wilt thou slay also a
+  righteous nation? </p>
+id: GEN/20/4
+next:
+  id: GEN/20/5
+  number: '5'
+previous:
+  id: GEN/20/3
+  number: '3'
+reference: 'Genesis 20:4'

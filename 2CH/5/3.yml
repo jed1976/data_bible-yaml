@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 5:3"
+  class="v">3</span>Wherefore all the men of Israel assembled themselves unto
+  the king in the feast which <span class="add">was</span> in the seventh month.
+  </p>
+id: 2CH/5/3
+next:
+  id: 2CH/5/4
+  number: '4'
+previous:
+  id: 2CH/5/2
+  number: '2'
+reference: '2 Chronicles 5:3'

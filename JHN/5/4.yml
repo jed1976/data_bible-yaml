@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 5:4" class="v">4</span>For an
+  angel went down at a certain season into the pool, and troubled the water:
+  whosoever then first after the troubling of the water stepped in was made
+  whole of whatsoever disease he had. </p>
+id: JHN/5/4
+next:
+  id: JHN/5/5
+  number: '5'
+previous:
+  id: JHN/5/3
+  number: '3'
+reference: 'John 5:4'

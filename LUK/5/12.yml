@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 5:12" class="v">12</span>¶
+  And it came to pass, when he was in a certain city, behold a man full of
+  leprosy: who seeing Jesus fell on <span class="add">his</span> face, and
+  besought him, saying, Lord, if thou wilt, thou canst make me clean. </p>
+id: LUK/5/12
+next:
+  id: LUK/5/13
+  number: '13'
+previous:
+  id: LUK/5/11
+  number: '11'
+reference: 'Luke 5:12'

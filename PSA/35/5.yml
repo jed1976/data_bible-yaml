@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 35:5" class="v">5</span>Let
+  them be as chaff before the wind: and let the angel of the <span
+  class="nd">LORD</span> chase <span class="add">them</span>.</p>
+id: PSA/35/5
+next:
+  id: PSA/35/6
+  number: '6'
+previous:
+  id: PSA/35/4
+  number: '4'
+reference: 'Psalms 35:5'

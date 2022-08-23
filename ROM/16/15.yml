@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 16:15"
+  class="v">15</span>Salute Philologus, and Julia, Nereus, and his sister, and
+  Olympas, and all the saints which are with them. </p>
+id: ROM/16/15
+next:
+  id: ROM/16/16
+  number: '16'
+previous:
+  id: ROM/16/14
+  number: '14'
+reference: 'Romans 16:15'

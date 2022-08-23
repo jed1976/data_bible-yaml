@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 63:8" class="v">8</span>My
+  soul followeth hard after thee: thy right hand upholdeth me.</p>
+id: PSA/63/8
+next:
+  id: PSA/63/9
+  number: '9'
+previous:
+  id: PSA/63/7
+  number: '7'
+reference: 'Psalms 63:8'

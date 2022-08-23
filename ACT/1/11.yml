@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 1:11"
+  class="v">11</span>Which also said, Ye men of Galilee, why stand ye gazing up
+  into heaven? this same Jesus, which is taken up from you into heaven, shall so
+  come in like manner as ye have seen him go into heaven. </p>
+id: ACT/1/11
+next:
+  id: ACT/1/12
+  number: '12'
+previous:
+  id: ACT/1/10
+  number: '10'
+reference: 'Acts 1:11'

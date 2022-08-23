@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 73:20"
+  class="v">20</span>As a dream when <span class="add">one</span> awaketh; <span
+  class="add">so</span>, O Lord, when thou awakest, thou shalt despise their
+  image.</p>
+id: PSA/73/20
+next:
+  id: PSA/73/21
+  number: '21'
+previous:
+  id: PSA/73/19
+  number: '19'
+reference: 'Psalms 73:20'

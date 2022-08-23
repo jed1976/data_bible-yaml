@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 34:33"
+  class="v">33</span>And <span class="add">till</span> Moses had done speaking
+  with them, he put a vail on his face. </p>
+id: EXO/34/33
+next:
+  id: EXO/34/34
+  number: '34'
+previous:
+  id: EXO/34/32
+  number: '32'
+reference: 'Exodus 34:33'

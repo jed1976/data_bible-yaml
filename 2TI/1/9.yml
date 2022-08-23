@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2TI 1:9" class="v">9</span>Who
+  hath saved us, and called <span class="add">us</span> with an holy calling,
+  not according to our works, but according to his own purpose and grace, which
+  was given us in Christ Jesus before the world began, </p>
+id: 2TI/1/9
+next:
+  id: 2TI/1/10
+  number: '10'
+previous:
+  id: 2TI/1/8
+  number: '8'
+reference: '2 Timothy 1:9'

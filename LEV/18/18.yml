@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LEV 18:18"
+  class="v">18</span>Neither shalt thou take a wife to her sister, to vex <span
+  class="add">her</span>, to uncover her nakedness, beside the other in her life
+  <span class="add">time</span>.</p>
+id: LEV/18/18
+next:
+  id: LEV/18/19
+  number: '19'
+previous:
+  id: LEV/18/17
+  number: '17'
+reference: 'Leviticus 18:18'

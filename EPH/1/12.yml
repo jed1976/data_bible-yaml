@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EPH 1:12"
+  class="v">12</span>That we should be to the praise of his glory, who first
+  trusted in Christ. </p>
+id: EPH/1/12
+next:
+  id: EPH/1/13
+  number: '13'
+previous:
+  id: EPH/1/11
+  number: '11'
+reference: 'Ephesians 1:12'

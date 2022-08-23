@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 21:12"
+  class="v">12</span>The watchman said, The morning cometh, and also the night:
+  if ye will enquire, enquire ye: return, come.</p>
+id: ISA/21/12
+next:
+  id: ISA/21/13
+  number: '13'
+previous:
+  id: ISA/21/11
+  number: '11'
+reference: 'Isaiah 21:12'

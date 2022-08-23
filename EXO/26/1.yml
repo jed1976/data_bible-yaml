@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 26:1"
+  class="v">1</span>Moreover thou shalt make the tabernacle <span
+  class="add">with</span> ten curtains <span class="add">of</span> fine twined
+  linen, and blue, and purple, and scarlet: <span class="add">with</span>
+  cherubims of cunning work shalt thou make them. </p>
+id: EXO/26/1
+next:
+  id: EXO/26/2
+  number: '2'
+previous:
+  id: EXO/25/40
+  number: '40'
+reference: 'Exodus 26:1'

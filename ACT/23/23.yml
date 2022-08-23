@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 23:23"
+  class="v">23</span>And he called unto <span class="add">him</span> two
+  centurions, saying, Make ready two hundred soldiers to go to Cæsarea, and
+  horsemen threescore and ten, and spearmen two hundred, at the third hour of
+  the night; </p>
+id: ACT/23/23
+next:
+  id: ACT/23/24
+  number: '24'
+previous:
+  id: ACT/23/22
+  number: '22'
+reference: 'Acts 23:23'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 4:4" class="v">4</span>So the
+  people sent to Shiloh, that they might bring from thence the ark of the
+  covenant of the <span class="nd">LORD</span> of hosts, which dwelleth <span
+  class="add">between</span> the cherubims: and the two sons of Eli, Hophni and
+  Phinehas, <span class="add">were</span> there with the ark of the covenant of
+  God. </p>
+id: 1SA/4/4
+next:
+  id: 1SA/4/5
+  number: '5'
+previous:
+  id: 1SA/4/3
+  number: '3'
+reference: '1 Samuel 4:4'

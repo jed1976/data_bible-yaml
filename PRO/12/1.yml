@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 12:1" class="v">1</span>Whoso
+  loveth instruction loveth knowledge: but he that hateth reproof <span
+  class="add">is</span> brutish. </p>
+id: PRO/12/1
+next:
+  id: PRO/12/2
+  number: '2'
+previous:
+  id: PRO/11/31
+  number: '31'
+reference: 'Proverbs 12:1'

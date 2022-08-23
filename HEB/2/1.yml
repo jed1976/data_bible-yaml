@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 2:1"
+  class="v">1</span>Therefore we ought to give the more earnest heed to the
+  things which we have heard, lest at any time we should let <span
+  class="add">them</span> slip. </p>
+id: HEB/2/1
+next:
+  id: HEB/2/2
+  number: '2'
+previous:
+  id: HEB/1/14
+  number: '14'
+reference: 'Hebrews 2:1'

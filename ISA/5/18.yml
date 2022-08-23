@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 5:18" class="v">18</span>Woe
+  unto them that draw iniquity with cords of vanity, and sin as it were with a
+  cart rope: </p>
+id: ISA/5/18
+next:
+  id: ISA/5/19
+  number: '19'
+previous:
+  id: ISA/5/17
+  number: '17'
+reference: 'Isaiah 5:18'

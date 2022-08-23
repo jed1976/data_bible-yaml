@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 6:7" class="v">7</span>And I
+  will take you to me for a people, and I will be to you a God: and ye shall
+  know that I <span class="add">am</span> the <span class="nd">LORD</span> your
+  God, which bringeth you out from under the burdens of the Egyptians. </p>
+id: EXO/6/7
+next:
+  id: EXO/6/8
+  number: '8'
+previous:
+  id: EXO/6/6
+  number: '6'
+reference: 'Exodus 6:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="GEN 36:38"
+  class="v">38</span>And Saul died, and Baal-hanan the son of Achbor reigned in
+  his stead. </p>
+id: GEN/36/38
+next:
+  id: GEN/36/39
+  number: '39'
+previous:
+  id: GEN/36/37
+  number: '37'
+reference: 'Genesis 36:38'

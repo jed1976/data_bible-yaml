@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 1:42" class="v">42</span>¶
+  Of the children of Naphtali, throughout their generations, after their
+  families, by the house of their fathers, according to the number of the names,
+  from twenty years old and upward, all that were able to go forth to war; </p>
+id: NUM/1/42
+next:
+  id: NUM/1/43
+  number: '43'
+previous:
+  id: NUM/1/41
+  number: '41'
+reference: 'Numbers 1:42'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 85:5" class="v">5</span>Wilt
+  thou be angry with us for ever? wilt thou draw out thine anger to all
+  generations?</p>
+id: PSA/85/5
+next:
+  id: PSA/85/6
+  number: '6'
+previous:
+  id: PSA/85/4
+  number: '4'
+reference: 'Psalms 85:5'

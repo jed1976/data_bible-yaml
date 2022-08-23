@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EPH 4:12" class="v">12</span>For
+  the perfecting of the saints, for the work of the ministry, for the edifying
+  of the body of Christ: </p>
+id: EPH/4/12
+next:
+  id: EPH/4/13
+  number: '13'
+previous:
+  id: EPH/4/11
+  number: '11'
+reference: 'Ephesians 4:12'

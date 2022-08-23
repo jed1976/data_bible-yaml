@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 21:17"
+  class="v">17</span><span class="wj">And ye shall be hated of all <span
+  class="add">men</span> for my name’s sake.</span> </p>
+id: LUK/21/17
+next:
+  id: LUK/21/18
+  number: '18'
+previous:
+  id: LUK/21/16
+  number: '16'
+reference: 'Luke 21:17'

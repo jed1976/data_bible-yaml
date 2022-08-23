@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 104:15"
+  class="v">15</span>And wine <span class="add">that</span> maketh glad the
+  heart of man, <span class="add">and</span> oil to make <span
+  class="add">his</span> face to shine, and bread <span class="add">which</span>
+  strengtheneth man’s heart.</p>
+id: PSA/104/15
+next:
+  id: PSA/104/16
+  number: '16'
+previous:
+  id: PSA/104/14
+  number: '14'
+reference: 'Psalms 104:15'

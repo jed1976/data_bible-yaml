@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 16:23"
+  class="v">23</span><span class="wj">And in hell he lift up his eyes, being in
+  torments, and seeth Abraham afar off, and Lazarus in his bosom.</span> </p>
+id: LUK/16/23
+next:
+  id: LUK/16/24
+  number: '24'
+previous:
+  id: LUK/16/22
+  number: '22'
+reference: 'Luke 16:23'

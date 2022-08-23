@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DAN 5:17" class="v">17</span>¶
+  Then Daniel answered and said before the king, Let thy gifts be to thyself,
+  and give thy rewards to another; yet I will read the writing unto the king,
+  and make known to him the interpretation. </p>
+id: DAN/5/17
+next:
+  id: DAN/5/18
+  number: '18'
+previous:
+  id: DAN/5/16
+  number: '16'
+reference: 'Daniel 5:17'

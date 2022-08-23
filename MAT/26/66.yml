@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="MAT 26:66"
+  class="v">66</span>What think ye? They answered and said, He is guilty of
+  death. </p>
+id: MAT/26/66
+next:
+  id: MAT/26/67
+  number: '67'
+previous:
+  id: MAT/26/65
+  number: '65'
+reference: 'Matthew 26:66'

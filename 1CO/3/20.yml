@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 3:20" class="v">20</span>And
+  again, The Lord knoweth the thoughts of the wise, that they are vain. </p>
+id: 1CO/3/20
+next:
+  id: 1CO/3/21
+  number: '21'
+previous:
+  id: 1CO/3/19
+  number: '19'
+reference: '1 Corinthians 3:20'

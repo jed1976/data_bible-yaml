@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 13:29"
+  class="v">29</span>The Amalekites dwell in the land of the south: and the
+  Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the
+  Canaanites dwell by the sea, and by the coast of Jordan. </p>
+id: NUM/13/29
+next:
+  id: NUM/13/30
+  number: '30'
+previous:
+  id: NUM/13/28
+  number: '28'
+reference: 'Numbers 13:29'

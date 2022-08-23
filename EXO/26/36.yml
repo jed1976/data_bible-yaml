@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="EXO 26:36"
+  class="v">36</span>And thou shalt make an hanging for the door of the tent,
+  <span class="add">of</span> blue, and purple, and scarlet, and fine twined
+  linen, wrought with needlework. </p>
+id: EXO/26/36
+next:
+  id: EXO/26/37
+  number: '37'
+previous:
+  id: EXO/26/35
+  number: '35'
+reference: 'Exodus 26:36'

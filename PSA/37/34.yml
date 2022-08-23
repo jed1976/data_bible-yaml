@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="34" data-sid="PSA 37:34"
+  class="v">34</span>Wait on the <span class="nd">LORD</span>, and keep his way,
+  and he shall exalt thee to inherit the land: when the wicked are cut off, thou
+  shalt see <span class="add">it</span>.</p>
+id: PSA/37/34
+next:
+  id: PSA/37/35
+  number: '35'
+previous:
+  id: PSA/37/33
+  number: '33'
+reference: 'Psalms 37:34'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1KI 18:10"
+  class="v">10</span><span class="add">As</span> the <span
+  class="nd">LORD</span> thy God liveth, there is no nation or kingdom, whither
+  my lord hath not sent to seek thee: and when they said, <span class="add">He
+  is</span> not <span class="add">there;</span> he took an oath of the kingdom
+  and nation, that they found thee not. </p>
+id: 1KI/18/10
+next:
+  id: 1KI/18/11
+  number: '11'
+previous:
+  id: 1KI/18/9
+  number: '9'
+reference: '1 Kings 18:10'

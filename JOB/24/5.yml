@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 24:5"
+  class="v">5</span>Behold, <span class="add">as</span> wild asses in the
+  desert, go they forth to their work; rising betimes for a prey: the wilderness
+  <span class="add">yieldeth</span> food for them <span class="add">and</span>
+  for <span class="add">their</span> children. </p>
+id: JOB/24/5
+next:
+  id: JOB/24/6
+  number: '6'
+previous:
+  id: JOB/24/4
+  number: '4'
+reference: 'Job 24:5'

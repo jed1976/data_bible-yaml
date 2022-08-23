@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 20:17"
+  class="v">17</span>Thou shalt not covet thy neighbour’s house, thou shalt not
+  covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his
+  ox, nor his ass, nor any thing that <span class="add">is</span> thy
+  neighbour’s.</p>
+id: EXO/20/17
+next:
+  id: EXO/20/18
+  number: '18'
+previous:
+  id: EXO/20/16
+  number: '16'
+reference: 'Exodus 20:17'

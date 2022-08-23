@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 24:40"
+  class="v">40</span>And when he had thus spoken, he shewed them <span
+  class="add">his</span> hands and <span class="add">his</span> feet. </p>
+id: LUK/24/40
+next:
+  id: LUK/24/41
+  number: '41'
+previous:
+  id: LUK/24/39
+  number: '39'
+reference: 'Luke 24:40'

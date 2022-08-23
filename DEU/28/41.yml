@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="DEU 28:41"
+  class="v">41</span>Thou shalt beget sons and daughters, but thou shalt not
+  enjoy them; for they shall go into captivity. </p>
+id: DEU/28/41
+next:
+  id: DEU/28/42
+  number: '42'
+previous:
+  id: DEU/28/40
+  number: '40'
+reference: 'Deuteronomy 28:41'

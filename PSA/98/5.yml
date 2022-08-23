@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 98:5" class="v">5</span>Sing
+  unto the <span class="nd">LORD</span> with the harp; with the harp, and the
+  voice of a psalm.</p>
+id: PSA/98/5
+next:
+  id: PSA/98/6
+  number: '6'
+previous:
+  id: PSA/98/4
+  number: '4'
+reference: 'Psalms 98:5'

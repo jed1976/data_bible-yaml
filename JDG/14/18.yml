@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 14:18"
+  class="v">18</span>And the men of the city said unto him on the seventh day
+  before the sun went down, What <span class="add">is</span> sweeter than honey?
+  and what <span class="add">is</span> stronger than a lion? And he said unto
+  them, If ye had not plowed with my heifer, ye had not found out my riddle.</p>
+id: JDG/14/18
+next:
+  id: JDG/14/19
+  number: '19'
+previous:
+  id: JDG/14/17
+  number: '17'
+reference: 'Judges 14:18'

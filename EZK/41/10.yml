@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 41:10"
+  class="v">10</span>And between the chambers <span class="add">was</span> the
+  wideness of twenty cubits round about the house on every side. </p>
+id: EZK/41/10
+next:
+  id: EZK/41/11
+  number: '11'
+previous:
+  id: EZK/41/9
+  number: '9'
+reference: 'Ezekiel 41:10'

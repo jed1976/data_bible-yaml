@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 7:12"
+  class="v">12</span><span class="wj">Therefore all things whatsoever ye would
+  that men should do to you, do ye even so to them: for this is the law and the
+  prophets.</span></p>
+id: MAT/7/12
+next:
+  id: MAT/7/13
+  number: '13'
+previous:
+  id: MAT/7/11
+  number: '11'
+reference: 'Matthew 7:12'

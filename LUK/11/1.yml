@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 11:1" class="v">1</span>And
+  it came to pass, that, as he was praying in a certain place, when he ceased,
+  one of his disciples said unto him, Lord, teach us to pray, as John also
+  taught his disciples. </p>
+id: LUK/11/1
+next:
+  id: LUK/11/2
+  number: '2'
+previous:
+  id: LUK/10/42
+  number: '42'
+reference: 'Luke 11:1'

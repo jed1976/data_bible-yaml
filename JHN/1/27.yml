@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JHN 1:27" class="v">27</span>He
+  it is, who coming after me is preferred before me, whose shoe’s latchet I am
+  not worthy to unloose. </p>
+id: JHN/1/27
+next:
+  id: JHN/1/28
+  number: '28'
+previous:
+  id: JHN/1/26
+  number: '26'
+reference: 'John 1:27'

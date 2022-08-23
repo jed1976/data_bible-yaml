@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 33:9" class="v">9</span>And
+  Esau said, I have enough, my brother; keep that thou hast unto thyself. </p>
+id: GEN/33/9
+next:
+  id: GEN/33/10
+  number: '10'
+previous:
+  id: GEN/33/8
+  number: '8'
+reference: 'Genesis 33:9'

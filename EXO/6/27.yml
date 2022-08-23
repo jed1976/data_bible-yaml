@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 6:27"
+  class="v">27</span>These <span class="add">are</span> they which spake to
+  Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these
+  <span class="add">are</span> that Moses and Aaron.</p>
+id: EXO/6/27
+next:
+  id: EXO/6/28
+  number: '28'
+previous:
+  id: EXO/6/26
+  number: '26'
+reference: 'Exodus 6:27'

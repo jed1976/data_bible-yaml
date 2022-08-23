@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 34:11"
+  class="v">11</span>And the coast shall go down from Shepham to Riblah, on the
+  east side of Ain; and the border shall descend, and shall reach unto the side
+  of the sea of Chinnereth eastward: </p>
+id: NUM/34/11
+next:
+  id: NUM/34/12
+  number: '12'
+previous:
+  id: NUM/34/10
+  number: '10'
+reference: 'Numbers 34:11'

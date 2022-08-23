@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 3:7" class="v">7</span>And
+  next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the
+  men of Gibeon, and of Mizpah, unto the throne of the governor on this side the
+  river. </p>
+id: NEH/3/7
+next:
+  id: NEH/3/8
+  number: '8'
+previous:
+  id: NEH/3/6
+  number: '6'
+reference: 'Nehemiah 3:7'

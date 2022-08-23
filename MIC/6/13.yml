@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MIC 6:13"
+  class="v">13</span>Therefore also will I make <span class="add">thee</span>
+  sick in smiting thee, in making <span class="add">thee</span> desolate because
+  of thy sins. </p>
+id: MIC/6/13
+next:
+  id: MIC/6/14
+  number: '14'
+previous:
+  id: MIC/6/12
+  number: '12'
+reference: 'Micah 6:13'

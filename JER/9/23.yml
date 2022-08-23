@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 9:23" class="v">23</span>¶
+  Thus saith the <span class="nd">LORD</span>, Let not the wise <span
+  class="add">man</span> glory in his wisdom, neither let the mighty <span
+  class="add">man</span> glory in his might, let not the rich <span
+  class="add">man</span> glory in his riches: </p>
+id: JER/9/23
+next:
+  id: JER/9/24
+  number: '24'
+previous:
+  id: JER/9/22
+  number: '22'
+reference: 'Jeremiah 9:23'

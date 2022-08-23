@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 22:11"
+  class="v">11</span>But if the priest buy <span class="add">any</span> soul
+  with his money, he shall eat of it, and he that is born in his house: they
+  shall eat of his meat. </p>
+id: LEV/22/11
+next:
+  id: LEV/22/12
+  number: '12'
+previous:
+  id: LEV/22/10
+  number: '10'
+reference: 'Leviticus 22:11'

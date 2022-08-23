@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 11:32"
+  class="v">32</span>And the people stood up all that day, and all <span
+  class="add">that</span> night, and all the next day, and they gathered the
+  quails: he that gathered least gathered ten homers: and they spread <span
+  class="add">them</span> all abroad for themselves round about the camp. </p>
+id: NUM/11/32
+next:
+  id: NUM/11/33
+  number: '33'
+previous:
+  id: NUM/11/31
+  number: '31'
+reference: 'Numbers 11:32'

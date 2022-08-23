@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="TIT 2:13"
+  class="v">13</span>Looking for that blessed hope, and the glorious appearing
+  of the great God and our Saviour Jesus Christ; </p>
+id: TIT/2/13
+next:
+  id: TIT/2/14
+  number: '14'
+previous:
+  id: TIT/2/12
+  number: '12'
+reference: 'Titus 2:13'

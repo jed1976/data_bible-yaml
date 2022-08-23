@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 4:33" class="v">33</span>And
+  with many such parables spake he the word unto them, as they were able to hear
+  <span class="add">it</span>. </p>
+id: MRK/4/33
+next:
+  id: MRK/4/34
+  number: '34'
+previous:
+  id: MRK/4/32
+  number: '32'
+reference: 'Mark 4:33'

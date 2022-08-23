@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 43:21"
+  class="v">21</span>And it came to pass, when we came to the inn, that we
+  opened our sacks, and, behold, <span class="add">every</span> man’s money
+  <span class="add">was</span> in the mouth of his sack, our money in full
+  weight: and we have brought it again in our hand. </p>
+id: GEN/43/21
+next:
+  id: GEN/43/22
+  number: '22'
+previous:
+  id: GEN/43/20
+  number: '20'
+reference: 'Genesis 43:21'

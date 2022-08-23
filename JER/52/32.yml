@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JER 52:32"
+  class="v">32</span>And spake kindly unto him, and set his throne above the
+  throne of the kings that <span class="add">were</span> with him in Babylon,
+  </p>
+id: JER/52/32
+next:
+  id: JER/52/33
+  number: '33'
+previous:
+  id: JER/52/31
+  number: '31'
+reference: 'Jeremiah 52:32'

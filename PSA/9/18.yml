@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 9:18"
+  class="v">18</span>For the needy shall not alway be forgotten: the expectation
+  of the poor shall <span class="add">not</span> perish for ever.</p>
+id: PSA/9/18
+next:
+  id: PSA/9/19
+  number: '19'
+previous:
+  id: PSA/9/17
+  number: '17'
+reference: 'Psalms 9:18'

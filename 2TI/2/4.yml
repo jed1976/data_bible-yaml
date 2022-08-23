@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2TI 2:4" class="v">4</span>No man
+  that warreth entangleth himself with the affairs of <span
+  class="add">this</span> life; that he may please him who hath chosen him to be
+  a soldier. </p>
+id: 2TI/2/4
+next:
+  id: 2TI/2/5
+  number: '5'
+previous:
+  id: 2TI/2/3
+  number: '3'
+reference: '2 Timothy 2:4'

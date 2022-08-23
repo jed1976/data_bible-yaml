@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 78:6" class="v">6</span>That
+  the generation to come might know <span class="add">them, even</span> the
+  children <span class="add">which</span> should be born; <span
+  class="add">who</span> should arise and declare <span class="add">them</span>
+  to their children:</p>
+id: PSA/78/6
+next:
+  id: PSA/78/7
+  number: '7'
+previous:
+  id: PSA/78/5
+  number: '5'
+reference: 'Psalms 78:6'

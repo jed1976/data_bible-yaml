@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 2:1"
+  class="v">1</span>Therefore thou art inexcusable, O man, whosoever thou art
+  that judgest: for wherein thou judgest another, thou condemnest thyself; for
+  thou that judgest doest the same things. </p>
+id: ROM/2/1
+next:
+  id: ROM/2/2
+  number: '2'
+previous:
+  id: ROM/1/32
+  number: '32'
+reference: 'Romans 2:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 26:33"
+  class="v">33</span>Peter answered and said unto him, Though all <span
+  class="add">men</span> shall be offended because of thee, <span
+  class="add">yet</span> will I never be offended. </p>
+id: MAT/26/33
+next:
+  id: MAT/26/34
+  number: '34'
+previous:
+  id: MAT/26/32
+  number: '32'
+reference: 'Matthew 26:33'

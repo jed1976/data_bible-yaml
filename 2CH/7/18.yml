@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 7:18"
+  class="v">18</span>Then will I stablish the throne of thy kingdom, according
+  as I have covenanted with David thy father, saying, There shall not fail thee
+  a man <span class="add">to be</span> ruler in Israel. </p>
+id: 2CH/7/18
+next:
+  id: 2CH/7/19
+  number: '19'
+previous:
+  id: 2CH/7/17
+  number: '17'
+reference: '2 Chronicles 7:18'

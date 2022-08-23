@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 2:3" class="v">3</span>And
+  they come unto him, bringing one sick of the palsy, which was borne of four.
+  </p>
+id: MRK/2/3
+next:
+  id: MRK/2/4
+  number: '4'
+previous:
+  id: MRK/2/2
+  number: '2'
+reference: 'Mark 2:3'

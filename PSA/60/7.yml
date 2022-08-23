@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 60:7"
+  class="v">7</span>Gilead <span class="add">is</span> mine, and Manasseh <span
+  class="add">is</span> mine; Ephraim also <span class="add">is</span> the
+  strength of mine head; Judah <span class="add">is</span> my lawgiver;</p>
+id: PSA/60/7
+next:
+  id: PSA/60/8
+  number: '8'
+previous:
+  id: PSA/60/6
+  number: '6'
+reference: 'Psalms 60:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 68:9"
+  class="v">9</span>Thou, O God, didst send a plentiful rain, whereby thou didst
+  confirm thine inheritance, when it was weary.</p>
+id: PSA/68/9
+next:
+  id: PSA/68/10
+  number: '10'
+previous:
+  id: PSA/68/8
+  number: '8'
+reference: 'Psalms 68:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 10:42"
+  class="v">42</span><span class="wj">But one thing is needful: and Mary hath
+  chosen that good part, which shall not be taken away from her.</span></p>
+id: LUK/10/42
+next:
+  id: LUK/11/1
+  number: '1'
+previous:
+  id: LUK/10/41
+  number: '41'
+reference: 'Luke 10:42'

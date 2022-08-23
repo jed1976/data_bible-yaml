@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="61" data-sid="PSA 119:61"
+  class="v">61</span>The bands of the wicked have robbed me: <span
+  class="add">but</span> I have not forgotten thy law.</p>
+id: PSA/119/61
+next:
+  id: PSA/119/62
+  number: '62'
+previous:
+  id: PSA/119/60
+  number: '60'
+reference: 'Psalms 119:61'

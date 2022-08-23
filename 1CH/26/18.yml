@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1CH 26:18" class="v">18</span>At
+  Parbar westward, four at the causeway, <span class="add">and</span> two at
+  Parbar. </p>
+id: 1CH/26/18
+next:
+  id: 1CH/26/19
+  number: '19'
+previous:
+  id: 1CH/26/17
+  number: '17'
+reference: '1 Chronicles 26:18'

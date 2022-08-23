@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 13:18"
+  class="v">18</span><span class="wj">¶ Hear ye therefore the parable of the
+  sower.</span> </p>
+id: MAT/13/18
+next:
+  id: MAT/13/19
+  number: '19'
+previous:
+  id: MAT/13/17
+  number: '17'
+reference: 'Matthew 13:18'

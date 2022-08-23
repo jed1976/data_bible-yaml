@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 3:5" class="v">5</span><span
+  class="wj">He that overcometh, the same shall be clothed in white raiment; and
+  I will not blot out his name out of the book of life, but I will confess his
+  name before my Father, and before his angels.</span> </p>
+id: REV/3/5
+next:
+  id: REV/3/6
+  number: '6'
+previous:
+  id: REV/3/4
+  number: '4'
+reference: 'Revelation 3:5'

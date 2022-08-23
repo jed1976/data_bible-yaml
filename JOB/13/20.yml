@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 13:20"
+  class="v">20</span>Only do not two <span class="add">things</span> unto me:
+  then will I not hide myself from thee. </p>
+id: JOB/13/20
+next:
+  id: JOB/13/21
+  number: '21'
+previous:
+  id: JOB/13/19
+  number: '19'
+reference: 'Job 13:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 10:13"
+  class="v">13</span>For he saith, By the strength of my hand I have done <span
+  class="add">it</span>, and by my wisdom; for I am prudent: and I have removed
+  the bounds of the people, and have robbed their treasures, and I have put down
+  the inhabitants like a valiant <span class="add">man:</span> </p>
+id: ISA/10/13
+next:
+  id: ISA/10/14
+  number: '14'
+previous:
+  id: ISA/10/12
+  number: '12'
+reference: 'Isaiah 10:13'

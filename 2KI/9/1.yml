@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 9:1" class="v">1</span>And
+  Elisha the prophet called one of the children of the prophets, and said unto
+  him, Gird up thy loins, and take this box of oil in thine hand, and go to
+  Ramoth-gilead: </p>
+id: 2KI/9/1
+next:
+  id: 2KI/9/2
+  number: '2'
+previous:
+  id: 2KI/8/29
+  number: '29'
+reference: '2 Kings 9:1'

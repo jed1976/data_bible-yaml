@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 39:23"
+  class="v">23</span>The quiver rattleth against him, the glittering spear and
+  the shield. </p>
+id: JOB/39/23
+next:
+  id: JOB/39/24
+  number: '24'
+previous:
+  id: JOB/39/22
+  number: '22'
+reference: 'Job 39:23'

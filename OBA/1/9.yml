@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="OBA 1:9" class="v">9</span>And
+  thy mighty <span class="add">men</span>, O Teman, shall be dismayed, to the
+  end that every one of the mount of Esau may be cut off by slaughter.</p>
+id: OBA/1/9
+next:
+  id: OBA/1/10
+  number: '10'
+previous:
+  id: OBA/1/8
+  number: '8'
+reference: 'Obadiah 1:9'

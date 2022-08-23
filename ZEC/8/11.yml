@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 8:11" class="v">11</span>But
+  now I <span class="add">will</span> not <span class="add">be</span> unto the
+  residue of this people as in the former days, saith the <span
+  class="nd">LORD</span> of hosts. </p>
+id: ZEC/8/11
+next:
+  id: ZEC/8/12
+  number: '12'
+previous:
+  id: ZEC/8/10
+  number: '10'
+reference: 'Zechariah 8:11'

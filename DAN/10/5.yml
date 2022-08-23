@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 10:5" class="v">5</span>Then
+  I lifted up mine eyes, and looked, and behold a certain man clothed in linen,
+  whose loins <span class="add">were</span> girded with fine gold of Uphaz: </p>
+id: DAN/10/5
+next:
+  id: DAN/10/6
+  number: '6'
+previous:
+  id: DAN/10/4
+  number: '4'
+reference: 'Daniel 10:5'

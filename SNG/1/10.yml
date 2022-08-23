@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 1:10" class="v">10</span>Thy
+  cheeks are comely with rows <span class="add">of jewels</span>, thy neck with
+  chains <span class="add">of gold</span>. </p>
+id: SNG/1/10
+next:
+  id: SNG/1/11
+  number: '11'
+previous:
+  id: SNG/1/9
+  number: '9'
+reference: 'Song of Solomon 1:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 7:23" class="v">23</span>And
+  when he was full forty years old, it came into his heart to visit his brethren
+  the children of Israel. </p>
+id: ACT/7/23
+next:
+  id: ACT/7/24
+  number: '24'
+previous:
+  id: ACT/7/22
+  number: '22'
+reference: 'Acts 7:23'

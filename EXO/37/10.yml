@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 37:10" class="v">10</span>¶
+  And he made the table <span class="add">of</span> shittim wood: two cubits
+  <span class="add">was</span> the length thereof, and a cubit the breadth
+  thereof, and a cubit and a half the height thereof: </p>
+id: EXO/37/10
+next:
+  id: EXO/37/11
+  number: '11'
+previous:
+  id: EXO/37/9
+  number: '9'
+reference: 'Exodus 37:10'

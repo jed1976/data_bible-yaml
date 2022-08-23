@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 145:7"
+  class="v">7</span>They shall abundantly utter the memory of thy great
+  goodness, and shall sing of thy righteousness.</p>
+id: PSA/145/7
+next:
+  id: PSA/145/8
+  number: '8'
+previous:
+  id: PSA/145/6
+  number: '6'
+reference: 'Psalms 145:7'

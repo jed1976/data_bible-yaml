@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="NUM 33:51"
+  class="v">51</span>Speak unto the children of Israel, and say unto them, When
+  ye are passed over Jordan into the land of Canaan; </p>
+id: NUM/33/51
+next:
+  id: NUM/33/52
+  number: '52'
+previous:
+  id: NUM/33/50
+  number: '50'
+reference: 'Numbers 33:51'

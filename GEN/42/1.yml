@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 42:1" class="v">1</span>Now
+  when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do
+  ye look one upon another? </p>
+id: GEN/42/1
+next:
+  id: GEN/42/2
+  number: '2'
+previous:
+  id: GEN/41/57
+  number: '57'
+reference: 'Genesis 42:1'

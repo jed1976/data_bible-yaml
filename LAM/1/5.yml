@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LAM 1:5" class="v">5</span>Her
+  adversaries are the chief, her enemies prosper; for the <span
+  class="nd">LORD</span> hath afflicted her for the multitude of her
+  transgressions: her children are gone into captivity before the enemy. </p>
+id: LAM/1/5
+next:
+  id: LAM/1/6
+  number: '6'
+previous:
+  id: LAM/1/4
+  number: '4'
+reference: 'Lamentations 1:5'

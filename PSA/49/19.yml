@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 49:19"
+  class="v">19</span>He shall go to the generation of his fathers; they shall
+  never see light.</p>
+id: PSA/49/19
+next:
+  id: PSA/49/20
+  number: '20'
+previous:
+  id: PSA/49/18
+  number: '18'
+reference: 'Psalms 49:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 16:1" class="v">1</span>The
+  Pharisees also with the Sadducees came, and tempting desired him that he would
+  shew them a sign from heaven. </p>
+id: MAT/16/1
+next:
+  id: MAT/16/2
+  number: '2'
+previous:
+  id: MAT/15/39
+  number: '39'
+reference: 'Matthew 16:1'

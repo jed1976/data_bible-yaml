@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 44:3" class="v">3</span>For I
+  will pour water upon him that is thirsty, and floods upon the dry ground: I
+  will pour my spirit upon thy seed, and my blessing upon thine offspring: </p>
+id: ISA/44/3
+next:
+  id: ISA/44/4
+  number: '4'
+previous:
+  id: ISA/44/2
+  number: '2'
+reference: 'Isaiah 44:3'

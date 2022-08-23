@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 34:20"
+  class="v">20</span>And of the tribe of the children of Simeon, Shemuel the son
+  of Ammihud. </p>
+id: NUM/34/20
+next:
+  id: NUM/34/21
+  number: '21'
+previous:
+  id: NUM/34/19
+  number: '19'
+reference: 'Numbers 34:20'

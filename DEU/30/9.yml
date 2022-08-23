@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 30:9" class="v">9</span>And
+  the <span class="nd">LORD</span> thy God will make thee plenteous in every
+  work of thine hand, in the fruit of thy body, and in the fruit of thy cattle,
+  and in the fruit of thy land, for good: for the <span class="nd">LORD</span>
+  will again rejoice over thee for good, as he rejoiced over thy fathers: </p>
+id: DEU/30/9
+next:
+  id: DEU/30/10
+  number: '10'
+previous:
+  id: DEU/30/8
+  number: '8'
+reference: 'Deuteronomy 30:9'

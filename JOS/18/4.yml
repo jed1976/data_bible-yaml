@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 18:4" class="v">4</span>Give
+  out from among you three men for <span class="add">each</span> tribe: and I
+  will send them, and they shall rise, and go through the land, and describe it
+  according to the inheritance of them; and they shall come <span
+  class="add">again</span> to me. </p>
+id: JOS/18/4
+next:
+  id: JOS/18/5
+  number: '5'
+previous:
+  id: JOS/18/3
+  number: '3'
+reference: 'Joshua 18:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 5:9" class="v">9</span>Then
+  asked we those elders, <span class="add">and</span> said unto them thus, Who
+  commanded you to build this house, and to make up these walls? </p>
+id: EZR/5/9
+next:
+  id: EZR/5/10
+  number: '10'
+previous:
+  id: EZR/5/8
+  number: '8'
+reference: 'Ezra 5:9'

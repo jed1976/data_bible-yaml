@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 22:16"
+  class="v">16</span>What hast thou here? and whom hast thou here, that thou
+  hast hewed thee out a sepulchre here, <span class="add">as</span> he that
+  heweth him out a sepulchre on high, <span class="add">and</span> that graveth
+  an habitation for himself in a rock? </p>
+id: ISA/22/16
+next:
+  id: ISA/22/17
+  number: '17'
+previous:
+  id: ISA/22/15
+  number: '15'
+reference: 'Isaiah 22:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 29:12" class="v">12</span>¶
+  And on the fifteenth day of the seventh month ye shall have an holy
+  convocation; ye shall do no servile work, and ye shall keep a feast unto the
+  <span class="nd">LORD</span> seven days: </p>
+id: NUM/29/12
+next:
+  id: NUM/29/13
+  number: '13'
+previous:
+  id: NUM/29/11
+  number: '11'
+reference: 'Numbers 29:12'

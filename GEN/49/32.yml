@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 49:32"
+  class="v">32</span>The purchase of the field and of the cave that <span
+  class="add">is</span> therein <span class="add">was</span> from the children
+  of Heth. </p>
+id: GEN/49/32
+next:
+  id: GEN/49/33
+  number: '33'
+previous:
+  id: GEN/49/31
+  number: '31'
+reference: 'Genesis 49:32'

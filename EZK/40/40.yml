@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="EZK 40:40"
+  class="v">40</span>And at the side without, as one goeth up to the entry of
+  the north gate, <span class="add">were</span> two tables; and on the other
+  side, which <span class="add">was</span> at the porch of the gate, <span
+  class="add">were</span> two tables. </p>
+id: EZK/40/40
+next:
+  id: EZK/40/41
+  number: '41'
+previous:
+  id: EZK/40/39
+  number: '39'
+reference: 'Ezekiel 40:40'

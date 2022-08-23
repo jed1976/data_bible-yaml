@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 23:10"
+  class="v">10</span>And six years thou shalt sow thy land, and shalt gather in
+  the fruits thereof: </p>
+id: EXO/23/10
+next:
+  id: EXO/23/11
+  number: '11'
+previous:
+  id: EXO/23/9
+  number: '9'
+reference: 'Exodus 23:10'

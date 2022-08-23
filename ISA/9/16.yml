@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 9:16" class="v">16</span>For
+  the leaders of this people cause <span class="add">them</span> to err; and
+  <span class="add">they that are</span> led of them <span
+  class="add">are</span> destroyed. </p>
+id: ISA/9/16
+next:
+  id: ISA/9/17
+  number: '17'
+previous:
+  id: ISA/9/15
+  number: '15'
+reference: 'Isaiah 9:16'

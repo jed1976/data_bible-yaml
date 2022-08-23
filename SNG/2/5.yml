@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 2:5" class="v">5</span>Stay
+  me with flagons, comfort me with apples: for I <span class="add">am</span>
+  sick of love. </p>
+id: SNG/2/5
+next:
+  id: SNG/2/6
+  number: '6'
+previous:
+  id: SNG/2/4
+  number: '4'
+reference: 'Song of Solomon 2:5'

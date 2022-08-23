@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 39:5" class="v">5</span>And
+  it came to pass from the time <span class="add">that</span> he had made him
+  overseer in his house, and over all that he had, that the <span
+  class="nd">LORD</span> blessed the Egyptian’s house for Joseph’s sake; and the
+  blessing of the <span class="nd">LORD</span> was upon all that he had in the
+  house, and in the field. </p>
+id: GEN/39/5
+next:
+  id: GEN/39/6
+  number: '6'
+previous:
+  id: GEN/39/4
+  number: '4'
+reference: 'Genesis 39:5'

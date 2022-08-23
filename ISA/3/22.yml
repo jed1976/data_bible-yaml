@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 3:22" class="v">22</span>The
+  changeable suits of apparel, and the mantles, and the wimples, and the
+  crisping pins, </p>
+id: ISA/3/22
+next:
+  id: ISA/3/23
+  number: '23'
+previous:
+  id: ISA/3/21
+  number: '21'
+reference: 'Isaiah 3:22'

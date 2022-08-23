@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOS 21:26"
+  class="v">26</span>All the cities <span class="add">were</span> ten with their
+  suburbs for the families of the children of Kohath that remained.</p>
+id: JOS/21/26
+next:
+  id: JOS/21/27
+  number: '27'
+previous:
+  id: JOS/21/25
+  number: '25'
+reference: 'Joshua 21:26'

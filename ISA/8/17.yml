@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 8:17" class="v">17</span>And
+  I will wait upon the <span class="nd">LORD</span>, that hideth his face from
+  the house of Jacob, and I will look for him. </p>
+id: ISA/8/17
+next:
+  id: ISA/8/18
+  number: '18'
+previous:
+  id: ISA/8/16
+  number: '16'
+reference: 'Isaiah 8:17'

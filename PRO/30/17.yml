@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 30:17"
+  class="v">17</span>The eye <span class="add">that</span> mocketh at <span
+  class="add">his</span> father, and despiseth to obey <span
+  class="add">his</span> mother, the ravens of the valley shall pick it out, and
+  the young eagles shall eat it.</p>
+id: PRO/30/17
+next:
+  id: PRO/30/18
+  number: '18'
+previous:
+  id: PRO/30/16
+  number: '16'
+reference: 'Proverbs 30:17'

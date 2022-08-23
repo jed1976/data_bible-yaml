@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="NUM 26:50"
+  class="v">50</span>These <span class="add">are</span> the families of Naphtali
+  according to their families: and they that were numbered of them <span
+  class="add">were</span> forty and five thousand and four hundred. </p>
+id: NUM/26/50
+next:
+  id: NUM/26/51
+  number: '51'
+previous:
+  id: NUM/26/49
+  number: '49'
+reference: 'Numbers 26:50'

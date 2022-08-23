@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 43:28"
+  class="v">28</span>And they answered, Thy servant our father <span
+  class="add">is</span> in good health, he <span class="add">is</span> yet
+  alive. And they bowed down their heads, and made obeisance. </p>
+id: GEN/43/28
+next:
+  id: GEN/43/29
+  number: '29'
+previous:
+  id: GEN/43/27
+  number: '27'
+reference: 'Genesis 43:28'

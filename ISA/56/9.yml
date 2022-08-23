@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 56:9" class="v">9</span>¶ All
+  ye beasts of the field, come to devour, <span class="add">yea</span>, all ye
+  beasts in the forest. </p>
+id: ISA/56/9
+next:
+  id: ISA/56/10
+  number: '10'
+previous:
+  id: ISA/56/8
+  number: '8'
+reference: 'Isaiah 56:9'

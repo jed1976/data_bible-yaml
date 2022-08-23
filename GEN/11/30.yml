@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 11:30"
+  class="v">30</span>But Sarai was barren; she <span class="add">had</span> no
+  child. </p>
+id: GEN/11/30
+next:
+  id: GEN/11/31
+  number: '31'
+previous:
+  id: GEN/11/29
+  number: '29'
+reference: 'Genesis 11:30'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NAM 3:3" class="v">3</span>The
+  horseman lifteth up both the bright sword and the glittering spear: and <span
+  class="add">there is</span> a multitude of slain, and a great number of
+  carcases; and <span class="add">there is</span> none end of <span
+  class="add">their</span> corpses; they stumble upon their corpses: </p>
+id: NAM/3/3
+next:
+  id: NAM/3/4
+  number: '4'
+previous:
+  id: NAM/3/2
+  number: '2'
+reference: 'Nahum 3:3'

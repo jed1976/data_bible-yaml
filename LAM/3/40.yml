@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LAM 3:40" class="v">40</span>Let
+  us search and try our ways, and turn again to the <span
+  class="nd">LORD</span>. </p>
+id: LAM/3/40
+next:
+  id: LAM/3/41
+  number: '41'
+previous:
+  id: LAM/3/39
+  number: '39'
+reference: 'Lamentations 3:40'

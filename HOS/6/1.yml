@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 6:1" class="v">1</span>Come,
+  and let us return unto the <span class="nd">LORD</span>: for he hath torn, and
+  he will heal us; he hath smitten, and he will bind us up. </p>
+id: HOS/6/1
+next:
+  id: HOS/6/2
+  number: '2'
+previous:
+  id: HOS/5/15
+  number: '15'
+reference: 'Hosea 6:1'

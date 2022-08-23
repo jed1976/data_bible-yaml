@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 26:5" class="v">5</span>¶
+  Reuben, the eldest son of Israel: the children of Reuben; Hanoch, <span
+  class="add">of whom cometh</span> the family of the Hanochites: of Pallu, the
+  family of the Palluites: </p>
+id: NUM/26/5
+next:
+  id: NUM/26/6
+  number: '6'
+previous:
+  id: NUM/26/4
+  number: '4'
+reference: 'Numbers 26:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOL 1:5" class="v">5</span>Awake,
+  ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new
+  wine; for it is cut off from your mouth. </p>
+id: JOL/1/5
+next:
+  id: JOL/1/6
+  number: '6'
+previous:
+  id: JOL/1/4
+  number: '4'
+reference: 'Joel 1:5'

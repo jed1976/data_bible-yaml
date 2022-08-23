@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PHP 1:22" class="v">22</span>But
+  if I live in the flesh, this <span class="add">is</span> the fruit of my
+  labour: yet what I shall choose I wot not. </p>
+id: PHP/1/22
+next:
+  id: PHP/1/23
+  number: '23'
+previous:
+  id: PHP/1/21
+  number: '21'
+reference: 'Philippians 1:22'

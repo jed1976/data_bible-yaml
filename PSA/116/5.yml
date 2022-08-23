@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 116:5"
+  class="v">5</span>Gracious <span class="add">is</span> the <span
+  class="nd">LORD</span>, and righteous; yea, our God <span
+  class="add">is</span> merciful.</p>
+id: PSA/116/5
+next:
+  id: PSA/116/6
+  number: '6'
+previous:
+  id: PSA/116/4
+  number: '4'
+reference: 'Psalms 116:5'

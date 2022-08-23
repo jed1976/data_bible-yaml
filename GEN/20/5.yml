@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 20:5" class="v">5</span>Said
+  he not unto me, She <span class="add">is</span> my sister? and she, even she
+  herself said, He <span class="add">is</span> my brother: in the integrity of
+  my heart and innocency of my hands have I done this. </p>
+id: GEN/20/5
+next:
+  id: GEN/20/6
+  number: '6'
+previous:
+  id: GEN/20/4
+  number: '4'
+reference: 'Genesis 20:5'

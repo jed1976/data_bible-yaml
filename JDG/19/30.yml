@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 19:30"
+  class="v">30</span>And it was so, that all that saw it said, There was no such
+  deed done nor seen from the day that the children of Israel came up out of the
+  land of Egypt unto this day: consider of it, take advice, and speak <span
+  class="add">your minds</span>.</p>
+id: JDG/19/30
+next:
+  id: JDG/20/1
+  number: '1'
+previous:
+  id: JDG/19/29
+  number: '29'
+reference: 'Judges 19:30'

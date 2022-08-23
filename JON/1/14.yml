@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JON 1:14"
+  class="v">14</span>Wherefore they cried unto the <span class="nd">LORD</span>,
+  and said, We beseech thee, O <span class="nd">LORD</span>, we beseech thee,
+  let us not perish for this man’s life, and lay not upon us innocent blood: for
+  thou, O <span class="nd">LORD</span>, hast done as it pleased thee. </p>
+id: JON/1/14
+next:
+  id: JON/1/15
+  number: '15'
+previous:
+  id: JON/1/13
+  number: '13'
+reference: 'Jonah 1:14'

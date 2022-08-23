@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JDG 19:26"
+  class="v">26</span>Then came the woman in the dawning of the day, and fell
+  down at the door of the man’s house where her lord <span
+  class="add">was</span>, till it was light. </p>
+id: JDG/19/26
+next:
+  id: JDG/19/27
+  number: '27'
+previous:
+  id: JDG/19/25
+  number: '25'
+reference: 'Judges 19:26'

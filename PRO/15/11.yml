@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 15:11"
+  class="v">11</span>Hell and destruction <span class="add">are</span> before
+  the <span class="nd">LORD</span>: how much more then the hearts of the
+  children of men? </p>
+id: PRO/15/11
+next:
+  id: PRO/15/12
+  number: '12'
+previous:
+  id: PRO/15/10
+  number: '10'
+reference: 'Proverbs 15:11'

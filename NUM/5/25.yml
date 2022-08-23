@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 5:25"
+  class="v">25</span>Then the priest shall take the jealousy offering out of the
+  woman’s hand, and shall wave the offering before the <span
+  class="nd">LORD</span>, and offer it upon the altar: </p>
+id: NUM/5/25
+next:
+  id: NUM/5/26
+  number: '26'
+previous:
+  id: NUM/5/24
+  number: '24'
+reference: 'Numbers 5:25'

@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO TITUS</p>
+id: TIT/intro/0
+next:
+  id: TIT/1/1
+  number: '1'
+previous:
+  id: 2TI/4/22
+  number: '22'
+reference: Titus

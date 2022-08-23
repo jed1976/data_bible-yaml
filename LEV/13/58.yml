@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="LEV 13:58"
+  class="v">58</span>And the garment, either warp, or woof, or whatsoever thing
+  of skin <span class="add">it be</span>, which thou shalt wash, if the plague
+  be departed from them, then it shall be washed the second time, and shall be
+  clean. </p>
+id: LEV/13/58
+next:
+  id: LEV/13/59
+  number: '59'
+previous:
+  id: LEV/13/57
+  number: '57'
+reference: 'Leviticus 13:58'

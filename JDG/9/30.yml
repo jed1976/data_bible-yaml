@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 9:30" class="v">30</span>¶
+  And when Zebul the ruler of the city heard the words of Gaal the son of Ebed,
+  his anger was kindled. </p>
+id: JDG/9/30
+next:
+  id: JDG/9/31
+  number: '31'
+previous:
+  id: JDG/9/29
+  number: '29'
+reference: 'Judges 9:30'

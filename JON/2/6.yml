@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JON 2:6" class="v">6</span>I went
+  down to the bottoms of the mountains; the earth with her bars <span
+  class="add">was</span> about me for ever: yet hast thou brought up my life
+  from corruption, O <span class="nd">LORD</span> my God. </p>
+id: JON/2/6
+next:
+  id: JON/2/7
+  number: '7'
+previous:
+  id: JON/2/5
+  number: '5'
+reference: 'Jonah 2:6'

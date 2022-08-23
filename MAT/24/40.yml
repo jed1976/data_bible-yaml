@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 24:40"
+  class="v">40</span><span class="wj">Then shall two be in the field; the one
+  shall be taken, and the other left.</span> </p>
+id: MAT/24/40
+next:
+  id: MAT/24/41
+  number: '41'
+previous:
+  id: MAT/24/39
+  number: '39'
+reference: 'Matthew 24:40'

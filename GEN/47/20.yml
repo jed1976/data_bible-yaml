@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 47:20"
+  class="v">20</span>And Joseph bought all the land of Egypt for Pharaoh; for
+  the Egyptians sold every man his field, because the famine prevailed over
+  them: so the land became Pharaoh’s. </p>
+id: GEN/47/20
+next:
+  id: GEN/47/21
+  number: '21'
+previous:
+  id: GEN/47/19
+  number: '19'
+reference: 'Genesis 47:20'

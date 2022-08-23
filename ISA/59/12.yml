@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 59:12"
+  class="v">12</span>For our transgressions are multiplied before thee, and our
+  sins testify against us: for our transgressions <span class="add">are</span>
+  with us; and <span class="add">as for</span> our iniquities, we know them;
+  </p>
+id: ISA/59/12
+next:
+  id: ISA/59/13
+  number: '13'
+previous:
+  id: ISA/59/11
+  number: '11'
+reference: 'Isaiah 59:12'

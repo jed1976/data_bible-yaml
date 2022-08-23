@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 22:10"
+  class="v">10</span>And he saith unto me, Seal not the sayings of the prophecy
+  of this book: for the time is at hand. </p>
+id: REV/22/10
+next:
+  id: REV/22/11
+  number: '11'
+previous:
+  id: REV/22/9
+  number: '9'
+reference: 'Revelation 22:10'

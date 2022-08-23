@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 30:20" class="v">20</span>¶
+  And it came to pass in the eleventh year, in the first <span
+  class="add">month</span>, in the seventh <span class="add">day</span> of the
+  month, <span class="add">that</span> the word of the <span
+  class="nd">LORD</span> came unto me, saying, </p>
+id: EZK/30/20
+next:
+  id: EZK/30/21
+  number: '21'
+previous:
+  id: EZK/30/19
+  number: '19'
+reference: 'Ezekiel 30:20'

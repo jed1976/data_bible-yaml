@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 24:13"
+  class="v">13</span>And I have given you a land for which ye did not labour,
+  and cities which ye built not, and ye dwell in them; of the vineyards and
+  oliveyards which ye planted not do ye eat.</p>
+id: JOS/24/13
+next:
+  id: JOS/24/14
+  number: '14'
+previous:
+  id: JOS/24/12
+  number: '12'
+reference: 'Joshua 24:13'

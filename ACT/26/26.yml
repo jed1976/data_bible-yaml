@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 26:26"
+  class="v">26</span>For the king knoweth of these things, before whom also I
+  speak freely: for I am persuaded that none of these things are hidden from
+  him; for this thing was not done in a corner. </p>
+id: ACT/26/26
+next:
+  id: ACT/26/27
+  number: '27'
+previous:
+  id: ACT/26/25
+  number: '25'
+reference: 'Acts 26:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 31:6" class="v">6</span>I
+  have hated them that regard lying vanities: but I trust in the <span
+  class="nd">LORD</span>.</p>
+id: PSA/31/6
+next:
+  id: PSA/31/7
+  number: '7'
+previous:
+  id: PSA/31/5
+  number: '5'
+reference: 'Psalms 31:6'

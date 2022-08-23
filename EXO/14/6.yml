@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 14:6" class="v">6</span>And
+  he made ready his chariot, and took his people with him: </p>
+id: EXO/14/6
+next:
+  id: EXO/14/7
+  number: '7'
+previous:
+  id: EXO/14/5
+  number: '5'
+reference: 'Exodus 14:6'

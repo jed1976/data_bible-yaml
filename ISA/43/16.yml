@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 43:16"
+  class="v">16</span>Thus saith the <span class="nd">LORD</span>, which maketh a
+  way in the sea, and a path in the mighty waters; </p>
+id: ISA/43/16
+next:
+  id: ISA/43/17
+  number: '17'
+previous:
+  id: ISA/43/15
+  number: '15'
+reference: 'Isaiah 43:16'

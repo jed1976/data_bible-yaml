@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 30:10"
+  class="v">10</span>And if she vowed in her husband’s house, or bound her soul
+  by a bond with an oath; </p>
+id: NUM/30/10
+next:
+  id: NUM/30/11
+  number: '11'
+previous:
+  id: NUM/30/9
+  number: '9'
+reference: 'Numbers 30:10'

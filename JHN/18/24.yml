@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 18:24"
+  class="v">24</span>Now Annas had sent him bound unto Caiaphas the high priest.
+  </p>
+id: JHN/18/24
+next:
+  id: JHN/18/25
+  number: '25'
+previous:
+  id: JHN/18/23
+  number: '23'
+reference: 'John 18:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 1:15" class="v">15</span>And
+  when ye spread forth your hands, I will hide mine eyes from you: yea, when ye
+  make many prayers, I will not hear: your hands are full of blood.</p>
+id: ISA/1/15
+next:
+  id: ISA/1/16
+  number: '16'
+previous:
+  id: ISA/1/14
+  number: '14'
+reference: 'Isaiah 1:15'

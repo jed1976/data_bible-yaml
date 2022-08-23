@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1KI 20:32" class="v">32</span>So
+  they girded sackcloth on their loins, and <span class="add">put</span> ropes
+  on their heads, and came to the king of Israel, and said, Thy servant
+  Ben-hadad saith, I pray thee, let me live. And he said, <span
+  class="add">Is</span> he yet alive? he <span class="add">is</span> my brother.
+  </p>
+id: 1KI/20/32
+next:
+  id: 1KI/20/33
+  number: '33'
+previous:
+  id: 1KI/20/31
+  number: '31'
+reference: '1 Kings 20:32'

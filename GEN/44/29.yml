@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 44:29"
+  class="v">29</span>And if ye take this also from me, and mischief befall him,
+  ye shall bring down my gray hairs with sorrow to the grave. </p>
+id: GEN/44/29
+next:
+  id: GEN/44/30
+  number: '30'
+previous:
+  id: GEN/44/28
+  number: '28'
+reference: 'Genesis 44:29'

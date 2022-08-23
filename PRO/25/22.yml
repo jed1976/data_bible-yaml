@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 25:22"
+  class="v">22</span>For thou shalt heap coals of fire upon his head, and the
+  <span class="nd">LORD</span> shall reward thee. </p>
+id: PRO/25/22
+next:
+  id: PRO/25/23
+  number: '23'
+previous:
+  id: PRO/25/21
+  number: '21'
+reference: 'Proverbs 25:22'

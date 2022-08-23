@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 2:1" class="v">1</span>And
+  when any will offer a meat offering unto the <span class="nd">LORD</span>, his
+  offering shall be <span class="add">of</span> fine flour; and he shall pour
+  oil upon it, and put frankincense thereon: </p>
+id: LEV/2/1
+next:
+  id: LEV/2/2
+  number: '2'
+previous:
+  id: LEV/1/17
+  number: '17'
+reference: 'Leviticus 2:1'

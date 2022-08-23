@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 4:1" class="v">1</span>Hear
+  this word, ye kine of Bashan, that <span class="add">are</span> in the
+  mountain of Samaria, which oppress the poor, which crush the needy, which say
+  to their masters, Bring, and let us drink. </p>
+id: AMO/4/1
+next:
+  id: AMO/4/2
+  number: '2'
+previous:
+  id: AMO/3/15
+  number: '15'
+reference: 'Amos 4:1'

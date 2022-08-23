@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 43:25"
+  class="v">25</span>And they made ready the present against Joseph came at
+  noon: for they heard that they should eat bread there.</p>
+id: GEN/43/25
+next:
+  id: GEN/43/26
+  number: '26'
+previous:
+  id: GEN/43/24
+  number: '24'
+reference: 'Genesis 43:25'

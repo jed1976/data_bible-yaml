@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 10:1" class="v">1</span>Now
+  those that sealed <span class="add">were</span>, Nehemiah, the Tirshatha, the
+  son of Hachaliah, and Zidkijah, </p>
+id: NEH/10/1
+next:
+  id: NEH/10/2
+  number: '2'
+previous:
+  id: NEH/9/38
+  number: '38'
+reference: 'Nehemiah 10:1'

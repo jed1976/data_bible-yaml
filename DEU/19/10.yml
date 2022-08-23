@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 19:10"
+  class="v">10</span>That innocent blood be not shed in thy land, which the
+  <span class="nd">LORD</span> thy God giveth thee <span class="add">for</span>
+  an inheritance, and <span class="add">so</span> blood be upon thee.</p>
+id: DEU/19/10
+next:
+  id: DEU/19/11
+  number: '11'
+previous:
+  id: DEU/19/9
+  number: '9'
+reference: 'Deuteronomy 19:10'

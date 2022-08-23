@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="REV 6:8" class="v">8</span>And I
+  looked, and behold a pale horse: and his name that sat on him was Death, and
+  Hell followed with him. And power was given unto them over the fourth part of
+  the earth, to kill with sword, and with hunger, and with death, and with the
+  beasts of the earth. </p>
+id: REV/6/8
+next:
+  id: REV/6/9
+  number: '9'
+previous:
+  id: REV/6/7
+  number: '7'
+reference: 'Revelation 6:8'

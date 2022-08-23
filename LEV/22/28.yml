@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="LEV 22:28"
+  class="v">28</span>And <span class="add">whether it be</span> cow or ewe, ye
+  shall not kill it and her young both in one day. </p>
+id: LEV/22/28
+next:
+  id: LEV/22/29
+  number: '29'
+previous:
+  id: LEV/22/27
+  number: '27'
+reference: 'Leviticus 22:28'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 5:12" class="v">12</span>And
+  the men that died not were smitten with the emerods: and the cry of the city
+  went up to heaven.</p>
+id: 1SA/5/12
+next:
+  id: 1SA/6/1
+  number: '1'
+previous:
+  id: 1SA/5/11
+  number: '11'
+reference: '1 Samuel 5:12'

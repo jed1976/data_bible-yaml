@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="ACT 7:53" class="v">53</span>Who
+  have received the law by the disposition of angels, and have not kept <span
+  class="add">it.</span></p>
+id: ACT/7/53
+next:
+  id: ACT/7/54
+  number: '54'
+previous:
+  id: ACT/7/52
+  number: '52'
+reference: 'Acts 7:53'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CO 7:16" class="v">16</span>For
+  what knowest thou, O wife, whether thou shalt save <span
+  class="add">thy</span> husband? or how knowest thou, O man, whether thou shalt
+  save <span class="add">thy</span> wife? </p>
+id: 1CO/7/16
+next:
+  id: 1CO/7/17
+  number: '17'
+previous:
+  id: 1CO/7/15
+  number: '15'
+reference: '1 Corinthians 7:16'

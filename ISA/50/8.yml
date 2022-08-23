@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 50:8" class="v">8</span><span
+  class="add">He is</span> near that justifieth me; who will contend with me?
+  let us stand together: who <span class="add">is</span> mine adversary? let him
+  come near to me. </p>
+id: ISA/50/8
+next:
+  id: ISA/50/9
+  number: '9'
+previous:
+  id: ISA/50/7
+  number: '7'
+reference: 'Isaiah 50:8'

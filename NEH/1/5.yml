@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 1:5" class="v">5</span>And
+  said, I beseech thee, O <span class="nd">LORD</span> God of heaven, the great
+  and terrible God, that keepeth covenant and mercy for them that love him and
+  observe his commandments: </p>
+id: NEH/1/5
+next:
+  id: NEH/1/6
+  number: '6'
+previous:
+  id: NEH/1/4
+  number: '4'
+reference: 'Nehemiah 1:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 73:5" class="v">5</span>They
+  <span class="add">are</span> not in trouble <span class="add">as other</span>
+  men; neither are they plagued like <span class="add">other</span> men.</p>
+id: PSA/73/5
+next:
+  id: PSA/73/6
+  number: '6'
+previous:
+  id: PSA/73/4
+  number: '4'
+reference: 'Psalms 73:5'

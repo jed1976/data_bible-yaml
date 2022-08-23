@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 2:1" class="v">1</span>And he
+  said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
+  </p>
+id: EZK/2/1
+next:
+  id: EZK/2/2
+  number: '2'
+previous:
+  id: EZK/1/28
+  number: '28'
+reference: 'Ezekiel 2:1'

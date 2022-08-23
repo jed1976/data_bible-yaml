@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 12:1" class="v">1</span>And
+  Rehoboam went to Shechem: for all Israel were come to Shechem to make him
+  king. </p>
+id: 1KI/12/1
+next:
+  id: 1KI/12/2
+  number: '2'
+previous:
+  id: 1KI/11/43
+  number: '43'
+reference: '1 Kings 12:1'

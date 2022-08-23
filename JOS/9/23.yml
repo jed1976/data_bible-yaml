@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 9:23" class="v">23</span>Now
+  therefore ye <span class="add">are</span> cursed, and there shall none of you
+  be freed from being bondmen, and hewers of wood and drawers of water for the
+  house of my God. </p>
+id: JOS/9/23
+next:
+  id: JOS/9/24
+  number: '24'
+previous:
+  id: JOS/9/22
+  number: '22'
+reference: 'Joshua 9:23'

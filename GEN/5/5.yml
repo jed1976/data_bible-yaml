@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 5:5" class="v">5</span>And
+  all the days that Adam lived were nine hundred and thirty years: and he
+  died.</p>
+id: GEN/5/5
+next:
+  id: GEN/5/6
+  number: '6'
+previous:
+  id: GEN/5/4
+  number: '4'
+reference: 'Genesis 5:5'

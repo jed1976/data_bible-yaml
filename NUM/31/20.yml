@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 31:20"
+  class="v">20</span>And purify all <span class="add">your</span> raiment, and
+  all that is made of skins, and all work of goats’ <span
+  class="add">hair</span>, and all things made of wood.</p>
+id: NUM/31/20
+next:
+  id: NUM/31/21
+  number: '21'
+previous:
+  id: NUM/31/19
+  number: '19'
+reference: 'Numbers 31:20'

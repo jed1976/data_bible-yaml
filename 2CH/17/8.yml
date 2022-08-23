@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 17:8" class="v">8</span>And
+  with them <span class="add">he sent</span> Levites, <span
+  class="add">even</span> Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and
+  Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah,
+  Levites; and with them Elishama and Jehoram, priests. </p>
+id: 2CH/17/8
+next:
+  id: 2CH/17/9
+  number: '9'
+previous:
+  id: 2CH/17/7
+  number: '7'
+reference: '2 Chronicles 17:8'

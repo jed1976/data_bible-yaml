@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 5:31" class="v">31</span>And
+  Jesus answering said unto them, <span class="wj">They that are whole need not
+  a physician; but they that are sick.</span> </p>
+id: LUK/5/31
+next:
+  id: LUK/5/32
+  number: '32'
+previous:
+  id: LUK/5/30
+  number: '30'
+reference: 'Luke 5:31'

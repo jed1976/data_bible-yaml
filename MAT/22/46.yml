@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 22:46"
+  class="v">46</span>And no man was able to answer him a word, neither durst any
+  <span class="add">man</span> from that day forth ask him any more <span
+  class="add">questions.</span></p>
+id: MAT/22/46
+next:
+  id: MAT/23/1
+  number: '1'
+previous:
+  id: MAT/22/45
+  number: '45'
+reference: 'Matthew 22:46'

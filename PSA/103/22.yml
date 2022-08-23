@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 103:22"
+  class="v">22</span>Bless the <span class="nd">LORD</span>, all his works in
+  all places of his dominion: bless the <span class="nd">LORD</span>, O my
+  soul.</p>
+id: PSA/103/22
+next:
+  id: PSA/104/1
+  number: '1'
+previous:
+  id: PSA/103/21
+  number: '21'
+reference: 'Psalms 103:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 146:6"
+  class="v">6</span>Which made heaven, and earth, the sea, and all that therein
+  <span class="add">is:</span> which keepeth truth for ever:</p>
+id: PSA/146/6
+next:
+  id: PSA/146/7
+  number: '7'
+previous:
+  id: PSA/146/5
+  number: '5'
+reference: 'Psalms 146:6'

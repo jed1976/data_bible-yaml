@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ROM 2:26"
+  class="v">26</span>Therefore if the uncircumcision keep the righteousness of
+  the law, shall not his uncircumcision be counted for circumcision? </p>
+id: ROM/2/26
+next:
+  id: ROM/2/27
+  number: '27'
+previous:
+  id: ROM/2/25
+  number: '25'
+reference: 'Romans 2:26'

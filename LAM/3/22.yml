@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LAM 3:22" class="v">22</span>¶
+  <span class="add">It is of</span> the <span class="nd">LORD’s</span> mercies
+  that we are not consumed, because his compassions fail not. </p>
+id: LAM/3/22
+next:
+  id: LAM/3/23
+  number: '23'
+previous:
+  id: LAM/3/21
+  number: '21'
+reference: 'Lamentations 3:22'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 4:10"
+  class="v">10</span><span class="add">Specially</span> the day that thou
+  stoodest before the <span class="nd">LORD</span> thy God in Horeb, when the
+  <span class="nd">LORD</span> said unto me, Gather me the people together, and
+  I will make them hear my words, that they may learn to fear me all the days
+  that they shall live upon the earth, and <span class="add">that</span> they
+  may teach their children. </p>
+id: DEU/4/10
+next:
+  id: DEU/4/11
+  number: '11'
+previous:
+  id: DEU/4/9
+  number: '9'
+reference: 'Deuteronomy 4:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 7:21"
+  class="v">21</span>Thou shalt not be affrighted at them: for the <span
+  class="nd">LORD</span> thy God <span class="add">is</span> among you, a mighty
+  God and terrible. </p>
+id: DEU/7/21
+next:
+  id: DEU/7/22
+  number: '22'
+previous:
+  id: DEU/7/20
+  number: '20'
+reference: 'Deuteronomy 7:21'

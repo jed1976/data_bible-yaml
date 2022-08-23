@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 14:6" class="v">6</span>And
+  every beast that parteth the hoof, and cleaveth the cleft into two claws,
+  <span class="add">and</span> cheweth the cud among the beasts, that ye shall
+  eat. </p>
+id: DEU/14/6
+next:
+  id: DEU/14/7
+  number: '7'
+previous:
+  id: DEU/14/5
+  number: '5'
+reference: 'Deuteronomy 14:6'

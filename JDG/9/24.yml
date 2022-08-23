@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 9:24"
+  class="v">24</span>That the cruelty <span class="add">done</span> to the
+  threescore and ten sons of Jerubbaal might come, and their blood be laid upon
+  Abimelech their brother, which slew them; and upon the men of Shechem, which
+  aided him in the killing of his brethren. </p>
+id: JDG/9/24
+next:
+  id: JDG/9/25
+  number: '25'
+previous:
+  id: JDG/9/23
+  number: '23'
+reference: 'Judges 9:24'

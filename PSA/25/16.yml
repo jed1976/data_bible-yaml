@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 25:16"
+  class="v">16</span>Turn thee unto me, and have mercy upon me; for I <span
+  class="add">am</span> desolate and afflicted.</p>
+id: PSA/25/16
+next:
+  id: PSA/25/17
+  number: '17'
+previous:
+  id: PSA/25/15
+  number: '15'
+reference: 'Psalms 25:16'

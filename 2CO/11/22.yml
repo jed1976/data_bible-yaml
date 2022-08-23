@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CO 11:22"
+  class="v">22</span>Are they Hebrews? so <span class="add">am</span> I. Are
+  they Israelites? so <span class="add">am</span> I. Are they the seed of
+  Abraham? so <span class="add">am</span> I. </p>
+id: 2CO/11/22
+next:
+  id: 2CO/11/23
+  number: '23'
+previous:
+  id: 2CO/11/21
+  number: '21'
+reference: '2 Corinthians 11:22'

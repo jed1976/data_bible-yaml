@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 20:20" class="v">20</span>¶
+  And the rest of the acts of Hezekiah, and all his might, and how he made a
+  pool, and a conduit, and brought water into the city, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Judah? </p>
+id: 2KI/20/20
+next:
+  id: 2KI/20/21
+  number: '21'
+previous:
+  id: 2KI/20/19
+  number: '19'
+reference: '2 Kings 20:20'

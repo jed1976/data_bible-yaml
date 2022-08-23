@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 3:15" class="v">15</span>Now
+  if ye be ready that at what time ye hear the sound of the cornet, flute, harp,
+  sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and
+  worship the image which I have made; <span class="add">well:</span> but if ye
+  worship not, ye shall be cast the same hour into the midst of a burning fiery
+  furnace; and who <span class="add">is</span> that God that shall deliver you
+  out of my hands? </p>
+id: DAN/3/15
+next:
+  id: DAN/3/16
+  number: '16'
+previous:
+  id: DAN/3/14
+  number: '14'
+reference: 'Daniel 3:15'

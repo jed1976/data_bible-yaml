@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 1:12" class="v">12</span>And
+  Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give
+  Achsah my daughter to wife. </p>
+id: JDG/1/12
+next:
+  id: JDG/1/13
+  number: '13'
+previous:
+  id: JDG/1/11
+  number: '11'
+reference: 'Judges 1:12'

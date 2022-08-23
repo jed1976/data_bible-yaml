@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 15:35"
+  class="v">35</span>Paul also and Barnabas continued in Antioch, teaching and
+  preaching the word of the Lord, with many others also.</p>
+id: ACT/15/35
+next:
+  id: ACT/15/36
+  number: '36'
+previous:
+  id: ACT/15/34
+  number: '34'
+reference: 'Acts 15:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 8:6"
+  class="v">6</span>Forasmuch as this people refuseth the waters of Shiloah that
+  go softly, and rejoice in Rezin and Remaliah’s son; </p>
+id: ISA/8/6
+next:
+  id: ISA/8/7
+  number: '7'
+previous:
+  id: ISA/8/5
+  number: '5'
+reference: 'Isaiah 8:6'

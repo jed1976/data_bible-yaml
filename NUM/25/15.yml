@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 25:15"
+  class="v">15</span>And the name of the Midianitish woman that was slain <span
+  class="add">was</span> Cozbi, the daughter of Zur; he <span
+  class="add">was</span> head over a people, <span class="add">and</span> of a
+  chief house in Midian.</p>
+id: NUM/25/15
+next:
+  id: NUM/25/16
+  number: '16'
+previous:
+  id: NUM/25/14
+  number: '14'
+reference: 'Numbers 25:15'

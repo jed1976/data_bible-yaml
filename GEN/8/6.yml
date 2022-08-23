@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 8:6" class="v">6</span>¶ And
+  it came to pass at the end of forty days, that Noah opened the window of the
+  ark which he had made: </p>
+id: GEN/8/6
+next:
+  id: GEN/8/7
+  number: '7'
+previous:
+  id: GEN/8/5
+  number: '5'
+reference: 'Genesis 8:6'

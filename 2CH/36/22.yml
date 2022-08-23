@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 36:22" class="v">22</span>¶
+  Now in the first year of Cyrus king of Persia, that the word of the <span
+  class="nd">LORD</span> <span class="add">spoken</span> by the mouth of
+  Jeremiah might be accomplished, the <span class="nd">LORD</span> stirred up
+  the spirit of Cyrus king of Persia, that he made a proclamation throughout all
+  his kingdom, and <span class="add">put it</span> also in writing, saying, </p>
+id: 2CH/36/22
+next:
+  id: 2CH/36/23
+  number: '23'
+previous:
+  id: 2CH/36/21
+  number: '21'
+reference: '2 Chronicles 36:22'

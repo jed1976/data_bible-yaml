@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 34:5" class="v">5</span>¶ So
+  Moses the servant of the <span class="nd">LORD</span> died there in the land
+  of Moab, according to the word of the <span class="nd">LORD</span>. </p>
+id: DEU/34/5
+next:
+  id: DEU/34/6
+  number: '6'
+previous:
+  id: DEU/34/4
+  number: '4'
+reference: 'Deuteronomy 34:5'

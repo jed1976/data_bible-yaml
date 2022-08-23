@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 38:19"
+  class="v">19</span>And she arose, and went away, and laid by her vail from
+  her, and put on the garments of her widowhood. </p>
+id: GEN/38/19
+next:
+  id: GEN/38/20
+  number: '20'
+previous:
+  id: GEN/38/18
+  number: '18'
+reference: 'Genesis 38:19'

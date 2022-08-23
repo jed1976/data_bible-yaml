@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 24:41"
+  class="v">41</span>And while they yet believed not for joy, and wondered, he
+  said unto them, <span class="wj">Have ye here any meat?</span> </p>
+id: LUK/24/41
+next:
+  id: LUK/24/42
+  number: '42'
+previous:
+  id: LUK/24/40
+  number: '40'
+reference: 'Luke 24:41'

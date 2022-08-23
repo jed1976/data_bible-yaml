@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 14:22"
+  class="v">22</span>But his flesh upon him shall have pain, and his soul within
+  him shall mourn.</p>
+id: JOB/14/22
+next:
+  id: JOB/15/1
+  number: '1'
+previous:
+  id: JOB/14/21
+  number: '21'
+reference: 'Job 14:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MIC 5:11" class="v">11</span>And
+  I will cut off the cities of thy land, and throw down all thy strong holds:
+  </p>
+id: MIC/5/11
+next:
+  id: MIC/5/12
+  number: '12'
+previous:
+  id: MIC/5/10
+  number: '10'
+reference: 'Micah 5:11'

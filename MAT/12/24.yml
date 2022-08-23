@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 12:24"
+  class="v">24</span>But when the Pharisees heard <span class="add">it</span>,
+  they said, This <span class="add">fellow</span> doth not cast out devils, but
+  by Beelzebub the prince of the devils. </p>
+id: MAT/12/24
+next:
+  id: MAT/12/25
+  number: '25'
+previous:
+  id: MAT/12/23
+  number: '23'
+reference: 'Matthew 12:24'

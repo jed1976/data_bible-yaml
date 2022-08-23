@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 6:12" class="v">12</span>And
+  the angel of the <span class="nd">LORD</span> appeared unto him, and said unto
+  him, The <span class="nd">LORD</span> <span class="add">is</span> with thee,
+  thou mighty man of valour. </p>
+id: JDG/6/12
+next:
+  id: JDG/6/13
+  number: '13'
+previous:
+  id: JDG/6/11
+  number: '11'
+reference: 'Judges 6:12'

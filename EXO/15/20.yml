@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 15:20" class="v">20</span>¶
+  And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand;
+  and all the women went out after her with timbrels and with dances. </p>
+id: EXO/15/20
+next:
+  id: EXO/15/21
+  number: '21'
+previous:
+  id: EXO/15/19
+  number: '19'
+reference: 'Exodus 15:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1SA 9:22" class="v">22</span>And
+  Samuel took Saul and his servant, and brought them into the parlour, and made
+  them sit in the chiefest place among them that were bidden, which <span
+  class="add">were</span> about thirty persons. </p>
+id: 1SA/9/22
+next:
+  id: 1SA/9/23
+  number: '23'
+previous:
+  id: 1SA/9/21
+  number: '21'
+reference: '1 Samuel 9:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 14:11"
+  class="v">11</span><span class="wj">Believe me that I <span
+  class="add">am</span> in the Father, and the Father in me: or else believe me
+  for the very works’ sake.</span> </p>
+id: JHN/14/11
+next:
+  id: JHN/14/12
+  number: '12'
+previous:
+  id: JHN/14/10
+  number: '10'
+reference: 'John 14:11'

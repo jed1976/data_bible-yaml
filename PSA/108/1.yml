@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Song <span class="add">or</span> Psalm of David.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 108:1" class="v">1</span>O God,
+  my heart is fixed; I will sing and give praise, even with my glory.</p>
+id: PSA/108/1
+next:
+  id: PSA/108/2
+  number: '2'
+previous:
+  id: PSA/107/43
+  number: '43'
+reference: 'Psalms 108:1'

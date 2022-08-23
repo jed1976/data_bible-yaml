@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 19:9" class="v">9</span>He
+  hath stripped me of my glory, and taken the crown <span
+  class="add">from</span> my head. </p>
+id: JOB/19/9
+next:
+  id: JOB/19/10
+  number: '10'
+previous:
+  id: JOB/19/8
+  number: '8'
+reference: 'Job 19:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 15:22" class="v">22</span>So
+  Moses brought Israel from the Red sea, and they went out into the wilderness
+  of Shur; and they went three days in the wilderness, and found no water.</p>
+id: EXO/15/22
+next:
+  id: EXO/15/23
+  number: '23'
+previous:
+  id: EXO/15/21
+  number: '21'
+reference: 'Exodus 15:22'

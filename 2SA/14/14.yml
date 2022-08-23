@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 14:14"
+  class="v">14</span>For we must needs die, and <span class="add">are</span> as
+  water spilt on the ground, which cannot be gathered up again; neither doth God
+  respect <span class="add">any</span> person: yet doth he devise means, that
+  his banished be not expelled from him. </p>
+id: 2SA/14/14
+next:
+  id: 2SA/14/15
+  number: '15'
+previous:
+  id: 2SA/14/13
+  number: '13'
+reference: '2 Samuel 14:14'

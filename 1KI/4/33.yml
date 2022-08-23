@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1KI 4:33" class="v">33</span>And
+  he spake of trees, from the cedar tree that <span class="add">is</span> in
+  Lebanon even unto the hyssop that springeth out of the wall: he spake also of
+  beasts, and of fowl, and of creeping things, and of fishes. </p>
+id: 1KI/4/33
+next:
+  id: 1KI/4/34
+  number: '34'
+previous:
+  id: 1KI/4/32
+  number: '32'
+reference: '1 Kings 4:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 16:4" class="v">4</span>¶ And
+  it came to pass afterward, that he loved a woman in the valley of Sorek, whose
+  name <span class="add">was</span> Delilah. </p>
+id: JDG/16/4
+next:
+  id: JDG/16/5
+  number: '5'
+previous:
+  id: JDG/16/3
+  number: '3'
+reference: 'Judges 16:4'

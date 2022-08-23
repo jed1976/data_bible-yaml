@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EPH 2:10" class="v">10</span>For
+  we are his workmanship, created in Christ Jesus unto good works, which God
+  hath before ordained that we should walk in them.</p>
+id: EPH/2/10
+next:
+  id: EPH/2/11
+  number: '11'
+previous:
+  id: EPH/2/9
+  number: '9'
+reference: 'Ephesians 2:10'

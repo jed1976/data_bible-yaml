@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 4:26"
+  class="v">26</span>Jesus saith unto her, <span class="wj">I that speak unto
+  thee am <span class="add">he.</span></span></p>
+id: JHN/4/26
+next:
+  id: JHN/4/27
+  number: '27'
+previous:
+  id: JHN/4/25
+  number: '25'
+reference: 'John 4:26'

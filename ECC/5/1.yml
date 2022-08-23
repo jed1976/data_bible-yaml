@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 5:1" class="v">1</span>Keep
+  thy foot when thou goest to the house of God, and be more ready to hear, than
+  to give the sacrifice of fools: for they consider not that they do evil. </p>
+id: ECC/5/1
+next:
+  id: ECC/5/2
+  number: '2'
+previous:
+  id: ECC/4/16
+  number: '16'
+reference: 'Ecclesiastes 5:1'

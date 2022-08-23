@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 28:25"
+  class="v">25</span>And <span class="add">the other</span> two ends of the two
+  wreathen <span class="add">chains</span> thou shalt fasten in the two ouches,
+  and put <span class="add">them</span> on the shoulderpieces of the ephod
+  before it.</p>
+id: EXO/28/25
+next:
+  id: EXO/28/26
+  number: '26'
+previous:
+  id: EXO/28/24
+  number: '24'
+reference: 'Exodus 28:25'

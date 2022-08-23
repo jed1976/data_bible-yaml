@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 8:8" class="v">8</span>Also
+  he sent forth a dove from him, to see if the waters were abated from off the
+  face of the ground; </p>
+id: GEN/8/8
+next:
+  id: GEN/8/9
+  number: '9'
+previous:
+  id: GEN/8/7
+  number: '7'
+reference: 'Genesis 8:8'

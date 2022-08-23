@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1CO 7:29" class="v">29</span>But
+  this I say, brethren, the time <span class="add">is</span> short: it
+  remaineth, that both they that have wives be as though they had none; </p>
+id: 1CO/7/29
+next:
+  id: 1CO/7/30
+  number: '30'
+previous:
+  id: 1CO/7/28
+  number: '28'
+reference: '1 Corinthians 7:29'

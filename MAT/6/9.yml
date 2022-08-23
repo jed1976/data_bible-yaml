@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 6:9" class="v">9</span><span
+  class="wj">After this manner therefore pray ye: Our Father which art in
+  heaven, Hallowed be thy name.</span> </p>
+id: MAT/6/9
+next:
+  id: MAT/6/10
+  number: '10'
+previous:
+  id: MAT/6/8
+  number: '8'
+reference: 'Matthew 6:9'

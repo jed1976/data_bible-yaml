@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 19:8" class="v">8</span>He
+  saith unto them, <span class="wj">Moses because of the hardness of your hearts
+  suffered you to put away your wives: but from the beginning it was not
+  so.</span> </p>
+id: MAT/19/8
+next:
+  id: MAT/19/9
+  number: '9'
+previous:
+  id: MAT/19/7
+  number: '7'
+reference: 'Matthew 19:8'

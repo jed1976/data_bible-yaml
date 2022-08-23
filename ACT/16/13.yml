@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 16:13"
+  class="v">13</span>And on the sabbath we went out of the city by a river side,
+  where prayer was wont to be made; and we sat down, and spake unto the women
+  which resorted <span class="add">thither.</span></p>
+id: ACT/16/13
+next:
+  id: ACT/16/14
+  number: '14'
+previous:
+  id: ACT/16/12
+  number: '12'
+reference: 'Acts 16:13'

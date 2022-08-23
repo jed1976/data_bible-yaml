@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 33:25"
+  class="v">25</span>Thy shoes <span class="add">shall be</span> iron and brass;
+  and as thy days, <span class="add">so shall</span> thy strength <span
+  class="add">be</span>.</p>
+id: DEU/33/25
+next:
+  id: DEU/33/26
+  number: '26'
+previous:
+  id: DEU/33/24
+  number: '24'
+reference: 'Deuteronomy 33:25'

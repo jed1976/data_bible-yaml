@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 11:16"
+  class="v">16</span>And there shall be an highway for the remnant of his
+  people, which shall be left, from Assyria; like as it was to Israel in the day
+  that he came up out of the land of Egypt.</p>
+id: ISA/11/16
+next:
+  id: ISA/12/1
+  number: '1'
+previous:
+  id: ISA/11/15
+  number: '15'
+reference: 'Isaiah 11:16'

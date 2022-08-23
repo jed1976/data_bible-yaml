@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 12:3" class="v">3</span>And I
+  will bless them that bless thee, and curse him that curseth thee: and in thee
+  shall all families of the earth be blessed.</p>
+id: GEN/12/3
+next:
+  id: GEN/12/4
+  number: '4'
+previous:
+  id: GEN/12/2
+  number: '2'
+reference: 'Genesis 12:3'

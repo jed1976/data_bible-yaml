@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 23:20" class="v">20</span>¶
+  Behold, I send an Angel before thee, to keep thee in the way, and to bring
+  thee into the place which I have prepared. </p>
+id: EXO/23/20
+next:
+  id: EXO/23/21
+  number: '21'
+previous:
+  id: EXO/23/19
+  number: '19'
+reference: 'Exodus 23:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 10:13"
+  class="v">13</span>And king Solomon gave unto the queen of Sheba all her
+  desire, whatsoever she asked, beside <span class="add">that</span> which
+  Solomon gave her of his royal bounty. So she turned and went to her own
+  country, she and her servants.</p>
+id: 1KI/10/13
+next:
+  id: 1KI/10/14
+  number: '14'
+previous:
+  id: 1KI/10/12
+  number: '12'
+reference: '1 Kings 10:13'

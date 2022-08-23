@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 92:12"
+  class="v">12</span>The righteous shall flourish like the palm tree: he shall
+  grow like a cedar in Lebanon.</p>
+id: PSA/92/12
+next:
+  id: PSA/92/13
+  number: '13'
+previous:
+  id: PSA/92/11
+  number: '11'
+reference: 'Psalms 92:12'

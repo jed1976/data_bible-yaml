@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 20:16"
+  class="v">16</span>And when we cried unto the <span class="nd">LORD</span>, he
+  heard our voice, and sent an angel, and hath brought us forth out of Egypt:
+  and, behold, we <span class="add">are</span> in Kadesh, a city in the
+  uttermost of thy border: </p>
+id: NUM/20/16
+next:
+  id: NUM/20/17
+  number: '17'
+previous:
+  id: NUM/20/15
+  number: '15'
+reference: 'Numbers 20:16'

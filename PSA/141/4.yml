@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 141:4"
+  class="v">4</span>Incline not my heart to <span class="add">any</span> evil
+  thing, to practise wicked works with men that work iniquity: and let me not
+  eat of their dainties.</p>
+id: PSA/141/4
+next:
+  id: PSA/141/5
+  number: '5'
+previous:
+  id: PSA/141/3
+  number: '3'
+reference: 'Psalms 141:4'

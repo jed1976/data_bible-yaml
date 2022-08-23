@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 34:27"
+  class="v">27</span>And the <span class="nd">LORD</span> said unto Moses, Write
+  thou these words: for after the tenor of these words I have made a covenant
+  with thee and with Israel.</p>
+id: EXO/34/27
+next:
+  id: EXO/34/28
+  number: '28'
+previous:
+  id: EXO/34/26
+  number: '26'
+reference: 'Exodus 34:27'

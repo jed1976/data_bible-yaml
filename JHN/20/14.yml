@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 20:14"
+  class="v">14</span>And when she had thus said, she turned herself back, and
+  saw Jesus standing, and knew not that it was Jesus. </p>
+id: JHN/20/14
+next:
+  id: JHN/20/15
+  number: '15'
+previous:
+  id: JHN/20/13
+  number: '13'
+reference: 'John 20:14'

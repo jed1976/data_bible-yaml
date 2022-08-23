@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 5:9" class="v">9</span>Thou
+  shalt not bow down thyself unto them, nor serve them: for I the <span
+  class="nd">LORD</span> thy God <span class="add">am</span> a jealous God,
+  visiting the iniquity of the fathers upon the children unto the third and
+  fourth <span class="add">generation</span> of them that hate me, </p>
+id: DEU/5/9
+next:
+  id: DEU/5/10
+  number: '10'
+previous:
+  id: DEU/5/8
+  number: '8'
+reference: 'Deuteronomy 5:9'

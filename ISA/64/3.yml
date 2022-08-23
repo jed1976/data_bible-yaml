@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 64:3" class="v">3</span>When
+  thou didst terrible things <span class="add">which</span> we looked not for,
+  thou camest down, the mountains flowed down at thy presence. </p>
+id: ISA/64/3
+next:
+  id: ISA/64/4
+  number: '4'
+previous:
+  id: ISA/64/2
+  number: '2'
+reference: 'Isaiah 64:3'

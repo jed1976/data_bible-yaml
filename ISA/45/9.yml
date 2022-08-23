@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 45:9" class="v">9</span>Woe
+  unto him that striveth with his Maker! <span class="add">Let</span> the
+  potsherd <span class="add">strive</span> with the potsherds of the earth.
+  Shall the clay say to him that fashioneth it, What makest thou? or thy work,
+  He hath no hands? </p>
+id: ISA/45/9
+next:
+  id: ISA/45/10
+  number: '10'
+previous:
+  id: ISA/45/8
+  number: '8'
+reference: 'Isaiah 45:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LUK 1:54" class="v">54</span>He
+  hath holpen his servant Israel, in remembrance of <span class="add">his</span>
+  mercy; </p>
+id: LUK/1/54
+next:
+  id: LUK/1/55
+  number: '55'
+previous:
+  id: LUK/1/53
+  number: '53'
+reference: 'Luke 1:54'

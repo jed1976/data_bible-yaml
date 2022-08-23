@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 9:9" class="v">9</span>For,
+  lo, I will command, and I will sift the house of Israel among all nations,
+  like as <span class="add">corn</span> is sifted in a sieve, yet shall not the
+  least grain fall upon the earth. </p>
+id: AMO/9/9
+next:
+  id: AMO/9/10
+  number: '10'
+previous:
+  id: AMO/9/8
+  number: '8'
+reference: 'Amos 9:9'

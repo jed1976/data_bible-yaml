@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="DEU 1:28"
+  class="v">28</span>Whither shall we go up? our brethren have discouraged our
+  heart, saying, The people <span class="add">is</span> greater and taller than
+  we; the cities <span class="add">are</span> great and walled up to heaven; and
+  moreover we have seen the sons of the Anakims there. </p>
+id: DEU/1/28
+next:
+  id: DEU/1/29
+  number: '29'
+previous:
+  id: DEU/1/27
+  number: '27'
+reference: 'Deuteronomy 1:28'

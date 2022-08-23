@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 1:11"
+  class="v">11</span>(The <span class="nd">LORD</span> God of your fathers make
+  you a thousand times so many more as ye <span class="add">are</span>, and
+  bless you, as he hath promised you!) </p>
+id: DEU/1/11
+next:
+  id: DEU/1/12
+  number: '12'
+previous:
+  id: DEU/1/10
+  number: '10'
+reference: 'Deuteronomy 1:11'

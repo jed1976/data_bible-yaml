@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 28:4" class="v">4</span>And
+  the glorious beauty, which <span class="add">is</span> on the head of the fat
+  valley, shall be a fading flower, <span class="add">and</span> as the hasty
+  fruit before the summer; which <span class="add">when</span> he that looketh
+  upon it seeth, while it is yet in his hand he eateth it up.</p>
+id: ISA/28/4
+next:
+  id: ISA/28/5
+  number: '5'
+previous:
+  id: ISA/28/3
+  number: '3'
+reference: 'Isaiah 28:4'

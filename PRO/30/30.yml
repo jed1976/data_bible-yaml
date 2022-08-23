@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 30:30" class="v">30</span>A
+  lion <span class="add">which is</span> strongest among beasts, and turneth not
+  away for any; </p>
+id: PRO/30/30
+next:
+  id: PRO/30/31
+  number: '31'
+previous:
+  id: PRO/30/29
+  number: '29'
+reference: 'Proverbs 30:30'

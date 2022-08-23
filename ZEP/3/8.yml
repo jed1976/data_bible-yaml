@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEP 3:8" class="v">8</span>¶
+  Therefore wait ye upon me, saith the <span class="nd">LORD</span>, until the
+  day that I rise up to the prey: for my determination <span
+  class="add">is</span> to gather the nations, that I may assemble the kingdoms,
+  to pour upon them mine indignation, <span class="add">even</span> all my
+  fierce anger: for all the earth shall be devoured with the fire of my
+  jealousy. </p>
+id: ZEP/3/8
+next:
+  id: ZEP/3/9
+  number: '9'
+previous:
+  id: ZEP/3/7
+  number: '7'
+reference: 'Zephaniah 3:8'

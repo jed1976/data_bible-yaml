@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 10:15"
+  class="v">15</span><span class="wj">And thou, Capernaum, which art exalted to
+  heaven, shalt be thrust down to hell.</span> </p>
+id: LUK/10/15
+next:
+  id: LUK/10/16
+  number: '16'
+previous:
+  id: LUK/10/14
+  number: '14'
+reference: 'Luke 10:15'

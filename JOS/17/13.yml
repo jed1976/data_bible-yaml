@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 17:13"
+  class="v">13</span>Yet it came to pass, when the children of Israel were waxen
+  strong, that they put the Canaanites to tribute; but did not utterly drive
+  them out.</p>
+id: JOS/17/13
+next:
+  id: JOS/17/14
+  number: '14'
+previous:
+  id: JOS/17/12
+  number: '12'
+reference: 'Joshua 17:13'

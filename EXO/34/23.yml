@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 34:23" class="v">23</span>¶
+  Thrice in the year shall all your men children appear before the Lord <span
+  class="nd">GOD</span>, the God of Israel. </p>
+id: EXO/34/23
+next:
+  id: EXO/34/24
+  number: '24'
+previous:
+  id: EXO/34/22
+  number: '22'
+reference: 'Exodus 34:23'

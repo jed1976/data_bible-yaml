@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EPH 4:32" class="v">32</span>And
+  be ye kind one to another, tenderhearted, forgiving one another, even as God
+  for Christ’s sake hath forgiven you.</p>
+id: EPH/4/32
+next:
+  id: EPH/5/1
+  number: '1'
+previous:
+  id: EPH/4/31
+  number: '31'
+reference: 'Ephesians 4:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1CH 16:43"
+  class="v">43</span>And all the people departed every man to his house: and
+  David returned to bless his house.</p>
+id: 1CH/16/43
+next:
+  id: 1CH/17/1
+  number: '1'
+previous:
+  id: 1CH/16/42
+  number: '42'
+reference: '1 Chronicles 16:43'

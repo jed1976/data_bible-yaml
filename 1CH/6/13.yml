@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 6:13" class="v">13</span>And
+  Shallum begat Hilkiah, and Hilkiah begat Azariah, </p>
+id: 1CH/6/13
+next:
+  id: 1CH/6/14
+  number: '14'
+previous:
+  id: 1CH/6/12
+  number: '12'
+reference: '1 Chronicles 6:13'

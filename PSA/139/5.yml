@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 139:5"
+  class="v">5</span>Thou hast beset me behind and before, and laid thine hand
+  upon me.</p>
+id: PSA/139/5
+next:
+  id: PSA/139/6
+  number: '6'
+previous:
+  id: PSA/139/4
+  number: '4'
+reference: 'Psalms 139:5'

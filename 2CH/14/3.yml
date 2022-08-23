@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 14:3" class="v">3</span>For
+  he took away the altars of the strange <span class="add">gods</span>, and the
+  high places, and brake down the images, and cut down the groves: </p>
+id: 2CH/14/3
+next:
+  id: 2CH/14/4
+  number: '4'
+previous:
+  id: 2CH/14/2
+  number: '2'
+reference: '2 Chronicles 14:3'

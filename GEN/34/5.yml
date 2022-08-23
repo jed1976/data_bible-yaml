@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 34:5" class="v">5</span>And
+  Jacob heard that he had defiled Dinah his daughter: now his sons were with his
+  cattle in the field: and Jacob held his peace until they were come.</p>
+id: GEN/34/5
+next:
+  id: GEN/34/6
+  number: '6'
+previous:
+  id: GEN/34/4
+  number: '4'
+reference: 'Genesis 34:5'

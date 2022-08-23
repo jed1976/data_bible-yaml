@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 50:26" class="v">26</span>So
+  Joseph died, <span class="add">being</span> an hundred and ten years old: and
+  they embalmed him, and he was put in a coffin in Egypt.</p>
+id: GEN/50/26
+next:
+  id: EXO/intro/0
+  number: '0'
+previous:
+  id: GEN/50/25
+  number: '25'
+reference: 'Genesis 50:26'

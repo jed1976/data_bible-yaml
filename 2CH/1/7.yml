@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 1:7" class="v">7</span>¶ In
+  that night did God appear unto Solomon, and said unto him, Ask what I shall
+  give thee. </p>
+id: 2CH/1/7
+next:
+  id: 2CH/1/8
+  number: '8'
+previous:
+  id: 2CH/1/6
+  number: '6'
+reference: '2 Chronicles 1:7'

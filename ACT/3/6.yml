@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 3:6" class="v">6</span>Then
+  Peter said, Silver and gold have I none; but such as I have give I thee: In
+  the name of Jesus Christ of Nazareth rise up and walk. </p>
+id: ACT/3/6
+next:
+  id: ACT/3/7
+  number: '7'
+previous:
+  id: ACT/3/5
+  number: '5'
+reference: 'Acts 3:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 68:16"
+  class="v">16</span>Why leap ye, ye high hills? <span class="add">this
+  is</span> the hill <span class="add">which</span> God desireth to dwell in;
+  yea, the <span class="nd">LORD</span> will dwell <span class="add">in
+  it</span> for ever.</p>
+id: PSA/68/16
+next:
+  id: PSA/68/17
+  number: '17'
+previous:
+  id: PSA/68/15
+  number: '15'
+reference: 'Psalms 68:16'

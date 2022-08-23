@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 16:37"
+  class="v">37</span>Speak unto Eleazar the son of Aaron the priest, that he
+  take up the censers out of the burning, and scatter thou the fire yonder; for
+  they are hallowed. </p>
+id: NUM/16/37
+next:
+  id: NUM/16/38
+  number: '38'
+previous:
+  id: NUM/16/36
+  number: '36'
+reference: 'Numbers 16:37'

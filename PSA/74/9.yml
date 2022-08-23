@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 74:9" class="v">9</span>We
+  see not our signs: <span class="add">there is</span> no more any prophet:
+  neither <span class="add">is there</span> among us any that knoweth how
+  long.</p>
+id: PSA/74/9
+next:
+  id: PSA/74/10
+  number: '10'
+previous:
+  id: PSA/74/8
+  number: '8'
+reference: 'Psalms 74:9'

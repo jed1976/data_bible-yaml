@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 85:10"
+  class="v">10</span>Mercy and truth are met together; righteousness and peace
+  have kissed <span class="add">each other</span>.</p>
+id: PSA/85/10
+next:
+  id: PSA/85/11
+  number: '11'
+previous:
+  id: PSA/85/9
+  number: '9'
+reference: 'Psalms 85:10'

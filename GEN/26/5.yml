@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 26:5"
+  class="v">5</span>Because that Abraham obeyed my voice, and kept my charge, my
+  commandments, my statutes, and my laws.</p>
+id: GEN/26/5
+next:
+  id: GEN/26/6
+  number: '6'
+previous:
+  id: GEN/26/4
+  number: '4'
+reference: 'Genesis 26:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 11:31"
+  class="v">31</span><span class="wj">The queen of the south shall rise up in
+  the judgment with the men of this generation, and condemn them: for she came
+  from the utmost parts of the earth to hear the wisdom of Solomon; and, behold,
+  a greater than Solomon <span class="add">is</span> here.</span> </p>
+id: LUK/11/31
+next:
+  id: LUK/11/32
+  number: '32'
+previous:
+  id: LUK/11/30
+  number: '30'
+reference: 'Luke 11:31'

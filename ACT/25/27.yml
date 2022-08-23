@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 25:27"
+  class="v">27</span>For it seemeth to me unreasonable to send a prisoner, and
+  not withal to signify the crimes <span class="add">laid</span> against
+  him.</p>
+id: ACT/25/27
+next:
+  id: ACT/26/1
+  number: '1'
+previous:
+  id: ACT/25/26
+  number: '26'
+reference: 'Acts 25:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1SA 21:3" class="v">3</span>Now
+  therefore what is under thine hand? give <span class="add">me</span> five
+  <span class="add">loaves of</span> bread in mine hand, or what there is
+  present. </p>
+id: 1SA/21/3
+next:
+  id: 1SA/21/4
+  number: '4'
+previous:
+  id: 1SA/21/2
+  number: '2'
+reference: '1 Samuel 21:3'

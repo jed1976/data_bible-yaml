@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 11:25"
+  class="v">25</span>And whosoever beareth <span class="add">ought</span> of the
+  carcase of them shall wash his clothes, and be unclean until the even. </p>
+id: LEV/11/25
+next:
+  id: LEV/11/26
+  number: '26'
+previous:
+  id: LEV/11/24
+  number: '24'
+reference: 'Leviticus 11:25'

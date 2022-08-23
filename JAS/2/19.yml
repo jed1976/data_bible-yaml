@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JAS 2:19"
+  class="v">19</span>Thou believest that there is one God; thou doest well: the
+  devils also believe, and tremble. </p>
+id: JAS/2/19
+next:
+  id: JAS/2/20
+  number: '20'
+previous:
+  id: JAS/2/18
+  number: '18'
+reference: 'James 2:19'

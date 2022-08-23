@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 23:30"
+  class="v">30</span>And whatsoever soul <span class="add">it be</span> that
+  doeth any work in that same day, the same soul will I destroy from among his
+  people. </p>
+id: LEV/23/30
+next:
+  id: LEV/23/31
+  number: '31'
+previous:
+  id: LEV/23/29
+  number: '29'
+reference: 'Leviticus 23:30'

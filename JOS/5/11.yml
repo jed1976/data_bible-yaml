@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 5:11" class="v">11</span>And
+  they did eat of the old corn of the land on the morrow after the passover,
+  unleavened cakes, and parched <span class="add">corn</span> in the selfsame
+  day.</p>
+id: JOS/5/11
+next:
+  id: JOS/5/12
+  number: '12'
+previous:
+  id: JOS/5/10
+  number: '10'
+reference: 'Joshua 5:11'

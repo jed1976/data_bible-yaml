@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="JHN 8:50"
+  class="v">50</span><span class="wj">And I seek not mine own glory: there is
+  one that seeketh and judgeth.</span> </p>
+id: JHN/8/50
+next:
+  id: JHN/8/51
+  number: '51'
+previous:
+  id: JHN/8/49
+  number: '49'
+reference: 'John 8:50'

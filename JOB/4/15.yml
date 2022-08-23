@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 4:15"
+  class="v">15</span>Then a spirit passed before my face; the hair of my flesh
+  stood up: </p>
+id: JOB/4/15
+next:
+  id: JOB/4/16
+  number: '16'
+previous:
+  id: JOB/4/14
+  number: '14'
+reference: 'Job 4:15'

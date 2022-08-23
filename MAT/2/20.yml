@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 2:20"
+  class="v">20</span>Saying, Arise, and take the young child and his mother, and
+  go into the land of Israel: for they are dead which sought the young child’s
+  life. </p>
+id: MAT/2/20
+next:
+  id: MAT/2/21
+  number: '21'
+previous:
+  id: MAT/2/19
+  number: '19'
+reference: 'Matthew 2:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 13:3"
+  class="v">3</span>Remember them that are in bonds, as bound with them; <span
+  class="add">and</span> them which suffer adversity, as being yourselves also
+  in the body. </p>
+id: HEB/13/3
+next:
+  id: HEB/13/4
+  number: '4'
+previous:
+  id: HEB/13/2
+  number: '2'
+reference: 'Hebrews 13:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 4:33" class="v">33</span>¶
+  And in the synagogue there was a man, which had a spirit of an unclean devil,
+  and cried out with a loud voice, </p>
+id: LUK/4/33
+next:
+  id: LUK/4/34
+  number: '34'
+previous:
+  id: LUK/4/32
+  number: '32'
+reference: 'Luke 4:33'

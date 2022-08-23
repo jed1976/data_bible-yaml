@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 7:34"
+  class="v">34</span><span class="wj">The Son of man is come eating and
+  drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of
+  publicans and sinners!</span> </p>
+id: LUK/7/34
+next:
+  id: LUK/7/35
+  number: '35'
+previous:
+  id: LUK/7/33
+  number: '33'
+reference: 'Luke 7:34'

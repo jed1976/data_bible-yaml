@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 32:29" class="v">29</span>O
+  that they were wise, <span class="add">that</span> they understood this, <span
+  class="add">that</span> they would consider their latter end! </p>
+id: DEU/32/29
+next:
+  id: DEU/32/30
+  number: '30'
+previous:
+  id: DEU/32/28
+  number: '28'
+reference: 'Deuteronomy 32:29'

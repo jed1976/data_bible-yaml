@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 37:5" class="v">5</span>¶ And
+  Joseph dreamed a dream, and he told <span class="add">it</span> his brethren:
+  and they hated him yet the more. </p>
+id: GEN/37/5
+next:
+  id: GEN/37/6
+  number: '6'
+previous:
+  id: GEN/37/4
+  number: '4'
+reference: 'Genesis 37:5'

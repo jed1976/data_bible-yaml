@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 41:12"
+  class="v">12</span>Then they took all the men, and went to fight with Ishmael
+  the son of Nethaniah, and found him by the great waters that <span
+  class="add">are</span> in Gibeon. </p>
+id: JER/41/12
+next:
+  id: JER/41/13
+  number: '13'
+previous:
+  id: JER/41/11
+  number: '11'
+reference: 'Jeremiah 41:12'

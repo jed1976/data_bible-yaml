@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 13:41"
+  class="v">41</span><span class="wj">The Son of man shall send forth his
+  angels, and they shall gather out of his kingdom all things that offend, and
+  them which do iniquity;</span> </p>
+id: MAT/13/41
+next:
+  id: MAT/13/42
+  number: '42'
+previous:
+  id: MAT/13/40
+  number: '40'
+reference: 'Matthew 13:41'

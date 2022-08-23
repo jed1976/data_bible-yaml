@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 22:10"
+  class="v">10</span>And Shaphan the scribe shewed the king, saying, Hilkiah the
+  priest hath delivered me a book. And Shaphan read it before the king.</p>
+id: 2KI/22/10
+next:
+  id: 2KI/22/11
+  number: '11'
+previous:
+  id: 2KI/22/9
+  number: '9'
+reference: '2 Kings 22:10'

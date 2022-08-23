@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 42:7" class="v">7</span>Deep
+  calleth unto deep at the noise of thy waterspouts: all thy waves and thy
+  billows are gone over me.</p>
+id: PSA/42/7
+next:
+  id: PSA/42/8
+  number: '8'
+previous:
+  id: PSA/42/6
+  number: '6'
+reference: 'Psalms 42:7'

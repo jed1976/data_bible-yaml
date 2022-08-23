@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EZK 5:2" class="v">2</span>Thou
+  shalt burn with fire a third part in the midst of the city, when the days of
+  the siege are fulfilled: and thou shalt take a third part, <span
+  class="add">and</span> smite about it with a knife: and a third part thou
+  shalt scatter in the wind; and I will draw out a sword after them. </p>
+id: EZK/5/2
+next:
+  id: EZK/5/3
+  number: '3'
+previous:
+  id: EZK/5/1
+  number: '1'
+reference: 'Ezekiel 5:2'

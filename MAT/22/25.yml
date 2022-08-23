@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 22:25"
+  class="v">25</span>Now there were with us seven brethren: and the first, when
+  he had married a wife, deceased, and, having no issue, left his wife unto his
+  brother: </p>
+id: MAT/22/25
+next:
+  id: MAT/22/26
+  number: '26'
+previous:
+  id: MAT/22/24
+  number: '24'
+reference: 'Matthew 22:25'

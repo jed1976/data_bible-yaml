@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JHN 6:51"
+  class="v">51</span><span class="wj">I am the living bread which came down from
+  heaven: if any man eat of this bread, he shall live for ever: and the bread
+  that I will give is my flesh, which I will give for the life of the
+  world.</span> </p>
+id: JHN/6/51
+next:
+  id: JHN/6/52
+  number: '52'
+previous:
+  id: JHN/6/50
+  number: '50'
+reference: 'John 6:51'

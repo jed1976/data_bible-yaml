@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 29:10" class="v">10</span>¶
+  Ye stand this day all of you before the <span class="nd">LORD</span> your God;
+  your captains of your tribes, your elders, and your officers, <span
+  class="add">with</span> all the men of Israel, </p>
+id: DEU/29/10
+next:
+  id: DEU/29/11
+  number: '11'
+previous:
+  id: DEU/29/9
+  number: '9'
+reference: 'Deuteronomy 29:10'

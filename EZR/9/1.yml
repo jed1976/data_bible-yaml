@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 9:1" class="v">1</span>Now
+  when these things were done, the princes came to me, saying, The people of
+  Israel, and the priests, and the Levites, have not separated themselves from
+  the people of the lands, <span class="add">doing</span> according to their
+  abominations, <span class="add">even</span> of the Canaanites, the Hittites,
+  the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and
+  the Amorites. </p>
+id: EZR/9/1
+next:
+  id: EZR/9/2
+  number: '2'
+previous:
+  id: EZR/8/36
+  number: '36'
+reference: 'Ezra 9:1'

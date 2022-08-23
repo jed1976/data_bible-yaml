@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 54:11" class="v">11</span>¶
+  O thou afflicted, tossed with tempest, <span class="add">and</span> not
+  comforted, behold, I will lay thy stones with fair colours, and lay thy
+  foundations with sapphires. </p>
+id: ISA/54/11
+next:
+  id: ISA/54/12
+  number: '12'
+previous:
+  id: ISA/54/10
+  number: '10'
+reference: 'Isaiah 54:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 5:5" class="v">5</span>The
+  mountains melted from before the <span class="nd">LORD</span>, <span
+  class="add">even</span> that Sinai from before the <span
+  class="nd">LORD</span> God of Israel.</p>
+id: JDG/5/5
+next:
+  id: JDG/5/6
+  number: '6'
+previous:
+  id: JDG/5/4
+  number: '4'
+reference: 'Judges 5:5'

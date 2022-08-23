@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 18:3" class="v">3</span>I
+  will call upon the <span class="nd">LORD</span>, <span class="add">who is
+  worthy</span> to be praised: so shall I be saved from mine enemies.</p>
+id: PSA/18/3
+next:
+  id: PSA/18/4
+  number: '4'
+previous:
+  id: PSA/18/2
+  number: '2'
+reference: 'Psalms 18:3'

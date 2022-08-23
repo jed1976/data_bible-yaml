@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 38:13"
+  class="v">13</span>That it might take hold of the ends of the earth, that the
+  wicked might be shaken out of it? </p>
+id: JOB/38/13
+next:
+  id: JOB/38/14
+  number: '14'
+previous:
+  id: JOB/38/12
+  number: '12'
+reference: 'Job 38:13'

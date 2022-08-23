@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 5:1" class="v">1</span>Then
+  sang Deborah and Barak the son of Abinoam on that day, saying, </p>
+id: JDG/5/1
+next:
+  id: JDG/5/2
+  number: '2'
+previous:
+  id: JDG/4/24
+  number: '24'
+reference: 'Judges 5:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 9:5" class="v">5</span>And
+  she said to the king, <span class="add">It was</span> a true report which I
+  heard in mine own land of thine acts, and of thy wisdom: </p>
+id: 2CH/9/5
+next:
+  id: 2CH/9/6
+  number: '6'
+previous:
+  id: 2CH/9/4
+  number: '4'
+reference: '2 Chronicles 9:5'

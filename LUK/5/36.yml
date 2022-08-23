@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 5:36" class="v">36</span>¶
+  And he spake also a parable unto them; <span class="wj">No man putteth a piece
+  of a new garment upon an old; if otherwise, then both the new maketh a rent,
+  and the piece that was <span class="add">taken</span> out of the new agreeth
+  not with the old.</span> </p>
+id: LUK/5/36
+next:
+  id: LUK/5/37
+  number: '37'
+previous:
+  id: LUK/5/35
+  number: '35'
+reference: 'Luke 5:36'

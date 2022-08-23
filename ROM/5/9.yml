@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 5:9" class="v">9</span>Much
+  more then, being now justified by his blood, we shall be saved from wrath
+  through him. </p>
+id: ROM/5/9
+next:
+  id: ROM/5/10
+  number: '10'
+previous:
+  id: ROM/5/8
+  number: '8'
+reference: 'Romans 5:9'

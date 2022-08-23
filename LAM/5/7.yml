@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LAM 5:7" class="v">7</span>Our
+  fathers have sinned, <span class="add">and are</span> not; and we have borne
+  their iniquities. </p>
+id: LAM/5/7
+next:
+  id: LAM/5/8
+  number: '8'
+previous:
+  id: LAM/5/6
+  number: '6'
+reference: 'Lamentations 5:7'

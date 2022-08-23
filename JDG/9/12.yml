@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 9:12"
+  class="v">12</span>Then said the trees unto the vine, Come thou, <span
+  class="add">and</span> reign over us. </p>
+id: JDG/9/12
+next:
+  id: JDG/9/13
+  number: '13'
+previous:
+  id: JDG/9/11
+  number: '11'
+reference: 'Judges 9:12'

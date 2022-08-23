@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1TI 1:8" class="v">8</span>But we
+  know that the law <span class="add">is</span> good, if a man use it lawfully;
+  </p>
+id: 1TI/1/8
+next:
+  id: 1TI/1/9
+  number: '9'
+previous:
+  id: 1TI/1/7
+  number: '7'
+reference: '1 Timothy 1:8'

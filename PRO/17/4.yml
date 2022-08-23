@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 17:4" class="v">4</span>A
+  wicked doer giveth heed to false lips; <span class="add">and</span> a liar
+  giveth ear to a naughty tongue. </p>
+id: PRO/17/4
+next:
+  id: PRO/17/5
+  number: '5'
+previous:
+  id: PRO/17/3
+  number: '3'
+reference: 'Proverbs 17:4'

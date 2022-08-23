@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 71:22" class="v">22</span>I
+  will also praise thee with the psaltery, <span class="add">even</span> thy
+  truth, O my God: unto thee will I sing with the harp, O thou Holy One of
+  Israel.</p>
+id: PSA/71/22
+next:
+  id: PSA/71/23
+  number: '23'
+previous:
+  id: PSA/71/21
+  number: '21'
+reference: 'Psalms 71:22'

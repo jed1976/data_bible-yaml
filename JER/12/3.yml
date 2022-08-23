@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 12:3" class="v">3</span>But
+  thou, O <span class="nd">LORD</span>, knowest me: thou hast seen me, and tried
+  mine heart toward thee: pull them out like sheep for the slaughter, and
+  prepare them for the day of slaughter. </p>
+id: JER/12/3
+next:
+  id: JER/12/4
+  number: '4'
+previous:
+  id: JER/12/2
+  number: '2'
+reference: 'Jeremiah 12:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="TIT 3:15" class="v">15</span>All
+  that are with me salute thee. Greet them that love us in the faith. Grace
+  <span class="add">be</span> with you all. Amen.</p>
+id: TIT/3/15
+next:
+  id: PHM/intro/0
+  number: '0'
+previous:
+  id: TIT/3/14
+  number: '14'
+reference: 'Titus 3:15'

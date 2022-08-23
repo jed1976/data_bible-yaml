@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 6:12"
+  class="v">12</span>When they were filled, he said unto his disciples, <span
+  class="wj">Gather up the fragments that remain, that nothing be lost.</span>
+  </p>
+id: JHN/6/12
+next:
+  id: JHN/6/13
+  number: '13'
+previous:
+  id: JHN/6/11
+  number: '11'
+reference: 'John 6:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 35:16"
+  class="v">16</span>And if he smite him with an instrument of iron, so that he
+  die, he <span class="add">is</span> a murderer: the murderer shall surely be
+  put to death. </p>
+id: NUM/35/16
+next:
+  id: NUM/35/17
+  number: '17'
+previous:
+  id: NUM/35/15
+  number: '15'
+reference: 'Numbers 35:16'

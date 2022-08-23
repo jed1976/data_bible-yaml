@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 5:10" class="v">10</span>And
+  hast made us unto our God kings and priests: and we shall reign on the earth.
+  </p>
+id: REV/5/10
+next:
+  id: REV/5/11
+  number: '11'
+previous:
+  id: REV/5/9
+  number: '9'
+reference: 'Revelation 5:10'

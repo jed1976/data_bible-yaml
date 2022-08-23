@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 118:26"
+  class="v">26</span>Blessed <span class="add">be</span> he that cometh in the
+  name of the <span class="nd">LORD</span>: we have blessed you out of the house
+  of the <span class="nd">LORD</span>.</p>
+id: PSA/118/26
+next:
+  id: PSA/118/27
+  number: '27'
+previous:
+  id: PSA/118/25
+  number: '25'
+reference: 'Psalms 118:26'

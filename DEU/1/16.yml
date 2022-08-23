@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 1:16" class="v">16</span>And
+  I charged your judges at that time, saying, Hear <span class="add">the
+  causes</span> between your brethren, and judge righteously between <span
+  class="add">every</span> man and his brother, and the stranger <span
+  class="add">that is</span> with him. </p>
+id: DEU/1/16
+next:
+  id: DEU/1/17
+  number: '17'
+previous:
+  id: DEU/1/15
+  number: '15'
+reference: 'Deuteronomy 1:16'

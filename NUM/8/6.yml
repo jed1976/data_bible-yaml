@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 8:6" class="v">6</span>Take
+  the Levites from among the children of Israel, and cleanse them. </p>
+id: NUM/8/6
+next:
+  id: NUM/8/7
+  number: '7'
+previous:
+  id: NUM/8/5
+  number: '5'
+reference: 'Numbers 8:6'

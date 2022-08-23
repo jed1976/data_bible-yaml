@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="156" data-sid="PSA 119:156"
+  class="v">156</span>Great <span class="add">are</span> thy tender mercies, O
+  <span class="nd">LORD</span>: quicken me according to thy judgments.</p>
+id: PSA/119/156
+next:
+  id: PSA/119/157
+  number: '157'
+previous:
+  id: PSA/119/155
+  number: '155'
+reference: 'Psalms 119:156'

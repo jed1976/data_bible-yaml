@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 48:4" class="v">4</span>And
+  said unto me, Behold, I will make thee fruitful, and multiply thee, and I will
+  make of thee a multitude of people; and will give this land to thy seed after
+  thee <span class="add">for</span> an everlasting possession.</p>
+id: GEN/48/4
+next:
+  id: GEN/48/5
+  number: '5'
+previous:
+  id: GEN/48/3
+  number: '3'
+reference: 'Genesis 48:4'

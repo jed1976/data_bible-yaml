@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 16:5" class="v">5</span>And
+  Sarai said unto Abram, My wrong <span class="add">be</span> upon thee: I have
+  given my maid into thy bosom; and when she saw that she had conceived, I was
+  despised in her eyes: the <span class="nd">LORD</span> judge between me and
+  thee. </p>
+id: GEN/16/5
+next:
+  id: GEN/16/6
+  number: '6'
+previous:
+  id: GEN/16/4
+  number: '4'
+reference: 'Genesis 16:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 2:12" class="v">12</span>And
+  he looked this way and that way, and when he saw that <span class="add">there
+  was</span> no man, he slew the Egyptian, and hid him in the sand. </p>
+id: EXO/2/12
+next:
+  id: EXO/2/13
+  number: '13'
+previous:
+  id: EXO/2/11
+  number: '11'
+reference: 'Exodus 2:12'

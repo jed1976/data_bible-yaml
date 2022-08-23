@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 29:13"
+  class="v">13</span>And thou shalt take all the fat that covereth the inwards,
+  and the caul <span class="add">that is</span> above the liver, and the two
+  kidneys, and the fat that <span class="add">is</span> upon them, and burn
+  <span class="add">them</span> upon the altar. </p>
+id: EXO/29/13
+next:
+  id: EXO/29/14
+  number: '14'
+previous:
+  id: EXO/29/12
+  number: '12'
+reference: 'Exodus 29:13'

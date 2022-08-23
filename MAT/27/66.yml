@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="MAT 27:66" class="v">66</span>So
+  they went, and made the sepulchre sure, sealing the stone, and setting a
+  watch.</p>
+id: MAT/27/66
+next:
+  id: MAT/28/1
+  number: '1'
+previous:
+  id: MAT/27/65
+  number: '65'
+reference: 'Matthew 27:66'

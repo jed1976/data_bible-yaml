@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 5:1" class="v">1</span>And
+  seeing the multitudes, he went up into a mountain: and when he was set, his
+  disciples came unto him: </p>
+id: MAT/5/1
+next:
+  id: MAT/5/2
+  number: '2'
+previous:
+  id: MAT/4/25
+  number: '25'
+reference: 'Matthew 5:1'

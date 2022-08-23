@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 5:1" class="v">1</span>And I
+  saw in the right hand of him that sat on the throne a book written within and
+  on the backside, sealed with seven seals. </p>
+id: REV/5/1
+next:
+  id: REV/5/2
+  number: '2'
+previous:
+  id: REV/4/11
+  number: '11'
+reference: 'Revelation 5:1'

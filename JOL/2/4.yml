@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOL 2:4" class="v">4</span>The
+  appearance of them <span class="add">is</span> as the appearance of horses;
+  and as horsemen, so shall they run. </p>
+id: JOL/2/4
+next:
+  id: JOL/2/5
+  number: '5'
+previous:
+  id: JOL/2/3
+  number: '3'
+reference: 'Joel 2:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 4:5" class="v">5</span>And
+  the priest that is anointed shall take of the bullock’s blood, and bring it to
+  the tabernacle of the congregation: </p>
+id: LEV/4/5
+next:
+  id: LEV/4/6
+  number: '6'
+previous:
+  id: LEV/4/4
+  number: '4'
+reference: 'Leviticus 4:5'

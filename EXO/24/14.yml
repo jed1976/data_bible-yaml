@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 24:14"
+  class="v">14</span>And he said unto the elders, Tarry ye here for us, until we
+  come again unto you: and, behold, Aaron and Hur <span class="add">are</span>
+  with you: if any man have any matters to do, let him come unto them. </p>
+id: EXO/24/14
+next:
+  id: EXO/24/15
+  number: '15'
+previous:
+  id: EXO/24/13
+  number: '13'
+reference: 'Exodus 24:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 92:5" class="v">5</span>O
+  <span class="nd">LORD</span>, how great are thy works! <span
+  class="add">and</span> thy thoughts are very deep.</p>
+id: PSA/92/5
+next:
+  id: PSA/92/6
+  number: '6'
+previous:
+  id: PSA/92/4
+  number: '4'
+reference: 'Psalms 92:5'

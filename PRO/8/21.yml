@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 8:21"
+  class="v">21</span>That I may cause those that love me to inherit substance;
+  and I will fill their treasures.</p>
+id: PRO/8/21
+next:
+  id: PRO/8/22
+  number: '22'
+previous:
+  id: PRO/8/20
+  number: '20'
+reference: 'Proverbs 8:21'

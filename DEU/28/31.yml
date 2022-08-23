@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="DEU 28:31"
+  class="v">31</span>Thine ox <span class="add">shall be</span> slain before
+  thine eyes, and thou shalt not eat thereof: thine ass <span class="add">shall
+  be</span> violently taken away from before thy face, and shall not be restored
+  to thee: thy sheep <span class="add">shall be</span> given unto thine enemies,
+  and thou shalt have none to rescue <span class="add">them</span>. </p>
+id: DEU/28/31
+next:
+  id: DEU/28/32
+  number: '32'
+previous:
+  id: DEU/28/30
+  number: '30'
+reference: 'Deuteronomy 28:31'

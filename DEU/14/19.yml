@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 14:19"
+  class="v">19</span>And every creeping thing that flieth <span
+  class="add">is</span> unclean unto you: they shall not be eaten. </p>
+id: DEU/14/19
+next:
+  id: DEU/14/20
+  number: '20'
+previous:
+  id: DEU/14/18
+  number: '18'
+reference: 'Deuteronomy 14:19'

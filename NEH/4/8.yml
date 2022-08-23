@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 4:8" class="v">8</span>And
+  conspired all of them together to come <span class="add">and</span> to fight
+  against Jerusalem, and to hinder it. </p>
+id: NEH/4/8
+next:
+  id: NEH/4/9
+  number: '9'
+previous:
+  id: NEH/4/7
+  number: '7'
+reference: 'Nehemiah 4:8'

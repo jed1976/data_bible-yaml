@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 25:4" class="v">4</span>But
+  in the seventh year shall be a sabbath of rest unto the land, a sabbath for
+  the <span class="nd">LORD</span>: thou shalt neither sow thy field, nor prune
+  thy vineyard. </p>
+id: LEV/25/4
+next:
+  id: LEV/25/5
+  number: '5'
+previous:
+  id: LEV/25/3
+  number: '3'
+reference: 'Leviticus 25:4'

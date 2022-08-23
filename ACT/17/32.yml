@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 17:32" class="v">32</span>¶
+  And when they heard of the resurrection of the dead, some mocked: and others
+  said, We will hear thee again of this <span class="add">matter</span>. </p>
+id: ACT/17/32
+next:
+  id: ACT/17/33
+  number: '33'
+previous:
+  id: ACT/17/31
+  number: '31'
+reference: 'Acts 17:32'

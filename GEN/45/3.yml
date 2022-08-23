@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 45:3" class="v">3</span>And
+  Joseph said unto his brethren, I <span class="add">am</span> Joseph; doth my
+  father yet live? And his brethren could not answer him; for they were troubled
+  at his presence. </p>
+id: GEN/45/3
+next:
+  id: GEN/45/4
+  number: '4'
+previous:
+  id: GEN/45/2
+  number: '2'
+reference: 'Genesis 45:3'

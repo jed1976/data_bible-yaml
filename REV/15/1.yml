@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 15:1" class="v">1</span>And I
+  saw another sign in heaven, great and marvellous, seven angels having the
+  seven last plagues; for in them is filled up the wrath of God. </p>
+id: REV/15/1
+next:
+  id: REV/15/2
+  number: '2'
+previous:
+  id: REV/14/20
+  number: '20'
+reference: 'Revelation 15:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 32:6" class="v">6</span>Do ye
+  thus requite the <span class="nd">LORD</span>, O foolish people and unwise?
+  <span class="add">is</span> not he thy father <span class="add">that</span>
+  hath bought thee? hath he not made thee, and established thee?</p>
+id: DEU/32/6
+next:
+  id: DEU/32/7
+  number: '7'
+previous:
+  id: DEU/32/5
+  number: '5'
+reference: 'Deuteronomy 32:6'

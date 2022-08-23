@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 27:26" class="v">26</span>¶
+  Only the firstling of the beasts, which should be the <span
+  class="nd">LORD’s</span> firstling, no man shall sanctify it; whether <span
+  class="add">it be</span> ox, or sheep: it <span class="add">is</span> the
+  <span class="nd">LORD’s</span>. </p>
+id: LEV/27/26
+next:
+  id: LEV/27/27
+  number: '27'
+previous:
+  id: LEV/27/25
+  number: '25'
+reference: 'Leviticus 27:26'

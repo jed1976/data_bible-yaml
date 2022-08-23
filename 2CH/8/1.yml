@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 8:1" class="v">1</span>And it
+  came to pass at the end of twenty years, wherein Solomon had built the house
+  of the <span class="nd">LORD</span>, and his own house, </p>
+id: 2CH/8/1
+next:
+  id: 2CH/8/2
+  number: '2'
+previous:
+  id: 2CH/7/22
+  number: '22'
+reference: '2 Chronicles 8:1'

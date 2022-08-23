@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 42:15"
+  class="v">15</span>And in all the land were no women found <span
+  class="add">so</span> fair as the daughters of Job: and their father gave them
+  inheritance among their brethren. </p>
+id: JOB/42/15
+next:
+  id: JOB/42/16
+  number: '16'
+previous:
+  id: JOB/42/14
+  number: '14'
+reference: 'Job 42:15'

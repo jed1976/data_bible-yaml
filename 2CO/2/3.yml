@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CO 2:3" class="v">3</span>And I
+  wrote this same unto you, lest, when I came, I should have sorrow from them of
+  whom I ought to rejoice; having confidence in you all, that my joy is <span
+  class="add">the joy</span> of you all. </p>
+id: 2CO/2/3
+next:
+  id: 2CO/2/4
+  number: '4'
+previous:
+  id: 2CO/2/2
+  number: '2'
+reference: '2 Corinthians 2:3'

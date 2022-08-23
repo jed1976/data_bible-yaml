@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JAS 5:5" class="v">5</span>Ye
+  have lived in pleasure on the earth, and been wanton; ye have nourished your
+  hearts, as in a day of slaughter. </p>
+id: JAS/5/5
+next:
+  id: JAS/5/6
+  number: '6'
+previous:
+  id: JAS/5/4
+  number: '4'
+reference: 'James 5:5'

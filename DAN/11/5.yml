@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 11:5" class="v">5</span>¶ And
+  the king of the south shall be strong, and <span class="add">one</span> of his
+  princes; and he shall be strong above him, and have dominion; his dominion
+  <span class="add">shall be</span> a great dominion. </p>
+id: DAN/11/5
+next:
+  id: DAN/11/6
+  number: '6'
+previous:
+  id: DAN/11/4
+  number: '4'
+reference: 'Daniel 11:5'

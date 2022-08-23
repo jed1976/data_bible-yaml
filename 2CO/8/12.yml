@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CO 8:12" class="v">12</span>For
+  if there be first a willing mind, <span class="add">it is</span> accepted
+  according to that a man hath, <span class="add">and</span> not according to
+  that he hath not. </p>
+id: 2CO/8/12
+next:
+  id: 2CO/8/13
+  number: '13'
+previous:
+  id: 2CO/8/11
+  number: '11'
+reference: '2 Corinthians 8:12'

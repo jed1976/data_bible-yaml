@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 41:19" class="v">19</span>I
+  will plant in the wilderness the cedar, the shittah tree, and the myrtle, and
+  the oil tree; I will set in the desert the fir tree, <span
+  class="add">and</span> the pine, and the box tree together: </p>
+id: ISA/41/19
+next:
+  id: ISA/41/20
+  number: '20'
+previous:
+  id: ISA/41/18
+  number: '18'
+reference: 'Isaiah 41:19'

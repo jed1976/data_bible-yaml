@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOB 31:35" class="v">35</span>Oh
+  that one would hear me! behold, my desire <span class="add">is, that</span>
+  the Almighty would answer me, and <span class="add">that</span> mine adversary
+  had written a book. </p>
+id: JOB/31/35
+next:
+  id: JOB/31/36
+  number: '36'
+previous:
+  id: JOB/31/34
+  number: '34'
+reference: 'Job 31:35'

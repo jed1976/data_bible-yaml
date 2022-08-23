@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="2CH 9:30" class="v">30</span>And
+  Solomon reigned in Jerusalem over all Israel forty years. </p>
+id: 2CH/9/30
+next:
+  id: 2CH/9/31
+  number: '31'
+previous:
+  id: 2CH/9/29
+  number: '29'
+reference: '2 Chronicles 9:30'

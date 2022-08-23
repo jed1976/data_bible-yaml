@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 27:8"
+  class="v">8</span><span class="add">When thou saidst</span>, Seek ye my face;
+  my heart said unto thee, Thy face, <span class="nd">LORD</span>, will I
+  seek.</p>
+id: PSA/27/8
+next:
+  id: PSA/27/9
+  number: '9'
+previous:
+  id: PSA/27/7
+  number: '7'
+reference: 'Psalms 27:8'

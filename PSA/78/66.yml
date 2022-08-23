@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="66" data-sid="PSA 78:66"
+  class="v">66</span>And he smote his enemies in the hinder parts: he put them
+  to a perpetual reproach.</p>
+id: PSA/78/66
+next:
+  id: PSA/78/67
+  number: '67'
+previous:
+  id: PSA/78/65
+  number: '65'
+reference: 'Psalms 78:66'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="EXO 26:37"
+  class="v">37</span>And thou shalt make for the hanging five pillars <span
+  class="add">of</span> shittim <span class="add">wood</span>, and overlay them
+  with gold, <span class="add">and</span> their hooks <span class="add">shall be
+  of</span> gold: and thou shalt cast five sockets of brass for them.</p>
+id: EXO/26/37
+next:
+  id: EXO/27/1
+  number: '1'
+previous:
+  id: EXO/26/36
+  number: '36'
+reference: 'Exodus 26:37'

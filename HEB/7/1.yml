@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 7:1" class="v">1</span>For
+  this Melchisedec, king of Salem, priest of the most high God, who met Abraham
+  returning from the slaughter of the kings, and blessed him; </p>
+id: HEB/7/1
+next:
+  id: HEB/7/2
+  number: '2'
+previous:
+  id: HEB/6/20
+  number: '20'
+reference: 'Hebrews 7:1'

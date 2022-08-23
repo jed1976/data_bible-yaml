@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 27:19"
+  class="v">19</span>And the third <span class="add">day</span> we cast out with
+  our own hands the tackling of the ship. </p>
+id: ACT/27/19
+next:
+  id: ACT/27/20
+  number: '20'
+previous:
+  id: ACT/27/18
+  number: '18'
+reference: 'Acts 27:19'

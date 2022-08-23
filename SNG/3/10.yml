@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 3:10" class="v">10</span>He
+  made the pillars thereof <span class="add">of</span> silver, the bottom
+  thereof <span class="add">of</span> gold, the covering of it <span
+  class="add">of</span> purple, the midst thereof being paved <span
+  class="add">with</span> love, for the daughters of Jerusalem. </p>
+id: SNG/3/10
+next:
+  id: SNG/3/11
+  number: '11'
+previous:
+  id: SNG/3/9
+  number: '9'
+reference: 'Song of Solomon 3:10'

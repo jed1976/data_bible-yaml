@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="RUT 1:15" class="v">15</span>And
+  she said, Behold, thy sister in law is gone back unto her people, and unto her
+  gods: return thou after thy sister in law. </p>
+id: RUT/1/15
+next:
+  id: RUT/1/16
+  number: '16'
+previous:
+  id: RUT/1/14
+  number: '14'
+reference: 'Ruth 1:15'

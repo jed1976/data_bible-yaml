@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 10:26" class="v">26</span>As
+  vinegar to the teeth, and as smoke to the eyes, so <span class="add">is</span>
+  the sluggard to them that send him.</p>
+id: PRO/10/26
+next:
+  id: PRO/10/27
+  number: '27'
+previous:
+  id: PRO/10/25
+  number: '25'
+reference: 'Proverbs 10:26'

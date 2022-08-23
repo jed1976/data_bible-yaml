@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 21:4" class="v">4</span>And
+  the lot came out for the families of the Kohathites: and the children of Aaron
+  the priest, <span class="add">which were</span> of the Levites, had by lot out
+  of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of
+  Benjamin, thirteen cities. </p>
+id: JOS/21/4
+next:
+  id: JOS/21/5
+  number: '5'
+previous:
+  id: JOS/21/3
+  number: '3'
+reference: 'Joshua 21:4'

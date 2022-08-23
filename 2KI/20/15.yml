@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2KI 20:15"
+  class="v">15</span>And he said, What have they seen in thine house? And
+  Hezekiah answered, All <span class="add">the things</span> that <span
+  class="add">are</span> in mine house have they seen: there is nothing among my
+  treasures that I have not shewed them. </p>
+id: 2KI/20/15
+next:
+  id: 2KI/20/16
+  number: '16'
+previous:
+  id: 2KI/20/14
+  number: '14'
+reference: '2 Kings 20:15'

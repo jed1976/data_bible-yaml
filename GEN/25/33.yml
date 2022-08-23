@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 25:33"
+  class="v">33</span>And Jacob said, Swear to me this day; and he sware unto
+  him: and he sold his birthright unto Jacob. </p>
+id: GEN/25/33
+next:
+  id: GEN/25/34
+  number: '34'
+previous:
+  id: GEN/25/32
+  number: '32'
+reference: 'Genesis 25:33'

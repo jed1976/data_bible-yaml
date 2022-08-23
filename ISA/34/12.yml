@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 34:12"
+  class="v">12</span>They shall call the nobles thereof to the kingdom, but none
+  <span class="add">shall be</span> there, and all her princes shall be nothing.
+  </p>
+id: ISA/34/12
+next:
+  id: ISA/34/13
+  number: '13'
+previous:
+  id: ISA/34/11
+  number: '11'
+reference: 'Isaiah 34:12'

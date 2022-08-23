@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 37:1" class="v">1</span>And
+  it came to pass, when king Hezekiah heard <span class="add">it</span>, that he
+  rent his clothes, and covered himself with sackcloth, and went into the house
+  of the <span class="nd">LORD</span>. </p>
+id: ISA/37/1
+next:
+  id: ISA/37/2
+  number: '2'
+previous:
+  id: ISA/36/22
+  number: '22'
+reference: 'Isaiah 37:1'

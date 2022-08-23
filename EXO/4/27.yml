@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 4:27" class="v">27</span>¶
+  And the <span class="nd">LORD</span> said to Aaron, Go into the wilderness to
+  meet Moses. And he went, and met him in the mount of God, and kissed him. </p>
+id: EXO/4/27
+next:
+  id: EXO/4/28
+  number: '28'
+previous:
+  id: EXO/4/26
+  number: '26'
+reference: 'Exodus 4:27'

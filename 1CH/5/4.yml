@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 5:4" class="v">4</span>The
+  sons of Joel; Shemaiah his son, Gog his son, Shimei his son, </p>
+id: 1CH/5/4
+next:
+  id: 1CH/5/5
+  number: '5'
+previous:
+  id: 1CH/5/3
+  number: '3'
+reference: '1 Chronicles 5:4'

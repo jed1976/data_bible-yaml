@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 2:13"
+  class="v">13</span>Others mocking said, These men are full of new wine.</p>
+id: ACT/2/13
+next:
+  id: ACT/2/14
+  number: '14'
+previous:
+  id: ACT/2/12
+  number: '12'
+reference: 'Acts 2:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 23:11"
+  class="v">11</span>And he shall wave the sheaf before the <span
+  class="nd">LORD</span>, to be accepted for you: on the morrow after the
+  sabbath the priest shall wave it. </p>
+id: LEV/23/11
+next:
+  id: LEV/23/12
+  number: '12'
+previous:
+  id: LEV/23/10
+  number: '10'
+reference: 'Leviticus 23:11'

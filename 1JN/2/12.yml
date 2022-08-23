@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1JN 2:12" class="v">12</span>I
+  write unto you, little children, because your sins are forgiven you for his
+  name’s sake. </p>
+id: 1JN/2/12
+next:
+  id: 1JN/2/13
+  number: '13'
+previous:
+  id: 1JN/2/11
+  number: '11'
+reference: '1 John 2:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 21:20"
+  class="v">20</span>And they shall say unto the elders of his city, This our
+  son <span class="add">is</span> stubborn and rebellious, he will not obey our
+  voice; <span class="add">he is</span> a glutton, and a drunkard. </p>
+id: DEU/21/20
+next:
+  id: DEU/21/21
+  number: '21'
+previous:
+  id: DEU/21/19
+  number: '19'
+reference: 'Deuteronomy 21:20'

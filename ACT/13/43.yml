@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="ACT 13:43"
+  class="v">43</span>Now when the congregation was broken up, many of the Jews
+  and religious proselytes followed Paul and Barnabas: who, speaking to them,
+  persuaded them to continue in the grace of God.</p>
+id: ACT/13/43
+next:
+  id: ACT/13/44
+  number: '44'
+previous:
+  id: ACT/13/42
+  number: '42'
+reference: 'Acts 13:43'

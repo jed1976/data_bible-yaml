@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 7:13" class="v">13</span>And
+  he hardened Pharaoh’s heart, that he hearkened not unto them; as the <span
+  class="nd">LORD</span> had said.</p>
+id: EXO/7/13
+next:
+  id: EXO/7/14
+  number: '14'
+previous:
+  id: EXO/7/12
+  number: '12'
+reference: 'Exodus 7:13'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 16:30"
+  class="v">30</span>But if the <span class="nd">LORD</span> make a new thing,
+  and the earth open her mouth, and swallow them up, with all that <span
+  class="add">appertain</span> unto them, and they go down quick into the pit;
+  then ye shall understand that these men have provoked the <span
+  class="nd">LORD</span>.</p>
+id: NUM/16/30
+next:
+  id: NUM/16/31
+  number: '31'
+previous:
+  id: NUM/16/29
+  number: '29'
+reference: 'Numbers 16:30'

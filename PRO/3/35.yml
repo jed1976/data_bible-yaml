@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="PRO 3:35" class="v">35</span>The
+  wise shall inherit glory: but shame shall be the promotion of fools.</p>
+id: PRO/3/35
+next:
+  id: PRO/4/1
+  number: '1'
+previous:
+  id: PRO/3/34
+  number: '34'
+reference: 'Proverbs 3:35'

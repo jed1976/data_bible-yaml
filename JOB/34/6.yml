@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 34:6"
+  class="v">6</span>Should I lie against my right? my wound <span
+  class="add">is</span> incurable without transgression. </p>
+id: JOB/34/6
+next:
+  id: JOB/34/7
+  number: '7'
+previous:
+  id: JOB/34/5
+  number: '5'
+reference: 'Job 34:6'

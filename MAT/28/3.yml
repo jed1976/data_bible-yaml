@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 28:3" class="v">3</span>His
+  countenance was like lightning, and his raiment white as snow: </p>
+id: MAT/28/3
+next:
+  id: MAT/28/4
+  number: '4'
+previous:
+  id: MAT/28/2
+  number: '2'
+reference: 'Matthew 28:3'

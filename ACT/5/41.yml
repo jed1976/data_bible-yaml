@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="ACT 5:41" class="v">41</span>¶
+  And they departed from the presence of the council, rejoicing that they were
+  counted worthy to suffer shame for his name. </p>
+id: ACT/5/41
+next:
+  id: ACT/5/42
+  number: '42'
+previous:
+  id: ACT/5/40
+  number: '40'
+reference: 'Acts 5:41'

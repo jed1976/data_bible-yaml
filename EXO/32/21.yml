@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 32:21"
+  class="v">21</span>And Moses said unto Aaron, What did this people unto thee,
+  that thou hast brought so great a sin upon them? </p>
+id: EXO/32/21
+next:
+  id: EXO/32/22
+  number: '22'
+previous:
+  id: EXO/32/20
+  number: '20'
+reference: 'Exodus 32:21'

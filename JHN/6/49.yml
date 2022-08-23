@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="JHN 6:49"
+  class="v">49</span><span class="wj">Your fathers did eat manna in the
+  wilderness, and are dead.</span> </p>
+id: JHN/6/49
+next:
+  id: JHN/6/50
+  number: '50'
+previous:
+  id: JHN/6/48
+  number: '48'
+reference: 'John 6:49'

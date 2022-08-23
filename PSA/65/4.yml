@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 65:4"
+  class="v">4</span>Blessed <span class="add">is the man whom</span> thou
+  choosest, and causest to approach <span class="add">unto thee, that</span> he
+  may dwell in thy courts: we shall be satisfied with the goodness of thy house,
+  <span class="add">even</span> of thy holy temple.</p>
+id: PSA/65/4
+next:
+  id: PSA/65/5
+  number: '5'
+previous:
+  id: PSA/65/3
+  number: '3'
+reference: 'Psalms 65:4'

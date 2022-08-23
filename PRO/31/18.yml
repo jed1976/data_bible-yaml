@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 31:18"
+  class="v">18</span>She perceiveth that her merchandise <span
+  class="add">is</span> good: her candle goeth not out by night. </p>
+id: PRO/31/18
+next:
+  id: PRO/31/19
+  number: '19'
+previous:
+  id: PRO/31/17
+  number: '17'
+reference: 'Proverbs 31:18'

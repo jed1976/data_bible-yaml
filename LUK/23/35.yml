@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 23:35"
+  class="v">35</span>And the people stood beholding. And the rulers also with
+  them derided <span class="add">him</span>, saying, He saved others; let him
+  save himself, if he be Christ, the chosen of God. </p>
+id: LUK/23/35
+next:
+  id: LUK/23/36
+  number: '36'
+previous:
+  id: LUK/23/34
+  number: '34'
+reference: 'Luke 23:35'

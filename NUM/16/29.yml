@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 16:29" class="v">29</span>If
+  these men die the common death of all men, or if they be visited after the
+  visitation of all men; <span class="add">then</span> the <span
+  class="nd">LORD</span> hath not sent me. </p>
+id: NUM/16/29
+next:
+  id: NUM/16/30
+  number: '30'
+previous:
+  id: NUM/16/28
+  number: '28'
+reference: 'Numbers 16:29'

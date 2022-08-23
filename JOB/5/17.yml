@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 5:17"
+  class="v">17</span>Behold, happy <span class="add">is</span> the man whom God
+  correcteth: therefore despise not thou the chastening of the Almighty: </p>
+id: JOB/5/17
+next:
+  id: JOB/5/18
+  number: '18'
+previous:
+  id: JOB/5/16
+  number: '16'
+reference: 'Job 5:17'

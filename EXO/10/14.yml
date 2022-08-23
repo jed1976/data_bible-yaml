@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 10:14"
+  class="v">14</span>And the locusts went up over all the land of Egypt, and
+  rested in all the coasts of Egypt: very grievous <span class="add">were
+  they;</span> before them there were no such locusts as they, neither after
+  them shall be such. </p>
+id: EXO/10/14
+next:
+  id: EXO/10/15
+  number: '15'
+previous:
+  id: EXO/10/13
+  number: '13'
+reference: 'Exodus 10:14'

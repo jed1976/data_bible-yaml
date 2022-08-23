@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 21:24"
+  class="v">24</span>And Israel smote him with the edge of the sword, and
+  possessed his land from Arnon unto Jabbok, even unto the children of Ammon:
+  for the border of the children of Ammon <span class="add">was</span> strong.
+  </p>
+id: NUM/21/24
+next:
+  id: NUM/21/25
+  number: '25'
+previous:
+  id: NUM/21/23
+  number: '23'
+reference: 'Numbers 21:24'

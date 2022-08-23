@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 3:21" class="v">21</span>¶
+  My son, let not them depart from thine eyes: keep sound wisdom and discretion:
+  </p>
+id: PRO/3/21
+next:
+  id: PRO/3/22
+  number: '22'
+previous:
+  id: PRO/3/20
+  number: '20'
+reference: 'Proverbs 3:21'

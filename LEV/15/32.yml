@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 15:32"
+  class="v">32</span>This <span class="add">is</span> the law of him that hath
+  an issue, and <span class="add">of him</span> whose seed goeth from him, and
+  is defiled therewith; </p>
+id: LEV/15/32
+next:
+  id: LEV/15/33
+  number: '33'
+previous:
+  id: LEV/15/31
+  number: '31'
+reference: 'Leviticus 15:32'

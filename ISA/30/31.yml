@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ISA 30:31"
+  class="v">31</span>For through the voice of the <span class="nd">LORD</span>
+  shall the Assyrian be beaten down, <span class="add">which</span> smote with a
+  rod. </p>
+id: ISA/30/31
+next:
+  id: ISA/30/32
+  number: '32'
+previous:
+  id: ISA/30/30
+  number: '30'
+reference: 'Isaiah 30:31'

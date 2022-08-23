@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 13:42"
+  class="v">42</span><span class="wj">And shall cast them into a furnace of
+  fire: there shall be wailing and gnashing of teeth.</span> </p>
+id: MAT/13/42
+next:
+  id: MAT/13/43
+  number: '43'
+previous:
+  id: MAT/13/41
+  number: '41'
+reference: 'Matthew 13:42'

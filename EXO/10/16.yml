@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 10:16" class="v">16</span>¶
+  Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned
+  against the <span class="nd">LORD</span> your God, and against you. </p>
+id: EXO/10/16
+next:
+  id: EXO/10/17
+  number: '17'
+previous:
+  id: EXO/10/15
+  number: '15'
+reference: 'Exodus 10:16'

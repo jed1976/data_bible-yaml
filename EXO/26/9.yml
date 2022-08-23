@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 26:9" class="v">9</span>And
+  thou shalt couple five curtains by themselves, and six curtains by themselves,
+  and shalt double the sixth curtain in the forefront of the tabernacle. </p>
+id: EXO/26/9
+next:
+  id: EXO/26/10
+  number: '10'
+previous:
+  id: EXO/26/8
+  number: '8'
+reference: 'Exodus 26:9'

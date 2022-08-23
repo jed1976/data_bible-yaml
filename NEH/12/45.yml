@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="NEH 12:45"
+  class="v">45</span>And both the singers and the porters kept the ward of their
+  God, and the ward of the purification, according to the commandment of David,
+  <span class="add">and</span> of Solomon his son. </p>
+id: NEH/12/45
+next:
+  id: NEH/12/46
+  number: '46'
+previous:
+  id: NEH/12/44
+  number: '44'
+reference: 'Nehemiah 12:45'

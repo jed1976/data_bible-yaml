@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 16:25"
+  class="v">25</span><span class="wj">For whosoever will save his life shall
+  lose it: and whosoever will lose his life for my sake shall find it.</span>
+  </p>
+id: MAT/16/25
+next:
+  id: MAT/16/26
+  number: '26'
+previous:
+  id: MAT/16/24
+  number: '24'
+reference: 'Matthew 16:25'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 4:4" class="v">4</span>It
+  stood upon twelve oxen, three looking toward the north, and three looking
+  toward the west, and three looking toward the south, and three looking toward
+  the east: and the sea <span class="add">was set</span> above upon them, and
+  all their hinder parts <span class="add">were</span> inward. </p>
+id: 2CH/4/4
+next:
+  id: 2CH/4/5
+  number: '5'
+previous:
+  id: 2CH/4/3
+  number: '3'
+reference: '2 Chronicles 4:4'

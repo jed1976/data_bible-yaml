@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 23:9" class="v">9</span>And
+  there arose a great cry: and the scribes <span class="add">that were</span> of
+  the Pharisees’ part arose, and strove, saying, We find no evil in this man:
+  but if a spirit or an angel hath spoken to him, let us not fight against God.
+  </p>
+id: ACT/23/9
+next:
+  id: ACT/23/10
+  number: '10'
+previous:
+  id: ACT/23/8
+  number: '8'
+reference: 'Acts 23:9'

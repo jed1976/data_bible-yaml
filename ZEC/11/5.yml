@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 11:5" class="v">5</span>Whose
+  possessors slay them, and hold themselves not guilty: and they that sell them
+  say, Blessed <span class="add">be</span> the <span class="nd">LORD</span>; for
+  I am rich: and their own shepherds pity them not. </p>
+id: ZEC/11/5
+next:
+  id: ZEC/11/6
+  number: '6'
+previous:
+  id: ZEC/11/4
+  number: '4'
+reference: 'Zechariah 11:5'

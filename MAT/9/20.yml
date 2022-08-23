@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 9:20" class="v">20</span>¶
+  And, behold, a woman, which was diseased with an issue of blood twelve years,
+  came behind <span class="add">him</span>, and touched the hem of his garment:
+  </p>
+id: MAT/9/20
+next:
+  id: MAT/9/21
+  number: '21'
+previous:
+  id: MAT/9/19
+  number: '19'
+reference: 'Matthew 9:20'

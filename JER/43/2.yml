@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 43:2" class="v">2</span>Then
+  spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the
+  proud men, saying unto Jeremiah, Thou speakest falsely: the <span
+  class="nd">LORD</span> our God hath not sent thee to say, Go not into Egypt to
+  sojourn there: </p>
+id: JER/43/2
+next:
+  id: JER/43/3
+  number: '3'
+previous:
+  id: JER/43/1
+  number: '1'
+reference: 'Jeremiah 43:2'

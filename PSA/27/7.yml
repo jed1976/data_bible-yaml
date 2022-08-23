@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 27:7"
+  class="v">7</span>Hear, O <span class="nd">LORD</span>, <span
+  class="add">when</span> I cry with my voice: have mercy also upon me, and
+  answer me.</p>
+id: PSA/27/7
+next:
+  id: PSA/27/8
+  number: '8'
+previous:
+  id: PSA/27/6
+  number: '6'
+reference: 'Psalms 27:7'

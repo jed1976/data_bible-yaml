@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 16:11"
+  class="v">11</span>God hath delivered me to the ungodly, and turned me over
+  into the hands of the wicked. </p>
+id: JOB/16/11
+next:
+  id: JOB/16/12
+  number: '12'
+previous:
+  id: JOB/16/10
+  number: '10'
+reference: 'Job 16:11'

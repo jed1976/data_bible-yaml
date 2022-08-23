@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="62" data-sid="PSA 119:62"
+  class="v">62</span>At midnight I will rise to give thanks unto thee because of
+  thy righteous judgments.</p>
+id: PSA/119/62
+next:
+  id: PSA/119/63
+  number: '63'
+previous:
+  id: PSA/119/61
+  number: '61'
+reference: 'Psalms 119:62'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 4:9" class="v">9</span>I have
+  smitten you with blasting and mildew: when your gardens and your vineyards and
+  your fig trees and your olive trees increased, the palmerworm devoured <span
+  class="add">them:</span> yet have ye not returned unto me, saith the <span
+  class="nd">LORD</span>. </p>
+id: AMO/4/9
+next:
+  id: AMO/4/10
+  number: '10'
+previous:
+  id: AMO/4/8
+  number: '8'
+reference: 'Amos 4:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 22:3" class="v">3</span>¶
+  Then entered Satan into Judas surnamed Iscariot, being of the number of the
+  twelve. </p>
+id: LUK/22/3
+next:
+  id: LUK/22/4
+  number: '4'
+previous:
+  id: LUK/22/2
+  number: '2'
+reference: 'Luke 22:3'

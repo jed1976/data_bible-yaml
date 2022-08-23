@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 37:31"
+  class="v">31</span>And they took Joseph’s coat, and killed a kid of the goats,
+  and dipped the coat in the blood; </p>
+id: GEN/37/31
+next:
+  id: GEN/37/32
+  number: '32'
+previous:
+  id: GEN/37/30
+  number: '30'
+reference: 'Genesis 37:31'

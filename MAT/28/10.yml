@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 28:10"
+  class="v">10</span>Then said Jesus unto them, <span class="wj">Be not afraid:
+  go tell my brethren that they go into Galilee, and there shall they see
+  me.</span></p>
+id: MAT/28/10
+next:
+  id: MAT/28/11
+  number: '11'
+previous:
+  id: MAT/28/9
+  number: '9'
+reference: 'Matthew 28:10'

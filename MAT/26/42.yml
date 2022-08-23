@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 26:42" class="v">42</span>He
+  went away again the second time, and prayed, saying, <span class="wj">O my
+  Father, if this cup may not pass away from me, except I drink it, thy will be
+  done.</span> </p>
+id: MAT/26/42
+next:
+  id: MAT/26/43
+  number: '43'
+previous:
+  id: MAT/26/41
+  number: '41'
+reference: 'Matthew 26:42'

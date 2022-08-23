@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 5:20" class="v">20</span>Go,
+  stand and speak in the temple to the people all the words of this life. </p>
+id: ACT/5/20
+next:
+  id: ACT/5/21
+  number: '21'
+previous:
+  id: ACT/5/19
+  number: '19'
+reference: 'Acts 5:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 3:6" class="v">6</span>And
+  the Pharisees went forth, and straightway took counsel with the Herodians
+  against him, how they might destroy him. </p>
+id: MRK/3/6
+next:
+  id: MRK/3/7
+  number: '7'
+previous:
+  id: MRK/3/5
+  number: '5'
+reference: 'Mark 3:6'

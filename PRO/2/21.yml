@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 2:21" class="v">21</span>For
+  the upright shall dwell in the land, and the perfect shall remain in it. </p>
+id: PRO/2/21
+next:
+  id: PRO/2/22
+  number: '22'
+previous:
+  id: PRO/2/20
+  number: '20'
+reference: 'Proverbs 2:21'

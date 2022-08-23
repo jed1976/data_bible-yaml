@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 6:3" class="v">3</span>Know
+  ye not that we shall judge angels? how much more things that pertain to this
+  life? </p>
+id: 1CO/6/3
+next:
+  id: 1CO/6/4
+  number: '4'
+previous:
+  id: 1CO/6/2
+  number: '2'
+reference: '1 Corinthians 6:3'

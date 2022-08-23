@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 18:23"
+  class="v">23</span>But howsoever, <span class="add">said he</span>, let me
+  run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and
+  overran Cushi. </p>
+id: 2SA/18/23
+next:
+  id: 2SA/18/24
+  number: '24'
+previous:
+  id: 2SA/18/22
+  number: '22'
+reference: '2 Samuel 18:23'

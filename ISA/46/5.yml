@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 46:5" class="v">5</span>¶ To
+  whom will ye liken me, and make <span class="add">me</span> equal, and compare
+  me, that we may be like? </p>
+id: ISA/46/5
+next:
+  id: ISA/46/6
+  number: '6'
+previous:
+  id: ISA/46/4
+  number: '4'
+reference: 'Isaiah 46:5'

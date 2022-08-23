@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 2:25" class="v">25</span>¶
+  And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and
+  Bunah, and Oren, and Ozem, <span class="add">and</span> Ahijah. </p>
+id: 1CH/2/25
+next:
+  id: 1CH/2/26
+  number: '26'
+previous:
+  id: 1CH/2/24
+  number: '24'
+reference: '1 Chronicles 2:25'

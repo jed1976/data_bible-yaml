@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 25:30"
+  class="v">30</span><span class="wj">And cast ye the unprofitable servant into
+  outer darkness: there shall be weeping and gnashing of teeth.</span></p>
+id: MAT/25/30
+next:
+  id: MAT/25/31
+  number: '31'
+previous:
+  id: MAT/25/29
+  number: '29'
+reference: 'Matthew 25:30'

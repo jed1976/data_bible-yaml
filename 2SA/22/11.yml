@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 22:11"
+  class="v">11</span>And he rode upon a cherub, and did fly: and he was seen
+  upon the wings of the wind. </p>
+id: 2SA/22/11
+next:
+  id: 2SA/22/12
+  number: '12'
+previous:
+  id: 2SA/22/10
+  number: '10'
+reference: '2 Samuel 22:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 16:30"
+  class="v">30</span><span class="wj">And he said, Nay, father Abraham: but if
+  one went unto them from the dead, they will repent.</span> </p>
+id: LUK/16/30
+next:
+  id: LUK/16/31
+  number: '31'
+previous:
+  id: LUK/16/29
+  number: '29'
+reference: 'Luke 16:30'

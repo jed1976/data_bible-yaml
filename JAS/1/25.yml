@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JAS 1:25" class="v">25</span>But
+  whoso looketh into the perfect law of liberty, and continueth <span
+  class="add">therein</span>, he being not a forgetful hearer, but a doer of the
+  work, this man shall be blessed in his deed. </p>
+id: JAS/1/25
+next:
+  id: JAS/1/26
+  number: '26'
+previous:
+  id: JAS/1/24
+  number: '24'
+reference: 'James 1:25'

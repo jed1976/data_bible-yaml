@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 37:19"
+  class="v">19</span>Teach us what we shall say unto him; <span
+  class="add">for</span> we cannot order <span class="add">our speech</span> by
+  reason of darkness. </p>
+id: JOB/37/19
+next:
+  id: JOB/37/20
+  number: '20'
+previous:
+  id: JOB/37/18
+  number: '18'
+reference: 'Job 37:19'

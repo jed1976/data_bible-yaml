@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 4:3" class="v">3</span><span
+  class="wj">Hearken; Behold, there went out a sower to sow:</span> </p>
+id: MRK/4/3
+next:
+  id: MRK/4/4
+  number: '4'
+previous:
+  id: MRK/4/2
+  number: '2'
+reference: 'Mark 4:3'

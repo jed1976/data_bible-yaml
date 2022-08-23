@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 23:14"
+  class="v">14</span>Howl, ye ships of Tarshish: for your strength is laid
+  waste.</p>
+id: ISA/23/14
+next:
+  id: ISA/23/15
+  number: '15'
+previous:
+  id: ISA/23/13
+  number: '13'
+reference: 'Isaiah 23:14'

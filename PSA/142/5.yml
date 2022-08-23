@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 142:5" class="v">5</span>I
+  cried unto thee, O <span class="nd">LORD</span>: I said, Thou <span
+  class="add">art</span> my refuge <span class="add">and</span> my portion in
+  the land of the living.</p>
+id: PSA/142/5
+next:
+  id: PSA/142/6
+  number: '6'
+previous:
+  id: PSA/142/4
+  number: '4'
+reference: 'Psalms 142:5'

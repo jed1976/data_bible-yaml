@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 25:8" class="v">8</span>And
+  let them make me a sanctuary; that I may dwell among them. </p>
+id: EXO/25/8
+next:
+  id: EXO/25/9
+  number: '9'
+previous:
+  id: EXO/25/7
+  number: '7'
+reference: 'Exodus 25:8'

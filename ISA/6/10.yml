@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 6:10"
+  class="v">10</span>Make the heart of this people fat, and make their ears
+  heavy, and shut their eyes; lest they see with their eyes, and hear with their
+  ears, and understand with their heart, and convert, and be healed. </p>
+id: ISA/6/10
+next:
+  id: ISA/6/11
+  number: '11'
+previous:
+  id: ISA/6/9
+  number: '9'
+reference: 'Isaiah 6:10'

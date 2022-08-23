@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ROM 8:27" class="v">27</span>And
+  he that searcheth the hearts knoweth what <span class="add">is</span> the mind
+  of the Spirit, because he maketh intercession for the saints according to
+  <span class="add">the will of</span> God. </p>
+id: ROM/8/27
+next:
+  id: ROM/8/28
+  number: '28'
+previous:
+  id: ROM/8/26
+  number: '26'
+reference: 'Romans 8:27'

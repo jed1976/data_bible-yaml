@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 11:7" class="v">7</span>Canst
+  thou by searching find out God? canst thou find out the Almighty unto
+  perfection? </p>
+id: JOB/11/7
+next:
+  id: JOB/11/8
+  number: '8'
+previous:
+  id: JOB/11/6
+  number: '6'
+reference: 'Job 11:7'

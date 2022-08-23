@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TI 2:1" class="v">1</span>I
+  exhort therefore, that, first of all, supplications, prayers, intercessions,
+  <span class="add">and</span> giving of thanks, be made for all men; </p>
+id: 1TI/2/1
+next:
+  id: 1TI/2/2
+  number: '2'
+previous:
+  id: 1TI/1/20
+  number: '20'
+reference: '1 Timothy 2:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 24:9" class="v">9</span>And
+  he did <span class="add">that which was</span> evil in the sight of the <span
+  class="nd">LORD</span>, according to all that his father had done.</p>
+id: 2KI/24/9
+next:
+  id: 2KI/24/10
+  number: '10'
+previous:
+  id: 2KI/24/8
+  number: '8'
+reference: '2 Kings 24:9'

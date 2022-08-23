@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2KI 4:32" class="v">32</span>And
+  when Elisha was come into the house, behold, the child was dead, <span
+  class="add">and</span> laid upon his bed. </p>
+id: 2KI/4/32
+next:
+  id: 2KI/4/33
+  number: '33'
+previous:
+  id: 2KI/4/31
+  number: '31'
+reference: '2 Kings 4:32'

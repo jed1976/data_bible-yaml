@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 17:19"
+  class="v">19</span>And God said, Sarah thy wife shall bear thee a son indeed;
+  and thou shalt call his name Isaac: and I will establish my covenant with him
+  for an everlasting covenant, <span class="add">and</span> with his seed after
+  him. </p>
+id: GEN/17/19
+next:
+  id: GEN/17/20
+  number: '20'
+previous:
+  id: GEN/17/18
+  number: '18'
+reference: 'Genesis 17:19'

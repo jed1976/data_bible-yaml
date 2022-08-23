@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JHN 7:45" class="v">45</span>¶
+  Then came the officers to the chief priests and Pharisees; and they said unto
+  them, Why have ye not brought him? </p>
+id: JHN/7/45
+next:
+  id: JHN/7/46
+  number: '46'
+previous:
+  id: JHN/7/44
+  number: '44'
+reference: 'John 7:45'

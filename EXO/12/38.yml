@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="EXO 12:38"
+  class="v">38</span>And a mixed multitude went up also with them; and flocks,
+  and herds, <span class="add">even</span> very much cattle. </p>
+id: EXO/12/38
+next:
+  id: EXO/12/39
+  number: '39'
+previous:
+  id: EXO/12/37
+  number: '37'
+reference: 'Exodus 12:38'

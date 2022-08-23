@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 24:34"
+  class="v">34</span>Saying, The Lord is risen indeed, and hath appeared to
+  Simon. </p>
+id: LUK/24/34
+next:
+  id: LUK/24/35
+  number: '35'
+previous:
+  id: LUK/24/33
+  number: '33'
+reference: 'Luke 24:34'

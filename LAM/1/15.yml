@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LAM 1:15" class="v">15</span>The
+  Lord hath trodden under foot all my mighty <span class="add">men</span> in the
+  midst of me: he hath called an assembly against me to crush my young men: the
+  Lord hath trodden the virgin, the daughter of Judah, <span
+  class="add">as</span> in a winepress. </p>
+id: LAM/1/15
+next:
+  id: LAM/1/16
+  number: '16'
+previous:
+  id: LAM/1/14
+  number: '14'
+reference: 'Lamentations 1:15'

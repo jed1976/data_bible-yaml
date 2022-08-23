@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 20:16"
+  class="v">16</span>And unto Sarah he said, Behold, I have given thy brother a
+  thousand <span class="add">pieces</span> of silver: behold, he <span
+  class="add">is</span> to thee a covering of the eyes, unto all that <span
+  class="add">are</span> with thee, and with all <span class="add">other:</span>
+  thus she was reproved.</p>
+id: GEN/20/16
+next:
+  id: GEN/20/17
+  number: '17'
+previous:
+  id: GEN/20/15
+  number: '15'
+reference: 'Genesis 20:16'

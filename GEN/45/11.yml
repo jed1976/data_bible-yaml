@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 45:11"
+  class="v">11</span>And there will I nourish thee; for yet <span
+  class="add">there are</span> five years of famine; lest thou, and thy
+  household, and all that thou hast, come to poverty. </p>
+id: GEN/45/11
+next:
+  id: GEN/45/12
+  number: '12'
+previous:
+  id: GEN/45/10
+  number: '10'
+reference: 'Genesis 45:11'

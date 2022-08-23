@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 15:15"
+  class="v">15</span>And thou shalt remember that thou wast a bondman in the
+  land of Egypt, and the <span class="nd">LORD</span> thy God redeemed thee:
+  therefore I command thee this thing to day. </p>
+id: DEU/15/15
+next:
+  id: DEU/15/16
+  number: '16'
+previous:
+  id: DEU/15/14
+  number: '14'
+reference: 'Deuteronomy 15:15'

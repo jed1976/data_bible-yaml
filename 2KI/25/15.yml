@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2KI 25:15"
+  class="v">15</span>And the firepans, and the bowls, <span
+  class="add">and</span> such things as <span class="add">were</span> of gold,
+  <span class="add">in</span> gold, and of silver, <span class="add">in</span>
+  silver, the captain of the guard took away. </p>
+id: 2KI/25/15
+next:
+  id: 2KI/25/16
+  number: '16'
+previous:
+  id: 2KI/25/14
+  number: '14'
+reference: '2 Kings 25:15'

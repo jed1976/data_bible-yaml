@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 15:12"
+  class="v">12</span>And again, Esaias saith, There shall be a root of Jesse,
+  and he that shall rise to reign over the Gentiles; in him shall the Gentiles
+  trust. </p>
+id: ROM/15/12
+next:
+  id: ROM/15/13
+  number: '13'
+previous:
+  id: ROM/15/11
+  number: '11'
+reference: 'Romans 15:12'

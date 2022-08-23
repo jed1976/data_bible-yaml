@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 5:8" class="v">8</span>And
+  the tale of the bricks, which they did make heretofore, ye shall lay upon
+  them; ye shall not diminish <span class="add">ought</span> thereof: for they
+  <span class="add">be</span> idle; therefore they cry, saying, Let us go <span
+  class="add">and</span> sacrifice to our God. </p>
+id: EXO/5/8
+next:
+  id: EXO/5/9
+  number: '9'
+previous:
+  id: EXO/5/7
+  number: '7'
+reference: 'Exodus 5:8'

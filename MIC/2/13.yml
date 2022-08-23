@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MIC 2:13" class="v">13</span>The
+  breaker is come up before them: they have broken up, and have passed through
+  the gate, and are gone out by it: and their king shall pass before them, and
+  the <span class="nd">LORD</span> on the head of them.</p>
+id: MIC/2/13
+next:
+  id: MIC/3/1
+  number: '1'
+previous:
+  id: MIC/2/12
+  number: '12'
+reference: 'Micah 2:13'

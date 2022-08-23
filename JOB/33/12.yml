@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 33:12"
+  class="v">12</span>Behold, <span class="add">in</span> this thou art not just:
+  I will answer thee, that God is greater than man. </p>
+id: JOB/33/12
+next:
+  id: JOB/33/13
+  number: '13'
+previous:
+  id: JOB/33/11
+  number: '11'
+reference: 'Job 33:12'

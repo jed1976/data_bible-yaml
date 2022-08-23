@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 18:31"
+  class="v">31</span>And he said, Behold now, I have taken upon me to speak unto
+  the Lord: Peradventure there shall be twenty found there. And he said, I will
+  not destroy <span class="add">it</span> for twenty’s sake. </p>
+id: GEN/18/31
+next:
+  id: GEN/18/32
+  number: '32'
+previous:
+  id: GEN/18/30
+  number: '30'
+reference: 'Genesis 18:31'

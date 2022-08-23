@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 11:20"
+  class="v">20</span>They that are of a froward heart <span
+  class="add">are</span> abomination to the <span class="nd">LORD</span>: but
+  <span class="add">such as are</span> upright in <span class="add">their</span>
+  way <span class="add">are</span> his delight. </p>
+id: PRO/11/20
+next:
+  id: PRO/11/21
+  number: '21'
+previous:
+  id: PRO/11/19
+  number: '19'
+reference: 'Proverbs 11:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 1:11" class="v">11</span>And
+  there came a voice from heaven, <span class="add">saying</span>, Thou art my
+  beloved Son, in whom I am well pleased. </p>
+id: MRK/1/11
+next:
+  id: MRK/1/12
+  number: '12'
+previous:
+  id: MRK/1/10
+  number: '10'
+reference: 'Mark 1:11'

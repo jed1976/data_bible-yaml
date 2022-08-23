@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 6:10" class="v">10</span>And
+  it shall be, when the <span class="nd">LORD</span> thy God shall have brought
+  thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and
+  to Jacob, to give thee great and goodly cities, which thou buildedst not, </p>
+id: DEU/6/10
+next:
+  id: DEU/6/11
+  number: '11'
+previous:
+  id: DEU/6/9
+  number: '9'
+reference: 'Deuteronomy 6:10'

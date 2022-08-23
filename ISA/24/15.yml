@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 24:15"
+  class="v">15</span>Wherefore glorify ye the <span class="nd">LORD</span> in
+  the fires, <span class="add">even</span> the name of the <span
+  class="nd">LORD</span> God of Israel in the isles of the sea.</p>
+id: ISA/24/15
+next:
+  id: ISA/24/16
+  number: '16'
+previous:
+  id: ISA/24/14
+  number: '14'
+reference: 'Isaiah 24:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PHP 2:30"
+  class="v">30</span>Because for the work of Christ he was nigh unto death, not
+  regarding his life, to supply your lack of service toward me.</p>
+id: PHP/2/30
+next:
+  id: PHP/3/1
+  number: '1'
+previous:
+  id: PHP/2/29
+  number: '29'
+reference: 'Philippians 2:30'

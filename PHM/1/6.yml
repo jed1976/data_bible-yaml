@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PHM 1:6" class="v">6</span>That
+  the communication of thy faith may become effectual by the acknowledging of
+  every good thing which is in you in Christ Jesus. </p>
+id: PHM/1/6
+next:
+  id: PHM/1/7
+  number: '7'
+previous:
+  id: PHM/1/5
+  number: '5'
+reference: 'Philemon 1:6'

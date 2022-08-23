@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 15:18"
+  class="v">18</span>Known unto God are all his works from the beginning of the
+  world. </p>
+id: ACT/15/18
+next:
+  id: ACT/15/19
+  number: '19'
+previous:
+  id: ACT/15/17
+  number: '17'
+reference: 'Acts 15:18'

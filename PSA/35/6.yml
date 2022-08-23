@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 35:6" class="v">6</span>Let
+  their way be dark and slippery: and let the angel of the <span
+  class="nd">LORD</span> persecute them.</p>
+id: PSA/35/6
+next:
+  id: PSA/35/7
+  number: '7'
+previous:
+  id: PSA/35/5
+  number: '5'
+reference: 'Psalms 35:6'

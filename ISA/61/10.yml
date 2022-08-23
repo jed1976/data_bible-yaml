@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 61:10" class="v">10</span>I
+  will greatly rejoice in the <span class="nd">LORD</span>, my soul shall be
+  joyful in my God; for he hath clothed me with the garments of salvation, he
+  hath covered me with the robe of righteousness, as a bridegroom decketh <span
+  class="add">himself</span> with ornaments, and as a bride adorneth <span
+  class="add">herself</span> with her jewels. </p>
+id: ISA/61/10
+next:
+  id: ISA/61/11
+  number: '11'
+previous:
+  id: ISA/61/9
+  number: '9'
+reference: 'Isaiah 61:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 18:17"
+  class="v">17</span>And the <span class="nd">LORD</span> said unto me, They
+  have well <span class="add">spoken that</span> which they have spoken. </p>
+id: DEU/18/17
+next:
+  id: DEU/18/18
+  number: '18'
+previous:
+  id: DEU/18/16
+  number: '16'
+reference: 'Deuteronomy 18:17'

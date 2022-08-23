@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 7:14"
+  class="v">14</span>They, and every beast after his kind, and all the cattle
+  after their kind, and every creeping thing that creepeth upon the earth after
+  his kind, and every fowl after his kind, every bird of every sort. </p>
+id: GEN/7/14
+next:
+  id: GEN/7/15
+  number: '15'
+previous:
+  id: GEN/7/13
+  number: '13'
+reference: 'Genesis 7:14'

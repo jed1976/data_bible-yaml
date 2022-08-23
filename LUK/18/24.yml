@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 18:24"
+  class="v">24</span>And when Jesus saw that he was very sorrowful, he said,
+  <span class="wj">How hardly shall they that have riches enter into the kingdom
+  of God!</span> </p>
+id: LUK/18/24
+next:
+  id: LUK/18/25
+  number: '25'
+previous:
+  id: LUK/18/23
+  number: '23'
+reference: 'Luke 18:24'

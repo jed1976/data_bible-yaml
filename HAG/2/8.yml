@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HAG 2:8" class="v">8</span>The
+  silver <span class="add">is</span> mine, and the gold <span
+  class="add">is</span> mine, saith the <span class="nd">LORD</span> of hosts.
+  </p>
+id: HAG/2/8
+next:
+  id: HAG/2/9
+  number: '9'
+previous:
+  id: HAG/2/7
+  number: '7'
+reference: 'Haggai 2:8'

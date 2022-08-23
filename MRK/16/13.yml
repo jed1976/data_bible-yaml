@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 16:13"
+  class="v">13</span>And they went and told <span class="add">it</span> unto the
+  residue: neither believed they them.</p>
+id: MRK/16/13
+next:
+  id: MRK/16/14
+  number: '14'
+previous:
+  id: MRK/16/12
+  number: '12'
+reference: 'Mark 16:13'

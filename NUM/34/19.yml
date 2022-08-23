@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 34:19"
+  class="v">19</span>And the names of the men <span class="add">are</span>
+  these: Of the tribe of Judah, Caleb the son of Jephunneh. </p>
+id: NUM/34/19
+next:
+  id: NUM/34/20
+  number: '20'
+previous:
+  id: NUM/34/18
+  number: '18'
+reference: 'Numbers 34:19'

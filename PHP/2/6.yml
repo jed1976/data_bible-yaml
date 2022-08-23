@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PHP 2:6" class="v">6</span>Who,
+  being in the form of God, thought it not robbery to be equal with God: </p>
+id: PHP/2/6
+next:
+  id: PHP/2/7
+  number: '7'
+previous:
+  id: PHP/2/5
+  number: '5'
+reference: 'Philippians 2:6'

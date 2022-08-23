@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 11:8" class="v">8</span><span
+  class="add">His</span> disciples say unto him, Master, the Jews of late sought
+  to stone thee; and goest thou thither again? </p>
+id: JHN/11/8
+next:
+  id: JHN/11/9
+  number: '9'
+previous:
+  id: JHN/11/7
+  number: '7'
+reference: 'John 11:8'

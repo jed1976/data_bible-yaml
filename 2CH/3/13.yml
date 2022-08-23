@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 3:13" class="v">13</span>The
+  wings of these cherubims spread themselves forth twenty cubits: and they stood
+  on their feet, and their faces <span class="add">were</span> inward.</p>
+id: 2CH/3/13
+next:
+  id: 2CH/3/14
+  number: '14'
+previous:
+  id: 2CH/3/12
+  number: '12'
+reference: '2 Chronicles 3:13'

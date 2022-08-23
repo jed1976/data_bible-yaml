@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 106:9" class="v">9</span>He
+  rebuked the Red sea also, and it was dried up: so he led them through the
+  depths, as through the wilderness.</p>
+id: PSA/106/9
+next:
+  id: PSA/106/10
+  number: '10'
+previous:
+  id: PSA/106/8
+  number: '8'
+reference: 'Psalms 106:9'

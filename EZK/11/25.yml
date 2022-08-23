@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EZK 11:25"
+  class="v">25</span>Then I spake unto them of the captivity all the things that
+  the <span class="nd">LORD</span> had shewed me.</p>
+id: EZK/11/25
+next:
+  id: EZK/12/1
+  number: '1'
+previous:
+  id: EZK/11/24
+  number: '24'
+reference: 'Ezekiel 11:25'

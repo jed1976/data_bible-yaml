@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOL 3:18" class="v">18</span>¶
+  And it shall come to pass in that day, <span class="add">that</span> the
+  mountains shall drop down new wine, and the hills shall flow with milk, and
+  all the rivers of Judah shall flow with waters, and a fountain shall come
+  forth of the house of the <span class="nd">LORD</span>, and shall water the
+  valley of Shittim. </p>
+id: JOL/3/18
+next:
+  id: JOL/3/19
+  number: '19'
+previous:
+  id: JOL/3/17
+  number: '17'
+reference: 'Joel 3:18'

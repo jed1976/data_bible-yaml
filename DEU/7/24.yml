@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 7:24" class="v">24</span>And
+  he shall deliver their kings into thine hand, and thou shalt destroy their
+  name from under heaven: there shall no man be able to stand before thee, until
+  thou have destroyed them. </p>
+id: DEU/7/24
+next:
+  id: DEU/7/25
+  number: '25'
+previous:
+  id: DEU/7/23
+  number: '23'
+reference: 'Deuteronomy 7:24'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 13:6" class="v">6</span>And
+  the priest shall look on him again the seventh day: and, behold, <span
+  class="add">if</span> the plague <span class="add">be</span> somewhat dark,
+  <span class="add">and</span> the plague spread not in the skin, the priest
+  shall pronounce him clean: it <span class="add">is but</span> a scab: and he
+  shall wash his clothes, and be clean. </p>
+id: LEV/13/6
+next:
+  id: LEV/13/7
+  number: '7'
+previous:
+  id: LEV/13/5
+  number: '5'
+reference: 'Leviticus 13:6'

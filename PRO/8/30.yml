@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 8:30"
+  class="v">30</span>Then I was by him, <span class="add">as</span> one brought
+  up <span class="add">with him:</span> and I was daily <span
+  class="add">his</span> delight, rejoicing always before him; </p>
+id: PRO/8/30
+next:
+  id: PRO/8/31
+  number: '31'
+previous:
+  id: PRO/8/29
+  number: '29'
+reference: 'Proverbs 8:30'

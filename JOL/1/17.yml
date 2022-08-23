@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOL 1:17" class="v">17</span>The
+  seed is rotten under their clods, the garners are laid desolate, the barns are
+  broken down; for the corn is withered. </p>
+id: JOL/1/17
+next:
+  id: JOL/1/18
+  number: '18'
+previous:
+  id: JOL/1/16
+  number: '16'
+reference: 'Joel 1:17'

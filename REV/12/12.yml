@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 12:12"
+  class="v">12</span>Therefore rejoice, <span class="add">ye</span> heavens, and
+  ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for
+  the devil is come down unto you, having great wrath, because he knoweth that
+  he hath but a short time. </p>
+id: REV/12/12
+next:
+  id: REV/12/13
+  number: '13'
+previous:
+  id: REV/12/11
+  number: '11'
+reference: 'Revelation 12:12'

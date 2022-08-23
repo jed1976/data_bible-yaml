@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="89" data-sid="NUM 7:89" class="v">89</span>And
+  when Moses was gone into the tabernacle of the congregation to speak with him,
+  then he heard the voice of one speaking unto him from off the mercy seat that
+  <span class="add">was</span> upon the ark of testimony, from between the two
+  cherubims: and he spake unto him.</p>
+id: NUM/7/89
+next:
+  id: NUM/8/1
+  number: '1'
+previous:
+  id: NUM/7/88
+  number: '88'
+reference: 'Numbers 7:89'

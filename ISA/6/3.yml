@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 6:3" class="v">3</span>And
+  one cried unto another, and said, Holy, holy, holy, <span
+  class="add">is</span> the <span class="nd">LORD</span> of hosts: the whole
+  earth <span class="add">is</span> full of his glory. </p>
+id: ISA/6/3
+next:
+  id: ISA/6/4
+  number: '4'
+previous:
+  id: ISA/6/2
+  number: '2'
+reference: 'Isaiah 6:3'

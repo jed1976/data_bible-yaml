@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="68" data-sid="DEU 28:68"
+  class="v">68</span>And the <span class="nd">LORD</span> shall bring thee into
+  Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see
+  it no more again: and there ye shall be sold unto your enemies for bondmen and
+  bondwomen, and no man shall buy <span class="add">you</span>.</p>
+id: DEU/28/68
+next:
+  id: DEU/29/1
+  number: '1'
+previous:
+  id: DEU/28/67
+  number: '67'
+reference: 'Deuteronomy 28:68'

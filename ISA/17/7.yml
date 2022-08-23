@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 17:7" class="v">7</span>At
+  that day shall a man look to his Maker, and his eyes shall have respect to the
+  Holy One of Israel. </p>
+id: ISA/17/7
+next:
+  id: ISA/17/8
+  number: '8'
+previous:
+  id: ISA/17/6
+  number: '6'
+reference: 'Isaiah 17:7'

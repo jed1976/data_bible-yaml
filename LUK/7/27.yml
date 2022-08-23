@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 7:27"
+  class="v">27</span><span class="wj">This is <span class="add">he</span>, of
+  whom it is written, Behold, I send my messenger before thy face, which shall
+  prepare thy way before thee.</span> </p>
+id: LUK/7/27
+next:
+  id: LUK/7/28
+  number: '28'
+previous:
+  id: LUK/7/26
+  number: '26'
+reference: 'Luke 7:27'

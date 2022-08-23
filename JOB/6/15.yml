@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 6:15" class="v">15</span>My
+  brethren have dealt deceitfully as a brook, <span class="add">and</span> as
+  the stream of brooks they pass away; </p>
+id: JOB/6/15
+next:
+  id: JOB/6/16
+  number: '16'
+previous:
+  id: JOB/6/14
+  number: '14'
+reference: 'Job 6:15'

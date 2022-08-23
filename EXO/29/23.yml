@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 29:23"
+  class="v">23</span>And one loaf of bread, and one cake of oiled bread, and one
+  wafer out of the basket of the unleavened bread that <span
+  class="add">is</span> before the <span class="nd">LORD</span>: </p>
+id: EXO/29/23
+next:
+  id: EXO/29/24
+  number: '24'
+previous:
+  id: EXO/29/22
+  number: '22'
+reference: 'Exodus 29:23'

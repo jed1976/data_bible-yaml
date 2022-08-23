@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LEV 23:44"
+  class="v">44</span>And Moses declared unto the children of Israel the feasts
+  of the <span class="nd">LORD</span>.</p>
+id: LEV/23/44
+next:
+  id: LEV/24/1
+  number: '1'
+previous:
+  id: LEV/23/43
+  number: '43'
+reference: 'Leviticus 23:44'

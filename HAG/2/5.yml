@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HAG 2:5" class="v">5</span><span
+  class="add">According to</span> the word that I covenanted with you when ye
+  came out of Egypt, so my spirit remaineth among you: fear ye not. </p>
+id: HAG/2/5
+next:
+  id: HAG/2/6
+  number: '6'
+previous:
+  id: HAG/2/4
+  number: '4'
+reference: 'Haggai 2:5'

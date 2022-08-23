@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1TI 1:5" class="v">5</span>Now
+  the end of the commandment is charity out of a pure heart, and <span
+  class="add">of</span> a good conscience, and <span class="add">of</span> faith
+  unfeigned: </p>
+id: 1TI/1/5
+next:
+  id: 1TI/1/6
+  number: '6'
+previous:
+  id: 1TI/1/4
+  number: '4'
+reference: '1 Timothy 1:5'

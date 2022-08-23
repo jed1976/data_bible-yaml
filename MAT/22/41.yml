@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 22:41" class="v">41</span>¶
+  While the Pharisees were gathered together, Jesus asked them, </p>
+id: MAT/22/41
+next:
+  id: MAT/22/42
+  number: '42'
+previous:
+  id: MAT/22/40
+  number: '40'
+reference: 'Matthew 22:41'

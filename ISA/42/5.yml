@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 42:5" class="v">5</span>¶
+  Thus saith God the <span class="nd">LORD</span>, he that created the heavens,
+  and stretched them out; he that spread forth the earth, and that which cometh
+  out of it; he that giveth breath unto the people upon it, and spirit to them
+  that walk therein: </p>
+id: ISA/42/5
+next:
+  id: ISA/42/6
+  number: '6'
+previous:
+  id: ISA/42/4
+  number: '4'
+reference: 'Isaiah 42:5'

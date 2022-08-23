@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 4:21" class="v">21</span>¶
+  And he said unto them, <span class="wj">Is a candle brought to be put under a
+  bushel, or under a bed? and not to be set on a candlestick?</span> </p>
+id: MRK/4/21
+next:
+  id: MRK/4/22
+  number: '22'
+previous:
+  id: MRK/4/20
+  number: '20'
+reference: 'Mark 4:21'

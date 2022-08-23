@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 28:11"
+  class="v">11</span>The rich man <span class="add">is</span> wise in his own
+  conceit; but the poor that hath understanding searcheth him out. </p>
+id: PRO/28/11
+next:
+  id: PRO/28/12
+  number: '12'
+previous:
+  id: PRO/28/10
+  number: '10'
+reference: 'Proverbs 28:11'

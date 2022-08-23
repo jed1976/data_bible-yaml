@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 38:22"
+  class="v">22</span>Hast thou entered into the treasures of the snow? or hast
+  thou seen the treasures of the hail, </p>
+id: JOB/38/22
+next:
+  id: JOB/38/23
+  number: '23'
+previous:
+  id: JOB/38/21
+  number: '21'
+reference: 'Job 38:22'

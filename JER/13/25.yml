@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 13:25"
+  class="v">25</span>This <span class="add">is</span> thy lot, the portion of
+  thy measures from me, saith the <span class="nd">LORD</span>; because thou
+  hast forgotten me, and trusted in falsehood. </p>
+id: JER/13/25
+next:
+  id: JER/13/26
+  number: '26'
+previous:
+  id: JER/13/24
+  number: '24'
+reference: 'Jeremiah 13:25'

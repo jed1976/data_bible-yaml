@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JON 2:3" class="v">3</span>For
+  thou hadst cast me into the deep, in the midst of the seas; and the floods
+  compassed me about: all thy billows and thy waves passed over me. </p>
+id: JON/2/3
+next:
+  id: JON/2/4
+  number: '4'
+previous:
+  id: JON/2/2
+  number: '2'
+reference: 'Jonah 2:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 119:27"
+  class="v">27</span>Make me to understand the way of thy precepts: so shall I
+  talk of thy wondrous works.</p>
+id: PSA/119/27
+next:
+  id: PSA/119/28
+  number: '28'
+previous:
+  id: PSA/119/26
+  number: '26'
+reference: 'Psalms 119:27'

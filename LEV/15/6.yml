@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 15:6" class="v">6</span>And
+  he that sitteth on <span class="add">any</span> thing whereon he sat that hath
+  the issue shall wash his clothes, and bathe <span class="add">himself</span>
+  in water, and be unclean until the even. </p>
+id: LEV/15/6
+next:
+  id: LEV/15/7
+  number: '7'
+previous:
+  id: LEV/15/5
+  number: '5'
+reference: 'Leviticus 15:6'

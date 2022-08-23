@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 14:10" class="v">10</span>¶
+  And Judas Iscariot, one of the twelve, went unto the chief priests, to betray
+  him unto them. </p>
+id: MRK/14/10
+next:
+  id: MRK/14/11
+  number: '11'
+previous:
+  id: MRK/14/9
+  number: '9'
+reference: 'Mark 14:10'

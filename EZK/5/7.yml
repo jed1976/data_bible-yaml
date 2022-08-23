@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 5:7"
+  class="v">7</span>Therefore thus saith the Lord <span class="nd">GOD</span>;
+  Because ye multiplied more than the nations that <span class="add">are</span>
+  round about you, <span class="add">and</span> have not walked in my statutes,
+  neither have kept my judgments, neither have done according to the judgments
+  of the nations that <span class="add">are</span> round about you; </p>
+id: EZK/5/7
+next:
+  id: EZK/5/8
+  number: '8'
+previous:
+  id: EZK/5/6
+  number: '6'
+reference: 'Ezekiel 5:7'

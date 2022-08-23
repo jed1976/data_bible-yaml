@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 28:21"
+  class="v">21</span>And they said unto him, We neither received letters out of
+  Judæa concerning thee, neither any of the brethren that came shewed or spake
+  any harm of thee. </p>
+id: ACT/28/21
+next:
+  id: ACT/28/22
+  number: '22'
+previous:
+  id: ACT/28/20
+  number: '20'
+reference: 'Acts 28:21'

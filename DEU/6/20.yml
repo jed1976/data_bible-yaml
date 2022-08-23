@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 6:20"
+  class="v">20</span><span class="add">And</span> when thy son asketh thee in
+  time to come, saying, What <span class="add">mean</span> the testimonies, and
+  the statutes, and the judgments, which the <span class="nd">LORD</span> our
+  God hath commanded you? </p>
+id: DEU/6/20
+next:
+  id: DEU/6/21
+  number: '21'
+previous:
+  id: DEU/6/19
+  number: '19'
+reference: 'Deuteronomy 6:20'

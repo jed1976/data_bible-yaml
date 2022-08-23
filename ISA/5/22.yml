@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 5:22" class="v">22</span>Woe
+  unto <span class="add">them that are</span> mighty to drink wine, and men of
+  strength to mingle strong drink: </p>
+id: ISA/5/22
+next:
+  id: ISA/5/23
+  number: '23'
+previous:
+  id: ISA/5/21
+  number: '21'
+reference: 'Isaiah 5:22'

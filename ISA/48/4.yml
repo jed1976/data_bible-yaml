@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 48:4"
+  class="v">4</span>Because I knew that thou <span class="add">art</span>
+  obstinate, and thy neck <span class="add">is</span> an iron sinew, and thy
+  brow brass; </p>
+id: ISA/48/4
+next:
+  id: ISA/48/5
+  number: '5'
+previous:
+  id: ISA/48/3
+  number: '3'
+reference: 'Isaiah 48:4'

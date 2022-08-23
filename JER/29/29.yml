@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JER 29:29"
+  class="v">29</span>And Zephaniah the priest read this letter in the ears of
+  Jeremiah the prophet.</p>
+id: JER/29/29
+next:
+  id: JER/29/30
+  number: '30'
+previous:
+  id: JER/29/28
+  number: '28'
+reference: 'Jeremiah 29:29'

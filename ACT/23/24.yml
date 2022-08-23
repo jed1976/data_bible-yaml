@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 23:24"
+  class="v">24</span>And provide <span class="add">them</span> beasts, that they
+  may set Paul on, and bring <span class="add">him</span> safe unto Felix the
+  governor. </p>
+id: ACT/23/24
+next:
+  id: ACT/23/25
+  number: '25'
+previous:
+  id: ACT/23/23
+  number: '23'
+reference: 'Acts 23:24'

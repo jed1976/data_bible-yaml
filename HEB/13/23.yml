@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HEB 13:23"
+  class="v">23</span>Know ye that <span class="add">our</span> brother Timothy
+  is set at liberty; with whom, if he come shortly, I will see you. </p>
+id: HEB/13/23
+next:
+  id: HEB/13/24
+  number: '24'
+previous:
+  id: HEB/13/22
+  number: '22'
+reference: 'Hebrews 13:23'

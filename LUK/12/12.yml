@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 12:12"
+  class="v">12</span><span class="wj">For the Holy Ghost shall teach you in the
+  same hour what ye ought to say.</span></p>
+id: LUK/12/12
+next:
+  id: LUK/12/13
+  number: '13'
+previous:
+  id: LUK/12/11
+  number: '11'
+reference: 'Luke 12:12'

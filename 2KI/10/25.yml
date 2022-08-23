@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2KI 10:25"
+  class="v">25</span>And it came to pass, as soon as he had made an end of
+  offering the burnt offering, that Jehu said to the guard and to the captains,
+  Go in, <span class="add">and</span> slay them; let none come forth. And they
+  smote them with the edge of the sword; and the guard and the captains cast
+  <span class="add">them</span> out, and went to the city of the house of Baal.
+  </p>
+id: 2KI/10/25
+next:
+  id: 2KI/10/26
+  number: '26'
+previous:
+  id: 2KI/10/24
+  number: '24'
+reference: '2 Kings 10:25'

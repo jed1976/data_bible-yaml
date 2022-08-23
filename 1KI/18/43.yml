@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1KI 18:43"
+  class="v">43</span>And said to his servant, Go up now, look toward the sea.
+  And he went up, and looked, and said, <span class="add">There is</span>
+  nothing. And he said, Go again seven times. </p>
+id: 1KI/18/43
+next:
+  id: 1KI/18/44
+  number: '44'
+previous:
+  id: 1KI/18/42
+  number: '42'
+reference: '1 Kings 18:43'

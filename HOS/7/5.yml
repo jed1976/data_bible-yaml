@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 7:5" class="v">5</span>In the
+  day of our king the princes have made <span class="add">him</span> sick with
+  bottles of wine; he stretched out his hand with scorners. </p>
+id: HOS/7/5
+next:
+  id: HOS/7/6
+  number: '6'
+previous:
+  id: HOS/7/4
+  number: '4'
+reference: 'Hosea 7:5'

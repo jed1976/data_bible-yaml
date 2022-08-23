@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 15:3" class="v">3</span><span
+  class="wj">Now ye are clean through the word which I have spoken unto
+  you.</span> </p>
+id: JHN/15/3
+next:
+  id: JHN/15/4
+  number: '4'
+previous:
+  id: JHN/15/2
+  number: '2'
+reference: 'John 15:3'

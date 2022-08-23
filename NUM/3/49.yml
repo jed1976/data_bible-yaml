@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 3:49" class="v">49</span>And
+  Moses took the redemption money of them that were over and above them that
+  were redeemed by the Levites: </p>
+id: NUM/3/49
+next:
+  id: NUM/3/50
+  number: '50'
+previous:
+  id: NUM/3/48
+  number: '48'
+reference: 'Numbers 3:49'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NEH 11:21"
+  class="v">21</span>But the Nethinims dwelt in Ophel: and Ziha and Gispa <span
+  class="add">were</span> over the Nethinims. </p>
+id: NEH/11/21
+next:
+  id: NEH/11/22
+  number: '22'
+previous:
+  id: NEH/11/20
+  number: '20'
+reference: 'Nehemiah 11:21'

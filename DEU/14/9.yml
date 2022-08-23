@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 14:9" class="v">9</span>¶
+  These ye shall eat of all that <span class="add">are</span> in the waters: all
+  that have fins and scales shall ye eat: </p>
+id: DEU/14/9
+next:
+  id: DEU/14/10
+  number: '10'
+previous:
+  id: DEU/14/8
+  number: '8'
+reference: 'Deuteronomy 14:9'

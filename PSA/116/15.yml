@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 116:15"
+  class="v">15</span>Precious in the sight of the <span class="nd">LORD</span>
+  <span class="add">is</span> the death of his saints.</p>
+id: PSA/116/15
+next:
+  id: PSA/116/16
+  number: '16'
+previous:
+  id: PSA/116/14
+  number: '14'
+reference: 'Psalms 116:15'

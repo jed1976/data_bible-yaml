@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 34:29"
+  class="v">29</span>When he giveth quietness, who then can make trouble? and
+  when he hideth <span class="add">his</span> face, who then can behold him?
+  whether <span class="add">it be done</span> against a nation, or against a man
+  only: </p>
+id: JOB/34/29
+next:
+  id: JOB/34/30
+  number: '30'
+previous:
+  id: JOB/34/28
+  number: '28'
+reference: 'Job 34:29'

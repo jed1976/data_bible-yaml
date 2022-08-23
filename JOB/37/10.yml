@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 37:10" class="v">10</span>By
+  the breath of God frost is given: and the breadth of the waters is straitened.
+  </p>
+id: JOB/37/10
+next:
+  id: JOB/37/11
+  number: '11'
+previous:
+  id: JOB/37/9
+  number: '9'
+reference: 'Job 37:10'

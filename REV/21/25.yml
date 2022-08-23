@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="REV 21:25"
+  class="v">25</span>And the gates of it shall not be shut at all by day: for
+  there shall be no night there. </p>
+id: REV/21/25
+next:
+  id: REV/21/26
+  number: '26'
+previous:
+  id: REV/21/24
+  number: '24'
+reference: 'Revelation 21:25'

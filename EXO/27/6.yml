@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 27:6" class="v">6</span>And
+  thou shalt make staves for the altar, staves <span class="add">of</span>
+  shittim wood, and overlay them with brass. </p>
+id: EXO/27/6
+next:
+  id: EXO/27/7
+  number: '7'
+previous:
+  id: EXO/27/5
+  number: '5'
+reference: 'Exodus 27:6'

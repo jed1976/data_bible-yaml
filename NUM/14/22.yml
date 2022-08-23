@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 14:22"
+  class="v">22</span>Because all those men which have seen my glory, and my
+  miracles, which I did in Egypt and in the wilderness, and have tempted me now
+  these ten times, and have not hearkened to my voice; </p>
+id: NUM/14/22
+next:
+  id: NUM/14/23
+  number: '23'
+previous:
+  id: NUM/14/21
+  number: '21'
+reference: 'Numbers 14:22'

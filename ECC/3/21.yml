@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ECC 3:21" class="v">21</span>Who
+  knoweth the spirit of man that goeth upward, and the spirit of the beast that
+  goeth downward to the earth? </p>
+id: ECC/3/21
+next:
+  id: ECC/3/22
+  number: '22'
+previous:
+  id: ECC/3/20
+  number: '20'
+reference: 'Ecclesiastes 3:21'

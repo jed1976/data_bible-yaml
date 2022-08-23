@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 7:5" class="v">5</span>My
+  flesh is clothed with worms and clods of dust; my skin is broken, and become
+  loathsome. </p>
+id: JOB/7/5
+next:
+  id: JOB/7/6
+  number: '6'
+previous:
+  id: JOB/7/4
+  number: '4'
+reference: 'Job 7:5'

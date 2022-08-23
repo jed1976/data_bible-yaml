@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 13:4" class="v">4</span>¶ And
+  before this, Eliashib the priest, having the oversight of the chamber of the
+  house of our God, <span class="add">was</span> allied unto Tobiah: </p>
+id: NEH/13/4
+next:
+  id: NEH/13/5
+  number: '5'
+previous:
+  id: NEH/13/3
+  number: '3'
+reference: 'Nehemiah 13:4'

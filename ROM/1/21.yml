@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 1:21"
+  class="v">21</span>Because that, when they knew God, they glorified <span
+  class="add">him</span> not as God, neither were thankful; but became vain in
+  their imaginations, and their foolish heart was darkened. </p>
+id: ROM/1/21
+next:
+  id: ROM/1/22
+  number: '22'
+previous:
+  id: ROM/1/20
+  number: '20'
+reference: 'Romans 1:21'

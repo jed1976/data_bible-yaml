@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 5:26" class="v">26</span>And
+  the priest shall take an handful of the offering, <span
+  class="add">even</span> the memorial thereof, and burn <span
+  class="add">it</span> upon the altar, and afterward shall cause the woman to
+  drink the water. </p>
+id: NUM/5/26
+next:
+  id: NUM/5/27
+  number: '27'
+previous:
+  id: NUM/5/25
+  number: '25'
+reference: 'Numbers 5:26'

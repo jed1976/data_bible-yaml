@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 7:6" class="v">6</span>Then
+  Jesus went with them. And when he was now not far from the house, the
+  centurion sent friends to him, saying unto him, Lord, trouble not thyself: for
+  I am not worthy that thou shouldest enter under my roof: </p>
+id: LUK/7/6
+next:
+  id: LUK/7/7
+  number: '7'
+previous:
+  id: LUK/7/5
+  number: '5'
+reference: 'Luke 7:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PHP 3:12" class="v">12</span>Not
+  as though I had already attained, either were already perfect: but I follow
+  after, if that I may apprehend that for which also I am apprehended of Christ
+  Jesus. </p>
+id: PHP/3/12
+next:
+  id: PHP/3/13
+  number: '13'
+previous:
+  id: PHP/3/11
+  number: '11'
+reference: 'Philippians 3:12'

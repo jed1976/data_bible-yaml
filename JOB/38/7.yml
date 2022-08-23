@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 38:7" class="v">7</span>When
+  the morning stars sang together, and all the sons of God shouted for joy? </p>
+id: JOB/38/7
+next:
+  id: JOB/38/8
+  number: '8'
+previous:
+  id: JOB/38/6
+  number: '6'
+reference: 'Job 38:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 12:9" class="v">9</span>Eat
+  not of it raw, nor sodden at all with water, but roast <span
+  class="add">with</span> fire; his head with his legs, and with the purtenance
+  thereof. </p>
+id: EXO/12/9
+next:
+  id: EXO/12/10
+  number: '10'
+previous:
+  id: EXO/12/8
+  number: '8'
+reference: 'Exodus 12:9'

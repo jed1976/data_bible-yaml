@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="DAN 2:46" class="v">46</span>¶
+  Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and
+  commanded that they should offer an oblation and sweet odours unto him. </p>
+id: DAN/2/46
+next:
+  id: DAN/2/47
+  number: '47'
+previous:
+  id: DAN/2/45
+  number: '45'
+reference: 'Daniel 2:46'

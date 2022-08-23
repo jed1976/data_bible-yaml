@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 24:22"
+  class="v">22</span>For their calamity shall rise suddenly; and who knoweth the
+  ruin of them both?</p>
+id: PRO/24/22
+next:
+  id: PRO/24/23
+  number: '23'
+previous:
+  id: PRO/24/21
+  number: '21'
+reference: 'Proverbs 24:22'

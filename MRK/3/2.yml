@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MRK 3:2" class="v">2</span>And
+  they watched him, whether he would heal him on the sabbath day; that they
+  might accuse him. </p>
+id: MRK/3/2
+next:
+  id: MRK/3/3
+  number: '3'
+previous:
+  id: MRK/3/1
+  number: '1'
+reference: 'Mark 3:2'

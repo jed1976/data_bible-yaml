@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 11:5" class="v">5</span>The
+  righteousness of the perfect shall direct his way: but the wicked shall fall
+  by his own wickedness. </p>
+id: PRO/11/5
+next:
+  id: PRO/11/6
+  number: '6'
+previous:
+  id: PRO/11/4
+  number: '4'
+reference: 'Proverbs 11:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 37:6" class="v">6</span>And
+  he said unto them, Hear, I pray you, this dream which I have dreamed: </p>
+id: GEN/37/6
+next:
+  id: GEN/37/7
+  number: '7'
+previous:
+  id: GEN/37/5
+  number: '5'
+reference: 'Genesis 37:6'

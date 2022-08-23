@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 43:19"
+  class="v">19</span>And they came near to the steward of Joseph’s house, and
+  they communed with him at the door of the house, </p>
+id: GEN/43/19
+next:
+  id: GEN/43/20
+  number: '20'
+previous:
+  id: GEN/43/18
+  number: '18'
+reference: 'Genesis 43:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 16:21"
+  class="v">21</span>Separate yourselves from among this congregation, that I
+  may consume them in a moment. </p>
+id: NUM/16/21
+next:
+  id: NUM/16/22
+  number: '22'
+previous:
+  id: NUM/16/20
+  number: '20'
+reference: 'Numbers 16:21'

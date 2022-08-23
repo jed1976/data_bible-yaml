@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LEV 27:34"
+  class="v">34</span>These <span class="add">are</span> the commandments, which
+  the <span class="nd">LORD</span> commanded Moses for the children of Israel in
+  mount Sinai.</p>
+id: LEV/27/34
+next:
+  id: NUM/intro/0
+  number: '0'
+previous:
+  id: LEV/27/33
+  number: '33'
+reference: 'Leviticus 27:34'

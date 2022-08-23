@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 8:30" class="v">30</span>And
+  he charged them that they should tell no man of him. </p>
+id: MRK/8/30
+next:
+  id: MRK/8/31
+  number: '31'
+previous:
+  id: MRK/8/29
+  number: '29'
+reference: 'Mark 8:30'

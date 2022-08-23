@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 10:37"
+  class="v">37</span>That word, <span class="add">I say</span>, ye know, which
+  was published throughout all Judæa, and began from Galilee, after the baptism
+  which John preached; </p>
+id: ACT/10/37
+next:
+  id: ACT/10/38
+  number: '38'
+previous:
+  id: ACT/10/36
+  number: '36'
+reference: 'Acts 10:37'

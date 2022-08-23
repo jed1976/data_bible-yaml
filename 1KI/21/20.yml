@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 21:20"
+  class="v">20</span>And Ahab said to Elijah, Hast thou found me, O mine enemy?
+  And he answered, I have found <span class="add">thee:</span> because thou hast
+  sold thyself to work evil in the sight of the <span class="nd">LORD</span>.
+  </p>
+id: 1KI/21/20
+next:
+  id: 1KI/21/21
+  number: '21'
+previous:
+  id: 1KI/21/19
+  number: '19'
+reference: '1 Kings 21:20'

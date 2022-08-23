@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EST 4:2" class="v">2</span>And
+  came even before the king’s gate: for none <span class="add">might</span>
+  enter into the king’s gate clothed with sackcloth. </p>
+id: EST/4/2
+next:
+  id: EST/4/3
+  number: '3'
+previous:
+  id: EST/4/1
+  number: '1'
+reference: 'Esther 4:2'

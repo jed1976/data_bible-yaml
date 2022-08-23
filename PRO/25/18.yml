@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 25:18" class="v">18</span>A
+  man that beareth false witness against his neighbour <span
+  class="add">is</span> a maul, and a sword, and a sharp arrow. </p>
+id: PRO/25/18
+next:
+  id: PRO/25/19
+  number: '19'
+previous:
+  id: PRO/25/17
+  number: '17'
+reference: 'Proverbs 25:18'

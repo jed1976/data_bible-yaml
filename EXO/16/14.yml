@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 16:14"
+  class="v">14</span>And when the dew that lay was gone up, behold, upon the
+  face of the wilderness <span class="add">there lay</span> a small round thing,
+  <span class="add">as</span> small as the hoar frost on the ground. </p>
+id: EXO/16/14
+next:
+  id: EXO/16/15
+  number: '15'
+previous:
+  id: EXO/16/13
+  number: '13'
+reference: 'Exodus 16:14'

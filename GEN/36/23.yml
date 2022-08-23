@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 36:23"
+  class="v">23</span>And the children of Shobal <span class="add">were</span>
+  these; Alvan, and Manahath, and Ebal, Shepho, and Onam. </p>
+id: GEN/36/23
+next:
+  id: GEN/36/24
+  number: '24'
+previous:
+  id: GEN/36/22
+  number: '22'
+reference: 'Genesis 36:23'

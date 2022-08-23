@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 14:10" class="v">10</span>¶
+  And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and,
+  behold, the Egyptians marched after them; and they were sore afraid: and the
+  children of Israel cried out unto the <span class="nd">LORD</span>. </p>
+id: EXO/14/10
+next:
+  id: EXO/14/11
+  number: '11'
+previous:
+  id: EXO/14/9
+  number: '9'
+reference: 'Exodus 14:10'

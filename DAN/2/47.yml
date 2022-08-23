@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="DAN 2:47" class="v">47</span>The
+  king answered unto Daniel, and said, Of a truth <span class="add">it
+  is</span>, that your God <span class="add">is</span> a God of gods, and a Lord
+  of kings, and a revealer of secrets, seeing thou couldest reveal this secret.
+  </p>
+id: DAN/2/47
+next:
+  id: DAN/2/48
+  number: '48'
+previous:
+  id: DAN/2/46
+  number: '46'
+reference: 'Daniel 2:47'

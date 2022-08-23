@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 13:6" class="v">6</span>And
+  <span class="add">one</span> shall say unto him, What <span
+  class="add">are</span> these wounds in thine hands? Then he shall answer,
+  <span class="add">Those</span> with which I was wounded <span
+  class="add">in</span> the house of my friends.</p>
+id: ZEC/13/6
+next:
+  id: ZEC/13/7
+  number: '7'
+previous:
+  id: ZEC/13/5
+  number: '5'
+reference: 'Zechariah 13:6'

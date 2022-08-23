@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 48:13"
+  class="v">13</span>Mark ye well her bulwarks, consider her palaces; that ye
+  may tell <span class="add">it</span> to the generation following.</p>
+id: PSA/48/13
+next:
+  id: PSA/48/14
+  number: '14'
+previous:
+  id: PSA/48/12
+  number: '12'
+reference: 'Psalms 48:13'

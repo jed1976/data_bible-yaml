@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 23:9" class="v">9</span>Speak
+  not in the ears of a fool: for he will despise the wisdom of thy words.</p>
+id: PRO/23/9
+next:
+  id: PRO/23/10
+  number: '10'
+previous:
+  id: PRO/23/8
+  number: '8'
+reference: 'Proverbs 23:9'

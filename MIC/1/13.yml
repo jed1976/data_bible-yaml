@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MIC 1:13" class="v">13</span>O
+  thou inhabitant of Lachish, bind the chariot to the swift beast: she <span
+  class="add">is</span> the beginning of the sin to the daughter of Zion: for
+  the transgressions of Israel were found in thee. </p>
+id: MIC/1/13
+next:
+  id: MIC/1/14
+  number: '14'
+previous:
+  id: MIC/1/12
+  number: '12'
+reference: 'Micah 1:13'

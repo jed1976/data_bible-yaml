@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="DEU 32:52"
+  class="v">52</span>Yet thou shalt see the land before <span
+  class="add">thee;</span> but thou shalt not go thither unto the land which I
+  give the children of Israel.</p>
+id: DEU/32/52
+next:
+  id: DEU/33/1
+  number: '1'
+previous:
+  id: DEU/32/51
+  number: '51'
+reference: 'Deuteronomy 32:52'

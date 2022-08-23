@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 7:12"
+  class="v">12</span>Also Amaziah said unto Amos, O thou seer, go, flee thee
+  away into the land of Judah, and there eat bread, and prophesy there: </p>
+id: AMO/7/12
+next:
+  id: AMO/7/13
+  number: '13'
+previous:
+  id: AMO/7/11
+  number: '11'
+reference: 'Amos 7:12'

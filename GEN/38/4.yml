@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 38:4" class="v">4</span>And
+  she conceived again, and bare a son; and she called his name Onan. </p>
+id: GEN/38/4
+next:
+  id: GEN/38/5
+  number: '5'
+previous:
+  id: GEN/38/3
+  number: '3'
+reference: 'Genesis 38:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 2:6" class="v">6</span>And
+  the <span class="nd">LORD</span> said unto Satan, Behold, he <span
+  class="add">is</span> in thine hand; but save his life.</p>
+id: JOB/2/6
+next:
+  id: JOB/2/7
+  number: '7'
+previous:
+  id: JOB/2/5
+  number: '5'
+reference: 'Job 2:6'

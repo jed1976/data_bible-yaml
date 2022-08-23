@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 36:12"
+  class="v">12</span>But if they obey not, they shall perish by the sword, and
+  they shall die without knowledge. </p>
+id: JOB/36/12
+next:
+  id: JOB/36/13
+  number: '13'
+previous:
+  id: JOB/36/11
+  number: '11'
+reference: 'Job 36:12'

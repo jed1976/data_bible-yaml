@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 7:33"
+  class="v">33</span>Then said Jesus unto them, <span class="wj">Yet a little
+  while am I with you, and <span class="add">then</span> I go unto him that sent
+  me.</span> </p>
+id: JHN/7/33
+next:
+  id: JHN/7/34
+  number: '34'
+previous:
+  id: JHN/7/32
+  number: '32'
+reference: 'John 7:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JDG 9:51" class="v">51</span>But
+  there was a strong tower within the city, and thither fled all the men and
+  women, and all they of the city, and shut <span class="add">it</span> to them,
+  and gat them up to the top of the tower. </p>
+id: JDG/9/51
+next:
+  id: JDG/9/52
+  number: '52'
+previous:
+  id: JDG/9/50
+  number: '50'
+reference: 'Judges 9:51'

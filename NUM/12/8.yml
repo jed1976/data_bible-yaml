@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 12:8" class="v">8</span>With
+  him will I speak mouth to mouth, even apparently, and not in dark speeches;
+  and the similitude of the <span class="nd">LORD</span> shall he behold:
+  wherefore then were ye not afraid to speak against my servant Moses? </p>
+id: NUM/12/8
+next:
+  id: NUM/12/9
+  number: '9'
+previous:
+  id: NUM/12/7
+  number: '7'
+reference: 'Numbers 12:8'

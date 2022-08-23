@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 40:3" class="v">3</span>And
+  he hath put a new song in my mouth, <span class="add">even</span> praise unto
+  our God: many shall see <span class="add">it</span>, and fear, and shall trust
+  in the <span class="nd">LORD</span>.</p>
+id: PSA/40/3
+next:
+  id: PSA/40/4
+  number: '4'
+previous:
+  id: PSA/40/2
+  number: '2'
+reference: 'Psalms 40:3'

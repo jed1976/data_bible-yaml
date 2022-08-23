@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 22:16"
+  class="v">16</span>Which were cut down out of time, whose foundation was
+  overflown with a flood: </p>
+id: JOB/22/16
+next:
+  id: JOB/22/17
+  number: '17'
+previous:
+  id: JOB/22/15
+  number: '15'
+reference: 'Job 22:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 14:16"
+  class="v">16</span>For now thou numberest my steps: dost thou not watch over
+  my sin? </p>
+id: JOB/14/16
+next:
+  id: JOB/14/17
+  number: '17'
+previous:
+  id: JOB/14/15
+  number: '15'
+reference: 'Job 14:16'

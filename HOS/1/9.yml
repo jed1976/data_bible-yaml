@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 1:9" class="v">9</span>Then
+  said <span class="add">God</span>, Call his name Lo-ammi: for ye <span
+  class="add">are</span> not my people, and I will not be your <span
+  class="add">God</span>.</p>
+id: HOS/1/9
+next:
+  id: HOS/1/10
+  number: '10'
+previous:
+  id: HOS/1/8
+  number: '8'
+reference: 'Hosea 1:9'

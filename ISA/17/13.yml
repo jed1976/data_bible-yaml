@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 17:13"
+  class="v">13</span>The nations shall rush like the rushing of many waters: but
+  <span class="add">God</span> shall rebuke them, and they shall flee far off,
+  and shall be chased as the chaff of the mountains before the wind, and like a
+  rolling thing before the whirlwind. </p>
+id: ISA/17/13
+next:
+  id: ISA/17/14
+  number: '14'
+previous:
+  id: ISA/17/12
+  number: '12'
+reference: 'Isaiah 17:13'

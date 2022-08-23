@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 44:32"
+  class="v">32</span>For thy servant became surety for the lad unto my father,
+  saying, If I bring him not unto thee, then I shall bear the blame to my father
+  for ever. </p>
+id: GEN/44/32
+next:
+  id: GEN/44/33
+  number: '33'
+previous:
+  id: GEN/44/31
+  number: '31'
+reference: 'Genesis 44:32'

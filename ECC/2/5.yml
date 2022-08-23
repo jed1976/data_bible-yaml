@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 2:5" class="v">5</span>I made
+  me gardens and orchards, and I planted trees in them of all <span
+  class="add">kind of</span> fruits: </p>
+id: ECC/2/5
+next:
+  id: ECC/2/6
+  number: '6'
+previous:
+  id: ECC/2/4
+  number: '4'
+reference: 'Ecclesiastes 2:5'

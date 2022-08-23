@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 9:5" class="v">5</span>And to
+  them it was given that they should not kill them, but that they should be
+  tormented five months: and their torment <span class="add">was</span> as the
+  torment of a scorpion, when he striketh a man. </p>
+id: REV/9/5
+next:
+  id: REV/9/6
+  number: '6'
+previous:
+  id: REV/9/4
+  number: '4'
+reference: 'Revelation 9:5'

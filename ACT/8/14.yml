@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 8:14" class="v">14</span>Now
+  when the apostles which were at Jerusalem heard that Samaria had received the
+  word of God, they sent unto them Peter and John: </p>
+id: ACT/8/14
+next:
+  id: ACT/8/15
+  number: '15'
+previous:
+  id: ACT/8/13
+  number: '13'
+reference: 'Acts 8:14'

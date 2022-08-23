@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 21:20"
+  class="v">20</span>His eyes shall see his destruction, and he shall drink of
+  the wrath of the Almighty. </p>
+id: JOB/21/20
+next:
+  id: JOB/21/21
+  number: '21'
+previous:
+  id: JOB/21/19
+  number: '19'
+reference: 'Job 21:20'

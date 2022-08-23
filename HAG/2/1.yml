@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HAG 2:1" class="v">1</span>In the
+  seventh <span class="add">month</span>, in the one and twentieth <span
+  class="add">day</span> of the month, came the word of the <span
+  class="nd">LORD</span> by the prophet Haggai, saying,  </p>
+id: HAG/2/1
+next:
+  id: HAG/2/2
+  number: '2'
+previous:
+  id: HAG/1/15
+  number: '15'
+reference: 'Haggai 2:1'

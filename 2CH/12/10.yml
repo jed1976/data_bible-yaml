@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 12:10"
+  class="v">10</span>Instead of which king Rehoboam made shields of brass, and
+  committed <span class="add">them</span> to the hands of the chief of the
+  guard, that kept the entrance of the king’s house. </p>
+id: 2CH/12/10
+next:
+  id: 2CH/12/11
+  number: '11'
+previous:
+  id: 2CH/12/9
+  number: '9'
+reference: '2 Chronicles 12:10'

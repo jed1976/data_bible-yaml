@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 6:22"
+  class="v">22</span>Thus did Noah; according to all that God commanded him, so
+  did he.</p>
+id: GEN/6/22
+next:
+  id: GEN/7/1
+  number: '1'
+previous:
+  id: GEN/6/21
+  number: '21'
+reference: 'Genesis 6:22'

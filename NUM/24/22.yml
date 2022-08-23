@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 24:22"
+  class="v">22</span>Nevertheless the Kenite shall be wasted, until Asshur shall
+  carry thee away captive. </p>
+id: NUM/24/22
+next:
+  id: NUM/24/23
+  number: '23'
+previous:
+  id: NUM/24/21
+  number: '21'
+reference: 'Numbers 24:22'

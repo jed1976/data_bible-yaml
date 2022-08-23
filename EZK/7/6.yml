@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 7:6" class="v">6</span>An end
+  is come, the end is come: it watcheth for thee; behold, it is come. </p>
+id: EZK/7/6
+next:
+  id: EZK/7/7
+  number: '7'
+previous:
+  id: EZK/7/5
+  number: '5'
+reference: 'Ezekiel 7:6'

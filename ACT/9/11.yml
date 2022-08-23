@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 9:11" class="v">11</span>And
+  the Lord <span class="add">said</span> unto him, <span class="wj">Arise, and
+  go into the street which is called Straight, and enquire in the house of Judas
+  for <span class="add">one</span> called Saul, of Tarsus: for, behold, he
+  prayeth,</span> </p>
+id: ACT/9/11
+next:
+  id: ACT/9/12
+  number: '12'
+previous:
+  id: ACT/9/10
+  number: '10'
+reference: 'Acts 9:11'

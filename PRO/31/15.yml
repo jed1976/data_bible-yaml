@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 31:15"
+  class="v">15</span>She riseth also while it is yet night, and giveth meat to
+  her household, and a portion to her maidens. </p>
+id: PRO/31/15
+next:
+  id: PRO/31/16
+  number: '16'
+previous:
+  id: PRO/31/14
+  number: '14'
+reference: 'Proverbs 31:15'

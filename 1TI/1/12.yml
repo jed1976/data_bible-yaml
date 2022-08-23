@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1TI 1:12" class="v">12</span>And
+  I thank Christ Jesus our Lord, who hath enabled me, for that he counted me
+  faithful, putting me into the ministry; </p>
+id: 1TI/1/12
+next:
+  id: 1TI/1/13
+  number: '13'
+previous:
+  id: 1TI/1/11
+  number: '11'
+reference: '1 Timothy 1:12'

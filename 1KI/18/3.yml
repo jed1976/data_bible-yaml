@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 18:3" class="v">3</span>And
+  Ahab called Obadiah, which <span class="add">was</span> the governor of <span
+  class="add">his</span> house. (Now Obadiah feared the <span
+  class="nd">LORD</span> greatly: </p>
+id: 1KI/18/3
+next:
+  id: 1KI/18/4
+  number: '4'
+previous:
+  id: 1KI/18/2
+  number: '2'
+reference: '1 Kings 18:3'

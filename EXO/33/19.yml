@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 33:19"
+  class="v">19</span>And he said, I will make all my goodness pass before thee,
+  and I will proclaim the name of the <span class="nd">LORD</span> before thee;
+  and will be gracious to whom I will be gracious, and will shew mercy on whom I
+  will shew mercy. </p>
+id: EXO/33/19
+next:
+  id: EXO/33/20
+  number: '20'
+previous:
+  id: EXO/33/18
+  number: '18'
+reference: 'Exodus 33:19'

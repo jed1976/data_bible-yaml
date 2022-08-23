@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2KI 18:18"
+  class="v">18</span>And when they had called to the king, there came out to
+  them Eliakim the son of Hilkiah, which <span class="add">was</span> over the
+  household, and Shebna the scribe, and Joah the son of Asaph the recorder. </p>
+id: 2KI/18/18
+next:
+  id: 2KI/18/19
+  number: '19'
+previous:
+  id: 2KI/18/17
+  number: '17'
+reference: '2 Kings 18:18'

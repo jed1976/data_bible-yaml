@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 9:12"
+  class="v">12</span>Moreover thou leddest them in the day by a cloudy pillar;
+  and in the night by a pillar of fire, to give them light in the way wherein
+  they should go. </p>
+id: NEH/9/12
+next:
+  id: NEH/9/13
+  number: '13'
+previous:
+  id: NEH/9/11
+  number: '11'
+reference: 'Nehemiah 9:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="71" data-sid="JHN 6:71" class="v">71</span>He
+  spake of Judas Iscariot <span class="add">the son</span> of Simon: for he it
+  was that should betray him, being one of the twelve.</p>
+id: JHN/6/71
+next:
+  id: JHN/7/1
+  number: '1'
+previous:
+  id: JHN/6/70
+  number: '70'
+reference: 'John 6:71'

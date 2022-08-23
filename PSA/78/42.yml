@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 78:42"
+  class="v">42</span>They remembered not his hand, <span class="add">nor</span>
+  the day when he delivered them from the enemy.</p>
+id: PSA/78/42
+next:
+  id: PSA/78/43
+  number: '43'
+previous:
+  id: PSA/78/41
+  number: '41'
+reference: 'Psalms 78:42'

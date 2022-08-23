@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 17:21"
+  class="v">21</span><span class="wj">Howbeit this kind goeth not out but by
+  prayer and fasting.</span></p>
+id: MAT/17/21
+next:
+  id: MAT/17/22
+  number: '22'
+previous:
+  id: MAT/17/20
+  number: '20'
+reference: 'Matthew 17:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 31:24"
+  class="v">24</span>Be of good courage, and he shall strengthen your heart, all
+  ye that hope in the <span class="nd">LORD</span>.</p>
+id: PSA/31/24
+next:
+  id: PSA/32/1
+  number: '1'
+previous:
+  id: PSA/31/23
+  number: '23'
+reference: 'Psalms 31:24'

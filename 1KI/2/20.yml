@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 2:20"
+  class="v">20</span>Then she said, I desire one small petition of thee; <span
+  class="add">I pray thee</span>, say me not nay. And the king said unto her,
+  Ask on, my mother: for I will not say thee nay. </p>
+id: 1KI/2/20
+next:
+  id: 1KI/2/21
+  number: '21'
+previous:
+  id: 1KI/2/19
+  number: '19'
+reference: '1 Kings 2:20'

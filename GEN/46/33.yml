@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 46:33"
+  class="v">33</span>And it shall come to pass, when Pharaoh shall call you, and
+  shall say, What <span class="add">is</span> your occupation? </p>
+id: GEN/46/33
+next:
+  id: GEN/46/34
+  number: '34'
+previous:
+  id: GEN/46/32
+  number: '32'
+reference: 'Genesis 46:33'

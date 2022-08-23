@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 2:1" class="v">1</span>And I,
+  brethren, when I came to you, came not with excellency of speech or of wisdom,
+  declaring unto you the testimony of God. </p>
+id: 1CO/2/1
+next:
+  id: 1CO/2/2
+  number: '2'
+previous:
+  id: 1CO/1/31
+  number: '31'
+reference: '1 Corinthians 2:1'

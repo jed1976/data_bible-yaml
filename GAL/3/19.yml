@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GAL 3:19"
+  class="v">19</span>Wherefore then <span class="add">serveth</span> the law? It
+  was added because of transgressions, till the seed should come to whom the
+  promise was made; <span class="add">and it was</span> ordained by angels in
+  the hand of a mediator. </p>
+id: GAL/3/19
+next:
+  id: GAL/3/20
+  number: '20'
+previous:
+  id: GAL/3/18
+  number: '18'
+reference: 'Galatians 3:19'

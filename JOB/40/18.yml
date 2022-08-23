@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 40:18"
+  class="v">18</span>His bones <span class="add">are as</span> strong pieces of
+  brass; his bones <span class="add">are</span> like bars of iron. </p>
+id: JOB/40/18
+next:
+  id: JOB/40/19
+  number: '19'
+previous:
+  id: JOB/40/17
+  number: '17'
+reference: 'Job 40:18'

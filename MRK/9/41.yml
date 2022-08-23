@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MRK 9:41"
+  class="v">41</span><span class="wj">For whosoever shall give you a cup of
+  water to drink in my name, because ye belong to Christ, verily I say unto you,
+  he shall not lose his reward.</span> </p>
+id: MRK/9/41
+next:
+  id: MRK/9/42
+  number: '42'
+previous:
+  id: MRK/9/40
+  number: '40'
+reference: 'Mark 9:41'

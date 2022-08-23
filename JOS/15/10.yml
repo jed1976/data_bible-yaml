@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 15:10"
+  class="v">10</span>And the border compassed from Baalah westward unto mount
+  Seir, and passed along unto the side of mount Jearim, which <span
+  class="add">is</span> Chesalon, on the north side, and went down to
+  Beth-shemesh, and passed on to Timnah: </p>
+id: JOS/15/10
+next:
+  id: JOS/15/11
+  number: '11'
+previous:
+  id: JOS/15/9
+  number: '9'
+reference: 'Joshua 15:10'

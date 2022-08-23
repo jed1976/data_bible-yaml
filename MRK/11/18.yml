@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 11:18"
+  class="v">18</span>And the scribes and chief priests heard <span
+  class="add">it</span>, and sought how they might destroy him: for they feared
+  him, because all the people was astonished at his doctrine. </p>
+id: MRK/11/18
+next:
+  id: MRK/11/19
+  number: '19'
+previous:
+  id: MRK/11/17
+  number: '17'
+reference: 'Mark 11:18'

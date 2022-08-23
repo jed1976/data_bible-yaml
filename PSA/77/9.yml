@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 77:9" class="v">9</span>Hath
+  God forgotten to be gracious? hath he in anger shut up his tender mercies?
+  Selah.</p>
+id: PSA/77/9
+next:
+  id: PSA/77/10
+  number: '10'
+previous:
+  id: PSA/77/8
+  number: '8'
+reference: 'Psalms 77:9'

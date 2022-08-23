@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 14:12"
+  class="v">12</span>Now therefore give me this mountain, whereof the <span
+  class="nd">LORD</span> spake in that day; for thou heardest in that day how
+  the Anakims <span class="add">were</span> there, and <span
+  class="add">that</span> the cities <span class="add">were</span> great <span
+  class="add">and</span> fenced: if so be the <span class="nd">LORD</span> <span
+  class="add">will be</span> with me, then I shall be able to drive them out, as
+  the <span class="nd">LORD</span> said. </p>
+id: JOS/14/12
+next:
+  id: JOS/14/13
+  number: '13'
+previous:
+  id: JOS/14/11
+  number: '11'
+reference: 'Joshua 14:12'

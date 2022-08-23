@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 18:3" class="v">3</span>When
+  the wicked cometh, <span class="add">then</span> cometh also contempt, and
+  with ignominy reproach. </p>
+id: PRO/18/3
+next:
+  id: PRO/18/4
+  number: '4'
+previous:
+  id: PRO/18/2
+  number: '2'
+reference: 'Proverbs 18:3'

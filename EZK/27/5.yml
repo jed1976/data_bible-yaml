@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 27:5" class="v">5</span>They
+  have made all thy <span class="add">ship</span> boards of fir trees of Senir:
+  they have taken cedars from Lebanon to make masts for thee. </p>
+id: EZK/27/5
+next:
+  id: EZK/27/6
+  number: '6'
+previous:
+  id: EZK/27/4
+  number: '4'
+reference: 'Ezekiel 27:5'

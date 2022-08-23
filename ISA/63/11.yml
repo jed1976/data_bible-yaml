@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 63:11"
+  class="v">11</span>Then he remembered the days of old, Moses, <span
+  class="add">and</span> his people, <span class="add">saying</span>, Where
+  <span class="add">is</span> he that brought them up out of the sea with the
+  shepherd of his flock? where <span class="add">is</span> he that put his holy
+  Spirit within him? </p>
+id: ISA/63/11
+next:
+  id: ISA/63/12
+  number: '12'
+previous:
+  id: ISA/63/10
+  number: '10'
+reference: 'Isaiah 63:11'

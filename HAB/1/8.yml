@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HAB 1:8" class="v">8</span>Their
+  horses also are swifter than the leopards, and are more fierce than the
+  evening wolves: and their horsemen shall spread themselves, and their horsemen
+  shall come from far; they shall fly as the eagle <span class="add">that</span>
+  hasteth to eat. </p>
+id: HAB/1/8
+next:
+  id: HAB/1/9
+  number: '9'
+previous:
+  id: HAB/1/7
+  number: '7'
+reference: 'Habakkuk 1:8'

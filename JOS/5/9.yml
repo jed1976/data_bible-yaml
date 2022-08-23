@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 5:9" class="v">9</span>And
+  the <span class="nd">LORD</span> said unto Joshua, This day have I rolled away
+  the reproach of Egypt from off you. Wherefore the name of the place is called
+  Gilgal unto this day.</p>
+id: JOS/5/9
+next:
+  id: JOS/5/10
+  number: '10'
+previous:
+  id: JOS/5/8
+  number: '8'
+reference: 'Joshua 5:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="RUT 1:8" class="v">8</span>And
+  Naomi said unto her two daughters in law, Go, return each to her mother’s
+  house: the <span class="nd">LORD</span> deal kindly with you, as ye have dealt
+  with the dead, and with me. </p>
+id: RUT/1/8
+next:
+  id: RUT/1/9
+  number: '9'
+previous:
+  id: RUT/1/7
+  number: '7'
+reference: 'Ruth 1:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 139:6"
+  class="v">6</span><span class="add">Such</span> knowledge <span
+  class="add">is</span> too wonderful for me; it is high, I cannot <span
+  class="add">attain</span> unto it.</p>
+id: PSA/139/6
+next:
+  id: PSA/139/7
+  number: '7'
+previous:
+  id: PSA/139/5
+  number: '5'
+reference: 'Psalms 139:6'

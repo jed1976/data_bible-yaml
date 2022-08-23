@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 9:20"
+  class="v">20</span>Put them in fear, O <span class="nd">LORD</span>: <span
+  class="add">that</span> the nations may know themselves <span class="add">to
+  be but</span> men. Selah.</p>
+id: PSA/9/20
+next:
+  id: PSA/10/1
+  number: '1'
+previous:
+  id: PSA/9/19
+  number: '19'
+reference: 'Psalms 9:20'

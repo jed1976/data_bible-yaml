@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 146:10"
+  class="v">10</span>The <span class="nd">LORD</span> shall reign for ever,
+  <span class="add">even</span> thy God, O Zion, unto all generations. Praise ye
+  the <span class="nd">LORD</span>.</p>
+id: PSA/146/10
+next:
+  id: PSA/147/1
+  number: '1'
+previous:
+  id: PSA/146/9
+  number: '9'
+reference: 'Psalms 146:10'

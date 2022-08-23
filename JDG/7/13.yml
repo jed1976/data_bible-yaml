@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 7:13" class="v">13</span>And
+  when Gideon was come, behold, <span class="add">there was</span> a man that
+  told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a
+  cake of barley bread tumbled into the host of Midian, and came unto a tent,
+  and smote it that it fell, and overturned it, that the tent lay along. </p>
+id: JDG/7/13
+next:
+  id: JDG/7/14
+  number: '14'
+previous:
+  id: JDG/7/12
+  number: '12'
+reference: 'Judges 7:13'

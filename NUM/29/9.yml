@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 29:9" class="v">9</span>And
+  their meat offering <span class="add">shall be of</span> flour mingled with
+  oil, three tenth deals to a bullock, <span class="add">and</span> two tenth
+  deals to one ram, </p>
+id: NUM/29/9
+next:
+  id: NUM/29/10
+  number: '10'
+previous:
+  id: NUM/29/8
+  number: '8'
+reference: 'Numbers 29:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 4:13" class="v">13</span>And
+  four hundred pomegranates on the two wreaths; two rows of pomegranates on each
+  wreath, to cover the two pommels of the chapiters which <span
+  class="add">were</span> upon the pillars. </p>
+id: 2CH/4/13
+next:
+  id: 2CH/4/14
+  number: '14'
+previous:
+  id: 2CH/4/12
+  number: '12'
+reference: '2 Chronicles 4:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LAM 4:8" class="v">8</span>Their
+  visage is blacker than a coal; they are not known in the streets: their skin
+  cleaveth to their bones; it is withered, it is become like a stick. </p>
+id: LAM/4/8
+next:
+  id: LAM/4/9
+  number: '9'
+previous:
+  id: LAM/4/7
+  number: '7'
+reference: 'Lamentations 4:8'

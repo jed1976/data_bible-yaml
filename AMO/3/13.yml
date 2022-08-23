@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 3:13"
+  class="v">13</span>Hear ye, and testify in the house of Jacob, saith the Lord
+  <span class="nd">GOD</span>, the God of hosts, </p>
+id: AMO/3/13
+next:
+  id: AMO/3/14
+  number: '14'
+previous:
+  id: AMO/3/12
+  number: '12'
+reference: 'Amos 3:13'

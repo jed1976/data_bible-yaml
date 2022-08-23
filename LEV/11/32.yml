@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 11:32"
+  class="v">32</span>And upon whatsoever <span class="add">any</span> of them,
+  when they are dead, doth fall, it shall be unclean; whether <span
+  class="add">it be</span> any vessel of wood, or raiment, or skin, or sack,
+  whatsoever vessel <span class="add">it be</span>, wherein <span
+  class="add">any</span> work is done, it must be put into water, and it shall
+  be unclean until the even; so it shall be cleansed. </p>
+id: LEV/11/32
+next:
+  id: LEV/11/33
+  number: '33'
+previous:
+  id: LEV/11/31
+  number: '31'
+reference: 'Leviticus 11:32'

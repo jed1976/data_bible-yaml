@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 3:32" class="v">32</span>And
+  Eleazar the son of Aaron the priest <span class="add">shall be</span> chief
+  over the chief of the Levites, <span class="add">and have</span> the oversight
+  of them that keep the charge of the sanctuary.</p>
+id: NUM/3/32
+next:
+  id: NUM/3/33
+  number: '33'
+previous:
+  id: NUM/3/31
+  number: '31'
+reference: 'Numbers 3:32'

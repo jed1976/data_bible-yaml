@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 109:20"
+  class="v">20</span><span class="add">Let</span> this <span
+  class="add">be</span> the reward of mine adversaries from the <span
+  class="nd">LORD</span>, and of them that speak evil against my soul.</p>
+id: PSA/109/20
+next:
+  id: PSA/109/21
+  number: '21'
+previous:
+  id: PSA/109/19
+  number: '19'
+reference: 'Psalms 109:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 10:30"
+  class="v">30</span>Lift up thy voice, O daughter of Gallim: cause it to be
+  heard unto Laish, O poor Anathoth. </p>
+id: ISA/10/30
+next:
+  id: ISA/10/31
+  number: '31'
+previous:
+  id: ISA/10/29
+  number: '29'
+reference: 'Isaiah 10:30'

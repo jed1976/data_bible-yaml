@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 15:6" class="v">6</span>And
+  the seven angels came out of the temple, having the seven plagues, clothed in
+  pure and white linen, and having their breasts girded with golden girdles.
+  </p>
+id: REV/15/6
+next:
+  id: REV/15/7
+  number: '7'
+previous:
+  id: REV/15/5
+  number: '5'
+reference: 'Revelation 15:6'

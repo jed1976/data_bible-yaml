@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="TIT 2:3" class="v">3</span>The
+  aged women likewise, that <span class="add">they be</span> in behaviour as
+  becometh holiness, not false accusers, not given to much wine, teachers of
+  good things; </p>
+id: TIT/2/3
+next:
+  id: TIT/2/4
+  number: '4'
+previous:
+  id: TIT/2/2
+  number: '2'
+reference: 'Titus 2:3'

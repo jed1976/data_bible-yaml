@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 107:35"
+  class="v">35</span>He turneth the wilderness into a standing water, and dry
+  ground into watersprings.</p>
+id: PSA/107/35
+next:
+  id: PSA/107/36
+  number: '36'
+previous:
+  id: PSA/107/34
+  number: '34'
+reference: 'Psalms 107:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 33:18" class="v">18</span>¶
+  And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in
+  thy tents. </p>
+id: DEU/33/18
+next:
+  id: DEU/33/19
+  number: '19'
+previous:
+  id: DEU/33/17
+  number: '17'
+reference: 'Deuteronomy 33:18'

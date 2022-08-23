@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EPH 6:21" class="v">21</span>But
+  that ye also may know my affairs, <span class="add">and</span> how I do,
+  Tychicus, a beloved brother and faithful minister in the Lord, shall make
+  known to you all things: </p>
+id: EPH/6/21
+next:
+  id: EPH/6/22
+  number: '22'
+previous:
+  id: EPH/6/20
+  number: '20'
+reference: 'Ephesians 6:21'

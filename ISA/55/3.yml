@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 55:3"
+  class="v">3</span>Incline your ear, and come unto me: hear, and your soul
+  shall live; and I will make an everlasting covenant with you, <span
+  class="add">even</span> the sure mercies of David. </p>
+id: ISA/55/3
+next:
+  id: ISA/55/4
+  number: '4'
+previous:
+  id: ISA/55/2
+  number: '2'
+reference: 'Isaiah 55:3'

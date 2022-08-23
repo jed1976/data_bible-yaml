@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 11:5" class="v">5</span>And
+  certain of them that stood there said unto them, What do ye, loosing the colt?
+  </p>
+id: MRK/11/5
+next:
+  id: MRK/11/6
+  number: '6'
+previous:
+  id: MRK/11/4
+  number: '4'
+reference: 'Mark 11:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 10:1" class="v">1</span>My
+  soul is weary of my life; I will leave my complaint upon myself; I will speak
+  in the bitterness of my soul. </p>
+id: JOB/10/1
+next:
+  id: JOB/10/2
+  number: '2'
+previous:
+  id: JOB/9/35
+  number: '35'
+reference: 'Job 10:1'

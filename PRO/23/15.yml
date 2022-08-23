@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 23:15" class="v">15</span>My
+  son, if thine heart be wise, my heart shall rejoice, even mine. </p>
+id: PRO/23/15
+next:
+  id: PRO/23/16
+  number: '16'
+previous:
+  id: PRO/23/14
+  number: '14'
+reference: 'Proverbs 23:15'

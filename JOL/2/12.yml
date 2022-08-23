@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOL 2:12" class="v">12</span>¶
+  Therefore also now, saith the <span class="nd">LORD</span>, turn ye <span
+  class="add">even</span> to me with all your heart, and with fasting, and with
+  weeping, and with mourning: </p>
+id: JOL/2/12
+next:
+  id: JOL/2/13
+  number: '13'
+previous:
+  id: JOL/2/11
+  number: '11'
+reference: 'Joel 2:12'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 44:6" class="v">6</span>¶ And
+  he overtook them, and he spake unto them these same words. </p>
+id: GEN/44/6
+next:
+  id: GEN/44/7
+  number: '7'
+previous:
+  id: GEN/44/5
+  number: '5'
+reference: 'Genesis 44:6'

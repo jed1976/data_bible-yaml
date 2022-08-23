@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 49:9" class="v">9</span>That
+  he should still live for ever, <span class="add">and</span> not see
+  corruption.</p>
+id: PSA/49/9
+next:
+  id: PSA/49/10
+  number: '10'
+previous:
+  id: PSA/49/8
+  number: '8'
+reference: 'Psalms 49:9'

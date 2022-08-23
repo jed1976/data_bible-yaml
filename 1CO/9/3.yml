@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 9:3" class="v">3</span>Mine
+  answer to them that do examine me is this, </p>
+id: 1CO/9/3
+next:
+  id: 1CO/9/4
+  number: '4'
+previous:
+  id: 1CO/9/2
+  number: '2'
+reference: '1 Corinthians 9:3'

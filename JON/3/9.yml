@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JON 3:9" class="v">9</span>Who
+  can tell <span class="add">if</span> God will turn and repent, and turn away
+  from his fierce anger, that we perish not?</p>
+id: JON/3/9
+next:
+  id: JON/3/10
+  number: '10'
+previous:
+  id: JON/3/8
+  number: '8'
+reference: 'Jonah 3:9'

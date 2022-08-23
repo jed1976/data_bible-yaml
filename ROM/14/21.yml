@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 14:21"
+  class="v">21</span><span class="add">It is</span> good neither to eat flesh,
+  nor to drink wine, nor <span class="add">any thing</span> whereby thy brother
+  stumbleth, or is offended, or is made weak. </p>
+id: ROM/14/21
+next:
+  id: ROM/14/22
+  number: '22'
+previous:
+  id: ROM/14/20
+  number: '20'
+reference: 'Romans 14:21'

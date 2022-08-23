@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 8:24" class="v">24</span>And
+  they came to him, and awoke him, saying, Master, master, we perish. Then he
+  arose, and rebuked the wind and the raging of the water: and they ceased, and
+  there was a calm. </p>
+id: LUK/8/24
+next:
+  id: LUK/8/25
+  number: '25'
+previous:
+  id: LUK/8/23
+  number: '23'
+reference: 'Luke 8:24'

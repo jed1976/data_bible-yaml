@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EZR 4:19" class="v">19</span>And
+  I commanded, and search hath been made, and it is found that this city of old
+  time hath made insurrection against kings, and <span class="add">that</span>
+  rebellion and sedition have been made therein. </p>
+id: EZR/4/19
+next:
+  id: EZR/4/20
+  number: '20'
+previous:
+  id: EZR/4/18
+  number: '18'
+reference: 'Ezra 4:19'

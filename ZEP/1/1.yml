@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEP 1:1" class="v">1</span>The
+  word of the <span class="nd">LORD</span> which came unto Zephaniah the son of
+  Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the
+  days of Josiah the son of Amon, king of Judah. </p>
+id: ZEP/1/1
+next:
+  id: ZEP/1/2
+  number: '2'
+previous:
+  id: ZEP/intro/0
+  number: '0'
+reference: 'Zephaniah 1:1'

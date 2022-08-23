@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 96:4" class="v">4</span>For
+  the <span class="nd">LORD</span> <span class="add">is</span> great, and
+  greatly to be praised: he <span class="add">is</span> to be feared above all
+  gods.</p>
+id: PSA/96/4
+next:
+  id: PSA/96/5
+  number: '5'
+previous:
+  id: PSA/96/3
+  number: '3'
+reference: 'Psalms 96:4'

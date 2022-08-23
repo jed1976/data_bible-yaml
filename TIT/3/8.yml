@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="TIT 3:8" class="v">8</span><span
+  class="add">This is</span> a faithful saying, and these things I will that
+  thou affirm constantly, that they which have believed in God might be careful
+  to maintain good works. These things are good and profitable unto men. </p>
+id: TIT/3/8
+next:
+  id: TIT/3/9
+  number: '9'
+previous:
+  id: TIT/3/7
+  number: '7'
+reference: 'Titus 3:8'

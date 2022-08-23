@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 18:23"
+  class="v">23</span>The poor useth intreaties; but the rich answereth roughly.
+  </p>
+id: PRO/18/23
+next:
+  id: PRO/18/24
+  number: '24'
+previous:
+  id: PRO/18/22
+  number: '22'
+reference: 'Proverbs 18:23'

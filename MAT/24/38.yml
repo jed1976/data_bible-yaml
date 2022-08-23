@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 24:38"
+  class="v">38</span><span class="wj">For as in the days that were before the
+  flood they were eating and drinking, marrying and giving in marriage, until
+  the day that Noe entered into the ark,</span> </p>
+id: MAT/24/38
+next:
+  id: MAT/24/39
+  number: '39'
+previous:
+  id: MAT/24/37
+  number: '37'
+reference: 'Matthew 24:38'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 8:3" class="v">3</span>And
+  Jesus put forth <span class="add">his</span> hand, and touched him, saying,
+  <span class="wj">I will; be thou clean.</span> And immediately his leprosy was
+  cleansed. </p>
+id: MAT/8/3
+next:
+  id: MAT/8/4
+  number: '4'
+previous:
+  id: MAT/8/2
+  number: '2'
+reference: 'Matthew 8:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 6:11" class="v">11</span>¶
+  And there came an angel of the <span class="nd">LORD</span>, and sat under an
+  oak which <span class="add">was</span> in Ophrah, that <span
+  class="add">pertained</span> unto Joash the Abi-ezrite: and his son Gideon
+  threshed wheat by the winepress, to hide <span class="add">it</span> from the
+  Midianites. </p>
+id: JDG/6/11
+next:
+  id: JDG/6/12
+  number: '12'
+previous:
+  id: JDG/6/10
+  number: '10'
+reference: 'Judges 6:11'

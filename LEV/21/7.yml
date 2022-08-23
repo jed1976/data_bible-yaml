@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 21:7" class="v">7</span>They
+  shall not take a wife <span class="add">that is</span> a whore, or profane;
+  neither shall they take a woman put away from her husband: for he <span
+  class="add">is</span> holy unto his God. </p>
+id: LEV/21/7
+next:
+  id: LEV/21/8
+  number: '8'
+previous:
+  id: LEV/21/6
+  number: '6'
+reference: 'Leviticus 21:7'

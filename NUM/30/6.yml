@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 30:6" class="v">6</span>And
+  if she had at all an husband, when she vowed, or uttered ought out of her
+  lips, wherewith she bound her soul; </p>
+id: NUM/30/6
+next:
+  id: NUM/30/7
+  number: '7'
+previous:
+  id: NUM/30/5
+  number: '5'
+reference: 'Numbers 30:6'

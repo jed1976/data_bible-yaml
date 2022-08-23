@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 109:10"
+  class="v">10</span>Let his children be continually vagabonds, and beg: let
+  them seek <span class="add">their bread</span> also out of their desolate
+  places.</p>
+id: PSA/109/10
+next:
+  id: PSA/109/11
+  number: '11'
+previous:
+  id: PSA/109/9
+  number: '9'
+reference: 'Psalms 109:10'

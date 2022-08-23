@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 6:18" class="v">18</span>¶
+  Then the king went to his palace, and passed the night fasting: neither were
+  instruments of musick brought before him: and his sleep went from him. </p>
+id: DAN/6/18
+next:
+  id: DAN/6/19
+  number: '19'
+previous:
+  id: DAN/6/17
+  number: '17'
+reference: 'Daniel 6:18'

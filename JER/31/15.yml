@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 31:15" class="v">15</span>¶
+  Thus saith the <span class="nd">LORD</span>; A voice was heard in Ramah,
+  lamentation, <span class="add">and</span> bitter weeping; Rahel weeping for
+  her children refused to be comforted for her children, because they <span
+  class="add">were</span> not. </p>
+id: JER/31/15
+next:
+  id: JER/31/16
+  number: '16'
+previous:
+  id: JER/31/14
+  number: '14'
+reference: 'Jeremiah 31:15'

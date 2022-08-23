@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 18:8" class="v">8</span><span
+  class="wj">Wherefore if thy hand or thy foot offend thee, cut them off, and
+  cast <span class="add">them</span> from thee: it is better for thee to enter
+  into life halt or maimed, rather than having two hands or two feet to be cast
+  into everlasting fire.</span> </p>
+id: MAT/18/8
+next:
+  id: MAT/18/9
+  number: '9'
+previous:
+  id: MAT/18/7
+  number: '7'
+reference: 'Matthew 18:8'

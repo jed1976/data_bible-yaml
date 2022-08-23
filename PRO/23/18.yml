@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 23:18"
+  class="v">18</span>For surely there is an end; and thine expectation shall not
+  be cut off.</p>
+id: PRO/23/18
+next:
+  id: PRO/23/19
+  number: '19'
+previous:
+  id: PRO/23/17
+  number: '17'
+reference: 'Proverbs 23:18'

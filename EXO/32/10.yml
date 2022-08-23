@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 32:10"
+  class="v">10</span>Now therefore let me alone, that my wrath may wax hot
+  against them, and that I may consume them: and I will make of thee a great
+  nation. </p>
+id: EXO/32/10
+next:
+  id: EXO/32/11
+  number: '11'
+previous:
+  id: EXO/32/9
+  number: '9'
+reference: 'Exodus 32:10'

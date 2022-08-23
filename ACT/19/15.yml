@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 19:15"
+  class="v">15</span>And the evil spirit answered and said, Jesus I know, and
+  Paul I know; but who are ye? </p>
+id: ACT/19/15
+next:
+  id: ACT/19/16
+  number: '16'
+previous:
+  id: ACT/19/14
+  number: '14'
+reference: 'Acts 19:15'

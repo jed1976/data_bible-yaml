@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1TI 5:3" class="v">3</span>Honour
+  widows that are widows indeed. </p>
+id: 1TI/5/3
+next:
+  id: 1TI/5/4
+  number: '4'
+previous:
+  id: 1TI/5/2
+  number: '2'
+reference: '1 Timothy 5:3'

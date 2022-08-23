@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 2:5" class="v">5</span>For I,
+  saith the <span class="nd">LORD</span>, will be unto her a wall of fire round
+  about, and will be the glory in the midst of her.</p>
+id: ZEC/2/5
+next:
+  id: ZEC/2/6
+  number: '6'
+previous:
+  id: ZEC/2/4
+  number: '4'
+reference: 'Zechariah 2:5'

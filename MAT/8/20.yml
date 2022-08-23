@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 8:20" class="v">20</span>And
+  Jesus saith unto him, <span class="wj">The foxes have holes, and the birds of
+  the air <span class="add">have</span> nests; but the Son of man hath not where
+  to lay <span class="add">his</span> head.</span> </p>
+id: MAT/8/20
+next:
+  id: MAT/8/21
+  number: '21'
+previous:
+  id: MAT/8/19
+  number: '19'
+reference: 'Matthew 8:20'

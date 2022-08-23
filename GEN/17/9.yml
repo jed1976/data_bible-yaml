@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 17:9" class="v">9</span>¶ And
+  God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy
+  seed after thee in their generations. </p>
+id: GEN/17/9
+next:
+  id: GEN/17/10
+  number: '10'
+previous:
+  id: GEN/17/8
+  number: '8'
+reference: 'Genesis 17:9'

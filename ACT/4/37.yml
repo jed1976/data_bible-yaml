@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 4:37"
+  class="v">37</span>Having land, sold <span class="add">it</span>, and brought
+  the money, and laid <span class="add">it</span> at the apostles’ feet.</p>
+id: ACT/4/37
+next:
+  id: ACT/5/1
+  number: '1'
+previous:
+  id: ACT/4/36
+  number: '36'
+reference: 'Acts 4:37'

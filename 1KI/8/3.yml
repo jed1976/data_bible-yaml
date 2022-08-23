@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 8:3" class="v">3</span>And
+  all the elders of Israel came, and the priests took up the ark. </p>
+id: 1KI/8/3
+next:
+  id: 1KI/8/4
+  number: '4'
+previous:
+  id: 1KI/8/2
+  number: '2'
+reference: '1 Kings 8:3'

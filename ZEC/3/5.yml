@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 3:5" class="v">5</span>And I
+  said, Let them set a fair mitre upon his head. So they set a fair mitre upon
+  his head, and clothed him with garments. And the angel of the <span
+  class="nd">LORD</span> stood by. </p>
+id: ZEC/3/5
+next:
+  id: ZEC/3/6
+  number: '6'
+previous:
+  id: ZEC/3/4
+  number: '4'
+reference: 'Zechariah 3:5'

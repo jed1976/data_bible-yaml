@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 27:20"
+  class="v">20</span>And thou shalt put <span class="add">some</span> of thine
+  honour upon him, that all the congregation of the children of Israel may be
+  obedient. </p>
+id: NUM/27/20
+next:
+  id: NUM/27/21
+  number: '21'
+previous:
+  id: NUM/27/19
+  number: '19'
+reference: 'Numbers 27:20'

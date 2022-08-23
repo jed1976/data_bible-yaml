@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 23:41"
+  class="v">41</span>And we indeed justly; for we receive the due reward of our
+  deeds: but this man hath done nothing amiss. </p>
+id: LUK/23/41
+next:
+  id: LUK/23/42
+  number: '42'
+previous:
+  id: LUK/23/40
+  number: '40'
+reference: 'Luke 23:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 22:9" class="v">9</span>Ye
+  have seen also the breaches of the city of David, that they are many: and ye
+  gathered together the waters of the lower pool. </p>
+id: ISA/22/9
+next:
+  id: ISA/22/10
+  number: '10'
+previous:
+  id: ISA/22/8
+  number: '8'
+reference: 'Isaiah 22:9'

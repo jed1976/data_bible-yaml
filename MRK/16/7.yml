@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 16:7" class="v">7</span>But
+  go your way, tell his disciples and Peter that he goeth before you into
+  Galilee: there shall ye see him, as he said unto you. </p>
+id: MRK/16/7
+next:
+  id: MRK/16/8
+  number: '8'
+previous:
+  id: MRK/16/6
+  number: '6'
+reference: 'Mark 16:7'

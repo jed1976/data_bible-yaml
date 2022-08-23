@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EZR 2:27" class="v">27</span>The
+  men of Michmas, an hundred twenty and two. </p>
+id: EZR/2/27
+next:
+  id: EZR/2/28
+  number: '28'
+previous:
+  id: EZR/2/26
+  number: '26'
+reference: 'Ezra 2:27'

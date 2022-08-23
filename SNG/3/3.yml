@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 3:3" class="v">3</span>The
+  watchmen that go about the city found me: <span class="add">to whom I
+  said</span>, Saw ye him whom my soul loveth? </p>
+id: SNG/3/3
+next:
+  id: SNG/3/4
+  number: '4'
+previous:
+  id: SNG/3/2
+  number: '2'
+reference: 'Song of Solomon 3:3'

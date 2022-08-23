@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 9:20" class="v">20</span>He
+  that feared the word of the <span class="nd">LORD</span> among the servants of
+  Pharaoh made his servants and his cattle flee into the houses: </p>
+id: EXO/9/20
+next:
+  id: EXO/9/21
+  number: '21'
+previous:
+  id: EXO/9/19
+  number: '19'
+reference: 'Exodus 9:20'

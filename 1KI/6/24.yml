@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1KI 6:24" class="v">24</span>And
+  five cubits <span class="add">was</span> the one wing of the cherub, and five
+  cubits the other wing of the cherub: from the uttermost part of the one wing
+  unto the uttermost part of the other <span class="add">were</span> ten cubits.
+  </p>
+id: 1KI/6/24
+next:
+  id: 1KI/6/25
+  number: '25'
+previous:
+  id: 1KI/6/23
+  number: '23'
+reference: '1 Kings 6:24'

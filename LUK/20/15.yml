@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 20:15"
+  class="v">15</span><span class="wj">So they cast him out of the vineyard, and
+  killed <span class="add">him</span>. What therefore shall the lord of the
+  vineyard do unto them?</span> </p>
+id: LUK/20/15
+next:
+  id: LUK/20/16
+  number: '16'
+previous:
+  id: LUK/20/14
+  number: '14'
+reference: 'Luke 20:15'

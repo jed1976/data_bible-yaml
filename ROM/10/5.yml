@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 10:5" class="v">5</span>For
+  Moses describeth the righteousness which is of the law, That the man which
+  doeth those things shall live by them. </p>
+id: ROM/10/5
+next:
+  id: ROM/10/6
+  number: '6'
+previous:
+  id: ROM/10/4
+  number: '4'
+reference: 'Romans 10:5'

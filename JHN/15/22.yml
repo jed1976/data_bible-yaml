@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 15:22"
+  class="v">22</span><span class="wj">If I had not come and spoken unto them,
+  they had not had sin: but now they have no cloke for their sin.</span> </p>
+id: JHN/15/22
+next:
+  id: JHN/15/23
+  number: '23'
+previous:
+  id: JHN/15/21
+  number: '21'
+reference: 'John 15:22'

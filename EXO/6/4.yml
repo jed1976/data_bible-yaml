@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 6:4" class="v">4</span>And I
+  have also established my covenant with them, to give them the land of Canaan,
+  the land of their pilgrimage, wherein they were strangers. </p>
+id: EXO/6/4
+next:
+  id: EXO/6/5
+  number: '5'
+previous:
+  id: EXO/6/3
+  number: '3'
+reference: 'Exodus 6:4'

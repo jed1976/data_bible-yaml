@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 2:14" class="v">14</span>And
+  found in the temple those that sold oxen and sheep and doves, and the changers
+  of money sitting: </p>
+id: JHN/2/14
+next:
+  id: JHN/2/15
+  number: '15'
+previous:
+  id: JHN/2/13
+  number: '13'
+reference: 'John 2:14'

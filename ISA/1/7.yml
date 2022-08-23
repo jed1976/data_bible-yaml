@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 1:7" class="v">7</span>Your
+  country <span class="add">is</span> desolate, your cities <span
+  class="add">are</span> burned with fire: your land, strangers devour it in
+  your presence, and <span class="add">it is</span> desolate, as overthrown by
+  strangers. </p>
+id: ISA/1/7
+next:
+  id: ISA/1/8
+  number: '8'
+previous:
+  id: ISA/1/6
+  number: '6'
+reference: 'Isaiah 1:7'

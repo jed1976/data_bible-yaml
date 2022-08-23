@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 5:11" class="v">11</span>And
+  all the days of Enos were nine hundred and five years: and he died.</p>
+id: GEN/5/11
+next:
+  id: GEN/5/12
+  number: '12'
+previous:
+  id: GEN/5/10
+  number: '10'
+reference: 'Genesis 5:11'

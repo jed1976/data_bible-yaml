@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 27:9"
+  class="v">9</span>Ointment and perfume rejoice the heart: so <span
+  class="add">doth</span> the sweetness of a man’s friend by hearty counsel.
+  </p>
+id: PRO/27/9
+next:
+  id: PRO/27/10
+  number: '10'
+previous:
+  id: PRO/27/8
+  number: '8'
+reference: 'Proverbs 27:9'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 6:21"
+  class="v">21</span>This <span class="add">is</span> the law of the Nazarite
+  who hath vowed, <span class="add">and of</span> his offering unto the <span
+  class="nd">LORD</span> for his separation, beside <span
+  class="add">that</span> that his hand shall get: according to the vow which he
+  vowed, so he must do after the law of his separation.</p>
+id: NUM/6/21
+next:
+  id: NUM/6/22
+  number: '22'
+previous:
+  id: NUM/6/20
+  number: '20'
+reference: 'Numbers 6:21'

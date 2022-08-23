@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 25:4" class="v">4</span>For
+  thou hast been a strength to the poor, a strength to the needy in his
+  distress, a refuge from the storm, a shadow from the heat, when the blast of
+  the terrible ones <span class="add">is</span> as a storm <span
+  class="add">against</span> the wall. </p>
+id: ISA/25/4
+next:
+  id: ISA/25/5
+  number: '5'
+previous:
+  id: ISA/25/3
+  number: '3'
+reference: 'Isaiah 25:4'

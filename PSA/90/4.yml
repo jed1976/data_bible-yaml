@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 90:4" class="v">4</span>For
+  a thousand years in thy sight <span class="add">are but</span> as yesterday
+  when it is past, and <span class="add">as</span> a watch in the night.</p>
+id: PSA/90/4
+next:
+  id: PSA/90/5
+  number: '5'
+previous:
+  id: PSA/90/3
+  number: '3'
+reference: 'Psalms 90:4'

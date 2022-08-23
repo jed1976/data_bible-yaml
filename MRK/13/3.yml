@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 13:3" class="v">3</span>And
+  as he sat upon the mount of Olives over against the temple, Peter and James
+  and John and Andrew asked him privately, </p>
+id: MRK/13/3
+next:
+  id: MRK/13/4
+  number: '4'
+previous:
+  id: MRK/13/2
+  number: '2'
+reference: 'Mark 13:3'

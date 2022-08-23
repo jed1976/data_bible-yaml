@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 6:1" class="v">1</span>Then
+  Darius the king made a decree, and search was made in the house of the rolls,
+  where the treasures were laid up in Babylon. </p>
+id: EZR/6/1
+next:
+  id: EZR/6/2
+  number: '2'
+previous:
+  id: EZR/5/17
+  number: '17'
+reference: 'Ezra 6:1'

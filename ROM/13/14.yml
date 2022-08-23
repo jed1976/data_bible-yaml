@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 13:14"
+  class="v">14</span>But put ye on the Lord Jesus Christ, and make not provision
+  for the flesh, to <span class="add">fulfil</span> the lusts <span
+  class="add">thereof.</span></p>
+id: ROM/13/14
+next:
+  id: ROM/14/1
+  number: '1'
+previous:
+  id: ROM/13/13
+  number: '13'
+reference: 'Romans 13:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 144:2" class="v">2</span>My
+  goodness, and my fortress; my high tower, and my deliverer; my shield, and
+  <span class="add">he</span> in whom I trust; who subdueth my people under
+  me.</p>
+id: PSA/144/2
+next:
+  id: PSA/144/3
+  number: '3'
+previous:
+  id: PSA/144/1
+  number: '1'
+reference: 'Psalms 144:2'

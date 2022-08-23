@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 22:10"
+  class="v">10</span>And Abraham stretched forth his hand, and took the knife to
+  slay his son.</p>
+id: GEN/22/10
+next:
+  id: GEN/22/11
+  number: '11'
+previous:
+  id: GEN/22/9
+  number: '9'
+reference: 'Genesis 22:10'

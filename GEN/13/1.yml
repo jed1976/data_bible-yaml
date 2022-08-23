@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 13:1" class="v">1</span>And
+  Abram went up out of Egypt, he, and his wife, and all that he had, and Lot
+  with him, into the south. </p>
+id: GEN/13/1
+next:
+  id: GEN/13/2
+  number: '2'
+previous:
+  id: GEN/12/20
+  number: '20'
+reference: 'Genesis 13:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 5:12" class="v">12</span>And
+  the harp, and the viol, the tabret, and pipe, and wine, are in their feasts:
+  but they regard not the work of the <span class="nd">LORD</span>, neither
+  consider the operation of his hands.</p>
+id: ISA/5/12
+next:
+  id: ISA/5/13
+  number: '13'
+previous:
+  id: ISA/5/11
+  number: '11'
+reference: 'Isaiah 5:12'

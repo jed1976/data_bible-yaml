@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 21:11"
+  class="v">11</span>For they intended evil against thee: they imagined a
+  mischievous device, <span class="add">which</span> they are not able <span
+  class="add">to perform</span>.</p>
+id: PSA/21/11
+next:
+  id: PSA/21/12
+  number: '12'
+previous:
+  id: PSA/21/10
+  number: '10'
+reference: 'Psalms 21:11'

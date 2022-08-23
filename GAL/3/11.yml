@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GAL 3:11" class="v">11</span>But
+  that no man is justified by the law in the sight of God, <span class="add">it
+  is</span> evident: for, The just shall live by faith. </p>
+id: GAL/3/11
+next:
+  id: GAL/3/12
+  number: '12'
+previous:
+  id: GAL/3/10
+  number: '10'
+reference: 'Galatians 3:11'

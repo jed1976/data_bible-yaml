@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 30:5" class="v">5</span>They
+  were driven forth from among <span class="add">men</span>, (they cried after
+  them as <span class="add">after</span> a thief;) </p>
+id: JOB/30/5
+next:
+  id: JOB/30/6
+  number: '6'
+previous:
+  id: JOB/30/4
+  number: '4'
+reference: 'Job 30:5'

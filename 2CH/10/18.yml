@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 10:18"
+  class="v">18</span>Then king Rehoboam sent Hadoram that <span
+  class="add">was</span> over the tribute; and the children of Israel stoned him
+  with stones, that he died. But king Rehoboam made speed to get him up to <span
+  class="add">his</span> chariot, to flee to Jerusalem. </p>
+id: 2CH/10/18
+next:
+  id: 2CH/10/19
+  number: '19'
+previous:
+  id: 2CH/10/17
+  number: '17'
+reference: '2 Chronicles 10:18'

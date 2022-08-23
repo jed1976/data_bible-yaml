@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 2:5" class="v">5</span>And
+  there were dwelling at Jerusalem Jews, devout men, out of every nation under
+  heaven. </p>
+id: ACT/2/5
+next:
+  id: ACT/2/6
+  number: '6'
+previous:
+  id: ACT/2/4
+  number: '4'
+reference: 'Acts 2:5'

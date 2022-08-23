@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2PE 3:11"
+  class="v">11</span><span class="add">Seeing</span> then <span
+  class="add">that</span> all these things shall be dissolved, what manner <span
+  class="add">of persons</span> ought ye to be in <span class="add">all</span>
+  holy conversation and godliness, </p>
+id: 2PE/3/11
+next:
+  id: 2PE/3/12
+  number: '12'
+previous:
+  id: 2PE/3/10
+  number: '10'
+reference: '2 Peter 3:11'

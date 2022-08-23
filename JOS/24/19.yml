@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 24:19"
+  class="v">19</span>And Joshua said unto the people, Ye cannot serve the <span
+  class="nd">LORD</span>: for he <span class="add">is</span> an holy God; he
+  <span class="add">is</span> a jealous God; he will not forgive your
+  transgressions nor your sins. </p>
+id: JOS/24/19
+next:
+  id: JOS/24/20
+  number: '20'
+previous:
+  id: JOS/24/18
+  number: '18'
+reference: 'Joshua 24:19'

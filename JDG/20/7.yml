@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 20:7"
+  class="v">7</span>Behold, ye <span class="add">are</span> all children of
+  Israel; give here your advice and counsel.</p>
+id: JDG/20/7
+next:
+  id: JDG/20/8
+  number: '8'
+previous:
+  id: JDG/20/6
+  number: '6'
+reference: 'Judges 20:7'

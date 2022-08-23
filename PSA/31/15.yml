@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 31:15"
+  class="v">15</span>My times <span class="add">are</span> in thy hand: deliver
+  me from the hand of mine enemies, and from them that persecute me.</p>
+id: PSA/31/15
+next:
+  id: PSA/31/16
+  number: '16'
+previous:
+  id: PSA/31/14
+  number: '14'
+reference: 'Psalms 31:15'

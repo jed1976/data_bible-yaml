@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GAL 1:13" class="v">13</span>For
+  ye have heard of my conversation in time past in the Jews’ religion, how that
+  beyond measure I persecuted the church of God, and wasted it: </p>
+id: GAL/1/13
+next:
+  id: GAL/1/14
+  number: '14'
+previous:
+  id: GAL/1/12
+  number: '12'
+reference: 'Galatians 1:13'

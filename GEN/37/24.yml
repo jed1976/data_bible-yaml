@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 37:24"
+  class="v">24</span>And they took him, and cast him into a pit: and the pit
+  <span class="add">was</span> empty, <span class="add">there was</span> no
+  water in it. </p>
+id: GEN/37/24
+next:
+  id: GEN/37/25
+  number: '25'
+previous:
+  id: GEN/37/23
+  number: '23'
+reference: 'Genesis 37:24'

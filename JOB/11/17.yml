@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 11:17"
+  class="v">17</span>And <span class="add">thine</span> age shall be clearer
+  than the noonday; thou shalt shine forth, thou shalt be as the morning. </p>
+id: JOB/11/17
+next:
+  id: JOB/11/18
+  number: '18'
+previous:
+  id: JOB/11/16
+  number: '16'
+reference: 'Job 11:17'

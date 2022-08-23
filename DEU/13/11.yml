@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 13:11"
+  class="v">11</span>And all Israel shall hear, and fear, and shall do no more
+  any such wickedness as this is among you.</p>
+id: DEU/13/11
+next:
+  id: DEU/13/12
+  number: '12'
+previous:
+  id: DEU/13/10
+  number: '10'
+reference: 'Deuteronomy 13:11'

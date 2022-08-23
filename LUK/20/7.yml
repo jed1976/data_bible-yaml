@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 20:7" class="v">7</span>And
+  they answered, that they could not tell whence <span class="add">it
+  was</span>. </p>
+id: LUK/20/7
+next:
+  id: LUK/20/8
+  number: '8'
+previous:
+  id: LUK/20/6
+  number: '6'
+reference: 'Luke 20:7'

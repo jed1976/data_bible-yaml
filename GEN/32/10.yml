@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 32:10" class="v">10</span>I
+  am not worthy of the least of all the mercies, and of all the truth, which
+  thou hast shewed unto thy servant; for with my staff I passed over this
+  Jordan; and now I am become two bands. </p>
+id: GEN/32/10
+next:
+  id: GEN/32/11
+  number: '11'
+previous:
+  id: GEN/32/9
+  number: '9'
+reference: 'Genesis 32:10'

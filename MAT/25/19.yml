@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 25:19"
+  class="v">19</span><span class="wj">After a long time the lord of those
+  servants cometh, and reckoneth with them.</span> </p>
+id: MAT/25/19
+next:
+  id: MAT/25/20
+  number: '20'
+previous:
+  id: MAT/25/18
+  number: '18'
+reference: 'Matthew 25:19'

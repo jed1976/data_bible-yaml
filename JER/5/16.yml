@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 5:16"
+  class="v">16</span>Their quiver <span class="add">is</span> as an open
+  sepulchre, they <span class="add">are</span> all mighty men. </p>
+id: JER/5/16
+next:
+  id: JER/5/17
+  number: '17'
+previous:
+  id: JER/5/15
+  number: '15'
+reference: 'Jeremiah 5:16'

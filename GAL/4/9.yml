@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GAL 4:9" class="v">9</span>But
+  now, after that ye have known God, or rather are known of God, how turn ye
+  again to the weak and beggarly elements, whereunto ye desire again to be in
+  bondage? </p>
+id: GAL/4/9
+next:
+  id: GAL/4/10
+  number: '10'
+previous:
+  id: GAL/4/8
+  number: '8'
+reference: 'Galatians 4:9'

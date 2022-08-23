@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2PE 1:21" class="v">21</span>For
+  the prophecy came not in old time by the will of man: but holy men of God
+  spake <span class="add">as they were</span> moved by the Holy Ghost.</p>
+id: 2PE/1/21
+next:
+  id: 2PE/2/1
+  number: '1'
+previous:
+  id: 2PE/1/20
+  number: '20'
+reference: '2 Peter 1:21'

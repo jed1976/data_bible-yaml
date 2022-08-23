@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 22:10"
+  class="v">10</span>Cast out the scorner, and contention shall go out; yea,
+  strife and reproach shall cease. </p>
+id: PRO/22/10
+next:
+  id: PRO/22/11
+  number: '11'
+previous:
+  id: PRO/22/9
+  number: '9'
+reference: 'Proverbs 22:10'

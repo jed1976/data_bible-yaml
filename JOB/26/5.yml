@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 26:5" class="v">5</span>Dead
+  <span class="add">things</span> are formed from under the waters, and the
+  inhabitants thereof. </p>
+id: JOB/26/5
+next:
+  id: JOB/26/6
+  number: '6'
+previous:
+  id: JOB/26/4
+  number: '4'
+reference: 'Job 26:5'

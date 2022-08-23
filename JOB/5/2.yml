@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 5:2" class="v">2</span>For
+  wrath killeth the foolish man, and envy slayeth the silly one. </p>
+id: JOB/5/2
+next:
+  id: JOB/5/3
+  number: '3'
+previous:
+  id: JOB/5/1
+  number: '1'
+reference: 'Job 5:2'

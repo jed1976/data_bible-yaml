@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 26:9" class="v">9</span>For
+  this ointment might have been sold for much, and given to the poor. </p>
+id: MAT/26/9
+next:
+  id: MAT/26/10
+  number: '10'
+previous:
+  id: MAT/26/8
+  number: '8'
+reference: 'Matthew 26:9'

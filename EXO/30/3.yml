@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 30:3" class="v">3</span>And
+  thou shalt overlay it with pure gold, the top thereof, and the sides thereof
+  round about, and the horns thereof; and thou shalt make unto it a crown of
+  gold round about. </p>
+id: EXO/30/3
+next:
+  id: EXO/30/4
+  number: '4'
+previous:
+  id: EXO/30/2
+  number: '2'
+reference: 'Exodus 30:3'

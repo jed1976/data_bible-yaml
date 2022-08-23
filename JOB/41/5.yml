@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 41:5" class="v">5</span>Wilt
+  thou play with him as <span class="add">with</span> a bird? or wilt thou bind
+  him for thy maidens? </p>
+id: JOB/41/5
+next:
+  id: JOB/41/6
+  number: '6'
+previous:
+  id: JOB/41/4
+  number: '4'
+reference: 'Job 41:5'

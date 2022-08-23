@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 4:25" class="v">25</span>¶
+  And Adam knew his wife again; and she bare a son, and called his name Seth:
+  For God, <span class="add">said she</span>, hath appointed me another seed
+  instead of Abel, whom Cain slew. </p>
+id: GEN/4/25
+next:
+  id: GEN/4/26
+  number: '26'
+previous:
+  id: GEN/4/24
+  number: '24'
+reference: 'Genesis 4:25'

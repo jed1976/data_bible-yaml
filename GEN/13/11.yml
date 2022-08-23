@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 13:11"
+  class="v">11</span>Then Lot chose him all the plain of Jordan; and Lot
+  journeyed east: and they separated themselves the one from the other. </p>
+id: GEN/13/11
+next:
+  id: GEN/13/12
+  number: '12'
+previous:
+  id: GEN/13/10
+  number: '10'
+reference: 'Genesis 13:11'

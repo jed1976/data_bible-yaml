@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 29:6" class="v">6</span>When
+  I washed my steps with butter, and the rock poured me out rivers of oil;</p>
+id: JOB/29/6
+next:
+  id: JOB/29/7
+  number: '7'
+previous:
+  id: JOB/29/5
+  number: '5'
+reference: 'Job 29:6'

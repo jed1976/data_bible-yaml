@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 22:10" class="v">10</span>If
+  a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast,
+  to keep; and it die, or be hurt, or driven away, no man seeing <span
+  class="add">it:</span> </p>
+id: EXO/22/10
+next:
+  id: EXO/22/11
+  number: '11'
+previous:
+  id: EXO/22/9
+  number: '9'
+reference: 'Exodus 22:10'

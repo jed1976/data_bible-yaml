@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 26:20"
+  class="v">20</span>And your strength shall be spent in vain: for your land
+  shall not yield her increase, neither shall the trees of the land yield their
+  fruits.</p>
+id: LEV/26/20
+next:
+  id: LEV/26/21
+  number: '21'
+previous:
+  id: LEV/26/19
+  number: '19'
+reference: 'Leviticus 26:20'

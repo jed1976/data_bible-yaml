@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 38:13"
+  class="v">13</span>And it was told Tamar, saying, Behold thy father in law
+  goeth up to Timnath to shear his sheep. </p>
+id: GEN/38/13
+next:
+  id: GEN/38/14
+  number: '14'
+previous:
+  id: GEN/38/12
+  number: '12'
+reference: 'Genesis 38:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CO 13:9" class="v">9</span>For
+  we are glad, when we are weak, and ye are strong: and this also we wish, <span
+  class="add">even</span> your perfection. </p>
+id: 2CO/13/9
+next:
+  id: 2CO/13/10
+  number: '10'
+previous:
+  id: 2CO/13/8
+  number: '8'
+reference: '2 Corinthians 13:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 8:18" class="v">18</span>¶
+  <span class="add">When</span> I would comfort myself against sorrow, my heart
+  <span class="add">is</span> faint in me. </p>
+id: JER/8/18
+next:
+  id: JER/8/19
+  number: '19'
+previous:
+  id: JER/8/17
+  number: '17'
+reference: 'Jeremiah 8:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1SA 25:10" class="v">10</span>¶
+  And Nabal answered David’s servants, and said, Who <span class="add">is</span>
+  David? and who <span class="add">is</span> the son of Jesse? there be many
+  servants now a days that break away every man from his master. </p>
+id: 1SA/25/10
+next:
+  id: 1SA/25/11
+  number: '11'
+previous:
+  id: 1SA/25/9
+  number: '9'
+reference: '1 Samuel 25:10'

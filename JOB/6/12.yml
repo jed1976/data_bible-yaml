@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 6:12"
+  class="v">12</span><span class="add">Is</span> my strength the strength of
+  stones? or <span class="add">is</span> my flesh of brass? </p>
+id: JOB/6/12
+next:
+  id: JOB/6/13
+  number: '13'
+previous:
+  id: JOB/6/11
+  number: '11'
+reference: 'Job 6:12'

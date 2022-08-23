@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 15:3" class="v">3</span>The
+  eyes of the <span class="nd">LORD</span> <span class="add">are</span> in every
+  place, beholding the evil and the good. </p>
+id: PRO/15/3
+next:
+  id: PRO/15/4
+  number: '4'
+previous:
+  id: PRO/15/2
+  number: '2'
+reference: 'Proverbs 15:3'

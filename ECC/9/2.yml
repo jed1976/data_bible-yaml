@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ECC 9:2" class="v">2</span>All
+  <span class="add">things come</span> alike to all: <span class="add">there
+  is</span> one event to the righteous, and to the wicked; to the good and to
+  the clean, and to the unclean; to him that sacrificeth, and to him that
+  sacrificeth not: as <span class="add">is</span> the good, so <span
+  class="add">is</span> the sinner; <span class="add">and</span> he that
+  sweareth, as <span class="add">he</span> that feareth an oath. </p>
+id: ECC/9/2
+next:
+  id: ECC/9/3
+  number: '3'
+previous:
+  id: ECC/9/1
+  number: '1'
+reference: 'Ecclesiastes 9:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 26:21"
+  class="v">21</span>And they digged another well, and strove for that also: and
+  he called the name of it Sitnah. </p>
+id: GEN/26/21
+next:
+  id: GEN/26/22
+  number: '22'
+previous:
+  id: GEN/26/20
+  number: '20'
+reference: 'Genesis 26:21'

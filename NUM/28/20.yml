@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 28:20"
+  class="v">20</span>And their meat offering <span class="add">shall be
+  of</span> flour mingled with oil: three tenth deals shall ye offer for a
+  bullock, and two tenth deals for a ram; </p>
+id: NUM/28/20
+next:
+  id: NUM/28/21
+  number: '21'
+previous:
+  id: NUM/28/19
+  number: '19'
+reference: 'Numbers 28:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="DEU 4:35"
+  class="v">35</span>Unto thee it was shewed, that thou mightest know that the
+  <span class="nd">LORD</span> he <span class="add">is</span> God; <span
+  class="add">there is</span> none else beside him. </p>
+id: DEU/4/35
+next:
+  id: DEU/4/36
+  number: '36'
+previous:
+  id: DEU/4/34
+  number: '34'
+reference: 'Deuteronomy 4:35'

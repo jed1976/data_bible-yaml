@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 18:16"
+  class="v">16</span>And the six hundred men appointed with their weapons of
+  war, which <span class="add">were</span> of the children of Dan, stood by the
+  entering of the gate. </p>
+id: JDG/18/16
+next:
+  id: JDG/18/17
+  number: '17'
+previous:
+  id: JDG/18/15
+  number: '15'
+reference: 'Judges 18:16'

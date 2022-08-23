@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 25:45"
+  class="v">45</span><span class="wj">Then shall he answer them, saying, Verily
+  I say unto you, Inasmuch as ye did <span class="add">it</span> not to one of
+  the least of these, ye did <span class="add">it</span> not to me.</span> </p>
+id: MAT/25/45
+next:
+  id: MAT/25/46
+  number: '46'
+previous:
+  id: MAT/25/44
+  number: '44'
+reference: 'Matthew 25:45'

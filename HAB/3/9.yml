@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HAB 3:9" class="v">9</span>Thy
+  bow was made quite naked, <span class="add">according</span> to the oaths of
+  the tribes, <span class="add">even thy</span> word. Selah. Thou didst cleave
+  the earth with rivers. </p>
+id: HAB/3/9
+next:
+  id: HAB/3/10
+  number: '10'
+previous:
+  id: HAB/3/8
+  number: '8'
+reference: 'Habakkuk 3:9'

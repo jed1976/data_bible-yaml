@@ -1,0 +1,14 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 19:7"
+  class="v">7</span>The law of the <span class="nd">LORD</span> <span
+  class="add">is</span> perfect, converting the soul: the testimony of the <span
+  class="nd">LORD</span> <span class="add">is</span> sure, making wise the
+  simple.</p>
+id: PSA/19/7
+next:
+  id: PSA/19/8
+  number: '8'
+previous:
+  id: PSA/19/6
+  number: '6'
+reference: 'Psalms 19:7'

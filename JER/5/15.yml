@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 5:15" class="v">15</span>Lo,
+  I will bring a nation upon you from far, O house of Israel, saith the <span
+  class="nd">LORD</span>: it <span class="add">is</span> a mighty nation, it
+  <span class="add">is</span> an ancient nation, a nation whose language thou
+  knowest not, neither understandest what they say. </p>
+id: JER/5/15
+next:
+  id: JER/5/16
+  number: '16'
+previous:
+  id: JER/5/14
+  number: '14'
+reference: 'Jeremiah 5:15'

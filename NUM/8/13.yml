@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 8:13" class="v">13</span>And
+  thou shalt set the Levites before Aaron, and before his sons, and offer them
+  <span class="add">for</span> an offering unto the <span
+  class="nd">LORD</span>. </p>
+id: NUM/8/13
+next:
+  id: NUM/8/14
+  number: '14'
+previous:
+  id: NUM/8/12
+  number: '12'
+reference: 'Numbers 8:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JDG 20:8" class="v">8</span>¶ And
+  all the people arose as one man, saying, We will not any <span class="add">of
+  us</span> go to his tent, neither will we any <span class="add">of us</span>
+  turn into his house. </p>
+id: JDG/20/8
+next:
+  id: JDG/20/9
+  number: '9'
+previous:
+  id: JDG/20/7
+  number: '7'
+reference: 'Judges 20:8'

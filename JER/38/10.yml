@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 38:10"
+  class="v">10</span>Then the king commanded Ebed-melech the Ethiopian, saying,
+  Take from hence thirty men with thee, and take up Jeremiah the prophet out of
+  the dungeon, before he die. </p>
+id: JER/38/10
+next:
+  id: JER/38/11
+  number: '11'
+previous:
+  id: JER/38/9
+  number: '9'
+reference: 'Jeremiah 38:10'

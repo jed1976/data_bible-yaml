@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 7:42" class="v">42</span>¶
+  On the sixth day Eliasaph the son of Deuel, prince of the children of Gad,
+  <span class="add">offered:</span> </p>
+id: NUM/7/42
+next:
+  id: NUM/7/43
+  number: '43'
+previous:
+  id: NUM/7/41
+  number: '41'
+reference: 'Numbers 7:42'

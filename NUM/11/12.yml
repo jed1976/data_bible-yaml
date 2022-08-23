@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 11:12"
+  class="v">12</span>Have I conceived all this people? have I begotten them,
+  that thou shouldest say unto me, Carry them in thy bosom, as a nursing father
+  beareth the sucking child, unto the land which thou swarest unto their
+  fathers? </p>
+id: NUM/11/12
+next:
+  id: NUM/11/13
+  number: '13'
+previous:
+  id: NUM/11/11
+  number: '11'
+reference: 'Numbers 11:12'

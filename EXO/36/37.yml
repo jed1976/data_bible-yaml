@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="EXO 36:37" class="v">37</span>¶
+  And he made an hanging for the tabernacle door <span class="add">of</span>
+  blue, and purple, and scarlet, and fine twined linen, of needlework; </p>
+id: EXO/36/37
+next:
+  id: EXO/36/38
+  number: '38'
+previous:
+  id: EXO/36/36
+  number: '36'
+reference: 'Exodus 36:37'

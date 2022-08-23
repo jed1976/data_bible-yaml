@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 24:8" class="v">8</span><span
+  class="wj">All these <span class="add">are</span> the beginning of
+  sorrows.</span> </p>
+id: MAT/24/8
+next:
+  id: MAT/24/9
+  number: '9'
+previous:
+  id: MAT/24/7
+  number: '7'
+reference: 'Matthew 24:8'

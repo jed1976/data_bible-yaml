@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 10:20"
+  class="v">20</span>This <span class="add">is</span> the living creature that I
+  saw under the God of Israel by the river of Chebar; and I knew that they <span
+  class="add">were</span> the cherubims. </p>
+id: EZK/10/20
+next:
+  id: EZK/10/21
+  number: '21'
+previous:
+  id: EZK/10/19
+  number: '19'
+reference: 'Ezekiel 10:20'

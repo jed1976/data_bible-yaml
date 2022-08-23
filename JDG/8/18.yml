@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 8:18" class="v">18</span>¶
+  Then said he unto Zebah and Zalmunna, What manner of men <span
+  class="add">were they</span> whom ye slew at Tabor? And they answered, As thou
+  <span class="add">art</span>, so <span class="add">were</span> they; each one
+  resembled the children of a king. </p>
+id: JDG/8/18
+next:
+  id: JDG/8/19
+  number: '19'
+previous:
+  id: JDG/8/17
+  number: '17'
+reference: 'Judges 8:18'

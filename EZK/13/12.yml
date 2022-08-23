@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 13:12"
+  class="v">12</span>Lo, when the wall is fallen, shall it not be said unto you,
+  Where <span class="add">is</span> the daubing wherewith ye have daubed <span
+  class="add">it</span>? </p>
+id: EZK/13/12
+next:
+  id: EZK/13/13
+  number: '13'
+previous:
+  id: EZK/13/11
+  number: '11'
+reference: 'Ezekiel 13:12'

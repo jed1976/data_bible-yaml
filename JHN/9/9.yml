@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 9:9" class="v">9</span>Some
+  said, This is he: others <span class="add">said</span>, He is like him: <span
+  class="add">but</span> he said, I am <span class="add">he</span>. </p>
+id: JHN/9/9
+next:
+  id: JHN/9/10
+  number: '10'
+previous:
+  id: JHN/9/8
+  number: '8'
+reference: 'John 9:9'

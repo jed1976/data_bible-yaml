@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 29:16" class="v">16</span>I
+  <span class="add">was</span> a father to the poor: and the cause <span
+  class="add">which</span> I knew not I searched out. </p>
+id: JOB/29/16
+next:
+  id: JOB/29/17
+  number: '17'
+previous:
+  id: JOB/29/15
+  number: '15'
+reference: 'Job 29:16'

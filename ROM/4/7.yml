@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 4:7" class="v">7</span><span
+  class="add">Saying</span>, Blessed <span class="add">are</span> they whose
+  iniquities are forgiven, and whose sins are covered. </p>
+id: ROM/4/7
+next:
+  id: ROM/4/8
+  number: '8'
+previous:
+  id: ROM/4/6
+  number: '6'
+reference: 'Romans 4:7'

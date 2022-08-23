@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 32:13"
+  class="v">13</span>Upon the land of my people shall come up thorns <span
+  class="add">and</span> briers; yea, upon all the houses of joy <span
+  class="add">in</span> the joyous city: </p>
+id: ISA/32/13
+next:
+  id: ISA/32/14
+  number: '14'
+previous:
+  id: ISA/32/12
+  number: '12'
+reference: 'Isaiah 32:13'

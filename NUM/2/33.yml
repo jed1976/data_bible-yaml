@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 2:33" class="v">33</span>But
+  the Levites were not numbered among the children of Israel; as the <span
+  class="nd">LORD</span> commanded Moses. </p>
+id: NUM/2/33
+next:
+  id: NUM/2/34
+  number: '34'
+previous:
+  id: NUM/2/32
+  number: '32'
+reference: 'Numbers 2:33'

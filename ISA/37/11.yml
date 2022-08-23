@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 37:11"
+  class="v">11</span>Behold, thou hast heard what the kings of Assyria have done
+  to all lands by destroying them utterly; and shalt thou be delivered? </p>
+id: ISA/37/11
+next:
+  id: ISA/37/12
+  number: '12'
+previous:
+  id: ISA/37/10
+  number: '10'
+reference: 'Isaiah 37:11'

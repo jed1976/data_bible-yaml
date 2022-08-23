@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 14:22"
+  class="v">22</span><span class="wj">And the servant said, Lord, it is done as
+  thou hast commanded, and yet there is room.</span> </p>
+id: LUK/14/22
+next:
+  id: LUK/14/23
+  number: '23'
+previous:
+  id: LUK/14/21
+  number: '21'
+reference: 'Luke 14:22'

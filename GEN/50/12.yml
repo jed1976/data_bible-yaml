@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 50:12"
+  class="v">12</span>And his sons did unto him according as he commanded them:
+  </p>
+id: GEN/50/12
+next:
+  id: GEN/50/13
+  number: '13'
+previous:
+  id: GEN/50/11
+  number: '11'
+reference: 'Genesis 50:12'

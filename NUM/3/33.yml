@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 3:33" class="v">33</span>¶
+  Of Merari <span class="add">was</span> the family of the Mahlites, and the
+  family of the Mushites: these <span class="add">are</span> the families of
+  Merari. </p>
+id: NUM/3/33
+next:
+  id: NUM/3/34
+  number: '34'
+previous:
+  id: NUM/3/32
+  number: '32'
+reference: 'Numbers 3:33'

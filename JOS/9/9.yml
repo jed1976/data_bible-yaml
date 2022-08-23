@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 9:9" class="v">9</span>And
+  they said unto him, From a very far country thy servants are come because of
+  the name of the <span class="nd">LORD</span> thy God: for we have heard the
+  fame of him, and all that he did in Egypt, </p>
+id: JOS/9/9
+next:
+  id: JOS/9/10
+  number: '10'
+previous:
+  id: JOS/9/8
+  number: '8'
+reference: 'Joshua 9:9'

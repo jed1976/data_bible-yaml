@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 24:10" class="v">10</span>It
+  was Mary Magdalene, and Joanna, and Mary <span class="add">the mother</span>
+  of James, and other <span class="add">women that were</span> with them, which
+  told these things unto the apostles. </p>
+id: LUK/24/10
+next:
+  id: LUK/24/11
+  number: '11'
+previous:
+  id: LUK/24/9
+  number: '9'
+reference: 'Luke 24:10'

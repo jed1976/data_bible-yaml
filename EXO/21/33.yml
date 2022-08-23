@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 21:33" class="v">33</span>¶
+  And if a man shall open a pit, or if a man shall dig a pit, and not cover it,
+  and an ox or an ass fall therein; </p>
+id: EXO/21/33
+next:
+  id: EXO/21/34
+  number: '34'
+previous:
+  id: EXO/21/32
+  number: '32'
+reference: 'Exodus 21:33'

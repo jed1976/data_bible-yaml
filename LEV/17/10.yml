@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 17:10" class="v">10</span>¶
+  And whatsoever man <span class="add">there be</span> of the house of Israel,
+  or of the strangers that sojourn among you, that eateth any manner of blood; I
+  will even set my face against that soul that eateth blood, and will cut him
+  off from among his people. </p>
+id: LEV/17/10
+next:
+  id: LEV/17/11
+  number: '11'
+previous:
+  id: LEV/17/9
+  number: '9'
+reference: 'Leviticus 17:10'

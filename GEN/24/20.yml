@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 24:20"
+  class="v">20</span>And she hasted, and emptied her pitcher into the trough,
+  and ran again unto the well to draw <span class="add">water</span>, and drew
+  for all his camels. </p>
+id: GEN/24/20
+next:
+  id: GEN/24/21
+  number: '21'
+previous:
+  id: GEN/24/19
+  number: '19'
+reference: 'Genesis 24:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ISA 14:29" class="v">29</span>¶
+  Rejoice not thou, whole Palestina, because the rod of him that smote thee is
+  broken: for out of the serpent’s root shall come forth a cockatrice, and his
+  fruit <span class="add">shall be</span> a fiery flying serpent. </p>
+id: ISA/14/29
+next:
+  id: ISA/14/30
+  number: '30'
+previous:
+  id: ISA/14/28
+  number: '28'
+reference: 'Isaiah 14:29'

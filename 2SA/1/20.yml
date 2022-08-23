@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 1:20"
+  class="v">20</span>Tell <span class="add">it</span> not in Gath, publish <span
+  class="add">it</span> not in the streets of Askelon; lest the daughters of the
+  Philistines rejoice, lest the daughters of the uncircumcised triumph. </p>
+id: 2SA/1/20
+next:
+  id: 2SA/1/21
+  number: '21'
+previous:
+  id: 2SA/1/19
+  number: '19'
+reference: '2 Samuel 1:20'

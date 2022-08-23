@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 11:5" class="v">5</span>The
+  <span class="nd">LORD</span> trieth the righteous: but the wicked and him that
+  loveth violence his soul hateth.</p>
+id: PSA/11/5
+next:
+  id: PSA/11/6
+  number: '6'
+previous:
+  id: PSA/11/4
+  number: '4'
+reference: 'Psalms 11:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 15:23"
+  class="v">23</span><span class="add">Even</span> all that the <span
+  class="nd">LORD</span> hath commanded you by the hand of Moses, from the day
+  that the <span class="nd">LORD</span> commanded <span
+  class="add">Moses</span>, and henceforward among your generations; </p>
+id: NUM/15/23
+next:
+  id: NUM/15/24
+  number: '24'
+previous:
+  id: NUM/15/22
+  number: '22'
+reference: 'Numbers 15:23'

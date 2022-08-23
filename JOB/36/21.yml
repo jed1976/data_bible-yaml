@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 36:21"
+  class="v">21</span>Take heed, regard not iniquity: for this hast thou chosen
+  rather than affliction. </p>
+id: JOB/36/21
+next:
+  id: JOB/36/22
+  number: '22'
+previous:
+  id: JOB/36/20
+  number: '20'
+reference: 'Job 36:21'

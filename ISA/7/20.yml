@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 7:20" class="v">20</span>In
+  the same day shall the Lord shave with a razor that is hired, <span
+  class="add">namely</span>, by them beyond the river, by the king of Assyria,
+  the head, and the hair of the feet: and it shall also consume the beard. </p>
+id: ISA/7/20
+next:
+  id: ISA/7/21
+  number: '21'
+previous:
+  id: ISA/7/19
+  number: '19'
+reference: 'Isaiah 7:20'

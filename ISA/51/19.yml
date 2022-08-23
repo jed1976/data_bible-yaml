@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 51:19"
+  class="v">19</span>These two <span class="add">things</span> are come unto
+  thee; who shall be sorry for thee? desolation, and destruction, and the
+  famine, and the sword: by whom shall I comfort thee? </p>
+id: ISA/51/19
+next:
+  id: ISA/51/20
+  number: '20'
+previous:
+  id: ISA/51/18
+  number: '18'
+reference: 'Isaiah 51:19'

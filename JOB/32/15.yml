@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 32:15"
+  class="v">15</span>They were amazed, they answered no more: they left off
+  speaking. </p>
+id: JOB/32/15
+next:
+  id: JOB/32/16
+  number: '16'
+previous:
+  id: JOB/32/14
+  number: '14'
+reference: 'Job 32:15'

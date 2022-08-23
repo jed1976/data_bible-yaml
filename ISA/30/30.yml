@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 30:30"
+  class="v">30</span>And the <span class="nd">LORD</span> shall cause his
+  glorious voice to be heard, and shall shew the lighting down of his arm, with
+  the indignation of <span class="add">his</span> anger, and <span
+  class="add">with</span> the flame of a devouring fire, <span
+  class="add">with</span> scattering, and tempest, and hailstones. </p>
+id: ISA/30/30
+next:
+  id: ISA/30/31
+  number: '31'
+previous:
+  id: ISA/30/29
+  number: '29'
+reference: 'Isaiah 30:30'

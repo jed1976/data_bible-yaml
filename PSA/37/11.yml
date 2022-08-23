@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 37:11"
+  class="v">11</span>But the meek shall inherit the earth; and shall delight
+  themselves in the abundance of peace.</p>
+id: PSA/37/11
+next:
+  id: PSA/37/12
+  number: '12'
+previous:
+  id: PSA/37/10
+  number: '10'
+reference: 'Psalms 37:11'

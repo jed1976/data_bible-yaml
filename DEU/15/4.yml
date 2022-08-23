@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 15:4" class="v">4</span>Save
+  when there shall be no poor among you; for the <span class="nd">LORD</span>
+  shall greatly bless thee in the land which the <span class="nd">LORD</span>
+  thy God giveth thee <span class="add">for</span> an inheritance to possess it:
+  </p>
+id: DEU/15/4
+next:
+  id: DEU/15/5
+  number: '5'
+previous:
+  id: DEU/15/3
+  number: '3'
+reference: 'Deuteronomy 15:4'

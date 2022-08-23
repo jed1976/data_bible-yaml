@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 2:24" class="v">24</span>¶
+  Rise ye up, take your journey, and pass over the river Arnon: behold, I have
+  given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin
+  to possess <span class="add">it</span>, and contend with him in battle. </p>
+id: DEU/2/24
+next:
+  id: DEU/2/25
+  number: '25'
+previous:
+  id: DEU/2/23
+  number: '23'
+reference: 'Deuteronomy 2:24'

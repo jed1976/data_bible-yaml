@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 42:4" class="v">4</span>But
+  Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said,
+  Lest peradventure mischief befall him. </p>
+id: GEN/42/4
+next:
+  id: GEN/42/5
+  number: '5'
+previous:
+  id: GEN/42/3
+  number: '3'
+reference: 'Genesis 42:4'

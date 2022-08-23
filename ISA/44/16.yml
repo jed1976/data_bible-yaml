@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 44:16" class="v">16</span>He
+  burneth part thereof in the fire; with part thereof he eateth flesh; he
+  roasteth roast, and is satisfied: yea, he warmeth <span
+  class="add">himself</span>, and saith, Aha, I am warm, I have seen the fire:
+  </p>
+id: ISA/44/16
+next:
+  id: ISA/44/17
+  number: '17'
+previous:
+  id: ISA/44/15
+  number: '15'
+reference: 'Isaiah 44:16'

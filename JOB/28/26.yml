@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 28:26"
+  class="v">26</span>When he made a decree for the rain, and a way for the
+  lightning of the thunder: </p>
+id: JOB/28/26
+next:
+  id: JOB/28/27
+  number: '27'
+previous:
+  id: JOB/28/25
+  number: '25'
+reference: 'Job 28:26'

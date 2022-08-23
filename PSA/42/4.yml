@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 42:4" class="v">4</span>When
+  I remember these <span class="add">things</span>, I pour out my soul in me:
+  for I had gone with the multitude, I went with them to the house of God, with
+  the voice of joy and praise, with a multitude that kept holyday.</p>
+id: PSA/42/4
+next:
+  id: PSA/42/5
+  number: '5'
+previous:
+  id: PSA/42/3
+  number: '3'
+reference: 'Psalms 42:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 9:22"
+  class="v">22</span>Moreover thou gavest them kingdoms and nations, and didst
+  divide them into corners: so they possessed the land of Sihon, and the land of
+  the king of Heshbon, and the land of Og king of Bashan. </p>
+id: NEH/9/22
+next:
+  id: NEH/9/23
+  number: '23'
+previous:
+  id: NEH/9/21
+  number: '21'
+reference: 'Nehemiah 9:22'

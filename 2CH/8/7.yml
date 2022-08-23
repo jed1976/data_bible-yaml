@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 8:7" class="v">7</span>¶
+  <span class="add">As for</span> all the people <span class="add">that
+  were</span> left of the Hittites, and the Amorites, and the Perizzites, and
+  the Hivites, and the Jebusites, which <span class="add">were</span> not of
+  Israel, </p>
+id: 2CH/8/7
+next:
+  id: 2CH/8/8
+  number: '8'
+previous:
+  id: 2CH/8/6
+  number: '6'
+reference: '2 Chronicles 8:7'

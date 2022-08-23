@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 6:7" class="v">7</span>Which
+  having no guide, overseer, or ruler, </p>
+id: PRO/6/7
+next:
+  id: PRO/6/8
+  number: '8'
+previous:
+  id: PRO/6/6
+  number: '6'
+reference: 'Proverbs 6:7'

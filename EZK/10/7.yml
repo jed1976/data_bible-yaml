@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 10:7" class="v">7</span>And
+  <span class="add">one</span> cherub stretched forth his hand from between the
+  cherubims unto the fire that <span class="add">was</span> between the
+  cherubims, and took <span class="add">thereof</span>, and put <span
+  class="add">it</span> into the hands of <span class="add">him that was</span>
+  clothed with linen: who took <span class="add">it</span>, and went out.</p>
+id: EZK/10/7
+next:
+  id: EZK/10/8
+  number: '8'
+previous:
+  id: EZK/10/6
+  number: '6'
+reference: 'Ezekiel 10:7'

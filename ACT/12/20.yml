@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 12:20" class="v">20</span>¶
+  And Herod was highly displeased with them of Tyre and Sidon: but they came
+  with one accord to him, and, having made Blastus the king’s chamberlain their
+  friend, desired peace; because their country was nourished by the king’s <span
+  class="add">country</span>. </p>
+id: ACT/12/20
+next:
+  id: ACT/12/21
+  number: '21'
+previous:
+  id: ACT/12/19
+  number: '19'
+reference: 'Acts 12:20'

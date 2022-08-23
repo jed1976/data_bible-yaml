@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2SA 22:32"
+  class="v">32</span>For who <span class="add">is</span> God, save the <span
+  class="nd">LORD</span>? and who <span class="add">is</span> a rock, save our
+  God? </p>
+id: 2SA/22/32
+next:
+  id: 2SA/22/33
+  number: '33'
+previous:
+  id: 2SA/22/31
+  number: '31'
+reference: '2 Samuel 22:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 24:21"
+  class="v">21</span>And the people said unto Joshua, Nay; but we will serve the
+  <span class="nd">LORD</span>. </p>
+id: JOS/24/21
+next:
+  id: JOS/24/22
+  number: '22'
+previous:
+  id: JOS/24/20
+  number: '20'
+reference: 'Joshua 24:21'

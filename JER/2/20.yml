@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 2:20" class="v">20</span>¶
+  For of old time I have broken thy yoke, <span class="add">and</span> burst thy
+  bands; and thou saidst, I will not transgress; when upon every high hill and
+  under every green tree thou wanderest, playing the harlot. </p>
+id: JER/2/20
+next:
+  id: JER/2/21
+  number: '21'
+previous:
+  id: JER/2/19
+  number: '19'
+reference: 'Jeremiah 2:20'

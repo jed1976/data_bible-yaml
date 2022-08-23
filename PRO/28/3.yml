@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 28:3" class="v">3</span>A
+  poor man that oppresseth the poor <span class="add">is like</span> a sweeping
+  rain which leaveth no food. </p>
+id: PRO/28/3
+next:
+  id: PRO/28/4
+  number: '4'
+previous:
+  id: PRO/28/2
+  number: '2'
+reference: 'Proverbs 28:3'

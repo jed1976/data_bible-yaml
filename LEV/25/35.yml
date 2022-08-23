@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LEV 25:35" class="v">35</span>¶
+  And if thy brother be waxen poor, and fallen in decay with thee; then thou
+  shalt relieve him: <span class="add">yea, though he be</span> a stranger, or a
+  sojourner; that he may live with thee. </p>
+id: LEV/25/35
+next:
+  id: LEV/25/36
+  number: '36'
+previous:
+  id: LEV/25/34
+  number: '34'
+reference: 'Leviticus 25:35'

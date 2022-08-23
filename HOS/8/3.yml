@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 8:3" class="v">3</span>Israel
+  hath cast off <span class="add">the thing that is</span> good: the enemy shall
+  pursue him. </p>
+id: HOS/8/3
+next:
+  id: HOS/8/4
+  number: '4'
+previous:
+  id: HOS/8/2
+  number: '2'
+reference: 'Hosea 8:3'

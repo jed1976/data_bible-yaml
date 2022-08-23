@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 6:20" class="v">20</span>And
+  it came to pass, when they were come into Samaria, that Elisha said, <span
+  class="nd">LORD</span>, open the eyes of these <span class="add">men</span>,
+  that they may see. And the <span class="nd">LORD</span> opened their eyes, and
+  they saw; and, behold, <span class="add">they were</span> in the midst of
+  Samaria. </p>
+id: 2KI/6/20
+next:
+  id: 2KI/6/21
+  number: '21'
+previous:
+  id: 2KI/6/19
+  number: '19'
+reference: '2 Kings 6:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 26:27"
+  class="v">27</span>Whoso diggeth a pit shall fall therein: and he that rolleth
+  a stone, it will return upon him. </p>
+id: PRO/26/27
+next:
+  id: PRO/26/28
+  number: '28'
+previous:
+  id: PRO/26/26
+  number: '26'
+reference: 'Proverbs 26:27'

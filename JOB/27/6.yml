@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 27:6" class="v">6</span>My
+  righteousness I hold fast, and will not let it go: my heart shall not reproach
+  <span class="add">me</span> so long as I live.</p>
+id: JOB/27/6
+next:
+  id: JOB/27/7
+  number: '7'
+previous:
+  id: JOB/27/5
+  number: '5'
+reference: 'Job 27:6'

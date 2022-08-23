@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 9:22" class="v">22</span>But
+  Saul increased the more in strength, and confounded the Jews which dwelt at
+  Damascus, proving that this is very Christ.</p>
+id: ACT/9/22
+next:
+  id: ACT/9/23
+  number: '23'
+previous:
+  id: ACT/9/21
+  number: '21'
+reference: 'Acts 9:22'

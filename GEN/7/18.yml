@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 7:18" class="v">18</span>And
+  the waters prevailed, and were increased greatly upon the earth; and the ark
+  went upon the face of the waters. </p>
+id: GEN/7/18
+next:
+  id: GEN/7/19
+  number: '19'
+previous:
+  id: GEN/7/17
+  number: '17'
+reference: 'Genesis 7:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 29:14"
+  class="v">14</span>And Laban said to him, Surely thou <span
+  class="add">art</span> my bone and my flesh. And he abode with him the space
+  of a month.</p>
+id: GEN/29/14
+next:
+  id: GEN/29/15
+  number: '15'
+previous:
+  id: GEN/29/13
+  number: '13'
+reference: 'Genesis 29:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="2SA 18:30"
+  class="v">30</span>And the king said <span class="add">unto him</span>, Turn
+  aside, <span class="add">and</span> stand here. And he turned aside, and stood
+  still. </p>
+id: 2SA/18/30
+next:
+  id: 2SA/18/31
+  number: '31'
+previous:
+  id: 2SA/18/29
+  number: '29'
+reference: '2 Samuel 18:30'

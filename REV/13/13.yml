@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 13:13"
+  class="v">13</span>And he doeth great wonders, so that he maketh fire come
+  down from heaven on the earth in the sight of men, </p>
+id: REV/13/13
+next:
+  id: REV/13/14
+  number: '14'
+previous:
+  id: REV/13/12
+  number: '12'
+reference: 'Revelation 13:13'

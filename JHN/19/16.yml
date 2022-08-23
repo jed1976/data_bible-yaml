@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 19:16"
+  class="v">16</span>Then delivered he him therefore unto them to be crucified.
+  And they took Jesus, and led <span class="add">him</span> away. </p>
+id: JHN/19/16
+next:
+  id: JHN/19/17
+  number: '17'
+previous:
+  id: JHN/19/15
+  number: '15'
+reference: 'John 19:16'

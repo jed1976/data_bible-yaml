@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 45:7" class="v">7</span>And
+  God sent me before you to preserve you a posterity in the earth, and to save
+  your lives by a great deliverance. </p>
+id: GEN/45/7
+next:
+  id: GEN/45/8
+  number: '8'
+previous:
+  id: GEN/45/6
+  number: '6'
+reference: 'Genesis 45:7'

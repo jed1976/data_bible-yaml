@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 38:6"
+  class="v">6</span>Whereupon are the foundations thereof fastened? or who laid
+  the corner stone thereof; </p>
+id: JOB/38/6
+next:
+  id: JOB/38/7
+  number: '7'
+previous:
+  id: JOB/38/5
+  number: '5'
+reference: 'Job 38:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="COL 4:6" class="v">6</span>Let
+  your speech <span class="add">be</span> alway with grace, seasoned with salt,
+  that ye may know how ye ought to answer every man.</p>
+id: COL/4/6
+next:
+  id: COL/4/7
+  number: '7'
+previous:
+  id: COL/4/5
+  number: '5'
+reference: 'Colossians 4:6'

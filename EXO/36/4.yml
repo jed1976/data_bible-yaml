@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 36:4" class="v">4</span>And
+  all the wise men, that wrought all the work of the sanctuary, came every man
+  from his work which they made;</p>
+id: EXO/36/4
+next:
+  id: EXO/36/5
+  number: '5'
+previous:
+  id: EXO/36/3
+  number: '3'
+reference: 'Exodus 36:4'

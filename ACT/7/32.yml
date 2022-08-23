@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 7:32"
+  class="v">32</span><span class="add">Saying</span>, I <span
+  class="add">am</span> the God of thy fathers, the God of Abraham, and the God
+  of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
+  </p>
+id: ACT/7/32
+next:
+  id: ACT/7/33
+  number: '33'
+previous:
+  id: ACT/7/31
+  number: '31'
+reference: 'Acts 7:32'

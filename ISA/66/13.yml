@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 66:13" class="v">13</span>As
+  one whom his mother comforteth, so will I comfort you; and ye shall be
+  comforted in Jerusalem. </p>
+id: ISA/66/13
+next:
+  id: ISA/66/14
+  number: '14'
+previous:
+  id: ISA/66/12
+  number: '12'
+reference: 'Isaiah 66:13'

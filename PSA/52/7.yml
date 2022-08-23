@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 52:7" class="v">7</span>Lo,
+  <span class="add">this is</span> the man <span class="add">that</span> made
+  not God his strength; but trusted in the abundance of his riches, <span
+  class="add">and</span> strengthened himself in his wickedness.</p>
+id: PSA/52/7
+next:
+  id: PSA/52/8
+  number: '8'
+previous:
+  id: PSA/52/6
+  number: '6'
+reference: 'Psalms 52:7'

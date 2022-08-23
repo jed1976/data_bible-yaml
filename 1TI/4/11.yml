@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1TI 4:11"
+  class="v">11</span>These things command and teach. </p>
+id: 1TI/4/11
+next:
+  id: 1TI/4/12
+  number: '12'
+previous:
+  id: 1TI/4/10
+  number: '10'
+reference: '1 Timothy 4:11'

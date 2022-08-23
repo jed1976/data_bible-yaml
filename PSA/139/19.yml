@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 139:19"
+  class="v">19</span>Surely thou wilt slay the wicked, O God: depart from me
+  therefore, ye bloody men.</p>
+id: PSA/139/19
+next:
+  id: PSA/139/20
+  number: '20'
+previous:
+  id: PSA/139/18
+  number: '18'
+reference: 'Psalms 139:19'

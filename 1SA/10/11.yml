@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1SA 10:11"
+  class="v">11</span>And it came to pass, when all that knew him beforetime saw
+  that, behold, he prophesied among the prophets, then the people said one to
+  another, What <span class="add">is</span> this <span class="add">that</span>
+  is come unto the son of Kish? <span class="add">Is</span> Saul also among the
+  prophets? </p>
+id: 1SA/10/11
+next:
+  id: 1SA/10/12
+  number: '12'
+previous:
+  id: 1SA/10/10
+  number: '10'
+reference: '1 Samuel 10:11'

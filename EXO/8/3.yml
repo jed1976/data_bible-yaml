@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 8:3" class="v">3</span>And
+  the river shall bring forth frogs abundantly, which shall go up and come into
+  thine house, and into thy bedchamber, and upon thy bed, and into the house of
+  thy servants, and upon thy people, and into thine ovens, and into thy
+  kneadingtroughs: </p>
+id: EXO/8/3
+next:
+  id: EXO/8/4
+  number: '4'
+previous:
+  id: EXO/8/2
+  number: '2'
+reference: 'Exodus 8:3'

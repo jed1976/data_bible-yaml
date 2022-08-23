@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 28:20" class="v">20</span>¶
+  Again the word of the <span class="nd">LORD</span> came unto me, saying, </p>
+id: EZK/28/20
+next:
+  id: EZK/28/21
+  number: '21'
+previous:
+  id: EZK/28/19
+  number: '19'
+reference: 'Ezekiel 28:20'

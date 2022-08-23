@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="TIT 1:1" class="v">1</span>Paul,
+  a servant of God, and an apostle of Jesus Christ, according to the faith of
+  God’s elect, and the acknowledging of the truth which is after godliness; </p>
+id: TIT/1/1
+next:
+  id: TIT/1/2
+  number: '2'
+previous:
+  id: TIT/intro/0
+  number: '0'
+reference: 'Titus 1:1'

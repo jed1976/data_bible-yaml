@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1SA 25:3" class="v">3</span>Now
+  the name of the man <span class="add">was</span> Nabal; and the name of his
+  wife Abigail: and <span class="add">she was</span> a woman of good
+  understanding, and of a beautiful countenance: but the man <span
+  class="add">was</span> churlish and evil in his doings; and he <span
+  class="add">was</span> of the house of Caleb.</p>
+id: 1SA/25/3
+next:
+  id: 1SA/25/4
+  number: '4'
+previous:
+  id: 1SA/25/2
+  number: '2'
+reference: '1 Samuel 25:3'

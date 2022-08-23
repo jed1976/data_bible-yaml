@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 24:3" class="v">3</span>And
+  <span class="add">if</span> the latter husband hate her, and write her a bill
+  of divorcement, and giveth <span class="add">it</span> in her hand, and
+  sendeth her out of his house; or if the latter husband die, which took her
+  <span class="add">to be</span> his wife; </p>
+id: DEU/24/3
+next:
+  id: DEU/24/4
+  number: '4'
+previous:
+  id: DEU/24/2
+  number: '2'
+reference: 'Deuteronomy 24:3'

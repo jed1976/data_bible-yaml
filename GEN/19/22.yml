@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 19:22"
+  class="v">22</span>Haste thee, escape thither; for I cannot do any thing till
+  thou be come thither. Therefore the name of the city was called Zoar.</p>
+id: GEN/19/22
+next:
+  id: GEN/19/23
+  number: '23'
+previous:
+  id: GEN/19/21
+  number: '21'
+reference: 'Genesis 19:22'

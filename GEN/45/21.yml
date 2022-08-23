@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 45:21"
+  class="v">21</span>And the children of Israel did so: and Joseph gave them
+  wagons, according to the commandment of Pharaoh, and gave them provision for
+  the way. </p>
+id: GEN/45/21
+next:
+  id: GEN/45/22
+  number: '22'
+previous:
+  id: GEN/45/20
+  number: '20'
+reference: 'Genesis 45:21'

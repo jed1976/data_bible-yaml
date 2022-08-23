@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JUD 1:12"
+  class="v">12</span>These are spots in your feasts of charity, when they feast
+  with you, feeding themselves without fear: clouds <span class="add">they
+  are</span> without water, carried about of winds; trees whose fruit withereth,
+  without fruit, twice dead, plucked up by the roots; </p>
+id: JUD/1/12
+next:
+  id: JUD/1/13
+  number: '13'
+previous:
+  id: JUD/1/11
+  number: '11'
+reference: 'Jude 1:12'

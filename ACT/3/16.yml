@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 3:16" class="v">16</span>And
+  his name through faith in his name hath made this man strong, whom ye see and
+  know: yea, the faith which is by him hath given him this perfect soundness in
+  the presence of you all. </p>
+id: ACT/3/16
+next:
+  id: ACT/3/17
+  number: '17'
+previous:
+  id: ACT/3/15
+  number: '15'
+reference: 'Acts 3:16'

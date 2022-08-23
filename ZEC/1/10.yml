@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 1:10" class="v">10</span>And
+  the man that stood among the myrtle trees answered and said, These <span
+  class="add">are they</span> whom the <span class="nd">LORD</span> hath sent to
+  walk to and fro through the earth. </p>
+id: ZEC/1/10
+next:
+  id: ZEC/1/11
+  number: '11'
+previous:
+  id: ZEC/1/9
+  number: '9'
+reference: 'Zechariah 1:10'

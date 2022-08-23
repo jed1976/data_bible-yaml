@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2PE 2:17"
+  class="v">17</span>These are wells without water, clouds that are carried with
+  a tempest; to whom the mist of darkness is reserved for ever. </p>
+id: 2PE/2/17
+next:
+  id: 2PE/2/18
+  number: '18'
+previous:
+  id: 2PE/2/16
+  number: '16'
+reference: '2 Peter 2:17'

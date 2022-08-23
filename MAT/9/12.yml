@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 9:12" class="v">12</span>But
+  when Jesus heard <span class="add">that</span>, he said unto them, <span
+  class="wj">They that be whole need not a physician, but they that are
+  sick.</span> </p>
+id: MAT/9/12
+next:
+  id: MAT/9/13
+  number: '13'
+previous:
+  id: MAT/9/11
+  number: '11'
+reference: 'Matthew 9:12'

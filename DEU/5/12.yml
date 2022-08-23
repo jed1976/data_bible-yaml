@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 5:12"
+  class="v">12</span>Keep the sabbath day to sanctify it, as the <span
+  class="nd">LORD</span> thy God hath commanded thee. </p>
+id: DEU/5/12
+next:
+  id: DEU/5/13
+  number: '13'
+previous:
+  id: DEU/5/11
+  number: '11'
+reference: 'Deuteronomy 5:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 18:17"
+  class="v">17</span><span class="add">He that is</span> first in his own cause
+  <span class="add">seemeth</span> just; but his neighbour cometh and searcheth
+  him. </p>
+id: PRO/18/17
+next:
+  id: PRO/18/18
+  number: '18'
+previous:
+  id: PRO/18/16
+  number: '16'
+reference: 'Proverbs 18:17'

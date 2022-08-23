@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 12:16"
+  class="v">16</span>And in the first day <span class="add">there shall
+  be</span> an holy convocation, and in the seventh day there shall be an holy
+  convocation to you; no manner of work shall be done in them, save <span
+  class="add">that</span> which every man must eat, that only may be done of
+  you. </p>
+id: EXO/12/16
+next:
+  id: EXO/12/17
+  number: '17'
+previous:
+  id: EXO/12/15
+  number: '15'
+reference: 'Exodus 12:16'

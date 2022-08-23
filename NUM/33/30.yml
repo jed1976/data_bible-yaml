@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 33:30"
+  class="v">30</span>And they departed from Hashmonah, and encamped at Moseroth.
+  </p>
+id: NUM/33/30
+next:
+  id: NUM/33/31
+  number: '31'
+previous:
+  id: NUM/33/29
+  number: '29'
+reference: 'Numbers 33:30'

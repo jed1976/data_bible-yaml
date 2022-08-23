@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 27:19"
+  class="v">19</span>And Jacob said unto his father, I <span
+  class="add">am</span> Esau thy firstborn; I have done according as thou badest
+  me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
+  </p>
+id: GEN/27/19
+next:
+  id: GEN/27/20
+  number: '20'
+previous:
+  id: GEN/27/18
+  number: '18'
+reference: 'Genesis 27:19'

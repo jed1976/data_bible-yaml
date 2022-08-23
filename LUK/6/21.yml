@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 6:21"
+  class="v">21</span><span class="wj">Blessed <span class="add">are ye</span>
+  that hunger now: for ye shall be filled. Blessed <span class="add">are
+  ye</span> that weep now: for ye shall laugh.</span> </p>
+id: LUK/6/21
+next:
+  id: LUK/6/22
+  number: '22'
+previous:
+  id: LUK/6/20
+  number: '20'
+reference: 'Luke 6:21'

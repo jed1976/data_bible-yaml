@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 16:43"
+  class="v">43</span>And Moses and Aaron came before the tabernacle of the
+  congregation.</p>
+id: NUM/16/43
+next:
+  id: NUM/16/44
+  number: '44'
+previous:
+  id: NUM/16/42
+  number: '42'
+reference: 'Numbers 16:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 40:9" class="v">9</span>I
+  have preached righteousness in the great congregation: lo, I have not
+  refrained my lips, O <span class="nd">LORD</span>, thou knowest.</p>
+id: PSA/40/9
+next:
+  id: PSA/40/10
+  number: '10'
+previous:
+  id: PSA/40/8
+  number: '8'
+reference: 'Psalms 40:9'

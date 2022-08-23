@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 8:13" class="v">13</span>The
+  Pharisees therefore said unto him, Thou bearest record of thyself; thy record
+  is not true. </p>
+id: JHN/8/13
+next:
+  id: JHN/8/14
+  number: '14'
+previous:
+  id: JHN/8/12
+  number: '12'
+reference: 'John 8:13'

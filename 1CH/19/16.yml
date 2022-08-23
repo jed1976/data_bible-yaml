@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CH 19:16" class="v">16</span>¶
+  And when the Syrians saw that they were put to the worse before Israel, they
+  sent messengers, and drew forth the Syrians that <span class="add">were</span>
+  beyond the river: and Shophach the captain of the host of Hadarezer <span
+  class="add">went</span> before them. </p>
+id: 1CH/19/16
+next:
+  id: 1CH/19/17
+  number: '17'
+previous:
+  id: 1CH/19/15
+  number: '15'
+reference: '1 Chronicles 19:16'

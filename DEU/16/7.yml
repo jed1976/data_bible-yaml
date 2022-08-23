@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 16:7" class="v">7</span>And
+  thou shalt roast and eat <span class="add">it</span> in the place which the
+  <span class="nd">LORD</span> thy God shall choose: and thou shalt turn in the
+  morning, and go unto thy tents. </p>
+id: DEU/16/7
+next:
+  id: DEU/16/8
+  number: '8'
+previous:
+  id: DEU/16/6
+  number: '6'
+reference: 'Deuteronomy 16:7'

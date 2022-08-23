@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 78:35"
+  class="v">35</span>And they remembered that God <span class="add">was</span>
+  their rock, and the high God their redeemer.</p>
+id: PSA/78/35
+next:
+  id: PSA/78/36
+  number: '36'
+previous:
+  id: PSA/78/34
+  number: '34'
+reference: 'Psalms 78:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 63:6" class="v">6</span>And I
+  will tread down the people in mine anger, and make them drunk in my fury, and
+  I will bring down their strength to the earth.</p>
+id: ISA/63/6
+next:
+  id: ISA/63/7
+  number: '7'
+previous:
+  id: ISA/63/5
+  number: '5'
+reference: 'Isaiah 63:6'

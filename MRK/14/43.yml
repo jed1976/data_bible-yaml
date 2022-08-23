@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MRK 14:43" class="v">43</span>¶
+  And immediately, while he yet spake, cometh Judas, one of the twelve, and with
+  him a great multitude with swords and staves, from the chief priests and the
+  scribes and the elders. </p>
+id: MRK/14/43
+next:
+  id: MRK/14/44
+  number: '44'
+previous:
+  id: MRK/14/42
+  number: '42'
+reference: 'Mark 14:43'

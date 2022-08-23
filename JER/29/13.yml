@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 29:13"
+  class="v">13</span>And ye shall seek me, and find <span class="add">me</span>,
+  when ye shall search for me with all your heart. </p>
+id: JER/29/13
+next:
+  id: JER/29/14
+  number: '14'
+previous:
+  id: JER/29/12
+  number: '12'
+reference: 'Jeremiah 29:13'

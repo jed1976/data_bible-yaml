@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 4:3"
+  class="v">3</span>Therefore shall the land mourn, and every one that dwelleth
+  therein shall languish, with the beasts of the field, and with the fowls of
+  heaven; yea, the fishes of the sea also shall be taken away. </p>
+id: HOS/4/3
+next:
+  id: HOS/4/4
+  number: '4'
+previous:
+  id: HOS/4/2
+  number: '2'
+reference: 'Hosea 4:3'

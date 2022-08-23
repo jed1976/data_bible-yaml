@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HAB 2:1" class="v">1</span>I will
+  stand upon my watch, and set me upon the tower, and will watch to see what he
+  will say unto me, and what I shall answer when I am reproved. </p>
+id: HAB/2/1
+next:
+  id: HAB/2/2
+  number: '2'
+previous:
+  id: HAB/1/17
+  number: '17'
+reference: 'Habakkuk 2:1'

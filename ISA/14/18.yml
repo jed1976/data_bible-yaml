@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 14:18"
+  class="v">18</span>All the kings of the nations, <span class="add">even</span>
+  all of them, lie in glory, every one in his own house. </p>
+id: ISA/14/18
+next:
+  id: ISA/14/19
+  number: '19'
+previous:
+  id: ISA/14/17
+  number: '17'
+reference: 'Isaiah 14:18'

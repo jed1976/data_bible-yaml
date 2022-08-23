@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 3:4" class="v">4</span>For
+  while one saith, I am of Paul; and another, I <span class="add">am</span> of
+  Apollos; are ye not carnal? </p>
+id: 1CO/3/4
+next:
+  id: 1CO/3/5
+  number: '5'
+previous:
+  id: 1CO/3/3
+  number: '3'
+reference: '1 Corinthians 3:4'

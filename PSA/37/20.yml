@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 37:20"
+  class="v">20</span>But the wicked shall perish, and the enemies of the <span
+  class="nd">LORD</span> <span class="add">shall be</span> as the fat of lambs:
+  they shall consume; into smoke shall they consume away.</p>
+id: PSA/37/20
+next:
+  id: PSA/37/21
+  number: '21'
+previous:
+  id: PSA/37/19
+  number: '19'
+reference: 'Psalms 37:20'

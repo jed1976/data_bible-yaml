@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 44:12"
+  class="v">12</span>And he searched, <span class="add">and</span> began at the
+  eldest, and left at the youngest: and the cup was found in Benjamin’s sack.
+  </p>
+id: GEN/44/12
+next:
+  id: GEN/44/13
+  number: '13'
+previous:
+  id: GEN/44/11
+  number: '11'
+reference: 'Genesis 44:12'

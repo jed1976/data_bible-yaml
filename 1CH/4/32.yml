@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1CH 4:32" class="v">32</span>And
+  their villages <span class="add">were</span>, Etam, and Ain, Rimmon, and
+  Tochen, and Ashan, five cities: </p>
+id: 1CH/4/32
+next:
+  id: 1CH/4/33
+  number: '33'
+previous:
+  id: 1CH/4/31
+  number: '31'
+reference: '1 Chronicles 4:32'

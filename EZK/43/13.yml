@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 43:13" class="v">13</span>¶
+  And these <span class="add">are</span> the measures of the altar after the
+  cubits: The cubit <span class="add">is</span> a cubit and an hand breadth;
+  even the bottom <span class="add">shall be</span> a cubit, and the breadth a
+  cubit, and the border thereof by the edge thereof round about <span
+  class="add">shall be</span> a span: and this <span class="add">shall be</span>
+  the higher place of the altar. </p>
+id: EZK/43/13
+next:
+  id: EZK/43/14
+  number: '14'
+previous:
+  id: EZK/43/12
+  number: '12'
+reference: 'Ezekiel 43:13'

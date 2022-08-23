@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TI 6:1" class="v">1</span>Let as
+  many servants as are under the yoke count their own masters worthy of all
+  honour, that the name of God and <span class="add">his</span> doctrine be not
+  blasphemed. </p>
+id: 1TI/6/1
+next:
+  id: 1TI/6/2
+  number: '2'
+previous:
+  id: 1TI/5/25
+  number: '25'
+reference: '1 Timothy 6:1'

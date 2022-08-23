@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 2:34" class="v">34</span>And
+  Simeon blessed them, and said unto Mary his mother, Behold, this <span
+  class="add">child</span> is set for the fall and rising again of many in
+  Israel; and for a sign which shall be spoken against; </p>
+id: LUK/2/34
+next:
+  id: LUK/2/35
+  number: '35'
+previous:
+  id: LUK/2/33
+  number: '33'
+reference: 'Luke 2:34'

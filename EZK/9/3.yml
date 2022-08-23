@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 9:3" class="v">3</span>And
+  the glory of the God of Israel was gone up from the cherub, whereupon he was,
+  to the threshold of the house. And he called to the man clothed with linen,
+  which <span class="add">had</span> the writer’s inkhorn by his side; </p>
+id: EZK/9/3
+next:
+  id: EZK/9/4
+  number: '4'
+previous:
+  id: EZK/9/2
+  number: '2'
+reference: 'Ezekiel 9:3'

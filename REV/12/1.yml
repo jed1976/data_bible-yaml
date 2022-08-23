@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 12:1" class="v">1</span>And
+  there appeared a great wonder in heaven; a woman clothed with the sun, and the
+  moon under her feet, and upon her head a crown of twelve stars: </p>
+id: REV/12/1
+next:
+  id: REV/12/2
+  number: '2'
+previous:
+  id: REV/11/19
+  number: '19'
+reference: 'Revelation 12:1'

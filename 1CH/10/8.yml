@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 10:8" class="v">8</span>¶ And
+  it came to pass on the morrow, when the Philistines came to strip the slain,
+  that they found Saul and his sons fallen in mount Gilboa. </p>
+id: 1CH/10/8
+next:
+  id: 1CH/10/9
+  number: '9'
+previous:
+  id: 1CH/10/7
+  number: '7'
+reference: '1 Chronicles 10:8'

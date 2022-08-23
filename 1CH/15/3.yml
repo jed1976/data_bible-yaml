@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 15:3" class="v">3</span>And
+  David gathered all Israel together to Jerusalem, to bring up the ark of the
+  <span class="nd">LORD</span> unto his place, which he had prepared for it.
+  </p>
+id: 1CH/15/3
+next:
+  id: 1CH/15/4
+  number: '4'
+previous:
+  id: 1CH/15/2
+  number: '2'
+reference: '1 Chronicles 15:3'

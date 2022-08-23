@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 17:8" class="v">8</span>And
+  he shall not look to the altars, the work of his hands, neither shall respect
+  <span class="add">that</span> which his fingers have made, either the groves,
+  or the images.</p>
+id: ISA/17/8
+next:
+  id: ISA/17/9
+  number: '9'
+previous:
+  id: ISA/17/7
+  number: '7'
+reference: 'Isaiah 17:8'

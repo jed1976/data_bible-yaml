@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 12:3" class="v">3</span>But
+  he said unto them, <span class="wj">Have ye not read what David did, when he
+  was an hungred, and they that were with him;</span> </p>
+id: MAT/12/3
+next:
+  id: MAT/12/4
+  number: '4'
+previous:
+  id: MAT/12/2
+  number: '2'
+reference: 'Matthew 12:3'

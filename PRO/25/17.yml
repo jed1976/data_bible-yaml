@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 25:17"
+  class="v">17</span>Withdraw thy foot from thy neighbour’s house; lest he be
+  weary of thee, and <span class="add">so</span> hate thee. </p>
+id: PRO/25/17
+next:
+  id: PRO/25/18
+  number: '18'
+previous:
+  id: PRO/25/16
+  number: '16'
+reference: 'Proverbs 25:17'

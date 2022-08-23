@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 11:3" class="v">3</span>And
+  the <span class="nd">LORD</span> gave the people favour in the sight of the
+  Egyptians. Moreover the man Moses <span class="add">was</span> very great in
+  the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the
+  people.</p>
+id: EXO/11/3
+next:
+  id: EXO/11/4
+  number: '4'
+previous:
+  id: EXO/11/2
+  number: '2'
+reference: 'Exodus 11:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 25:25"
+  class="v">25</span>The eighteenth to Hanani, <span class="add">he</span>, his
+  sons, and his brethren, <span class="add">were</span> twelve: </p>
+id: 1CH/25/25
+next:
+  id: 1CH/25/26
+  number: '26'
+previous:
+  id: 1CH/25/24
+  number: '24'
+reference: '1 Chronicles 25:25'

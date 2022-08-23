@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 10:9" class="v">9</span>And I
+  will sow them among the people: and they shall remember me in far countries;
+  and they shall live with their children, and turn again. </p>
+id: ZEC/10/9
+next:
+  id: ZEC/10/10
+  number: '10'
+previous:
+  id: ZEC/10/8
+  number: '8'
+reference: 'Zechariah 10:9'

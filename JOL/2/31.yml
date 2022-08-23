@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOL 2:31" class="v">31</span>The
+  sun shall be turned into darkness, and the moon into blood, before the great
+  and the terrible day of the <span class="nd">LORD</span> come. </p>
+id: JOL/2/31
+next:
+  id: JOL/2/32
+  number: '32'
+previous:
+  id: JOL/2/30
+  number: '30'
+reference: 'Joel 2:31'

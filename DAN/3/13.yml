@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 3:13" class="v">13</span>¶
+  Then Nebuchadnezzar in <span class="add">his</span> rage and fury commanded to
+  bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the
+  king. </p>
+id: DAN/3/13
+next:
+  id: DAN/3/14
+  number: '14'
+previous:
+  id: DAN/3/12
+  number: '12'
+reference: 'Daniel 3:13'

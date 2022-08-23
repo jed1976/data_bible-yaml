@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 20:4" class="v">4</span>For
+  the <span class="nd">LORD</span> your God <span class="add">is</span> he that
+  goeth with you, to fight for you against your enemies, to save you.</p>
+id: DEU/20/4
+next:
+  id: DEU/20/5
+  number: '5'
+previous:
+  id: DEU/20/3
+  number: '3'
+reference: 'Deuteronomy 20:4'

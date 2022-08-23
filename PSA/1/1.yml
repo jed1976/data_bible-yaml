@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 1:1"
+  class="v">1</span>Blessed <span class="add">is</span> the man that walketh not
+  in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth
+  in the seat of the scornful.</p>
+id: PSA/1/1
+next:
+  id: PSA/1/2
+  number: '2'
+previous:
+  id: PSA/intro/0
+  number: '0'
+reference: 'Psalms 1:1'

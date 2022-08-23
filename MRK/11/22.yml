@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 11:22"
+  class="v">22</span>And Jesus answering saith unto them, <span class="wj">Have
+  faith in God.</span> </p>
+id: MRK/11/22
+next:
+  id: MRK/11/23
+  number: '23'
+previous:
+  id: MRK/11/21
+  number: '21'
+reference: 'Mark 11:22'

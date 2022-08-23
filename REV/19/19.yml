@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="REV 19:19"
+  class="v">19</span>And I saw the beast, and the kings of the earth, and their
+  armies, gathered together to make war against him that sat on the horse, and
+  against his army. </p>
+id: REV/19/19
+next:
+  id: REV/19/20
+  number: '20'
+previous:
+  id: REV/19/18
+  number: '18'
+reference: 'Revelation 19:19'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 12:17"
+  class="v">17</span>And ye shall observe <span class="add">the feast of</span>
+  unleavened bread; for in this selfsame day have I brought your armies out of
+  the land of Egypt: therefore shall ye observe this day in your generations by
+  an ordinance for ever.</p>
+id: EXO/12/17
+next:
+  id: EXO/12/18
+  number: '18'
+previous:
+  id: EXO/12/16
+  number: '16'
+reference: 'Exodus 12:17'

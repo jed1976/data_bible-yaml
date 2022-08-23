@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 11:10"
+  class="v">10</span><span class="wj">For every one that asketh receiveth; and
+  he that seeketh findeth; and to him that knocketh it shall be opened.</span>
+  </p>
+id: LUK/11/10
+next:
+  id: LUK/11/11
+  number: '11'
+previous:
+  id: LUK/11/9
+  number: '9'
+reference: 'Luke 11:10'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 9:11" class="v">11</span>And
+  they had a king over them, <span class="add">which is</span> the angel of the
+  bottomless pit, whose name in the Hebrew tongue <span class="add">is</span>
+  Abaddon, but in the Greek tongue hath <span class="add">his</span> name
+  Apollyon. </p>
+id: REV/9/11
+next:
+  id: REV/9/12
+  number: '12'
+previous:
+  id: REV/9/10
+  number: '10'
+reference: 'Revelation 9:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 74:6" class="v">6</span>But
+  now they break down the carved work thereof at once with axes and hammers.</p>
+id: PSA/74/6
+next:
+  id: PSA/74/7
+  number: '7'
+previous:
+  id: PSA/74/5
+  number: '5'
+reference: 'Psalms 74:6'

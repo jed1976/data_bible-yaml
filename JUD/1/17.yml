@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JUD 1:17"
+  class="v">17</span>But, beloved, remember ye the words which were spoken
+  before of the apostles of our Lord Jesus Christ; </p>
+id: JUD/1/17
+next:
+  id: JUD/1/18
+  number: '18'
+previous:
+  id: JUD/1/16
+  number: '16'
+reference: 'Jude 1:17'

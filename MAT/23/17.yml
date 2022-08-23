@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 23:17"
+  class="v">17</span><span class="wj"><span class="add">Ye</span> fools and
+  blind: for whether is greater, the gold, or the temple that sanctifieth the
+  gold?</span> </p>
+id: MAT/23/17
+next:
+  id: MAT/23/18
+  number: '18'
+previous:
+  id: MAT/23/16
+  number: '16'
+reference: 'Matthew 23:17'

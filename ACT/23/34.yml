@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 23:34"
+  class="v">34</span>And when the governor had read <span class="add">the
+  letter</span>, he asked of what province he was. And when he understood that
+  <span class="add">he was</span> of Cilicia; </p>
+id: ACT/23/34
+next:
+  id: ACT/23/35
+  number: '35'
+previous:
+  id: ACT/23/33
+  number: '33'
+reference: 'Acts 23:34'

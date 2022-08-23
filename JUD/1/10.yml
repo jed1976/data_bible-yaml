@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JUD 1:10" class="v">10</span>But
+  these speak evil of those things which they know not: but what they know
+  naturally, as brute beasts, in those things they corrupt themselves. </p>
+id: JUD/1/10
+next:
+  id: JUD/1/11
+  number: '11'
+previous:
+  id: JUD/1/9
+  number: '9'
+reference: 'Jude 1:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 1:16" class="v">16</span>Now
+  as he walked by the sea of Galilee, he saw Simon and Andrew his brother
+  casting a net into the sea: for they were fishers. </p>
+id: MRK/1/16
+next:
+  id: MRK/1/17
+  number: '17'
+previous:
+  id: MRK/1/15
+  number: '15'
+reference: 'Mark 1:16'

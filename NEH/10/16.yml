@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 10:16"
+  class="v">16</span>Adonijah, Bigvai, Adin, </p>
+id: NEH/10/16
+next:
+  id: NEH/10/17
+  number: '17'
+previous:
+  id: NEH/10/15
+  number: '15'
+reference: 'Nehemiah 10:16'

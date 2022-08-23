@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1SA 26:14"
+  class="v">14</span>And David cried to the people, and to Abner the son of Ner,
+  saying, Answerest thou not, Abner? Then Abner answered and said, Who <span
+  class="add">art</span> thou <span class="add">that</span> criest to the king?
+  </p>
+id: 1SA/26/14
+next:
+  id: 1SA/26/15
+  number: '15'
+previous:
+  id: 1SA/26/13
+  number: '13'
+reference: '1 Samuel 26:14'

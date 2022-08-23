@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 9:42" class="v">42</span>And
+  it was known throughout all Joppa; and many believed in the Lord. </p>
+id: ACT/9/42
+next:
+  id: ACT/9/43
+  number: '43'
+previous:
+  id: ACT/9/41
+  number: '41'
+reference: 'Acts 9:42'

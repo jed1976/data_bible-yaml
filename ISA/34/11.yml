@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 34:11" class="v">11</span>¶
+  But the cormorant and the bittern shall possess it; the owl also and the raven
+  shall dwell in it: and he shall stretch out upon it the line of confusion, and
+  the stones of emptiness. </p>
+id: ISA/34/11
+next:
+  id: ISA/34/12
+  number: '12'
+previous:
+  id: ISA/34/10
+  number: '10'
+reference: 'Isaiah 34:11'

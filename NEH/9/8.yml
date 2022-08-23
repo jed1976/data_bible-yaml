@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 9:8" class="v">8</span>And
+  foundest his heart faithful before thee, and madest a covenant with him to
+  give the land of the Canaanites, the Hittites, the Amorites, and the
+  Perizzites, and the Jebusites, and the Girgashites, to give <span
+  class="add">it, I say</span>, to his seed, and hast performed thy words; for
+  thou <span class="add">art</span> righteous: </p>
+id: NEH/9/8
+next:
+  id: NEH/9/9
+  number: '9'
+previous:
+  id: NEH/9/7
+  number: '7'
+reference: 'Nehemiah 9:8'

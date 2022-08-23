@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 30:7" class="v">7</span>For
+  the Egyptians shall help in vain, and to no purpose: therefore have I cried
+  concerning this, Their strength <span class="add">is</span> to sit still.</p>
+id: ISA/30/7
+next:
+  id: ISA/30/8
+  number: '8'
+previous:
+  id: ISA/30/6
+  number: '6'
+reference: 'Isaiah 30:7'

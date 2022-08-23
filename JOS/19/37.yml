@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JOS 19:37"
+  class="v">37</span>And Kedesh, and Edrei, and En-hazor, </p>
+id: JOS/19/37
+next:
+  id: JOS/19/38
+  number: '38'
+previous:
+  id: JOS/19/36
+  number: '36'
+reference: 'Joshua 19:37'

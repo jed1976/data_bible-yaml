@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 14:4" class="v">4</span>¶
+  That thou shalt take up this proverb against the king of Babylon, and say, How
+  hath the oppressor ceased! the golden city ceased! </p>
+id: ISA/14/4
+next:
+  id: ISA/14/5
+  number: '5'
+previous:
+  id: ISA/14/3
+  number: '3'
+reference: 'Isaiah 14:4'

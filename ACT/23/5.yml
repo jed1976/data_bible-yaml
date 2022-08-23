@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 23:5" class="v">5</span>Then
+  said Paul, I wist not, brethren, that he was the high priest: for it is
+  written, Thou shalt not speak evil of the ruler of thy people. </p>
+id: ACT/23/5
+next:
+  id: ACT/23/6
+  number: '6'
+previous:
+  id: ACT/23/4
+  number: '4'
+reference: 'Acts 23:5'

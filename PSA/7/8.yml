@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 7:8" class="v">8</span>The
+  <span class="nd">LORD</span> shall judge the people: judge me, O <span
+  class="nd">LORD</span>, according to my righteousness, and according to mine
+  integrity <span class="add">that is</span> in me.</p>
+id: PSA/7/8
+next:
+  id: PSA/7/9
+  number: '9'
+previous:
+  id: PSA/7/7
+  number: '7'
+reference: 'Psalms 7:8'

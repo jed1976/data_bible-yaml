@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 15:32" class="v">32</span>He
+  that refuseth instruction despiseth his own soul: but he that heareth reproof
+  getteth understanding. </p>
+id: PRO/15/32
+next:
+  id: PRO/15/33
+  number: '33'
+previous:
+  id: PRO/15/31
+  number: '31'
+reference: 'Proverbs 15:32'

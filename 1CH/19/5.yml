@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 19:5" class="v">5</span>Then
+  there went <span class="add">certain</span>, and told David how the men were
+  served. And he sent to meet them: for the men were greatly ashamed. And the
+  king said, Tarry at Jericho until your beards be grown, and <span
+  class="add">then</span> return.</p>
+id: 1CH/19/5
+next:
+  id: 1CH/19/6
+  number: '6'
+previous:
+  id: 1CH/19/4
+  number: '4'
+reference: '1 Chronicles 19:5'

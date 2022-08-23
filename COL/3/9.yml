@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="COL 3:9" class="v">9</span>Lie
+  not one to another, seeing that ye have put off the old man with his deeds;
+  </p>
+id: COL/3/9
+next:
+  id: COL/3/10
+  number: '10'
+previous:
+  id: COL/3/8
+  number: '8'
+reference: 'Colossians 3:9'

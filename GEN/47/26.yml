@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 47:26"
+  class="v">26</span>And Joseph made it a law over the land of Egypt unto this
+  day, <span class="add">that</span> Pharaoh should have the fifth <span
+  class="add">part;</span> except the land of the priests only, <span
+  class="add">which</span> became not Pharaoh’s.</p>
+id: GEN/47/26
+next:
+  id: GEN/47/27
+  number: '27'
+previous:
+  id: GEN/47/25
+  number: '25'
+reference: 'Genesis 47:26'

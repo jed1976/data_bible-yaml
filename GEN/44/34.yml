@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 44:34"
+  class="v">34</span>For how shall I go up to my father, and the lad <span
+  class="add">be</span> not with me? lest peradventure I see the evil that shall
+  come on my father.</p>
+id: GEN/44/34
+next:
+  id: GEN/45/1
+  number: '1'
+previous:
+  id: GEN/44/33
+  number: '33'
+reference: 'Genesis 44:34'

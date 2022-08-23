@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 38:22"
+  class="v">22</span>Make haste to help me, O Lord my salvation.</p>
+id: PSA/38/22
+next:
+  id: PSA/39/1
+  number: '1'
+previous:
+  id: PSA/38/21
+  number: '21'
+reference: 'Psalms 38:22'

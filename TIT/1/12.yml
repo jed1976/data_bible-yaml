@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="TIT 1:12" class="v">12</span>One
+  of themselves, <span class="add">even</span> a prophet of their own, said, The
+  Cretians <span class="add">are</span> alway liars, evil beasts, slow bellies.
+  </p>
+id: TIT/1/12
+next:
+  id: TIT/1/13
+  number: '13'
+previous:
+  id: TIT/1/11
+  number: '11'
+reference: 'Titus 1:12'

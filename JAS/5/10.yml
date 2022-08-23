@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JAS 5:10"
+  class="v">10</span>Take, my brethren, the prophets, who have spoken in the
+  name of the Lord, for an example of suffering affliction, and of patience.
+  </p>
+id: JAS/5/10
+next:
+  id: JAS/5/11
+  number: '11'
+previous:
+  id: JAS/5/9
+  number: '9'
+reference: 'James 5:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 14:20"
+  class="v">20</span><span class="add">But of</span> all clean fowls ye may
+  eat.</p>
+id: DEU/14/20
+next:
+  id: DEU/14/21
+  number: '21'
+previous:
+  id: DEU/14/19
+  number: '19'
+reference: 'Deuteronomy 14:20'

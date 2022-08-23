@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1CH 1:45" class="v">45</span>And
+  when Jobab was dead, Husham of the land of the Temanites reigned in his stead.
+  </p>
+id: 1CH/1/45
+next:
+  id: 1CH/1/46
+  number: '46'
+previous:
+  id: 1CH/1/44
+  number: '44'
+reference: '1 Chronicles 1:45'

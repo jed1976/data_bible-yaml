@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 14:29"
+  class="v">29</span>Your carcases shall fall in this wilderness; and all that
+  were numbered of you, according to your whole number, from twenty years old
+  and upward, which have murmured against me, </p>
+id: NUM/14/29
+next:
+  id: NUM/14/30
+  number: '30'
+previous:
+  id: NUM/14/28
+  number: '28'
+reference: 'Numbers 14:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DAN 6:25" class="v">25</span>¶
+  Then king Darius wrote unto all people, nations, and languages, that dwell in
+  all the earth; Peace be multiplied unto you. </p>
+id: DAN/6/25
+next:
+  id: DAN/6/26
+  number: '26'
+previous:
+  id: DAN/6/24
+  number: '24'
+reference: 'Daniel 6:25'

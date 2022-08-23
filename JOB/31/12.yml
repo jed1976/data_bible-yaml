@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 31:12"
+  class="v">12</span>For it <span class="add">is</span> a fire <span
+  class="add">that</span> consumeth to destruction, and would root out all mine
+  increase. </p>
+id: JOB/31/12
+next:
+  id: JOB/31/13
+  number: '13'
+previous:
+  id: JOB/31/11
+  number: '11'
+reference: 'Job 31:12'

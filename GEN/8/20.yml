@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 8:20" class="v">20</span>¶
+  And Noah builded an altar unto the <span class="nd">LORD</span>; and took of
+  every clean beast, and of every clean fowl, and offered burnt offerings on the
+  altar. </p>
+id: GEN/8/20
+next:
+  id: GEN/8/21
+  number: '21'
+previous:
+  id: GEN/8/19
+  number: '19'
+reference: 'Genesis 8:20'

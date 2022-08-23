@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="HEB 4:16" class="v">16</span>Let
+  us therefore come boldly unto the throne of grace, that we may obtain mercy,
+  and find grace to help in time of need.</p>
+id: HEB/4/16
+next:
+  id: HEB/5/1
+  number: '1'
+previous:
+  id: HEB/4/15
+  number: '15'
+reference: 'Hebrews 4:16'

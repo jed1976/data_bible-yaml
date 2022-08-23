@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 127:3" class="v">3</span>Lo,
+  children <span class="add">are</span> an heritage of the <span
+  class="nd">LORD</span>: <span class="add">and</span> the fruit of the womb
+  <span class="add">is his</span> reward.</p>
+id: PSA/127/3
+next:
+  id: PSA/127/4
+  number: '4'
+previous:
+  id: PSA/127/2
+  number: '2'
+reference: 'Psalms 127:3'

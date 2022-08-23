@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 5:12" class="v">12</span>¶
+  And the manna ceased on the morrow after they had eaten of the old corn of the
+  land; neither had the children of Israel manna any more; but they did eat of
+  the fruit of the land of Canaan that year.</p>
+id: JOS/5/12
+next:
+  id: JOS/5/13
+  number: '13'
+previous:
+  id: JOS/5/11
+  number: '11'
+reference: 'Joshua 5:12'

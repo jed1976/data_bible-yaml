@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 21:5" class="v">5</span>And
+  when we had accomplished those days, we departed and went our way; and they
+  all brought us on our way, with wives and children, till <span class="add">we
+  were</span> out of the city: and we kneeled down on the shore, and prayed.
+  </p>
+id: ACT/21/5
+next:
+  id: ACT/21/6
+  number: '6'
+previous:
+  id: ACT/21/4
+  number: '4'
+reference: 'Acts 21:5'

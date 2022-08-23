@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 14:12"
+  class="v">12</span>But these <span class="add">are they</span> of which ye
+  shall not eat: the eagle, and the ossifrage, and the ospray, </p>
+id: DEU/14/12
+next:
+  id: DEU/14/13
+  number: '13'
+previous:
+  id: DEU/14/11
+  number: '11'
+reference: 'Deuteronomy 14:12'

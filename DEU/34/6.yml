@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 34:6" class="v">6</span>And
+  he buried him in a valley in the land of Moab, over against Beth-peor: but no
+  man knoweth of his sepulchre unto this day.</p>
+id: DEU/34/6
+next:
+  id: DEU/34/7
+  number: '7'
+previous:
+  id: DEU/34/5
+  number: '5'
+reference: 'Deuteronomy 34:6'

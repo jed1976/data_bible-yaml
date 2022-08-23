@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 22:15" class="v">15</span>¶
+  Thus saith the Lord <span class="nd">GOD</span> of hosts, Go, get thee unto
+  this treasurer, <span class="add">even</span> unto Shebna, which <span
+  class="add">is</span> over the house, <span class="add">and say</span>, </p>
+id: ISA/22/15
+next:
+  id: ISA/22/16
+  number: '16'
+previous:
+  id: ISA/22/14
+  number: '14'
+reference: 'Isaiah 22:15'

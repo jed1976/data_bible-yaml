@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 16:16" class="v">16</span>My
+  face is foul with weeping, and on my eyelids <span class="add">is</span> the
+  shadow of death;</p>
+id: JOB/16/16
+next:
+  id: JOB/16/17
+  number: '17'
+previous:
+  id: JOB/16/15
+  number: '15'
+reference: 'Job 16:16'

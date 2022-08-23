@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 9:32" class="v">32</span>¶
+  As they went out, behold, they brought to him a dumb man possessed with a
+  devil. </p>
+id: MAT/9/32
+next:
+  id: MAT/9/33
+  number: '33'
+previous:
+  id: MAT/9/31
+  number: '31'
+reference: 'Matthew 9:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 7:34"
+  class="v">34</span><span class="wj">Ye shall seek me, and shall not find <span
+  class="add">me</span>: and where I am, <span class="add">thither</span> ye
+  cannot come.</span> </p>
+id: JHN/7/34
+next:
+  id: JHN/7/35
+  number: '35'
+previous:
+  id: JHN/7/33
+  number: '33'
+reference: 'John 7:34'

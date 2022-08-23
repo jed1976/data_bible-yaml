@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 8:10" class="v">10</span>And
+  if Christ <span class="add">be</span> in you, the body <span
+  class="add">is</span> dead because of sin; but the Spirit <span
+  class="add">is</span> life because of righteousness. </p>
+id: ROM/8/10
+next:
+  id: ROM/8/11
+  number: '11'
+previous:
+  id: ROM/8/9
+  number: '9'
+reference: 'Romans 8:10'

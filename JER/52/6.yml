@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 52:6" class="v">6</span>And
+  in the fourth month, in the ninth <span class="add">day</span> of the month,
+  the famine was sore in the city, so that there was no bread for the people of
+  the land. </p>
+id: JER/52/6
+next:
+  id: JER/52/7
+  number: '7'
+previous:
+  id: JER/52/5
+  number: '5'
+reference: 'Jeremiah 52:6'

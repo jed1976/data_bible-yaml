@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 13:18"
+  class="v">18</span>And the angel of the <span class="nd">LORD</span> said unto
+  him, Why askest thou thus after my name, seeing it <span class="add">is</span>
+  secret? </p>
+id: JDG/13/18
+next:
+  id: JDG/13/19
+  number: '19'
+previous:
+  id: JDG/13/17
+  number: '17'
+reference: 'Judges 13:18'

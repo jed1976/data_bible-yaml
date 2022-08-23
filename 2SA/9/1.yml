@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 9:1" class="v">1</span>And
+  David said, Is there yet any that is left of the house of Saul, that I may
+  shew him kindness for Jonathan’s sake? </p>
+id: 2SA/9/1
+next:
+  id: 2SA/9/2
+  number: '2'
+previous:
+  id: 2SA/8/18
+  number: '18'
+reference: '2 Samuel 9:1'

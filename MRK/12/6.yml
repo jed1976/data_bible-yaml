@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 12:6" class="v">6</span><span
+  class="wj">Having yet therefore one son, his wellbeloved, he sent him also
+  last unto them, saying, They will reverence my son.</span> </p>
+id: MRK/12/6
+next:
+  id: MRK/12/7
+  number: '7'
+previous:
+  id: MRK/12/5
+  number: '5'
+reference: 'Mark 12:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 38:10"
+  class="v">10</span>And brake up for it my decreed <span
+  class="add">place</span>, and set bars and doors, </p>
+id: JOB/38/10
+next:
+  id: JOB/38/11
+  number: '11'
+previous:
+  id: JOB/38/9
+  number: '9'
+reference: 'Job 38:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 20:21"
+  class="v">21</span>And they asked him, saying, Master, we know that thou
+  sayest and teachest rightly, neither acceptest thou the person <span
+  class="add">of any</span>, but teachest the way of God truly: </p>
+id: LUK/20/21
+next:
+  id: LUK/20/22
+  number: '22'
+previous:
+  id: LUK/20/20
+  number: '20'
+reference: 'Luke 20:21'

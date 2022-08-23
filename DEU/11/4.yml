@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 11:4" class="v">4</span>And
+  what he did unto the army of Egypt, unto their horses, and to their chariots;
+  how he made the water of the Red sea to overflow them as they pursued after
+  you, and <span class="add">how</span> the <span class="nd">LORD</span> hath
+  destroyed them unto this day; </p>
+id: DEU/11/4
+next:
+  id: DEU/11/5
+  number: '5'
+previous:
+  id: DEU/11/3
+  number: '3'
+reference: 'Deuteronomy 11:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 39:4" class="v">4</span>They
+  made shoulderpieces for it, to couple <span class="add">it</span> together: by
+  the two edges was it coupled together. </p>
+id: EXO/39/4
+next:
+  id: EXO/39/5
+  number: '5'
+previous:
+  id: EXO/39/3
+  number: '3'
+reference: 'Exodus 39:4'

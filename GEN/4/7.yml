@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 4:7" class="v">7</span>If
+  thou doest well, shalt thou not be accepted? and if thou doest not well, sin
+  lieth at the door. And unto thee <span class="add">shall be</span> his desire,
+  and thou shalt rule over him. </p>
+id: GEN/4/7
+next:
+  id: GEN/4/8
+  number: '8'
+previous:
+  id: GEN/4/6
+  number: '6'
+reference: 'Genesis 4:7'

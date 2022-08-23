@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="DEU 28:44" class="v">44</span>He
+  shall lend to thee, and thou shalt not lend to him: he shall be the head, and
+  thou shalt be the tail.</p>
+id: DEU/28/44
+next:
+  id: DEU/28/45
+  number: '45'
+previous:
+  id: DEU/28/43
+  number: '43'
+reference: 'Deuteronomy 28:44'

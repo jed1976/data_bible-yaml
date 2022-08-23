@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JDG 1:26" class="v">26</span>And
+  the man went into the land of the Hittites, and built a city, and called the
+  name thereof Luz: which <span class="add">is</span> the name thereof unto this
+  day.</p>
+id: JDG/1/26
+next:
+  id: JDG/1/27
+  number: '27'
+previous:
+  id: JDG/1/25
+  number: '25'
+reference: 'Judges 1:26'

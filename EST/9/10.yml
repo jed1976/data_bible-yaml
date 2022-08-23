@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EST 9:10" class="v">10</span>The
+  ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but
+  on the spoil laid they not their hand. </p>
+id: EST/9/10
+next:
+  id: EST/9/11
+  number: '11'
+previous:
+  id: EST/9/9
+  number: '9'
+reference: 'Esther 9:10'

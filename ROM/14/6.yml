@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 14:6" class="v">6</span>He
+  that regardeth the day, regardeth <span class="add">it</span> unto the Lord;
+  and he that regardeth not the day, to the Lord he doth not regard <span
+  class="add">it</span>. He that eateth, eateth to the Lord, for he giveth God
+  thanks; and he that eateth not, to the Lord he eateth not, and giveth God
+  thanks. </p>
+id: ROM/14/6
+next:
+  id: ROM/14/7
+  number: '7'
+previous:
+  id: ROM/14/5
+  number: '5'
+reference: 'Romans 14:6'

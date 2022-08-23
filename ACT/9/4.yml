@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 9:4" class="v">4</span>And he
+  fell to the earth, and heard a voice saying unto him, <span class="wj">Saul,
+  Saul, why persecutest thou me?</span> </p>
+id: ACT/9/4
+next:
+  id: ACT/9/5
+  number: '5'
+previous:
+  id: ACT/9/3
+  number: '3'
+reference: 'Acts 9:4'

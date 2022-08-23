@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 103:8" class="v">8</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> merciful and
+  gracious, slow to anger, and plenteous in mercy.</p>
+id: PSA/103/8
+next:
+  id: PSA/103/9
+  number: '9'
+previous:
+  id: PSA/103/7
+  number: '7'
+reference: 'Psalms 103:8'

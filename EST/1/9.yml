@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 1:9" class="v">9</span>Also
+  Vashti the queen made a feast for the women <span class="add">in</span> the
+  royal house which <span class="add">belonged</span> to king Ahasuerus.</p>
+id: EST/1/9
+next:
+  id: EST/1/10
+  number: '10'
+previous:
+  id: EST/1/8
+  number: '8'
+reference: 'Esther 1:9'

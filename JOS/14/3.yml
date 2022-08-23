@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 14:3" class="v">3</span>For
+  Moses had given the inheritance of two tribes and an half tribe on the other
+  side Jordan: but unto the Levites he gave none inheritance among them. </p>
+id: JOS/14/3
+next:
+  id: JOS/14/4
+  number: '4'
+previous:
+  id: JOS/14/2
+  number: '2'
+reference: 'Joshua 14:3'

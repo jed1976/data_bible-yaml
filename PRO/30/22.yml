@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 30:22"
+  class="v">22</span>For a servant when he reigneth; and a fool when he is
+  filled with meat; </p>
+id: PRO/30/22
+next:
+  id: PRO/30/23
+  number: '23'
+previous:
+  id: PRO/30/21
+  number: '21'
+reference: 'Proverbs 30:22'

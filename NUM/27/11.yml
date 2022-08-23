@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 27:11"
+  class="v">11</span>And if his father have no brethren, then ye shall give his
+  inheritance unto his kinsman that is next to him of his family, and he shall
+  possess it: and it shall be unto the children of Israel a statute of judgment,
+  as the <span class="nd">LORD</span> commanded Moses.</p>
+id: NUM/27/11
+next:
+  id: NUM/27/12
+  number: '12'
+previous:
+  id: NUM/27/10
+  number: '10'
+reference: 'Numbers 27:11'

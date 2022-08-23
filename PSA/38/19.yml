@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 38:19"
+  class="v">19</span>But mine enemies <span class="add">are</span> lively, <span
+  class="add">and</span> they are strong: and they that hate me wrongfully are
+  multiplied.</p>
+id: PSA/38/19
+next:
+  id: PSA/38/20
+  number: '20'
+previous:
+  id: PSA/38/18
+  number: '18'
+reference: 'Psalms 38:19'

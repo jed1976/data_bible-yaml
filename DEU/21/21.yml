@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 21:21"
+  class="v">21</span>And all the men of his city shall stone him with stones,
+  that he die: so shalt thou put evil away from among you; and all Israel shall
+  hear, and fear.</p>
+id: DEU/21/21
+next:
+  id: DEU/21/22
+  number: '22'
+previous:
+  id: DEU/21/20
+  number: '20'
+reference: 'Deuteronomy 21:21'

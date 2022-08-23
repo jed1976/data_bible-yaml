@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 9:3" class="v">3</span>And
+  unto the children of Israel thou shalt speak, saying, Take ye a kid of the
+  goats for a sin offering; and a calf and a lamb, <span class="add">both</span>
+  of the first year, without blemish, for a burnt offering; </p>
+id: LEV/9/3
+next:
+  id: LEV/9/4
+  number: '4'
+previous:
+  id: LEV/9/2
+  number: '2'
+reference: 'Leviticus 9:3'

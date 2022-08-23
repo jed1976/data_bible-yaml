@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PHP 3:19"
+  class="v">19</span>Whose end <span class="add">is</span> destruction, whose
+  God <span class="add">is their</span> belly, and <span
+  class="add">whose</span> glory <span class="add">is</span> in their shame, who
+  mind earthly things.) </p>
+id: PHP/3/19
+next:
+  id: PHP/3/20
+  number: '20'
+previous:
+  id: PHP/3/18
+  number: '18'
+reference: 'Philippians 3:19'

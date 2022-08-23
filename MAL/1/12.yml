@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAL 1:12" class="v">12</span>¶
+  But ye have profaned it, in that ye say, The table of the <span
+  class="nd">LORD</span> <span class="add">is</span> polluted; and the fruit
+  thereof, <span class="add">even</span> his meat, <span class="add">is</span>
+  contemptible. </p>
+id: MAL/1/12
+next:
+  id: MAL/1/13
+  number: '13'
+previous:
+  id: MAL/1/11
+  number: '11'
+reference: 'Malachi 1:12'

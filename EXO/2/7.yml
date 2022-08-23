@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 2:7" class="v">7</span>Then
+  said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of
+  the Hebrew women, that she may nurse the child for thee? </p>
+id: EXO/2/7
+next:
+  id: EXO/2/8
+  number: '8'
+previous:
+  id: EXO/2/6
+  number: '6'
+reference: 'Exodus 2:7'

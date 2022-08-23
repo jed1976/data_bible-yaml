@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 13:10" class="v">10</span>We
+  have an altar, whereof they have no right to eat which serve the tabernacle.
+  </p>
+id: HEB/13/10
+next:
+  id: HEB/13/11
+  number: '11'
+previous:
+  id: HEB/13/9
+  number: '9'
+reference: 'Hebrews 13:10'

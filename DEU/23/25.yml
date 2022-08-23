@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 23:25"
+  class="v">25</span>When thou comest into the standing corn of thy neighbour,
+  then thou mayest pluck the ears with thine hand; but thou shalt not move a
+  sickle unto thy neighbour’s standing corn.</p>
+id: DEU/23/25
+next:
+  id: DEU/24/1
+  number: '1'
+previous:
+  id: DEU/23/24
+  number: '24'
+reference: 'Deuteronomy 23:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 44:26"
+  class="v">26</span>And we said, We cannot go down: if our youngest brother be
+  with us, then will we go down: for we may not see the man’s face, except our
+  youngest brother <span class="add">be</span> with us. </p>
+id: GEN/44/26
+next:
+  id: GEN/44/27
+  number: '27'
+previous:
+  id: GEN/44/25
+  number: '25'
+reference: 'Genesis 44:26'

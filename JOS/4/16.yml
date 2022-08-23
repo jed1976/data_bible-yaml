@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 4:16"
+  class="v">16</span>Command the priests that bear the ark of the testimony,
+  that they come up out of Jordan. </p>
+id: JOS/4/16
+next:
+  id: JOS/4/17
+  number: '17'
+previous:
+  id: JOS/4/15
+  number: '15'
+reference: 'Joshua 4:16'

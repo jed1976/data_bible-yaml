@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 12:21" class="v">21</span>¶
+  Then Moses called for all the elders of Israel, and said unto them, Draw out
+  and take you a lamb according to your families, and kill the passover. </p>
+id: EXO/12/21
+next:
+  id: EXO/12/22
+  number: '22'
+previous:
+  id: EXO/12/20
+  number: '20'
+reference: 'Exodus 12:21'

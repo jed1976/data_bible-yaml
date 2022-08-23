@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 18:5" class="v">5</span>Ye
+  shall therefore keep my statutes, and my judgments: which if a man do, he
+  shall live in them: I <span class="add">am</span> the <span
+  class="nd">LORD</span>.</p>
+id: LEV/18/5
+next:
+  id: LEV/18/6
+  number: '6'
+previous:
+  id: LEV/18/4
+  number: '4'
+reference: 'Leviticus 18:5'

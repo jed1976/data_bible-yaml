@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 7:21" class="v">21</span>And
+  they stood every man in his place round about the camp: and all the host ran,
+  and cried, and fled. </p>
+id: JDG/7/21
+next:
+  id: JDG/7/22
+  number: '22'
+previous:
+  id: JDG/7/20
+  number: '20'
+reference: 'Judges 7:21'

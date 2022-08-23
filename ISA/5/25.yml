@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 5:25"
+  class="v">25</span>Therefore is the anger of the <span class="nd">LORD</span>
+  kindled against his people, and he hath stretched forth his hand against them,
+  and hath smitten them: and the hills did tremble, and their carcases <span
+  class="add">were</span> torn in the midst of the streets. For all this his
+  anger is not turned away, but his hand <span class="add">is</span> stretched
+  out still.</p>
+id: ISA/5/25
+next:
+  id: ISA/5/26
+  number: '26'
+previous:
+  id: ISA/5/24
+  number: '24'
+reference: 'Isaiah 5:25'

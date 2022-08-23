@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 8:37"
+  class="v">37</span><span class="wj">Or what shall a man give in exchange for
+  his soul?</span> </p>
+id: MRK/8/37
+next:
+  id: MRK/8/38
+  number: '38'
+previous:
+  id: MRK/8/36
+  number: '36'
+reference: 'Mark 8:37'

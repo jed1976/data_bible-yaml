@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 17:5" class="v">5</span><span
+  class="wj">And now, O Father, glorify thou me with thine own self with the
+  glory which I had with thee before the world was.</span> </p>
+id: JHN/17/5
+next:
+  id: JHN/17/6
+  number: '6'
+previous:
+  id: JHN/17/4
+  number: '4'
+reference: 'John 17:5'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LAM 1:21"
+  class="v">21</span>They have heard that I sigh: <span class="add">there
+  is</span> none to comfort me: all mine enemies have heard of my trouble; they
+  are glad that thou hast done <span class="add">it:</span> thou wilt bring the
+  day <span class="add">that</span> thou hast called, and they shall be like
+  unto me. </p>
+id: LAM/1/21
+next:
+  id: LAM/1/22
+  number: '22'
+previous:
+  id: LAM/1/20
+  number: '20'
+reference: 'Lamentations 1:21'

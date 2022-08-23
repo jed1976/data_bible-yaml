@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 32:13" class="v">13</span>¶
+  And he lodged there that same night; and took of that which came to his hand a
+  present for Esau his brother; </p>
+id: GEN/32/13
+next:
+  id: GEN/32/14
+  number: '14'
+previous:
+  id: GEN/32/12
+  number: '12'
+reference: 'Genesis 32:13'

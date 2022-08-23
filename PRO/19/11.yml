@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 19:11"
+  class="v">11</span>The discretion of a man deferreth his anger; and <span
+  class="add">it is</span> his glory to pass over a transgression. </p>
+id: PRO/19/11
+next:
+  id: PRO/19/12
+  number: '12'
+previous:
+  id: PRO/19/10
+  number: '10'
+reference: 'Proverbs 19:11'

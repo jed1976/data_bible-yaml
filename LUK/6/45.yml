@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="LUK 6:45"
+  class="v">45</span><span class="wj">A good man out of the good treasure of his
+  heart bringeth forth that which is good; and an evil man out of the evil
+  treasure of his heart bringeth forth that which is evil: for of the abundance
+  of the heart his mouth speaketh.</span></p>
+id: LUK/6/45
+next:
+  id: LUK/6/46
+  number: '46'
+previous:
+  id: LUK/6/44
+  number: '44'
+reference: 'Luke 6:45'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1SA 1:14" class="v">14</span>And
+  Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.
+  </p>
+id: 1SA/1/14
+next:
+  id: 1SA/1/15
+  number: '15'
+previous:
+  id: 1SA/1/13
+  number: '13'
+reference: '1 Samuel 1:14'

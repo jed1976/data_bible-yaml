@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="DEU 4:45"
+  class="v">45</span>These <span class="add">are</span> the testimonies, and the
+  statutes, and the judgments, which Moses spake unto the children of Israel,
+  after they came forth out of Egypt, </p>
+id: DEU/4/45
+next:
+  id: DEU/4/46
+  number: '46'
+previous:
+  id: DEU/4/44
+  number: '44'
+reference: 'Deuteronomy 4:45'

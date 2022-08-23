@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 51:15"
+  class="v">15</span>But I <span class="add">am</span> the <span
+  class="nd">LORD</span> thy God, that divided the sea, whose waves roared: The
+  <span class="nd">LORD</span> of hosts <span class="add">is</span> his name.
+  </p>
+id: ISA/51/15
+next:
+  id: ISA/51/16
+  number: '16'
+previous:
+  id: ISA/51/14
+  number: '14'
+reference: 'Isaiah 51:15'

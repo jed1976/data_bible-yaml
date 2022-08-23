@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 47:13" class="v">13</span>¶
+  And <span class="add">there was</span> no bread in all the land; for the
+  famine <span class="add">was</span> very sore, so that the land of Egypt and
+  <span class="add">all</span> the land of Canaan fainted by reason of the
+  famine. </p>
+id: GEN/47/13
+next:
+  id: GEN/47/14
+  number: '14'
+previous:
+  id: GEN/47/12
+  number: '12'
+reference: 'Genesis 47:13'

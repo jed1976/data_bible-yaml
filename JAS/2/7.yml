@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JAS 2:7" class="v">7</span>Do not
+  they blaspheme that worthy name by the which ye are called? </p>
+id: JAS/2/7
+next:
+  id: JAS/2/8
+  number: '8'
+previous:
+  id: JAS/2/6
+  number: '6'
+reference: 'James 2:7'

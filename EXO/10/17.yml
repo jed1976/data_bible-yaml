@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 10:17"
+  class="v">17</span>Now therefore forgive, I pray thee, my sin only this once,
+  and intreat the <span class="nd">LORD</span> your God, that he may take away
+  from me this death only. </p>
+id: EXO/10/17
+next:
+  id: EXO/10/18
+  number: '18'
+previous:
+  id: EXO/10/16
+  number: '16'
+reference: 'Exodus 10:17'

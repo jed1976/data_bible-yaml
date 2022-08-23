@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 5:24"
+  class="v">24</span><span class="wj">Verily, verily, I say unto you, He that
+  heareth my word, and believeth on him that sent me, hath everlasting life, and
+  shall not come into condemnation; but is passed from death unto life.</span>
+  </p>
+id: JHN/5/24
+next:
+  id: JHN/5/25
+  number: '25'
+previous:
+  id: JHN/5/23
+  number: '23'
+reference: 'John 5:24'

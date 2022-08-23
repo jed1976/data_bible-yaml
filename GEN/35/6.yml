@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 35:6" class="v">6</span>¶ So
+  Jacob came to Luz, which <span class="add">is</span> in the land of Canaan,
+  that <span class="add">is</span>, Beth-el, he and all the people that <span
+  class="add">were</span> with him. </p>
+id: GEN/35/6
+next:
+  id: GEN/35/7
+  number: '7'
+previous:
+  id: GEN/35/5
+  number: '5'
+reference: 'Genesis 35:6'

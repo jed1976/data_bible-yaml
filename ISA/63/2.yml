@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 63:2"
+  class="v">2</span>Wherefore <span class="add">art thou</span> red in thine
+  apparel, and thy garments like him that treadeth in the winefat? </p>
+id: ISA/63/2
+next:
+  id: ISA/63/3
+  number: '3'
+previous:
+  id: ISA/63/1
+  number: '1'
+reference: 'Isaiah 63:2'

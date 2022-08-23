@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 16:8" class="v">8</span>And
+  thou hast filled me with wrinkles, <span class="add">which</span> is a witness
+  <span class="add">against me:</span> and my leanness rising up in me beareth
+  witness to my face. </p>
+id: JOB/16/8
+next:
+  id: JOB/16/9
+  number: '9'
+previous:
+  id: JOB/16/7
+  number: '7'
+reference: 'Job 16:8'

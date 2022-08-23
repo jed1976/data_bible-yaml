@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 21:11"
+  class="v">11</span><span class="wj">And great earthquakes shall be in divers
+  places, and famines, and pestilences; and fearful sights and great signs shall
+  there be from heaven.</span> </p>
+id: LUK/21/11
+next:
+  id: LUK/21/12
+  number: '12'
+previous:
+  id: LUK/21/10
+  number: '10'
+reference: 'Luke 21:11'

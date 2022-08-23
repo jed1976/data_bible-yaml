@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 56:8" class="v">8</span>The
+  Lord <span class="nd">GOD</span> which gathereth the outcasts of Israel saith,
+  Yet will I gather <span class="add">others</span> to him, beside those that
+  are gathered unto him.</p>
+id: ISA/56/8
+next:
+  id: ISA/56/9
+  number: '9'
+previous:
+  id: ISA/56/7
+  number: '7'
+reference: 'Isaiah 56:8'

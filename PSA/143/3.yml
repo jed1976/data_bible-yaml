@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 143:3" class="v">3</span>For
+  the enemy hath persecuted my soul; he hath smitten my life down to the ground;
+  he hath made me to dwell in darkness, as those that have been long dead.</p>
+id: PSA/143/3
+next:
+  id: PSA/143/4
+  number: '4'
+previous:
+  id: PSA/143/2
+  number: '2'
+reference: 'Psalms 143:3'

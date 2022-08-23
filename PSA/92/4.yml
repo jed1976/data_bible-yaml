@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 92:4" class="v">4</span>For
+  thou, <span class="nd">LORD</span>, hast made me glad through thy work: I will
+  triumph in the works of thy hands.</p>
+id: PSA/92/4
+next:
+  id: PSA/92/5
+  number: '5'
+previous:
+  id: PSA/92/3
+  number: '3'
+reference: 'Psalms 92:4'

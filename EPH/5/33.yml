@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EPH 5:33"
+  class="v">33</span>Nevertheless let every one of you in particular so love his
+  wife even as himself; and the wife <span class="add">see</span> that she
+  reverence <span class="add">her</span> husband.</p>
+id: EPH/5/33
+next:
+  id: EPH/6/1
+  number: '1'
+previous:
+  id: EPH/5/32
+  number: '32'
+reference: 'Ephesians 5:33'

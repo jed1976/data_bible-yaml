@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 10:4" class="v">4</span>And
+  he had thirty sons that rode on thirty ass colts, and they had thirty cities,
+  which are called Havoth-jair unto this day, which <span class="add">are</span>
+  in the land of Gilead. </p>
+id: JDG/10/4
+next:
+  id: JDG/10/5
+  number: '5'
+previous:
+  id: JDG/10/3
+  number: '3'
+reference: 'Judges 10:4'

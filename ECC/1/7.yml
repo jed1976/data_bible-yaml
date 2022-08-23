@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 1:7" class="v">7</span>All
+  the rivers run into the sea; yet the sea <span class="add">is</span> not full;
+  unto the place from whence the rivers come, thither they return again. </p>
+id: ECC/1/7
+next:
+  id: ECC/1/8
+  number: '8'
+previous:
+  id: ECC/1/6
+  number: '6'
+reference: 'Ecclesiastes 1:7'

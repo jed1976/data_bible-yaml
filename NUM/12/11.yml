@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 12:11"
+  class="v">11</span>And Aaron said unto Moses, Alas, my lord, I beseech thee,
+  lay not the sin upon us, wherein we have done foolishly, and wherein we have
+  sinned. </p>
+id: NUM/12/11
+next:
+  id: NUM/12/12
+  number: '12'
+previous:
+  id: NUM/12/10
+  number: '10'
+reference: 'Numbers 12:11'

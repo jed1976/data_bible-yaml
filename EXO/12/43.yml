@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="EXO 12:43" class="v">43</span>¶
+  And the <span class="nd">LORD</span> said unto Moses and Aaron, This <span
+  class="add">is</span> the ordinance of the passover: There shall no stranger
+  eat thereof: </p>
+id: EXO/12/43
+next:
+  id: EXO/12/44
+  number: '44'
+previous:
+  id: EXO/12/42
+  number: '42'
+reference: 'Exodus 12:43'

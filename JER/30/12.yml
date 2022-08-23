@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 30:12"
+  class="v">12</span>For thus saith the <span class="nd">LORD</span>, Thy bruise
+  <span class="add">is</span> incurable, <span class="add">and</span> thy wound
+  <span class="add">is</span> grievous. </p>
+id: JER/30/12
+next:
+  id: JER/30/13
+  number: '13'
+previous:
+  id: JER/30/11
+  number: '11'
+reference: 'Jeremiah 30:12'

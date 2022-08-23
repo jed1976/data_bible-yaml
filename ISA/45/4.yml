@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 45:4" class="v">4</span>For
+  Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy
+  name: I have surnamed thee, though thou hast not known me.</p>
+id: ISA/45/4
+next:
+  id: ISA/45/5
+  number: '5'
+previous:
+  id: ISA/45/3
+  number: '3'
+reference: 'Isaiah 45:4'

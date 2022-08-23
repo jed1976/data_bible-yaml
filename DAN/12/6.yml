@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DAN 12:6" class="v">6</span>And
+  <span class="add">one</span> said to the man clothed in linen, which <span
+  class="add">was</span> upon the waters of the river, How long <span
+  class="add">shall it be to</span> the end of these wonders? </p>
+id: DAN/12/6
+next:
+  id: DAN/12/7
+  number: '7'
+previous:
+  id: DAN/12/5
+  number: '5'
+reference: 'Daniel 12:6'

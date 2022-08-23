@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 11:16"
+  class="v">16</span>Take heed to yourselves, that your heart be not deceived,
+  and ye turn aside, and serve other gods, and worship them; </p>
+id: DEU/11/16
+next:
+  id: DEU/11/17
+  number: '17'
+previous:
+  id: DEU/11/15
+  number: '15'
+reference: 'Deuteronomy 11:16'

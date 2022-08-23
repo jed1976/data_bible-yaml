@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 15:27"
+  class="v">27</span>Because he covereth his face with his fatness, and maketh
+  collops of fat on <span class="add">his</span> flanks. </p>
+id: JOB/15/27
+next:
+  id: JOB/15/28
+  number: '28'
+previous:
+  id: JOB/15/26
+  number: '26'
+reference: 'Job 15:27'

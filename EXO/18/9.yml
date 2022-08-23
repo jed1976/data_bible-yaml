@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 18:9" class="v">9</span>And
+  Jethro rejoiced for all the goodness which the <span class="nd">LORD</span>
+  had done to Israel, whom he had delivered out of the hand of the Egyptians.
+  </p>
+id: EXO/18/9
+next:
+  id: EXO/18/10
+  number: '10'
+previous:
+  id: EXO/18/8
+  number: '8'
+reference: 'Exodus 18:9'

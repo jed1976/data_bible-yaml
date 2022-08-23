@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 40:6"
+  class="v">6</span>Sacrifice and offering thou didst not desire; mine ears hast
+  thou opened: burnt offering and sin offering hast thou not required.</p>
+id: PSA/40/6
+next:
+  id: PSA/40/7
+  number: '7'
+previous:
+  id: PSA/40/5
+  number: '5'
+reference: 'Psalms 40:6'

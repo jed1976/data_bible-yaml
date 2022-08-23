@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="REV 16:17"
+  class="v">17</span>And the seventh angel poured out his vial into the air; and
+  there came a great voice out of the temple of heaven, from the throne, saying,
+  It is done. </p>
+id: REV/16/17
+next:
+  id: REV/16/18
+  number: '18'
+previous:
+  id: REV/16/16
+  number: '16'
+reference: 'Revelation 16:17'

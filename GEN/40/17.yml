@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 40:17"
+  class="v">17</span>And in the uppermost basket <span class="add">there
+  was</span> of all manner of bakemeats for Pharaoh; and the birds did eat them
+  out of the basket upon my head. </p>
+id: GEN/40/17
+next:
+  id: GEN/40/18
+  number: '18'
+previous:
+  id: GEN/40/16
+  number: '16'
+reference: 'Genesis 40:17'

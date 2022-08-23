@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 26:10"
+  class="v">10</span>And thou shalt make fifty loops on the edge of the one
+  curtain <span class="add">that is</span> outmost in the coupling, and fifty
+  loops in the edge of the curtain which coupleth the second. </p>
+id: EXO/26/10
+next:
+  id: EXO/26/11
+  number: '11'
+previous:
+  id: EXO/26/9
+  number: '9'
+reference: 'Exodus 26:10'

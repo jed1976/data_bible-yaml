@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 13:12"
+  class="v">12</span><span class="wj">Now the brother shall betray the brother
+  to death, and the father the son; and children shall rise up against <span
+  class="add">their</span> parents, and shall cause them to be put to
+  death.</span> </p>
+id: MRK/13/12
+next:
+  id: MRK/13/13
+  number: '13'
+previous:
+  id: MRK/13/11
+  number: '11'
+reference: 'Mark 13:12'

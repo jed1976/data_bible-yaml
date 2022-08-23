@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 30:10"
+  class="v">10</span>Which say to the seers, See not; and to the prophets,
+  Prophesy not unto us right things, speak unto us smooth things, prophesy
+  deceits: </p>
+id: ISA/30/10
+next:
+  id: ISA/30/11
+  number: '11'
+previous:
+  id: ISA/30/9
+  number: '9'
+reference: 'Isaiah 30:10'

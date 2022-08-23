@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JHN 9:27" class="v">27</span>He
+  answered them, I have told you already, and ye did not hear: wherefore would
+  ye hear <span class="add">it</span> again? will ye also be his disciples? </p>
+id: JHN/9/27
+next:
+  id: JHN/9/28
+  number: '28'
+previous:
+  id: JHN/9/26
+  number: '26'
+reference: 'John 9:27'

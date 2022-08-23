@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 10:15"
+  class="v">15</span>Shall the axe boast itself against him that heweth
+  therewith? <span class="add">or</span> shall the saw magnify itself against
+  him that shaketh it? as if the rod should shake <span
+  class="add">itself</span> against them that lift it up, <span
+  class="add">or</span> as if the staff should lift up <span class="add">itself,
+  as if it were</span> no wood. </p>
+id: ISA/10/15
+next:
+  id: ISA/10/16
+  number: '16'
+previous:
+  id: ISA/10/14
+  number: '14'
+reference: 'Isaiah 10:15'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 3:1" class="v">1</span>There
+  was a man of the Pharisees, named Nicodemus, a ruler of the Jews: </p>
+id: JHN/3/1
+next:
+  id: JHN/3/2
+  number: '2'
+previous:
+  id: JHN/2/25
+  number: '25'
+reference: 'John 3:1'

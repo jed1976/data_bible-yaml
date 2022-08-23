@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 34:22"
+  class="v">22</span>And the prince of the tribe of the children of Dan, Bukki
+  the son of Jogli. </p>
+id: NUM/34/22
+next:
+  id: NUM/34/23
+  number: '23'
+previous:
+  id: NUM/34/21
+  number: '21'
+reference: 'Numbers 34:22'

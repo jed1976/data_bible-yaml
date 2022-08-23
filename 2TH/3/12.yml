@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2TH 3:12" class="v">12</span>Now
+  them that are such we command and exhort by our Lord Jesus Christ, that with
+  quietness they work, and eat their own bread. </p>
+id: 2TH/3/12
+next:
+  id: 2TH/3/13
+  number: '13'
+previous:
+  id: 2TH/3/11
+  number: '11'
+reference: '2 Thessalonians 3:12'

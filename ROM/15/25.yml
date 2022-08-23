@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 15:25"
+  class="v">25</span>But now I go unto Jerusalem to minister unto the saints.
+  </p>
+id: ROM/15/25
+next:
+  id: ROM/15/26
+  number: '26'
+previous:
+  id: ROM/15/24
+  number: '24'
+reference: 'Romans 15:25'

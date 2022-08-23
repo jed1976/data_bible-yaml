@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOL 1:14" class="v">14</span>¶
+  Sanctify ye a fast, call a solemn assembly, gather the elders <span
+  class="add">and</span> all the inhabitants of the land <span
+  class="add">into</span> the house of the <span class="nd">LORD</span> your
+  God, and cry unto the <span class="nd">LORD</span>, </p>
+id: JOL/1/14
+next:
+  id: JOL/1/15
+  number: '15'
+previous:
+  id: JOL/1/13
+  number: '13'
+reference: 'Joel 1:14'

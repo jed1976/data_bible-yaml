@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 49:8" class="v">8</span>Thus
+  saith the <span class="nd">LORD</span>, In an acceptable time have I heard
+  thee, and in a day of salvation have I helped thee: and I will preserve thee,
+  and give thee for a covenant of the people, to establish the earth, to cause
+  to inherit the desolate heritages; </p>
+id: ISA/49/8
+next:
+  id: ISA/49/9
+  number: '9'
+previous:
+  id: ISA/49/7
+  number: '7'
+reference: 'Isaiah 49:8'

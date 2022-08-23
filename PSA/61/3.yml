@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 61:3" class="v">3</span>For
+  thou hast been a shelter for me, <span class="add">and</span> a strong tower
+  from the enemy.</p>
+id: PSA/61/3
+next:
+  id: PSA/61/4
+  number: '4'
+previous:
+  id: PSA/61/2
+  number: '2'
+reference: 'Psalms 61:3'

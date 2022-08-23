@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 108:7" class="v">7</span>God
+  hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete
+  out the valley of Succoth.</p>
+id: PSA/108/7
+next:
+  id: PSA/108/8
+  number: '8'
+previous:
+  id: PSA/108/6
+  number: '6'
+reference: 'Psalms 108:7'

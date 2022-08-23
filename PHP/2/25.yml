@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PHP 2:25" class="v">25</span>Yet
+  I supposed it necessary to send to you Epaphroditus, my brother, and companion
+  in labour, and fellowsoldier, but your messenger, and he that ministered to my
+  wants. </p>
+id: PHP/2/25
+next:
+  id: PHP/2/26
+  number: '26'
+previous:
+  id: PHP/2/24
+  number: '24'
+reference: 'Philippians 2:25'

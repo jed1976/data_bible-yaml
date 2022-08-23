@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 5:12" class="v">12</span>So
+  the people were scattered abroad throughout all the land of Egypt to gather
+  stubble instead of straw. </p>
+id: EXO/5/12
+next:
+  id: EXO/5/13
+  number: '13'
+previous:
+  id: EXO/5/11
+  number: '11'
+reference: 'Exodus 5:12'

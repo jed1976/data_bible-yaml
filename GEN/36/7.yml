@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 36:7" class="v">7</span>For
+  their riches were more than that they might dwell together; and the land
+  wherein they were strangers could not bear them because of their cattle. </p>
+id: GEN/36/7
+next:
+  id: GEN/36/8
+  number: '8'
+previous:
+  id: GEN/36/6
+  number: '6'
+reference: 'Genesis 36:7'

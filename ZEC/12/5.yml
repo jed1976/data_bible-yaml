@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 12:5" class="v">5</span>And
+  the governors of Judah shall say in their heart, The inhabitants of Jerusalem
+  <span class="add">shall be</span> my strength in the <span
+  class="nd">LORD</span> of hosts their God.</p>
+id: ZEC/12/5
+next:
+  id: ZEC/12/6
+  number: '6'
+previous:
+  id: ZEC/12/4
+  number: '4'
+reference: 'Zechariah 12:5'

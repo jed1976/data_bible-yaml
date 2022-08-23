@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 9:20"
+  class="v">20</span>This we will do to them; we will even let them live, lest
+  wrath be upon us, because of the oath which we sware unto them. </p>
+id: JOS/9/20
+next:
+  id: JOS/9/21
+  number: '21'
+previous:
+  id: JOS/9/19
+  number: '19'
+reference: 'Joshua 9:20'

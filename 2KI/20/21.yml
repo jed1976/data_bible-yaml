@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 20:21"
+  class="v">21</span>And Hezekiah slept with his fathers: and Manasseh his son
+  reigned in his stead.</p>
+id: 2KI/20/21
+next:
+  id: 2KI/21/1
+  number: '1'
+previous:
+  id: 2KI/20/20
+  number: '20'
+reference: '2 Kings 20:21'

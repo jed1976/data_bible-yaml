@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CH 8:15" class="v">15</span>And
+  Zebadiah, and Arad, and Ader, </p>
+id: 1CH/8/15
+next:
+  id: 1CH/8/16
+  number: '16'
+previous:
+  id: 1CH/8/14
+  number: '14'
+reference: '1 Chronicles 8:15'

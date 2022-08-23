@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="67" data-sid="PSA 119:67"
+  class="v">67</span>Before I was afflicted I went astray: but now have I kept
+  thy word.</p>
+id: PSA/119/67
+next:
+  id: PSA/119/68
+  number: '68'
+previous:
+  id: PSA/119/66
+  number: '66'
+reference: 'Psalms 119:67'

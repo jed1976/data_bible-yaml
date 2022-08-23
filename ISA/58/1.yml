@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 58:1" class="v">1</span>Cry
+  aloud, spare not, lift up thy voice like a trumpet, and shew my people their
+  transgression, and the house of Jacob their sins. </p>
+id: ISA/58/1
+next:
+  id: ISA/58/2
+  number: '2'
+previous:
+  id: ISA/57/21
+  number: '21'
+reference: 'Isaiah 58:1'

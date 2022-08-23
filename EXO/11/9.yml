@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 11:9" class="v">9</span>And
+  the <span class="nd">LORD</span> said unto Moses, Pharaoh shall not hearken
+  unto you; that my wonders may be multiplied in the land of Egypt. </p>
+id: EXO/11/9
+next:
+  id: EXO/11/10
+  number: '10'
+previous:
+  id: EXO/11/8
+  number: '8'
+reference: 'Exodus 11:9'

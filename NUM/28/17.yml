@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 28:17"
+  class="v">17</span>And in the fifteenth day of this month <span
+  class="add">is</span> the feast: seven days shall unleavened bread be eaten.
+  </p>
+id: NUM/28/17
+next:
+  id: NUM/28/18
+  number: '18'
+previous:
+  id: NUM/28/16
+  number: '16'
+reference: 'Numbers 28:17'

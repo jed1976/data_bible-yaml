@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="3JN 1:14" class="v">14</span>But
+  I trust I shall shortly see thee, and we shall speak face to face. Peace <span
+  class="add">be</span> to thee. <span class="add">Our</span> friends salute
+  thee. Greet the friends by name.</p>
+id: 3JN/1/14
+next:
+  id: JUD/intro/0
+  number: '0'
+previous:
+  id: 3JN/1/13
+  number: '13'
+reference: '3 John 1:14'

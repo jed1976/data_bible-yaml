@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 33:9" class="v">9</span>And
+  they removed from Marah, and came unto Elim: and in Elim <span
+  class="add">were</span> twelve fountains of water, and threescore and ten palm
+  trees; and they pitched there. </p>
+id: NUM/33/9
+next:
+  id: NUM/33/10
+  number: '10'
+previous:
+  id: NUM/33/8
+  number: '8'
+reference: 'Numbers 33:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 72:15"
+  class="v">15</span>And he shall live, and to him shall be given of the gold of
+  Sheba: prayer also shall be made for him continually; <span
+  class="add">and</span> daily shall he be praised.</p>
+id: PSA/72/15
+next:
+  id: PSA/72/16
+  number: '16'
+previous:
+  id: PSA/72/14
+  number: '14'
+reference: 'Psalms 72:15'

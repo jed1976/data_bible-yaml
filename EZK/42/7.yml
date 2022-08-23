@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 42:7" class="v">7</span>And
+  the wall that <span class="add">was</span> without over against the chambers,
+  toward the utter court on the forepart of the chambers, the length thereof
+  <span class="add">was</span> fifty cubits. </p>
+id: EZK/42/7
+next:
+  id: EZK/42/8
+  number: '8'
+previous:
+  id: EZK/42/6
+  number: '6'
+reference: 'Ezekiel 42:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="REV 22:8" class="v">8</span>And I
+  John saw these things, and heard <span class="add">them</span>. And when I had
+  heard and seen, I fell down to worship before the feet of the angel which
+  shewed me these things. </p>
+id: REV/22/8
+next:
+  id: REV/22/9
+  number: '9'
+previous:
+  id: REV/22/7
+  number: '7'
+reference: 'Revelation 22:8'

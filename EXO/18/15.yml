@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 18:15"
+  class="v">15</span>And Moses said unto his father in law, Because the people
+  come unto me to enquire of God: </p>
+id: EXO/18/15
+next:
+  id: EXO/18/16
+  number: '16'
+previous:
+  id: EXO/18/14
+  number: '14'
+reference: 'Exodus 18:15'

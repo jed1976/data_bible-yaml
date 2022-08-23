@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 17:9" class="v">9</span>And
+  the coast descended unto the river Kanah, southward of the river: these cities
+  of Ephraim <span class="add">are</span> among the cities of Manasseh: the
+  coast of Manasseh also <span class="add">was</span> on the north side of the
+  river, and the outgoings of it were at the sea: </p>
+id: JOS/17/9
+next:
+  id: JOS/17/10
+  number: '10'
+previous:
+  id: JOS/17/8
+  number: '8'
+reference: 'Joshua 17:9'

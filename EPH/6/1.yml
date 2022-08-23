@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EPH 6:1"
+  class="v">1</span>Children, obey your parents in the Lord: for this is right.
+  </p>
+id: EPH/6/1
+next:
+  id: EPH/6/2
+  number: '2'
+previous:
+  id: EPH/5/33
+  number: '33'
+reference: 'Ephesians 6:1'

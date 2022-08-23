@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="ACT 7:57"
+  class="v">57</span>Then they cried out with a loud voice, and stopped their
+  ears, and ran upon him with one accord, </p>
+id: ACT/7/57
+next:
+  id: ACT/7/58
+  number: '58'
+previous:
+  id: ACT/7/56
+  number: '56'
+reference: 'Acts 7:57'

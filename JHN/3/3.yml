@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 3:3" class="v">3</span>Jesus
+  answered and said unto him, <span class="wj">Verily, verily, I say unto thee,
+  Except a man be born again, he cannot see the kingdom of God.</span> </p>
+id: JHN/3/3
+next:
+  id: JHN/3/4
+  number: '4'
+previous:
+  id: JHN/3/2
+  number: '2'
+reference: 'John 3:3'

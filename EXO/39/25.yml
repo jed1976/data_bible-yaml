@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 39:25"
+  class="v">25</span>And they made bells <span class="add">of</span> pure gold,
+  and put the bells between the pomegranates upon the hem of the robe, round
+  about between the pomegranates; </p>
+id: EXO/39/25
+next:
+  id: EXO/39/26
+  number: '26'
+previous:
+  id: EXO/39/24
+  number: '24'
+reference: 'Exodus 39:25'

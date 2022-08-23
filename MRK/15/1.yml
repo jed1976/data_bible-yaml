@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 15:1" class="v">1</span>And
+  straightway in the morning the chief priests held a consultation with the
+  elders and scribes and the whole council, and bound Jesus, and carried <span
+  class="add">him</span> away, and delivered <span class="add">him</span> to
+  Pilate. </p>
+id: MRK/15/1
+next:
+  id: MRK/15/2
+  number: '2'
+previous:
+  id: MRK/14/72
+  number: '72'
+reference: 'Mark 15:1'

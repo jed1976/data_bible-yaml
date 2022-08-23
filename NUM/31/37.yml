@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 31:37"
+  class="v">37</span>And the <span class="nd">LORD’s</span> tribute of the sheep
+  was six hundred and threescore and fifteen. </p>
+id: NUM/31/37
+next:
+  id: NUM/31/38
+  number: '38'
+previous:
+  id: NUM/31/36
+  number: '36'
+reference: 'Numbers 31:37'

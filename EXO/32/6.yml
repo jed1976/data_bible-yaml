@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 32:6" class="v">6</span>And
+  they rose up early on the morrow, and offered burnt offerings, and brought
+  peace offerings; and the people sat down to eat and to drink, and rose up to
+  play.</p>
+id: EXO/32/6
+next:
+  id: EXO/32/7
+  number: '7'
+previous:
+  id: EXO/32/5
+  number: '5'
+reference: 'Exodus 32:6'

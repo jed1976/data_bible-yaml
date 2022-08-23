@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NEH 12:41"
+  class="v">41</span>And the priests; Eliakim, Maaseiah, Miniamin, Michaiah,
+  Elioenai, Zechariah, <span class="add">and</span> Hananiah, with trumpets;
+  </p>
+id: NEH/12/41
+next:
+  id: NEH/12/42
+  number: '42'
+previous:
+  id: NEH/12/40
+  number: '40'
+reference: 'Nehemiah 12:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 17:24"
+  class="v">24</span>Wisdom <span class="add">is</span> before him that hath
+  understanding; but the eyes of a fool <span class="add">are</span> in the ends
+  of the earth. </p>
+id: PRO/17/24
+next:
+  id: PRO/17/25
+  number: '25'
+previous:
+  id: PRO/17/23
+  number: '23'
+reference: 'Proverbs 17:24'

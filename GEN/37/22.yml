@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 37:22"
+  class="v">22</span>And Reuben said unto them, Shed no blood, <span
+  class="add">but</span> cast him into this pit that <span class="add">is</span>
+  in the wilderness, and lay no hand upon him; that he might rid him out of
+  their hands, to deliver him to his father again.</p>
+id: GEN/37/22
+next:
+  id: GEN/37/23
+  number: '23'
+previous:
+  id: GEN/37/21
+  number: '21'
+reference: 'Genesis 37:22'

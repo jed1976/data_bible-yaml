@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 15:17"
+  class="v">17</span><span class="wj">And when he came to himself, he said, How
+  many hired servants of my father’s have bread enough and to spare, and I
+  perish with hunger!</span> </p>
+id: LUK/15/17
+next:
+  id: LUK/15/18
+  number: '18'
+previous:
+  id: LUK/15/16
+  number: '16'
+reference: 'Luke 15:17'

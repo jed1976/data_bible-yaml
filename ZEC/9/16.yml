@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ZEC 9:16" class="v">16</span>And
+  the <span class="nd">LORD</span> their God shall save them in that day as the
+  flock of his people: for they <span class="add">shall be as</span> the stones
+  of a crown, lifted up as an ensign upon his land. </p>
+id: ZEC/9/16
+next:
+  id: ZEC/9/17
+  number: '17'
+previous:
+  id: ZEC/9/15
+  number: '15'
+reference: 'Zechariah 9:16'

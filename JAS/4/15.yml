@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JAS 4:15" class="v">15</span>For
+  that ye <span class="add">ought</span> to say, If the Lord will, we shall
+  live, and do this, or that. </p>
+id: JAS/4/15
+next:
+  id: JAS/4/16
+  number: '16'
+previous:
+  id: JAS/4/14
+  number: '14'
+reference: 'James 4:15'

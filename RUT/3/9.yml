@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="RUT 3:9" class="v">9</span>And he
+  said, Who <span class="add">art</span> thou? And she answered, I <span
+  class="add">am</span> Ruth thine handmaid: spread therefore thy skirt over
+  thine handmaid; for thou <span class="add">art</span> a near kinsman. </p>
+id: RUT/3/9
+next:
+  id: RUT/3/10
+  number: '10'
+previous:
+  id: RUT/3/8
+  number: '8'
+reference: 'Ruth 3:9'

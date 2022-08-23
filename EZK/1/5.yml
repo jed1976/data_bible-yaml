@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 1:5" class="v">5</span>Also
+  out of the midst thereof <span class="add">came</span> the likeness of four
+  living creatures. And this <span class="add">was</span> their appearance; they
+  had the likeness of a man. </p>
+id: EZK/1/5
+next:
+  id: EZK/1/6
+  number: '6'
+previous:
+  id: EZK/1/4
+  number: '4'
+reference: 'Ezekiel 1:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="EZK 40:41"
+  class="v">41</span>Four tables <span class="add">were</span> on this side, and
+  four tables on that side, by the side of the gate; eight tables, whereupon
+  they slew <span class="add">their sacrifices</span>. </p>
+id: EZK/40/41
+next:
+  id: EZK/40/42
+  number: '42'
+previous:
+  id: EZK/40/40
+  number: '40'
+reference: 'Ezekiel 40:41'

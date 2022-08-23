@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 35:4" class="v">4</span>I
+  will answer thee, and thy companions with thee. </p>
+id: JOB/35/4
+next:
+  id: JOB/35/5
+  number: '5'
+previous:
+  id: JOB/35/3
+  number: '3'
+reference: 'Job 35:4'

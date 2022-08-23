@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 48:1" class="v">1</span>Now
+  these <span class="add">are</span> the names of the tribes. From the north end
+  to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the
+  border of Damascus northward, to the coast of Hamath; for these are his sides
+  east <span class="add">and</span> west; a <span class="add">portion for</span>
+  Dan. </p>
+id: EZK/48/1
+next:
+  id: EZK/48/2
+  number: '2'
+previous:
+  id: EZK/47/23
+  number: '23'
+reference: 'Ezekiel 48:1'

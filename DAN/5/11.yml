@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DAN 5:11"
+  class="v">11</span>There is a man in thy kingdom, in whom <span
+  class="add">is</span> the spirit of the holy gods; and in the days of thy
+  father light and understanding and wisdom, like the wisdom of the gods, was
+  found in him; whom the king Nebuchadnezzar thy father, the king, <span
+  class="add">I say</span>, thy father, made master of the magicians,
+  astrologers, Chaldeans, <span class="add">and</span> soothsayers; </p>
+id: DAN/5/11
+next:
+  id: DAN/5/12
+  number: '12'
+previous:
+  id: DAN/5/10
+  number: '10'
+reference: 'Daniel 5:11'

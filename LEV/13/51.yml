@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="LEV 13:51"
+  class="v">51</span>And he shall look on the plague on the seventh day: if the
+  plague be spread in the garment, either in the warp, or in the woof, or in a
+  skin, <span class="add">or</span> in any work that is made of skin; the plague
+  <span class="add">is</span> a fretting leprosy; it <span class="add">is</span>
+  unclean. </p>
+id: LEV/13/51
+next:
+  id: LEV/13/52
+  number: '52'
+previous:
+  id: LEV/13/50
+  number: '50'
+reference: 'Leviticus 13:51'

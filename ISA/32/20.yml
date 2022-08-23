@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 32:20"
+  class="v">20</span>Blessed <span class="add">are</span> ye that sow beside all
+  waters, that send forth <span class="add">thither</span> the feet of the ox
+  and the ass.</p>
+id: ISA/32/20
+next:
+  id: ISA/33/1
+  number: '1'
+previous:
+  id: ISA/32/19
+  number: '19'
+reference: 'Isaiah 32:20'

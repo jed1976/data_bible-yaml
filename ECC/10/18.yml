@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ECC 10:18" class="v">18</span>¶
+  By much slothfulness the building decayeth; and through idleness of the hands
+  the house droppeth through.</p>
+id: ECC/10/18
+next:
+  id: ECC/10/19
+  number: '19'
+previous:
+  id: ECC/10/17
+  number: '17'
+reference: 'Ecclesiastes 10:18'

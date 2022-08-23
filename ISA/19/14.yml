@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 19:14"
+  class="v">14</span>The <span class="nd">LORD</span> hath mingled a perverse
+  spirit in the midst thereof: and they have caused Egypt to err in every work
+  thereof, as a drunken <span class="add">man</span> staggereth in his vomit.
+  </p>
+id: ISA/19/14
+next:
+  id: ISA/19/15
+  number: '15'
+previous:
+  id: ISA/19/13
+  number: '13'
+reference: 'Isaiah 19:14'

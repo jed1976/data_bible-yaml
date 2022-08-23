@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 3:9" class="v">9</span>And
+  all the people saw him walking and praising God: </p>
+id: ACT/3/9
+next:
+  id: ACT/3/10
+  number: '10'
+previous:
+  id: ACT/3/8
+  number: '8'
+reference: 'Acts 3:9'

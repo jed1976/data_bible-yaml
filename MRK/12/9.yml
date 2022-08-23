@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 12:9" class="v">9</span><span
+  class="wj">What shall therefore the lord of the vineyard do? he will come and
+  destroy the husbandmen, and will give the vineyard unto others.</span> </p>
+id: MRK/12/9
+next:
+  id: MRK/12/10
+  number: '10'
+previous:
+  id: MRK/12/8
+  number: '8'
+reference: 'Mark 12:9'

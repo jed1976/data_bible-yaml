@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JOS 15:41"
+  class="v">41</span>And Gederoth, Beth-dagon, and Naamah, and Makkedah; sixteen
+  cities with their villages: </p>
+id: JOS/15/41
+next:
+  id: JOS/15/42
+  number: '42'
+previous:
+  id: JOS/15/40
+  number: '40'
+reference: 'Joshua 15:41'

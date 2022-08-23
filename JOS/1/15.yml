@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 1:15"
+  class="v">15</span>Until the <span class="nd">LORD</span> have given your
+  brethren rest, as <span class="add">he hath given</span> you, and they also
+  have possessed the land which the <span class="nd">LORD</span> your God giveth
+  them: then ye shall return unto the land of your possession, and enjoy it,
+  which Moses the <span class="nd">LORD’s</span> servant gave you on this side
+  Jordan toward the sunrising.</p>
+id: JOS/1/15
+next:
+  id: JOS/1/16
+  number: '16'
+previous:
+  id: JOS/1/14
+  number: '14'
+reference: 'Joshua 1:15'

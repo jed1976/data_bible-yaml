@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 4:11"
+  class="v">11</span>This is the stone which was set at nought of you builders,
+  which is become the head of the corner. </p>
+id: ACT/4/11
+next:
+  id: ACT/4/12
+  number: '12'
+previous:
+  id: ACT/4/10
+  number: '10'
+reference: 'Acts 4:11'

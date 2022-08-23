@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="NUM 31:44"
+  class="v">44</span>And thirty and six thousand beeves, </p>
+id: NUM/31/44
+next:
+  id: NUM/31/45
+  number: '45'
+previous:
+  id: NUM/31/43
+  number: '43'
+reference: 'Numbers 31:44'

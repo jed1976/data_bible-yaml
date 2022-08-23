@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 42:3" class="v">3</span>A
+  bruised reed shall he not break, and the smoking flax shall he not quench: he
+  shall bring forth judgment unto truth. </p>
+id: ISA/42/3
+next:
+  id: ISA/42/4
+  number: '4'
+previous:
+  id: ISA/42/2
+  number: '2'
+reference: 'Isaiah 42:3'

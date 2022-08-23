@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 1:1" class="v">1</span>The
+  former treatise have I made, O Theophilus, of all that Jesus began both to do
+  and teach, </p>
+id: ACT/1/1
+next:
+  id: ACT/1/2
+  number: '2'
+previous:
+  id: ACT/intro/0
+  number: '0'
+reference: 'Acts 1:1'

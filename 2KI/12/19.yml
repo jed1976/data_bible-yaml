@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2KI 12:19" class="v">19</span>¶
+  And the rest of the acts of Joash, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Judah? </p>
+id: 2KI/12/19
+next:
+  id: 2KI/12/20
+  number: '20'
+previous:
+  id: 2KI/12/18
+  number: '18'
+reference: '2 Kings 12:19'

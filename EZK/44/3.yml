@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 44:3" class="v">3</span><span
+  class="add">It is</span> for the prince; the prince, he shall sit in it to eat
+  bread before the <span class="nd">LORD</span>; he shall enter by the way of
+  the porch of <span class="add">that</span> gate, and shall go out by the way
+  of the same.</p>
+id: EZK/44/3
+next:
+  id: EZK/44/4
+  number: '4'
+previous:
+  id: EZK/44/2
+  number: '2'
+reference: 'Ezekiel 44:3'

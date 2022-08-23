@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 19:14"
+  class="v">14</span>This <span class="add">is</span> the law, when a man dieth
+  in a tent: all that come into the tent, and all that <span
+  class="add">is</span> in the tent, shall be unclean seven days. </p>
+id: NUM/19/14
+next:
+  id: NUM/19/15
+  number: '15'
+previous:
+  id: NUM/19/13
+  number: '13'
+reference: 'Numbers 19:14'

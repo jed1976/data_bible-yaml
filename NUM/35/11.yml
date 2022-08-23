@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 35:11"
+  class="v">11</span>Then ye shall appoint you cities to be cities of refuge for
+  you; that the slayer may flee thither, which killeth any person at unawares.
+  </p>
+id: NUM/35/11
+next:
+  id: NUM/35/12
+  number: '12'
+previous:
+  id: NUM/35/10
+  number: '10'
+reference: 'Numbers 35:11'

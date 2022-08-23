@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 30:24"
+  class="v">24</span>And of cassia five hundred <span
+  class="add">shekels</span>, after the shekel of the sanctuary, and of oil
+  olive an hin: </p>
+id: EXO/30/24
+next:
+  id: EXO/30/25
+  number: '25'
+previous:
+  id: EXO/30/23
+  number: '23'
+reference: 'Exodus 30:24'

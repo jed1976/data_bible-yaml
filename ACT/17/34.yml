@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 17:34"
+  class="v">34</span>Howbeit certain men clave unto him, and believed: among the
+  which <span class="add">was</span> Dionysius the Areopagite, and a woman named
+  Damaris, and others with them.</p>
+id: ACT/17/34
+next:
+  id: ACT/18/1
+  number: '1'
+previous:
+  id: ACT/17/33
+  number: '33'
+reference: 'Acts 17:34'

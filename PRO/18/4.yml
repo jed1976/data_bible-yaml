@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 18:4" class="v">4</span>The
+  words of a man’s mouth <span class="add">are as</span> deep waters, <span
+  class="add">and</span> the wellspring of wisdom <span class="add">as</span> a
+  flowing brook. </p>
+id: PRO/18/4
+next:
+  id: PRO/18/5
+  number: '5'
+previous:
+  id: PRO/18/3
+  number: '3'
+reference: 'Proverbs 18:4'

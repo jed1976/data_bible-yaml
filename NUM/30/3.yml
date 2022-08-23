@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 30:3" class="v">3</span>If a
+  woman also vow a vow unto the <span class="nd">LORD</span>, and bind herself
+  by a bond, <span class="add">being</span> in her father’s house in her youth;
+  </p>
+id: NUM/30/3
+next:
+  id: NUM/30/4
+  number: '4'
+previous:
+  id: NUM/30/2
+  number: '2'
+reference: 'Numbers 30:3'

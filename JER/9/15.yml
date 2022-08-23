@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 9:15"
+  class="v">15</span>Therefore thus saith the <span class="nd">LORD</span> of
+  hosts, the God of Israel; Behold, I will feed them, <span
+  class="add">even</span> this people, with wormwood, and give them water of
+  gall to drink. </p>
+id: JER/9/15
+next:
+  id: JER/9/16
+  number: '16'
+previous:
+  id: JER/9/14
+  number: '14'
+reference: 'Jeremiah 9:15'

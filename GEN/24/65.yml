@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="GEN 24:65"
+  class="v">65</span>For she <span class="add">had</span> said unto the servant,
+  What man <span class="add">is</span> this that walketh in the field to meet
+  us? And the servant <span class="add">had</span> said, It <span
+  class="add">is</span> my master: therefore she took a vail, and covered
+  herself. </p>
+id: GEN/24/65
+next:
+  id: GEN/24/66
+  number: '66'
+previous:
+  id: GEN/24/64
+  number: '64'
+reference: 'Genesis 24:65'

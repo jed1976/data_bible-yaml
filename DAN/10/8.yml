@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 10:8"
+  class="v">8</span>Therefore I was left alone, and saw this great vision, and
+  there remained no strength in me: for my comeliness was turned in me into
+  corruption, and I retained no strength. </p>
+id: DAN/10/8
+next:
+  id: DAN/10/9
+  number: '9'
+previous:
+  id: DAN/10/7
+  number: '7'
+reference: 'Daniel 10:8'

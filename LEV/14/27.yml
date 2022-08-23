@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LEV 14:27"
+  class="v">27</span>And the priest shall sprinkle with his right finger <span
+  class="add">some</span> of the oil that <span class="add">is</span> in his
+  left hand seven times before the <span class="nd">LORD</span>: </p>
+id: LEV/14/27
+next:
+  id: LEV/14/28
+  number: '28'
+previous:
+  id: LEV/14/26
+  number: '26'
+reference: 'Leviticus 14:27'

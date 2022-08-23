@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 33:12" class="v">12</span>¶
+  <span class="add">And</span> of Benjamin he said, The beloved of the <span
+  class="nd">LORD</span> shall dwell in safety by him; <span class="add">and the
+  <span class="nd">Lord</span></span> shall cover him all the day long, and he
+  shall dwell between his shoulders.</p>
+id: DEU/33/12
+next:
+  id: DEU/33/13
+  number: '13'
+previous:
+  id: DEU/33/11
+  number: '11'
+reference: 'Deuteronomy 33:12'

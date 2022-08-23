@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HAG 2:23" class="v">23</span>In
+  that day, saith the <span class="nd">LORD</span> of hosts, will I take thee, O
+  Zerubbabel, my servant, the son of Shealtiel, saith the <span
+  class="nd">LORD</span>, and will make thee as a signet: for I have chosen
+  thee, saith the <span class="nd">LORD</span> of hosts.</p>
+id: HAG/2/23
+next:
+  id: ZEC/intro/0
+  number: '0'
+previous:
+  id: HAG/2/22
+  number: '22'
+reference: 'Haggai 2:23'

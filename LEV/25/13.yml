@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 25:13" class="v">13</span>In
+  the year of this jubile ye shall return every man unto his possession. </p>
+id: LEV/25/13
+next:
+  id: LEV/25/14
+  number: '14'
+previous:
+  id: LEV/25/12
+  number: '12'
+reference: 'Leviticus 25:13'

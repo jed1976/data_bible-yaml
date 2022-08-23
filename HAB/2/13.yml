@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HAB 2:13"
+  class="v">13</span>Behold, <span class="add">is it</span> not of the <span
+  class="nd">LORD</span> of hosts that the people shall labour in the very fire,
+  and the people shall weary themselves for very vanity? </p>
+id: HAB/2/13
+next:
+  id: HAB/2/14
+  number: '14'
+previous:
+  id: HAB/2/12
+  number: '12'
+reference: 'Habakkuk 2:13'

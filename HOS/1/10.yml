@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 1:10" class="v">10</span>¶
+  Yet the number of the children of Israel shall be as the sand of the sea,
+  which cannot be measured nor numbered; and it shall come to pass, <span
+  class="add">that</span> in the place where it was said unto them, Ye <span
+  class="add">are</span> not my people, <span class="add">there</span> it shall
+  be said unto them, <span class="add">Ye are</span> the sons of the living God.
+  </p>
+id: HOS/1/10
+next:
+  id: HOS/1/11
+  number: '11'
+previous:
+  id: HOS/1/9
+  number: '9'
+reference: 'Hosea 1:10'

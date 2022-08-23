@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 8:19" class="v">19</span>And
+  the ambush arose quickly out of their place, and they ran as soon as he had
+  stretched out his hand: and they entered into the city, and took it, and
+  hasted and set the city on fire. </p>
+id: JOS/8/19
+next:
+  id: JOS/8/20
+  number: '20'
+previous:
+  id: JOS/8/18
+  number: '18'
+reference: 'Joshua 8:19'

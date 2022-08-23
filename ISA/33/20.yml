@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 33:20"
+  class="v">20</span>Look upon Zion, the city of our solemnities: thine eyes
+  shall see Jerusalem a quiet habitation, a tabernacle <span
+  class="add">that</span> shall not be taken down; not one of the stakes thereof
+  shall ever be removed, neither shall any of the cords thereof be broken. </p>
+id: ISA/33/20
+next:
+  id: ISA/33/21
+  number: '21'
+previous:
+  id: ISA/33/19
+  number: '19'
+reference: 'Isaiah 33:20'

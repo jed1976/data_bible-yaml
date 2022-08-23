@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 11:7" class="v">7</span>But
+  out of a branch of her roots shall <span class="add">one</span> stand up in
+  his estate, which shall come with an army, and shall enter into the fortress
+  of the king of the north, and shall deal against them, and shall prevail: </p>
+id: DAN/11/7
+next:
+  id: DAN/11/8
+  number: '8'
+previous:
+  id: DAN/11/6
+  number: '6'
+reference: 'Daniel 11:7'

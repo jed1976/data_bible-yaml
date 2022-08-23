@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="OBA 1:19" class="v">19</span>And
+  <span class="add">they of</span> the south shall possess the mount of Esau;
+  and <span class="add">they of</span> the plain the Philistines: and they shall
+  possess the fields of Ephraim, and the fields of Samaria: and Benjamin <span
+  class="add">shall possess</span> Gilead. </p>
+id: OBA/1/19
+next:
+  id: OBA/1/20
+  number: '20'
+previous:
+  id: OBA/1/18
+  number: '18'
+reference: 'Obadiah 1:19'

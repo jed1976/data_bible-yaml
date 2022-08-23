@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 36:12"
+  class="v">12</span>And he did <span class="add">that which was</span> evil in
+  the sight of the <span class="nd">LORD</span> his God, <span
+  class="add">and</span> humbled not himself before Jeremiah the prophet <span
+  class="add">speaking</span> from the mouth of the <span
+  class="nd">LORD</span>. </p>
+id: 2CH/36/12
+next:
+  id: 2CH/36/13
+  number: '13'
+previous:
+  id: 2CH/36/11
+  number: '11'
+reference: '2 Chronicles 36:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 29:1" class="v">1</span>Give unto the <span
+  class="nd">LORD</span>, O ye mighty, give unto the <span
+  class="nd">LORD</span> glory and strength.</p>
+id: PSA/29/1
+next:
+  id: PSA/29/2
+  number: '2'
+previous:
+  id: PSA/28/9
+  number: '9'
+reference: 'Psalms 29:1'

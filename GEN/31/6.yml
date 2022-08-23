@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 31:6" class="v">6</span>And
+  ye know that with all my power I have served your father. </p>
+id: GEN/31/6
+next:
+  id: GEN/31/7
+  number: '7'
+previous:
+  id: GEN/31/5
+  number: '5'
+reference: 'Genesis 31:6'

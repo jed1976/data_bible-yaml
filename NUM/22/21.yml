@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 22:21"
+  class="v">21</span>And Balaam rose up in the morning, and saddled his ass, and
+  went with the princes of Moab.</p>
+id: NUM/22/21
+next:
+  id: NUM/22/22
+  number: '22'
+previous:
+  id: NUM/22/20
+  number: '20'
+reference: 'Numbers 22:21'

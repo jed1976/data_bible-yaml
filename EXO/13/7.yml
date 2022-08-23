@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 13:7"
+  class="v">7</span>Unleavened bread shall be eaten seven days; and there shall
+  no leavened bread be seen with thee, neither shall there be leaven seen with
+  thee in all thy quarters.</p>
+id: EXO/13/7
+next:
+  id: EXO/13/8
+  number: '8'
+previous:
+  id: EXO/13/6
+  number: '6'
+reference: 'Exodus 13:7'

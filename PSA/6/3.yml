@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 6:3" class="v">3</span>My
+  soul is also sore vexed: but thou, O <span class="nd">LORD</span>, how
+  long?</p>
+id: PSA/6/3
+next:
+  id: PSA/6/4
+  number: '4'
+previous:
+  id: PSA/6/2
+  number: '2'
+reference: 'Psalms 6:3'

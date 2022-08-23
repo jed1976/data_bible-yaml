@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 11:13"
+  class="v">13</span>These all died in faith, not having received the promises,
+  but having seen them afar off, and were persuaded of <span
+  class="add">them</span>, and embraced <span class="add">them</span>, and
+  confessed that they were strangers and pilgrims on the earth. </p>
+id: HEB/11/13
+next:
+  id: HEB/11/14
+  number: '14'
+previous:
+  id: HEB/11/12
+  number: '12'
+reference: 'Hebrews 11:13'

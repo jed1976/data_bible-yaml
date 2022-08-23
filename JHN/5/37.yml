@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JHN 5:37"
+  class="v">37</span><span class="wj">And the Father himself, which hath sent
+  me, hath borne witness of me. Ye have neither heard his voice at any time, nor
+  seen his shape.</span> </p>
+id: JHN/5/37
+next:
+  id: JHN/5/38
+  number: '38'
+previous:
+  id: JHN/5/36
+  number: '36'
+reference: 'John 5:37'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 26:30"
+  class="v">30</span>These <span class="add">are</span> the sons of Gilead:
+  <span class="add">of</span> Jeezer, the family of the Jeezerites: of Helek,
+  the family of the Helekites: </p>
+id: NUM/26/30
+next:
+  id: NUM/26/31
+  number: '31'
+previous:
+  id: NUM/26/29
+  number: '29'
+reference: 'Numbers 26:30'

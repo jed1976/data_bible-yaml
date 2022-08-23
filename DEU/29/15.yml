@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 29:15"
+  class="v">15</span>But with <span class="add">him</span> that standeth here
+  with us this day before the <span class="nd">LORD</span> our God, and also
+  with <span class="add">him</span> that <span class="add">is</span> not here
+  with us this day: </p>
+id: DEU/29/15
+next:
+  id: DEU/29/16
+  number: '16'
+previous:
+  id: DEU/29/14
+  number: '14'
+reference: 'Deuteronomy 29:15'

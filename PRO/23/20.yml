@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 23:20" class="v">20</span>Be
+  not among winebibbers; among riotous eaters of flesh: </p>
+id: PRO/23/20
+next:
+  id: PRO/23/21
+  number: '21'
+previous:
+  id: PRO/23/19
+  number: '19'
+reference: 'Proverbs 23:20'

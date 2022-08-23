@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 27:17"
+  class="v">17</span>Which when they had taken up, they used helps, undergirding
+  the ship; and, fearing lest they should fall into the quicksands, strake sail,
+  and so were driven. </p>
+id: ACT/27/17
+next:
+  id: ACT/27/18
+  number: '18'
+previous:
+  id: ACT/27/16
+  number: '16'
+reference: 'Acts 27:17'

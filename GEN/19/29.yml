@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 19:29" class="v">29</span>¶
+  And it came to pass, when God destroyed the cities of the plain, that God
+  remembered Abraham, and sent Lot out of the midst of the overthrow, when he
+  overthrew the cities in the which Lot dwelt.</p>
+id: GEN/19/29
+next:
+  id: GEN/19/30
+  number: '30'
+previous:
+  id: GEN/19/28
+  number: '28'
+reference: 'Genesis 19:29'

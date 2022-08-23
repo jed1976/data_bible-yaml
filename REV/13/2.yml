@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="REV 13:2" class="v">2</span>And
+  the beast which I saw was like unto a leopard, and his feet were as <span
+  class="add">the feet</span> of a bear, and his mouth as the mouth of a lion:
+  and the dragon gave him his power, and his seat, and great authority. </p>
+id: REV/13/2
+next:
+  id: REV/13/3
+  number: '3'
+previous:
+  id: REV/13/1
+  number: '1'
+reference: 'Revelation 13:2'

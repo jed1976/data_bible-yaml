@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 68:7"
+  class="v">7</span>O God, when thou wentest forth before thy people, when thou
+  didst march through the wilderness; Selah:</p>
+id: PSA/68/7
+next:
+  id: PSA/68/8
+  number: '8'
+previous:
+  id: PSA/68/6
+  number: '6'
+reference: 'Psalms 68:7'

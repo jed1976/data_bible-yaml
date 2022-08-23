@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAT 17:2" class="v">2</span>And
+  was transfigured before them: and his face did shine as the sun, and his
+  raiment was white as the light. </p>
+id: MAT/17/2
+next:
+  id: MAT/17/3
+  number: '3'
+previous:
+  id: MAT/17/1
+  number: '1'
+reference: 'Matthew 17:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 39:6"
+  class="v">6</span>Surely every man walketh in a vain shew: surely they are
+  disquieted in vain: he heapeth up <span class="add">riches</span>, and knoweth
+  not who shall gather them.</p>
+id: PSA/39/6
+next:
+  id: PSA/39/7
+  number: '7'
+previous:
+  id: PSA/39/5
+  number: '5'
+reference: 'Psalms 39:6'

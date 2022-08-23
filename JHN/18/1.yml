@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 18:1" class="v">1</span>When
+  Jesus had spoken these words, he went forth with his disciples over the brook
+  Cedron, where was a garden, into the which he entered, and his disciples. </p>
+id: JHN/18/1
+next:
+  id: JHN/18/2
+  number: '2'
+previous:
+  id: JHN/17/26
+  number: '26'
+reference: 'John 18:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 73:10"
+  class="v">10</span>Therefore his people return hither: and waters of a full
+  <span class="add">cup</span> are wrung out to them.</p>
+id: PSA/73/10
+next:
+  id: PSA/73/11
+  number: '11'
+previous:
+  id: PSA/73/9
+  number: '9'
+reference: 'Psalms 73:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 16:11"
+  class="v">11</span>And he said unto her, If they bind me fast with new ropes
+  that never were occupied, then shall I be weak, and be as another man. </p>
+id: JDG/16/11
+next:
+  id: JDG/16/12
+  number: '12'
+previous:
+  id: JDG/16/10
+  number: '10'
+reference: 'Judges 16:11'

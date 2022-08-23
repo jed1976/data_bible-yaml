@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 19:4" class="v">4</span>And
+  he ran before, and climbed up into a sycomore tree to see him: for he was to
+  pass that <span class="add">way</span>. </p>
+id: LUK/19/4
+next:
+  id: LUK/19/5
+  number: '5'
+previous:
+  id: LUK/19/3
+  number: '3'
+reference: 'Luke 19:4'

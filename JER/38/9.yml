@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 38:9" class="v">9</span>My
+  lord the king, these men have done evil in all that they have done to Jeremiah
+  the prophet, whom they have cast into the dungeon; and he is like to die for
+  hunger in the place where he is: for <span class="add">there is</span> no more
+  bread in the city. </p>
+id: JER/38/9
+next:
+  id: JER/38/10
+  number: '10'
+previous:
+  id: JER/38/8
+  number: '8'
+reference: 'Jeremiah 38:9'

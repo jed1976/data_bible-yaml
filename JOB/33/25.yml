@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 33:25"
+  class="v">25</span>His flesh shall be fresher than a child’s: he shall return
+  to the days of his youth: </p>
+id: JOB/33/25
+next:
+  id: JOB/33/26
+  number: '26'
+previous:
+  id: JOB/33/24
+  number: '24'
+reference: 'Job 33:25'

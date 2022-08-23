@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 26:24"
+  class="v">24</span><span class="wj">The Son of man goeth as it is written of
+  him: but woe unto that man by whom the Son of man is betrayed! it had been
+  good for that man if he had not been born.</span> </p>
+id: MAT/26/24
+next:
+  id: MAT/26/25
+  number: '25'
+previous:
+  id: MAT/26/23
+  number: '23'
+reference: 'Matthew 26:24'

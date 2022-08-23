@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 13:23"
+  class="v">23</span>But his wife said unto him, If the <span
+  class="nd">LORD</span> were pleased to kill us, he would not have received a
+  burnt offering and a meat offering at our hands, neither would he have shewed
+  us all these <span class="add">things</span>, nor would as at this time have
+  told us <span class="add">such things</span> as these.</p>
+id: JDG/13/23
+next:
+  id: JDG/13/24
+  number: '24'
+previous:
+  id: JDG/13/22
+  number: '22'
+reference: 'Judges 13:23'

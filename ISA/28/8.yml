@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 28:8" class="v">8</span>For
+  all tables are full of vomit <span class="add">and</span> filthiness, <span
+  class="add">so that there is</span> no place <span
+  class="add">clean</span>.</p>
+id: ISA/28/8
+next:
+  id: ISA/28/9
+  number: '9'
+previous:
+  id: ISA/28/7
+  number: '7'
+reference: 'Isaiah 28:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 69:18"
+  class="v">18</span>Draw nigh unto my soul, <span class="add">and</span> redeem
+  it: deliver me because of mine enemies.</p>
+id: PSA/69/18
+next:
+  id: PSA/69/19
+  number: '19'
+previous:
+  id: PSA/69/17
+  number: '17'
+reference: 'Psalms 69:18'

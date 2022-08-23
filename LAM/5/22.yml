@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LAM 5:22" class="v">22</span>But
+  thou hast utterly rejected us; thou art very wroth against us.</p>
+id: LAM/5/22
+next:
+  id: EZK/intro/0
+  number: '0'
+previous:
+  id: LAM/5/21
+  number: '21'
+reference: 'Lamentations 5:22'

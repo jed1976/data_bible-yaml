@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 11:30"
+  class="v">30</span><span class="add">Are</span> they not on the other side
+  Jordan, by the way where the sun goeth down, in the land of the Canaanites,
+  which dwell in the champaign over against Gilgal, beside the plains of Moreh?
+  </p>
+id: DEU/11/30
+next:
+  id: DEU/11/31
+  number: '31'
+previous:
+  id: DEU/11/29
+  number: '29'
+reference: 'Deuteronomy 11:30'

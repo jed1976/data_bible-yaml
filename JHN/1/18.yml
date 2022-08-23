@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 1:18" class="v">18</span>No
+  man hath seen God at any time; the only begotten Son, which is in the bosom of
+  the Father, he hath declared <span class="add">him.</span></p>
+id: JHN/1/18
+next:
+  id: JHN/1/19
+  number: '19'
+previous:
+  id: JHN/1/17
+  number: '17'
+reference: 'John 1:18'

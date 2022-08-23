@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JDG 20:43"
+  class="v">43</span><span class="add">Thus</span> they inclosed the Benjamites
+  round about, <span class="add">and</span> chased them, <span
+  class="add">and</span> trode them down with ease over against Gibeah toward
+  the sunrising. </p>
+id: JDG/20/43
+next:
+  id: JDG/20/44
+  number: '44'
+previous:
+  id: JDG/20/42
+  number: '42'
+reference: 'Judges 20:43'

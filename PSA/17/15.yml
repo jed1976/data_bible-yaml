@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 17:15"
+  class="v">15</span>As for me, I will behold thy face in righteousness: I shall
+  be satisfied, when I awake, with thy likeness.</p>
+id: PSA/17/15
+next:
+  id: PSA/18/1
+  number: '1'
+previous:
+  id: PSA/17/14
+  number: '14'
+reference: 'Psalms 17:15'

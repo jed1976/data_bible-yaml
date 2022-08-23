@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JER 50:44"
+  class="v">44</span>Behold, he shall come up like a lion from the swelling of
+  Jordan unto the habitation of the strong: but I will make them suddenly run
+  away from her: and who <span class="add">is</span> a chosen <span
+  class="add">man, that</span> I may appoint over her? for who <span
+  class="add">is</span> like me? and who will appoint me the time? and who <span
+  class="add">is</span> that shepherd that will stand before me? </p>
+id: JER/50/44
+next:
+  id: JER/50/45
+  number: '45'
+previous:
+  id: JER/50/43
+  number: '43'
+reference: 'Jeremiah 50:44'

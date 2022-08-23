@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 22:2" class="v">2</span>¶ If
+  a thief be found breaking up, and be smitten that he die, <span
+  class="add">there shall</span> no blood <span class="add">be shed</span> for
+  him. </p>
+id: EXO/22/2
+next:
+  id: EXO/22/3
+  number: '3'
+previous:
+  id: EXO/22/1
+  number: '1'
+reference: 'Exodus 22:2'

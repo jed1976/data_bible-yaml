@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 58:13" class="v">13</span>¶
+  If thou turn away thy foot from the sabbath, <span class="add">from</span>
+  doing thy pleasure on my holy day; and call the sabbath a delight, the holy of
+  the <span class="nd">LORD</span>, honourable; and shalt honour him, not doing
+  thine own ways, nor finding thine own pleasure, nor speaking <span
+  class="add">thine own</span> words: </p>
+id: ISA/58/13
+next:
+  id: ISA/58/14
+  number: '14'
+previous:
+  id: ISA/58/12
+  number: '12'
+reference: 'Isaiah 58:13'

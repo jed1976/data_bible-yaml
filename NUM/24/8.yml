@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 24:8" class="v">8</span>God
+  brought him forth out of Egypt; he hath as it were the strength of an unicorn:
+  he shall eat up the nations his enemies, and shall break their bones, and
+  pierce <span class="add">them</span> through with his arrows. </p>
+id: NUM/24/8
+next:
+  id: NUM/24/9
+  number: '9'
+previous:
+  id: NUM/24/7
+  number: '7'
+reference: 'Numbers 24:8'

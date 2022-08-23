@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EST 4:3" class="v">3</span>And in
+  every province, whithersoever the king’s commandment and his decree came,
+  <span class="add">there was</span> great mourning among the Jews, and fasting,
+  and weeping, and wailing; and many lay in sackcloth and ashes.</p>
+id: EST/4/3
+next:
+  id: EST/4/4
+  number: '4'
+previous:
+  id: EST/4/2
+  number: '2'
+reference: 'Esther 4:3'

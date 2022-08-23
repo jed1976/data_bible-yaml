@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 7:24" class="v">24</span>And
+  seeing one <span class="add">of them</span> suffer wrong, he defended <span
+  class="add">him</span>, and avenged him that was oppressed, and smote the
+  Egyptian: </p>
+id: ACT/7/24
+next:
+  id: ACT/7/25
+  number: '25'
+previous:
+  id: ACT/7/23
+  number: '23'
+reference: 'Acts 7:24'

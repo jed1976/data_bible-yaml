@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1KI 9:15" class="v">15</span>¶
+  And this <span class="add">is</span> the reason of the levy which king Solomon
+  raised; for to build the house of the <span class="nd">LORD</span>, and his
+  own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and
+  Gezer. </p>
+id: 1KI/9/15
+next:
+  id: 1KI/9/16
+  number: '16'
+previous:
+  id: 1KI/9/14
+  number: '14'
+reference: '1 Kings 9:15'

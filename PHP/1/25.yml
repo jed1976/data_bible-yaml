@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PHP 1:25" class="v">25</span>And
+  having this confidence, I know that I shall abide and continue with you all
+  for your furtherance and joy of faith; </p>
+id: PHP/1/25
+next:
+  id: PHP/1/26
+  number: '26'
+previous:
+  id: PHP/1/24
+  number: '24'
+reference: 'Philippians 1:25'

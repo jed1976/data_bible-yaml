@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 9:29"
+  class="v">29</span><span class="add">If</span> I be wicked, why then labour I
+  in vain? </p>
+id: JOB/9/29
+next:
+  id: JOB/9/30
+  number: '30'
+previous:
+  id: JOB/9/28
+  number: '28'
+reference: 'Job 9:29'

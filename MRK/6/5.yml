@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 6:5" class="v">5</span>And he
+  could there do no mighty work, save that he laid his hands upon a few sick
+  folk, and healed <span class="add">them</span>. </p>
+id: MRK/6/5
+next:
+  id: MRK/6/6
+  number: '6'
+previous:
+  id: MRK/6/4
+  number: '4'
+reference: 'Mark 6:5'

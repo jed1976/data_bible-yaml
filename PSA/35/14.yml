@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 35:14" class="v">14</span>I
+  behaved myself as though <span class="add">he had been</span> my friend <span
+  class="add">or</span> brother: I bowed down heavily, as one that mourneth
+  <span class="add">for his</span> mother.</p>
+id: PSA/35/14
+next:
+  id: PSA/35/15
+  number: '15'
+previous:
+  id: PSA/35/13
+  number: '13'
+reference: 'Psalms 35:14'

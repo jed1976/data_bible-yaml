@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="NEH 7:55" class="v">55</span>The
+  children of Barkos, the children of Sisera, the children of Tamah, </p>
+id: NEH/7/55
+next:
+  id: NEH/7/56
+  number: '56'
+previous:
+  id: NEH/7/54
+  number: '54'
+reference: 'Nehemiah 7:55'

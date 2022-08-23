@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 35:8" class="v">8</span>And
+  an highway shall be there, and a way, and it shall be called The way of
+  holiness; the unclean shall not pass over it; but it <span class="add">shall
+  be</span> for those: the wayfaring men, though fools, shall not err <span
+  class="add">therein</span>. </p>
+id: ISA/35/8
+next:
+  id: ISA/35/9
+  number: '9'
+previous:
+  id: ISA/35/7
+  number: '7'
+reference: 'Isaiah 35:8'

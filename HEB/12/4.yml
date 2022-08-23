@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 12:4" class="v">4</span>Ye
+  have not yet resisted unto blood, striving against sin. </p>
+id: HEB/12/4
+next:
+  id: HEB/12/5
+  number: '5'
+previous:
+  id: HEB/12/3
+  number: '3'
+reference: 'Hebrews 12:4'

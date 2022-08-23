@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 11:15" class="v">15</span>He
+  that is surety for a stranger shall smart <span class="add">for it:</span> and
+  he that hateth suretiship is sure. </p>
+id: PRO/11/15
+next:
+  id: PRO/11/16
+  number: '16'
+previous:
+  id: PRO/11/14
+  number: '14'
+reference: 'Proverbs 11:15'

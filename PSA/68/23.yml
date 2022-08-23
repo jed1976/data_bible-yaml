@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 68:23"
+  class="v">23</span>That thy foot may be dipped in the blood of <span
+  class="add">thine</span> enemies, <span class="add">and</span> the tongue of
+  thy dogs in the same.</p>
+id: PSA/68/23
+next:
+  id: PSA/68/24
+  number: '24'
+previous:
+  id: PSA/68/22
+  number: '22'
+reference: 'Psalms 68:23'

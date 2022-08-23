@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 18:8" class="v">8</span>And
+  he answered him, I <span class="add">am:</span> go, tell thy lord, Behold,
+  Elijah <span class="add">is here</span>. </p>
+id: 1KI/18/8
+next:
+  id: 1KI/18/9
+  number: '9'
+previous:
+  id: 1KI/18/7
+  number: '7'
+reference: '1 Kings 18:8'

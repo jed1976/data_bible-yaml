@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 73:22"
+  class="v">22</span>So foolish <span class="add">was</span> I, and ignorant: I
+  was <span class="add">as</span> a beast before thee.</p>
+id: PSA/73/22
+next:
+  id: PSA/73/23
+  number: '23'
+previous:
+  id: PSA/73/21
+  number: '21'
+reference: 'Psalms 73:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 9:7" class="v">7</span><span
+  class="add">Are</span> ye not as children of the Ethiopians unto me, O
+  children of Israel? saith the <span class="nd">LORD</span>. Have not I brought
+  up Israel out of the land of Egypt? and the Philistines from Caphtor, and the
+  Syrians from Kir? </p>
+id: AMO/9/7
+next:
+  id: AMO/9/8
+  number: '8'
+previous:
+  id: AMO/9/6
+  number: '6'
+reference: 'Amos 9:7'

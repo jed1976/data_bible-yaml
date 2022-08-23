@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 47:3" class="v">3</span>At
+  the noise of the stamping of the hoofs of his strong <span
+  class="add">horses</span>, at the rushing of his chariots, <span
+  class="add">and at</span> the rumbling of his wheels, the fathers shall not
+  look back to <span class="add">their</span> children for feebleness of hands;
+  </p>
+id: JER/47/3
+next:
+  id: JER/47/4
+  number: '4'
+previous:
+  id: JER/47/2
+  number: '2'
+reference: 'Jeremiah 47:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MRK 9:44"
+  class="v">44</span><span class="wj">Where their worm dieth not, and the fire
+  is not quenched.</span> </p>
+id: MRK/9/44
+next:
+  id: MRK/9/45
+  number: '45'
+previous:
+  id: MRK/9/43
+  number: '43'
+reference: 'Mark 9:44'

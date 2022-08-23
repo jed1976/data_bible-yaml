@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Song of degrees of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 122:1" class="v">1</span>I was glad when they
+  said unto me, Let us go into the house of the <span
+  class="nd">LORD</span>.</p>
+id: PSA/122/1
+next:
+  id: PSA/122/2
+  number: '2'
+previous:
+  id: PSA/121/8
+  number: '8'
+reference: 'Psalms 122:1'

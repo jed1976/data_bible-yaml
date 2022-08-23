@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 18:1" class="v">1</span>At
+  the same time came the disciples unto Jesus, saying, Who is the greatest in
+  the kingdom of heaven? </p>
+id: MAT/18/1
+next:
+  id: MAT/18/2
+  number: '2'
+previous:
+  id: MAT/17/27
+  number: '27'
+reference: 'Matthew 18:1'

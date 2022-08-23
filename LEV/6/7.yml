@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 6:7" class="v">7</span>And
+  the priest shall make an atonement for him before the <span
+  class="nd">LORD</span>: and it shall be forgiven him for any thing of all that
+  he hath done in trespassing therein.</p>
+id: LEV/6/7
+next:
+  id: LEV/6/8
+  number: '8'
+previous:
+  id: LEV/6/6
+  number: '6'
+reference: 'Leviticus 6:7'

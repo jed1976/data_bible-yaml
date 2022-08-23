@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 27:5" class="v">5</span>And
+  if <span class="add">it be</span> from five years old even unto twenty years
+  old, then thy estimation shall be of the male twenty shekels, and for the
+  female ten shekels. </p>
+id: LEV/27/5
+next:
+  id: LEV/27/6
+  number: '6'
+previous:
+  id: LEV/27/4
+  number: '4'
+reference: 'Leviticus 27:5'

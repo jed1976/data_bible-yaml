@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 23:16"
+  class="v">16</span>Yea, my reins shall rejoice, when thy lips speak right
+  things.</p>
+id: PRO/23/16
+next:
+  id: PRO/23/17
+  number: '17'
+previous:
+  id: PRO/23/15
+  number: '15'
+reference: 'Proverbs 23:16'

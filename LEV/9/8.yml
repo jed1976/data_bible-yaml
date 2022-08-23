@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 9:8" class="v">8</span>¶
+  Aaron therefore went unto the altar, and slew the calf of the sin offering,
+  which <span class="add">was</span> for himself. </p>
+id: LEV/9/8
+next:
+  id: LEV/9/9
+  number: '9'
+previous:
+  id: LEV/9/7
+  number: '7'
+reference: 'Leviticus 9:8'

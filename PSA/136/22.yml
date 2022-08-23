@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 136:22"
+  class="v">22</span><span class="add">Even</span> an heritage unto Israel his
+  servant: for his mercy <span class="add">endureth</span> for ever.</p>
+id: PSA/136/22
+next:
+  id: PSA/136/23
+  number: '23'
+previous:
+  id: PSA/136/21
+  number: '21'
+reference: 'Psalms 136:22'

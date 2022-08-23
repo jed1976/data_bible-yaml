@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 13:18"
+  class="v">18</span>Then Abram removed <span class="add">his</span> tent, and
+  came and dwelt in the plain of Mamre, which <span class="add">is</span> in
+  Hebron, and built there an altar unto the <span class="nd">LORD</span>.</p>
+id: GEN/13/18
+next:
+  id: GEN/14/1
+  number: '1'
+previous:
+  id: GEN/13/17
+  number: '17'
+reference: 'Genesis 13:18'

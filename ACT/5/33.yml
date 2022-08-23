@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 5:33" class="v">33</span>¶
+  When they heard <span class="add">that</span>, they were cut <span
+  class="add">to the heart</span>, and took counsel to slay them. </p>
+id: ACT/5/33
+next:
+  id: ACT/5/34
+  number: '34'
+previous:
+  id: ACT/5/32
+  number: '32'
+reference: 'Acts 5:33'

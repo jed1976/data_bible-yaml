@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 33:3" class="v">3</span>My
+  words <span class="add">shall be of</span> the uprightness of my heart: and my
+  lips shall utter knowledge clearly. </p>
+id: JOB/33/3
+next:
+  id: JOB/33/4
+  number: '4'
+previous:
+  id: JOB/33/2
+  number: '2'
+reference: 'Job 33:3'

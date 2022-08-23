@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 10:3" class="v">3</span>And
+  he answered and said unto them, <span class="wj">What did Moses command
+  you?</span> </p>
+id: MRK/10/3
+next:
+  id: MRK/10/4
+  number: '4'
+previous:
+  id: MRK/10/2
+  number: '2'
+reference: 'Mark 10:3'

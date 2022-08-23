@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="REV 5:8" class="v">8</span>And
+  when he had taken the book, the four beasts and four <span
+  class="add">and</span> twenty elders fell down before the Lamb, having every
+  one of them harps, and golden vials full of odours, which are the prayers of
+  saints. </p>
+id: REV/5/8
+next:
+  id: REV/5/9
+  number: '9'
+previous:
+  id: REV/5/7
+  number: '7'
+reference: 'Revelation 5:8'

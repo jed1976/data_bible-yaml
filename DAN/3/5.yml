@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 3:5" class="v">5</span><span
+  class="add">That</span> at what time ye hear the sound of the cornet, flute,
+  harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and
+  worship the golden image that Nebuchadnezzar the king hath set up: </p>
+id: DAN/3/5
+next:
+  id: DAN/3/6
+  number: '6'
+previous:
+  id: DAN/3/4
+  number: '4'
+reference: 'Daniel 3:5'

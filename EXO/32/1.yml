@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 32:1" class="v">1</span>And
+  when the people saw that Moses delayed to come down out of the mount, the
+  people gathered themselves together unto Aaron, and said unto him, Up, make us
+  gods, which shall go before us; for <span class="add">as for</span> this
+  Moses, the man that brought us up out of the land of Egypt, we wot not what is
+  become of him. </p>
+id: EXO/32/1
+next:
+  id: EXO/32/2
+  number: '2'
+previous:
+  id: EXO/31/18
+  number: '18'
+reference: 'Exodus 32:1'

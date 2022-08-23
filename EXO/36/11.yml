@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 36:11"
+  class="v">11</span>And he made loops of blue on the edge of one curtain from
+  the selvedge in the coupling: likewise he made in the uttermost side of <span
+  class="add">another</span> curtain, in the coupling of the second. </p>
+id: EXO/36/11
+next:
+  id: EXO/36/12
+  number: '12'
+previous:
+  id: EXO/36/10
+  number: '10'
+reference: 'Exodus 36:11'

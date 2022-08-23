@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 11:1" class="v">1</span>And
+  there was given me a reed like unto a rod: and the angel stood, saying, Rise,
+  and measure the temple of God, and the altar, and them that worship therein.
+  </p>
+id: REV/11/1
+next:
+  id: REV/11/2
+  number: '2'
+previous:
+  id: REV/10/11
+  number: '11'
+reference: 'Revelation 11:1'

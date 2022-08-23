@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 6:9" class="v">9</span>Even
+  that it would please God to destroy me; that he would let loose his hand, and
+  cut me off! </p>
+id: JOB/6/9
+next:
+  id: JOB/6/10
+  number: '10'
+previous:
+  id: JOB/6/8
+  number: '8'
+reference: 'Job 6:9'

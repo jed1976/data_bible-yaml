@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EST 1:18"
+  class="v">18</span><span class="add">Likewise</span> shall the ladies of
+  Persia and Media say this day unto all the king’s princes, which have heard of
+  the deed of the queen. Thus <span class="add">shall there arise</span> too
+  much contempt and wrath. </p>
+id: EST/1/18
+next:
+  id: EST/1/19
+  number: '19'
+previous:
+  id: EST/1/17
+  number: '17'
+reference: 'Esther 1:18'

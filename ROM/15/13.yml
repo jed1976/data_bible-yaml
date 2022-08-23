@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 15:13"
+  class="v">13</span>Now the God of hope fill you with all joy and peace in
+  believing, that ye may abound in hope, through the power of the Holy Ghost.
+  </p>
+id: ROM/15/13
+next:
+  id: ROM/15/14
+  number: '14'
+previous:
+  id: ROM/15/12
+  number: '12'
+reference: 'Romans 15:13'

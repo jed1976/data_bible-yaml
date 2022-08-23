@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 10:7" class="v">7</span>From
+  thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of
+  rivers of waters.</p>
+id: DEU/10/7
+next:
+  id: DEU/10/8
+  number: '8'
+previous:
+  id: DEU/10/6
+  number: '6'
+reference: 'Deuteronomy 10:7'

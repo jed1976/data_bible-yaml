@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 146:3" class="v">3</span>Put
+  not your trust in princes, <span class="add">nor</span> in the son of man, in
+  whom <span class="add">there is</span> no help.</p>
+id: PSA/146/3
+next:
+  id: PSA/146/4
+  number: '4'
+previous:
+  id: PSA/146/2
+  number: '2'
+reference: 'Psalms 146:3'

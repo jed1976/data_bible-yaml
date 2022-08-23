@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 4:13" class="v">13</span>¶
+  And if the whole congregation of Israel sin through ignorance, and the thing
+  be hid from the eyes of the assembly, and they have done <span
+  class="add">somewhat against</span> any of the commandments of the <span
+  class="nd">LORD</span> <span class="add">concerning things</span> which should
+  not be done, and are guilty; </p>
+id: LEV/4/13
+next:
+  id: LEV/4/14
+  number: '14'
+previous:
+  id: LEV/4/12
+  number: '12'
+reference: 'Leviticus 4:13'

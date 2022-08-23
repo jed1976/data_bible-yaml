@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 32:12"
+  class="v">12</span>Wherefore should the Egyptians speak, and say, For mischief
+  did he bring them out, to slay them in the mountains, and to consume them from
+  the face of the earth? Turn from thy fierce wrath, and repent of this evil
+  against thy people. </p>
+id: EXO/32/12
+next:
+  id: EXO/32/13
+  number: '13'
+previous:
+  id: EXO/32/11
+  number: '11'
+reference: 'Exodus 32:12'

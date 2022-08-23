@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 21:42"
+  class="v">42</span>Jesus saith unto them, <span class="wj">Did ye never read
+  in the scriptures, The stone which the builders rejected, the same is become
+  the head of the corner: this is the Lord’s doing, and it is marvellous in our
+  eyes?</span> </p>
+id: MAT/21/42
+next:
+  id: MAT/21/43
+  number: '43'
+previous:
+  id: MAT/21/41
+  number: '41'
+reference: 'Matthew 21:42'

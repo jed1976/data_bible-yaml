@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 15:14"
+  class="v">14</span>What <span class="add">is</span> man, that he should be
+  clean? and <span class="add">he which is</span> born of a woman, that he
+  should be righteous? </p>
+id: JOB/15/14
+next:
+  id: JOB/15/15
+  number: '15'
+previous:
+  id: JOB/15/13
+  number: '13'
+reference: 'Job 15:14'

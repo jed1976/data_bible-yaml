@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 12:23"
+  class="v">23</span>For the <span class="nd">LORD</span> will pass through to
+  smite the Egyptians; and when he seeth the blood upon the lintel, and on the
+  two side posts, the <span class="nd">LORD</span> will pass over the door, and
+  will not suffer the destroyer to come in unto your houses to smite <span
+  class="add">you</span>. </p>
+id: EXO/12/23
+next:
+  id: EXO/12/24
+  number: '24'
+previous:
+  id: EXO/12/22
+  number: '22'
+reference: 'Exodus 12:23'

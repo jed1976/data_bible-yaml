@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ACT 21:36"
+  class="v">36</span>For the multitude of the people followed after, crying,
+  Away with him. </p>
+id: ACT/21/36
+next:
+  id: ACT/21/37
+  number: '37'
+previous:
+  id: ACT/21/35
+  number: '35'
+reference: 'Acts 21:36'

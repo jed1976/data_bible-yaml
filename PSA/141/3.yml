@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 141:3" class="v">3</span>Set
+  a watch, O <span class="nd">LORD</span>, before my mouth; keep the door of my
+  lips.</p>
+id: PSA/141/3
+next:
+  id: PSA/141/4
+  number: '4'
+previous:
+  id: PSA/141/2
+  number: '2'
+reference: 'Psalms 141:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="COL 4:12"
+  class="v">12</span>Epaphras, who is <span class="add">one</span> of you, a
+  servant of Christ, saluteth you, always labouring fervently for you in
+  prayers, that ye may stand perfect and complete in all the will of God. </p>
+id: COL/4/12
+next:
+  id: COL/4/13
+  number: '13'
+previous:
+  id: COL/4/11
+  number: '11'
+reference: 'Colossians 4:12'

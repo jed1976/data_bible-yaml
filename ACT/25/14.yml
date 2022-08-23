@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 25:14"
+  class="v">14</span>And when they had been there many days, Festus declared
+  Paul’s cause unto the king, saying, There is a certain man left in bonds by
+  Felix: </p>
+id: ACT/25/14
+next:
+  id: ACT/25/15
+  number: '15'
+previous:
+  id: ACT/25/13
+  number: '13'
+reference: 'Acts 25:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 25:13" class="v">13</span>¶
+  Thou shalt not have in thy bag divers weights, a great and a small. </p>
+id: DEU/25/13
+next:
+  id: DEU/25/14
+  number: '14'
+previous:
+  id: DEU/25/12
+  number: '12'
+reference: 'Deuteronomy 25:13'

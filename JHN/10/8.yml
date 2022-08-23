@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 10:8" class="v">8</span><span
+  class="wj">All that ever came before me are thieves and robbers: but the sheep
+  did not hear them.</span> </p>
+id: JHN/10/8
+next:
+  id: JHN/10/9
+  number: '9'
+previous:
+  id: JHN/10/7
+  number: '7'
+reference: 'John 10:8'

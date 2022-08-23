@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 3:5" class="v">5</span>And
+  next unto them the Tekoites repaired; but their nobles put not their necks to
+  the work of their Lord. </p>
+id: NEH/3/5
+next:
+  id: NEH/3/6
+  number: '6'
+previous:
+  id: NEH/3/4
+  number: '4'
+reference: 'Nehemiah 3:5'

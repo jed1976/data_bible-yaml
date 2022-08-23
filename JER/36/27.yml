@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JER 36:27" class="v">27</span>¶
+  Then the word of the <span class="nd">LORD</span> came to Jeremiah, after that
+  the king had burned the roll, and the words which Baruch wrote at the mouth of
+  Jeremiah, saying, </p>
+id: JER/36/27
+next:
+  id: JER/36/28
+  number: '28'
+previous:
+  id: JER/36/26
+  number: '26'
+reference: 'Jeremiah 36:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CO 12:16"
+  class="v">16</span>And if the ear shall say, Because I am not the eye, I am
+  not of the body; is it therefore not of the body? </p>
+id: 1CO/12/16
+next:
+  id: 1CO/12/17
+  number: '17'
+previous:
+  id: 1CO/12/15
+  number: '15'
+reference: '1 Corinthians 12:16'

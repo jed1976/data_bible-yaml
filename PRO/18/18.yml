@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 18:18"
+  class="v">18</span>The lot causeth contentions to cease, and parteth between
+  the mighty. </p>
+id: PRO/18/18
+next:
+  id: PRO/18/19
+  number: '19'
+previous:
+  id: PRO/18/17
+  number: '17'
+reference: 'Proverbs 18:18'

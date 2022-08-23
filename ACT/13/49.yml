@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="ACT 13:49"
+  class="v">49</span>And the word of the Lord was published throughout all the
+  region. </p>
+id: ACT/13/49
+next:
+  id: ACT/13/50
+  number: '50'
+previous:
+  id: ACT/13/48
+  number: '48'
+reference: 'Acts 13:49'

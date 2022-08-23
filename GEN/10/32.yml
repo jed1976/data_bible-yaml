@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 10:32"
+  class="v">32</span>These <span class="add">are</span> the families of the sons
+  of Noah, after their generations, in their nations: and by these were the
+  nations divided in the earth after the flood.</p>
+id: GEN/10/32
+next:
+  id: GEN/11/1
+  number: '1'
+previous:
+  id: GEN/10/31
+  number: '31'
+reference: 'Genesis 10:32'

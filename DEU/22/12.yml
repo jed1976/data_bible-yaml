@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 22:12" class="v">12</span>¶
+  Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith
+  thou coverest <span class="add">thyself</span>.</p>
+id: DEU/22/12
+next:
+  id: DEU/22/13
+  number: '13'
+previous:
+  id: DEU/22/11
+  number: '11'
+reference: 'Deuteronomy 22:12'

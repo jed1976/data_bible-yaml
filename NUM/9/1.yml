@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 9:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses in the wilderness of Sinai,
+  in the first month of the second year after they were come out of the land of
+  Egypt, saying, </p>
+id: NUM/9/1
+next:
+  id: NUM/9/2
+  number: '2'
+previous:
+  id: NUM/8/26
+  number: '26'
+reference: 'Numbers 9:1'

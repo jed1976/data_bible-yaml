@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 32:5" class="v">5</span>They
+  have corrupted themselves, their spot <span class="add">is</span> not <span
+  class="add">the spot</span> of his children: <span class="add">they are</span>
+  a perverse and crooked generation. </p>
+id: DEU/32/5
+next:
+  id: DEU/32/6
+  number: '6'
+previous:
+  id: DEU/32/4
+  number: '4'
+reference: 'Deuteronomy 32:5'

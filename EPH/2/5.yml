@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EPH 2:5" class="v">5</span>Even
+  when we were dead in sins, hath quickened us together with Christ, (by grace
+  ye are saved;) </p>
+id: EPH/2/5
+next:
+  id: EPH/2/6
+  number: '6'
+previous:
+  id: EPH/2/4
+  number: '4'
+reference: 'Ephesians 2:5'

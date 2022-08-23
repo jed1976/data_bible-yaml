@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 7:3" class="v">3</span>And
+  said unto him, Get thee out of thy country, and from thy kindred, and come
+  into the land which I shall shew thee. </p>
+id: ACT/7/3
+next:
+  id: ACT/7/4
+  number: '4'
+previous:
+  id: ACT/7/2
+  number: '2'
+reference: 'Acts 7:3'

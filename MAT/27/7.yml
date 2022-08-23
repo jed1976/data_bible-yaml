@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 27:7" class="v">7</span>And
+  they took counsel, and bought with them the potter’s field, to bury strangers
+  in. </p>
+id: MAT/27/7
+next:
+  id: MAT/27/8
+  number: '8'
+previous:
+  id: MAT/27/6
+  number: '6'
+reference: 'Matthew 27:7'

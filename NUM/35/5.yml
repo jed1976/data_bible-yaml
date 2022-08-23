@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 35:5" class="v">5</span>And
+  ye shall measure from without the city on the east side two thousand cubits,
+  and on the south side two thousand cubits, and on the west side two thousand
+  cubits, and on the north side two thousand cubits; and the city <span
+  class="add">shall be</span> in the midst: this shall be to them the suburbs of
+  the cities. </p>
+id: NUM/35/5
+next:
+  id: NUM/35/6
+  number: '6'
+previous:
+  id: NUM/35/4
+  number: '4'
+reference: 'Numbers 35:5'

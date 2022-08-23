@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 69:35"
+  class="v">35</span>For God will save Zion, and will build the cities of Judah:
+  that they may dwell there, and have it in possession.</p>
+id: PSA/69/35
+next:
+  id: PSA/69/36
+  number: '36'
+previous:
+  id: PSA/69/34
+  number: '34'
+reference: 'Psalms 69:35'

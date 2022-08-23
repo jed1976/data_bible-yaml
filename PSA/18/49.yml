@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="49" data-sid="PSA 18:49"
+  class="v">49</span>Therefore will I give thanks unto thee, O <span
+  class="nd">LORD</span>, among the heathen, and sing praises unto thy name.</p>
+id: PSA/18/49
+next:
+  id: PSA/18/50
+  number: '50'
+previous:
+  id: PSA/18/48
+  number: '48'
+reference: 'Psalms 18:49'

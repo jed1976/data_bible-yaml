@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 2:19" class="v">19</span>And
+  they said, An Egyptian delivered us out of the hand of the shepherds, and also
+  drew <span class="add">water</span> enough for us, and watered the flock. </p>
+id: EXO/2/19
+next:
+  id: EXO/2/20
+  number: '20'
+previous:
+  id: EXO/2/18
+  number: '18'
+reference: 'Exodus 2:19'

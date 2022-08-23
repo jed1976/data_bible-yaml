@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOL 2:9" class="v">9</span>They
+  shall run to and fro in the city; they shall run upon the wall, they shall
+  climb up upon the houses; they shall enter in at the windows like a thief.
+  </p>
+id: JOL/2/9
+next:
+  id: JOL/2/10
+  number: '10'
+previous:
+  id: JOL/2/8
+  number: '8'
+reference: 'Joel 2:9'

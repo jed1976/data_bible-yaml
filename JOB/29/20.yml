@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 29:20" class="v">20</span>My
+  glory <span class="add">was</span> fresh in me, and my bow was renewed in my
+  hand. </p>
+id: JOB/29/20
+next:
+  id: JOB/29/21
+  number: '21'
+previous:
+  id: JOB/29/19
+  number: '19'
+reference: 'Job 29:20'

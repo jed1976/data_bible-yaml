@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 22:4" class="v">4</span><span
+  class="wj">Again, he sent forth other servants, saying, Tell them which are
+  bidden, Behold, I have prepared my dinner: my oxen and <span
+  class="add">my</span> fatlings <span class="add">are</span> killed, and all
+  things <span class="add">are</span> ready: come unto the marriage.</span> </p>
+id: MAT/22/4
+next:
+  id: MAT/22/5
+  number: '5'
+previous:
+  id: MAT/22/3
+  number: '3'
+reference: 'Matthew 22:4'

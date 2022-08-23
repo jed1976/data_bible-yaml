@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 6:10"
+  class="v">10</span>Let all mine enemies be ashamed and sore vexed: let them
+  return <span class="add">and</span> be ashamed suddenly.</p>
+id: PSA/6/10
+next:
+  id: PSA/7/1
+  number: '1'
+previous:
+  id: PSA/6/9
+  number: '9'
+reference: 'Psalms 6:10'

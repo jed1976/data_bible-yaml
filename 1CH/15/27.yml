@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1CH 15:27"
+  class="v">27</span>And David <span class="add">was</span> clothed with a robe
+  of fine linen, and all the Levites that bare the ark, and the singers, and
+  Chenaniah the master of the song with the singers: David also <span
+  class="add">had</span> upon him an ephod of linen. </p>
+id: 1CH/15/27
+next:
+  id: 1CH/15/28
+  number: '28'
+previous:
+  id: 1CH/15/26
+  number: '26'
+reference: '1 Chronicles 15:27'

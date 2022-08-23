@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 36:6" class="v">6</span>Thy
+  righteousness <span class="add">is</span> like the great mountains; thy
+  judgments <span class="add">are</span> a great deep: O <span
+  class="nd">LORD</span>, thou preservest man and beast.</p>
+id: PSA/36/6
+next:
+  id: PSA/36/7
+  number: '7'
+previous:
+  id: PSA/36/5
+  number: '5'
+reference: 'Psalms 36:6'

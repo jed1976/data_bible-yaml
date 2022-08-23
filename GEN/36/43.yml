@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 36:43"
+  class="v">43</span>Duke Magdiel, duke Iram: these <span class="add">be</span>
+  the dukes of Edom, according to their habitations in the land of their
+  possession: he <span class="add">is</span> Esau the father of the
+  Edomites.</p>
+id: GEN/36/43
+next:
+  id: GEN/37/1
+  number: '1'
+previous:
+  id: GEN/36/42
+  number: '42'
+reference: 'Genesis 36:43'

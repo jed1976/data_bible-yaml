@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 68:11"
+  class="v">11</span>The Lord gave the word: great <span class="add">was</span>
+  the company of those that published <span class="add">it</span>.</p>
+id: PSA/68/11
+next:
+  id: PSA/68/12
+  number: '12'
+previous:
+  id: PSA/68/10
+  number: '10'
+reference: 'Psalms 68:11'

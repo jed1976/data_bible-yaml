@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 5:3" class="v">3</span>Or if
+  he touch the uncleanness of man, whatsoever uncleanness <span class="add">it
+  be</span> that a man shall be defiled withal, and it be hid from him; when he
+  knoweth <span class="add">of it</span>, then he shall be guilty. </p>
+id: LEV/5/3
+next:
+  id: LEV/5/4
+  number: '4'
+previous:
+  id: LEV/5/2
+  number: '2'
+reference: 'Leviticus 5:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 24:4" class="v">4</span>But
+  thou shalt go unto my country, and to my kindred, and take a wife unto my son
+  Isaac. </p>
+id: GEN/24/4
+next:
+  id: GEN/24/5
+  number: '5'
+previous:
+  id: GEN/24/3
+  number: '3'
+reference: 'Genesis 24:4'

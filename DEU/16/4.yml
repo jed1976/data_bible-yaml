@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 16:4" class="v">4</span>And
+  there shall be no leavened bread seen with thee in all thy coast seven days;
+  neither shall there <span class="add">any thing</span> of the flesh, which
+  thou sacrificedst the first day at even, remain all night until the morning.
+  </p>
+id: DEU/16/4
+next:
+  id: DEU/16/5
+  number: '5'
+previous:
+  id: DEU/16/3
+  number: '3'
+reference: 'Deuteronomy 16:4'

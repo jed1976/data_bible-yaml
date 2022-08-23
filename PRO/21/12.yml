@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 21:12"
+  class="v">12</span>The righteous <span class="add">man</span> wisely
+  considereth the house of the wicked: <span class="add">but God</span>
+  overthroweth the wicked for <span class="add">their</span> wickedness. </p>
+id: PRO/21/12
+next:
+  id: PRO/21/13
+  number: '13'
+previous:
+  id: PRO/21/11
+  number: '11'
+reference: 'Proverbs 21:12'

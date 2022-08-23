@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 14:11"
+  class="v">11</span>Then said she, I pray thee, let the king remember the <span
+  class="nd">LORD</span> thy God, that thou wouldest not suffer the revengers of
+  blood to destroy any more, lest they destroy my son. And he said, <span
+  class="add">As</span> the <span class="nd">LORD</span> liveth, there shall not
+  one hair of thy son fall to the earth. </p>
+id: 2SA/14/11
+next:
+  id: 2SA/14/12
+  number: '12'
+previous:
+  id: 2SA/14/10
+  number: '10'
+reference: '2 Samuel 14:11'

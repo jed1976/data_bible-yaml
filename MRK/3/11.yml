@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 3:11" class="v">11</span>And
+  unclean spirits, when they saw him, fell down before him, and cried, saying,
+  Thou art the Son of God. </p>
+id: MRK/3/11
+next:
+  id: MRK/3/12
+  number: '12'
+previous:
+  id: MRK/3/10
+  number: '10'
+reference: 'Mark 3:11'

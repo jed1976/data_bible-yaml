@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 27:20"
+  class="v">20</span>Which Nebuchadnezzar king of Babylon took not, when he
+  carried away captive Jeconiah the son of Jehoiakim king of Judah from
+  Jerusalem to Babylon, and all the nobles of Judah and Jerusalem; </p>
+id: JER/27/20
+next:
+  id: JER/27/21
+  number: '21'
+previous:
+  id: JER/27/19
+  number: '19'
+reference: 'Jeremiah 27:20'

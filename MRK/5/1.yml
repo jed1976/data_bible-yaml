@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 5:1" class="v">1</span>And
+  they came over unto the other side of the sea, into the country of the
+  Gadarenes. </p>
+id: MRK/5/1
+next:
+  id: MRK/5/2
+  number: '2'
+previous:
+  id: MRK/4/41
+  number: '41'
+reference: 'Mark 5:1'

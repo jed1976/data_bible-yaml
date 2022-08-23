@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 7:33"
+  class="v">33</span><span class="wj">For John the Baptist came neither eating
+  bread nor drinking wine; and ye say, He hath a devil.</span> </p>
+id: LUK/7/33
+next:
+  id: LUK/7/34
+  number: '34'
+previous:
+  id: LUK/7/32
+  number: '32'
+reference: 'Luke 7:33'

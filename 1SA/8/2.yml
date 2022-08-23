@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 8:2" class="v">2</span>Now
+  the name of his firstborn was Joel; and the name of his second, Abiah: <span
+  class="add">they were</span> judges in Beer-sheba. </p>
+id: 1SA/8/2
+next:
+  id: 1SA/8/3
+  number: '3'
+previous:
+  id: 1SA/8/1
+  number: '1'
+reference: '1 Samuel 8:2'

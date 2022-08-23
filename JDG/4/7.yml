@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 4:7" class="v">7</span>And I
+  will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army,
+  with his chariots and his multitude; and I will deliver him into thine hand.
+  </p>
+id: JDG/4/7
+next:
+  id: JDG/4/8
+  number: '8'
+previous:
+  id: JDG/4/6
+  number: '6'
+reference: 'Judges 4:7'

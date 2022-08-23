@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 132:10"
+  class="v">10</span>For thy servant David’s sake turn not away the face of
+  thine anointed.</p>
+id: PSA/132/10
+next:
+  id: PSA/132/11
+  number: '11'
+previous:
+  id: PSA/132/9
+  number: '9'
+reference: 'Psalms 132:10'

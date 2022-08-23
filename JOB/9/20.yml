@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 9:20" class="v">20</span>If
+  I justify myself, mine own mouth shall condemn me: <span class="add">if I
+  say</span>, I <span class="add">am</span> perfect, it shall also prove me
+  perverse. </p>
+id: JOB/9/20
+next:
+  id: JOB/9/21
+  number: '21'
+previous:
+  id: JOB/9/19
+  number: '19'
+reference: 'Job 9:20'

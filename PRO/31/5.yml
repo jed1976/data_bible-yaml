@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 31:5" class="v">5</span>Lest
+  they drink, and forget the law, and pervert the judgment of any of the
+  afflicted. </p>
+id: PRO/31/5
+next:
+  id: PRO/31/6
+  number: '6'
+previous:
+  id: PRO/31/4
+  number: '4'
+reference: 'Proverbs 31:5'

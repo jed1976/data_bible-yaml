@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 27:41"
+  class="v">41</span>Likewise also the chief priests mocking <span
+  class="add">him</span>, with the scribes and elders, said, </p>
+id: MAT/27/41
+next:
+  id: MAT/27/42
+  number: '42'
+previous:
+  id: MAT/27/40
+  number: '40'
+reference: 'Matthew 27:41'

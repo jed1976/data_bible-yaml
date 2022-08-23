@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="MAT 25:28"
+  class="v">28</span><span class="wj">Take therefore the talent from him, and
+  give <span class="add">it</span> unto him which hath ten talents.</span> </p>
+id: MAT/25/28
+next:
+  id: MAT/25/29
+  number: '29'
+previous:
+  id: MAT/25/27
+  number: '27'
+reference: 'Matthew 25:28'

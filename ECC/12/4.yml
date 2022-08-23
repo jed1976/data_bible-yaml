@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 12:4" class="v">4</span>And
+  the doors shall be shut in the streets, when the sound of the grinding is low,
+  and he shall rise up at the voice of the bird, and all the daughters of musick
+  shall be brought low; </p>
+id: ECC/12/4
+next:
+  id: ECC/12/5
+  number: '5'
+previous:
+  id: ECC/12/3
+  number: '3'
+reference: 'Ecclesiastes 12:4'

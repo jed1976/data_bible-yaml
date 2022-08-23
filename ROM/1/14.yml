@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 1:14" class="v">14</span>I
+  am debtor both to the Greeks, and to the Barbarians; both to the wise, and to
+  the unwise. </p>
+id: ROM/1/14
+next:
+  id: ROM/1/15
+  number: '15'
+previous:
+  id: ROM/1/13
+  number: '13'
+reference: 'Romans 1:14'

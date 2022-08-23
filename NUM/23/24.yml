@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 23:24"
+  class="v">24</span>Behold, the people shall rise up as a great lion, and lift
+  up himself as a young lion: he shall not lie down until he eat <span
+  class="add">of</span> the prey, and drink the blood of the slain.</p>
+id: NUM/23/24
+next:
+  id: NUM/23/25
+  number: '25'
+previous:
+  id: NUM/23/23
+  number: '23'
+reference: 'Numbers 23:24'

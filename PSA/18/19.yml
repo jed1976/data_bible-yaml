@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 18:19"
+  class="v">19</span>He brought me forth also into a large place; he delivered
+  me, because he delighted in me.</p>
+id: PSA/18/19
+next:
+  id: PSA/18/20
+  number: '20'
+previous:
+  id: PSA/18/18
+  number: '18'
+reference: 'Psalms 18:19'

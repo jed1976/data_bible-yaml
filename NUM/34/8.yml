@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 34:8" class="v">8</span>From
+  mount Hor ye shall point out <span class="add">your border</span> unto the
+  entrance of Hamath; and the goings forth of the border shall be to Zedad:</p>
+id: NUM/34/8
+next:
+  id: NUM/34/9
+  number: '9'
+previous:
+  id: NUM/34/7
+  number: '7'
+reference: 'Numbers 34:8'

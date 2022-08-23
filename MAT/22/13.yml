@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 22:13"
+  class="v">13</span><span class="wj">Then said the king to the servants, Bind
+  him hand and foot, and take him away, and cast <span class="add">him</span>
+  into outer darkness; there shall be weeping and gnashing of teeth.</span> </p>
+id: MAT/22/13
+next:
+  id: MAT/22/14
+  number: '14'
+previous:
+  id: MAT/22/12
+  number: '12'
+reference: 'Matthew 22:13'

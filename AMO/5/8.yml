@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 5:8" class="v">8</span><span
+  class="add">Seek him</span> that maketh the seven stars and Orion, and turneth
+  the shadow of death into the morning, and maketh the day dark with night: that
+  calleth for the waters of the sea, and poureth them out upon the face of the
+  earth: The <span class="nd">LORD</span> <span class="add">is</span> his name:
+  </p>
+id: AMO/5/8
+next:
+  id: AMO/5/9
+  number: '9'
+previous:
+  id: AMO/5/7
+  number: '7'
+reference: 'Amos 5:8'

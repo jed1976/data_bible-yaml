@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="GEN 24:52"
+  class="v">52</span>And it came to pass, that, when Abraham’s servant heard
+  their words, he worshipped the <span class="nd">LORD</span>, <span
+  class="add">bowing himself</span> to the earth. </p>
+id: GEN/24/52
+next:
+  id: GEN/24/53
+  number: '53'
+previous:
+  id: GEN/24/51
+  number: '51'
+reference: 'Genesis 24:52'

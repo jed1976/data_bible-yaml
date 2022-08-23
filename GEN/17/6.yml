@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 17:6" class="v">6</span>And I
+  will make thee exceeding fruitful, and I will make nations of thee, and kings
+  shall come out of thee.</p>
+id: GEN/17/6
+next:
+  id: GEN/17/7
+  number: '7'
+previous:
+  id: GEN/17/5
+  number: '5'
+reference: 'Genesis 17:6'

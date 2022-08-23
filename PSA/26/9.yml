@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 26:9"
+  class="v">9</span>Gather not my soul with sinners, nor my life with bloody
+  men:</p>
+id: PSA/26/9
+next:
+  id: PSA/26/10
+  number: '10'
+previous:
+  id: PSA/26/8
+  number: '8'
+reference: 'Psalms 26:9'

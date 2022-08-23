@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="1CH 8:35" class="v">35</span>And
+  the sons of Micah <span class="add">were</span>, Pithon, and Melech, and
+  Tarea, and Ahaz. </p>
+id: 1CH/8/35
+next:
+  id: 1CH/8/36
+  number: '36'
+previous:
+  id: 1CH/8/34
+  number: '34'
+reference: '1 Chronicles 8:35'

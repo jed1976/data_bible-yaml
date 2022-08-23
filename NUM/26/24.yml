@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 26:24" class="v">24</span>Of
+  Jashub, the family of the Jashubites: of Shimron, the family of the
+  Shimronites. </p>
+id: NUM/26/24
+next:
+  id: NUM/26/25
+  number: '25'
+previous:
+  id: NUM/26/23
+  number: '23'
+reference: 'Numbers 26:24'

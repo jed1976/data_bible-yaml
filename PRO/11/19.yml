@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 11:19" class="v">19</span>As
+  righteousness <span class="add">tendeth</span> to life: so he that pursueth
+  evil <span class="add">pursueth it</span> to his own death. </p>
+id: PRO/11/19
+next:
+  id: PRO/11/20
+  number: '20'
+previous:
+  id: PRO/11/18
+  number: '18'
+reference: 'Proverbs 11:19'

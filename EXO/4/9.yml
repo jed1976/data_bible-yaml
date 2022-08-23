@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 4:9" class="v">9</span>And it
+  shall come to pass, if they will not believe also these two signs, neither
+  hearken unto thy voice, that thou shalt take of the water of the river, and
+  pour <span class="add">it</span> upon the dry <span class="add">land:</span>
+  and the water which thou takest out of the river shall become blood upon the
+  dry <span class="add">land</span>.</p>
+id: EXO/4/9
+next:
+  id: EXO/4/10
+  number: '10'
+previous:
+  id: EXO/4/8
+  number: '8'
+reference: 'Exodus 4:9'

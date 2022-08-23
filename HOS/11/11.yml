@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 11:11"
+  class="v">11</span>They shall tremble as a bird out of Egypt, and as a dove
+  out of the land of Assyria: and I will place them in their houses, saith the
+  <span class="nd">LORD</span>. </p>
+id: HOS/11/11
+next:
+  id: HOS/11/12
+  number: '12'
+previous:
+  id: HOS/11/10
+  number: '10'
+reference: 'Hosea 11:11'

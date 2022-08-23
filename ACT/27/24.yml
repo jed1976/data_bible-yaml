@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 27:24"
+  class="v">24</span>Saying, Fear not, Paul; thou must be brought before Cæsar:
+  and, lo, God hath given thee all them that sail with thee. </p>
+id: ACT/27/24
+next:
+  id: ACT/27/25
+  number: '25'
+previous:
+  id: ACT/27/23
+  number: '23'
+reference: 'Acts 27:24'

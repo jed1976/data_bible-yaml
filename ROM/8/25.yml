@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 8:25" class="v">25</span>But
+  if we hope for that we see not, <span class="add">then</span> do we with
+  patience wait for <span class="add">it</span>. </p>
+id: ROM/8/25
+next:
+  id: ROM/8/26
+  number: '26'
+previous:
+  id: ROM/8/24
+  number: '24'
+reference: 'Romans 8:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 7:11" class="v">11</span>¶
+  Ephraim also is like a silly dove without heart: they call to Egypt, they go
+  to Assyria. </p>
+id: HOS/7/11
+next:
+  id: HOS/7/12
+  number: '12'
+previous:
+  id: HOS/7/10
+  number: '10'
+reference: 'Hosea 7:11'

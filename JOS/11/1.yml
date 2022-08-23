@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 11:1" class="v">1</span>And
+  it came to pass, when Jabin king of Hazor had heard <span class="add">those
+  things</span>, that he sent to Jobab king of Madon, and to the king of
+  Shimron, and to the king of Achshaph, </p>
+id: JOS/11/1
+next:
+  id: JOS/11/2
+  number: '2'
+previous:
+  id: JOS/10/43
+  number: '43'
+reference: 'Joshua 11:1'

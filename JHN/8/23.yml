@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 8:23" class="v">23</span>And
+  he said unto them, <span class="wj">Ye are from beneath; I am from above: ye
+  are of this world; I am not of this world.</span> </p>
+id: JHN/8/23
+next:
+  id: JHN/8/24
+  number: '24'
+previous:
+  id: JHN/8/22
+  number: '22'
+reference: 'John 8:23'

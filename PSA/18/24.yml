@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 18:24"
+  class="v">24</span>Therefore hath the <span class="nd">LORD</span> recompensed
+  me according to my righteousness, according to the cleanness of my hands in
+  his eyesight.</p>
+id: PSA/18/24
+next:
+  id: PSA/18/25
+  number: '25'
+previous:
+  id: PSA/18/23
+  number: '23'
+reference: 'Psalms 18:24'

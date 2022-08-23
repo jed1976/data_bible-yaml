@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 42:9" class="v">9</span>And
+  Joseph remembered the dreams which he dreamed of them, and said unto them, Ye
+  <span class="add">are</span> spies; to see the nakedness of the land ye are
+  come. </p>
+id: GEN/42/9
+next:
+  id: GEN/42/10
+  number: '10'
+previous:
+  id: GEN/42/8
+  number: '8'
+reference: 'Genesis 42:9'

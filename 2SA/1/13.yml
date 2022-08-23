@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 1:13" class="v">13</span>¶
+  And David said unto the young man that told him, Whence <span
+  class="add">art</span> thou? And he answered, I <span class="add">am</span>
+  the son of a stranger, an Amalekite. </p>
+id: 2SA/1/13
+next:
+  id: 2SA/1/14
+  number: '14'
+previous:
+  id: 2SA/1/12
+  number: '12'
+reference: '2 Samuel 1:13'

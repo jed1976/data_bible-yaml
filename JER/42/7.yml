@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 42:7" class="v">7</span>¶ And
+  it came to pass after ten days, that the word of the <span
+  class="nd">LORD</span> came unto Jeremiah. </p>
+id: JER/42/7
+next:
+  id: JER/42/8
+  number: '8'
+previous:
+  id: JER/42/6
+  number: '6'
+reference: 'Jeremiah 42:7'

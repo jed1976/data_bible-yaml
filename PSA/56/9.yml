@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 56:9" class="v">9</span>When
+  I cry <span class="add">unto thee</span>, then shall mine enemies turn back:
+  this I know; for God <span class="add">is</span> for me.</p>
+id: PSA/56/9
+next:
+  id: PSA/56/10
+  number: '10'
+previous:
+  id: PSA/56/8
+  number: '8'
+reference: 'Psalms 56:9'

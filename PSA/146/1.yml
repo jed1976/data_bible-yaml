@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 146:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. Praise the <span
+  class="nd">LORD</span>, O my soul.</p>
+id: PSA/146/1
+next:
+  id: PSA/146/2
+  number: '2'
+previous:
+  id: PSA/145/21
+  number: '21'
+reference: 'Psalms 146:1'

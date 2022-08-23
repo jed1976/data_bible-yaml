@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 6:19" class="v">19</span>And
+  the priest shall take the sodden shoulder of the ram, and one unleavened cake
+  out of the basket, and one unleavened wafer, and shall put <span
+  class="add">them</span> upon the hands of the Nazarite, after <span
+  class="add">the hair of</span> his separation is shaven: </p>
+id: NUM/6/19
+next:
+  id: NUM/6/20
+  number: '20'
+previous:
+  id: NUM/6/18
+  number: '18'
+reference: 'Numbers 6:19'

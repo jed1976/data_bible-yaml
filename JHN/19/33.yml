@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 19:33"
+  class="v">33</span>But when they came to Jesus, and saw that he was dead
+  already, they brake not his legs: </p>
+id: JHN/19/33
+next:
+  id: JHN/19/34
+  number: '34'
+previous:
+  id: JHN/19/32
+  number: '32'
+reference: 'John 19:33'

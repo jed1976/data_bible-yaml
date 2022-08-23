@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 28:6" class="v">6</span>¶ And
+  they shall make the ephod <span class="add">of</span> gold, <span
+  class="add">of</span> blue, and <span class="add">of</span> purple, <span
+  class="add">of</span> scarlet, and fine twined linen, with cunning work. </p>
+id: EXO/28/6
+next:
+  id: EXO/28/7
+  number: '7'
+previous:
+  id: EXO/28/5
+  number: '5'
+reference: 'Exodus 28:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOL 2:5" class="v">5</span>Like
+  the noise of chariots on the tops of mountains shall they leap, like the noise
+  of a flame of fire that devoureth the stubble, as a strong people set in
+  battle array. </p>
+id: JOL/2/5
+next:
+  id: JOL/2/6
+  number: '6'
+previous:
+  id: JOL/2/4
+  number: '4'
+reference: 'Joel 2:5'

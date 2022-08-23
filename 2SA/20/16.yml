@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 20:16" class="v">16</span>¶
+  Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto
+  Joab, Come near hither, that I may speak with thee. </p>
+id: 2SA/20/16
+next:
+  id: 2SA/20/17
+  number: '17'
+previous:
+  id: 2SA/20/15
+  number: '15'
+reference: '2 Samuel 20:16'

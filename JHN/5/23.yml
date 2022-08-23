@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 5:23"
+  class="v">23</span><span class="wj">That all <span class="add">men</span>
+  should honour the Son, even as they honour the Father. He that honoureth not
+  the Son honoureth not the Father which hath sent him.</span> </p>
+id: JHN/5/23
+next:
+  id: JHN/5/24
+  number: '24'
+previous:
+  id: JHN/5/22
+  number: '22'
+reference: 'John 5:23'

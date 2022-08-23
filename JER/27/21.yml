@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 27:21"
+  class="v">21</span>Yea, thus saith the <span class="nd">LORD</span> of hosts,
+  the God of Israel, concerning the vessels that remain <span
+  class="add">in</span> the house of the <span class="nd">LORD</span>, and <span
+  class="add">in</span> the house of the king of Judah and of Jerusalem; </p>
+id: JER/27/21
+next:
+  id: JER/27/22
+  number: '22'
+previous:
+  id: JER/27/20
+  number: '20'
+reference: 'Jeremiah 27:21'

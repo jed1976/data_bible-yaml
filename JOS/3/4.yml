@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 3:4" class="v">4</span>Yet
+  there shall be a space between you and it, about two thousand cubits by
+  measure: come not near unto it, that ye may know the way by which ye must go:
+  for ye have not passed <span class="add">this</span> way heretofore. </p>
+id: JOS/3/4
+next:
+  id: JOS/3/5
+  number: '5'
+previous:
+  id: JOS/3/3
+  number: '3'
+reference: 'Joshua 3:4'

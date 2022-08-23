@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 19:9" class="v">9</span>But
+  when divers were hardened, and believed not, but spake evil of that way before
+  the multitude, he departed from them, and separated the disciples, disputing
+  daily in the school of one Tyrannus. </p>
+id: ACT/19/9
+next:
+  id: ACT/19/10
+  number: '10'
+previous:
+  id: ACT/19/8
+  number: '8'
+reference: 'Acts 19:9'

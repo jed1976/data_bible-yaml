@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="30" data-sid="PSA 18:30"
+  class="v">30</span><span class="add">As for</span> God, his way <span
+  class="add">is</span> perfect: the word of the <span class="nd">LORD</span> is
+  tried: he <span class="add">is</span> a buckler to all those that trust in
+  him.</p>
+id: PSA/18/30
+next:
+  id: PSA/18/31
+  number: '31'
+previous:
+  id: PSA/18/29
+  number: '29'
+reference: 'Psalms 18:30'

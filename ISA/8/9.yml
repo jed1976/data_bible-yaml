@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 8:9" class="v">9</span>¶
+  Associate yourselves, O ye people, and ye shall be broken in pieces; and give
+  ear, all ye of far countries: gird yourselves, and ye shall be broken in
+  pieces; gird yourselves, and ye shall be broken in pieces. </p>
+id: ISA/8/9
+next:
+  id: ISA/8/10
+  number: '10'
+previous:
+  id: ISA/8/8
+  number: '8'
+reference: 'Isaiah 8:9'

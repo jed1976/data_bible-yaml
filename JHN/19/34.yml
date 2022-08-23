@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 19:34"
+  class="v">34</span>But one of the soldiers with a spear pierced his side, and
+  forthwith came there out blood and water. </p>
+id: JHN/19/34
+next:
+  id: JHN/19/35
+  number: '35'
+previous:
+  id: JHN/19/33
+  number: '33'
+reference: 'John 19:34'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 18:13" class="v">13</span>He
+  that answereth a matter before he heareth <span class="add">it</span>, it
+  <span class="add">is</span> folly and shame unto him. </p>
+id: PRO/18/13
+next:
+  id: PRO/18/14
+  number: '14'
+previous:
+  id: PRO/18/12
+  number: '12'
+reference: 'Proverbs 18:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 2:20" class="v">20</span>¶
+  And Eli blessed Elkanah and his wife, and said, The <span
+  class="nd">LORD</span> give thee seed of this woman for the loan which is lent
+  to the <span class="nd">LORD</span>. And they went unto their own home. </p>
+id: 1SA/2/20
+next:
+  id: 1SA/2/21
+  number: '21'
+previous:
+  id: 1SA/2/19
+  number: '19'
+reference: '1 Samuel 2:20'

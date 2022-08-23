@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="JHN 7:28"
+  class="v">28</span>Then cried Jesus in the temple as he taught, saying, <span
+  class="wj">Ye both know me, and ye know whence I am: and I am not come of
+  myself, but he that sent me is true, whom ye know not.</span> </p>
+id: JHN/7/28
+next:
+  id: JHN/7/29
+  number: '29'
+previous:
+  id: JHN/7/27
+  number: '27'
+reference: 'John 7:28'

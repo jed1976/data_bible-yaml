@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 44:8"
+  class="v">8</span>Behold, the money, which we found in our sacks’ mouths, we
+  brought again unto thee out of the land of Canaan: how then should we steal
+  out of thy lord’s house silver or gold? </p>
+id: GEN/44/8
+next:
+  id: GEN/44/9
+  number: '9'
+previous:
+  id: GEN/44/7
+  number: '7'
+reference: 'Genesis 44:8'

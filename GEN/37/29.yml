@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 37:29" class="v">29</span>¶
+  And Reuben returned unto the pit; and, behold, Joseph <span
+  class="add">was</span> not in the pit; and he rent his clothes. </p>
+id: GEN/37/29
+next:
+  id: GEN/37/30
+  number: '30'
+previous:
+  id: GEN/37/28
+  number: '28'
+reference: 'Genesis 37:29'

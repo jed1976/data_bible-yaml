@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 8:25" class="v">25</span>¶
+  And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your
+  God in the land. </p>
+id: EXO/8/25
+next:
+  id: EXO/8/26
+  number: '26'
+previous:
+  id: EXO/8/24
+  number: '24'
+reference: 'Exodus 8:25'

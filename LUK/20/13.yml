@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 20:13"
+  class="v">13</span><span class="wj">Then said the lord of the vineyard, What
+  shall I do? I will send my beloved son: it may be they will reverence <span
+  class="add">him</span> when they see him.</span> </p>
+id: LUK/20/13
+next:
+  id: LUK/20/14
+  number: '14'
+previous:
+  id: LUK/20/12
+  number: '12'
+reference: 'Luke 20:13'

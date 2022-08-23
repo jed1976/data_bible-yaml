@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 4:7" class="v">7</span>There
+  cometh a woman of Samaria to draw water: Jesus saith unto her, <span
+  class="wj">Give me to drink.</span> </p>
+id: JHN/4/7
+next:
+  id: JHN/4/8
+  number: '8'
+previous:
+  id: JHN/4/6
+  number: '6'
+reference: 'John 4:7'

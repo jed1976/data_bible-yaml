@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 1:7" class="v">7</span>And
+  God made the firmament, and divided the waters which <span
+  class="add">were</span> under the firmament from the waters which <span
+  class="add">were</span> above the firmament: and it was so. </p>
+id: GEN/1/7
+next:
+  id: GEN/1/8
+  number: '8'
+previous:
+  id: GEN/1/6
+  number: '6'
+reference: 'Genesis 1:7'

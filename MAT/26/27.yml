@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 26:27"
+  class="v">27</span>And he took the cup, and gave thanks, and gave <span
+  class="add">it</span> to them, saying, <span class="wj">Drink ye all of
+  it;</span> </p>
+id: MAT/26/27
+next:
+  id: MAT/26/28
+  number: '28'
+previous:
+  id: MAT/26/26
+  number: '26'
+reference: 'Matthew 26:27'

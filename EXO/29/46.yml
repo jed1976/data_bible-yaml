@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="EXO 29:46"
+  class="v">46</span>And they shall know that I <span class="add">am</span> the
+  <span class="nd">LORD</span> their God, that brought them forth out of the
+  land of Egypt, that I may dwell among them: I <span class="add">am</span> the
+  <span class="nd">LORD</span> their God.</p>
+id: EXO/29/46
+next:
+  id: EXO/30/1
+  number: '1'
+previous:
+  id: EXO/29/45
+  number: '45'
+reference: 'Exodus 29:46'

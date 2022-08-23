@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 7:3" class="v">3</span>And
+  they brought their offering before the <span class="nd">LORD</span>, six
+  covered wagons, and twelve oxen; a wagon for two of the princes, and for each
+  one an ox: and they brought them before the tabernacle. </p>
+id: NUM/7/3
+next:
+  id: NUM/7/4
+  number: '4'
+previous:
+  id: NUM/7/2
+  number: '2'
+reference: 'Numbers 7:3'

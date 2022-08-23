@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 11:19"
+  class="v">19</span>And Peleg lived after he begat Reu two hundred and nine
+  years, and begat sons and daughters. </p>
+id: GEN/11/19
+next:
+  id: GEN/11/20
+  number: '20'
+previous:
+  id: GEN/11/18
+  number: '18'
+reference: 'Genesis 11:19'

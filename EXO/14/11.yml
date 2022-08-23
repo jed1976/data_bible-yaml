@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 14:11"
+  class="v">11</span>And they said unto Moses, Because <span class="add">there
+  were</span> no graves in Egypt, hast thou taken us away to die in the
+  wilderness? wherefore hast thou dealt thus with us, to carry us forth out of
+  Egypt? </p>
+id: EXO/14/11
+next:
+  id: EXO/14/12
+  number: '12'
+previous:
+  id: EXO/14/10
+  number: '10'
+reference: 'Exodus 14:11'

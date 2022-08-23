@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 8:20" class="v">20</span>And
+  it was told him <span class="add">by certain</span> which said, Thy mother and
+  thy brethren stand without, desiring to see thee. </p>
+id: LUK/8/20
+next:
+  id: LUK/8/21
+  number: '21'
+previous:
+  id: LUK/8/19
+  number: '19'
+reference: 'Luke 8:20'

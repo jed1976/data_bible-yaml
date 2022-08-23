@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 21:20"
+  class="v">20</span>And from Bamoth <span class="add">in</span> the valley,
+  that <span class="add">is</span> in the country of Moab, to the top of Pisgah,
+  which looketh toward Jeshimon.</p>
+id: NUM/21/20
+next:
+  id: NUM/21/21
+  number: '21'
+previous:
+  id: NUM/21/19
+  number: '19'
+reference: 'Numbers 21:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 29:34"
+  class="v">34</span>And she conceived again, and bare a son; and said, Now this
+  time will my husband be joined unto me, because I have born him three sons:
+  therefore was his name called Levi. </p>
+id: GEN/29/34
+next:
+  id: GEN/29/35
+  number: '35'
+previous:
+  id: GEN/29/33
+  number: '33'
+reference: 'Genesis 29:34'

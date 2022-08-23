@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NEH 7:36" class="v">36</span>The
+  children of Jericho, three hundred forty and five. </p>
+id: NEH/7/36
+next:
+  id: NEH/7/37
+  number: '37'
+previous:
+  id: NEH/7/35
+  number: '35'
+reference: 'Nehemiah 7:36'

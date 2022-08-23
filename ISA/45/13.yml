@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 45:13" class="v">13</span>I
+  have raised him up in righteousness, and I will direct all his ways: he shall
+  build my city, and he shall let go my captives, not for price nor reward,
+  saith the <span class="nd">LORD</span> of hosts. </p>
+id: ISA/45/13
+next:
+  id: ISA/45/14
+  number: '14'
+previous:
+  id: ISA/45/12
+  number: '12'
+reference: 'Isaiah 45:13'

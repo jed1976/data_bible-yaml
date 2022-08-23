@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 23:20"
+  class="v">20</span>Behold, I have received <span
+  class="add">commandment</span> to bless: and he hath blessed; and I cannot
+  reverse it. </p>
+id: NUM/23/20
+next:
+  id: NUM/23/21
+  number: '21'
+previous:
+  id: NUM/23/19
+  number: '19'
+reference: 'Numbers 23:20'

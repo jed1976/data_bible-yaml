@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 8:26" class="v">26</span>And
+  Moses said, It is not meet so to do; for we shall sacrifice the abomination of
+  the Egyptians to the <span class="nd">LORD</span> our God: lo, shall we
+  sacrifice the abomination of the Egyptians before their eyes, and will they
+  not stone us? </p>
+id: EXO/8/26
+next:
+  id: EXO/8/27
+  number: '27'
+previous:
+  id: EXO/8/25
+  number: '25'
+reference: 'Exodus 8:26'

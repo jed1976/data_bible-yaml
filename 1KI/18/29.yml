@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1KI 18:29"
+  class="v">29</span>And it came to pass, when midday was past, and they
+  prophesied until the <span class="add">time</span> of the offering of the
+  <span class="add">evening</span> sacrifice, that <span class="add">there
+  was</span> neither voice, nor any to answer, nor any that regarded. </p>
+id: 1KI/18/29
+next:
+  id: 1KI/18/30
+  number: '30'
+previous:
+  id: 1KI/18/28
+  number: '28'
+reference: '1 Kings 18:29'

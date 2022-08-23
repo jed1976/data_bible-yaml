@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 16:5" class="v">5</span>Now
+  the rest of the acts of Baasha, and what he did, and his might, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Israel? </p>
+id: 1KI/16/5
+next:
+  id: 1KI/16/6
+  number: '6'
+previous:
+  id: 1KI/16/4
+  number: '4'
+reference: '1 Kings 16:5'

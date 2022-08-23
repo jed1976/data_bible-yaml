@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 32:17"
+  class="v">17</span>And when Joshua heard the noise of the people as they
+  shouted, he said unto Moses, <span class="add">There is</span> a noise of war
+  in the camp. </p>
+id: EXO/32/17
+next:
+  id: EXO/32/18
+  number: '18'
+previous:
+  id: EXO/32/16
+  number: '16'
+reference: 'Exodus 32:17'

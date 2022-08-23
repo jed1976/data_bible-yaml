@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 49:6"
+  class="v">6</span>They that trust in their wealth, and boast themselves in the
+  multitude of their riches;</p>
+id: PSA/49/6
+next:
+  id: PSA/49/7
+  number: '7'
+previous:
+  id: PSA/49/5
+  number: '5'
+reference: 'Psalms 49:6'

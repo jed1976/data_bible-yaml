@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 31:4" class="v">4</span>Of
+  every tribe a thousand, throughout all the tribes of Israel, shall ye send to
+  the war. </p>
+id: NUM/31/4
+next:
+  id: NUM/31/5
+  number: '5'
+previous:
+  id: NUM/31/3
+  number: '3'
+reference: 'Numbers 31:4'

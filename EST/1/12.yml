@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 1:12" class="v">12</span>But
+  the queen Vashti refused to come at the king’s commandment by <span
+  class="add">his</span> chamberlains: therefore was the king very wroth, and
+  his anger burned in him.</p>
+id: EST/1/12
+next:
+  id: EST/1/13
+  number: '13'
+previous:
+  id: EST/1/11
+  number: '11'
+reference: 'Esther 1:12'

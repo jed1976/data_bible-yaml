@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 2:1" class="v">1</span>My
+  son, if thou wilt receive my words, and hide my commandments with thee; </p>
+id: PRO/2/1
+next:
+  id: PRO/2/2
+  number: '2'
+previous:
+  id: PRO/1/33
+  number: '33'
+reference: 'Proverbs 2:1'

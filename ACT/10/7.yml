@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 10:7" class="v">7</span>And
+  when the angel which spake unto Cornelius was departed, he called two of his
+  household servants, and a devout soldier of them that waited on him
+  continually; </p>
+id: ACT/10/7
+next:
+  id: ACT/10/8
+  number: '8'
+previous:
+  id: ACT/10/6
+  number: '6'
+reference: 'Acts 10:7'

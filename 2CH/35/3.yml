@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 35:3" class="v">3</span>And
+  said unto the Levites that taught all Israel, which were holy unto the <span
+  class="nd">LORD</span>, Put the holy ark in the house which Solomon the son of
+  David king of Israel did build; <span class="add">it shall</span> not <span
+  class="add">be</span> a burden upon <span class="add">your</span> shoulders:
+  serve now the <span class="nd">LORD</span> your God, and his people Israel,
+  </p>
+id: 2CH/35/3
+next:
+  id: 2CH/35/4
+  number: '4'
+previous:
+  id: 2CH/35/2
+  number: '2'
+reference: '2 Chronicles 35:3'

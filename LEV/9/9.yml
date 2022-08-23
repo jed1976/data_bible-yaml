@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 9:9" class="v">9</span>And
+  the sons of Aaron brought the blood unto him: and he dipped his finger in the
+  blood, and put <span class="add">it</span> upon the horns of the altar, and
+  poured out the blood at the bottom of the altar: </p>
+id: LEV/9/9
+next:
+  id: LEV/9/10
+  number: '10'
+previous:
+  id: LEV/9/8
+  number: '8'
+reference: 'Leviticus 9:9'

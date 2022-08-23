@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JAS 2:15" class="v">15</span>If
+  a brother or sister be naked, and destitute of daily food, </p>
+id: JAS/2/15
+next:
+  id: JAS/2/16
+  number: '16'
+previous:
+  id: JAS/2/14
+  number: '14'
+reference: 'James 2:15'

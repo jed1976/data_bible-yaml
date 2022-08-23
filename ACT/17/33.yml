@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 17:33" class="v">33</span>So
+  Paul departed from among them. </p>
+id: ACT/17/33
+next:
+  id: ACT/17/34
+  number: '34'
+previous:
+  id: ACT/17/32
+  number: '32'
+reference: 'Acts 17:33'

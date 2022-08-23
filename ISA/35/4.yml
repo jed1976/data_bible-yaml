@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 35:4" class="v">4</span>Say
+  to them <span class="add">that are</span> of a fearful heart, Be strong, fear
+  not: behold, your God will come <span class="add">with</span> vengeance, <span
+  class="add">even</span> God <span class="add">with</span> a recompence; he
+  will come and save you.</p>
+id: ISA/35/4
+next:
+  id: ISA/35/5
+  number: '5'
+previous:
+  id: ISA/35/3
+  number: '3'
+reference: 'Isaiah 35:4'

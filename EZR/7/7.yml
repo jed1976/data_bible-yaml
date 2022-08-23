@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZR 7:7" class="v">7</span>And
+  there went up <span class="add">some</span> of the children of Israel, and of
+  the priests, and the Levites, and the singers, and the porters, and the
+  Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king. </p>
+id: EZR/7/7
+next:
+  id: EZR/7/8
+  number: '8'
+previous:
+  id: EZR/7/6
+  number: '6'
+reference: 'Ezra 7:7'

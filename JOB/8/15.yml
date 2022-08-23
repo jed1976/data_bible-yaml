@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 8:15" class="v">15</span>He
+  shall lean upon his house, but it shall not stand: he shall hold it fast, but
+  it shall not endure. </p>
+id: JOB/8/15
+next:
+  id: JOB/8/16
+  number: '16'
+previous:
+  id: JOB/8/14
+  number: '14'
+reference: 'Job 8:15'

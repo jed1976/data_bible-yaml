@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 1:20"
+  class="v">20</span>And, behold, thou shalt be dumb, and not able to speak,
+  until the day that these things shall be performed, because thou believest not
+  my words, which shall be fulfilled in their season. </p>
+id: LUK/1/20
+next:
+  id: LUK/1/21
+  number: '21'
+previous:
+  id: LUK/1/19
+  number: '19'
+reference: 'Luke 1:20'

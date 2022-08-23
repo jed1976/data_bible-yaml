@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 2:3" class="v">3</span>And
+  the sons of the prophets that <span class="add">were</span> at Beth-el came
+  forth to Elisha, and said unto him, Knowest thou that the <span
+  class="nd">LORD</span> will take away thy master from thy head to day? And he
+  said, Yea, I know <span class="add">it;</span> hold ye your peace. </p>
+id: 2KI/2/3
+next:
+  id: 2KI/2/4
+  number: '4'
+previous:
+  id: 2KI/2/2
+  number: '2'
+reference: '2 Kings 2:3'

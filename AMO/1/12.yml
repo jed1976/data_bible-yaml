@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 1:12" class="v">12</span>But
+  I will send a fire upon Teman, which shall devour the palaces of Bozrah.</p>
+id: AMO/1/12
+next:
+  id: AMO/1/13
+  number: '13'
+previous:
+  id: AMO/1/11
+  number: '11'
+reference: 'Amos 1:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 23:22"
+  class="v">22</span>Hearken unto thy father that begat thee, and despise not
+  thy mother when she is old. </p>
+id: PRO/23/22
+next:
+  id: PRO/23/23
+  number: '23'
+previous:
+  id: PRO/23/21
+  number: '21'
+reference: 'Proverbs 23:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 36:5" class="v">5</span>And
+  Moses commanded the children of Israel according to the word of the <span
+  class="nd">LORD</span>, saying, The tribe of the sons of Joseph hath said
+  well. </p>
+id: NUM/36/5
+next:
+  id: NUM/36/6
+  number: '6'
+previous:
+  id: NUM/36/4
+  number: '4'
+reference: 'Numbers 36:5'

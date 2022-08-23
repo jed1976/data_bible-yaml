@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 54:4" class="v">4</span>Fear
+  not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt
+  not be put to shame: for thou shalt forget the shame of thy youth, and shalt
+  not remember the reproach of thy widowhood any more. </p>
+id: ISA/54/4
+next:
+  id: ISA/54/5
+  number: '5'
+previous:
+  id: ISA/54/3
+  number: '3'
+reference: 'Isaiah 54:4'

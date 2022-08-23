@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 6:13"
+  class="v">13</span>Return, return, O Shulamite; return, return, that we may
+  look upon thee. What will ye see in the Shulamite? As it were the company of
+  two armies.</p>
+id: SNG/6/13
+next:
+  id: SNG/7/1
+  number: '1'
+previous:
+  id: SNG/6/12
+  number: '12'
+reference: 'Song of Solomon 6:13'

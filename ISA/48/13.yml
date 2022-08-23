@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 48:13"
+  class="v">13</span>Mine hand also hath laid the foundation of the earth, and
+  my right hand hath spanned the heavens: <span class="add">when</span> I call
+  unto them, they stand up together. </p>
+id: ISA/48/13
+next:
+  id: ISA/48/14
+  number: '14'
+previous:
+  id: ISA/48/12
+  number: '12'
+reference: 'Isaiah 48:13'

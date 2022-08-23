@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 29:10"
+  class="v">10</span>And thou shalt cause a bullock to be brought before the
+  tabernacle of the congregation: and Aaron and his sons shall put their hands
+  upon the head of the bullock. </p>
+id: EXO/29/10
+next:
+  id: EXO/29/11
+  number: '11'
+previous:
+  id: EXO/29/9
+  number: '9'
+reference: 'Exodus 29:10'

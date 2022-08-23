@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 7:29" class="v">29</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Eliab the son of Helon.</p>
+id: NUM/7/29
+next:
+  id: NUM/7/30
+  number: '30'
+previous:
+  id: NUM/7/28
+  number: '28'
+reference: 'Numbers 7:29'

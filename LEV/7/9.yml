@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 7:9" class="v">9</span>And
+  all the meat offering that is baken in the oven, and all that is dressed in
+  the fryingpan, and in the pan, shall be the priest’s that offereth it. </p>
+id: LEV/7/9
+next:
+  id: LEV/7/10
+  number: '10'
+previous:
+  id: LEV/7/8
+  number: '8'
+reference: 'Leviticus 7:9'

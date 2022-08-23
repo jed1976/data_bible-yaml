@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DAN 4:33" class="v">33</span>The
+  same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from
+  men, and did eat grass as oxen, and his body was wet with the dew of heaven,
+  till his hairs were grown like eagles’ <span class="add">feathers</span>, and
+  his nails like birds’ <span class="add">claws</span>.</p>
+id: DAN/4/33
+next:
+  id: DAN/4/34
+  number: '34'
+previous:
+  id: DAN/4/32
+  number: '32'
+reference: 'Daniel 4:33'

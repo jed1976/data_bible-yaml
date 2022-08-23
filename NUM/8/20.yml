@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 8:20" class="v">20</span>And
+  Moses, and Aaron, and all the congregation of the children of Israel, did to
+  the Levites according unto all that the <span class="nd">LORD</span> commanded
+  Moses concerning the Levites, so did the children of Israel unto them. </p>
+id: NUM/8/20
+next:
+  id: NUM/8/21
+  number: '21'
+previous:
+  id: NUM/8/19
+  number: '19'
+reference: 'Numbers 8:20'

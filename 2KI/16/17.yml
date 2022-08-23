@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2KI 16:17" class="v">17</span>¶
+  And king Ahaz cut off the borders of the bases, and removed the laver from off
+  them; and took down the sea from off the brasen oxen that <span
+  class="add">were</span> under it, and put it upon a pavement of stones. </p>
+id: 2KI/16/17
+next:
+  id: 2KI/16/18
+  number: '18'
+previous:
+  id: 2KI/16/16
+  number: '16'
+reference: '2 Kings 16:17'

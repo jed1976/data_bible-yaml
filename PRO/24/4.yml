@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 24:4" class="v">4</span>And
+  by knowledge shall the chambers be filled with all precious and pleasant
+  riches. </p>
+id: PRO/24/4
+next:
+  id: PRO/24/5
+  number: '5'
+previous:
+  id: PRO/24/3
+  number: '3'
+reference: 'Proverbs 24:4'

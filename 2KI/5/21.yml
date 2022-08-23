@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 5:21" class="v">21</span>So
+  Gehazi followed after Naaman. And when Naaman saw <span class="add">him</span>
+  running after him, he lighted down from the chariot to meet him, and said,
+  <span class="add">Is</span> all well? </p>
+id: 2KI/5/21
+next:
+  id: 2KI/5/22
+  number: '22'
+previous:
+  id: 2KI/5/20
+  number: '20'
+reference: '2 Kings 5:21'

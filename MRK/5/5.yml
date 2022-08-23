@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 5:5" class="v">5</span>And
+  always, night and day, he was in the mountains, and in the tombs, crying, and
+  cutting himself with stones. </p>
+id: MRK/5/5
+next:
+  id: MRK/5/6
+  number: '6'
+previous:
+  id: MRK/5/4
+  number: '4'
+reference: 'Mark 5:5'

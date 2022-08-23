@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 30:3" class="v">3</span>I
+  neither learned wisdom, nor have the knowledge of the holy. </p>
+id: PRO/30/3
+next:
+  id: PRO/30/4
+  number: '4'
+previous:
+  id: PRO/30/2
+  number: '2'
+reference: 'Proverbs 30:3'

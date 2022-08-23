@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 10:11" class="v">11</span>¶
+  And it came to pass on the twentieth <span class="add">day</span> of the
+  second month, in the second year, that the cloud was taken up from off the
+  tabernacle of the testimony. </p>
+id: NUM/10/11
+next:
+  id: NUM/10/12
+  number: '12'
+previous:
+  id: NUM/10/10
+  number: '10'
+reference: 'Numbers 10:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 2:3" class="v">3</span>How
+  shall we escape, if we neglect so great salvation; which at the first began to
+  be spoken by the Lord, and was confirmed unto us by them that heard <span
+  class="add">him</span>; </p>
+id: HEB/2/3
+next:
+  id: HEB/2/4
+  number: '4'
+previous:
+  id: HEB/2/2
+  number: '2'
+reference: 'Hebrews 2:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 9:26"
+  class="v">26</span>They are passed away as the swift ships: as the eagle <span
+  class="add">that</span> hasteth to the prey. </p>
+id: JOB/9/26
+next:
+  id: JOB/9/27
+  number: '27'
+previous:
+  id: JOB/9/25
+  number: '25'
+reference: 'Job 9:26'

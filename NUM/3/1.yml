@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 3:1" class="v">1</span>These
+  also <span class="add">are</span> the generations of Aaron and Moses in the
+  day <span class="add">that</span> the <span class="nd">LORD</span> spake with
+  Moses in mount Sinai. </p>
+id: NUM/3/1
+next:
+  id: NUM/3/2
+  number: '2'
+previous:
+  id: NUM/2/34
+  number: '34'
+reference: 'Numbers 3:1'

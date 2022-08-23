@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 16:16"
+  class="v">16</span>And he gathered them together into a place called in the
+  Hebrew tongue Armageddon. </p>
+id: REV/16/16
+next:
+  id: REV/16/17
+  number: '17'
+previous:
+  id: REV/16/15
+  number: '15'
+reference: 'Revelation 16:16'

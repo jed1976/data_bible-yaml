@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2PE 1:20"
+  class="v">20</span>Knowing this first, that no prophecy of the scripture is of
+  any private interpretation. </p>
+id: 2PE/1/20
+next:
+  id: 2PE/1/21
+  number: '21'
+previous:
+  id: 2PE/1/19
+  number: '19'
+reference: '2 Peter 1:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 74:17"
+  class="v">17</span>Thou hast set all the borders of the earth: thou hast made
+  summer and winter.</p>
+id: PSA/74/17
+next:
+  id: PSA/74/18
+  number: '18'
+previous:
+  id: PSA/74/16
+  number: '16'
+reference: 'Psalms 74:17'

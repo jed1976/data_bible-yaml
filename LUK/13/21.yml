@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 13:21"
+  class="v">21</span><span class="wj">It is like leaven, which a woman took and
+  hid in three measures of meal, till the whole was leavened.</span> </p>
+id: LUK/13/21
+next:
+  id: LUK/13/22
+  number: '22'
+previous:
+  id: LUK/13/20
+  number: '20'
+reference: 'Luke 13:21'

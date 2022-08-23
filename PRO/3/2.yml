@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 3:2" class="v">2</span>For
+  length of days, and long life, and peace, shall they add to thee. </p>
+id: PRO/3/2
+next:
+  id: PRO/3/3
+  number: '3'
+previous:
+  id: PRO/3/1
+  number: '1'
+reference: 'Proverbs 3:2'

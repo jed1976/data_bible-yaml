@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 11:22" class="v">22</span>¶
+  Then did the cherubims lift up their wings, and the wheels beside them; and
+  the glory of the God of Israel <span class="add">was</span> over them above.
+  </p>
+id: EZK/11/22
+next:
+  id: EZK/11/23
+  number: '23'
+previous:
+  id: EZK/11/21
+  number: '21'
+reference: 'Ezekiel 11:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 3:14"
+  class="v">14</span><span class="wj">¶ And as Moses lifted up the serpent in
+  the wilderness, even so must the Son of man be lifted up:</span> </p>
+id: JHN/3/14
+next:
+  id: JHN/3/15
+  number: '15'
+previous:
+  id: JHN/3/13
+  number: '13'
+reference: 'John 3:14'

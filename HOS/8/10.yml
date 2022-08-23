@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 8:10"
+  class="v">10</span>Yea, though they have hired among the nations, now will I
+  gather them, and they shall sorrow a little for the burden of the king of
+  princes. </p>
+id: HOS/8/10
+next:
+  id: HOS/8/11
+  number: '11'
+previous:
+  id: HOS/8/9
+  number: '9'
+reference: 'Hosea 8:10'

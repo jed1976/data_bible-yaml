@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JDG 4:17"
+  class="v">17</span>Howbeit Sisera fled away on his feet to the tent of Jael
+  the wife of Heber the Kenite: for <span class="add">there was</span> peace
+  between Jabin the king of Hazor and the house of Heber the Kenite.</p>
+id: JDG/4/17
+next:
+  id: JDG/4/18
+  number: '18'
+previous:
+  id: JDG/4/16
+  number: '16'
+reference: 'Judges 4:17'

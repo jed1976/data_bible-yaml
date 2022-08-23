@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 30:12" class="v">12</span>It
+  <span class="add">is</span> not in heaven, that thou shouldest say, Who shall
+  go up for us to heaven, and bring it unto us, that we may hear it, and do it?
+  </p>
+id: DEU/30/12
+next:
+  id: DEU/30/13
+  number: '13'
+previous:
+  id: DEU/30/11
+  number: '11'
+reference: 'Deuteronomy 30:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 11:21"
+  class="v">21</span>And Reu lived after he begat Serug two hundred and seven
+  years, and begat sons and daughters. </p>
+id: GEN/11/21
+next:
+  id: GEN/11/22
+  number: '22'
+previous:
+  id: GEN/11/20
+  number: '20'
+reference: 'Genesis 11:21'

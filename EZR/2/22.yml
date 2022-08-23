@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZR 2:22" class="v">22</span>The
+  men of Netophah, fifty and six. </p>
+id: EZR/2/22
+next:
+  id: EZR/2/23
+  number: '23'
+previous:
+  id: EZR/2/21
+  number: '21'
+reference: 'Ezra 2:22'

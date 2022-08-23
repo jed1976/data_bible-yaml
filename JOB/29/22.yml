@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 29:22"
+  class="v">22</span>After my words they spake not again; and my speech dropped
+  upon them. </p>
+id: JOB/29/22
+next:
+  id: JOB/29/23
+  number: '23'
+previous:
+  id: JOB/29/21
+  number: '21'
+reference: 'Job 29:22'

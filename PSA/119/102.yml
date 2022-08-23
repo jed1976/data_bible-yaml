@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="102" data-sid="PSA 119:102"
+  class="v">102</span>I have not departed from thy judgments: for thou hast
+  taught me.</p>
+id: PSA/119/102
+next:
+  id: PSA/119/103
+  number: '103'
+previous:
+  id: PSA/119/101
+  number: '101'
+reference: 'Psalms 119:102'

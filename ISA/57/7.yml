@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 57:7" class="v">7</span>Upon
+  a lofty and high mountain hast thou set thy bed: even thither wentest thou up
+  to offer sacrifice. </p>
+id: ISA/57/7
+next:
+  id: ISA/57/8
+  number: '8'
+previous:
+  id: ISA/57/6
+  number: '6'
+reference: 'Isaiah 57:7'

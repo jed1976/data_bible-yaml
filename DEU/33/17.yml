@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 33:17"
+  class="v">17</span>His glory <span class="add">is like</span> the firstling of
+  his bullock, and his horns <span class="add">are like</span> the horns of
+  unicorns: with them he shall push the people together to the ends of the
+  earth: and they <span class="add">are</span> the ten thousands of Ephraim, and
+  they <span class="add">are</span> the thousands of Manasseh.</p>
+id: DEU/33/17
+next:
+  id: DEU/33/18
+  number: '18'
+previous:
+  id: DEU/33/16
+  number: '16'
+reference: 'Deuteronomy 33:17'

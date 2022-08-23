@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 51:10"
+  class="v">10</span>Create in me a clean heart, O God; and renew a right spirit
+  within me.</p>
+id: PSA/51/10
+next:
+  id: PSA/51/11
+  number: '11'
+previous:
+  id: PSA/51/9
+  number: '9'
+reference: 'Psalms 51:10'

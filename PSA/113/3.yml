@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 113:3"
+  class="v">3</span>From the rising of the sun unto the going down of the same
+  the <span class="nd">LORD’s</span> name <span class="add">is</span> to be
+  praised.</p>
+id: PSA/113/3
+next:
+  id: PSA/113/4
+  number: '4'
+previous:
+  id: PSA/113/2
+  number: '2'
+reference: 'Psalms 113:3'

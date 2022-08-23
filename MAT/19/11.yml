@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 19:11"
+  class="v">11</span>But he said unto them, <span class="wj">All <span
+  class="add">men</span> cannot receive this saying, save <span
+  class="add">they</span> to whom it is given.</span> </p>
+id: MAT/19/11
+next:
+  id: MAT/19/12
+  number: '12'
+previous:
+  id: MAT/19/10
+  number: '10'
+reference: 'Matthew 19:11'

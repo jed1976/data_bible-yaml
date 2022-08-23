@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 14:22" class="v">22</span>¶
+  And straightway Jesus constrained his disciples to get into a ship, and to go
+  before him unto the other side, while he sent the multitudes away. </p>
+id: MAT/14/22
+next:
+  id: MAT/14/23
+  number: '23'
+previous:
+  id: MAT/14/21
+  number: '21'
+reference: 'Matthew 14:22'

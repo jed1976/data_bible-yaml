@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GAL 2:4" class="v">4</span>And
+  that because of false brethren unawares brought in, who came in privily to spy
+  out our liberty which we have in Christ Jesus, that they might bring us into
+  bondage: </p>
+id: GAL/2/4
+next:
+  id: GAL/2/5
+  number: '5'
+previous:
+  id: GAL/2/3
+  number: '3'
+reference: 'Galatians 2:4'

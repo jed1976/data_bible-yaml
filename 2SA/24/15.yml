@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 24:15" class="v">15</span>¶
+  So the <span class="nd">LORD</span> sent a pestilence upon Israel from the
+  morning even to the time appointed: and there died of the people from Dan even
+  to Beer-sheba seventy thousand men. </p>
+id: 2SA/24/15
+next:
+  id: 2SA/24/16
+  number: '16'
+previous:
+  id: 2SA/24/14
+  number: '14'
+reference: '2 Samuel 24:15'

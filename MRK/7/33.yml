@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 7:33" class="v">33</span>And
+  he took him aside from the multitude, and put his fingers into his ears, and
+  he spit, and touched his tongue; </p>
+id: MRK/7/33
+next:
+  id: MRK/7/34
+  number: '34'
+previous:
+  id: MRK/7/32
+  number: '32'
+reference: 'Mark 7:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="1SA 2:34" class="v">34</span>And
+  this <span class="add">shall be</span> a sign unto thee, that shall come upon
+  thy two sons, on Hophni and Phinehas; in one day they shall die both of them.
+  </p>
+id: 1SA/2/34
+next:
+  id: 1SA/2/35
+  number: '35'
+previous:
+  id: 1SA/2/33
+  number: '33'
+reference: '1 Samuel 2:34'

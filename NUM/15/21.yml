@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 15:21" class="v">21</span>Of
+  the first of your dough ye shall give unto the <span class="nd">LORD</span> an
+  heave offering in your generations.</p>
+id: NUM/15/21
+next:
+  id: NUM/15/22
+  number: '22'
+previous:
+  id: NUM/15/20
+  number: '20'
+reference: 'Numbers 15:21'

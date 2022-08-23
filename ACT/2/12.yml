@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 2:12" class="v">12</span>And
+  they were all amazed, and were in doubt, saying one to another, What meaneth
+  this? </p>
+id: ACT/2/12
+next:
+  id: ACT/2/13
+  number: '13'
+previous:
+  id: ACT/2/11
+  number: '11'
+reference: 'Acts 2:12'

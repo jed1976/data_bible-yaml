@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 107:14"
+  class="v">14</span>He brought them out of darkness and the shadow of death,
+  and brake their bands in sunder.</p>
+id: PSA/107/14
+next:
+  id: PSA/107/15
+  number: '15'
+previous:
+  id: PSA/107/13
+  number: '13'
+reference: 'Psalms 107:14'

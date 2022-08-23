@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LUK 2:49" class="v">49</span>And
+  he said unto them, <span class="wj">How is it that ye sought me? wist ye not
+  that I must be about my Father’s business?</span> </p>
+id: LUK/2/49
+next:
+  id: LUK/2/50
+  number: '50'
+previous:
+  id: LUK/2/48
+  number: '48'
+reference: 'Luke 2:49'

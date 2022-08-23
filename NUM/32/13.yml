@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 32:13"
+  class="v">13</span>And the <span class="nd">LORD’s</span> anger was kindled
+  against Israel, and he made them wander in the wilderness forty years, until
+  all the generation, that had done evil in the sight of the <span
+  class="nd">LORD</span>, was consumed. </p>
+id: NUM/32/13
+next:
+  id: NUM/32/14
+  number: '14'
+previous:
+  id: NUM/32/12
+  number: '12'
+reference: 'Numbers 32:13'

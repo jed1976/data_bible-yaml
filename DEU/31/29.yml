@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 31:29"
+  class="v">29</span>For I know that after my death ye will utterly corrupt
+  <span class="add">yourselves</span>, and turn aside from the way which I have
+  commanded you; and evil will befall you in the latter days; because ye will do
+  evil in the sight of the <span class="nd">LORD</span>, to provoke him to anger
+  through the work of your hands. </p>
+id: DEU/31/29
+next:
+  id: DEU/31/30
+  number: '30'
+previous:
+  id: DEU/31/28
+  number: '28'
+reference: 'Deuteronomy 31:29'

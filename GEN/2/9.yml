@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 2:9" class="v">9</span>And
+  out of the ground made the <span class="nd">LORD</span> God to grow every tree
+  that is pleasant to the sight, and good for food; the tree of life also in the
+  midst of the garden, and the tree of knowledge of good and evil. </p>
+id: GEN/2/9
+next:
+  id: GEN/2/10
+  number: '10'
+previous:
+  id: GEN/2/8
+  number: '8'
+reference: 'Genesis 2:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 16:13"
+  class="v">13</span>Salute Rufus chosen in the Lord, and his mother and mine.
+  </p>
+id: ROM/16/13
+next:
+  id: ROM/16/14
+  number: '14'
+previous:
+  id: ROM/16/12
+  number: '12'
+reference: 'Romans 16:13'

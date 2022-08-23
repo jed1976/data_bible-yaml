@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 12:26"
+  class="v">26</span><span class="wj">If ye then be not able to do that thing
+  which is least, why take ye thought for the rest?</span> </p>
+id: LUK/12/26
+next:
+  id: LUK/12/27
+  number: '27'
+previous:
+  id: LUK/12/25
+  number: '25'
+reference: 'Luke 12:26'

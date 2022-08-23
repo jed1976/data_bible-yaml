@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 4:22"
+  class="v">22</span>Take also the sum of the sons of Gershon, throughout the
+  houses of their fathers, by their families; </p>
+id: NUM/4/22
+next:
+  id: NUM/4/23
+  number: '23'
+previous:
+  id: NUM/4/21
+  number: '21'
+reference: 'Numbers 4:22'

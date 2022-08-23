@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 26:12" class="v">12</span>¶
+  The sons of Simeon after their families: of Nemuel, the family of the
+  Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of
+  the Jachinites: </p>
+id: NUM/26/12
+next:
+  id: NUM/26/13
+  number: '13'
+previous:
+  id: NUM/26/11
+  number: '11'
+reference: 'Numbers 26:12'

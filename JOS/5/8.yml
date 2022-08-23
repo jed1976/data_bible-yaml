@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 5:8" class="v">8</span>And it
+  came to pass, when they had done circumcising all the people, that they abode
+  in their places in the camp, till they were whole. </p>
+id: JOS/5/8
+next:
+  id: JOS/5/9
+  number: '9'
+previous:
+  id: JOS/5/7
+  number: '7'
+reference: 'Joshua 5:8'

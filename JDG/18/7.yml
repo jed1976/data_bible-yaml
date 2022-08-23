@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 18:7" class="v">7</span>¶
+  Then the five men departed, and came to Laish, and saw the people that <span
+  class="add">were</span> therein, how they dwelt careless, after the manner of
+  the Zidonians, quiet and secure; and <span class="add">there was</span> no
+  magistrate in the land, that might put <span class="add">them</span> to shame
+  in <span class="add">any</span> thing; and they <span class="add">were</span>
+  far from the Zidonians, and had no business with <span class="add">any</span>
+  man. </p>
+id: JDG/18/7
+next:
+  id: JDG/18/8
+  number: '8'
+previous:
+  id: JDG/18/6
+  number: '6'
+reference: 'Judges 18:7'

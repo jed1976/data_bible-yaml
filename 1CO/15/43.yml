@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1CO 15:43" class="v">43</span>It
+  is sown in dishonour; it is raised in glory: it is sown in weakness; it is
+  raised in power: </p>
+id: 1CO/15/43
+next:
+  id: 1CO/15/44
+  number: '44'
+previous:
+  id: 1CO/15/42
+  number: '42'
+reference: '1 Corinthians 15:43'

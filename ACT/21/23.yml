@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 21:23" class="v">23</span>Do
+  therefore this that we say to thee: We have four men which have a vow on them;
+  </p>
+id: ACT/21/23
+next:
+  id: ACT/21/24
+  number: '24'
+previous:
+  id: ACT/21/22
+  number: '22'
+reference: 'Acts 21:23'

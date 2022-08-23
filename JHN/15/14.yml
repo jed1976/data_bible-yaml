@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 15:14"
+  class="v">14</span><span class="wj">Ye are my friends, if ye do whatsoever I
+  command you.</span> </p>
+id: JHN/15/14
+next:
+  id: JHN/15/15
+  number: '15'
+previous:
+  id: JHN/15/13
+  number: '13'
+reference: 'John 15:14'

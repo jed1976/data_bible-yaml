@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 19:5" class="v">5</span>If
+  indeed ye will magnify <span class="add">yourselves</span> against me, and
+  plead against me my reproach: </p>
+id: JOB/19/5
+next:
+  id: JOB/19/6
+  number: '6'
+previous:
+  id: JOB/19/4
+  number: '4'
+reference: 'Job 19:5'

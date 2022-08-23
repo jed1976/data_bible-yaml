@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 8:30" class="v">30</span>And
+  Philip ran thither to <span class="add">him</span>, and heard him read the
+  prophet Esaias, and said, Understandest thou what thou readest? </p>
+id: ACT/8/30
+next:
+  id: ACT/8/31
+  number: '31'
+previous:
+  id: ACT/8/29
+  number: '29'
+reference: 'Acts 8:30'

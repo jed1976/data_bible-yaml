@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 1:29"
+  class="v">29</span>Then I said unto you, Dread not, neither be afraid of them.
+  </p>
+id: DEU/1/29
+next:
+  id: DEU/1/30
+  number: '30'
+previous:
+  id: DEU/1/28
+  number: '28'
+reference: 'Deuteronomy 1:29'

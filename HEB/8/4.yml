@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 8:4" class="v">4</span>For if
+  he were on earth, he should not be a priest, seeing that there are priests
+  that offer gifts according to the law: </p>
+id: HEB/8/4
+next:
+  id: HEB/8/5
+  number: '5'
+previous:
+  id: HEB/8/3
+  number: '3'
+reference: 'Hebrews 8:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 15:9" class="v">9</span><span
+  class="wj">And when she hath found <span class="add">it</span>, she calleth
+  <span class="add">her</span> friends and <span class="add">her</span>
+  neighbours together, saying, Rejoice with me; for I have found the piece which
+  I had lost.</span> </p>
+id: LUK/15/9
+next:
+  id: LUK/15/10
+  number: '10'
+previous:
+  id: LUK/15/8
+  number: '8'
+reference: 'Luke 15:9'

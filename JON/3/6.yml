@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JON 3:6" class="v">6</span>For
+  word came unto the king of Nineveh, and he arose from his throne, and he laid
+  his robe from him, and covered <span class="add">him</span> with sackcloth,
+  and sat in ashes. </p>
+id: JON/3/6
+next:
+  id: JON/3/7
+  number: '7'
+previous:
+  id: JON/3/5
+  number: '5'
+reference: 'Jonah 3:6'

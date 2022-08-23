@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="62" data-sid="LUK 22:62"
+  class="v">62</span>And Peter went out, and wept bitterly.</p>
+id: LUK/22/62
+next:
+  id: LUK/22/63
+  number: '63'
+previous:
+  id: LUK/22/61
+  number: '61'
+reference: 'Luke 22:62'

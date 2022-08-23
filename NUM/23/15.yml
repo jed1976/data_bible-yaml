@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 23:15"
+  class="v">15</span>And he said unto Balak, Stand here by thy burnt offering,
+  while I meet <span class="add">the <span class="nd">Lord</span></span> yonder.
+  </p>
+id: NUM/23/15
+next:
+  id: NUM/23/16
+  number: '16'
+previous:
+  id: NUM/23/14
+  number: '14'
+reference: 'Numbers 23:15'

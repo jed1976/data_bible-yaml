@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 10:5" class="v">5</span>By
+  these were the isles of the Gentiles divided in their lands; every one after
+  his tongue, after their families, in their nations.</p>
+id: GEN/10/5
+next:
+  id: GEN/10/6
+  number: '6'
+previous:
+  id: GEN/10/4
+  number: '4'
+reference: 'Genesis 10:5'

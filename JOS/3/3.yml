@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 3:3" class="v">3</span>And
+  they commanded the people, saying, When ye see the ark of the covenant of the
+  <span class="nd">LORD</span> your God, and the priests the Levites bearing it,
+  then ye shall remove from your place, and go after it. </p>
+id: JOS/3/3
+next:
+  id: JOS/3/4
+  number: '4'
+previous:
+  id: JOS/3/2
+  number: '2'
+reference: 'Joshua 3:3'

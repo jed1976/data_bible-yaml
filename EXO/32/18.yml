@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 32:18"
+  class="v">18</span>And he said, <span class="add">It is</span> not the voice
+  of <span class="add">them that</span> shout for mastery, neither <span
+  class="add">is it</span> the voice of <span class="add">them that</span> cry
+  for being overcome: <span class="add">but</span> the noise of <span
+  class="add">them that</span> sing do I hear.</p>
+id: EXO/32/18
+next:
+  id: EXO/32/19
+  number: '19'
+previous:
+  id: EXO/32/17
+  number: '17'
+reference: 'Exodus 32:18'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LAM 5:14" class="v">14</span>The
+  elders have ceased from the gate, the young men from their musick. </p>
+id: LAM/5/14
+next:
+  id: LAM/5/15
+  number: '15'
+previous:
+  id: LAM/5/13
+  number: '13'
+reference: 'Lamentations 5:14'

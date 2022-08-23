@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JAS 5:13" class="v">13</span>Is
+  any among you afflicted? let him pray. Is any merry? let him sing psalms. </p>
+id: JAS/5/13
+next:
+  id: JAS/5/14
+  number: '14'
+previous:
+  id: JAS/5/12
+  number: '12'
+reference: 'James 5:13'

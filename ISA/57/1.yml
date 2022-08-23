@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 57:1" class="v">1</span>The
+  righteous perisheth, and no man layeth <span class="add">it</span> to heart:
+  and merciful men <span class="add">are</span> taken away, none considering
+  that the righteous is taken away from the evil <span class="add">to
+  come</span>. </p>
+id: ISA/57/1
+next:
+  id: ISA/57/2
+  number: '2'
+previous:
+  id: ISA/56/12
+  number: '12'
+reference: 'Isaiah 57:1'

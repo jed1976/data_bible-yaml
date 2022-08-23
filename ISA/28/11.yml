@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 28:11"
+  class="v">11</span>For with stammering lips and another tongue will he speak
+  to this people. </p>
+id: ISA/28/11
+next:
+  id: ISA/28/12
+  number: '12'
+previous:
+  id: ISA/28/10
+  number: '10'
+reference: 'Isaiah 28:11'

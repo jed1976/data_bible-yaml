@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 27:23"
+  class="v">23</span>Haran, and Canneh, and Eden, the merchants of Sheba,
+  Asshur, <span class="add">and</span> Chilmad, <span class="add">were</span>
+  thy merchants. </p>
+id: EZK/27/23
+next:
+  id: EZK/27/24
+  number: '24'
+previous:
+  id: EZK/27/22
+  number: '22'
+reference: 'Ezekiel 27:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 8:13" class="v">13</span>In
+  that he saith, A new <span class="add">covenant</span>, he hath made the first
+  old. Now that which decayeth and waxeth old <span class="add">is</span> ready
+  to vanish away.</p>
+id: HEB/8/13
+next:
+  id: HEB/9/1
+  number: '1'
+previous:
+  id: HEB/8/12
+  number: '12'
+reference: 'Hebrews 8:13'

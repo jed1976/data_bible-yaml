@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOS 19:34"
+  class="v">34</span>And <span class="add">then</span> the coast turneth
+  westward to Aznoth-tabor, and goeth out from thence to Hukkok, and reacheth to
+  Zebulun on the south side, and reacheth to Asher on the west side, and to
+  Judah upon Jordan toward the sunrising. </p>
+id: JOS/19/34
+next:
+  id: JOS/19/35
+  number: '35'
+previous:
+  id: JOS/19/33
+  number: '33'
+reference: 'Joshua 19:34'

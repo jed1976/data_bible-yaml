@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 14:16"
+  class="v">16</span>And he brought back all the goods, and also brought again
+  his brother Lot, and his goods, and the women also, and the people.</p>
+id: GEN/14/16
+next:
+  id: GEN/14/17
+  number: '17'
+previous:
+  id: GEN/14/15
+  number: '15'
+reference: 'Genesis 14:16'

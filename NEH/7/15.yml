@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NEH 7:15" class="v">15</span>The
+  children of Binnui, six hundred forty and eight. </p>
+id: NEH/7/15
+next:
+  id: NEH/7/16
+  number: '16'
+previous:
+  id: NEH/7/14
+  number: '14'
+reference: 'Nehemiah 7:15'

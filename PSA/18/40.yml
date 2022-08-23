@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="40" data-sid="PSA 18:40"
+  class="v">40</span>Thou hast also given me the necks of mine enemies; that I
+  might destroy them that hate me.</p>
+id: PSA/18/40
+next:
+  id: PSA/18/41
+  number: '41'
+previous:
+  id: PSA/18/39
+  number: '39'
+reference: 'Psalms 18:40'

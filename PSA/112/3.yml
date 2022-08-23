@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 112:3"
+  class="v">3</span>Wealth and riches <span class="add">shall be</span> in his
+  house: and his righteousness endureth for ever.</p>
+id: PSA/112/3
+next:
+  id: PSA/112/4
+  number: '4'
+previous:
+  id: PSA/112/2
+  number: '2'
+reference: 'Psalms 112:3'

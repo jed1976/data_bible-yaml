@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 27:26" class="v">26</span>¶
+  Then released he Barabbas unto them: and when he had scourged Jesus, he
+  delivered <span class="add">him</span> to be crucified. </p>
+id: MAT/27/26
+next:
+  id: MAT/27/27
+  number: '27'
+previous:
+  id: MAT/27/25
+  number: '25'
+reference: 'Matthew 27:26'

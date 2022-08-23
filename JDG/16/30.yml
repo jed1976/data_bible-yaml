@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 16:30"
+  class="v">30</span>And Samson said, Let me die with the Philistines. And he
+  bowed himself with <span class="add">all his</span> might; and the house fell
+  upon the lords, and upon all the people that <span class="add">were</span>
+  therein. So the dead which he slew at his death were more than <span
+  class="add">they</span> which he slew in his life. </p>
+id: JDG/16/30
+next:
+  id: JDG/16/31
+  number: '31'
+previous:
+  id: JDG/16/29
+  number: '29'
+reference: 'Judges 16:30'

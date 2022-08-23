@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 6:3" class="v">3</span>And
+  <span class="add">so</span> it was, when Israel had sown, that the Midianites
+  came up, and the Amalekites, and the children of the east, even they came up
+  against them; </p>
+id: JDG/6/3
+next:
+  id: JDG/6/4
+  number: '4'
+previous:
+  id: JDG/6/2
+  number: '2'
+reference: 'Judges 6:3'

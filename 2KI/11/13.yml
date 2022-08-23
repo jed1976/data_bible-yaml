@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 11:13" class="v">13</span>¶
+  And when Athaliah heard the noise of the guard <span class="add">and</span> of
+  the people, she came to the people into the temple of the <span
+  class="nd">LORD</span>. </p>
+id: 2KI/11/13
+next:
+  id: 2KI/11/14
+  number: '14'
+previous:
+  id: 2KI/11/12
+  number: '12'
+reference: '2 Kings 11:13'

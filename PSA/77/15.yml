@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 77:15"
+  class="v">15</span>Thou hast with <span class="add">thine</span> arm redeemed
+  thy people, the sons of Jacob and Joseph. Selah.</p>
+id: PSA/77/15
+next:
+  id: PSA/77/16
+  number: '16'
+previous:
+  id: PSA/77/14
+  number: '14'
+reference: 'Psalms 77:15'

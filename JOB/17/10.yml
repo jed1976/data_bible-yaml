@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 17:10"
+  class="v">10</span>But as for you all, do ye return, and come now: for I
+  cannot find <span class="add">one</span> wise <span class="add">man</span>
+  among you. </p>
+id: JOB/17/10
+next:
+  id: JOB/17/11
+  number: '11'
+previous:
+  id: JOB/17/9
+  number: '9'
+reference: 'Job 17:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="COL 1:19" class="v">19</span>For
+  it pleased <span class="add">the Father</span> that in him should all fulness
+  dwell; </p>
+id: COL/1/19
+next:
+  id: COL/1/20
+  number: '20'
+previous:
+  id: COL/1/18
+  number: '18'
+reference: 'Colossians 1:19'

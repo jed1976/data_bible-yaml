@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 69:25"
+  class="v">25</span>Let their habitation be desolate; <span
+  class="add">and</span> let none dwell in their tents.</p>
+id: PSA/69/25
+next:
+  id: PSA/69/26
+  number: '26'
+previous:
+  id: PSA/69/24
+  number: '24'
+reference: 'Psalms 69:25'

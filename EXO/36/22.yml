@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 36:22"
+  class="v">22</span>One board had two tenons, equally distant one from another:
+  thus did he make for all the boards of the tabernacle. </p>
+id: EXO/36/22
+next:
+  id: EXO/36/23
+  number: '23'
+previous:
+  id: EXO/36/21
+  number: '21'
+reference: 'Exodus 36:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 7:15" class="v">15</span>And
+  he that was dead sat up, and began to speak. And he delivered him to his
+  mother. </p>
+id: LUK/7/15
+next:
+  id: LUK/7/16
+  number: '16'
+previous:
+  id: LUK/7/14
+  number: '14'
+reference: 'Luke 7:15'

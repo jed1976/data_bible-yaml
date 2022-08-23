@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EZK 12:17" class="v">17</span>¶
+  Moreover the word of the <span class="nd">LORD</span> came to me, saying, </p>
+id: EZK/12/17
+next:
+  id: EZK/12/18
+  number: '18'
+previous:
+  id: EZK/12/16
+  number: '16'
+reference: 'Ezekiel 12:17'

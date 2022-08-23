@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="1CH 6:44" class="v">44</span>And
+  their brethren the sons of Merari <span class="add">stood</span> on the left
+  hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch, </p>
+id: 1CH/6/44
+next:
+  id: 1CH/6/45
+  number: '45'
+previous:
+  id: 1CH/6/43
+  number: '43'
+reference: '1 Chronicles 6:44'

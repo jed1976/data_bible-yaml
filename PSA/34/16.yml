@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 34:16"
+  class="v">16</span>The face of the <span class="nd">LORD</span> <span
+  class="add">is</span> against them that do evil, to cut off the remembrance of
+  them from the earth.</p>
+id: PSA/34/16
+next:
+  id: PSA/34/17
+  number: '17'
+previous:
+  id: PSA/34/15
+  number: '15'
+reference: 'Psalms 34:16'

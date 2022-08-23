@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 34:22"
+  class="v">22</span>The <span class="nd">LORD</span> redeemeth the soul of his
+  servants: and none of them that trust in him shall be desolate.</p>
+id: PSA/34/22
+next:
+  id: PSA/35/1
+  number: '1'
+previous:
+  id: PSA/34/21
+  number: '21'
+reference: 'Psalms 34:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 22:22"
+  class="v">22</span>Receive, I pray thee, the law from his mouth, and lay up
+  his words in thine heart. </p>
+id: JOB/22/22
+next:
+  id: JOB/22/23
+  number: '23'
+previous:
+  id: JOB/22/21
+  number: '21'
+reference: 'Job 22:22'

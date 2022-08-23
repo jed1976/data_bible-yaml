@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 17:25" class="v">25</span>He
+  saith, Yes. And when he was come into the house, Jesus prevented him, saying,
+  <span class="wj">What thinkest thou, Simon? of whom do the kings of the earth
+  take custom or tribute? of their own children, or of strangers?</span> </p>
+id: MAT/17/25
+next:
+  id: MAT/17/26
+  number: '26'
+previous:
+  id: MAT/17/24
+  number: '24'
+reference: 'Matthew 17:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 12:9" class="v">9</span>Who
+  knoweth not in all these that the hand of the <span class="nd">LORD</span>
+  hath wrought this? </p>
+id: JOB/12/9
+next:
+  id: JOB/12/10
+  number: '10'
+previous:
+  id: JOB/12/8
+  number: '8'
+reference: 'Job 12:9'

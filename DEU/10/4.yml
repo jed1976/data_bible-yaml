@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 10:4" class="v">4</span>And
+  he wrote on the tables, according to the first writing, the ten commandments,
+  which the <span class="nd">LORD</span> spake unto you in the mount out of the
+  midst of the fire in the day of the assembly: and the <span
+  class="nd">LORD</span> gave them unto me. </p>
+id: DEU/10/4
+next:
+  id: DEU/10/5
+  number: '5'
+previous:
+  id: DEU/10/3
+  number: '3'
+reference: 'Deuteronomy 10:4'

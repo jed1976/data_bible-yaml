@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 13:32"
+  class="v">32</span>These <span class="add">are the countries</span> which
+  Moses did distribute for inheritance in the plains of Moab, on the other side
+  Jordan, by Jericho, eastward. </p>
+id: JOS/13/32
+next:
+  id: JOS/13/33
+  number: '33'
+previous:
+  id: JOS/13/31
+  number: '31'
+reference: 'Joshua 13:32'

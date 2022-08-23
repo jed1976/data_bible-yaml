@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 4:6" class="v">6</span>So
+  Hatach went forth to Mordecai unto the street of the city, which <span
+  class="add">was</span> before the king’s gate. </p>
+id: EST/4/6
+next:
+  id: EST/4/7
+  number: '7'
+previous:
+  id: EST/4/5
+  number: '5'
+reference: 'Esther 4:6'

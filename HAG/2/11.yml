@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HAG 2:11"
+  class="v">11</span>Thus saith the <span class="nd">LORD</span> of hosts; Ask
+  now the priests <span class="add">concerning</span> the law, saying, </p>
+id: HAG/2/11
+next:
+  id: HAG/2/12
+  number: '12'
+previous:
+  id: HAG/2/10
+  number: '10'
+reference: 'Haggai 2:11'

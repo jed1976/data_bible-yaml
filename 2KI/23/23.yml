@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 23:23"
+  class="v">23</span>But in the eighteenth year of king Josiah, <span
+  class="add">wherein</span> this passover was holden to the <span
+  class="nd">LORD</span> in Jerusalem.</p>
+id: 2KI/23/23
+next:
+  id: 2KI/23/24
+  number: '24'
+previous:
+  id: 2KI/23/22
+  number: '22'
+reference: '2 Kings 23:23'

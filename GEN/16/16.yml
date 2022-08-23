@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 16:16"
+  class="v">16</span>And Abram <span class="add">was</span> fourscore and six
+  years old, when Hagar bare Ishmael to Abram.</p>
+id: GEN/16/16
+next:
+  id: GEN/17/1
+  number: '1'
+previous:
+  id: GEN/16/15
+  number: '15'
+reference: 'Genesis 16:16'

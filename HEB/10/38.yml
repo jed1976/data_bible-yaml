@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="HEB 10:38"
+  class="v">38</span>Now the just shall live by faith: but if <span
+  class="add">any man</span> draw back, my soul shall have no pleasure in him.
+  </p>
+id: HEB/10/38
+next:
+  id: HEB/10/39
+  number: '39'
+previous:
+  id: HEB/10/37
+  number: '37'
+reference: 'Hebrews 10:38'

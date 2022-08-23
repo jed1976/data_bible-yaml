@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 31:13"
+  class="v">13</span>She seeketh wool, and flax, and worketh willingly with her
+  hands. </p>
+id: PRO/31/13
+next:
+  id: PRO/31/14
+  number: '14'
+previous:
+  id: PRO/31/12
+  number: '12'
+reference: 'Proverbs 31:13'

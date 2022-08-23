@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 13:18"
+  class="v">18</span>And <span class="add">she had</span> a garment of divers
+  colours upon her: for with such robes were the king’s daughters <span
+  class="add">that were</span> virgins apparelled. Then his servant brought her
+  out, and bolted the door after her.</p>
+id: 2SA/13/18
+next:
+  id: 2SA/13/19
+  number: '19'
+previous:
+  id: 2SA/13/17
+  number: '17'
+reference: '2 Samuel 13:18'

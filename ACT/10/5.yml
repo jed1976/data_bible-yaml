@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 10:5" class="v">5</span>And
+  now send men to Joppa, and call for <span class="add">one</span> Simon, whose
+  surname is Peter: </p>
+id: ACT/10/5
+next:
+  id: ACT/10/6
+  number: '6'
+previous:
+  id: ACT/10/4
+  number: '4'
+reference: 'Acts 10:5'

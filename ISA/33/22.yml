@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 33:22"
+  class="v">22</span>For the <span class="nd">LORD</span> <span
+  class="add">is</span> our judge, the <span class="nd">LORD</span> <span
+  class="add">is</span> our lawgiver, the <span class="nd">LORD</span> <span
+  class="add">is</span> our king; he will save us. </p>
+id: ISA/33/22
+next:
+  id: ISA/33/23
+  number: '23'
+previous:
+  id: ISA/33/21
+  number: '21'
+reference: 'Isaiah 33:22'

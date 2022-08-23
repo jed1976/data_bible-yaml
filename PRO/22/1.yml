@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 22:1" class="v">1</span>A
+  <span class="add">good</span> name <span class="add">is</span> rather to be
+  chosen than great riches, <span class="add">and</span> loving favour rather
+  than silver and gold. </p>
+id: PRO/22/1
+next:
+  id: PRO/22/2
+  number: '2'
+previous:
+  id: PRO/21/31
+  number: '31'
+reference: 'Proverbs 22:1'

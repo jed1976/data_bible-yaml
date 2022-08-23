@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 13:9" class="v">9</span>The
+  light of the righteous rejoiceth: but the lamp of the wicked shall be put out.
+  </p>
+id: PRO/13/9
+next:
+  id: PRO/13/10
+  number: '10'
+previous:
+  id: PRO/13/8
+  number: '8'
+reference: 'Proverbs 13:9'

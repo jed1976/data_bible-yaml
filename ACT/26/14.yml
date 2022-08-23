@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 26:14"
+  class="v">14</span>And when we were all fallen to the earth, I heard a voice
+  speaking unto me, and saying in the Hebrew tongue, <span class="wj">Saul,
+  Saul, why persecutest thou me? <span class="add">it is</span> hard for thee to
+  kick against the pricks.</span> </p>
+id: ACT/26/14
+next:
+  id: ACT/26/15
+  number: '15'
+previous:
+  id: ACT/26/13
+  number: '13'
+reference: 'Acts 26:14'

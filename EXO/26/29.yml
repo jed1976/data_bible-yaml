@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 26:29"
+  class="v">29</span>And thou shalt overlay the boards with gold, and make their
+  rings <span class="add">of</span> gold <span class="add">for</span> places for
+  the bars: and thou shalt overlay the bars with gold. </p>
+id: EXO/26/29
+next:
+  id: EXO/26/30
+  number: '30'
+previous:
+  id: EXO/26/28
+  number: '28'
+reference: 'Exodus 26:29'

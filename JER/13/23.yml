@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 13:23"
+  class="v">23</span>Can the Ethiopian change his skin, or the leopard his
+  spots? <span class="add">then</span> may ye also do good, that are accustomed
+  to do evil. </p>
+id: JER/13/23
+next:
+  id: JER/13/24
+  number: '24'
+previous:
+  id: JER/13/22
+  number: '22'
+reference: 'Jeremiah 13:23'

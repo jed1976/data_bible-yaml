@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 22:8" class="v">8</span>And
+  Abraham said, My son, God will provide himself a lamb for a burnt offering: so
+  they went both of them together. </p>
+id: GEN/22/8
+next:
+  id: GEN/22/9
+  number: '9'
+previous:
+  id: GEN/22/7
+  number: '7'
+reference: 'Genesis 22:8'

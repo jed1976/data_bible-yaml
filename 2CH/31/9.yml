@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 31:9" class="v">9</span>Then
+  Hezekiah questioned with the priests and the Levites concerning the heaps.
+  </p>
+id: 2CH/31/9
+next:
+  id: 2CH/31/10
+  number: '10'
+previous:
+  id: 2CH/31/8
+  number: '8'
+reference: '2 Chronicles 31:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 21:15" class="v">15</span>¶
+  So when they had dined, Jesus saith to Simon Peter, <span class="wj">Simon,
+  <span class="add">son</span> of Jonas, lovest thou me more than these?</span>
+  He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto
+  him, <span class="wj">Feed my lambs.</span> </p>
+id: JHN/21/15
+next:
+  id: JHN/21/16
+  number: '16'
+previous:
+  id: JHN/21/14
+  number: '14'
+reference: 'John 21:15'

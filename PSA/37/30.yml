@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="30" data-sid="PSA 37:30"
+  class="v">30</span>The mouth of the righteous speaketh wisdom, and his tongue
+  talketh of judgment.</p>
+id: PSA/37/30
+next:
+  id: PSA/37/31
+  number: '31'
+previous:
+  id: PSA/37/29
+  number: '29'
+reference: 'Psalms 37:30'

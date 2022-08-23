@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="PRO 3:31" class="v">31</span>¶
+  Envy thou not the oppressor, and choose none of his ways. </p>
+id: PRO/3/31
+next:
+  id: PRO/3/32
+  number: '32'
+previous:
+  id: PRO/3/30
+  number: '30'
+reference: 'Proverbs 3:31'

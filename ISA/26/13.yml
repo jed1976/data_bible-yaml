@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 26:13" class="v">13</span>O
+  <span class="nd">LORD</span> our God, <span class="add">other</span> lords
+  beside thee have had dominion over us: <span class="add">but</span> by thee
+  only will we make mention of thy name. </p>
+id: ISA/26/13
+next:
+  id: ISA/26/14
+  number: '14'
+previous:
+  id: ISA/26/12
+  number: '12'
+reference: 'Isaiah 26:13'

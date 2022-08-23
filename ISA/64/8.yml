@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 64:8" class="v">8</span>But
+  now, O <span class="nd">LORD</span>, thou <span class="add">art</span> our
+  father; we <span class="add">are</span> the clay, and thou our potter; and we
+  all <span class="add">are</span> the work of thy hand.</p>
+id: ISA/64/8
+next:
+  id: ISA/64/9
+  number: '9'
+previous:
+  id: ISA/64/7
+  number: '7'
+reference: 'Isaiah 64:8'

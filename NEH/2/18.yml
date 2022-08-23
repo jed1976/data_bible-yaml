@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 2:18"
+  class="v">18</span>Then I told them of the hand of my God which was good upon
+  me; as also the king’s words that he had spoken unto me. And they said, Let us
+  rise up and build. So they strengthened their hands for <span
+  class="add">this</span> good <span class="add">work</span>. </p>
+id: NEH/2/18
+next:
+  id: NEH/2/19
+  number: '19'
+previous:
+  id: NEH/2/17
+  number: '17'
+reference: 'Nehemiah 2:18'

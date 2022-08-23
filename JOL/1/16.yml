@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOL 1:16" class="v">16</span>Is
+  not the meat cut off before our eyes, <span class="add">yea</span>, joy and
+  gladness from the house of our God? </p>
+id: JOL/1/16
+next:
+  id: JOL/1/17
+  number: '17'
+previous:
+  id: JOL/1/15
+  number: '15'
+reference: 'Joel 1:16'

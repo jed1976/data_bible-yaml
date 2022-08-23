@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 19:13"
+  class="v">13</span>And he <span class="add">was</span> clothed with a vesture
+  dipped in blood: and his name is called The Word of God. </p>
+id: REV/19/13
+next:
+  id: REV/19/14
+  number: '14'
+previous:
+  id: REV/19/12
+  number: '12'
+reference: 'Revelation 19:13'

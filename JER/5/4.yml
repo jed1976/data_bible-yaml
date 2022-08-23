@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 5:4"
+  class="v">4</span>Therefore I said, Surely these <span class="add">are</span>
+  poor; they are foolish: for they know not the way of the <span
+  class="nd">LORD</span>, <span class="add">nor</span> the judgment of their
+  God. </p>
+id: JER/5/4
+next:
+  id: JER/5/5
+  number: '5'
+previous:
+  id: JER/5/3
+  number: '3'
+reference: 'Jeremiah 5:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 13:21"
+  class="v">21</span>And the <span class="nd">LORD</span> went before them by
+  day in a pillar of a cloud, to lead them the way; and by night in a pillar of
+  fire, to give them light; to go by day and night: </p>
+id: EXO/13/21
+next:
+  id: EXO/13/22
+  number: '22'
+previous:
+  id: EXO/13/20
+  number: '20'
+reference: 'Exodus 13:21'

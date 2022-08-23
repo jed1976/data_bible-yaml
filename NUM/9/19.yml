@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 9:19" class="v">19</span>And
+  when the cloud tarried long upon the tabernacle many days, then the children
+  of Israel kept the charge of the <span class="nd">LORD</span>, and journeyed
+  not. </p>
+id: NUM/9/19
+next:
+  id: NUM/9/20
+  number: '20'
+previous:
+  id: NUM/9/18
+  number: '18'
+reference: 'Numbers 9:19'

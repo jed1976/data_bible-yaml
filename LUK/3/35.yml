@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 3:35"
+  class="v">35</span>Which was <span class="add">the son</span> of Saruch, which
+  was <span class="add">the son</span> of Ragau, which was <span class="add">the
+  son</span> of Phalec, which was <span class="add">the son</span> of Heber,
+  which was <span class="add">the son</span> of Sala, </p>
+id: LUK/3/35
+next:
+  id: LUK/3/36
+  number: '36'
+previous:
+  id: LUK/3/34
+  number: '34'
+reference: 'Luke 3:35'

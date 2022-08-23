@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 5:5" class="v">5</span>Yet
+  now our flesh <span class="add">is</span> as the flesh of our brethren, our
+  children as their children: and, lo, we bring into bondage our sons and our
+  daughters to be servants, and <span class="add">some</span> of our daughters
+  are brought unto bondage <span class="add">already:</span> neither <span
+  class="add">is it</span> in our power <span class="add">to redeem them;</span>
+  for other men have our lands and vineyards.</p>
+id: NEH/5/5
+next:
+  id: NEH/5/6
+  number: '6'
+previous:
+  id: NEH/5/4
+  number: '4'
+reference: 'Nehemiah 5:5'

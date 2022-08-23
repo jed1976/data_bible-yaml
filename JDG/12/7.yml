@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 12:7" class="v">7</span>And
+  Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was
+  buried in <span class="add">one of</span> the cities of Gilead.</p>
+id: JDG/12/7
+next:
+  id: JDG/12/8
+  number: '8'
+previous:
+  id: JDG/12/6
+  number: '6'
+reference: 'Judges 12:7'

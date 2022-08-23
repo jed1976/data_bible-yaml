@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 9:21" class="v">21</span>For
+  death is come up into our windows, <span class="add">and</span> is entered
+  into our palaces, to cut off the children from without, <span
+  class="add">and</span> the young men from the streets. </p>
+id: JER/9/21
+next:
+  id: JER/9/22
+  number: '22'
+previous:
+  id: JER/9/20
+  number: '20'
+reference: 'Jeremiah 9:21'

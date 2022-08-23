@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 20:29"
+  class="v">29</span>Jesus saith unto him, <span class="wj">Thomas, because thou
+  hast seen me, thou hast believed: blessed <span class="add">are</span> they
+  that have not seen, and <span class="add">yet</span> have believed.</span></p>
+id: JHN/20/29
+next:
+  id: JHN/20/30
+  number: '30'
+previous:
+  id: JHN/20/28
+  number: '28'
+reference: 'John 20:29'

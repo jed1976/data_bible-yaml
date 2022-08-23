@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="94" data-sid="PSA 119:94"
+  class="v">94</span>I <span class="add">am</span> thine, save me; for I have
+  sought thy precepts.</p>
+id: PSA/119/94
+next:
+  id: PSA/119/95
+  number: '95'
+previous:
+  id: PSA/119/93
+  number: '93'
+reference: 'Psalms 119:94'

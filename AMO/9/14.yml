@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="AMO 9:14" class="v">14</span>And
+  I will bring again the captivity of my people of Israel, and they shall build
+  the waste cities, and inhabit <span class="add">them;</span> and they shall
+  plant vineyards, and drink the wine thereof; they shall also make gardens, and
+  eat the fruit of them. </p>
+id: AMO/9/14
+next:
+  id: AMO/9/15
+  number: '15'
+previous:
+  id: AMO/9/13
+  number: '13'
+reference: 'Amos 9:14'

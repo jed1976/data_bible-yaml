@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZR 6:15" class="v">15</span>And
+  this house was finished on the third day of the month Adar, which was in the
+  sixth year of the reign of Darius the king.</p>
+id: EZR/6/15
+next:
+  id: EZR/6/16
+  number: '16'
+previous:
+  id: EZR/6/14
+  number: '14'
+reference: 'Ezra 6:15'

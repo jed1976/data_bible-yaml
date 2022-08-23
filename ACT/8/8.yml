@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 8:8" class="v">8</span>And
+  there was great joy in that city. </p>
+id: ACT/8/8
+next:
+  id: ACT/8/9
+  number: '9'
+previous:
+  id: ACT/8/7
+  number: '7'
+reference: 'Acts 8:8'

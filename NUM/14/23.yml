@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 14:23"
+  class="v">23</span>Surely they shall not see the land which I sware unto their
+  fathers, neither shall any of them that provoked me see it: </p>
+id: NUM/14/23
+next:
+  id: NUM/14/24
+  number: '24'
+previous:
+  id: NUM/14/22
+  number: '22'
+reference: 'Numbers 14:23'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 13:13"
+  class="v">13</span>Then shalt thou say unto them, Thus saith the <span
+  class="nd">LORD</span>, Behold, I will fill all the inhabitants of this land,
+  even the kings that sit upon David’s throne, and the priests, and the
+  prophets, and all the inhabitants of Jerusalem, with drunkenness. </p>
+id: JER/13/13
+next:
+  id: JER/13/14
+  number: '14'
+previous:
+  id: JER/13/12
+  number: '12'
+reference: 'Jeremiah 13:13'

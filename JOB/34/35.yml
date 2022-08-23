@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOB 34:35"
+  class="v">35</span>Job hath spoken without knowledge, and his words <span
+  class="add">were</span> without wisdom. </p>
+id: JOB/34/35
+next:
+  id: JOB/34/36
+  number: '36'
+previous:
+  id: JOB/34/34
+  number: '34'
+reference: 'Job 34:35'

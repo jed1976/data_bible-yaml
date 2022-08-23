@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 5:22"
+  class="v">22</span>And, behold, there cometh one of the rulers of the
+  synagogue, Jairus by name; and when he saw him, he fell at his feet, </p>
+id: MRK/5/22
+next:
+  id: MRK/5/23
+  number: '23'
+previous:
+  id: MRK/5/21
+  number: '21'
+reference: 'Mark 5:22'

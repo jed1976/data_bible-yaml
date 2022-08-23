@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 7:9" class="v">9</span>Be not
+  hasty in thy spirit to be angry: for anger resteth in the bosom of fools. </p>
+id: ECC/7/9
+next:
+  id: ECC/7/10
+  number: '10'
+previous:
+  id: ECC/7/8
+  number: '8'
+reference: 'Ecclesiastes 7:9'

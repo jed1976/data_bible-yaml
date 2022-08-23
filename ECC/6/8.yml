@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 6:8" class="v">8</span>For
+  what hath the wise more than the fool? what hath the poor, that knoweth to
+  walk before the living?</p>
+id: ECC/6/8
+next:
+  id: ECC/6/9
+  number: '9'
+previous:
+  id: ECC/6/7
+  number: '7'
+reference: 'Ecclesiastes 6:8'

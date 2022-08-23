@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 10:3" class="v">3</span>And
+  Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the <span
+  class="nd">LORD</span> God of the Hebrews, How long wilt thou refuse to humble
+  thyself before me? let my people go, that they may serve me. </p>
+id: EXO/10/3
+next:
+  id: EXO/10/4
+  number: '4'
+previous:
+  id: EXO/10/2
+  number: '2'
+reference: 'Exodus 10:3'

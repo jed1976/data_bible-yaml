@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 33:43"
+  class="v">43</span>And they departed from Punon, and pitched in Oboth. </p>
+id: NUM/33/43
+next:
+  id: NUM/33/44
+  number: '44'
+previous:
+  id: NUM/33/42
+  number: '42'
+reference: 'Numbers 33:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEP 2:6" class="v">6</span>And
+  the sea coast shall be dwellings <span class="add">and</span> cottages for
+  shepherds, and folds for flocks. </p>
+id: ZEP/2/6
+next:
+  id: ZEP/2/7
+  number: '7'
+previous:
+  id: ZEP/2/5
+  number: '5'
+reference: 'Zephaniah 2:6'

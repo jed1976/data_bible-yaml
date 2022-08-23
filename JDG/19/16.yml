@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 19:16" class="v">16</span>¶
+  And, behold, there came an old man from his work out of the field at even,
+  which <span class="add">was</span> also of mount Ephraim; and he sojourned in
+  Gibeah: but the men of the place <span class="add">were</span> Benjamites.
+  </p>
+id: JDG/19/16
+next:
+  id: JDG/19/17
+  number: '17'
+previous:
+  id: JDG/19/15
+  number: '15'
+reference: 'Judges 19:16'

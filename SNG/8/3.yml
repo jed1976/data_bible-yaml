@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 8:3" class="v">3</span>His
+  left hand <span class="add">should be</span> under my head, and his right hand
+  should embrace me. </p>
+id: SNG/8/3
+next:
+  id: SNG/8/4
+  number: '4'
+previous:
+  id: SNG/8/2
+  number: '2'
+reference: 'Song of Solomon 8:3'

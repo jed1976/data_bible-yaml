@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 107:22"
+  class="v">22</span>And let them sacrifice the sacrifices of thanksgiving, and
+  declare his works with rejoicing.</p>
+id: PSA/107/22
+next:
+  id: PSA/107/23
+  number: '23'
+previous:
+  id: PSA/107/21
+  number: '21'
+reference: 'Psalms 107:22'

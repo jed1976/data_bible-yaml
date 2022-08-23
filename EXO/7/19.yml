@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 7:19" class="v">19</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, Say unto Aaron, Take
+  thy rod, and stretch out thine hand upon the waters of Egypt, upon their
+  streams, upon their rivers, and upon their ponds, and upon all their pools of
+  water, that they may become blood; and <span class="add">that</span> there may
+  be blood throughout all the land of Egypt, both in <span class="add">vessels
+  of</span> wood, and in <span class="add">vessels of</span> stone. </p>
+id: EXO/7/19
+next:
+  id: EXO/7/20
+  number: '20'
+previous:
+  id: EXO/7/18
+  number: '18'
+reference: 'Exodus 7:19'

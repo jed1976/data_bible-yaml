@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 1:1"
+  class="v">1</span>Forasmuch as many have taken in hand to set forth in order a
+  declaration of those things which are most surely believed among us, </p>
+id: LUK/1/1
+next:
+  id: LUK/1/2
+  number: '2'
+previous:
+  id: LUK/intro/0
+  number: '0'
+reference: 'Luke 1:1'

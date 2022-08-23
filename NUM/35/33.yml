@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 35:33" class="v">33</span>So
+  ye shall not pollute the land wherein ye <span class="add">are:</span> for
+  blood it defileth the land: and the land cannot be cleansed of the blood that
+  is shed therein, but by the blood of him that shed it. </p>
+id: NUM/35/33
+next:
+  id: NUM/35/34
+  number: '34'
+previous:
+  id: NUM/35/32
+  number: '32'
+reference: 'Numbers 35:33'

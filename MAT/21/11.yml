@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 21:11"
+  class="v">11</span>And the multitude said, This is Jesus the prophet of
+  Nazareth of Galilee.</p>
+id: MAT/21/11
+next:
+  id: MAT/21/12
+  number: '12'
+previous:
+  id: MAT/21/10
+  number: '10'
+reference: 'Matthew 21:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 5:1" class="v">1</span>But a
+  certain man named Ananias, with Sapphira his wife, sold a possession, </p>
+id: ACT/5/1
+next:
+  id: ACT/5/2
+  number: '2'
+previous:
+  id: ACT/4/37
+  number: '37'
+reference: 'Acts 5:1'

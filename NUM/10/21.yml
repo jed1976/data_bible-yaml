@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 10:21"
+  class="v">21</span>And the Kohathites set forward, bearing the sanctuary: and
+  <span class="add">the other</span> did set up the tabernacle against they
+  came.</p>
+id: NUM/10/21
+next:
+  id: NUM/10/22
+  number: '22'
+previous:
+  id: NUM/10/20
+  number: '20'
+reference: 'Numbers 10:21'

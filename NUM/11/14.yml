@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 11:14" class="v">14</span>I
+  am not able to bear all this people alone, because <span class="add">it
+  is</span> too heavy for me. </p>
+id: NUM/11/14
+next:
+  id: NUM/11/15
+  number: '15'
+previous:
+  id: NUM/11/13
+  number: '13'
+reference: 'Numbers 11:14'

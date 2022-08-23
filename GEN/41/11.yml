@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 41:11"
+  class="v">11</span>And we dreamed a dream in one night, I and he; we dreamed
+  each man according to the interpretation of his dream. </p>
+id: GEN/41/11
+next:
+  id: GEN/41/12
+  number: '12'
+previous:
+  id: GEN/41/10
+  number: '10'
+reference: 'Genesis 41:11'

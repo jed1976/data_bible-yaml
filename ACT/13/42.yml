@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 13:42"
+  class="v">42</span>And when the Jews were gone out of the synagogue, the
+  Gentiles besought that these words might be preached to them the next sabbath.
+  </p>
+id: ACT/13/42
+next:
+  id: ACT/13/43
+  number: '43'
+previous:
+  id: ACT/13/41
+  number: '41'
+reference: 'Acts 13:42'

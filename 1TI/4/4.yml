@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1TI 4:4" class="v">4</span>For
+  every creature of God <span class="add">is</span> good, and nothing to be
+  refused, if it be received with thanksgiving: </p>
+id: 1TI/4/4
+next:
+  id: 1TI/4/5
+  number: '5'
+previous:
+  id: 1TI/4/3
+  number: '3'
+reference: '1 Timothy 4:4'

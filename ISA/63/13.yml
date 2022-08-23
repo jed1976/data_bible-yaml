@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 63:13"
+  class="v">13</span>That led them through the deep, as an horse in the
+  wilderness, <span class="add">that</span> they should not stumble? </p>
+id: ISA/63/13
+next:
+  id: ISA/63/14
+  number: '14'
+previous:
+  id: ISA/63/12
+  number: '12'
+reference: 'Isaiah 63:13'

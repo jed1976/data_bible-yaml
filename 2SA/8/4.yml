@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 8:4" class="v">4</span>And
+  David took from him a thousand <span class="add">chariots</span>, and seven
+  hundred horsemen, and twenty thousand footmen: and David houghed all the
+  chariot <span class="add">horses</span>, but reserved of them <span
+  class="add">for</span> an hundred chariots. </p>
+id: 2SA/8/4
+next:
+  id: 2SA/8/5
+  number: '5'
+previous:
+  id: 2SA/8/3
+  number: '3'
+reference: '2 Samuel 8:4'

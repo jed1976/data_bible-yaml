@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 13:3" class="v">3</span>¶ And
+  the anger of the <span class="nd">LORD</span> was kindled against Israel, and
+  he delivered them into the hand of Hazael king of Syria, and into the hand of
+  Ben-hadad the son of Hazael, all <span class="add">their</span> days. </p>
+id: 2KI/13/3
+next:
+  id: 2KI/13/4
+  number: '4'
+previous:
+  id: 2KI/13/2
+  number: '2'
+reference: '2 Kings 13:3'

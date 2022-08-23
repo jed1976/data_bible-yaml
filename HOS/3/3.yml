@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 3:3" class="v">3</span>And I
+  said unto her, Thou shalt abide for me many days; thou shalt not play the
+  harlot, and thou shalt not be for <span class="add">another</span> man: so
+  <span class="add">will</span> I also <span class="add">be</span> for thee.
+  </p>
+id: HOS/3/3
+next:
+  id: HOS/3/4
+  number: '4'
+previous:
+  id: HOS/3/2
+  number: '2'
+reference: 'Hosea 3:3'

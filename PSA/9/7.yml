@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 9:7" class="v">7</span>But
+  the <span class="nd">LORD</span> shall endure for ever: he hath prepared his
+  throne for judgment.</p>
+id: PSA/9/7
+next:
+  id: PSA/9/8
+  number: '8'
+previous:
+  id: PSA/9/6
+  number: '6'
+reference: 'Psalms 9:7'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MRK 6:39" class="v">39</span>And
+  he commanded them to make all sit down by companies upon the green grass. </p>
+id: MRK/6/39
+next:
+  id: MRK/6/40
+  number: '40'
+previous:
+  id: MRK/6/38
+  number: '38'
+reference: 'Mark 6:39'

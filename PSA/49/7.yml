@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 49:7" class="v">7</span>None
+  <span class="add">of them</span> can by any means redeem his brother, nor give
+  to God a ransom for him:</p>
+id: PSA/49/7
+next:
+  id: PSA/49/8
+  number: '8'
+previous:
+  id: PSA/49/6
+  number: '6'
+reference: 'Psalms 49:7'

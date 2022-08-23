@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 8:9" class="v">9</span>For I
+  am a man under authority, having soldiers under me: and I say to this <span
+  class="add">man</span>, Go, and he goeth; and to another, Come, and he cometh;
+  and to my servant, Do this, and he doeth <span class="add">it</span>. </p>
+id: MAT/8/9
+next:
+  id: MAT/8/10
+  number: '10'
+previous:
+  id: MAT/8/8
+  number: '8'
+reference: 'Matthew 8:9'

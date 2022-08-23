@@ -1,0 +1,12 @@
+content: >-
+  <p class="s1"><span class="tl">מ MEM.</span></p><p class="q1"><span
+  data-number="97" data-sid="PSA 119:97" class="v">97</span>O how love I thy
+  law! it <span class="add">is</span> my meditation all the day.</p>
+id: PSA/119/97
+next:
+  id: PSA/119/98
+  number: '98'
+previous:
+  id: PSA/119/96
+  number: '96'
+reference: 'Psalms 119:97'

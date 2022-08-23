@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 61:8" class="v">8</span>So
+  will I sing praise unto thy name for ever, that I may daily perform my
+  vows.</p>
+id: PSA/61/8
+next:
+  id: PSA/62/1
+  number: '1'
+previous:
+  id: PSA/61/7
+  number: '7'
+reference: 'Psalms 61:8'

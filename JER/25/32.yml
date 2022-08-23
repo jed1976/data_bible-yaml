@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JER 25:32"
+  class="v">32</span>Thus saith the <span class="nd">LORD</span> of hosts,
+  Behold, evil shall go forth from nation to nation, and a great whirlwind shall
+  be raised up from the coasts of the earth. </p>
+id: JER/25/32
+next:
+  id: JER/25/33
+  number: '33'
+previous:
+  id: JER/25/31
+  number: '31'
+reference: 'Jeremiah 25:32'

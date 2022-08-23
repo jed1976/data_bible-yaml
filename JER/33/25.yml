@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 33:25"
+  class="v">25</span>Thus saith the <span class="nd">LORD</span>; If my covenant
+  <span class="add">be</span> not with day and night, <span class="add">and
+  if</span> I have not appointed the ordinances of heaven and earth; </p>
+id: JER/33/25
+next:
+  id: JER/33/26
+  number: '26'
+previous:
+  id: JER/33/24
+  number: '24'
+reference: 'Jeremiah 33:25'

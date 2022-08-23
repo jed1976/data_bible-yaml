@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 3:7" class="v">7</span>Then
+  said he to the multitude that came forth to be baptized of him, O generation
+  of vipers, who hath warned you to flee from the wrath to come? </p>
+id: LUK/3/7
+next:
+  id: LUK/3/8
+  number: '8'
+previous:
+  id: LUK/3/6
+  number: '6'
+reference: 'Luke 3:7'

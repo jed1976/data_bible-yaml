@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 47:1" class="v">1</span>Come
+  down, and sit in the dust, O virgin daughter of Babylon, sit on the ground:
+  <span class="add">there is</span> no throne, O daughter of the Chaldeans: for
+  thou shalt no more be called tender and delicate. </p>
+id: ISA/47/1
+next:
+  id: ISA/47/2
+  number: '2'
+previous:
+  id: ISA/46/13
+  number: '13'
+reference: 'Isaiah 47:1'

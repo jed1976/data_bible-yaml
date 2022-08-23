@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 14:10"
+  class="v">10</span>But all the congregation bade stone them with stones. And
+  the glory of the <span class="nd">LORD</span> appeared in the tabernacle of
+  the congregation before all the children of Israel.</p>
+id: NUM/14/10
+next:
+  id: NUM/14/11
+  number: '11'
+previous:
+  id: NUM/14/9
+  number: '9'
+reference: 'Numbers 14:10'

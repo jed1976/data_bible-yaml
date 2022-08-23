@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 27:34"
+  class="v">34</span>And when Esau heard the words of his father, he cried with
+  a great and exceeding bitter cry, and said unto his father, Bless me, <span
+  class="add">even</span> me also, O my father. </p>
+id: GEN/27/34
+next:
+  id: GEN/27/35
+  number: '35'
+previous:
+  id: GEN/27/33
+  number: '33'
+reference: 'Genesis 27:34'

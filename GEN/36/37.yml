@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="GEN 36:37"
+  class="v">37</span>And Samlah died, and Saul of Rehoboth <span
+  class="add">by</span> the river reigned in his stead. </p>
+id: GEN/36/37
+next:
+  id: GEN/36/38
+  number: '38'
+previous:
+  id: GEN/36/36
+  number: '36'
+reference: 'Genesis 36:37'

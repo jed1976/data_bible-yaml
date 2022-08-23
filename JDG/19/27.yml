@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JDG 19:27"
+  class="v">27</span>And her lord rose up in the morning, and opened the doors
+  of the house, and went out to go his way: and, behold, the woman his concubine
+  was fallen down <span class="add">at</span> the door of the house, and her
+  hands <span class="add">were</span> upon the threshold. </p>
+id: JDG/19/27
+next:
+  id: JDG/19/28
+  number: '28'
+previous:
+  id: JDG/19/26
+  number: '26'
+reference: 'Judges 19:27'

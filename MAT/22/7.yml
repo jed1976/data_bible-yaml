@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 22:7" class="v">7</span><span
+  class="wj">But when the king heard <span class="add">thereof</span>, he was
+  wroth: and he sent forth his armies, and destroyed those murderers, and burned
+  up their city.</span> </p>
+id: MAT/22/7
+next:
+  id: MAT/22/8
+  number: '8'
+previous:
+  id: MAT/22/6
+  number: '6'
+reference: 'Matthew 22:7'

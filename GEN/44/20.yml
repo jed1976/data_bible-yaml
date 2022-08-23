@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 44:20"
+  class="v">20</span>And we said unto my lord, We have a father, an old man, and
+  a child of his old age, a little one; and his brother is dead, and he alone is
+  left of his mother, and his father loveth him. </p>
+id: GEN/44/20
+next:
+  id: GEN/44/21
+  number: '21'
+previous:
+  id: GEN/44/19
+  number: '19'
+reference: 'Genesis 44:20'

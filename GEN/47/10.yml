@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 47:10"
+  class="v">10</span>And Jacob blessed Pharaoh, and went out from before
+  Pharaoh.</p>
+id: GEN/47/10
+next:
+  id: GEN/47/11
+  number: '11'
+previous:
+  id: GEN/47/9
+  number: '9'
+reference: 'Genesis 47:10'

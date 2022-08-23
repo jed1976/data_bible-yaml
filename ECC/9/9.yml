@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 9:9" class="v">9</span>Live
+  joyfully with the wife whom thou lovest all the days of the life of thy
+  vanity, which he hath given thee under the sun, all the days of thy vanity:
+  for that <span class="add">is</span> thy portion in <span
+  class="add">this</span> life, and in thy labour which thou takest under the
+  sun. </p>
+id: ECC/9/9
+next:
+  id: ECC/9/10
+  number: '10'
+previous:
+  id: ECC/9/8
+  number: '8'
+reference: 'Ecclesiastes 9:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 1:16" class="v">16</span>And
+  he had in his right hand seven stars: and out of his mouth went a sharp
+  twoedged sword: and his countenance <span class="add">was</span> as the sun
+  shineth in his strength. </p>
+id: REV/1/16
+next:
+  id: REV/1/17
+  number: '17'
+previous:
+  id: REV/1/15
+  number: '15'
+reference: 'Revelation 1:16'

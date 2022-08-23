@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MRK 6:29" class="v">29</span>And
+  when his disciples heard <span class="add">of it</span>, they came and took up
+  his corpse, and laid it in a tomb. </p>
+id: MRK/6/29
+next:
+  id: MRK/6/30
+  number: '30'
+previous:
+  id: MRK/6/28
+  number: '28'
+reference: 'Mark 6:29'

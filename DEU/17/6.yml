@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 17:6" class="v">6</span>At
+  the mouth of two witnesses, or three witnesses, shall he that is worthy of
+  death be put to death; <span class="add">but</span> at the mouth of one
+  witness he shall not be put to death. </p>
+id: DEU/17/6
+next:
+  id: DEU/17/7
+  number: '7'
+previous:
+  id: DEU/17/5
+  number: '5'
+reference: 'Deuteronomy 17:6'

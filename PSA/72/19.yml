@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 72:19"
+  class="v">19</span>And blessed <span class="add">be</span> his glorious name
+  for ever: and let the whole earth be filled <span class="add">with</span> his
+  glory; Amen, and Amen.</p>
+id: PSA/72/19
+next:
+  id: PSA/72/20
+  number: '20'
+previous:
+  id: PSA/72/18
+  number: '18'
+reference: 'Psalms 72:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2KI 4:24"
+  class="v">24</span>Then she saddled an ass, and said to her servant, Drive,
+  and go forward; slack not <span class="add">thy</span> riding for me, except I
+  bid thee. </p>
+id: 2KI/4/24
+next:
+  id: 2KI/4/25
+  number: '25'
+previous:
+  id: 2KI/4/23
+  number: '23'
+reference: '2 Kings 4:24'

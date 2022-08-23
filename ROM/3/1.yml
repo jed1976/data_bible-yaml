@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 3:1" class="v">1</span>What
+  advantage then hath the Jew? or what profit <span class="add">is there</span>
+  of circumcision? </p>
+id: ROM/3/1
+next:
+  id: ROM/3/2
+  number: '2'
+previous:
+  id: ROM/2/29
+  number: '29'
+reference: 'Romans 3:1'

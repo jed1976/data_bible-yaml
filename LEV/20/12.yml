@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 20:12"
+  class="v">12</span>And if a man lie with his daughter in law, both of them
+  shall surely be put to death: they have wrought confusion; their blood <span
+  class="add">shall be</span> upon them. </p>
+id: LEV/20/12
+next:
+  id: LEV/20/13
+  number: '13'
+previous:
+  id: LEV/20/11
+  number: '11'
+reference: 'Leviticus 20:12'

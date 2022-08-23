@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MRK 14:48"
+  class="v">48</span>And Jesus answered and said unto them, <span class="wj">Are
+  ye come out, as against a thief, with swords and <span class="add">with</span>
+  staves to take me?</span> </p>
+id: MRK/14/48
+next:
+  id: MRK/14/49
+  number: '49'
+previous:
+  id: MRK/14/47
+  number: '47'
+reference: 'Mark 14:48'

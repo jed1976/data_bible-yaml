@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 33:13"
+  class="v">13</span>Now therefore, I pray thee, if I have found grace in thy
+  sight, shew me now thy way, that I may know thee, that I may find grace in thy
+  sight: and consider that this nation <span class="add">is</span> thy people.
+  </p>
+id: EXO/33/13
+next:
+  id: EXO/33/14
+  number: '14'
+previous:
+  id: EXO/33/12
+  number: '12'
+reference: 'Exodus 33:13'

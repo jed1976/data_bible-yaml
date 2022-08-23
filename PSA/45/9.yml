@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 45:9"
+  class="v">9</span>Kings’ daughters <span class="add">were</span> among thy
+  honourable women: upon thy right hand did stand the queen in gold of
+  Ophir.</p>
+id: PSA/45/9
+next:
+  id: PSA/45/10
+  number: '10'
+previous:
+  id: PSA/45/8
+  number: '8'
+reference: 'Psalms 45:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 7:12" class="v">12</span>¶
+  And he that offered his offering the first day was Nahshon the son of
+  Amminadab, of the tribe of Judah: </p>
+id: NUM/7/12
+next:
+  id: NUM/7/13
+  number: '13'
+previous:
+  id: NUM/7/11
+  number: '11'
+reference: 'Numbers 7:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="REV 2:8" class="v">8</span><span
+  class="wj">And unto the angel of the church in Smyrna write; These things
+  saith the first and the last, which was dead, and is alive;</span> </p>
+id: REV/2/8
+next:
+  id: REV/2/9
+  number: '9'
+previous:
+  id: REV/2/7
+  number: '7'
+reference: 'Revelation 2:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 52:13" class="v">13</span>¶
+  Behold, my servant shall deal prudently, he shall be exalted and extolled, and
+  be very high. </p>
+id: ISA/52/13
+next:
+  id: ISA/52/14
+  number: '14'
+previous:
+  id: ISA/52/12
+  number: '12'
+reference: 'Isaiah 52:13'

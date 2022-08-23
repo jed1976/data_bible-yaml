@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 105:16"
+  class="v">16</span>Moreover he called for a famine upon the land: he brake the
+  whole staff of bread.</p>
+id: PSA/105/16
+next:
+  id: PSA/105/17
+  number: '17'
+previous:
+  id: PSA/105/15
+  number: '15'
+reference: 'Psalms 105:16'

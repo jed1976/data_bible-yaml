@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 25:11"
+  class="v">11</span>And thou shalt overlay it with pure gold, within and
+  without shalt thou overlay it, and shalt make upon it a crown of gold round
+  about. </p>
+id: EXO/25/11
+next:
+  id: EXO/25/12
+  number: '12'
+previous:
+  id: EXO/25/10
+  number: '10'
+reference: 'Exodus 25:11'

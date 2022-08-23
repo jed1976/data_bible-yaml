@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JAS 2:8" class="v">8</span>If ye
+  fulfil the royal law according to the scripture, Thou shalt love thy neighbour
+  as thyself, ye do well: </p>
+id: JAS/2/8
+next:
+  id: JAS/2/9
+  number: '9'
+previous:
+  id: JAS/2/7
+  number: '7'
+reference: 'James 2:8'

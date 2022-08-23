@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 17:9" class="v">9</span>And
+  Micah said unto him, Whence comest thou? And he said unto him, I <span
+  class="add">am</span> a Levite of Beth-lehem-judah, and I go to sojourn where
+  I may find <span class="add">a place</span>. </p>
+id: JDG/17/9
+next:
+  id: JDG/17/10
+  number: '10'
+previous:
+  id: JDG/17/8
+  number: '8'
+reference: 'Judges 17:9'

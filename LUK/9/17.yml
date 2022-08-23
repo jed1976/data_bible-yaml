@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 9:17" class="v">17</span>And
+  they did eat, and were all filled: and there was taken up of fragments that
+  remained to them twelve baskets.</p>
+id: LUK/9/17
+next:
+  id: LUK/9/18
+  number: '18'
+previous:
+  id: LUK/9/16
+  number: '16'
+reference: 'Luke 9:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 15:13"
+  class="v">13</span><span class="wj">Greater love hath no man than this, that a
+  man lay down his life for his friends.</span> </p>
+id: JHN/15/13
+next:
+  id: JHN/15/14
+  number: '14'
+previous:
+  id: JHN/15/12
+  number: '12'
+reference: 'John 15:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 7:29" class="v">29</span>For
+  he taught them as <span class="add">one</span> having authority, and not as
+  the scribes.</p>
+id: MAT/7/29
+next:
+  id: MAT/8/1
+  number: '1'
+previous:
+  id: MAT/7/28
+  number: '28'
+reference: 'Matthew 7:29'

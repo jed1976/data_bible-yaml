@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 14:15"
+  class="v">15</span>And it came to pass on the seventh day, that they said unto
+  Samson’s wife, Entice thy husband, that he may declare unto us the riddle,
+  lest we burn thee and thy father’s house with fire: have ye called us to take
+  that we have? <span class="add">is it</span> not <span class="add">so</span>?
+  </p>
+id: JDG/14/15
+next:
+  id: JDG/14/16
+  number: '16'
+previous:
+  id: JDG/14/14
+  number: '14'
+reference: 'Judges 14:15'

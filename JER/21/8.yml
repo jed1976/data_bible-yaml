@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JER 21:8" class="v">8</span>¶ And
+  unto this people thou shalt say, Thus saith the <span class="nd">LORD</span>;
+  Behold, I set before you the way of life, and the way of death. </p>
+id: JER/21/8
+next:
+  id: JER/21/9
+  number: '9'
+previous:
+  id: JER/21/7
+  number: '7'
+reference: 'Jeremiah 21:8'

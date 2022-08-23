@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 10:21"
+  class="v">21</span>The remnant shall return, <span class="add">even</span> the
+  remnant of Jacob, unto the mighty God. </p>
+id: ISA/10/21
+next:
+  id: ISA/10/22
+  number: '22'
+previous:
+  id: ISA/10/20
+  number: '20'
+reference: 'Isaiah 10:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 13:1" class="v">1</span>And I
+  stood upon the sand of the sea, and saw a beast rise up out of the sea, having
+  seven heads and ten horns, and upon his horns ten crowns, and upon his heads
+  the name of blasphemy. </p>
+id: REV/13/1
+next:
+  id: REV/13/2
+  number: '2'
+previous:
+  id: REV/12/17
+  number: '17'
+reference: 'Revelation 13:1'

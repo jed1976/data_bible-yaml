@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 94:11"
+  class="v">11</span>The <span class="nd">LORD</span> knoweth the thoughts of
+  man, that they <span class="add">are</span> vanity.</p>
+id: PSA/94/11
+next:
+  id: PSA/94/12
+  number: '12'
+previous:
+  id: PSA/94/10
+  number: '10'
+reference: 'Psalms 94:11'

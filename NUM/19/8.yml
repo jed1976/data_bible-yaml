@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 19:8" class="v">8</span>And
+  he that burneth her shall wash his clothes in water, and bathe his flesh in
+  water, and shall be unclean until the even. </p>
+id: NUM/19/8
+next:
+  id: NUM/19/9
+  number: '9'
+previous:
+  id: NUM/19/7
+  number: '7'
+reference: 'Numbers 19:8'

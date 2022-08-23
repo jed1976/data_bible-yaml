@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LAM 5:19"
+  class="v">19</span>Thou, O <span class="nd">LORD</span>, remainest for ever;
+  thy throne from generation to generation. </p>
+id: LAM/5/19
+next:
+  id: LAM/5/20
+  number: '20'
+previous:
+  id: LAM/5/18
+  number: '18'
+reference: 'Lamentations 5:19'

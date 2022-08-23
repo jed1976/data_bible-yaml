@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 2:6" class="v">6</span>But
+  she had brought them up to the roof of the house, and hid them with the stalks
+  of flax, which she had laid in order upon the roof. </p>
+id: JOS/2/6
+next:
+  id: JOS/2/7
+  number: '7'
+previous:
+  id: JOS/2/5
+  number: '5'
+reference: 'Joshua 2:6'

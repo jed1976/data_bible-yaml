@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 25:19"
+  class="v">19</span>But had certain questions against him of their own
+  superstition, and of one Jesus, which was dead, whom Paul affirmed to be
+  alive. </p>
+id: ACT/25/19
+next:
+  id: ACT/25/20
+  number: '20'
+previous:
+  id: ACT/25/18
+  number: '18'
+reference: 'Acts 25:19'

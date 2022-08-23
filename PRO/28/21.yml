@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 28:21" class="v">21</span>To
+  have respect of persons <span class="add">is</span> not good: for for a piece
+  of bread <span class="add">that</span> man will transgress. </p>
+id: PRO/28/21
+next:
+  id: PRO/28/22
+  number: '22'
+previous:
+  id: PRO/28/20
+  number: '20'
+reference: 'Proverbs 28:21'

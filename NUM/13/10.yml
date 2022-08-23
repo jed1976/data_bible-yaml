@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 13:10" class="v">10</span>Of
+  the tribe of Zebulun, Gaddiel the son of Sodi. </p>
+id: NUM/13/10
+next:
+  id: NUM/13/11
+  number: '11'
+previous:
+  id: NUM/13/9
+  number: '9'
+reference: 'Numbers 13:10'

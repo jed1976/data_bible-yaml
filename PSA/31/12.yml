@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 31:12" class="v">12</span>I
+  am forgotten as a dead man out of mind: I am like a broken vessel.</p>
+id: PSA/31/12
+next:
+  id: PSA/31/13
+  number: '13'
+previous:
+  id: PSA/31/11
+  number: '11'
+reference: 'Psalms 31:12'

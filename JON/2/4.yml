@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JON 2:4" class="v">4</span>Then I
+  said, I am cast out of thy sight; yet I will look again toward thy holy
+  temple. </p>
+id: JON/2/4
+next:
+  id: JON/2/5
+  number: '5'
+previous:
+  id: JON/2/3
+  number: '3'
+reference: 'Jonah 2:4'

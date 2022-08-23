@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 7:20" class="v">20</span>The
+  people answered and said, Thou hast a devil: who goeth about to kill thee?
+  </p>
+id: JHN/7/20
+next:
+  id: JHN/7/21
+  number: '21'
+previous:
+  id: JHN/7/19
+  number: '19'
+reference: 'John 7:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 19:24"
+  class="v">24</span>That they were graven with an iron pen and lead in the rock
+  for ever! </p>
+id: JOB/19/24
+next:
+  id: JOB/19/25
+  number: '25'
+previous:
+  id: JOB/19/23
+  number: '23'
+reference: 'Job 19:24'

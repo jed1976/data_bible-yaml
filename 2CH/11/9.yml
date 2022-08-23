@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 11:9" class="v">9</span>And
+  Adoraim, and Lachish, and Azekah, </p>
+id: 2CH/11/9
+next:
+  id: 2CH/11/10
+  number: '10'
+previous:
+  id: 2CH/11/8
+  number: '8'
+reference: '2 Chronicles 11:9'

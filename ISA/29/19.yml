@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 29:19"
+  class="v">19</span>The meek also shall increase <span class="add">their</span>
+  joy in the <span class="nd">LORD</span>, and the poor among men shall rejoice
+  in the Holy One of Israel. </p>
+id: ISA/29/19
+next:
+  id: ISA/29/20
+  number: '20'
+previous:
+  id: ISA/29/18
+  number: '18'
+reference: 'Isaiah 29:19'

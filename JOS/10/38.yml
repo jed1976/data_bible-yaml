@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JOS 10:38" class="v">38</span>¶
+  And Joshua returned, and all Israel with him, to Debir; and fought against it:
+  </p>
+id: JOS/10/38
+next:
+  id: JOS/10/39
+  number: '39'
+previous:
+  id: JOS/10/37
+  number: '37'
+reference: 'Joshua 10:38'

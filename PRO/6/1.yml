@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 6:1" class="v">1</span>My
+  son, if thou be surety for thy friend, <span class="add">if</span> thou hast
+  stricken thy hand with a stranger, </p>
+id: PRO/6/1
+next:
+  id: PRO/6/2
+  number: '2'
+previous:
+  id: PRO/5/23
+  number: '23'
+reference: 'Proverbs 6:1'

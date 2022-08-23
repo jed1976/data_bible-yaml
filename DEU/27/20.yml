@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 27:20"
+  class="v">20</span>Cursed <span class="add">be</span> he that lieth with his
+  father’s wife; because he uncovereth his father’s skirt. And all the people
+  shall say, Amen. </p>
+id: DEU/27/20
+next:
+  id: DEU/27/21
+  number: '21'
+previous:
+  id: DEU/27/19
+  number: '19'
+reference: 'Deuteronomy 27:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 18:23"
+  class="v">23</span>Neither shalt thou lie with any beast to defile thyself
+  therewith: neither shall any woman stand before a beast to lie down thereto:
+  it <span class="add">is</span> confusion. </p>
+id: LEV/18/23
+next:
+  id: LEV/18/24
+  number: '24'
+previous:
+  id: LEV/18/22
+  number: '22'
+reference: 'Leviticus 18:23'

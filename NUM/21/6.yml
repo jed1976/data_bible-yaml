@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 21:6" class="v">6</span>And
+  the <span class="nd">LORD</span> sent fiery serpents among the people, and
+  they bit the people; and much people of Israel died.</p>
+id: NUM/21/6
+next:
+  id: NUM/21/7
+  number: '7'
+previous:
+  id: NUM/21/5
+  number: '5'
+reference: 'Numbers 21:6'

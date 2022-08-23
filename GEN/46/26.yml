@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 46:26"
+  class="v">26</span>All the souls that came with Jacob into Egypt, which came
+  out of his loins, besides Jacob’s sons’ wives, all the souls <span
+  class="add">were</span> threescore and six; </p>
+id: GEN/46/26
+next:
+  id: GEN/46/27
+  number: '27'
+previous:
+  id: GEN/46/25
+  number: '25'
+reference: 'Genesis 46:26'

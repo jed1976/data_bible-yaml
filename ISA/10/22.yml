@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 10:22"
+  class="v">22</span>For though thy people Israel be as the sand of the sea,
+  <span class="add">yet</span> a remnant of them shall return: the consumption
+  decreed shall overflow with righteousness. </p>
+id: ISA/10/22
+next:
+  id: ISA/10/23
+  number: '23'
+previous:
+  id: ISA/10/21
+  number: '21'
+reference: 'Isaiah 10:22'

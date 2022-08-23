@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 12:22"
+  class="v">22</span>Philip cometh and telleth Andrew: and again Andrew and
+  Philip tell Jesus.</p>
+id: JHN/12/22
+next:
+  id: JHN/12/23
+  number: '23'
+previous:
+  id: JHN/12/21
+  number: '21'
+reference: 'John 12:22'

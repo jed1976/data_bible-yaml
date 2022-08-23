@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 42:33"
+  class="v">33</span>And the man, the lord of the country, said unto us, Hereby
+  shall I know that ye <span class="add">are</span> true <span
+  class="add">men;</span> leave one of your brethren <span
+  class="add">here</span> with me, and take <span class="add">food for</span>
+  the famine of your households, and be gone: </p>
+id: GEN/42/33
+next:
+  id: GEN/42/34
+  number: '34'
+previous:
+  id: GEN/42/32
+  number: '32'
+reference: 'Genesis 42:33'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 11:5" class="v">5</span>¶ And
+  Rehoboam dwelt in Jerusalem, and built cities for defence in Judah. </p>
+id: 2CH/11/5
+next:
+  id: 2CH/11/6
+  number: '6'
+previous:
+  id: 2CH/11/4
+  number: '4'
+reference: '2 Chronicles 11:5'

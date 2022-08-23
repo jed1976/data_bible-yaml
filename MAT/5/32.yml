@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 5:32"
+  class="v">32</span><span class="wj">But I say unto you, That whosoever shall
+  put away his wife, saving for the cause of fornication, causeth her to commit
+  adultery: and whosoever shall marry her that is divorced committeth
+  adultery.</span></p>
+id: MAT/5/32
+next:
+  id: MAT/5/33
+  number: '33'
+previous:
+  id: MAT/5/31
+  number: '31'
+reference: 'Matthew 5:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 102:13"
+  class="v">13</span>Thou shalt arise, <span class="add">and</span> have mercy
+  upon Zion: for the time to favour her, yea, the set time, is come.</p>
+id: PSA/102/13
+next:
+  id: PSA/102/14
+  number: '14'
+previous:
+  id: PSA/102/12
+  number: '12'
+reference: 'Psalms 102:13'

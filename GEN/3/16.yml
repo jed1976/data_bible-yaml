@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 3:16"
+  class="v">16</span>Unto the woman he said, I will greatly multiply thy sorrow
+  and thy conception; in sorrow thou shalt bring forth children; and thy desire
+  <span class="add">shall be</span> to thy husband, and he shall rule over
+  thee.</p>
+id: GEN/3/16
+next:
+  id: GEN/3/17
+  number: '17'
+previous:
+  id: GEN/3/15
+  number: '15'
+reference: 'Genesis 3:16'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 12:13"
+  class="v">13</span>The king of Debir, one; the king of Geder, one; </p>
+id: JOS/12/13
+next:
+  id: JOS/12/14
+  number: '14'
+previous:
+  id: JOS/12/12
+  number: '12'
+reference: 'Joshua 12:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEC 1:8" class="v">8</span>I saw
+  by night, and behold a man riding upon a red horse, and he stood among the
+  myrtle trees that <span class="add">were</span> in the bottom; and behind him
+  <span class="add">were there</span> red horses, speckled, and white. </p>
+id: ZEC/1/8
+next:
+  id: ZEC/1/9
+  number: '9'
+previous:
+  id: ZEC/1/7
+  number: '7'
+reference: 'Zechariah 1:8'

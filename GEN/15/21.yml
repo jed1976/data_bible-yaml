@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 15:21"
+  class="v">21</span>And the Amorites, and the Canaanites, and the Girgashites,
+  and the Jebusites.</p>
+id: GEN/15/21
+next:
+  id: GEN/16/1
+  number: '1'
+previous:
+  id: GEN/15/20
+  number: '20'
+reference: 'Genesis 15:21'

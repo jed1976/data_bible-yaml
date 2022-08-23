@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="LUK 1:53" class="v">53</span>He
+  hath filled the hungry with good things; and the rich he hath sent empty away.
+  </p>
+id: LUK/1/53
+next:
+  id: LUK/1/54
+  number: '54'
+previous:
+  id: LUK/1/52
+  number: '52'
+reference: 'Luke 1:53'

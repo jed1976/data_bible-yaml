@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 26:3" class="v">3</span>The
+  five curtains shall be coupled together one to another; and <span
+  class="add">other</span> five curtains <span class="add">shall be</span>
+  coupled one to another. </p>
+id: EXO/26/3
+next:
+  id: EXO/26/4
+  number: '4'
+previous:
+  id: EXO/26/2
+  number: '2'
+reference: 'Exodus 26:3'

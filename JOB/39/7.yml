@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 39:7" class="v">7</span>He
+  scorneth the multitude of the city, neither regardeth he the crying of the
+  driver. </p>
+id: JOB/39/7
+next:
+  id: JOB/39/8
+  number: '8'
+previous:
+  id: JOB/39/6
+  number: '6'
+reference: 'Job 39:7'

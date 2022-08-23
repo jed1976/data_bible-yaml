@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 13:11" class="v">11</span>¶
+  And, behold, there was a woman which had a spirit of infirmity eighteen years,
+  and was bowed together, and could in no wise lift up <span
+  class="add">herself</span>. </p>
+id: LUK/13/11
+next:
+  id: LUK/13/12
+  number: '12'
+previous:
+  id: LUK/13/10
+  number: '10'
+reference: 'Luke 13:11'

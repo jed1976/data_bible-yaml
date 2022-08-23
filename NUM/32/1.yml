@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 32:1" class="v">1</span>Now
+  the children of Reuben and the children of Gad had a very great multitude of
+  cattle: and when they saw the land of Jazer, and the land of Gilead, that,
+  behold, the place <span class="add">was</span> a place for cattle; </p>
+id: NUM/32/1
+next:
+  id: NUM/32/2
+  number: '2'
+previous:
+  id: NUM/31/54
+  number: '54'
+reference: 'Numbers 32:1'

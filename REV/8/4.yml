@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 8:4" class="v">4</span>And
+  the smoke of the incense, <span class="add">which came</span> with the prayers
+  of the saints, ascended up before God out of the angel’s hand. </p>
+id: REV/8/4
+next:
+  id: REV/8/5
+  number: '5'
+previous:
+  id: REV/8/3
+  number: '3'
+reference: 'Revelation 8:4'

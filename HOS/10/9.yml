@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 10:9" class="v">9</span>O
+  Israel, thou hast sinned from the days of Gibeah: there they stood: the battle
+  in Gibeah against the children of iniquity did not overtake them. </p>
+id: HOS/10/9
+next:
+  id: HOS/10/10
+  number: '10'
+previous:
+  id: HOS/10/8
+  number: '8'
+reference: 'Hosea 10:9'

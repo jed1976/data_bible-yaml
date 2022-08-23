@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 22:6" class="v">6</span>But
+  I <span class="add">am</span> a worm, and no man; a reproach of men, and
+  despised of the people.</p>
+id: PSA/22/6
+next:
+  id: PSA/22/7
+  number: '7'
+previous:
+  id: PSA/22/5
+  number: '5'
+reference: 'Psalms 22:6'

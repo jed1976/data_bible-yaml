@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 26:46"
+  class="v">46</span><span class="wj">Rise, let us be going: behold, he is at
+  hand that doth betray me.</span></p>
+id: MAT/26/46
+next:
+  id: MAT/26/47
+  number: '47'
+previous:
+  id: MAT/26/45
+  number: '45'
+reference: 'Matthew 26:46'

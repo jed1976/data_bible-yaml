@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 3:4" class="v">4</span>A time
+  to weep, and a time to laugh; a time to mourn, and a time to dance; </p>
+id: ECC/3/4
+next:
+  id: ECC/3/5
+  number: '5'
+previous:
+  id: ECC/3/3
+  number: '3'
+reference: 'Ecclesiastes 3:4'

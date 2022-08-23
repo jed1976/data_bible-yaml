@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 13:26"
+  class="v">26</span><span class="wj">Then shall ye begin to say, We have eaten
+  and drunk in thy presence, and thou hast taught in our streets.</span> </p>
+id: LUK/13/26
+next:
+  id: LUK/13/27
+  number: '27'
+previous:
+  id: LUK/13/25
+  number: '25'
+reference: 'Luke 13:26'

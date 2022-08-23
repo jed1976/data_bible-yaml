@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 32:7"
+  class="v">7</span>Behold, Hanameel the son of Shallum thine uncle shall come
+  unto thee, saying, Buy thee my field that <span class="add">is</span> in
+  Anathoth: for the right of redemption <span class="add">is</span> thine to buy
+  <span class="add">it</span>. </p>
+id: JER/32/7
+next:
+  id: JER/32/8
+  number: '8'
+previous:
+  id: JER/32/6
+  number: '6'
+reference: 'Jeremiah 32:7'

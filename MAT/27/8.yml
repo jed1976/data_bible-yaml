@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 27:8"
+  class="v">8</span>Wherefore that field was called, The field of blood, unto
+  this day. </p>
+id: MAT/27/8
+next:
+  id: MAT/27/9
+  number: '9'
+previous:
+  id: MAT/27/7
+  number: '7'
+reference: 'Matthew 27:8'

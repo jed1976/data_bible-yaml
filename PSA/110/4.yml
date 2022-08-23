@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 110:4" class="v">4</span>The
+  <span class="nd">LORD</span> hath sworn, and will not repent, Thou <span
+  class="add">art</span> a priest for ever after the order of Melchizedek.</p>
+id: PSA/110/4
+next:
+  id: PSA/110/5
+  number: '5'
+previous:
+  id: PSA/110/3
+  number: '3'
+reference: 'Psalms 110:4'

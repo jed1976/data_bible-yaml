@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 21:21"
+  class="v">21</span>For what pleasure <span class="add">hath</span> he in his
+  house after him, when the number of his months is cut off in the midst? </p>
+id: JOB/21/21
+next:
+  id: JOB/21/22
+  number: '22'
+previous:
+  id: JOB/21/20
+  number: '20'
+reference: 'Job 21:21'

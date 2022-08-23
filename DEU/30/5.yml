@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 30:5" class="v">5</span>And
+  the <span class="nd">LORD</span> thy God will bring thee into the land which
+  thy fathers possessed, and thou shalt possess it; and he will do thee good,
+  and multiply thee above thy fathers. </p>
+id: DEU/30/5
+next:
+  id: DEU/30/6
+  number: '6'
+previous:
+  id: DEU/30/4
+  number: '4'
+reference: 'Deuteronomy 30:5'

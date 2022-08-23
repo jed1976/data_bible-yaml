@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 14:1" class="v">1</span>At
+  that time Abijah the son of Jeroboam fell sick. </p>
+id: 1KI/14/1
+next:
+  id: 1KI/14/2
+  number: '2'
+previous:
+  id: 1KI/13/34
+  number: '34'
+reference: '1 Kings 14:1'

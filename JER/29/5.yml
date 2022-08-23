@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JER 29:5" class="v">5</span>Build
+  ye houses, and dwell <span class="add">in them;</span> and plant gardens, and
+  eat the fruit of them; </p>
+id: JER/29/5
+next:
+  id: JER/29/6
+  number: '6'
+previous:
+  id: JER/29/4
+  number: '4'
+reference: 'Jeremiah 29:5'

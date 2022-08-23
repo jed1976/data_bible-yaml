@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LAM 3:41" class="v">41</span>Let
+  us lift up our heart with <span class="add">our</span> hands unto God in the
+  heavens.</p>
+id: LAM/3/41
+next:
+  id: LAM/3/42
+  number: '42'
+previous:
+  id: LAM/3/40
+  number: '40'
+reference: 'Lamentations 3:41'

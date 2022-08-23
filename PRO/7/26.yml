@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 7:26" class="v">26</span>For
+  she hath cast down many wounded: yea, many strong <span class="add">men</span>
+  have been slain by her. </p>
+id: PRO/7/26
+next:
+  id: PRO/7/27
+  number: '27'
+previous:
+  id: PRO/7/25
+  number: '25'
+reference: 'Proverbs 7:26'

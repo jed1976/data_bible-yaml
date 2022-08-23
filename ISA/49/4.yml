@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 49:4" class="v">4</span>Then
+  I said, I have laboured in vain, I have spent my strength for nought, and in
+  vain: <span class="add">yet</span> surely my judgment <span
+  class="add">is</span> with the <span class="nd">LORD</span>, and my work with
+  my God.</p>
+id: ISA/49/4
+next:
+  id: ISA/49/5
+  number: '5'
+previous:
+  id: ISA/49/3
+  number: '3'
+reference: 'Isaiah 49:4'

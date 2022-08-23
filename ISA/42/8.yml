@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 42:8" class="v">8</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span>: that <span
+  class="add">is</span> my name: and my glory will I not give to another,
+  neither my praise to graven images. </p>
+id: ISA/42/8
+next:
+  id: ISA/42/9
+  number: '9'
+previous:
+  id: ISA/42/7
+  number: '7'
+reference: 'Isaiah 42:8'

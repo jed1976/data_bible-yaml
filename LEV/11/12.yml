@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 11:12"
+  class="v">12</span>Whatsoever hath no fins nor scales in the waters, that
+  <span class="add">shall be</span> an abomination unto you.</p>
+id: LEV/11/12
+next:
+  id: LEV/11/13
+  number: '13'
+previous:
+  id: LEV/11/11
+  number: '11'
+reference: 'Leviticus 11:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="NEH 7:65" class="v">65</span>And
+  the Tirshatha said unto them, that they should not eat of the most holy
+  things, till there stood <span class="add">up</span> a priest with Urim and
+  Thummim.</p>
+id: NEH/7/65
+next:
+  id: NEH/7/66
+  number: '66'
+previous:
+  id: NEH/7/64
+  number: '64'
+reference: 'Nehemiah 7:65'

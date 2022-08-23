@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="MRK 6:54" class="v">54</span>And
+  when they were come out of the ship, straightway they knew him, </p>
+id: MRK/6/54
+next:
+  id: MRK/6/55
+  number: '55'
+previous:
+  id: MRK/6/53
+  number: '53'
+reference: 'Mark 6:54'

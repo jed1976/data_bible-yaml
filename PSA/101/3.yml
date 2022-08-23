@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 101:3" class="v">3</span>I
+  will set no wicked thing before mine eyes: I hate the work of them that turn
+  aside; <span class="add">it</span> shall not cleave to me.</p>
+id: PSA/101/3
+next:
+  id: PSA/101/4
+  number: '4'
+previous:
+  id: PSA/101/2
+  number: '2'
+reference: 'Psalms 101:3'

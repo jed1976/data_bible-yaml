@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 13:1" class="v">1</span>A
+  wise son <span class="add">heareth</span> his father’s instruction: but a
+  scorner heareth not rebuke. </p>
+id: PRO/13/1
+next:
+  id: PRO/13/2
+  number: '2'
+previous:
+  id: PRO/12/28
+  number: '28'
+reference: 'Proverbs 13:1'

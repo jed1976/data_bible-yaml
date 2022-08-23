@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 2:1" class="v">1</span>Why
+  do the heathen rage, and the people imagine a vain thing?</p>
+id: PSA/2/1
+next:
+  id: PSA/2/2
+  number: '2'
+previous:
+  id: PSA/1/6
+  number: '6'
+reference: 'Psalms 2:1'

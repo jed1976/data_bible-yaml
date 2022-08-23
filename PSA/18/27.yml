@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 18:27"
+  class="v">27</span>For thou wilt save the afflicted people; but wilt bring
+  down high looks.</p>
+id: PSA/18/27
+next:
+  id: PSA/18/28
+  number: '28'
+previous:
+  id: PSA/18/26
+  number: '26'
+reference: 'Psalms 18:27'

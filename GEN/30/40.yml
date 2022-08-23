@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="GEN 30:40"
+  class="v">40</span>And Jacob did separate the lambs, and set the faces of the
+  flocks toward the ringstraked, and all the brown in the flock of Laban; and he
+  put his own flocks by themselves, and put them not unto Laban’s cattle. </p>
+id: GEN/30/40
+next:
+  id: GEN/30/41
+  number: '41'
+previous:
+  id: GEN/30/39
+  number: '39'
+reference: 'Genesis 30:40'

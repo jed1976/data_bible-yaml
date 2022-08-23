@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 54:16"
+  class="v">16</span>Behold, I have created the smith that bloweth the coals in
+  the fire, and that bringeth forth an instrument for his work; and I have
+  created the waster to destroy.</p>
+id: ISA/54/16
+next:
+  id: ISA/54/17
+  number: '17'
+previous:
+  id: ISA/54/15
+  number: '15'
+reference: 'Isaiah 54:16'

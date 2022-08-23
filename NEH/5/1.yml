@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 5:1" class="v">1</span>And
+  there was a great cry of the people and of their wives against their brethren
+  the Jews. </p>
+id: NEH/5/1
+next:
+  id: NEH/5/2
+  number: '2'
+previous:
+  id: NEH/4/23
+  number: '23'
+reference: 'Nehemiah 5:1'

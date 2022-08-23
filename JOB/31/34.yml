@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOB 31:34"
+  class="v">34</span>Did I fear a great multitude, or did the contempt of
+  families terrify me, that I kept silence, <span class="add">and</span> went
+  not out of the door? </p>
+id: JOB/31/34
+next:
+  id: JOB/31/35
+  number: '35'
+previous:
+  id: JOB/31/33
+  number: '33'
+reference: 'Job 31:34'

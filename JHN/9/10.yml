@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 9:10"
+  class="v">10</span>Therefore said they unto him, How were thine eyes opened?
+  </p>
+id: JHN/9/10
+next:
+  id: JHN/9/11
+  number: '11'
+previous:
+  id: JHN/9/9
+  number: '9'
+reference: 'John 9:10'

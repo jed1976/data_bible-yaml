@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 24:15"
+  class="v">15</span>Lay not wait, O wicked <span class="add">man</span>,
+  against the dwelling of the righteous; spoil not his resting place: </p>
+id: PRO/24/15
+next:
+  id: PRO/24/16
+  number: '16'
+previous:
+  id: PRO/24/14
+  number: '14'
+reference: 'Proverbs 24:15'

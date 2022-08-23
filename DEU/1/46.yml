@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="DEU 1:46" class="v">46</span>So
+  ye abode in Kadesh many days, according unto the days that ye abode <span
+  class="add">there</span>.</p>
+id: DEU/1/46
+next:
+  id: DEU/2/1
+  number: '1'
+previous:
+  id: DEU/1/45
+  number: '45'
+reference: 'Deuteronomy 1:46'

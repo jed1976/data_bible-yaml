@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 36:33"
+  class="v">33</span>And Bela died, and Jobab the son of Zerah of Bozrah reigned
+  in his stead. </p>
+id: GEN/36/33
+next:
+  id: GEN/36/34
+  number: '34'
+previous:
+  id: GEN/36/32
+  number: '32'
+reference: 'Genesis 36:33'

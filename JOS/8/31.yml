@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOS 8:31" class="v">31</span>As
+  Moses the servant of the <span class="nd">LORD</span> commanded the children
+  of Israel, as it is written in the book of the law of Moses, an altar of whole
+  stones, over which no man hath lift up <span class="add">any</span> iron: and
+  they offered thereon burnt offerings unto the <span class="nd">LORD</span>,
+  and sacrificed peace offerings.</p>
+id: JOS/8/31
+next:
+  id: JOS/8/32
+  number: '32'
+previous:
+  id: JOS/8/30
+  number: '30'
+reference: 'Joshua 8:31'

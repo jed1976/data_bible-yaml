@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 7:42"
+  class="v">42</span>Then God turned, and gave them up to worship the host of
+  heaven; as it is written in the book of the prophets, O ye house of Israel,
+  have ye offered to me slain beasts and sacrifices <span class="add">by the
+  space of</span> forty years in the wilderness? </p>
+id: ACT/7/42
+next:
+  id: ACT/7/43
+  number: '43'
+previous:
+  id: ACT/7/41
+  number: '41'
+reference: 'Acts 7:42'

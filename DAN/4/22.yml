@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DAN 4:22" class="v">22</span>It
+  <span class="add">is</span> thou, O king, that art grown and become strong:
+  for thy greatness is grown, and reacheth unto heaven, and thy dominion to the
+  end of the earth. </p>
+id: DAN/4/22
+next:
+  id: DAN/4/23
+  number: '23'
+previous:
+  id: DAN/4/21
+  number: '21'
+reference: 'Daniel 4:22'

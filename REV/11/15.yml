@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 11:15"
+  class="v">15</span>And the seventh angel sounded; and there were great voices
+  in heaven, saying, The kingdoms of this world are become <span class="add">the
+  kingdoms</span> of our Lord, and of his Christ; and he shall reign for ever
+  and ever. </p>
+id: REV/11/15
+next:
+  id: REV/11/16
+  number: '16'
+previous:
+  id: REV/11/14
+  number: '14'
+reference: 'Revelation 11:15'

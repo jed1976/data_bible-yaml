@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 22:32"
+  class="v">32</span><span class="wj">But I have prayed for thee, that thy faith
+  fail not: and when thou art converted, strengthen thy brethren.</span> </p>
+id: LUK/22/32
+next:
+  id: LUK/22/33
+  number: '33'
+previous:
+  id: LUK/22/31
+  number: '31'
+reference: 'Luke 22:32'

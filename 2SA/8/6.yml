@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2SA 8:6" class="v">6</span>Then
+  David put garrisons in Syria of Damascus: and the Syrians became servants to
+  David, <span class="add">and</span> brought gifts. And the <span
+  class="nd">LORD</span> preserved David whithersoever he went. </p>
+id: 2SA/8/6
+next:
+  id: 2SA/8/7
+  number: '7'
+previous:
+  id: 2SA/8/5
+  number: '5'
+reference: '2 Samuel 8:6'

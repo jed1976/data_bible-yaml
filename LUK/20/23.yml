@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 20:23"
+  class="v">23</span>But he perceived their craftiness, and said unto them,
+  <span class="wj">Why tempt ye me?</span> </p>
+id: LUK/20/23
+next:
+  id: LUK/20/24
+  number: '24'
+previous:
+  id: LUK/20/22
+  number: '22'
+reference: 'Luke 20:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 6:5" class="v">5</span>And
+  the king’s servants said unto him, Behold, Haman standeth in the court. And
+  the king said, Let him come in. </p>
+id: EST/6/5
+next:
+  id: EST/6/6
+  number: '6'
+previous:
+  id: EST/6/4
+  number: '4'
+reference: 'Esther 6:5'

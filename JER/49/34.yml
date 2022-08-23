@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JER 49:34" class="v">34</span>¶
+  The word of the <span class="nd">LORD</span> that came to Jeremiah the prophet
+  against Elam in the beginning of the reign of Zedekiah king of Judah, saying,
+  </p>
+id: JER/49/34
+next:
+  id: JER/49/35
+  number: '35'
+previous:
+  id: JER/49/33
+  number: '33'
+reference: 'Jeremiah 49:34'

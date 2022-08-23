@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 12:7" class="v">7</span>And
+  when the <span class="nd">LORD</span> saw that they humbled themselves, the
+  word of the <span class="nd">LORD</span> came to Shemaiah, saying, They have
+  humbled themselves; <span class="add">therefore</span> I will not destroy
+  them, but I will grant them some deliverance; and my wrath shall not be poured
+  out upon Jerusalem by the hand of Shishak. </p>
+id: 2CH/12/7
+next:
+  id: 2CH/12/8
+  number: '8'
+previous:
+  id: 2CH/12/6
+  number: '6'
+reference: '2 Chronicles 12:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="REV 3:20"
+  class="v">20</span><span class="wj">Behold, I stand at the door, and knock: if
+  any man hear my voice, and open the door, I will come in to him, and will sup
+  with him, and he with me.</span> </p>
+id: REV/3/20
+next:
+  id: REV/3/21
+  number: '21'
+previous:
+  id: REV/3/19
+  number: '19'
+reference: 'Revelation 3:20'

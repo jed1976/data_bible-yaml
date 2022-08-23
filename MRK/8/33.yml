@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 8:33" class="v">33</span>But
+  when he had turned about and looked on his disciples, he rebuked Peter,
+  saying, <span class="wj">Get thee behind me, Satan: for thou savourest not the
+  things that be of God, but the things that be of men.</span></p>
+id: MRK/8/33
+next:
+  id: MRK/8/34
+  number: '34'
+previous:
+  id: MRK/8/32
+  number: '32'
+reference: 'Mark 8:33'

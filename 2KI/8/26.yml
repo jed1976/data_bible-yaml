@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2KI 8:26" class="v">26</span>Two
+  and twenty years old <span class="add">was</span> Ahaziah when he began to
+  reign; and he reigned one year in Jerusalem. And his mother’s name <span
+  class="add">was</span> Athaliah, the daughter of Omri king of Israel. </p>
+id: 2KI/8/26
+next:
+  id: 2KI/8/27
+  number: '27'
+previous:
+  id: 2KI/8/25
+  number: '25'
+reference: '2 Kings 8:26'

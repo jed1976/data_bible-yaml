@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 24:5" class="v">5</span>A
+  wise man <span class="add">is</span> strong; yea, a man of knowledge
+  increaseth strength. </p>
+id: PRO/24/5
+next:
+  id: PRO/24/6
+  number: '6'
+previous:
+  id: PRO/24/4
+  number: '4'
+reference: 'Proverbs 24:5'

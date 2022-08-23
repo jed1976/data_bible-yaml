@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 27:7" class="v">7</span>And
+  the staves shall be put into the rings, and the staves shall be upon the two
+  sides of the altar, to bear it. </p>
+id: EXO/27/7
+next:
+  id: EXO/27/8
+  number: '8'
+previous:
+  id: EXO/27/6
+  number: '6'
+reference: 'Exodus 27:7'

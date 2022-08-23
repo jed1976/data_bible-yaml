@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 10:9" class="v">9</span><span
+  class="wj">What therefore God hath joined together, let not man put
+  asunder.</span> </p>
+id: MRK/10/9
+next:
+  id: MRK/10/10
+  number: '10'
+previous:
+  id: MRK/10/8
+  number: '8'
+reference: 'Mark 10:9'

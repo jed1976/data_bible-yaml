@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CH 25:23"
+  class="v">23</span>The sixteenth to Hananiah, <span class="add">he</span>, his
+  sons, and his brethren, <span class="add">were</span> twelve: </p>
+id: 1CH/25/23
+next:
+  id: 1CH/25/24
+  number: '24'
+previous:
+  id: 1CH/25/22
+  number: '22'
+reference: '1 Chronicles 25:23'

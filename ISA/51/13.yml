@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 51:13"
+  class="v">13</span>And forgettest the <span class="nd">LORD</span> thy maker,
+  that hath stretched forth the heavens, and laid the foundations of the earth;
+  and hast feared continually every day because of the fury of the oppressor, as
+  if he were ready to destroy? and where <span class="add">is</span> the fury of
+  the oppressor? </p>
+id: ISA/51/13
+next:
+  id: ISA/51/14
+  number: '14'
+previous:
+  id: ISA/51/12
+  number: '12'
+reference: 'Isaiah 51:13'

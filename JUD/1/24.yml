@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JUD 1:24" class="v">24</span>Now
+  unto him that is able to keep you from falling, and to present <span
+  class="add">you</span> faultless before the presence of his glory with
+  exceeding joy, </p>
+id: JUD/1/24
+next:
+  id: JUD/1/25
+  number: '25'
+previous:
+  id: JUD/1/23
+  number: '23'
+reference: 'Jude 1:24'

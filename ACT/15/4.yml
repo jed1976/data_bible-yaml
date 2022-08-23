@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 15:4" class="v">4</span>And
+  when they were come to Jerusalem, they were received of the church, and <span
+  class="add">of</span> the apostles and elders, and they declared all things
+  that God had done with them. </p>
+id: ACT/15/4
+next:
+  id: ACT/15/5
+  number: '5'
+previous:
+  id: ACT/15/3
+  number: '3'
+reference: 'Acts 15:4'

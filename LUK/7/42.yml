@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 7:42"
+  class="v">42</span><span class="wj">And when they had nothing to pay, he
+  frankly forgave them both. Tell me therefore, which of them will love him
+  most?</span> </p>
+id: LUK/7/42
+next:
+  id: LUK/7/43
+  number: '43'
+previous:
+  id: LUK/7/41
+  number: '41'
+reference: 'Luke 7:42'

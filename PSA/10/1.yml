@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 10:1" class="v">1</span>Why
+  standest thou afar off, O <span class="nd">LORD</span>? <span
+  class="add">why</span> hidest thou <span class="add">thyself</span> in times
+  of trouble?</p>
+id: PSA/10/1
+next:
+  id: PSA/10/2
+  number: '2'
+previous:
+  id: PSA/9/20
+  number: '20'
+reference: 'Psalms 10:1'

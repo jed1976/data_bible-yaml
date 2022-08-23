@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOL 2:14" class="v">14</span>Who
+  knoweth <span class="add">if</span> he will return and repent, and leave a
+  blessing behind him; <span class="add">even</span> a meat offering and a drink
+  offering unto the <span class="nd">LORD</span> your God?</p>
+id: JOL/2/14
+next:
+  id: JOL/2/15
+  number: '15'
+previous:
+  id: JOL/2/13
+  number: '13'
+reference: 'Joel 2:14'

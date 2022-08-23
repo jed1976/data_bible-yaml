@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 38:4" class="v">4</span>And
+  he made for the altar a brasen grate of network under the compass thereof
+  beneath unto the midst of it. </p>
+id: EXO/38/4
+next:
+  id: EXO/38/5
+  number: '5'
+previous:
+  id: EXO/38/3
+  number: '3'
+reference: 'Exodus 38:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 7:1" class="v">1</span>Now
+  when Solomon had made an end of praying, the fire came down from heaven, and
+  consumed the burnt offering and the sacrifices; and the glory of the <span
+  class="nd">LORD</span> filled the house. </p>
+id: 2CH/7/1
+next:
+  id: 2CH/7/2
+  number: '2'
+previous:
+  id: 2CH/6/42
+  number: '42'
+reference: '2 Chronicles 7:1'

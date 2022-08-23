@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 31:7" class="v">7</span>For
+  in that day every man shall cast away his idols of silver, and his idols of
+  gold, which your own hands have made unto you <span class="add">for</span> a
+  sin.</p>
+id: ISA/31/7
+next:
+  id: ISA/31/8
+  number: '8'
+previous:
+  id: ISA/31/6
+  number: '6'
+reference: 'Isaiah 31:7'

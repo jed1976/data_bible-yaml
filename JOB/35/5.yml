@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 35:5" class="v">5</span>Look
+  unto the heavens, and see; and behold the clouds <span
+  class="add">which</span> are higher than thou. </p>
+id: JOB/35/5
+next:
+  id: JOB/35/6
+  number: '6'
+previous:
+  id: JOB/35/4
+  number: '4'
+reference: 'Job 35:5'

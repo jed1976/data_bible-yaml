@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 2:12" class="v">12</span>Now
+  therefore, I pray you, swear unto me by the <span class="nd">LORD</span>,
+  since I have shewed you kindness, that ye will also shew kindness unto my
+  father’s house, and give me a true token: </p>
+id: JOS/2/12
+next:
+  id: JOS/2/13
+  number: '13'
+previous:
+  id: JOS/2/11
+  number: '11'
+reference: 'Joshua 2:12'

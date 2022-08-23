@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EPH 5:23" class="v">23</span>For
+  the husband is the head of the wife, even as Christ is the head of the church:
+  and he is the saviour of the body. </p>
+id: EPH/5/23
+next:
+  id: EPH/5/24
+  number: '24'
+previous:
+  id: EPH/5/22
+  number: '22'
+reference: 'Ephesians 5:23'

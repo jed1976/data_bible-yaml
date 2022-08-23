@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 24:24"
+  class="v">24</span><span class="wj">For there shall arise false Christs, and
+  false prophets, and shall shew great signs and wonders; insomuch that, if
+  <span class="add">it were</span> possible, they shall deceive the very
+  elect.</span> </p>
+id: MAT/24/24
+next:
+  id: MAT/24/25
+  number: '25'
+previous:
+  id: MAT/24/23
+  number: '23'
+reference: 'Matthew 24:24'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 1:1" class="v">1</span>Now in
+  the first year of Cyrus king of Persia, that the word of the <span
+  class="nd">LORD</span> by the mouth of Jeremiah might be fulfilled, the <span
+  class="nd">LORD</span> stirred up the spirit of Cyrus king of Persia, that he
+  made a proclamation throughout all his kingdom, and <span class="add">put
+  it</span> also in writing, saying, </p>
+id: EZR/1/1
+next:
+  id: EZR/1/2
+  number: '2'
+previous:
+  id: EZR/intro/0
+  number: '0'
+reference: 'Ezra 1:1'

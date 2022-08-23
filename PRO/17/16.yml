@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 17:16"
+  class="v">16</span>Wherefore <span class="add">is there</span> a price in the
+  hand of a fool to get wisdom, seeing <span class="add">he hath</span> no heart
+  <span class="add">to it</span>? </p>
+id: PRO/17/16
+next:
+  id: PRO/17/17
+  number: '17'
+previous:
+  id: PRO/17/15
+  number: '15'
+reference: 'Proverbs 17:16'

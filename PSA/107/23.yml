@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="23" data-sid="PSA 107:23"
+  class="v">23</span>They that go down to the sea in ships, that do business in
+  great waters;</p>
+id: PSA/107/23
+next:
+  id: PSA/107/24
+  number: '24'
+previous:
+  id: PSA/107/22
+  number: '22'
+reference: 'Psalms 107:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 7:7" class="v">7</span><span
+  class="wj">Howbeit in vain do they worship me, teaching <span
+  class="add">for</span> doctrines the commandments of men.</span> </p>
+id: MRK/7/7
+next:
+  id: MRK/7/8
+  number: '8'
+previous:
+  id: MRK/7/6
+  number: '6'
+reference: 'Mark 7:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1TH 2:12"
+  class="v">12</span>That ye would walk worthy of God, who hath called you unto
+  his kingdom and glory.</p>
+id: 1TH/2/12
+next:
+  id: 1TH/2/13
+  number: '13'
+previous:
+  id: 1TH/2/11
+  number: '11'
+reference: '1 Thessalonians 2:12'

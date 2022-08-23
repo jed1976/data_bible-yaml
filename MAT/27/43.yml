@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 27:43" class="v">43</span>He
+  trusted in God; let him deliver him now, if he will have him: for he said, I
+  am the Son of God. </p>
+id: MAT/27/43
+next:
+  id: MAT/27/44
+  number: '44'
+previous:
+  id: MAT/27/42
+  number: '42'
+reference: 'Matthew 27:43'

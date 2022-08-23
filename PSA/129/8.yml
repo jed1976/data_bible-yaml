@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 129:8"
+  class="v">8</span>Neither do they which go by say, The blessing of the <span
+  class="nd">LORD</span> <span class="add">be</span> upon you: we bless you in
+  the name of the <span class="nd">LORD</span>.</p>
+id: PSA/129/8
+next:
+  id: PSA/130/1
+  number: '1'
+previous:
+  id: PSA/129/7
+  number: '7'
+reference: 'Psalms 129:8'

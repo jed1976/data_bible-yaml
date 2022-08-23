@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 44:4" class="v">4</span><span
+  class="add">And</span> when they were gone out of the city, <span
+  class="add">and</span> not <span class="add">yet</span> far off, Joseph said
+  unto his steward, Up, follow after the men; and when thou dost overtake them,
+  say unto them, Wherefore have ye rewarded evil for good? </p>
+id: GEN/44/4
+next:
+  id: GEN/44/5
+  number: '5'
+previous:
+  id: GEN/44/3
+  number: '3'
+reference: 'Genesis 44:4'

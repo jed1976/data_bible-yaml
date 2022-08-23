@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 21:3" class="v">3</span>And
+  Joab answered, The <span class="nd">LORD</span> make his people an hundred
+  times so many more as they <span class="add">be:</span> but, my lord the king,
+  <span class="add">are</span> they not all my lord’s servants? why then doth my
+  lord require this thing? why will he be a cause of trespass to Israel? </p>
+id: 1CH/21/3
+next:
+  id: 1CH/21/4
+  number: '4'
+previous:
+  id: 1CH/21/2
+  number: '2'
+reference: '1 Chronicles 21:3'

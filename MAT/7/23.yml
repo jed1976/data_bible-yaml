@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 7:23"
+  class="v">23</span><span class="wj">And then will I profess unto them, I never
+  knew you: depart from me, ye that work iniquity.</span></p>
+id: MAT/7/23
+next:
+  id: MAT/7/24
+  number: '24'
+previous:
+  id: MAT/7/22
+  number: '22'
+reference: 'Matthew 7:23'

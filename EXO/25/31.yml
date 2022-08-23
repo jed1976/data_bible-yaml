@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="EXO 25:31" class="v">31</span>¶
+  And thou shalt make a candlestick <span class="add">of</span> pure gold: <span
+  class="add">of</span> beaten work shall the candlestick be made: his shaft,
+  and his branches, his bowls, his knops, and his flowers, shall be of the same.
+  </p>
+id: EXO/25/31
+next:
+  id: EXO/25/32
+  number: '32'
+previous:
+  id: EXO/25/30
+  number: '30'
+reference: 'Exodus 25:31'

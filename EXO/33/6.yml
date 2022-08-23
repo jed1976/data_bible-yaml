@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 33:6" class="v">6</span>And
+  the children of Israel stripped themselves of their ornaments by the mount
+  Horeb.</p>
+id: EXO/33/6
+next:
+  id: EXO/33/7
+  number: '7'
+previous:
+  id: EXO/33/5
+  number: '5'
+reference: 'Exodus 33:6'

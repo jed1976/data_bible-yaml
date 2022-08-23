@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 3:4"
+  class="v">4</span>I cried unto the <span class="nd">LORD</span> with my voice,
+  and he heard me out of his holy hill. Selah.</p>
+id: PSA/3/4
+next:
+  id: PSA/3/5
+  number: '5'
+previous:
+  id: PSA/3/3
+  number: '3'
+reference: 'Psalms 3:4'

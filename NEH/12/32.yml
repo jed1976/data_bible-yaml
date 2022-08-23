@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NEH 12:32"
+  class="v">32</span>And after them went Hoshaiah, and half of the princes of
+  Judah, </p>
+id: NEH/12/32
+next:
+  id: NEH/12/33
+  number: '33'
+previous:
+  id: NEH/12/31
+  number: '31'
+reference: 'Nehemiah 12:32'

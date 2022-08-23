@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DAN 2:22" class="v">22</span>He
+  revealeth the deep and secret things: he knoweth what <span
+  class="add">is</span> in the darkness, and the light dwelleth with him. </p>
+id: DAN/2/22
+next:
+  id: DAN/2/23
+  number: '23'
+previous:
+  id: DAN/2/21
+  number: '21'
+reference: 'Daniel 2:22'

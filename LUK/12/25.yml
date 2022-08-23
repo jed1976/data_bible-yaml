@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LUK 12:25"
+  class="v">25</span><span class="wj">And which of you with taking thought can
+  add to his stature one cubit?</span> </p>
+id: LUK/12/25
+next:
+  id: LUK/12/26
+  number: '26'
+previous:
+  id: LUK/12/24
+  number: '24'
+reference: 'Luke 12:25'

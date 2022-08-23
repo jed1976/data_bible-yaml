@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOS 10:35"
+  class="v">35</span>And they took it on that day, and smote it with the edge of
+  the sword, and all the souls that <span class="add">were</span> therein he
+  utterly destroyed that day, according to all that he had done to Lachish. </p>
+id: JOS/10/35
+next:
+  id: JOS/10/36
+  number: '36'
+previous:
+  id: JOS/10/34
+  number: '34'
+reference: 'Joshua 10:35'

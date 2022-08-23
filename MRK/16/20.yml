@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 16:20"
+  class="v">20</span>And they went forth, and preached every where, the Lord
+  working with <span class="add">them</span>, and confirming the word with signs
+  following. Amen.</p>
+id: MRK/16/20
+next:
+  id: LUK/intro/0
+  number: '0'
+previous:
+  id: MRK/16/19
+  number: '19'
+reference: 'Mark 16:20'

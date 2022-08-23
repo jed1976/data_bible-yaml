@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 6:23"
+  class="v">23</span><span class="wj">But if thine eye be evil, thy whole body
+  shall be full of darkness. If therefore the light that is in thee be darkness,
+  how great <span class="add">is</span> that darkness!</span></p>
+id: MAT/6/23
+next:
+  id: MAT/6/24
+  number: '24'
+previous:
+  id: MAT/6/22
+  number: '22'
+reference: 'Matthew 6:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 62:5" class="v">5</span>My
+  soul, wait thou only upon God; for my expectation <span class="add">is</span>
+  from him.</p>
+id: PSA/62/5
+next:
+  id: PSA/62/6
+  number: '6'
+previous:
+  id: PSA/62/4
+  number: '4'
+reference: 'Psalms 62:5'

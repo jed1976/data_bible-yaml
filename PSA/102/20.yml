@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 102:20"
+  class="v">20</span>To hear the groaning of the prisoner; to loose those that
+  are appointed to death;</p>
+id: PSA/102/20
+next:
+  id: PSA/102/21
+  number: '21'
+previous:
+  id: PSA/102/19
+  number: '19'
+reference: 'Psalms 102:20'

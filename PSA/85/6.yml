@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 85:6" class="v">6</span>Wilt
+  thou not revive us again: that thy people may rejoice in thee?</p>
+id: PSA/85/6
+next:
+  id: PSA/85/7
+  number: '7'
+previous:
+  id: PSA/85/5
+  number: '5'
+reference: 'Psalms 85:6'

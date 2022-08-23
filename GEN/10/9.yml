@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 10:9" class="v">9</span>He
+  was a mighty hunter before the <span class="nd">LORD</span>: wherefore it is
+  said, Even as Nimrod the mighty hunter before the <span
+  class="nd">LORD</span>. </p>
+id: GEN/10/9
+next:
+  id: GEN/10/10
+  number: '10'
+previous:
+  id: GEN/10/8
+  number: '8'
+reference: 'Genesis 10:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 19:23"
+  class="v">23</span>This <span class="add">is</span> the inheritance of the
+  tribe of the children of Issachar according to their families, the cities and
+  their villages.</p>
+id: JOS/19/23
+next:
+  id: JOS/19/24
+  number: '24'
+previous:
+  id: JOS/19/22
+  number: '22'
+reference: 'Joshua 19:23'

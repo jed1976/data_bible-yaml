@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 14:12"
+  class="v">12</span><span class="add">Is</span> not this the word that we did
+  tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For
+  <span class="add">it had been</span> better for us to serve the Egyptians,
+  than that we should die in the wilderness.</p>
+id: EXO/14/12
+next:
+  id: EXO/14/13
+  number: '13'
+previous:
+  id: EXO/14/11
+  number: '11'
+reference: 'Exodus 14:12'

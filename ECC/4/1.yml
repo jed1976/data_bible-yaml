@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 4:1" class="v">1</span>So I
+  returned, and considered all the oppressions that are done under the sun: and
+  behold the tears of <span class="add">such as were</span> oppressed, and they
+  had no comforter; and on the side of their oppressors <span class="add">there
+  was</span> power; but they had no comforter. </p>
+id: ECC/4/1
+next:
+  id: ECC/4/2
+  number: '2'
+previous:
+  id: ECC/3/22
+  number: '22'
+reference: 'Ecclesiastes 4:1'

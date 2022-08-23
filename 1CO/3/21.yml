@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CO 3:21"
+  class="v">21</span>Therefore let no man glory in men. For all things are
+  yours; </p>
+id: 1CO/3/21
+next:
+  id: 1CO/3/22
+  number: '22'
+previous:
+  id: 1CO/3/20
+  number: '20'
+reference: '1 Corinthians 3:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 20:27"
+  class="v">27</span>And Moses did as the <span class="nd">LORD</span>
+  commanded: and they went up into mount Hor in the sight of all the
+  congregation. </p>
+id: NUM/20/27
+next:
+  id: NUM/20/28
+  number: '28'
+previous:
+  id: NUM/20/26
+  number: '26'
+reference: 'Numbers 20:27'

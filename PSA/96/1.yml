@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 96:1" class="v">1</span>O
+  sing unto the <span class="nd">LORD</span> a new song: sing unto the <span
+  class="nd">LORD</span>, all the earth.</p>
+id: PSA/96/1
+next:
+  id: PSA/96/2
+  number: '2'
+previous:
+  id: PSA/95/11
+  number: '11'
+reference: 'Psalms 96:1'

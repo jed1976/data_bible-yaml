@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 23:10"
+  class="v">10</span>And Ephron dwelt among the children of Heth: and Ephron the
+  Hittite answered Abraham in the audience of the children of Heth, <span
+  class="add">even</span> of all that went in at the gate of his city, saying,
+  </p>
+id: GEN/23/10
+next:
+  id: GEN/23/11
+  number: '11'
+previous:
+  id: GEN/23/9
+  number: '9'
+reference: 'Genesis 23:10'

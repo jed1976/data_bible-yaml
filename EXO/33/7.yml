@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 33:7" class="v">7</span>And
+  Moses took the tabernacle, and pitched it without the camp, afar off from the
+  camp, and called it the Tabernacle of the congregation. And it came to pass,
+  <span class="add">that</span> every one which sought the <span
+  class="nd">LORD</span> went out unto the tabernacle of the congregation, which
+  <span class="add">was</span> without the camp. </p>
+id: EXO/33/7
+next:
+  id: EXO/33/8
+  number: '8'
+previous:
+  id: EXO/33/6
+  number: '6'
+reference: 'Exodus 33:7'

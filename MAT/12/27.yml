@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 12:27"
+  class="v">27</span><span class="wj">And if I by Beelzebub cast out devils, by
+  whom do your children cast <span class="add">them</span> out? therefore they
+  shall be your judges.</span> </p>
+id: MAT/12/27
+next:
+  id: MAT/12/28
+  number: '28'
+previous:
+  id: MAT/12/26
+  number: '26'
+reference: 'Matthew 12:27'

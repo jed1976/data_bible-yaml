@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 5:31"
+  class="v">31</span><span class="wj">It hath been said, Whosoever shall put
+  away his wife, let him give her a writing of divorcement:</span> </p>
+id: MAT/5/31
+next:
+  id: MAT/5/32
+  number: '32'
+previous:
+  id: MAT/5/30
+  number: '30'
+reference: 'Matthew 5:31'

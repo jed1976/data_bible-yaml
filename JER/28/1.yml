@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 28:1" class="v">1</span>And
+  it came to pass the same year, in the beginning of the reign of Zedekiah king
+  of Judah, in the fourth year, <span class="add">and</span> in the fifth month,
+  <span class="add">that</span> Hananiah the son of Azur the prophet, which
+  <span class="add">was</span> of Gibeon, spake unto me in the house of the
+  <span class="nd">LORD</span>, in the presence of the priests and of all the
+  people, saying, </p>
+id: JER/28/1
+next:
+  id: JER/28/2
+  number: '2'
+previous:
+  id: JER/27/22
+  number: '22'
+reference: 'Jeremiah 28:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 8:34" class="v">34</span>And
+  the eunuch answered Philip, and said, I pray thee, of whom speaketh the
+  prophet this? of himself, or of some other man? </p>
+id: ACT/8/34
+next:
+  id: ACT/8/35
+  number: '35'
+previous:
+  id: ACT/8/33
+  number: '33'
+reference: 'Acts 8:34'

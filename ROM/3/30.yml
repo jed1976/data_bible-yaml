@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ROM 3:30"
+  class="v">30</span>Seeing <span class="add">it is</span> one God, which shall
+  justify the circumcision by faith, and uncircumcision through faith. </p>
+id: ROM/3/30
+next:
+  id: ROM/3/31
+  number: '31'
+previous:
+  id: ROM/3/29
+  number: '29'
+reference: 'Romans 3:30'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="68" data-sid="NUM 7:68" class="v">68</span>One
+  golden spoon of ten <span class="add">shekels</span>, full of incense: </p>
+id: NUM/7/68
+next:
+  id: NUM/7/69
+  number: '69'
+previous:
+  id: NUM/7/67
+  number: '67'
+reference: 'Numbers 7:68'

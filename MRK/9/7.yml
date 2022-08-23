@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 9:7" class="v">7</span>And
+  there was a cloud that overshadowed them: and a voice came out of the cloud,
+  saying, This is my beloved Son: hear him. </p>
+id: MRK/9/7
+next:
+  id: MRK/9/8
+  number: '8'
+previous:
+  id: MRK/9/6
+  number: '6'
+reference: 'Mark 9:7'

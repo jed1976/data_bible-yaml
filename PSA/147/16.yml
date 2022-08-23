@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 147:16"
+  class="v">16</span>He giveth snow like wool: he scattereth the hoarfrost like
+  ashes.</p>
+id: PSA/147/16
+next:
+  id: PSA/147/17
+  number: '17'
+previous:
+  id: PSA/147/15
+  number: '15'
+reference: 'Psalms 147:16'

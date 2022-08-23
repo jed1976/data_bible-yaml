@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="51" data-sid="PSA 119:51"
+  class="v">51</span>The proud have had me greatly in derision: <span
+  class="add">yet</span> have I not declined from thy law.</p>
+id: PSA/119/51
+next:
+  id: PSA/119/52
+  number: '52'
+previous:
+  id: PSA/119/50
+  number: '50'
+reference: 'Psalms 119:51'

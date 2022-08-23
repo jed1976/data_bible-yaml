@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 45:16"
+  class="v">16</span>They shall be ashamed, and also confounded, all of them:
+  they shall go to confusion together <span class="add">that are</span> makers
+  of idols. </p>
+id: ISA/45/16
+next:
+  id: ISA/45/17
+  number: '17'
+previous:
+  id: ISA/45/15
+  number: '15'
+reference: 'Isaiah 45:16'

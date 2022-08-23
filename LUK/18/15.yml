@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 18:15"
+  class="v">15</span>And they brought unto him also infants, that he would touch
+  them: but when <span class="add">his</span> disciples saw <span
+  class="add">it</span>, they rebuked them. </p>
+id: LUK/18/15
+next:
+  id: LUK/18/16
+  number: '16'
+previous:
+  id: LUK/18/14
+  number: '14'
+reference: 'Luke 18:15'

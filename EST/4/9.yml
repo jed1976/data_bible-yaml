@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 4:9" class="v">9</span>And
+  Hatach came and told Esther the words of Mordecai.</p>
+id: EST/4/9
+next:
+  id: EST/4/10
+  number: '10'
+previous:
+  id: EST/4/8
+  number: '8'
+reference: 'Esther 4:9'

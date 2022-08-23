@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 118:13"
+  class="v">13</span>Thou hast thrust sore at me that I might fall: but the
+  <span class="nd">LORD</span> helped me.</p>
+id: PSA/118/13
+next:
+  id: PSA/118/14
+  number: '14'
+previous:
+  id: PSA/118/12
+  number: '12'
+reference: 'Psalms 118:13'

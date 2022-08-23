@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 1:1" class="v">1</span>Now
+  these <span class="add">are</span> the names of the children of Israel, which
+  came into Egypt; every man and his household came with Jacob. </p>
+id: EXO/1/1
+next:
+  id: EXO/1/2
+  number: '2'
+previous:
+  id: EXO/intro/0
+  number: '0'
+reference: 'Exodus 1:1'

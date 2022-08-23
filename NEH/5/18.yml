@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 5:18" class="v">18</span>Now
+  <span class="add">that</span> which was prepared <span class="add">for
+  me</span> daily <span class="add">was</span> one ox <span
+  class="add">and</span> six choice sheep; also fowls were prepared for me, and
+  once in ten days store of all sorts of wine: yet for all this required not I
+  the bread of the governor, because the bondage was heavy upon this people.
+  </p>
+id: NEH/5/18
+next:
+  id: NEH/5/19
+  number: '19'
+previous:
+  id: NEH/5/17
+  number: '17'
+reference: 'Nehemiah 5:18'

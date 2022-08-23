@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 98:8" class="v">8</span>Let
+  the floods clap <span class="add">their</span> hands: let the hills be joyful
+  together</p>
+id: PSA/98/8
+next:
+  id: PSA/98/9
+  number: '9'
+previous:
+  id: PSA/98/7
+  number: '7'
+reference: 'Psalms 98:8'

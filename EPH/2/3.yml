@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EPH 2:3" class="v">3</span>Among
+  whom also we all had our conversation in times past in the lusts of our flesh,
+  fulfilling the desires of the flesh and of the mind; and were by nature the
+  children of wrath, even as others. </p>
+id: EPH/2/3
+next:
+  id: EPH/2/4
+  number: '4'
+previous:
+  id: EPH/2/2
+  number: '2'
+reference: 'Ephesians 2:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="EXO 12:41"
+  class="v">41</span>And it came to pass at the end of the four hundred and
+  thirty years, even the selfsame day it came to pass, that all the hosts of the
+  <span class="nd">LORD</span> went out from the land of Egypt. </p>
+id: EXO/12/41
+next:
+  id: EXO/12/42
+  number: '42'
+previous:
+  id: EXO/12/40
+  number: '40'
+reference: 'Exodus 12:41'

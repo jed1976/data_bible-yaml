@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 36:9" class="v">9</span>¶ And
+  these <span class="add">are</span> the generations of Esau the father of the
+  Edomites in mount Seir: </p>
+id: GEN/36/9
+next:
+  id: GEN/36/10
+  number: '10'
+previous:
+  id: GEN/36/8
+  number: '8'
+reference: 'Genesis 36:9'

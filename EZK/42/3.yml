@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 42:3" class="v">3</span>Over
+  against the twenty <span class="add">cubits</span> which <span
+  class="add">were</span> for the inner court, and over against the pavement
+  which <span class="add">was</span> for the utter court, <span
+  class="add">was</span> gallery against gallery in three <span
+  class="add">stories</span>. </p>
+id: EZK/42/3
+next:
+  id: EZK/42/4
+  number: '4'
+previous:
+  id: EZK/42/2
+  number: '2'
+reference: 'Ezekiel 42:3'

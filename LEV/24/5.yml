@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 24:5" class="v">5</span>¶ And
+  thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals
+  shall be in one cake. </p>
+id: LEV/24/5
+next:
+  id: LEV/24/6
+  number: '6'
+previous:
+  id: LEV/24/4
+  number: '4'
+reference: 'Leviticus 24:5'

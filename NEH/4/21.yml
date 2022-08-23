@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NEH 4:21" class="v">21</span>So
+  we laboured in the work: and half of them held the spears from the rising of
+  the morning till the stars appeared. </p>
+id: NEH/4/21
+next:
+  id: NEH/4/22
+  number: '22'
+previous:
+  id: NEH/4/20
+  number: '20'
+reference: 'Nehemiah 4:21'

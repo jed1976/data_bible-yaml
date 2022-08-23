@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 15:10"
+  class="v">10</span>And the men of Judah said, Why are ye come up against us?
+  And they answered, To bind Samson are we come up, to do to him as he hath done
+  to us. </p>
+id: JDG/15/10
+next:
+  id: JDG/15/11
+  number: '11'
+previous:
+  id: JDG/15/9
+  number: '9'
+reference: 'Judges 15:10'

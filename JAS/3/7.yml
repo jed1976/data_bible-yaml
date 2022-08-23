@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JAS 3:7" class="v">7</span>For
+  every kind of beasts, and of birds, and of serpents, and of things in the sea,
+  is tamed, and hath been tamed of mankind: </p>
+id: JAS/3/7
+next:
+  id: JAS/3/8
+  number: '8'
+previous:
+  id: JAS/3/6
+  number: '6'
+reference: 'James 3:7'

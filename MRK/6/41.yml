@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MRK 6:41" class="v">41</span>And
+  when he had taken the five loaves and the two fishes, he looked up to heaven,
+  and blessed, and brake the loaves, and gave <span class="add">them</span> to
+  his disciples to set before them; and the two fishes divided he among them
+  all. </p>
+id: MRK/6/41
+next:
+  id: MRK/6/42
+  number: '42'
+previous:
+  id: MRK/6/40
+  number: '40'
+reference: 'Mark 6:41'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EPH 2:4" class="v">4</span>But
+  God, who is rich in mercy, for his great love wherewith he loved us, </p>
+id: EPH/2/4
+next:
+  id: EPH/2/5
+  number: '5'
+previous:
+  id: EPH/2/3
+  number: '3'
+reference: 'Ephesians 2:4'

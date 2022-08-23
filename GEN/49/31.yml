@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 49:31"
+  class="v">31</span>There they buried Abraham and Sarah his wife; there they
+  buried Isaac and Rebekah his wife; and there I buried Leah. </p>
+id: GEN/49/31
+next:
+  id: GEN/49/32
+  number: '32'
+previous:
+  id: GEN/49/30
+  number: '30'
+reference: 'Genesis 49:31'

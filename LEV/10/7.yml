@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 10:7" class="v">7</span>And
+  ye shall not go out from the door of the tabernacle of the congregation, lest
+  ye die: for the anointing oil of the <span class="nd">LORD</span> <span
+  class="add">is</span> upon you. And they did according to the word of
+  Moses.</p>
+id: LEV/10/7
+next:
+  id: LEV/10/8
+  number: '8'
+previous:
+  id: LEV/10/6
+  number: '6'
+reference: 'Leviticus 10:7'

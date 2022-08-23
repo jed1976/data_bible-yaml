@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 8:3" class="v">3</span>For
+  every high priest is ordained to offer gifts and sacrifices: wherefore <span
+  class="add">it is</span> of necessity that this man have somewhat also to
+  offer. </p>
+id: HEB/8/3
+next:
+  id: HEB/8/4
+  number: '4'
+previous:
+  id: HEB/8/2
+  number: '2'
+reference: 'Hebrews 8:3'

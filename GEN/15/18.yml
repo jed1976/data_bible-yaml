@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 15:18" class="v">18</span>In
+  the same day the <span class="nd">LORD</span> made a covenant with Abram,
+  saying, Unto thy seed have I given this land, from the river of Egypt unto the
+  great river, the river Euphrates: </p>
+id: GEN/15/18
+next:
+  id: GEN/15/19
+  number: '19'
+previous:
+  id: GEN/15/17
+  number: '17'
+reference: 'Genesis 15:18'

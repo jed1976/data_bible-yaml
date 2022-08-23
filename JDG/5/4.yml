@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 5:4" class="v">4</span><span
+  class="nd">LORD</span>, when thou wentest out of Seir, when thou marchedst out
+  of the field of Edom, the earth trembled, and the heavens dropped, the clouds
+  also dropped water. </p>
+id: JDG/5/4
+next:
+  id: JDG/5/5
+  number: '5'
+previous:
+  id: JDG/5/3
+  number: '3'
+reference: 'Judges 5:4'

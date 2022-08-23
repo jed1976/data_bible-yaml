@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1KI 10:10"
+  class="v">10</span>And she gave the king an hundred and twenty talents of
+  gold, and of spices very great store, and precious stones: there came no more
+  such abundance of spices as these which the queen of Sheba gave to king
+  Solomon. </p>
+id: 1KI/10/10
+next:
+  id: 1KI/10/11
+  number: '11'
+previous:
+  id: 1KI/10/9
+  number: '9'
+reference: '1 Kings 10:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 9:10" class="v">10</span>¶
+  And the apostles, when they were returned, told him all that they had done.
+  And he took them, and went aside privately into a desert place belonging to
+  the city called Bethsaida. </p>
+id: LUK/9/10
+next:
+  id: LUK/9/11
+  number: '11'
+previous:
+  id: LUK/9/9
+  number: '9'
+reference: 'Luke 9:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JDG 11:25"
+  class="v">25</span>And now <span class="add">art</span> thou any thing better
+  than Balak the son of Zippor, king of Moab? did he ever strive against Israel,
+  or did he ever fight against them, </p>
+id: JDG/11/25
+next:
+  id: JDG/11/26
+  number: '26'
+previous:
+  id: JDG/11/24
+  number: '24'
+reference: 'Judges 11:25'

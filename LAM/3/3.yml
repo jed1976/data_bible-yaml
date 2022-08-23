@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LAM 3:3" class="v">3</span>Surely
+  against me is he turned; he turneth his hand <span class="add">against
+  me</span> all the day. </p>
+id: LAM/3/3
+next:
+  id: LAM/3/4
+  number: '4'
+previous:
+  id: LAM/3/2
+  number: '2'
+reference: 'Lamentations 3:3'

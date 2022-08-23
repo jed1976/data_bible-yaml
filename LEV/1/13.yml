@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 1:13" class="v">13</span>But
+  he shall wash the inwards and the legs with water: and the priest shall bring
+  <span class="add">it</span> all, and burn <span class="add">it</span> upon the
+  altar: it <span class="add">is</span> a burnt sacrifice, an offering made by
+  fire, of a sweet savour unto the <span class="nd">LORD</span>.</p>
+id: LEV/1/13
+next:
+  id: LEV/1/14
+  number: '14'
+previous:
+  id: LEV/1/12
+  number: '12'
+reference: 'Leviticus 1:13'

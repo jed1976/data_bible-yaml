@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 7:8" class="v">8</span>The
+  eye of him that hath seen me shall see me no <span class="add">more:</span>
+  thine eyes <span class="add">are</span> upon me, and I <span
+  class="add">am</span> not. </p>
+id: JOB/7/8
+next:
+  id: JOB/7/9
+  number: '9'
+previous:
+  id: JOB/7/7
+  number: '7'
+reference: 'Job 7:8'

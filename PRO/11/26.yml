@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 11:26" class="v">26</span>He
+  that withholdeth corn, the people shall curse him: but blessing <span
+  class="add">shall be</span> upon the head of him that selleth <span
+  class="add">it</span>. </p>
+id: PRO/11/26
+next:
+  id: PRO/11/27
+  number: '27'
+previous:
+  id: PRO/11/25
+  number: '25'
+reference: 'Proverbs 11:26'

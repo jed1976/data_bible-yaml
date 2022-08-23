@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 8:16" class="v">16</span>For
+  they <span class="add">are</span> wholly given unto me from among the children
+  of Israel; instead of such as open every womb, <span class="add">even instead
+  of</span> the firstborn of all the children of Israel, have I taken them unto
+  me. </p>
+id: NUM/8/16
+next:
+  id: NUM/8/17
+  number: '17'
+previous:
+  id: NUM/8/15
+  number: '15'
+reference: 'Numbers 8:16'

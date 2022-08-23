@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 15:14"
+  class="v">14</span>Simeon hath declared how God at the first did visit the
+  Gentiles, to take out of them a people for his name. </p>
+id: ACT/15/14
+next:
+  id: ACT/15/15
+  number: '15'
+previous:
+  id: ACT/15/13
+  number: '13'
+reference: 'Acts 15:14'

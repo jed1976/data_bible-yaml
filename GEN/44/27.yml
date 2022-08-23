@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 44:27"
+  class="v">27</span>And thy servant my father said unto us, Ye know that my
+  wife bare me two <span class="add">sons:</span> </p>
+id: GEN/44/27
+next:
+  id: GEN/44/28
+  number: '28'
+previous:
+  id: GEN/44/26
+  number: '26'
+reference: 'Genesis 44:27'

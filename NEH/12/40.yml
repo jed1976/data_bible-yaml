@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NEH 12:40" class="v">40</span>So
+  stood the two <span class="add">companies of them that gave</span> thanks in
+  the house of God, and I, and the half of the rulers with me: </p>
+id: NEH/12/40
+next:
+  id: NEH/12/41
+  number: '41'
+previous:
+  id: NEH/12/39
+  number: '39'
+reference: 'Nehemiah 12:40'

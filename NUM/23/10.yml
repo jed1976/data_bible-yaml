@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 23:10"
+  class="v">10</span>Who can count the dust of Jacob, and the number of the
+  fourth <span class="add">part</span> of Israel? Let me die the death of the
+  righteous, and let my last end be like his! </p>
+id: NUM/23/10
+next:
+  id: NUM/23/11
+  number: '11'
+previous:
+  id: NUM/23/9
+  number: '9'
+reference: 'Numbers 23:10'

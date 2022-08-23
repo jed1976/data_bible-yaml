@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="JHN 4:53" class="v">53</span>So
+  the father knew that <span class="add">it was</span> at the same hour, in the
+  which Jesus said unto him, Thy son liveth: and himself believed, and his whole
+  house. </p>
+id: JHN/4/53
+next:
+  id: JHN/4/54
+  number: '54'
+previous:
+  id: JHN/4/52
+  number: '52'
+reference: 'John 4:53'

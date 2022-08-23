@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 15:33" class="v">33</span>He
+  shall shake off his unripe grape as the vine, and shall cast off his flower as
+  the olive. </p>
+id: JOB/15/33
+next:
+  id: JOB/15/34
+  number: '34'
+previous:
+  id: JOB/15/32
+  number: '32'
+reference: 'Job 15:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 33:11"
+  class="v">11</span>The counsel of the <span class="nd">LORD</span> standeth
+  for ever, the thoughts of his heart to all generations.</p>
+id: PSA/33/11
+next:
+  id: PSA/33/12
+  number: '12'
+previous:
+  id: PSA/33/10
+  number: '10'
+reference: 'Psalms 33:11'

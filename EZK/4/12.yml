@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 4:12" class="v">12</span>And
+  thou shalt eat it <span class="add">as</span> barley cakes, and thou shalt
+  bake it with dung that cometh out of man, in their sight. </p>
+id: EZK/4/12
+next:
+  id: EZK/4/13
+  number: '13'
+previous:
+  id: EZK/4/11
+  number: '11'
+reference: 'Ezekiel 4:12'

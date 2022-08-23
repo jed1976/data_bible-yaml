@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 10:9" class="v">9</span>Whoso
+  removeth stones shall be hurt therewith; <span class="add">and</span> he that
+  cleaveth wood shall be endangered thereby. </p>
+id: ECC/10/9
+next:
+  id: ECC/10/10
+  number: '10'
+previous:
+  id: ECC/10/8
+  number: '8'
+reference: 'Ecclesiastes 10:9'

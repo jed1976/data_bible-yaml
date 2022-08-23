@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="128" data-sid="PSA 119:128"
+  class="v">128</span>Therefore I esteem all <span class="add">thy</span>
+  precepts <span class="add">concerning</span> all <span class="add">things to
+  be</span> right; <span class="add">and</span> I hate every false way.</p>
+id: PSA/119/128
+next:
+  id: PSA/119/129
+  number: '129'
+previous:
+  id: PSA/119/127
+  number: '127'
+reference: 'Psalms 119:128'

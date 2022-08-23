@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 38:4" class="v">4</span>¶
+  Then came the word of the <span class="nd">LORD</span> to Isaiah, saying, </p>
+id: ISA/38/4
+next:
+  id: ISA/38/5
+  number: '5'
+previous:
+  id: ISA/38/3
+  number: '3'
+reference: 'Isaiah 38:4'

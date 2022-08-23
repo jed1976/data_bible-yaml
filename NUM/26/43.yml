@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 26:43"
+  class="v">43</span>All the families of the Shuhamites, according to those that
+  were numbered of them, <span class="add">were</span> threescore and four
+  thousand and four hundred.</p>
+id: NUM/26/43
+next:
+  id: NUM/26/44
+  number: '44'
+previous:
+  id: NUM/26/42
+  number: '42'
+reference: 'Numbers 26:43'

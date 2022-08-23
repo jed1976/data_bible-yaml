@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 28:11"
+  class="v">11</span>With the work of an engraver in stone, <span
+  class="add">like</span> the engravings of a signet, shalt thou engrave the two
+  stones with the names of the children of Israel: thou shalt make them to be
+  set in ouches of gold. </p>
+id: EXO/28/11
+next:
+  id: EXO/28/12
+  number: '12'
+previous:
+  id: EXO/28/10
+  number: '10'
+reference: 'Exodus 28:11'

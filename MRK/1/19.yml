@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MRK 1:19" class="v">19</span>And
+  when he had gone a little further thence, he saw James the <span
+  class="add">son</span> of Zebedee, and John his brother, who also were in the
+  ship mending their nets. </p>
+id: MRK/1/19
+next:
+  id: MRK/1/20
+  number: '20'
+previous:
+  id: MRK/1/18
+  number: '18'
+reference: 'Mark 1:19'

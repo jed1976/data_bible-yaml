@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LEV 22:31"
+  class="v">31</span>Therefore shall ye keep my commandments, and do them: I
+  <span class="add">am</span> the <span class="nd">LORD</span>. </p>
+id: LEV/22/31
+next:
+  id: LEV/22/32
+  number: '32'
+previous:
+  id: LEV/22/30
+  number: '30'
+reference: 'Leviticus 22:31'

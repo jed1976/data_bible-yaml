@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1TI 2:11" class="v">11</span>Let
+  the woman learn in silence with all subjection. </p>
+id: 1TI/2/11
+next:
+  id: 1TI/2/12
+  number: '12'
+previous:
+  id: 1TI/2/10
+  number: '10'
+reference: '1 Timothy 2:11'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 20:11"
+  class="v">11</span>And it shall be, if it make thee answer of peace, and open
+  unto thee, then it shall be, <span class="add">that</span> all the people
+  <span class="add">that is</span> found therein shall be tributaries unto thee,
+  and they shall serve thee. </p>
+id: DEU/20/11
+next:
+  id: DEU/20/12
+  number: '12'
+previous:
+  id: DEU/20/10
+  number: '10'
+reference: 'Deuteronomy 20:11'

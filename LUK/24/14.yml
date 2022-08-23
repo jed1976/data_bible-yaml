@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 24:14"
+  class="v">14</span>And they talked together of all these things which had
+  happened. </p>
+id: LUK/24/14
+next:
+  id: LUK/24/15
+  number: '15'
+previous:
+  id: LUK/24/13
+  number: '13'
+reference: 'Luke 24:14'

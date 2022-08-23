@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 102:25"
+  class="v">25</span>Of old hast thou laid the foundation of the earth: and the
+  heavens <span class="add">are</span> the work of thy hands.</p>
+id: PSA/102/25
+next:
+  id: PSA/102/26
+  number: '26'
+previous:
+  id: PSA/102/24
+  number: '24'
+reference: 'Psalms 102:25'

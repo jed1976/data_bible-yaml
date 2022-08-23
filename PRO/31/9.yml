@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 31:9" class="v">9</span>Open
+  thy mouth, judge righteously, and plead the cause of the poor and needy.</p>
+id: PRO/31/9
+next:
+  id: PRO/31/10
+  number: '10'
+previous:
+  id: PRO/31/8
+  number: '8'
+reference: 'Proverbs 31:9'

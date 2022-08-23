@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 66:5" class="v">5</span>Come
+  and see the works of God: <span class="add">he is</span> terrible <span
+  class="add">in his</span> doing toward the children of men.</p>
+id: PSA/66/5
+next:
+  id: PSA/66/6
+  number: '6'
+previous:
+  id: PSA/66/4
+  number: '4'
+reference: 'Psalms 66:5'

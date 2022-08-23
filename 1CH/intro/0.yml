@@ -1,0 +1,9 @@
+content: <p class="mt1">The First Book of the Chronicles</p>
+id: 1CH/intro/0
+next:
+  id: 1CH/1/1
+  number: '1'
+previous:
+  id: 2KI/25/30
+  number: '30'
+reference: 1 Chronicles

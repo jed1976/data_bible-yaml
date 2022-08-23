@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 26:13"
+  class="v">13</span>The slothful <span class="add">man</span> saith, <span
+  class="add">There is</span> a lion in the way; a lion <span
+  class="add">is</span> in the streets. </p>
+id: PRO/26/13
+next:
+  id: PRO/26/14
+  number: '14'
+previous:
+  id: PRO/26/12
+  number: '12'
+reference: 'Proverbs 26:13'

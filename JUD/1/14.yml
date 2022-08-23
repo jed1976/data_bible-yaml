@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JUD 1:14" class="v">14</span>And
+  Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the
+  Lord cometh with ten thousands of his saints, </p>
+id: JUD/1/14
+next:
+  id: JUD/1/15
+  number: '15'
+previous:
+  id: JUD/1/13
+  number: '13'
+reference: 'Jude 1:14'

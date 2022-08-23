@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HAG 2:7" class="v">7</span>And I
+  will shake all nations, and the desire of all nations shall come: and I will
+  fill this house with glory, saith the <span class="nd">LORD</span> of hosts.
+  </p>
+id: HAG/2/7
+next:
+  id: HAG/2/8
+  number: '8'
+previous:
+  id: HAG/2/6
+  number: '6'
+reference: 'Haggai 2:7'

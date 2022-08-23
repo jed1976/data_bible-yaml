@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 10:18"
+  class="v">18</span>And called, and asked whether Simon, which was surnamed
+  Peter, were lodged there.</p>
+id: ACT/10/18
+next:
+  id: ACT/10/19
+  number: '19'
+previous:
+  id: ACT/10/17
+  number: '17'
+reference: 'Acts 10:18'

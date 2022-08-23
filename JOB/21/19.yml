@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 21:19"
+  class="v">19</span>God layeth up his iniquity for his children: he rewardeth
+  him, and he shall know <span class="add">it</span>. </p>
+id: JOB/21/19
+next:
+  id: JOB/21/20
+  number: '20'
+previous:
+  id: JOB/21/18
+  number: '18'
+reference: 'Job 21:19'

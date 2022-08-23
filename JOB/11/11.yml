@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 11:11"
+  class="v">11</span>For he knoweth vain men: he seeth wickedness also; will he
+  not then consider <span class="add">it</span>? </p>
+id: JOB/11/11
+next:
+  id: JOB/11/12
+  number: '12'
+previous:
+  id: JOB/11/10
+  number: '10'
+reference: 'Job 11:11'

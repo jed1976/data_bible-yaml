@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 12:14"
+  class="v">14</span>Behold, he breaketh down, and it cannot be built again: he
+  shutteth up a man, and there can be no opening. </p>
+id: JOB/12/14
+next:
+  id: JOB/12/15
+  number: '15'
+previous:
+  id: JOB/12/13
+  number: '13'
+reference: 'Job 12:14'

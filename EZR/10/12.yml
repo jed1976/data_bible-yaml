@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZR 10:12"
+  class="v">12</span>Then all the congregation answered and said with a loud
+  voice, As thou hast said, so must we do. </p>
+id: EZR/10/12
+next:
+  id: EZR/10/13
+  number: '13'
+previous:
+  id: EZR/10/11
+  number: '11'
+reference: 'Ezra 10:12'

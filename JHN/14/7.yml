@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 14:7" class="v">7</span><span
+  class="wj">If ye had known me, ye should have known my Father also: and from
+  henceforth ye know him, and have seen him.</span> </p>
+id: JHN/14/7
+next:
+  id: JHN/14/8
+  number: '8'
+previous:
+  id: JHN/14/6
+  number: '6'
+reference: 'John 14:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="GEN 41:40"
+  class="v">40</span>Thou shalt be over my house, and according unto thy word
+  shall all my people be ruled: only in the throne will I be greater than thou.
+  </p>
+id: GEN/41/40
+next:
+  id: GEN/41/41
+  number: '41'
+previous:
+  id: GEN/41/39
+  number: '39'
+reference: 'Genesis 41:40'

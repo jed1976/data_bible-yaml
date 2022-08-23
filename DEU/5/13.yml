@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 5:13" class="v">13</span>Six
+  days thou shalt labour, and do all thy work: </p>
+id: DEU/5/13
+next:
+  id: DEU/5/14
+  number: '14'
+previous:
+  id: DEU/5/12
+  number: '12'
+reference: 'Deuteronomy 5:13'

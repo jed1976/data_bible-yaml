@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 6:33"
+  class="v">33</span><span class="wj">And if ye do good to them which do good to
+  you, what thank have ye? for sinners also do even the same.</span> </p>
+id: LUK/6/33
+next:
+  id: LUK/6/34
+  number: '34'
+previous:
+  id: LUK/6/32
+  number: '32'
+reference: 'Luke 6:33'

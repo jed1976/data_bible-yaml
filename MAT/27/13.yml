@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 27:13"
+  class="v">13</span>Then said Pilate unto him, Hearest thou not how many things
+  they witness against thee? </p>
+id: MAT/27/13
+next:
+  id: MAT/27/14
+  number: '14'
+previous:
+  id: MAT/27/12
+  number: '12'
+reference: 'Matthew 27:13'

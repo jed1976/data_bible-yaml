@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 41:12"
+  class="v">12</span>And <span class="add">there was</span> there with us a
+  young man, an Hebrew, servant to the captain of the guard; and we told him,
+  and he interpreted to us our dreams; to each man according to his dream he did
+  interpret. </p>
+id: GEN/41/12
+next:
+  id: GEN/41/13
+  number: '13'
+previous:
+  id: GEN/41/11
+  number: '11'
+reference: 'Genesis 41:12'

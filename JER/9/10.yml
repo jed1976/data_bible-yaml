@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 9:10" class="v">10</span>For
+  the mountains will I take up a weeping and wailing, and for the habitations of
+  the wilderness a lamentation, because they are burned up, so that none can
+  pass through <span class="add">them;</span> neither can <span
+  class="add">men</span> hear the voice of the cattle; both the fowl of the
+  heavens and the beast are fled; they are gone. </p>
+id: JER/9/10
+next:
+  id: JER/9/11
+  number: '11'
+previous:
+  id: JER/9/9
+  number: '9'
+reference: 'Jeremiah 9:10'

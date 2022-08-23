@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1PE 2:8" class="v">8</span>And a
+  stone of stumbling, and a rock of offence, <span class="add">even to
+  them</span> which stumble at the word, being disobedient: whereunto also they
+  were appointed. </p>
+id: 1PE/2/8
+next:
+  id: 1PE/2/9
+  number: '9'
+previous:
+  id: 1PE/2/7
+  number: '7'
+reference: '1 Peter 2:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 66:20"
+  class="v">20</span>Blessed <span class="add">be</span> God, which hath not
+  turned away my prayer, nor his mercy from me.</p>
+id: PSA/66/20
+next:
+  id: PSA/67/1
+  number: '1'
+previous:
+  id: PSA/66/19
+  number: '19'
+reference: 'Psalms 66:20'

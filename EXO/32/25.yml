@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 32:25" class="v">25</span>¶
+  And when Moses saw that the people <span class="add">were</span> naked; (for
+  Aaron had made them naked unto <span class="add">their</span> shame among
+  their enemies:) </p>
+id: EXO/32/25
+next:
+  id: EXO/32/26
+  number: '26'
+previous:
+  id: EXO/32/24
+  number: '24'
+reference: 'Exodus 32:25'

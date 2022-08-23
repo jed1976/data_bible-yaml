@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 15:12"
+  class="v">12</span>And when the sun was going down, a deep sleep fell upon
+  Abram; and, lo, an horror of great darkness fell upon him. </p>
+id: GEN/15/12
+next:
+  id: GEN/15/13
+  number: '13'
+previous:
+  id: GEN/15/11
+  number: '11'
+reference: 'Genesis 15:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 3:17"
+  class="v">17</span>There the wicked cease <span class="add">from</span>
+  troubling; and there the weary be at rest. </p>
+id: JOB/3/17
+next:
+  id: JOB/3/18
+  number: '18'
+previous:
+  id: JOB/3/16
+  number: '16'
+reference: 'Job 3:17'

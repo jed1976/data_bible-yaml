@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 42:8" class="v">8</span>And
+  Joseph knew his brethren, but they knew not him. </p>
+id: GEN/42/8
+next:
+  id: GEN/42/9
+  number: '9'
+previous:
+  id: GEN/42/7
+  number: '7'
+reference: 'Genesis 42:8'

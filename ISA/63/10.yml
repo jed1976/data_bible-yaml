@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 63:10" class="v">10</span>¶
+  But they rebelled, and vexed his holy Spirit: therefore he was turned to be
+  their enemy, <span class="add">and</span> he fought against them. </p>
+id: ISA/63/10
+next:
+  id: ISA/63/11
+  number: '11'
+previous:
+  id: ISA/63/9
+  number: '9'
+reference: 'Isaiah 63:10'

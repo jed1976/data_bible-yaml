@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 5:4" class="v">4</span>And
+  the days of Adam after he had begotten Seth were eight hundred years: and he
+  begat sons and daughters: </p>
+id: GEN/5/4
+next:
+  id: GEN/5/5
+  number: '5'
+previous:
+  id: GEN/5/3
+  number: '3'
+reference: 'Genesis 5:4'

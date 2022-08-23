@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 11:32"
+  class="v">32</span>But if we shall say, Of men; they feared the people: for
+  all <span class="add">men</span> counted John, that he was a prophet indeed.
+  </p>
+id: MRK/11/32
+next:
+  id: MRK/11/33
+  number: '33'
+previous:
+  id: MRK/11/31
+  number: '31'
+reference: 'Mark 11:32'

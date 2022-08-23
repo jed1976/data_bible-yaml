@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 40:3" class="v">3</span>¶
+  Then Job answered the <span class="nd">LORD</span>, and said, </p>
+id: JOB/40/3
+next:
+  id: JOB/40/4
+  number: '4'
+previous:
+  id: JOB/40/2
+  number: '2'
+reference: 'Job 40:3'

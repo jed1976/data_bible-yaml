@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 22:17"
+  class="v">17</span>Which said unto God, Depart from us: and what can the
+  Almighty do for them? </p>
+id: JOB/22/17
+next:
+  id: JOB/22/18
+  number: '18'
+previous:
+  id: JOB/22/16
+  number: '16'
+reference: 'Job 22:17'

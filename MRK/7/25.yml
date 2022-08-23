@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 7:25" class="v">25</span>For
+  a <span class="add">certain</span> woman, whose young daughter had an unclean
+  spirit, heard of him, and came and fell at his feet: </p>
+id: MRK/7/25
+next:
+  id: MRK/7/26
+  number: '26'
+previous:
+  id: MRK/7/24
+  number: '24'
+reference: 'Mark 7:25'

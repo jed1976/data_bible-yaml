@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GAL 1:21"
+  class="v">21</span>Afterwards I came into the regions of Syria and Cilicia;
+  </p>
+id: GAL/1/21
+next:
+  id: GAL/1/22
+  number: '22'
+previous:
+  id: GAL/1/20
+  number: '20'
+reference: 'Galatians 1:21'

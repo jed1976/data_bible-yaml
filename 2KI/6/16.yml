@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2KI 6:16" class="v">16</span>And
+  he answered, Fear not: for they that <span class="add">be</span> with us <span
+  class="add">are</span> more than they that <span class="add">be</span> with
+  them. </p>
+id: 2KI/6/16
+next:
+  id: 2KI/6/17
+  number: '17'
+previous:
+  id: 2KI/6/15
+  number: '15'
+reference: '2 Kings 6:16'

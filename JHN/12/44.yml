@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JHN 12:44" class="v">44</span>¶
+  Jesus cried and said, <span class="wj">He that believeth on me, believeth not
+  on me, but on him that sent me.</span> </p>
+id: JHN/12/44
+next:
+  id: JHN/12/45
+  number: '45'
+previous:
+  id: JHN/12/43
+  number: '43'
+reference: 'John 12:44'

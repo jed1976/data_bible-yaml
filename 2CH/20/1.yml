@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 20:1" class="v">1</span>It
+  came to pass after this also, <span class="add">that</span> the children of
+  Moab, and the children of Ammon, and with them <span class="add">other</span>
+  beside the Ammonites, came against Jehoshaphat to battle. </p>
+id: 2CH/20/1
+next:
+  id: 2CH/20/2
+  number: '2'
+previous:
+  id: 2CH/19/11
+  number: '11'
+reference: '2 Chronicles 20:1'

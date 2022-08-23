@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 18:26"
+  class="v">26</span>And they that heard <span class="add">it</span> said, Who
+  then can be saved? </p>
+id: LUK/18/26
+next:
+  id: LUK/18/27
+  number: '27'
+previous:
+  id: LUK/18/25
+  number: '25'
+reference: 'Luke 18:26'

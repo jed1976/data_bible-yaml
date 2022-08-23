@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 8:3" class="v">3</span>Be not
+  hasty to go out of his sight: stand not in an evil thing; for he doeth
+  whatsoever pleaseth him. </p>
+id: ECC/8/3
+next:
+  id: ECC/8/4
+  number: '4'
+previous:
+  id: ECC/8/2
+  number: '2'
+reference: 'Ecclesiastes 8:3'

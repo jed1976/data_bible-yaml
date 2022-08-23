@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 4:21" class="v">21</span>Let
+  them not depart from thine eyes; keep them in the midst of thine heart. </p>
+id: PRO/4/21
+next:
+  id: PRO/4/22
+  number: '22'
+previous:
+  id: PRO/4/20
+  number: '20'
+reference: 'Proverbs 4:21'

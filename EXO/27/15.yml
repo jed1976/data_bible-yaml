@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 27:15"
+  class="v">15</span>And on the other side <span class="add">shall be</span>
+  hangings fifteen <span class="add">cubits:</span> their pillars three, and
+  their sockets three.</p>
+id: EXO/27/15
+next:
+  id: EXO/27/16
+  number: '16'
+previous:
+  id: EXO/27/14
+  number: '14'
+reference: 'Exodus 27:15'

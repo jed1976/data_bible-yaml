@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 24:22"
+  class="v">22</span>And when Felix heard these things, having more perfect
+  knowledge of <span class="add">that</span> way, he deferred them, and said,
+  When Lysias the chief captain shall come down, I will know the uttermost of
+  your matter. </p>
+id: ACT/24/22
+next:
+  id: ACT/24/23
+  number: '23'
+previous:
+  id: ACT/24/21
+  number: '21'
+reference: 'Acts 24:22'

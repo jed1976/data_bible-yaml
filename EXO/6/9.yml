@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 6:9" class="v">9</span>¶ And
+  Moses spake so unto the children of Israel: but they hearkened not unto Moses
+  for anguish of spirit, and for cruel bondage.</p>
+id: EXO/6/9
+next:
+  id: EXO/6/10
+  number: '10'
+previous:
+  id: EXO/6/8
+  number: '8'
+reference: 'Exodus 6:9'

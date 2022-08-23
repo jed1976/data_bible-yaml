@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 8:30" class="v">30</span>¶
+  Then Joshua built an altar unto the <span class="nd">LORD</span> God of Israel
+  in mount Ebal, </p>
+id: JOS/8/30
+next:
+  id: JOS/8/31
+  number: '31'
+previous:
+  id: JOS/8/29
+  number: '29'
+reference: 'Joshua 8:30'

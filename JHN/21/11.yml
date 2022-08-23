@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 21:11"
+  class="v">11</span>Simon Peter went up, and drew the net to land full of great
+  fishes, an hundred and fifty and three: and for all there were so many, yet
+  was not the net broken. </p>
+id: JHN/21/11
+next:
+  id: JHN/21/12
+  number: '12'
+previous:
+  id: JHN/21/10
+  number: '10'
+reference: 'John 21:11'

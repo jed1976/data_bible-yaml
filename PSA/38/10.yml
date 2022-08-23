@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 38:10"
+  class="v">10</span>My heart panteth, my strength faileth me: as for the light
+  of mine eyes, it also is gone from me.</p>
+id: PSA/38/10
+next:
+  id: PSA/38/11
+  number: '11'
+previous:
+  id: PSA/38/9
+  number: '9'
+reference: 'Psalms 38:10'

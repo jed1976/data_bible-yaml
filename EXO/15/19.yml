@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 15:19"
+  class="v">19</span>For the horse of Pharaoh went in with his chariots and with
+  his horsemen into the sea, and the <span class="nd">LORD</span> brought again
+  the waters of the sea upon them; but the children of Israel went on dry <span
+  class="add">land</span> in the midst of the sea.</p>
+id: EXO/15/19
+next:
+  id: EXO/15/20
+  number: '20'
+previous:
+  id: EXO/15/18
+  number: '18'
+reference: 'Exodus 15:19'

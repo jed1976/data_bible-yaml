@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 31:7" class="v">7</span>And
+  they warred against the Midianites, as the <span class="nd">LORD</span>
+  commanded Moses; and they slew all the males. </p>
+id: NUM/31/7
+next:
+  id: NUM/31/8
+  number: '8'
+previous:
+  id: NUM/31/6
+  number: '6'
+reference: 'Numbers 31:7'

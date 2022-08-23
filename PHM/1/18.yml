@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PHM 1:18" class="v">18</span>If
+  he hath wronged thee, or oweth <span class="add">thee</span> ought, put that
+  on mine account; </p>
+id: PHM/1/18
+next:
+  id: PHM/1/19
+  number: '19'
+previous:
+  id: PHM/1/17
+  number: '17'
+reference: 'Philemon 1:18'

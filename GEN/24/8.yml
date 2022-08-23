@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 24:8" class="v">8</span>And
+  if the woman will not be willing to follow thee, then thou shalt be clear from
+  this my oath: only bring not my son thither again. </p>
+id: GEN/24/8
+next:
+  id: GEN/24/9
+  number: '9'
+previous:
+  id: GEN/24/7
+  number: '7'
+reference: 'Genesis 24:8'

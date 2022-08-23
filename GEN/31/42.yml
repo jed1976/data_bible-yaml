@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="GEN 31:42"
+  class="v">42</span>Except the God of my father, the God of Abraham, and the
+  fear of Isaac, had been with me, surely thou hadst sent me away now empty. God
+  hath seen mine affliction and the labour of my hands, and rebuked <span
+  class="add">thee</span> yesternight.</p>
+id: GEN/31/42
+next:
+  id: GEN/31/43
+  number: '43'
+previous:
+  id: GEN/31/41
+  number: '41'
+reference: 'Genesis 31:42'

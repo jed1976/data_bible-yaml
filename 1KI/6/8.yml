@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 6:8" class="v">8</span>The
+  door for the middle chamber <span class="add">was</span> in the right side of
+  the house: and they went up with winding stairs into the middle <span
+  class="add">chamber</span>, and out of the middle into the third. </p>
+id: 1KI/6/8
+next:
+  id: 1KI/6/9
+  number: '9'
+previous:
+  id: 1KI/6/7
+  number: '7'
+reference: '1 Kings 6:8'

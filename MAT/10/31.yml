@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 10:31"
+  class="v">31</span><span class="wj">Fear ye not therefore, ye are of more
+  value than many sparrows.</span> </p>
+id: MAT/10/31
+next:
+  id: MAT/10/32
+  number: '32'
+previous:
+  id: MAT/10/30
+  number: '30'
+reference: 'Matthew 10:31'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 17:25"
+  class="v">25</span>And Ishmael his son <span class="add">was</span> thirteen
+  years old, when he was circumcised in the flesh of his foreskin. </p>
+id: GEN/17/25
+next:
+  id: GEN/17/26
+  number: '26'
+previous:
+  id: GEN/17/24
+  number: '24'
+reference: 'Genesis 17:25'

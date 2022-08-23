@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 38:22"
+  class="v">22</span>Hezekiah also had said, What <span class="add">is</span>
+  the sign that I shall go up to the house of the <span
+  class="nd">LORD</span>?</p>
+id: ISA/38/22
+next:
+  id: ISA/39/1
+  number: '1'
+previous:
+  id: ISA/38/21
+  number: '21'
+reference: 'Isaiah 38:22'

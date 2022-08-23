@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 12:5" class="v">5</span>¶
+  Then I Daniel looked, and, behold, there stood other two, the one on this side
+  of the bank of the river, and the other on that side of the bank of the river.
+  </p>
+id: DAN/12/5
+next:
+  id: DAN/12/6
+  number: '6'
+previous:
+  id: DAN/12/4
+  number: '4'
+reference: 'Daniel 12:5'

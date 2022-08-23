@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 28:18" class="v">18</span>In
+  the first day <span class="add">shall be</span> an holy convocation; ye shall
+  do no manner of servile work <span class="add">therein:</span> </p>
+id: NUM/28/18
+next:
+  id: NUM/28/19
+  number: '19'
+previous:
+  id: NUM/28/17
+  number: '17'
+reference: 'Numbers 28:18'

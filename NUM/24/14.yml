@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 24:14"
+  class="v">14</span>And now, behold, I go unto my people: come <span
+  class="add">therefore, and</span> I will advertise thee what this people shall
+  do to thy people in the latter days.</p>
+id: NUM/24/14
+next:
+  id: NUM/24/15
+  number: '15'
+previous:
+  id: NUM/24/13
+  number: '13'
+reference: 'Numbers 24:14'

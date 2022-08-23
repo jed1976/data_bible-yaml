@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOS 5:2" class="v">2</span>¶ At
+  that time the <span class="nd">LORD</span> said unto Joshua, Make thee sharp
+  knives, and circumcise again the children of Israel the second time. </p>
+id: JOS/5/2
+next:
+  id: JOS/5/3
+  number: '3'
+previous:
+  id: JOS/5/1
+  number: '1'
+reference: 'Joshua 5:2'

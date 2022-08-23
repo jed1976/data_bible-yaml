@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 15:4" class="v">4</span>And,
+  behold, the word of the <span class="nd">LORD</span> <span
+  class="add">came</span> unto him, saying, This shall not be thine heir; but he
+  that shall come forth out of thine own bowels shall be thine heir. </p>
+id: GEN/15/4
+next:
+  id: GEN/15/5
+  number: '5'
+previous:
+  id: GEN/15/3
+  number: '3'
+reference: 'Genesis 15:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 9:23" class="v">23</span>And
+  Moses stretched forth his rod toward heaven: and the <span
+  class="nd">LORD</span> sent thunder and hail, and the fire ran along upon the
+  ground; and the <span class="nd">LORD</span> rained hail upon the land of
+  Egypt. </p>
+id: EXO/9/23
+next:
+  id: EXO/9/24
+  number: '24'
+previous:
+  id: EXO/9/22
+  number: '22'
+reference: 'Exodus 9:23'

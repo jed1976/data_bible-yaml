@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 37:26"
+  class="v">26</span><span class="add">He is</span> ever merciful, and lendeth;
+  and his seed <span class="add">is</span> blessed.</p>
+id: PSA/37/26
+next:
+  id: PSA/37/27
+  number: '27'
+previous:
+  id: PSA/37/25
+  number: '25'
+reference: 'Psalms 37:26'

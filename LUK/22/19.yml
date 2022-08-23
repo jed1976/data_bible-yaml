@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LUK 22:19" class="v">19</span>¶
+  And he took bread, and gave thanks, and brake <span class="add">it</span>, and
+  gave unto them, saying, <span class="wj">This is my body which is given for
+  you: this do in remembrance of me.</span> </p>
+id: LUK/22/19
+next:
+  id: LUK/22/20
+  number: '20'
+previous:
+  id: LUK/22/18
+  number: '18'
+reference: 'Luke 22:19'

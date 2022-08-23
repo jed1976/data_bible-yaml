@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 13:18" class="v">18</span>¶
+  Then said he, <span class="wj">Unto what is the kingdom of God like? and
+  whereunto shall I resemble it?</span> </p>
+id: LUK/13/18
+next:
+  id: LUK/13/19
+  number: '19'
+previous:
+  id: LUK/13/17
+  number: '17'
+reference: 'Luke 13:18'

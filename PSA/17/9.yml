@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 17:9" class="v">9</span>From
+  the wicked that oppress me, <span class="add">from</span> my deadly enemies,
+  <span class="add">who</span> compass me about.</p>
+id: PSA/17/9
+next:
+  id: PSA/17/10
+  number: '10'
+previous:
+  id: PSA/17/8
+  number: '8'
+reference: 'Psalms 17:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 18:12"
+  class="v">12</span>His strength shall be hungerbitten, and destruction <span
+  class="add">shall be</span> ready at his side. </p>
+id: JOB/18/12
+next:
+  id: JOB/18/13
+  number: '13'
+previous:
+  id: JOB/18/11
+  number: '11'
+reference: 'Job 18:12'

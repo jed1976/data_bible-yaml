@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 2:19" class="v">19</span>And
+  it shall be, <span class="add">that</span> whosoever shall go out of the doors
+  of thy house into the street, his blood <span class="add">shall be</span> upon
+  his head, and we <span class="add">will be</span> guiltless: and whosoever
+  shall be with thee in the house, his blood <span class="add">shall be</span>
+  on our head, if <span class="add">any</span> hand be upon him. </p>
+id: JOS/2/19
+next:
+  id: JOS/2/20
+  number: '20'
+previous:
+  id: JOS/2/18
+  number: '18'
+reference: 'Joshua 2:19'

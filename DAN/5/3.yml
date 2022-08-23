@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 5:3" class="v">3</span>Then
+  they brought the golden vessels that were taken out of the temple of the house
+  of God which <span class="add">was</span> at Jerusalem; and the king, and his
+  princes, his wives, and his concubines, drank in them. </p>
+id: DAN/5/3
+next:
+  id: DAN/5/4
+  number: '4'
+previous:
+  id: DAN/5/2
+  number: '2'
+reference: 'Daniel 5:3'

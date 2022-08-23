@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 26:22"
+  class="v">22</span>These <span class="add">are</span> the families of Judah
+  according to those that were numbered of them, threescore and sixteen thousand
+  and five hundred.</p>
+id: NUM/26/22
+next:
+  id: NUM/26/23
+  number: '23'
+previous:
+  id: NUM/26/21
+  number: '21'
+reference: 'Numbers 26:22'

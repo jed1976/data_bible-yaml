@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 21:21"
+  class="v">21</span>For they gave them Shechem with her suburbs in mount
+  Ephraim, <span class="add">to be</span> a city of refuge for the slayer; and
+  Gezer with her suburbs, </p>
+id: JOS/21/21
+next:
+  id: JOS/21/22
+  number: '22'
+previous:
+  id: JOS/21/20
+  number: '20'
+reference: 'Joshua 21:21'

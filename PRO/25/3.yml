@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 25:3" class="v">3</span>The
+  heaven for height, and the earth for depth, and the heart of kings <span
+  class="add">is</span> unsearchable.</p>
+id: PRO/25/3
+next:
+  id: PRO/25/4
+  number: '4'
+previous:
+  id: PRO/25/2
+  number: '2'
+reference: 'Proverbs 25:3'

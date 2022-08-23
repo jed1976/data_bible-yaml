@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 11:6" class="v">6</span>And
+  if by grace, then <span class="add">is it</span> no more of works: otherwise
+  grace is no more grace. But if <span class="add">it be</span> of works, then
+  is it no more grace: otherwise work is no more work.</p>
+id: ROM/11/6
+next:
+  id: ROM/11/7
+  number: '7'
+previous:
+  id: ROM/11/5
+  number: '5'
+reference: 'Romans 11:6'

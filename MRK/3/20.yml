@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 3:20" class="v">20</span>And
+  the multitude cometh together again, so that they could not so much as eat
+  bread. </p>
+id: MRK/3/20
+next:
+  id: MRK/3/21
+  number: '21'
+previous:
+  id: MRK/3/19
+  number: '19'
+reference: 'Mark 3:20'

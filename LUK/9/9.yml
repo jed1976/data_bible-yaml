@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 9:9" class="v">9</span>And
+  Herod said, John have I beheaded: but who is this, of whom I hear such things?
+  And he desired to see him.</p>
+id: LUK/9/9
+next:
+  id: LUK/9/10
+  number: '10'
+previous:
+  id: LUK/9/8
+  number: '8'
+reference: 'Luke 9:9'

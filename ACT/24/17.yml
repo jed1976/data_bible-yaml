@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 24:17"
+  class="v">17</span>Now after many years I came to bring alms to my nation, and
+  offerings. </p>
+id: ACT/24/17
+next:
+  id: ACT/24/18
+  number: '18'
+previous:
+  id: ACT/24/16
+  number: '16'
+reference: 'Acts 24:17'

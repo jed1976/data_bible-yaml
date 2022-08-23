@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 19:32"
+  class="v">32</span>Then came the soldiers, and brake the legs of the first,
+  and of the other which was crucified with him. </p>
+id: JHN/19/32
+next:
+  id: JHN/19/33
+  number: '33'
+previous:
+  id: JHN/19/31
+  number: '31'
+reference: 'John 19:32'

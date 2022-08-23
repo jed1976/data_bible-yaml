@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 8:1" class="v">1</span><span
+  class="add">There is</span> therefore now no condemnation to them which are in
+  Christ Jesus, who walk not after the flesh, but after the Spirit. </p>
+id: ROM/8/1
+next:
+  id: ROM/8/2
+  number: '2'
+previous:
+  id: ROM/7/25
+  number: '25'
+reference: 'Romans 8:1'

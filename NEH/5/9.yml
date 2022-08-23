@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 5:9" class="v">9</span>Also I
+  said, It <span class="add">is</span> not good that ye do: ought ye not to walk
+  in the fear of our God because of the reproach of the heathen our enemies?
+  </p>
+id: NEH/5/9
+next:
+  id: NEH/5/10
+  number: '10'
+previous:
+  id: NEH/5/8
+  number: '8'
+reference: 'Nehemiah 5:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 13:32"
+  class="v">32</span>And he said unto them, <span class="wj">Go ye, and tell
+  that fox, Behold, I cast out devils, and I do cures to day and to morrow, and
+  the third <span class="add">day</span> I shall be perfected.</span> </p>
+id: LUK/13/32
+next:
+  id: LUK/13/33
+  number: '33'
+previous:
+  id: LUK/13/31
+  number: '31'
+reference: 'Luke 13:32'

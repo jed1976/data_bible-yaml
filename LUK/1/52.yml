@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="LUK 1:52" class="v">52</span>He
+  hath put down the mighty from <span class="add">their</span> seats, and
+  exalted them of low degree. </p>
+id: LUK/1/52
+next:
+  id: LUK/1/53
+  number: '53'
+previous:
+  id: LUK/1/51
+  number: '51'
+reference: 'Luke 1:52'

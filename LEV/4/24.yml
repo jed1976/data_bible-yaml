@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 4:24" class="v">24</span>And
+  he shall lay his hand upon the head of the goat, and kill it in the place
+  where they kill the burnt offering before the <span class="nd">LORD</span>: it
+  <span class="add">is</span> a sin offering. </p>
+id: LEV/4/24
+next:
+  id: LEV/4/25
+  number: '25'
+previous:
+  id: LEV/4/23
+  number: '23'
+reference: 'Leviticus 4:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 42:10"
+  class="v">10</span>Sing unto the <span class="nd">LORD</span> a new song,
+  <span class="add">and</span> his praise from the end of the earth, ye that go
+  down to the sea, and all that is therein; the isles, and the inhabitants
+  thereof. </p>
+id: ISA/42/10
+next:
+  id: ISA/42/11
+  number: '11'
+previous:
+  id: ISA/42/9
+  number: '9'
+reference: 'Isaiah 42:10'

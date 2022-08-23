@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2CO 3:17" class="v">17</span>Now
+  the Lord is that Spirit: and where the Spirit of the Lord <span
+  class="add">is</span>, there <span class="add">is</span> liberty. </p>
+id: 2CO/3/17
+next:
+  id: 2CO/3/18
+  number: '18'
+previous:
+  id: 2CO/3/16
+  number: '16'
+reference: '2 Corinthians 3:17'

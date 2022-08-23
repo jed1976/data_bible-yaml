@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 20:5" class="v">5</span>We
+  will rejoice in thy salvation, and in the name of our God we will set up <span
+  class="add">our</span> banners: the <span class="nd">LORD</span> fulfil all
+  thy petitions.</p>
+id: PSA/20/5
+next:
+  id: PSA/20/6
+  number: '6'
+previous:
+  id: PSA/20/4
+  number: '4'
+reference: 'Psalms 20:5'

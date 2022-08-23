@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 1:10" class="v">10</span>Is
+  there <span class="add">any</span> thing whereof it may be said, See, this
+  <span class="add">is</span> new? it hath been already of old time, which was
+  before us. </p>
+id: ECC/1/10
+next:
+  id: ECC/1/11
+  number: '11'
+previous:
+  id: ECC/1/9
+  number: '9'
+reference: 'Ecclesiastes 1:10'

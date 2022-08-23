@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 2:20" class="v">20</span>And
+  Adam gave names to all cattle, and to the fowl of the air, and to every beast
+  of the field; but for Adam there was not found an help meet for him.</p>
+id: GEN/2/20
+next:
+  id: GEN/2/21
+  number: '21'
+previous:
+  id: GEN/2/19
+  number: '19'
+reference: 'Genesis 2:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 2:10" class="v">10</span>And
+  saith unto him, Every man at the beginning doth set forth good wine; and when
+  men have well drunk, then that which is worse: <span class="add">but</span>
+  thou hast kept the good wine until now. </p>
+id: JHN/2/10
+next:
+  id: JHN/2/11
+  number: '11'
+previous:
+  id: JHN/2/9
+  number: '9'
+reference: 'John 2:10'

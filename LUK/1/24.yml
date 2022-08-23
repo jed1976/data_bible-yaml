@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 1:24" class="v">24</span>And
+  after those days his wife Elisabeth conceived, and hid herself five months,
+  saying, </p>
+id: LUK/1/24
+next:
+  id: LUK/1/25
+  number: '25'
+previous:
+  id: LUK/1/23
+  number: '23'
+reference: 'Luke 1:24'

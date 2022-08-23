@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 17:18"
+  class="v">18</span>And next him <span class="add">was</span> Jehozabad, and
+  with him an hundred and fourscore thousand ready prepared for the war. </p>
+id: 2CH/17/18
+next:
+  id: 2CH/17/19
+  number: '19'
+previous:
+  id: 2CH/17/17
+  number: '17'
+reference: '2 Chronicles 17:18'

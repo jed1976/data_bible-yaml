@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2SA 6:21" class="v">21</span>And
+  David said unto Michal, <span class="add">It was</span> before the <span
+  class="nd">LORD</span>, which chose me before thy father, and before all his
+  house, to appoint me ruler over the people of the <span
+  class="nd">LORD</span>, over Israel: therefore will I play before the <span
+  class="nd">LORD</span>. </p>
+id: 2SA/6/21
+next:
+  id: 2SA/6/22
+  number: '22'
+previous:
+  id: 2SA/6/20
+  number: '20'
+reference: '2 Samuel 6:21'

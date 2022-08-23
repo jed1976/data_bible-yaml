@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 12:15"
+  class="v">15</span>Seven days shall ye eat unleavened bread; even the first
+  day ye shall put away leaven out of your houses: for whosoever eateth leavened
+  bread from the first day until the seventh day, that soul shall be cut off
+  from Israel. </p>
+id: EXO/12/15
+next:
+  id: EXO/12/16
+  number: '16'
+previous:
+  id: EXO/12/14
+  number: '14'
+reference: 'Exodus 12:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2KI 10:18" class="v">18</span>¶
+  And Jehu gathered all the people together, and said unto them, Ahab served
+  Baal a little; <span class="add">but</span> Jehu shall serve him much. </p>
+id: 2KI/10/18
+next:
+  id: 2KI/10/19
+  number: '19'
+previous:
+  id: 2KI/10/17
+  number: '17'
+reference: '2 Kings 10:18'

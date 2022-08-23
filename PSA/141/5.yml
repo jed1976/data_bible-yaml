@@ -1,0 +1,15 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 141:5"
+  class="v">5</span>Let the righteous smite me; <span class="add">it shall
+  be</span> a kindness: and let him reprove me; <span class="add">it shall
+  be</span> an excellent oil, <span class="add">which</span> shall not break my
+  head: for yet my prayer also <span class="add">shall be</span> in their
+  calamities.</p>
+id: PSA/141/5
+next:
+  id: PSA/141/6
+  number: '6'
+previous:
+  id: PSA/141/4
+  number: '4'
+reference: 'Psalms 141:5'

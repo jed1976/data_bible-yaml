@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 24:16"
+  class="v">16</span>The fathers shall not be put to death for the children,
+  neither shall the children be put to death for the fathers: every man shall be
+  put to death for his own sin.</p>
+id: DEU/24/16
+next:
+  id: DEU/24/17
+  number: '17'
+previous:
+  id: DEU/24/15
+  number: '15'
+reference: 'Deuteronomy 24:16'

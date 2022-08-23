@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOL 3:3" class="v">3</span>And
+  they have cast lots for my people; and have given a boy for an harlot, and
+  sold a girl for wine, that they might drink. </p>
+id: JOL/3/3
+next:
+  id: JOL/3/4
+  number: '4'
+previous:
+  id: JOL/3/2
+  number: '2'
+reference: 'Joel 3:3'

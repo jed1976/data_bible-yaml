@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 40:6" class="v">6</span>Then
+  went Jeremiah unto Gedaliah the son of Ahikam to Mizpah; and dwelt with him
+  among the people that were left in the land.</p>
+id: JER/40/6
+next:
+  id: JER/40/7
+  number: '7'
+previous:
+  id: JER/40/5
+  number: '5'
+reference: 'Jeremiah 40:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 36:11" class="v">11</span>If
+  they obey and serve <span class="add">him</span>, they shall spend their days
+  in prosperity, and their years in pleasures. </p>
+id: JOB/36/11
+next:
+  id: JOB/36/12
+  number: '12'
+previous:
+  id: JOB/36/10
+  number: '10'
+reference: 'Job 36:11'

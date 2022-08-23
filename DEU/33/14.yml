@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 33:14"
+  class="v">14</span>And for the precious fruits <span class="add">brought
+  forth</span> by the sun, and for the precious things put forth by the moon,
+  </p>
+id: DEU/33/14
+next:
+  id: DEU/33/15
+  number: '15'
+previous:
+  id: DEU/33/13
+  number: '13'
+reference: 'Deuteronomy 33:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 93:1" class="v">1</span>The
+  <span class="nd">LORD</span> reigneth, he is clothed with majesty; the <span
+  class="nd">LORD</span> is clothed with strength, <span
+  class="add">wherewith</span> he hath girded himself: the world also is
+  stablished, that it cannot be moved.</p>
+id: PSA/93/1
+next:
+  id: PSA/93/2
+  number: '2'
+previous:
+  id: PSA/92/15
+  number: '15'
+reference: 'Psalms 93:1'

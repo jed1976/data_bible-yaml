@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 8:20" class="v">20</span>As
+  the nations which the <span class="nd">LORD</span> destroyeth before your
+  face, so shall ye perish; because ye would not be obedient unto the voice of
+  the <span class="nd">LORD</span> your God.</p>
+id: DEU/8/20
+next:
+  id: DEU/9/1
+  number: '1'
+previous:
+  id: DEU/8/19
+  number: '19'
+reference: 'Deuteronomy 8:20'

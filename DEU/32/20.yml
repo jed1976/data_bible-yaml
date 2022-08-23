@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 32:20"
+  class="v">20</span>And he said, I will hide my face from them, I will see what
+  their end <span class="add">shall be:</span> for they <span
+  class="add">are</span> a very froward generation, children in whom <span
+  class="add">is</span> no faith. </p>
+id: DEU/32/20
+next:
+  id: DEU/32/21
+  number: '21'
+previous:
+  id: DEU/32/19
+  number: '19'
+reference: 'Deuteronomy 32:20'

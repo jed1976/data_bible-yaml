@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 9:3" class="v">3</span>And
+  his mother’s brethren spake of him in the ears of all the men of Shechem all
+  these words: and their hearts inclined to follow Abimelech; for they said, He
+  <span class="add">is</span> our brother. </p>
+id: JDG/9/3
+next:
+  id: JDG/9/4
+  number: '4'
+previous:
+  id: JDG/9/2
+  number: '2'
+reference: 'Judges 9:3'

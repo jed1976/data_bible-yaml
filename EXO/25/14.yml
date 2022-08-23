@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 25:14"
+  class="v">14</span>And thou shalt put the staves into the rings by the sides
+  of the ark, that the ark may be borne with them. </p>
+id: EXO/25/14
+next:
+  id: EXO/25/15
+  number: '15'
+previous:
+  id: EXO/25/13
+  number: '13'
+reference: 'Exodus 25:14'

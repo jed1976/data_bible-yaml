@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS</p>
+id: PHP/intro/0
+next:
+  id: PHP/1/1
+  number: '1'
+previous:
+  id: EPH/6/24
+  number: '24'
+reference: Philippians

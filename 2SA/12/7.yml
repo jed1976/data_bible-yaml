@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 12:7" class="v">7</span>¶ And
+  Nathan said to David, Thou <span class="add">art</span> the man. Thus saith
+  the <span class="nd">LORD</span> God of Israel, I anointed thee king over
+  Israel, and I delivered thee out of the hand of Saul; </p>
+id: 2SA/12/7
+next:
+  id: 2SA/12/8
+  number: '8'
+previous:
+  id: 2SA/12/6
+  number: '6'
+reference: '2 Samuel 12:7'

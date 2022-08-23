@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 38:1" class="v">1</span>And
+  he made the altar of burnt offering <span class="add">of</span> shittim wood:
+  five cubits <span class="add">was</span> the length thereof, and five cubits
+  the breadth thereof; <span class="add">it was</span> foursquare; and three
+  cubits the height thereof. </p>
+id: EXO/38/1
+next:
+  id: EXO/38/2
+  number: '2'
+previous:
+  id: EXO/37/29
+  number: '29'
+reference: 'Exodus 38:1'

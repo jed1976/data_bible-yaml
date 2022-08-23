@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 33:24"
+  class="v">24</span>Then he is gracious unto him, and saith, Deliver him from
+  going down to the pit: I have found a ransom. </p>
+id: JOB/33/24
+next:
+  id: JOB/33/25
+  number: '25'
+previous:
+  id: JOB/33/23
+  number: '23'
+reference: 'Job 33:24'

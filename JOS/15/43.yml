@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JOS 15:43"
+  class="v">43</span>And Jiphtah, and Ashnah, and Nezib, </p>
+id: JOS/15/43
+next:
+  id: JOS/15/44
+  number: '44'
+previous:
+  id: JOS/15/42
+  number: '42'
+reference: 'Joshua 15:43'

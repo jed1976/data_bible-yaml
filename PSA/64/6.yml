@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 64:6" class="v">6</span>They
+  search out iniquities; they accomplish a diligent search: both the inward
+  <span class="add">thought</span> of every one <span class="add">of
+  them</span>, and the heart, <span class="add">is</span> deep.</p>
+id: PSA/64/6
+next:
+  id: PSA/64/7
+  number: '7'
+previous:
+  id: PSA/64/5
+  number: '5'
+reference: 'Psalms 64:6'

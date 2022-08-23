@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 9:8" class="v">8</span>And at
+  this house, <span class="add">which</span> is high, every one that passeth by
+  it shall be astonished, and shall hiss; and they shall say, Why hath the <span
+  class="nd">LORD</span> done thus unto this land, and to this house? </p>
+id: 1KI/9/8
+next:
+  id: 1KI/9/9
+  number: '9'
+previous:
+  id: 1KI/9/7
+  number: '7'
+reference: '1 Kings 9:8'

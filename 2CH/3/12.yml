@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 3:12" class="v">12</span>And
+  <span class="add">one</span> wing of the other cherub <span
+  class="add">was</span> five cubits, reaching to the wall of the house: and the
+  other wing <span class="add">was</span> five cubits <span
+  class="add">also</span>, joining to the wing of the other cherub. </p>
+id: 2CH/3/12
+next:
+  id: 2CH/3/13
+  number: '13'
+previous:
+  id: 2CH/3/11
+  number: '11'
+reference: '2 Chronicles 3:12'

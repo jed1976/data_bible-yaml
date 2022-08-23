@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 29:9" class="v">9</span>The
+  voice of the <span class="nd">LORD</span> maketh the hinds to calve, and
+  discovereth the forests: and in his temple doth every one speak of <span
+  class="add">his</span> glory.</p>
+id: PSA/29/9
+next:
+  id: PSA/29/10
+  number: '10'
+previous:
+  id: PSA/29/8
+  number: '8'
+reference: 'Psalms 29:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOS 7:2" class="v">2</span>And
+  Joshua sent men from Jericho to Ai, which <span class="add">is</span> beside
+  Beth-aven, on the east side of Beth-el, and spake unto them, saying, Go up and
+  view the country. And the men went up and viewed Ai. </p>
+id: JOS/7/2
+next:
+  id: JOS/7/3
+  number: '3'
+previous:
+  id: JOS/7/1
+  number: '1'
+reference: 'Joshua 7:2'

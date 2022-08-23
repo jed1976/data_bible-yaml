@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEP 3:9" class="v">9</span>For
+  then will I turn to the people a pure language, that they may all call upon
+  the name of the <span class="nd">LORD</span>, to serve him with one consent.
+  </p>
+id: ZEP/3/9
+next:
+  id: ZEP/3/10
+  number: '10'
+previous:
+  id: ZEP/3/8
+  number: '8'
+reference: 'Zephaniah 3:9'

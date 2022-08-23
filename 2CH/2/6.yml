@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CH 2:6" class="v">6</span>But
+  who is able to build him an house, seeing the heaven and heaven of heavens
+  cannot contain him? who <span class="add">am</span> I then, that I should
+  build him an house, save only to burn sacrifice before him? </p>
+id: 2CH/2/6
+next:
+  id: 2CH/2/7
+  number: '7'
+previous:
+  id: 2CH/2/5
+  number: '5'
+reference: '2 Chronicles 2:6'

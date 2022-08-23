@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="15" data-sid="PSA 68:15"
+  class="v">15</span>The hill of God <span class="add">is as</span> the hill of
+  Bashan; an high hill <span class="add">as</span> the hill of Bashan.</p>
+id: PSA/68/15
+next:
+  id: PSA/68/16
+  number: '16'
+previous:
+  id: PSA/68/14
+  number: '14'
+reference: 'Psalms 68:15'

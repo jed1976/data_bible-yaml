@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 4:18" class="v">18</span>But
+  the path of the just <span class="add">is</span> as the shining light, that
+  shineth more and more unto the perfect day. </p>
+id: PRO/4/18
+next:
+  id: PRO/4/19
+  number: '19'
+previous:
+  id: PRO/4/17
+  number: '17'
+reference: 'Proverbs 4:18'

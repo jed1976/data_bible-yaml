@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 11:3" class="v">3</span>¶
+  <span class="add">There is</span> a voice of the howling of the shepherds; for
+  their glory is spoiled: a voice of the roaring of young lions; for the pride
+  of Jordan is spoiled.</p>
+id: ZEC/11/3
+next:
+  id: ZEC/11/4
+  number: '4'
+previous:
+  id: ZEC/11/2
+  number: '2'
+reference: 'Zechariah 11:3'

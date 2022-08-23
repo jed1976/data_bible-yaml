@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 30:3" class="v">3</span>For
+  want and famine <span class="add">they were</span> solitary; fleeing into the
+  wilderness in former time desolate and waste. </p>
+id: JOB/30/3
+next:
+  id: JOB/30/4
+  number: '4'
+previous:
+  id: JOB/30/2
+  number: '2'
+reference: 'Job 30:3'

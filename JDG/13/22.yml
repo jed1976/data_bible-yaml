@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 13:22"
+  class="v">22</span>And Manoah said unto his wife, We shall surely die, because
+  we have seen God. </p>
+id: JDG/13/22
+next:
+  id: JDG/13/23
+  number: '23'
+previous:
+  id: JDG/13/21
+  number: '21'
+reference: 'Judges 13:22'

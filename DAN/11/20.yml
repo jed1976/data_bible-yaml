@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 11:20"
+  class="v">20</span>Then shall stand up in his estate a raiser of taxes <span
+  class="add">in</span> the glory of the kingdom: but within few days he shall
+  be destroyed, neither in anger, nor in battle.</p>
+id: DAN/11/20
+next:
+  id: DAN/11/21
+  number: '21'
+previous:
+  id: DAN/11/19
+  number: '19'
+reference: 'Daniel 11:20'

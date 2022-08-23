@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 5:3" class="v">3</span>Who
+  had <span class="add">his</span> dwelling among the tombs; and no man could
+  bind him, no, not with chains: </p>
+id: MRK/5/3
+next:
+  id: MRK/5/4
+  number: '4'
+previous:
+  id: MRK/5/2
+  number: '2'
+reference: 'Mark 5:3'

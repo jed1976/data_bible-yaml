@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 1:9" class="v">9</span>¶ And
+  afterward the children of Judah went down to fight against the Canaanites,
+  that dwelt in the mountain, and in the south, and in the valley. </p>
+id: JDG/1/9
+next:
+  id: JDG/1/10
+  number: '10'
+previous:
+  id: JDG/1/8
+  number: '8'
+reference: 'Judges 1:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CO 2:11"
+  class="v">11</span>Lest Satan should get an advantage of us: for we are not
+  ignorant of his devices. </p>
+id: 2CO/2/11
+next:
+  id: 2CO/2/12
+  number: '12'
+previous:
+  id: 2CO/2/10
+  number: '10'
+reference: '2 Corinthians 2:11'

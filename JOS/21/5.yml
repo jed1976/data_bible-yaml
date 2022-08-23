@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 21:5" class="v">5</span>And
+  the rest of the children of Kohath <span class="add">had</span> by lot out of
+  the families of the tribe of Ephraim, and out of the tribe of Dan, and out of
+  the half tribe of Manasseh, ten cities. </p>
+id: JOS/21/5
+next:
+  id: JOS/21/6
+  number: '6'
+previous:
+  id: JOS/21/4
+  number: '4'
+reference: 'Joshua 21:5'

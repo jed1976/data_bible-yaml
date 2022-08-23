@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="10" data-sid="PSA 96:10"
+  class="v">10</span>Say among the heathen <span class="add">that</span> the
+  <span class="nd">LORD</span> reigneth: the world also shall be established
+  that it shall not be moved: he shall judge the people righteously.</p>
+id: PSA/96/10
+next:
+  id: PSA/96/11
+  number: '11'
+previous:
+  id: PSA/96/9
+  number: '9'
+reference: 'Psalms 96:10'

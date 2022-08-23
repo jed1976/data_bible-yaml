@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 13:5" class="v">5</span>And
+  the priest shall look on him the seventh day: and, behold, <span
+  class="add">if</span> the plague in his sight be at a stay, <span
+  class="add">and</span> the plague spread not in the skin; then the priest
+  shall shut him up seven days more: </p>
+id: LEV/13/5
+next:
+  id: LEV/13/6
+  number: '6'
+previous:
+  id: LEV/13/4
+  number: '4'
+reference: 'Leviticus 13:5'

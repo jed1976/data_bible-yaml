@@ -1,0 +1,9 @@
+content: <p class="mt1">THE GENERAL EPISTLE OF JUDE</p>
+id: JUD/intro/0
+next:
+  id: JUD/1/1
+  number: '1'
+previous:
+  id: 3JN/1/14
+  number: '14'
+reference: Jude

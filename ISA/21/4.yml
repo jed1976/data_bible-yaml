@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 21:4" class="v">4</span>My
+  heart panted, fearfulness affrighted me: the night of my pleasure hath he
+  turned into fear unto me. </p>
+id: ISA/21/4
+next:
+  id: ISA/21/5
+  number: '5'
+previous:
+  id: ISA/21/3
+  number: '3'
+reference: 'Isaiah 21:4'

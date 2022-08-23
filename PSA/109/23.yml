@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 109:23"
+  class="v">23</span>I am gone like the shadow when it declineth: I am tossed up
+  and down as the locust.</p>
+id: PSA/109/23
+next:
+  id: PSA/109/24
+  number: '24'
+previous:
+  id: PSA/109/22
+  number: '22'
+reference: 'Psalms 109:23'

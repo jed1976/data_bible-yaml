@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="SNG 4:16" class="v">16</span>¶
+  Awake, O north wind; and come, thou south; blow upon my garden, <span
+  class="add">that</span> the spices thereof may flow out. Let my beloved come
+  into his garden, and eat his pleasant fruits.</p>
+id: SNG/4/16
+next:
+  id: SNG/5/1
+  number: '1'
+previous:
+  id: SNG/4/15
+  number: '15'
+reference: 'Song of Solomon 4:16'

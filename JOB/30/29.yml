@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 30:29" class="v">29</span>I
+  am a brother to dragons, and a companion to owls. </p>
+id: JOB/30/29
+next:
+  id: JOB/30/30
+  number: '30'
+previous:
+  id: JOB/30/28
+  number: '28'
+reference: 'Job 30:29'

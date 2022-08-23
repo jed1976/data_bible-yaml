@@ -1,0 +1,13 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 103:1" class="v">1</span>Bless the <span
+  class="nd">LORD</span>, O my soul: and all that is within me, <span
+  class="add">bless</span> his holy name.</p>
+id: PSA/103/1
+next:
+  id: PSA/103/2
+  number: '2'
+previous:
+  id: PSA/102/28
+  number: '28'
+reference: 'Psalms 103:1'

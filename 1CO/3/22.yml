@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CO 3:22"
+  class="v">22</span>Whether Paul, or Apollos, or Cephas, or the world, or life,
+  or death, or things present, or things to come; all are yours; </p>
+id: 1CO/3/22
+next:
+  id: 1CO/3/23
+  number: '23'
+previous:
+  id: 1CO/3/21
+  number: '21'
+reference: '1 Corinthians 3:22'

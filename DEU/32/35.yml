@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="DEU 32:35" class="v">35</span>To
+  me <span class="add">belongeth</span> vengeance, and recompence; their foot
+  shall slide in <span class="add">due</span> time: for the day of their
+  calamity <span class="add">is</span> at hand, and the things that shall come
+  upon them make haste. </p>
+id: DEU/32/35
+next:
+  id: DEU/32/36
+  number: '36'
+previous:
+  id: DEU/32/34
+  number: '34'
+reference: 'Deuteronomy 32:35'

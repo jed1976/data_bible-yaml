@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JHN 19:38" class="v">38</span>¶
+  And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly
+  for fear of the Jews, besought Pilate that he might take away the body of
+  Jesus: and Pilate gave <span class="add">him</span> leave. He came therefore,
+  and took the body of Jesus. </p>
+id: JHN/19/38
+next:
+  id: JHN/19/39
+  number: '39'
+previous:
+  id: JHN/19/37
+  number: '37'
+reference: 'John 19:38'

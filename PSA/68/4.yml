@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 68:4" class="v">4</span>Sing
+  unto God, sing praises to his name: extol him that rideth upon the heavens by
+  his name <span class="nd">Jah</span>, and rejoice before him.</p>
+id: PSA/68/4
+next:
+  id: PSA/68/5
+  number: '5'
+previous:
+  id: PSA/68/3
+  number: '3'
+reference: 'Psalms 68:4'

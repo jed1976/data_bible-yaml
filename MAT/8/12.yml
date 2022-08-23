@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 8:12"
+  class="v">12</span><span class="wj">But the children of the kingdom shall be
+  cast out into outer darkness: there shall be weeping and gnashing of
+  teeth.</span> </p>
+id: MAT/8/12
+next:
+  id: MAT/8/13
+  number: '13'
+previous:
+  id: MAT/8/11
+  number: '11'
+reference: 'Matthew 8:12'

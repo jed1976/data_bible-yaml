@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 37:14"
+  class="v">14</span>The wicked have drawn out the sword, and have bent their
+  bow, to cast down the poor and needy, <span class="add">and</span> to slay
+  such as be of upright conversation.</p>
+id: PSA/37/14
+next:
+  id: PSA/37/15
+  number: '15'
+previous:
+  id: PSA/37/13
+  number: '13'
+reference: 'Psalms 37:14'

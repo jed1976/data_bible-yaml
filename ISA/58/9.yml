@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 58:9" class="v">9</span>Then
+  shalt thou call, and the <span class="nd">LORD</span> shall answer; thou shalt
+  cry, and he shall say, Here I <span class="add">am</span>. If thou take away
+  from the midst of thee the yoke, the putting forth of the finger, and speaking
+  vanity; </p>
+id: ISA/58/9
+next:
+  id: ISA/58/10
+  number: '10'
+previous:
+  id: ISA/58/8
+  number: '8'
+reference: 'Isaiah 58:9'

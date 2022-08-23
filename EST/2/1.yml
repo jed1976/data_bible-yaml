@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 2:1" class="v">1</span>After
+  these things, when the wrath of king Ahasuerus was appeased, he remembered
+  Vashti, and what she had done, and what was decreed against her. </p>
+id: EST/2/1
+next:
+  id: EST/2/2
+  number: '2'
+previous:
+  id: EST/1/22
+  number: '22'
+reference: 'Esther 2:1'

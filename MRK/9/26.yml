@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 9:26" class="v">26</span>And
+  <span class="add">the spirit</span> cried, and rent him sore, and came out of
+  him: and he was as one dead; insomuch that many said, He is dead. </p>
+id: MRK/9/26
+next:
+  id: MRK/9/27
+  number: '27'
+previous:
+  id: MRK/9/25
+  number: '25'
+reference: 'Mark 9:26'

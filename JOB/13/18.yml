@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 13:18"
+  class="v">18</span>Behold now, I have ordered <span class="add">my</span>
+  cause; I know that I shall be justified. </p>
+id: JOB/13/18
+next:
+  id: JOB/13/19
+  number: '19'
+previous:
+  id: JOB/13/17
+  number: '17'
+reference: 'Job 13:18'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 22:11"
+  class="v">11</span><span class="add">Then</span> shall an oath of the <span
+  class="nd">LORD</span> be between them both, that he hath not put his hand
+  unto his neighbour’s goods; and the owner of it shall accept <span
+  class="add">thereof</span>, and he shall not make <span class="add">it</span>
+  good. </p>
+id: EXO/22/11
+next:
+  id: EXO/22/12
+  number: '12'
+previous:
+  id: EXO/22/10
+  number: '10'
+reference: 'Exodus 22:11'

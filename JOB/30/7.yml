@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 30:7" class="v">7</span>Among
+  the bushes they brayed; under the nettles they were gathered together. </p>
+id: JOB/30/7
+next:
+  id: JOB/30/8
+  number: '8'
+previous:
+  id: JOB/30/6
+  number: '6'
+reference: 'Job 30:7'

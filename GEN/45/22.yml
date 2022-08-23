@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 45:22" class="v">22</span>To
+  all of them he gave each man changes of raiment; but to Benjamin he gave three
+  hundred <span class="add">pieces</span> of silver, and five changes of
+  raiment. </p>
+id: GEN/45/22
+next:
+  id: GEN/45/23
+  number: '23'
+previous:
+  id: GEN/45/21
+  number: '21'
+reference: 'Genesis 45:22'

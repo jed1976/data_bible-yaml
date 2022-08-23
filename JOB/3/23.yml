@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 3:23"
+  class="v">23</span><span class="add">Why is light given</span> to a man whose
+  way is hid, and whom God hath hedged in? </p>
+id: JOB/3/23
+next:
+  id: JOB/3/24
+  number: '24'
+previous:
+  id: JOB/3/22
+  number: '22'
+reference: 'Job 3:23'

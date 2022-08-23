@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 10:25"
+  class="v">25</span>Jesus answered them, <span class="wj">I told you, and ye
+  believed not: the works that I do in my Father’s name, they bear witness of
+  me.</span> </p>
+id: JHN/10/25
+next:
+  id: JHN/10/26
+  number: '26'
+previous:
+  id: JHN/10/24
+  number: '24'
+reference: 'John 10:25'

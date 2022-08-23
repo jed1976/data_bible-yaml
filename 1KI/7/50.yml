@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="1KI 7:50" class="v">50</span>And
+  the bowls, and the snuffers, and the basons, and the spoons, and the censers
+  <span class="add">of</span> pure gold; and the hinges <span
+  class="add">of</span> gold, <span class="add">both</span> for the doors of the
+  inner house, the most holy <span class="add">place, and</span> for the doors
+  of the house, <span class="add">to wit</span>, of the temple. </p>
+id: 1KI/7/50
+next:
+  id: 1KI/7/51
+  number: '51'
+previous:
+  id: 1KI/7/49
+  number: '49'
+reference: '1 Kings 7:50'

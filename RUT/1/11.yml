@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="RUT 1:11" class="v">11</span>And
+  Naomi said, Turn again, my daughters: why will ye go with me? <span
+  class="add">are</span> there yet <span class="add">any more</span> sons in my
+  womb, that they may be your husbands? </p>
+id: RUT/1/11
+next:
+  id: RUT/1/12
+  number: '12'
+previous:
+  id: RUT/1/10
+  number: '10'
+reference: 'Ruth 1:11'

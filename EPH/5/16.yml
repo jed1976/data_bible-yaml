@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EPH 5:16"
+  class="v">16</span>Redeeming the time, because the days are evil. </p>
+id: EPH/5/16
+next:
+  id: EPH/5/17
+  number: '17'
+previous:
+  id: EPH/5/15
+  number: '15'
+reference: 'Ephesians 5:16'

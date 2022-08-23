@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 25:35"
+  class="v">35</span><span class="wj">For I was an hungred, and ye gave me meat:
+  I was thirsty, and ye gave me drink: I was a stranger, and ye took me
+  in:</span> </p>
+id: MAT/25/35
+next:
+  id: MAT/25/36
+  number: '36'
+previous:
+  id: MAT/25/34
+  number: '34'
+reference: 'Matthew 25:35'

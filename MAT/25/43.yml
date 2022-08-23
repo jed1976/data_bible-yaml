@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 25:43"
+  class="v">43</span><span class="wj">I was a stranger, and ye took me not in:
+  naked, and ye clothed me not: sick, and in prison, and ye visited me
+  not.</span> </p>
+id: MAT/25/43
+next:
+  id: MAT/25/44
+  number: '44'
+previous:
+  id: MAT/25/42
+  number: '42'
+reference: 'Matthew 25:43'

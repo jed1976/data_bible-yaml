@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 55:8" class="v">8</span>I
+  would hasten my escape from the windy storm <span class="add">and</span>
+  tempest.</p>
+id: PSA/55/8
+next:
+  id: PSA/55/9
+  number: '9'
+previous:
+  id: PSA/55/7
+  number: '7'
+reference: 'Psalms 55:8'

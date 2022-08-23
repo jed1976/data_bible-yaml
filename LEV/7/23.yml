@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 7:23"
+  class="v">23</span>Speak unto the children of Israel, saying, Ye shall eat no
+  manner of fat, of ox, or of sheep, or of goat. </p>
+id: LEV/7/23
+next:
+  id: LEV/7/24
+  number: '24'
+previous:
+  id: LEV/7/22
+  number: '22'
+reference: 'Leviticus 7:23'

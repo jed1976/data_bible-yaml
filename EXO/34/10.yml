@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 34:10" class="v">10</span>¶
+  And he said, Behold, I make a covenant: before all thy people I will do
+  marvels, such as have not been done in all the earth, nor in any nation: and
+  all the people among which thou <span class="add">art</span> shall see the
+  work of the <span class="nd">LORD</span>: for it <span class="add">is</span> a
+  terrible thing that I will do with thee. </p>
+id: EXO/34/10
+next:
+  id: EXO/34/11
+  number: '11'
+previous:
+  id: EXO/34/9
+  number: '9'
+reference: 'Exodus 34:10'

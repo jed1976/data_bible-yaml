@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 33:5" class="v">5</span>And
+  he lifted up his eyes, and saw the women and the children; and said, Who <span
+  class="add">are</span> those with thee? And he said, The children which God
+  hath graciously given thy servant. </p>
+id: GEN/33/5
+next:
+  id: GEN/33/6
+  number: '6'
+previous:
+  id: GEN/33/4
+  number: '4'
+reference: 'Genesis 33:5'

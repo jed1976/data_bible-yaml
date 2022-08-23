@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1SA 9:11" class="v">11</span>¶
+  <span class="add">And</span> as they went up the hill to the city, they found
+  young maidens going out to draw water, and said unto them, Is the seer here?
+  </p>
+id: 1SA/9/11
+next:
+  id: 1SA/9/12
+  number: '12'
+previous:
+  id: 1SA/9/10
+  number: '10'
+reference: '1 Samuel 9:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 74:13"
+  class="v">13</span>Thou didst divide the sea by thy strength: thou brakest the
+  heads of the dragons in the waters.</p>
+id: PSA/74/13
+next:
+  id: PSA/74/14
+  number: '14'
+previous:
+  id: PSA/74/12
+  number: '12'
+reference: 'Psalms 74:13'

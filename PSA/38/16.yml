@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 38:16"
+  class="v">16</span>For I said, <span class="add">Hear me</span>, lest <span
+  class="add">otherwise</span> they should rejoice over me: when my foot
+  slippeth, they magnify <span class="add">themselves</span> against me.</p>
+id: PSA/38/16
+next:
+  id: PSA/38/17
+  number: '17'
+previous:
+  id: PSA/38/15
+  number: '15'
+reference: 'Psalms 38:16'

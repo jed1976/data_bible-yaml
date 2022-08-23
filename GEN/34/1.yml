@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 34:1" class="v">1</span>And
+  Dinah the daughter of Leah, which she bare unto Jacob, went out to see the
+  daughters of the land. </p>
+id: GEN/34/1
+next:
+  id: GEN/34/2
+  number: '2'
+previous:
+  id: GEN/33/20
+  number: '20'
+reference: 'Genesis 34:1'

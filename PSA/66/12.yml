@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 66:12"
+  class="v">12</span>Thou hast caused men to ride over our heads; we went
+  through fire and through water: but thou broughtest us out into a wealthy
+  <span class="add">place</span>.</p>
+id: PSA/66/12
+next:
+  id: PSA/66/13
+  number: '13'
+previous:
+  id: PSA/66/11
+  number: '11'
+reference: 'Psalms 66:12'

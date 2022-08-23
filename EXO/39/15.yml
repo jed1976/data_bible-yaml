@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 39:15"
+  class="v">15</span>And they made upon the breastplate chains at the ends,
+  <span class="add">of</span> wreathen work <span class="add">of</span> pure
+  gold. </p>
+id: EXO/39/15
+next:
+  id: EXO/39/16
+  number: '16'
+previous:
+  id: EXO/39/14
+  number: '14'
+reference: 'Exodus 39:15'

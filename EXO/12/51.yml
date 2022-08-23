@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="EXO 12:51"
+  class="v">51</span>And it came to pass the selfsame day, <span
+  class="add">that</span> the <span class="nd">LORD</span> did bring the
+  children of Israel out of the land of Egypt by their armies.</p>
+id: EXO/12/51
+next:
+  id: EXO/13/1
+  number: '1'
+previous:
+  id: EXO/12/50
+  number: '50'
+reference: 'Exodus 12:51'

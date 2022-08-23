@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOL 2:24" class="v">24</span>And
+  the floors shall be full of wheat, and the fats shall overflow with wine and
+  oil. </p>
+id: JOL/2/24
+next:
+  id: JOL/2/25
+  number: '25'
+previous:
+  id: JOL/2/23
+  number: '23'
+reference: 'Joel 2:24'

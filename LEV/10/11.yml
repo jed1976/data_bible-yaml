@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 10:11"
+  class="v">11</span>And that ye may teach the children of Israel all the
+  statutes which the <span class="nd">LORD</span> hath spoken unto them by the
+  hand of Moses.</p>
+id: LEV/10/11
+next:
+  id: LEV/10/12
+  number: '12'
+previous:
+  id: LEV/10/10
+  number: '10'
+reference: 'Leviticus 10:11'

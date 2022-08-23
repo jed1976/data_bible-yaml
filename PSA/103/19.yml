@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="19" data-sid="PSA 103:19"
+  class="v">19</span>The <span class="nd">LORD</span> hath prepared his throne
+  in the heavens; and his kingdom ruleth over all.</p>
+id: PSA/103/19
+next:
+  id: PSA/103/20
+  number: '20'
+previous:
+  id: PSA/103/18
+  number: '18'
+reference: 'Psalms 103:19'

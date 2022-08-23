@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 8:33" class="v">33</span>And
+  they that kept them fled, and went their ways into the city, and told every
+  thing, and what was befallen to the possessed of the devils. </p>
+id: MAT/8/33
+next:
+  id: MAT/8/34
+  number: '34'
+previous:
+  id: MAT/8/32
+  number: '32'
+reference: 'Matthew 8:33'

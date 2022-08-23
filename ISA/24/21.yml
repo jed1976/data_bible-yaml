@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 24:21"
+  class="v">21</span>And it shall come to pass in that day, <span
+  class="add">that</span> the <span class="nd">LORD</span> shall punish the host
+  of the high ones <span class="add">that are</span> on high, and the kings of
+  the earth upon the earth. </p>
+id: ISA/24/21
+next:
+  id: ISA/24/22
+  number: '22'
+previous:
+  id: ISA/24/20
+  number: '20'
+reference: 'Isaiah 24:21'

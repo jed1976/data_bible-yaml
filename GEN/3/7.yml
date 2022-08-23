@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 3:7" class="v">7</span>And
+  the eyes of them both were opened, and they knew that they <span
+  class="add">were</span> naked; and they sewed fig leaves together, and made
+  themselves aprons. </p>
+id: GEN/3/7
+next:
+  id: GEN/3/8
+  number: '8'
+previous:
+  id: GEN/3/6
+  number: '6'
+reference: 'Genesis 3:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 32:10"
+  class="v">10</span>And the <span class="nd">LORD’s</span> anger was kindled
+  the same time, and he sware, saying, </p>
+id: NUM/32/10
+next:
+  id: NUM/32/11
+  number: '11'
+previous:
+  id: NUM/32/9
+  number: '9'
+reference: 'Numbers 32:10'

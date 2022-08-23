@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 37:22"
+  class="v">22</span>Fair weather cometh out of the north: with God <span
+  class="add">is</span> terrible majesty. </p>
+id: JOB/37/22
+next:
+  id: JOB/37/23
+  number: '23'
+previous:
+  id: JOB/37/21
+  number: '21'
+reference: 'Job 37:22'

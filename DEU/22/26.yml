@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 22:26"
+  class="v">26</span>But unto the damsel thou shalt do nothing; <span
+  class="add">there is</span> in the damsel no sin <span
+  class="add">worthy</span> of death: for as when a man riseth against his
+  neighbour, and slayeth him, even so <span class="add">is</span> this matter:
+  </p>
+id: DEU/22/26
+next:
+  id: DEU/22/27
+  number: '27'
+previous:
+  id: DEU/22/25
+  number: '25'
+reference: 'Deuteronomy 22:26'

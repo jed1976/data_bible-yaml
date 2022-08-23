@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 39:23"
+  class="v">23</span>The keeper of the prison looked not to any thing <span
+  class="add">that was</span> under his hand; because the <span
+  class="nd">LORD</span> was with him, and <span class="add">that</span> which
+  he did, the <span class="nd">LORD</span> made <span class="add">it</span> to
+  prosper.</p>
+id: GEN/39/23
+next:
+  id: GEN/40/1
+  number: '1'
+previous:
+  id: GEN/39/22
+  number: '22'
+reference: 'Genesis 39:23'

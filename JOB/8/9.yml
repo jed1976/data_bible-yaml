@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 8:9" class="v">9</span>(For
+  we <span class="add">are but of</span> yesterday, and know nothing, because
+  our days upon earth <span class="add">are</span> a shadow:) </p>
+id: JOB/8/9
+next:
+  id: JOB/8/10
+  number: '10'
+previous:
+  id: JOB/8/8
+  number: '8'
+reference: 'Job 8:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 11:25"
+  class="v">25</span>The liberal soul shall be made fat: and he that watereth
+  shall be watered also himself. </p>
+id: PRO/11/25
+next:
+  id: PRO/11/26
+  number: '26'
+previous:
+  id: PRO/11/24
+  number: '24'
+reference: 'Proverbs 11:25'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 139:16"
+  class="v">16</span>Thine eyes did see my substance, yet being unperfect; and
+  in thy book all <span class="add">my members</span> were written, <span
+  class="add">which</span> in continuance were fashioned, when <span
+  class="add">as yet there was</span> none of them.</p>
+id: PSA/139/16
+next:
+  id: PSA/139/17
+  number: '17'
+previous:
+  id: PSA/139/15
+  number: '15'
+reference: 'Psalms 139:16'

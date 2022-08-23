@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 8:16"
+  class="v">16</span><span class="wj">¶ No man, when he hath lighted a candle,
+  covereth it with a vessel, or putteth <span class="add">it</span> under a bed;
+  but setteth <span class="add">it</span> on a candlestick, that they which
+  enter in may see the light.</span> </p>
+id: LUK/8/16
+next:
+  id: LUK/8/17
+  number: '17'
+previous:
+  id: LUK/8/15
+  number: '15'
+reference: 'Luke 8:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 106:26"
+  class="v">26</span>Therefore he lifted up his hand against them, to overthrow
+  them in the wilderness:</p>
+id: PSA/106/26
+next:
+  id: PSA/106/27
+  number: '27'
+previous:
+  id: PSA/106/25
+  number: '25'
+reference: 'Psalms 106:26'

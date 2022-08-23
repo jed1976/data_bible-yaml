@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 8:9" class="v">9</span>And
+  they which heard <span class="add">it</span>, being convicted by <span
+  class="add">their own</span> conscience, went out one by one, beginning at the
+  eldest, <span class="add">even</span> unto the last: and Jesus was left alone,
+  and the woman standing in the midst. </p>
+id: JHN/8/9
+next:
+  id: JHN/8/10
+  number: '10'
+previous:
+  id: JHN/8/8
+  number: '8'
+reference: 'John 8:9'

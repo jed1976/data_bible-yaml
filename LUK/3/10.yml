@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 3:10" class="v">10</span>And
+  the people asked him, saying, What shall we do then? </p>
+id: LUK/3/10
+next:
+  id: LUK/3/11
+  number: '11'
+previous:
+  id: LUK/3/9
+  number: '9'
+reference: 'Luke 3:10'

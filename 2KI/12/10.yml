@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 12:10"
+  class="v">10</span>And it was <span class="add">so</span>, when they saw that
+  <span class="add">there was</span> much money in the chest, that the king’s
+  scribe and the high priest came up, and they put up in bags, and told the
+  money that was found in the house of the <span class="nd">LORD</span>. </p>
+id: 2KI/12/10
+next:
+  id: 2KI/12/11
+  number: '11'
+previous:
+  id: 2KI/12/9
+  number: '9'
+reference: '2 Kings 12:10'

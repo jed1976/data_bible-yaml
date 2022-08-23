@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 5:12" class="v">12</span>The
+  sleep of a labouring man <span class="add">is</span> sweet, whether he eat
+  little or much: but the abundance of the rich will not suffer him to sleep.
+  </p>
+id: ECC/5/12
+next:
+  id: ECC/5/13
+  number: '13'
+previous:
+  id: ECC/5/11
+  number: '11'
+reference: 'Ecclesiastes 5:12'

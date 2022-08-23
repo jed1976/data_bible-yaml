@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 26:8" class="v">8</span>The
+  length of one curtain <span class="add">shall be</span> thirty cubits, and the
+  breadth of one curtain four cubits: and the eleven curtains <span
+  class="add">shall be all</span> of one measure. </p>
+id: EXO/26/8
+next:
+  id: EXO/26/9
+  number: '9'
+previous:
+  id: EXO/26/7
+  number: '7'
+reference: 'Exodus 26:8'

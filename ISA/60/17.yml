@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 60:17"
+  class="v">17</span>For brass I will bring gold, and for iron I will bring
+  silver, and for wood brass, and for stones iron: I will also make thy officers
+  peace, and thine exactors righteousness. </p>
+id: ISA/60/17
+next:
+  id: ISA/60/18
+  number: '18'
+previous:
+  id: ISA/60/16
+  number: '16'
+reference: 'Isaiah 60:17'

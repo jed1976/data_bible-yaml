@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 14:3" class="v">3</span>¶ And
+  being in Bethany in the house of Simon the leper, as he sat at meat, there
+  came a woman having an alabaster box of ointment of spikenard very precious;
+  and she brake the box, and poured <span class="add">it</span> on his head.
+  </p>
+id: MRK/14/3
+next:
+  id: MRK/14/4
+  number: '4'
+previous:
+  id: MRK/14/2
+  number: '2'
+reference: 'Mark 14:3'

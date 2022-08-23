@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 49:10"
+  class="v">10</span>They shall not hunger nor thirst; neither shall the heat
+  nor sun smite them: for he that hath mercy on them shall lead them, even by
+  the springs of water shall he guide them. </p>
+id: ISA/49/10
+next:
+  id: ISA/49/11
+  number: '11'
+previous:
+  id: ISA/49/9
+  number: '9'
+reference: 'Isaiah 49:10'

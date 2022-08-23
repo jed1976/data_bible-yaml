@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 10:24"
+  class="v">24</span><span class="wj">For I tell you, that many prophets and
+  kings have desired to see those things which ye see, and have not seen <span
+  class="add">them</span>; and to hear those things which ye hear, and have not
+  heard <span class="add">them.</span></span></p>
+id: LUK/10/24
+next:
+  id: LUK/10/25
+  number: '25'
+previous:
+  id: LUK/10/23
+  number: '23'
+reference: 'Luke 10:24'

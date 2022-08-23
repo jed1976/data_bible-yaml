@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 6:4" class="v">4</span>Hear,
+  O Israel: The <span class="nd">LORD</span> our God <span class="add">is</span>
+  one <span class="nd">LORD</span>: </p>
+id: DEU/6/4
+next:
+  id: DEU/6/5
+  number: '5'
+previous:
+  id: DEU/6/3
+  number: '3'
+reference: 'Deuteronomy 6:4'

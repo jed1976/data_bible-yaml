@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 12:27"
+  class="v">27</span><span class="wj">Consider the lilies how they grow: they
+  toil not, they spin not; and yet I say unto you, that Solomon in all his glory
+  was not arrayed like one of these.</span> </p>
+id: LUK/12/27
+next:
+  id: LUK/12/28
+  number: '28'
+previous:
+  id: LUK/12/26
+  number: '26'
+reference: 'Luke 12:27'

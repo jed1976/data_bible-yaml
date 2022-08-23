@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 98:7" class="v">7</span>Let
+  the sea roar, and the fulness thereof; the world, and they that dwell
+  therein.</p>
+id: PSA/98/7
+next:
+  id: PSA/98/8
+  number: '8'
+previous:
+  id: PSA/98/6
+  number: '6'
+reference: 'Psalms 98:7'

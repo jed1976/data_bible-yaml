@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 10:22"
+  class="v">22</span>Behold, the noise of the bruit is come, and a great
+  commotion out of the north country, to make the cities of Judah desolate,
+  <span class="add">and</span> a den of dragons.</p>
+id: JER/10/22
+next:
+  id: JER/10/23
+  number: '23'
+previous:
+  id: JER/10/21
+  number: '21'
+reference: 'Jeremiah 10:22'

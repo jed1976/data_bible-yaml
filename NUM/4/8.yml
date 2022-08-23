@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 4:8" class="v">8</span>And
+  they shall spread upon them a cloth of scarlet, and cover the same with a
+  covering of badgers’ skins, and shall put in the staves thereof. </p>
+id: NUM/4/8
+next:
+  id: NUM/4/9
+  number: '9'
+previous:
+  id: NUM/4/7
+  number: '7'
+reference: 'Numbers 4:8'

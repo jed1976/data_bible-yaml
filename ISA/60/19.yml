@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 60:19"
+  class="v">19</span>The sun shall be no more thy light by day; neither for
+  brightness shall the moon give light unto thee: but the <span
+  class="nd">LORD</span> shall be unto thee an everlasting light, and thy God
+  thy glory. </p>
+id: ISA/60/19
+next:
+  id: ISA/60/20
+  number: '20'
+previous:
+  id: ISA/60/18
+  number: '18'
+reference: 'Isaiah 60:19'

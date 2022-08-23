@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CO 15:23"
+  class="v">23</span>But every man in his own order: Christ the firstfruits;
+  afterward they that are Christ’s at his coming. </p>
+id: 1CO/15/23
+next:
+  id: 1CO/15/24
+  number: '24'
+previous:
+  id: 1CO/15/22
+  number: '22'
+reference: '1 Corinthians 15:23'

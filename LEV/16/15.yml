@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 16:15" class="v">15</span>¶
+  Then shall he kill the goat of the sin offering, that <span
+  class="add">is</span> for the people, and bring his blood within the vail, and
+  do with that blood as he did with the blood of the bullock, and sprinkle it
+  upon the mercy seat, and before the mercy seat: </p>
+id: LEV/16/15
+next:
+  id: LEV/16/16
+  number: '16'
+previous:
+  id: LEV/16/14
+  number: '14'
+reference: 'Leviticus 16:15'

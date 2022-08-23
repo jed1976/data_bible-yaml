@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 30:18" class="v">18</span>By
+  the great force <span class="add">of my disease</span> is my garment changed:
+  it bindeth me about as the collar of my coat. </p>
+id: JOB/30/18
+next:
+  id: JOB/30/19
+  number: '19'
+previous:
+  id: JOB/30/17
+  number: '17'
+reference: 'Job 30:18'

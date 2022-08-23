@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="37" data-sid="PSA 105:37"
+  class="v">37</span>He brought them forth also with silver and gold: and <span
+  class="add">there was</span> not one feeble <span class="add">person</span>
+  among their tribes.</p>
+id: PSA/105/37
+next:
+  id: PSA/105/38
+  number: '38'
+previous:
+  id: PSA/105/36
+  number: '36'
+reference: 'Psalms 105:37'

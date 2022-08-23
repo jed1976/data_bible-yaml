@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1SA 19:24"
+  class="v">24</span>And he stripped off his clothes also, and prophesied before
+  Samuel in like manner, and lay down naked all that day and all that night.
+  Wherefore they say, <span class="add">Is</span> Saul also among the
+  prophets?</p>
+id: 1SA/19/24
+next:
+  id: 1SA/20/1
+  number: '1'
+previous:
+  id: 1SA/19/23
+  number: '23'
+reference: '1 Samuel 19:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 78:7" class="v">7</span>That
+  they might set their hope in God, and not forget the works of God, but keep
+  his commandments:</p>
+id: PSA/78/7
+next:
+  id: PSA/78/8
+  number: '8'
+previous:
+  id: PSA/78/6
+  number: '6'
+reference: 'Psalms 78:7'

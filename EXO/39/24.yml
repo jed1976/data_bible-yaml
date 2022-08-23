@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 39:24"
+  class="v">24</span>And they made upon the hems of the robe pomegranates <span
+  class="add">of</span> blue, and purple, and scarlet, <span
+  class="add">and</span> twined <span class="add">linen</span>. </p>
+id: EXO/39/24
+next:
+  id: EXO/39/25
+  number: '25'
+previous:
+  id: EXO/39/23
+  number: '23'
+reference: 'Exodus 39:24'

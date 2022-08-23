@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAL 3:16" class="v">16</span>¶
+  Then they that feared the <span class="nd">LORD</span> spake often one to
+  another: and the <span class="nd">LORD</span> hearkened, and heard <span
+  class="add">it</span>, and a book of remembrance was written before him for
+  them that feared the <span class="nd">LORD</span>, and that thought upon his
+  name. </p>
+id: MAL/3/16
+next:
+  id: MAL/3/17
+  number: '17'
+previous:
+  id: MAL/3/15
+  number: '15'
+reference: 'Malachi 3:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="AMO 7:16" class="v">16</span>¶
+  Now therefore hear thou the word of the <span class="nd">LORD</span>: Thou
+  sayest, Prophesy not against Israel, and drop not <span class="add">thy
+  word</span> against the house of Isaac. </p>
+id: AMO/7/16
+next:
+  id: AMO/7/17
+  number: '17'
+previous:
+  id: AMO/7/15
+  number: '15'
+reference: 'Amos 7:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 150:4"
+  class="v">4</span>Praise him with the timbrel and dance: praise him with
+  stringed instruments and organs.</p>
+id: PSA/150/4
+next:
+  id: PSA/150/5
+  number: '5'
+previous:
+  id: PSA/150/3
+  number: '3'
+reference: 'Psalms 150:4'

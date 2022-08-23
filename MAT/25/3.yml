@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 25:3" class="v">3</span><span
+  class="wj">They that <span class="add">were</span> foolish took their lamps,
+  and took no oil with them:</span> </p>
+id: MAT/25/3
+next:
+  id: MAT/25/4
+  number: '4'
+previous:
+  id: MAT/25/2
+  number: '2'
+reference: 'Matthew 25:3'

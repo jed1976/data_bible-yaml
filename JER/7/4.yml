@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 7:4" class="v">4</span>Trust
+  ye not in lying words, saying, The temple of the <span class="nd">LORD</span>,
+  The temple of the <span class="nd">LORD</span>, The temple of the <span
+  class="nd">LORD</span>, <span class="add">are</span> these. </p>
+id: JER/7/4
+next:
+  id: JER/7/5
+  number: '5'
+previous:
+  id: JER/7/3
+  number: '3'
+reference: 'Jeremiah 7:4'

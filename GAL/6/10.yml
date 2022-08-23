@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GAL 6:10" class="v">10</span>As
+  we have therefore opportunity, let us do good unto all <span
+  class="add">men</span>, especially unto them who are of the household of
+  faith. </p>
+id: GAL/6/10
+next:
+  id: GAL/6/11
+  number: '11'
+previous:
+  id: GAL/6/9
+  number: '9'
+reference: 'Galatians 6:10'

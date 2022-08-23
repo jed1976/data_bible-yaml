@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 21:7" class="v">7</span>And
+  brought the ass, and the colt, and put on them their clothes, and they set
+  <span class="add">him</span> thereon. </p>
+id: MAT/21/7
+next:
+  id: MAT/21/8
+  number: '8'
+previous:
+  id: MAT/21/6
+  number: '6'
+reference: 'Matthew 21:7'

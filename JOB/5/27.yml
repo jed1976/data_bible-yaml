@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 5:27" class="v">27</span>Lo
+  this, we have searched it, so it <span class="add">is;</span> hear it, and
+  know thou <span class="add">it</span> for thy good.</p>
+id: JOB/5/27
+next:
+  id: JOB/6/1
+  number: '1'
+previous:
+  id: JOB/5/26
+  number: '26'
+reference: 'Job 5:27'

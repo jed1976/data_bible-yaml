@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 27:15"
+  class="v">15</span>Now at <span class="add">that</span> feast the governor was
+  wont to release unto the people a prisoner, whom they would. </p>
+id: MAT/27/15
+next:
+  id: MAT/27/16
+  number: '16'
+previous:
+  id: MAT/27/14
+  number: '14'
+reference: 'Matthew 27:15'

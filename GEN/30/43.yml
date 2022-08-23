@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 30:43"
+  class="v">43</span>And the man increased exceedingly, and had much cattle, and
+  maidservants, and menservants, and camels, and asses.</p>
+id: GEN/30/43
+next:
+  id: GEN/31/1
+  number: '1'
+previous:
+  id: GEN/30/42
+  number: '42'
+reference: 'Genesis 30:43'

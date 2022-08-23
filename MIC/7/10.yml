@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MIC 7:10"
+  class="v">10</span>Then <span class="add">she that is</span> mine enemy shall
+  see <span class="add">it</span>, and shame shall cover her which said unto me,
+  Where is the <span class="nd">LORD</span> thy God? mine eyes shall behold her:
+  now shall she be trodden down as the mire of the streets. </p>
+id: MIC/7/10
+next:
+  id: MIC/7/11
+  number: '11'
+previous:
+  id: MIC/7/9
+  number: '9'
+reference: 'Micah 7:10'

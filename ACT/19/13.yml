@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 19:13" class="v">13</span>¶
+  Then certain of the vagabond Jews, exorcists, took upon them to call over them
+  which had evil spirits the name of the Lord Jesus, saying, We adjure you by
+  Jesus whom Paul preacheth. </p>
+id: ACT/19/13
+next:
+  id: ACT/19/14
+  number: '14'
+previous:
+  id: ACT/19/12
+  number: '12'
+reference: 'Acts 19:13'

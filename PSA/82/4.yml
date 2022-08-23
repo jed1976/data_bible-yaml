@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 82:4"
+  class="v">4</span>Deliver the poor and needy: rid <span
+  class="add">them</span> out of the hand of the wicked.</p>
+id: PSA/82/4
+next:
+  id: PSA/82/5
+  number: '5'
+previous:
+  id: PSA/82/3
+  number: '3'
+reference: 'Psalms 82:4'

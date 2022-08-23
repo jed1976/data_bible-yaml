@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="75" data-sid="MAT 26:75"
+  class="v">75</span>And Peter remembered the word of Jesus, which said unto
+  him, Before the cock crow, thou shalt deny me thrice. And he went out, and
+  wept bitterly.</p>
+id: MAT/26/75
+next:
+  id: MAT/27/1
+  number: '1'
+previous:
+  id: MAT/26/74
+  number: '74'
+reference: 'Matthew 26:75'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 39:24" class="v">24</span>He
+  swalloweth the ground with fierceness and rage: neither believeth he that
+  <span class="add">it is</span> the sound of the trumpet. </p>
+id: JOB/39/24
+next:
+  id: JOB/39/25
+  number: '25'
+previous:
+  id: JOB/39/23
+  number: '23'
+reference: 'Job 39:24'

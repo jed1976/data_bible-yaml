@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 3:4" class="v">4</span>And I
+  will give children <span class="add">to be</span> their princes, and babes
+  shall rule over them. </p>
+id: ISA/3/4
+next:
+  id: ISA/3/5
+  number: '5'
+previous:
+  id: ISA/3/3
+  number: '3'
+reference: 'Isaiah 3:4'

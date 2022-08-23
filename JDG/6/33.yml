@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JDG 6:33" class="v">33</span>¶
+  Then all the Midianites and the Amalekites and the children of the east were
+  gathered together, and went over, and pitched in the valley of Jezreel. </p>
+id: JDG/6/33
+next:
+  id: JDG/6/34
+  number: '34'
+previous:
+  id: JDG/6/32
+  number: '32'
+reference: 'Judges 6:33'

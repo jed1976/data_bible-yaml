@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 9:3" class="v">3</span>And as
+  he journeyed, he came near Damascus: and suddenly there shined round about him
+  a light from heaven: </p>
+id: ACT/9/3
+next:
+  id: ACT/9/4
+  number: '4'
+previous:
+  id: ACT/9/2
+  number: '2'
+reference: 'Acts 9:3'

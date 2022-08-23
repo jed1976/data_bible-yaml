@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 20:16"
+  class="v">16</span>Take his garment that is surety <span
+  class="add">for</span> a stranger: and take a pledge of him for a strange
+  woman. </p>
+id: PRO/20/16
+next:
+  id: PRO/20/17
+  number: '17'
+previous:
+  id: PRO/20/15
+  number: '15'
+reference: 'Proverbs 20:16'

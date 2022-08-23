@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CO 7:4" class="v">4</span>Great
+  <span class="add">is</span> my boldness of speech toward you, great <span
+  class="add">is</span> my glorying of you: I am filled with comfort, I am
+  exceeding joyful in all our tribulation. </p>
+id: 2CO/7/4
+next:
+  id: 2CO/7/5
+  number: '5'
+previous:
+  id: 2CO/7/3
+  number: '3'
+reference: '2 Corinthians 7:4'

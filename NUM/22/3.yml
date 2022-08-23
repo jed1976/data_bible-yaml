@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 22:3" class="v">3</span>And
+  Moab was sore afraid of the people, because they <span class="add">were</span>
+  many: and Moab was distressed because of the children of Israel. </p>
+id: NUM/22/3
+next:
+  id: NUM/22/4
+  number: '4'
+previous:
+  id: NUM/22/2
+  number: '2'
+reference: 'Numbers 22:3'

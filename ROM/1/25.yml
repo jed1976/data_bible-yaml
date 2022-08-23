@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 1:25" class="v">25</span>Who
+  changed the truth of God into a lie, and worshipped and served the creature
+  more than the Creator, who is blessed for ever. Amen. </p>
+id: ROM/1/25
+next:
+  id: ROM/1/26
+  number: '26'
+previous:
+  id: ROM/1/24
+  number: '24'
+reference: 'Romans 1:25'

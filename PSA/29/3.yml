@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 29:3" class="v">3</span>The
+  voice of the <span class="nd">LORD</span> <span class="add">is</span> upon the
+  waters: the God of glory thundereth: the <span class="nd">LORD</span> <span
+  class="add">is</span> upon many waters.</p>
+id: PSA/29/3
+next:
+  id: PSA/29/4
+  number: '4'
+previous:
+  id: PSA/29/2
+  number: '2'
+reference: 'Psalms 29:3'

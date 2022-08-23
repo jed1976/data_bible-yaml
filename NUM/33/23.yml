@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 33:23"
+  class="v">23</span>And they went from Kehelathah, and pitched in mount
+  Shapher. </p>
+id: NUM/33/23
+next:
+  id: NUM/33/24
+  number: '24'
+previous:
+  id: NUM/33/22
+  number: '22'
+reference: 'Numbers 33:23'

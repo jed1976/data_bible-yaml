@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOL 2:3" class="v">3</span>A fire
+  devoureth before them; and behind them a flame burneth: the land <span
+  class="add">is</span> as the garden of Eden before them, and behind them a
+  desolate wilderness; yea, and nothing shall escape them. </p>
+id: JOL/2/3
+next:
+  id: JOL/2/4
+  number: '4'
+previous:
+  id: JOL/2/2
+  number: '2'
+reference: 'Joel 2:3'

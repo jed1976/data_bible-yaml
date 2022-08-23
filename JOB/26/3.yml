@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 26:3" class="v">3</span>How
+  hast thou counselled <span class="add">him that hath</span> no wisdom? and
+  <span class="add">how</span> hast thou plentifully declared the thing as it
+  is? </p>
+id: JOB/26/3
+next:
+  id: JOB/26/4
+  number: '4'
+previous:
+  id: JOB/26/2
+  number: '2'
+reference: 'Job 26:3'

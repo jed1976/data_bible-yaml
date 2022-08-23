@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="JHN 6:65" class="v">65</span>And
+  he said, <span class="wj">Therefore said I unto you, that no man can come unto
+  me, except it were given unto him of my Father.</span></p>
+id: JHN/6/65
+next:
+  id: JHN/6/66
+  number: '66'
+previous:
+  id: JHN/6/64
+  number: '64'
+reference: 'John 6:65'

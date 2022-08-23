@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 5:8" class="v">8</span>Blow
+  ye the cornet in Gibeah, <span class="add">and</span> the trumpet in Ramah:
+  cry aloud <span class="add">at</span> Beth-aven, after thee, O Benjamin. </p>
+id: HOS/5/8
+next:
+  id: HOS/5/9
+  number: '9'
+previous:
+  id: HOS/5/7
+  number: '7'
+reference: 'Hosea 5:8'

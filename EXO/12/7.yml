@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 12:7" class="v">7</span>And
+  they shall take of the blood, and strike <span class="add">it</span> on the
+  two side posts and on the upper door post of the houses, wherein they shall
+  eat it. </p>
+id: EXO/12/7
+next:
+  id: EXO/12/8
+  number: '8'
+previous:
+  id: EXO/12/6
+  number: '6'
+reference: 'Exodus 12:7'

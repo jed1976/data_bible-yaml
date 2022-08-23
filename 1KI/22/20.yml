@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 22:20"
+  class="v">20</span>And the <span class="nd">LORD</span> said, Who shall
+  persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on
+  this manner, and another said on that manner. </p>
+id: 1KI/22/20
+next:
+  id: 1KI/22/21
+  number: '21'
+previous:
+  id: 1KI/22/19
+  number: '19'
+reference: '1 Kings 22:20'

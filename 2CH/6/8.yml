@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 6:8" class="v">8</span>But
+  the <span class="nd">LORD</span> said to David my father, Forasmuch as it was
+  in thine heart to build an house for my name, thou didst well in that it was
+  in thine heart: </p>
+id: 2CH/6/8
+next:
+  id: 2CH/6/9
+  number: '9'
+previous:
+  id: 2CH/6/7
+  number: '7'
+reference: '2 Chronicles 6:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EZK 12:8" class="v">8</span>¶ And
+  in the morning came the word of the <span class="nd">LORD</span> unto me,
+  saying, </p>
+id: EZK/12/8
+next:
+  id: EZK/12/9
+  number: '9'
+previous:
+  id: EZK/12/7
+  number: '7'
+reference: 'Ezekiel 12:8'

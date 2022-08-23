@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 24:25"
+  class="v">25</span>And Balaam rose up, and went and returned to his place: and
+  Balak also went his way.</p>
+id: NUM/24/25
+next:
+  id: NUM/25/1
+  number: '1'
+previous:
+  id: NUM/24/24
+  number: '24'
+reference: 'Numbers 24:25'

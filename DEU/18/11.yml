@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 18:11" class="v">11</span>Or
+  a charmer, or a consulter with familiar spirits, or a wizard, or a
+  necromancer. </p>
+id: DEU/18/11
+next:
+  id: DEU/18/12
+  number: '12'
+previous:
+  id: DEU/18/10
+  number: '10'
+reference: 'Deuteronomy 18:11'

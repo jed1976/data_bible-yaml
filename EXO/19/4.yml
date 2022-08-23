@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 19:4" class="v">4</span>Ye
+  have seen what I did unto the Egyptians, and <span class="add">how</span> I
+  bare you on eagles’ wings, and brought you unto myself. </p>
+id: EXO/19/4
+next:
+  id: EXO/19/5
+  number: '5'
+previous:
+  id: EXO/19/3
+  number: '3'
+reference: 'Exodus 19:4'

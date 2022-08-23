@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 8:12" class="v">12</span>Say
+  ye not, A confederacy, to all <span class="add">them to</span> whom this
+  people shall say, A confederacy; neither fear ye their fear, nor be afraid.
+  </p>
+id: ISA/8/12
+next:
+  id: ISA/8/13
+  number: '13'
+previous:
+  id: ISA/8/11
+  number: '11'
+reference: 'Isaiah 8:12'

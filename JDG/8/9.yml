@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 8:9" class="v">9</span>And he
+  spake also unto the men of Penuel, saying, When I come again in peace, I will
+  break down this tower.</p>
+id: JDG/8/9
+next:
+  id: JDG/8/10
+  number: '10'
+previous:
+  id: JDG/8/8
+  number: '8'
+reference: 'Judges 8:9'

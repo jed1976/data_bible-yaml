@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 10:29" class="v">29</span>¶
+  And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in
+  law, We are journeying unto the place of which the <span
+  class="nd">LORD</span> said, I will give it you: come thou with us, and we
+  will do thee good: for the <span class="nd">LORD</span> hath spoken good
+  concerning Israel. </p>
+id: NUM/10/29
+next:
+  id: NUM/10/30
+  number: '30'
+previous:
+  id: NUM/10/28
+  number: '28'
+reference: 'Numbers 10:29'

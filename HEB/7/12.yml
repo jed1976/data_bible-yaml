@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 7:12" class="v">12</span>For
+  the priesthood being changed, there is made of necessity a change also of the
+  law. </p>
+id: HEB/7/12
+next:
+  id: HEB/7/13
+  number: '13'
+previous:
+  id: HEB/7/11
+  number: '11'
+reference: 'Hebrews 7:12'

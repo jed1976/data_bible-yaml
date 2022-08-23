@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 8:30" class="v">30</span>And
+  Moses took of the anointing oil, and of the blood which <span
+  class="add">was</span> upon the altar, and sprinkled <span
+  class="add">it</span> upon Aaron, <span class="add">and</span> upon his
+  garments, and upon his sons, and upon his sons’ garments with him; and
+  sanctified Aaron, <span class="add">and</span> his garments, and his sons, and
+  his sons’ garments with him.</p>
+id: LEV/8/30
+next:
+  id: LEV/8/31
+  number: '31'
+previous:
+  id: LEV/8/29
+  number: '29'
+reference: 'Leviticus 8:30'

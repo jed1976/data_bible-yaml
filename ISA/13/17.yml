@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 13:17"
+  class="v">17</span>Behold, I will stir up the Medes against them, which shall
+  not regard silver; and <span class="add">as for</span> gold, they shall not
+  delight in it. </p>
+id: ISA/13/17
+next:
+  id: ISA/13/18
+  number: '18'
+previous:
+  id: ISA/13/16
+  number: '16'
+reference: 'Isaiah 13:17'

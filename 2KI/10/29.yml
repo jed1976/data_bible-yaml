@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="2KI 10:29" class="v">29</span>¶
+  Howbeit <span class="add">from</span> the sins of Jeroboam the son of Nebat,
+  who made Israel to sin, Jehu departed not from after them, <span
+  class="add">to wit</span>, the golden calves that <span
+  class="add">were</span> in Beth-el, and that <span class="add">were</span> in
+  Dan. </p>
+id: 2KI/10/29
+next:
+  id: 2KI/10/30
+  number: '30'
+previous:
+  id: 2KI/10/28
+  number: '28'
+reference: '2 Kings 10:29'

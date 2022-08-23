@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 8:20" class="v">20</span>For
+  the creature was made subject to vanity, not willingly, but by reason of him
+  who hath subjected <span class="add">the same</span> in hope, </p>
+id: ROM/8/20
+next:
+  id: ROM/8/21
+  number: '21'
+previous:
+  id: ROM/8/19
+  number: '19'
+reference: 'Romans 8:20'

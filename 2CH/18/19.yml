@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2CH 18:19"
+  class="v">19</span>And the <span class="nd">LORD</span> said, Who shall entice
+  Ahab king of Israel, that he may go up and fall at Ramoth-gilead? And one
+  spake saying after this manner, and another saying after that manner. </p>
+id: 2CH/18/19
+next:
+  id: 2CH/18/20
+  number: '20'
+previous:
+  id: 2CH/18/18
+  number: '18'
+reference: '2 Chronicles 18:19'

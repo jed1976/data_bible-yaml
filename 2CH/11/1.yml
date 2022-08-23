@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 11:1" class="v">1</span>And
+  when Rehoboam was come to Jerusalem, he gathered of the house of Judah and
+  Benjamin an hundred and fourscore thousand chosen <span
+  class="add">men</span>, which were warriors, to fight against Israel, that he
+  might bring the kingdom again to Rehoboam. </p>
+id: 2CH/11/1
+next:
+  id: 2CH/11/2
+  number: '2'
+previous:
+  id: 2CH/10/19
+  number: '19'
+reference: '2 Chronicles 11:1'

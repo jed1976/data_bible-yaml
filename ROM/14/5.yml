@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 14:5" class="v">5</span>One
+  man esteemeth one day above another: another esteemeth every day <span
+  class="add">alike</span>. Let every man be fully persuaded in his own mind.
+  </p>
+id: ROM/14/5
+next:
+  id: ROM/14/6
+  number: '6'
+previous:
+  id: ROM/14/4
+  number: '4'
+reference: 'Romans 14:5'

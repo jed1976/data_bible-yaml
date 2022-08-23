@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 19:15"
+  class="v">15</span><span class="wj">And it came to pass, that when he was
+  returned, having received the kingdom, then he commanded these servants to be
+  called unto him, to whom he had given the money, that he might know how much
+  every man had gained by trading.</span> </p>
+id: LUK/19/15
+next:
+  id: LUK/19/16
+  number: '16'
+previous:
+  id: LUK/19/14
+  number: '14'
+reference: 'Luke 19:15'

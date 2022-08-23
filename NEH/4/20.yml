@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 4:20" class="v">20</span>In
+  what place <span class="add">therefore</span> ye hear the sound of the
+  trumpet, resort ye thither unto us: our God shall fight for us. </p>
+id: NEH/4/20
+next:
+  id: NEH/4/21
+  number: '21'
+previous:
+  id: NEH/4/19
+  number: '19'
+reference: 'Nehemiah 4:20'

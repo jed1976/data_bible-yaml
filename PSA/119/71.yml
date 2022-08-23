@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="71" data-sid="PSA 119:71"
+  class="v">71</span><span class="add">It is</span> good for me that I have been
+  afflicted; that I might learn thy statutes.</p>
+id: PSA/119/71
+next:
+  id: PSA/119/72
+  number: '72'
+previous:
+  id: PSA/119/70
+  number: '70'
+reference: 'Psalms 119:71'

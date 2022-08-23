@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 3:11" class="v">11</span>But
+  Jehoshaphat said, <span class="add">Is there</span> not here a prophet of the
+  <span class="nd">LORD</span>, that we may enquire of the <span
+  class="nd">LORD</span> by him? And one of the king of Israel’s servants
+  answered and said, Here <span class="add">is</span> Elisha the son of Shaphat,
+  which poured water on the hands of Elijah. </p>
+id: 2KI/3/11
+next:
+  id: 2KI/3/12
+  number: '12'
+previous:
+  id: 2KI/3/10
+  number: '10'
+reference: '2 Kings 3:11'

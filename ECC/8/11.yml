@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 8:11"
+  class="v">11</span>Because sentence against an evil work is not executed
+  speedily, therefore the heart of the sons of men is fully set in them to do
+  evil.</p>
+id: ECC/8/11
+next:
+  id: ECC/8/12
+  number: '12'
+previous:
+  id: ECC/8/10
+  number: '10'
+reference: 'Ecclesiastes 8:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 2:6" class="v">6</span><span
+  class="wj">But this thou hast, that thou hatest the deeds of the Nicolaitans,
+  which I also hate.</span> </p>
+id: REV/2/6
+next:
+  id: REV/2/7
+  number: '7'
+previous:
+  id: REV/2/5
+  number: '5'
+reference: 'Revelation 2:6'

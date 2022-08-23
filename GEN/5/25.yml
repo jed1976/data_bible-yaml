@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 5:25" class="v">25</span>And
+  Methuselah lived an hundred eighty and seven years, and begat Lamech: </p>
+id: GEN/5/25
+next:
+  id: GEN/5/26
+  number: '26'
+previous:
+  id: GEN/5/24
+  number: '24'
+reference: 'Genesis 5:25'

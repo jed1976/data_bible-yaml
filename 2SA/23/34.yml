@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="2SA 23:34"
+  class="v">34</span>Eliphelet the son of Ahasbai, the son of the Maachathite,
+  Eliam the son of Ahithophel the Gilonite, </p>
+id: 2SA/23/34
+next:
+  id: 2SA/23/35
+  number: '35'
+previous:
+  id: 2SA/23/33
+  number: '33'
+reference: '2 Samuel 23:34'

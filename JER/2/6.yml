@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 2:6"
+  class="v">6</span>Neither said they, Where <span class="add">is</span> the
+  <span class="nd">LORD</span> that brought us up out of the land of Egypt, that
+  led us through the wilderness, through a land of deserts and of pits, through
+  a land of drought, and of the shadow of death, through a land that no man
+  passed through, and where no man dwelt? </p>
+id: JER/2/6
+next:
+  id: JER/2/7
+  number: '7'
+previous:
+  id: JER/2/5
+  number: '5'
+reference: 'Jeremiah 2:6'

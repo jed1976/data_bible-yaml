@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 102:7" class="v">7</span>I
+  watch, and am as a sparrow alone upon the house top.</p>
+id: PSA/102/7
+next:
+  id: PSA/102/8
+  number: '8'
+previous:
+  id: PSA/102/6
+  number: '6'
+reference: 'Psalms 102:7'

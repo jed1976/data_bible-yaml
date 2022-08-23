@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 19:22"
+  class="v">22</span>And the <span class="nd">LORD</span> shall smite Egypt: he
+  shall smite and heal <span class="add">it:</span> and they shall return <span
+  class="add">even</span> to the <span class="nd">LORD</span>, and he shall be
+  intreated of them, and shall heal them.</p>
+id: ISA/19/22
+next:
+  id: ISA/19/23
+  number: '23'
+previous:
+  id: ISA/19/21
+  number: '21'
+reference: 'Isaiah 19:22'

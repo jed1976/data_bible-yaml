@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 25:1" class="v">1</span>Then
+  again Abraham took a wife, and her name <span class="add">was</span> Keturah.
+  </p>
+id: GEN/25/1
+next:
+  id: GEN/25/2
+  number: '2'
+previous:
+  id: GEN/24/67
+  number: '67'
+reference: 'Genesis 25:1'

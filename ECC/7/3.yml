@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 7:3" class="v">3</span>Sorrow
+  <span class="add">is</span> better than laughter: for by the sadness of the
+  countenance the heart is made better. </p>
+id: ECC/7/3
+next:
+  id: ECC/7/4
+  number: '4'
+previous:
+  id: ECC/7/2
+  number: '2'
+reference: 'Ecclesiastes 7:3'

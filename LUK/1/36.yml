@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 1:36"
+  class="v">36</span>And, behold, thy cousin Elisabeth, she hath also conceived
+  a son in her old age: and this is the sixth month with her, who was called
+  barren. </p>
+id: LUK/1/36
+next:
+  id: LUK/1/37
+  number: '37'
+previous:
+  id: LUK/1/35
+  number: '35'
+reference: 'Luke 1:36'

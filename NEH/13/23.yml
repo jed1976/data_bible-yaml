@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 13:23" class="v">23</span>¶
+  In those days also saw I Jews <span class="add">that</span> had married wives
+  of Ashdod, of Ammon, <span class="add">and</span> of Moab: </p>
+id: NEH/13/23
+next:
+  id: NEH/13/24
+  number: '24'
+previous:
+  id: NEH/13/22
+  number: '22'
+reference: 'Nehemiah 13:23'

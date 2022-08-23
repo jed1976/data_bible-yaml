@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 11:24"
+  class="v">24</span><span class="wj">When the unclean spirit is gone out of a
+  man, he walketh through dry places, seeking rest; and finding none, he saith,
+  I will return unto my house whence I came out.</span> </p>
+id: LUK/11/24
+next:
+  id: LUK/11/25
+  number: '25'
+previous:
+  id: LUK/11/23
+  number: '23'
+reference: 'Luke 11:24'

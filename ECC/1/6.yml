@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 1:6" class="v">6</span>The
+  wind goeth toward the south, and turneth about unto the north; it whirleth
+  about continually, and the wind returneth again according to his circuits.
+  </p>
+id: ECC/1/6
+next:
+  id: ECC/1/7
+  number: '7'
+previous:
+  id: ECC/1/5
+  number: '5'
+reference: 'Ecclesiastes 1:6'

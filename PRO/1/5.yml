@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 1:5" class="v">5</span>A wise
+  <span class="add">man</span> will hear, and will increase learning; and a man
+  of understanding shall attain unto wise counsels: </p>
+id: PRO/1/5
+next:
+  id: PRO/1/6
+  number: '6'
+previous:
+  id: PRO/1/4
+  number: '4'
+reference: 'Proverbs 1:5'

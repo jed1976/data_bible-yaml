@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 2:12" class="v">12</span>¶
+  As for the oblation of the firstfruits, ye shall offer them unto the <span
+  class="nd">LORD</span>: but they shall not be burnt on the altar for a sweet
+  savour. </p>
+id: LEV/2/12
+next:
+  id: LEV/2/13
+  number: '13'
+previous:
+  id: LEV/2/11
+  number: '11'
+reference: 'Leviticus 2:12'

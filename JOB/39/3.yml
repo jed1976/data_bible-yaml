@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 39:3" class="v">3</span>They
+  bow themselves, they bring forth their young ones, they cast out their
+  sorrows. </p>
+id: JOB/39/3
+next:
+  id: JOB/39/4
+  number: '4'
+previous:
+  id: JOB/39/2
+  number: '2'
+reference: 'Job 39:3'

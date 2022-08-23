@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 12:1" class="v">1</span>Now
+  concerning spiritual <span class="add">gifts</span>, brethren, I would not
+  have you ignorant. </p>
+id: 1CO/12/1
+next:
+  id: 1CO/12/2
+  number: '2'
+previous:
+  id: 1CO/11/34
+  number: '34'
+reference: '1 Corinthians 12:1'

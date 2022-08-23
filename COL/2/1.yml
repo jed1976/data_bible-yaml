@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="COL 2:1" class="v">1</span>For I
+  would that ye knew what great conflict I have for you, and <span
+  class="add">for</span> them at Laodicea, and <span class="add">for</span> as
+  many as have not seen my face in the flesh; </p>
+id: COL/2/1
+next:
+  id: COL/2/2
+  number: '2'
+previous:
+  id: COL/1/29
+  number: '29'
+reference: 'Colossians 2:1'

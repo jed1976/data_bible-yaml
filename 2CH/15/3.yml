@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 15:3" class="v">3</span>Now
+  for a long season Israel <span class="add">hath been</span> without the true
+  God, and without a teaching priest, and without law. </p>
+id: 2CH/15/3
+next:
+  id: 2CH/15/4
+  number: '4'
+previous:
+  id: 2CH/15/2
+  number: '2'
+reference: '2 Chronicles 15:3'

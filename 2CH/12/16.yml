@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 12:16"
+  class="v">16</span>And Rehoboam slept with his fathers, and was buried in the
+  city of David: and Abijah his son reigned in his stead.</p>
+id: 2CH/12/16
+next:
+  id: 2CH/13/1
+  number: '1'
+previous:
+  id: 2CH/12/15
+  number: '15'
+reference: '2 Chronicles 12:16'

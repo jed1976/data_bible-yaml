@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 3:3" class="v">3</span>The
+  fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife. </p>
+id: 1CH/3/3
+next:
+  id: 1CH/3/4
+  number: '4'
+previous:
+  id: 1CH/3/2
+  number: '2'
+reference: '1 Chronicles 3:3'

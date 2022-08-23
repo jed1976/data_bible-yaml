@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 104:25"
+  class="v">25</span><span class="add">So is</span> this great and wide sea,
+  wherein <span class="add">are</span> things creeping innumerable, both small
+  and great beasts.</p>
+id: PSA/104/25
+next:
+  id: PSA/104/26
+  number: '26'
+previous:
+  id: PSA/104/24
+  number: '24'
+reference: 'Psalms 104:25'

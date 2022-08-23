@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 12:20" class="v">20</span>A
+  bruised reed shall he not break, and smoking flax shall he not quench, till he
+  send forth judgment unto victory. </p>
+id: MAT/12/20
+next:
+  id: MAT/12/21
+  number: '21'
+previous:
+  id: MAT/12/19
+  number: '19'
+reference: 'Matthew 12:20'

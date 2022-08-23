@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 27:18" class="v">18</span>¶
+  The length of the court <span class="add">shall be</span> an hundred cubits,
+  and the breadth fifty every where, and the height five cubits <span
+  class="add">of</span> fine twined linen, and their sockets <span
+  class="add">of</span> brass. </p>
+id: EXO/27/18
+next:
+  id: EXO/27/19
+  number: '19'
+previous:
+  id: EXO/27/17
+  number: '17'
+reference: 'Exodus 27:18'

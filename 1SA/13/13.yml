@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 13:13"
+  class="v">13</span>And Samuel said to Saul, Thou hast done foolishly: thou
+  hast not kept the commandment of the <span class="nd">LORD</span> thy God,
+  which he commanded thee: for now would the <span class="nd">LORD</span> have
+  established thy kingdom upon Israel for ever. </p>
+id: 1SA/13/13
+next:
+  id: 1SA/13/14
+  number: '14'
+previous:
+  id: 1SA/13/12
+  number: '12'
+reference: '1 Samuel 13:13'

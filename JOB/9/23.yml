@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 9:23" class="v">23</span>If
+  the scourge slay suddenly, he will laugh at the trial of the innocent. </p>
+id: JOB/9/23
+next:
+  id: JOB/9/24
+  number: '24'
+previous:
+  id: JOB/9/22
+  number: '22'
+reference: 'Job 9:23'

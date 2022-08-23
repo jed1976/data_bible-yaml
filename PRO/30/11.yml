@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 30:11"
+  class="v">11</span><span class="add">There is</span> a generation <span
+  class="add">that</span> curseth their father, and doth not bless their mother.
+  </p>
+id: PRO/30/11
+next:
+  id: PRO/30/12
+  number: '12'
+previous:
+  id: PRO/30/10
+  number: '10'
+reference: 'Proverbs 30:11'

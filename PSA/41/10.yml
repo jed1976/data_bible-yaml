@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 41:10"
+  class="v">10</span>But thou, O <span class="nd">LORD</span>, be merciful unto
+  me, and raise me up, that I may requite them.</p>
+id: PSA/41/10
+next:
+  id: PSA/41/11
+  number: '11'
+previous:
+  id: PSA/41/9
+  number: '9'
+reference: 'Psalms 41:10'

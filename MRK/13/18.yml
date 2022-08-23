@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 13:18"
+  class="v">18</span><span class="wj">And pray ye that your flight be not in the
+  winter.</span> </p>
+id: MRK/13/18
+next:
+  id: MRK/13/19
+  number: '19'
+previous:
+  id: MRK/13/17
+  number: '17'
+reference: 'Mark 13:18'

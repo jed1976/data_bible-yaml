@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 12:12"
+  class="v">12</span>And in the days of Joiakim were priests, the chief of the
+  fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah; </p>
+id: NEH/12/12
+next:
+  id: NEH/12/13
+  number: '13'
+previous:
+  id: NEH/12/11
+  number: '11'
+reference: 'Nehemiah 12:12'

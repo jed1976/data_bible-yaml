@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 13:19"
+  class="v">19</span>And what the land <span class="add">is</span> that they
+  dwell in, whether it <span class="add">be</span> good or bad; and what cities
+  <span class="add">they be</span> that they dwell in, whether in tents, or in
+  strong holds; </p>
+id: NUM/13/19
+next:
+  id: NUM/13/20
+  number: '20'
+previous:
+  id: NUM/13/18
+  number: '18'
+reference: 'Numbers 13:19'

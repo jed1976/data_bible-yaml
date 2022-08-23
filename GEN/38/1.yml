@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 38:1" class="v">1</span>And
+  it came to pass at that time, that Judah went down from his brethren, and
+  turned in to a certain Adullamite, whose name <span class="add">was</span>
+  Hirah. </p>
+id: GEN/38/1
+next:
+  id: GEN/38/2
+  number: '2'
+previous:
+  id: GEN/37/36
+  number: '36'
+reference: 'Genesis 38:1'

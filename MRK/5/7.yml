@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 5:7" class="v">7</span>And
+  cried with a loud voice, and said, What have I to do with thee, Jesus, <span
+  class="add">thou</span> Son of the most high God? I adjure thee by God, that
+  thou torment me not. </p>
+id: MRK/5/7
+next:
+  id: MRK/5/8
+  number: '8'
+previous:
+  id: MRK/5/6
+  number: '6'
+reference: 'Mark 5:7'

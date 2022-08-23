@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 13:26"
+  class="v">26</span>Jesus answered, <span class="wj">He it is, to whom I shall
+  give a sop, when I have dipped <span class="add">it</span>.</span> And when he
+  had dipped the sop, he gave <span class="add">it</span> to Judas Iscariot,
+  <span class="add">the son</span> of Simon. </p>
+id: JHN/13/26
+next:
+  id: JHN/13/27
+  number: '27'
+previous:
+  id: JHN/13/25
+  number: '25'
+reference: 'John 13:26'

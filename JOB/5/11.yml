@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 5:11" class="v">11</span>To
+  set up on high those that be low; that those which mourn may be exalted to
+  safety. </p>
+id: JOB/5/11
+next:
+  id: JOB/5/12
+  number: '12'
+previous:
+  id: JOB/5/10
+  number: '10'
+reference: 'Job 5:11'

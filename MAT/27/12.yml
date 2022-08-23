@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 27:12"
+  class="v">12</span>And when he was accused of the chief priests and elders, he
+  answered nothing. </p>
+id: MAT/27/12
+next:
+  id: MAT/27/13
+  number: '13'
+previous:
+  id: MAT/27/11
+  number: '11'
+reference: 'Matthew 27:12'

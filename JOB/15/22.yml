@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 15:22" class="v">22</span>He
+  believeth not that he shall return out of darkness, and he is waited for of
+  the sword. </p>
+id: JOB/15/22
+next:
+  id: JOB/15/23
+  number: '23'
+previous:
+  id: JOB/15/21
+  number: '21'
+reference: 'Job 15:22'

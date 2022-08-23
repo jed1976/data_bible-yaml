@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 7:21" class="v">21</span>And
+  the fish that <span class="add">was</span> in the river died; and the river
+  stank, and the Egyptians could not drink of the water of the river; and there
+  was blood throughout all the land of Egypt. </p>
+id: EXO/7/21
+next:
+  id: EXO/7/22
+  number: '22'
+previous:
+  id: EXO/7/20
+  number: '20'
+reference: 'Exodus 7:21'

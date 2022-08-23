@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 9:17" class="v">17</span>As
+  yet exaltest thou thyself against my people, that thou wilt not let them go?
+  </p>
+id: EXO/9/17
+next:
+  id: EXO/9/18
+  number: '18'
+previous:
+  id: EXO/9/16
+  number: '16'
+reference: 'Exodus 9:17'

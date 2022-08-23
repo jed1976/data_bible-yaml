@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 21:30"
+  class="v">30</span>That the wicked is reserved to the day of destruction? they
+  shall be brought forth to the day of wrath. </p>
+id: JOB/21/30
+next:
+  id: JOB/21/31
+  number: '31'
+previous:
+  id: JOB/21/29
+  number: '29'
+reference: 'Job 21:30'

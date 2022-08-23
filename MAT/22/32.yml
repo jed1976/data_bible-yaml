@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 22:32"
+  class="v">32</span><span class="wj">I am the God of Abraham, and the God of
+  Isaac, and the God of Jacob? God is not the God of the dead, but of the
+  living.</span> </p>
+id: MAT/22/32
+next:
+  id: MAT/22/33
+  number: '33'
+previous:
+  id: MAT/22/31
+  number: '31'
+reference: 'Matthew 22:32'

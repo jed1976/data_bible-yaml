@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 21:37"
+  class="v">37</span>And in the day time he was teaching in the temple; and at
+  night he went out, and abode in the mount that is called <span class="add">the
+  mount</span> of Olives. </p>
+id: LUK/21/37
+next:
+  id: LUK/21/38
+  number: '38'
+previous:
+  id: LUK/21/36
+  number: '36'
+reference: 'Luke 21:37'

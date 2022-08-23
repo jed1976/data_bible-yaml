@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 32:25"
+  class="v">25</span>The sword without, and terror within, shall destroy both
+  the young man and the virgin, the suckling <span class="add">also</span> with
+  the man of gray hairs.</p>
+id: DEU/32/25
+next:
+  id: DEU/32/26
+  number: '26'
+previous:
+  id: DEU/32/24
+  number: '24'
+reference: 'Deuteronomy 32:25'

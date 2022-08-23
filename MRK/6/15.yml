@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 6:15"
+  class="v">15</span>Others said, That it is Elias. And others said, That it is
+  a prophet, or as one of the prophets. </p>
+id: MRK/6/15
+next:
+  id: MRK/6/16
+  number: '16'
+previous:
+  id: MRK/6/14
+  number: '14'
+reference: 'Mark 6:15'

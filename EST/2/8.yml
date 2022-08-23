@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 2:8" class="v">8</span>¶ So
+  it came to pass, when the king’s commandment and his decree was heard, and
+  when many maidens were gathered together unto Shushan the palace, to the
+  custody of Hegai, that Esther was brought also unto the king’s house, to the
+  custody of Hegai, keeper of the women. </p>
+id: EST/2/8
+next:
+  id: EST/2/9
+  number: '9'
+previous:
+  id: EST/2/7
+  number: '7'
+reference: 'Esther 2:8'

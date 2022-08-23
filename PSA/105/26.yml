@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 105:26"
+  class="v">26</span>He sent Moses his servant; <span class="add">and</span>
+  Aaron whom he had chosen.</p>
+id: PSA/105/26
+next:
+  id: PSA/105/27
+  number: '27'
+previous:
+  id: PSA/105/25
+  number: '25'
+reference: 'Psalms 105:26'

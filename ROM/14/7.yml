@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 14:7" class="v">7</span>For
+  none of us liveth to himself, and no man dieth to himself. </p>
+id: ROM/14/7
+next:
+  id: ROM/14/8
+  number: '8'
+previous:
+  id: ROM/14/6
+  number: '6'
+reference: 'Romans 14:7'

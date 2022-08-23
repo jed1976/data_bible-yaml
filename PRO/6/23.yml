@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 6:23" class="v">23</span>For
+  the commandment <span class="add">is</span> a lamp; and the law <span
+  class="add">is</span> light; and reproofs of instruction <span
+  class="add">are</span> the way of life: </p>
+id: PRO/6/23
+next:
+  id: PRO/6/24
+  number: '24'
+previous:
+  id: PRO/6/22
+  number: '22'
+reference: 'Proverbs 6:23'

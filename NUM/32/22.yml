@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 32:22"
+  class="v">22</span>And the land be subdued before the <span
+  class="nd">LORD</span>: then afterward ye shall return, and be guiltless
+  before the <span class="nd">LORD</span>, and before Israel; and this land
+  shall be your possession before the <span class="nd">LORD</span>. </p>
+id: NUM/32/22
+next:
+  id: NUM/32/23
+  number: '23'
+previous:
+  id: NUM/32/21
+  number: '21'
+reference: 'Numbers 32:22'

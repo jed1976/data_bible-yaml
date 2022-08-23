@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 14:43"
+  class="v">43</span>For the Amalekites and the Canaanites <span
+  class="add">are</span> there before you, and ye shall fall by the sword:
+  because ye are turned away from the <span class="nd">LORD</span>, therefore
+  the <span class="nd">LORD</span> will not be with you. </p>
+id: NUM/14/43
+next:
+  id: NUM/14/44
+  number: '44'
+previous:
+  id: NUM/14/42
+  number: '42'
+reference: 'Numbers 14:43'

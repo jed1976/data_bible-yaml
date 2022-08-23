@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="JHN 11:56"
+  class="v">56</span>Then sought they for Jesus, and spake among themselves, as
+  they stood in the temple, What think ye, that he will not come to the feast?
+  </p>
+id: JHN/11/56
+next:
+  id: JHN/11/57
+  number: '57'
+previous:
+  id: JHN/11/55
+  number: '55'
+reference: 'John 11:56'

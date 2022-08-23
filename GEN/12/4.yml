@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 12:4" class="v">4</span>So
+  Abram departed, as the <span class="nd">LORD</span> had spoken unto him; and
+  Lot went with him: and Abram <span class="add">was</span> seventy and five
+  years old when he departed out of Haran. </p>
+id: GEN/12/4
+next:
+  id: GEN/12/5
+  number: '5'
+previous:
+  id: GEN/12/3
+  number: '3'
+reference: 'Genesis 12:4'

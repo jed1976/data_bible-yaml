@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 20:20"
+  class="v">20</span>And they watched <span class="add">him</span>, and sent
+  forth spies, which should feign themselves just men, that they might take hold
+  of his words, that so they might deliver him unto the power and authority of
+  the governor. </p>
+id: LUK/20/20
+next:
+  id: LUK/20/21
+  number: '21'
+previous:
+  id: LUK/20/19
+  number: '19'
+reference: 'Luke 20:20'

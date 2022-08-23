@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 37:1" class="v">1</span>And
+  Jacob dwelt in the land wherein his father was a stranger, in the land of
+  Canaan. </p>
+id: GEN/37/1
+next:
+  id: GEN/37/2
+  number: '2'
+previous:
+  id: GEN/36/43
+  number: '43'
+reference: 'Genesis 37:1'

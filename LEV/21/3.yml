@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 21:3" class="v">3</span>And
+  for his sister a virgin, that is nigh unto him, which hath had no husband; for
+  her may he be defiled. </p>
+id: LEV/21/3
+next:
+  id: LEV/21/4
+  number: '4'
+previous:
+  id: LEV/21/2
+  number: '2'
+reference: 'Leviticus 21:3'

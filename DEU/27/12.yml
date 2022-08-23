@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 27:12"
+  class="v">12</span>These shall stand upon mount Gerizim to bless the people,
+  when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and
+  Joseph, and Benjamin: </p>
+id: DEU/27/12
+next:
+  id: DEU/27/13
+  number: '13'
+previous:
+  id: DEU/27/11
+  number: '11'
+reference: 'Deuteronomy 27:12'

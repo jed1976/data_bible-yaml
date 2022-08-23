@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 56:3" class="v">3</span>¶
+  Neither let the son of the stranger, that hath joined himself to the <span
+  class="nd">LORD</span>, speak, saying, The <span class="nd">LORD</span> hath
+  utterly separated me from his people: neither let the eunuch say, Behold, I
+  <span class="add">am</span> a dry tree. </p>
+id: ISA/56/3
+next:
+  id: ISA/56/4
+  number: '4'
+previous:
+  id: ISA/56/2
+  number: '2'
+reference: 'Isaiah 56:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 15:15"
+  class="v">15</span>Then answered Peter and said unto him, Declare unto us this
+  parable. </p>
+id: MAT/15/15
+next:
+  id: MAT/15/16
+  number: '16'
+previous:
+  id: MAT/15/14
+  number: '14'
+reference: 'Matthew 15:15'

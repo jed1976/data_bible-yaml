@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 51:5"
+  class="v">5</span>Behold, I was shapen in iniquity; and in sin did my mother
+  conceive me.</p>
+id: PSA/51/5
+next:
+  id: PSA/51/6
+  number: '6'
+previous:
+  id: PSA/51/4
+  number: '4'
+reference: 'Psalms 51:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 39:20"
+  class="v">20</span>And they made two <span class="add">other</span> golden
+  rings, and put them on the two sides of the ephod underneath, toward the
+  forepart of it, over against the <span class="add">other</span> coupling
+  thereof, above the curious girdle of the ephod. </p>
+id: EXO/39/20
+next:
+  id: EXO/39/21
+  number: '21'
+previous:
+  id: EXO/39/19
+  number: '19'
+reference: 'Exodus 39:20'

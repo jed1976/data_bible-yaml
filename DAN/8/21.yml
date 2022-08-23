@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 8:21" class="v">21</span>And
+  the rough goat <span class="add">is</span> the king of Grecia: and the great
+  horn that <span class="add">is</span> between his eyes <span
+  class="add">is</span> the first king. </p>
+id: DAN/8/21
+next:
+  id: DAN/8/22
+  number: '22'
+previous:
+  id: DAN/8/20
+  number: '20'
+reference: 'Daniel 8:21'

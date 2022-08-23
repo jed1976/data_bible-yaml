@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 40:19"
+  class="v">19</span>Yet within three days shall Pharaoh lift up thy head from
+  off thee, and shall hang thee on a tree; and the birds shall eat thy flesh
+  from off thee.</p>
+id: GEN/40/19
+next:
+  id: GEN/40/20
+  number: '20'
+previous:
+  id: GEN/40/18
+  number: '18'
+reference: 'Genesis 40:19'

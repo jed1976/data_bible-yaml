@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 9:14" class="v">14</span>For
+  she sitteth at the door of her house, on a seat in the high places of the
+  city, </p>
+id: PRO/9/14
+next:
+  id: PRO/9/15
+  number: '15'
+previous:
+  id: PRO/9/13
+  number: '13'
+reference: 'Proverbs 9:14'

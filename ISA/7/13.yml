@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 7:13" class="v">13</span>And
+  he said, Hear ye now, O house of David; <span class="add">Is it</span> a small
+  thing for you to weary men, but will ye weary my God also? </p>
+id: ISA/7/13
+next:
+  id: ISA/7/14
+  number: '14'
+previous:
+  id: ISA/7/12
+  number: '12'
+reference: 'Isaiah 7:13'

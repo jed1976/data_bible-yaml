@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 25:10"
+  class="v">10</span><span class="wj">And while they went to buy, the bridegroom
+  came; and they that were ready went in with him to the marriage: and the door
+  was shut.</span> </p>
+id: MAT/25/10
+next:
+  id: MAT/25/11
+  number: '11'
+previous:
+  id: MAT/25/9
+  number: '9'
+reference: 'Matthew 25:10'

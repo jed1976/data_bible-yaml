@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 34:5" class="v">5</span>For
+  Job hath said, I am righteous: and God hath taken away my judgment. </p>
+id: JOB/34/5
+next:
+  id: JOB/34/6
+  number: '6'
+previous:
+  id: JOB/34/4
+  number: '4'
+reference: 'Job 34:5'

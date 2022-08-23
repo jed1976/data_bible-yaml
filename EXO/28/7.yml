@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 28:7" class="v">7</span>It
+  shall have the two shoulderpieces thereof joined at the two edges thereof; and
+  <span class="add">so</span> it shall be joined together. </p>
+id: EXO/28/7
+next:
+  id: EXO/28/8
+  number: '8'
+previous:
+  id: EXO/28/6
+  number: '6'
+reference: 'Exodus 28:7'

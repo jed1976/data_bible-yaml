@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 1:25" class="v">25</span>¶
+  And I will turn my hand upon thee, and purely purge away thy dross, and take
+  away all thy tin: </p>
+id: ISA/1/25
+next:
+  id: ISA/1/26
+  number: '26'
+previous:
+  id: ISA/1/24
+  number: '24'
+reference: 'Isaiah 1:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 22:7" class="v">7</span><span
+  class="wj">Behold, I come quickly: blessed <span class="add">is</span> he that
+  keepeth the sayings of the prophecy of this book.</span> </p>
+id: REV/22/7
+next:
+  id: REV/22/8
+  number: '8'
+previous:
+  id: REV/22/6
+  number: '6'
+reference: 'Revelation 22:7'

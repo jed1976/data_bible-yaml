@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 1:8" class="v">8</span>And
+  they answered him, <span class="add">He was</span> an hairy man, and girt with
+  a girdle of leather about his loins. And he said, It <span
+  class="add">is</span> Elijah the Tishbite.</p>
+id: 2KI/1/8
+next:
+  id: 2KI/1/9
+  number: '9'
+previous:
+  id: 2KI/1/7
+  number: '7'
+reference: '2 Kings 1:8'

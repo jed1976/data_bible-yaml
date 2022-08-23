@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MRK 5:41" class="v">41</span>And
+  he took the damsel by the hand, and said unto her, <span class="wj">Talitha
+  cumi;</span> which is, being interpreted, Damsel, I say unto thee, arise. </p>
+id: MRK/5/41
+next:
+  id: MRK/5/42
+  number: '42'
+previous:
+  id: MRK/5/40
+  number: '40'
+reference: 'Mark 5:41'

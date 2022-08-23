@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 15:30"
+  class="v">30</span><span class="wj">But as soon as this thy son was come,
+  which hath devoured thy living with harlots, thou hast killed for him the
+  fatted calf.</span> </p>
+id: LUK/15/30
+next:
+  id: LUK/15/31
+  number: '31'
+previous:
+  id: LUK/15/29
+  number: '29'
+reference: 'Luke 15:30'

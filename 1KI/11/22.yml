@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 11:22"
+  class="v">22</span>Then Pharaoh said unto him, But what hast thou lacked with
+  me, that, behold, thou seekest to go to thine own country? And he answered,
+  Nothing: howbeit let me go in any wise.</p>
+id: 1KI/11/22
+next:
+  id: 1KI/11/23
+  number: '23'
+previous:
+  id: 1KI/11/21
+  number: '21'
+reference: '1 Kings 11:22'

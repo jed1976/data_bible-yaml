@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 30:3" class="v">3</span>That
+  then the <span class="nd">LORD</span> thy God will turn thy captivity, and
+  have compassion upon thee, and will return and gather thee from all the
+  nations, whither the <span class="nd">LORD</span> thy God hath scattered thee.
+  </p>
+id: DEU/30/3
+next:
+  id: DEU/30/4
+  number: '4'
+previous:
+  id: DEU/30/2
+  number: '2'
+reference: 'Deuteronomy 30:3'

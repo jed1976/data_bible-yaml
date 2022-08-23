@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JAS 2:4" class="v">4</span>Are ye
+  not then partial in yourselves, and are become judges of evil thoughts? </p>
+id: JAS/2/4
+next:
+  id: JAS/2/5
+  number: '5'
+previous:
+  id: JAS/2/3
+  number: '3'
+reference: 'James 2:4'

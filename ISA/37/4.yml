@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 37:4" class="v">4</span>It
+  may be the <span class="nd">LORD</span> thy God will hear the words of
+  Rabshakeh, whom the king of Assyria his master hath sent to reproach the
+  living God, and will reprove the words which the <span class="nd">LORD</span>
+  thy God hath heard: wherefore lift up <span class="add">thy</span> prayer for
+  the remnant that is left. </p>
+id: ISA/37/4
+next:
+  id: ISA/37/5
+  number: '5'
+previous:
+  id: ISA/37/3
+  number: '3'
+reference: 'Isaiah 37:4'

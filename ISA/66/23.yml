@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 66:23"
+  class="v">23</span>And it shall come to pass, <span class="add">that</span>
+  from one new moon to another, and from one sabbath to another, shall all flesh
+  come to worship before me, saith the <span class="nd">LORD</span>. </p>
+id: ISA/66/23
+next:
+  id: ISA/66/24
+  number: '24'
+previous:
+  id: ISA/66/22
+  number: '22'
+reference: 'Isaiah 66:23'

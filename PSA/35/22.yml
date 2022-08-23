@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 35:22"
+  class="v">22</span><span class="add">This</span> thou hast seen, O <span
+  class="nd">LORD</span>: keep not silence: O Lord, be not far from me.</p>
+id: PSA/35/22
+next:
+  id: PSA/35/23
+  number: '23'
+previous:
+  id: PSA/35/21
+  number: '21'
+reference: 'Psalms 35:22'

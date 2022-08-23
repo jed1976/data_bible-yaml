@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 4:9" class="v">9</span>¶ Two
+  <span class="add">are</span> better than one; because they have a good reward
+  for their labour. </p>
+id: ECC/4/9
+next:
+  id: ECC/4/10
+  number: '10'
+previous:
+  id: ECC/4/8
+  number: '8'
+reference: 'Ecclesiastes 4:9'

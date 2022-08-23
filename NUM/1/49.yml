@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 1:49"
+  class="v">49</span>Only thou shalt not number the tribe of Levi, neither take
+  the sum of them among the children of Israel: </p>
+id: NUM/1/49
+next:
+  id: NUM/1/50
+  number: '50'
+previous:
+  id: NUM/1/48
+  number: '48'
+reference: 'Numbers 1:49'

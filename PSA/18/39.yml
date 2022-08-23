@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="39" data-sid="PSA 18:39"
+  class="v">39</span>For thou hast girded me with strength unto the battle: thou
+  hast subdued under me those that rose up against me.</p>
+id: PSA/18/39
+next:
+  id: PSA/18/40
+  number: '40'
+previous:
+  id: PSA/18/38
+  number: '38'
+reference: 'Psalms 18:39'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 109:13"
+  class="v">13</span>Let his posterity be cut off; <span class="add">and</span>
+  in the generation following let their name be blotted out.</p>
+id: PSA/109/13
+next:
+  id: PSA/109/14
+  number: '14'
+previous:
+  id: PSA/109/12
+  number: '12'
+reference: 'Psalms 109:13'

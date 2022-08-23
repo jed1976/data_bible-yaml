@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="NUM 1:39"
+  class="v">39</span>Those that were numbered of them, <span
+  class="add">even</span> of the tribe of Dan, <span class="add">were</span>
+  threescore and two thousand and seven hundred.</p>
+id: NUM/1/39
+next:
+  id: NUM/1/40
+  number: '40'
+previous:
+  id: NUM/1/38
+  number: '38'
+reference: 'Numbers 1:39'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 33:26"
+  class="v">26</span>And they removed from Makheloth, and encamped at Tahath.
+  </p>
+id: NUM/33/26
+next:
+  id: NUM/33/27
+  number: '27'
+previous:
+  id: NUM/33/25
+  number: '25'
+reference: 'Numbers 33:26'

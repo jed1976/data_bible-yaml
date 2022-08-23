@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NEH 4:2" class="v">2</span>And he
+  spake before his brethren and the army of Samaria, and said, What do these
+  feeble Jews? will they fortify themselves? will they sacrifice? will they make
+  an end in a day? will they revive the stones out of the heaps of the rubbish
+  which are burned? </p>
+id: NEH/4/2
+next:
+  id: NEH/4/3
+  number: '3'
+previous:
+  id: NEH/4/1
+  number: '1'
+reference: 'Nehemiah 4:2'

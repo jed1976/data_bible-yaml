@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 21:25"
+  class="v">25</span>And there are also many other things which Jesus did, the
+  which, if they should be written every one, I suppose that even the world
+  itself could not contain the books that should be written. Amen.</p>
+id: JHN/21/25
+next:
+  id: ACT/intro/0
+  number: '0'
+previous:
+  id: JHN/21/24
+  number: '24'
+reference: 'John 21:25'

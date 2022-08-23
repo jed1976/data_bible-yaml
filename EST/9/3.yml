@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EST 9:3" class="v">3</span>And
+  all the rulers of the provinces, and the lieutenants, and the deputies, and
+  officers of the king, helped the Jews; because the fear of Mordecai fell upon
+  them. </p>
+id: EST/9/3
+next:
+  id: EST/9/4
+  number: '4'
+previous:
+  id: EST/9/2
+  number: '2'
+reference: 'Esther 9:3'

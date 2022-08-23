@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 22:14"
+  class="v">14</span>The mouth of strange women <span class="add">is</span> a
+  deep pit: he that is abhorred of the <span class="nd">LORD</span> shall fall
+  therein. </p>
+id: PRO/22/14
+next:
+  id: PRO/22/15
+  number: '15'
+previous:
+  id: PRO/22/13
+  number: '13'
+reference: 'Proverbs 22:14'

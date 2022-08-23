@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 11:16"
+  class="v">16</span>For if the firstfruit <span class="add">be</span> holy, the
+  lump <span class="add">is</span> also <span class="add">holy</span>: and if
+  the root <span class="add">be</span> holy, so <span class="add">are</span> the
+  branches. </p>
+id: ROM/11/16
+next:
+  id: ROM/11/17
+  number: '17'
+previous:
+  id: ROM/11/15
+  number: '15'
+reference: 'Romans 11:16'

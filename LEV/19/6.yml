@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 19:6" class="v">6</span>It
+  shall be eaten the same day ye offer it, and on the morrow: and if ought
+  remain until the third day, it shall be burnt in the fire. </p>
+id: LEV/19/6
+next:
+  id: LEV/19/7
+  number: '7'
+previous:
+  id: LEV/19/5
+  number: '5'
+reference: 'Leviticus 19:6'

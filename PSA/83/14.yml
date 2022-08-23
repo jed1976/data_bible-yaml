@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 83:14"
+  class="v">14</span>As the fire burneth a wood, and as the flame setteth the
+  mountains on fire;</p>
+id: PSA/83/14
+next:
+  id: PSA/83/15
+  number: '15'
+previous:
+  id: PSA/83/13
+  number: '13'
+reference: 'Psalms 83:14'

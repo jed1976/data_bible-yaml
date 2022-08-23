@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LAM 4:9" class="v">9</span><span
+  class="add">They that be</span> slain with the sword are better than <span
+  class="add">they that be</span> slain with hunger: for these pine away,
+  stricken through for <span class="add">want of</span> the fruits of the field.
+  </p>
+id: LAM/4/9
+next:
+  id: LAM/4/10
+  number: '10'
+previous:
+  id: LAM/4/8
+  number: '8'
+reference: 'Lamentations 4:9'

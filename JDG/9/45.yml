@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JDG 9:45" class="v">45</span>And
+  Abimelech fought against the city all that day; and he took the city, and slew
+  the people that <span class="add">was</span> therein, and beat down the city,
+  and sowed it with salt.</p>
+id: JDG/9/45
+next:
+  id: JDG/9/46
+  number: '46'
+previous:
+  id: JDG/9/44
+  number: '44'
+reference: 'Judges 9:45'

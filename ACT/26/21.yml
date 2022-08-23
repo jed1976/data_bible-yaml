@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 26:21"
+  class="v">21</span>For these causes the Jews caught me in the temple, and went
+  about to kill <span class="add">me</span>. </p>
+id: ACT/26/21
+next:
+  id: ACT/26/22
+  number: '22'
+previous:
+  id: ACT/26/20
+  number: '20'
+reference: 'Acts 26:21'

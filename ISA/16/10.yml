@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 16:10"
+  class="v">10</span>And gladness is taken away, and joy out of the plentiful
+  field; and in the vineyards there shall be no singing, neither shall there be
+  shouting: the treaders shall tread out no wine in <span
+  class="add">their</span> presses; I have made <span class="add">their
+  vintage</span> shouting to cease. </p>
+id: ISA/16/10
+next:
+  id: ISA/16/11
+  number: '11'
+previous:
+  id: ISA/16/9
+  number: '9'
+reference: 'Isaiah 16:10'

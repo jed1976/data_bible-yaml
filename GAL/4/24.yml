@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GAL 4:24"
+  class="v">24</span>Which things are an allegory: for these are the two
+  covenants; the one from the mount Sinai, which gendereth to bondage, which is
+  Agar. </p>
+id: GAL/4/24
+next:
+  id: GAL/4/25
+  number: '25'
+previous:
+  id: GAL/4/23
+  number: '23'
+reference: 'Galatians 4:24'

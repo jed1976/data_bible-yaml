@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 4:25" class="v">25</span>And
+  the priest shall take of the blood of the sin offering with his finger, and
+  put <span class="add">it</span> upon the horns of the altar of burnt offering,
+  and shall pour out his blood at the bottom of the altar of burnt offering.
+  </p>
+id: LEV/4/25
+next:
+  id: LEV/4/26
+  number: '26'
+previous:
+  id: LEV/4/24
+  number: '24'
+reference: 'Leviticus 4:25'

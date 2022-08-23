@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 12:8" class="v">8</span>¶
+  Vanity of vanities, saith the preacher; all <span class="add">is</span>
+  vanity. </p>
+id: ECC/12/8
+next:
+  id: ECC/12/9
+  number: '9'
+previous:
+  id: ECC/12/7
+  number: '7'
+reference: 'Ecclesiastes 12:8'

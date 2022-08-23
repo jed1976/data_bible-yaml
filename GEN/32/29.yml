@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 32:29"
+  class="v">29</span>And Jacob asked <span class="add">him</span>, and said,
+  Tell <span class="add">me</span>, I pray thee, thy name. And he said,
+  Wherefore <span class="add">is</span> it <span class="add">that</span> thou
+  dost ask after my name? And he blessed him there. </p>
+id: GEN/32/29
+next:
+  id: GEN/32/30
+  number: '30'
+previous:
+  id: GEN/32/28
+  number: '28'
+reference: 'Genesis 32:29'

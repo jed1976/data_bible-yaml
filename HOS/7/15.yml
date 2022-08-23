@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HOS 7:15"
+  class="v">15</span>Though I have bound <span class="add">and</span>
+  strengthened their arms, yet do they imagine mischief against me. </p>
+id: HOS/7/15
+next:
+  id: HOS/7/16
+  number: '16'
+previous:
+  id: HOS/7/14
+  number: '14'
+reference: 'Hosea 7:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HAG 2:13"
+  class="v">13</span>Then said Haggai, If <span class="add">one that is</span>
+  unclean by a dead body touch any of these, shall it be unclean? And the
+  priests answered and said, It shall be unclean. </p>
+id: HAG/2/13
+next:
+  id: HAG/2/14
+  number: '14'
+previous:
+  id: HAG/2/12
+  number: '12'
+reference: 'Haggai 2:13'

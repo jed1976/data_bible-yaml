@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 3:10" class="v">10</span>And
+  thou shalt appoint Aaron and his sons, and they shall wait on their priest’s
+  office: and the stranger that cometh nigh shall be put to death. </p>
+id: NUM/3/10
+next:
+  id: NUM/3/11
+  number: '11'
+previous:
+  id: NUM/3/9
+  number: '9'
+reference: 'Numbers 3:10'

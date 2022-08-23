@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 8:1" class="v">1</span>In the
+  third year of the reign of king Belshazzar a vision appeared unto me, <span
+  class="add">even unto</span> me Daniel, after that which appeared unto me at
+  the first. </p>
+id: DAN/8/1
+next:
+  id: DAN/8/2
+  number: '2'
+previous:
+  id: DAN/7/28
+  number: '28'
+reference: 'Daniel 8:1'

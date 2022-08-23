@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="NUM 26:57" class="v">57</span>¶
+  And these <span class="add">are</span> they that were numbered of the Levites
+  after their families: of Gershon, the family of the Gershonites: of Kohath,
+  the family of the Kohathites: of Merari, the family of the Merarites. </p>
+id: NUM/26/57
+next:
+  id: NUM/26/58
+  number: '58'
+previous:
+  id: NUM/26/56
+  number: '56'
+reference: 'Numbers 26:57'

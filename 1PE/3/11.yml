@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1PE 3:11" class="v">11</span>Let
+  him eschew evil, and do good; let him seek peace, and ensue it. </p>
+id: 1PE/3/11
+next:
+  id: 1PE/3/12
+  number: '12'
+previous:
+  id: 1PE/3/10
+  number: '10'
+reference: '1 Peter 3:11'

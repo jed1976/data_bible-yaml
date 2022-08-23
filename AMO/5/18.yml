@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="AMO 5:18" class="v">18</span>Woe
+  unto you that desire the day of the <span class="nd">LORD</span>! to what end
+  <span class="add">is</span> it for you? the day of the <span
+  class="nd">LORD</span> <span class="add">is</span> darkness, and not light.
+  </p>
+id: AMO/5/18
+next:
+  id: AMO/5/19
+  number: '19'
+previous:
+  id: AMO/5/17
+  number: '17'
+reference: 'Amos 5:18'

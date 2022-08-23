@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 15:13"
+  class="v">13</span>And they cried out again, Crucify him. </p>
+id: MRK/15/13
+next:
+  id: MRK/15/14
+  number: '14'
+previous:
+  id: MRK/15/12
+  number: '12'
+reference: 'Mark 15:13'

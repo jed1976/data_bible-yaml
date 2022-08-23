@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="COL 3:8" class="v">8</span>But
+  now ye also put off all these; anger, wrath, malice, blasphemy, filthy
+  communication out of your mouth. </p>
+id: COL/3/8
+next:
+  id: COL/3/9
+  number: '9'
+previous:
+  id: COL/3/7
+  number: '7'
+reference: 'Colossians 3:8'

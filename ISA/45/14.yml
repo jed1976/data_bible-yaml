@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 45:14"
+  class="v">14</span>Thus saith the <span class="nd">LORD</span>, The labour of
+  Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall
+  come over unto thee, and they shall be thine: they shall come after thee; in
+  chains they shall come over, and they shall fall down unto thee, they shall
+  make supplication unto thee, <span class="add">saying</span>, Surely God <span
+  class="add">is</span> in thee; and <span class="add">there is</span> none
+  else, <span class="add">there is</span> no God. </p>
+id: ISA/45/14
+next:
+  id: ISA/45/15
+  number: '15'
+previous:
+  id: ISA/45/13
+  number: '13'
+reference: 'Isaiah 45:14'

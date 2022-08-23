@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 21:22" class="v">22</span>¶
+  And if a man have committed a sin worthy of death, and he be to be put to
+  death, and thou hang him on a tree: </p>
+id: DEU/21/22
+next:
+  id: DEU/21/23
+  number: '23'
+previous:
+  id: DEU/21/21
+  number: '21'
+reference: 'Deuteronomy 21:22'

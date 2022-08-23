@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 7:4" class="v">4</span>Now
+  the city <span class="add">was</span> large and great: but the people <span
+  class="add">were</span> few therein, and the houses <span
+  class="add">were</span> not builded.</p>
+id: NEH/7/4
+next:
+  id: NEH/7/5
+  number: '5'
+previous:
+  id: NEH/7/3
+  number: '3'
+reference: 'Nehemiah 7:4'

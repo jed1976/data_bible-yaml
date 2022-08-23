@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 39:3" class="v">3</span>And
+  they did beat the gold into thin plates, and cut <span class="add">it
+  into</span> wires, to work <span class="add">it</span> in the blue, and in the
+  purple, and in the scarlet, and in the fine linen, <span
+  class="add">with</span> cunning work. </p>
+id: EXO/39/3
+next:
+  id: EXO/39/4
+  number: '4'
+previous:
+  id: EXO/39/2
+  number: '2'
+reference: 'Exodus 39:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 12:29"
+  class="v">29</span><span class="wj">Or else how can one enter into a strong
+  man’s house, and spoil his goods, except he first bind the strong man? and
+  then he will spoil his house.</span> </p>
+id: MAT/12/29
+next:
+  id: MAT/12/30
+  number: '30'
+previous:
+  id: MAT/12/28
+  number: '28'
+reference: 'Matthew 12:29'

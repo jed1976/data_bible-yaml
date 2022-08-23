@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 34:18" class="v">18</span>¶
+  The feast of unleavened bread shalt thou keep. Seven days thou shalt eat
+  unleavened bread, as I commanded thee, in the time of the month Abib: for in
+  the month Abib thou camest out from Egypt. </p>
+id: EXO/34/18
+next:
+  id: EXO/34/19
+  number: '19'
+previous:
+  id: EXO/34/17
+  number: '17'
+reference: 'Exodus 34:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="HEB 12:27"
+  class="v">27</span>And this <span class="add">word</span>, Yet once more,
+  signifieth the removing of those things that are shaken, as of things that are
+  made, that those things which cannot be shaken may remain. </p>
+id: HEB/12/27
+next:
+  id: HEB/12/28
+  number: '28'
+previous:
+  id: HEB/12/26
+  number: '26'
+reference: 'Hebrews 12:27'

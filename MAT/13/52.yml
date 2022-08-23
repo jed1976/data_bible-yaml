@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="MAT 13:52"
+  class="v">52</span>Then said he unto them, <span class="wj">Therefore every
+  scribe <span class="add">which is</span> instructed unto the kingdom of heaven
+  is like unto a man <span class="add">that is</span> an householder, which
+  bringeth forth out of his treasure <span class="add">things</span> new and
+  old.</span></p>
+id: MAT/13/52
+next:
+  id: MAT/13/53
+  number: '53'
+previous:
+  id: MAT/13/51
+  number: '51'
+reference: 'Matthew 13:52'

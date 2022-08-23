@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 17:1" class="v">1</span>There
+  was also a lot for the tribe of Manasseh; for he <span class="add">was</span>
+  the firstborn of Joseph; <span class="add">to wit</span>, for Machir the
+  firstborn of Manasseh, the father of Gilead: because he was a man of war,
+  therefore he had Gilead and Bashan. </p>
+id: JOS/17/1
+next:
+  id: JOS/17/2
+  number: '2'
+previous:
+  id: JOS/16/10
+  number: '10'
+reference: 'Joshua 17:1'

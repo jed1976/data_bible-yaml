@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 10:7" class="v">7</span><span
+  class="wj">And as ye go, preach, saying, The kingdom of heaven is at
+  hand.</span> </p>
+id: MAT/10/7
+next:
+  id: MAT/10/8
+  number: '8'
+previous:
+  id: MAT/10/6
+  number: '6'
+reference: 'Matthew 10:7'

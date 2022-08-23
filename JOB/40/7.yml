@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 40:7" class="v">7</span>Gird
+  up thy loins now like a man: I will demand of thee, and declare thou unto me.
+  </p>
+id: JOB/40/7
+next:
+  id: JOB/40/8
+  number: '8'
+previous:
+  id: JOB/40/6
+  number: '6'
+reference: 'Job 40:7'

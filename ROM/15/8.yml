@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 15:8" class="v">8</span>Now I
+  say that Jesus Christ was a minister of the circumcision for the truth of God,
+  to confirm the promises <span class="add">made</span> unto the fathers: </p>
+id: ROM/15/8
+next:
+  id: ROM/15/9
+  number: '9'
+previous:
+  id: ROM/15/7
+  number: '7'
+reference: 'Romans 15:8'

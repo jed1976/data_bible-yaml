@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 3:1" class="v">1</span>In
+  those days came John the Baptist, preaching in the wilderness of Judaea, </p>
+id: MAT/3/1
+next:
+  id: MAT/3/2
+  number: '2'
+previous:
+  id: MAT/2/23
+  number: '23'
+reference: 'Matthew 3:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="JHN 1:47"
+  class="v">47</span>Jesus saw Nathanael coming to him, and saith of him, <span
+  class="wj">Behold an Israelite indeed, in whom is no guile!</span> </p>
+id: JHN/1/47
+next:
+  id: JHN/1/48
+  number: '48'
+previous:
+  id: JHN/1/46
+  number: '46'
+reference: 'John 1:47'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 8:1" class="v">1</span>And
+  God remembered Noah, and every living thing, and all the cattle that <span
+  class="add">was</span> with him in the ark: and God made a wind to pass over
+  the earth, and the waters asswaged; </p>
+id: GEN/8/1
+next:
+  id: GEN/8/2
+  number: '2'
+previous:
+  id: GEN/7/24
+  number: '24'
+reference: 'Genesis 8:1'

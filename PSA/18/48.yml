@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="48" data-sid="PSA 18:48"
+  class="v">48</span>He delivereth me from mine enemies: yea, thou liftest me up
+  above those that rise up against me: thou hast delivered me from the violent
+  man.</p>
+id: PSA/18/48
+next:
+  id: PSA/18/49
+  number: '49'
+previous:
+  id: PSA/18/47
+  number: '47'
+reference: 'Psalms 18:48'

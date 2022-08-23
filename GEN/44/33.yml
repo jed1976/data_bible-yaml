@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 44:33"
+  class="v">33</span>Now therefore, I pray thee, let thy servant abide instead
+  of the lad a bondman to my lord; and let the lad go up with his brethren. </p>
+id: GEN/44/33
+next:
+  id: GEN/44/34
+  number: '34'
+previous:
+  id: GEN/44/32
+  number: '32'
+reference: 'Genesis 44:33'

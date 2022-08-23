@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 22:3" class="v">3</span><span
+  class="add">Is it</span> any pleasure to the Almighty, that thou art
+  righteous? or <span class="add">is it</span> gain <span class="add">to
+  him</span>, that thou makest thy ways perfect? </p>
+id: JOB/22/3
+next:
+  id: JOB/22/4
+  number: '4'
+previous:
+  id: JOB/22/2
+  number: '2'
+reference: 'Job 22:3'

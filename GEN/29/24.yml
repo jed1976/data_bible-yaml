@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 29:24"
+  class="v">24</span>And Laban gave unto his daughter Leah Zilpah his maid <span
+  class="add">for</span> an handmaid. </p>
+id: GEN/29/24
+next:
+  id: GEN/29/25
+  number: '25'
+previous:
+  id: GEN/29/23
+  number: '23'
+reference: 'Genesis 29:24'

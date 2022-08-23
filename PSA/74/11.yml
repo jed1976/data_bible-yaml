@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 74:11"
+  class="v">11</span>Why withdrawest thou thy hand, even thy right hand? pluck
+  <span class="add">it</span> out of thy bosom.</p>
+id: PSA/74/11
+next:
+  id: PSA/74/12
+  number: '12'
+previous:
+  id: PSA/74/10
+  number: '10'
+reference: 'Psalms 74:11'

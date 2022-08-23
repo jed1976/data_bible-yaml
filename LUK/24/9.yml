@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 24:9" class="v">9</span>And
+  returned from the sepulchre, and told all these things unto the eleven, and to
+  all the rest. </p>
+id: LUK/24/9
+next:
+  id: LUK/24/10
+  number: '10'
+previous:
+  id: LUK/24/8
+  number: '8'
+reference: 'Luke 24:9'

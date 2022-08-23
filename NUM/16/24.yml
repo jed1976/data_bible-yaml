@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 16:24"
+  class="v">24</span>Speak unto the congregation, saying, Get you up from about
+  the tabernacle of Korah, Dathan, and Abiram. </p>
+id: NUM/16/24
+next:
+  id: NUM/16/25
+  number: '25'
+previous:
+  id: NUM/16/23
+  number: '23'
+reference: 'Numbers 16:24'

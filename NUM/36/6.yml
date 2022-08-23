@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 36:6" class="v">6</span>This
+  <span class="add">is</span> the thing which the <span class="nd">LORD</span>
+  doth command concerning the daughters of Zelophehad, saying, Let them marry to
+  whom they think best; only to the family of the tribe of their father shall
+  they marry. </p>
+id: NUM/36/6
+next:
+  id: NUM/36/7
+  number: '7'
+previous:
+  id: NUM/36/5
+  number: '5'
+reference: 'Numbers 36:6'

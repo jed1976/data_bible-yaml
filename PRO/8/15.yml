@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 8:15" class="v">15</span>By
+  me kings reign, and princes decree justice. </p>
+id: PRO/8/15
+next:
+  id: PRO/8/16
+  number: '16'
+previous:
+  id: PRO/8/14
+  number: '14'
+reference: 'Proverbs 8:15'

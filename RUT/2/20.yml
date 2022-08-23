@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="RUT 2:20" class="v">20</span>And
+  Naomi said unto her daughter in law, Blessed <span class="add">be</span> he of
+  the <span class="nd">LORD</span>, who hath not left off his kindness to the
+  living and to the dead. And Naomi said unto her, The man <span
+  class="add">is</span> near of kin unto us, one of our next kinsmen. </p>
+id: RUT/2/20
+next:
+  id: RUT/2/21
+  number: '21'
+previous:
+  id: RUT/2/19
+  number: '19'
+reference: 'Ruth 2:20'

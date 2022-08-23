@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 16:10"
+  class="v">10</span>But the goat, on which the lot fell to be the scapegoat,
+  shall be presented alive before the <span class="nd">LORD</span>, to make an
+  atonement with him, <span class="add">and</span> to let him go for a scapegoat
+  into the wilderness. </p>
+id: LEV/16/10
+next:
+  id: LEV/16/11
+  number: '11'
+previous:
+  id: LEV/16/9
+  number: '9'
+reference: 'Leviticus 16:10'

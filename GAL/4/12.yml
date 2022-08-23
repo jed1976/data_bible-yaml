@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GAL 4:12"
+  class="v">12</span>Brethren, I beseech you, be as I <span
+  class="add">am</span>; for I <span class="add">am</span> as ye <span
+  class="add">are</span>: ye have not injured me at all. </p>
+id: GAL/4/12
+next:
+  id: GAL/4/13
+  number: '13'
+previous:
+  id: GAL/4/11
+  number: '11'
+reference: 'Galatians 4:12'

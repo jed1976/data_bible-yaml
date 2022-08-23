@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1SA 20:21"
+  class="v">21</span>And, behold, I will send a lad, <span
+  class="add">saying</span>, Go, find out the arrows. If I expressly say unto
+  the lad, Behold, the arrows <span class="add">are</span> on this side of thee,
+  take them; then come thou: for <span class="add">there is</span> peace to
+  thee, and no hurt; <span class="add">as</span> the <span
+  class="nd">LORD</span> liveth. </p>
+id: 1SA/20/21
+next:
+  id: 1SA/20/22
+  number: '22'
+previous:
+  id: 1SA/20/20
+  number: '20'
+reference: '1 Samuel 20:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 9:19" class="v">19</span>And
+  the fat of the bullock and of the ram, the rump, and that which covereth <span
+  class="add">the inwards</span>, and the kidneys, and the caul <span
+  class="add">above</span> the liver: </p>
+id: LEV/9/19
+next:
+  id: LEV/9/20
+  number: '20'
+previous:
+  id: LEV/9/18
+  number: '18'
+reference: 'Leviticus 9:19'

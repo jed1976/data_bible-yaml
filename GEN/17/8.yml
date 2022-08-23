@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 17:8" class="v">8</span>And I
+  will give unto thee, and to thy seed after thee, the land wherein thou art a
+  stranger, all the land of Canaan, for an everlasting possession; and I will be
+  their God.</p>
+id: GEN/17/8
+next:
+  id: GEN/17/9
+  number: '9'
+previous:
+  id: GEN/17/7
+  number: '7'
+reference: 'Genesis 17:8'

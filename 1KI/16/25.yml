@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 16:25" class="v">25</span>¶
+  But Omri wrought evil in the eyes of the <span class="nd">LORD</span>, and did
+  worse than all that <span class="add">were</span> before him. </p>
+id: 1KI/16/25
+next:
+  id: 1KI/16/26
+  number: '26'
+previous:
+  id: 1KI/16/24
+  number: '24'
+reference: '1 Kings 16:25'

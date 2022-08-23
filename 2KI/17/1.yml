@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 17:1" class="v">1</span>In
+  the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign
+  in Samaria over Israel nine years. </p>
+id: 2KI/17/1
+next:
+  id: 2KI/17/2
+  number: '2'
+previous:
+  id: 2KI/16/20
+  number: '20'
+reference: '2 Kings 17:1'

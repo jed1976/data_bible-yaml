@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 7:4" class="v">4</span>Say
+  unto wisdom, Thou <span class="add">art</span> my sister; and call
+  understanding <span class="add">thy</span> kinswoman: </p>
+id: PRO/7/4
+next:
+  id: PRO/7/5
+  number: '5'
+previous:
+  id: PRO/7/3
+  number: '3'
+reference: 'Proverbs 7:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 2:11" class="v">11</span>¶
+  And it came to pass in those days, when Moses was grown, that he went out unto
+  his brethren, and looked on their burdens: and he spied an Egyptian smiting an
+  Hebrew, one of his brethren. </p>
+id: EXO/2/11
+next:
+  id: EXO/2/12
+  number: '12'
+previous:
+  id: EXO/2/10
+  number: '10'
+reference: 'Exodus 2:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 55:3"
+  class="v">3</span>Because of the voice of the enemy, because of the oppression
+  of the wicked: for they cast iniquity upon me, and in wrath they hate me.</p>
+id: PSA/55/3
+next:
+  id: PSA/55/4
+  number: '4'
+previous:
+  id: PSA/55/2
+  number: '2'
+reference: 'Psalms 55:3'

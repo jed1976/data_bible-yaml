@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 32:9" class="v">9</span>And I
+  bought the field of Hanameel my uncle’s son, that <span class="add">was</span>
+  in Anathoth, and weighed him the money, <span class="add">even</span>
+  seventeen shekels of silver. </p>
+id: JER/32/9
+next:
+  id: JER/32/10
+  number: '10'
+previous:
+  id: JER/32/8
+  number: '8'
+reference: 'Jeremiah 32:9'

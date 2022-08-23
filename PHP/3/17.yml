@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PHP 3:17"
+  class="v">17</span>Brethren, be followers together of me, and mark them which
+  walk so as ye have us for an ensample. </p>
+id: PHP/3/17
+next:
+  id: PHP/3/18
+  number: '18'
+previous:
+  id: PHP/3/16
+  number: '16'
+reference: 'Philippians 3:17'

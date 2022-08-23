@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 9:3" class="v">3</span>For I
+  could wish that myself were accursed from Christ for my brethren, my kinsmen
+  according to the flesh: </p>
+id: ROM/9/3
+next:
+  id: ROM/9/4
+  number: '4'
+previous:
+  id: ROM/9/2
+  number: '2'
+reference: 'Romans 9:3'

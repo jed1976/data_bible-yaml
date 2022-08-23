@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LAM 5:4" class="v">4</span>We
+  have drunken our water for money; our wood is sold unto us. </p>
+id: LAM/5/4
+next:
+  id: LAM/5/5
+  number: '5'
+previous:
+  id: LAM/5/3
+  number: '3'
+reference: 'Lamentations 5:4'

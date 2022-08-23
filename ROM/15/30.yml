@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ROM 15:30"
+  class="v">30</span>Now I beseech you, brethren, for the Lord Jesus Christ’s
+  sake, and for the love of the Spirit, that ye strive together with me in <span
+  class="add">your</span> prayers to God for me; </p>
+id: ROM/15/30
+next:
+  id: ROM/15/31
+  number: '31'
+previous:
+  id: ROM/15/29
+  number: '29'
+reference: 'Romans 15:30'

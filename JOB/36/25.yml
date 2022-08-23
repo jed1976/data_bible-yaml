@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 36:25"
+  class="v">25</span>Every man may see it; man may behold <span
+  class="add">it</span> afar off. </p>
+id: JOB/36/25
+next:
+  id: JOB/36/26
+  number: '26'
+previous:
+  id: JOB/36/24
+  number: '24'
+reference: 'Job 36:25'

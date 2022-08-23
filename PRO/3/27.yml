@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 3:27" class="v">27</span>¶
+  Withhold not good from them to whom it is due, when it is in the power of
+  thine hand to do <span class="add">it</span>. </p>
+id: PRO/3/27
+next:
+  id: PRO/3/28
+  number: '28'
+previous:
+  id: PRO/3/26
+  number: '26'
+reference: 'Proverbs 3:27'

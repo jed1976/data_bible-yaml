@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GAL 5:25" class="v">25</span>If
+  we live in the Spirit, let us also walk in the Spirit. </p>
+id: GAL/5/25
+next:
+  id: GAL/5/26
+  number: '26'
+previous:
+  id: GAL/5/24
+  number: '24'
+reference: 'Galatians 5:25'

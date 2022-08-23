@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 20:1" class="v">1</span>And
+  God spake all these words, saying, </p>
+id: EXO/20/1
+next:
+  id: EXO/20/2
+  number: '2'
+previous:
+  id: EXO/19/25
+  number: '25'
+reference: 'Exodus 20:1'

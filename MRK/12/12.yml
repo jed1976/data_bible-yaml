@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 12:12"
+  class="v">12</span>And they sought to lay hold on him, but feared the people:
+  for they knew that he had spoken the parable against them: and they left him,
+  and went their way.</p>
+id: MRK/12/12
+next:
+  id: MRK/12/13
+  number: '13'
+previous:
+  id: MRK/12/11
+  number: '11'
+reference: 'Mark 12:12'

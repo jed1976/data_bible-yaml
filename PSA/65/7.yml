@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 65:7"
+  class="v">7</span>Which stilleth the noise of the seas, the noise of their
+  waves, and the tumult of the people.</p>
+id: PSA/65/7
+next:
+  id: PSA/65/8
+  number: '8'
+previous:
+  id: PSA/65/6
+  number: '6'
+reference: 'Psalms 65:7'

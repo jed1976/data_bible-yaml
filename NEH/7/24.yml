@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NEH 7:24" class="v">24</span>The
+  children of Hariph, an hundred and twelve. </p>
+id: NEH/7/24
+next:
+  id: NEH/7/25
+  number: '25'
+previous:
+  id: NEH/7/23
+  number: '23'
+reference: 'Nehemiah 7:24'

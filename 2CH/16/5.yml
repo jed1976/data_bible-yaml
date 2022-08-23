@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 16:5" class="v">5</span>And
+  it came to pass, when Baasha heard <span class="add">it</span>, that he left
+  off building of Ramah, and let his work cease. </p>
+id: 2CH/16/5
+next:
+  id: 2CH/16/6
+  number: '6'
+previous:
+  id: 2CH/16/4
+  number: '4'
+reference: '2 Chronicles 16:5'

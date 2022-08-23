@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 23:8" class="v">8</span>For
+  the Sadducees say that there is no resurrection, neither angel, nor spirit:
+  but the Pharisees confess both. </p>
+id: ACT/23/8
+next:
+  id: ACT/23/9
+  number: '9'
+previous:
+  id: ACT/23/7
+  number: '7'
+reference: 'Acts 23:8'

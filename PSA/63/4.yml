@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 63:4" class="v">4</span>Thus
+  will I bless thee while I live: I will lift up my hands in thy name.</p>
+id: PSA/63/4
+next:
+  id: PSA/63/5
+  number: '5'
+previous:
+  id: PSA/63/3
+  number: '3'
+reference: 'Psalms 63:4'

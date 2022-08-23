@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 41:25" class="v">25</span>I
+  have raised up <span class="add">one</span> from the north, and he shall come:
+  from the rising of the sun shall he call upon my name: and he shall come upon
+  princes as <span class="add">upon</span> morter, and as the potter treadeth
+  clay. </p>
+id: ISA/41/25
+next:
+  id: ISA/41/26
+  number: '26'
+previous:
+  id: ISA/41/24
+  number: '24'
+reference: 'Isaiah 41:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 21:4" class="v">4</span>But
+  when the morning was now come, Jesus stood on the shore: but the disciples
+  knew not that it was Jesus. </p>
+id: JHN/21/4
+next:
+  id: JHN/21/5
+  number: '5'
+previous:
+  id: JHN/21/3
+  number: '3'
+reference: 'John 21:4'

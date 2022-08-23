@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 13:24" class="v">24</span>¶
+  Or if there be <span class="add">any</span> flesh, in the skin whereof <span
+  class="add">there is</span> a hot burning, and the quick <span
+  class="add">flesh</span> that burneth have a white bright spot, somewhat
+  reddish, or white; </p>
+id: LEV/13/24
+next:
+  id: LEV/13/25
+  number: '25'
+previous:
+  id: LEV/13/23
+  number: '23'
+reference: 'Leviticus 13:24'

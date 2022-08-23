@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAL 3:18"
+  class="v">18</span>Then shall ye return, and discern between the righteous and
+  the wicked, between him that serveth God and him that serveth him not.</p>
+id: MAL/3/18
+next:
+  id: MAL/4/1
+  number: '1'
+previous:
+  id: MAL/3/17
+  number: '17'
+reference: 'Malachi 3:18'

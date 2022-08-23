@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 23:15" class="v">15</span>¶
+  And ye shall count unto you from the morrow after the sabbath, from the day
+  that ye brought the sheaf of the wave offering; seven sabbaths shall be
+  complete: </p>
+id: LEV/23/15
+next:
+  id: LEV/23/16
+  number: '16'
+previous:
+  id: LEV/23/14
+  number: '14'
+reference: 'Leviticus 23:15'

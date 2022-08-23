@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 23:6" class="v">6</span>Thou
+  shalt not seek their peace nor their prosperity all thy days for ever.</p>
+id: DEU/23/6
+next:
+  id: DEU/23/7
+  number: '7'
+previous:
+  id: DEU/23/5
+  number: '5'
+reference: 'Deuteronomy 23:6'

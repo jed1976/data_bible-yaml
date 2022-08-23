@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 19:18" class="v">18</span>¶
+  In that day shall five cities in the land of Egypt speak the language of
+  Canaan, and swear to the <span class="nd">LORD</span> of hosts; one shall be
+  called, The city of destruction. </p>
+id: ISA/19/18
+next:
+  id: ISA/19/19
+  number: '19'
+previous:
+  id: ISA/19/17
+  number: '17'
+reference: 'Isaiah 19:18'

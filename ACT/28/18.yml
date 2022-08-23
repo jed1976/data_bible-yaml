@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 28:18"
+  class="v">18</span>Who, when they had examined me, would have let <span
+  class="add">me</span> go, because there was no cause of death in me. </p>
+id: ACT/28/18
+next:
+  id: ACT/28/19
+  number: '19'
+previous:
+  id: ACT/28/17
+  number: '17'
+reference: 'Acts 28:18'

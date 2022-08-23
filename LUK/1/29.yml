@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 1:29" class="v">29</span>And
+  when she saw <span class="add">him</span>, she was troubled at his saying, and
+  cast in her mind what manner of salutation this should be. </p>
+id: LUK/1/29
+next:
+  id: LUK/1/30
+  number: '30'
+previous:
+  id: LUK/1/28
+  number: '28'
+reference: 'Luke 1:29'

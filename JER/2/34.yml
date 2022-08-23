@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JER 2:34"
+  class="v">34</span>Also in thy skirts is found the blood of the souls of the
+  poor innocents: I have not found it by secret search, but upon all these. </p>
+id: JER/2/34
+next:
+  id: JER/2/35
+  number: '35'
+previous:
+  id: JER/2/33
+  number: '33'
+reference: 'Jeremiah 2:34'

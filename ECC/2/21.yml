@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ECC 2:21" class="v">21</span>For
+  there is a man whose labour <span class="add">is</span> in wisdom, and in
+  knowledge, and in equity; yet to a man that hath not laboured therein shall he
+  leave it <span class="add">for</span> his portion. This also <span
+  class="add">is</span> vanity and a great evil. </p>
+id: ECC/2/21
+next:
+  id: ECC/2/22
+  number: '22'
+previous:
+  id: ECC/2/20
+  number: '20'
+reference: 'Ecclesiastes 2:21'

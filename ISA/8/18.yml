@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 8:18"
+  class="v">18</span>Behold, I and the children whom the <span
+  class="nd">LORD</span> hath given me <span class="add">are</span> for signs
+  and for wonders in Israel from the <span class="nd">LORD</span> of hosts,
+  which dwelleth in mount Zion.</p>
+id: ISA/8/18
+next:
+  id: ISA/8/19
+  number: '19'
+previous:
+  id: ISA/8/17
+  number: '17'
+reference: 'Isaiah 8:18'

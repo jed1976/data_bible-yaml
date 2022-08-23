@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 33:3" class="v">3</span>Call
+  unto me, and I will answer thee, and shew thee great and mighty things, which
+  thou knowest not. </p>
+id: JER/33/3
+next:
+  id: JER/33/4
+  number: '4'
+previous:
+  id: JER/33/2
+  number: '2'
+reference: 'Jeremiah 33:3'

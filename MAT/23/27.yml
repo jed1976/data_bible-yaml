@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 23:27"
+  class="v">27</span><span class="wj">Woe unto you, scribes and Pharisees,
+  hypocrites! for ye are like unto whited sepulchres, which indeed appear
+  beautiful outward, but are within full of dead <span class="add">men’s</span>
+  bones, and of all uncleanness.</span> </p>
+id: MAT/23/27
+next:
+  id: MAT/23/28
+  number: '28'
+previous:
+  id: MAT/23/26
+  number: '26'
+reference: 'Matthew 23:27'

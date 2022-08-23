@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 27:25" class="v">25</span>¶
+  And over the king’s treasures <span class="add">was</span> Azmaveth the son of
+  Adiel: and over the storehouses in the fields, in the cities, and in the
+  villages, and in the castles, <span class="add">was</span> Jehonathan the son
+  of Uzziah: </p>
+id: 1CH/27/25
+next:
+  id: 1CH/27/26
+  number: '26'
+previous:
+  id: 1CH/27/24
+  number: '24'
+reference: '1 Chronicles 27:25'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 29:7" class="v">7</span>The
+  voice of the <span class="nd">LORD</span> divideth the flames of fire.</p>
+id: PSA/29/7
+next:
+  id: PSA/29/8
+  number: '8'
+previous:
+  id: PSA/29/6
+  number: '6'
+reference: 'Psalms 29:7'

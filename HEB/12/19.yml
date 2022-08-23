@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="HEB 12:19"
+  class="v">19</span>And the sound of a trumpet, and the voice of words; which
+  <span class="add">voice</span> they that heard intreated that the word should
+  not be spoken to them any more: </p>
+id: HEB/12/19
+next:
+  id: HEB/12/20
+  number: '20'
+previous:
+  id: HEB/12/18
+  number: '18'
+reference: 'Hebrews 12:19'

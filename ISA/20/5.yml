@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 20:5" class="v">5</span>And
+  they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt
+  their glory. </p>
+id: ISA/20/5
+next:
+  id: ISA/20/6
+  number: '6'
+previous:
+  id: ISA/20/4
+  number: '4'
+reference: 'Isaiah 20:5'

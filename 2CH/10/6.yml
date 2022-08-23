@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CH 10:6" class="v">6</span>¶ And
+  king Rehoboam took counsel with the old men that had stood before Solomon his
+  father while he yet lived, saying, What counsel give ye <span
+  class="add">me</span> to return answer to this people? </p>
+id: 2CH/10/6
+next:
+  id: 2CH/10/7
+  number: '7'
+previous:
+  id: 2CH/10/5
+  number: '5'
+reference: '2 Chronicles 10:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 29:15" class="v">15</span>¶
+  Because ye have said, The <span class="nd">LORD</span> hath raised us up
+  prophets in Babylon; </p>
+id: JER/29/15
+next:
+  id: JER/29/16
+  number: '16'
+previous:
+  id: JER/29/14
+  number: '14'
+reference: 'Jeremiah 29:15'

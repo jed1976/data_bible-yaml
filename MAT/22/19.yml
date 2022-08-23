@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 22:19"
+  class="v">19</span><span class="wj">Shew me the tribute money.</span> And they
+  brought unto him a penny. </p>
+id: MAT/22/19
+next:
+  id: MAT/22/20
+  number: '20'
+previous:
+  id: MAT/22/18
+  number: '18'
+reference: 'Matthew 22:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 9:1" class="v">1</span>And he
+  said unto them, <span class="wj">Verily I say unto you, That there be some of
+  them that stand here, which shall not taste of death, till they have seen the
+  kingdom of God come with power.</span></p>
+id: MRK/9/1
+next:
+  id: MRK/9/2
+  number: '2'
+previous:
+  id: MRK/8/38
+  number: '38'
+reference: 'Mark 9:1'

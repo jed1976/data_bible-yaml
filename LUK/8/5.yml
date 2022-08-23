@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 8:5" class="v">5</span><span
+  class="wj">A sower went out to sow his seed: and as he sowed, some fell by the
+  way side; and it was trodden down, and the fowls of the air devoured
+  it.</span> </p>
+id: LUK/8/5
+next:
+  id: LUK/8/6
+  number: '6'
+previous:
+  id: LUK/8/4
+  number: '4'
+reference: 'Luke 8:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 12:15"
+  class="v">15</span>Behold, he withholdeth the waters, and they dry up: also he
+  sendeth them out, and they overturn the earth. </p>
+id: JOB/12/15
+next:
+  id: JOB/12/16
+  number: '16'
+previous:
+  id: JOB/12/14
+  number: '14'
+reference: 'Job 12:15'

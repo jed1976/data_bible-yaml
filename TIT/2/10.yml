@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="TIT 2:10" class="v">10</span>Not
+  purloining, but shewing all good fidelity; that they may adorn the doctrine of
+  God our Saviour in all things. </p>
+id: TIT/2/10
+next:
+  id: TIT/2/11
+  number: '11'
+previous:
+  id: TIT/2/9
+  number: '9'
+reference: 'Titus 2:10'

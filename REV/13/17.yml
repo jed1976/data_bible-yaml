@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="REV 13:17"
+  class="v">17</span>And that no man might buy or sell, save he that had the
+  mark, or the name of the beast, or the number of his name. </p>
+id: REV/13/17
+next:
+  id: REV/13/18
+  number: '18'
+previous:
+  id: REV/13/16
+  number: '16'
+reference: 'Revelation 13:17'

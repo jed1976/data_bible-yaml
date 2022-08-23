@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 19:38"
+  class="v">38</span>Wherefore if Demetrius, and the craftsmen which are with
+  him, have a matter against any man, the law is open, and there are deputies:
+  let them implead one another. </p>
+id: ACT/19/38
+next:
+  id: ACT/19/39
+  number: '39'
+previous:
+  id: ACT/19/37
+  number: '37'
+reference: 'Acts 19:38'

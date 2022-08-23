@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 16:30" class="v">30</span>He
+  shutteth his eyes to devise froward things: moving his lips he bringeth evil
+  to pass. </p>
+id: PRO/16/30
+next:
+  id: PRO/16/31
+  number: '31'
+previous:
+  id: PRO/16/29
+  number: '29'
+reference: 'Proverbs 16:30'

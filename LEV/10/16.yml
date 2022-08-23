@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 10:16" class="v">16</span>¶
+  And Moses diligently sought the goat of the sin offering, and, behold, it was
+  burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron <span
+  class="add">which were</span> left <span class="add">alive</span>, saying,
+  </p>
+id: LEV/10/16
+next:
+  id: LEV/10/17
+  number: '17'
+previous:
+  id: LEV/10/15
+  number: '15'
+reference: 'Leviticus 10:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 65:13"
+  class="v">13</span>Therefore thus saith the Lord <span class="nd">GOD</span>,
+  Behold, my servants shall eat, but ye shall be hungry: behold, my servants
+  shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but
+  ye shall be ashamed: </p>
+id: ISA/65/13
+next:
+  id: ISA/65/14
+  number: '14'
+previous:
+  id: ISA/65/12
+  number: '12'
+reference: 'Isaiah 65:13'

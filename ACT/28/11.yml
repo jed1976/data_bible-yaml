@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 28:11"
+  class="v">11</span>And after three months we departed in a ship of Alexandria,
+  which had wintered in the isle, whose sign was Castor and Pollux. </p>
+id: ACT/28/11
+next:
+  id: ACT/28/12
+  number: '12'
+previous:
+  id: ACT/28/10
+  number: '10'
+reference: 'Acts 28:11'

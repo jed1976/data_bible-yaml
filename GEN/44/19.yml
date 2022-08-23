@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 44:19" class="v">19</span>My
+  lord asked his servants, saying, Have ye a father, or a brother? </p>
+id: GEN/44/19
+next:
+  id: GEN/44/20
+  number: '20'
+previous:
+  id: GEN/44/18
+  number: '18'
+reference: 'Genesis 44:19'

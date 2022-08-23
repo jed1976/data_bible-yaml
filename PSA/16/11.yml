@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 16:11"
+  class="v">11</span>Thou wilt shew me the path of life: in thy presence <span
+  class="add">is</span> fulness of joy; at thy right hand <span
+  class="add">there are</span> pleasures for evermore.</p>
+id: PSA/16/11
+next:
+  id: PSA/17/1
+  number: '1'
+previous:
+  id: PSA/16/10
+  number: '10'
+reference: 'Psalms 16:11'

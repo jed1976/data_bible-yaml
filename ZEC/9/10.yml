@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 9:10" class="v">10</span>And
+  I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the
+  battle bow shall be cut off: and he shall speak peace unto the heathen: and
+  his dominion <span class="add">shall be</span> from sea <span
+  class="add">even</span> to sea, and from the river <span
+  class="add">even</span> to the ends of the earth. </p>
+id: ZEC/9/10
+next:
+  id: ZEC/9/11
+  number: '11'
+previous:
+  id: ZEC/9/9
+  number: '9'
+reference: 'Zechariah 9:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 31:49"
+  class="v">49</span>And they said unto Moses, Thy servants have taken the sum
+  of the men of war which <span class="add">are</span> under our charge, and
+  there lacketh not one man of us. </p>
+id: NUM/31/49
+next:
+  id: NUM/31/50
+  number: '50'
+previous:
+  id: NUM/31/48
+  number: '48'
+reference: 'Numbers 31:49'

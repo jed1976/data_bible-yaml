@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 11:7" class="v">7</span>And
+  Beth-zur, and Shoco, and Adullam, </p>
+id: 2CH/11/7
+next:
+  id: 2CH/11/8
+  number: '8'
+previous:
+  id: 2CH/11/6
+  number: '6'
+reference: '2 Chronicles 11:7'

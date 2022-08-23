@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 22:12"
+  class="v">12</span>And in that day did the Lord <span class="nd">GOD</span> of
+  hosts call to weeping, and to mourning, and to baldness, and to girding with
+  sackcloth: </p>
+id: ISA/22/12
+next:
+  id: ISA/22/13
+  number: '13'
+previous:
+  id: ISA/22/11
+  number: '11'
+reference: 'Isaiah 22:12'

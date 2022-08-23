@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 76:2" class="v">2</span>In
+  Salem also is his tabernacle, and his dwelling place in Zion.</p>
+id: PSA/76/2
+next:
+  id: PSA/76/3
+  number: '3'
+previous:
+  id: PSA/76/1
+  number: '1'
+reference: 'Psalms 76:2'

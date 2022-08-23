@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 32:9" class="v">9</span>For
+  the <span class="nd">LORD’s</span> portion <span class="add">is</span> his
+  people; Jacob <span class="add">is</span> the lot of his inheritance. </p>
+id: DEU/32/9
+next:
+  id: DEU/32/10
+  number: '10'
+previous:
+  id: DEU/32/8
+  number: '8'
+reference: 'Deuteronomy 32:9'

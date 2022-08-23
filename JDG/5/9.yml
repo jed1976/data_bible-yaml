@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 5:9" class="v">9</span>My
+  heart <span class="add">is</span> toward the governors of Israel, that offered
+  themselves willingly among the people. Bless ye the <span
+  class="nd">LORD</span>. </p>
+id: JDG/5/9
+next:
+  id: JDG/5/10
+  number: '10'
+previous:
+  id: JDG/5/8
+  number: '8'
+reference: 'Judges 5:9'

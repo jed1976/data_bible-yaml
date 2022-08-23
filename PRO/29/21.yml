@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 29:21" class="v">21</span>He
+  that delicately bringeth up his servant from a child shall have him become
+  <span class="add">his</span> son at the length. </p>
+id: PRO/29/21
+next:
+  id: PRO/29/22
+  number: '22'
+previous:
+  id: PRO/29/20
+  number: '20'
+reference: 'Proverbs 29:21'

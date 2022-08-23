@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEP 3:7" class="v">7</span>I
+  said, Surely thou wilt fear me, thou wilt receive instruction; so their
+  dwelling should not be cut off, howsoever I punished them: but they rose
+  early, <span class="add">and</span> corrupted all their doings.</p>
+id: ZEP/3/7
+next:
+  id: ZEP/3/8
+  number: '8'
+previous:
+  id: ZEP/3/6
+  number: '6'
+reference: 'Zephaniah 3:7'

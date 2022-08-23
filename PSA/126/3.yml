@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 126:3" class="v">3</span>The
+  <span class="nd">LORD</span> hath done great things for us; <span
+  class="add">whereof</span> we are glad.</p>
+id: PSA/126/3
+next:
+  id: PSA/126/4
+  number: '4'
+previous:
+  id: PSA/126/2
+  number: '2'
+reference: 'Psalms 126:3'

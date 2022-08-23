@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 47:7" class="v">7</span>Now
+  when I had returned, behold, at the bank of the river <span
+  class="add">were</span> very many trees on the one side and on the other. </p>
+id: EZK/47/7
+next:
+  id: EZK/47/8
+  number: '8'
+previous:
+  id: EZK/47/6
+  number: '6'
+reference: 'Ezekiel 47:7'

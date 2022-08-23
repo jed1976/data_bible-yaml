@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 36:21"
+  class="v">21</span>The length of a board <span class="add">was</span> ten
+  cubits, and the breadth of a board one cubit and a half. </p>
+id: EXO/36/21
+next:
+  id: EXO/36/22
+  number: '22'
+previous:
+  id: EXO/36/20
+  number: '20'
+reference: 'Exodus 36:21'

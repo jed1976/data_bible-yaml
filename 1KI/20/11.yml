@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 20:11"
+  class="v">11</span>And the king of Israel answered and said, Tell <span
+  class="add">him</span>, Let not him that girdeth on <span class="add">his
+  harness</span> boast himself as he that putteth it off.</p>
+id: 1KI/20/11
+next:
+  id: 1KI/20/12
+  number: '12'
+previous:
+  id: 1KI/20/10
+  number: '10'
+reference: '1 Kings 20:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 8:14" class="v">14</span>For
+  as many as are led by the Spirit of God, they are the sons of God. </p>
+id: ROM/8/14
+next:
+  id: ROM/8/15
+  number: '15'
+previous:
+  id: ROM/8/13
+  number: '13'
+reference: 'Romans 8:14'

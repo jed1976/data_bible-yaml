@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 27:21"
+  class="v">21</span>But after long abstinence Paul stood forth in the midst of
+  them, and said, Sirs, ye should have hearkened unto me, and not have loosed
+  from Crete, and to have gained this harm and loss. </p>
+id: ACT/27/21
+next:
+  id: ACT/27/22
+  number: '22'
+previous:
+  id: ACT/27/20
+  number: '20'
+reference: 'Acts 27:21'

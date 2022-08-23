@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HEB 10:23"
+  class="v">23</span>Let us hold fast the profession of <span
+  class="add">our</span> faith without wavering; (for he <span
+  class="add">is</span> faithful that promised;) </p>
+id: HEB/10/23
+next:
+  id: HEB/10/24
+  number: '24'
+previous:
+  id: HEB/10/22
+  number: '22'
+reference: 'Hebrews 10:23'

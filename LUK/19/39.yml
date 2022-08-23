@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="LUK 19:39"
+  class="v">39</span>And some of the Pharisees from among the multitude said
+  unto him, Master, rebuke thy disciples. </p>
+id: LUK/19/39
+next:
+  id: LUK/19/40
+  number: '40'
+previous:
+  id: LUK/19/38
+  number: '38'
+reference: 'Luke 19:39'

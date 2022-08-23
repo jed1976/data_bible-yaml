@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOB 41:31" class="v">31</span>He
+  maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
+  </p>
+id: JOB/41/31
+next:
+  id: JOB/41/32
+  number: '32'
+previous:
+  id: JOB/41/30
+  number: '30'
+reference: 'Job 41:31'

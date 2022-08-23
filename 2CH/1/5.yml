@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 1:5"
+  class="v">5</span>Moreover the brasen altar, that Bezaleel the son of Uri, the
+  son of Hur, had made, he put before the tabernacle of the <span
+  class="nd">LORD</span>: and Solomon and the congregation sought unto it. </p>
+id: 2CH/1/5
+next:
+  id: 2CH/1/6
+  number: '6'
+previous:
+  id: 2CH/1/4
+  number: '4'
+reference: '2 Chronicles 1:5'

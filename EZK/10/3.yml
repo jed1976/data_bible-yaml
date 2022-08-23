@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 10:3" class="v">3</span>Now
+  the cherubims stood on the right side of the house, when the man went in; and
+  the cloud filled the inner court. </p>
+id: EZK/10/3
+next:
+  id: EZK/10/4
+  number: '4'
+previous:
+  id: EZK/10/2
+  number: '2'
+reference: 'Ezekiel 10:3'

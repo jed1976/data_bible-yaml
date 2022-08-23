@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 17:15"
+  class="v">15</span><span class="wj">I pray not that thou shouldest take them
+  out of the world, but that thou shouldest keep them from the evil.</span> </p>
+id: JHN/17/15
+next:
+  id: JHN/17/16
+  number: '16'
+previous:
+  id: JHN/17/14
+  number: '14'
+reference: 'John 17:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 30:8" class="v">8</span>I
+  cried to thee, O <span class="nd">LORD</span>; and unto the <span
+  class="nd">LORD</span> I made supplication.</p>
+id: PSA/30/8
+next:
+  id: PSA/30/9
+  number: '9'
+previous:
+  id: PSA/30/7
+  number: '7'
+reference: 'Psalms 30:8'

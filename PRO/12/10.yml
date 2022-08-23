@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 12:10" class="v">10</span>A
+  righteous <span class="add">man</span> regardeth the life of his beast: but
+  the tender mercies of the wicked <span class="add">are</span> cruel. </p>
+id: PRO/12/10
+next:
+  id: PRO/12/11
+  number: '11'
+previous:
+  id: PRO/12/9
+  number: '9'
+reference: 'Proverbs 12:10'

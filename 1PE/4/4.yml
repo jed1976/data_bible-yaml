@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1PE 4:4"
+  class="v">4</span>Wherein they think it strange that ye run not with <span
+  class="add">them</span> to the same excess of riot, speaking evil of <span
+  class="add">you</span>: </p>
+id: 1PE/4/4
+next:
+  id: 1PE/4/5
+  number: '5'
+previous:
+  id: 1PE/4/3
+  number: '3'
+reference: '1 Peter 4:4'

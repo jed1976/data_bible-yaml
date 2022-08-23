@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 19:40"
+  class="v">40</span>For we are in danger to be called in question for this
+  day’s uproar, there being no cause whereby we may give an account of this
+  concourse. </p>
+id: ACT/19/40
+next:
+  id: ACT/19/41
+  number: '41'
+previous:
+  id: ACT/19/39
+  number: '39'
+reference: 'Acts 19:40'

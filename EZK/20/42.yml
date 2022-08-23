@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EZK 20:42"
+  class="v">42</span>And ye shall know that I <span class="add">am</span> the
+  <span class="nd">LORD</span>, when I shall bring you into the land of Israel,
+  into the country <span class="add">for</span> the which I lifted up mine hand
+  to give it to your fathers. </p>
+id: EZK/20/42
+next:
+  id: EZK/20/43
+  number: '43'
+previous:
+  id: EZK/20/41
+  number: '41'
+reference: 'Ezekiel 20:42'

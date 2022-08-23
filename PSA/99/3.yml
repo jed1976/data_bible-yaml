@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 99:3" class="v">3</span>Let
+  them praise thy great and terrible name; <span class="add">for</span> it <span
+  class="add">is</span> holy.</p>
+id: PSA/99/3
+next:
+  id: PSA/99/4
+  number: '4'
+previous:
+  id: PSA/99/2
+  number: '2'
+reference: 'Psalms 99:3'

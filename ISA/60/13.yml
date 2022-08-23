@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 60:13"
+  class="v">13</span>The glory of Lebanon shall come unto thee, the fir tree,
+  the pine tree, and the box together, to beautify the place of my sanctuary;
+  and I will make the place of my feet glorious. </p>
+id: ISA/60/13
+next:
+  id: ISA/60/14
+  number: '14'
+previous:
+  id: ISA/60/12
+  number: '12'
+reference: 'Isaiah 60:13'

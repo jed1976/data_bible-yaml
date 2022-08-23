@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2PE 2:15"
+  class="v">15</span>Which have forsaken the right way, and are gone astray,
+  following the way of Balaam <span class="add">the son</span> of Bosor, who
+  loved the wages of unrighteousness; </p>
+id: 2PE/2/15
+next:
+  id: 2PE/2/16
+  number: '16'
+previous:
+  id: 2PE/2/14
+  number: '14'
+reference: '2 Peter 2:15'

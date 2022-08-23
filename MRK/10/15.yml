@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 10:15"
+  class="v">15</span><span class="wj">Verily I say unto you, Whosoever shall not
+  receive the kingdom of God as a little child, he shall not enter
+  therein.</span> </p>
+id: MRK/10/15
+next:
+  id: MRK/10/16
+  number: '16'
+previous:
+  id: MRK/10/14
+  number: '14'
+reference: 'Mark 10:15'

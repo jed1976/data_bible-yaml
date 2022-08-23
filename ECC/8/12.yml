@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 8:12" class="v">12</span>¶
+  Though a sinner do evil an hundred times, and his <span
+  class="add">days</span> be prolonged, yet surely I know that it shall be well
+  with them that fear God, which fear before him: </p>
+id: ECC/8/12
+next:
+  id: ECC/8/13
+  number: '13'
+previous:
+  id: ECC/8/11
+  number: '11'
+reference: 'Ecclesiastes 8:12'

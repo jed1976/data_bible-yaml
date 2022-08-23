@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PHP 3:16"
+  class="v">16</span>Nevertheless, whereto we have already attained, let us walk
+  by the same rule, let us mind the same thing. </p>
+id: PHP/3/16
+next:
+  id: PHP/3/17
+  number: '17'
+previous:
+  id: PHP/3/15
+  number: '15'
+reference: 'Philippians 3:16'

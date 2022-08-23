@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 6:13"
+  class="v">13</span><span class="wj">And lead us not into temptation, but
+  deliver us from evil: For thine is the kingdom, and the power, and the glory,
+  for ever. Amen.</span> </p>
+id: MAT/6/13
+next:
+  id: MAT/6/14
+  number: '14'
+previous:
+  id: MAT/6/12
+  number: '12'
+reference: 'Matthew 6:13'

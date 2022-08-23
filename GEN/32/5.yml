@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 32:5" class="v">5</span>And I
+  have oxen, and asses, flocks, and menservants, and womenservants: and I have
+  sent to tell my lord, that I may find grace in thy sight.</p>
+id: GEN/32/5
+next:
+  id: GEN/32/6
+  number: '6'
+previous:
+  id: GEN/32/4
+  number: '4'
+reference: 'Genesis 32:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 4:5" class="v">5</span>Then
+  the angel that talked with me answered and said unto me, Knowest thou not what
+  these be? And I said, No, my lord. </p>
+id: ZEC/4/5
+next:
+  id: ZEC/4/6
+  number: '6'
+previous:
+  id: ZEC/4/4
+  number: '4'
+reference: 'Zechariah 4:5'

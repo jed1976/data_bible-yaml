@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 33:19" class="v">19</span>He
+  is chastened also with pain upon his bed, and the multitude of his bones with
+  strong <span class="add">pain:</span> </p>
+id: JOB/33/19
+next:
+  id: JOB/33/20
+  number: '20'
+previous:
+  id: JOB/33/18
+  number: '18'
+reference: 'Job 33:19'

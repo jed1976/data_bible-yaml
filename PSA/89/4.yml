@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 89:4" class="v">4</span>Thy
+  seed will I establish for ever, and build up thy throne to all generations.
+  Selah.</p>
+id: PSA/89/4
+next:
+  id: PSA/89/5
+  number: '5'
+previous:
+  id: PSA/89/3
+  number: '3'
+reference: 'Psalms 89:4'

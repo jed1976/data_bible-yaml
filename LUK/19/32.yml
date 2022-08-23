@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 19:32"
+  class="v">32</span>And they that were sent went their way, and found even as
+  he had said unto them. </p>
+id: LUK/19/32
+next:
+  id: LUK/19/33
+  number: '33'
+previous:
+  id: LUK/19/31
+  number: '31'
+reference: 'Luke 19:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 32:3" class="v">3</span>Also
+  against his three friends was his wrath kindled, because they had found no
+  answer, and <span class="add">yet</span> had condemned Job. </p>
+id: JOB/32/3
+next:
+  id: JOB/32/4
+  number: '4'
+previous:
+  id: JOB/32/2
+  number: '2'
+reference: 'Job 32:3'

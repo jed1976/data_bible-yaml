@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 3:12" class="v">12</span>And
+  next unto him repaired Shallum the son of Halohesh, the ruler of the half part
+  of Jerusalem, he and his daughters. </p>
+id: NEH/3/12
+next:
+  id: NEH/3/13
+  number: '13'
+previous:
+  id: NEH/3/11
+  number: '11'
+reference: 'Nehemiah 3:12'

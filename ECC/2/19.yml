@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ECC 2:19" class="v">19</span>And
+  who knoweth whether he shall be a wise <span class="add">man</span> or a fool?
+  yet shall he have rule over all my labour wherein I have laboured, and wherein
+  I have shewed myself wise under the sun. This <span class="add">is</span> also
+  vanity. </p>
+id: ECC/2/19
+next:
+  id: ECC/2/20
+  number: '20'
+previous:
+  id: ECC/2/18
+  number: '18'
+reference: 'Ecclesiastes 2:19'

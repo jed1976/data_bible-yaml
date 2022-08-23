@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 9:12" class="v">12</span>The
+  Syrians before, and the Philistines behind; and they shall devour Israel with
+  open mouth. For all this his anger is not turned away, but his hand <span
+  class="add">is</span> stretched out still.</p>
+id: ISA/9/12
+next:
+  id: ISA/9/13
+  number: '13'
+previous:
+  id: ISA/9/11
+  number: '11'
+reference: 'Isaiah 9:12'

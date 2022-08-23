@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 29:18"
+  class="v">18</span>Where <span class="add">there is</span> no vision, the
+  people perish: but he that keepeth the law, happy <span class="add">is</span>
+  he. </p>
+id: PRO/29/18
+next:
+  id: PRO/29/19
+  number: '19'
+previous:
+  id: PRO/29/17
+  number: '17'
+reference: 'Proverbs 29:18'

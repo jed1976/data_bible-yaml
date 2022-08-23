@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 18:20"
+  class="v">20</span>And thou shalt teach them ordinances and laws, and shalt
+  shew them the way wherein they must walk, and the work that they must do. </p>
+id: EXO/18/20
+next:
+  id: EXO/18/21
+  number: '21'
+previous:
+  id: EXO/18/19
+  number: '19'
+reference: 'Exodus 18:20'

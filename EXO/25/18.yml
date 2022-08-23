@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 25:18"
+  class="v">18</span>And thou shalt make two cherubims <span
+  class="add">of</span> gold, <span class="add">of</span> beaten work shalt thou
+  make them, in the two ends of the mercy seat. </p>
+id: EXO/25/18
+next:
+  id: EXO/25/19
+  number: '19'
+previous:
+  id: EXO/25/17
+  number: '17'
+reference: 'Exodus 25:18'

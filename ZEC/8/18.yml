@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ZEC 8:18" class="v">18</span>¶
+  And the word of the <span class="nd">LORD</span> of hosts came unto me,
+  saying, </p>
+id: ZEC/8/18
+next:
+  id: ZEC/8/19
+  number: '19'
+previous:
+  id: ZEC/8/17
+  number: '17'
+reference: 'Zechariah 8:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 19:9" class="v">9</span>¶ And
+  when ye reap the harvest of your land, thou shalt not wholly reap the corners
+  of thy field, neither shalt thou gather the gleanings of thy harvest. </p>
+id: LEV/19/9
+next:
+  id: LEV/19/10
+  number: '10'
+previous:
+  id: LEV/19/8
+  number: '8'
+reference: 'Leviticus 19:9'

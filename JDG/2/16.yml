@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 2:16" class="v">16</span>¶
+  Nevertheless the <span class="nd">LORD</span> raised up judges, which
+  delivered them out of the hand of those that spoiled them. </p>
+id: JDG/2/16
+next:
+  id: JDG/2/17
+  number: '17'
+previous:
+  id: JDG/2/15
+  number: '15'
+reference: 'Judges 2:16'

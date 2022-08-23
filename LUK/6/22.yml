@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 6:22"
+  class="v">22</span><span class="wj">Blessed are ye, when men shall hate you,
+  and when they shall separate you <span class="add">from their company</span>,
+  and shall reproach <span class="add">you</span>, and cast out your name as
+  evil, for the Son of man’s sake.</span> </p>
+id: LUK/6/22
+next:
+  id: LUK/6/23
+  number: '23'
+previous:
+  id: LUK/6/21
+  number: '21'
+reference: 'Luke 6:22'

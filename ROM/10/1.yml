@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 10:1"
+  class="v">1</span>Brethren, my heart’s desire and prayer to God for Israel is,
+  that they might be saved. </p>
+id: ROM/10/1
+next:
+  id: ROM/10/2
+  number: '2'
+previous:
+  id: ROM/9/33
+  number: '33'
+reference: 'Romans 10:1'

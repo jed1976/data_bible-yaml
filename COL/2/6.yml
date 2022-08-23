@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="COL 2:6" class="v">6</span>As ye
+  have therefore received Christ Jesus the Lord, <span class="add">so</span>
+  walk ye in him: </p>
+id: COL/2/6
+next:
+  id: COL/2/7
+  number: '7'
+previous:
+  id: COL/2/5
+  number: '5'
+reference: 'Colossians 2:6'

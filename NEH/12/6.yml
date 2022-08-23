@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 12:6"
+  class="v">6</span>Shemaiah, and Joiarib, Jedaiah, </p>
+id: NEH/12/6
+next:
+  id: NEH/12/7
+  number: '7'
+previous:
+  id: NEH/12/5
+  number: '5'
+reference: 'Nehemiah 12:6'

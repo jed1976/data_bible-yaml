@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 8:5"
+  class="v">5</span>Saying, When will the new moon be gone, that we may sell
+  corn? and the sabbath, that we may set forth wheat, making the ephah small,
+  and the shekel great, and falsifying the balances by deceit? </p>
+id: AMO/8/5
+next:
+  id: AMO/8/6
+  number: '6'
+previous:
+  id: AMO/8/4
+  number: '4'
+reference: 'Amos 8:5'

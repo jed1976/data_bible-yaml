@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 4:8" class="v">8</span>There
+  is one <span class="add">alone</span>, and <span class="add">there is</span>
+  not a second; yea, he hath neither child nor brother: yet <span class="add">is
+  there</span> no end of all his labour; neither is his eye satisfied with
+  riches; neither <span class="add">saith he</span>, For whom do I labour, and
+  bereave my soul of good? This <span class="add">is</span> also vanity, yea, it
+  <span class="add">is</span> a sore travail.</p>
+id: ECC/4/8
+next:
+  id: ECC/4/9
+  number: '9'
+previous:
+  id: ECC/4/7
+  number: '7'
+reference: 'Ecclesiastes 4:8'

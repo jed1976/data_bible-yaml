@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PHP 3:7" class="v">7</span>But
+  what things were gain to me, those I counted loss for Christ. </p>
+id: PHP/3/7
+next:
+  id: PHP/3/8
+  number: '8'
+previous:
+  id: PHP/3/6
+  number: '6'
+reference: 'Philippians 3:7'

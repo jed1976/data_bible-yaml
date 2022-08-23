@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 20:4" class="v">4</span>And
+  the Levite, the husband of the woman that was slain, answered and said, I came
+  into Gibeah that <span class="add">belongeth</span> to Benjamin, I and my
+  concubine, to lodge. </p>
+id: JDG/20/4
+next:
+  id: JDG/20/5
+  number: '5'
+previous:
+  id: JDG/20/3
+  number: '3'
+reference: 'Judges 20:4'

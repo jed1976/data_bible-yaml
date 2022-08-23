@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 29:4" class="v">4</span>And
+  thou shalt be brought down, <span class="add">and</span> shalt speak out of
+  the ground, and thy speech shall be low out of the dust, and thy voice shall
+  be, as of one that hath a familiar spirit, out of the ground, and thy speech
+  shall whisper out of the dust. </p>
+id: ISA/29/4
+next:
+  id: ISA/29/5
+  number: '5'
+previous:
+  id: ISA/29/3
+  number: '3'
+reference: 'Isaiah 29:4'

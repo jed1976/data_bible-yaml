@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 114:4" class="v">4</span>The
+  mountains skipped like rams, <span class="add">and</span> the little hills
+  like lambs.</p>
+id: PSA/114/4
+next:
+  id: PSA/114/5
+  number: '5'
+previous:
+  id: PSA/114/3
+  number: '3'
+reference: 'Psalms 114:4'

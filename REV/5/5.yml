@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 5:5" class="v">5</span>And
+  one of the elders saith unto me, Weep not: behold, the Lion of the tribe of
+  Juda, the Root of David, hath prevailed to open the book, and to loose the
+  seven seals thereof. </p>
+id: REV/5/5
+next:
+  id: REV/5/6
+  number: '6'
+previous:
+  id: REV/5/4
+  number: '4'
+reference: 'Revelation 5:5'

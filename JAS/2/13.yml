@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JAS 2:13" class="v">13</span>For
+  he shall have judgment without mercy, that hath shewed no mercy; and mercy
+  rejoiceth against judgment. </p>
+id: JAS/2/13
+next:
+  id: JAS/2/14
+  number: '14'
+previous:
+  id: JAS/2/12
+  number: '12'
+reference: 'James 2:13'

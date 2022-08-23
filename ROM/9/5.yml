@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 9:5" class="v">5</span>Whose
+  <span class="add">are</span> the fathers, and of whom as concerning the flesh
+  Christ <span class="add">came</span>, who is over all, God blessed for ever.
+  Amen.</p>
+id: ROM/9/5
+next:
+  id: ROM/9/6
+  number: '6'
+previous:
+  id: ROM/9/4
+  number: '4'
+reference: 'Romans 9:5'

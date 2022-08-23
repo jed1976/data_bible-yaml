@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 18:20"
+  class="v">20</span>Jesus answered him, <span class="wj">I spake openly to the
+  world; I ever taught in the synagogue, and in the temple, whither the Jews
+  always resort; and in secret have I said nothing.</span> </p>
+id: JHN/18/20
+next:
+  id: JHN/18/21
+  number: '21'
+previous:
+  id: JHN/18/19
+  number: '19'
+reference: 'John 18:20'

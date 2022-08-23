@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1JN 2:25" class="v">25</span>And
+  this is the promise that he hath promised us, <span class="add">even</span>
+  eternal life. </p>
+id: 1JN/2/25
+next:
+  id: 1JN/2/26
+  number: '26'
+previous:
+  id: 1JN/2/24
+  number: '24'
+reference: '1 John 2:25'

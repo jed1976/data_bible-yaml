@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 17:1" class="v">1</span>The
+  sin of Judah <span class="add">is</span> written with a pen of iron, <span
+  class="add">and</span> with the point of a diamond: <span class="add">it
+  is</span> graven upon the table of their heart, and upon the horns of your
+  altars; </p>
+id: JER/17/1
+next:
+  id: JER/17/2
+  number: '2'
+previous:
+  id: JER/16/21
+  number: '21'
+reference: 'Jeremiah 17:1'

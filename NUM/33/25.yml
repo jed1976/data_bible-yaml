@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 33:25"
+  class="v">25</span>And they removed from Haradah, and pitched in Makheloth.
+  </p>
+id: NUM/33/25
+next:
+  id: NUM/33/26
+  number: '26'
+previous:
+  id: NUM/33/24
+  number: '24'
+reference: 'Numbers 33:25'

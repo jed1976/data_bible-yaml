@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 11:22"
+  class="v">22</span>And Rehoboam made Abijah the son of Maachah the chief,
+  <span class="add">to be</span> ruler among his brethren: for <span
+  class="add">he thought</span> to make him king. </p>
+id: 2CH/11/22
+next:
+  id: 2CH/11/23
+  number: '23'
+previous:
+  id: 2CH/11/21
+  number: '21'
+reference: '2 Chronicles 11:22'

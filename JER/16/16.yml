@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 16:16" class="v">16</span>¶
+  Behold, I will send for many fishers, saith the <span class="nd">LORD</span>,
+  and they shall fish them; and after will I send for many hunters, and they
+  shall hunt them from every mountain, and from every hill, and out of the holes
+  of the rocks. </p>
+id: JER/16/16
+next:
+  id: JER/16/17
+  number: '17'
+previous:
+  id: JER/16/15
+  number: '15'
+reference: 'Jeremiah 16:16'

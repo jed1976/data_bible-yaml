@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 16:16"
+  class="v">16</span>How much better <span class="add">is it</span> to get
+  wisdom than gold! and to get understanding rather to be chosen than silver!
+  </p>
+id: PRO/16/16
+next:
+  id: PRO/16/17
+  number: '17'
+previous:
+  id: PRO/16/15
+  number: '15'
+reference: 'Proverbs 16:16'

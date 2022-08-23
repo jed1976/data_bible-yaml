@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 17:14"
+  class="v">14</span>And the <span class="nd">LORD</span> said unto Moses, Write
+  this <span class="add">for</span> a memorial in a book, and rehearse <span
+  class="add">it</span> in the ears of Joshua: for I will utterly put out the
+  remembrance of Amalek from under heaven. </p>
+id: EXO/17/14
+next:
+  id: EXO/17/15
+  number: '15'
+previous:
+  id: EXO/17/13
+  number: '13'
+reference: 'Exodus 17:14'

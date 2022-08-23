@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EZK 48:30" class="v">30</span>¶
+  And these <span class="add">are</span> the goings out of the city on the north
+  side, four thousand and five hundred measures.</p>
+id: EZK/48/30
+next:
+  id: EZK/48/31
+  number: '31'
+previous:
+  id: EZK/48/29
+  number: '29'
+reference: 'Ezekiel 48:30'

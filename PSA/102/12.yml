@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="12" data-sid="PSA 102:12"
+  class="v">12</span>But thou, O <span class="nd">LORD</span>, shalt endure for
+  ever; and thy remembrance unto all generations.</p>
+id: PSA/102/12
+next:
+  id: PSA/102/13
+  number: '13'
+previous:
+  id: PSA/102/11
+  number: '11'
+reference: 'Psalms 102:12'

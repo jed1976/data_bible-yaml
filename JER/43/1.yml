@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 43:1" class="v">1</span>And
+  it came to pass, <span class="add">that</span> when Jeremiah had made an end
+  of speaking unto all the people all the words of the <span
+  class="nd">LORD</span> their God, for which the <span class="nd">LORD</span>
+  their God had sent him to them, <span class="add">even</span> all these words,
+  </p>
+id: JER/43/1
+next:
+  id: JER/43/2
+  number: '2'
+previous:
+  id: JER/42/22
+  number: '22'
+reference: 'Jeremiah 43:1'

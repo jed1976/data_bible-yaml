@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 58:5"
+  class="v">5</span>Which will not hearken to the voice of charmers, charming
+  never so wisely.</p>
+id: PSA/58/5
+next:
+  id: PSA/58/6
+  number: '6'
+previous:
+  id: PSA/58/4
+  number: '4'
+reference: 'Psalms 58:5'

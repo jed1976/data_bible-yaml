@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="TIT 2:6" class="v">6</span>Young
+  men likewise exhort to be sober minded. </p>
+id: TIT/2/6
+next:
+  id: TIT/2/7
+  number: '7'
+previous:
+  id: TIT/2/5
+  number: '5'
+reference: 'Titus 2:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 50:19"
+  class="v">19</span>And Joseph said unto them, Fear not: for <span
+  class="add">am</span> I in the place of God? </p>
+id: GEN/50/19
+next:
+  id: GEN/50/20
+  number: '20'
+previous:
+  id: GEN/50/18
+  number: '18'
+reference: 'Genesis 50:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 22:14"
+  class="v">14</span>And the princes of Moab rose up, and they went unto Balak,
+  and said, Balaam refuseth to come with us.</p>
+id: NUM/22/14
+next:
+  id: NUM/22/15
+  number: '15'
+previous:
+  id: NUM/22/13
+  number: '13'
+reference: 'Numbers 22:14'

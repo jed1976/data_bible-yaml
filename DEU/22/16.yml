@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 22:16"
+  class="v">16</span>And the damsel’s father shall say unto the elders, I gave
+  my daughter unto this man to wife, and he hateth her; </p>
+id: DEU/22/16
+next:
+  id: DEU/22/17
+  number: '17'
+previous:
+  id: DEU/22/15
+  number: '15'
+reference: 'Deuteronomy 22:16'

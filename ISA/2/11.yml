@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 2:11" class="v">11</span>The
+  lofty looks of man shall be humbled, and the haughtiness of men shall be bowed
+  down, and the <span class="nd">LORD</span> alone shall be exalted in that day.
+  </p>
+id: ISA/2/11
+next:
+  id: ISA/2/12
+  number: '12'
+previous:
+  id: ISA/2/10
+  number: '10'
+reference: 'Isaiah 2:11'

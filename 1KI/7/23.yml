@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 7:23" class="v">23</span>¶
+  And he made a molten sea, ten cubits from the one brim to the other: <span
+  class="add">it was</span> round all about, and his height <span
+  class="add">was</span> five cubits: and a line of thirty cubits did compass it
+  round about. </p>
+id: 1KI/7/23
+next:
+  id: 1KI/7/24
+  number: '24'
+previous:
+  id: 1KI/7/22
+  number: '22'
+reference: '1 Kings 7:23'

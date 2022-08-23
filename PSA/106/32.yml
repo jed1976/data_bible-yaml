@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 106:32"
+  class="v">32</span>They angered <span class="add">him</span> also at the
+  waters of strife, so that it went ill with Moses for their sakes:</p>
+id: PSA/106/32
+next:
+  id: PSA/106/33
+  number: '33'
+previous:
+  id: PSA/106/31
+  number: '31'
+reference: 'Psalms 106:32'

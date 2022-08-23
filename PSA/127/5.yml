@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 127:5"
+  class="v">5</span>Happy <span class="add">is</span> the man that hath his
+  quiver full of them: they shall not be ashamed, but they shall speak with the
+  enemies in the gate.</p>
+id: PSA/127/5
+next:
+  id: PSA/128/1
+  number: '1'
+previous:
+  id: PSA/127/4
+  number: '4'
+reference: 'Psalms 127:5'

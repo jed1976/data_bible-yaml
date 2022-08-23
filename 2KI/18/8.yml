@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 18:8" class="v">8</span>He
+  smote the Philistines, <span class="add">even</span> unto Gaza, and the
+  borders thereof, from the tower of the watchmen to the fenced city.</p>
+id: 2KI/18/8
+next:
+  id: 2KI/18/9
+  number: '9'
+previous:
+  id: 2KI/18/7
+  number: '7'
+reference: '2 Kings 18:8'

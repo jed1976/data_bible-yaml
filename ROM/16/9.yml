@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 16:9"
+  class="v">9</span>Salute Urbane, our helper in Christ, and Stachys my beloved.
+  </p>
+id: ROM/16/9
+next:
+  id: ROM/16/10
+  number: '10'
+previous:
+  id: ROM/16/8
+  number: '8'
+reference: 'Romans 16:9'

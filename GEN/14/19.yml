@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 14:19"
+  class="v">19</span>And he blessed him, and said, Blessed <span
+  class="add">be</span> Abram of the most high God, possessor of heaven and
+  earth: </p>
+id: GEN/14/19
+next:
+  id: GEN/14/20
+  number: '20'
+previous:
+  id: GEN/14/18
+  number: '18'
+reference: 'Genesis 14:19'

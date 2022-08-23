@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 1:5" class="v">5</span>And
+  there went out unto him all the land of Judæa, and they of Jerusalem, and were
+  all baptized of him in the river of Jordan, confessing their sins. </p>
+id: MRK/1/5
+next:
+  id: MRK/1/6
+  number: '6'
+previous:
+  id: MRK/1/4
+  number: '4'
+reference: 'Mark 1:5'

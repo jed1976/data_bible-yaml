@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 15:30"
+  class="v">30</span>And Eltolad, and Chesil, and Hormah, </p>
+id: JOS/15/30
+next:
+  id: JOS/15/31
+  number: '31'
+previous:
+  id: JOS/15/29
+  number: '29'
+reference: 'Joshua 15:30'

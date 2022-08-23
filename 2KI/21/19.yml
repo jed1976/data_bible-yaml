@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2KI 21:19" class="v">19</span>¶
+  Amon <span class="add">was</span> twenty and two years old when he began to
+  reign, and he reigned two years in Jerusalem. And his mother’s name <span
+  class="add">was</span> Meshullemeth, the daughter of Haruz of Jotbah. </p>
+id: 2KI/21/19
+next:
+  id: 2KI/21/20
+  number: '20'
+previous:
+  id: 2KI/21/18
+  number: '18'
+reference: '2 Kings 21:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 16:1"
+  class="v">1</span>Observe the month of Abib, and keep the passover unto the
+  <span class="nd">LORD</span> thy God: for in the month of Abib the <span
+  class="nd">LORD</span> thy God brought thee forth out of Egypt by night. </p>
+id: DEU/16/1
+next:
+  id: DEU/16/2
+  number: '2'
+previous:
+  id: DEU/15/23
+  number: '23'
+reference: 'Deuteronomy 16:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 7:6" class="v">6</span>Let us
+  go up against Judah, and vex it, and let us make a breach therein for us, and
+  set a king in the midst of it, <span class="add">even</span> the son of
+  Tabeal: </p>
+id: ISA/7/6
+next:
+  id: ISA/7/7
+  number: '7'
+previous:
+  id: ISA/7/5
+  number: '5'
+reference: 'Isaiah 7:6'

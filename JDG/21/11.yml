@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 21:11"
+  class="v">11</span>And this <span class="add">is</span> the thing that ye
+  shall do, Ye shall utterly destroy every male, and every woman that hath lain
+  by man. </p>
+id: JDG/21/11
+next:
+  id: JDG/21/12
+  number: '12'
+previous:
+  id: JDG/21/10
+  number: '10'
+reference: 'Judges 21:11'

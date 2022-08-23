@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MRK 15:31"
+  class="v">31</span>Likewise also the chief priests mocking said among
+  themselves with the scribes, He saved others; himself he cannot save. </p>
+id: MRK/15/31
+next:
+  id: MRK/15/32
+  number: '32'
+previous:
+  id: MRK/15/30
+  number: '30'
+reference: 'Mark 15:31'

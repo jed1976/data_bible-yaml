@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1KI 12:10"
+  class="v">10</span>And the young men that were grown up with him spake unto
+  him, saying, Thus shalt thou speak unto this people that spake unto thee,
+  saying, Thy father made our yoke heavy, but make thou <span
+  class="add">it</span> lighter unto us; thus shalt thou say unto them, My
+  little <span class="add">finger</span> shall be thicker than my father’s
+  loins. </p>
+id: 1KI/12/10
+next:
+  id: 1KI/12/11
+  number: '11'
+previous:
+  id: 1KI/12/9
+  number: '9'
+reference: '1 Kings 12:10'

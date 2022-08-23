@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 18:3" class="v">3</span>And
+  because he was of the same craft, he abode with them, and wrought: for by
+  their occupation they were tentmakers. </p>
+id: ACT/18/3
+next:
+  id: ACT/18/4
+  number: '4'
+previous:
+  id: ACT/18/2
+  number: '2'
+reference: 'Acts 18:3'

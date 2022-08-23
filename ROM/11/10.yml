@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 11:10"
+  class="v">10</span>Let their eyes be darkened, that they may not see, and bow
+  down their back alway. </p>
+id: ROM/11/10
+next:
+  id: ROM/11/11
+  number: '11'
+previous:
+  id: ROM/11/9
+  number: '9'
+reference: 'Romans 11:10'

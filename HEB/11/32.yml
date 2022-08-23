@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="HEB 11:32"
+  class="v">32</span>And what shall I more say? for the time would fail me to
+  tell of Gedeon, and <span class="add">of</span> Barak, and <span
+  class="add">of</span> Samson, and <span class="add">of</span> Jephthae; <span
+  class="add">of</span> David also, and Samuel, and <span class="add">of</span>
+  the prophets: </p>
+id: HEB/11/32
+next:
+  id: HEB/11/33
+  number: '33'
+previous:
+  id: HEB/11/31
+  number: '31'
+reference: 'Hebrews 11:32'

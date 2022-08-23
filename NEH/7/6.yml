@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 7:6" class="v">6</span>These
+  <span class="add">are</span> the children of the province, that went up out of
+  the captivity, of those that had been carried away, whom Nebuchadnezzar the
+  king of Babylon had carried away, and came again to Jerusalem and to Judah,
+  every one unto his city; </p>
+id: NEH/7/6
+next:
+  id: NEH/7/7
+  number: '7'
+previous:
+  id: NEH/7/5
+  number: '5'
+reference: 'Nehemiah 7:6'

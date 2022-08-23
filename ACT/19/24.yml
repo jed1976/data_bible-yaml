@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 19:24"
+  class="v">24</span>For a certain <span class="add">man</span> named Demetrius,
+  a silversmith, which made silver shrines for Diana, brought no small gain unto
+  the craftsmen; </p>
+id: ACT/19/24
+next:
+  id: ACT/19/25
+  number: '25'
+previous:
+  id: ACT/19/23
+  number: '23'
+reference: 'Acts 19:24'

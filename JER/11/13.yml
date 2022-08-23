@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 11:13"
+  class="v">13</span>For <span class="add">according to</span> the number of thy
+  cities were thy gods, O Judah; and <span class="add">according to</span> the
+  number of the streets of Jerusalem have ye set up altars to <span
+  class="add">that</span> shameful thing, <span class="add">even</span> altars
+  to burn incense unto Baal. </p>
+id: JER/11/13
+next:
+  id: JER/11/14
+  number: '14'
+previous:
+  id: JER/11/12
+  number: '12'
+reference: 'Jeremiah 11:13'

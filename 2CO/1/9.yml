@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CO 1:9" class="v">9</span>But we
+  had the sentence of death in ourselves, that we should not trust in ourselves,
+  but in God which raiseth the dead: </p>
+id: 2CO/1/9
+next:
+  id: 2CO/1/10
+  number: '10'
+previous:
+  id: 2CO/1/8
+  number: '8'
+reference: '2 Corinthians 1:9'

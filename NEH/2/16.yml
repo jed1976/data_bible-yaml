@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 2:16" class="v">16</span>And
+  the rulers knew not whither I went, or what I did; neither had I as yet told
+  <span class="add">it</span> to the Jews, nor to the priests, nor to the
+  nobles, nor to the rulers, nor to the rest that did the work.</p>
+id: NEH/2/16
+next:
+  id: NEH/2/17
+  number: '17'
+previous:
+  id: NEH/2/15
+  number: '15'
+reference: 'Nehemiah 2:16'

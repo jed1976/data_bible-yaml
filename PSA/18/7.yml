@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 18:7" class="v">7</span>Then
+  the earth shook and trembled; the foundations also of the hills moved and were
+  shaken, because he was wroth.</p>
+id: PSA/18/7
+next:
+  id: PSA/18/8
+  number: '8'
+previous:
+  id: PSA/18/6
+  number: '6'
+reference: 'Psalms 18:7'

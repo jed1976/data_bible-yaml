@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 26:26" class="v">26</span>¶
+  And thou shalt make bars <span class="add">of</span> shittim wood; five for
+  the boards of the one side of the tabernacle, </p>
+id: EXO/26/26
+next:
+  id: EXO/26/27
+  number: '27'
+previous:
+  id: EXO/26/25
+  number: '25'
+reference: 'Exodus 26:26'

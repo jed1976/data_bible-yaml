@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2PE 1:7" class="v">7</span>And to
+  godliness brotherly kindness; and to brotherly kindness charity. </p>
+id: 2PE/1/7
+next:
+  id: 2PE/1/8
+  number: '8'
+previous:
+  id: 2PE/1/6
+  number: '6'
+reference: '2 Peter 1:7'

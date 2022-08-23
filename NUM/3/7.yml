@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 3:7" class="v">7</span>And
+  they shall keep his charge, and the charge of the whole congregation before
+  the tabernacle of the congregation, to do the service of the tabernacle. </p>
+id: NUM/3/7
+next:
+  id: NUM/3/8
+  number: '8'
+previous:
+  id: NUM/3/6
+  number: '6'
+reference: 'Numbers 3:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 35:4" class="v">4</span>Let
+  them be confounded and put to shame that seek after my soul: let them be
+  turned back and brought to confusion that devise my hurt.</p>
+id: PSA/35/4
+next:
+  id: PSA/35/5
+  number: '5'
+previous:
+  id: PSA/35/3
+  number: '3'
+reference: 'Psalms 35:4'

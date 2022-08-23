@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 43:20"
+  class="v">20</span>The beast of the field shall honour me, the dragons and the
+  owls: because I give waters in the wilderness, <span class="add">and</span>
+  rivers in the desert, to give drink to my people, my chosen. </p>
+id: ISA/43/20
+next:
+  id: ISA/43/21
+  number: '21'
+previous:
+  id: ISA/43/19
+  number: '19'
+reference: 'Isaiah 43:20'

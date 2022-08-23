@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 5:16"
+  class="v">16</span><span class="wj">Let your light so shine before men, that
+  they may see your good works, and glorify your Father which is in
+  heaven.</span></p>
+id: MAT/5/16
+next:
+  id: MAT/5/17
+  number: '17'
+previous:
+  id: MAT/5/15
+  number: '15'
+reference: 'Matthew 5:16'

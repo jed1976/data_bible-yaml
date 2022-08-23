@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 8:1" class="v">1</span>When
+  he was come down from the mountain, great multitudes followed him. </p>
+id: MAT/8/1
+next:
+  id: MAT/8/2
+  number: '2'
+previous:
+  id: MAT/7/29
+  number: '29'
+reference: 'Matthew 8:1'

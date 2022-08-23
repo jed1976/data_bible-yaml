@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="71" data-sid="NUM 7:71" class="v">71</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Ahiezer the son of Ammishaddai.</p>
+id: NUM/7/71
+next:
+  id: NUM/7/72
+  number: '72'
+previous:
+  id: NUM/7/70
+  number: '70'
+reference: 'Numbers 7:71'

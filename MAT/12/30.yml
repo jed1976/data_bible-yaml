@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 12:30"
+  class="v">30</span><span class="wj">He that is not with me is against me; and
+  he that gathereth not with me scattereth abroad.</span></p>
+id: MAT/12/30
+next:
+  id: MAT/12/31
+  number: '31'
+previous:
+  id: MAT/12/29
+  number: '29'
+reference: 'Matthew 12:30'

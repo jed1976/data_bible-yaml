@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 28:7" class="v">7</span>And
+  the drink offering thereof <span class="add">shall be</span> the fourth <span
+  class="add">part</span> of an hin for the one lamb: in the holy <span
+  class="add">place</span> shalt thou cause the strong wine to be poured unto
+  the <span class="nd">LORD</span> <span class="add">for</span> a drink
+  offering. </p>
+id: NUM/28/7
+next:
+  id: NUM/28/8
+  number: '8'
+previous:
+  id: NUM/28/6
+  number: '6'
+reference: 'Numbers 28:7'

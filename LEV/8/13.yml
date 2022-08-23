@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 8:13" class="v">13</span>And
+  Moses brought Aaron’s sons, and put coats upon them, and girded them with
+  girdles, and put bonnets upon them; as the <span class="nd">LORD</span>
+  commanded Moses.</p>
+id: LEV/8/13
+next:
+  id: LEV/8/14
+  number: '14'
+previous:
+  id: LEV/8/12
+  number: '12'
+reference: 'Leviticus 8:13'

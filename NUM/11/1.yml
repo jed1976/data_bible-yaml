@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 11:1" class="v">1</span>And
+  <span class="add">when</span> the people complained, it displeased the <span
+  class="nd">LORD</span>: and the <span class="nd">LORD</span> heard <span
+  class="add">it;</span> and his anger was kindled; and the fire of the <span
+  class="nd">LORD</span> burnt among them, and consumed <span class="add">them
+  that were</span> in the uttermost parts of the camp. </p>
+id: NUM/11/1
+next:
+  id: NUM/11/2
+  number: '2'
+previous:
+  id: NUM/10/36
+  number: '36'
+reference: 'Numbers 11:1'

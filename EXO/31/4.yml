@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 31:4" class="v">4</span>To
+  devise cunning works, to work in gold, and in silver, and in brass, </p>
+id: EXO/31/4
+next:
+  id: EXO/31/5
+  number: '5'
+previous:
+  id: EXO/31/3
+  number: '3'
+reference: 'Exodus 31:4'

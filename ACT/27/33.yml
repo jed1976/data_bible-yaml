@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 27:33"
+  class="v">33</span>And while the day was coming on, Paul besought <span
+  class="add">them</span> all to take meat, saying, This day is the fourteenth
+  day that ye have tarried and continued fasting, having taken nothing. </p>
+id: ACT/27/33
+next:
+  id: ACT/27/34
+  number: '34'
+previous:
+  id: ACT/27/32
+  number: '32'
+reference: 'Acts 27:33'

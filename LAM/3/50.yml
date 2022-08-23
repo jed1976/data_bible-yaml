@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LAM 3:50"
+  class="v">50</span>Till the <span class="nd">LORD</span> look down, and behold
+  from heaven. </p>
+id: LAM/3/50
+next:
+  id: LAM/3/51
+  number: '51'
+previous:
+  id: LAM/3/49
+  number: '49'
+reference: 'Lamentations 3:50'

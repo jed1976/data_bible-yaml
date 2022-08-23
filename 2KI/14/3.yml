@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 14:3" class="v">3</span>And
+  he did <span class="add">that which was</span> right in the sight of the <span
+  class="nd">LORD</span>, yet not like David his father: he did according to all
+  things as Joash his father did. </p>
+id: 2KI/14/3
+next:
+  id: 2KI/14/4
+  number: '4'
+previous:
+  id: 2KI/14/2
+  number: '2'
+reference: '2 Kings 14:3'

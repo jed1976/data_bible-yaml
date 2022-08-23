@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="1CH 2:34" class="v">34</span>¶
+  Now Sheshan had no sons, but daughters. And Sheshan had a servant, an
+  Egyptian, whose name <span class="add">was</span> Jarha. </p>
+id: 1CH/2/34
+next:
+  id: 1CH/2/35
+  number: '35'
+previous:
+  id: 1CH/2/33
+  number: '33'
+reference: '1 Chronicles 2:34'

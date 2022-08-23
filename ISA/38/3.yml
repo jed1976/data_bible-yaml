@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 38:3" class="v">3</span>And
+  said, Remember now, O <span class="nd">LORD</span>, I beseech thee, how I have
+  walked before thee in truth and with a perfect heart, and have done <span
+  class="add">that which is</span> good in thy sight. And Hezekiah wept
+  sore.</p>
+id: ISA/38/3
+next:
+  id: ISA/38/4
+  number: '4'
+previous:
+  id: ISA/38/2
+  number: '2'
+reference: 'Isaiah 38:3'

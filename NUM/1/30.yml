@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 1:30" class="v">30</span>¶
+  Of the children of Zebulun, by their generations, after their families, by the
+  house of their fathers, according to the number of the names, from twenty
+  years old and upward, all that were able to go forth to war; </p>
+id: NUM/1/30
+next:
+  id: NUM/1/31
+  number: '31'
+previous:
+  id: NUM/1/29
+  number: '29'
+reference: 'Numbers 1:30'

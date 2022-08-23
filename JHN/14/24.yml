@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 14:24"
+  class="v">24</span><span class="wj">He that loveth me not keepeth not my
+  sayings: and the word which ye hear is not mine, but the Father’s which sent
+  me.</span> </p>
+id: JHN/14/24
+next:
+  id: JHN/14/25
+  number: '25'
+previous:
+  id: JHN/14/23
+  number: '23'
+reference: 'John 14:24'

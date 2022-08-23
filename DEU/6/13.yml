@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 6:13"
+  class="v">13</span>Thou shalt fear the <span class="nd">LORD</span> thy God,
+  and serve him, and shalt swear by his name. </p>
+id: DEU/6/13
+next:
+  id: DEU/6/14
+  number: '14'
+previous:
+  id: DEU/6/12
+  number: '12'
+reference: 'Deuteronomy 6:13'

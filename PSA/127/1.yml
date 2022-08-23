@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">A Song of degrees for Solomon.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 127:1" class="v">1</span>Except the <span
+  class="nd">LORD</span> build the house, they labour in vain that build it:
+  except the <span class="nd">LORD</span> keep the city, the watchman waketh
+  <span class="add">but</span> in vain.</p>
+id: PSA/127/1
+next:
+  id: PSA/127/2
+  number: '2'
+previous:
+  id: PSA/126/6
+  number: '6'
+reference: 'Psalms 127:1'

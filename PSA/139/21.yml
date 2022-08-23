@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 139:21"
+  class="v">21</span>Do not I hate them, O <span class="nd">LORD</span>, that
+  hate thee? and am not I grieved with those that rise up against thee?</p>
+id: PSA/139/21
+next:
+  id: PSA/139/22
+  number: '22'
+previous:
+  id: PSA/139/20
+  number: '20'
+reference: 'Psalms 139:21'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NEH 7:42" class="v">42</span>The
+  children of Harim, a thousand and seventeen.</p>
+id: NEH/7/42
+next:
+  id: NEH/7/43
+  number: '43'
+previous:
+  id: NEH/7/41
+  number: '41'
+reference: 'Nehemiah 7:42'

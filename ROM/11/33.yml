@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ROM 11:33" class="v">33</span>O
+  the depth of the riches both of the wisdom and knowledge of God! how
+  unsearchable <span class="add">are</span> his judgments, and his ways past
+  finding out! </p>
+id: ROM/11/33
+next:
+  id: ROM/11/34
+  number: '34'
+previous:
+  id: ROM/11/32
+  number: '32'
+reference: 'Romans 11:33'

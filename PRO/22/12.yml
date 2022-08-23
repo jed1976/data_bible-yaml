@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 22:12"
+  class="v">12</span>The eyes of the <span class="nd">LORD</span> preserve
+  knowledge, and he overthroweth the words of the transgressor. </p>
+id: PRO/22/12
+next:
+  id: PRO/22/13
+  number: '13'
+previous:
+  id: PRO/22/11
+  number: '11'
+reference: 'Proverbs 22:12'

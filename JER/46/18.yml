@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 46:18"
+  class="v">18</span><span class="add">As</span> I live, saith the King, whose
+  name <span class="add">is</span> the <span class="nd">LORD</span> of hosts,
+  Surely as Tabor <span class="add">is</span> among the mountains, and as Carmel
+  by the sea, <span class="add">so</span> shall he come. </p>
+id: JER/46/18
+next:
+  id: JER/46/19
+  number: '19'
+previous:
+  id: JER/46/17
+  number: '17'
+reference: 'Jeremiah 46:18'

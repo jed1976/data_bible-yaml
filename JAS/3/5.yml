@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JAS 3:5" class="v">5</span>Even
+  so the tongue is a little member, and boasteth great things. Behold, how great
+  a matter a little fire kindleth! </p>
+id: JAS/3/5
+next:
+  id: JAS/3/6
+  number: '6'
+previous:
+  id: JAS/3/4
+  number: '4'
+reference: 'James 3:5'

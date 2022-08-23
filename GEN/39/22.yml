@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 39:22"
+  class="v">22</span>And the keeper of the prison committed to Joseph’s hand all
+  the prisoners that <span class="add">were</span> in the prison; and whatsoever
+  they did there, he was the doer <span class="add">of it</span>. </p>
+id: GEN/39/22
+next:
+  id: GEN/39/23
+  number: '23'
+previous:
+  id: GEN/39/21
+  number: '21'
+reference: 'Genesis 39:22'

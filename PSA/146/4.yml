@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 146:4" class="v">4</span>His
+  breath goeth forth, he returneth to his earth; in that very day his thoughts
+  perish.</p>
+id: PSA/146/4
+next:
+  id: PSA/146/5
+  number: '5'
+previous:
+  id: PSA/146/3
+  number: '3'
+reference: 'Psalms 146:4'

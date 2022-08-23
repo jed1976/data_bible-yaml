@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="RUT 1:10" class="v">10</span>And
+  they said unto her, Surely we will return with thee unto thy people. </p>
+id: RUT/1/10
+next:
+  id: RUT/1/11
+  number: '11'
+previous:
+  id: RUT/1/9
+  number: '9'
+reference: 'Ruth 1:10'

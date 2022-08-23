@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 71:19"
+  class="v">19</span>Thy righteousness also, O God, <span class="add">is</span>
+  very high, who hast done great things: O God, who <span class="add">is</span>
+  like unto thee!</p>
+id: PSA/71/19
+next:
+  id: PSA/71/20
+  number: '20'
+previous:
+  id: PSA/71/18
+  number: '18'
+reference: 'Psalms 71:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 11:12"
+  class="v">12</span><span class="wj">And from the days of John the Baptist
+  until now the kingdom of heaven suffereth violence, and the violent take it by
+  force.</span> </p>
+id: MAT/11/12
+next:
+  id: MAT/11/13
+  number: '13'
+previous:
+  id: MAT/11/11
+  number: '11'
+reference: 'Matthew 11:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 29:29" class="v">29</span>¶
+  And the holy garments of Aaron shall be his sons’ after him, to be anointed
+  therein, and to be consecrated in them. </p>
+id: EXO/29/29
+next:
+  id: EXO/29/30
+  number: '30'
+previous:
+  id: EXO/29/28
+  number: '28'
+reference: 'Exodus 29:29'

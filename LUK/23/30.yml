@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 23:30"
+  class="v">30</span><span class="wj">Then shall they begin to say to the
+  mountains, Fall on us; and to the hills, Cover us.</span> </p>
+id: LUK/23/30
+next:
+  id: LUK/23/31
+  number: '31'
+previous:
+  id: LUK/23/29
+  number: '29'
+reference: 'Luke 23:30'

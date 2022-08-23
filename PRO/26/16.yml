@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 26:16"
+  class="v">16</span>The sluggard <span class="add">is</span> wiser in his own
+  conceit than seven men that can render a reason. </p>
+id: PRO/26/16
+next:
+  id: PRO/26/17
+  number: '17'
+previous:
+  id: PRO/26/15
+  number: '15'
+reference: 'Proverbs 26:16'

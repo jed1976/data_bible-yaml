@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 78:12"
+  class="v">12</span>Marvellous things did he in the sight of their fathers, in
+  the land of Egypt, <span class="add">in</span> the field of Zoan.</p>
+id: PSA/78/12
+next:
+  id: PSA/78/13
+  number: '13'
+previous:
+  id: PSA/78/11
+  number: '11'
+reference: 'Psalms 78:12'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="DEU 1:41"
+  class="v">41</span>Then ye answered and said unto me, We have sinned against
+  the <span class="nd">LORD</span>, we will go up and fight, according to all
+  that the <span class="nd">LORD</span> our God commanded us. And when ye had
+  girded on every man his weapons of war, ye were ready to go up into the hill.
+  </p>
+id: DEU/1/41
+next:
+  id: DEU/1/42
+  number: '42'
+previous:
+  id: DEU/1/40
+  number: '40'
+reference: 'Deuteronomy 1:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MAT 12:44"
+  class="v">44</span><span class="wj">Then he saith, I will return into my house
+  from whence I came out; and when he is come, he findeth <span
+  class="add">it</span> empty, swept, and garnished.</span> </p>
+id: MAT/12/44
+next:
+  id: MAT/12/45
+  number: '45'
+previous:
+  id: MAT/12/43
+  number: '43'
+reference: 'Matthew 12:44'

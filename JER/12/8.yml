@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JER 12:8" class="v">8</span>Mine
+  heritage is unto me as a lion in the forest; it crieth out against me:
+  therefore have I hated it. </p>
+id: JER/12/8
+next:
+  id: JER/12/9
+  number: '9'
+previous:
+  id: JER/12/7
+  number: '7'
+reference: 'Jeremiah 12:8'

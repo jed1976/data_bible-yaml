@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 7:5" class="v">5</span>And
+  the Egyptians shall know that I <span class="add">am</span> the <span
+  class="nd">LORD</span>, when I stretch forth mine hand upon Egypt, and bring
+  out the children of Israel from among them. </p>
+id: EXO/7/5
+next:
+  id: EXO/7/6
+  number: '6'
+previous:
+  id: EXO/7/4
+  number: '4'
+reference: 'Exodus 7:5'

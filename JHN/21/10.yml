@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 21:10"
+  class="v">10</span>Jesus saith unto them, <span class="wj">Bring of the fish
+  which ye have now caught.</span> </p>
+id: JHN/21/10
+next:
+  id: JHN/21/11
+  number: '11'
+previous:
+  id: JHN/21/9
+  number: '9'
+reference: 'John 21:10'

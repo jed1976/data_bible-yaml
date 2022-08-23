@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 2:11"
+  class="v">11</span>Which also were accounted giants, as the Anakims; but the
+  Moabites call them Emims. </p>
+id: DEU/2/11
+next:
+  id: DEU/2/12
+  number: '12'
+previous:
+  id: DEU/2/10
+  number: '10'
+reference: 'Deuteronomy 2:11'

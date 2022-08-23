@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 25:12"
+  class="v">12</span>Then Festus, when he had conferred with the council,
+  answered, Hast thou appealed unto Cæsar? unto Cæsar shalt thou go.</p>
+id: ACT/25/12
+next:
+  id: ACT/25/13
+  number: '13'
+previous:
+  id: ACT/25/11
+  number: '11'
+reference: 'Acts 25:12'

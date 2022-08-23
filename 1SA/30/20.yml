@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 30:20"
+  class="v">20</span>And David took all the flocks and the herds, <span
+  class="add">which</span> they drave before those <span
+  class="add">other</span> cattle, and said, This <span class="add">is</span>
+  David’s spoil.</p>
+id: 1SA/30/20
+next:
+  id: 1SA/30/21
+  number: '21'
+previous:
+  id: 1SA/30/19
+  number: '19'
+reference: '1 Samuel 30:20'

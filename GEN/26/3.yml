@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 26:3"
+  class="v">3</span>Sojourn in this land, and I will be with thee, and will
+  bless thee; for unto thee, and unto thy seed, I will give all these countries,
+  and I will perform the oath which I sware unto Abraham thy father; </p>
+id: GEN/26/3
+next:
+  id: GEN/26/4
+  number: '4'
+previous:
+  id: GEN/26/2
+  number: '2'
+reference: 'Genesis 26:3'

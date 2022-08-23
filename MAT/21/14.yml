@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 21:14"
+  class="v">14</span>And the blind and the lame came to him in the temple; and
+  he healed them. </p>
+id: MAT/21/14
+next:
+  id: MAT/21/15
+  number: '15'
+previous:
+  id: MAT/21/13
+  number: '13'
+reference: 'Matthew 21:14'

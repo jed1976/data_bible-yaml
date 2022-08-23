@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 33:1" class="v">1</span>These
+  <span class="add">are</span> the journeys of the children of Israel, which
+  went forth out of the land of Egypt with their armies under the hand of Moses
+  and Aaron. </p>
+id: NUM/33/1
+next:
+  id: NUM/33/2
+  number: '2'
+previous:
+  id: NUM/32/42
+  number: '42'
+reference: 'Numbers 33:1'

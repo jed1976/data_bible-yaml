@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 35:21" class="v">21</span>¶
+  And Israel journeyed, and spread his tent beyond the tower of Edar. </p>
+id: GEN/35/21
+next:
+  id: GEN/35/22
+  number: '22'
+previous:
+  id: GEN/35/20
+  number: '20'
+reference: 'Genesis 35:21'

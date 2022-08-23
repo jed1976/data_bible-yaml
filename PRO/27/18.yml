@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 27:18"
+  class="v">18</span>Whoso keepeth the fig tree shall eat the fruit thereof: so
+  he that waiteth on his master shall be honoured. </p>
+id: PRO/27/18
+next:
+  id: PRO/27/19
+  number: '19'
+previous:
+  id: PRO/27/17
+  number: '17'
+reference: 'Proverbs 27:18'

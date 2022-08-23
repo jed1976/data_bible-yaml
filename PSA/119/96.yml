@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="96" data-sid="PSA 119:96"
+  class="v">96</span>I have seen an end of all perfection: <span
+  class="add">but</span> thy commandment <span class="add">is</span> exceeding
+  broad.</p>
+id: PSA/119/96
+next:
+  id: PSA/119/97
+  number: '97'
+previous:
+  id: PSA/119/95
+  number: '95'
+reference: 'Psalms 119:96'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 16:15"
+  class="v">15</span>Behold, I come as a thief. Blessed <span
+  class="add">is</span> he that watcheth, and keepeth his garments, lest he walk
+  naked, and they see his shame. </p>
+id: REV/16/15
+next:
+  id: REV/16/16
+  number: '16'
+previous:
+  id: REV/16/14
+  number: '14'
+reference: 'Revelation 16:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 12:11" class="v">11</span>He
+  that tilleth his land shall be satisfied with bread: but he that followeth
+  vain <span class="add">persons is</span> void of understanding. </p>
+id: PRO/12/11
+next:
+  id: PRO/12/12
+  number: '12'
+previous:
+  id: PRO/12/10
+  number: '10'
+reference: 'Proverbs 12:11'

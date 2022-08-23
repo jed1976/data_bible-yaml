@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 3:20"
+  class="v">20</span>Added yet this above all, that he shut up John in prison.
+  </p>
+id: LUK/3/20
+next:
+  id: LUK/3/21
+  number: '21'
+previous:
+  id: LUK/3/19
+  number: '19'
+reference: 'Luke 3:20'

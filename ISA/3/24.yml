@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 3:24" class="v">24</span>And
+  it shall come to pass, <span class="add">that</span> instead of sweet smell
+  there shall be stink; and instead of a girdle a rent; and instead of well set
+  hair baldness; and instead of a stomacher a girding of sackcloth; <span
+  class="add">and</span> burning instead of beauty. </p>
+id: ISA/3/24
+next:
+  id: ISA/3/25
+  number: '25'
+previous:
+  id: ISA/3/23
+  number: '23'
+reference: 'Isaiah 3:24'

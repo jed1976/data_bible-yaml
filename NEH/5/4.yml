@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 5:4" class="v">4</span>There
+  were also that said, We have borrowed money for the king’s tribute, <span
+  class="add">and that upon</span> our lands and vineyards. </p>
+id: NEH/5/4
+next:
+  id: NEH/5/5
+  number: '5'
+previous:
+  id: NEH/5/3
+  number: '3'
+reference: 'Nehemiah 5:4'

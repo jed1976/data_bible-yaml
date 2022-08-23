@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 22:41"
+  class="v">41</span>And it came to pass on the morrow, that Balak took Balaam,
+  and brought him up into the high places of Baal, that thence he might see the
+  utmost <span class="add">part</span> of the people.</p>
+id: NUM/22/41
+next:
+  id: NUM/23/1
+  number: '1'
+previous:
+  id: NUM/22/40
+  number: '40'
+reference: 'Numbers 22:41'

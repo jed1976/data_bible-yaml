@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="RUT 3:5" class="v">5</span>And
+  she said unto her, All that thou sayest unto me I will do.</p>
+id: RUT/3/5
+next:
+  id: RUT/3/6
+  number: '6'
+previous:
+  id: RUT/3/4
+  number: '4'
+reference: 'Ruth 3:5'

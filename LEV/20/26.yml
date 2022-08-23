@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 20:26"
+  class="v">26</span>And ye shall be holy unto me: for I the <span
+  class="nd">LORD</span> <span class="add">am</span> holy, and have severed you
+  from <span class="add">other</span> people, that ye should be mine.</p>
+id: LEV/20/26
+next:
+  id: LEV/20/27
+  number: '27'
+previous:
+  id: LEV/20/25
+  number: '25'
+reference: 'Leviticus 20:26'

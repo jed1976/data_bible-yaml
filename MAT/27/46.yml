@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 27:46"
+  class="v">46</span>And about the ninth hour Jesus cried with a loud voice,
+  saying, <span class="wj">Eli, Eli, lama sabachthani?</span> that is to say, My
+  God, my God, why hast thou forsaken me? </p>
+id: MAT/27/46
+next:
+  id: MAT/27/47
+  number: '47'
+previous:
+  id: MAT/27/45
+  number: '45'
+reference: 'Matthew 27:46'

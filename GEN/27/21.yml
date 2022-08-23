@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 27:21"
+  class="v">21</span>And Isaac said unto Jacob, Come near, I pray thee, that I
+  may feel thee, my son, whether thou <span class="add">be</span> my very son
+  Esau or not. </p>
+id: GEN/27/21
+next:
+  id: GEN/27/22
+  number: '22'
+previous:
+  id: GEN/27/20
+  number: '20'
+reference: 'Genesis 27:21'

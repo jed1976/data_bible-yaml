@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 10:8" class="v">8</span>He
+  sitteth in the lurking places of the villages: in the secret places doth he
+  murder the innocent: his eyes are privily set against the poor.</p>
+id: PSA/10/8
+next:
+  id: PSA/10/9
+  number: '9'
+previous:
+  id: PSA/10/7
+  number: '7'
+reference: 'Psalms 10:8'

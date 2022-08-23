@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MRK 6:2" class="v">2</span>And
+  when the sabbath day was come, he began to teach in the synagogue: and many
+  hearing <span class="add">him</span> were astonished, saying, From whence hath
+  this <span class="add">man</span> these things? and what wisdom <span
+  class="add">is</span> this which is given unto him, that even such mighty
+  works are wrought by his hands? </p>
+id: MRK/6/2
+next:
+  id: MRK/6/3
+  number: '3'
+previous:
+  id: MRK/6/1
+  number: '1'
+reference: 'Mark 6:2'

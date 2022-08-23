@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="LUK 22:57"
+  class="v">57</span>And he denied him, saying, Woman, I know him not. </p>
+id: LUK/22/57
+next:
+  id: LUK/22/58
+  number: '58'
+previous:
+  id: LUK/22/56
+  number: '56'
+reference: 'Luke 22:57'

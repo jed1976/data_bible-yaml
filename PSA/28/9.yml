@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 28:9" class="v">9</span>Save
+  thy people, and bless thine inheritance: feed them also, and lift them up for
+  ever.</p>
+id: PSA/28/9
+next:
+  id: PSA/29/1
+  number: '1'
+previous:
+  id: PSA/28/8
+  number: '8'
+reference: 'Psalms 28:9'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 2:5" class="v">5</span>The
+  sons of Pharez; Hezron, and Hamul. </p>
+id: 1CH/2/5
+next:
+  id: 1CH/2/6
+  number: '6'
+previous:
+  id: 1CH/2/4
+  number: '4'
+reference: '1 Chronicles 2:5'

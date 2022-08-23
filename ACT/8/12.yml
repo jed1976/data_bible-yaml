@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 8:12" class="v">12</span>But
+  when they believed Philip preaching the things concerning the kingdom of God,
+  and the name of Jesus Christ, they were baptized, both men and women. </p>
+id: ACT/8/12
+next:
+  id: ACT/8/13
+  number: '13'
+previous:
+  id: ACT/8/11
+  number: '11'
+reference: 'Acts 8:12'

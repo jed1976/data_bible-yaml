@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 9:15" class="v">15</span>And
+  Jesus said unto them, <span class="wj">Can the children of the bridechamber
+  mourn, as long as the bridegroom is with them? but the days will come, when
+  the bridegroom shall be taken from them, and then shall they fast.</span> </p>
+id: MAT/9/15
+next:
+  id: MAT/9/16
+  number: '16'
+previous:
+  id: MAT/9/14
+  number: '14'
+reference: 'Matthew 9:15'

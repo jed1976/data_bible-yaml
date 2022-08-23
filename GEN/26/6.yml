@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 26:6" class="v">6</span>¶ And
+  Isaac dwelt in Gerar: </p>
+id: GEN/26/6
+next:
+  id: GEN/26/7
+  number: '7'
+previous:
+  id: GEN/26/5
+  number: '5'
+reference: 'Genesis 26:6'

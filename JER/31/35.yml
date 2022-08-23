@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JER 31:35" class="v">35</span>¶
+  Thus saith the <span class="nd">LORD</span>, which giveth the sun for a light
+  by day, <span class="add">and</span> the ordinances of the moon and of the
+  stars for a light by night, which divideth the sea when the waves thereof
+  roar; The <span class="nd">LORD</span> of hosts <span class="add">is</span>
+  his name: </p>
+id: JER/31/35
+next:
+  id: JER/31/36
+  number: '36'
+previous:
+  id: JER/31/34
+  number: '34'
+reference: 'Jeremiah 31:35'

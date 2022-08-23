@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZK 45:21" class="v">21</span>In
+  the first <span class="add">month</span>, in the fourteenth day of the month,
+  ye shall have the passover, a feast of seven days; unleavened bread shall be
+  eaten. </p>
+id: EZK/45/21
+next:
+  id: EZK/45/22
+  number: '22'
+previous:
+  id: EZK/45/20
+  number: '20'
+reference: 'Ezekiel 45:21'

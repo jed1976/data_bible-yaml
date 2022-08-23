@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 60:4" class="v">4</span>Thou
+  hast given a banner to them that fear thee, that it may be displayed because
+  of the truth. Selah.</p>
+id: PSA/60/4
+next:
+  id: PSA/60/5
+  number: '5'
+previous:
+  id: PSA/60/3
+  number: '3'
+reference: 'Psalms 60:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 41:18" class="v">18</span>By
+  his neesings a light doth shine, and his eyes <span class="add">are</span>
+  like the eyelids of the morning. </p>
+id: JOB/41/18
+next:
+  id: JOB/41/19
+  number: '19'
+previous:
+  id: JOB/41/17
+  number: '17'
+reference: 'Job 41:18'

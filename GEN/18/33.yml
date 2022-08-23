@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 18:33"
+  class="v">33</span>And the <span class="nd">LORD</span> went his way, as soon
+  as he had left communing with Abraham: and Abraham returned unto his
+  place.</p>
+id: GEN/18/33
+next:
+  id: GEN/19/1
+  number: '1'
+previous:
+  id: GEN/18/32
+  number: '32'
+reference: 'Genesis 18:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 5:45"
+  class="v">45</span><span class="wj">That ye may be the children of your Father
+  which is in heaven: for he maketh his sun to rise on the evil and on the good,
+  and sendeth rain on the just and on the unjust.</span> </p>
+id: MAT/5/45
+next:
+  id: MAT/5/46
+  number: '46'
+previous:
+  id: MAT/5/44
+  number: '44'
+reference: 'Matthew 5:45'

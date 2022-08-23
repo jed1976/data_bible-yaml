@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 21:16" class="v">16</span>¶
+  And he that stealeth a man, and selleth him, or if he be found in his hand, he
+  shall surely be put to death.</p>
+id: EXO/21/16
+next:
+  id: EXO/21/17
+  number: '17'
+previous:
+  id: EXO/21/15
+  number: '15'
+reference: 'Exodus 21:16'

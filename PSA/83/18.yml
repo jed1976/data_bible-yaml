@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 83:18"
+  class="v">18</span>That <span class="add">men</span> may know that thou, whose
+  name alone <span class="add">is</span> <span class="nd">JEHOVAH</span>, <span
+  class="add">art</span> the most high over all the earth.</p>
+id: PSA/83/18
+next:
+  id: PSA/84/1
+  number: '1'
+previous:
+  id: PSA/83/17
+  number: '17'
+reference: 'Psalms 83:18'

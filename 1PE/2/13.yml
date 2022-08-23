@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1PE 2:13"
+  class="v">13</span>Submit yourselves to every ordinance of man for the Lord’s
+  sake: whether it be to the king, as supreme; </p>
+id: 1PE/2/13
+next:
+  id: 1PE/2/14
+  number: '14'
+previous:
+  id: 1PE/2/12
+  number: '12'
+reference: '1 Peter 2:13'

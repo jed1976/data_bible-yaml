@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 20:16"
+  class="v">16</span>And if a woman approach unto any beast, and lie down
+  thereto, thou shalt kill the woman, and the beast: they shall surely be put to
+  death; their blood <span class="add">shall be</span> upon them. </p>
+id: LEV/20/16
+next:
+  id: LEV/20/17
+  number: '17'
+previous:
+  id: LEV/20/15
+  number: '15'
+reference: 'Leviticus 20:16'

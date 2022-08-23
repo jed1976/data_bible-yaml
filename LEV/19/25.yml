@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 19:25"
+  class="v">25</span>And in the fifth year shall ye eat of the fruit thereof,
+  that it may yield unto you the increase thereof: I <span class="add">am</span>
+  the <span class="nd">LORD</span> your God.</p>
+id: LEV/19/25
+next:
+  id: LEV/19/26
+  number: '26'
+previous:
+  id: LEV/19/24
+  number: '24'
+reference: 'Leviticus 19:25'

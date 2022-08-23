@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 57:5" class="v">5</span>Be
+  thou exalted, O God, above the heavens; <span class="add">let</span> thy glory
+  <span class="add">be</span> above all the earth.</p>
+id: PSA/57/5
+next:
+  id: PSA/57/6
+  number: '6'
+previous:
+  id: PSA/57/4
+  number: '4'
+reference: 'Psalms 57:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2KI 13:22" class="v">22</span>¶
+  But Hazael king of Syria oppressed Israel all the days of Jehoahaz. </p>
+id: 2KI/13/22
+next:
+  id: 2KI/13/23
+  number: '23'
+previous:
+  id: 2KI/13/21
+  number: '21'
+reference: '2 Kings 13:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 4:9" class="v">9</span>If we
+  this day be examined of the good deed done to the impotent man, by what means
+  he is made whole; </p>
+id: ACT/4/9
+next:
+  id: ACT/4/10
+  number: '10'
+previous:
+  id: ACT/4/8
+  number: '8'
+reference: 'Acts 4:9'

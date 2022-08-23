@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 14:7" class="v">7</span>The
+  whole earth is at rest, <span class="add">and</span> is quiet: they break
+  forth into singing. </p>
+id: ISA/14/7
+next:
+  id: ISA/14/8
+  number: '8'
+previous:
+  id: ISA/14/6
+  number: '6'
+reference: 'Isaiah 14:7'

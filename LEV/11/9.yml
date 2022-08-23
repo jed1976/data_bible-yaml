@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 11:9" class="v">9</span>¶
+  These shall ye eat of all that <span class="add">are</span> in the waters:
+  whatsoever hath fins and scales in the waters, in the seas, and in the rivers,
+  them shall ye eat. </p>
+id: LEV/11/9
+next:
+  id: LEV/11/10
+  number: '10'
+previous:
+  id: LEV/11/8
+  number: '8'
+reference: 'Leviticus 11:9'

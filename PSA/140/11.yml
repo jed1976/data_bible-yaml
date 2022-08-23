@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 140:11"
+  class="v">11</span>Let not an evil speaker be established in the earth: evil
+  shall hunt the violent man to overthrow <span class="add">him</span>.</p>
+id: PSA/140/11
+next:
+  id: PSA/140/12
+  number: '12'
+previous:
+  id: PSA/140/10
+  number: '10'
+reference: 'Psalms 140:11'

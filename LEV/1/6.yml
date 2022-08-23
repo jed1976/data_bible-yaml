@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 1:6" class="v">6</span>And he
+  shall flay the burnt offering, and cut it into his pieces. </p>
+id: LEV/1/6
+next:
+  id: LEV/1/7
+  number: '7'
+previous:
+  id: LEV/1/5
+  number: '5'
+reference: 'Leviticus 1:6'

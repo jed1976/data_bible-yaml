@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 31:30"
+  class="v">30</span>And Moses spake in the ears of all the congregation of
+  Israel the words of this song, until they were ended.</p>
+id: DEU/31/30
+next:
+  id: DEU/32/1
+  number: '1'
+previous:
+  id: DEU/31/29
+  number: '29'
+reference: 'Deuteronomy 31:30'

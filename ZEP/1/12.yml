@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEP 1:12" class="v">12</span>And
+  it shall come to pass at that time, <span class="add">that</span> I will
+  search Jerusalem with candles, and punish the men that are settled on their
+  lees: that say in their heart, The <span class="nd">LORD</span> will not do
+  good, neither will he do evil. </p>
+id: ZEP/1/12
+next:
+  id: ZEP/1/13
+  number: '13'
+previous:
+  id: ZEP/1/11
+  number: '11'
+reference: 'Zephaniah 1:12'

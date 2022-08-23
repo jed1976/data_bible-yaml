@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 11:1" class="v">1</span>I say
+  then, Hath God cast away his people? God forbid. For I also am an Israelite,
+  of the seed of Abraham, <span class="add">of</span> the tribe of Benjamin.
+  </p>
+id: ROM/11/1
+next:
+  id: ROM/11/2
+  number: '2'
+previous:
+  id: ROM/10/21
+  number: '21'
+reference: 'Romans 11:1'

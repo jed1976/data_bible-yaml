@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="MAT 13:49"
+  class="v">49</span><span class="wj">So shall it be at the end of the world:
+  the angels shall come forth, and sever the wicked from among the just,</span>
+  </p>
+id: MAT/13/49
+next:
+  id: MAT/13/50
+  number: '50'
+previous:
+  id: MAT/13/48
+  number: '48'
+reference: 'Matthew 13:49'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 11:6" class="v">6</span>But
+  now our soul <span class="add">is</span> dried away: <span class="add">there
+  is</span> nothing at all, beside this manna, <span class="add">before</span>
+  our eyes. </p>
+id: NUM/11/6
+next:
+  id: NUM/11/7
+  number: '7'
+previous:
+  id: NUM/11/5
+  number: '5'
+reference: 'Numbers 11:6'

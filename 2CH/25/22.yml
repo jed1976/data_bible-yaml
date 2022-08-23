@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 25:22"
+  class="v">22</span>And Judah was put to the worse before Israel, and they fled
+  every man to his tent. </p>
+id: 2CH/25/22
+next:
+  id: 2CH/25/23
+  number: '23'
+previous:
+  id: 2CH/25/21
+  number: '21'
+reference: '2 Chronicles 25:22'

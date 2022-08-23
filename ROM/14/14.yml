@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 14:14" class="v">14</span>I
+  know, and am persuaded by the Lord Jesus, that <span class="add">there
+  is</span> nothing unclean of itself: but to him that esteemeth any thing to be
+  unclean, to him <span class="add">it is</span> unclean. </p>
+id: ROM/14/14
+next:
+  id: ROM/14/15
+  number: '15'
+previous:
+  id: ROM/14/13
+  number: '13'
+reference: 'Romans 14:14'

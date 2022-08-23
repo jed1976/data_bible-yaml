@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PHP 3:11" class="v">11</span>If
+  by any means I might attain unto the resurrection of the dead. </p>
+id: PHP/3/11
+next:
+  id: PHP/3/12
+  number: '12'
+previous:
+  id: PHP/3/10
+  number: '10'
+reference: 'Philippians 3:11'

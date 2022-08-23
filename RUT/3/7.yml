@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="RUT 3:7" class="v">7</span>And
+  when Boaz had eaten and drunk, and his heart was merry, he went to lie down at
+  the end of the heap of corn: and she came softly, and uncovered his feet, and
+  laid her down.</p>
+id: RUT/3/7
+next:
+  id: RUT/3/8
+  number: '8'
+previous:
+  id: RUT/3/6
+  number: '6'
+reference: 'Ruth 3:7'

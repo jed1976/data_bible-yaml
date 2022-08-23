@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 8:24"
+  class="v">24</span>When <span class="add">there were</span> no depths, I was
+  brought forth; when <span class="add">there were</span> no fountains abounding
+  with water. </p>
+id: PRO/8/24
+next:
+  id: PRO/8/25
+  number: '25'
+previous:
+  id: PRO/8/23
+  number: '23'
+reference: 'Proverbs 8:24'

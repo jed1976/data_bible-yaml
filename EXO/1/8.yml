@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 1:8" class="v">8</span>Now
+  there arose up a new king over Egypt, which knew not Joseph. </p>
+id: EXO/1/8
+next:
+  id: EXO/1/9
+  number: '9'
+previous:
+  id: EXO/1/7
+  number: '7'
+reference: 'Exodus 1:8'

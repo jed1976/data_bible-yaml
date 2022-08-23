@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 4:7" class="v">7</span>And
+  upon the table of shewbread they shall spread a cloth of blue, and put thereon
+  the dishes, and the spoons, and the bowls, and covers to cover withal: and the
+  continual bread shall be thereon: </p>
+id: NUM/4/7
+next:
+  id: NUM/4/8
+  number: '8'
+previous:
+  id: NUM/4/6
+  number: '6'
+reference: 'Numbers 4:7'

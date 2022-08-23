@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician upon Shoshannim, <span class="add">A
+  Psalm</span> of David.</p><p class="q1"><span data-number="1" data-sid="PSA
+  69:1" class="v">1</span>Save me, O God; for the waters are come in unto <span
+  class="add">my</span> soul.</p>
+id: PSA/69/1
+next:
+  id: PSA/69/2
+  number: '2'
+previous:
+  id: PSA/68/35
+  number: '35'
+reference: 'Psalms 69:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 15:11"
+  class="v">11</span>The <span class="nd">LORD</span> said, Verily it shall be
+  well with thy remnant; verily I will cause the enemy to entreat thee <span
+  class="add">well</span> in the time of evil and in the time of affliction.
+  </p>
+id: JER/15/11
+next:
+  id: JER/15/12
+  number: '12'
+previous:
+  id: JER/15/10
+  number: '10'
+reference: 'Jeremiah 15:11'

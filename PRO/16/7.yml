@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 16:7" class="v">7</span>When
+  a man’s ways please the <span class="nd">LORD</span>, he maketh even his
+  enemies to be at peace with him. </p>
+id: PRO/16/7
+next:
+  id: PRO/16/8
+  number: '8'
+previous:
+  id: PRO/16/6
+  number: '6'
+reference: 'Proverbs 16:7'

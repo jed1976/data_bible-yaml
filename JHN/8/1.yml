@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 8:1" class="v">1</span>Jesus
+  went unto the mount of Olives. </p>
+id: JHN/8/1
+next:
+  id: JHN/8/2
+  number: '2'
+previous:
+  id: JHN/7/53
+  number: '53'
+reference: 'John 8:1'

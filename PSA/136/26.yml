@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 136:26"
+  class="v">26</span>O give thanks unto the God of heaven: for his mercy <span
+  class="add">endureth</span> for ever.</p>
+id: PSA/136/26
+next:
+  id: PSA/137/1
+  number: '1'
+previous:
+  id: PSA/136/25
+  number: '25'
+reference: 'Psalms 136:26'

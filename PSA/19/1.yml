@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 19:1" class="v">1</span>The heavens declare the
+  glory of God; and the firmament sheweth his handywork.</p>
+id: PSA/19/1
+next:
+  id: PSA/19/2
+  number: '2'
+previous:
+  id: PSA/18/50
+  number: '50'
+reference: 'Psalms 19:1'

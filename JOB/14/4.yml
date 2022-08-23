@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 14:4" class="v">4</span>Who
+  can bring a clean <span class="add">thing</span> out of an unclean? not one.
+  </p>
+id: JOB/14/4
+next:
+  id: JOB/14/5
+  number: '5'
+previous:
+  id: JOB/14/3
+  number: '3'
+reference: 'Job 14:4'

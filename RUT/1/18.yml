@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="RUT 1:18"
+  class="v">18</span>When she saw that she was stedfastly minded to go with her,
+  then she left speaking unto her.</p>
+id: RUT/1/18
+next:
+  id: RUT/1/19
+  number: '19'
+previous:
+  id: RUT/1/17
+  number: '17'
+reference: 'Ruth 1:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 38:20"
+  class="v">20</span>They also that render evil for good are mine adversaries;
+  because I follow <span class="add">the thing that</span> good <span
+  class="add">is</span>.</p>
+id: PSA/38/20
+next:
+  id: PSA/38/21
+  number: '21'
+previous:
+  id: PSA/38/19
+  number: '19'
+reference: 'Psalms 38:20'

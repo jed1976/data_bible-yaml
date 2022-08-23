@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 6:10" class="v">10</span>And
+  they shall know that I <span class="add">am</span> the <span
+  class="nd">LORD</span>, <span class="add">and that</span> I have not said in
+  vain that I would do this evil unto them.</p>
+id: EZK/6/10
+next:
+  id: EZK/6/11
+  number: '11'
+previous:
+  id: EZK/6/9
+  number: '9'
+reference: 'Ezekiel 6:10'

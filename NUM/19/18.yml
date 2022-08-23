@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 19:18"
+  class="v">18</span>And a clean person shall take hyssop, and dip <span
+  class="add">it</span> in the water, and sprinkle <span class="add">it</span>
+  upon the tent, and upon all the vessels, and upon the persons that were there,
+  and upon him that touched a bone, or one slain, or one dead, or a grave: </p>
+id: NUM/19/18
+next:
+  id: NUM/19/19
+  number: '19'
+previous:
+  id: NUM/19/17
+  number: '17'
+reference: 'Numbers 19:18'

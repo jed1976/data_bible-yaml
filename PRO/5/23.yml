@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 5:23" class="v">23</span>He
+  shall die without instruction; and in the greatness of his folly he shall go
+  astray.</p>
+id: PRO/5/23
+next:
+  id: PRO/6/1
+  number: '1'
+previous:
+  id: PRO/5/22
+  number: '22'
+reference: 'Proverbs 5:23'

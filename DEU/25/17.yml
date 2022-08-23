@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 25:17" class="v">17</span>¶
+  Remember what Amalek did unto thee by the way, when ye were come forth out of
+  Egypt; </p>
+id: DEU/25/17
+next:
+  id: DEU/25/18
+  number: '18'
+previous:
+  id: DEU/25/16
+  number: '16'
+reference: 'Deuteronomy 25:17'

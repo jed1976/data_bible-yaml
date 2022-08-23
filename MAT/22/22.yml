@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 22:22"
+  class="v">22</span>When they had heard <span class="add">these words</span>,
+  they marvelled, and left him, and went their way.</p>
+id: MAT/22/22
+next:
+  id: MAT/22/23
+  number: '23'
+previous:
+  id: MAT/22/21
+  number: '21'
+reference: 'Matthew 22:22'

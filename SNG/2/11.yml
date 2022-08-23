@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 2:11"
+  class="v">11</span>For, lo, the winter is past, the rain is over <span
+  class="add">and</span> gone; </p>
+id: SNG/2/11
+next:
+  id: SNG/2/12
+  number: '12'
+previous:
+  id: SNG/2/10
+  number: '10'
+reference: 'Song of Solomon 2:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 28:20"
+  class="v">20</span>Whence then cometh wisdom? and where <span
+  class="add">is</span> the place of understanding? </p>
+id: JOB/28/20
+next:
+  id: JOB/28/21
+  number: '21'
+previous:
+  id: JOB/28/19
+  number: '19'
+reference: 'Job 28:20'

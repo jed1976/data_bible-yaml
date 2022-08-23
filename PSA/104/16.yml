@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 104:16"
+  class="v">16</span>The trees of the <span class="nd">LORD</span> are full
+  <span class="add">of sap;</span> the cedars of Lebanon, which he hath
+  planted;</p>
+id: PSA/104/16
+next:
+  id: PSA/104/17
+  number: '17'
+previous:
+  id: PSA/104/15
+  number: '15'
+reference: 'Psalms 104:16'

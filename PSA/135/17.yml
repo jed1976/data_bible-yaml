@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 135:17"
+  class="v">17</span>They have ears, but they hear not; neither is there <span
+  class="add">any</span> breath in their mouths.</p>
+id: PSA/135/17
+next:
+  id: PSA/135/18
+  number: '18'
+previous:
+  id: PSA/135/16
+  number: '16'
+reference: 'Psalms 135:17'

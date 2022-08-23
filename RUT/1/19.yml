@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="RUT 1:19" class="v">19</span>¶
+  So they two went until they came to Beth-lehem. And it came to pass, when they
+  were come to Beth-lehem, that all the city was moved about them, and they
+  said, <span class="add">Is</span> this Naomi? </p>
+id: RUT/1/19
+next:
+  id: RUT/1/20
+  number: '20'
+previous:
+  id: RUT/1/18
+  number: '18'
+reference: 'Ruth 1:19'

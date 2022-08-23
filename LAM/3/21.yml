@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LAM 3:21"
+  class="v">21</span>This I recall to my mind, therefore have I hope.</p>
+id: LAM/3/21
+next:
+  id: LAM/3/22
+  number: '22'
+previous:
+  id: LAM/3/20
+  number: '20'
+reference: 'Lamentations 3:21'

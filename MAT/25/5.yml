@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 25:5" class="v">5</span><span
+  class="wj">While the bridegroom tarried, they all slumbered and slept.</span>
+  </p>
+id: MAT/25/5
+next:
+  id: MAT/25/6
+  number: '6'
+previous:
+  id: MAT/25/4
+  number: '4'
+reference: 'Matthew 25:5'

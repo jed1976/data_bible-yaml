@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 6:14" class="v">14</span>¶
+  Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt
+  pitch it within and without with pitch. </p>
+id: GEN/6/14
+next:
+  id: GEN/6/15
+  number: '15'
+previous:
+  id: GEN/6/13
+  number: '13'
+reference: 'Genesis 6:14'

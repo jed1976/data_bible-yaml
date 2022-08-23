@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 20:7" class="v">7</span>Thou
+  shalt not take the name of the <span class="nd">LORD</span> thy God in vain;
+  for the <span class="nd">LORD</span> will not hold him guiltless that taketh
+  his name in vain. </p>
+id: EXO/20/7
+next:
+  id: EXO/20/8
+  number: '8'
+previous:
+  id: EXO/20/6
+  number: '6'
+reference: 'Exodus 20:7'

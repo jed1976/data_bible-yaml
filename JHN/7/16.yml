@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 7:16"
+  class="v">16</span>Jesus answered them, and said, <span class="wj">My doctrine
+  is not mine, but his that sent me.</span> </p>
+id: JHN/7/16
+next:
+  id: JHN/7/17
+  number: '17'
+previous:
+  id: JHN/7/15
+  number: '15'
+reference: 'John 7:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 20:23"
+  class="v">23</span>Divers weights <span class="add">are</span> an abomination
+  unto the <span class="nd">LORD</span>; and a false balance <span
+  class="add">is</span> not good. </p>
+id: PRO/20/23
+next:
+  id: PRO/20/24
+  number: '24'
+previous:
+  id: PRO/20/22
+  number: '22'
+reference: 'Proverbs 20:23'

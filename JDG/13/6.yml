@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 13:6" class="v">6</span>¶
+  Then the woman came and told her husband, saying, A man of God came unto me,
+  and his countenance <span class="add">was</span> like the countenance of an
+  angel of God, very terrible: but I asked him not whence he <span
+  class="add">was</span>, neither told he me his name: </p>
+id: JDG/13/6
+next:
+  id: JDG/13/7
+  number: '7'
+previous:
+  id: JDG/13/5
+  number: '5'
+reference: 'Judges 13:6'

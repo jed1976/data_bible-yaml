@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 24:13"
+  class="v">13</span>And Moses rose up, and his minister Joshua: and Moses went
+  up into the mount of God. </p>
+id: EXO/24/13
+next:
+  id: EXO/24/14
+  number: '14'
+previous:
+  id: EXO/24/12
+  number: '12'
+reference: 'Exodus 24:13'

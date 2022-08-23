@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="GEN 41:38"
+  class="v">38</span>And Pharaoh said unto his servants, Can we find <span
+  class="add">such a one</span> as this <span class="add">is</span>, a man in
+  whom the Spirit of God <span class="add">is</span>? </p>
+id: GEN/41/38
+next:
+  id: GEN/41/39
+  number: '39'
+previous:
+  id: GEN/41/37
+  number: '37'
+reference: 'Genesis 41:38'

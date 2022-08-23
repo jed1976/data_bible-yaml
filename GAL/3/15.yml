@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 3:15"
+  class="v">15</span>Brethren, I speak after the manner of men; Though <span
+  class="add">it be</span> but a man’s covenant, yet <span class="add">if it
+  be</span> confirmed, no man disannulleth, or addeth thereto. </p>
+id: GAL/3/15
+next:
+  id: GAL/3/16
+  number: '16'
+previous:
+  id: GAL/3/14
+  number: '14'
+reference: 'Galatians 3:15'

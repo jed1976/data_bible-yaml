@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="GEN 41:53" class="v">53</span>¶
+  And the seven years of plenteousness, that was in the land of Egypt, were
+  ended. </p>
+id: GEN/41/53
+next:
+  id: GEN/41/54
+  number: '54'
+previous:
+  id: GEN/41/52
+  number: '52'
+reference: 'Genesis 41:53'

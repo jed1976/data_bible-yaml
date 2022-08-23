@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 3:20" class="v">20</span>And
+  Adam called his wife’s name Eve; because she was the mother of all living.
+  </p>
+id: GEN/3/20
+next:
+  id: GEN/3/21
+  number: '21'
+previous:
+  id: GEN/3/19
+  number: '19'
+reference: 'Genesis 3:20'

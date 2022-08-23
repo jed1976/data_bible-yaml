@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 20:1" class="v">1</span>When
+  thou goest out to battle against thine enemies, and seest horses, and
+  chariots, <span class="add">and</span> a people more than thou, be not afraid
+  of them: for the <span class="nd">LORD</span> thy God <span
+  class="add">is</span> with thee, which brought thee up out of the land of
+  Egypt. </p>
+id: DEU/20/1
+next:
+  id: DEU/20/2
+  number: '2'
+previous:
+  id: DEU/19/21
+  number: '21'
+reference: 'Deuteronomy 20:1'

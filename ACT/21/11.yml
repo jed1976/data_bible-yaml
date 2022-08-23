@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 21:11"
+  class="v">11</span>And when he was come unto us, he took Paul’s girdle, and
+  bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall
+  the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver
+  <span class="add">him</span> into the hands of the Gentiles. </p>
+id: ACT/21/11
+next:
+  id: ACT/21/12
+  number: '12'
+previous:
+  id: ACT/21/10
+  number: '10'
+reference: 'Acts 21:11'

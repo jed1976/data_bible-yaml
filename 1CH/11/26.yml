@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1CH 11:26" class="v">26</span>¶
+  Also the valiant men of the armies <span class="add">were</span>, Asahel the
+  brother of Joab, Elhanan the son of Dodo of Beth-lehem, </p>
+id: 1CH/11/26
+next:
+  id: 1CH/11/27
+  number: '27'
+previous:
+  id: 1CH/11/25
+  number: '25'
+reference: '1 Chronicles 11:26'

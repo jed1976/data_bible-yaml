@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 5:13" class="v">13</span>He
+  taketh the wise in their own craftiness: and the counsel of the froward is
+  carried headlong. </p>
+id: JOB/5/13
+next:
+  id: JOB/5/14
+  number: '14'
+previous:
+  id: JOB/5/12
+  number: '12'
+reference: 'Job 5:13'

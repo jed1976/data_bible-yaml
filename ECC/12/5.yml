@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 12:5" class="v">5</span>Also
+  <span class="add">when</span> they shall be afraid of <span class="add">that
+  which is</span> high, and fears <span class="add">shall be</span> in the way,
+  and the almond tree shall flourish, and the grasshopper shall be a burden, and
+  desire shall fail: because man goeth to his long home, and the mourners go
+  about the streets: </p>
+id: ECC/12/5
+next:
+  id: ECC/12/6
+  number: '6'
+previous:
+  id: ECC/12/4
+  number: '4'
+reference: 'Ecclesiastes 12:5'

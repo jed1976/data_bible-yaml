@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ECC 5:20" class="v">20</span>For
+  he shall not much remember the days of his life; because God answereth <span
+  class="add">him</span> in the joy of his heart.</p>
+id: ECC/5/20
+next:
+  id: ECC/6/1
+  number: '1'
+previous:
+  id: ECC/5/19
+  number: '19'
+reference: 'Ecclesiastes 5:20'

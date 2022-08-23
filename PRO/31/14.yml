@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 31:14"
+  class="v">14</span>She is like the merchants’ ships; she bringeth her food
+  from afar. </p>
+id: PRO/31/14
+next:
+  id: PRO/31/15
+  number: '15'
+previous:
+  id: PRO/31/13
+  number: '13'
+reference: 'Proverbs 31:14'

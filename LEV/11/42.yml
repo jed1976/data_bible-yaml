@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 11:42"
+  class="v">42</span>Whatsoever goeth upon the belly, and whatsoever goeth upon
+  <span class="add">all</span> four, or whatsoever hath more feet among all
+  creeping things that creep upon the earth, them ye shall not eat; for they
+  <span class="add">are</span> an abomination.</p>
+id: LEV/11/42
+next:
+  id: LEV/11/43
+  number: '43'
+previous:
+  id: LEV/11/41
+  number: '41'
+reference: 'Leviticus 11:42'

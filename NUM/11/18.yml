@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 11:18"
+  class="v">18</span>And say thou unto the people, Sanctify yourselves against
+  to morrow, and ye shall eat flesh: for ye have wept in the ears of the <span
+  class="nd">LORD</span>, saying, Who shall give us flesh to eat? for <span
+  class="add">it was</span> well with us in Egypt: therefore the <span
+  class="nd">LORD</span> will give you flesh, and ye shall eat. </p>
+id: NUM/11/18
+next:
+  id: NUM/11/19
+  number: '19'
+previous:
+  id: NUM/11/17
+  number: '17'
+reference: 'Numbers 11:18'

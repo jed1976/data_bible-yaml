@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 7:23" class="v">23</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Nethaneel the son of Zuar.</p>
+id: NUM/7/23
+next:
+  id: NUM/7/24
+  number: '24'
+previous:
+  id: NUM/7/22
+  number: '22'
+reference: 'Numbers 7:23'

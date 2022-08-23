@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 8:10"
+  class="v">10</span>Then he said unto them, Go your way, eat the fat, and drink
+  the sweet, and send portions unto them for whom nothing is prepared: for <span
+  class="add">this</span> day <span class="add">is</span> holy unto our Lord:
+  neither be ye sorry; for the joy of the <span class="nd">LORD</span> is your
+  strength. </p>
+id: NEH/8/10
+next:
+  id: NEH/8/11
+  number: '11'
+previous:
+  id: NEH/8/9
+  number: '9'
+reference: 'Nehemiah 8:10'

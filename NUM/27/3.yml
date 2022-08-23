@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 27:3" class="v">3</span>Our
+  father died in the wilderness, and he was not in the company of them that
+  gathered themselves together against the <span class="nd">LORD</span> in the
+  company of Korah; but died in his own sin, and had no sons. </p>
+id: NUM/27/3
+next:
+  id: NUM/27/4
+  number: '4'
+previous:
+  id: NUM/27/2
+  number: '2'
+reference: 'Numbers 27:3'

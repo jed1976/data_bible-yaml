@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 86:14" class="v">14</span>O
+  God, the proud are risen against me, and the assemblies of violent <span
+  class="add">men</span> have sought after my soul; and have not set thee before
+  them.</p>
+id: PSA/86/14
+next:
+  id: PSA/86/15
+  number: '15'
+previous:
+  id: PSA/86/13
+  number: '13'
+reference: 'Psalms 86:14'

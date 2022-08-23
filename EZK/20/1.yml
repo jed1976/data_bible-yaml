@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 20:1" class="v">1</span>And
+  it came to pass in the seventh year, in the fifth <span
+  class="add">month</span>, the tenth <span class="add">day</span> of the month,
+  <span class="add">that</span> certain of the elders of Israel came to enquire
+  of the <span class="nd">LORD</span>, and sat before me. </p>
+id: EZK/20/1
+next:
+  id: EZK/20/2
+  number: '2'
+previous:
+  id: EZK/19/14
+  number: '14'
+reference: 'Ezekiel 20:1'

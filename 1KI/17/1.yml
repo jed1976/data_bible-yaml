@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 17:1" class="v">1</span>And
+  Elijah the Tishbite, <span class="add">who was</span> of the inhabitants of
+  Gilead, said unto Ahab, <span class="add">As</span> the <span
+  class="nd">LORD</span> God of Israel liveth, before whom I stand, there shall
+  not be dew nor rain these years, but according to my word. </p>
+id: 1KI/17/1
+next:
+  id: 1KI/17/2
+  number: '2'
+previous:
+  id: 1KI/16/34
+  number: '34'
+reference: '1 Kings 17:1'

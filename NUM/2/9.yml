@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 2:9" class="v">9</span>All
+  that were numbered in the camp of Judah <span class="add">were</span> an
+  hundred thousand and fourscore thousand and six thousand and four hundred,
+  throughout their armies. These shall first set forth.</p>
+id: NUM/2/9
+next:
+  id: NUM/2/10
+  number: '10'
+previous:
+  id: NUM/2/8
+  number: '8'
+reference: 'Numbers 2:9'

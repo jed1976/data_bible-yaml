@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 12:4" class="v">4</span>Then
+  Jephthah gathered together all the men of Gilead, and fought with Ephraim: and
+  the men of Gilead smote Ephraim, because they said, Ye Gileadites <span
+  class="add">are</span> fugitives of Ephraim among the Ephraimites, <span
+  class="add">and</span> among the Manassites. </p>
+id: JDG/12/4
+next:
+  id: JDG/12/5
+  number: '5'
+previous:
+  id: JDG/12/3
+  number: '3'
+reference: 'Judges 12:4'

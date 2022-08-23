@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CH 18:10" class="v">10</span>He
+  sent Hadoram his son to king David, to enquire of his welfare, and to
+  congratulate him, because he had fought against Hadarezer, and smitten him;
+  (for Hadarezer had war with Tou;) and <span class="add">with him</span> all
+  manner of vessels of gold and silver and brass.</p>
+id: 1CH/18/10
+next:
+  id: 1CH/18/11
+  number: '11'
+previous:
+  id: 1CH/18/9
+  number: '9'
+reference: '1 Chronicles 18:10'

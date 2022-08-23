@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 20:11"
+  class="v">11</span>Behold, <span class="add">I say, how</span> they reward us,
+  to come to cast us out of thy possession, which thou hast given us to inherit.
+  </p>
+id: 2CH/20/11
+next:
+  id: 2CH/20/12
+  number: '12'
+previous:
+  id: 2CH/20/10
+  number: '10'
+reference: '2 Chronicles 20:11'

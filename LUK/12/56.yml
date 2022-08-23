@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LUK 12:56"
+  class="v">56</span><span class="wj"><span class="add">Ye</span> hypocrites, ye
+  can discern the face of the sky and of the earth; but how is it that ye do not
+  discern this time?</span> </p>
+id: LUK/12/56
+next:
+  id: LUK/12/57
+  number: '57'
+previous:
+  id: LUK/12/55
+  number: '55'
+reference: 'Luke 12:56'

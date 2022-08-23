@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 8:10" class="v">10</span>For
+  before these days there was no hire for man, nor any hire for beast; neither
+  <span class="add">was there any</span> peace to him that went out or came in
+  because of the affliction: for I set all men every one against his neighbour.
+  </p>
+id: ZEC/8/10
+next:
+  id: ZEC/8/11
+  number: '11'
+previous:
+  id: ZEC/8/9
+  number: '9'
+reference: 'Zechariah 8:10'

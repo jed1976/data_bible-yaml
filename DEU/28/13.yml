@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 28:13"
+  class="v">13</span>And the <span class="nd">LORD</span> shall make thee the
+  head, and not the tail; and thou shalt be above only, and thou shalt not be
+  beneath; if that thou hearken unto the commandments of the <span
+  class="nd">LORD</span> thy God, which I command thee this day, to observe and
+  to do <span class="add">them:</span> </p>
+id: DEU/28/13
+next:
+  id: DEU/28/14
+  number: '14'
+previous:
+  id: DEU/28/12
+  number: '12'
+reference: 'Deuteronomy 28:13'

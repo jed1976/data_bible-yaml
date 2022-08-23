@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 9:27" class="v">27</span>¶
+  And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have
+  sinned this time: the <span class="nd">LORD</span> <span class="add">is</span>
+  righteous, and I and my people <span class="add">are</span> wicked. </p>
+id: EXO/9/27
+next:
+  id: EXO/9/28
+  number: '28'
+previous:
+  id: EXO/9/26
+  number: '26'
+reference: 'Exodus 9:27'

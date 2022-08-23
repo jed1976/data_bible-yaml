@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 15:12"
+  class="v">12</span>Shall iron break the northern iron and the steel? </p>
+id: JER/15/12
+next:
+  id: JER/15/13
+  number: '13'
+previous:
+  id: JER/15/11
+  number: '11'
+reference: 'Jeremiah 15:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 10:19"
+  class="v">19</span>But I say, Did not Israel know? First Moses saith, I will
+  provoke you to jealousy by <span class="add">them that are</span> no people,
+  <span class="add">and</span> by a foolish nation I will anger you. </p>
+id: ROM/10/19
+next:
+  id: ROM/10/20
+  number: '20'
+previous:
+  id: ROM/10/18
+  number: '18'
+reference: 'Romans 10:19'

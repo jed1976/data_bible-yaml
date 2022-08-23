@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 5:18"
+  class="v">18</span>Zebulun and Naphtali <span class="add">were</span> a people
+  <span class="add">that</span> jeoparded their lives unto the death in the high
+  places of the field. </p>
+id: JDG/5/18
+next:
+  id: JDG/5/19
+  number: '19'
+previous:
+  id: JDG/5/17
+  number: '17'
+reference: 'Judges 5:18'

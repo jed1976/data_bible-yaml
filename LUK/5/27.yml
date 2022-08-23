@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 5:27" class="v">27</span>¶
+  And after these things he went forth, and saw a publican, named Levi, sitting
+  at the receipt of custom: and he said unto him, <span class="wj">Follow
+  me.</span> </p>
+id: LUK/5/27
+next:
+  id: LUK/5/28
+  number: '28'
+previous:
+  id: LUK/5/26
+  number: '26'
+reference: 'Luke 5:27'

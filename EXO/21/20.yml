@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 21:20" class="v">20</span>¶
+  And if a man smite his servant, or his maid, with a rod, and he die under his
+  hand; he shall be surely punished. </p>
+id: EXO/21/20
+next:
+  id: EXO/21/21
+  number: '21'
+previous:
+  id: EXO/21/19
+  number: '19'
+reference: 'Exodus 21:20'

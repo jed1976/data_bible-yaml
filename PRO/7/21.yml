@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 7:21"
+  class="v">21</span>With her much fair speech she caused him to yield, with the
+  flattering of her lips she forced him. </p>
+id: PRO/7/21
+next:
+  id: PRO/7/22
+  number: '22'
+previous:
+  id: PRO/7/20
+  number: '20'
+reference: 'Proverbs 7:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 7:13" class="v">13</span>In
+  the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of
+  Noah, and Noah’s wife, and the three wives of his sons with them, into the
+  ark; </p>
+id: GEN/7/13
+next:
+  id: GEN/7/14
+  number: '14'
+previous:
+  id: GEN/7/12
+  number: '12'
+reference: 'Genesis 7:13'

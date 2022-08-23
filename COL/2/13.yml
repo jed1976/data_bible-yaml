@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="COL 2:13" class="v">13</span>And
+  you, being dead in your sins and the uncircumcision of your flesh, hath he
+  quickened together with him, having forgiven you all trespasses; </p>
+id: COL/2/13
+next:
+  id: COL/2/14
+  number: '14'
+previous:
+  id: COL/2/12
+  number: '12'
+reference: 'Colossians 2:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JON 3:8" class="v">8</span>But
+  let man and beast be covered with sackcloth, and cry mightily unto God: yea,
+  let them turn every one from his evil way, and from the violence that <span
+  class="add">is</span> in their hands. </p>
+id: JON/3/8
+next:
+  id: JON/3/9
+  number: '9'
+previous:
+  id: JON/3/7
+  number: '7'
+reference: 'Jonah 3:8'

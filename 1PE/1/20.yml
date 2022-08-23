@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1PE 1:20" class="v">20</span>Who
+  verily was foreordained before the foundation of the world, but was manifest
+  in these last times for you, </p>
+id: 1PE/1/20
+next:
+  id: 1PE/1/21
+  number: '21'
+previous:
+  id: 1PE/1/19
+  number: '19'
+reference: '1 Peter 1:20'

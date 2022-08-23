@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EXO 21:32" class="v">32</span>If
+  the ox shall push a manservant or a maidservant; he shall give unto their
+  master thirty shekels of silver, and the ox shall be stoned.</p>
+id: EXO/21/32
+next:
+  id: EXO/21/33
+  number: '33'
+previous:
+  id: EXO/21/31
+  number: '31'
+reference: 'Exodus 21:32'

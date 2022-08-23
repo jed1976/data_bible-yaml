@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 21:33" class="v">33</span>¶
+  And <span class="add">Abraham</span> planted a grove in Beer-sheba, and called
+  there on the name of the <span class="nd">LORD</span>, the everlasting God.
+  </p>
+id: GEN/21/33
+next:
+  id: GEN/21/34
+  number: '34'
+previous:
+  id: GEN/21/32
+  number: '32'
+reference: 'Genesis 21:33'

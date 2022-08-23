@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 17:26" class="v">26</span>In
+  the selfsame day was Abraham circumcised, and Ishmael his son. </p>
+id: GEN/17/26
+next:
+  id: GEN/17/27
+  number: '27'
+previous:
+  id: GEN/17/25
+  number: '25'
+reference: 'Genesis 17:26'

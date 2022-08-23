@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 13:26" class="v">26</span>¶
+  And they went and came to Moses, and to Aaron, and to all the congregation of
+  the children of Israel, unto the wilderness of Paran, to Kadesh; and brought
+  back word unto them, and unto all the congregation, and shewed them the fruit
+  of the land. </p>
+id: NUM/13/26
+next:
+  id: NUM/13/27
+  number: '27'
+previous:
+  id: NUM/13/25
+  number: '25'
+reference: 'Numbers 13:26'

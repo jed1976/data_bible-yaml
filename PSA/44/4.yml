@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 44:4" class="v">4</span>Thou
+  art my King, O God: command deliverances for Jacob.</p>
+id: PSA/44/4
+next:
+  id: PSA/44/5
+  number: '5'
+previous:
+  id: PSA/44/3
+  number: '3'
+reference: 'Psalms 44:4'

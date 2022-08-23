@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 25:13"
+  class="v">13</span>And after certain days king Agrippa and Bernice came unto
+  Cæsarea to salute Festus. </p>
+id: ACT/25/13
+next:
+  id: ACT/25/14
+  number: '14'
+previous:
+  id: ACT/25/12
+  number: '12'
+reference: 'Acts 25:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LAM 1:6" class="v">6</span>And
+  from the daughter of Zion all her beauty is departed: her princes are become
+  like harts <span class="add">that</span> find no pasture, and they are gone
+  without strength before the pursuer. </p>
+id: LAM/1/6
+next:
+  id: LAM/1/7
+  number: '7'
+previous:
+  id: LAM/1/5
+  number: '5'
+reference: 'Lamentations 1:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 148:6" class="v">6</span>He
+  hath also stablished them for ever and ever: he hath made a decree which shall
+  not pass.</p>
+id: PSA/148/6
+next:
+  id: PSA/148/7
+  number: '7'
+previous:
+  id: PSA/148/5
+  number: '5'
+reference: 'Psalms 148:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 66:4" class="v">4</span>All
+  the earth shall worship thee, and shall sing unto thee; they shall sing <span
+  class="add">to</span> thy name. Selah.</p>
+id: PSA/66/4
+next:
+  id: PSA/66/5
+  number: '5'
+previous:
+  id: PSA/66/3
+  number: '3'
+reference: 'Psalms 66:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PHP 1:13" class="v">13</span>So
+  that my bonds in Christ are manifest in all the palace, and in all other <span
+  class="add">places</span>; </p>
+id: PHP/1/13
+next:
+  id: PHP/1/14
+  number: '14'
+previous:
+  id: PHP/1/12
+  number: '12'
+reference: 'Philippians 1:13'

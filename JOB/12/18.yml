@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 12:18" class="v">18</span>He
+  looseth the bond of kings, and girdeth their loins with a girdle. </p>
+id: JOB/12/18
+next:
+  id: JOB/12/19
+  number: '19'
+previous:
+  id: JOB/12/17
+  number: '17'
+reference: 'Job 12:18'

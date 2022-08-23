@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 139:13"
+  class="v">13</span>For thou hast possessed my reins: thou hast covered me in
+  my mother’s womb.</p>
+id: PSA/139/13
+next:
+  id: PSA/139/14
+  number: '14'
+previous:
+  id: PSA/139/12
+  number: '12'
+reference: 'Psalms 139:13'

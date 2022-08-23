@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NAM 3:7" class="v">7</span>And it
+  shall come to pass, <span class="add">that</span> all they that look upon thee
+  shall flee from thee, and say, Nineveh is laid waste: who will bemoan her?
+  whence shall I seek comforters for thee?</p>
+id: NAM/3/7
+next:
+  id: NAM/3/8
+  number: '8'
+previous:
+  id: NAM/3/6
+  number: '6'
+reference: 'Nahum 3:7'

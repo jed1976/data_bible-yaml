@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 1:1" class="v">1</span>In the
+  eighth month, in the second year of Darius, came the word of the <span
+  class="nd">LORD</span> unto Zechariah, the son of Berechiah, the son of Iddo
+  the prophet, saying, </p>
+id: ZEC/1/1
+next:
+  id: ZEC/1/2
+  number: '2'
+previous:
+  id: ZEC/intro/0
+  number: '0'
+reference: 'Zechariah 1:1'

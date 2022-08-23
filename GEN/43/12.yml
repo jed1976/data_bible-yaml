@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 43:12"
+  class="v">12</span>And take double money in your hand; and the money that was
+  brought again in the mouth of your sacks, carry <span class="add">it</span>
+  again in your hand; peradventure it <span class="add">was</span> an oversight:
+  </p>
+id: GEN/43/12
+next:
+  id: GEN/43/13
+  number: '13'
+previous:
+  id: GEN/43/11
+  number: '11'
+reference: 'Genesis 43:12'

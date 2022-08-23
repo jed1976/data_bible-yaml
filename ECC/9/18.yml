@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ECC 9:18"
+  class="v">18</span>Wisdom <span class="add">is</span> better than weapons of
+  war: but one sinner destroyeth much good.</p>
+id: ECC/9/18
+next:
+  id: ECC/10/1
+  number: '1'
+previous:
+  id: ECC/9/17
+  number: '17'
+reference: 'Ecclesiastes 9:18'

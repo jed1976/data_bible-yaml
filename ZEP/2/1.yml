@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEP 2:1" class="v">1</span>Gather
+  yourselves together, yea, gather together, O nation not desired; </p>
+id: ZEP/2/1
+next:
+  id: ZEP/2/2
+  number: '2'
+previous:
+  id: ZEP/1/18
+  number: '18'
+reference: 'Zephaniah 2:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 14:11"
+  class="v">11</span>And it came to pass, when they saw him, that they brought
+  thirty companions to be with him.</p>
+id: JDG/14/11
+next:
+  id: JDG/14/12
+  number: '12'
+previous:
+  id: JDG/14/10
+  number: '10'
+reference: 'Judges 14:11'

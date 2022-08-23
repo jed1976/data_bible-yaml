@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 28:9" class="v">9</span>¶
+  Whom shall he teach knowledge? and whom shall he make to understand doctrine?
+  <span class="add">them that are</span> weaned from the milk, <span
+  class="add">and</span> drawn from the breasts. </p>
+id: ISA/28/9
+next:
+  id: ISA/28/10
+  number: '10'
+previous:
+  id: ISA/28/8
+  number: '8'
+reference: 'Isaiah 28:9'

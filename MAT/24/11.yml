@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 24:11"
+  class="v">11</span><span class="wj">And many false prophets shall rise, and
+  shall deceive many.</span> </p>
+id: MAT/24/11
+next:
+  id: MAT/24/12
+  number: '12'
+previous:
+  id: MAT/24/10
+  number: '10'
+reference: 'Matthew 24:11'

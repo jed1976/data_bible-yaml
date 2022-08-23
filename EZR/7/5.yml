@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZR 7:5" class="v">5</span>The
+  son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the
+  chief priest: </p>
+id: EZR/7/5
+next:
+  id: EZR/7/6
+  number: '6'
+previous:
+  id: EZR/7/4
+  number: '4'
+reference: 'Ezra 7:5'

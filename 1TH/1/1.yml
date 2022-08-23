@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TH 1:1" class="v">1</span>Paul,
+  and Silvanus, and Timotheus, unto the church of the Thessalonians <span
+  class="add">which is</span> in God the Father and <span class="add">in</span>
+  the Lord Jesus Christ: Grace <span class="add">be</span> unto you, and peace,
+  from God our Father, and the Lord Jesus Christ. </p>
+id: 1TH/1/1
+next:
+  id: 1TH/1/2
+  number: '2'
+previous:
+  id: 1TH/intro/0
+  number: '0'
+reference: '1 Thessalonians 1:1'

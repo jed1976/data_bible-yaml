@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 26:13"
+  class="v">13</span>And the man waxed great, and went forward, and grew until
+  he became very great:  </p>
+id: GEN/26/13
+next:
+  id: GEN/26/14
+  number: '14'
+previous:
+  id: GEN/26/12
+  number: '12'
+reference: 'Genesis 26:13'

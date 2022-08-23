@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 67:5" class="v">5</span>Let
+  the people praise thee, O God; let all the people praise thee.</p>
+id: PSA/67/5
+next:
+  id: PSA/67/6
+  number: '6'
+previous:
+  id: PSA/67/4
+  number: '4'
+reference: 'Psalms 67:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1CO 15:45"
+  class="v">45</span>And so it is written, The first man Adam was made a living
+  soul; the last Adam <span class="add">was made</span> a quickening spirit.
+  </p>
+id: 1CO/15/45
+next:
+  id: 1CO/15/46
+  number: '46'
+previous:
+  id: 1CO/15/44
+  number: '44'
+reference: '1 Corinthians 15:45'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MRK 10:42"
+  class="v">42</span>But Jesus called them <span class="add">to him</span>, and
+  saith unto them, <span class="wj">Ye know that they which are accounted to
+  rule over the Gentiles exercise lordship over them; and their great ones
+  exercise authority upon them.</span> </p>
+id: MRK/10/42
+next:
+  id: MRK/10/43
+  number: '43'
+previous:
+  id: MRK/10/41
+  number: '41'
+reference: 'Mark 10:42'

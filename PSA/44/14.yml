@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 44:14"
+  class="v">14</span>Thou makest us a byword among the heathen, a shaking of the
+  head among the people.</p>
+id: PSA/44/14
+next:
+  id: PSA/44/15
+  number: '15'
+previous:
+  id: PSA/44/13
+  number: '13'
+reference: 'Psalms 44:14'

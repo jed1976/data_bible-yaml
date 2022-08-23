@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 14:12" class="v">12</span>So
+  man lieth down, and riseth not: till the heavens <span class="add">be</span>
+  no more, they shall not awake, nor be raised out of their sleep. </p>
+id: JOB/14/12
+next:
+  id: JOB/14/13
+  number: '13'
+previous:
+  id: JOB/14/11
+  number: '11'
+reference: 'Job 14:12'

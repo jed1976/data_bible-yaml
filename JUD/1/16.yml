@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JUD 1:16"
+  class="v">16</span>These are murmurers, complainers, walking after their own
+  lusts; and their mouth speaketh great swelling <span class="add">words</span>,
+  having men’s persons in admiration because of advantage.</p>
+id: JUD/1/16
+next:
+  id: JUD/1/17
+  number: '17'
+previous:
+  id: JUD/1/15
+  number: '15'
+reference: 'Jude 1:16'

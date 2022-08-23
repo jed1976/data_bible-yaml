@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 85:11"
+  class="v">11</span>Truth shall spring out of the earth; and righteousness
+  shall look down from heaven.</p>
+id: PSA/85/11
+next:
+  id: PSA/85/12
+  number: '12'
+previous:
+  id: PSA/85/10
+  number: '10'
+reference: 'Psalms 85:11'

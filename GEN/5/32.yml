@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 5:32" class="v">32</span>And
+  Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.</p>
+id: GEN/5/32
+next:
+  id: GEN/6/1
+  number: '1'
+previous:
+  id: GEN/5/31
+  number: '31'
+reference: 'Genesis 5:32'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 15:12"
+  class="v">12</span><span class="wj">And the younger of them said to <span
+  class="add">his</span> father, Father, give me the portion of goods that
+  falleth <span class="add">to me</span>. And he divided unto them <span
+  class="add">his</span> living. </span> </p>
+id: LUK/15/12
+next:
+  id: LUK/15/13
+  number: '13'
+previous:
+  id: LUK/15/11
+  number: '11'
+reference: 'Luke 15:12'

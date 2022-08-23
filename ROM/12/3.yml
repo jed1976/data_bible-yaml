@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 12:3" class="v">3</span>For I
+  say, through the grace given unto me, to every man that is among you, not to
+  think <span class="add">of himself</span> more highly than he ought to think;
+  but to think soberly, according as God hath dealt to every man the measure of
+  faith. </p>
+id: ROM/12/3
+next:
+  id: ROM/12/4
+  number: '4'
+previous:
+  id: ROM/12/2
+  number: '2'
+reference: 'Romans 12:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EST 7:7" class="v">7</span>¶ And
+  the king arising from the banquet of wine in his wrath <span
+  class="add">went</span> into the palace garden: and Haman stood up to make
+  request for his life to Esther the queen; for he saw that there was evil
+  determined against him by the king. </p>
+id: EST/7/7
+next:
+  id: EST/7/8
+  number: '8'
+previous:
+  id: EST/7/6
+  number: '6'
+reference: 'Esther 7:7'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 2:4" class="v">4</span>¶ In
+  that day shall <span class="add">one</span> take up a parable against you, and
+  lament with a doleful lamentation, <span class="add">and</span> say, We be
+  utterly spoiled: he hath changed the portion of my people: how hath he removed
+  <span class="add">it</span> from me! turning away he hath divided our fields.
+  </p>
+id: MIC/2/4
+next:
+  id: MIC/2/5
+  number: '5'
+previous:
+  id: MIC/2/3
+  number: '3'
+reference: 'Micah 2:4'

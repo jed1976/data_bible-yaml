@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 94:13"
+  class="v">13</span>That thou mayest give him rest from the days of adversity,
+  until the pit be digged for the wicked.</p>
+id: PSA/94/13
+next:
+  id: PSA/94/14
+  number: '14'
+previous:
+  id: PSA/94/12
+  number: '12'
+reference: 'Psalms 94:13'

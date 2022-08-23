@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EPH 2:9" class="v">9</span>Not of
+  works, lest any man should boast. </p>
+id: EPH/2/9
+next:
+  id: EPH/2/10
+  number: '10'
+previous:
+  id: EPH/2/8
+  number: '8'
+reference: 'Ephesians 2:9'

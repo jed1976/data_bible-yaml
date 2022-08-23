@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 21:8" class="v">8</span>And
+  the next <span class="add">day</span> we that were of Paul’s company departed,
+  and came unto Cæsarea: and we entered into the house of Philip the evangelist,
+  which was <span class="add">one</span> of the seven; and abode with him. </p>
+id: ACT/21/8
+next:
+  id: ACT/21/9
+  number: '9'
+previous:
+  id: ACT/21/7
+  number: '7'
+reference: 'Acts 21:8'

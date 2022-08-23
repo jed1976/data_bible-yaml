@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NAM 1:6" class="v">6</span>Who
+  can stand before his indignation? and who can abide in the fierceness of his
+  anger? his fury is poured out like fire, and the rocks are thrown down by him.
+  </p>
+id: NAM/1/6
+next:
+  id: NAM/1/7
+  number: '7'
+previous:
+  id: NAM/1/5
+  number: '5'
+reference: 'Nahum 1:6'

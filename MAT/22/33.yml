@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 22:33"
+  class="v">33</span>And when the multitude heard <span class="add">this</span>,
+  they were astonished at his doctrine.</p>
+id: MAT/22/33
+next:
+  id: MAT/22/34
+  number: '34'
+previous:
+  id: MAT/22/32
+  number: '32'
+reference: 'Matthew 22:33'

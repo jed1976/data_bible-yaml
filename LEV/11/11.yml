@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 11:11"
+  class="v">11</span>They shall be even an abomination unto you; ye shall not
+  eat of their flesh, but ye shall have their carcases in abomination. </p>
+id: LEV/11/11
+next:
+  id: LEV/11/12
+  number: '12'
+previous:
+  id: LEV/11/10
+  number: '10'
+reference: 'Leviticus 11:11'

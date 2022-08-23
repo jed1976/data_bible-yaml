@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CH 24:23"
+  class="v">23</span>And the sons <span class="add">of Hebron;</span> Jeriah
+  <span class="add">the first</span>, Amariah the second, Jahaziel the third,
+  Jekameam the fourth. </p>
+id: 1CH/24/23
+next:
+  id: 1CH/24/24
+  number: '24'
+previous:
+  id: 1CH/24/22
+  number: '22'
+reference: '1 Chronicles 24:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 12:5" class="v">5</span>Let
+  the priests take <span class="add">it</span> to them, every man of his
+  acquaintance: and let them repair the breaches of the house, wheresoever any
+  breach shall be found. </p>
+id: 2KI/12/5
+next:
+  id: 2KI/12/6
+  number: '6'
+previous:
+  id: 2KI/12/4
+  number: '4'
+reference: '2 Kings 12:5'

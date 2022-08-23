@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 6:23" class="v">23</span>For
+  every meat offering for the priest shall be wholly burnt: it shall not be
+  eaten.</p>
+id: LEV/6/23
+next:
+  id: LEV/6/24
+  number: '24'
+previous:
+  id: LEV/6/22
+  number: '22'
+reference: 'Leviticus 6:23'

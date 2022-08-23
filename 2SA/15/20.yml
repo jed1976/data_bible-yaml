@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 15:20"
+  class="v">20</span>Whereas thou camest <span class="add">but</span> yesterday,
+  should I this day make thee go up and down with us? seeing I go whither I may,
+  return thou, and take back thy brethren: mercy and truth <span
+  class="add">be</span> with thee. </p>
+id: 2SA/15/20
+next:
+  id: 2SA/15/21
+  number: '21'
+previous:
+  id: 2SA/15/19
+  number: '19'
+reference: '2 Samuel 15:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 9:1" class="v">1</span>For
+  all this I considered in my heart even to declare all this, that the
+  righteous, and the wise, and their works, <span class="add">are</span> in the
+  hand of God: no man knoweth either love or hatred <span class="add">by</span>
+  all <span class="add">that is</span> before them. </p>
+id: ECC/9/1
+next:
+  id: ECC/9/2
+  number: '2'
+previous:
+  id: ECC/8/17
+  number: '17'
+reference: 'Ecclesiastes 9:1'

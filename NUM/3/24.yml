@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 3:24" class="v">24</span>And
+  the chief of the house of the father of the Gershonites <span
+  class="add">shall be</span> Eliasaph the son of Lael. </p>
+id: NUM/3/24
+next:
+  id: NUM/3/25
+  number: '25'
+previous:
+  id: NUM/3/23
+  number: '23'
+reference: 'Numbers 3:24'

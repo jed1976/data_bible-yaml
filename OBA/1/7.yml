@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="OBA 1:7" class="v">7</span>All
+  the men of thy confederacy have brought thee <span class="add">even</span> to
+  the border: the men that were at peace with thee have deceived thee, <span
+  class="add">and</span> prevailed against thee; <span class="add">they that
+  eat</span> thy bread have laid a wound under thee: <span class="add">there
+  is</span> none understanding in him. </p>
+id: OBA/1/7
+next:
+  id: OBA/1/8
+  number: '8'
+previous:
+  id: OBA/1/6
+  number: '6'
+reference: 'Obadiah 1:7'

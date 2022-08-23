@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 12:26"
+  class="v">26</span><span class="wj">If any man serve me, let him follow me;
+  and where I am, there shall also my servant be: if any man serve me, him will
+  <span class="add">my</span> Father honour.</span> </p>
+id: JHN/12/26
+next:
+  id: JHN/12/27
+  number: '27'
+previous:
+  id: JHN/12/25
+  number: '25'
+reference: 'John 12:26'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 10:4" class="v">4</span>The
+  wicked, through the pride of his countenance, will not seek <span
+  class="add">after God:</span> God <span class="add">is</span> not in all his
+  thoughts.</p>
+id: PSA/10/4
+next:
+  id: PSA/10/5
+  number: '5'
+previous:
+  id: PSA/10/3
+  number: '3'
+reference: 'Psalms 10:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PHP 1:29" class="v">29</span>For
+  unto you it is given in the behalf of Christ, not only to believe on him, but
+  also to suffer for his sake; </p>
+id: PHP/1/29
+next:
+  id: PHP/1/30
+  number: '30'
+previous:
+  id: PHP/1/28
+  number: '28'
+reference: 'Philippians 1:29'

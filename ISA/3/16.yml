@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 3:16" class="v">16</span>¶
+  Moreover the <span class="nd">LORD</span> saith, Because the daughters of Zion
+  are haughty, and walk with stretched forth necks and wanton eyes, walking and
+  mincing <span class="add">as</span> they go, and making a tinkling with their
+  feet: </p>
+id: ISA/3/16
+next:
+  id: ISA/3/17
+  number: '17'
+previous:
+  id: ISA/3/15
+  number: '15'
+reference: 'Isaiah 3:16'

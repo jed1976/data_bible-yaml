@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 28:1"
+  class="v">1</span>Surely there is a vein for the silver, and a place for gold
+  <span class="add">where</span> they fine <span class="add">it</span>. </p>
+id: JOB/28/1
+next:
+  id: JOB/28/2
+  number: '2'
+previous:
+  id: JOB/27/23
+  number: '23'
+reference: 'Job 28:1'

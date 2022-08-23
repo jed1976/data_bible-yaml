@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 20:4" class="v">4</span>And
+  why have ye brought up the congregation of the <span class="nd">LORD</span>
+  into this wilderness, that we and our cattle should die there? </p>
+id: NUM/20/4
+next:
+  id: NUM/20/5
+  number: '5'
+previous:
+  id: NUM/20/3
+  number: '3'
+reference: 'Numbers 20:4'

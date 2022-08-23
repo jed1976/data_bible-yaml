@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 85:3" class="v">3</span>Thou
+  hast taken away all thy wrath: thou hast turned <span
+  class="add">thyself</span> from the fierceness of thine anger.</p>
+id: PSA/85/3
+next:
+  id: PSA/85/4
+  number: '4'
+previous:
+  id: PSA/85/2
+  number: '2'
+reference: 'Psalms 85:3'

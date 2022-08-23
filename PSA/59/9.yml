@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 59:9"
+  class="v">9</span><span class="add">Because of</span> his strength will I wait
+  upon thee: for God <span class="add">is</span> my defence.</p>
+id: PSA/59/9
+next:
+  id: PSA/59/10
+  number: '10'
+previous:
+  id: PSA/59/8
+  number: '8'
+reference: 'Psalms 59:9'

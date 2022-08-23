@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 33:15"
+  class="v">15</span>And he said unto him, If thy presence go not <span
+  class="add">with me</span>, carry us not up hence. </p>
+id: EXO/33/15
+next:
+  id: EXO/33/16
+  number: '16'
+previous:
+  id: EXO/33/14
+  number: '14'
+reference: 'Exodus 33:15'

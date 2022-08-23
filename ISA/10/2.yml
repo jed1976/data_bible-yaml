@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 10:2" class="v">2</span>To
+  turn aside the needy from judgment, and to take away the right from the poor
+  of my people, that widows may be their prey, and <span class="add">that</span>
+  they may rob the fatherless! </p>
+id: ISA/10/2
+next:
+  id: ISA/10/3
+  number: '3'
+previous:
+  id: ISA/10/1
+  number: '1'
+reference: 'Isaiah 10:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 3:5" class="v">5</span>I
+  laid me down and slept; I awaked; for the <span class="nd">LORD</span>
+  sustained me.</p>
+id: PSA/3/5
+next:
+  id: PSA/3/6
+  number: '6'
+previous:
+  id: PSA/3/4
+  number: '4'
+reference: 'Psalms 3:5'

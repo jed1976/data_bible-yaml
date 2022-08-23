@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CO 9:1" class="v">1</span>For as
+  touching the ministering to the saints, it is superfluous for me to write to
+  you: </p>
+id: 2CO/9/1
+next:
+  id: 2CO/9/2
+  number: '2'
+previous:
+  id: 2CO/8/24
+  number: '24'
+reference: '2 Corinthians 9:1'

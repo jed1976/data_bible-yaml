@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 11:31" class="v">31</span>¶
+  And there went forth a wind from the <span class="nd">LORD</span>, and brought
+  quails from the sea, and let <span class="add">them</span> fall by the camp,
+  as it were a day’s journey on this side, and as it were a day’s journey on the
+  other side, round about the camp, and as it were two cubits <span
+  class="add">high</span> upon the face of the earth. </p>
+id: NUM/11/31
+next:
+  id: NUM/11/32
+  number: '32'
+previous:
+  id: NUM/11/30
+  number: '30'
+reference: 'Numbers 11:31'

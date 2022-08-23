@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 36:3" class="v">3</span>And
+  the king of Egypt put him down at Jerusalem, and condemned the land in an
+  hundred talents of silver and a talent of gold. </p>
+id: 2CH/36/3
+next:
+  id: 2CH/36/4
+  number: '4'
+previous:
+  id: 2CH/36/2
+  number: '2'
+reference: '2 Chronicles 36:3'

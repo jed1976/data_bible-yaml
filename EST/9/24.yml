@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EST 9:24"
+  class="v">24</span>Because Haman the son of Hammedatha, the Agagite, the enemy
+  of all the Jews, had devised against the Jews to destroy them, and had cast
+  Pur, that <span class="add">is</span>, the lot, to consume them, and to
+  destroy them; </p>
+id: EST/9/24
+next:
+  id: EST/9/25
+  number: '25'
+previous:
+  id: EST/9/23
+  number: '23'
+reference: 'Esther 9:24'

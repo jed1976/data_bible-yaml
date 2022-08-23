@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CH 23:22"
+  class="v">22</span>And Eleazar died, and had no sons, but daughters: and their
+  brethren the sons of Kish took them. </p>
+id: 1CH/23/22
+next:
+  id: 1CH/23/23
+  number: '23'
+previous:
+  id: 1CH/23/21
+  number: '21'
+reference: '1 Chronicles 23:22'

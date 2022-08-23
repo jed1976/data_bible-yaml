@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 39:22" class="v">22</span>¶
+  And he made the robe of the ephod <span class="add">of</span> woven work, all
+  <span class="add">of</span> blue. </p>
+id: EXO/39/22
+next:
+  id: EXO/39/23
+  number: '23'
+previous:
+  id: EXO/39/21
+  number: '21'
+reference: 'Exodus 39:22'

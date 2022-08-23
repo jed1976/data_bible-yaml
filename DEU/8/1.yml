@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 8:1" class="v">1</span>All
+  the commandments which I command thee this day shall ye observe to do, that ye
+  may live, and multiply, and go in and possess the land which the <span
+  class="nd">LORD</span> sware unto your fathers. </p>
+id: DEU/8/1
+next:
+  id: DEU/8/2
+  number: '2'
+previous:
+  id: DEU/7/26
+  number: '26'
+reference: 'Deuteronomy 8:1'

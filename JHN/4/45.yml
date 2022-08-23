@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JHN 4:45"
+  class="v">45</span>Then when he was come into Galilee, the Galilæans received
+  him, having seen all the things that he did at Jerusalem at the feast: for
+  they also went unto the feast. </p>
+id: JHN/4/45
+next:
+  id: JHN/4/46
+  number: '46'
+previous:
+  id: JHN/4/44
+  number: '44'
+reference: 'John 4:45'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 32:27"
+  class="v">27</span>But thy servants will pass over, every man armed for war,
+  before the <span class="nd">LORD</span> to battle, as my lord saith.</p>
+id: NUM/32/27
+next:
+  id: NUM/32/28
+  number: '28'
+previous:
+  id: NUM/32/26
+  number: '26'
+reference: 'Numbers 32:27'

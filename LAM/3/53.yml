@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="LAM 3:53"
+  class="v">53</span>They have cut off my life in the dungeon, and cast a stone
+  upon me. </p>
+id: LAM/3/53
+next:
+  id: LAM/3/54
+  number: '54'
+previous:
+  id: LAM/3/52
+  number: '52'
+reference: 'Lamentations 3:53'

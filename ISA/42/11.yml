@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 42:11"
+  class="v">11</span>Let the wilderness and the cities thereof lift up <span
+  class="add">their voice</span>, the villages <span class="add">that</span>
+  Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from
+  the top of the mountains. </p>
+id: ISA/42/11
+next:
+  id: ISA/42/12
+  number: '12'
+previous:
+  id: ISA/42/10
+  number: '10'
+reference: 'Isaiah 42:11'

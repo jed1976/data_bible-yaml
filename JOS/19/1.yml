@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 19:1" class="v">1</span>And
+  the second lot came forth to Simeon, <span class="add">even</span> for the
+  tribe of the children of Simeon according to their families: and their
+  inheritance was within the inheritance of the children of Judah. </p>
+id: JOS/19/1
+next:
+  id: JOS/19/2
+  number: '2'
+previous:
+  id: JOS/18/28
+  number: '28'
+reference: 'Joshua 19:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 15:11"
+  class="v">11</span>And they offered unto the <span class="nd">LORD</span> the
+  same time, of the spoil <span class="add">which</span> they had brought, seven
+  hundred oxen and seven thousand sheep. </p>
+id: 2CH/15/11
+next:
+  id: 2CH/15/12
+  number: '12'
+previous:
+  id: 2CH/15/10
+  number: '10'
+reference: '2 Chronicles 15:11'

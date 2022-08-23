@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 9:20" class="v">20</span>And
+  <span class="add">so</span> it was, when the cloud was a few days upon the
+  tabernacle; according to the commandment of the <span class="nd">LORD</span>
+  they abode in their tents, and according to the commandment of the <span
+  class="nd">LORD</span> they journeyed. </p>
+id: NUM/9/20
+next:
+  id: NUM/9/21
+  number: '21'
+previous:
+  id: NUM/9/19
+  number: '19'
+reference: 'Numbers 9:20'

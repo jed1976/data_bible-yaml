@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 15:24"
+  class="v">24</span>Whensoever I take my journey into Spain, I will come to
+  you: for I trust to see you in my journey, and to be brought on my way
+  thitherward by you, if first I be somewhat filled with your <span
+  class="add">company</span>. </p>
+id: ROM/15/24
+next:
+  id: ROM/15/25
+  number: '25'
+previous:
+  id: ROM/15/23
+  number: '23'
+reference: 'Romans 15:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 18:20" class="v">20</span>A
+  man’s belly shall be satisfied with the fruit of his mouth; <span
+  class="add">and</span> with the increase of his lips shall he be filled. </p>
+id: PRO/18/20
+next:
+  id: PRO/18/21
+  number: '21'
+previous:
+  id: PRO/18/19
+  number: '19'
+reference: 'Proverbs 18:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DEU 32:43"
+  class="v">43</span>Rejoice, O ye nations, <span class="add">with</span> his
+  people: for he will avenge the blood of his servants, and will render
+  vengeance to his adversaries, and will be merciful unto his land, <span
+  class="add">and</span> to his people.</p>
+id: DEU/32/43
+next:
+  id: DEU/32/44
+  number: '44'
+previous:
+  id: DEU/32/42
+  number: '42'
+reference: 'Deuteronomy 32:43'

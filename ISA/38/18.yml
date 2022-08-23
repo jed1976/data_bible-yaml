@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 38:18"
+  class="v">18</span>For the grave cannot praise thee, death can <span
+  class="add">not</span> celebrate thee: they that go down into the pit cannot
+  hope for thy truth. </p>
+id: ISA/38/18
+next:
+  id: ISA/38/19
+  number: '19'
+previous:
+  id: ISA/38/17
+  number: '17'
+reference: 'Isaiah 38:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 4:42" class="v">42</span>And
+  said unto the woman, Now we believe, not because of thy saying: for we have
+  heard <span class="add">him</span> ourselves, and know that this is indeed the
+  Christ, the Saviour of the world.</p>
+id: JHN/4/42
+next:
+  id: JHN/4/43
+  number: '43'
+previous:
+  id: JHN/4/41
+  number: '41'
+reference: 'John 4:42'

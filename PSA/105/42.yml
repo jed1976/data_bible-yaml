@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 105:42"
+  class="v">42</span>For he remembered his holy promise, <span
+  class="add">and</span> Abraham his servant.</p>
+id: PSA/105/42
+next:
+  id: PSA/105/43
+  number: '43'
+previous:
+  id: PSA/105/41
+  number: '41'
+reference: 'Psalms 105:42'

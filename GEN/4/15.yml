@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 4:15" class="v">15</span>And
+  the <span class="nd">LORD</span> said unto him, Therefore whosoever slayeth
+  Cain, vengeance shall be taken on him sevenfold. And the <span
+  class="nd">LORD</span> set a mark upon Cain, lest any finding him should kill
+  him.</p>
+id: GEN/4/15
+next:
+  id: GEN/4/16
+  number: '16'
+previous:
+  id: GEN/4/14
+  number: '14'
+reference: 'Genesis 4:15'

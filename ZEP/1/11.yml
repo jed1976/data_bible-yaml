@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEP 1:11"
+  class="v">11</span>Howl, ye inhabitants of Maktesh, for all the merchant
+  people are cut down; all they that bear silver are cut off. </p>
+id: ZEP/1/11
+next:
+  id: ZEP/1/12
+  number: '12'
+previous:
+  id: ZEP/1/10
+  number: '10'
+reference: 'Zephaniah 1:11'

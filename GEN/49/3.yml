@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 49:3" class="v">3</span>¶
+  Reuben, thou <span class="add">art</span> my firstborn, my might, and the
+  beginning of my strength, the excellency of dignity, and the excellency of
+  power: </p>
+id: GEN/49/3
+next:
+  id: GEN/49/4
+  number: '4'
+previous:
+  id: GEN/49/2
+  number: '2'
+reference: 'Genesis 49:3'

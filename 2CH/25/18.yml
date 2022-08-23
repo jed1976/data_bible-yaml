@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 25:18"
+  class="v">18</span>And Joash king of Israel sent to Amaziah king of Judah,
+  saying, The thistle that <span class="add">was</span> in Lebanon sent to the
+  cedar that <span class="add">was</span> in Lebanon, saying, Give thy daughter
+  to my son to wife: and there passed by a wild beast that <span
+  class="add">was</span> in Lebanon, and trode down the thistle. </p>
+id: 2CH/25/18
+next:
+  id: 2CH/25/19
+  number: '19'
+previous:
+  id: 2CH/25/17
+  number: '17'
+reference: '2 Chronicles 25:18'

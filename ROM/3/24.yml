@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 3:24"
+  class="v">24</span>Being justified freely by his grace through the redemption
+  that is in Christ Jesus: </p>
+id: ROM/3/24
+next:
+  id: ROM/3/25
+  number: '25'
+previous:
+  id: ROM/3/23
+  number: '23'
+reference: 'Romans 3:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 4:16" class="v">16</span>It
+  stood still, but I could not discern the form thereof: an image <span
+  class="add">was</span> before mine eyes, <span class="add">there was</span>
+  silence, and I heard a voice, <span class="add">saying</span>, </p>
+id: JOB/4/16
+next:
+  id: JOB/4/17
+  number: '17'
+previous:
+  id: JOB/4/15
+  number: '15'
+reference: 'Job 4:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 7:8" class="v">8</span>But
+  because the <span class="nd">LORD</span> loved you, and because he would keep
+  the oath which he had sworn unto your fathers, hath the <span
+  class="nd">LORD</span> brought you out with a mighty hand, and redeemed you
+  out of the house of bondmen, from the hand of Pharaoh king of Egypt. </p>
+id: DEU/7/8
+next:
+  id: DEU/7/9
+  number: '9'
+previous:
+  id: DEU/7/7
+  number: '7'
+reference: 'Deuteronomy 7:8'

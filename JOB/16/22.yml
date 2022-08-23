@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 16:22"
+  class="v">22</span>When a few years are come, then I shall go the way <span
+  class="add">whence</span> I shall not return.</p>
+id: JOB/16/22
+next:
+  id: JOB/17/1
+  number: '1'
+previous:
+  id: JOB/16/21
+  number: '21'
+reference: 'Job 16:22'

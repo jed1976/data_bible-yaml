@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 103:11"
+  class="v">11</span>For as the heaven is high above the earth, <span
+  class="add">so</span> great is his mercy toward them that fear him.</p>
+id: PSA/103/11
+next:
+  id: PSA/103/12
+  number: '12'
+previous:
+  id: PSA/103/10
+  number: '10'
+reference: 'Psalms 103:11'

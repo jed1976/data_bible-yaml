@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 24:27"
+  class="v">27</span><span class="wj">For as the lightning cometh out of the
+  east, and shineth even unto the west; so shall also the coming of the Son of
+  man be.</span> </p>
+id: MAT/24/27
+next:
+  id: MAT/24/28
+  number: '28'
+previous:
+  id: MAT/24/26
+  number: '26'
+reference: 'Matthew 24:27'

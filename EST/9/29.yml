@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EST 9:29"
+  class="v">29</span>Then Esther the queen, the daughter of Abihail, and
+  Mordecai the Jew, wrote with all authority, to confirm this second letter of
+  Purim. </p>
+id: EST/9/29
+next:
+  id: EST/9/30
+  number: '30'
+previous:
+  id: EST/9/28
+  number: '28'
+reference: 'Esther 9:29'

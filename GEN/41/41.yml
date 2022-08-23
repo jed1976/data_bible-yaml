@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="GEN 41:41"
+  class="v">41</span>And Pharaoh said unto Joseph, See, I have set thee over all
+  the land of Egypt. </p>
+id: GEN/41/41
+next:
+  id: GEN/41/42
+  number: '42'
+previous:
+  id: GEN/41/40
+  number: '40'
+reference: 'Genesis 41:41'

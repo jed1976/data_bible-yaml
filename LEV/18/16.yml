@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 18:16"
+  class="v">16</span>Thou shalt not uncover the nakedness of thy brother’s wife:
+  it <span class="add">is</span> thy brother’s nakedness. </p>
+id: LEV/18/16
+next:
+  id: LEV/18/17
+  number: '17'
+previous:
+  id: LEV/18/15
+  number: '15'
+reference: 'Leviticus 18:16'

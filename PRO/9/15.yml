@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 9:15" class="v">15</span>To
+  call passengers who go right on their ways: </p>
+id: PRO/9/15
+next:
+  id: PRO/9/16
+  number: '16'
+previous:
+  id: PRO/9/14
+  number: '14'
+reference: 'Proverbs 9:15'

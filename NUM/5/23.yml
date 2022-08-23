@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 5:23" class="v">23</span>And
+  the priest shall write these curses in a book, and he shall blot <span
+  class="add">them</span> out with the bitter water: </p>
+id: NUM/5/23
+next:
+  id: NUM/5/24
+  number: '24'
+previous:
+  id: NUM/5/22
+  number: '22'
+reference: 'Numbers 5:23'

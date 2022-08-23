@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 15:27" class="v">27</span>We
+  have sent therefore Judas and Silas, who shall also tell <span
+  class="add">you</span> the same things by mouth. </p>
+id: ACT/15/27
+next:
+  id: ACT/15/28
+  number: '28'
+previous:
+  id: ACT/15/26
+  number: '26'
+reference: 'Acts 15:27'

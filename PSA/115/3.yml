@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 115:3" class="v">3</span>But
+  our God <span class="add">is</span> in the heavens: he hath done whatsoever he
+  hath pleased.</p>
+id: PSA/115/3
+next:
+  id: PSA/115/4
+  number: '4'
+previous:
+  id: PSA/115/2
+  number: '2'
+reference: 'Psalms 115:3'

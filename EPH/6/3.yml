@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EPH 6:3" class="v">3</span>That
+  it may be well with thee, and thou mayest live long on the earth. </p>
+id: EPH/6/3
+next:
+  id: EPH/6/4
+  number: '4'
+previous:
+  id: EPH/6/2
+  number: '2'
+reference: 'Ephesians 6:3'

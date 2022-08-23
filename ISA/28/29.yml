@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ISA 28:29"
+  class="v">29</span>This also cometh forth from the <span
+  class="nd">LORD</span> of hosts, <span class="add">which</span> is wonderful
+  in counsel, <span class="add">and</span> excellent in working.</p>
+id: ISA/28/29
+next:
+  id: ISA/29/1
+  number: '1'
+previous:
+  id: ISA/28/28
+  number: '28'
+reference: 'Isaiah 28:29'

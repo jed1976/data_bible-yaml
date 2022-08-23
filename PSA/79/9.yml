@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 79:9" class="v">9</span>Help
+  us, O God of our salvation, for the glory of thy name: and deliver us, and
+  purge away our sins, for thy name’s sake.</p>
+id: PSA/79/9
+next:
+  id: PSA/79/10
+  number: '10'
+previous:
+  id: PSA/79/8
+  number: '8'
+reference: 'Psalms 79:9'

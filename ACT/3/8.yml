@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 3:8" class="v">8</span>And he
+  leaping up stood, and walked, and entered with them into the temple, walking,
+  and leaping, and praising God. </p>
+id: ACT/3/8
+next:
+  id: ACT/3/9
+  number: '9'
+previous:
+  id: ACT/3/7
+  number: '7'
+reference: 'Acts 3:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 8:25" class="v">25</span>And
+  they, when they had testified and preached the word of the Lord, returned to
+  Jerusalem, and preached the gospel in many villages of the Samaritans. </p>
+id: ACT/8/25
+next:
+  id: ACT/8/26
+  number: '26'
+previous:
+  id: ACT/8/24
+  number: '24'
+reference: 'Acts 8:25'

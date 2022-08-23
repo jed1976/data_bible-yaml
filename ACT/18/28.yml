@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="ACT 18:28"
+  class="v">28</span>For he mightily convinced the Jews, <span class="add">and
+  that</span> publickly, shewing by the scriptures that Jesus was Christ.</p>
+id: ACT/18/28
+next:
+  id: ACT/19/1
+  number: '1'
+previous:
+  id: ACT/18/27
+  number: '27'
+reference: 'Acts 18:28'

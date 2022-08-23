@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 18:7" class="v">7</span>¶ And
+  Moses went out to meet his father in law, and did obeisance, and kissed him;
+  and they asked each other of <span class="add">their</span> welfare; and they
+  came into the tent. </p>
+id: EXO/18/7
+next:
+  id: EXO/18/8
+  number: '8'
+previous:
+  id: EXO/18/6
+  number: '6'
+reference: 'Exodus 18:7'

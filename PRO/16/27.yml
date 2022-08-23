@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 16:27" class="v">27</span>An
+  ungodly man diggeth up evil: and in his lips <span class="add">there is</span>
+  as a burning fire. </p>
+id: PRO/16/27
+next:
+  id: PRO/16/28
+  number: '28'
+previous:
+  id: PRO/16/26
+  number: '26'
+reference: 'Proverbs 16:27'

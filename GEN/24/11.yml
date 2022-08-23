@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 24:11"
+  class="v">11</span>And he made his camels to kneel down without the city by a
+  well of water at the time of the evening, <span class="add">even</span> the
+  time that women go out to draw <span class="add">water</span>. </p>
+id: GEN/24/11
+next:
+  id: GEN/24/12
+  number: '12'
+previous:
+  id: GEN/24/10
+  number: '10'
+reference: 'Genesis 24:11'

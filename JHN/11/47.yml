@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="JHN 11:47" class="v">47</span>¶
+  Then gathered the chief priests and the Pharisees a council, and said, What do
+  we? for this man doeth many miracles. </p>
+id: JHN/11/47
+next:
+  id: JHN/11/48
+  number: '48'
+previous:
+  id: JHN/11/46
+  number: '46'
+reference: 'John 11:47'

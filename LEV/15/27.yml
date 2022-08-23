@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LEV 15:27"
+  class="v">27</span>And whosoever toucheth those things shall be unclean, and
+  shall wash his clothes, and bathe <span class="add">himself</span> in water,
+  and be unclean until the even. </p>
+id: LEV/15/27
+next:
+  id: LEV/15/28
+  number: '28'
+previous:
+  id: LEV/15/26
+  number: '26'
+reference: 'Leviticus 15:27'

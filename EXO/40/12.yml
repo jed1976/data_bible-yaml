@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 40:12"
+  class="v">12</span>And thou shalt bring Aaron and his sons unto the door of
+  the tabernacle of the congregation, and wash them with water. </p>
+id: EXO/40/12
+next:
+  id: EXO/40/13
+  number: '13'
+previous:
+  id: EXO/40/11
+  number: '11'
+reference: 'Exodus 40:12'

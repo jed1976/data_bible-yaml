@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 7:10" class="v">10</span>And
+  cried with a loud voice, saying, Salvation to our God which sitteth upon the
+  throne, and unto the Lamb. </p>
+id: REV/7/10
+next:
+  id: REV/7/11
+  number: '11'
+previous:
+  id: REV/7/9
+  number: '9'
+reference: 'Revelation 7:10'

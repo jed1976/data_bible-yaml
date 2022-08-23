@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DAN 5:25" class="v">25</span>¶
+  And this <span class="add">is</span> the writing that was written, MENE, MENE,
+  TEKEL, UPHARSIN. </p>
+id: DAN/5/25
+next:
+  id: DAN/5/26
+  number: '26'
+previous:
+  id: DAN/5/24
+  number: '24'
+reference: 'Daniel 5:25'

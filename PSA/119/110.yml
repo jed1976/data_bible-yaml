@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="110" data-sid="PSA 119:110"
+  class="v">110</span>The wicked have laid a snare for me: yet I erred not from
+  thy precepts.</p>
+id: PSA/119/110
+next:
+  id: PSA/119/111
+  number: '111'
+previous:
+  id: PSA/119/109
+  number: '109'
+reference: 'Psalms 119:110'

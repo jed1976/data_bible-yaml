@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 24:7"
+  class="v">7</span>Lift up your heads, O ye gates; and be ye lift up, ye
+  everlasting doors; and the King of glory shall come in.</p>
+id: PSA/24/7
+next:
+  id: PSA/24/8
+  number: '8'
+previous:
+  id: PSA/24/6
+  number: '6'
+reference: 'Psalms 24:7'

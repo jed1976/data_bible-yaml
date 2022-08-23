@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 1:8"
+  class="v">8</span>Behold, I have set the land before you: go in and possess
+  the land which the <span class="nd">LORD</span> sware unto your fathers,
+  Abraham, Isaac, and Jacob, to give unto them and to their seed after them.</p>
+id: DEU/1/8
+next:
+  id: DEU/1/9
+  number: '9'
+previous:
+  id: DEU/1/7
+  number: '7'
+reference: 'Deuteronomy 1:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 20:19"
+  class="v">19</span><span class="wj">And shall deliver him to the Gentiles to
+  mock, and to scourge, and to crucify <span class="add">him</span>: and the
+  third day he shall rise again.</span></p>
+id: MAT/20/19
+next:
+  id: MAT/20/20
+  number: '20'
+previous:
+  id: MAT/20/18
+  number: '18'
+reference: 'Matthew 20:19'

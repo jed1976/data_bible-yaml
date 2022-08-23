@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 46:10"
+  class="v">10</span>Be still, and know that I <span class="add">am</span> God:
+  I will be exalted among the heathen, I will be exalted in the earth.</p>
+id: PSA/46/10
+next:
+  id: PSA/46/11
+  number: '11'
+previous:
+  id: PSA/46/9
+  number: '9'
+reference: 'Psalms 46:10'

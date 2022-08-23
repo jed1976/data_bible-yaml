@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 19:8" class="v">8</span>The
+  statutes of the <span class="nd">LORD</span> <span class="add">are</span>
+  right, rejoicing the heart: the commandment of the <span
+  class="nd">LORD</span> <span class="add">is</span> pure, enlightening the
+  eyes.</p>
+id: PSA/19/8
+next:
+  id: PSA/19/9
+  number: '9'
+previous:
+  id: PSA/19/7
+  number: '7'
+reference: 'Psalms 19:8'

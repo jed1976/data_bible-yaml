@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 29:1" class="v">1</span>And
+  this <span class="add">is</span> the thing that thou shalt do unto them to
+  hallow them, to minister unto me in the priest’s office: Take one young
+  bullock, and two rams without blemish, </p>
+id: EXO/29/1
+next:
+  id: EXO/29/2
+  number: '2'
+previous:
+  id: EXO/28/43
+  number: '43'
+reference: 'Exodus 29:1'

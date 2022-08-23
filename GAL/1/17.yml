@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GAL 1:17"
+  class="v">17</span>Neither went I up to Jerusalem to them which were apostles
+  before me; but I went into Arabia, and returned again unto Damascus. </p>
+id: GAL/1/17
+next:
+  id: GAL/1/18
+  number: '18'
+previous:
+  id: GAL/1/16
+  number: '16'
+reference: 'Galatians 1:17'

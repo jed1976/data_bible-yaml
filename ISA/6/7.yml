@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 6:7" class="v">7</span>And he
+  laid <span class="add">it</span> upon my mouth, and said, Lo, this hath
+  touched thy lips; and thine iniquity is taken away, and thy sin purged. </p>
+id: ISA/6/7
+next:
+  id: ISA/6/8
+  number: '8'
+previous:
+  id: ISA/6/6
+  number: '6'
+reference: 'Isaiah 6:7'

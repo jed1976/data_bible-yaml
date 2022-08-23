@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 44:25"
+  class="v">25</span>And our father said, Go again, <span class="add">and</span>
+  buy us a little food. </p>
+id: GEN/44/25
+next:
+  id: GEN/44/26
+  number: '26'
+previous:
+  id: GEN/44/24
+  number: '24'
+reference: 'Genesis 44:25'

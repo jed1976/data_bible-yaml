@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="2CH 6:42" class="v">42</span>O
+  <span class="nd">LORD</span> God, turn not away the face of thine anointed:
+  remember the mercies of David thy servant.</p>
+id: 2CH/6/42
+next:
+  id: 2CH/7/1
+  number: '1'
+previous:
+  id: 2CH/6/41
+  number: '41'
+reference: '2 Chronicles 6:42'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 21:7" class="v">7</span>The
+  robbery of the wicked shall destroy them; because they refuse to do judgment.
+  </p>
+id: PRO/21/7
+next:
+  id: PRO/21/8
+  number: '8'
+previous:
+  id: PRO/21/6
+  number: '6'
+reference: 'Proverbs 21:7'

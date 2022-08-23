@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ECC 5:19"
+  class="v">19</span>Every man also to whom God hath given riches and wealth,
+  and hath given him power to eat thereof, and to take his portion, and to
+  rejoice in his labour; this <span class="add">is</span> the gift of God. </p>
+id: ECC/5/19
+next:
+  id: ECC/5/20
+  number: '20'
+previous:
+  id: ECC/5/18
+  number: '18'
+reference: 'Ecclesiastes 5:19'

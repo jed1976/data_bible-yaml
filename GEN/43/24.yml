@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 43:24"
+  class="v">24</span>And the man brought the men into Joseph’s house, and gave
+  <span class="add">them</span> water, and they washed their feet; and he gave
+  their asses provender. </p>
+id: GEN/43/24
+next:
+  id: GEN/43/25
+  number: '25'
+previous:
+  id: GEN/43/23
+  number: '23'
+reference: 'Genesis 43:24'

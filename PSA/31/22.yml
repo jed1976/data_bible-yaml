@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 31:22"
+  class="v">22</span>For I said in my haste, I am cut off from before thine
+  eyes: nevertheless thou heardest the voice of my supplications when I cried
+  unto thee.</p>
+id: PSA/31/22
+next:
+  id: PSA/31/23
+  number: '23'
+previous:
+  id: PSA/31/21
+  number: '21'
+reference: 'Psalms 31:22'

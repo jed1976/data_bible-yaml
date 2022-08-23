@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DAN 7:14" class="v">14</span>And
+  there was given him dominion, and glory, and a kingdom, that all people,
+  nations, and languages, should serve him: his dominion <span
+  class="add">is</span> an everlasting dominion, which shall not pass away, and
+  his kingdom <span class="add">that</span> which shall not be destroyed.</p>
+id: DAN/7/14
+next:
+  id: DAN/7/15
+  number: '15'
+previous:
+  id: DAN/7/13
+  number: '13'
+reference: 'Daniel 7:14'

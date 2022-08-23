@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 10:3" class="v">3</span>And
+  cried with a loud voice, as <span class="add">when</span> a lion roareth: and
+  when he had cried, seven thunders uttered their voices. </p>
+id: REV/10/3
+next:
+  id: REV/10/4
+  number: '4'
+previous:
+  id: REV/10/2
+  number: '2'
+reference: 'Revelation 10:3'

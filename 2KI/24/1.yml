@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 24:1" class="v">1</span>In
+  his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his
+  servant three years: then he turned and rebelled against him. </p>
+id: 2KI/24/1
+next:
+  id: 2KI/24/2
+  number: '2'
+previous:
+  id: 2KI/23/37
+  number: '37'
+reference: '2 Kings 24:1'

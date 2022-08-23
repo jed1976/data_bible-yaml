@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 39:6" class="v">6</span>¶ And
+  they wrought onyx stones inclosed in ouches of gold, graven, as signets are
+  graven, with the names of the children of Israel. </p>
+id: EXO/39/6
+next:
+  id: EXO/39/7
+  number: '7'
+previous:
+  id: EXO/39/5
+  number: '5'
+reference: 'Exodus 39:6'

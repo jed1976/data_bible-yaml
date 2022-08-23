@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MRK 10:44"
+  class="v">44</span><span class="wj">And whosoever of you will be the chiefest,
+  shall be servant of all.</span> </p>
+id: MRK/10/44
+next:
+  id: MRK/10/45
+  number: '45'
+previous:
+  id: MRK/10/43
+  number: '43'
+reference: 'Mark 10:44'

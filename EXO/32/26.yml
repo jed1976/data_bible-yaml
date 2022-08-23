@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 32:26"
+  class="v">26</span>Then Moses stood in the gate of the camp, and said, Who
+  <span class="add">is</span> on the <span class="nd">LORD’s</span> side? <span
+  class="add">let him come</span> unto me. And all the sons of Levi gathered
+  themselves together unto him. </p>
+id: EXO/32/26
+next:
+  id: EXO/32/27
+  number: '27'
+previous:
+  id: EXO/32/25
+  number: '25'
+reference: 'Exodus 32:26'

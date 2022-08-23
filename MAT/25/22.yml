@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 25:22"
+  class="v">22</span><span class="wj">He also that had received two talents came
+  and said, Lord, thou deliveredst unto me two talents: behold, I have gained
+  two other talents beside them.</span> </p>
+id: MAT/25/22
+next:
+  id: MAT/25/23
+  number: '23'
+previous:
+  id: MAT/25/21
+  number: '21'
+reference: 'Matthew 25:22'

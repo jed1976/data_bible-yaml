@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEP 3:12" class="v">12</span>I
+  will also leave in the midst of thee an afflicted and poor people, and they
+  shall trust in the name of the <span class="nd">LORD</span>. </p>
+id: ZEP/3/12
+next:
+  id: ZEP/3/13
+  number: '13'
+previous:
+  id: ZEP/3/11
+  number: '11'
+reference: 'Zephaniah 3:12'

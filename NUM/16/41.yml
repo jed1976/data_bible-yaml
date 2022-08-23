@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 16:41" class="v">41</span>¶
+  But on the morrow all the congregation of the children of Israel murmured
+  against Moses and against Aaron, saying, Ye have killed the people of the
+  <span class="nd">LORD</span>. </p>
+id: NUM/16/41
+next:
+  id: NUM/16/42
+  number: '42'
+previous:
+  id: NUM/16/40
+  number: '40'
+reference: 'Numbers 16:41'

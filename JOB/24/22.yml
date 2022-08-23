@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 24:22" class="v">22</span>He
+  draweth also the mighty with his power: he riseth up, and no <span
+  class="add">man</span> is sure of life. </p>
+id: JOB/24/22
+next:
+  id: JOB/24/23
+  number: '23'
+previous:
+  id: JOB/24/21
+  number: '21'
+reference: 'Job 24:22'

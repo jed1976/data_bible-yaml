@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 49:8" class="v">8</span>(For
+  the redemption of their soul <span class="add">is</span> precious, and it
+  ceaseth for ever:)</p>
+id: PSA/49/8
+next:
+  id: PSA/49/9
+  number: '9'
+previous:
+  id: PSA/49/7
+  number: '7'
+reference: 'Psalms 49:8'

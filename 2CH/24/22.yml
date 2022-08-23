@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 24:22"
+  class="v">22</span>Thus Joash the king remembered not the kindness which
+  Jehoiada his father had done to him, but slew his son. And when he died, he
+  said, The <span class="nd">LORD</span> look upon <span class="add">it</span>,
+  and require <span class="add">it</span>.</p>
+id: 2CH/24/22
+next:
+  id: 2CH/24/23
+  number: '23'
+previous:
+  id: 2CH/24/21
+  number: '21'
+reference: '2 Chronicles 24:22'

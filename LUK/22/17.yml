@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 22:17"
+  class="v">17</span>And he took the cup, and gave thanks, and said, <span
+  class="wj">Take this, and divide <span class="add">it</span> among
+  yourselves:</span> </p>
+id: LUK/22/17
+next:
+  id: LUK/22/18
+  number: '18'
+previous:
+  id: LUK/22/16
+  number: '16'
+reference: 'Luke 22:17'

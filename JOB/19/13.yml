@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 19:13" class="v">13</span>He
+  hath put my brethren far from me, and mine acquaintance are verily estranged
+  from me. </p>
+id: JOB/19/13
+next:
+  id: JOB/19/14
+  number: '14'
+previous:
+  id: JOB/19/12
+  number: '12'
+reference: 'Job 19:13'

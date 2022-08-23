@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 6:11"
+  class="v">11</span>Likewise reckon ye also yourselves to be dead indeed unto
+  sin, but alive unto God through Jesus Christ our Lord. </p>
+id: ROM/6/11
+next:
+  id: ROM/6/12
+  number: '12'
+previous:
+  id: ROM/6/10
+  number: '10'
+reference: 'Romans 6:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 36:6" class="v">6</span>He
+  preserveth not the life of the wicked: but giveth right to the poor. </p>
+id: JOB/36/6
+next:
+  id: JOB/36/7
+  number: '7'
+previous:
+  id: JOB/36/5
+  number: '5'
+reference: 'Job 36:6'

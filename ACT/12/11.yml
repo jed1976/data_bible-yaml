@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 12:11"
+  class="v">11</span>And when Peter was come to himself, he said, Now I know of
+  a surety, that the Lord hath sent his angel, and hath delivered me out of the
+  hand of Herod, and <span class="add">from</span> all the expectation of the
+  people of the Jews. </p>
+id: ACT/12/11
+next:
+  id: ACT/12/12
+  number: '12'
+previous:
+  id: ACT/12/10
+  number: '10'
+reference: 'Acts 12:11'

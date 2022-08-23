@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 38:9" class="v">9</span>And
+  Onan knew that the seed should not be his; and it came to pass, when he went
+  in unto his brother’s wife, that he spilled <span class="add">it</span> on the
+  ground, lest that he should give seed to his brother. </p>
+id: GEN/38/9
+next:
+  id: GEN/38/10
+  number: '10'
+previous:
+  id: GEN/38/8
+  number: '8'
+reference: 'Genesis 38:9'

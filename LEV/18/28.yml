@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="LEV 18:28"
+  class="v">28</span>That the land spue not you out also, when ye defile it, as
+  it spued out the nations that <span class="add">were</span> before you. </p>
+id: LEV/18/28
+next:
+  id: LEV/18/29
+  number: '29'
+previous:
+  id: LEV/18/27
+  number: '27'
+reference: 'Leviticus 18:28'

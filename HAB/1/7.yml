@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HAB 1:7" class="v">7</span>They
+  <span class="add">are</span> terrible and dreadful: their judgment and their
+  dignity shall proceed of themselves. </p>
+id: HAB/1/7
+next:
+  id: HAB/1/8
+  number: '8'
+previous:
+  id: HAB/1/6
+  number: '6'
+reference: 'Habakkuk 1:7'

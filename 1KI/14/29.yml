@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1KI 14:29" class="v">29</span>¶
+  Now the rest of the acts of Rehoboam, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Judah? </p>
+id: 1KI/14/29
+next:
+  id: 1KI/14/30
+  number: '30'
+previous:
+  id: 1KI/14/28
+  number: '28'
+reference: '1 Kings 14:29'

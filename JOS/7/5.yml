@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 7:5" class="v">5</span>And
+  the men of Ai smote of them about thirty and six men: for they chased them
+  <span class="add">from</span> before the gate <span class="add">even</span>
+  unto Shebarim, and smote them in the going down: wherefore the hearts of the
+  people melted, and became as water.</p>
+id: JOS/7/5
+next:
+  id: JOS/7/6
+  number: '6'
+previous:
+  id: JOS/7/4
+  number: '4'
+reference: 'Joshua 7:5'

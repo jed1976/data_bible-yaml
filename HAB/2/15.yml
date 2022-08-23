@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HAB 2:15" class="v">15</span>¶
+  Woe unto him that giveth his neighbour drink, that puttest thy bottle to <span
+  class="add">him</span>, and makest <span class="add">him</span> drunken also,
+  that thou mayest look on their nakedness! </p>
+id: HAB/2/15
+next:
+  id: HAB/2/16
+  number: '16'
+previous:
+  id: HAB/2/14
+  number: '14'
+reference: 'Habakkuk 2:15'

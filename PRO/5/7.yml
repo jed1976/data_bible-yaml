@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 5:7" class="v">7</span>Hear
+  me now therefore, O ye children, and depart not from the words of my mouth.
+  </p>
+id: PRO/5/7
+next:
+  id: PRO/5/8
+  number: '8'
+previous:
+  id: PRO/5/6
+  number: '6'
+reference: 'Proverbs 5:7'

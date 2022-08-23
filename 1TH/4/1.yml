@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TH 4:1"
+  class="v">1</span>Furthermore then we beseech you, brethren, and exhort <span
+  class="add">you</span> by the Lord Jesus, that as ye have received of us how
+  ye ought to walk and to please God, <span class="add">so</span> ye would
+  abound more and more. </p>
+id: 1TH/4/1
+next:
+  id: 1TH/4/2
+  number: '2'
+previous:
+  id: 1TH/3/13
+  number: '13'
+reference: '1 Thessalonians 4:1'

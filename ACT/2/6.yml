@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 2:6" class="v">6</span>Now
+  when this was noised abroad, the multitude came together, and were confounded,
+  because that every man heard them speak in his own language. </p>
+id: ACT/2/6
+next:
+  id: ACT/2/7
+  number: '7'
+previous:
+  id: ACT/2/5
+  number: '5'
+reference: 'Acts 2:6'

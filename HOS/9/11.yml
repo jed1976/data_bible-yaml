@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 9:11"
+  class="v">11</span><span class="add">As for</span> Ephraim, their glory shall
+  fly away like a bird, from the birth, and from the womb, and from the
+  conception. </p>
+id: HOS/9/11
+next:
+  id: HOS/9/12
+  number: '12'
+previous:
+  id: HOS/9/10
+  number: '10'
+reference: 'Hosea 9:11'

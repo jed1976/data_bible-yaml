@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 15:4" class="v">4</span><span
+  class="add">From thence</span> it passed toward Azmon, and went out unto the
+  river of Egypt; and the goings out of that coast were at the sea: this shall
+  be your south coast. </p>
+id: JOS/15/4
+next:
+  id: JOS/15/5
+  number: '5'
+previous:
+  id: JOS/15/3
+  number: '3'
+reference: 'Joshua 15:4'

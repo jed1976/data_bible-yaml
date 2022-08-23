@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 6:23" class="v">23</span>And
+  the young men that were spies went in, and brought out Rahab, and her father,
+  and her mother, and her brethren, and all that she had; and they brought out
+  all her kindred, and left them without the camp of Israel. </p>
+id: JOS/6/23
+next:
+  id: JOS/6/24
+  number: '24'
+previous:
+  id: JOS/6/22
+  number: '22'
+reference: 'Joshua 6:23'

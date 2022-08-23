@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 23:10"
+  class="v">10</span>One man of you shall chase a thousand: for the <span
+  class="nd">LORD</span> your God, he <span class="add">it is</span> that
+  fighteth for you, as he hath promised you.</p>
+id: JOS/23/10
+next:
+  id: JOS/23/11
+  number: '11'
+previous:
+  id: JOS/23/9
+  number: '9'
+reference: 'Joshua 23:10'

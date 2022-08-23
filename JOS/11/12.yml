@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 11:12"
+  class="v">12</span>And all the cities of those kings, and all the kings of
+  them, did Joshua take, and smote them with the edge of the sword, <span
+  class="add">and</span> he utterly destroyed them, as Moses the servant of the
+  <span class="nd">LORD</span> commanded. </p>
+id: JOS/11/12
+next:
+  id: JOS/11/13
+  number: '13'
+previous:
+  id: JOS/11/11
+  number: '11'
+reference: 'Joshua 11:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZR 7:22"
+  class="v">22</span>Unto an hundred talents of silver, and to an hundred
+  measures of wheat, and to an hundred baths of wine, and to an hundred baths of
+  oil, and salt without prescribing <span class="add">how much</span>. </p>
+id: EZR/7/22
+next:
+  id: EZR/7/23
+  number: '23'
+previous:
+  id: EZR/7/21
+  number: '21'
+reference: 'Ezra 7:22'

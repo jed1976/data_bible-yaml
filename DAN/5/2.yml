@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DAN 5:2"
+  class="v">2</span>Belshazzar, whiles he tasted the wine, commanded to bring
+  the golden and silver vessels which his father Nebuchadnezzar had taken out of
+  the temple which <span class="add">was</span> in Jerusalem; that the king, and
+  his princes, his wives, and his concubines, might drink therein. </p>
+id: DAN/5/2
+next:
+  id: DAN/5/3
+  number: '3'
+previous:
+  id: DAN/5/1
+  number: '1'
+reference: 'Daniel 5:2'

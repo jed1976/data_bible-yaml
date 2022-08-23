@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 8:20" class="v">20</span>To
+  the law and to the testimony: if they speak not according to this word, <span
+  class="add">it is</span> because <span class="add">there is</span> no light in
+  them. </p>
+id: ISA/8/20
+next:
+  id: ISA/8/21
+  number: '21'
+previous:
+  id: ISA/8/19
+  number: '19'
+reference: 'Isaiah 8:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JAS 3:12" class="v">12</span>Can
+  the fig tree, my brethren, bear olive berries? either a vine, figs? so <span
+  class="add">can</span> no fountain both yield salt water and fresh. </p>
+id: JAS/3/12
+next:
+  id: JAS/3/13
+  number: '13'
+previous:
+  id: JAS/3/11
+  number: '11'
+reference: 'James 3:12'

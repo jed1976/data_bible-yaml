@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 19:4" class="v">4</span>¶ But
+  he himself went a day’s journey into the wilderness, and came and sat down
+  under a juniper tree: and he requested for himself that he might die; and
+  said, It is enough; now, O <span class="nd">LORD</span>, take away my life;
+  for I <span class="add">am</span> not better than my fathers. </p>
+id: 1KI/19/4
+next:
+  id: 1KI/19/5
+  number: '5'
+previous:
+  id: 1KI/19/3
+  number: '3'
+reference: '1 Kings 19:4'

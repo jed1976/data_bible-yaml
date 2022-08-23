@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JER 51:43"
+  class="v">43</span>Her cities are a desolation, a dry land, and a wilderness,
+  a land wherein no man dwelleth, neither doth <span class="add">any</span> son
+  of man pass thereby. </p>
+id: JER/51/43
+next:
+  id: JER/51/44
+  number: '44'
+previous:
+  id: JER/51/42
+  number: '42'
+reference: 'Jeremiah 51:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 16:2" class="v">2</span>All
+  the ways of a man <span class="add">are</span> clean in his own eyes; but the
+  <span class="nd">LORD</span> weigheth the spirits. </p>
+id: PRO/16/2
+next:
+  id: PRO/16/3
+  number: '3'
+previous:
+  id: PRO/16/1
+  number: '1'
+reference: 'Proverbs 16:2'

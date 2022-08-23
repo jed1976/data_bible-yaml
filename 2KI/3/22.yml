@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2KI 3:22" class="v">22</span>And
+  they rose up early in the morning, and the sun shone upon the water, and the
+  Moabites saw the water on the other side <span class="add">as</span> red as
+  blood: </p>
+id: 2KI/3/22
+next:
+  id: 2KI/3/23
+  number: '23'
+previous:
+  id: 2KI/3/21
+  number: '21'
+reference: '2 Kings 3:22'

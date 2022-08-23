@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 118:17"
+  class="v">17</span>I shall not die, but live, and declare the works of the
+  <span class="nd">LORD</span>.</p>
+id: PSA/118/17
+next:
+  id: PSA/118/18
+  number: '18'
+previous:
+  id: PSA/118/16
+  number: '16'
+reference: 'Psalms 118:17'

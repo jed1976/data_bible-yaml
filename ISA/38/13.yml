@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 38:13" class="v">13</span>I
+  reckoned till morning, <span class="add">that</span>, as a lion, so will he
+  break all my bones: from day <span class="add">even</span> to night wilt thou
+  make an end of me. </p>
+id: ISA/38/13
+next:
+  id: ISA/38/14
+  number: '14'
+previous:
+  id: ISA/38/12
+  number: '12'
+reference: 'Isaiah 38:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 6:3" class="v">3</span>The
+  shepherds with their flocks shall come unto her; they shall pitch <span
+  class="add">their</span> tents against her round about; they shall feed every
+  one in his place. </p>
+id: JER/6/3
+next:
+  id: JER/6/4
+  number: '4'
+previous:
+  id: JER/6/2
+  number: '2'
+reference: 'Jeremiah 6:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="29" data-sid="PSA 18:29"
+  class="v">29</span>For by thee I have run through a troop; and by my God have
+  I leaped over a wall.</p>
+id: PSA/18/29
+next:
+  id: PSA/18/30
+  number: '30'
+previous:
+  id: PSA/18/28
+  number: '28'
+reference: 'Psalms 18:29'

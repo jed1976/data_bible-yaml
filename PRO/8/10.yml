@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 8:10"
+  class="v">10</span>Receive my instruction, and not silver; and knowledge
+  rather than choice gold. </p>
+id: PRO/8/10
+next:
+  id: PRO/8/11
+  number: '11'
+previous:
+  id: PRO/8/9
+  number: '9'
+reference: 'Proverbs 8:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 41:26"
+  class="v">26</span>The sword of him that layeth at him cannot hold: the spear,
+  the dart, nor the habergeon. </p>
+id: JOB/41/26
+next:
+  id: JOB/41/27
+  number: '27'
+previous:
+  id: JOB/41/25
+  number: '25'
+reference: 'Job 41:26'

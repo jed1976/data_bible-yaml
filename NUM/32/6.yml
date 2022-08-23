@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 32:6" class="v">6</span>¶ And
+  Moses said unto the children of Gad and to the children of Reuben, Shall your
+  brethren go to war, and shall ye sit here? </p>
+id: NUM/32/6
+next:
+  id: NUM/32/7
+  number: '7'
+previous:
+  id: NUM/32/5
+  number: '5'
+reference: 'Numbers 32:6'

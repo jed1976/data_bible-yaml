@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 19:17"
+  class="v">17</span>And for an unclean <span class="add">person</span> they
+  shall take of the ashes of the burnt heifer of purification for sin, and
+  running water shall be put thereto in a vessel: </p>
+id: NUM/19/17
+next:
+  id: NUM/19/18
+  number: '18'
+previous:
+  id: NUM/19/16
+  number: '16'
+reference: 'Numbers 19:17'

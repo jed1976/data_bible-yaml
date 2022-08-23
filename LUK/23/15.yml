@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 23:15"
+  class="v">15</span>No, nor yet Herod: for I sent you to him; and, lo, nothing
+  worthy of death is done unto him. </p>
+id: LUK/23/15
+next:
+  id: LUK/23/16
+  number: '16'
+previous:
+  id: LUK/23/14
+  number: '14'
+reference: 'Luke 23:15'

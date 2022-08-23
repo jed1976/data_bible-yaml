@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="1KI 18:41" class="v">41</span>¶
+  And Elijah said unto Ahab, Get thee up, eat and drink; for <span
+  class="add">there is</span> a sound of abundance of rain. </p>
+id: 1KI/18/41
+next:
+  id: 1KI/18/42
+  number: '42'
+previous:
+  id: 1KI/18/40
+  number: '40'
+reference: '1 Kings 18:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 23:8"
+  class="v">8</span>Behold, I go forward, but he <span class="add">is</span> not
+  <span class="add">there;</span> and backward, but I cannot perceive him: </p>
+id: JOB/23/8
+next:
+  id: JOB/23/9
+  number: '9'
+previous:
+  id: JOB/23/7
+  number: '7'
+reference: 'Job 23:8'

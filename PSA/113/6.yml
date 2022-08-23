@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 113:6" class="v">6</span>Who
+  humbleth <span class="add">himself</span> to behold <span class="add">the
+  things that are</span> in heaven, and in the earth!</p>
+id: PSA/113/6
+next:
+  id: PSA/113/7
+  number: '7'
+previous:
+  id: PSA/113/5
+  number: '5'
+reference: 'Psalms 113:6'

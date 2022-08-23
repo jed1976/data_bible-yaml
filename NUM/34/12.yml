@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 34:12"
+  class="v">12</span>And the border shall go down to Jordan, and the goings out
+  of it shall be at the salt sea: this shall be your land with the coasts
+  thereof round about. </p>
+id: NUM/34/12
+next:
+  id: NUM/34/13
+  number: '13'
+previous:
+  id: NUM/34/11
+  number: '11'
+reference: 'Numbers 34:12'

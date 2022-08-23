@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 15:19"
+  class="v">19</span>Who answered, Give me a blessing; for thou hast given me a
+  south land; give me also springs of water. And he gave her the upper springs,
+  and the nether springs.</p>
+id: JOS/15/19
+next:
+  id: JOS/15/20
+  number: '20'
+previous:
+  id: JOS/15/18
+  number: '18'
+reference: 'Joshua 15:19'

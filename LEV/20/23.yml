@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 20:23"
+  class="v">23</span>And ye shall not walk in the manners of the nation, which I
+  cast out before you: for they committed all these things, and therefore I
+  abhorred them. </p>
+id: LEV/20/23
+next:
+  id: LEV/20/24
+  number: '24'
+previous:
+  id: LEV/20/22
+  number: '22'
+reference: 'Leviticus 20:23'

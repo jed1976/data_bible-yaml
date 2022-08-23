@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 7:23"
+  class="v">23</span><span class="wj">And blessed is <span
+  class="add">he</span>, whosoever shall not be offended in me.</span></p>
+id: LUK/7/23
+next:
+  id: LUK/7/24
+  number: '24'
+previous:
+  id: LUK/7/22
+  number: '22'
+reference: 'Luke 7:23'

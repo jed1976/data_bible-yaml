@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 10:27"
+  class="v">27</span>The fear of the <span class="nd">LORD</span> prolongeth
+  days: but the years of the wicked shall be shortened. </p>
+id: PRO/10/27
+next:
+  id: PRO/10/28
+  number: '28'
+previous:
+  id: PRO/10/26
+  number: '26'
+reference: 'Proverbs 10:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 21:4" class="v">4</span>All
+  this was done, that it might be fulfilled which was spoken by the prophet,
+  saying, </p>
+id: MAT/21/4
+next:
+  id: MAT/21/5
+  number: '5'
+previous:
+  id: MAT/21/3
+  number: '3'
+reference: 'Matthew 21:4'

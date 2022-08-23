@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 23:9" class="v">9</span>On
+  the left hand, where he doth work, but I cannot behold <span
+  class="add">him:</span> he hideth himself on the right hand, that I cannot see
+  <span class="add">him:</span> </p>
+id: JOB/23/9
+next:
+  id: JOB/23/10
+  number: '10'
+previous:
+  id: JOB/23/8
+  number: '8'
+reference: 'Job 23:9'

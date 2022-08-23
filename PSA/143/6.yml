@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 143:6" class="v">6</span>I
+  stretch forth my hands unto thee: my soul <span class="add">thirsteth</span>
+  after thee, as a thirsty land. Selah.</p>
+id: PSA/143/6
+next:
+  id: PSA/143/7
+  number: '7'
+previous:
+  id: PSA/143/5
+  number: '5'
+reference: 'Psalms 143:6'

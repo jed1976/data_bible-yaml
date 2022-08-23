@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 29:17"
+  class="v">17</span>And I brake the jaws of the wicked, and plucked the spoil
+  out of his teeth.</p>
+id: JOB/29/17
+next:
+  id: JOB/29/18
+  number: '18'
+previous:
+  id: JOB/29/16
+  number: '16'
+reference: 'Job 29:17'

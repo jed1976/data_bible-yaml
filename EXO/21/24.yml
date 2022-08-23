@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 21:24"
+  class="v">24</span>Eye for eye, tooth for tooth, hand for hand, foot for foot,
+  </p>
+id: EXO/21/24
+next:
+  id: EXO/21/25
+  number: '25'
+previous:
+  id: EXO/21/23
+  number: '23'
+reference: 'Exodus 21:24'

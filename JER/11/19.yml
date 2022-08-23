@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JER 11:19"
+  class="v">19</span>But I <span class="add">was</span> like a lamb <span
+  class="add">or</span> an ox <span class="add">that</span> is brought to the
+  slaughter; and I knew not that they had devised devices against me, <span
+  class="add">saying</span>, Let us destroy the tree with the fruit thereof, and
+  let us cut him off from the land of the living, that his name may be no more
+  remembered. </p>
+id: JER/11/19
+next:
+  id: JER/11/20
+  number: '20'
+previous:
+  id: JER/11/18
+  number: '18'
+reference: 'Jeremiah 11:19'

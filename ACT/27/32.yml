@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 27:32"
+  class="v">32</span>Then the soldiers cut off the ropes of the boat, and let
+  her fall off. </p>
+id: ACT/27/32
+next:
+  id: ACT/27/33
+  number: '33'
+previous:
+  id: ACT/27/31
+  number: '31'
+reference: 'Acts 27:32'

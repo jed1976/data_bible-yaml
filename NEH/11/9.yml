@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 11:9" class="v">9</span>And
+  Joel the son of Zichri <span class="add">was</span> their overseer: and Judah
+  the son of Senuah <span class="add">was</span> second over the city. </p>
+id: NEH/11/9
+next:
+  id: NEH/11/10
+  number: '10'
+previous:
+  id: NEH/11/8
+  number: '8'
+reference: 'Nehemiah 11:9'

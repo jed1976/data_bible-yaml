@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 12:10"
+  class="v">10</span>Many shall be purified, and made white, and tried; but the
+  wicked shall do wickedly: and none of the wicked shall understand; but the
+  wise shall understand. </p>
+id: DAN/12/10
+next:
+  id: DAN/12/11
+  number: '11'
+previous:
+  id: DAN/12/9
+  number: '9'
+reference: 'Daniel 12:10'

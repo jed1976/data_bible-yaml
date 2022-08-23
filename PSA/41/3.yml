@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 41:3" class="v">3</span>The
+  <span class="nd">LORD</span> will strengthen him upon the bed of languishing:
+  thou wilt make all his bed in his sickness.</p>
+id: PSA/41/3
+next:
+  id: PSA/41/4
+  number: '4'
+previous:
+  id: PSA/41/2
+  number: '2'
+reference: 'Psalms 41:3'

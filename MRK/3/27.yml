@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 3:27"
+  class="v">27</span><span class="wj">No man can enter into a strong man’s
+  house, and spoil his goods, except he will first bind the strong man; and then
+  he will spoil his house.</span> </p>
+id: MRK/3/27
+next:
+  id: MRK/3/28
+  number: '28'
+previous:
+  id: MRK/3/26
+  number: '26'
+reference: 'Mark 3:27'

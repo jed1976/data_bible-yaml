@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 16:6" class="v">6</span>¶ We
+  have heard of the pride of Moab; <span class="add">he is</span> very proud:
+  <span class="add">even</span> of his haughtiness, and his pride, and his
+  wrath: <span class="add">but</span> his lies <span class="add">shall</span>
+  not <span class="add">be</span> so. </p>
+id: ISA/16/6
+next:
+  id: ISA/16/7
+  number: '7'
+previous:
+  id: ISA/16/5
+  number: '5'
+reference: 'Isaiah 16:6'

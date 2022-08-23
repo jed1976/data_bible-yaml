@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 7:25"
+  class="v">25</span>Since the day that your fathers came forth out of the land
+  of Egypt unto this day I have even sent unto you all my servants the prophets,
+  daily rising up early and sending <span class="add">them:</span> </p>
+id: JER/7/25
+next:
+  id: JER/7/26
+  number: '26'
+previous:
+  id: JER/7/24
+  number: '24'
+reference: 'Jeremiah 7:25'

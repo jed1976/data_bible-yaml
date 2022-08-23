@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="38" data-sid="PSA 18:38" class="v">38</span>I
+  have wounded them that they were not able to rise: they are fallen under my
+  feet.</p>
+id: PSA/18/38
+next:
+  id: PSA/18/39
+  number: '39'
+previous:
+  id: PSA/18/37
+  number: '37'
+reference: 'Psalms 18:38'

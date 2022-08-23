@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 3:6" class="v">6</span>And
+  were baptized of him in Jordan, confessing their sins.</p>
+id: MAT/3/6
+next:
+  id: MAT/3/7
+  number: '7'
+previous:
+  id: MAT/3/5
+  number: '5'
+reference: 'Matthew 3:6'

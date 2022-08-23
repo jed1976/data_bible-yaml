@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 8:26" class="v">26</span>And
+  he sent him away to his house, saying, <span class="wj">Neither go into the
+  town, nor tell <span class="add">it</span> to any in the town.</span></p>
+id: MRK/8/26
+next:
+  id: MRK/8/27
+  number: '27'
+previous:
+  id: MRK/8/25
+  number: '25'
+reference: 'Mark 8:26'

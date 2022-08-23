@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 26:41"
+  class="v">41</span>These <span class="add">are</span> the sons of Benjamin
+  after their families: and they that were numbered of them <span
+  class="add">were</span> forty and five thousand and six hundred.</p>
+id: NUM/26/41
+next:
+  id: NUM/26/42
+  number: '42'
+previous:
+  id: NUM/26/40
+  number: '40'
+reference: 'Numbers 26:41'

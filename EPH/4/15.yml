@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EPH 4:15" class="v">15</span>But
+  speaking the truth in love, may grow up into him in all things, which is the
+  head, <span class="add">even</span> Christ: </p>
+id: EPH/4/15
+next:
+  id: EPH/4/16
+  number: '16'
+previous:
+  id: EPH/4/14
+  number: '14'
+reference: 'Ephesians 4:15'

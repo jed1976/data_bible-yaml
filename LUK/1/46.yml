@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 1:46" class="v">46</span>And
+  Mary said, My soul doth magnify the Lord, </p>
+id: LUK/1/46
+next:
+  id: LUK/1/47
+  number: '47'
+previous:
+  id: LUK/1/45
+  number: '45'
+reference: 'Luke 1:46'

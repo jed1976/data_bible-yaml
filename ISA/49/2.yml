@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 49:2" class="v">2</span>And
+  he hath made my mouth like a sharp sword; in the shadow of his hand hath he
+  hid me, and made me a polished shaft; in his quiver hath he hid me; </p>
+id: ISA/49/2
+next:
+  id: ISA/49/3
+  number: '3'
+previous:
+  id: ISA/49/1
+  number: '1'
+reference: 'Isaiah 49:2'

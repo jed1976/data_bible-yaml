@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 23:20"
+  class="v">20</span>And the priest shall wave them with the bread of the
+  firstfruits <span class="add">for</span> a wave offering before the <span
+  class="nd">LORD</span>, with the two lambs: they shall be holy to the <span
+  class="nd">LORD</span> for the priest. </p>
+id: LEV/23/20
+next:
+  id: LEV/23/21
+  number: '21'
+previous:
+  id: LEV/23/19
+  number: '19'
+reference: 'Leviticus 23:20'

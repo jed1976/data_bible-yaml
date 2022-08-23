@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LAM 5:1"
+  class="v">1</span>Remember, O <span class="nd">LORD</span>, what is come upon
+  us: consider, and behold our reproach. </p>
+id: LAM/5/1
+next:
+  id: LAM/5/2
+  number: '2'
+previous:
+  id: LAM/4/22
+  number: '22'
+reference: 'Lamentations 5:1'

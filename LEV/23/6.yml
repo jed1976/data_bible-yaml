@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 23:6" class="v">6</span>And
+  on the fifteenth day of the same month <span class="add">is</span> the feast
+  of unleavened bread unto the <span class="nd">LORD</span>: seven days ye must
+  eat unleavened bread. </p>
+id: LEV/23/6
+next:
+  id: LEV/23/7
+  number: '7'
+previous:
+  id: LEV/23/5
+  number: '5'
+reference: 'Leviticus 23:6'

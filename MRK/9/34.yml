@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MRK 9:34" class="v">34</span>But
+  they held their peace: for by the way they had disputed among themselves, who
+  <span class="add">should be</span> the greatest. </p>
+id: MRK/9/34
+next:
+  id: MRK/9/35
+  number: '35'
+previous:
+  id: MRK/9/33
+  number: '33'
+reference: 'Mark 9:34'

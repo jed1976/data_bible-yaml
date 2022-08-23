@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 39:29"
+  class="v">29</span>And a girdle <span class="add">of</span> fine twined linen,
+  and blue, and purple, and scarlet, <span class="add">of</span> needlework; as
+  the <span class="nd">LORD</span> commanded Moses.</p>
+id: EXO/39/29
+next:
+  id: EXO/39/30
+  number: '30'
+previous:
+  id: EXO/39/28
+  number: '28'
+reference: 'Exodus 39:29'

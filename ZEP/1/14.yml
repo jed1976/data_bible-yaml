@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ZEP 1:14" class="v">14</span>The
+  great day of the <span class="nd">LORD</span> <span class="add">is</span>
+  near, <span class="add">it is</span> near, and hasteth greatly, <span
+  class="add">even</span> the voice of the day of the <span
+  class="nd">LORD</span>: the mighty man shall cry there bitterly. </p>
+id: ZEP/1/14
+next:
+  id: ZEP/1/15
+  number: '15'
+previous:
+  id: ZEP/1/13
+  number: '13'
+reference: 'Zephaniah 1:14'

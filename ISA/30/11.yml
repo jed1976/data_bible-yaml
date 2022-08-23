@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 30:11"
+  class="v">11</span>Get you out of the way, turn aside out of the path, cause
+  the Holy One of Israel to cease from before us. </p>
+id: ISA/30/11
+next:
+  id: ISA/30/12
+  number: '12'
+previous:
+  id: ISA/30/10
+  number: '10'
+reference: 'Isaiah 30:11'

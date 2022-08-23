@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 44:13"
+  class="v">13</span>Then they rent their clothes, and laded every man his ass,
+  and returned to the city.</p>
+id: GEN/44/13
+next:
+  id: GEN/44/14
+  number: '14'
+previous:
+  id: GEN/44/12
+  number: '12'
+reference: 'Genesis 44:13'

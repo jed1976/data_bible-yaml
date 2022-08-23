@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 15:13"
+  class="v">13</span>And he said unto Abram, Know of a surety that thy seed
+  shall be a stranger in a land <span class="add">that is</span> not theirs, and
+  shall serve them; and they shall afflict them four hundred years; </p>
+id: GEN/15/13
+next:
+  id: GEN/15/14
+  number: '14'
+previous:
+  id: GEN/15/12
+  number: '12'
+reference: 'Genesis 15:13'

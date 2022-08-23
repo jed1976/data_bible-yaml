@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 15:15"
+  class="v">15</span>Then the dukes of Edom shall be amazed; the mighty men of
+  Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall
+  melt away. </p>
+id: EXO/15/15
+next:
+  id: EXO/15/16
+  number: '16'
+previous:
+  id: EXO/15/14
+  number: '14'
+reference: 'Exodus 15:15'

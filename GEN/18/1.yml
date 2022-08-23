@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 18:1" class="v">1</span>And
+  the <span class="nd">LORD</span> appeared unto him in the plains of Mamre: and
+  he sat in the tent door in the heat of the day; </p>
+id: GEN/18/1
+next:
+  id: GEN/18/2
+  number: '2'
+previous:
+  id: GEN/17/27
+  number: '27'
+reference: 'Genesis 18:1'

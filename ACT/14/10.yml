@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 14:10"
+  class="v">10</span>Said with a loud voice, Stand upright on thy feet. And he
+  leaped and walked. </p>
+id: ACT/14/10
+next:
+  id: ACT/14/11
+  number: '11'
+previous:
+  id: ACT/14/9
+  number: '9'
+reference: 'Acts 14:10'

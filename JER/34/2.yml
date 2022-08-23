@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 34:2" class="v">2</span>Thus
+  saith the <span class="nd">LORD</span>, the God of Israel; Go and speak to
+  Zedekiah king of Judah, and tell him, Thus saith the <span
+  class="nd">LORD</span>; Behold, I will give this city into the hand of the
+  king of Babylon, and he shall burn it with fire: </p>
+id: JER/34/2
+next:
+  id: JER/34/3
+  number: '3'
+previous:
+  id: JER/34/1
+  number: '1'
+reference: 'Jeremiah 34:2'

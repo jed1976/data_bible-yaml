@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 34:29" class="v">29</span>¶
+  And it came to pass, when Moses came down from mount Sinai with the two tables
+  of testimony in Moses’ hand, when he came down from the mount, that Moses wist
+  not that the skin of his face shone while he talked with him. </p>
+id: EXO/34/29
+next:
+  id: EXO/34/30
+  number: '30'
+previous:
+  id: EXO/34/28
+  number: '28'
+reference: 'Exodus 34:29'

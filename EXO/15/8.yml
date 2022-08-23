@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 15:8" class="v">8</span>And
+  with the blast of thy nostrils the waters were gathered together, the floods
+  stood upright as an heap, <span class="add">and</span> the depths were
+  congealed in the heart of the sea. </p>
+id: EXO/15/8
+next:
+  id: EXO/15/9
+  number: '9'
+previous:
+  id: EXO/15/7
+  number: '7'
+reference: 'Exodus 15:8'

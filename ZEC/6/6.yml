@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 6:6" class="v">6</span>The
+  black horses which <span class="add">are</span> therein go forth into the
+  north country; and the white go forth after them; and the grisled go forth
+  toward the south country. </p>
+id: ZEC/6/6
+next:
+  id: ZEC/6/7
+  number: '7'
+previous:
+  id: ZEC/6/5
+  number: '5'
+reference: 'Zechariah 6:6'

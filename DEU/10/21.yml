@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 10:21" class="v">21</span>He
+  <span class="add">is</span> thy praise, and he <span class="add">is</span> thy
+  God, that hath done for thee these great and terrible things, which thine eyes
+  have seen. </p>
+id: DEU/10/21
+next:
+  id: DEU/10/22
+  number: '22'
+previous:
+  id: DEU/10/20
+  number: '20'
+reference: 'Deuteronomy 10:21'

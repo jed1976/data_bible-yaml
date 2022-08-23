@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 12:29" class="v">29</span>¶
+  And it came to pass, that at midnight the <span class="nd">LORD</span> smote
+  all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat
+  on his throne unto the firstborn of the captive that <span
+  class="add">was</span> in the dungeon; and all the firstborn of cattle. </p>
+id: EXO/12/29
+next:
+  id: EXO/12/30
+  number: '30'
+previous:
+  id: EXO/12/28
+  number: '28'
+reference: 'Exodus 12:29'

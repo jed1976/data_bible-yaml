@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 8:1" class="v">1</span>Now of
+  the things which we have spoken <span class="add">this is</span> the sum: We
+  have such an high priest, who is set on the right hand of the throne of the
+  Majesty in the heavens; </p>
+id: HEB/8/1
+next:
+  id: HEB/8/2
+  number: '2'
+previous:
+  id: HEB/7/28
+  number: '28'
+reference: 'Hebrews 8:1'

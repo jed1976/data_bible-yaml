@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 73:24"
+  class="v">24</span>Thou shalt guide me with thy counsel, and afterward receive
+  me <span class="add">to</span> glory.</p>
+id: PSA/73/24
+next:
+  id: PSA/73/25
+  number: '25'
+previous:
+  id: PSA/73/23
+  number: '23'
+reference: 'Psalms 73:24'

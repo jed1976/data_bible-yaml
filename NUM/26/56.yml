@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="NUM 26:56"
+  class="v">56</span>According to the lot shall the possession thereof be
+  divided between many and few.</p>
+id: NUM/26/56
+next:
+  id: NUM/26/57
+  number: '57'
+previous:
+  id: NUM/26/55
+  number: '55'
+reference: 'Numbers 26:56'

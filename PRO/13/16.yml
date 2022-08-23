@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 13:16"
+  class="v">16</span>Every prudent <span class="add">man</span> dealeth with
+  knowledge: but a fool layeth open <span class="add">his</span> folly. </p>
+id: PRO/13/16
+next:
+  id: PRO/13/17
+  number: '17'
+previous:
+  id: PRO/13/15
+  number: '15'
+reference: 'Proverbs 13:16'

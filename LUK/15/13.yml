@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 15:13"
+  class="v">13</span><span class="wj">And not many days after the younger son
+  gathered all together, and took his journey into a far country, and there
+  wasted his substance with riotous living.</span> </p>
+id: LUK/15/13
+next:
+  id: LUK/15/14
+  number: '14'
+previous:
+  id: LUK/15/12
+  number: '12'
+reference: 'Luke 15:13'

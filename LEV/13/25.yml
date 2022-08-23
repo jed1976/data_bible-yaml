@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 13:25"
+  class="v">25</span>Then the priest shall look upon it: and, behold, <span
+  class="add">if</span> the hair in the bright spot be turned white, and it
+  <span class="add">be in</span> sight deeper than the skin; it <span
+  class="add">is</span> a leprosy broken out of the burning: wherefore the
+  priest shall pronounce him unclean: it <span class="add">is</span> the plague
+  of leprosy. </p>
+id: LEV/13/25
+next:
+  id: LEV/13/26
+  number: '26'
+previous:
+  id: LEV/13/24
+  number: '24'
+reference: 'Leviticus 13:25'

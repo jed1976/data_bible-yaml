@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 71:6" class="v">6</span>By
+  thee have I been holden up from the womb: thou art he that took me out of my
+  mother’s bowels: my praise <span class="add">shall be</span> continually of
+  thee.</p>
+id: PSA/71/6
+next:
+  id: PSA/71/7
+  number: '7'
+previous:
+  id: PSA/71/5
+  number: '5'
+reference: 'Psalms 71:6'

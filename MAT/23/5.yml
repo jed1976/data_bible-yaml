@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 23:5" class="v">5</span><span
+  class="wj">But all their works they do for to be seen of men: they make broad
+  their phylacteries, and enlarge the borders of their garments,</span> </p>
+id: MAT/23/5
+next:
+  id: MAT/23/6
+  number: '6'
+previous:
+  id: MAT/23/4
+  number: '4'
+reference: 'Matthew 23:5'

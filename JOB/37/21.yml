@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 37:21"
+  class="v">21</span>And now <span class="add">men</span> see not the bright
+  light which <span class="add">is</span> in the clouds: but the wind passeth,
+  and cleanseth them. </p>
+id: JOB/37/21
+next:
+  id: JOB/37/22
+  number: '22'
+previous:
+  id: JOB/37/20
+  number: '20'
+reference: 'Job 37:21'

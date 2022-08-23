@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 29:25"
+  class="v">25</span>And one kid of the goats <span class="add">for</span> a sin
+  offering; beside the continual burnt offering, his meat offering, and his
+  drink offering.</p>
+id: NUM/29/25
+next:
+  id: NUM/29/26
+  number: '26'
+previous:
+  id: NUM/29/24
+  number: '24'
+reference: 'Numbers 29:25'

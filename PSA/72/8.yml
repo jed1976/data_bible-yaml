@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 72:8" class="v">8</span>He
+  shall have dominion also from sea to sea, and from the river unto the ends of
+  the earth.</p>
+id: PSA/72/8
+next:
+  id: PSA/72/9
+  number: '9'
+previous:
+  id: PSA/72/7
+  number: '7'
+reference: 'Psalms 72:8'

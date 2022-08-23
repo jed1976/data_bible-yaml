@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 8:5" class="v">5</span>If
+  thou wouldest seek unto God betimes, and make thy supplication to the
+  Almighty; </p>
+id: JOB/8/5
+next:
+  id: JOB/8/6
+  number: '6'
+previous:
+  id: JOB/8/4
+  number: '4'
+reference: 'Job 8:5'

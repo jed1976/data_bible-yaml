@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2CO 11:24" class="v">24</span>Of
+  the Jews five times received I forty <span class="add">stripes</span> save
+  one. </p>
+id: 2CO/11/24
+next:
+  id: 2CO/11/25
+  number: '25'
+previous:
+  id: 2CO/11/23
+  number: '23'
+reference: '2 Corinthians 11:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 19:4" class="v">4</span>¶ And
+  this <span class="add">is</span> the case of the slayer, which shall flee
+  thither, that he may live: Whoso killeth his neighbour ignorantly, whom he
+  hated not in time past; </p>
+id: DEU/19/4
+next:
+  id: DEU/19/5
+  number: '5'
+previous:
+  id: DEU/19/3
+  number: '3'
+reference: 'Deuteronomy 19:4'

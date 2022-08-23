@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 1:7" class="v">7</span>And
+  the <span class="nd">LORD</span> said unto Satan, Whence comest thou? Then
+  Satan answered the <span class="nd">LORD</span>, and said, From going to and
+  fro in the earth, and from walking up and down in it. </p>
+id: JOB/1/7
+next:
+  id: JOB/1/8
+  number: '8'
+previous:
+  id: JOB/1/6
+  number: '6'
+reference: 'Job 1:7'

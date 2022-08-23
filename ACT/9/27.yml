@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 9:27" class="v">27</span>But
+  Barnabas took him, and brought <span class="add">him</span> to the apostles,
+  and declared unto them how he had seen the Lord in the way, and that he had
+  spoken to him, and how he had preached boldly at Damascus in the name of
+  Jesus. </p>
+id: ACT/9/27
+next:
+  id: ACT/9/28
+  number: '28'
+previous:
+  id: ACT/9/26
+  number: '26'
+reference: 'Acts 9:27'

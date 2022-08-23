@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 18:21"
+  class="v">21</span>And, behold, I have given the children of Levi all the
+  tenth in Israel for an inheritance, for their service which they serve, <span
+  class="add">even</span> the service of the tabernacle of the congregation.
+  </p>
+id: NUM/18/21
+next:
+  id: NUM/18/22
+  number: '22'
+previous:
+  id: NUM/18/20
+  number: '20'
+reference: 'Numbers 18:21'

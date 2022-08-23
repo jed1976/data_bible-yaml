@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2TI 4:12" class="v">12</span>And
+  Tychicus have I sent to Ephesus. </p>
+id: 2TI/4/12
+next:
+  id: 2TI/4/13
+  number: '13'
+previous:
+  id: 2TI/4/11
+  number: '11'
+reference: '2 Timothy 4:12'

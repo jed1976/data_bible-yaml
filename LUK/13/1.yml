@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 13:1" class="v">1</span>There
+  were present at that season some that told him of the Galilæans, whose blood
+  Pilate had mingled with their sacrifices. </p>
+id: LUK/13/1
+next:
+  id: LUK/13/2
+  number: '2'
+previous:
+  id: LUK/12/59
+  number: '59'
+reference: 'Luke 13:1'

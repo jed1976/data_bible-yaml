@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2TI 4:7" class="v">7</span>I have
+  fought a good fight, I have finished <span class="add">my</span> course, I
+  have kept the faith: </p>
+id: 2TI/4/7
+next:
+  id: 2TI/4/8
+  number: '8'
+previous:
+  id: 2TI/4/6
+  number: '6'
+reference: '2 Timothy 4:7'

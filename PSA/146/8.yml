@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 146:8" class="v">8</span>The
+  <span class="nd">LORD</span> openeth <span class="add">the eyes of</span> the
+  blind: the <span class="nd">LORD</span> raiseth them that are bowed down: the
+  <span class="nd">LORD</span> loveth the righteous:</p>
+id: PSA/146/8
+next:
+  id: PSA/146/9
+  number: '9'
+previous:
+  id: PSA/146/7
+  number: '7'
+reference: 'Psalms 146:8'

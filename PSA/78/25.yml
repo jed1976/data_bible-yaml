@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 78:25"
+  class="v">25</span>Man did eat angels’ food: he sent them meat to the
+  full.</p>
+id: PSA/78/25
+next:
+  id: PSA/78/26
+  number: '26'
+previous:
+  id: PSA/78/24
+  number: '24'
+reference: 'Psalms 78:25'

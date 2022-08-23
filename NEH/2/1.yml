@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 2:1" class="v">1</span>And it
+  came to pass in the month Nisan, in the twentieth year of Artaxerxes the king,
+  <span class="add">that</span> wine <span class="add">was</span> before him:
+  and I took up the wine, and gave <span class="add">it</span> unto the king.
+  Now I had not been <span class="add">beforetime</span> sad in his presence.
+  </p>
+id: NEH/2/1
+next:
+  id: NEH/2/2
+  number: '2'
+previous:
+  id: NEH/1/11
+  number: '11'
+reference: 'Nehemiah 2:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 10:9" class="v">9</span><span
+  class="wj">I am the door: by me if any man enter in, he shall be saved, and
+  shall go in and out, and find pasture.</span> </p>
+id: JHN/10/9
+next:
+  id: JHN/10/10
+  number: '10'
+previous:
+  id: JHN/10/8
+  number: '8'
+reference: 'John 10:9'

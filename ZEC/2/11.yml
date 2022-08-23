@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 2:11" class="v">11</span>And
+  many nations shall be joined to the <span class="nd">LORD</span> in that day,
+  and shall be my people: and I will dwell in the midst of thee, and thou shalt
+  know that the <span class="nd">LORD</span> of hosts hath sent me unto thee.
+  </p>
+id: ZEC/2/11
+next:
+  id: ZEC/2/12
+  number: '12'
+previous:
+  id: ZEC/2/10
+  number: '10'
+reference: 'Zechariah 2:11'

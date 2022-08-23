@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 25:37"
+  class="v">37</span><span class="wj">Then shall the righteous answer him,
+  saying, Lord, when saw we thee an hungred, and fed <span
+  class="add">thee</span>? or thirsty, and gave thee drink?</span> </p>
+id: MAT/25/37
+next:
+  id: MAT/25/38
+  number: '38'
+previous:
+  id: MAT/25/36
+  number: '36'
+reference: 'Matthew 25:37'

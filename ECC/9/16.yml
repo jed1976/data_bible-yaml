@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 9:16"
+  class="v">16</span>Then said I, Wisdom <span class="add">is</span> better than
+  strength: nevertheless the poor man’s wisdom <span class="add">is</span>
+  despised, and his words are not heard. </p>
+id: ECC/9/16
+next:
+  id: ECC/9/17
+  number: '17'
+previous:
+  id: ECC/9/15
+  number: '15'
+reference: 'Ecclesiastes 9:16'

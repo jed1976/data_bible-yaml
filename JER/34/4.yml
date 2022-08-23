@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 34:4" class="v">4</span>Yet
+  hear the word of the <span class="nd">LORD</span>, O Zedekiah king of Judah;
+  Thus saith the <span class="nd">LORD</span> of thee, Thou shalt not die by the
+  sword: </p>
+id: JER/34/4
+next:
+  id: JER/34/5
+  number: '5'
+previous:
+  id: JER/34/3
+  number: '3'
+reference: 'Jeremiah 34:4'

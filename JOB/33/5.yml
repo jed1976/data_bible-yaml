@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 33:5" class="v">5</span>If
+  thou canst answer me, set <span class="add">thy words</span> in order before
+  me, stand up. </p>
+id: JOB/33/5
+next:
+  id: JOB/33/6
+  number: '6'
+previous:
+  id: JOB/33/4
+  number: '4'
+reference: 'Job 33:5'

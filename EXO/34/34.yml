@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 34:34"
+  class="v">34</span>But when Moses went in before the <span
+  class="nd">LORD</span> to speak with him, he took the vail off, until he came
+  out. And he came out, and spake unto the children of Israel <span
+  class="add">that</span> which he was commanded. </p>
+id: EXO/34/34
+next:
+  id: EXO/34/35
+  number: '35'
+previous:
+  id: EXO/34/33
+  number: '33'
+reference: 'Exodus 34:34'

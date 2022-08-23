@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="HOS 2:22" class="v">22</span>And
+  the earth shall hear the corn, and the wine, and the oil; and they shall hear
+  Jezreel. </p>
+id: HOS/2/22
+next:
+  id: HOS/2/23
+  number: '23'
+previous:
+  id: HOS/2/21
+  number: '21'
+reference: 'Hosea 2:22'

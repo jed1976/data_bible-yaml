@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JHN 8:40"
+  class="v">40</span><span class="wj">But now ye seek to kill me, a man that
+  hath told you the truth, which I have heard of God: this did not
+  Abraham.</span> </p>
+id: JHN/8/40
+next:
+  id: JHN/8/41
+  number: '41'
+previous:
+  id: JHN/8/39
+  number: '39'
+reference: 'John 8:40'

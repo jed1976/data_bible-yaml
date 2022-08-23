@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 32:5"
+  class="v">5</span>Wherefore, said they, if we have found grace in thy sight,
+  let this land be given unto thy servants for a possession, <span
+  class="add">and</span> bring us not over Jordan.</p>
+id: NUM/32/5
+next:
+  id: NUM/32/6
+  number: '6'
+previous:
+  id: NUM/32/4
+  number: '4'
+reference: 'Numbers 32:5'

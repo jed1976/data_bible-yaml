@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 5:12"
+  class="v">12</span><span class="wj">Rejoice, and be exceeding glad: for great
+  <span class="add">is</span> your reward in heaven: for so persecuted they the
+  prophets which were before you.</span></p>
+id: MAT/5/12
+next:
+  id: MAT/5/13
+  number: '13'
+previous:
+  id: MAT/5/11
+  number: '11'
+reference: 'Matthew 5:12'

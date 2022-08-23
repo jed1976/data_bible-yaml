@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 89:35"
+  class="v">35</span>Once have I sworn by my holiness that I will not lie unto
+  David.</p>
+id: PSA/89/35
+next:
+  id: PSA/89/36
+  number: '36'
+previous:
+  id: PSA/89/34
+  number: '34'
+reference: 'Psalms 89:35'

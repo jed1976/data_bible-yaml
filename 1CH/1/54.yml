@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="1CH 1:54"
+  class="v">54</span>Duke Magdiel, duke Iram. These <span class="add">are</span>
+  the dukes of Edom.</p>
+id: 1CH/1/54
+next:
+  id: 1CH/2/1
+  number: '1'
+previous:
+  id: 1CH/1/53
+  number: '53'
+reference: '1 Chronicles 1:54'

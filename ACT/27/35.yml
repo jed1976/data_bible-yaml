@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 27:35"
+  class="v">35</span>And when he had thus spoken, he took bread, and gave thanks
+  to God in presence of them all: and when he had broken <span
+  class="add">it</span>, he began to eat. </p>
+id: ACT/27/35
+next:
+  id: ACT/27/36
+  number: '36'
+previous:
+  id: ACT/27/34
+  number: '34'
+reference: 'Acts 27:35'

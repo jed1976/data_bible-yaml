@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 3:3" class="v">3</span>For ye
+  are yet carnal: for whereas <span class="add">there is</span> among you
+  envying, and strife, and divisions, are ye not carnal, and walk as men? </p>
+id: 1CO/3/3
+next:
+  id: 1CO/3/4
+  number: '4'
+previous:
+  id: 1CO/3/2
+  number: '2'
+reference: '1 Corinthians 3:3'

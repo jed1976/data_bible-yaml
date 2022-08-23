@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MIC 5:10" class="v">10</span>And
+  it shall come to pass in that day, saith the <span class="nd">LORD</span>,
+  that I will cut off thy horses out of the midst of thee, and I will destroy
+  thy chariots: </p>
+id: MIC/5/10
+next:
+  id: MIC/5/11
+  number: '11'
+previous:
+  id: MIC/5/9
+  number: '9'
+reference: 'Micah 5:10'

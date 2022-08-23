@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 22:12"
+  class="v">12</span>Many bulls have compassed me: strong <span
+  class="add">bulls</span> of Bashan have beset me round.</p>
+id: PSA/22/12
+next:
+  id: PSA/22/13
+  number: '13'
+previous:
+  id: PSA/22/11
+  number: '11'
+reference: 'Psalms 22:12'

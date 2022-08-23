@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 23:33"
+  class="v">33</span>Who, when they came to Cæsarea, and delivered the epistle
+  to the governor, presented Paul also before him. </p>
+id: ACT/23/33
+next:
+  id: ACT/23/34
+  number: '34'
+previous:
+  id: ACT/23/32
+  number: '32'
+reference: 'Acts 23:33'

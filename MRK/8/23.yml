@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 8:23" class="v">23</span>And
+  he took the blind man by the hand, and led him out of the town; and when he
+  had spit on his eyes, and put his hands upon him, he asked him if he saw
+  ought. </p>
+id: MRK/8/23
+next:
+  id: MRK/8/24
+  number: '24'
+previous:
+  id: MRK/8/22
+  number: '22'
+reference: 'Mark 8:23'

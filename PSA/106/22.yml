@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 106:22"
+  class="v">22</span>Wondrous works in the land of Ham, <span
+  class="add">and</span> terrible things by the Red sea.</p>
+id: PSA/106/22
+next:
+  id: PSA/106/23
+  number: '23'
+previous:
+  id: PSA/106/21
+  number: '21'
+reference: 'Psalms 106:22'

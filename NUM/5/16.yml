@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 5:16" class="v">16</span>And
+  the priest shall bring her near, and set her before the <span
+  class="nd">LORD</span>: </p>
+id: NUM/5/16
+next:
+  id: NUM/5/17
+  number: '17'
+previous:
+  id: NUM/5/15
+  number: '15'
+reference: 'Numbers 5:16'

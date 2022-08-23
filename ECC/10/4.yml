@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 10:4" class="v">4</span>If
+  the spirit of the ruler rise up against thee, leave not thy place; for
+  yielding pacifieth great offences. </p>
+id: ECC/10/4
+next:
+  id: ECC/10/5
+  number: '5'
+previous:
+  id: ECC/10/3
+  number: '3'
+reference: 'Ecclesiastes 10:4'

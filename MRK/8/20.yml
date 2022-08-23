@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 8:20"
+  class="v">20</span><span class="wj">And when the seven among four thousand,
+  how many baskets full of fragments took ye up?</span> And they said, Seven.
+  </p>
+id: MRK/8/20
+next:
+  id: MRK/8/21
+  number: '21'
+previous:
+  id: MRK/8/19
+  number: '19'
+reference: 'Mark 8:20'

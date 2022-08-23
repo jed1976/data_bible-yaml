@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 9:22" class="v">22</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Stretch forth thine hand
+  toward heaven, that there may be hail in all the land of Egypt, upon man, and
+  upon beast, and upon every herb of the field, throughout the land of Egypt.
+  </p>
+id: EXO/9/22
+next:
+  id: EXO/9/23
+  number: '23'
+previous:
+  id: EXO/9/21
+  number: '21'
+reference: 'Exodus 9:22'

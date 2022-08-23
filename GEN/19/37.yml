@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="GEN 19:37"
+  class="v">37</span>And the firstborn bare a son, and called his name Moab: the
+  same <span class="add">is</span> the father of the Moabites unto this day.
+  </p>
+id: GEN/19/37
+next:
+  id: GEN/19/38
+  number: '38'
+previous:
+  id: GEN/19/36
+  number: '36'
+reference: 'Genesis 19:37'

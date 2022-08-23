@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEC 14:13"
+  class="v">13</span>And it shall come to pass in that day, <span
+  class="add">that</span> a great tumult from the <span class="nd">LORD</span>
+  shall be among them; and they shall lay hold every one on the hand of his
+  neighbour, and his hand shall rise up against the hand of his neighbour. </p>
+id: ZEC/14/13
+next:
+  id: ZEC/14/14
+  number: '14'
+previous:
+  id: ZEC/14/12
+  number: '12'
+reference: 'Zechariah 14:13'

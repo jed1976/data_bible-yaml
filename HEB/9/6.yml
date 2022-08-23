@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 9:6" class="v">6</span>Now
+  when these things were thus ordained, the priests went always into the first
+  tabernacle, accomplishing the service <span class="add">of God</span>. </p>
+id: HEB/9/6
+next:
+  id: HEB/9/7
+  number: '7'
+previous:
+  id: HEB/9/5
+  number: '5'
+reference: 'Hebrews 9:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="REV 16:20"
+  class="v">20</span>And every island fled away, and the mountains were not
+  found. </p>
+id: REV/16/20
+next:
+  id: REV/16/21
+  number: '21'
+previous:
+  id: REV/16/19
+  number: '19'
+reference: 'Revelation 16:20'

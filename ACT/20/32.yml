@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 20:32"
+  class="v">32</span>And now, brethren, I commend you to God, and to the word of
+  his grace, which is able to build you up, and to give you an inheritance among
+  all them which are sanctified. </p>
+id: ACT/20/32
+next:
+  id: ACT/20/33
+  number: '33'
+previous:
+  id: ACT/20/31
+  number: '31'
+reference: 'Acts 20:32'

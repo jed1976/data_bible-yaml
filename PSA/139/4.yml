@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 139:4" class="v">4</span>For
+  <span class="add">there is</span> not a word in my tongue, <span
+  class="add">but</span>, lo, O <span class="nd">LORD</span>, thou knowest it
+  altogether.</p>
+id: PSA/139/4
+next:
+  id: PSA/139/5
+  number: '5'
+previous:
+  id: PSA/139/3
+  number: '3'
+reference: 'Psalms 139:4'

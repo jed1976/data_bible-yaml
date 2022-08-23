@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 57:21"
+  class="v">21</span><span class="add">There is</span> no peace, saith my God,
+  to the wicked.</p>
+id: ISA/57/21
+next:
+  id: ISA/58/1
+  number: '1'
+previous:
+  id: ISA/57/20
+  number: '20'
+reference: 'Isaiah 57:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 1:20"
+  class="v">20</span>Therefore God dealt well with the midwives: and the people
+  multiplied, and waxed very mighty. </p>
+id: EXO/1/20
+next:
+  id: EXO/1/21
+  number: '21'
+previous:
+  id: EXO/1/19
+  number: '19'
+reference: 'Exodus 1:20'

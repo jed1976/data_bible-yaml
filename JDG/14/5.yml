@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 14:5" class="v">5</span>¶
+  Then went Samson down, and his father and his mother, to Timnath, and came to
+  the vineyards of Timnath: and, behold, a young lion roared against him. </p>
+id: JDG/14/5
+next:
+  id: JDG/14/6
+  number: '6'
+previous:
+  id: JDG/14/4
+  number: '4'
+reference: 'Judges 14:5'

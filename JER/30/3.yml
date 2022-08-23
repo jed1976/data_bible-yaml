@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 30:3" class="v">3</span>For,
+  lo, the days come, saith the <span class="nd">LORD</span>, that I will bring
+  again the captivity of my people Israel and Judah, saith the <span
+  class="nd">LORD</span>: and I will cause them to return to the land that I
+  gave to their fathers, and they shall possess it.</p>
+id: JER/30/3
+next:
+  id: JER/30/4
+  number: '4'
+previous:
+  id: JER/30/2
+  number: '2'
+reference: 'Jeremiah 30:3'

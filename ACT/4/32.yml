@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 4:32" class="v">32</span>And
+  the multitude of them that believed were of one heart and of one soul: neither
+  said any <span class="add">of them</span> that ought of the things which he
+  possessed was his own; but they had all things common. </p>
+id: ACT/4/32
+next:
+  id: ACT/4/33
+  number: '33'
+previous:
+  id: ACT/4/31
+  number: '31'
+reference: 'Acts 4:32'

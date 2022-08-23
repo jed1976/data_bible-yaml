@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 14:3" class="v">3</span>Then
+  his father and his mother said unto him, <span class="add">Is there</span>
+  never a woman among the daughters of thy brethren, or among all my people,
+  that thou goest to take a wife of the uncircumcised Philistines? And Samson
+  said unto his father, Get her for me; for she pleaseth me well. </p>
+id: JDG/14/3
+next:
+  id: JDG/14/4
+  number: '4'
+previous:
+  id: JDG/14/2
+  number: '2'
+reference: 'Judges 14:3'

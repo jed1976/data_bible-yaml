@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 9:2" class="v">2</span>A
+  people great and tall, the children of the Anakims, whom thou knowest, and
+  <span class="add">of whom</span> thou hast heard <span class="add">say</span>,
+  Who can stand before the children of Anak! </p>
+id: DEU/9/2
+next:
+  id: DEU/9/3
+  number: '3'
+previous:
+  id: DEU/9/1
+  number: '1'
+reference: 'Deuteronomy 9:2'

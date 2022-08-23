@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 16:10"
+  class="v">10</span>And the fifth angel poured out his vial upon the seat of
+  the beast; and his kingdom was full of darkness; and they gnawed their tongues
+  for pain, </p>
+id: REV/16/10
+next:
+  id: REV/16/11
+  number: '11'
+previous:
+  id: REV/16/9
+  number: '9'
+reference: 'Revelation 16:10'

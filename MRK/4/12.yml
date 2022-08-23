@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 4:12"
+  class="v">12</span><span class="wj">That seeing they may see, and not
+  perceive; and hearing they may hear, and not understand; lest at any time they
+  should be converted, and <span class="add">their</span> sins should be
+  forgiven them.</span> </p>
+id: MRK/4/12
+next:
+  id: MRK/4/13
+  number: '13'
+previous:
+  id: MRK/4/11
+  number: '11'
+reference: 'Mark 4:12'

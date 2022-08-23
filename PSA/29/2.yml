@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 29:2" class="v">2</span>Give
+  unto the <span class="nd">LORD</span> the glory due unto his name; worship the
+  <span class="nd">LORD</span> in the beauty of holiness.</p>
+id: PSA/29/2
+next:
+  id: PSA/29/3
+  number: '3'
+previous:
+  id: PSA/29/1
+  number: '1'
+reference: 'Psalms 29:2'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 16:42"
+  class="v">42</span>And it came to pass, when the congregation was gathered
+  against Moses and against Aaron, that they looked toward the tabernacle of the
+  congregation: and, behold, the cloud covered it, and the glory of the <span
+  class="nd">LORD</span> appeared. </p>
+id: NUM/16/42
+next:
+  id: NUM/16/43
+  number: '43'
+previous:
+  id: NUM/16/41
+  number: '41'
+reference: 'Numbers 16:42'

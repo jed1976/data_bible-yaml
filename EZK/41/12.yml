@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 41:12"
+  class="v">12</span>Now the building that <span class="add">was</span> before
+  the separate place at the end toward the west <span class="add">was</span>
+  seventy cubits broad; and the wall of the building <span
+  class="add">was</span> five cubits thick round about, and the length thereof
+  ninety cubits. </p>
+id: EZK/41/12
+next:
+  id: EZK/41/13
+  number: '13'
+previous:
+  id: EZK/41/11
+  number: '11'
+reference: 'Ezekiel 41:12'

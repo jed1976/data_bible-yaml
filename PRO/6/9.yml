@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 6:9" class="v">9</span>How
+  long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep? </p>
+id: PRO/6/9
+next:
+  id: PRO/6/10
+  number: '10'
+previous:
+  id: PRO/6/8
+  number: '8'
+reference: 'Proverbs 6:9'

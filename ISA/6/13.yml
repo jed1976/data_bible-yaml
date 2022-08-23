@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 6:13" class="v">13</span>¶
+  But yet in it <span class="add">shall be</span> a tenth, and <span
+  class="add">it</span> shall return, and shall be eaten: as a teil tree, and as
+  an oak, whose substance <span class="add">is</span> in them, when they cast
+  <span class="add">their leaves: so</span> the holy seed <span
+  class="add">shall be</span> the substance thereof.</p>
+id: ISA/6/13
+next:
+  id: ISA/7/1
+  number: '1'
+previous:
+  id: ISA/6/12
+  number: '12'
+reference: 'Isaiah 6:13'

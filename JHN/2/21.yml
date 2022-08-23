@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 2:21" class="v">21</span>But
+  he spake of the temple of his body. </p>
+id: JHN/2/21
+next:
+  id: JHN/2/22
+  number: '22'
+previous:
+  id: JHN/2/20
+  number: '20'
+reference: 'John 2:21'

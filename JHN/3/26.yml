@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 3:26" class="v">26</span>And
+  they came unto John, and said unto him, Rabbi, he that was with thee beyond
+  Jordan, to whom thou barest witness, behold, the same baptizeth, and all <span
+  class="add">men</span> come to him. </p>
+id: JHN/3/26
+next:
+  id: JHN/3/27
+  number: '27'
+previous:
+  id: JHN/3/25
+  number: '25'
+reference: 'John 3:26'

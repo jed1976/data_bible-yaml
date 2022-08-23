@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 5:38" class="v">38</span>And
+  now I say unto you, Refrain from these men, and let them alone: for if this
+  counsel or this work be of men, it will come to nought: </p>
+id: ACT/5/38
+next:
+  id: ACT/5/39
+  number: '39'
+previous:
+  id: ACT/5/37
+  number: '37'
+reference: 'Acts 5:38'

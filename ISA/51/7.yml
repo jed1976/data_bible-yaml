@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 51:7" class="v">7</span>¶
+  Hearken unto me, ye that know righteousness, the people in whose heart <span
+  class="add">is</span> my law; fear ye not the reproach of men, neither be ye
+  afraid of their revilings. </p>
+id: ISA/51/7
+next:
+  id: ISA/51/8
+  number: '8'
+previous:
+  id: ISA/51/6
+  number: '6'
+reference: 'Isaiah 51:7'

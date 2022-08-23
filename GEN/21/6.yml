@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 21:6" class="v">6</span>¶ And
+  Sarah said, God hath made me to laugh, <span class="add">so that</span> all
+  that hear will laugh with me. </p>
+id: GEN/21/6
+next:
+  id: GEN/21/7
+  number: '7'
+previous:
+  id: GEN/21/5
+  number: '5'
+reference: 'Genesis 21:6'

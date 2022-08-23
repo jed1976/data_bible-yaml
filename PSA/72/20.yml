@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 72:20"
+  class="v">20</span>The prayers of David the son of Jesse are ended.</p>
+id: PSA/72/20
+next:
+  id: PSA/73/1
+  number: '1'
+previous:
+  id: PSA/72/19
+  number: '19'
+reference: 'Psalms 72:20'

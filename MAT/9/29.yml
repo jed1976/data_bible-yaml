@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 9:29"
+  class="v">29</span>Then touched he their eyes, saying, <span
+  class="wj">According to your faith be it unto you.</span> </p>
+id: MAT/9/29
+next:
+  id: MAT/9/30
+  number: '30'
+previous:
+  id: MAT/9/28
+  number: '28'
+reference: 'Matthew 9:29'

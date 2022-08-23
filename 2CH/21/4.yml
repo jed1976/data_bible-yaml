@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 21:4" class="v">4</span>Now
+  when Jehoram was risen up to the kingdom of his father, he strengthened
+  himself, and slew all his brethren with the sword, and <span
+  class="add">divers</span> also of the princes of Israel.</p>
+id: 2CH/21/4
+next:
+  id: 2CH/21/5
+  number: '5'
+previous:
+  id: 2CH/21/3
+  number: '3'
+reference: '2 Chronicles 21:4'

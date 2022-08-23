@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="20" data-sid="PSA 18:20"
+  class="v">20</span>The <span class="nd">LORD</span> rewarded me according to
+  my righteousness; according to the cleanness of my hands hath he recompensed
+  me.</p>
+id: PSA/18/20
+next:
+  id: PSA/18/21
+  number: '21'
+previous:
+  id: PSA/18/19
+  number: '19'
+reference: 'Psalms 18:20'

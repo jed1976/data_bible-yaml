@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 11:18"
+  class="v">18</span>The wicked worketh a deceitful work: but to him that soweth
+  righteousness <span class="add">shall be</span> a sure reward. </p>
+id: PRO/11/18
+next:
+  id: PRO/11/19
+  number: '19'
+previous:
+  id: PRO/11/17
+  number: '17'
+reference: 'Proverbs 11:18'

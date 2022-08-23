@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 15:21"
+  class="v">21</span><span class="wj">But all these things will they do unto you
+  for my name’s sake, because they know not him that sent me.</span> </p>
+id: JHN/15/21
+next:
+  id: JHN/15/22
+  number: '22'
+previous:
+  id: JHN/15/20
+  number: '20'
+reference: 'John 15:21'

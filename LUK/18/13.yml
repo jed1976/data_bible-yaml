@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 18:13"
+  class="v">13</span><span class="wj">And the publican, standing afar off, would
+  not lift up so much as <span class="add">his</span> eyes unto heaven, but
+  smote upon his breast, saying, God be merciful to me a sinner.</span> </p>
+id: LUK/18/13
+next:
+  id: LUK/18/14
+  number: '14'
+previous:
+  id: LUK/18/12
+  number: '12'
+reference: 'Luke 18:13'

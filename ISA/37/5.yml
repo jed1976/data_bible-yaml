@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 37:5" class="v">5</span>So
+  the servants of king Hezekiah came to Isaiah.</p>
+id: ISA/37/5
+next:
+  id: ISA/37/6
+  number: '6'
+previous:
+  id: ISA/37/4
+  number: '4'
+reference: 'Isaiah 37:5'

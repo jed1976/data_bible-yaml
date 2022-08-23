@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 6:22"
+  class="v">22</span>Thus saith the <span class="nd">LORD</span>, Behold, a
+  people cometh from the north country, and a great nation shall be raised from
+  the sides of the earth. </p>
+id: JER/6/22
+next:
+  id: JER/6/23
+  number: '23'
+previous:
+  id: JER/6/21
+  number: '21'
+reference: 'Jeremiah 6:22'

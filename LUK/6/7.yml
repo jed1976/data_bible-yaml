@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 6:7" class="v">7</span>And
+  the scribes and Pharisees watched him, whether he would heal on the sabbath
+  day; that they might find an accusation against him. </p>
+id: LUK/6/7
+next:
+  id: LUK/6/8
+  number: '8'
+previous:
+  id: LUK/6/6
+  number: '6'
+reference: 'Luke 6:7'

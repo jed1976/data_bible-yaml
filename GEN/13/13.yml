@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 13:13"
+  class="v">13</span>But the men of Sodom <span class="add">were</span> wicked
+  and sinners before the <span class="nd">LORD</span> exceedingly.</p>
+id: GEN/13/13
+next:
+  id: GEN/13/14
+  number: '14'
+previous:
+  id: GEN/13/12
+  number: '12'
+reference: 'Genesis 13:13'

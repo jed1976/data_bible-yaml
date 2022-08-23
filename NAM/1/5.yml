@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NAM 1:5" class="v">5</span>The
+  mountains quake at him, and the hills melt, and the earth is burned at his
+  presence, yea, the world, and all that dwell therein. </p>
+id: NAM/1/5
+next:
+  id: NAM/1/6
+  number: '6'
+previous:
+  id: NAM/1/4
+  number: '4'
+reference: 'Nahum 1:5'

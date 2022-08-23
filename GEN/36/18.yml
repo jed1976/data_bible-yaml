@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 36:18" class="v">18</span>¶
+  And these <span class="add">are</span> the sons of Aholibamah Esau’s wife;
+  duke Jeush, duke Jaalam, duke Korah: these <span class="add">were</span> the
+  dukes <span class="add">that came</span> of Aholibamah the daughter of Anah,
+  Esau’s wife. </p>
+id: GEN/36/18
+next:
+  id: GEN/36/19
+  number: '19'
+previous:
+  id: GEN/36/17
+  number: '17'
+reference: 'Genesis 36:18'

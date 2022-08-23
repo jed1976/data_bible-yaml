@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 16:3" class="v">3</span>And
+  when I come, whomsoever ye shall approve by <span class="add">your</span>
+  letters, them will I send to bring your liberality unto Jerusalem. </p>
+id: 1CO/16/3
+next:
+  id: 1CO/16/4
+  number: '4'
+previous:
+  id: 1CO/16/2
+  number: '2'
+reference: '1 Corinthians 16:3'

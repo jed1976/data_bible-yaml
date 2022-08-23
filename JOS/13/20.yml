@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 13:20"
+  class="v">20</span>And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth, </p>
+id: JOS/13/20
+next:
+  id: JOS/13/21
+  number: '21'
+previous:
+  id: JOS/13/19
+  number: '19'
+reference: 'Joshua 13:20'

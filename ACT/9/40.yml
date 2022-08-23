@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 9:40" class="v">40</span>But
+  Peter put them all forth, and kneeled down, and prayed; and turning <span
+  class="add">him</span> to the body said, Tabitha, arise. And she opened her
+  eyes: and when she saw Peter, she sat up. </p>
+id: ACT/9/40
+next:
+  id: ACT/9/41
+  number: '41'
+previous:
+  id: ACT/9/39
+  number: '39'
+reference: 'Acts 9:40'

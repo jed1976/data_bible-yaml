@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 19:18"
+  class="v">18</span>And their border was toward Jezreel, and Chesulloth, and
+  Shunem, </p>
+id: JOS/19/18
+next:
+  id: JOS/19/19
+  number: '19'
+previous:
+  id: JOS/19/17
+  number: '17'
+reference: 'Joshua 19:18'

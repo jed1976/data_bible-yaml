@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 42:13" class="v">13</span>¶
+  Then said he unto me, The north chambers <span class="add">and</span> the
+  south chambers, which <span class="add">are</span> before the separate place,
+  they <span class="add">be</span> holy chambers, where the priests that
+  approach unto the <span class="nd">LORD</span> shall eat the most holy things:
+  there shall they lay the most holy things, and the meat offering, and the sin
+  offering, and the trespass offering; for the place <span class="add">is</span>
+  holy. </p>
+id: EZK/42/13
+next:
+  id: EZK/42/14
+  number: '14'
+previous:
+  id: EZK/42/12
+  number: '12'
+reference: 'Ezekiel 42:13'

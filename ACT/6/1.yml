@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 6:1" class="v">1</span>And in
+  those days, when the number of the disciples was multiplied, there arose a
+  murmuring of the Grecians against the Hebrews, because their widows were
+  neglected in the daily ministration. </p>
+id: ACT/6/1
+next:
+  id: ACT/6/2
+  number: '2'
+previous:
+  id: ACT/5/42
+  number: '42'
+reference: 'Acts 6:1'

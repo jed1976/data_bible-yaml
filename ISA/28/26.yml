@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ISA 28:26"
+  class="v">26</span>For his God doth instruct him to discretion, <span
+  class="add">and</span> doth teach him. </p>
+id: ISA/28/26
+next:
+  id: ISA/28/27
+  number: '27'
+previous:
+  id: ISA/28/25
+  number: '25'
+reference: 'Isaiah 28:26'

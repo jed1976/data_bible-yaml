@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 13:7"
+  class="v">7</span>Therefore shall all hands be faint, and every man’s heart
+  shall melt: </p>
+id: ISA/13/7
+next:
+  id: ISA/13/8
+  number: '8'
+previous:
+  id: ISA/13/6
+  number: '6'
+reference: 'Isaiah 13:7'

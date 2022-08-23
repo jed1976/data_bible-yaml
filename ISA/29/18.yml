@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 29:18" class="v">18</span>¶
+  And in that day shall the deaf hear the words of the book, and the eyes of the
+  blind shall see out of obscurity, and out of darkness. </p>
+id: ISA/29/18
+next:
+  id: ISA/29/19
+  number: '19'
+previous:
+  id: ISA/29/17
+  number: '17'
+reference: 'Isaiah 29:18'

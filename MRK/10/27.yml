@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 10:27"
+  class="v">27</span>And Jesus looking upon them saith, <span class="wj">With
+  men <span class="add">it is</span> impossible, but not with God: for with God
+  all things are possible.</span></p>
+id: MRK/10/27
+next:
+  id: MRK/10/28
+  number: '28'
+previous:
+  id: MRK/10/26
+  number: '26'
+reference: 'Mark 10:27'

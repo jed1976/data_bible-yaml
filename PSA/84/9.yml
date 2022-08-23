@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 84:9"
+  class="v">9</span>Behold, O God our shield, and look upon the face of thine
+  anointed.</p>
+id: PSA/84/9
+next:
+  id: PSA/84/10
+  number: '10'
+previous:
+  id: PSA/84/8
+  number: '8'
+reference: 'Psalms 84:9'

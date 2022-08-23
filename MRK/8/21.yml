@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 8:21" class="v">21</span>And
+  he said unto them, <span class="wj">How is it that ye do not
+  understand?</span></p>
+id: MRK/8/21
+next:
+  id: MRK/8/22
+  number: '22'
+previous:
+  id: MRK/8/20
+  number: '20'
+reference: 'Mark 8:21'

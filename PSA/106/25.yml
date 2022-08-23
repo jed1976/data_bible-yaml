@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 106:25"
+  class="v">25</span>But murmured in their tents, <span class="add">and</span>
+  hearkened not unto the voice of the <span class="nd">LORD</span>.</p>
+id: PSA/106/25
+next:
+  id: PSA/106/26
+  number: '26'
+previous:
+  id: PSA/106/24
+  number: '24'
+reference: 'Psalms 106:25'

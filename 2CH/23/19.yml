@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2CH 23:19"
+  class="v">19</span>And he set the porters at the gates of the house of the
+  <span class="nd">LORD</span>, that none <span class="add">which was</span>
+  unclean in any thing should enter in. </p>
+id: 2CH/23/19
+next:
+  id: 2CH/23/20
+  number: '20'
+previous:
+  id: 2CH/23/18
+  number: '18'
+reference: '2 Chronicles 23:19'

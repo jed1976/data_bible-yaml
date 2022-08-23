@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2KI 10:2" class="v">2</span>Now
+  as soon as this letter cometh to you, seeing your master’s sons <span
+  class="add">are</span> with you, and <span class="add">there are</span> with
+  you chariots and horses, a fenced city also, and armour; </p>
+id: 2KI/10/2
+next:
+  id: 2KI/10/3
+  number: '3'
+previous:
+  id: 2KI/10/1
+  number: '1'
+reference: '2 Kings 10:2'

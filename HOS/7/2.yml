@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HOS 7:2" class="v">2</span>And
+  they consider not in their hearts <span class="add">that</span> I remember all
+  their wickedness: now their own doings have beset them about; they are before
+  my face. </p>
+id: HOS/7/2
+next:
+  id: HOS/7/3
+  number: '3'
+previous:
+  id: HOS/7/1
+  number: '1'
+reference: 'Hosea 7:2'

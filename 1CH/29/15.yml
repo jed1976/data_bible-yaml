@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CH 29:15"
+  class="v">15</span>For we <span class="add">are</span> strangers before thee,
+  and sojourners, as <span class="add">were</span> all our fathers: our days on
+  the earth <span class="add">are</span> as a shadow, and <span
+  class="add">there is</span> none abiding. </p>
+id: 1CH/29/15
+next:
+  id: 1CH/29/16
+  number: '16'
+previous:
+  id: 1CH/29/14
+  number: '14'
+reference: '1 Chronicles 29:15'

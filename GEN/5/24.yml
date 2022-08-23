@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 5:24" class="v">24</span>And
+  Enoch walked with God: and he <span class="add">was</span> not; for God took
+  him.</p>
+id: GEN/5/24
+next:
+  id: GEN/5/25
+  number: '25'
+previous:
+  id: GEN/5/23
+  number: '23'
+reference: 'Genesis 5:24'

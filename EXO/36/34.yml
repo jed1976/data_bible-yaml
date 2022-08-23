@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 36:34"
+  class="v">34</span>And he overlaid the boards with gold, and made their rings
+  <span class="add">of</span> gold <span class="add">to be</span> places for the
+  bars, and overlaid the bars with gold.</p>
+id: EXO/36/34
+next:
+  id: EXO/36/35
+  number: '35'
+previous:
+  id: EXO/36/33
+  number: '33'
+reference: 'Exodus 36:34'

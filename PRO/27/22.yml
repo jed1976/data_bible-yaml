@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 27:22"
+  class="v">22</span>Though thou shouldest bray a fool in a mortar among wheat
+  with a pestle, <span class="add">yet</span> will not his foolishness depart
+  from him.</p>
+id: PRO/27/22
+next:
+  id: PRO/27/23
+  number: '23'
+previous:
+  id: PRO/27/21
+  number: '21'
+reference: 'Proverbs 27:22'

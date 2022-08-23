@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 35:8" class="v">8</span>Thy
+  wickedness <span class="add">may hurt</span> a man as thou <span
+  class="add">art;</span> and thy righteousness <span class="add">may
+  profit</span> the son of man.</p>
+id: JOB/35/8
+next:
+  id: JOB/35/9
+  number: '9'
+previous:
+  id: JOB/35/7
+  number: '7'
+reference: 'Job 35:8'

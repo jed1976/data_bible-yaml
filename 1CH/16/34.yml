@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="1CH 16:34" class="v">34</span>O
+  give thanks unto the <span class="nd">LORD</span>; for <span class="add">he
+  is</span> good; for his mercy <span class="add">endureth</span> for ever. </p>
+id: 1CH/16/34
+next:
+  id: 1CH/16/35
+  number: '35'
+previous:
+  id: 1CH/16/33
+  number: '33'
+reference: '1 Chronicles 16:34'

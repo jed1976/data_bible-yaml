@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 22:29"
+  class="v">29</span>Seest thou a man diligent in his business? he shall stand
+  before kings; he shall not stand before mean <span class="add">men</span>.</p>
+id: PRO/22/29
+next:
+  id: PRO/23/1
+  number: '1'
+previous:
+  id: PRO/22/28
+  number: '28'
+reference: 'Proverbs 22:29'

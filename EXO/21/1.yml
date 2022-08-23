@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 21:1" class="v">1</span>Now
+  these <span class="add">are</span> the judgments which thou shalt set before
+  them. </p>
+id: EXO/21/1
+next:
+  id: EXO/21/2
+  number: '2'
+previous:
+  id: EXO/20/26
+  number: '26'
+reference: 'Exodus 21:1'

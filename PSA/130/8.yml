@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 130:8" class="v">8</span>And
+  he shall redeem Israel from all his iniquities.</p>
+id: PSA/130/8
+next:
+  id: PSA/131/1
+  number: '1'
+previous:
+  id: PSA/130/7
+  number: '7'
+reference: 'Psalms 130:8'

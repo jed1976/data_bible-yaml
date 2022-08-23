@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZK 43:16"
+  class="v">16</span>And the altar <span class="add">shall be</span> twelve
+  <span class="add">cubits</span> long, twelve broad, square in the four squares
+  thereof. </p>
+id: EZK/43/16
+next:
+  id: EZK/43/17
+  number: '17'
+previous:
+  id: EZK/43/15
+  number: '15'
+reference: 'Ezekiel 43:16'

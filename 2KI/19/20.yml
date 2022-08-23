@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 19:20" class="v">20</span>¶
+  Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the <span
+  class="nd">LORD</span> God of Israel, <span class="add">That</span> which thou
+  hast prayed to me against Sennacherib king of Assyria I have heard. </p>
+id: 2KI/19/20
+next:
+  id: 2KI/19/21
+  number: '21'
+previous:
+  id: 2KI/19/19
+  number: '19'
+reference: '2 Kings 19:20'

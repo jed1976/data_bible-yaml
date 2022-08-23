@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 19:1" class="v">1</span>And
+  there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and
+  Lot seeing <span class="add">them</span> rose up to meet them; and he bowed
+  himself with his face toward the ground; </p>
+id: GEN/19/1
+next:
+  id: GEN/19/2
+  number: '2'
+previous:
+  id: GEN/18/33
+  number: '33'
+reference: 'Genesis 19:1'

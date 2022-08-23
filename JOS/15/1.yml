@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 15:1" class="v">1</span><span
+  class="add">This</span> then was the lot of the tribe of the children of Judah
+  by their families; <span class="add">even</span> to the border of Edom the
+  wilderness of Zin southward <span class="add">was</span> the uttermost part of
+  the south coast. </p>
+id: JOS/15/1
+next:
+  id: JOS/15/2
+  number: '2'
+previous:
+  id: JOS/14/15
+  number: '15'
+reference: 'Joshua 15:1'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 5:9" class="v">9</span>Which
+  doeth great things and unsearchable; marvellous things without number: </p>
+id: JOB/5/9
+next:
+  id: JOB/5/10
+  number: '10'
+previous:
+  id: JOB/5/8
+  number: '8'
+reference: 'Job 5:9'

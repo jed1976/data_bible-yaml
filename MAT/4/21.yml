@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 4:21" class="v">21</span>And
+  going on from thence, he saw other two brethren, James <span class="add">the
+  son</span> of Zebedee, and John his brother, in a ship with Zebedee their
+  father, mending their nets; and he called them. </p>
+id: MAT/4/21
+next:
+  id: MAT/4/22
+  number: '22'
+previous:
+  id: MAT/4/20
+  number: '20'
+reference: 'Matthew 4:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 45:22"
+  class="v">22</span>Look unto me, and be ye saved, all the ends of the earth:
+  for I <span class="add">am</span> God, and <span class="add">there is</span>
+  none else. </p>
+id: ISA/45/22
+next:
+  id: ISA/45/23
+  number: '23'
+previous:
+  id: ISA/45/21
+  number: '21'
+reference: 'Isaiah 45:22'

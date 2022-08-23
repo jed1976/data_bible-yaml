@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 4:16"
+  class="v">16</span>Saying, What shall we do to these men? for that indeed a
+  notable miracle hath been done by them <span class="add">is</span> manifest to
+  all them that dwell in Jerusalem; and we cannot deny <span
+  class="add">it</span>. </p>
+id: ACT/4/16
+next:
+  id: ACT/4/17
+  number: '17'
+previous:
+  id: ACT/4/15
+  number: '15'
+reference: 'Acts 4:16'

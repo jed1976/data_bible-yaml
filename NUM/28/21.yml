@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 28:21" class="v">21</span>A
+  several tenth deal shalt thou offer for every lamb, throughout the seven
+  lambs: </p>
+id: NUM/28/21
+next:
+  id: NUM/28/22
+  number: '22'
+previous:
+  id: NUM/28/20
+  number: '20'
+reference: 'Numbers 28:21'

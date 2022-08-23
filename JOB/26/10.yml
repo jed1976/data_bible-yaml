@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 26:10" class="v">10</span>He
+  hath compassed the waters with bounds, until the day and night come to an end.
+  </p>
+id: JOB/26/10
+next:
+  id: JOB/26/11
+  number: '11'
+previous:
+  id: JOB/26/9
+  number: '9'
+reference: 'Job 26:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PHP 2:15"
+  class="v">15</span>That ye may be blameless and harmless, the sons of God,
+  without rebuke, in the midst of a crooked and perverse nation, among whom ye
+  shine as lights in the world; </p>
+id: PHP/2/15
+next:
+  id: PHP/2/16
+  number: '16'
+previous:
+  id: PHP/2/14
+  number: '14'
+reference: 'Philippians 2:15'

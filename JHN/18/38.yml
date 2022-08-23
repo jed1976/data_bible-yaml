@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JHN 18:38"
+  class="v">38</span>Pilate saith unto him, What is truth? And when he had said
+  this, he went out again unto the Jews, and saith unto them, I find in him no
+  fault <span class="add">at all</span>. </p>
+id: JHN/18/38
+next:
+  id: JHN/18/39
+  number: '39'
+previous:
+  id: JHN/18/37
+  number: '37'
+reference: 'John 18:38'

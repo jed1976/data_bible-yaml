@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 5:19" class="v">19</span>But
+  the angel of the Lord by night opened the prison doors, and brought them
+  forth, and said, </p>
+id: ACT/5/19
+next:
+  id: ACT/5/20
+  number: '20'
+previous:
+  id: ACT/5/18
+  number: '18'
+reference: 'Acts 5:19'

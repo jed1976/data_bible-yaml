@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 1:5" class="v">5</span>And it
+  was so, when the days of <span class="add">their</span> feasting were gone
+  about, that Job sent and sanctified them, and rose up early in the morning,
+  and offered burnt offerings <span class="add">according</span> to the number
+  of them all: for Job said, It may be that my sons have sinned, and cursed God
+  in their hearts. Thus did Job continually.</p>
+id: JOB/1/5
+next:
+  id: JOB/1/6
+  number: '6'
+previous:
+  id: JOB/1/4
+  number: '4'
+reference: 'Job 1:5'

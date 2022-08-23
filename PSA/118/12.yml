@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 118:12"
+  class="v">12</span>They compassed me about like bees; they are quenched as the
+  fire of thorns: for in the name of the <span class="nd">LORD</span> I will
+  destroy them.</p>
+id: PSA/118/12
+next:
+  id: PSA/118/13
+  number: '13'
+previous:
+  id: PSA/118/11
+  number: '11'
+reference: 'Psalms 118:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 43:11" class="v">11</span>I,
+  <span class="add">even</span> I, <span class="add">am</span> the <span
+  class="nd">LORD</span>; and beside me <span class="add">there is</span> no
+  saviour. </p>
+id: ISA/43/11
+next:
+  id: ISA/43/12
+  number: '12'
+previous:
+  id: ISA/43/10
+  number: '10'
+reference: 'Isaiah 43:11'

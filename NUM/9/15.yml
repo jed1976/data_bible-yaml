@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 9:15" class="v">15</span>¶
+  And on the day that the tabernacle was reared up the cloud covered the
+  tabernacle, <span class="add">namely</span>, the tent of the testimony: and at
+  even there was upon the tabernacle as it were the appearance of fire, until
+  the morning. </p>
+id: NUM/9/15
+next:
+  id: NUM/9/16
+  number: '16'
+previous:
+  id: NUM/9/14
+  number: '14'
+reference: 'Numbers 9:15'

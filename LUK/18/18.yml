@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 18:18"
+  class="v">18</span>And a certain ruler asked him, saying, Good Master, what
+  shall I do to inherit eternal life? </p>
+id: LUK/18/18
+next:
+  id: LUK/18/19
+  number: '19'
+previous:
+  id: LUK/18/17
+  number: '17'
+reference: 'Luke 18:18'

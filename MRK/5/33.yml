@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 5:33" class="v">33</span>But
+  the woman fearing and trembling, knowing what was done in her, came and fell
+  down before him, and told him all the truth. </p>
+id: MRK/5/33
+next:
+  id: MRK/5/34
+  number: '34'
+previous:
+  id: MRK/5/32
+  number: '32'
+reference: 'Mark 5:33'

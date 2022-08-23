@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 148:11"
+  class="v">11</span>Kings of the earth, and all people; princes, and all judges
+  of the earth:</p>
+id: PSA/148/11
+next:
+  id: PSA/148/12
+  number: '12'
+previous:
+  id: PSA/148/10
+  number: '10'
+reference: 'Psalms 148:11'

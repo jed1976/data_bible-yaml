@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 20:34"
+  class="v">34</span>And Jesus answering said unto them, <span class="wj">The
+  children of this world marry, and are given in marriage:</span> </p>
+id: LUK/20/34
+next:
+  id: LUK/20/35
+  number: '35'
+previous:
+  id: LUK/20/33
+  number: '33'
+reference: 'Luke 20:34'

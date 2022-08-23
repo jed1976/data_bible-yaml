@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 7:10" class="v">10</span>And
+  it came to pass after seven days, that the waters of the flood were upon the
+  earth.</p>
+id: GEN/7/10
+next:
+  id: GEN/7/11
+  number: '11'
+previous:
+  id: GEN/7/9
+  number: '9'
+reference: 'Genesis 7:10'

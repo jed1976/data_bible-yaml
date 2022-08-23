@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ROM 2:29" class="v">29</span>But
+  he <span class="add">is</span> a Jew, which is one inwardly; and circumcision
+  <span class="add">is that</span> of the heart, in the spirit, <span
+  class="add">and</span> not in the letter; whose praise <span
+  class="add">is</span> not of men, but of God.</p>
+id: ROM/2/29
+next:
+  id: ROM/3/1
+  number: '1'
+previous:
+  id: ROM/2/28
+  number: '28'
+reference: 'Romans 2:29'

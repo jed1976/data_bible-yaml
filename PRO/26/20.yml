@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 26:20"
+  class="v">20</span>Where no wood is, <span class="add">there</span> the fire
+  goeth out: so where <span class="add">there is</span> no talebearer, the
+  strife ceaseth. </p>
+id: PRO/26/20
+next:
+  id: PRO/26/21
+  number: '21'
+previous:
+  id: PRO/26/19
+  number: '19'
+reference: 'Proverbs 26:20'

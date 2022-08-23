@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 14:11" class="v">11</span>¶
+  <span class="add">Of</span> all clean birds ye shall eat. </p>
+id: DEU/14/11
+next:
+  id: DEU/14/12
+  number: '12'
+previous:
+  id: DEU/14/10
+  number: '10'
+reference: 'Deuteronomy 14:11'

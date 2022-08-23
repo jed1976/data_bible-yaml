@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1TH 5:19"
+  class="v">19</span>Quench not the Spirit. </p>
+id: 1TH/5/19
+next:
+  id: 1TH/5/20
+  number: '20'
+previous:
+  id: 1TH/5/18
+  number: '18'
+reference: '1 Thessalonians 5:19'

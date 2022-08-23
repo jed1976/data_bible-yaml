@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="RUT 3:12" class="v">12</span>And
+  now it is true that I <span class="add">am thy</span> near kinsman: howbeit
+  there is a kinsman nearer than I. </p>
+id: RUT/3/12
+next:
+  id: RUT/3/13
+  number: '13'
+previous:
+  id: RUT/3/11
+  number: '11'
+reference: 'Ruth 3:12'

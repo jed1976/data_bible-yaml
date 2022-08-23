@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 19:21"
+  class="v">21</span>Jesus said unto him, <span class="wj">If thou wilt be
+  perfect, go <span class="add">and</span> sell that thou hast, and give to the
+  poor, and thou shalt have treasure in heaven: and come <span
+  class="add">and</span> follow me.</span> </p>
+id: MAT/19/21
+next:
+  id: MAT/19/22
+  number: '22'
+previous:
+  id: MAT/19/20
+  number: '20'
+reference: 'Matthew 19:21'

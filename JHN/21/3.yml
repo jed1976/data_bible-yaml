@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 21:3" class="v">3</span>Simon
+  Peter saith unto them, I go a fishing. They say unto him, We also go with
+  thee. They went forth, and entered into a ship immediately; and that night
+  they caught nothing. </p>
+id: JHN/21/3
+next:
+  id: JHN/21/4
+  number: '4'
+previous:
+  id: JHN/21/2
+  number: '2'
+reference: 'John 21:3'

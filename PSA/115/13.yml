@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 115:13"
+  class="v">13</span>He will bless them that fear the <span
+  class="nd">LORD</span>, <span class="add">both</span> small and great.</p>
+id: PSA/115/13
+next:
+  id: PSA/115/14
+  number: '14'
+previous:
+  id: PSA/115/12
+  number: '12'
+reference: 'Psalms 115:13'

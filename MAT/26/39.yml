@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 26:39"
+  class="v">39</span>And he went a little further, and fell on his face, and
+  prayed, saying, <span class="wj">O my Father, if it be possible, let this cup
+  pass from me: nevertheless not as I will, but as thou <span
+  class="add">wilt</span>.</span> </p>
+id: MAT/26/39
+next:
+  id: MAT/26/40
+  number: '40'
+previous:
+  id: MAT/26/38
+  number: '38'
+reference: 'Matthew 26:39'

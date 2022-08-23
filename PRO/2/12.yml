@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 2:12" class="v">12</span>To
+  deliver thee from the way of the evil <span class="add">man</span>, from the
+  man that speaketh froward things; </p>
+id: PRO/2/12
+next:
+  id: PRO/2/13
+  number: '13'
+previous:
+  id: PRO/2/11
+  number: '11'
+reference: 'Proverbs 2:12'

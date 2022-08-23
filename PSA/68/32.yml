@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="32" data-sid="PSA 68:32"
+  class="v">32</span>Sing unto God, ye kingdoms of the earth; O sing praises
+  unto the Lord; Selah:</p>
+id: PSA/68/32
+next:
+  id: PSA/68/33
+  number: '33'
+previous:
+  id: PSA/68/31
+  number: '31'
+reference: 'Psalms 68:32'

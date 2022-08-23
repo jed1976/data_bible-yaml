@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 24:17"
+  class="v">17</span>And the servant ran to meet her, and said, Let me, I pray
+  thee, drink a little water of thy pitcher. </p>
+id: GEN/24/17
+next:
+  id: GEN/24/18
+  number: '18'
+previous:
+  id: GEN/24/16
+  number: '16'
+reference: 'Genesis 24:17'

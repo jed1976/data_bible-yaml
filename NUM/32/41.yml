@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 32:41"
+  class="v">41</span>And Jair the son of Manasseh went and took the small towns
+  thereof, and called them Havoth-jair. </p>
+id: NUM/32/41
+next:
+  id: NUM/32/42
+  number: '42'
+previous:
+  id: NUM/32/40
+  number: '40'
+reference: 'Numbers 32:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 2:20"
+  class="v">20</span><span class="wj">But the days will come, when the
+  bridegroom shall be taken away from them, and then shall they fast in those
+  days.</span> </p>
+id: MRK/2/20
+next:
+  id: MRK/2/21
+  number: '21'
+previous:
+  id: MRK/2/19
+  number: '19'
+reference: 'Mark 2:20'

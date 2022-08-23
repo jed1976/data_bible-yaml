@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 14:4" class="v">4</span><span
+  class="wj">And whither I go ye know, and the way ye know.</span> </p>
+id: JHN/14/4
+next:
+  id: JHN/14/5
+  number: '5'
+previous:
+  id: JHN/14/3
+  number: '3'
+reference: 'John 14:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 4:37"
+  class="v">37</span>These <span class="add">were</span> they that were numbered
+  of the families of the Kohathites, all that might do service in the tabernacle
+  of the congregation, which Moses and Aaron did number according to the
+  commandment of the <span class="nd">LORD</span> by the hand of Moses. </p>
+id: NUM/4/37
+next:
+  id: NUM/4/38
+  number: '38'
+previous:
+  id: NUM/4/36
+  number: '36'
+reference: 'Numbers 4:37'

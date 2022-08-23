@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 15:13" class="v">13</span>¶
+  And unto Caleb the son of Jephunneh he gave a part among the children of
+  Judah, according to the commandment of the <span class="nd">LORD</span> to
+  Joshua, <span class="add">even</span> the city of Arba the father of Anak,
+  which <span class="add">city is</span> Hebron. </p>
+id: JOS/15/13
+next:
+  id: JOS/15/14
+  number: '14'
+previous:
+  id: JOS/15/12
+  number: '12'
+reference: 'Joshua 15:13'

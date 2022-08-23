@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="LUK 23:48"
+  class="v">48</span>And all the people that came together to that sight,
+  beholding the things which were done, smote their breasts, and returned. </p>
+id: LUK/23/48
+next:
+  id: LUK/23/49
+  number: '49'
+previous:
+  id: LUK/23/47
+  number: '47'
+reference: 'Luke 23:48'

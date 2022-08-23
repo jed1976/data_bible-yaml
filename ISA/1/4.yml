@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 1:4" class="v">4</span>Ah
+  sinful nation, a people laden with iniquity, a seed of evildoers, children
+  that are corrupters: they have forsaken the <span class="nd">LORD</span>, they
+  have provoked the Holy One of Israel unto anger, they are gone away
+  backward.</p>
+id: ISA/1/4
+next:
+  id: ISA/1/5
+  number: '5'
+previous:
+  id: ISA/1/3
+  number: '3'
+reference: 'Isaiah 1:4'

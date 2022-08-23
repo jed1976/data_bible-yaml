@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 8:7" class="v">7</span><span
+  class="wj">And some fell among thorns; and the thorns sprang up with it, and
+  choked it.</span> </p>
+id: LUK/8/7
+next:
+  id: LUK/8/8
+  number: '8'
+previous:
+  id: LUK/8/6
+  number: '6'
+reference: 'Luke 8:7'

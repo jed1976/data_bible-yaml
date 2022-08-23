@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 41:24"
+  class="v">24</span>His heart is as firm as a stone; yea, as hard as a piece of
+  the nether <span class="add">millstone</span>. </p>
+id: JOB/41/24
+next:
+  id: JOB/41/25
+  number: '25'
+previous:
+  id: JOB/41/23
+  number: '23'
+reference: 'Job 41:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 19:4" class="v">4</span>And
+  the four and twenty elders and the four beasts fell down and worshipped God
+  that sat on the throne, saying, Amen; Alleluia. </p>
+id: REV/19/4
+next:
+  id: REV/19/5
+  number: '5'
+previous:
+  id: REV/19/3
+  number: '3'
+reference: 'Revelation 19:4'

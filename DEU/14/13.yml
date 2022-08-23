@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 14:13"
+  class="v">13</span>And the glede, and the kite, and the vulture after his
+  kind, </p>
+id: DEU/14/13
+next:
+  id: DEU/14/14
+  number: '14'
+previous:
+  id: DEU/14/12
+  number: '12'
+reference: 'Deuteronomy 14:13'

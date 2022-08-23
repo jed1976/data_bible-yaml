@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NEH 10:24"
+  class="v">24</span>Hallohesh, Pileha, Shobek, </p>
+id: NEH/10/24
+next:
+  id: NEH/10/25
+  number: '25'
+previous:
+  id: NEH/10/23
+  number: '23'
+reference: 'Nehemiah 10:24'

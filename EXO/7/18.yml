@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 7:18" class="v">18</span>And
+  the fish that <span class="add">is</span> in the river shall die, and the
+  river shall stink; and the Egyptians shall lothe to drink of the water of the
+  river.</p>
+id: EXO/7/18
+next:
+  id: EXO/7/19
+  number: '19'
+previous:
+  id: EXO/7/17
+  number: '17'
+reference: 'Exodus 7:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 16:22"
+  class="v">22</span><span class="wj">And ye now therefore have sorrow: but I
+  will see you again, and your heart shall rejoice, and your joy no man taketh
+  from you.</span> </p>
+id: JHN/16/22
+next:
+  id: JHN/16/23
+  number: '23'
+previous:
+  id: JHN/16/21
+  number: '21'
+reference: 'John 16:22'

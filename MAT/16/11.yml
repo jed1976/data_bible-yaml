@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 16:11"
+  class="v">11</span><span class="wj">How is it that ye do not understand that I
+  spake <span class="add">it</span> not to you concerning bread, that ye should
+  beware of the leaven of the Pharisees and of the Sadducees?</span> </p>
+id: MAT/16/11
+next:
+  id: MAT/16/12
+  number: '12'
+previous:
+  id: MAT/16/10
+  number: '10'
+reference: 'Matthew 16:11'

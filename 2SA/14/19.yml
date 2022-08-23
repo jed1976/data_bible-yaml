@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2SA 14:19"
+  class="v">19</span>And the king said, <span class="add">Is not</span> the hand
+  of Joab with thee in all this? And the woman answered and said, <span
+  class="add">As</span> thy soul liveth, my lord the king, none can turn to the
+  right hand or to the left from ought that my lord the king hath spoken: for
+  thy servant Joab, he bade me, and he put all these words in the mouth of thine
+  handmaid: </p>
+id: 2SA/14/19
+next:
+  id: 2SA/14/20
+  number: '20'
+previous:
+  id: 2SA/14/18
+  number: '18'
+reference: '2 Samuel 14:19'

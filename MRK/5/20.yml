@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 5:20" class="v">20</span>And
+  he departed, and began to publish in Decapolis how great things Jesus had done
+  for him: and all <span class="add">men</span> did marvel. </p>
+id: MRK/5/20
+next:
+  id: MRK/5/21
+  number: '21'
+previous:
+  id: MRK/5/19
+  number: '19'
+reference: 'Mark 5:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 31:13" class="v">13</span>I
+  <span class="add">am</span> the God of Beth-el, where thou anointedst the
+  pillar, <span class="add">and</span> where thou vowedst a vow unto me: now
+  arise, get thee out from this land, and return unto the land of thy kindred.
+  </p>
+id: GEN/31/13
+next:
+  id: GEN/31/14
+  number: '14'
+previous:
+  id: GEN/31/12
+  number: '12'
+reference: 'Genesis 31:13'

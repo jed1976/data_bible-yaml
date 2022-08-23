@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1KI 11:43"
+  class="v">43</span>And Solomon slept with his fathers, and was buried in the
+  city of David his father: and Rehoboam his son reigned in his stead.</p>
+id: 1KI/11/43
+next:
+  id: 1KI/12/1
+  number: '1'
+previous:
+  id: 1KI/11/42
+  number: '42'
+reference: '1 Kings 11:43'

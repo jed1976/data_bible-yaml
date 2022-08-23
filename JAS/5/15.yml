@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JAS 5:15" class="v">15</span>And
+  the prayer of faith shall save the sick, and the Lord shall raise him up; and
+  if he have committed sins, they shall be forgiven him. </p>
+id: JAS/5/15
+next:
+  id: JAS/5/16
+  number: '16'
+previous:
+  id: JAS/5/14
+  number: '14'
+reference: 'James 5:15'

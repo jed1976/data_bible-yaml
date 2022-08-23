@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 35:14"
+  class="v">14</span>And Jacob set up a pillar in the place where he talked with
+  him, <span class="add">even</span> a pillar of stone: and he poured a drink
+  offering thereon, and he poured oil thereon. </p>
+id: GEN/35/14
+next:
+  id: GEN/35/15
+  number: '15'
+previous:
+  id: GEN/35/13
+  number: '13'
+reference: 'Genesis 35:14'

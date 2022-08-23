@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 19:16" class="v">16</span>¶
+  If a false witness rise up against any man to testify against him <span
+  class="add">that which is</span> wrong; </p>
+id: DEU/19/16
+next:
+  id: DEU/19/17
+  number: '17'
+previous:
+  id: DEU/19/15
+  number: '15'
+reference: 'Deuteronomy 19:16'

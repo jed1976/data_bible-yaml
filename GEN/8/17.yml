@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 8:17"
+  class="v">17</span>Bring forth with thee every living thing that <span
+  class="add">is</span> with thee, of all flesh, <span class="add">both</span>
+  of fowl, and of cattle, and of every creeping thing that creepeth upon the
+  earth; that they may breed abundantly in the earth, and be fruitful, and
+  multiply upon the earth. </p>
+id: GEN/8/17
+next:
+  id: GEN/8/18
+  number: '18'
+previous:
+  id: GEN/8/16
+  number: '16'
+reference: 'Genesis 8:17'

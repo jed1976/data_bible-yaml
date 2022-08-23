@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 45:3" class="v">3</span>And
+  of this measure shalt thou measure the length of five and twenty thousand, and
+  the breadth of ten thousand: and in it shall be the sanctuary <span
+  class="add">and</span> the most holy <span class="add">place</span>. </p>
+id: EZK/45/3
+next:
+  id: EZK/45/4
+  number: '4'
+previous:
+  id: EZK/45/2
+  number: '2'
+reference: 'Ezekiel 45:3'

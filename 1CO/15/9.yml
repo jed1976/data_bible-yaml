@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CO 15:9" class="v">9</span>For I
+  am the least of the apostles, that am not meet to be called an apostle,
+  because I persecuted the church of God. </p>
+id: 1CO/15/9
+next:
+  id: 1CO/15/10
+  number: '10'
+previous:
+  id: 1CO/15/8
+  number: '8'
+reference: '1 Corinthians 15:9'

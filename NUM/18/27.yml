@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 18:27"
+  class="v">27</span>And <span class="add">this</span> your heave offering shall
+  be reckoned unto you, as though <span class="add">it were</span> the corn of
+  the threshingfloor, and as the fulness of the winepress. </p>
+id: NUM/18/27
+next:
+  id: NUM/18/28
+  number: '28'
+previous:
+  id: NUM/18/26
+  number: '26'
+reference: 'Numbers 18:27'

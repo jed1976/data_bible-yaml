@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 51:17" class="v">17</span>¶
+  Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the <span
+  class="nd">LORD</span> the cup of his fury; thou hast drunken the dregs of the
+  cup of trembling, <span class="add">and</span> wrung <span
+  class="add">them</span> out. </p>
+id: ISA/51/17
+next:
+  id: ISA/51/18
+  number: '18'
+previous:
+  id: ISA/51/16
+  number: '16'
+reference: 'Isaiah 51:17'

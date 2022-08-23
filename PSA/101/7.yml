@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 101:7" class="v">7</span>He
+  that worketh deceit shall not dwell within my house: he that telleth lies
+  shall not tarry in my sight.</p>
+id: PSA/101/7
+next:
+  id: PSA/101/8
+  number: '8'
+previous:
+  id: PSA/101/6
+  number: '6'
+reference: 'Psalms 101:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PHP 3:1"
+  class="v">1</span>Finally, my brethren, rejoice in the Lord. To write the same
+  things to you, to me indeed <span class="add">is</span> not grievous, but for
+  you <span class="add">it is</span> safe.</p>
+id: PHP/3/1
+next:
+  id: PHP/3/2
+  number: '2'
+previous:
+  id: PHP/2/30
+  number: '30'
+reference: 'Philippians 3:1'

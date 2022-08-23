@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="45" data-sid="PSA 105:45"
+  class="v">45</span>That they might observe his statutes, and keep his laws.
+  Praise ye the <span class="nd">LORD</span>.</p>
+id: PSA/105/45
+next:
+  id: PSA/106/1
+  number: '1'
+previous:
+  id: PSA/105/44
+  number: '44'
+reference: 'Psalms 105:45'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 54:12"
+  class="v">12</span>And I will make thy windows of agates, and thy gates of
+  carbuncles, and all thy borders of pleasant stones. </p>
+id: ISA/54/12
+next:
+  id: ISA/54/13
+  number: '13'
+previous:
+  id: ISA/54/11
+  number: '11'
+reference: 'Isaiah 54:12'

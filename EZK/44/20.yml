@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 44:20"
+  class="v">20</span>Neither shall they shave their heads, nor suffer their
+  locks to grow long; they shall only poll their heads. </p>
+id: EZK/44/20
+next:
+  id: EZK/44/21
+  number: '21'
+previous:
+  id: EZK/44/19
+  number: '19'
+reference: 'Ezekiel 44:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HAG 1:13"
+  class="v">13</span>Then spake Haggai the <span class="nd">LORD’s</span>
+  messenger in the <span class="nd">LORD’s</span> message unto the people,
+  saying, I <span class="add">am</span> with you, saith the <span
+  class="nd">LORD</span>. </p>
+id: HAG/1/13
+next:
+  id: HAG/1/14
+  number: '14'
+previous:
+  id: HAG/1/12
+  number: '12'
+reference: 'Haggai 1:13'

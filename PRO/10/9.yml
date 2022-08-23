@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 10:9" class="v">9</span>He
+  that walketh uprightly walketh surely: but he that perverteth his ways shall
+  be known. </p>
+id: PRO/10/9
+next:
+  id: PRO/10/10
+  number: '10'
+previous:
+  id: PRO/10/8
+  number: '8'
+reference: 'Proverbs 10:9'

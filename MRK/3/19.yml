@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MRK 3:19" class="v">19</span>And
+  Judas Iscariot, which also betrayed him: and they went into an house. </p>
+id: MRK/3/19
+next:
+  id: MRK/3/20
+  number: '20'
+previous:
+  id: MRK/3/18
+  number: '18'
+reference: 'Mark 3:19'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="AMO 2:6" class="v">6</span>¶ Thus
+  saith the <span class="nd">LORD</span>; For three transgressions of Israel,
+  and for four, I will not turn away <span class="add">the punishment</span>
+  thereof; because they sold the righteous for silver, and the poor for a pair
+  of shoes; </p>
+id: AMO/2/6
+next:
+  id: AMO/2/7
+  number: '7'
+previous:
+  id: AMO/2/5
+  number: '5'
+reference: 'Amos 2:6'

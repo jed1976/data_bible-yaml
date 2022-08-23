@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 27:1" class="v">1</span>And
+  David said in his heart, I shall now perish one day by the hand of Saul: <span
+  class="add">there is</span> nothing better for me than that I should speedily
+  escape into the land of the Philistines; and Saul shall despair of me, to seek
+  me any more in any coast of Israel: so shall I escape out of his hand. </p>
+id: 1SA/27/1
+next:
+  id: 1SA/27/2
+  number: '2'
+previous:
+  id: 1SA/26/25
+  number: '25'
+reference: '1 Samuel 27:1'

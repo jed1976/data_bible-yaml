@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 28:24"
+  class="v">24</span>Whoso robbeth his father or his mother, and saith, <span
+  class="add">It is</span> no transgression; the same <span
+  class="add">is</span> the companion of a destroyer. </p>
+id: PRO/28/24
+next:
+  id: PRO/28/25
+  number: '25'
+previous:
+  id: PRO/28/23
+  number: '23'
+reference: 'Proverbs 28:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 5:12"
+  class="v">12</span>Speak unto the children of Israel, and say unto them, If
+  any man’s wife go aside, and commit a trespass against him, </p>
+id: NUM/5/12
+next:
+  id: NUM/5/13
+  number: '13'
+previous:
+  id: NUM/5/11
+  number: '11'
+reference: 'Numbers 5:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 8:20" class="v">20</span>¶
+  In his days Edom revolted from under the hand of Judah, and made a king over
+  themselves. </p>
+id: 2KI/8/20
+next:
+  id: 2KI/8/21
+  number: '21'
+previous:
+  id: 2KI/8/19
+  number: '19'
+reference: '2 Kings 8:20'

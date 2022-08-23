@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 66:8"
+  class="v">8</span>O bless our God, ye people, and make the voice of his praise
+  to be heard:</p>
+id: PSA/66/8
+next:
+  id: PSA/66/9
+  number: '9'
+previous:
+  id: PSA/66/7
+  number: '7'
+reference: 'Psalms 66:8'

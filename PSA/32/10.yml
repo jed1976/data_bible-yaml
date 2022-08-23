@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 32:10"
+  class="v">10</span>Many sorrows <span class="add">shall be</span> to the
+  wicked: but he that trusteth in the <span class="nd">LORD</span>, mercy shall
+  compass him about.</p>
+id: PSA/32/10
+next:
+  id: PSA/32/11
+  number: '11'
+previous:
+  id: PSA/32/9
+  number: '9'
+reference: 'Psalms 32:10'

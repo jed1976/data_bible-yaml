@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 5:23" class="v">23</span>And
+  all the days of Enoch were three hundred sixty and five years: </p>
+id: GEN/5/23
+next:
+  id: GEN/5/24
+  number: '24'
+previous:
+  id: GEN/5/22
+  number: '22'
+reference: 'Genesis 5:23'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 11:16"
+  class="v">16</span>And Eber lived four and thirty years, and begat Peleg: </p>
+id: GEN/11/16
+next:
+  id: GEN/11/17
+  number: '17'
+previous:
+  id: GEN/11/15
+  number: '15'
+reference: 'Genesis 11:16'

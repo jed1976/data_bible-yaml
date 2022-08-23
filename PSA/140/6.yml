@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 140:6" class="v">6</span>I
+  said unto the <span class="nd">LORD</span>, Thou <span class="add">art</span>
+  my God: hear the voice of my supplications, O <span
+  class="nd">LORD</span>.</p>
+id: PSA/140/6
+next:
+  id: PSA/140/7
+  number: '7'
+previous:
+  id: PSA/140/5
+  number: '5'
+reference: 'Psalms 140:6'

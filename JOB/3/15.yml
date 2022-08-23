@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 3:15" class="v">15</span>Or
+  with princes that had gold, who filled their houses with silver: </p>
+id: JOB/3/15
+next:
+  id: JOB/3/16
+  number: '16'
+previous:
+  id: JOB/3/14
+  number: '14'
+reference: 'Job 3:15'

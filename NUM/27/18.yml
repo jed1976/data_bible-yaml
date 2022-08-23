@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 27:18" class="v">18</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Take thee Joshua the son
+  of Nun, a man in whom <span class="add">is</span> the spirit, and lay thine
+  hand upon him; </p>
+id: NUM/27/18
+next:
+  id: NUM/27/19
+  number: '19'
+previous:
+  id: NUM/27/17
+  number: '17'
+reference: 'Numbers 27:18'

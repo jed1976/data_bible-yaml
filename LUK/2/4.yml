@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 2:4" class="v">4</span>And
+  Joseph also went up from Galilee, out of the city of Nazareth, into Judæa,
+  unto the city of David, which is called Bethlehem; (because he was of the
+  house and lineage of David:) </p>
+id: LUK/2/4
+next:
+  id: LUK/2/5
+  number: '5'
+previous:
+  id: LUK/2/3
+  number: '3'
+reference: 'Luke 2:4'

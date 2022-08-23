@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="1CO 15:39"
+  class="v">39</span>All flesh <span class="add">is</span> not the same flesh:
+  but <span class="add">there is</span> one <span class="add">kind of</span>
+  flesh of men, another flesh of beasts, another of fishes, <span
+  class="add">and</span> another of birds. </p>
+id: 1CO/15/39
+next:
+  id: 1CO/15/40
+  number: '40'
+previous:
+  id: 1CO/15/38
+  number: '38'
+reference: '1 Corinthians 15:39'

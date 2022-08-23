@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEP 3:4" class="v">4</span>Her
+  prophets <span class="add">are</span> light <span class="add">and</span>
+  treacherous persons: her priests have polluted the sanctuary, they have done
+  violence to the law. </p>
+id: ZEP/3/4
+next:
+  id: ZEP/3/5
+  number: '5'
+previous:
+  id: ZEP/3/3
+  number: '3'
+reference: 'Zephaniah 3:4'

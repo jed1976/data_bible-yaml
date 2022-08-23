@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 2:8" class="v">8</span>Ask
+  of me, and I shall give <span class="add">thee</span> the heathen <span
+  class="add">for</span> thine inheritance, and the uttermost parts of the earth
+  <span class="add">for</span> thy possession.</p>
+id: PSA/2/8
+next:
+  id: PSA/2/9
+  number: '9'
+previous:
+  id: PSA/2/7
+  number: '7'
+reference: 'Psalms 2:8'

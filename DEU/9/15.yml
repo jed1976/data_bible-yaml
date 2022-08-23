@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 9:15" class="v">15</span>So
+  I turned and came down from the mount, and the mount burned with fire: and the
+  two tables of the covenant <span class="add">were</span> in my two hands. </p>
+id: DEU/9/15
+next:
+  id: DEU/9/16
+  number: '16'
+previous:
+  id: DEU/9/14
+  number: '14'
+reference: 'Deuteronomy 9:15'

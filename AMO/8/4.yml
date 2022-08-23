@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 8:4" class="v">4</span>¶ Hear
+  this, O ye that swallow up the needy, even to make the poor of the land to
+  fail, </p>
+id: AMO/8/4
+next:
+  id: AMO/8/5
+  number: '5'
+previous:
+  id: AMO/8/3
+  number: '3'
+reference: 'Amos 8:4'

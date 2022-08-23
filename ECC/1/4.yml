@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 1:4" class="v">4</span><span
+  class="add">One</span> generation passeth away, and <span
+  class="add">another</span> generation cometh: but the earth abideth for ever.
+  </p>
+id: ECC/1/4
+next:
+  id: ECC/1/5
+  number: '5'
+previous:
+  id: ECC/1/3
+  number: '3'
+reference: 'Ecclesiastes 1:4'

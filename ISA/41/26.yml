@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ISA 41:26"
+  class="v">26</span>Who hath declared from the beginning, that we may know? and
+  beforetime, that we may say, <span class="add">He is</span> righteous? yea,
+  <span class="add">there is</span> none that sheweth, yea, <span
+  class="add">there is</span> none that declareth, yea, <span class="add">there
+  is</span> none that heareth your words. </p>
+id: ISA/41/26
+next:
+  id: ISA/41/27
+  number: '27'
+previous:
+  id: ISA/41/25
+  number: '25'
+reference: 'Isaiah 41:26'

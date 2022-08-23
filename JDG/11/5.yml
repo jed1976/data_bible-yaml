@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 11:5" class="v">5</span>And
+  it was so, that when the children of Ammon made war against Israel, the elders
+  of Gilead went to fetch Jephthah out of the land of Tob: </p>
+id: JDG/11/5
+next:
+  id: JDG/11/6
+  number: '6'
+previous:
+  id: JDG/11/4
+  number: '4'
+reference: 'Judges 11:5'

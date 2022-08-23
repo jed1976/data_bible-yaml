@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 22:42"
+  class="v">42</span>Saying, <span class="wj">Father, if thou be willing, remove
+  this cup from me: nevertheless not my will, but thine, be done.</span> </p>
+id: LUK/22/42
+next:
+  id: LUK/22/43
+  number: '43'
+previous:
+  id: LUK/22/41
+  number: '41'
+reference: 'Luke 22:42'

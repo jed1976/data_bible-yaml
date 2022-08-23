@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 9:7" class="v">7</span>And
+  the men of Israel said unto the Hivites, Peradventure ye dwell among us; and
+  how shall we make a league with you? </p>
+id: JOS/9/7
+next:
+  id: JOS/9/8
+  number: '8'
+previous:
+  id: JOS/9/6
+  number: '6'
+reference: 'Joshua 9:7'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 31:10"
+  class="v">10</span>And Azariah the chief priest of the house of Zadok answered
+  him, and said, Since <span class="add">the people</span> began to bring the
+  offerings into the house of the <span class="nd">LORD</span>, we have had
+  enough to eat, and have left plenty: for the <span class="nd">LORD</span> hath
+  blessed his people; and that which is left <span class="add">is</span> this
+  great store.</p>
+id: 2CH/31/10
+next:
+  id: 2CH/31/11
+  number: '11'
+previous:
+  id: 2CH/31/9
+  number: '9'
+reference: '2 Chronicles 31:10'

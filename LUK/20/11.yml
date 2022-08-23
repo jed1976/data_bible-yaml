@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 20:11"
+  class="v">11</span><span class="wj">And again he sent another servant: and
+  they beat him also, and entreated <span class="add">him</span> shamefully, and
+  sent <span class="add">him</span> away empty.</span> </p>
+id: LUK/20/11
+next:
+  id: LUK/20/12
+  number: '12'
+previous:
+  id: LUK/20/10
+  number: '10'
+reference: 'Luke 20:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 3:6" class="v">6</span>¶ Who
+  <span class="add">is</span> this that cometh out of the wilderness like
+  pillars of smoke, perfumed with myrrh and frankincense, with all powders of
+  the merchant?</p>
+id: SNG/3/6
+next:
+  id: SNG/3/7
+  number: '7'
+previous:
+  id: SNG/3/5
+  number: '5'
+reference: 'Song of Solomon 3:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 32:18" class="v">18</span>Of
+  the Rock <span class="add">that</span> begat thee thou art unmindful, and hast
+  forgotten God that formed thee.</p>
+id: DEU/32/18
+next:
+  id: DEU/32/19
+  number: '19'
+previous:
+  id: DEU/32/17
+  number: '17'
+reference: 'Deuteronomy 32:18'

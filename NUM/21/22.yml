@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 21:22"
+  class="v">22</span>Let me pass through thy land: we will not turn into the
+  fields, or into the vineyards; we will not drink <span class="add">of</span>
+  the waters of the well: <span class="add">but</span> we will go along by the
+  king’s <span class="add">high</span> way, until we be past thy borders. </p>
+id: NUM/21/22
+next:
+  id: NUM/21/23
+  number: '23'
+previous:
+  id: NUM/21/21
+  number: '21'
+reference: 'Numbers 21:22'

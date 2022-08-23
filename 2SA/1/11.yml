@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 1:11"
+  class="v">11</span>Then David took hold on his clothes, and rent them; and
+  likewise all the men that <span class="add">were</span> with him: </p>
+id: 2SA/1/11
+next:
+  id: 2SA/1/12
+  number: '12'
+previous:
+  id: 2SA/1/10
+  number: '10'
+reference: '2 Samuel 1:11'

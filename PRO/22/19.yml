@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 22:19"
+  class="v">19</span>That thy trust may be in the <span class="nd">LORD</span>,
+  I have made known to thee this day, even to thee. </p>
+id: PRO/22/19
+next:
+  id: PRO/22/20
+  number: '20'
+previous:
+  id: PRO/22/18
+  number: '18'
+reference: 'Proverbs 22:19'

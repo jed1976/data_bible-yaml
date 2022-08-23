@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 49:20"
+  class="v">20</span>Man <span class="add">that is</span> in honour, and
+  understandeth not, is like the beasts <span class="add">that</span>
+  perish.</p>
+id: PSA/49/20
+next:
+  id: PSA/50/1
+  number: '1'
+previous:
+  id: PSA/49/19
+  number: '19'
+reference: 'Psalms 49:20'

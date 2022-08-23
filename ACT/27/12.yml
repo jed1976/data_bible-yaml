@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 27:12"
+  class="v">12</span>And because the haven was not commodious to winter in, the
+  more part advised to depart thence also, if by any means they might attain to
+  Phenice, <span class="add">and there</span> to winter; <span class="add">which
+  is</span> an haven of Crete, and lieth toward the south west and north west.
+  </p>
+id: ACT/27/12
+next:
+  id: ACT/27/13
+  number: '13'
+previous:
+  id: ACT/27/11
+  number: '11'
+reference: 'Acts 27:12'

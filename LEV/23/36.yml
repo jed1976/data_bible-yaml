@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LEV 23:36"
+  class="v">36</span>Seven days ye shall offer an offering made by fire unto the
+  <span class="nd">LORD</span>: on the eighth day shall be an holy convocation
+  unto you; and ye shall offer an offering made by fire unto the <span
+  class="nd">LORD</span>: it <span class="add">is</span> a solemn assembly;
+  <span class="add">and</span> ye shall do no servile work <span
+  class="add">therein</span>. </p>
+id: LEV/23/36
+next:
+  id: LEV/23/37
+  number: '37'
+previous:
+  id: LEV/23/35
+  number: '35'
+reference: 'Leviticus 23:36'

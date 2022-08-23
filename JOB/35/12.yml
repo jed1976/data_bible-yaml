@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 35:12"
+  class="v">12</span>There they cry, but none giveth answer, because of the
+  pride of evil men. </p>
+id: JOB/35/12
+next:
+  id: JOB/35/13
+  number: '13'
+previous:
+  id: JOB/35/11
+  number: '11'
+reference: 'Job 35:12'

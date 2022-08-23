@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 9:17" class="v">17</span>And
+  when Samuel saw Saul, the <span class="nd">LORD</span> said unto him, Behold
+  the man whom I spake to thee of! this same shall reign over my people.</p>
+id: 1SA/9/17
+next:
+  id: 1SA/9/18
+  number: '18'
+previous:
+  id: 1SA/9/16
+  number: '16'
+reference: '1 Samuel 9:17'

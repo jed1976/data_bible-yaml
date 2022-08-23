@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 15:1" class="v">1</span>Then
+  said the <span class="nd">LORD</span> unto me, Though Moses and Samuel stood
+  before me, <span class="add">yet</span> my mind <span class="add">could</span>
+  not <span class="add">be</span> toward this people: cast <span
+  class="add">them</span> out of my sight, and let them go forth. </p>
+id: JER/15/1
+next:
+  id: JER/15/2
+  number: '2'
+previous:
+  id: JER/14/22
+  number: '22'
+reference: 'Jeremiah 15:1'

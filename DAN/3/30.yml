@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DAN 3:30"
+  class="v">30</span>Then the king promoted Shadrach, Meshach, and Abed-nego, in
+  the province of Babylon.</p>
+id: DAN/3/30
+next:
+  id: DAN/4/1
+  number: '1'
+previous:
+  id: DAN/3/29
+  number: '29'
+reference: 'Daniel 3:30'

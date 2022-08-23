@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 11:3" class="v">3</span>If
+  the clouds be full of rain, they empty <span class="add">themselves</span>
+  upon the earth: and if the tree fall toward the south, or toward the north, in
+  the place where the tree falleth, there it shall be. </p>
+id: ECC/11/3
+next:
+  id: ECC/11/4
+  number: '4'
+previous:
+  id: ECC/11/2
+  number: '2'
+reference: 'Ecclesiastes 11:3'

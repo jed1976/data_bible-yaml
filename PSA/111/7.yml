@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 111:7" class="v">7</span>The
+  works of his hands <span class="add">are</span> verity and judgment; all his
+  commandments <span class="add">are</span> sure.</p>
+id: PSA/111/7
+next:
+  id: PSA/111/8
+  number: '8'
+previous:
+  id: PSA/111/6
+  number: '6'
+reference: 'Psalms 111:7'

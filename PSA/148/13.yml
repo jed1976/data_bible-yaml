@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 148:13"
+  class="v">13</span>Let them praise the name of the <span
+  class="nd">LORD</span>: for his name alone is excellent; his glory <span
+  class="add">is</span> above the earth and heaven.</p>
+id: PSA/148/13
+next:
+  id: PSA/148/14
+  number: '14'
+previous:
+  id: PSA/148/12
+  number: '12'
+reference: 'Psalms 148:13'

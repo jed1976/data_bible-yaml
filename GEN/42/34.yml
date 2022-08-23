@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 42:34"
+  class="v">34</span>And bring your youngest brother unto me: then shall I know
+  that ye <span class="add">are</span> no spies, but <span
+  class="add">that</span> ye <span class="add">are</span> true <span
+  class="add">men: so</span> will I deliver you your brother, and ye shall
+  traffick in the land.</p>
+id: GEN/42/34
+next:
+  id: GEN/42/35
+  number: '35'
+previous:
+  id: GEN/42/33
+  number: '33'
+reference: 'Genesis 42:34'

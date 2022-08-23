@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 30:4" class="v">4</span>And
+  her father hear her vow, and her bond wherewith she hath bound her soul, and
+  her father shall hold his peace at her: then all her vows shall stand, and
+  every bond wherewith she hath bound her soul shall stand. </p>
+id: NUM/30/4
+next:
+  id: NUM/30/5
+  number: '5'
+previous:
+  id: NUM/30/3
+  number: '3'
+reference: 'Numbers 30:4'

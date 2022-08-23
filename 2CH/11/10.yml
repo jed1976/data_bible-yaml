@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 11:10"
+  class="v">10</span>And Zorah, and Aijalon, and Hebron, which <span
+  class="add">are</span> in Judah and in Benjamin fenced cities. </p>
+id: 2CH/11/10
+next:
+  id: 2CH/11/11
+  number: '11'
+previous:
+  id: 2CH/11/9
+  number: '9'
+reference: '2 Chronicles 11:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DAN 2:32"
+  class="v">32</span>This image’s head <span class="add">was</span> of fine
+  gold, his breast and his arms of silver, his belly and his thighs of brass,
+  </p>
+id: DAN/2/32
+next:
+  id: DAN/2/33
+  number: '33'
+previous:
+  id: DAN/2/31
+  number: '31'
+reference: 'Daniel 2:32'

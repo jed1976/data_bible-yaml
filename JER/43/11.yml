@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 43:11"
+  class="v">11</span>And when he cometh, he shall smite the land of Egypt, <span
+  class="add">and deliver</span> such <span class="add">as are</span> for death
+  to death; and such <span class="add">as are</span> for captivity to captivity;
+  and such <span class="add">as are</span> for the sword to the sword. </p>
+id: JER/43/11
+next:
+  id: JER/43/12
+  number: '12'
+previous:
+  id: JER/43/10
+  number: '10'
+reference: 'Jeremiah 43:11'

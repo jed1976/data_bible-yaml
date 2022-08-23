@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 3:12"
+  class="v">12</span>Then the spirit took me up, and I heard behind me a voice
+  of a great rushing, <span class="add">saying</span>, Blessed <span
+  class="add">be</span> the glory of the <span class="nd">LORD</span> from his
+  place. </p>
+id: EZK/3/12
+next:
+  id: EZK/3/13
+  number: '13'
+previous:
+  id: EZK/3/11
+  number: '11'
+reference: 'Ezekiel 3:12'

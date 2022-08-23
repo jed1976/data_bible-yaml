@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 3:14" class="v">14</span>But
+  ye denied the Holy One and the Just, and desired a murderer to be granted unto
+  you; </p>
+id: ACT/3/14
+next:
+  id: ACT/3/15
+  number: '15'
+previous:
+  id: ACT/3/13
+  number: '13'
+reference: 'Acts 3:14'

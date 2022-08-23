@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 2:13" class="v">13</span>The
+  fig tree putteth forth her green figs, and the vines <span
+  class="add">with</span> the tender grape give a <span class="add">good</span>
+  smell. Arise, my love, my fair one, and come away.</p>
+id: SNG/2/13
+next:
+  id: SNG/2/14
+  number: '14'
+previous:
+  id: SNG/2/12
+  number: '12'
+reference: 'Song of Solomon 2:13'

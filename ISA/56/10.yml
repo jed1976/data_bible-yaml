@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 56:10"
+  class="v">10</span>His watchmen <span class="add">are</span> blind: they are
+  all ignorant, they <span class="add">are</span> all dumb dogs, they cannot
+  bark; sleeping, lying down, loving to slumber. </p>
+id: ISA/56/10
+next:
+  id: ISA/56/11
+  number: '11'
+previous:
+  id: ISA/56/9
+  number: '9'
+reference: 'Isaiah 56:10'

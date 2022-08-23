@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 27:32"
+  class="v">32</span>And as they came out, they found a man of Cyrene, Simon by
+  name: him they compelled to bear his cross. </p>
+id: MAT/27/32
+next:
+  id: MAT/27/33
+  number: '33'
+previous:
+  id: MAT/27/31
+  number: '31'
+reference: 'Matthew 27:32'

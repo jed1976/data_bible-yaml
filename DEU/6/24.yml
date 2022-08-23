@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 6:24" class="v">24</span>And
+  the <span class="nd">LORD</span> commanded us to do all these statutes, to
+  fear the <span class="nd">LORD</span> our God, for our good always, that he
+  might preserve us alive, as <span class="add">it is</span> at this day. </p>
+id: DEU/6/24
+next:
+  id: DEU/6/25
+  number: '25'
+previous:
+  id: DEU/6/23
+  number: '23'
+reference: 'Deuteronomy 6:24'

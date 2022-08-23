@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DAN 5:30" class="v">30</span>¶
+  In that night was Belshazzar the king of the Chaldeans slain. </p>
+id: DAN/5/30
+next:
+  id: DAN/5/31
+  number: '31'
+previous:
+  id: DAN/5/29
+  number: '29'
+reference: 'Daniel 5:30'

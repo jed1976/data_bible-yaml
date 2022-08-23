@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 2:7" class="v">7</span>And
+  the men pursued after them the way to Jordan unto the fords: and as soon as
+  they which pursued after them were gone out, they shut the gate.</p>
+id: JOS/2/7
+next:
+  id: JOS/2/8
+  number: '8'
+previous:
+  id: JOS/2/6
+  number: '6'
+reference: 'Joshua 2:7'

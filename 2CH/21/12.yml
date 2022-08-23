@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 21:12" class="v">12</span>¶
+  And there came a writing to him from Elijah the prophet, saying, Thus saith
+  the <span class="nd">LORD</span> God of David thy father, Because thou hast
+  not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king
+  of Judah, </p>
+id: 2CH/21/12
+next:
+  id: 2CH/21/13
+  number: '13'
+previous:
+  id: 2CH/21/11
+  number: '11'
+reference: '2 Chronicles 21:12'

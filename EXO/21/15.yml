@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 21:15" class="v">15</span>¶
+  And he that smiteth his father, or his mother, shall be surely put to
+  death.</p>
+id: EXO/21/15
+next:
+  id: EXO/21/16
+  number: '16'
+previous:
+  id: EXO/21/14
+  number: '14'
+reference: 'Exodus 21:15'

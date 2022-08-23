@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 6:1" class="v">1</span>Now it
+  came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest
+  of our enemies, heard that I had builded the wall, and <span
+  class="add">that</span> there was no breach left therein; (though at that time
+  I had not set up the doors upon the gates;) </p>
+id: NEH/6/1
+next:
+  id: NEH/6/2
+  number: '2'
+previous:
+  id: NEH/5/19
+  number: '19'
+reference: 'Nehemiah 6:1'

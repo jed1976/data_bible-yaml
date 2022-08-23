@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 24:21"
+  class="v">21</span><span class="wj">For then shall be great tribulation, such
+  as was not since the beginning of the world to this time, no, nor ever shall
+  be.</span> </p>
+id: MAT/24/21
+next:
+  id: MAT/24/22
+  number: '22'
+previous:
+  id: MAT/24/20
+  number: '20'
+reference: 'Matthew 24:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 7:8" class="v">8</span>And
+  here men that die receive tithes; but there he <span class="add">receiveth
+  them</span>, of whom it is witnessed that he liveth. </p>
+id: HEB/7/8
+next:
+  id: HEB/7/9
+  number: '9'
+previous:
+  id: HEB/7/7
+  number: '7'
+reference: 'Hebrews 7:8'

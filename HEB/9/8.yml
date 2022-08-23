@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 9:8" class="v">8</span>The
+  Holy Ghost this signifying, that the way into the holiest of all was not yet
+  made manifest, while as the first tabernacle was yet standing: </p>
+id: HEB/9/8
+next:
+  id: HEB/9/9
+  number: '9'
+previous:
+  id: HEB/9/7
+  number: '7'
+reference: 'Hebrews 9:8'

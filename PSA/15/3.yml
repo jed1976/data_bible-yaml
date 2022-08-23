@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 15:3"
+  class="v">3</span><span class="add">He that</span> backbiteth not with his
+  tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his
+  neighbour.</p>
+id: PSA/15/3
+next:
+  id: PSA/15/4
+  number: '4'
+previous:
+  id: PSA/15/2
+  number: '2'
+reference: 'Psalms 15:3'

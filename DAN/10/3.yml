@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 10:3" class="v">3</span>I ate
+  no pleasant bread, neither came flesh nor wine in my mouth, neither did I
+  anoint myself at all, till three whole weeks were fulfilled. </p>
+id: DAN/10/3
+next:
+  id: DAN/10/4
+  number: '4'
+previous:
+  id: DAN/10/2
+  number: '2'
+reference: 'Daniel 10:3'

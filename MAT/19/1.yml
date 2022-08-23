@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 19:1" class="v">1</span>And
+  it came to pass, <span class="add">that</span> when Jesus had finished these
+  sayings, he departed from Galilee, and came into the coasts of Judaea beyond
+  Jordan; </p>
+id: MAT/19/1
+next:
+  id: MAT/19/2
+  number: '2'
+previous:
+  id: MAT/18/35
+  number: '35'
+reference: 'Matthew 19:1'

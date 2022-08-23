@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2SA 17:8" class="v">8</span>For,
+  said Hushai, thou knowest thy father and his men, that they <span
+  class="add">be</span> mighty men, and they <span class="add">be</span> chafed
+  in their minds, as a bear robbed of her whelps in the field: and thy father
+  <span class="add">is</span> a man of war, and will not lodge with the people.
+  </p>
+id: 2SA/17/8
+next:
+  id: 2SA/17/9
+  number: '9'
+previous:
+  id: 2SA/17/7
+  number: '7'
+reference: '2 Samuel 17:8'

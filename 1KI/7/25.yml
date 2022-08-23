@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 7:25" class="v">25</span>It
+  stood upon twelve oxen, three looking toward the north, and three looking
+  toward the west, and three looking toward the south, and three looking toward
+  the east: and the sea <span class="add">was set</span> above upon them, and
+  all their hinder parts <span class="add">were</span> inward. </p>
+id: 1KI/7/25
+next:
+  id: 1KI/7/26
+  number: '26'
+previous:
+  id: 1KI/7/24
+  number: '24'
+reference: '1 Kings 7:25'

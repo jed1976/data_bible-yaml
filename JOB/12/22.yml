@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 12:22" class="v">22</span>He
+  discovereth deep things out of darkness, and bringeth out to light the shadow
+  of death. </p>
+id: JOB/12/22
+next:
+  id: JOB/12/23
+  number: '23'
+previous:
+  id: JOB/12/21
+  number: '21'
+reference: 'Job 12:22'

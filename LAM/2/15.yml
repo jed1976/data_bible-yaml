@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LAM 2:15" class="v">15</span>All
+  that pass by clap <span class="add">their</span> hands at thee; they hiss and
+  wag their head at the daughter of Jerusalem, <span class="add">saying,
+  Is</span> this the city that <span class="add">men</span> call The perfection
+  of beauty, The joy of the whole earth? </p>
+id: LAM/2/15
+next:
+  id: LAM/2/16
+  number: '16'
+previous:
+  id: LAM/2/14
+  number: '14'
+reference: 'Lamentations 2:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 9:12" class="v">12</span>And
+  they said, <span class="add">It is</span> false; tell us now. And he said,
+  Thus and thus spake he to me, saying, Thus saith the <span
+  class="nd">LORD</span>, I have anointed thee king over Israel. </p>
+id: 2KI/9/12
+next:
+  id: 2KI/9/13
+  number: '13'
+previous:
+  id: 2KI/9/11
+  number: '11'
+reference: '2 Kings 9:12'

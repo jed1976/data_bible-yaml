@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 9:19" class="v">19</span>If
+  <span class="add">I speak</span> of strength, lo, <span class="add">he
+  is</span> strong: and if of judgment, who shall set me a time <span
+  class="add">to plead</span>? </p>
+id: JOB/9/19
+next:
+  id: JOB/9/20
+  number: '20'
+previous:
+  id: JOB/9/18
+  number: '18'
+reference: 'Job 9:19'

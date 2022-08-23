@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 28:25"
+  class="v">25</span>And on the seventh day ye shall have an holy convocation;
+  ye shall do no servile work.</p>
+id: NUM/28/25
+next:
+  id: NUM/28/26
+  number: '26'
+previous:
+  id: NUM/28/24
+  number: '24'
+reference: 'Numbers 28:25'

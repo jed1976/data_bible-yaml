@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 24:18"
+  class="v">18</span>Whereupon certain Jews from Asia found me purified in the
+  temple, neither with multitude, nor with tumult. </p>
+id: ACT/24/18
+next:
+  id: ACT/24/19
+  number: '19'
+previous:
+  id: ACT/24/17
+  number: '17'
+reference: 'Acts 24:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 17:4" class="v">4</span>And
+  it shall be, <span class="add">that</span> thou shalt drink of the brook; and
+  I have commanded the ravens to feed thee there. </p>
+id: 1KI/17/4
+next:
+  id: 1KI/17/5
+  number: '5'
+previous:
+  id: 1KI/17/3
+  number: '3'
+reference: '1 Kings 17:4'

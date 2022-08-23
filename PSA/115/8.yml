@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 115:8"
+  class="v">8</span>They that make them are like unto them; <span class="add">so
+  is</span> every one that trusteth in them.</p>
+id: PSA/115/8
+next:
+  id: PSA/115/9
+  number: '9'
+previous:
+  id: PSA/115/7
+  number: '7'
+reference: 'Psalms 115:8'

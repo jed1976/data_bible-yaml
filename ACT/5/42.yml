@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 5:42" class="v">42</span>And
+  daily in the temple, and in every house, they ceased not to teach and preach
+  Jesus Christ.</p>
+id: ACT/5/42
+next:
+  id: ACT/6/1
+  number: '1'
+previous:
+  id: ACT/5/41
+  number: '41'
+reference: 'Acts 5:42'

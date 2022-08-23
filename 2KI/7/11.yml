@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 7:11" class="v">11</span>And
+  he called the porters; and they told <span class="add">it</span> to the king’s
+  house within.</p>
+id: 2KI/7/11
+next:
+  id: 2KI/7/12
+  number: '12'
+previous:
+  id: 2KI/7/10
+  number: '10'
+reference: '2 Kings 7:11'

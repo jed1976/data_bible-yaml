@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 16:15" class="v">15</span>He
+  saith unto them, <span class="wj">But whom say ye that I am?</span> </p>
+id: MAT/16/15
+next:
+  id: MAT/16/16
+  number: '16'
+previous:
+  id: MAT/16/14
+  number: '14'
+reference: 'Matthew 16:15'

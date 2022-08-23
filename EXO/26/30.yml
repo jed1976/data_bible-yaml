@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 26:30"
+  class="v">30</span>And thou shalt rear up the tabernacle according to the
+  fashion thereof which was shewed thee in the mount.</p>
+id: EXO/26/30
+next:
+  id: EXO/26/31
+  number: '31'
+previous:
+  id: EXO/26/29
+  number: '29'
+reference: 'Exodus 26:30'

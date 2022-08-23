@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 9:5" class="v">5</span>And
+  the Lord <span class="nd">GOD</span> of hosts <span class="add">is</span> he
+  that toucheth the land, and it shall melt, and all that dwell therein shall
+  mourn: and it shall rise up wholly like a flood; and shall be drowned, as
+  <span class="add">by</span> the flood of Egypt. </p>
+id: AMO/9/5
+next:
+  id: AMO/9/6
+  number: '6'
+previous:
+  id: AMO/9/4
+  number: '4'
+reference: 'Amos 9:5'

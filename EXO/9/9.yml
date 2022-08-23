@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 9:9" class="v">9</span>And it
+  shall become small dust in all the land of Egypt, and shall be a boil breaking
+  forth <span class="add">with</span> blains upon man, and upon beast,
+  throughout all the land of Egypt. </p>
+id: EXO/9/9
+next:
+  id: EXO/9/10
+  number: '10'
+previous:
+  id: EXO/9/8
+  number: '8'
+reference: 'Exodus 9:9'

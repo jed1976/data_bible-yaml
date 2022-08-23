@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 20:10" class="v">10</span>¶
+  When thou comest nigh unto a city to fight against it, then proclaim peace
+  unto it. </p>
+id: DEU/20/10
+next:
+  id: DEU/20/11
+  number: '11'
+previous:
+  id: DEU/20/9
+  number: '9'
+reference: 'Deuteronomy 20:10'

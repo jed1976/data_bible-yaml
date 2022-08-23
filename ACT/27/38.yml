@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 27:38"
+  class="v">38</span>And when they had eaten enough, they lightened the ship,
+  and cast out the wheat into the sea. </p>
+id: ACT/27/38
+next:
+  id: ACT/27/39
+  number: '39'
+previous:
+  id: ACT/27/37
+  number: '37'
+reference: 'Acts 27:38'

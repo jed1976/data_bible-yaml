@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 28:30"
+  class="v">30</span>Thou shalt betroth a wife, and another man shall lie with
+  her: thou shalt build an house, and thou shalt not dwell therein: thou shalt
+  plant a vineyard, and shalt not gather the grapes thereof. </p>
+id: DEU/28/30
+next:
+  id: DEU/28/31
+  number: '31'
+previous:
+  id: DEU/28/29
+  number: '29'
+reference: 'Deuteronomy 28:30'

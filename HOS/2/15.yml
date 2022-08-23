@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HOS 2:15" class="v">15</span>And
+  I will give her her vineyards from thence, and the valley of Achor for a door
+  of hope: and she shall sing there, as in the days of her youth, and as in the
+  day when she came up out of the land of Egypt. </p>
+id: HOS/2/15
+next:
+  id: HOS/2/16
+  number: '16'
+previous:
+  id: HOS/2/14
+  number: '14'
+reference: 'Hosea 2:15'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 12:13" class="v">13</span>¶
+  And after him Abdon the son of Hillel, a Pirathonite, judged Israel. </p>
+id: JDG/12/13
+next:
+  id: JDG/12/14
+  number: '14'
+previous:
+  id: JDG/12/12
+  number: '12'
+reference: 'Judges 12:13'

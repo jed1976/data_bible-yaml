@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 5:21"
+  class="v">21</span><span class="wj">For as the Father raiseth up the dead, and
+  quickeneth <span class="add">them</span>; even so the Son quickeneth whom he
+  will.</span> </p>
+id: JHN/5/21
+next:
+  id: JHN/5/22
+  number: '22'
+previous:
+  id: JHN/5/20
+  number: '20'
+reference: 'John 5:21'

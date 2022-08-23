@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 25:8" class="v">8</span>And
+  he went after the man of Israel into the tent, and thrust both of them
+  through, the man of Israel, and the woman through her belly. So the plague was
+  stayed from the children of Israel. </p>
+id: NUM/25/8
+next:
+  id: NUM/25/9
+  number: '9'
+previous:
+  id: NUM/25/7
+  number: '7'
+reference: 'Numbers 25:8'

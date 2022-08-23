@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 2:11" class="v">11</span>No
+  meat offering, which ye shall bring unto the <span class="nd">LORD</span>,
+  shall be made with leaven: for ye shall burn no leaven, nor any honey, in any
+  offering of the <span class="nd">LORD</span> made by fire.</p>
+id: LEV/2/11
+next:
+  id: LEV/2/12
+  number: '12'
+previous:
+  id: LEV/2/10
+  number: '10'
+reference: 'Leviticus 2:11'

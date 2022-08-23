@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 112:5" class="v">5</span>A
+  good man sheweth favour, and lendeth: he will guide his affairs with
+  discretion.</p>
+id: PSA/112/5
+next:
+  id: PSA/112/6
+  number: '6'
+previous:
+  id: PSA/112/4
+  number: '4'
+reference: 'Psalms 112:5'

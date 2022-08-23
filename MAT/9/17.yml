@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 9:17"
+  class="v">17</span><span class="wj">Neither do men put new wine into old
+  bottles: else the bottles break, and the wine runneth out, and the bottles
+  perish: but they put new wine into new bottles, and both are
+  preserved.</span></p>
+id: MAT/9/17
+next:
+  id: MAT/9/18
+  number: '18'
+previous:
+  id: MAT/9/16
+  number: '16'
+reference: 'Matthew 9:17'

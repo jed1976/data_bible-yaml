@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="ACT 2:41" class="v">41</span>¶
+  Then they that gladly received his word were baptized: and the same day there
+  were added <span class="add">unto them</span> about three thousand souls. </p>
+id: ACT/2/41
+next:
+  id: ACT/2/42
+  number: '42'
+previous:
+  id: ACT/2/40
+  number: '40'
+reference: 'Acts 2:41'

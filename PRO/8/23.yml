@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 8:23" class="v">23</span>I
+  was set up from everlasting, from the beginning, or ever the earth was. </p>
+id: PRO/8/23
+next:
+  id: PRO/8/24
+  number: '24'
+previous:
+  id: PRO/8/22
+  number: '22'
+reference: 'Proverbs 8:23'

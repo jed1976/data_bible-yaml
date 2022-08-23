@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 23:1" class="v">1</span>The <span class="nd">LORD</span> <span
+  class="add">is</span> my shepherd; I shall not want.</p>
+id: PSA/23/1
+next:
+  id: PSA/23/2
+  number: '2'
+previous:
+  id: PSA/22/31
+  number: '31'
+reference: 'Psalms 23:1'

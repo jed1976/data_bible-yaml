@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEC 4:13" class="v">13</span>And
+  he answered me and said, Knowest thou not what these <span
+  class="add">be</span>? And I said, No, my lord. </p>
+id: ZEC/4/13
+next:
+  id: ZEC/4/14
+  number: '14'
+previous:
+  id: ZEC/4/12
+  number: '12'
+reference: 'Zechariah 4:13'

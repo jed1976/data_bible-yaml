@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LAM 4:4" class="v">4</span>The
+  tongue of the sucking child cleaveth to the roof of his mouth for thirst: the
+  young children ask bread, <span class="add">and</span> no man breaketh <span
+  class="add">it</span> unto them. </p>
+id: LAM/4/4
+next:
+  id: LAM/4/5
+  number: '5'
+previous:
+  id: LAM/4/3
+  number: '3'
+reference: 'Lamentations 4:4'

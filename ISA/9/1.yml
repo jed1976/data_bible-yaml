@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 9:1"
+  class="v">1</span>Nevertheless the dimness <span class="add">shall</span> not
+  <span class="add">be</span> such as <span class="add">was</span> in her
+  vexation, when at the first he lightly afflicted the land of Zebulun and the
+  land of Naphtali, and afterward did more grievously afflict <span
+  class="add">her by</span> the way of the sea, beyond Jordan, in Galilee of the
+  nations. </p>
+id: ISA/9/1
+next:
+  id: ISA/9/2
+  number: '2'
+previous:
+  id: ISA/8/22
+  number: '22'
+reference: 'Isaiah 9:1'

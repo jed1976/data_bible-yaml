@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 16:12"
+  class="v">12</span>Salute Tryphena and Tryphosa, who labour in the Lord.
+  Salute the beloved Persis, which laboured much in the Lord. </p>
+id: ROM/16/12
+next:
+  id: ROM/16/13
+  number: '13'
+previous:
+  id: ROM/16/11
+  number: '11'
+reference: 'Romans 16:12'

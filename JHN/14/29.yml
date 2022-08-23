@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 14:29"
+  class="v">29</span><span class="wj">And now I have told you before it come to
+  pass, that, when it is come to pass, ye might believe.</span> </p>
+id: JHN/14/29
+next:
+  id: JHN/14/30
+  number: '30'
+previous:
+  id: JHN/14/28
+  number: '28'
+reference: 'John 14:29'

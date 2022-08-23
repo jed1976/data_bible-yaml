@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 69:23"
+  class="v">23</span>Let their eyes be darkened, that they see not; and make
+  their loins continually to shake.</p>
+id: PSA/69/23
+next:
+  id: PSA/69/24
+  number: '24'
+previous:
+  id: PSA/69/22
+  number: '22'
+reference: 'Psalms 69:23'

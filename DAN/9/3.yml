@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 9:3" class="v">3</span>¶ And
+  I set my face unto the Lord God, to seek by prayer and supplications, with
+  fasting, and sackcloth, and ashes:</p>
+id: DAN/9/3
+next:
+  id: DAN/9/4
+  number: '4'
+previous:
+  id: DAN/9/2
+  number: '2'
+reference: 'Daniel 9:3'

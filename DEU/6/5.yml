@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 6:5" class="v">5</span>And
+  thou shalt love the <span class="nd">LORD</span> thy God with all thine heart,
+  and with all thy soul, and with all thy might. </p>
+id: DEU/6/5
+next:
+  id: DEU/6/6
+  number: '6'
+previous:
+  id: DEU/6/4
+  number: '4'
+reference: 'Deuteronomy 6:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 141:7" class="v">7</span>Our
+  bones are scattered at the grave’s mouth, as when one cutteth and cleaveth
+  <span class="add">wood</span> upon the earth.</p>
+id: PSA/141/7
+next:
+  id: PSA/141/8
+  number: '8'
+previous:
+  id: PSA/141/6
+  number: '6'
+reference: 'Psalms 141:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 24:1" class="v">1</span>Again
+  in the ninth year, in the tenth month, in the tenth <span
+  class="add">day</span> of the month, the word of the <span
+  class="nd">LORD</span> came unto me, saying, </p>
+id: EZK/24/1
+next:
+  id: EZK/24/2
+  number: '2'
+previous:
+  id: EZK/23/49
+  number: '49'
+reference: 'Ezekiel 24:1'

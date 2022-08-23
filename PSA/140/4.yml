@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 140:4"
+  class="v">4</span>Keep me, O <span class="nd">LORD</span>, from the hands of
+  the wicked; preserve me from the violent man; who have purposed to overthrow
+  my goings.</p>
+id: PSA/140/4
+next:
+  id: PSA/140/5
+  number: '5'
+previous:
+  id: PSA/140/3
+  number: '3'
+reference: 'Psalms 140:4'

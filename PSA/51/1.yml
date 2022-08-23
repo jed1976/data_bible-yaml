@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David, when Nathan the prophet
+  came unto him, after he had gone in to Bath-sheba.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 51:1" class="v">1</span>Have mercy upon me, O
+  God, according to thy lovingkindness: according unto the multitude of thy
+  tender mercies blot out my transgressions.</p>
+id: PSA/51/1
+next:
+  id: PSA/51/2
+  number: '2'
+previous:
+  id: PSA/50/23
+  number: '23'
+reference: 'Psalms 51:1'

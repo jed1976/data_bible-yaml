@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 10:14" class="v">14</span>¶
+  In the first <span class="add">place</span> went the standard of the camp of
+  the children of Judah according to their armies: and over his host <span
+  class="add">was</span> Nahshon the son of Amminadab. </p>
+id: NUM/10/14
+next:
+  id: NUM/10/15
+  number: '15'
+previous:
+  id: NUM/10/13
+  number: '13'
+reference: 'Numbers 10:14'

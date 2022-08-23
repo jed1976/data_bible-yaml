@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 5:4" class="v">4</span>And no
+  man taketh this honour unto himself, but he that is called of God, as <span
+  class="add">was</span> Aaron. </p>
+id: HEB/5/4
+next:
+  id: HEB/5/5
+  number: '5'
+previous:
+  id: HEB/5/3
+  number: '3'
+reference: 'Hebrews 5:4'

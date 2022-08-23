@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 13:22" class="v">22</span>¶
+  And if thou say in thine heart, Wherefore come these things upon me? For the
+  greatness of thine iniquity are thy skirts discovered, <span
+  class="add">and</span> thy heels made bare. </p>
+id: JER/13/22
+next:
+  id: JER/13/23
+  number: '23'
+previous:
+  id: JER/13/21
+  number: '21'
+reference: 'Jeremiah 13:22'

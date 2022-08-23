@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 13:4" class="v">4</span>And
+  Jehoahaz besought the <span class="nd">LORD</span>, and the <span
+  class="nd">LORD</span> hearkened unto him: for he saw the oppression of
+  Israel, because the king of Syria oppressed them. </p>
+id: 2KI/13/4
+next:
+  id: 2KI/13/5
+  number: '5'
+previous:
+  id: 2KI/13/3
+  number: '3'
+reference: '2 Kings 13:4'

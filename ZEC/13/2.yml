@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ZEC 13:2" class="v">2</span>¶ And
+  it shall come to pass in that day, saith the <span class="nd">LORD</span> of
+  hosts, <span class="add">that</span> I will cut off the names of the idols out
+  of the land, and they shall no more be remembered: and also I will cause the
+  prophets and the unclean spirit to pass out of the land. </p>
+id: ZEC/13/2
+next:
+  id: ZEC/13/3
+  number: '3'
+previous:
+  id: ZEC/13/1
+  number: '1'
+reference: 'Zechariah 13:2'

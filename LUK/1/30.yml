@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 1:30" class="v">30</span>And
+  the angel said unto her, Fear not, Mary: for thou hast found favour with God.
+  </p>
+id: LUK/1/30
+next:
+  id: LUK/1/31
+  number: '31'
+previous:
+  id: LUK/1/29
+  number: '29'
+reference: 'Luke 1:30'

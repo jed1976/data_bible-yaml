@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 27:9" class="v">9</span>Go
+  now to the flock, and fetch me from thence two good kids of the goats; and I
+  will make them savoury meat for thy father, such as he loveth: </p>
+id: GEN/27/9
+next:
+  id: GEN/27/10
+  number: '10'
+previous:
+  id: GEN/27/8
+  number: '8'
+reference: 'Genesis 27:9'

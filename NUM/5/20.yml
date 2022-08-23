@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 5:20" class="v">20</span>But
+  if thou hast gone aside <span class="add">to another</span> instead of thy
+  husband, and if thou be defiled, and some man have lain with thee beside thine
+  husband: </p>
+id: NUM/5/20
+next:
+  id: NUM/5/21
+  number: '21'
+previous:
+  id: NUM/5/19
+  number: '19'
+reference: 'Numbers 5:20'

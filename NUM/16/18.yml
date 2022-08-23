@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 16:18"
+  class="v">18</span>And they took every man his censer, and put fire in them,
+  and laid incense thereon, and stood in the door of the tabernacle of the
+  congregation with Moses and Aaron. </p>
+id: NUM/16/18
+next:
+  id: NUM/16/19
+  number: '19'
+previous:
+  id: NUM/16/17
+  number: '17'
+reference: 'Numbers 16:18'

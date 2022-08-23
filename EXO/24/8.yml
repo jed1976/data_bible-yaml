@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 24:8" class="v">8</span>And
+  Moses took the blood, and sprinkled <span class="add">it</span> on the people,
+  and said, Behold the blood of the covenant, which the <span
+  class="nd">LORD</span> hath made with you concerning all these words.</p>
+id: EXO/24/8
+next:
+  id: EXO/24/9
+  number: '9'
+previous:
+  id: EXO/24/7
+  number: '7'
+reference: 'Exodus 24:8'

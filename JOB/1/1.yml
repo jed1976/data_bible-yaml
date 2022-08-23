@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 1:1" class="v">1</span>There
+  was a man in the land of Uz, whose name <span class="add">was</span> Job; and
+  that man was perfect and upright, and one that feared God, and eschewed evil.
+  </p>
+id: JOB/1/1
+next:
+  id: JOB/1/2
+  number: '2'
+previous:
+  id: JOB/intro/0
+  number: '0'
+reference: 'Job 1:1'

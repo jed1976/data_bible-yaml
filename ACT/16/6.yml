@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 16:6" class="v">6</span>Now
+  when they had gone throughout Phrygia and the region of Galatia, and were
+  forbidden of the Holy Ghost to preach the word in Asia, </p>
+id: ACT/16/6
+next:
+  id: ACT/16/7
+  number: '7'
+previous:
+  id: ACT/16/5
+  number: '5'
+reference: 'Acts 16:6'

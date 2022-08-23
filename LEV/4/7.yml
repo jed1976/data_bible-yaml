@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 4:7" class="v">7</span>And
+  the priest shall put <span class="add">some</span> of the blood upon the horns
+  of the altar of sweet incense before the <span class="nd">LORD</span>, which
+  <span class="add">is</span> in the tabernacle of the congregation; and shall
+  pour all the blood of the bullock at the bottom of the altar of the burnt
+  offering, which <span class="add">is at</span> the door of the tabernacle of
+  the congregation. </p>
+id: LEV/4/7
+next:
+  id: LEV/4/8
+  number: '8'
+previous:
+  id: LEV/4/6
+  number: '6'
+reference: 'Leviticus 4:7'

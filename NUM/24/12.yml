@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 24:12"
+  class="v">12</span>And Balaam said unto Balak, Spake I not also to thy
+  messengers which thou sentest unto me, saying, </p>
+id: NUM/24/12
+next:
+  id: NUM/24/13
+  number: '13'
+previous:
+  id: NUM/24/11
+  number: '11'
+reference: 'Numbers 24:12'

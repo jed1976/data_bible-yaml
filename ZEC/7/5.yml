@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 7:5" class="v">5</span>Speak
+  unto all the people of the land, and to the priests, saying, When ye fasted
+  and mourned in the fifth and seventh <span class="add">month</span>, even
+  those seventy years, did ye at all fast unto me, <span class="add">even</span>
+  to me? </p>
+id: ZEC/7/5
+next:
+  id: ZEC/7/6
+  number: '6'
+previous:
+  id: ZEC/7/4
+  number: '4'
+reference: 'Zechariah 7:5'

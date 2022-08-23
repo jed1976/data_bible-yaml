@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 12:33"
+  class="v">33</span>And to love him with all the heart, and with all the
+  understanding, and with all the soul, and with all the strength, and to love
+  <span class="add">his</span> neighbour as himself, is more than all whole
+  burnt offerings and sacrifices. </p>
+id: MRK/12/33
+next:
+  id: MRK/12/34
+  number: '34'
+previous:
+  id: MRK/12/32
+  number: '32'
+reference: 'Mark 12:33'

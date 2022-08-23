@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 3:12"
+  class="v">12</span><span class="wj">If I have told you earthly things, and ye
+  believe not, how shall ye believe, if I tell you <span class="add">of</span>
+  heavenly things?</span> </p>
+id: JHN/3/12
+next:
+  id: JHN/3/13
+  number: '13'
+previous:
+  id: JHN/3/11
+  number: '11'
+reference: 'John 3:12'

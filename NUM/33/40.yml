@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 33:40"
+  class="v">40</span>And king Arad the Canaanite, which dwelt in the south in
+  the land of Canaan, heard of the coming of the children of Israel. </p>
+id: NUM/33/40
+next:
+  id: NUM/33/41
+  number: '41'
+previous:
+  id: NUM/33/39
+  number: '39'
+reference: 'Numbers 33:40'

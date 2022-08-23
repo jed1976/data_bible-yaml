@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 9:4" class="v">4</span>Speak
+  not thou in thine heart, after that the <span class="nd">LORD</span> thy God
+  hath cast them out from before thee, saying, For my righteousness the <span
+  class="nd">LORD</span> hath brought me in to possess this land: but for the
+  wickedness of these nations the <span class="nd">LORD</span> doth drive them
+  out from before thee. </p>
+id: DEU/9/4
+next:
+  id: DEU/9/5
+  number: '5'
+previous:
+  id: DEU/9/3
+  number: '3'
+reference: 'Deuteronomy 9:4'

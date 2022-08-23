@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 73:6"
+  class="v">6</span>Therefore pride compasseth them about as a chain; violence
+  covereth them <span class="add">as</span> a garment.</p>
+id: PSA/73/6
+next:
+  id: PSA/73/7
+  number: '7'
+previous:
+  id: PSA/73/5
+  number: '5'
+reference: 'Psalms 73:6'

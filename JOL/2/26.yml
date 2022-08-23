@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOL 2:26" class="v">26</span>And
+  ye shall eat in plenty, and be satisfied, and praise the name of the <span
+  class="nd">LORD</span> your God, that hath dealt wondrously with you: and my
+  people shall never be ashamed. </p>
+id: JOL/2/26
+next:
+  id: JOL/2/27
+  number: '27'
+previous:
+  id: JOL/2/25
+  number: '25'
+reference: 'Joel 2:26'

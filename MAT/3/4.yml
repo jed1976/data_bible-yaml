@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 3:4" class="v">4</span>And
+  the same John had his raiment of camel’s hair, and a leathern girdle about his
+  loins; and his meat was locusts and wild honey. </p>
+id: MAT/3/4
+next:
+  id: MAT/3/5
+  number: '5'
+previous:
+  id: MAT/3/3
+  number: '3'
+reference: 'Matthew 3:4'

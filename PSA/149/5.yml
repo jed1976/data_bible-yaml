@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 149:5" class="v">5</span>Let
+  the saints be joyful in glory: let them sing aloud upon their beds.</p>
+id: PSA/149/5
+next:
+  id: PSA/149/6
+  number: '6'
+previous:
+  id: PSA/149/4
+  number: '4'
+reference: 'Psalms 149:5'

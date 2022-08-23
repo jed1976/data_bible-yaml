@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 50:24"
+  class="v">24</span>And Joseph said unto his brethren, I die: and God will
+  surely visit you, and bring you out of this land unto the land which he sware
+  to Abraham, to Isaac, and to Jacob. </p>
+id: GEN/50/24
+next:
+  id: GEN/50/25
+  number: '25'
+previous:
+  id: GEN/50/23
+  number: '23'
+reference: 'Genesis 50:24'

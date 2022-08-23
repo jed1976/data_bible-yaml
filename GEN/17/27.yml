@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 17:27"
+  class="v">27</span>And all the men of his house, born in the house, and bought
+  with money of the stranger, were circumcised with him.</p>
+id: GEN/17/27
+next:
+  id: GEN/18/1
+  number: '1'
+previous:
+  id: GEN/17/26
+  number: '26'
+reference: 'Genesis 17:27'

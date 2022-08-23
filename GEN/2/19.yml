@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 2:19" class="v">19</span>And
+  out of the ground the <span class="nd">LORD</span> God formed every beast of
+  the field, and every fowl of the air; and brought <span
+  class="add">them</span> unto Adam to see what he would call them: and
+  whatsoever Adam called every living creature, that <span
+  class="add">was</span> the name thereof. </p>
+id: GEN/2/19
+next:
+  id: GEN/2/20
+  number: '20'
+previous:
+  id: GEN/2/18
+  number: '18'
+reference: 'Genesis 2:19'

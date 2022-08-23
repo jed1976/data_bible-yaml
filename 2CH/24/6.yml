@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CH 24:6" class="v">6</span>And
+  the king called for Jehoiada the chief, and said unto him, Why hast thou not
+  required of the Levites to bring in out of Judah and out of Jerusalem the
+  collection, <span class="add">according to the commandment</span> of Moses the
+  servant of the <span class="nd">LORD</span>, and of the congregation of
+  Israel, for the tabernacle of witness? </p>
+id: 2CH/24/6
+next:
+  id: 2CH/24/7
+  number: '7'
+previous:
+  id: 2CH/24/5
+  number: '5'
+reference: '2 Chronicles 24:6'

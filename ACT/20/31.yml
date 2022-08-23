@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 20:31"
+  class="v">31</span>Therefore watch, and remember, that by the space of three
+  years I ceased not to warn every one night and day with tears. </p>
+id: ACT/20/31
+next:
+  id: ACT/20/32
+  number: '32'
+previous:
+  id: ACT/20/30
+  number: '30'
+reference: 'Acts 20:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, <span class="add">A Psalm</span> of David,
+  to bring to remembrance.</p><p class="q1"><span data-number="1" data-sid="PSA
+  70:1" class="v">1</span><span class="add">Make haste</span>, O God, to deliver
+  me; make haste to help me, O <span class="nd">LORD</span>.</p>
+id: PSA/70/1
+next:
+  id: PSA/70/2
+  number: '2'
+previous:
+  id: PSA/69/36
+  number: '36'
+reference: 'Psalms 70:1'

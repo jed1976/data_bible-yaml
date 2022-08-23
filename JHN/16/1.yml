@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 16:1" class="v">1</span><span
+  class="wj">These things have I spoken unto you, that ye should not be
+  offended.</span> </p>
+id: JHN/16/1
+next:
+  id: JHN/16/2
+  number: '2'
+previous:
+  id: JHN/15/27
+  number: '27'
+reference: 'John 16:1'

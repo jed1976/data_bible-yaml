@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 7:27" class="v">27</span>Her
+  house <span class="add">is</span> the way to hell, going down to the chambers
+  of death.</p>
+id: PRO/7/27
+next:
+  id: PRO/8/1
+  number: '1'
+previous:
+  id: PRO/7/26
+  number: '26'
+reference: 'Proverbs 7:27'

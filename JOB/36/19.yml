@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 36:19"
+  class="v">19</span>Will he esteem thy riches? <span class="add">no</span>, not
+  gold, nor all the forces of strength. </p>
+id: JOB/36/19
+next:
+  id: JOB/36/20
+  number: '20'
+previous:
+  id: JOB/36/18
+  number: '18'
+reference: 'Job 36:19'

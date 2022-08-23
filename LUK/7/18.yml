@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 7:18" class="v">18</span>And
+  the disciples of John shewed him of all these things.</p>
+id: LUK/7/18
+next:
+  id: LUK/7/19
+  number: '19'
+previous:
+  id: LUK/7/17
+  number: '17'
+reference: 'Luke 7:18'

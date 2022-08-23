@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="1CO 15:56"
+  class="v">56</span>The sting of death <span class="add">is</span> sin; and the
+  strength of sin <span class="add">is</span> the law. </p>
+id: 1CO/15/56
+next:
+  id: 1CO/15/57
+  number: '57'
+previous:
+  id: 1CO/15/55
+  number: '55'
+reference: '1 Corinthians 15:56'

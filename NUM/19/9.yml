@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 19:9" class="v">9</span>And a
+  man <span class="add">that is</span> clean shall gather up the ashes of the
+  heifer, and lay <span class="add">them</span> up without the camp in a clean
+  place, and it shall be kept for the congregation of the children of Israel for
+  a water of separation: it <span class="add">is</span> a purification for sin.
+  </p>
+id: NUM/19/9
+next:
+  id: NUM/19/10
+  number: '10'
+previous:
+  id: NUM/19/8
+  number: '8'
+reference: 'Numbers 19:9'

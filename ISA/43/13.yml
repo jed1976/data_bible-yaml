@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 43:13"
+  class="v">13</span>Yea, before the day <span class="add">was</span> I <span
+  class="add">am</span> he; and <span class="add">there is</span> none that can
+  deliver out of my hand: I will work, and who shall let it?</p>
+id: ISA/43/13
+next:
+  id: ISA/43/14
+  number: '14'
+previous:
+  id: ISA/43/12
+  number: '12'
+reference: 'Isaiah 43:13'

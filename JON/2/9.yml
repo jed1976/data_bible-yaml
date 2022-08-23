@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JON 2:9" class="v">9</span>But I
+  will sacrifice unto thee with the voice of thanksgiving; I will pay <span
+  class="add">that</span> that I have vowed. Salvation <span
+  class="add">is</span> of the <span class="nd">LORD</span>.</p>
+id: JON/2/9
+next:
+  id: JON/2/10
+  number: '10'
+previous:
+  id: JON/2/8
+  number: '8'
+reference: 'Jonah 2:9'

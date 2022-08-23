@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 5:1" class="v">1</span>And it
+  came to pass, that, as the people pressed upon him to hear the word of God, he
+  stood by the lake of Gennesaret, </p>
+id: LUK/5/1
+next:
+  id: LUK/5/2
+  number: '2'
+previous:
+  id: LUK/4/44
+  number: '44'
+reference: 'Luke 5:1'

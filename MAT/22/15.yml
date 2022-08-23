@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 22:15" class="v">15</span>¶
+  Then went the Pharisees, and took counsel how they might entangle him in <span
+  class="add">his</span> talk. </p>
+id: MAT/22/15
+next:
+  id: MAT/22/16
+  number: '16'
+previous:
+  id: MAT/22/14
+  number: '14'
+reference: 'Matthew 22:15'

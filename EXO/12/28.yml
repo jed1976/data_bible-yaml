@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="EXO 12:28"
+  class="v">28</span>And the children of Israel went away, and did as the <span
+  class="nd">LORD</span> had commanded Moses and Aaron, so did they.</p>
+id: EXO/12/28
+next:
+  id: EXO/12/29
+  number: '29'
+previous:
+  id: EXO/12/27
+  number: '27'
+reference: 'Exodus 12:28'

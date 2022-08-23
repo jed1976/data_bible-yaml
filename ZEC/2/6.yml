@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 2:6" class="v">6</span>¶ Ho,
+  ho, <span class="add">come forth</span>, and flee from the land of the north,
+  saith the <span class="nd">LORD</span>: for I have spread you abroad as the
+  four winds of the heaven, saith the <span class="nd">LORD</span>. </p>
+id: ZEC/2/6
+next:
+  id: ZEC/2/7
+  number: '7'
+previous:
+  id: ZEC/2/5
+  number: '5'
+reference: 'Zechariah 2:6'

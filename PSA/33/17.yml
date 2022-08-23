@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 33:17"
+  class="v">17</span>An horse <span class="add">is</span> a vain thing for
+  safety: neither shall he deliver <span class="add">any</span> by his great
+  strength.</p>
+id: PSA/33/17
+next:
+  id: PSA/33/18
+  number: '18'
+previous:
+  id: PSA/33/16
+  number: '16'
+reference: 'Psalms 33:17'

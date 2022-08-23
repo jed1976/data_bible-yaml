@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 57:3" class="v">3</span>He
+  shall send from heaven, and save me <span class="add">from</span> the reproach
+  of him that would swallow me up. Selah. God shall send forth his mercy and his
+  truth.</p>
+id: PSA/57/3
+next:
+  id: PSA/57/4
+  number: '4'
+previous:
+  id: PSA/57/2
+  number: '2'
+reference: 'Psalms 57:3'

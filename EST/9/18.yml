@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EST 9:18" class="v">18</span>But
+  the Jews that <span class="add">were</span> at Shushan assembled together on
+  the thirteenth <span class="add">day</span> thereof, and on the fourteenth
+  thereof; and on the fifteenth <span class="add">day</span> of the same they
+  rested, and made it a day of feasting and gladness. </p>
+id: EST/9/18
+next:
+  id: EST/9/19
+  number: '19'
+previous:
+  id: EST/9/17
+  number: '17'
+reference: 'Esther 9:18'

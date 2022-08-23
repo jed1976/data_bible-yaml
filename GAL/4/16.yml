@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GAL 4:16" class="v">16</span>Am
+  I therefore become your enemy, because I tell you the truth? </p>
+id: GAL/4/16
+next:
+  id: GAL/4/17
+  number: '17'
+previous:
+  id: GAL/4/15
+  number: '15'
+reference: 'Galatians 4:16'

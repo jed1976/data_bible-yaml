@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 9:4" class="v">4</span>They
+  did work wilily, and went and made as if they had been ambassadors, and took
+  old sacks upon their asses, and wine bottles, old, and rent, and bound up;
+  </p>
+id: JOS/9/4
+next:
+  id: JOS/9/5
+  number: '5'
+previous:
+  id: JOS/9/3
+  number: '3'
+reference: 'Joshua 9:4'

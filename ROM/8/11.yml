@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 8:11" class="v">11</span>But
+  if the Spirit of him that raised up Jesus from the dead dwell in you, he that
+  raised up Christ from the dead shall also quicken your mortal bodies by his
+  Spirit that dwelleth in you.</p>
+id: ROM/8/11
+next:
+  id: ROM/8/12
+  number: '12'
+previous:
+  id: ROM/8/10
+  number: '10'
+reference: 'Romans 8:11'

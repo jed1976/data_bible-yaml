@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 13:4" class="v">4</span>The
+  soul of the sluggard desireth, and <span class="add">hath</span> nothing: but
+  the soul of the diligent shall be made fat. </p>
+id: PRO/13/4
+next:
+  id: PRO/13/5
+  number: '5'
+previous:
+  id: PRO/13/3
+  number: '3'
+reference: 'Proverbs 13:4'

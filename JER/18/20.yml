@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 18:20"
+  class="v">20</span>Shall evil be recompensed for good? for they have digged a
+  pit for my soul. Remember that I stood before thee to speak good for them,
+  <span class="add">and</span> to turn away thy wrath from them. </p>
+id: JER/18/20
+next:
+  id: JER/18/21
+  number: '21'
+previous:
+  id: JER/18/19
+  number: '19'
+reference: 'Jeremiah 18:20'

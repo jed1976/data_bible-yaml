@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 2:9"
+  class="v">9</span>Parthians, and Medes, and Elamites, and the dwellers in
+  Mesopotamia, and in Judæa, and Cappadocia, in Pontus, and Asia, </p>
+id: ACT/2/9
+next:
+  id: ACT/2/10
+  number: '10'
+previous:
+  id: ACT/2/8
+  number: '8'
+reference: 'Acts 2:9'

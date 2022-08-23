@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 22:5" class="v">5</span>He
+  sent messengers therefore unto Balaam the son of Beor to Pethor, which <span
+  class="add">is</span> by the river of the land of the children of his people,
+  to call him, saying, Behold, there is a people come out from Egypt: behold,
+  they cover the face of the earth, and they abide over against me: </p>
+id: NUM/22/5
+next:
+  id: NUM/22/6
+  number: '6'
+previous:
+  id: NUM/22/4
+  number: '4'
+reference: 'Numbers 22:5'

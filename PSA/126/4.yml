@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 126:4"
+  class="v">4</span>Turn again our captivity, O <span class="nd">LORD</span>, as
+  the streams in the south.</p>
+id: PSA/126/4
+next:
+  id: PSA/126/5
+  number: '5'
+previous:
+  id: PSA/126/3
+  number: '3'
+reference: 'Psalms 126:4'

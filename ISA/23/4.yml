@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 23:4" class="v">4</span>Be
+  thou ashamed, O Zidon: for the sea hath spoken, <span class="add">even</span>
+  the strength of the sea, saying, I travail not, nor bring forth children,
+  neither do I nourish up young men, <span class="add">nor</span> bring up
+  virgins. </p>
+id: ISA/23/4
+next:
+  id: ISA/23/5
+  number: '5'
+previous:
+  id: ISA/23/3
+  number: '3'
+reference: 'Isaiah 23:4'

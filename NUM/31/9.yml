@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 31:9" class="v">9</span>And
+  the children of Israel took <span class="add">all</span> the women of Midian
+  captives, and their little ones, and took the spoil of all their cattle, and
+  all their flocks, and all their goods. </p>
+id: NUM/31/9
+next:
+  id: NUM/31/10
+  number: '10'
+previous:
+  id: NUM/31/8
+  number: '8'
+reference: 'Numbers 31:9'

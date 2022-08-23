@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 8:12" class="v">12</span>And
+  all the people went their way to eat, and to drink, and to send portions, and
+  to make great mirth, because they had understood the words that were declared
+  unto them.</p>
+id: NEH/8/12
+next:
+  id: NEH/8/13
+  number: '13'
+previous:
+  id: NEH/8/11
+  number: '11'
+reference: 'Nehemiah 8:12'

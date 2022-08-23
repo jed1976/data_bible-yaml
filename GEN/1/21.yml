@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 1:21" class="v">21</span>And
+  God created great whales, and every living creature that moveth, which the
+  waters brought forth abundantly, after their kind, and every winged fowl after
+  his kind: and God saw that <span class="add">it was</span> good. </p>
+id: GEN/1/21
+next:
+  id: GEN/1/22
+  number: '22'
+previous:
+  id: GEN/1/20
+  number: '20'
+reference: 'Genesis 1:21'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 9:23" class="v">23</span>And
+  Shem and Japheth took a garment, and laid <span class="add">it</span> upon
+  both their shoulders, and went backward, and covered the nakedness of their
+  father; and their faces <span class="add">were</span> backward, and they saw
+  not their father’s nakedness.</p>
+id: GEN/9/23
+next:
+  id: GEN/9/24
+  number: '24'
+previous:
+  id: GEN/9/22
+  number: '22'
+reference: 'Genesis 9:23'

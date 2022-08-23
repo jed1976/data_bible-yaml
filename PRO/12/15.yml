@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 12:15"
+  class="v">15</span>The way of a fool <span class="add">is</span> right in his
+  own eyes: but he that hearkeneth unto counsel <span class="add">is</span>
+  wise. </p>
+id: PRO/12/15
+next:
+  id: PRO/12/16
+  number: '16'
+previous:
+  id: PRO/12/14
+  number: '14'
+reference: 'Proverbs 12:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 40:1" class="v">1</span>I waited patiently for
+  the <span class="nd">LORD</span>; and he inclined unto me, and heard my
+  cry.</p>
+id: PSA/40/1
+next:
+  id: PSA/40/2
+  number: '2'
+previous:
+  id: PSA/39/13
+  number: '13'
+reference: 'Psalms 40:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 14:19" class="v">19</span>¶
+  And the angel of God, which went before the camp of Israel, removed and went
+  behind them; and the pillar of the cloud went from before their face, and
+  stood behind them: </p>
+id: EXO/14/19
+next:
+  id: EXO/14/20
+  number: '20'
+previous:
+  id: EXO/14/18
+  number: '18'
+reference: 'Exodus 14:19'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JER 50:5" class="v">5</span>They
+  shall ask the way to Zion with their faces thitherward, <span
+  class="add">saying</span>, Come, and let us join ourselves to the <span
+  class="nd">LORD</span> in a perpetual covenant <span class="add">that</span>
+  shall not be forgotten. </p>
+id: JER/50/5
+next:
+  id: JER/50/6
+  number: '6'
+previous:
+  id: JER/50/4
+  number: '4'
+reference: 'Jeremiah 50:5'

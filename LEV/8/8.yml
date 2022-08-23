@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 8:8" class="v">8</span>And he
+  put the breastplate upon him: also he put in the breastplate the Urim and the
+  Thummim. </p>
+id: LEV/8/8
+next:
+  id: LEV/8/9
+  number: '9'
+previous:
+  id: LEV/8/7
+  number: '7'
+reference: 'Leviticus 8:8'

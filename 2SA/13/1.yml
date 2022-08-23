@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 13:1" class="v">1</span>And
+  it came to pass after this, that Absalom the son of David had a fair sister,
+  whose name <span class="add">was</span> Tamar; and Amnon the son of David
+  loved her. </p>
+id: 2SA/13/1
+next:
+  id: 2SA/13/2
+  number: '2'
+previous:
+  id: 2SA/12/31
+  number: '31'
+reference: '2 Samuel 13:1'

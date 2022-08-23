@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 2:7"
+  class="v">7</span>Deliver thyself, O Zion, that dwellest <span
+  class="add">with</span> the daughter of Babylon. </p>
+id: ZEC/2/7
+next:
+  id: ZEC/2/8
+  number: '8'
+previous:
+  id: ZEC/2/6
+  number: '6'
+reference: 'Zechariah 2:7'

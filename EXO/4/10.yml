@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 4:10" class="v">10</span>¶
+  And Moses said unto the <span class="nd">LORD</span>, O my Lord, I <span
+  class="add">am</span> not eloquent, neither heretofore, nor since thou hast
+  spoken unto thy servant: but I <span class="add">am</span> slow of speech, and
+  of a slow tongue. </p>
+id: EXO/4/10
+next:
+  id: EXO/4/11
+  number: '11'
+previous:
+  id: EXO/4/9
+  number: '9'
+reference: 'Exodus 4:10'

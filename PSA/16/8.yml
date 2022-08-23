@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 16:8"
+  class="v">8</span>I have set the <span class="nd">LORD</span> always before
+  me: because <span class="add">he is</span> at my right hand, I shall not be
+  moved.</p>
+id: PSA/16/8
+next:
+  id: PSA/16/9
+  number: '9'
+previous:
+  id: PSA/16/7
+  number: '7'
+reference: 'Psalms 16:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 10:8" class="v">8</span><span
+  class="wj">And into whatsoever city ye enter, and they receive you, eat such
+  things as are set before you:</span> </p>
+id: LUK/10/8
+next:
+  id: LUK/10/9
+  number: '9'
+previous:
+  id: LUK/10/7
+  number: '7'
+reference: 'Luke 10:8'

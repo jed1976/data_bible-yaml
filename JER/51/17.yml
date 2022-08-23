@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JER 51:17"
+  class="v">17</span>Every man is brutish by <span class="add">his</span>
+  knowledge; every founder is confounded by the graven image: for his molten
+  image <span class="add">is</span> falsehood, and <span class="add">there
+  is</span> no breath in them. </p>
+id: JER/51/17
+next:
+  id: JER/51/18
+  number: '18'
+previous:
+  id: JER/51/16
+  number: '16'
+reference: 'Jeremiah 51:17'

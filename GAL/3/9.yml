@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GAL 3:9" class="v">9</span>So
+  then they which be of faith are blessed with faithful Abraham. </p>
+id: GAL/3/9
+next:
+  id: GAL/3/10
+  number: '10'
+previous:
+  id: GAL/3/8
+  number: '8'
+reference: 'Galatians 3:9'

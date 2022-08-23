@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 55:4"
+  class="v">4</span>Behold, I have given him <span class="add">for</span> a
+  witness to the people, a leader and commander to the people. </p>
+id: ISA/55/4
+next:
+  id: ISA/55/5
+  number: '5'
+previous:
+  id: ISA/55/3
+  number: '3'
+reference: 'Isaiah 55:4'

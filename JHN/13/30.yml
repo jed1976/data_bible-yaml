@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 13:30" class="v">30</span>He
+  then having received the sop went immediately out: and it was night.</p>
+id: JHN/13/30
+next:
+  id: JHN/13/31
+  number: '31'
+previous:
+  id: JHN/13/29
+  number: '29'
+reference: 'John 13:30'

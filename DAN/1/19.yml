@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 1:19" class="v">19</span>And
+  the king communed with them; and among them all was found none like Daniel,
+  Hananiah, Mishael, and Azariah: therefore stood they before the king. </p>
+id: DAN/1/19
+next:
+  id: DAN/1/20
+  number: '20'
+previous:
+  id: DAN/1/18
+  number: '18'
+reference: 'Daniel 1:19'

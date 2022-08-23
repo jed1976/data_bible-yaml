@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 31:30"
+  class="v">30</span>And now, <span class="add">though</span> thou wouldest
+  needs be gone, because thou sore longedst after thy father’s house, <span
+  class="add">yet</span> wherefore hast thou stolen my gods? </p>
+id: GEN/31/30
+next:
+  id: GEN/31/31
+  number: '31'
+previous:
+  id: GEN/31/29
+  number: '29'
+reference: 'Genesis 31:30'

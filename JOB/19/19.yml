@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 19:19"
+  class="v">19</span>All my inward friends abhorred me: and they whom I loved
+  are turned against me. </p>
+id: JOB/19/19
+next:
+  id: JOB/19/20
+  number: '20'
+previous:
+  id: JOB/19/18
+  number: '18'
+reference: 'Job 19:19'

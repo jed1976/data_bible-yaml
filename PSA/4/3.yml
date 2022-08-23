@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 4:3" class="v">3</span>But
+  know that the <span class="nd">LORD</span> hath set apart him that is godly
+  for himself: the <span class="nd">LORD</span> will hear when I call unto
+  him.</p>
+id: PSA/4/3
+next:
+  id: PSA/4/4
+  number: '4'
+previous:
+  id: PSA/4/2
+  number: '2'
+reference: 'Psalms 4:3'

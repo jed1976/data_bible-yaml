@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 12:8" class="v">8</span>The
+  wicked walk on every side, when the vilest men are exalted.</p>
+id: PSA/12/8
+next:
+  id: PSA/13/1
+  number: '1'
+previous:
+  id: PSA/12/7
+  number: '7'
+reference: 'Psalms 12:8'

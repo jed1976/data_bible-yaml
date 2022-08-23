@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 46:4" class="v">4</span>And
+  <span class="add">even</span> to <span class="add">your</span> old age I <span
+  class="add">am</span> he; and <span class="add">even</span> to hoar hairs will
+  I carry <span class="add">you:</span> I have made, and I will bear; even I
+  will carry, and will deliver <span class="add">you</span>.</p>
+id: ISA/46/4
+next:
+  id: ISA/46/5
+  number: '5'
+previous:
+  id: ISA/46/3
+  number: '3'
+reference: 'Isaiah 46:4'

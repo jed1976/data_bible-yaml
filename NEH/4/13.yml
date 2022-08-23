@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NEH 4:13" class="v">13</span>¶
+  Therefore set I in the lower places behind the wall, <span
+  class="add">and</span> on the higher places, I even set the people after their
+  families with their swords, their spears, and their bows. </p>
+id: NEH/4/13
+next:
+  id: NEH/4/14
+  number: '14'
+previous:
+  id: NEH/4/12
+  number: '12'
+reference: 'Nehemiah 4:13'

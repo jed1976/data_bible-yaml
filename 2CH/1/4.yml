@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 1:4" class="v">4</span>But
+  the ark of God had David brought up from Kirjath-jearim to <span
+  class="add">the place which</span> David had prepared for it: for he had
+  pitched a tent for it at Jerusalem. </p>
+id: 2CH/1/4
+next:
+  id: 2CH/1/5
+  number: '5'
+previous:
+  id: 2CH/1/3
+  number: '3'
+reference: '2 Chronicles 1:4'

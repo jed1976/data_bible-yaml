@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 41:5"
+  class="v">5</span>Mine enemies speak evil of me, When shall he die, and his
+  name perish?</p>
+id: PSA/41/5
+next:
+  id: PSA/41/6
+  number: '6'
+previous:
+  id: PSA/41/4
+  number: '4'
+reference: 'Psalms 41:5'

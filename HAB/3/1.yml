@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HAB 3:1" class="v">1</span>A
+  prayer of Habakkuk the prophet upon Shigionoth. </p>
+id: HAB/3/1
+next:
+  id: HAB/3/2
+  number: '2'
+previous:
+  id: HAB/2/20
+  number: '20'
+reference: 'Habakkuk 3:1'

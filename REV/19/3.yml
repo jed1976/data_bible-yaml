@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 19:3" class="v">3</span>And
+  again they said, Alleluia. And her smoke rose up for ever and ever. </p>
+id: REV/19/3
+next:
+  id: REV/19/4
+  number: '4'
+previous:
+  id: REV/19/2
+  number: '2'
+reference: 'Revelation 19:3'

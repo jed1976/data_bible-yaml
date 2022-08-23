@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 6:22" class="v">22</span>And
+  when Gideon perceived that he <span class="add">was</span> an angel of the
+  <span class="nd">LORD</span>, Gideon said, Alas, O Lord <span
+  class="nd">GOD</span>! for because I have seen an angel of the <span
+  class="nd">LORD</span> face to face. </p>
+id: JDG/6/22
+next:
+  id: JDG/6/23
+  number: '23'
+previous:
+  id: JDG/6/21
+  number: '21'
+reference: 'Judges 6:22'

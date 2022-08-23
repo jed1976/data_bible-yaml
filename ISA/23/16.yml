@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 23:16"
+  class="v">16</span>Take an harp, go about the city, thou harlot that hast been
+  forgotten; make sweet melody, sing many songs, that thou mayest be
+  remembered.</p>
+id: ISA/23/16
+next:
+  id: ISA/23/17
+  number: '17'
+previous:
+  id: ISA/23/15
+  number: '15'
+reference: 'Isaiah 23:16'

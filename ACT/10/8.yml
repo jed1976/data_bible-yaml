@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 10:8" class="v">8</span>And
+  when he had declared all <span class="add">these</span> things unto them, he
+  sent them to Joppa.</p>
+id: ACT/10/8
+next:
+  id: ACT/10/9
+  number: '9'
+previous:
+  id: ACT/10/7
+  number: '7'
+reference: 'Acts 10:8'

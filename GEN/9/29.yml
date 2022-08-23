@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 9:29" class="v">29</span>And
+  all the days of Noah were nine hundred and fifty years: and he died.</p>
+id: GEN/9/29
+next:
+  id: GEN/10/1
+  number: '1'
+previous:
+  id: GEN/9/28
+  number: '28'
+reference: 'Genesis 9:29'

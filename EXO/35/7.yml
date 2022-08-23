@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 35:7" class="v">7</span>And
+  rams’ skins dyed red, and badgers’ skins, and shittim wood, </p>
+id: EXO/35/7
+next:
+  id: EXO/35/8
+  number: '8'
+previous:
+  id: EXO/35/6
+  number: '6'
+reference: 'Exodus 35:7'

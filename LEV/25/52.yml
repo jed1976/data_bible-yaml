@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="LEV 25:52"
+  class="v">52</span>And if there remain but few years unto the year of jubile,
+  then he shall count with him, <span class="add">and</span> according unto his
+  years shall he give him again the price of his redemption. </p>
+id: LEV/25/52
+next:
+  id: LEV/25/53
+  number: '53'
+previous:
+  id: LEV/25/51
+  number: '51'
+reference: 'Leviticus 25:52'

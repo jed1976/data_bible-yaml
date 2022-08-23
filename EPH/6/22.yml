@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EPH 6:22"
+  class="v">22</span>Whom I have sent unto you for the same purpose, that ye
+  might know our affairs, and <span class="add">that</span> he might comfort
+  your hearts.</p>
+id: EPH/6/22
+next:
+  id: EPH/6/23
+  number: '23'
+previous:
+  id: EPH/6/21
+  number: '21'
+reference: 'Ephesians 6:22'

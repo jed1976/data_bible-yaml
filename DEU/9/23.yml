@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 9:23"
+  class="v">23</span>Likewise when the <span class="nd">LORD</span> sent you
+  from Kadesh-barnea, saying, Go up and possess the land which I have given you;
+  then ye rebelled against the commandment of the <span class="nd">LORD</span>
+  your God, and ye believed him not, nor hearkened to his voice. </p>
+id: DEU/9/23
+next:
+  id: DEU/9/24
+  number: '24'
+previous:
+  id: DEU/9/22
+  number: '22'
+reference: 'Deuteronomy 9:23'

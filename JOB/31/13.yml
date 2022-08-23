@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 31:13" class="v">13</span>If
+  I did despise the cause of my manservant or of my maidservant, when they
+  contended with me; </p>
+id: JOB/31/13
+next:
+  id: JOB/31/14
+  number: '14'
+previous:
+  id: JOB/31/12
+  number: '12'
+reference: 'Job 31:13'

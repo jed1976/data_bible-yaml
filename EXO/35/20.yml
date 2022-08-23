@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 35:20" class="v">20</span>¶
+  And all the congregation of the children of Israel departed from the presence
+  of Moses. </p>
+id: EXO/35/20
+next:
+  id: EXO/35/21
+  number: '21'
+previous:
+  id: EXO/35/19
+  number: '19'
+reference: 'Exodus 35:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 35:15"
+  class="v">15</span>And Jacob called the name of the place where God spake with
+  him, Beth-el.</p>
+id: GEN/35/15
+next:
+  id: GEN/35/16
+  number: '16'
+previous:
+  id: GEN/35/14
+  number: '14'
+reference: 'Genesis 35:15'

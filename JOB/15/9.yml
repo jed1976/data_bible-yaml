@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 15:9" class="v">9</span>What
+  knowest thou, that we know not? <span class="add">what</span> understandest
+  thou, which <span class="add">is</span> not in us? </p>
+id: JOB/15/9
+next:
+  id: JOB/15/10
+  number: '10'
+previous:
+  id: JOB/15/8
+  number: '8'
+reference: 'Job 15:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 17:13"
+  class="v">13</span>Arise, O <span class="nd">LORD</span>, disappoint him, cast
+  him down: deliver my soul from the wicked, <span class="add">which is</span>
+  thy sword:</p>
+id: PSA/17/13
+next:
+  id: PSA/17/14
+  number: '14'
+previous:
+  id: PSA/17/12
+  number: '12'
+reference: 'Psalms 17:13'

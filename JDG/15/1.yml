@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 15:1" class="v">1</span>But
+  it came to pass within a while after, in the time of wheat harvest, that
+  Samson visited his wife with a kid; and he said, I will go in to my wife into
+  the chamber. But her father would not suffer him to go in. </p>
+id: JDG/15/1
+next:
+  id: JDG/15/2
+  number: '2'
+previous:
+  id: JDG/14/20
+  number: '20'
+reference: 'Judges 15:1'

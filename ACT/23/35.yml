@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 23:35" class="v">35</span>I
+  will hear thee, said he, when thine accusers are also come. And he commanded
+  him to be kept in Herod’s judgment hall.</p>
+id: ACT/23/35
+next:
+  id: ACT/24/1
+  number: '1'
+previous:
+  id: ACT/23/34
+  number: '34'
+reference: 'Acts 23:35'

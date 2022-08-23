@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 20:40"
+  class="v">40</span>And after that they durst not ask him any <span
+  class="add">question at all</span>. </p>
+id: LUK/20/40
+next:
+  id: LUK/20/41
+  number: '41'
+previous:
+  id: LUK/20/39
+  number: '39'
+reference: 'Luke 20:40'

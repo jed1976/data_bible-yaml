@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 27:18"
+  class="v">18</span>And we being exceedingly tossed with a tempest, the next
+  <span class="add">day</span> they lightened the ship; </p>
+id: ACT/27/18
+next:
+  id: ACT/27/19
+  number: '19'
+previous:
+  id: ACT/27/17
+  number: '17'
+reference: 'Acts 27:18'

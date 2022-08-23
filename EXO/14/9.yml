@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 14:9" class="v">9</span>But
+  the Egyptians pursued after them, all the horses <span class="add">and</span>
+  chariots of Pharaoh, and his horsemen, and his army, and overtook them
+  encamping by the sea, beside Pi-hahiroth, before Baal-zephon.</p>
+id: EXO/14/9
+next:
+  id: EXO/14/10
+  number: '10'
+previous:
+  id: EXO/14/8
+  number: '8'
+reference: 'Exodus 14:9'

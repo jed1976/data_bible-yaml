@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 22:17"
+  class="v">17</span>Behold, the <span class="nd">LORD</span> will carry thee
+  away with a mighty captivity, and will surely cover thee. </p>
+id: ISA/22/17
+next:
+  id: ISA/22/18
+  number: '18'
+previous:
+  id: ISA/22/16
+  number: '16'
+reference: 'Isaiah 22:17'

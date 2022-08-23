@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GAL 3:23" class="v">23</span>But
+  before faith came, we were kept under the law, shut up unto the faith which
+  should afterwards be revealed. </p>
+id: GAL/3/23
+next:
+  id: GAL/3/24
+  number: '24'
+previous:
+  id: GAL/3/22
+  number: '22'
+reference: 'Galatians 3:23'

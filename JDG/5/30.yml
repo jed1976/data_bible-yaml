@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 5:30"
+  class="v">30</span>Have they not sped? have they <span class="add">not</span>
+  divided the prey; to every man a damsel <span class="add">or</span> two; to
+  Sisera a prey of divers colours, a prey of divers colours of needlework, of
+  divers colours of needlework on both sides, <span class="add">meet</span> for
+  the necks of <span class="add">them that take</span> the spoil? </p>
+id: JDG/5/30
+next:
+  id: JDG/5/31
+  number: '31'
+previous:
+  id: JDG/5/29
+  number: '29'
+reference: 'Judges 5:30'

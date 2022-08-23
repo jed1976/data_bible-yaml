@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1SA 17:5" class="v">5</span>And
+  <span class="add">he had</span> an helmet of brass upon his head, and he <span
+  class="add">was</span> armed with a coat of mail; and the weight of the coat
+  <span class="add">was</span> five thousand shekels of brass. </p>
+id: 1SA/17/5
+next:
+  id: 1SA/17/6
+  number: '6'
+previous:
+  id: 1SA/17/4
+  number: '4'
+reference: '1 Samuel 17:5'

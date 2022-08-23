@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 1:1" class="v">1</span>The
+  words of Jeremiah the son of Hilkiah, of the priests that <span
+  class="add">were</span> in Anathoth in the land of Benjamin: </p>
+id: JER/1/1
+next:
+  id: JER/1/2
+  number: '2'
+previous:
+  id: JER/intro/0
+  number: '0'
+reference: 'Jeremiah 1:1'

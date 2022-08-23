@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 1:5" class="v">5</span>And it
+  shall come to pass at that day, that I will break the bow of Israel in the
+  valley of Jezreel.</p>
+id: HOS/1/5
+next:
+  id: HOS/1/6
+  number: '6'
+previous:
+  id: HOS/1/4
+  number: '4'
+reference: 'Hosea 1:5'

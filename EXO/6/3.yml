@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 6:3" class="v">3</span>And I
+  appeared unto Abraham, unto Isaac, and unto Jacob, by <span class="add">the
+  name of</span> God Almighty, but by my name <span class="nd">JEHOVAH</span>
+  was I not known to them. </p>
+id: EXO/6/3
+next:
+  id: EXO/6/4
+  number: '4'
+previous:
+  id: EXO/6/2
+  number: '2'
+reference: 'Exodus 6:3'

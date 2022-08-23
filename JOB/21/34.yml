@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOB 21:34"
+  class="v">34</span>How then comfort ye me in vain, seeing in your answers
+  there remaineth falsehood?</p>
+id: JOB/21/34
+next:
+  id: JOB/22/1
+  number: '1'
+previous:
+  id: JOB/21/33
+  number: '33'
+reference: 'Job 21:34'

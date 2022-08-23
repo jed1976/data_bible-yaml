@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 11:20"
+  class="v">20</span>Well; because of unbelief they were broken off, and thou
+  standest by faith. Be not highminded, but fear: </p>
+id: ROM/11/20
+next:
+  id: ROM/11/21
+  number: '21'
+previous:
+  id: ROM/11/19
+  number: '19'
+reference: 'Romans 11:20'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HAG 1:12" class="v">12</span>¶
+  Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high
+  priest, with all the remnant of the people, obeyed the voice of the <span
+  class="nd">LORD</span> their God, and the words of Haggai the prophet, as the
+  <span class="nd">LORD</span> their God had sent him, and the people did fear
+  before the <span class="nd">LORD</span>. </p>
+id: HAG/1/12
+next:
+  id: HAG/1/13
+  number: '13'
+previous:
+  id: HAG/1/11
+  number: '11'
+reference: 'Haggai 1:12'

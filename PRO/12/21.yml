@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 12:21"
+  class="v">21</span>There shall no evil happen to the just: but the wicked
+  shall be filled with mischief. </p>
+id: PRO/12/21
+next:
+  id: PRO/12/22
+  number: '22'
+previous:
+  id: PRO/12/20
+  number: '20'
+reference: 'Proverbs 12:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 12:19"
+  class="v">19</span>The Pharisees therefore said among themselves, Perceive ye
+  how ye prevail nothing? behold, the world is gone after him.</p>
+id: JHN/12/19
+next:
+  id: JHN/12/20
+  number: '20'
+previous:
+  id: JHN/12/18
+  number: '18'
+reference: 'John 12:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 3:3" class="v">3</span>And he
+  said unto me, Son of man, cause thy belly to eat, and fill thy bowels with
+  this roll that I give thee. Then did I eat <span class="add">it;</span> and it
+  was in my mouth as honey for sweetness.</p>
+id: EZK/3/3
+next:
+  id: EZK/3/4
+  number: '4'
+previous:
+  id: EZK/3/2
+  number: '2'
+reference: 'Ezekiel 3:3'

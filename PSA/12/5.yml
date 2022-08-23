@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 12:5" class="v">5</span>For
+  the oppression of the poor, for the sighing of the needy, now will I arise,
+  saith the <span class="nd">LORD</span>; I will set <span
+  class="add">him</span> in safety <span class="add">from him that</span>
+  puffeth at him.</p>
+id: PSA/12/5
+next:
+  id: PSA/12/6
+  number: '6'
+previous:
+  id: PSA/12/4
+  number: '4'
+reference: 'Psalms 12:5'

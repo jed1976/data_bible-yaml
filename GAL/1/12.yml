@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GAL 1:12" class="v">12</span>For
+  I neither received it of man, neither was I taught <span
+  class="add">it</span>, but by the revelation of Jesus Christ. </p>
+id: GAL/1/12
+next:
+  id: GAL/1/13
+  number: '13'
+previous:
+  id: GAL/1/11
+  number: '11'
+reference: 'Galatians 1:12'

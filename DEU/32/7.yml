@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 32:7" class="v">7</span>¶
+  Remember the days of old, consider the years of many generations: ask thy
+  father, and he will shew thee; thy elders, and they will tell thee. </p>
+id: DEU/32/7
+next:
+  id: DEU/32/8
+  number: '8'
+previous:
+  id: DEU/32/6
+  number: '6'
+reference: 'Deuteronomy 32:7'

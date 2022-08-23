@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 14:29"
+  class="v">29</span>But the children of Israel walked upon dry <span
+  class="add">land</span> in the midst of the sea; and the waters <span
+  class="add">were</span> a wall unto them on their right hand, and on their
+  left. </p>
+id: EXO/14/29
+next:
+  id: EXO/14/30
+  number: '30'
+previous:
+  id: EXO/14/28
+  number: '28'
+reference: 'Exodus 14:29'

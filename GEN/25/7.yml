@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 25:7" class="v">7</span>And
+  these <span class="add">are</span> the days of the years of Abraham’s life
+  which he lived, an hundred threescore and fifteen years. </p>
+id: GEN/25/7
+next:
+  id: GEN/25/8
+  number: '8'
+previous:
+  id: GEN/25/6
+  number: '6'
+reference: 'Genesis 25:7'

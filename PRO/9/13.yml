@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 9:13" class="v">13</span>¶ A
+  foolish woman <span class="add">is</span> clamorous: <span class="add">she
+  is</span> simple, and knoweth nothing. </p>
+id: PRO/9/13
+next:
+  id: PRO/9/14
+  number: '14'
+previous:
+  id: PRO/9/12
+  number: '12'
+reference: 'Proverbs 9:13'

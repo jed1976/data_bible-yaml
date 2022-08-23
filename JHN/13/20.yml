@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 13:20"
+  class="v">20</span><span class="wj">Verily, verily, I say unto you, He that
+  receiveth whomsoever I send receiveth me; and he that receiveth me receiveth
+  him that sent me.</span> </p>
+id: JHN/13/20
+next:
+  id: JHN/13/21
+  number: '21'
+previous:
+  id: JHN/13/19
+  number: '19'
+reference: 'John 13:20'

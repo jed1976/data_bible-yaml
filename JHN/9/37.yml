@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JHN 9:37" class="v">37</span>And
+  Jesus said unto him, <span class="wj">Thou hast both seen him, and it is he
+  that talketh with thee.</span> </p>
+id: JHN/9/37
+next:
+  id: JHN/9/38
+  number: '38'
+previous:
+  id: JHN/9/36
+  number: '36'
+reference: 'John 9:37'

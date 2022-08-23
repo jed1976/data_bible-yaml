@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 10:4" class="v">4</span>Come
+  up unto me, and help me, that we may smite Gibeon: for it hath made peace with
+  Joshua and with the children of Israel. </p>
+id: JOS/10/4
+next:
+  id: JOS/10/5
+  number: '5'
+previous:
+  id: JOS/10/3
+  number: '3'
+reference: 'Joshua 10:4'

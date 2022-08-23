@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CO 12:6" class="v">6</span>For
+  though I would desire to glory, I shall not be a fool; for I will say the
+  truth: but <span class="add">now</span> I forbear, lest any man should think
+  of me above that which he seeth me <span class="add">to be</span>, or <span
+  class="add">that</span> he heareth of me. </p>
+id: 2CO/12/6
+next:
+  id: 2CO/12/7
+  number: '7'
+previous:
+  id: 2CO/12/5
+  number: '5'
+reference: '2 Corinthians 12:6'

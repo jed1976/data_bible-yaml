@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 69:26"
+  class="v">26</span>For they persecute <span class="add">him</span> whom thou
+  hast smitten; and they talk to the grief of those whom thou hast wounded.</p>
+id: PSA/69/26
+next:
+  id: PSA/69/27
+  number: '27'
+previous:
+  id: PSA/69/25
+  number: '25'
+reference: 'Psalms 69:26'

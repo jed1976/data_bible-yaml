@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 4:3" class="v">3</span>Then
+  he said, Go, borrow thee vessels abroad of all thy neighbours, <span
+  class="add">even</span> empty vessels; borrow not a few. </p>
+id: 2KI/4/3
+next:
+  id: 2KI/4/4
+  number: '4'
+previous:
+  id: 2KI/4/2
+  number: '2'
+reference: '2 Kings 4:3'

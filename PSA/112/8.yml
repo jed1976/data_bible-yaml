@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 112:8" class="v">8</span>His
+  heart <span class="add">is</span> established, he shall not be afraid, until
+  he see <span class="add">his desire</span> upon his enemies.</p>
+id: PSA/112/8
+next:
+  id: PSA/112/9
+  number: '9'
+previous:
+  id: PSA/112/7
+  number: '7'
+reference: 'Psalms 112:8'

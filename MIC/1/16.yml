@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MIC 1:16"
+  class="v">16</span>Make thee bald, and poll thee for thy delicate children;
+  enlarge thy baldness as the eagle; for they are gone into captivity from
+  thee.</p>
+id: MIC/1/16
+next:
+  id: MIC/2/1
+  number: '1'
+previous:
+  id: MIC/1/15
+  number: '15'
+reference: 'Micah 1:16'

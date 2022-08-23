@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 5:20" class="v">20</span>In
+  famine he shall redeem thee from death: and in war from the power of the
+  sword. </p>
+id: JOB/5/20
+next:
+  id: JOB/5/21
+  number: '21'
+previous:
+  id: JOB/5/19
+  number: '19'
+reference: 'Job 5:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 15:26"
+  class="v">26</span>The thoughts of the wicked <span class="add">are</span> an
+  abomination to the <span class="nd">LORD</span>: but <span class="add">the
+  words</span> of the pure <span class="add">are</span> pleasant words. </p>
+id: PRO/15/26
+next:
+  id: PRO/15/27
+  number: '27'
+previous:
+  id: PRO/15/25
+  number: '25'
+reference: 'Proverbs 15:26'

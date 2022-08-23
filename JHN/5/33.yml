@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 5:33"
+  class="v">33</span><span class="wj">Ye sent unto John, and he bare witness
+  unto the truth.</span> </p>
+id: JHN/5/33
+next:
+  id: JHN/5/34
+  number: '34'
+previous:
+  id: JHN/5/32
+  number: '32'
+reference: 'John 5:33'

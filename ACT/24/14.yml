@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 24:14"
+  class="v">14</span>But this I confess unto thee, that after the way which they
+  call heresy, so worship I the God of my fathers, believing all things which
+  are written in the law and in the prophets: </p>
+id: ACT/24/14
+next:
+  id: ACT/24/15
+  number: '15'
+previous:
+  id: ACT/24/13
+  number: '13'
+reference: 'Acts 24:14'

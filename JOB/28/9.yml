@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 28:9" class="v">9</span>He
+  putteth forth his hand upon the rock; he overturneth the mountains by the
+  roots. </p>
+id: JOB/28/9
+next:
+  id: JOB/28/10
+  number: '10'
+previous:
+  id: JOB/28/8
+  number: '8'
+reference: 'Job 28:9'

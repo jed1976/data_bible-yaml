@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="GEN 41:44"
+  class="v">44</span>And Pharaoh said unto Joseph, I <span class="add">am</span>
+  Pharaoh, and without thee shall no man lift up his hand or foot in all the
+  land of Egypt. </p>
+id: GEN/41/44
+next:
+  id: GEN/41/45
+  number: '45'
+previous:
+  id: GEN/41/43
+  number: '43'
+reference: 'Genesis 41:44'

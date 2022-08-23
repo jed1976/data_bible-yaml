@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="35" data-sid="PSA 119:35"
+  class="v">35</span>Make me to go in the path of thy commandments; for therein
+  do I delight.</p>
+id: PSA/119/35
+next:
+  id: PSA/119/36
+  number: '36'
+previous:
+  id: PSA/119/34
+  number: '34'
+reference: 'Psalms 119:35'

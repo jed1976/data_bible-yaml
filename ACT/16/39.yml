@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="ACT 16:39"
+  class="v">39</span>And they came and besought them, and brought <span
+  class="add">them</span> out, and desired <span class="add">them</span> to
+  depart out of the city. </p>
+id: ACT/16/39
+next:
+  id: ACT/16/40
+  number: '40'
+previous:
+  id: ACT/16/38
+  number: '38'
+reference: 'Acts 16:39'

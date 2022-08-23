@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 9:21" class="v">21</span>And
+  he that regarded not the word of the <span class="nd">LORD</span> left his
+  servants and his cattle in the field.</p>
+id: EXO/9/21
+next:
+  id: EXO/9/22
+  number: '22'
+previous:
+  id: EXO/9/20
+  number: '20'
+reference: 'Exodus 9:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MRK 1:41" class="v">41</span>And
+  Jesus, moved with compassion, put forth <span class="add">his</span> hand, and
+  touched him, and saith unto him, <span class="wj">I will; be thou
+  clean.</span> </p>
+id: MRK/1/41
+next:
+  id: MRK/1/42
+  number: '42'
+previous:
+  id: MRK/1/40
+  number: '40'
+reference: 'Mark 1:41'

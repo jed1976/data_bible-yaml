@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="HEB 7:17" class="v">17</span>For
+  he testifieth, Thou <span class="add">art</span> a priest for ever after the
+  order of Melchisedec. </p>
+id: HEB/7/17
+next:
+  id: HEB/7/18
+  number: '18'
+previous:
+  id: HEB/7/16
+  number: '16'
+reference: 'Hebrews 7:17'

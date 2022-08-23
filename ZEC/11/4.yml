@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEC 11:4" class="v">4</span>Thus
+  saith the <span class="nd">LORD</span> my God; Feed the flock of the
+  slaughter; </p>
+id: ZEC/11/4
+next:
+  id: ZEC/11/5
+  number: '5'
+previous:
+  id: ZEC/11/3
+  number: '3'
+reference: 'Zechariah 11:4'

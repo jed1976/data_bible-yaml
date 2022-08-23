@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JDG 21:25" class="v">25</span>In
+  those days <span class="add">there was</span> no king in Israel: every man did
+  <span class="add">that which was</span> right in his own eyes.</p>
+id: JDG/21/25
+next:
+  id: RUT/intro/0
+  number: '0'
+previous:
+  id: JDG/21/24
+  number: '24'
+reference: 'Judges 21:25'

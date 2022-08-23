@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 30:8" class="v">8</span>And
+  Rachel said, With great wrestlings have I wrestled with my sister, and I have
+  prevailed: and she called his name Naphtali. </p>
+id: GEN/30/8
+next:
+  id: GEN/30/9
+  number: '9'
+previous:
+  id: GEN/30/7
+  number: '7'
+reference: 'Genesis 30:8'

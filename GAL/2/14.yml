@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GAL 2:14" class="v">14</span>But
+  when I saw that they walked not uprightly according to the truth of the
+  gospel, I said unto Peter before <span class="add">them</span> all, If thou,
+  being a Jew, livest after the manner of Gentiles, and not as do the Jews, why
+  compellest thou the Gentiles to live as do the Jews? </p>
+id: GAL/2/14
+next:
+  id: GAL/2/15
+  number: '15'
+previous:
+  id: GAL/2/13
+  number: '13'
+reference: 'Galatians 2:14'

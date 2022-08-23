@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2TH 3:4" class="v">4</span>And we
+  have confidence in the Lord touching you, that ye both do and will do the
+  things which we command you. </p>
+id: 2TH/3/4
+next:
+  id: 2TH/3/5
+  number: '5'
+previous:
+  id: 2TH/3/3
+  number: '3'
+reference: '2 Thessalonians 3:4'

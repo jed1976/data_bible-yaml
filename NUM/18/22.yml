@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 18:22"
+  class="v">22</span>Neither must the children of Israel henceforth come nigh
+  the tabernacle of the congregation, lest they bear sin, and die. </p>
+id: NUM/18/22
+next:
+  id: NUM/18/23
+  number: '23'
+previous:
+  id: NUM/18/21
+  number: '21'
+reference: 'Numbers 18:22'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GAL 5:5" class="v">5</span>For we
+  through the Spirit wait for the hope of righteousness by faith. </p>
+id: GAL/5/5
+next:
+  id: GAL/5/6
+  number: '6'
+previous:
+  id: GAL/5/4
+  number: '4'
+reference: 'Galatians 5:5'

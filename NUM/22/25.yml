@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 22:25"
+  class="v">25</span>And when the ass saw the angel of the <span
+  class="nd">LORD</span>, she thrust herself unto the wall, and crushed Balaam’s
+  foot against the wall: and he smote her again. </p>
+id: NUM/22/25
+next:
+  id: NUM/22/26
+  number: '26'
+previous:
+  id: NUM/22/24
+  number: '24'
+reference: 'Numbers 22:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 19:7"
+  class="v">7</span>Wherefore I command thee, saying, Thou shalt separate three
+  cities for thee. </p>
+id: DEU/19/7
+next:
+  id: DEU/19/8
+  number: '8'
+previous:
+  id: DEU/19/6
+  number: '6'
+reference: 'Deuteronomy 19:7'

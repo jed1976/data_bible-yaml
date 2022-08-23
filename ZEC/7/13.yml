@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEC 7:13"
+  class="v">13</span>Therefore it is come to pass, <span class="add">that</span>
+  as he cried, and they would not hear; so they cried, and I would not hear,
+  saith the <span class="nd">LORD</span> of hosts: </p>
+id: ZEC/7/13
+next:
+  id: ZEC/7/14
+  number: '14'
+previous:
+  id: ZEC/7/12
+  number: '12'
+reference: 'Zechariah 7:13'

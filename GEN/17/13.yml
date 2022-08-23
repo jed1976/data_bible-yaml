@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 17:13" class="v">13</span>He
+  that is born in thy house, and he that is bought with thy money, must needs be
+  circumcised: and my covenant shall be in your flesh for an everlasting
+  covenant. </p>
+id: GEN/17/13
+next:
+  id: GEN/17/14
+  number: '14'
+previous:
+  id: GEN/17/12
+  number: '12'
+reference: 'Genesis 17:13'

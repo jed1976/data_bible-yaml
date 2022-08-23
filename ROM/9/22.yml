@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 9:22"
+  class="v">22</span><span class="add">What</span> if God, willing to shew <span
+  class="add">his</span> wrath, and to make his power known, endured with much
+  longsuffering the vessels of wrath fitted to destruction: </p>
+id: ROM/9/22
+next:
+  id: ROM/9/23
+  number: '23'
+previous:
+  id: ROM/9/21
+  number: '21'
+reference: 'Romans 9:22'

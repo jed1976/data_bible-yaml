@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 42:25"
+  class="v">25</span>Therefore he hath poured upon him the fury of his anger,
+  and the strength of battle: and it hath set him on fire round about, yet he
+  knew not; and it burned him, yet he laid <span class="add">it</span> not to
+  heart.</p>
+id: ISA/42/25
+next:
+  id: ISA/43/1
+  number: '1'
+previous:
+  id: ISA/42/24
+  number: '24'
+reference: 'Isaiah 42:25'

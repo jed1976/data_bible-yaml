@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="COL 2:17"
+  class="v">17</span>Which are a shadow of things to come; but the body <span
+  class="add">is</span> of Christ. </p>
+id: COL/2/17
+next:
+  id: COL/2/18
+  number: '18'
+previous:
+  id: COL/2/16
+  number: '16'
+reference: 'Colossians 2:17'

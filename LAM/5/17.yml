@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LAM 5:17" class="v">17</span>For
+  this our heart is faint; for these <span class="add">things</span> our eyes
+  are dim. </p>
+id: LAM/5/17
+next:
+  id: LAM/5/18
+  number: '18'
+previous:
+  id: LAM/5/16
+  number: '16'
+reference: 'Lamentations 5:17'

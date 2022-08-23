@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 20:4" class="v">4</span>And
+  Judah gathered themselves together, to ask <span class="add">help</span> of
+  the <span class="nd">LORD</span>: even out of all the cities of Judah they
+  came to seek the <span class="nd">LORD</span>.</p>
+id: 2CH/20/4
+next:
+  id: 2CH/20/5
+  number: '5'
+previous:
+  id: 2CH/20/3
+  number: '3'
+reference: '2 Chronicles 20:4'

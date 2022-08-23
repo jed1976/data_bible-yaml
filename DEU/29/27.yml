@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 29:27"
+  class="v">27</span>And the anger of the <span class="nd">LORD</span> was
+  kindled against this land, to bring upon it all the curses that are written in
+  this book: </p>
+id: DEU/29/27
+next:
+  id: DEU/29/28
+  number: '28'
+previous:
+  id: DEU/29/26
+  number: '26'
+reference: 'Deuteronomy 29:27'

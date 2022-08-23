@@ -1,0 +1,9 @@
+content: <p class="mt1">Hosea</p>
+id: HOS/intro/0
+next:
+  id: HOS/1/1
+  number: '1'
+previous:
+  id: DAN/12/13
+  number: '13'
+reference: Hosea

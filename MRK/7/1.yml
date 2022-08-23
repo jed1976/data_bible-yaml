@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 7:1" class="v">1</span>Then
+  came together unto him the Pharisees, and certain of the scribes, which came
+  from Jerusalem. </p>
+id: MRK/7/1
+next:
+  id: MRK/7/2
+  number: '2'
+previous:
+  id: MRK/6/56
+  number: '56'
+reference: 'Mark 7:1'

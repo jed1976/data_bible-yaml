@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2PE 1:1" class="v">1</span>Simon
+  Peter, a servant and an apostle of Jesus Christ, to them that have obtained
+  like precious faith with us through the righteousness of God and our Saviour
+  Jesus Christ: </p>
+id: 2PE/1/1
+next:
+  id: 2PE/1/2
+  number: '2'
+previous:
+  id: 2PE/intro/0
+  number: '0'
+reference: '2 Peter 1:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 12:3" class="v">3</span>And
+  there appeared another wonder in heaven; and behold a great red dragon, having
+  seven heads and ten horns, and seven crowns upon his heads. </p>
+id: REV/12/3
+next:
+  id: REV/12/4
+  number: '4'
+previous:
+  id: REV/12/2
+  number: '2'
+reference: 'Revelation 12:3'

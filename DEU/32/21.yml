@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 32:21"
+  class="v">21</span>They have moved me to jealousy with <span class="add">that
+  which is</span> not God; they have provoked me to anger with their vanities:
+  and I will move them to jealousy with <span class="add">those which are</span>
+  not a people; I will provoke them to anger with a foolish nation. </p>
+id: DEU/32/21
+next:
+  id: DEU/32/22
+  number: '22'
+previous:
+  id: DEU/32/20
+  number: '20'
+reference: 'Deuteronomy 32:21'

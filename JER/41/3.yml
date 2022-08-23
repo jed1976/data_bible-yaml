@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 41:3"
+  class="v">3</span>Ishmael also slew all the Jews that were with him, <span
+  class="add">even</span> with Gedaliah, at Mizpah, and the Chaldeans that were
+  found there, <span class="add">and</span> the men of war. </p>
+id: JER/41/3
+next:
+  id: JER/41/4
+  number: '4'
+previous:
+  id: JER/41/2
+  number: '2'
+reference: 'Jeremiah 41:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="COL 2:5" class="v">5</span>For
+  though I be absent in the flesh, yet am I with you in the spirit, joying and
+  beholding your order, and the stedfastness of your faith in Christ.</p>
+id: COL/2/5
+next:
+  id: COL/2/6
+  number: '6'
+previous:
+  id: COL/2/4
+  number: '4'
+reference: 'Colossians 2:5'

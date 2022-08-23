@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CO 1:18" class="v">18</span>But
+  <span class="add">as</span> God <span class="add">is</span> true, our word
+  toward you was not yea and nay. </p>
+id: 2CO/1/18
+next:
+  id: 2CO/1/19
+  number: '19'
+previous:
+  id: 2CO/1/17
+  number: '17'
+reference: '2 Corinthians 1:18'

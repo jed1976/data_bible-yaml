@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="REV 18:21"
+  class="v">21</span>And a mighty angel took up a stone like a great millstone,
+  and cast <span class="add">it</span> into the sea, saying, Thus with violence
+  shall that great city Babylon be thrown down, and shall be found no more at
+  all. </p>
+id: REV/18/21
+next:
+  id: REV/18/22
+  number: '22'
+previous:
+  id: REV/18/20
+  number: '20'
+reference: 'Revelation 18:21'

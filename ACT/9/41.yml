@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="ACT 9:41" class="v">41</span>And
+  he gave her <span class="add">his</span> hand, and lifted her up, and when he
+  had called the saints and widows, presented her alive. </p>
+id: ACT/9/41
+next:
+  id: ACT/9/42
+  number: '42'
+previous:
+  id: ACT/9/40
+  number: '40'
+reference: 'Acts 9:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ZEC 1:19" class="v">19</span>And
+  I said unto the angel that talked with me, What <span class="add">be</span>
+  these? And he answered me, These <span class="add">are</span> the horns which
+  have scattered Judah, Israel, and Jerusalem. </p>
+id: ZEC/1/19
+next:
+  id: ZEC/1/20
+  number: '20'
+previous:
+  id: ZEC/1/18
+  number: '18'
+reference: 'Zechariah 1:19'

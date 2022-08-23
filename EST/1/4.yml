@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 1:4" class="v">4</span>When
+  he shewed the riches of his glorious kingdom and the honour of his excellent
+  majesty many days, <span class="add">even</span> an hundred and fourscore
+  days. </p>
+id: EST/1/4
+next:
+  id: EST/1/5
+  number: '5'
+previous:
+  id: EST/1/3
+  number: '3'
+reference: 'Esther 1:4'

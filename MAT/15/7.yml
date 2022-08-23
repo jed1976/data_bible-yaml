@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 15:7" class="v">7</span><span
+  class="wj"><span class="add">Ye</span> hypocrites, well did Esaias prophesy of
+  you, saying,</span> </p>
+id: MAT/15/7
+next:
+  id: MAT/15/8
+  number: '8'
+previous:
+  id: MAT/15/6
+  number: '6'
+reference: 'Matthew 15:7'

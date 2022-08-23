@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 40:8" class="v">8</span>The
+  grass withereth, the flower fadeth: but the word of our God shall stand for
+  ever.</p>
+id: ISA/40/8
+next:
+  id: ISA/40/9
+  number: '9'
+previous:
+  id: ISA/40/7
+  number: '7'
+reference: 'Isaiah 40:8'

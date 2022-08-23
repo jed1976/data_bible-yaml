@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 12:9" class="v">9</span>And
+  Abram journeyed, going on still toward the south.</p>
+id: GEN/12/9
+next:
+  id: GEN/12/10
+  number: '10'
+previous:
+  id: GEN/12/8
+  number: '8'
+reference: 'Genesis 12:9'

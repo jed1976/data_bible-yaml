@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="GEN 42:38"
+  class="v">38</span>And he said, My son shall not go down with you; for his
+  brother is dead, and he is left alone: if mischief befall him by the way in
+  the which ye go, then shall ye bring down my gray hairs with sorrow to the
+  grave.</p>
+id: GEN/42/38
+next:
+  id: GEN/43/1
+  number: '1'
+previous:
+  id: GEN/42/37
+  number: '37'
+reference: 'Genesis 42:38'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 11:30"
+  class="v">30</span><span class="wj">For my yoke <span class="add">is</span>
+  easy, and my burden is light.</span></p>
+id: MAT/11/30
+next:
+  id: MAT/12/1
+  number: '1'
+previous:
+  id: MAT/11/29
+  number: '29'
+reference: 'Matthew 11:30'

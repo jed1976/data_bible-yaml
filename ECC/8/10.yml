@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 8:10" class="v">10</span>And
+  so I saw the wicked buried, who had come and gone from the place of the holy,
+  and they were forgotten in the city where they had so done: this <span
+  class="add">is</span> also vanity. </p>
+id: ECC/8/10
+next:
+  id: ECC/8/11
+  number: '11'
+previous:
+  id: ECC/8/9
+  number: '9'
+reference: 'Ecclesiastes 8:10'

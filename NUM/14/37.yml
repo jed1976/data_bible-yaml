@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 14:37"
+  class="v">37</span>Even those men that did bring up the evil report upon the
+  land, died by the plague before the <span class="nd">LORD</span>. </p>
+id: NUM/14/37
+next:
+  id: NUM/14/38
+  number: '38'
+previous:
+  id: NUM/14/36
+  number: '36'
+reference: 'Numbers 14:37'

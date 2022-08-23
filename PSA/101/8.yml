@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 101:8" class="v">8</span>I
+  will early destroy all the wicked of the land; that I may cut off all wicked
+  doers from the city of the <span class="nd">LORD</span>.</p>
+id: PSA/101/8
+next:
+  id: PSA/102/1
+  number: '1'
+previous:
+  id: PSA/101/7
+  number: '7'
+reference: 'Psalms 101:8'

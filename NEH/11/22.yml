@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 11:22"
+  class="v">22</span>The overseer also of the Levites at Jerusalem <span
+  class="add">was</span> Uzzi the son of Bani, the son of Hashabiah, the son of
+  Mattaniah, the son of Micha. Of the sons of Asaph, the singers <span
+  class="add">were</span> over the business of the house of God. </p>
+id: NEH/11/22
+next:
+  id: NEH/11/23
+  number: '23'
+previous:
+  id: NEH/11/21
+  number: '21'
+reference: 'Nehemiah 11:22'

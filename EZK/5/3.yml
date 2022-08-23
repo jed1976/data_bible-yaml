@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 5:3" class="v">3</span>Thou
+  shalt also take thereof a few in number, and bind them in thy skirts. </p>
+id: EZK/5/3
+next:
+  id: EZK/5/4
+  number: '4'
+previous:
+  id: EZK/5/2
+  number: '2'
+reference: 'Ezekiel 5:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 13:9" class="v">9</span>Then
+  Saul, (who also <span class="add">is called</span> Paul,) filled with the Holy
+  Ghost, set his eyes on him, </p>
+id: ACT/13/9
+next:
+  id: ACT/13/10
+  number: '10'
+previous:
+  id: ACT/13/8
+  number: '8'
+reference: 'Acts 13:9'

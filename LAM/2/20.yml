@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LAM 2:20" class="v">20</span>¶
+  Behold, O <span class="nd">LORD</span>, and consider to whom thou hast done
+  this. Shall the women eat their fruit, <span class="add">and</span> children
+  of a span long? shall the priest and the prophet be slain in the sanctuary of
+  the Lord? </p>
+id: LAM/2/20
+next:
+  id: LAM/2/21
+  number: '21'
+previous:
+  id: LAM/2/19
+  number: '19'
+reference: 'Lamentations 2:20'

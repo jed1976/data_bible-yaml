@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 6:13"
+  class="v">13</span>Then answered they and said before the king, That Daniel,
+  which <span class="add">is</span> of the children of the captivity of Judah,
+  regardeth not thee, O king, nor the decree that thou hast signed, but maketh
+  his petition three times a day. </p>
+id: DAN/6/13
+next:
+  id: DAN/6/14
+  number: '14'
+previous:
+  id: DAN/6/12
+  number: '12'
+reference: 'Daniel 6:13'

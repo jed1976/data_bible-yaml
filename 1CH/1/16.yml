@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CH 1:16" class="v">16</span>And
+  the Arvadite, and the Zemarite, and the Hamathite.</p>
+id: 1CH/1/16
+next:
+  id: 1CH/1/17
+  number: '17'
+previous:
+  id: 1CH/1/15
+  number: '15'
+reference: '1 Chronicles 1:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 20:1" class="v">1</span>The <span
+  class="nd">LORD</span> hear thee in the day of trouble; the name of the God of
+  Jacob defend thee;</p>
+id: PSA/20/1
+next:
+  id: PSA/20/2
+  number: '2'
+previous:
+  id: PSA/19/14
+  number: '14'
+reference: 'Psalms 20:1'

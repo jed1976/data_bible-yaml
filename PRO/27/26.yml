@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 27:26"
+  class="v">26</span>The lambs <span class="add">are</span> for thy clothing,
+  and the goats <span class="add">are</span> the price of the field. </p>
+id: PRO/27/26
+next:
+  id: PRO/27/27
+  number: '27'
+previous:
+  id: PRO/27/25
+  number: '25'
+reference: 'Proverbs 27:26'

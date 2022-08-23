@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 5:30"
+  class="v">30</span><span class="wj">And if thy right hand offend thee, cut it
+  off, and cast <span class="add">it</span> from thee: for it is profitable for
+  thee that one of thy members should perish, and not <span
+  class="add">that</span> thy whole body should be cast into hell.</span> </p>
+id: MAT/5/30
+next:
+  id: MAT/5/31
+  number: '31'
+previous:
+  id: MAT/5/29
+  number: '29'
+reference: 'Matthew 5:30'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NEH 9:21"
+  class="v">21</span>Yea, forty years didst thou sustain them in the wilderness,
+  <span class="add">so that</span> they lacked nothing; their clothes waxed not
+  old, and their feet swelled not. </p>
+id: NEH/9/21
+next:
+  id: NEH/9/22
+  number: '22'
+previous:
+  id: NEH/9/20
+  number: '20'
+reference: 'Nehemiah 9:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 22:20"
+  class="v">20</span>Have not I written to thee excellent things in counsels and
+  knowledge, </p>
+id: PRO/22/20
+next:
+  id: PRO/22/21
+  number: '21'
+previous:
+  id: PRO/22/19
+  number: '19'
+reference: 'Proverbs 22:20'

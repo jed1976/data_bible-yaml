@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 13:3"
+  class="v">3</span>Therefore they shall be as the morning cloud, and as the
+  early dew that passeth away, as the chaff <span class="add">that</span> is
+  driven with the whirlwind out of the floor, and as the smoke out of the
+  chimney. </p>
+id: HOS/13/3
+next:
+  id: HOS/13/4
+  number: '4'
+previous:
+  id: HOS/13/2
+  number: '2'
+reference: 'Hosea 13:3'

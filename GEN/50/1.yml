@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 50:1" class="v">1</span>And
+  Joseph fell upon his father’s face, and wept upon him, and kissed him. </p>
+id: GEN/50/1
+next:
+  id: GEN/50/2
+  number: '2'
+previous:
+  id: GEN/49/33
+  number: '33'
+reference: 'Genesis 50:1'

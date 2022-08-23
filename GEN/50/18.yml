@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 50:18"
+  class="v">18</span>And his brethren also went and fell down before his face;
+  and they said, Behold, we <span class="add">be</span> thy servants. </p>
+id: GEN/50/18
+next:
+  id: GEN/50/19
+  number: '19'
+previous:
+  id: GEN/50/17
+  number: '17'
+reference: 'Genesis 50:18'

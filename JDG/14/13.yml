@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 14:13"
+  class="v">13</span>But if ye cannot declare <span class="add">it</span> me,
+  then shall ye give me thirty sheets and thirty change of garments. And they
+  said unto him, Put forth thy riddle, that we may hear it. </p>
+id: JDG/14/13
+next:
+  id: JDG/14/14
+  number: '14'
+previous:
+  id: JDG/14/12
+  number: '12'
+reference: 'Judges 14:13'

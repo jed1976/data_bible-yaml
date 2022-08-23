@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 36:30"
+  class="v">30</span>Behold, he spreadeth his light upon it, and covereth the
+  bottom of the sea. </p>
+id: JOB/36/30
+next:
+  id: JOB/36/31
+  number: '31'
+previous:
+  id: JOB/36/29
+  number: '29'
+reference: 'Job 36:30'

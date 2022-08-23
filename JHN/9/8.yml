@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 9:8" class="v">8</span>¶ The
+  neighbours therefore, and they which before had seen him that he was blind,
+  said, Is not this he that sat and begged? </p>
+id: JHN/9/8
+next:
+  id: JHN/9/9
+  number: '9'
+previous:
+  id: JHN/9/7
+  number: '7'
+reference: 'John 9:8'

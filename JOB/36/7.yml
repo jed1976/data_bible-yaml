@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 36:7" class="v">7</span>He
+  withdraweth not his eyes from the righteous: but with kings <span
+  class="add">are they</span> on the throne; yea, he doth establish them for
+  ever, and they are exalted. </p>
+id: JOB/36/7
+next:
+  id: JOB/36/8
+  number: '8'
+previous:
+  id: JOB/36/6
+  number: '6'
+reference: 'Job 36:7'

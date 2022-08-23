@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 13:6" class="v">6</span>But
+  in all this <span class="add">time</span> was not I at Jerusalem: for in the
+  two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and
+  after certain days obtained I leave of the king: </p>
+id: NEH/13/6
+next:
+  id: NEH/13/7
+  number: '7'
+previous:
+  id: NEH/13/5
+  number: '5'
+reference: 'Nehemiah 13:6'

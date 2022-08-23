@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 32:22"
+  class="v">22</span>And hast given them this land, which thou didst swear to
+  their fathers to give them, a land flowing with milk and honey; </p>
+id: JER/32/22
+next:
+  id: JER/32/23
+  number: '23'
+previous:
+  id: JER/32/21
+  number: '21'
+reference: 'Jeremiah 32:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 149:7" class="v">7</span>To
+  execute vengeance upon the heathen, <span class="add">and</span> punishments
+  upon the people;</p>
+id: PSA/149/7
+next:
+  id: PSA/149/8
+  number: '8'
+previous:
+  id: PSA/149/6
+  number: '6'
+reference: 'Psalms 149:7'

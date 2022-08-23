@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 17:5" class="v">5</span>While
+  he yet spake, behold, a bright cloud overshadowed them: and behold a voice out
+  of the cloud, which said, This is my beloved Son, in whom I am well pleased;
+  hear ye him. </p>
+id: MAT/17/5
+next:
+  id: MAT/17/6
+  number: '6'
+previous:
+  id: MAT/17/4
+  number: '4'
+reference: 'Matthew 17:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JER 44:24"
+  class="v">24</span>Moreover Jeremiah said unto all the people, and to all the
+  women, Hear the word of the <span class="nd">LORD</span>, all Judah that <span
+  class="add">are</span> in the land of Egypt: </p>
+id: JER/44/24
+next:
+  id: JER/44/25
+  number: '25'
+previous:
+  id: JER/44/23
+  number: '23'
+reference: 'Jeremiah 44:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 11:16"
+  class="v">16</span>And the owl, and the night hawk, and the cuckow, and the
+  hawk after his kind, </p>
+id: LEV/11/16
+next:
+  id: LEV/11/17
+  number: '17'
+previous:
+  id: LEV/11/15
+  number: '15'
+reference: 'Leviticus 11:16'

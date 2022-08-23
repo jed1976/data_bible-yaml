@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LAM 3:33" class="v">33</span>For
+  he doth not afflict willingly nor grieve the children of men. </p>
+id: LAM/3/33
+next:
+  id: LAM/3/34
+  number: '34'
+previous:
+  id: LAM/3/32
+  number: '32'
+reference: 'Lamentations 3:33'

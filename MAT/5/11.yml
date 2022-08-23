@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 5:11"
+  class="v">11</span><span class="wj">Blessed are ye, when <span
+  class="add">men</span> shall revile you, and persecute <span
+  class="add">you</span>, and shall say all manner of evil against you falsely,
+  for my sake.</span> </p>
+id: MAT/5/11
+next:
+  id: MAT/5/12
+  number: '12'
+previous:
+  id: MAT/5/10
+  number: '10'
+reference: 'Matthew 5:11'

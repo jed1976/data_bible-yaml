@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 1:11" class="v">11</span>For
+  I long to see you, that I may impart unto you some spiritual gift, to the end
+  ye may be established; </p>
+id: ROM/1/11
+next:
+  id: ROM/1/12
+  number: '12'
+previous:
+  id: ROM/1/10
+  number: '10'
+reference: 'Romans 1:11'

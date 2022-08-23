@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 10:23"
+  class="v">23</span>And they did so, and brought forth those five kings unto
+  him out of the cave, the king of Jerusalem, the king of Hebron, the king of
+  Jarmuth, the king of Lachish, <span class="add">and</span> the king of Eglon.
+  </p>
+id: JOS/10/23
+next:
+  id: JOS/10/24
+  number: '24'
+previous:
+  id: JOS/10/22
+  number: '22'
+reference: 'Joshua 10:23'

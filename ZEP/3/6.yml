@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEP 3:6" class="v">6</span>I have
+  cut off the nations: their towers are desolate; I made their streets waste,
+  that none passeth by: their cities are destroyed, so that there is no man,
+  that there is none inhabitant. </p>
+id: ZEP/3/6
+next:
+  id: ZEP/3/7
+  number: '7'
+previous:
+  id: ZEP/3/5
+  number: '5'
+reference: 'Zephaniah 3:6'

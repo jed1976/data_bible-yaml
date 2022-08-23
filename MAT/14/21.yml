@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 14:21"
+  class="v">21</span>And they that had eaten were about five thousand men,
+  beside women and children.</p>
+id: MAT/14/21
+next:
+  id: MAT/14/22
+  number: '22'
+previous:
+  id: MAT/14/20
+  number: '20'
+reference: 'Matthew 14:21'

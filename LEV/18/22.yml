@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 18:22"
+  class="v">22</span>Thou shalt not lie with mankind, as with womankind: it
+  <span class="add">is</span> abomination. </p>
+id: LEV/18/22
+next:
+  id: LEV/18/23
+  number: '23'
+previous:
+  id: LEV/18/21
+  number: '21'
+reference: 'Leviticus 18:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 11:18" class="v">18</span>¶
+  And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to
+  wife, <span class="add">and</span> Abihail the daughter of Eliab the son of
+  Jesse; </p>
+id: 2CH/11/18
+next:
+  id: 2CH/11/19
+  number: '19'
+previous:
+  id: 2CH/11/17
+  number: '17'
+reference: '2 Chronicles 11:18'

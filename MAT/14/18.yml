@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 14:18" class="v">18</span>He
+  said, <span class="wj">Bring them hither to me.</span> </p>
+id: MAT/14/18
+next:
+  id: MAT/14/19
+  number: '19'
+previous:
+  id: MAT/14/17
+  number: '17'
+reference: 'Matthew 14:18'

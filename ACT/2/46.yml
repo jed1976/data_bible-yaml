@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="ACT 2:46" class="v">46</span>And
+  they, continuing daily with one accord in the temple, and breaking bread from
+  house to house, did eat their meat with gladness and singleness of heart, </p>
+id: ACT/2/46
+next:
+  id: ACT/2/47
+  number: '47'
+previous:
+  id: ACT/2/45
+  number: '45'
+reference: 'Acts 2:46'

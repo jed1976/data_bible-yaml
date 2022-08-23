@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 17:36"
+  class="v">36</span><span class="wj">Two <span class="add">men</span> shall be
+  in the field; the one shall be taken, and the other left.</span> </p>
+id: LUK/17/36
+next:
+  id: LUK/17/37
+  number: '37'
+previous:
+  id: LUK/17/35
+  number: '35'
+reference: 'Luke 17:36'

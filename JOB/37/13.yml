@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 37:13" class="v">13</span>He
+  causeth it to come, whether for correction, or for his land, or for mercy.</p>
+id: JOB/37/13
+next:
+  id: JOB/37/14
+  number: '14'
+previous:
+  id: JOB/37/12
+  number: '12'
+reference: 'Job 37:13'

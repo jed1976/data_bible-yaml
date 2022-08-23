@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 20:17" class="v">17</span>¶
+  And Jesus going up to Jerusalem took the twelve disciples apart in the way,
+  and said unto them, </p>
+id: MAT/20/17
+next:
+  id: MAT/20/18
+  number: '18'
+previous:
+  id: MAT/20/16
+  number: '16'
+reference: 'Matthew 20:17'

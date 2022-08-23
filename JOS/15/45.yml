@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JOS 15:45"
+  class="v">45</span>Ekron, with her towns and her villages: </p>
+id: JOS/15/45
+next:
+  id: JOS/15/46
+  number: '46'
+previous:
+  id: JOS/15/44
+  number: '44'
+reference: 'Joshua 15:45'

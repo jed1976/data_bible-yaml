@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 30:25"
+  class="v">25</span>And there shall be upon every high mountain, and upon every
+  high hill, rivers <span class="add">and</span> streams of waters in the day of
+  the great slaughter, when the towers fall. </p>
+id: ISA/30/25
+next:
+  id: ISA/30/26
+  number: '26'
+previous:
+  id: ISA/30/24
+  number: '24'
+reference: 'Isaiah 30:25'

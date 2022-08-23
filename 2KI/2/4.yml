@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 2:4" class="v">4</span>And
+  Elijah said unto him, Elisha, tarry here, I pray thee; for the <span
+  class="nd">LORD</span> hath sent me to Jericho. And he said, <span
+  class="add">As</span> the <span class="nd">LORD</span> liveth, and <span
+  class="add">as</span> thy soul liveth, I will not leave thee. So they came to
+  Jericho. </p>
+id: 2KI/2/4
+next:
+  id: 2KI/2/5
+  number: '5'
+previous:
+  id: 2KI/2/3
+  number: '3'
+reference: '2 Kings 2:4'

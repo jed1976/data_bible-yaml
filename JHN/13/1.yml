@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 13:1" class="v">1</span>Now
+  before the feast of the passover, when Jesus knew that his hour was come that
+  he should depart out of this world unto the Father, having loved his own which
+  were in the world, he loved them unto the end. </p>
+id: JHN/13/1
+next:
+  id: JHN/13/2
+  number: '2'
+previous:
+  id: JHN/12/50
+  number: '50'
+reference: 'John 13:1'

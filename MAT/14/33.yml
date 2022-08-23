@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 14:33"
+  class="v">33</span>Then they that were in the ship came and worshipped him,
+  saying, Of a truth thou art the Son of God.</p>
+id: MAT/14/33
+next:
+  id: MAT/14/34
+  number: '34'
+previous:
+  id: MAT/14/32
+  number: '32'
+reference: 'Matthew 14:33'

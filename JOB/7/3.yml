@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 7:3" class="v">3</span>So am
+  I made to possess months of vanity, and wearisome nights are appointed to me.
+  </p>
+id: JOB/7/3
+next:
+  id: JOB/7/4
+  number: '4'
+previous:
+  id: JOB/7/2
+  number: '2'
+reference: 'Job 7:3'

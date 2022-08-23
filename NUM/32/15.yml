@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 32:15"
+  class="v">15</span>For if ye turn away from after him, he will yet again leave
+  them in the wilderness; and ye shall destroy all this people.</p>
+id: NUM/32/15
+next:
+  id: NUM/32/16
+  number: '16'
+previous:
+  id: NUM/32/14
+  number: '14'
+reference: 'Numbers 32:15'

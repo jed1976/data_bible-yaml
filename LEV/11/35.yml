@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LEV 11:35"
+  class="v">35</span>And every <span class="add">thing</span> whereupon <span
+  class="add">any part</span> of their carcase falleth shall be unclean; <span
+  class="add">whether it be</span> oven, or ranges for pots, they shall be
+  broken down: <span class="add">for</span> they <span class="add">are</span>
+  unclean, and shall be unclean unto you. </p>
+id: LEV/11/35
+next:
+  id: LEV/11/36
+  number: '36'
+previous:
+  id: LEV/11/34
+  number: '34'
+reference: 'Leviticus 11:35'

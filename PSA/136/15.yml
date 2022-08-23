@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 136:15"
+  class="v">15</span>But overthrew Pharaoh and his host in the Red sea: for his
+  mercy <span class="add">endureth</span> for ever.</p>
+id: PSA/136/15
+next:
+  id: PSA/136/16
+  number: '16'
+previous:
+  id: PSA/136/14
+  number: '14'
+reference: 'Psalms 136:15'

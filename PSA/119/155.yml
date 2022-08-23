@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="155" data-sid="PSA 119:155"
+  class="v">155</span>Salvation <span class="add">is</span> far from the wicked:
+  for they seek not thy statutes.</p>
+id: PSA/119/155
+next:
+  id: PSA/119/156
+  number: '156'
+previous:
+  id: PSA/119/154
+  number: '154'
+reference: 'Psalms 119:155'

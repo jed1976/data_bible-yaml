@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="TIT 2:8" class="v">8</span>Sound
+  speech, that cannot be condemned; that he that is of the contrary part may be
+  ashamed, having no evil thing to say of you. </p>
+id: TIT/2/8
+next:
+  id: TIT/2/9
+  number: '9'
+previous:
+  id: TIT/2/7
+  number: '7'
+reference: 'Titus 2:8'

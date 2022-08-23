@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 16:32"
+  class="v">32</span><span class="wj">Behold, the hour cometh, yea, is now come,
+  that ye shall be scattered, every man to his own, and shall leave me alone:
+  and yet I am not alone, because the Father is with me.</span> </p>
+id: JHN/16/32
+next:
+  id: JHN/16/33
+  number: '33'
+previous:
+  id: JHN/16/31
+  number: '31'
+reference: 'John 16:32'

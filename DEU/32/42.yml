@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DEU 32:42" class="v">42</span>I
+  will make mine arrows drunk with blood, and my sword shall devour flesh; <span
+  class="add">and that</span> with the blood of the slain and of the captives,
+  from the beginning of revenges upon the enemy. </p>
+id: DEU/32/42
+next:
+  id: DEU/32/43
+  number: '43'
+previous:
+  id: DEU/32/41
+  number: '41'
+reference: 'Deuteronomy 32:42'

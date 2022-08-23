@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 22:23"
+  class="v">23</span>And as they cried out, and cast off <span
+  class="add">their</span> clothes, and threw dust into the air, </p>
+id: ACT/22/23
+next:
+  id: ACT/22/24
+  number: '24'
+previous:
+  id: ACT/22/22
+  number: '22'
+reference: 'Acts 22:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 71:8" class="v">8</span>Let
+  my mouth be filled <span class="add">with</span> thy praise <span
+  class="add">and with</span> thy honour all the day.</p>
+id: PSA/71/8
+next:
+  id: PSA/71/9
+  number: '9'
+previous:
+  id: PSA/71/7
+  number: '7'
+reference: 'Psalms 71:8'

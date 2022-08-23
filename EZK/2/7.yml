@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 2:7" class="v">7</span>And
+  thou shalt speak my words unto them, whether they will hear, or whether they
+  will forbear: for they <span class="add">are</span> most rebellious. </p>
+id: EZK/2/7
+next:
+  id: EZK/2/8
+  number: '8'
+previous:
+  id: EZK/2/6
+  number: '6'
+reference: 'Ezekiel 2:7'

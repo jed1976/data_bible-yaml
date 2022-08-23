@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 68:20"
+  class="v">20</span><span class="add">He that is</span> our God <span
+  class="add">is</span> the God of salvation; and unto <span
+  class="nd">GOD</span> the Lord <span class="add">belong</span> the issues from
+  death.</p>
+id: PSA/68/20
+next:
+  id: PSA/68/21
+  number: '21'
+previous:
+  id: PSA/68/19
+  number: '19'
+reference: 'Psalms 68:20'

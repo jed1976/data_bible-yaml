@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 6:24" class="v">24</span>And
+  they burnt the city with fire, and all that <span class="add">was</span>
+  therein: only the silver, and the gold, and the vessels of brass and of iron,
+  they put into the treasury of the house of the <span class="nd">LORD</span>.
+  </p>
+id: JOS/6/24
+next:
+  id: JOS/6/25
+  number: '25'
+previous:
+  id: JOS/6/23
+  number: '23'
+reference: 'Joshua 6:24'

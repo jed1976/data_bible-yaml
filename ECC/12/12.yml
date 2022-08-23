@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 12:12"
+  class="v">12</span>And further, by these, my son, be admonished: of making
+  many books <span class="add">there is</span> no end; and much study <span
+  class="add">is</span> a weariness of the flesh.</p>
+id: ECC/12/12
+next:
+  id: ECC/12/13
+  number: '13'
+previous:
+  id: ECC/12/11
+  number: '11'
+reference: 'Ecclesiastes 12:12'

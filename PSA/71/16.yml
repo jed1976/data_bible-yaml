@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 71:16" class="v">16</span>I
+  will go in the strength of the Lord <span class="nd">GOD</span>: I will make
+  mention of thy righteousness, <span class="add">even</span> of thine only.</p>
+id: PSA/71/16
+next:
+  id: PSA/71/17
+  number: '17'
+previous:
+  id: PSA/71/15
+  number: '15'
+reference: 'Psalms 71:16'

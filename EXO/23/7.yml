@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 23:7" class="v">7</span>Keep
+  thee far from a false matter; and the innocent and righteous slay thou not:
+  for I will not justify the wicked.</p>
+id: EXO/23/7
+next:
+  id: EXO/23/8
+  number: '8'
+previous:
+  id: EXO/23/6
+  number: '6'
+reference: 'Exodus 23:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CO 5:6" class="v">6</span>Your
+  glorying <span class="add">is</span> not good. Know ye not that a little
+  leaven leaveneth the whole lump? </p>
+id: 1CO/5/6
+next:
+  id: 1CO/5/7
+  number: '7'
+previous:
+  id: 1CO/5/5
+  number: '5'
+reference: '1 Corinthians 5:6'

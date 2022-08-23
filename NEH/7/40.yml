@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NEH 7:40" class="v">40</span>The
+  children of Immer, a thousand fifty and two. </p>
+id: NEH/7/40
+next:
+  id: NEH/7/41
+  number: '41'
+previous:
+  id: NEH/7/39
+  number: '39'
+reference: 'Nehemiah 7:40'

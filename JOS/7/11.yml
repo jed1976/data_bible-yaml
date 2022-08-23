@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 7:11"
+  class="v">11</span>Israel hath sinned, and they have also transgressed my
+  covenant which I commanded them: for they have even taken of the accursed
+  thing, and have also stolen, and dissembled also, and they have put <span
+  class="add">it</span> even among their own stuff. </p>
+id: JOS/7/11
+next:
+  id: JOS/7/12
+  number: '12'
+previous:
+  id: JOS/7/10
+  number: '10'
+reference: 'Joshua 7:11'

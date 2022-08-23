@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 11:6" class="v">6</span>And
+  they said unto them even as Jesus had commanded: and they let them go. </p>
+id: MRK/11/6
+next:
+  id: MRK/11/7
+  number: '7'
+previous:
+  id: MRK/11/5
+  number: '5'
+reference: 'Mark 11:6'

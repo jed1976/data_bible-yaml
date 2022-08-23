@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JER 50:40" class="v">40</span>As
+  God overthrew Sodom and Gomorrah and the neighbour <span
+  class="add">cities</span> thereof, saith the <span class="nd">LORD</span>;
+  <span class="add">so</span> shall no man abide there, neither shall any son of
+  man dwell therein. </p>
+id: JER/50/40
+next:
+  id: JER/50/41
+  number: '41'
+previous:
+  id: JER/50/39
+  number: '39'
+reference: 'Jeremiah 50:40'

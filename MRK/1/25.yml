@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 1:25" class="v">25</span>And
+  Jesus rebuked him, saying, <span class="wj">Hold thy peace, and come out of
+  him.</span> </p>
+id: MRK/1/25
+next:
+  id: MRK/1/26
+  number: '26'
+previous:
+  id: MRK/1/24
+  number: '24'
+reference: 'Mark 1:25'

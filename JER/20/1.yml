@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 20:1" class="v">1</span>Now
+  Pashur the son of Immer the priest, who <span class="add">was</span> also
+  chief governor in the house of the <span class="nd">LORD</span>, heard that
+  Jeremiah prophesied these things. </p>
+id: JER/20/1
+next:
+  id: JER/20/2
+  number: '2'
+previous:
+  id: JER/19/15
+  number: '15'
+reference: 'Jeremiah 20:1'

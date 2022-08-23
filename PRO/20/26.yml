@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 20:26" class="v">26</span>A
+  wise king scattereth the wicked, and bringeth the wheel over them. </p>
+id: PRO/20/26
+next:
+  id: PRO/20/27
+  number: '27'
+previous:
+  id: PRO/20/25
+  number: '25'
+reference: 'Proverbs 20:26'

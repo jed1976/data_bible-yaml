@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="GEN 36:39"
+  class="v">39</span>And Baal-hanan the son of Achbor died, and Hadar reigned in
+  his stead: and the name of his city <span class="add">was</span> Pau; and his
+  wife’s name <span class="add">was</span> Mehetabel, the daughter of Matred,
+  the daughter of Mezahab. </p>
+id: GEN/36/39
+next:
+  id: GEN/36/40
+  number: '40'
+previous:
+  id: GEN/36/38
+  number: '38'
+reference: 'Genesis 36:39'

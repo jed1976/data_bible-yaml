@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MRK 14:46" class="v">46</span>¶
+  And they laid their hands on him, and took him. </p>
+id: MRK/14/46
+next:
+  id: MRK/14/47
+  number: '47'
+previous:
+  id: MRK/14/45
+  number: '45'
+reference: 'Mark 14:46'

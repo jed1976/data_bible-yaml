@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 8:12" class="v">12</span>And
+  he took about five thousand men, and set them to lie in ambush between Beth-el
+  and Ai, on the west side of the city. </p>
+id: JOS/8/12
+next:
+  id: JOS/8/13
+  number: '13'
+previous:
+  id: JOS/8/11
+  number: '11'
+reference: 'Joshua 8:12'

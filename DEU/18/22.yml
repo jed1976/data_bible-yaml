@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 18:22"
+  class="v">22</span>When a prophet speaketh in the name of the <span
+  class="nd">LORD</span>, if the thing follow not, nor come to pass, that <span
+  class="add">is</span> the thing which the <span class="nd">LORD</span> hath
+  not spoken, <span class="add">but</span> the prophet hath spoken it
+  presumptuously: thou shalt not be afraid of him.</p>
+id: DEU/18/22
+next:
+  id: DEU/19/1
+  number: '1'
+previous:
+  id: DEU/18/21
+  number: '21'
+reference: 'Deuteronomy 18:22'

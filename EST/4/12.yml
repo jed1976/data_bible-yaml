@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 4:12" class="v">12</span>And
+  they told to Mordecai Esther’s words. </p>
+id: EST/4/12
+next:
+  id: EST/4/13
+  number: '13'
+previous:
+  id: EST/4/11
+  number: '11'
+reference: 'Esther 4:12'

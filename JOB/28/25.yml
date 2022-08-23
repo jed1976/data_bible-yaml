@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 28:25" class="v">25</span>To
+  make the weight for the winds; and he weigheth the waters by measure. </p>
+id: JOB/28/25
+next:
+  id: JOB/28/26
+  number: '26'
+previous:
+  id: JOB/28/24
+  number: '24'
+reference: 'Job 28:25'

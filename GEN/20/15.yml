@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 20:15"
+  class="v">15</span>And Abimelech said, Behold, my land <span
+  class="add">is</span> before thee: dwell where it pleaseth thee. </p>
+id: GEN/20/15
+next:
+  id: GEN/20/16
+  number: '16'
+previous:
+  id: GEN/20/14
+  number: '14'
+reference: 'Genesis 20:15'

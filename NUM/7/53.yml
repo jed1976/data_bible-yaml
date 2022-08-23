@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="NUM 7:53" class="v">53</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Elishama the son of Ammihud.</p>
+id: NUM/7/53
+next:
+  id: NUM/7/54
+  number: '54'
+previous:
+  id: NUM/7/52
+  number: '52'
+reference: 'Numbers 7:53'

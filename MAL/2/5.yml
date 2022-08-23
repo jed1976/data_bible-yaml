@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAL 2:5" class="v">5</span>My
+  covenant was with him of life and peace; and I gave them to him <span
+  class="add">for</span> the fear wherewith he feared me, and was afraid before
+  my name. </p>
+id: MAL/2/5
+next:
+  id: MAL/2/6
+  number: '6'
+previous:
+  id: MAL/2/4
+  number: '4'
+reference: 'Malachi 2:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 88:8" class="v">8</span>Thou
+  hast put away mine acquaintance far from me; thou hast made me an abomination
+  unto them: <span class="add">I am</span> shut up, and I cannot come forth.</p>
+id: PSA/88/8
+next:
+  id: PSA/88/9
+  number: '9'
+previous:
+  id: PSA/88/7
+  number: '7'
+reference: 'Psalms 88:8'

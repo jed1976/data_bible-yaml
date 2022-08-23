@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 18:21"
+  class="v">21</span>For I have kept the ways of the <span
+  class="nd">LORD</span>, and have not wickedly departed from my God.</p>
+id: PSA/18/21
+next:
+  id: PSA/18/22
+  number: '22'
+previous:
+  id: PSA/18/20
+  number: '20'
+reference: 'Psalms 18:21'

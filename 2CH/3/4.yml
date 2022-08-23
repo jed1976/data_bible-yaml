@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 3:4" class="v">4</span>And
+  the porch that <span class="add">was</span> in the front <span class="add">of
+  the house</span>, the length <span class="add">of it was</span> according to
+  the breadth of the house, twenty cubits, and the height <span
+  class="add">was</span> an hundred and twenty: and he overlaid it within with
+  pure gold. </p>
+id: 2CH/3/4
+next:
+  id: 2CH/3/5
+  number: '5'
+previous:
+  id: 2CH/3/3
+  number: '3'
+reference: '2 Chronicles 3:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 18:11"
+  class="v">11</span>He made darkness his secret place; his pavilion round about
+  him <span class="add">were</span> dark waters <span class="add">and</span>
+  thick clouds of the skies.</p>
+id: PSA/18/11
+next:
+  id: PSA/18/12
+  number: '12'
+previous:
+  id: PSA/18/10
+  number: '10'
+reference: 'Psalms 18:11'

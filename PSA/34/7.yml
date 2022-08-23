@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 34:7" class="v">7</span>The
+  angel of the <span class="nd">LORD</span> encampeth round about them that fear
+  him, and delivereth them.</p>
+id: PSA/34/7
+next:
+  id: PSA/34/8
+  number: '8'
+previous:
+  id: PSA/34/6
+  number: '6'
+reference: 'Psalms 34:7'

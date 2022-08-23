@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 42:6" class="v">6</span>And
+  Joseph <span class="add">was</span> the governor over the land, <span
+  class="add">and</span> he <span class="add">it was</span> that sold to all the
+  people of the land: and Joseph’s brethren came, and bowed down themselves
+  before him <span class="add">with</span> their faces to the earth.</p>
+id: GEN/42/6
+next:
+  id: GEN/42/7
+  number: '7'
+previous:
+  id: GEN/42/5
+  number: '5'
+reference: 'Genesis 42:6'

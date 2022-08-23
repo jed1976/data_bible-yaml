@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EST 2:23" class="v">23</span>And
+  when inquisition was made of the matter, it was found out; therefore they were
+  both hanged on a tree: and it was written in the book of the chronicles before
+  the king.</p>
+id: EST/2/23
+next:
+  id: EST/3/1
+  number: '1'
+previous:
+  id: EST/2/22
+  number: '22'
+reference: 'Esther 2:23'

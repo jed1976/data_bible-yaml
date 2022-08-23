@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 37:32"
+  class="v">32</span>The wicked watcheth the righteous, and seeketh to slay
+  him.</p>
+id: PSA/37/32
+next:
+  id: PSA/37/33
+  number: '33'
+previous:
+  id: PSA/37/31
+  number: '31'
+reference: 'Psalms 37:32'

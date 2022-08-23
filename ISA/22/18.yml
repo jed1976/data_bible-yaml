@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 22:18" class="v">18</span>He
+  will surely violently turn and toss thee <span class="add">like</span> a ball
+  into a large country: there shalt thou die, and there the chariots of thy
+  glory <span class="add">shall be</span> the shame of thy lord’s house. </p>
+id: ISA/22/18
+next:
+  id: ISA/22/19
+  number: '19'
+previous:
+  id: ISA/22/17
+  number: '17'
+reference: 'Isaiah 22:18'

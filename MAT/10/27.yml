@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 10:27"
+  class="v">27</span><span class="wj">What I tell you in darkness, <span
+  class="add">that</span> speak ye in light: and what ye hear in the ear, <span
+  class="add">that</span> preach ye upon the housetops.</span> </p>
+id: MAT/10/27
+next:
+  id: MAT/10/28
+  number: '28'
+previous:
+  id: MAT/10/26
+  number: '26'
+reference: 'Matthew 10:27'

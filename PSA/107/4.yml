@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 107:4"
+  class="v">4</span>They wandered in the wilderness in a solitary way; they
+  found no city to dwell in.</p>
+id: PSA/107/4
+next:
+  id: PSA/107/5
+  number: '5'
+previous:
+  id: PSA/107/3
+  number: '3'
+reference: 'Psalms 107:4'

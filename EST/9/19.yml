@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EST 9:19"
+  class="v">19</span>Therefore the Jews of the villages, that dwelt in the
+  unwalled towns, made the fourteenth day of the month Adar <span class="add">a
+  day of</span> gladness and feasting, and a good day, and of sending portions
+  one to another.</p>
+id: EST/9/19
+next:
+  id: EST/9/20
+  number: '20'
+previous:
+  id: EST/9/18
+  number: '18'
+reference: 'Esther 9:19'

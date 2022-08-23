@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="NUM 31:38"
+  class="v">38</span>And the beeves <span class="add">were</span> thirty and six
+  thousand; of which the <span class="nd">LORD’s</span> tribute <span
+  class="add">was</span> threescore and twelve. </p>
+id: NUM/31/38
+next:
+  id: NUM/31/39
+  number: '39'
+previous:
+  id: NUM/31/37
+  number: '37'
+reference: 'Numbers 31:38'

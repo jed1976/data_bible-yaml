@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 5:26" class="v">26</span>For
+  who <span class="add">is there of</span> all flesh, that hath heard the voice
+  of the living God speaking out of the midst of the fire, as we <span
+  class="add">have</span>, and lived? </p>
+id: DEU/5/26
+next:
+  id: DEU/5/27
+  number: '27'
+previous:
+  id: DEU/5/25
+  number: '25'
+reference: 'Deuteronomy 5:26'

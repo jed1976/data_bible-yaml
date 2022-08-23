@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 24:25"
+  class="v">25</span>She said moreover unto him, We have both straw and
+  provender enough, and room to lodge in. </p>
+id: GEN/24/25
+next:
+  id: GEN/24/26
+  number: '26'
+previous:
+  id: GEN/24/24
+  number: '24'
+reference: 'Genesis 24:25'

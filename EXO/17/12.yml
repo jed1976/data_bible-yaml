@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 17:12"
+  class="v">12</span>But Moses’ hands <span class="add">were</span> heavy; and
+  they took a stone, and put <span class="add">it</span> under him, and he sat
+  thereon; and Aaron and Hur stayed up his hands, the one on the one side, and
+  the other on the other side; and his hands were steady until the going down of
+  the sun. </p>
+id: EXO/17/12
+next:
+  id: EXO/17/13
+  number: '13'
+previous:
+  id: EXO/17/11
+  number: '11'
+reference: 'Exodus 17:12'

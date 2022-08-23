@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="GEN 27:38"
+  class="v">38</span>And Esau said unto his father, Hast thou but one blessing,
+  my father? bless me, <span class="add">even</span> me also, O my father. And
+  Esau lifted up his voice, and wept. </p>
+id: GEN/27/38
+next:
+  id: GEN/27/39
+  number: '39'
+previous:
+  id: GEN/27/37
+  number: '37'
+reference: 'Genesis 27:38'

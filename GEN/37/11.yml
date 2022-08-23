@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 37:11"
+  class="v">11</span>And his brethren envied him; but his father observed the
+  saying.</p>
+id: GEN/37/11
+next:
+  id: GEN/37/12
+  number: '12'
+previous:
+  id: GEN/37/10
+  number: '10'
+reference: 'Genesis 37:11'

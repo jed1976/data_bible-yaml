@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 11:6" class="v">6</span>And
+  they said unto Jephthah, Come, and be our captain, that we may fight with the
+  children of Ammon. </p>
+id: JDG/11/6
+next:
+  id: JDG/11/7
+  number: '7'
+previous:
+  id: JDG/11/5
+  number: '5'
+reference: 'Judges 11:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 6:9" class="v">9</span>¶
+  Better <span class="add">is</span> the sight of the eyes than the wandering of
+  the desire: this <span class="add">is</span> also vanity and vexation of
+  spirit. </p>
+id: ECC/6/9
+next:
+  id: ECC/6/10
+  number: '10'
+previous:
+  id: ECC/6/8
+  number: '8'
+reference: 'Ecclesiastes 6:9'

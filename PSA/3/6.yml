@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 3:6" class="v">6</span>I
+  will not be afraid of ten thousands of people, that have set <span
+  class="add">themselves</span> against me round about.</p>
+id: PSA/3/6
+next:
+  id: PSA/3/7
+  number: '7'
+previous:
+  id: PSA/3/5
+  number: '5'
+reference: 'Psalms 3:6'

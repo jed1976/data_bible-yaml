@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 10:12"
+  class="v">12</span>Wherefore it shall come to pass, <span
+  class="add">that</span> when the Lord hath performed his whole work upon mount
+  Zion and on Jerusalem, I will punish the fruit of the stout heart of the king
+  of Assyria, and the glory of his high looks. </p>
+id: ISA/10/12
+next:
+  id: ISA/10/13
+  number: '13'
+previous:
+  id: ISA/10/11
+  number: '11'
+reference: 'Isaiah 10:12'

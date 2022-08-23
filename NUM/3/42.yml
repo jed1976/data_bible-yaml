@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 3:42" class="v">42</span>And
+  Moses numbered, as the <span class="nd">LORD</span> commanded him, all the
+  firstborn among the children of Israel. </p>
+id: NUM/3/42
+next:
+  id: NUM/3/43
+  number: '43'
+previous:
+  id: NUM/3/41
+  number: '41'
+reference: 'Numbers 3:42'

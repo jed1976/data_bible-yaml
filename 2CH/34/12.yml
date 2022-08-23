@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 34:12"
+  class="v">12</span>And the men did the work faithfully: and the overseers of
+  them <span class="add">were</span> Jahath and Obadiah, the Levites, of the
+  sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to
+  set <span class="add">it</span> forward; and <span class="add">other of</span>
+  the Levites, all that could skill of instruments of musick. </p>
+id: 2CH/34/12
+next:
+  id: 2CH/34/13
+  number: '13'
+previous:
+  id: 2CH/34/11
+  number: '11'
+reference: '2 Chronicles 34:12'

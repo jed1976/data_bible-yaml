@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 12:11" class="v">11</span>¶
+  And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten
+  years. </p>
+id: JDG/12/11
+next:
+  id: JDG/12/12
+  number: '12'
+previous:
+  id: JDG/12/10
+  number: '10'
+reference: 'Judges 12:11'

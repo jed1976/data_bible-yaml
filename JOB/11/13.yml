@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 11:13" class="v">13</span>If
+  thou prepare thine heart, and stretch out thine hands toward him; </p>
+id: JOB/11/13
+next:
+  id: JOB/11/14
+  number: '14'
+previous:
+  id: JOB/11/12
+  number: '12'
+reference: 'Job 11:13'

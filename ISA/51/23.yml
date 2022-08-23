@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 51:23"
+  class="v">23</span>But I will put it into the hand of them that afflict thee;
+  which have said to thy soul, Bow down, that we may go over: and thou hast laid
+  thy body as the ground, and as the street, to them that went over.</p>
+id: ISA/51/23
+next:
+  id: ISA/52/1
+  number: '1'
+previous:
+  id: ISA/51/22
+  number: '22'
+reference: 'Isaiah 51:23'

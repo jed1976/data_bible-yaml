@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 32:22"
+  class="v">22</span>Asshur <span class="add">is</span> there and all her
+  company: his graves <span class="add">are</span> about him: all of them slain,
+  fallen by the sword: </p>
+id: EZK/32/22
+next:
+  id: EZK/32/23
+  number: '23'
+previous:
+  id: EZK/32/21
+  number: '21'
+reference: 'Ezekiel 32:22'

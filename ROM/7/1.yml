@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 7:1" class="v">1</span>Know
+  ye not, brethren, (for I speak to them that know the law,) how that the law
+  hath dominion over a man as long as he liveth? </p>
+id: ROM/7/1
+next:
+  id: ROM/7/2
+  number: '2'
+previous:
+  id: ROM/6/23
+  number: '23'
+reference: 'Romans 7:1'

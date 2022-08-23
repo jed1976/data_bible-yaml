@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 10:8" class="v">8</span><span
+  class="wj">Heal the sick, cleanse the lepers, raise the dead, cast out devils:
+  freely ye have received, freely give.</span> </p>
+id: MAT/10/8
+next:
+  id: MAT/10/9
+  number: '9'
+previous:
+  id: MAT/10/7
+  number: '7'
+reference: 'Matthew 10:8'

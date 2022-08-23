@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 13:11"
+  class="v">11</span>And he did <span class="add">that which was</span> evil in
+  the sight of the <span class="nd">LORD</span>; he departed not from all the
+  sins of Jeroboam the son of Nebat, who made Israel sin: <span
+  class="add">but</span> he walked therein. </p>
+id: 2KI/13/11
+next:
+  id: 2KI/13/12
+  number: '12'
+previous:
+  id: 2KI/13/10
+  number: '10'
+reference: '2 Kings 13:11'

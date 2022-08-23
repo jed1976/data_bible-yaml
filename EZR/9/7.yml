@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZR 9:7" class="v">7</span>Since
+  the days of our fathers <span class="add">have</span> we <span
+  class="add">been</span> in a great trespass unto this day; and for our
+  iniquities have we, our kings, <span class="add">and</span> our priests, been
+  delivered into the hand of the kings of the lands, to the sword, to captivity,
+  and to a spoil, and to confusion of face, as <span class="add">it is</span>
+  this day. </p>
+id: EZR/9/7
+next:
+  id: EZR/9/8
+  number: '8'
+previous:
+  id: EZR/9/6
+  number: '6'
+reference: 'Ezra 9:7'

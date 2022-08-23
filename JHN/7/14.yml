@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 7:14" class="v">14</span>¶
+  Now about the midst of the feast Jesus went up into the temple, and taught.
+  </p>
+id: JHN/7/14
+next:
+  id: JHN/7/15
+  number: '15'
+previous:
+  id: JHN/7/13
+  number: '13'
+reference: 'John 7:14'

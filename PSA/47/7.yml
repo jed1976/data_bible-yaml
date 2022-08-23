@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 47:7" class="v">7</span>For
+  God <span class="add">is</span> the King of all the earth: sing ye praises
+  with understanding.</p>
+id: PSA/47/7
+next:
+  id: PSA/47/8
+  number: '8'
+previous:
+  id: PSA/47/6
+  number: '6'
+reference: 'Psalms 47:7'

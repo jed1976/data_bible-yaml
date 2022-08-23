@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 14:15"
+  class="v">15</span><span class="wj">¶ If ye love me, keep my
+  commandments.</span> </p>
+id: JHN/14/15
+next:
+  id: JHN/14/16
+  number: '16'
+previous:
+  id: JHN/14/14
+  number: '14'
+reference: 'John 14:15'

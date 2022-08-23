@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 9:21"
+  class="v">21</span>Manasseh, Ephraim; and Ephraim, Manasseh: <span
+  class="add">and</span> they together <span class="add">shall be</span> against
+  Judah. For all this his anger is not turned away, but his hand <span
+  class="add">is</span> stretched out still.</p>
+id: ISA/9/21
+next:
+  id: ISA/10/1
+  number: '1'
+previous:
+  id: ISA/9/20
+  number: '20'
+reference: 'Isaiah 9:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="COL 1:24" class="v">24</span>Who
+  now rejoice in my sufferings for you, and fill up that which is behind of the
+  afflictions of Christ in my flesh for his body’s sake, which is the church:
+  </p>
+id: COL/1/24
+next:
+  id: COL/1/25
+  number: '25'
+previous:
+  id: COL/1/23
+  number: '23'
+reference: 'Colossians 1:24'

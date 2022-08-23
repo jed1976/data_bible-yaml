@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 1:8" class="v">8</span>And
+  God called the firmament Heaven. And the evening and the morning were the
+  second day.</p>
+id: GEN/1/8
+next:
+  id: GEN/1/9
+  number: '9'
+previous:
+  id: GEN/1/7
+  number: '7'
+reference: 'Genesis 1:8'

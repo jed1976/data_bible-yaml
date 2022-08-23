@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 2:23" class="v">23</span>And
+  Adam said, This <span class="add">is</span> now bone of my bones, and flesh of
+  my flesh: she shall be called Woman, because she was taken out of Man. </p>
+id: GEN/2/23
+next:
+  id: GEN/2/24
+  number: '24'
+previous:
+  id: GEN/2/22
+  number: '22'
+reference: 'Genesis 2:23'

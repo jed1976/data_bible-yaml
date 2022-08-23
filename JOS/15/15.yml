@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 15:15"
+  class="v">15</span>And he went up thence to the inhabitants of Debir: and the
+  name of Debir before <span class="add">was</span> Kirjath-sepher.</p>
+id: JOS/15/15
+next:
+  id: JOS/15/16
+  number: '16'
+previous:
+  id: JOS/15/14
+  number: '14'
+reference: 'Joshua 15:15'

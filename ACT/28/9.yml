@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 28:9" class="v">9</span>So
+  when this was done, others also, which had diseases in the island, came, and
+  were healed: </p>
+id: ACT/28/9
+next:
+  id: ACT/28/10
+  number: '10'
+previous:
+  id: ACT/28/8
+  number: '8'
+reference: 'Acts 28:9'

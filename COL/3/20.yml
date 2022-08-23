@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="COL 3:20"
+  class="v">20</span>Children, obey <span class="add">your</span> parents in all
+  things: for this is well pleasing unto the Lord. </p>
+id: COL/3/20
+next:
+  id: COL/3/21
+  number: '21'
+previous:
+  id: COL/3/19
+  number: '19'
+reference: 'Colossians 3:20'

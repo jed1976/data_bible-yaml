@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 16:12"
+  class="v">12</span>And he shall take a censer full of burning coals of fire
+  from off the altar before the <span class="nd">LORD</span>, and his hands full
+  of sweet incense beaten small, and bring <span class="add">it</span> within
+  the vail: </p>
+id: LEV/16/12
+next:
+  id: LEV/16/13
+  number: '13'
+previous:
+  id: LEV/16/11
+  number: '11'
+reference: 'Leviticus 16:12'

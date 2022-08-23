@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 5:8" class="v">8</span>Then
+  came in all the king’s wise <span class="add">men:</span> but they could not
+  read the writing, nor make known to the king the interpretation thereof. </p>
+id: DAN/5/8
+next:
+  id: DAN/5/9
+  number: '9'
+previous:
+  id: DAN/5/7
+  number: '7'
+reference: 'Daniel 5:8'

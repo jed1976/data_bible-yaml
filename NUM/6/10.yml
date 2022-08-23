@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 6:10" class="v">10</span>And
+  on the eighth day he shall bring two turtles, or two young pigeons, to the
+  priest, to the door of the tabernacle of the congregation: </p>
+id: NUM/6/10
+next:
+  id: NUM/6/11
+  number: '11'
+previous:
+  id: NUM/6/9
+  number: '9'
+reference: 'Numbers 6:10'

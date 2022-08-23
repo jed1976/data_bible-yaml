@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 6:3" class="v">3</span>And
+  say, Ye mountains of Israel, hear the word of the Lord <span
+  class="nd">GOD</span>; Thus saith the Lord <span class="nd">GOD</span> to the
+  mountains, and to the hills, to the rivers, and to the valleys; Behold, I,
+  <span class="add">even</span> I, will bring a sword upon you, and I will
+  destroy your high places. </p>
+id: EZK/6/3
+next:
+  id: EZK/6/4
+  number: '4'
+previous:
+  id: EZK/6/2
+  number: '2'
+reference: 'Ezekiel 6:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 20:1" class="v">1</span>And I
+  saw an angel come down from heaven, having the key of the bottomless pit and a
+  great chain in his hand. </p>
+id: REV/20/1
+next:
+  id: REV/20/2
+  number: '2'
+previous:
+  id: REV/19/21
+  number: '21'
+reference: 'Revelation 20:1'

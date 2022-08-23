@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JON 4:11" class="v">11</span>And
+  should not I spare Nineveh, that great city, wherein are more than sixscore
+  thousand persons that cannot discern between their right hand and their left
+  hand; and <span class="add">also</span> much cattle?</p>
+id: JON/4/11
+next:
+  id: MIC/intro/0
+  number: '0'
+previous:
+  id: JON/4/10
+  number: '10'
+reference: 'Jonah 4:11'

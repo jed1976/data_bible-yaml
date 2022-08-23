@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LEV 14:54"
+  class="v">54</span>This <span class="add">is</span> the law for all manner of
+  plague of leprosy, and scall, </p>
+id: LEV/14/54
+next:
+  id: LEV/14/55
+  number: '55'
+previous:
+  id: LEV/14/53
+  number: '53'
+reference: 'Leviticus 14:54'

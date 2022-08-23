@@ -1,0 +1,15 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 55:12"
+  class="v">12</span>For <span class="add">it was</span> not an enemy <span
+  class="add">that</span> reproached me; then I could have borne <span
+  class="add">it:</span> neither <span class="add">was it</span> he that hated
+  me <span class="add">that</span> did magnify <span class="add">himself</span>
+  against me; then I would have hid myself from him:</p>
+id: PSA/55/12
+next:
+  id: PSA/55/13
+  number: '13'
+previous:
+  id: PSA/55/11
+  number: '11'
+reference: 'Psalms 55:12'

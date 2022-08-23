@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 12:5" class="v">5</span>¶
+  Then came Shemaiah the prophet to Rehoboam, and <span class="add">to</span>
+  the princes of Judah, that were gathered together to Jerusalem because of
+  Shishak, and said unto them, Thus saith the <span class="nd">LORD</span>, Ye
+  have forsaken me, and therefore have I also left you in the hand of Shishak.
+  </p>
+id: 2CH/12/5
+next:
+  id: 2CH/12/6
+  number: '6'
+previous:
+  id: 2CH/12/4
+  number: '4'
+reference: '2 Chronicles 12:5'

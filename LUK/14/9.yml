@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 14:9" class="v">9</span><span
+  class="wj">And he that bade thee and him come and say to thee, Give this man
+  place; and thou begin with shame to take the lowest room.</span> </p>
+id: LUK/14/9
+next:
+  id: LUK/14/10
+  number: '10'
+previous:
+  id: LUK/14/8
+  number: '8'
+reference: 'Luke 14:9'

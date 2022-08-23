@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 21:18" class="v">18</span>¶
+  And after all this the <span class="nd">LORD</span> smote him in his bowels
+  with an incurable disease. </p>
+id: 2CH/21/18
+next:
+  id: 2CH/21/19
+  number: '19'
+previous:
+  id: 2CH/21/17
+  number: '17'
+reference: '2 Chronicles 21:18'

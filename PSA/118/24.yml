@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 118:24"
+  class="v">24</span>This <span class="add">is</span> the day <span
+  class="add">which</span> the <span class="nd">LORD</span> hath made; we will
+  rejoice and be glad in it.</p>
+id: PSA/118/24
+next:
+  id: PSA/118/25
+  number: '25'
+previous:
+  id: PSA/118/23
+  number: '23'
+reference: 'Psalms 118:24'

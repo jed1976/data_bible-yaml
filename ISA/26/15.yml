@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 26:15"
+  class="v">15</span>Thou hast increased the nation, O <span
+  class="nd">LORD</span>, thou hast increased the nation: thou art glorified:
+  thou hadst removed <span class="add">it</span> far <span
+  class="add">unto</span> all the ends of the earth. </p>
+id: ISA/26/15
+next:
+  id: ISA/26/16
+  number: '16'
+previous:
+  id: ISA/26/14
+  number: '14'
+reference: 'Isaiah 26:15'

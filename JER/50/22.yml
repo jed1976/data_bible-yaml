@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 50:22" class="v">22</span>A
+  sound of battle <span class="add">is</span> in the land, and of great
+  destruction. </p>
+id: JER/50/22
+next:
+  id: JER/50/23
+  number: '23'
+previous:
+  id: JER/50/21
+  number: '21'
+reference: 'Jeremiah 50:22'

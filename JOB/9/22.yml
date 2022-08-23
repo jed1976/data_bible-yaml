@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 9:22"
+  class="v">22</span>This <span class="add">is</span> one <span
+  class="add">thing</span>, therefore I said <span class="add">it</span>, He
+  destroyeth the perfect and the wicked. </p>
+id: JOB/9/22
+next:
+  id: JOB/9/23
+  number: '23'
+previous:
+  id: JOB/9/21
+  number: '21'
+reference: 'Job 9:22'

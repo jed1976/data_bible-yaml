@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 18:40"
+  class="v">40</span>And Jesus stood, and commanded him to be brought unto him:
+  and when he was come near, he asked him, </p>
+id: LUK/18/40
+next:
+  id: LUK/18/41
+  number: '41'
+previous:
+  id: LUK/18/39
+  number: '39'
+reference: 'Luke 18:40'

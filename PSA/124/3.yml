@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 124:3"
+  class="v">3</span>Then they had swallowed us up quick, when their wrath was
+  kindled against us:</p>
+id: PSA/124/3
+next:
+  id: PSA/124/4
+  number: '4'
+previous:
+  id: PSA/124/2
+  number: '2'
+reference: 'Psalms 124:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 40:3" class="v">3</span>And
+  he put them in ward in the house of the captain of the guard, into the prison,
+  the place where Joseph <span class="add">was</span> bound. </p>
+id: GEN/40/3
+next:
+  id: GEN/40/4
+  number: '4'
+previous:
+  id: GEN/40/2
+  number: '2'
+reference: 'Genesis 40:3'

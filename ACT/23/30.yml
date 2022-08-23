@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 23:30"
+  class="v">30</span>And when it was told me how that the Jews laid wait for the
+  man, I sent straightway to thee, and gave commandment to his accusers also to
+  say before thee what <span class="add">they had</span> against him. Farewell.
+  </p>
+id: ACT/23/30
+next:
+  id: ACT/23/31
+  number: '31'
+previous:
+  id: ACT/23/29
+  number: '29'
+reference: 'Acts 23:30'

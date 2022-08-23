@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 19:15"
+  class="v">15</span>Neither shall there be <span class="add">any</span> work
+  for Egypt, which the head or tail, branch or rush, may do. </p>
+id: ISA/19/15
+next:
+  id: ISA/19/16
+  number: '16'
+previous:
+  id: ISA/19/14
+  number: '14'
+reference: 'Isaiah 19:15'

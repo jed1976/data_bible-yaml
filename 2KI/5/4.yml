@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 5:4" class="v">4</span>And
+  <span class="add">one</span> went in, and told his lord, saying, Thus and thus
+  said the maid that <span class="add">is</span> of the land of Israel. </p>
+id: 2KI/5/4
+next:
+  id: 2KI/5/5
+  number: '5'
+previous:
+  id: 2KI/5/3
+  number: '3'
+reference: '2 Kings 5:4'

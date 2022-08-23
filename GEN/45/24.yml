@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 45:24" class="v">24</span>So
+  he sent his brethren away, and they departed: and he said unto them, See that
+  ye fall not out by the way.</p>
+id: GEN/45/24
+next:
+  id: GEN/45/25
+  number: '25'
+previous:
+  id: GEN/45/23
+  number: '23'
+reference: 'Genesis 45:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 6:11" class="v">11</span>And
+  white robes were given unto every one of them; and it was said unto them, that
+  they should rest yet for a little season, until their fellowservants also and
+  their brethren, that should be killed as they <span class="add">were</span>,
+  should be fulfilled. </p>
+id: REV/6/11
+next:
+  id: REV/6/12
+  number: '12'
+previous:
+  id: REV/6/10
+  number: '10'
+reference: 'Revelation 6:11'

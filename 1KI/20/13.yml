@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 20:13" class="v">13</span>¶
+  And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith
+  the <span class="nd">LORD</span>, Hast thou seen all this great multitude?
+  behold, I will deliver it into thine hand this day; and thou shalt know that I
+  <span class="add">am</span> the <span class="nd">LORD</span>. </p>
+id: 1KI/20/13
+next:
+  id: 1KI/20/14
+  number: '14'
+previous:
+  id: 1KI/20/12
+  number: '12'
+reference: '1 Kings 20:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 29:20"
+  class="v">20</span>For the terrible one is brought to nought, and the scorner
+  is consumed, and all that watch for iniquity are cut off: </p>
+id: ISA/29/20
+next:
+  id: ISA/29/21
+  number: '21'
+previous:
+  id: ISA/29/19
+  number: '19'
+reference: 'Isaiah 29:20'

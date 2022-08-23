@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 4:20" class="v">20</span>And
+  they straightway left <span class="add">their</span> nets, and followed him.
+  </p>
+id: MAT/4/20
+next:
+  id: MAT/4/21
+  number: '21'
+previous:
+  id: MAT/4/19
+  number: '19'
+reference: 'Matthew 4:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 8:17" class="v">17</span>And
+  there was not a man left in Ai or Beth-el, that went not out after Israel: and
+  they left the city open, and pursued after Israel. </p>
+id: JOS/8/17
+next:
+  id: JOS/8/18
+  number: '18'
+previous:
+  id: JOS/8/16
+  number: '16'
+reference: 'Joshua 8:17'

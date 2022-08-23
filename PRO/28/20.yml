@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 28:20" class="v">20</span>A
+  faithful man shall abound with blessings: but he that maketh haste to be rich
+  shall not be innocent. </p>
+id: PRO/28/20
+next:
+  id: PRO/28/21
+  number: '21'
+previous:
+  id: PRO/28/19
+  number: '19'
+reference: 'Proverbs 28:20'

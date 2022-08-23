@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 14:27"
+  class="v">27</span>How long <span class="add">shall I bear with</span> this
+  evil congregation, which murmur against me? I have heard the murmurings of the
+  children of Israel, which they murmur against me. </p>
+id: NUM/14/27
+next:
+  id: NUM/14/28
+  number: '28'
+previous:
+  id: NUM/14/26
+  number: '26'
+reference: 'Numbers 14:27'

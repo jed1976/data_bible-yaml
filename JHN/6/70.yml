@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="70" data-sid="JHN 6:70"
+  class="v">70</span>Jesus answered them, <span class="wj">Have not I chosen you
+  twelve, and one of you is a devil?</span> </p>
+id: JHN/6/70
+next:
+  id: JHN/6/71
+  number: '71'
+previous:
+  id: JHN/6/69
+  number: '69'
+reference: 'John 6:70'

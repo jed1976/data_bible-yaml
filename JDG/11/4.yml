@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 11:4" class="v">4</span>¶ And
+  it came to pass in process of time, that the children of Ammon made war
+  against Israel. </p>
+id: JDG/11/4
+next:
+  id: JDG/11/5
+  number: '5'
+previous:
+  id: JDG/11/3
+  number: '3'
+reference: 'Judges 11:4'

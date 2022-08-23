@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EZK 15:2" class="v">2</span>Son
+  of man, What is the vine tree more than any tree, <span class="add">or
+  than</span> a branch which is among the trees of the forest? </p>
+id: EZK/15/2
+next:
+  id: EZK/15/3
+  number: '3'
+previous:
+  id: EZK/15/1
+  number: '1'
+reference: 'Ezekiel 15:2'

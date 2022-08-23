@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 19:26" class="v">26</span>¶
+  But his wife looked back from behind him, and she became a pillar of salt.</p>
+id: GEN/19/26
+next:
+  id: GEN/19/27
+  number: '27'
+previous:
+  id: GEN/19/25
+  number: '25'
+reference: 'Genesis 19:26'

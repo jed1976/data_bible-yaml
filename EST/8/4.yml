@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 8:4" class="v">4</span>Then
+  the king held out the golden sceptre toward Esther. So Esther arose, and stood
+  before the king, </p>
+id: EST/8/4
+next:
+  id: EST/8/5
+  number: '5'
+previous:
+  id: EST/8/3
+  number: '3'
+reference: 'Esther 8:4'

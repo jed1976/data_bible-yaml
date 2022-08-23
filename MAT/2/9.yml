@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 2:9" class="v">9</span>When
+  they had heard the king, they departed; and, lo, the star, which they saw in
+  the east, went before them, till it came and stood over where the young child
+  was. </p>
+id: MAT/2/9
+next:
+  id: MAT/2/10
+  number: '10'
+previous:
+  id: MAT/2/8
+  number: '8'
+reference: 'Matthew 2:9'

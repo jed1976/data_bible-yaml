@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 9:16" class="v">16</span>And
+  he asked the scribes, <span class="wj">What question ye with them?</span> </p>
+id: MRK/9/16
+next:
+  id: MRK/9/17
+  number: '17'
+previous:
+  id: MRK/9/15
+  number: '15'
+reference: 'Mark 9:16'

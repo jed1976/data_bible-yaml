@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NAM 2:9" class="v">9</span>Take
+  ye the spoil of silver, take the spoil of gold: for <span class="add">there
+  is</span> none end of the store <span class="add">and</span> glory out of all
+  the pleasant furniture. </p>
+id: NAM/2/9
+next:
+  id: NAM/2/10
+  number: '10'
+previous:
+  id: NAM/2/8
+  number: '8'
+reference: 'Nahum 2:9'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 102:6" class="v">6</span>I
+  am like a pelican of the wilderness: I am like an owl of the desert.</p>
+id: PSA/102/6
+next:
+  id: PSA/102/7
+  number: '7'
+previous:
+  id: PSA/102/5
+  number: '5'
+reference: 'Psalms 102:6'

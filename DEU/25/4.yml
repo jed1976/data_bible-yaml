@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 25:4" class="v">4</span>¶
+  Thou shalt not muzzle the ox when he treadeth out <span class="add">the
+  corn</span>.</p>
+id: DEU/25/4
+next:
+  id: DEU/25/5
+  number: '5'
+previous:
+  id: DEU/25/3
+  number: '3'
+reference: 'Deuteronomy 25:4'

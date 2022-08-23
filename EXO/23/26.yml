@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 23:26" class="v">26</span>¶
+  There shall nothing cast their young, nor be barren, in thy land: the number
+  of thy days I will fulfil. </p>
+id: EXO/23/26
+next:
+  id: EXO/23/27
+  number: '27'
+previous:
+  id: EXO/23/25
+  number: '25'
+reference: 'Exodus 23:26'

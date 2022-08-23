@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 18:13"
+  class="v">13</span>And Micaiah said, <span class="add">As</span> the <span
+  class="nd">LORD</span> liveth, even what my God saith, that will I speak. </p>
+id: 2CH/18/13
+next:
+  id: 2CH/18/14
+  number: '14'
+previous:
+  id: 2CH/18/12
+  number: '12'
+reference: '2 Chronicles 18:13'

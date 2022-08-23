@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="DEU 28:39"
+  class="v">39</span>Thou shalt plant vineyards, and dress <span
+  class="add">them</span>, but shalt neither drink <span class="add">of</span>
+  the wine, nor gather <span class="add">the grapes;</span> for the worms shall
+  eat them. </p>
+id: DEU/28/39
+next:
+  id: DEU/28/40
+  number: '40'
+previous:
+  id: DEU/28/38
+  number: '38'
+reference: 'Deuteronomy 28:39'

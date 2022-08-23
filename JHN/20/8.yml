@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 20:8" class="v">8</span>Then
+  went in also that other disciple, which came first to the sepulchre, and he
+  saw, and believed. </p>
+id: JHN/20/8
+next:
+  id: JHN/20/9
+  number: '9'
+previous:
+  id: JHN/20/7
+  number: '7'
+reference: 'John 20:8'

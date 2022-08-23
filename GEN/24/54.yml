@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="GEN 24:54"
+  class="v">54</span>And they did eat and drink, he and the men that <span
+  class="add">were</span> with him, and tarried all night; and they rose up in
+  the morning, and he said, Send me away unto my master. </p>
+id: GEN/24/54
+next:
+  id: GEN/24/55
+  number: '55'
+previous:
+  id: GEN/24/53
+  number: '53'
+reference: 'Genesis 24:54'

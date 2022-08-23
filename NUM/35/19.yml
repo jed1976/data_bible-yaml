@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 35:19"
+  class="v">19</span>The revenger of blood himself shall slay the murderer: when
+  he meeteth him, he shall slay him. </p>
+id: NUM/35/19
+next:
+  id: NUM/35/20
+  number: '20'
+previous:
+  id: NUM/35/18
+  number: '18'
+reference: 'Numbers 35:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 3:12" class="v">12</span>And
+  Jehoshaphat said, The word of the <span class="nd">LORD</span> is with him. So
+  the king of Israel and Jehoshaphat and the king of Edom went down to him. </p>
+id: 2KI/3/12
+next:
+  id: 2KI/3/13
+  number: '13'
+previous:
+  id: 2KI/3/11
+  number: '11'
+reference: '2 Kings 3:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 54:5" class="v">5</span>For
+  thy Maker <span class="add">is</span> thine husband; the <span
+  class="nd">LORD</span> of hosts <span class="add">is</span> his name; and thy
+  Redeemer the Holy One of Israel; The God of the whole earth shall he be
+  called.</p>
+id: ISA/54/5
+next:
+  id: ISA/54/6
+  number: '6'
+previous:
+  id: ISA/54/4
+  number: '4'
+reference: 'Isaiah 54:5'

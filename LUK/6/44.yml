@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 6:44"
+  class="v">44</span><span class="wj">For every tree is known by his own fruit.
+  For of thorns men do not gather figs, nor of a bramble bush gather they
+  grapes.</span> </p>
+id: LUK/6/44
+next:
+  id: LUK/6/45
+  number: '45'
+previous:
+  id: LUK/6/43
+  number: '43'
+reference: 'Luke 6:44'

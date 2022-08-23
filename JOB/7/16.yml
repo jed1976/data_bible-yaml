@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 7:16" class="v">16</span>I
+  loathe <span class="add">it;</span> I would not live alway: let me alone; for
+  my days <span class="add">are</span> vanity.</p>
+id: JOB/7/16
+next:
+  id: JOB/7/17
+  number: '17'
+previous:
+  id: JOB/7/15
+  number: '15'
+reference: 'Job 7:16'

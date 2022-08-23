@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 9:20" class="v">20</span>And
+  as for thine asses that were lost three days ago, set not thy mind on them;
+  for they are found. And on whom <span class="add">is</span> all the desire of
+  Israel? <span class="add">Is it</span> not on thee, and on all thy father’s
+  house? </p>
+id: 1SA/9/20
+next:
+  id: 1SA/9/21
+  number: '21'
+previous:
+  id: 1SA/9/19
+  number: '19'
+reference: '1 Samuel 9:20'

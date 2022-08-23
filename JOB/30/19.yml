@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 30:19" class="v">19</span>He
+  hath cast me into the mire, and I am become like dust and ashes. </p>
+id: JOB/30/19
+next:
+  id: JOB/30/20
+  number: '20'
+previous:
+  id: JOB/30/18
+  number: '18'
+reference: 'Job 30:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 24:29" class="v">29</span>¶
+  And Rebekah had a brother, and his name <span class="add">was</span> Laban:
+  and Laban ran out unto the man, unto the well. </p>
+id: GEN/24/29
+next:
+  id: GEN/24/30
+  number: '30'
+previous:
+  id: GEN/24/28
+  number: '28'
+reference: 'Genesis 24:29'

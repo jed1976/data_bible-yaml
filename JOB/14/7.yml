@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 14:7" class="v">7</span>For
+  there is hope of a tree, if it be cut down, that it will sprout again, and
+  that the tender branch thereof will not cease. </p>
+id: JOB/14/7
+next:
+  id: JOB/14/8
+  number: '8'
+previous:
+  id: JOB/14/6
+  number: '6'
+reference: 'Job 14:7'

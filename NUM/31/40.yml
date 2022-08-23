@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 31:40"
+  class="v">40</span>And the persons <span class="add">were</span> sixteen
+  thousand; of which the <span class="nd">LORD’s</span> tribute <span
+  class="add">was</span> thirty and two persons. </p>
+id: NUM/31/40
+next:
+  id: NUM/31/41
+  number: '41'
+previous:
+  id: NUM/31/39
+  number: '39'
+reference: 'Numbers 31:40'

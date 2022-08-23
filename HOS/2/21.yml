@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="HOS 2:21" class="v">21</span>And
+  it shall come to pass in that day, I will hear, saith the <span
+  class="nd">LORD</span>, I will hear the heavens, and they shall hear the
+  earth; </p>
+id: HOS/2/21
+next:
+  id: HOS/2/22
+  number: '22'
+previous:
+  id: HOS/2/20
+  number: '20'
+reference: 'Hosea 2:21'

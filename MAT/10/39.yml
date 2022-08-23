@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 10:39"
+  class="v">39</span><span class="wj">He that findeth his life shall lose it:
+  and he that loseth his life for my sake shall find it.</span></p>
+id: MAT/10/39
+next:
+  id: MAT/10/40
+  number: '40'
+previous:
+  id: MAT/10/38
+  number: '38'
+reference: 'Matthew 10:39'

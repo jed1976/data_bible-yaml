@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="118" data-sid="PSA 119:118"
+  class="v">118</span>Thou hast trodden down all them that err from thy
+  statutes: for their deceit <span class="add">is</span> falsehood.</p>
+id: PSA/119/118
+next:
+  id: PSA/119/119
+  number: '119'
+previous:
+  id: PSA/119/117
+  number: '117'
+reference: 'Psalms 119:118'

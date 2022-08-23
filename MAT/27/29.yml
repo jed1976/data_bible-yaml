@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 27:29" class="v">29</span>¶
+  And when they had platted a crown of thorns, they put <span
+  class="add">it</span> upon his head, and a reed in his right hand: and they
+  bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
+  </p>
+id: MAT/27/29
+next:
+  id: MAT/27/30
+  number: '30'
+previous:
+  id: MAT/27/28
+  number: '28'
+reference: 'Matthew 27:29'

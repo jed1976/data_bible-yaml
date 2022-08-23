@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 27:24"
+  class="v">24</span>For riches <span class="add">are</span> not for ever: and
+  doth the crown <span class="add">endure</span> to every generation? </p>
+id: PRO/27/24
+next:
+  id: PRO/27/25
+  number: '25'
+previous:
+  id: PRO/27/23
+  number: '23'
+reference: 'Proverbs 27:24'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 5:18" class="v">18</span>Let
+  thy fountain be blessed: and rejoice with the wife of thy youth. </p>
+id: PRO/5/18
+next:
+  id: PRO/5/19
+  number: '19'
+previous:
+  id: PRO/5/17
+  number: '17'
+reference: 'Proverbs 5:18'

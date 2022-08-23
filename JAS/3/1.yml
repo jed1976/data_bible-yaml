@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JAS 3:1" class="v">1</span>My
+  brethren, be not many masters, knowing that we shall receive the greater
+  condemnation. </p>
+id: JAS/3/1
+next:
+  id: JAS/3/2
+  number: '2'
+previous:
+  id: JAS/2/26
+  number: '26'
+reference: 'James 3:1'

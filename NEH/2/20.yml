@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 2:20"
+  class="v">20</span>Then answered I them, and said unto them, The God of
+  heaven, he will prosper us; therefore we his servants will arise and build:
+  but ye have no portion, nor right, nor memorial, in Jerusalem.</p>
+id: NEH/2/20
+next:
+  id: NEH/3/1
+  number: '1'
+previous:
+  id: NEH/2/19
+  number: '19'
+reference: 'Nehemiah 2:20'

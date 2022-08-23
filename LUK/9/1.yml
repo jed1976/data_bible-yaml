@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 9:1" class="v">1</span>Then
+  he called his twelve disciples together, and gave them power and authority
+  over all devils, and to cure diseases. </p>
+id: LUK/9/1
+next:
+  id: LUK/9/2
+  number: '2'
+previous:
+  id: LUK/8/56
+  number: '56'
+reference: 'Luke 9:1'

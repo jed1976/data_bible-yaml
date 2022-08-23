@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 5:6" class="v">6</span>And
+  when they had this done, they inclosed a great multitude of fishes: and their
+  net brake. </p>
+id: LUK/5/6
+next:
+  id: LUK/5/7
+  number: '7'
+previous:
+  id: LUK/5/5
+  number: '5'
+reference: 'Luke 5:6'

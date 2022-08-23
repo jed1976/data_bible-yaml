@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 27:4" class="v">4</span>Why
+  should the name of our father be done away from among his family, because he
+  hath no son? Give unto us <span class="add">therefore</span> a possession
+  among the brethren of our father. </p>
+id: NUM/27/4
+next:
+  id: NUM/27/5
+  number: '5'
+previous:
+  id: NUM/27/3
+  number: '3'
+reference: 'Numbers 27:4'

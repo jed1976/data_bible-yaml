@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 32:12"
+  class="v">12</span>Yea, I attended unto you, and, behold, <span
+  class="add">there was</span> none of you that convinced Job, <span
+  class="add">or</span> that answered his words: </p>
+id: JOB/32/12
+next:
+  id: JOB/32/13
+  number: '13'
+previous:
+  id: JOB/32/11
+  number: '11'
+reference: 'Job 32:12'

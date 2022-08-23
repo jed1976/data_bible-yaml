@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">כ CAPH.</span></p><p
+  class="q1"><span data-number="81" data-sid="PSA 119:81" class="v">81</span>My
+  soul fainteth for thy salvation: <span class="add">but</span> I hope in thy
+  word.</p>
+id: PSA/119/81
+next:
+  id: PSA/119/82
+  number: '82'
+previous:
+  id: PSA/119/80
+  number: '80'
+reference: 'Psalms 119:81'

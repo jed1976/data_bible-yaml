@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 22:10"
+  class="v">10</span><span class="wj">So those servants went out into the
+  highways, and gathered together all as many as they found, both bad and good:
+  and the wedding was furnished with guests.</span></p>
+id: MAT/22/10
+next:
+  id: MAT/22/11
+  number: '11'
+previous:
+  id: MAT/22/9
+  number: '9'
+reference: 'Matthew 22:10'

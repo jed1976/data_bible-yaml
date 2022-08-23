@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="REV 22:19"
+  class="v">19</span>And if any man shall take away from the words of the book
+  of this prophecy, God shall take away his part out of the book of life, and
+  out of the holy city, and <span class="add">from</span> the things which are
+  written in this book. </p>
+id: REV/22/19
+next:
+  id: REV/22/20
+  number: '20'
+previous:
+  id: REV/22/18
+  number: '18'
+reference: 'Revelation 22:19'

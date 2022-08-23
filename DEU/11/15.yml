@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 11:15"
+  class="v">15</span>And I will send grass in thy fields for thy cattle, that
+  thou mayest eat and be full. </p>
+id: DEU/11/15
+next:
+  id: DEU/11/16
+  number: '16'
+previous:
+  id: DEU/11/14
+  number: '14'
+reference: 'Deuteronomy 11:15'

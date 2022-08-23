@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2TI 4:16" class="v">16</span>At
+  my first answer no man stood with me, but all <span class="add">men</span>
+  forsook me: <span class="add">I pray God</span> that it may not be laid to
+  their charge. </p>
+id: 2TI/4/16
+next:
+  id: 2TI/4/17
+  number: '17'
+previous:
+  id: 2TI/4/15
+  number: '15'
+reference: '2 Timothy 4:16'

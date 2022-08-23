@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 28:1" class="v">1</span>And
+  it came to pass in those days, that the Philistines gathered their armies
+  together for warfare, to fight with Israel. And Achish said unto David, Know
+  thou assuredly, that thou shalt go out with me to battle, thou and thy men.
+  </p>
+id: 1SA/28/1
+next:
+  id: 1SA/28/2
+  number: '2'
+previous:
+  id: 1SA/27/12
+  number: '12'
+reference: '1 Samuel 28:1'

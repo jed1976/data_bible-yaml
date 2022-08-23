@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 12:32"
+  class="v">32</span><span class="wj">And whosoever speaketh a word against the
+  Son of man, it shall be forgiven him: but whosoever speaketh against the Holy
+  Ghost, it shall not be forgiven him, neither in this world, neither in the
+  <span class="add">world</span> to come.</span> </p>
+id: MAT/12/32
+next:
+  id: MAT/12/33
+  number: '33'
+previous:
+  id: MAT/12/31
+  number: '31'
+reference: 'Matthew 12:32'

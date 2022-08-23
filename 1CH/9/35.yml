@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="1CH 9:35" class="v">35</span>¶
+  And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name <span
+  class="add">was</span> Maachah: </p>
+id: 1CH/9/35
+next:
+  id: 1CH/9/36
+  number: '36'
+previous:
+  id: 1CH/9/34
+  number: '34'
+reference: '1 Chronicles 9:35'

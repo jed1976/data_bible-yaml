@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 19:3" class="v">3</span>The
+  foolishness of man perverteth his way: and his heart fretteth against the
+  <span class="nd">LORD</span>. </p>
+id: PRO/19/3
+next:
+  id: PRO/19/4
+  number: '4'
+previous:
+  id: PRO/19/2
+  number: '2'
+reference: 'Proverbs 19:3'

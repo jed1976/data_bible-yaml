@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1SA 17:15"
+  class="v">15</span>But David went and returned from Saul to feed his father’s
+  sheep at Beth-lehem. </p>
+id: 1SA/17/15
+next:
+  id: 1SA/17/16
+  number: '16'
+previous:
+  id: 1SA/17/14
+  number: '14'
+reference: '1 Samuel 17:15'

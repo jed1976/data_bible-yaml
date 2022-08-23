@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 19:4" class="v">4</span>¶
+  Turn ye not unto idols, nor make to yourselves molten gods: I <span
+  class="add">am</span> the <span class="nd">LORD</span> your God.</p>
+id: LEV/19/4
+next:
+  id: LEV/19/5
+  number: '5'
+previous:
+  id: LEV/19/3
+  number: '3'
+reference: 'Leviticus 19:4'

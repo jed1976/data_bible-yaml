@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 14:22"
+  class="v">22</span>For I will rise up against them, saith the <span
+  class="nd">LORD</span> of hosts, and cut off from Babylon the name, and
+  remnant, and son, and nephew, saith the <span class="nd">LORD</span>. </p>
+id: ISA/14/22
+next:
+  id: ISA/14/23
+  number: '23'
+previous:
+  id: ISA/14/21
+  number: '21'
+reference: 'Isaiah 14:22'

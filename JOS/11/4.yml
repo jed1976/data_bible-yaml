@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 11:4" class="v">4</span>And
+  they went out, they and all their hosts with them, much people, even as the
+  sand that <span class="add">is</span> upon the sea shore in multitude, with
+  horses and chariots very many. </p>
+id: JOS/11/4
+next:
+  id: JOS/11/5
+  number: '5'
+previous:
+  id: JOS/11/3
+  number: '3'
+reference: 'Joshua 11:4'

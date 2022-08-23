@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 39:21" class="v">21</span>He
+  paweth in the valley, and rejoiceth in <span class="add">his</span> strength:
+  he goeth on to meet the armed men. </p>
+id: JOB/39/21
+next:
+  id: JOB/39/22
+  number: '22'
+previous:
+  id: JOB/39/20
+  number: '20'
+reference: 'Job 39:21'

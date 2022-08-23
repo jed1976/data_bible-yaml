@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 1:24" class="v">24</span>And
+  they prayed, and said, Thou, Lord, which knowest the hearts of all <span
+  class="add">men</span>, shew whether of these two thou hast chosen, </p>
+id: ACT/1/24
+next:
+  id: ACT/1/25
+  number: '25'
+previous:
+  id: ACT/1/23
+  number: '23'
+reference: 'Acts 1:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 22:8" class="v">8</span>He
+  that soweth iniquity shall reap vanity: and the rod of his anger shall fail.
+  </p>
+id: PRO/22/8
+next:
+  id: PRO/22/9
+  number: '9'
+previous:
+  id: PRO/22/7
+  number: '7'
+reference: 'Proverbs 22:8'

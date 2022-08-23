@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 11:13"
+  class="v">13</span>And he shewed us how he had seen an angel in his house,
+  which stood and said unto him, Send men to Joppa, and call for Simon, whose
+  surname is Peter; </p>
+id: ACT/11/13
+next:
+  id: ACT/11/14
+  number: '14'
+previous:
+  id: ACT/11/12
+  number: '12'
+reference: 'Acts 11:13'

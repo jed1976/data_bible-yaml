@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 4:4" class="v">4</span>And he
+  shall bring the bullock unto the door of the tabernacle of the congregation
+  before the <span class="nd">LORD</span>; and shall lay his hand upon the
+  bullock’s head, and kill the bullock before the <span class="nd">LORD</span>.
+  </p>
+id: LEV/4/4
+next:
+  id: LEV/4/5
+  number: '5'
+previous:
+  id: LEV/4/3
+  number: '3'
+reference: 'Leviticus 4:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 44:6" class="v">6</span>Thus
+  saith the <span class="nd">LORD</span> the King of Israel, and his redeemer
+  the <span class="nd">LORD</span> of hosts; I <span class="add">am</span> the
+  first, and I <span class="add">am</span> the last; and beside me <span
+  class="add">there is</span> no God. </p>
+id: ISA/44/6
+next:
+  id: ISA/44/7
+  number: '7'
+previous:
+  id: ISA/44/5
+  number: '5'
+reference: 'Isaiah 44:6'

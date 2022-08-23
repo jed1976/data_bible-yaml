@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 9:2" class="v">2</span>The
+  people that walked in darkness have seen a great light: they that dwell in the
+  land of the shadow of death, upon them hath the light shined. </p>
+id: ISA/9/2
+next:
+  id: ISA/9/3
+  number: '3'
+previous:
+  id: ISA/9/1
+  number: '1'
+reference: 'Isaiah 9:2'

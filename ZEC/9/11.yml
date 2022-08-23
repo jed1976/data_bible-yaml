@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 9:11" class="v">11</span>As
+  for thee also, by the blood of thy covenant I have sent forth thy prisoners
+  out of the pit wherein <span class="add">is</span> no water.</p>
+id: ZEC/9/11
+next:
+  id: ZEC/9/12
+  number: '12'
+previous:
+  id: ZEC/9/10
+  number: '10'
+reference: 'Zechariah 9:11'

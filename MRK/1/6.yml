@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 1:6" class="v">6</span>And
+  John was clothed with camel’s hair, and with a girdle of a skin about his
+  loins; and he did eat locusts and wild honey; </p>
+id: MRK/1/6
+next:
+  id: MRK/1/7
+  number: '7'
+previous:
+  id: MRK/1/5
+  number: '5'
+reference: 'Mark 1:6'

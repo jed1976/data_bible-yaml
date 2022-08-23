@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HAB 3:2" class="v">2</span>O
+  <span class="nd">LORD</span>, I have heard thy speech, <span
+  class="add">and</span> was afraid: O <span class="nd">LORD</span>, revive thy
+  work in the midst of the years, in the midst of the years make known; in wrath
+  remember mercy.</p>
+id: HAB/3/2
+next:
+  id: HAB/3/3
+  number: '3'
+previous:
+  id: HAB/3/1
+  number: '1'
+reference: 'Habakkuk 3:2'

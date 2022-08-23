@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="JHN 6:55"
+  class="v">55</span><span class="wj">For my flesh is meat indeed, and my blood
+  is drink indeed.</span> </p>
+id: JHN/6/55
+next:
+  id: JHN/6/56
+  number: '56'
+previous:
+  id: JHN/6/54
+  number: '54'
+reference: 'John 6:55'

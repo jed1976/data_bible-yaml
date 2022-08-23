@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 2:10"
+  class="v">10</span>Phrygia, and Pamphylia, in Egypt, and in the parts of Libya
+  about Cyrene, and strangers of Rome, Jews and proselytes, </p>
+id: ACT/2/10
+next:
+  id: ACT/2/11
+  number: '11'
+previous:
+  id: ACT/2/9
+  number: '9'
+reference: 'Acts 2:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 14:13" class="v">13</span>¶
+  And there came one that had escaped, and told Abram the Hebrew; for he dwelt
+  in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and
+  these <span class="add">were</span> confederate with Abram. </p>
+id: GEN/14/13
+next:
+  id: GEN/14/14
+  number: '14'
+previous:
+  id: GEN/14/12
+  number: '12'
+reference: 'Genesis 14:13'

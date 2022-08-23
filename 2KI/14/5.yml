@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 14:5" class="v">5</span>¶ And
+  it came to pass, as soon as the kingdom was confirmed in his hand, that he
+  slew his servants which had slain the king his father. </p>
+id: 2KI/14/5
+next:
+  id: 2KI/14/6
+  number: '6'
+previous:
+  id: 2KI/14/4
+  number: '4'
+reference: '2 Kings 14:5'

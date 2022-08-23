@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 42:9" class="v">9</span>And
+  said unto them, Thus saith the <span class="nd">LORD</span>, the God of
+  Israel, unto whom ye sent me to present your supplication before him; </p>
+id: JER/42/9
+next:
+  id: JER/42/10
+  number: '10'
+previous:
+  id: JER/42/8
+  number: '8'
+reference: 'Jeremiah 42:9'

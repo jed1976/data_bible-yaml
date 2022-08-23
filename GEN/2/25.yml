@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 2:25" class="v">25</span>And
+  they were both naked, the man and his wife, and were not ashamed.</p>
+id: GEN/2/25
+next:
+  id: GEN/3/1
+  number: '1'
+previous:
+  id: GEN/2/24
+  number: '24'
+reference: 'Genesis 2:25'

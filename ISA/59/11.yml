@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 59:11" class="v">11</span>We
+  roar all like bears, and mourn sore like doves: we look for judgment, but
+  <span class="add">there is</span> none; for salvation, <span
+  class="add">but</span> it is far off from us. </p>
+id: ISA/59/11
+next:
+  id: ISA/59/12
+  number: '12'
+previous:
+  id: ISA/59/10
+  number: '10'
+reference: 'Isaiah 59:11'

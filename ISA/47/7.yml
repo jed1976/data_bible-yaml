@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 47:7" class="v">7</span>¶ And
+  thou saidst, I shall be a lady for ever: <span class="add">so</span> that thou
+  didst not lay these <span class="add">things</span> to thy heart, neither
+  didst remember the latter end of it. </p>
+id: ISA/47/7
+next:
+  id: ISA/47/8
+  number: '8'
+previous:
+  id: ISA/47/6
+  number: '6'
+reference: 'Isaiah 47:7'

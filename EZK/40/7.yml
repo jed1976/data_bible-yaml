@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 40:7" class="v">7</span>And
+  <span class="add">every</span> little chamber <span class="add">was</span> one
+  reed long, and one reed broad; and between the little chambers <span
+  class="add">were</span> five cubits; and the threshold of the gate by the
+  porch of the gate within <span class="add">was</span> one reed. </p>
+id: EZK/40/7
+next:
+  id: EZK/40/8
+  number: '8'
+previous:
+  id: EZK/40/6
+  number: '6'
+reference: 'Ezekiel 40:7'

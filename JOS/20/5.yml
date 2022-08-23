@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 20:5" class="v">5</span>And
+  if the avenger of blood pursue after him, then they shall not deliver the
+  slayer up into his hand; because he smote his neighbour unwittingly, and hated
+  him not beforetime. </p>
+id: JOS/20/5
+next:
+  id: JOS/20/6
+  number: '6'
+previous:
+  id: JOS/20/4
+  number: '4'
+reference: 'Joshua 20:5'

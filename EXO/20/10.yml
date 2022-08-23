@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 20:10"
+  class="v">10</span>But the seventh day <span class="add">is</span> the sabbath
+  of the <span class="nd">LORD</span> thy God: <span class="add">in it</span>
+  thou shalt not do any work, thou, nor thy son, nor thy daughter, thy
+  manservant, nor thy maidservant, nor thy cattle, nor thy stranger that <span
+  class="add">is</span> within thy gates: </p>
+id: EXO/20/10
+next:
+  id: EXO/20/11
+  number: '11'
+previous:
+  id: EXO/20/9
+  number: '9'
+reference: 'Exodus 20:10'

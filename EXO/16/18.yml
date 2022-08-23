@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 16:18"
+  class="v">18</span>And when they did mete <span class="add">it</span> with an
+  omer, he that gathered much had nothing over, and he that gathered little had
+  no lack; they gathered every man according to his eating. </p>
+id: EXO/16/18
+next:
+  id: EXO/16/19
+  number: '19'
+previous:
+  id: EXO/16/17
+  number: '17'
+reference: 'Exodus 16:18'

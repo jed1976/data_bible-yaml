@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 10:34"
+  class="v">34</span>Jesus answered them, <span class="wj">Is it not written in
+  your law, I said, Ye are gods?</span> </p>
+id: JHN/10/34
+next:
+  id: JHN/10/35
+  number: '35'
+previous:
+  id: JHN/10/33
+  number: '33'
+reference: 'John 10:34'

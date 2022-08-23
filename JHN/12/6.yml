@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 12:6" class="v">6</span>This
+  he said, not that he cared for the poor; but because he was a thief, and had
+  the bag, and bare what was put therein. </p>
+id: JHN/12/6
+next:
+  id: JHN/12/7
+  number: '7'
+previous:
+  id: JHN/12/5
+  number: '5'
+reference: 'John 12:6'

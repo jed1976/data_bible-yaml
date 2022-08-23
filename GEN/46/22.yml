@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 46:22"
+  class="v">22</span>These <span class="add">are</span> the sons of Rachel,
+  which were born to Jacob: all the souls <span class="add">were</span>
+  fourteen.</p>
+id: GEN/46/22
+next:
+  id: GEN/46/23
+  number: '23'
+previous:
+  id: GEN/46/21
+  number: '21'
+reference: 'Genesis 46:22'

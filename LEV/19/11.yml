@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 19:11" class="v">11</span>¶
+  Ye shall not steal, neither deal falsely, neither lie one to another.</p>
+id: LEV/19/11
+next:
+  id: LEV/19/12
+  number: '12'
+previous:
+  id: LEV/19/10
+  number: '10'
+reference: 'Leviticus 19:11'

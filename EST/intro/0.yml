@@ -1,0 +1,9 @@
+content: <p class="mt1">The Book of Esther</p>
+id: EST/intro/0
+next:
+  id: EST/1/1
+  number: '1'
+previous:
+  id: NEH/13/31
+  number: '31'
+reference: Esther

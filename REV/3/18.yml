@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="REV 3:18"
+  class="v">18</span><span class="wj">I counsel thee to buy of me gold tried in
+  the fire, that thou mayest be rich; and white raiment, that thou mayest be
+  clothed, and <span class="add">that</span> the shame of thy nakedness do not
+  appear; and anoint thine eyes with eyesalve, that thou mayest see.</span> </p>
+id: REV/3/18
+next:
+  id: REV/3/19
+  number: '19'
+previous:
+  id: REV/3/17
+  number: '17'
+reference: 'Revelation 3:18'

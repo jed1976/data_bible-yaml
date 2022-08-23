@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 11:7" class="v">7</span>When
+  a wicked man dieth, <span class="add">his</span> expectation shall perish: and
+  the hope of unjust <span class="add">men</span> perisheth. </p>
+id: PRO/11/7
+next:
+  id: PRO/11/8
+  number: '8'
+previous:
+  id: PRO/11/6
+  number: '6'
+reference: 'Proverbs 11:7'

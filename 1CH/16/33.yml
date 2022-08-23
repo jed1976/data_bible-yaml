@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CH 16:33"
+  class="v">33</span>Then shall the trees of the wood sing out at the presence
+  of the <span class="nd">LORD</span>, because he cometh to judge the earth.
+  </p>
+id: 1CH/16/33
+next:
+  id: 1CH/16/34
+  number: '34'
+previous:
+  id: 1CH/16/32
+  number: '32'
+reference: '1 Chronicles 16:33'

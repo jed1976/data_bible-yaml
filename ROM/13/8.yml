@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 13:8" class="v">8</span>Owe
+  no man any thing, but to love one another: for he that loveth another hath
+  fulfilled the law. </p>
+id: ROM/13/8
+next:
+  id: ROM/13/9
+  number: '9'
+previous:
+  id: ROM/13/7
+  number: '7'
+reference: 'Romans 13:8'

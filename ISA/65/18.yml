@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 65:18"
+  class="v">18</span>But be ye glad and rejoice for ever <span class="add">in
+  that</span> which I create: for, behold, I create Jerusalem a rejoicing, and
+  her people a joy. </p>
+id: ISA/65/18
+next:
+  id: ISA/65/19
+  number: '19'
+previous:
+  id: ISA/65/17
+  number: '17'
+reference: 'Isaiah 65:18'

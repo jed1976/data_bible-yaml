@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 9:1" class="v">1</span>Oh
+  that my head were waters, and mine eyes a fountain of tears, that I might weep
+  day and night for the slain of the daughter of my people! </p>
+id: JER/9/1
+next:
+  id: JER/9/2
+  number: '2'
+previous:
+  id: JER/8/22
+  number: '22'
+reference: 'Jeremiah 9:1'

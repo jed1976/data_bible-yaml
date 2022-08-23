@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 16:7" class="v">7</span>And
+  they reasoned among themselves, saying, <span class="add">It is</span> because
+  we have taken no bread. </p>
+id: MAT/16/7
+next:
+  id: MAT/16/8
+  number: '8'
+previous:
+  id: MAT/16/6
+  number: '6'
+reference: 'Matthew 16:7'

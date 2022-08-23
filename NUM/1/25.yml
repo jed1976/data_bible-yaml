@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 1:25"
+  class="v">25</span>Those that were numbered of them, <span
+  class="add">even</span> of the tribe of Gad, <span class="add">were</span>
+  forty and five thousand six hundred and fifty.</p>
+id: NUM/1/25
+next:
+  id: NUM/1/26
+  number: '26'
+previous:
+  id: NUM/1/24
+  number: '24'
+reference: 'Numbers 1:25'

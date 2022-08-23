@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 31:11"
+  class="v">11</span>The heart of her husband doth safely trust in her, so that
+  he shall have no need of spoil. </p>
+id: PRO/31/11
+next:
+  id: PRO/31/12
+  number: '12'
+previous:
+  id: PRO/31/10
+  number: '10'
+reference: 'Proverbs 31:11'

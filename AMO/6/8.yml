@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 6:8" class="v">8</span>The
+  Lord <span class="nd">GOD</span> hath sworn by himself, saith the <span
+  class="nd">LORD</span> the God of hosts, I abhor the excellency of Jacob, and
+  hate his palaces: therefore will I deliver up the city with all that is
+  therein. </p>
+id: AMO/6/8
+next:
+  id: AMO/6/9
+  number: '9'
+previous:
+  id: AMO/6/7
+  number: '7'
+reference: 'Amos 6:8'

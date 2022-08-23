@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1CH 29:27"
+  class="v">27</span>And the time that he reigned over Israel <span
+  class="add">was</span> forty years; seven years reigned he in Hebron, and
+  thirty and three <span class="add">years</span> reigned he in Jerusalem. </p>
+id: 1CH/29/27
+next:
+  id: 1CH/29/28
+  number: '28'
+previous:
+  id: 1CH/29/26
+  number: '26'
+reference: '1 Chronicles 29:27'

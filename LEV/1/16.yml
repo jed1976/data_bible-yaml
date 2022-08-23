@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 1:16" class="v">16</span>And
+  he shall pluck away his crop with his feathers, and cast it beside the altar
+  on the east part, by the place of the ashes: </p>
+id: LEV/1/16
+next:
+  id: LEV/1/17
+  number: '17'
+previous:
+  id: LEV/1/15
+  number: '15'
+reference: 'Leviticus 1:16'

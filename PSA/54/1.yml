@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth, Maschil, <span class="add">A
+  Psalm</span> of David, when the Ziphims came and said to Saul, Doth not David
+  hide himself with us?</p><p class="q1"><span data-number="1" data-sid="PSA
+  54:1" class="v">1</span>Save me, O God, by thy name, and judge me by thy
+  strength.</p>
+id: PSA/54/1
+next:
+  id: PSA/54/2
+  number: '2'
+previous:
+  id: PSA/53/6
+  number: '6'
+reference: 'Psalms 54:1'

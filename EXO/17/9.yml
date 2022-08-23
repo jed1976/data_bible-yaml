@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 17:9" class="v">9</span>And
+  Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to
+  morrow I will stand on the top of the hill with the rod of God in mine hand.
+  </p>
+id: EXO/17/9
+next:
+  id: EXO/17/10
+  number: '10'
+previous:
+  id: EXO/17/8
+  number: '8'
+reference: 'Exodus 17:9'

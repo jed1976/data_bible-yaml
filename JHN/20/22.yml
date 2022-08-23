@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 20:22"
+  class="v">22</span>And when he had said this, he breathed on <span
+  class="add">them</span>, and saith unto them, <span class="wj">Receive ye the
+  Holy Ghost:</span> </p>
+id: JHN/20/22
+next:
+  id: JHN/20/23
+  number: '23'
+previous:
+  id: JHN/20/21
+  number: '21'
+reference: 'John 20:22'

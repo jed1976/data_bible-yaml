@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 15:21"
+  class="v">21</span>For Moses of old time hath in every city them that preach
+  him, being read in the synagogues every sabbath day. </p>
+id: ACT/15/21
+next:
+  id: ACT/15/22
+  number: '22'
+previous:
+  id: ACT/15/20
+  number: '20'
+reference: 'Acts 15:21'

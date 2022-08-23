@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 8:25" class="v">25</span>And
+  he took the fat, and the rump, and all the fat that <span
+  class="add">was</span> upon the inwards, and the caul <span
+  class="add">above</span> the liver, and the two kidneys, and their fat, and
+  the right shoulder: </p>
+id: LEV/8/25
+next:
+  id: LEV/8/26
+  number: '26'
+previous:
+  id: LEV/8/24
+  number: '24'
+reference: 'Leviticus 8:25'

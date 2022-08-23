@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PHP 2:18" class="v">18</span>For
+  the same cause also do ye joy, and rejoice with me.</p>
+id: PHP/2/18
+next:
+  id: PHP/2/19
+  number: '19'
+previous:
+  id: PHP/2/17
+  number: '17'
+reference: 'Philippians 2:18'

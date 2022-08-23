@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 12:24"
+  class="v">24</span>And Jesus answering said unto them, <span class="wj">Do ye
+  not therefore err, because ye know not the scriptures, neither the power of
+  God?</span> </p>
+id: MRK/12/24
+next:
+  id: MRK/12/25
+  number: '25'
+previous:
+  id: MRK/12/23
+  number: '23'
+reference: 'Mark 12:24'

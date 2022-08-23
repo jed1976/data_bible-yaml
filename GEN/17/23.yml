@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 17:23" class="v">23</span>¶
+  And Abraham took Ishmael his son, and all that were born in his house, and all
+  that were bought with his money, every male among the men of Abraham’s house;
+  and circumcised the flesh of their foreskin in the selfsame day, as God had
+  said unto him. </p>
+id: GEN/17/23
+next:
+  id: GEN/17/24
+  number: '24'
+previous:
+  id: GEN/17/22
+  number: '22'
+reference: 'Genesis 17:23'

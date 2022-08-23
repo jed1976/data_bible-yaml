@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 51:15" class="v">15</span>O
+  Lord, open thou my lips; and my mouth shall shew forth thy praise.</p>
+id: PSA/51/15
+next:
+  id: PSA/51/16
+  number: '16'
+previous:
+  id: PSA/51/14
+  number: '14'
+reference: 'Psalms 51:15'

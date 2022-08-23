@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Song of degrees of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 124:1" class="v">1</span>If <span class="add">it
+  had not been</span> the <span class="nd">LORD</span> who was on our side, now
+  may Israel say;</p>
+id: PSA/124/1
+next:
+  id: PSA/124/2
+  number: '2'
+previous:
+  id: PSA/123/4
+  number: '4'
+reference: 'Psalms 124:1'

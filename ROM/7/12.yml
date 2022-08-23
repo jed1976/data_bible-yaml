@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 7:12"
+  class="v">12</span>Wherefore the law <span class="add">is</span> holy, and the
+  commandment holy, and just, and good. </p>
+id: ROM/7/12
+next:
+  id: ROM/7/13
+  number: '13'
+previous:
+  id: ROM/7/11
+  number: '11'
+reference: 'Romans 7:12'

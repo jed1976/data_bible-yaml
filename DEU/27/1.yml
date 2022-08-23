@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 27:1" class="v">1</span>And
+  Moses with the elders of Israel commanded the people, saying, Keep all the
+  commandments which I command you this day. </p>
+id: DEU/27/1
+next:
+  id: DEU/27/2
+  number: '2'
+previous:
+  id: DEU/26/19
+  number: '19'
+reference: 'Deuteronomy 27:1'

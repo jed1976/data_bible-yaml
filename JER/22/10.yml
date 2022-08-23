@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 22:10" class="v">10</span>¶
+  Weep ye not for the dead, neither bemoan him: <span class="add">but</span>
+  weep sore for him that goeth away: for he shall return no more, nor see his
+  native country. </p>
+id: JER/22/10
+next:
+  id: JER/22/11
+  number: '11'
+previous:
+  id: JER/22/9
+  number: '9'
+reference: 'Jeremiah 22:10'

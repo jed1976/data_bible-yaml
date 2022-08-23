@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 18:21" class="v">21</span>¶
+  Then came Peter to him, and said, Lord, how oft shall my brother sin against
+  me, and I forgive him? till seven times? </p>
+id: MAT/18/21
+next:
+  id: MAT/18/22
+  number: '22'
+previous:
+  id: MAT/18/20
+  number: '20'
+reference: 'Matthew 18:21'

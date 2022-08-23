@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 22:13"
+  class="v">13</span>They gaped upon me <span class="add">with</span> their
+  mouths, <span class="add">as</span> a ravening and a roaring lion.</p>
+id: PSA/22/13
+next:
+  id: PSA/22/14
+  number: '14'
+previous:
+  id: PSA/22/12
+  number: '12'
+reference: 'Psalms 22:13'

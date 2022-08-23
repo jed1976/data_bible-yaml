@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 9:24" class="v">24</span>And
+  there came a fire out from before the <span class="nd">LORD</span>, and
+  consumed upon the altar the burnt offering and the fat: <span
+  class="add">which</span> when all the people saw, they shouted, and fell on
+  their faces.</p>
+id: LEV/9/24
+next:
+  id: LEV/10/1
+  number: '1'
+previous:
+  id: LEV/9/23
+  number: '23'
+reference: 'Leviticus 9:24'

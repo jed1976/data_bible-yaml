@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 45:10"
+  class="v">10</span>Woe unto him that saith unto <span class="add">his</span>
+  father, What begettest thou? or to the woman, What hast thou brought
+  forth?</p>
+id: ISA/45/10
+next:
+  id: ISA/45/11
+  number: '11'
+previous:
+  id: ISA/45/9
+  number: '9'
+reference: 'Isaiah 45:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MRK 9:45"
+  class="v">45</span><span class="wj">And if thy foot offend thee, cut it off:
+  it is better for thee to enter halt into life, than having two feet to be cast
+  into hell, into the fire that never shall be quenched:</span> </p>
+id: MRK/9/45
+next:
+  id: MRK/9/46
+  number: '46'
+previous:
+  id: MRK/9/44
+  number: '44'
+reference: 'Mark 9:45'

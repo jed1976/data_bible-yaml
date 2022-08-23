@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 21:1" class="v">1</span>And
+  it came to pass after these things, <span class="add">that</span> Naboth the
+  Jezreelite had a vineyard, which <span class="add">was</span> in Jezreel, hard
+  by the palace of Ahab king of Samaria. </p>
+id: 1KI/21/1
+next:
+  id: 1KI/21/2
+  number: '2'
+previous:
+  id: 1KI/20/43
+  number: '43'
+reference: '1 Kings 21:1'

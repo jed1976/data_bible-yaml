@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 3:23"
+  class="v">23</span>Therefore the <span class="nd">LORD</span> God sent him
+  forth from the garden of Eden, to till the ground from whence he was taken.
+  </p>
+id: GEN/3/23
+next:
+  id: GEN/3/24
+  number: '24'
+previous:
+  id: GEN/3/22
+  number: '22'
+reference: 'Genesis 3:23'

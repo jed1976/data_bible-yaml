@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 10:24" class="v">24</span>¶
+  Therefore thus saith the Lord <span class="nd">GOD</span> of hosts, O my
+  people that dwellest in Zion, be not afraid of the Assyrian: he shall smite
+  thee with a rod, and shall lift up his staff against thee, after the manner of
+  Egypt. </p>
+id: ISA/10/24
+next:
+  id: ISA/10/25
+  number: '25'
+previous:
+  id: ISA/10/23
+  number: '23'
+reference: 'Isaiah 10:24'

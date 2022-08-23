@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 1:9" class="v">9</span>Except
+  the <span class="nd">LORD</span> of hosts had left unto us a very small
+  remnant, we should have been as Sodom, <span class="add">and</span> we should
+  have been like unto Gomorrah.</p>
+id: ISA/1/9
+next:
+  id: ISA/1/10
+  number: '10'
+previous:
+  id: ISA/1/8
+  number: '8'
+reference: 'Isaiah 1:9'

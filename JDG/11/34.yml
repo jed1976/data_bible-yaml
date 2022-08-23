@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JDG 11:34" class="v">34</span>¶
+  And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out
+  to meet him with timbrels and with dances: and she <span class="add">was
+  his</span> only child; beside her he had neither son nor daughter. </p>
+id: JDG/11/34
+next:
+  id: JDG/11/35
+  number: '35'
+previous:
+  id: JDG/11/33
+  number: '33'
+reference: 'Judges 11:34'

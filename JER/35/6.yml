@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 35:6" class="v">6</span>But
+  they said, We will drink no wine: for Jonadab the son of Rechab our father
+  commanded us, saying, Ye shall drink no wine, <span class="add">neither
+  ye</span>, nor your sons for ever: </p>
+id: JER/35/6
+next:
+  id: JER/35/7
+  number: '7'
+previous:
+  id: JER/35/5
+  number: '5'
+reference: 'Jeremiah 35:6'

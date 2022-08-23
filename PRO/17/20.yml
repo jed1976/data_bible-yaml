@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 17:20" class="v">20</span>He
+  that hath a froward heart findeth no good: and he that hath a perverse tongue
+  falleth into mischief. </p>
+id: PRO/17/20
+next:
+  id: PRO/17/21
+  number: '21'
+previous:
+  id: PRO/17/19
+  number: '19'
+reference: 'Proverbs 17:20'

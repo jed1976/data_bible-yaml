@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 34:28"
+  class="v">28</span>They took their sheep, and their oxen, and their asses, and
+  that which <span class="add">was</span> in the city, and that which <span
+  class="add">was</span> in the field, </p>
+id: GEN/34/28
+next:
+  id: GEN/34/29
+  number: '29'
+previous:
+  id: GEN/34/27
+  number: '27'
+reference: 'Genesis 34:28'

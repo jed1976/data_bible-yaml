@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 42:23"
+  class="v">23</span>And they knew not that Joseph understood <span
+  class="add">them;</span> for he spake unto them by an interpreter. </p>
+id: GEN/42/23
+next:
+  id: GEN/42/24
+  number: '24'
+previous:
+  id: GEN/42/22
+  number: '22'
+reference: 'Genesis 42:23'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 7:25" class="v">25</span>The
+  graven images of their gods shall ye burn with fire: thou shalt not desire the
+  silver or gold <span class="add">that is</span> on them, nor take <span
+  class="add">it</span> unto thee, lest thou be snared therein: for it <span
+  class="add">is</span> an abomination to the <span class="nd">LORD</span> thy
+  God. </p>
+id: DEU/7/25
+next:
+  id: DEU/7/26
+  number: '26'
+previous:
+  id: DEU/7/24
+  number: '24'
+reference: 'Deuteronomy 7:25'

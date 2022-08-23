@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 15:40"
+  class="v">40</span>That ye may remember, and do all my commandments, and be
+  holy unto your God. </p>
+id: NUM/15/40
+next:
+  id: NUM/15/41
+  number: '41'
+previous:
+  id: NUM/15/39
+  number: '39'
+reference: 'Numbers 15:40'

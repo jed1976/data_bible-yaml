@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 8:7"
+  class="v">7</span>Because the carnal mind <span class="add">is</span> enmity
+  against God: for it is not subject to the law of God, neither indeed can be.
+  </p>
+id: ROM/8/7
+next:
+  id: ROM/8/8
+  number: '8'
+previous:
+  id: ROM/8/6
+  number: '6'
+reference: 'Romans 8:7'

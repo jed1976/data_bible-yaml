@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 2:3" class="v">3</span>And
+  many people shall go and say, Come ye, and let us go up to the mountain of the
+  <span class="nd">LORD</span>, to the house of the God of Jacob; and he will
+  teach us of his ways, and we will walk in his paths: for out of Zion shall go
+  forth the law, and the word of the <span class="nd">LORD</span> from
+  Jerusalem. </p>
+id: ISA/2/3
+next:
+  id: ISA/2/4
+  number: '4'
+previous:
+  id: ISA/2/2
+  number: '2'
+reference: 'Isaiah 2:3'

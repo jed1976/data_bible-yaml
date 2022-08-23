@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 28:18"
+  class="v">18</span>And Jacob rose up early in the morning, and took the stone
+  that he had put <span class="add">for</span> his pillows, and set it up <span
+  class="add">for</span> a pillar, and poured oil upon the top of it. </p>
+id: GEN/28/18
+next:
+  id: GEN/28/19
+  number: '19'
+previous:
+  id: GEN/28/17
+  number: '17'
+reference: 'Genesis 28:18'

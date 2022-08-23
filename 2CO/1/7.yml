@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CO 1:7" class="v">7</span>And
+  our hope of you <span class="add">is</span> stedfast, knowing, that as ye are
+  partakers of the sufferings, so <span class="add">shall ye be</span> also of
+  the consolation. </p>
+id: 2CO/1/7
+next:
+  id: 2CO/1/8
+  number: '8'
+previous:
+  id: 2CO/1/6
+  number: '6'
+reference: '2 Corinthians 1:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 15:14"
+  class="v">14</span>The people shall hear, <span class="add">and</span> be
+  afraid: sorrow shall take hold on the inhabitants of Palestina. </p>
+id: EXO/15/14
+next:
+  id: EXO/15/15
+  number: '15'
+previous:
+  id: EXO/15/13
+  number: '13'
+reference: 'Exodus 15:14'

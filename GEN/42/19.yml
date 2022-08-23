@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 42:19" class="v">19</span>If
+  ye <span class="add">be</span> true <span class="add">men</span>, let one of
+  your brethren be bound in the house of your prison: go ye, carry corn for the
+  famine of your houses: </p>
+id: GEN/42/19
+next:
+  id: GEN/42/20
+  number: '20'
+previous:
+  id: GEN/42/18
+  number: '18'
+reference: 'Genesis 42:19'

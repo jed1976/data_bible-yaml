@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 18:1" class="v">1</span>And
+  after these things I saw another angel come down from heaven, having great
+  power; and the earth was lightened with his glory. </p>
+id: REV/18/1
+next:
+  id: REV/18/2
+  number: '2'
+previous:
+  id: REV/17/18
+  number: '18'
+reference: 'Revelation 18:1'

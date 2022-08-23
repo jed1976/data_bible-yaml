@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 16:22"
+  class="v">22</span>And they fell upon their faces, and said, O God, the God of
+  the spirits of all flesh, shall one man sin, and wilt thou be wroth with all
+  the congregation?</p>
+id: NUM/16/22
+next:
+  id: NUM/16/23
+  number: '23'
+previous:
+  id: NUM/16/21
+  number: '21'
+reference: 'Numbers 16:22'

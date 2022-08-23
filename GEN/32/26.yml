@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 32:26"
+  class="v">26</span>And he said, Let me go, for the day breaketh. And he said,
+  I will not let thee go, except thou bless me. </p>
+id: GEN/32/26
+next:
+  id: GEN/32/27
+  number: '27'
+previous:
+  id: GEN/32/25
+  number: '25'
+reference: 'Genesis 32:26'

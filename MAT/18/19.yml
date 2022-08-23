@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 18:19"
+  class="v">19</span><span class="wj">Again I say unto you, That if two of you
+  shall agree on earth as touching any thing that they shall ask, it shall be
+  done for them of my Father which is in heaven.</span> </p>
+id: MAT/18/19
+next:
+  id: MAT/18/20
+  number: '20'
+previous:
+  id: MAT/18/18
+  number: '18'
+reference: 'Matthew 18:19'

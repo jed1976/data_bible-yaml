@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 17:23"
+  class="v">23</span>And as he talked with them, behold, there came up the
+  champion, the Philistine of Gath, Goliath by name, out of the armies of the
+  Philistines, and spake according to the same words: and David heard <span
+  class="add">them</span>. </p>
+id: 1SA/17/23
+next:
+  id: 1SA/17/24
+  number: '24'
+previous:
+  id: 1SA/17/22
+  number: '22'
+reference: '1 Samuel 17:23'

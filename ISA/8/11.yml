@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 8:11" class="v">11</span>¶
+  For the <span class="nd">LORD</span> spake thus to me with a strong hand, and
+  instructed me that I should not walk in the way of this people, saying, </p>
+id: ISA/8/11
+next:
+  id: ISA/8/12
+  number: '12'
+previous:
+  id: ISA/8/10
+  number: '10'
+reference: 'Isaiah 8:11'

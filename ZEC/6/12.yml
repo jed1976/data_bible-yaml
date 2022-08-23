@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 6:12" class="v">12</span>And
+  speak unto him, saying, Thus speaketh the <span class="nd">LORD</span> of
+  hosts, saying, Behold the man whose name <span class="add">is</span> The
+  BRANCH; and he shall grow up out of his place, and he shall build the temple
+  of the <span class="nd">LORD</span>: </p>
+id: ZEC/6/12
+next:
+  id: ZEC/6/13
+  number: '13'
+previous:
+  id: ZEC/6/11
+  number: '11'
+reference: 'Zechariah 6:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 16:10" class="v">10</span>A
+  divine sentence <span class="add">is</span> in the lips of the king: his mouth
+  transgresseth not in judgment. </p>
+id: PRO/16/10
+next:
+  id: PRO/16/11
+  number: '11'
+previous:
+  id: PRO/16/9
+  number: '9'
+reference: 'Proverbs 16:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 37:22"
+  class="v">22</span>Their knops and their branches were of the same: all of it
+  <span class="add">was</span> one beaten work <span class="add">of</span> pure
+  gold. </p>
+id: EXO/37/22
+next:
+  id: EXO/37/23
+  number: '23'
+previous:
+  id: EXO/37/21
+  number: '21'
+reference: 'Exodus 37:22'

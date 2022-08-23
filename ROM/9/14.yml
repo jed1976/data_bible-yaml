@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 9:14"
+  class="v">14</span>What shall we say then? <span class="add">Is there</span>
+  unrighteousness with God? God forbid. </p>
+id: ROM/9/14
+next:
+  id: ROM/9/15
+  number: '15'
+previous:
+  id: ROM/9/13
+  number: '13'
+reference: 'Romans 9:14'

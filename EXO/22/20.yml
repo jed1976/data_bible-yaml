@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 22:20" class="v">20</span>¶
+  He that sacrificeth unto <span class="add">any</span> god, save unto the <span
+  class="nd">LORD</span> only, he shall be utterly destroyed.</p>
+id: EXO/22/20
+next:
+  id: EXO/22/21
+  number: '21'
+previous:
+  id: EXO/22/19
+  number: '19'
+reference: 'Exodus 22:20'

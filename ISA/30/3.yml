@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 30:3"
+  class="v">3</span>Therefore shall the strength of Pharaoh be your shame, and
+  the trust in the shadow of Egypt <span class="add">your</span> confusion. </p>
+id: ISA/30/3
+next:
+  id: ISA/30/4
+  number: '4'
+previous:
+  id: ISA/30/2
+  number: '2'
+reference: 'Isaiah 30:3'

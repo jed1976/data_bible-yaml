@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 11:22"
+  class="v">22</span><span class="wj">But I say unto you, It shall be more
+  tolerable for Tyre and Sidon at the day of judgment, than for you.</span> </p>
+id: MAT/11/22
+next:
+  id: MAT/11/23
+  number: '23'
+previous:
+  id: MAT/11/21
+  number: '21'
+reference: 'Matthew 11:22'

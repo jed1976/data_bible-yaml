@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 2:12" class="v">12</span>For
+  as many as have sinned without law shall also perish without law: and as many
+  as have sinned in the law shall be judged by the law; </p>
+id: ROM/2/12
+next:
+  id: ROM/2/13
+  number: '13'
+previous:
+  id: ROM/2/11
+  number: '11'
+reference: 'Romans 2:12'

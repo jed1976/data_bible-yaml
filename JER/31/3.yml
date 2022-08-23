@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 31:3" class="v">3</span>The
+  <span class="nd">LORD</span> hath appeared of old unto me, <span
+  class="add">saying</span>, Yea, I have loved thee with an everlasting love:
+  therefore with lovingkindness have I drawn thee. </p>
+id: JER/31/3
+next:
+  id: JER/31/4
+  number: '4'
+previous:
+  id: JER/31/2
+  number: '2'
+reference: 'Jeremiah 31:3'

@@ -1,0 +1,9 @@
+content: <p class="mt1">THE THIRD EPISTLE OF JOHN</p>
+id: 3JN/intro/0
+next:
+  id: 3JN/1/1
+  number: '1'
+previous:
+  id: 2JN/1/13
+  number: '13'
+reference: 3 John

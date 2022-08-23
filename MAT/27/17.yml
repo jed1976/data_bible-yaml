@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 27:17"
+  class="v">17</span>Therefore when they were gathered together, Pilate said
+  unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is
+  called Christ? </p>
+id: MAT/27/17
+next:
+  id: MAT/27/18
+  number: '18'
+previous:
+  id: MAT/27/16
+  number: '16'
+reference: 'Matthew 27:17'

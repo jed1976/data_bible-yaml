@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 10:16"
+  class="v">16</span>But these five kings fled, and hid themselves in a cave at
+  Makkedah. </p>
+id: JOS/10/16
+next:
+  id: JOS/10/17
+  number: '17'
+previous:
+  id: JOS/10/15
+  number: '15'
+reference: 'Joshua 10:16'

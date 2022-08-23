@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 31:6" class="v">6</span>And
+  Moses sent them to the war, a thousand of <span class="add">every</span>
+  tribe, them and Phinehas the son of Eleazar the priest, to the war, with the
+  holy instruments, and the trumpets to blow in his hand.</p>
+id: NUM/31/6
+next:
+  id: NUM/31/7
+  number: '7'
+previous:
+  id: NUM/31/5
+  number: '5'
+reference: 'Numbers 31:6'

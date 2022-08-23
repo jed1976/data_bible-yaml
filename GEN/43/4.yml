@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 43:4" class="v">4</span>If
+  thou wilt send our brother with us, we will go down and buy thee food: </p>
+id: GEN/43/4
+next:
+  id: GEN/43/5
+  number: '5'
+previous:
+  id: GEN/43/3
+  number: '3'
+reference: 'Genesis 43:4'

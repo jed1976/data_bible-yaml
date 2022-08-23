@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 85:12"
+  class="v">12</span>Yea, the <span class="nd">LORD</span> shall give <span
+  class="add">that which is</span> good; and our land shall yield her
+  increase.</p>
+id: PSA/85/12
+next:
+  id: PSA/85/13
+  number: '13'
+previous:
+  id: PSA/85/11
+  number: '11'
+reference: 'Psalms 85:12'

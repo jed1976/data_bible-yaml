@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 3:37"
+  class="v">37</span>Which was <span class="add">the son</span> of Mathusala,
+  which was <span class="add">the son</span> of Enoch, which was <span
+  class="add">the son</span> of Jared, which was <span class="add">the
+  son</span> of Maleleel, which was <span class="add">the son</span> of Cainan,
+  </p>
+id: LUK/3/37
+next:
+  id: LUK/3/38
+  number: '38'
+previous:
+  id: LUK/3/36
+  number: '36'
+reference: 'Luke 3:37'

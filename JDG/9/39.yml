@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="JDG 9:39" class="v">39</span>And
+  Gaal went out before the men of Shechem, and fought with Abimelech. </p>
+id: JDG/9/39
+next:
+  id: JDG/9/40
+  number: '40'
+previous:
+  id: JDG/9/38
+  number: '38'
+reference: 'Judges 9:39'

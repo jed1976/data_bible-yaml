@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 4:14" class="v">14</span>¶
+  Enter not into the path of the wicked, and go not in the way of evil <span
+  class="add">men</span>. </p>
+id: PRO/4/14
+next:
+  id: PRO/4/15
+  number: '15'
+previous:
+  id: PRO/4/13
+  number: '13'
+reference: 'Proverbs 4:14'

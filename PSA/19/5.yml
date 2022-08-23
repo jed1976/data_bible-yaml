@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 19:5"
+  class="v">5</span>Which <span class="add">is</span> as a bridegroom coming out
+  of his chamber, <span class="add">and</span> rejoiceth as a strong man to run
+  a race.</p>
+id: PSA/19/5
+next:
+  id: PSA/19/6
+  number: '6'
+previous:
+  id: PSA/19/4
+  number: '4'
+reference: 'Psalms 19:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 10:26"
+  class="v">26</span>And over the host of the tribe of the children of Asher
+  <span class="add">was</span> Pagiel the son of Ocran. </p>
+id: NUM/10/26
+next:
+  id: NUM/10/27
+  number: '27'
+previous:
+  id: NUM/10/25
+  number: '25'
+reference: 'Numbers 10:26'

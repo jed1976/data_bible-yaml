@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 18:6" class="v">6</span>And
+  the priest said unto them, Go in peace: before the <span
+  class="nd">LORD</span> <span class="add">is</span> your way wherein ye go.</p>
+id: JDG/18/6
+next:
+  id: JDG/18/7
+  number: '7'
+previous:
+  id: JDG/18/5
+  number: '5'
+reference: 'Judges 18:6'

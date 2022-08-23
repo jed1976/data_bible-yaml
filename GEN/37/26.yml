@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 37:26"
+  class="v">26</span>And Judah said unto his brethren, What profit <span
+  class="add">is it</span> if we slay our brother, and conceal his blood? </p>
+id: GEN/37/26
+next:
+  id: GEN/37/27
+  number: '27'
+previous:
+  id: GEN/37/25
+  number: '25'
+reference: 'Genesis 37:26'

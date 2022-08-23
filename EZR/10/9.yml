@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 10:9" class="v">9</span>¶
+  Then all the men of Judah and Benjamin gathered themselves together unto
+  Jerusalem within three days. It <span class="add">was</span> the ninth month,
+  on the twentieth <span class="add">day</span> of the month; and all the people
+  sat in the street of the house of God, trembling because of <span
+  class="add">this</span> matter, and for the great rain. </p>
+id: EZR/10/9
+next:
+  id: EZR/10/10
+  number: '10'
+previous:
+  id: EZR/10/8
+  number: '8'
+reference: 'Ezra 10:9'

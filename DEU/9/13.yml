@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 9:13"
+  class="v">13</span>Furthermore the <span class="nd">LORD</span> spake unto me,
+  saying, I have seen this people, and, behold, it <span class="add">is</span> a
+  stiffnecked people: </p>
+id: DEU/9/13
+next:
+  id: DEU/9/14
+  number: '14'
+previous:
+  id: DEU/9/12
+  number: '12'
+reference: 'Deuteronomy 9:13'

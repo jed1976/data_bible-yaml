@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 46:9" class="v">9</span>And
+  the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.</p>
+id: GEN/46/9
+next:
+  id: GEN/46/10
+  number: '10'
+previous:
+  id: GEN/46/8
+  number: '8'
+reference: 'Genesis 46:9'

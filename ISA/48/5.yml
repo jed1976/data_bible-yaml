@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 48:5" class="v">5</span>I
+  have even from the beginning declared <span class="add">it</span> to thee;
+  before it came to pass I shewed <span class="add">it</span> thee: lest thou
+  shouldest say, Mine idol hath done them, and my graven image, and my molten
+  image, hath commanded them. </p>
+id: ISA/48/5
+next:
+  id: ISA/48/6
+  number: '6'
+previous:
+  id: ISA/48/4
+  number: '4'
+reference: 'Isaiah 48:5'

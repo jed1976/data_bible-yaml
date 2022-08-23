@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 5:40"
+  class="v">40</span><span class="wj">And if any man will sue thee at the law,
+  and take away thy coat, let him have <span class="add">thy</span> cloke
+  also.</span> </p>
+id: MAT/5/40
+next:
+  id: MAT/5/41
+  number: '41'
+previous:
+  id: MAT/5/39
+  number: '39'
+reference: 'Matthew 5:40'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 148:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. Praise ye the
+  <span class="nd">LORD</span> from the heavens: praise him in the heights.</p>
+id: PSA/148/1
+next:
+  id: PSA/148/2
+  number: '2'
+previous:
+  id: PSA/147/20
+  number: '20'
+reference: 'Psalms 148:1'

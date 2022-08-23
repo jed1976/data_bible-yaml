@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="NUM 33:56"
+  class="v">56</span>Moreover it shall come to pass, <span
+  class="add">that</span> I shall do unto you, as I thought to do unto them.</p>
+id: NUM/33/56
+next:
+  id: NUM/34/1
+  number: '1'
+previous:
+  id: NUM/33/55
+  number: '55'
+reference: 'Numbers 33:56'

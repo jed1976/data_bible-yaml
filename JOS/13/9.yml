@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 13:9" class="v">9</span>From
+  Aroer, that <span class="add">is</span> upon the bank of the river Arnon, and
+  the city that <span class="add">is</span> in the midst of the river, and all
+  the plain of Medeba unto Dibon; </p>
+id: JOS/13/9
+next:
+  id: JOS/13/10
+  number: '10'
+previous:
+  id: JOS/13/8
+  number: '8'
+reference: 'Joshua 13:9'

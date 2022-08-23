@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="125" data-sid="PSA 119:125"
+  class="v">125</span>I <span class="add">am</span> thy servant; give me
+  understanding, that I may know thy testimonies.</p>
+id: PSA/119/125
+next:
+  id: PSA/119/126
+  number: '126'
+previous:
+  id: PSA/119/124
+  number: '124'
+reference: 'Psalms 119:125'

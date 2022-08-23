@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 23:1" class="v">1</span>And
+  Sarah was an hundred and seven and twenty years old: <span class="add">these
+  were</span> the years of the life of Sarah. </p>
+id: GEN/23/1
+next:
+  id: GEN/23/2
+  number: '2'
+previous:
+  id: GEN/22/24
+  number: '24'
+reference: 'Genesis 23:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 10:1" class="v">1</span>There
+  was a certain man in Cæsarea called Cornelius, a centurion of the band called
+  the Italian <span class="add">band</span>, </p>
+id: ACT/10/1
+next:
+  id: ACT/10/2
+  number: '2'
+previous:
+  id: ACT/9/43
+  number: '43'
+reference: 'Acts 10:1'

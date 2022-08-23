@@ -1,0 +1,12 @@
+content: >-
+  <p class="s1"><span class="tl">ס SAMECH.</span></p><p class="q1"><span
+  data-number="113" data-sid="PSA 119:113" class="v">113</span>I hate <span
+  class="add">vain</span> thoughts: but thy law do I love.</p>
+id: PSA/119/113
+next:
+  id: PSA/119/114
+  number: '114'
+previous:
+  id: PSA/119/112
+  number: '112'
+reference: 'Psalms 119:113'

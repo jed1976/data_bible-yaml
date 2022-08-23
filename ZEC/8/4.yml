@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEC 8:4" class="v">4</span>Thus
+  saith the <span class="nd">LORD</span> of hosts; There shall yet old men and
+  old women dwell in the streets of Jerusalem, and every man with his staff in
+  his hand for very age. </p>
+id: ZEC/8/4
+next:
+  id: ZEC/8/5
+  number: '5'
+previous:
+  id: ZEC/8/3
+  number: '3'
+reference: 'Zechariah 8:4'

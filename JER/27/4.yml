@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 27:4" class="v">4</span>And
+  command them to say unto their masters, Thus saith the <span
+  class="nd">LORD</span> of hosts, the God of Israel; Thus shall ye say unto
+  your masters; </p>
+id: JER/27/4
+next:
+  id: JER/27/5
+  number: '5'
+previous:
+  id: JER/27/3
+  number: '3'
+reference: 'Jeremiah 27:4'

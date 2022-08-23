@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 47:5" class="v">5</span>And
+  Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto
+  thee: </p>
+id: GEN/47/5
+next:
+  id: GEN/47/6
+  number: '6'
+previous:
+  id: GEN/47/4
+  number: '4'
+reference: 'Genesis 47:5'

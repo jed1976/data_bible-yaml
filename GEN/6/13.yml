@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 6:13" class="v">13</span>And
+  God said unto Noah, The end of all flesh is come before me; for the earth is
+  filled with violence through them; and, behold, I will destroy them with the
+  earth.</p>
+id: GEN/6/13
+next:
+  id: GEN/6/14
+  number: '14'
+previous:
+  id: GEN/6/12
+  number: '12'
+reference: 'Genesis 6:13'

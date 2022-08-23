@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 11:12"
+  class="v">12</span>And the Spirit bade me go with them, nothing doubting.
+  Moreover these six brethren accompanied me, and we entered into the man’s
+  house: </p>
+id: ACT/11/12
+next:
+  id: ACT/11/13
+  number: '13'
+previous:
+  id: ACT/11/11
+  number: '11'
+reference: 'Acts 11:12'

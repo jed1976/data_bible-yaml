@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 28:12" class="v">12</span>To
+  whom he said, This <span class="add">is</span> the rest <span
+  class="add">wherewith</span> ye may cause the weary to rest; and this <span
+  class="add">is</span> the refreshing: yet they would not hear. </p>
+id: ISA/28/12
+next:
+  id: ISA/28/13
+  number: '13'
+previous:
+  id: ISA/28/11
+  number: '11'
+reference: 'Isaiah 28:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 1:8"
+  class="v">8</span>Remember, I beseech thee, the word that thou commandedst thy
+  servant Moses, saying, <span class="add">If</span> ye transgress, I will
+  scatter you abroad among the nations: </p>
+id: NEH/1/8
+next:
+  id: NEH/1/9
+  number: '9'
+previous:
+  id: NEH/1/7
+  number: '7'
+reference: 'Nehemiah 1:8'

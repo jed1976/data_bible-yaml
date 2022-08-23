@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 45:20"
+  class="v">20</span>Also regard not your stuff; for the good of all the land of
+  Egypt <span class="add">is</span> yours. </p>
+id: GEN/45/20
+next:
+  id: GEN/45/21
+  number: '21'
+previous:
+  id: GEN/45/19
+  number: '19'
+reference: 'Genesis 45:20'

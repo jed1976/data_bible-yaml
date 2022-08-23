@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 20:19" class="v">19</span>¶
+  When thou shalt besiege a city a long time, in making war against it to take
+  it, thou shalt not destroy the trees thereof by forcing an axe against them:
+  for thou mayest eat of them, and thou shalt not cut them down (for the tree of
+  the field <span class="add">is</span> man’s <span class="add">life</span>) to
+  employ <span class="add">them</span> in the siege: </p>
+id: DEU/20/19
+next:
+  id: DEU/20/20
+  number: '20'
+previous:
+  id: DEU/20/18
+  number: '18'
+reference: 'Deuteronomy 20:19'

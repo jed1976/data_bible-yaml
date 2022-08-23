@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 5:21" class="v">21</span>¶
+  And Enoch lived sixty and five years, and begat Methuselah: </p>
+id: GEN/5/21
+next:
+  id: GEN/5/22
+  number: '22'
+previous:
+  id: GEN/5/20
+  number: '20'
+reference: 'Genesis 5:21'

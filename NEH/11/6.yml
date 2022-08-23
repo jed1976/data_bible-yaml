@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 11:6" class="v">6</span>All
+  the sons of Perez that dwelt at Jerusalem <span class="add">were</span> four
+  hundred threescore and eight valiant men. </p>
+id: NEH/11/6
+next:
+  id: NEH/11/7
+  number: '7'
+previous:
+  id: NEH/11/5
+  number: '5'
+reference: 'Nehemiah 11:6'

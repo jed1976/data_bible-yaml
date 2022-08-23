@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 1:9" class="v">9</span><span
+  class="add">That</span> was the true Light, which lighteth every man that
+  cometh into the world. </p>
+id: JHN/1/9
+next:
+  id: JHN/1/10
+  number: '10'
+previous:
+  id: JHN/1/8
+  number: '8'
+reference: 'John 1:9'

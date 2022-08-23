@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 7:3" class="v">3</span>Now
+  <span class="add">is</span> the end <span class="add">come</span> upon thee,
+  and I will send mine anger upon thee, and will judge thee according to thy
+  ways, and will recompense upon thee all thine abominations. </p>
+id: EZK/7/3
+next:
+  id: EZK/7/4
+  number: '4'
+previous:
+  id: EZK/7/2
+  number: '2'
+reference: 'Ezekiel 7:3'

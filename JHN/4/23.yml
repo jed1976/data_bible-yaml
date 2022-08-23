@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 4:23"
+  class="v">23</span><span class="wj">But the hour cometh, and now is, when the
+  true worshippers shall worship the Father in spirit and in truth: for the
+  Father seeketh such to worship him.</span> </p>
+id: JHN/4/23
+next:
+  id: JHN/4/24
+  number: '24'
+previous:
+  id: JHN/4/22
+  number: '22'
+reference: 'John 4:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 73:25"
+  class="v">25</span>Whom have I in heaven <span class="add">but thee</span>?
+  and <span class="add">there is</span> none upon earth <span
+  class="add">that</span> I desire beside thee.</p>
+id: PSA/73/25
+next:
+  id: PSA/73/26
+  number: '26'
+previous:
+  id: PSA/73/24
+  number: '24'
+reference: 'Psalms 73:25'

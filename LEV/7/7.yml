@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 7:7" class="v">7</span>As the
+  sin offering <span class="add">is</span>, so <span class="add">is</span> the
+  trespass offering: <span class="add">there is</span> one law for them: the
+  priest that maketh atonement therewith shall have <span class="add">it</span>.
+  </p>
+id: LEV/7/7
+next:
+  id: LEV/7/8
+  number: '8'
+previous:
+  id: LEV/7/6
+  number: '6'
+reference: 'Leviticus 7:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2TH 1:12"
+  class="v">12</span>That the name of our Lord Jesus Christ may be glorified in
+  you, and ye in him, according to the grace of our God and the Lord Jesus
+  Christ.</p>
+id: 2TH/1/12
+next:
+  id: 2TH/2/1
+  number: '1'
+previous:
+  id: 2TH/1/11
+  number: '11'
+reference: '2 Thessalonians 1:12'

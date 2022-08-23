@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1KI 1:15" class="v">15</span>¶
+  And Bath-sheba went in unto the king into the chamber: and the king was very
+  old; and Abishag the Shunammite ministered unto the king. </p>
+id: 1KI/1/15
+next:
+  id: 1KI/1/16
+  number: '16'
+previous:
+  id: 1KI/1/14
+  number: '14'
+reference: '1 Kings 1:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 20:18"
+  class="v">18</span>Mary Magdalene came and told the disciples that she had
+  seen the Lord, and <span class="add">that</span> he had spoken these things
+  unto her.</p>
+id: JHN/20/18
+next:
+  id: JHN/20/19
+  number: '19'
+previous:
+  id: JHN/20/17
+  number: '17'
+reference: 'John 20:18'

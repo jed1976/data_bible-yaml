@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 24:1" class="v">1</span>And
+  Abraham was old, <span class="add">and</span> well stricken in age: and the
+  <span class="nd">LORD</span> had blessed Abraham in all things. </p>
+id: GEN/24/1
+next:
+  id: GEN/24/2
+  number: '2'
+previous:
+  id: GEN/23/20
+  number: '20'
+reference: 'Genesis 24:1'

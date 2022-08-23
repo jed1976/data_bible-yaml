@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 12:13"
+  class="v">13</span>But go thou thy way till the end <span
+  class="add">be:</span> for thou shalt rest, and stand in thy lot at the end of
+  the days.</p>
+id: DAN/12/13
+next:
+  id: HOS/intro/0
+  number: '0'
+previous:
+  id: DAN/12/12
+  number: '12'
+reference: 'Daniel 12:13'

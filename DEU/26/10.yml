@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 26:10"
+  class="v">10</span>And now, behold, I have brought the firstfruits of the
+  land, which thou, O <span class="nd">LORD</span>, hast given me. And thou
+  shalt set it before the <span class="nd">LORD</span> thy God, and worship
+  before the <span class="nd">LORD</span> thy God: </p>
+id: DEU/26/10
+next:
+  id: DEU/26/11
+  number: '11'
+previous:
+  id: DEU/26/9
+  number: '9'
+reference: 'Deuteronomy 26:10'

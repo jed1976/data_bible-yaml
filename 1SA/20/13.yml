@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 20:13"
+  class="v">13</span>The <span class="nd">LORD</span> do so and much more to
+  Jonathan: but if it please my father <span class="add">to do</span> thee evil,
+  then I will shew it thee, and send thee away, that thou mayest go in peace:
+  and the <span class="nd">LORD</span> be with thee, as he hath been with my
+  father. </p>
+id: 1SA/20/13
+next:
+  id: 1SA/20/14
+  number: '14'
+previous:
+  id: 1SA/20/12
+  number: '12'
+reference: '1 Samuel 20:13'

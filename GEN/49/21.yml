@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 49:21" class="v">21</span>¶
+  Naphtali <span class="add">is</span> a hind let loose: he giveth goodly
+  words.</p>
+id: GEN/49/21
+next:
+  id: GEN/49/22
+  number: '22'
+previous:
+  id: GEN/49/20
+  number: '20'
+reference: 'Genesis 49:21'

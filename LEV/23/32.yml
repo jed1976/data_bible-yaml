@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 23:32" class="v">32</span>It
+  <span class="add">shall be</span> unto you a sabbath of rest, and ye shall
+  afflict your souls: in the ninth <span class="add">day</span> of the month at
+  even, from even unto even, shall ye celebrate your sabbath.</p>
+id: LEV/23/32
+next:
+  id: LEV/23/33
+  number: '33'
+previous:
+  id: LEV/23/31
+  number: '31'
+reference: 'Leviticus 23:32'

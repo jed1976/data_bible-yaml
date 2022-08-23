@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 20:17" class="v">17</span>¶
+  And from Miletus he sent to Ephesus, and called the elders of the church. </p>
+id: ACT/20/17
+next:
+  id: ACT/20/18
+  number: '18'
+previous:
+  id: ACT/20/16
+  number: '16'
+reference: 'Acts 20:17'

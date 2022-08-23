@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 79:7" class="v">7</span>For
+  they have devoured Jacob, and laid waste his dwelling place.</p>
+id: PSA/79/7
+next:
+  id: PSA/79/8
+  number: '8'
+previous:
+  id: PSA/79/6
+  number: '6'
+reference: 'Psalms 79:7'

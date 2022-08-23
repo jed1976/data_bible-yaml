@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 11:3"
+  class="v">3</span>Should thy lies make men hold their peace? and when thou
+  mockest, shall no man make thee ashamed? </p>
+id: JOB/11/3
+next:
+  id: JOB/11/4
+  number: '4'
+previous:
+  id: JOB/11/2
+  number: '2'
+reference: 'Job 11:3'

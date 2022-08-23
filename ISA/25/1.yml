@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 25:1" class="v">1</span>O
+  <span class="nd">LORD</span>, thou <span class="add">art</span> my God; I will
+  exalt thee, I will praise thy name; for thou hast done wonderful <span
+  class="add">things; thy</span> counsels of old <span class="add">are</span>
+  faithfulness <span class="add">and</span> truth. </p>
+id: ISA/25/1
+next:
+  id: ISA/25/2
+  number: '2'
+previous:
+  id: ISA/24/23
+  number: '23'
+reference: 'Isaiah 25:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 43:2" class="v">2</span>For
+  thou <span class="add">art</span> the God of my strength: why dost thou cast
+  me off? why go I mourning because of the oppression of the enemy?</p>
+id: PSA/43/2
+next:
+  id: PSA/43/3
+  number: '3'
+previous:
+  id: PSA/43/1
+  number: '1'
+reference: 'Psalms 43:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 18:35"
+  class="v">35</span>Thou hast also given me the shield of thy salvation: and
+  thy right hand hath holden me up, and thy gentleness hath made me great.</p>
+id: PSA/18/35
+next:
+  id: PSA/18/36
+  number: '36'
+previous:
+  id: PSA/18/34
+  number: '34'
+reference: 'Psalms 18:35'

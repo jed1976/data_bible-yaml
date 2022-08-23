@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 15:7" class="v">7</span>And
+  when there had been much disputing, Peter rose up, and said unto them, Men
+  <span class="add">and</span> brethren, ye know how that a good while ago God
+  made choice among us, that the Gentiles by my mouth should hear the word of
+  the gospel, and believe. </p>
+id: ACT/15/7
+next:
+  id: ACT/15/8
+  number: '8'
+previous:
+  id: ACT/15/6
+  number: '6'
+reference: 'Acts 15:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 1:5" class="v">5</span>And
+  God called the light Day, and the darkness he called Night. And the evening
+  and the morning were the first day.</p>
+id: GEN/1/5
+next:
+  id: GEN/1/6
+  number: '6'
+previous:
+  id: GEN/1/4
+  number: '4'
+reference: 'Genesis 1:5'

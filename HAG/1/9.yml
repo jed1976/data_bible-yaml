@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HAG 1:9" class="v">9</span>Ye
+  looked for much, and, lo, <span class="add">it came</span> to little; and when
+  ye brought <span class="add">it</span> home, I did blow upon it. Why? saith
+  the <span class="nd">LORD</span> of hosts. Because of mine house that <span
+  class="add">is</span> waste, and ye run every man unto his own house. </p>
+id: HAG/1/9
+next:
+  id: HAG/1/10
+  number: '10'
+previous:
+  id: HAG/1/8
+  number: '8'
+reference: 'Haggai 1:9'

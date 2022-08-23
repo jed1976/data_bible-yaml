@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 65:5"
+  class="v">5</span><span class="add">By</span> terrible things in righteousness
+  wilt thou answer us, O God of our salvation; <span class="add">who art</span>
+  the confidence of all the ends of the earth, and of them that are afar off
+  <span class="add">upon</span> the sea:</p>
+id: PSA/65/5
+next:
+  id: PSA/65/6
+  number: '6'
+previous:
+  id: PSA/65/4
+  number: '4'
+reference: 'Psalms 65:5'

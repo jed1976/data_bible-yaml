@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JDG 18:8" class="v">8</span>And
+  they came unto their brethren to Zorah and Eshtaol: and their brethren said
+  unto them, What <span class="add">say</span> ye? </p>
+id: JDG/18/8
+next:
+  id: JDG/18/9
+  number: '9'
+previous:
+  id: JDG/18/7
+  number: '7'
+reference: 'Judges 18:8'

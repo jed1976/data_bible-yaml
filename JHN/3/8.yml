@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 3:8" class="v">8</span><span
+  class="wj">The wind bloweth where it listeth, and thou hearest the sound
+  thereof, but canst not tell whence it cometh, and whither it goeth: so is
+  every one that is born of the Spirit.</span> </p>
+id: JHN/3/8
+next:
+  id: JHN/3/9
+  number: '9'
+previous:
+  id: JHN/3/7
+  number: '7'
+reference: 'John 3:8'

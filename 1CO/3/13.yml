@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CO 3:13"
+  class="v">13</span>Every man’s work shall be made manifest: for the day shall
+  declare it, because it shall be revealed by fire; and the fire shall try every
+  man’s work of what sort it is. </p>
+id: 1CO/3/13
+next:
+  id: 1CO/3/14
+  number: '14'
+previous:
+  id: 1CO/3/12
+  number: '12'
+reference: '1 Corinthians 3:13'

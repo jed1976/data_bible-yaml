@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 15:3" class="v">3</span>Shall
+  wood be taken thereof to do any work? or will <span class="add">men</span>
+  take a pin of it to hang any vessel thereon? </p>
+id: EZK/15/3
+next:
+  id: EZK/15/4
+  number: '4'
+previous:
+  id: EZK/15/2
+  number: '2'
+reference: 'Ezekiel 15:3'

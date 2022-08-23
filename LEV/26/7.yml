@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 26:7" class="v">7</span>And
+  ye shall chase your enemies, and they shall fall before you by the sword. </p>
+id: LEV/26/7
+next:
+  id: LEV/26/8
+  number: '8'
+previous:
+  id: LEV/26/6
+  number: '6'
+reference: 'Leviticus 26:7'

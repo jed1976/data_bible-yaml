@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 4:25" class="v">25</span>Let
+  thine eyes look right on, and let thine eyelids look straight before thee.
+  </p>
+id: PRO/4/25
+next:
+  id: PRO/4/26
+  number: '26'
+previous:
+  id: PRO/4/24
+  number: '24'
+reference: 'Proverbs 4:25'

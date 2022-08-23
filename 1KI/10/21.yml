@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1KI 10:21" class="v">21</span>¶
+  And all king Solomon’s drinking vessels <span class="add">were of</span> gold,
+  and all the vessels of the house of the forest of Lebanon <span
+  class="add">were of</span> pure gold; none <span class="add">were of</span>
+  silver: it was nothing accounted of in the days of Solomon. </p>
+id: 1KI/10/21
+next:
+  id: 1KI/10/22
+  number: '22'
+previous:
+  id: 1KI/10/20
+  number: '20'
+reference: '1 Kings 10:21'

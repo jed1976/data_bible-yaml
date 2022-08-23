@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 31:43" class="v">43</span>¶
+  And Laban answered and said unto Jacob, <span class="add">These</span>
+  daughters <span class="add">are</span> my daughters, and <span
+  class="add">these</span> children <span class="add">are</span> my children,
+  and <span class="add">these</span> cattle <span class="add">are</span> my
+  cattle, and all that thou seest <span class="add">is</span> mine: and what can
+  I do this day unto these my daughters, or unto their children which they have
+  born? </p>
+id: GEN/31/43
+next:
+  id: GEN/31/44
+  number: '44'
+previous:
+  id: GEN/31/42
+  number: '42'
+reference: 'Genesis 31:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 23:1" class="v">1</span>And
+  the king sent, and they gathered unto him all the elders of Judah and of
+  Jerusalem. </p>
+id: 2KI/23/1
+next:
+  id: 2KI/23/2
+  number: '2'
+previous:
+  id: 2KI/22/20
+  number: '20'
+reference: '2 Kings 23:1'

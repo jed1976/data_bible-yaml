@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 12:16"
+  class="v">16</span>These things understood not his disciples at the first: but
+  when Jesus was glorified, then remembered they that these things were written
+  of him, and <span class="add">that</span> they had done these things unto him.
+  </p>
+id: JHN/12/16
+next:
+  id: JHN/12/17
+  number: '17'
+previous:
+  id: JHN/12/15
+  number: '15'
+reference: 'John 12:16'

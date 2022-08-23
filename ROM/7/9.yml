@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 7:9" class="v">9</span>For I
+  was alive without the law once: but when the commandment came, sin revived,
+  and I died. </p>
+id: ROM/7/9
+next:
+  id: ROM/7/10
+  number: '10'
+previous:
+  id: ROM/7/8
+  number: '8'
+reference: 'Romans 7:9'

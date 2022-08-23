@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 7:15"
+  class="v">15</span><span class="wj">¶ Beware of false prophets, which come to
+  you in sheep’s clothing, but inwardly they are ravening wolves.</span> </p>
+id: MAT/7/15
+next:
+  id: MAT/7/16
+  number: '16'
+previous:
+  id: MAT/7/14
+  number: '14'
+reference: 'Matthew 7:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 55:11"
+  class="v">11</span>Wickedness <span class="add">is</span> in the midst
+  thereof: deceit and guile depart not from her streets.</p>
+id: PSA/55/11
+next:
+  id: PSA/55/12
+  number: '12'
+previous:
+  id: PSA/55/10
+  number: '10'
+reference: 'Psalms 55:11'

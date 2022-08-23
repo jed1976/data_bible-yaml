@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 8:8" class="v">8</span>¶ We
+  have a little sister, and she hath no breasts: what shall we do for our sister
+  in the day when she shall be spoken for? </p>
+id: SNG/8/8
+next:
+  id: SNG/8/9
+  number: '9'
+previous:
+  id: SNG/8/7
+  number: '7'
+reference: 'Song of Solomon 8:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 5:12" class="v">12</span>¶
+  And by the hands of the apostles were many signs and wonders wrought among the
+  people; (and they were all with one accord in Solomon’s porch. </p>
+id: ACT/5/12
+next:
+  id: ACT/5/13
+  number: '13'
+previous:
+  id: ACT/5/11
+  number: '11'
+reference: 'Acts 5:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 7:7" class="v">7</span>O
+  remember that my life <span class="add">is</span> wind: mine eye shall no more
+  see good. </p>
+id: JOB/7/7
+next:
+  id: JOB/7/8
+  number: '8'
+previous:
+  id: JOB/7/6
+  number: '6'
+reference: 'Job 7:7'

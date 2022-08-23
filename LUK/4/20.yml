@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 4:20" class="v">20</span>And
+  he closed the book, and he gave <span class="add">it</span> again to the
+  minister, and sat down. And the eyes of all them that were in the synagogue
+  were fastened on him. </p>
+id: LUK/4/20
+next:
+  id: LUK/4/21
+  number: '21'
+previous:
+  id: LUK/4/19
+  number: '19'
+reference: 'Luke 4:20'

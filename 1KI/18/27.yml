@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1KI 18:27"
+  class="v">27</span>And it came to pass at noon, that Elijah mocked them, and
+  said, Cry aloud: for he <span class="add">is</span> a god; either he is
+  talking, or he is pursuing, or he is in a journey, <span class="add">or</span>
+  peradventure he sleepeth, and must be awaked. </p>
+id: 1KI/18/27
+next:
+  id: 1KI/18/28
+  number: '28'
+previous:
+  id: 1KI/18/26
+  number: '26'
+reference: '1 Kings 18:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ISA 14:31"
+  class="v">31</span>Howl, O gate; cry, O city; thou, whole Palestina, <span
+  class="add">art</span> dissolved: for there shall come from the north a smoke,
+  and none <span class="add">shall be</span> alone in his appointed times. </p>
+id: ISA/14/31
+next:
+  id: ISA/14/32
+  number: '32'
+previous:
+  id: ISA/14/30
+  number: '30'
+reference: 'Isaiah 14:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 24:5" class="v">5</span>And
+  he sent young men of the children of Israel, which offered burnt offerings,
+  and sacrificed peace offerings of oxen unto the <span class="nd">LORD</span>.
+  </p>
+id: EXO/24/5
+next:
+  id: EXO/24/6
+  number: '6'
+previous:
+  id: EXO/24/4
+  number: '4'
+reference: 'Exodus 24:5'

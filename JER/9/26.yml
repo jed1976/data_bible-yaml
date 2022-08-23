@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JER 9:26"
+  class="v">26</span>Egypt, and Judah, and Edom, and the children of Ammon, and
+  Moab, and all <span class="add">that are</span> in the utmost corners, that
+  dwell in the wilderness: for all <span class="add">these</span> nations <span
+  class="add">are</span> uncircumcised, and all the house of Israel <span
+  class="add">are</span> uncircumcised in the heart.</p>
+id: JER/9/26
+next:
+  id: JER/10/1
+  number: '1'
+previous:
+  id: JER/9/25
+  number: '25'
+reference: 'Jeremiah 9:26'

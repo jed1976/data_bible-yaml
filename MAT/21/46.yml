@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 21:46"
+  class="v">46</span>But when they sought to lay hands on him, they feared the
+  multitude, because they took him for a prophet.</p>
+id: MAT/21/46
+next:
+  id: MAT/22/1
+  number: '1'
+previous:
+  id: MAT/21/45
+  number: '45'
+reference: 'Matthew 21:46'

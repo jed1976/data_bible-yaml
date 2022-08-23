@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 43:10"
+  class="v">10</span>For except we had lingered, surely now we had returned this
+  second time.</p>
+id: GEN/43/10
+next:
+  id: GEN/43/11
+  number: '11'
+previous:
+  id: GEN/43/9
+  number: '9'
+reference: 'Genesis 43:10'

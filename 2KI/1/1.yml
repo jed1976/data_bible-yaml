@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 1:1" class="v">1</span>Then
+  Moab rebelled against Israel after the death of Ahab. </p>
+id: 2KI/1/1
+next:
+  id: 2KI/1/2
+  number: '2'
+previous:
+  id: 2KI/intro/0
+  number: '0'
+reference: '2 Kings 1:1'

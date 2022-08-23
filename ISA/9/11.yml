@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 9:11"
+  class="v">11</span>Therefore the <span class="nd">LORD</span> shall set up the
+  adversaries of Rezin against him, and join his enemies together; </p>
+id: ISA/9/11
+next:
+  id: ISA/9/12
+  number: '12'
+previous:
+  id: ISA/9/10
+  number: '10'
+reference: 'Isaiah 9:11'

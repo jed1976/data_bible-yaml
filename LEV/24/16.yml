@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 24:16"
+  class="v">16</span>And he that blasphemeth the name of the <span
+  class="nd">LORD</span>, he shall surely be put to death, <span
+  class="add">and</span> all the congregation shall certainly stone him: as well
+  the stranger, as he that is born in the land, when he blasphemeth the name
+  <span class="add">of the <span class="nd">LORD</span></span>, shall be put to
+  death.</p>
+id: LEV/24/16
+next:
+  id: LEV/24/17
+  number: '17'
+previous:
+  id: LEV/24/15
+  number: '15'
+reference: 'Leviticus 24:16'

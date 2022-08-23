@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 27:20"
+  class="v">20</span>And when neither sun nor stars in many days appeared, and
+  no small tempest lay on <span class="add">us</span>, all hope that we should
+  be saved was then taken away. </p>
+id: ACT/27/20
+next:
+  id: ACT/27/21
+  number: '21'
+previous:
+  id: ACT/27/19
+  number: '19'
+reference: 'Acts 27:20'

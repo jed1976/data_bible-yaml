@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EZK 24:19" class="v">19</span>¶
+  And the people said unto me, Wilt thou not tell us what these <span
+  class="add">things are</span> to us, that thou doest <span
+  class="add">so</span>? </p>
+id: EZK/24/19
+next:
+  id: EZK/24/20
+  number: '20'
+previous:
+  id: EZK/24/18
+  number: '18'
+reference: 'Ezekiel 24:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PHM 1:7" class="v">7</span>For we
+  have great joy and consolation in thy love, because the bowels of the saints
+  are refreshed by thee, brother. </p>
+id: PHM/1/7
+next:
+  id: PHM/1/8
+  number: '8'
+previous:
+  id: PHM/1/6
+  number: '6'
+reference: 'Philemon 1:7'

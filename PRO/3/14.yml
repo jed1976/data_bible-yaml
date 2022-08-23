@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 3:14" class="v">14</span>For
+  the merchandise of it <span class="add">is</span> better than the merchandise
+  of silver, and the gain thereof than fine gold. </p>
+id: PRO/3/14
+next:
+  id: PRO/3/15
+  number: '15'
+previous:
+  id: PRO/3/13
+  number: '13'
+reference: 'Proverbs 3:14'

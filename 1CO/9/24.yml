@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CO 9:24"
+  class="v">24</span>Know ye not that they which run in a race run all, but one
+  receiveth the prize? So run, that ye may obtain. </p>
+id: 1CO/9/24
+next:
+  id: 1CO/9/25
+  number: '25'
+previous:
+  id: 1CO/9/23
+  number: '23'
+reference: '1 Corinthians 9:24'

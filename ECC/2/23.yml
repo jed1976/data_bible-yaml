@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ECC 2:23" class="v">23</span>For
+  all his days <span class="add">are</span> sorrows, and his travail grief; yea,
+  his heart taketh not rest in the night. This is also vanity.</p>
+id: ECC/2/23
+next:
+  id: ECC/2/24
+  number: '24'
+previous:
+  id: ECC/2/22
+  number: '22'
+reference: 'Ecclesiastes 2:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 38:15"
+  class="v">15</span>What shall I say? he hath both spoken unto me, and himself
+  hath done <span class="add">it:</span> I shall go softly all my years in the
+  bitterness of my soul. </p>
+id: ISA/38/15
+next:
+  id: ISA/38/16
+  number: '16'
+previous:
+  id: ISA/38/14
+  number: '14'
+reference: 'Isaiah 38:15'

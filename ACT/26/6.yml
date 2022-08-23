@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 26:6" class="v">6</span>And
+  now I stand and am judged for the hope of the promise made of God unto our
+  fathers: </p>
+id: ACT/26/6
+next:
+  id: ACT/26/7
+  number: '7'
+previous:
+  id: ACT/26/5
+  number: '5'
+reference: 'Acts 26:6'

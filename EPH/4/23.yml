@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EPH 4:23" class="v">23</span>And
+  be renewed in the spirit of your mind; </p>
+id: EPH/4/23
+next:
+  id: EPH/4/24
+  number: '24'
+previous:
+  id: EPH/4/22
+  number: '22'
+reference: 'Ephesians 4:23'

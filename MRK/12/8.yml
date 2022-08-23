@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 12:8" class="v">8</span><span
+  class="wj">And they took him, and killed <span class="add">him</span>, and
+  cast <span class="add">him</span> out of the vineyard.</span> </p>
+id: MRK/12/8
+next:
+  id: MRK/12/9
+  number: '9'
+previous:
+  id: MRK/12/7
+  number: '7'
+reference: 'Mark 12:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 13:19"
+  class="v">19</span><span class="wj">Now I tell you before it come, that, when
+  it is come to pass, ye may believe that I am <span
+  class="add">he</span>.</span> </p>
+id: JHN/13/19
+next:
+  id: JHN/13/20
+  number: '20'
+previous:
+  id: JHN/13/18
+  number: '18'
+reference: 'John 13:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 22:7" class="v">7</span>The
+  rich ruleth over the poor, and the borrower <span class="add">is</span>
+  servant to the lender. </p>
+id: PRO/22/7
+next:
+  id: PRO/22/8
+  number: '8'
+previous:
+  id: PRO/22/6
+  number: '6'
+reference: 'Proverbs 22:7'

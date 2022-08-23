@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 8:24" class="v">24</span>And
+  he looked up, and said, I see men as trees, walking. </p>
+id: MRK/8/24
+next:
+  id: MRK/8/25
+  number: '25'
+previous:
+  id: MRK/8/23
+  number: '23'
+reference: 'Mark 8:24'

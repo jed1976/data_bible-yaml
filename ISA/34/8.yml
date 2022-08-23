@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 34:8" class="v">8</span>For
+  <span class="add">it is</span> the day of the <span class="nd">LORD’s</span>
+  vengeance, <span class="add">and</span> the year of recompences for the
+  controversy of Zion.</p>
+id: ISA/34/8
+next:
+  id: ISA/34/9
+  number: '9'
+previous:
+  id: ISA/34/7
+  number: '7'
+reference: 'Isaiah 34:8'

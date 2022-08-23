@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LAM 1:9" class="v">9</span>Her
+  filthiness <span class="add">is</span> in her skirts; she remembereth not her
+  last end; therefore she came down wonderfully: she had no comforter. O <span
+  class="nd">LORD</span>, behold my affliction: for the enemy hath magnified
+  <span class="add">himself</span>. </p>
+id: LAM/1/9
+next:
+  id: LAM/1/10
+  number: '10'
+previous:
+  id: LAM/1/8
+  number: '8'
+reference: 'Lamentations 1:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 45:1" class="v">1</span>The
+  word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he
+  had written these words in a book at the mouth of Jeremiah, in the fourth year
+  of Jehoiakim the son of Josiah king of Judah, saying, </p>
+id: JER/45/1
+next:
+  id: JER/45/2
+  number: '2'
+previous:
+  id: JER/44/30
+  number: '30'
+reference: 'Jeremiah 45:1'

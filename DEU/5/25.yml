@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 5:25" class="v">25</span>Now
+  therefore why should we die? for this great fire will consume us: if we hear
+  the voice of the <span class="nd">LORD</span> our God any more, then we shall
+  die. </p>
+id: DEU/5/25
+next:
+  id: DEU/5/26
+  number: '26'
+previous:
+  id: DEU/5/24
+  number: '24'
+reference: 'Deuteronomy 5:25'

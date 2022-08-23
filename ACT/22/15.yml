@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 22:15"
+  class="v">15</span>For thou shalt be his witness unto all men of what thou
+  hast seen and heard. </p>
+id: ACT/22/15
+next:
+  id: ACT/22/16
+  number: '16'
+previous:
+  id: ACT/22/14
+  number: '14'
+reference: 'Acts 22:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HEB 7:23" class="v">23</span>And
+  they truly were many priests, because they were not suffered to continue by
+  reason of death: </p>
+id: HEB/7/23
+next:
+  id: HEB/7/24
+  number: '24'
+previous:
+  id: HEB/7/22
+  number: '22'
+reference: 'Hebrews 7:23'

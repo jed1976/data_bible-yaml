@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EPH 1:16"
+  class="v">16</span>Cease not to give thanks for you, making mention of you in
+  my prayers; </p>
+id: EPH/1/16
+next:
+  id: EPH/1/17
+  number: '17'
+previous:
+  id: EPH/1/15
+  number: '15'
+reference: 'Ephesians 1:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 19:22"
+  class="v">22</span>And the priest shall make an atonement for him with the ram
+  of the trespass offering before the <span class="nd">LORD</span> for his sin
+  which he hath done: and the sin which he hath done shall be forgiven him.</p>
+id: LEV/19/22
+next:
+  id: LEV/19/23
+  number: '23'
+previous:
+  id: LEV/19/21
+  number: '21'
+reference: 'Leviticus 19:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 16:25"
+  class="v">25</span><span class="wj">These things have I spoken unto you in
+  proverbs: but the time cometh, when I shall no more speak unto you in
+  proverbs, but I shall shew you plainly of the Father.</span> </p>
+id: JHN/16/25
+next:
+  id: JHN/16/26
+  number: '26'
+previous:
+  id: JHN/16/24
+  number: '24'
+reference: 'John 16:25'

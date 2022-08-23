@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1SA 20:42"
+  class="v">42</span>And Jonathan said to David, Go in peace, forasmuch as we
+  have sworn both of us in the name of the <span class="nd">LORD</span>, saying,
+  The <span class="nd">LORD</span> be between me and thee, and between my seed
+  and thy seed for ever. And he arose and departed: and Jonathan went into the
+  city.</p>
+id: 1SA/20/42
+next:
+  id: 1SA/21/1
+  number: '1'
+previous:
+  id: 1SA/20/41
+  number: '41'
+reference: '1 Samuel 20:42'

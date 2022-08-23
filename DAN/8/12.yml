@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 8:12" class="v">12</span>And
+  an host was given <span class="add">him</span> against the daily <span
+  class="add">sacrifice</span> by reason of transgression, and it cast down the
+  truth to the ground; and it practised, and prospered.</p>
+id: DAN/8/12
+next:
+  id: DAN/8/13
+  number: '13'
+previous:
+  id: DAN/8/11
+  number: '11'
+reference: 'Daniel 8:12'

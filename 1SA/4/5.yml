@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1SA 4:5" class="v">5</span>And
+  when the ark of the covenant of the <span class="nd">LORD</span> came into the
+  camp, all Israel shouted with a great shout, so that the earth rang again.
+  </p>
+id: 1SA/4/5
+next:
+  id: 1SA/4/6
+  number: '6'
+previous:
+  id: 1SA/4/4
+  number: '4'
+reference: '1 Samuel 4:5'

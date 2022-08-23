@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 10:32" class="v">32</span>¶
+  And they were in the way going up to Jerusalem; and Jesus went before them:
+  and they were amazed; and as they followed, they were afraid. And he took
+  again the twelve, and began to tell them what things should happen unto him,
+  </p>
+id: MRK/10/32
+next:
+  id: MRK/10/33
+  number: '33'
+previous:
+  id: MRK/10/31
+  number: '31'
+reference: 'Mark 10:32'

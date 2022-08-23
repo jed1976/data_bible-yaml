@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 29:22"
+  class="v">22</span>Also thou shalt take of the ram the fat and the rump, and
+  the fat that covereth the inwards, and the caul <span class="add">above</span>
+  the liver, and the two kidneys, and the fat that <span class="add">is</span>
+  upon them, and the right shoulder; for it <span class="add">is</span> a ram of
+  consecration: </p>
+id: EXO/29/22
+next:
+  id: EXO/29/23
+  number: '23'
+previous:
+  id: EXO/29/21
+  number: '21'
+reference: 'Exodus 29:22'

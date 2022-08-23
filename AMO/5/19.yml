@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="AMO 5:19" class="v">19</span>As
+  if a man did flee from a lion, and a bear met him; or went into the house, and
+  leaned his hand on the wall, and a serpent bit him. </p>
+id: AMO/5/19
+next:
+  id: AMO/5/20
+  number: '20'
+previous:
+  id: AMO/5/18
+  number: '18'
+reference: 'Amos 5:19'

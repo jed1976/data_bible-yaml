@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 4:13" class="v">13</span>In
+  thoughts from the visions of the night, when deep sleep falleth on men, </p>
+id: JOB/4/13
+next:
+  id: JOB/4/14
+  number: '14'
+previous:
+  id: JOB/4/12
+  number: '12'
+reference: 'Job 4:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 31:25" class="v">25</span>¶
+  Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and
+  Laban with his brethren pitched in the mount of Gilead. </p>
+id: GEN/31/25
+next:
+  id: GEN/31/26
+  number: '26'
+previous:
+  id: GEN/31/24
+  number: '24'
+reference: 'Genesis 31:25'

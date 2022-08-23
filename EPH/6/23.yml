@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EPH 6:23"
+  class="v">23</span>Peace <span class="add">be</span> to the brethren, and love
+  with faith, from God the Father and the Lord Jesus Christ. </p>
+id: EPH/6/23
+next:
+  id: EPH/6/24
+  number: '24'
+previous:
+  id: EPH/6/22
+  number: '22'
+reference: 'Ephesians 6:23'

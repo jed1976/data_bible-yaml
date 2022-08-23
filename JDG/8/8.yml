@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JDG 8:8" class="v">8</span>¶ And
+  he went up thence to Penuel, and spake unto them likewise: and the men of
+  Penuel answered him as the men of Succoth had answered <span
+  class="add">him</span>. </p>
+id: JDG/8/8
+next:
+  id: JDG/8/9
+  number: '9'
+previous:
+  id: JDG/8/7
+  number: '7'
+reference: 'Judges 8:8'

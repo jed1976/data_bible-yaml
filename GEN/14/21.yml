@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 14:21"
+  class="v">21</span>And the king of Sodom said unto Abram, Give me the persons,
+  and take the goods to thyself. </p>
+id: GEN/14/21
+next:
+  id: GEN/14/22
+  number: '22'
+previous:
+  id: GEN/14/20
+  number: '20'
+reference: 'Genesis 14:21'

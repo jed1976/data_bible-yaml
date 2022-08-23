@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 22:9" class="v">9</span><span
+  class="wj">Go ye therefore into the highways, and as many as ye shall find,
+  bid to the marriage.</span> </p>
+id: MAT/22/9
+next:
+  id: MAT/22/10
+  number: '10'
+previous:
+  id: MAT/22/8
+  number: '8'
+reference: 'Matthew 22:9'

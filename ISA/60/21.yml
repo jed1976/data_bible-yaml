@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 60:21"
+  class="v">21</span>Thy people also <span class="add">shall be</span> all
+  righteous: they shall inherit the land for ever, the branch of my planting,
+  the work of my hands, that I may be glorified. </p>
+id: ISA/60/21
+next:
+  id: ISA/60/22
+  number: '22'
+previous:
+  id: ISA/60/20
+  number: '20'
+reference: 'Isaiah 60:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 13:13"
+  class="v">13</span>Let us walk honestly, as in the day; not in rioting and
+  drunkenness, not in chambering and wantonness, not in strife and envying. </p>
+id: ROM/13/13
+next:
+  id: ROM/13/14
+  number: '14'
+previous:
+  id: ROM/13/12
+  number: '12'
+reference: 'Romans 13:13'

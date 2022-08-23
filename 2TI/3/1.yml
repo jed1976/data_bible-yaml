@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2TI 3:1" class="v">1</span>This
+  know also, that in the last days perilous times shall come. </p>
+id: 2TI/3/1
+next:
+  id: 2TI/3/2
+  number: '2'
+previous:
+  id: 2TI/2/26
+  number: '26'
+reference: '2 Timothy 3:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CO 5:1" class="v">1</span>For we
+  know that if our earthly house of <span class="add">this</span> tabernacle
+  were dissolved, we have a building of God, an house not made with hands,
+  eternal in the heavens. </p>
+id: 2CO/5/1
+next:
+  id: 2CO/5/2
+  number: '2'
+previous:
+  id: 2CO/4/18
+  number: '18'
+reference: '2 Corinthians 5:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 4:16"
+  class="v">16</span>Make ye mention to the nations; behold, publish against
+  Jerusalem, <span class="add">that</span> watchers come from a far country, and
+  give out their voice against the cities of Judah. </p>
+id: JER/4/16
+next:
+  id: JER/4/17
+  number: '17'
+previous:
+  id: JER/4/15
+  number: '15'
+reference: 'Jeremiah 4:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 1:12" class="v">12</span>But
+  the more they afflicted them, the more they multiplied and grew. And they were
+  grieved because of the children of Israel. </p>
+id: EXO/1/12
+next:
+  id: EXO/1/13
+  number: '13'
+previous:
+  id: EXO/1/11
+  number: '11'
+reference: 'Exodus 1:12'

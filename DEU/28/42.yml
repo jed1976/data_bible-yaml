@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DEU 28:42"
+  class="v">42</span>All thy trees and fruit of thy land shall the locust
+  consume. </p>
+id: DEU/28/42
+next:
+  id: DEU/28/43
+  number: '43'
+previous:
+  id: DEU/28/41
+  number: '41'
+reference: 'Deuteronomy 28:42'

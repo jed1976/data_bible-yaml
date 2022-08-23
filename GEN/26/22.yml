@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 26:22"
+  class="v">22</span>And he removed from thence, and digged another well; and
+  for that they strove not: and he called the name of it Rehoboth; and he said,
+  For now the <span class="nd">LORD</span> hath made room for us, and we shall
+  be fruitful in the land. </p>
+id: GEN/26/22
+next:
+  id: GEN/26/23
+  number: '23'
+previous:
+  id: GEN/26/21
+  number: '21'
+reference: 'Genesis 26:22'

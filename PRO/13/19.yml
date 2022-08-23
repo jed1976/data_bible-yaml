@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 13:19"
+  class="v">19</span>The desire accomplished is sweet to the soul: but <span
+  class="add">it is</span> abomination to fools to depart from evil. </p>
+id: PRO/13/19
+next:
+  id: PRO/13/20
+  number: '20'
+previous:
+  id: PRO/13/18
+  number: '18'
+reference: 'Proverbs 13:19'

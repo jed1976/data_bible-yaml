@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="GEN 42:36"
+  class="v">36</span>And Jacob their father said unto them, Me have ye bereaved
+  <span class="add">of my children:</span> Joseph <span class="add">is</span>
+  not, and Simeon <span class="add">is</span> not, and ye will take Benjamin
+  <span class="add">away:</span> all these things are against me. </p>
+id: GEN/42/36
+next:
+  id: GEN/42/37
+  number: '37'
+previous:
+  id: GEN/42/35
+  number: '35'
+reference: 'Genesis 42:36'

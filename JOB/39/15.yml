@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 39:15"
+  class="v">15</span>And forgetteth that the foot may crush them, or that the
+  wild beast may break them. </p>
+id: JOB/39/15
+next:
+  id: JOB/39/16
+  number: '16'
+previous:
+  id: JOB/39/14
+  number: '14'
+reference: 'Job 39:15'

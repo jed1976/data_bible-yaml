@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JOB 38:40"
+  class="v">40</span>When they couch in <span class="add">their</span> dens,
+  <span class="add">and</span> abide in the covert to lie in wait? </p>
+id: JOB/38/40
+next:
+  id: JOB/38/41
+  number: '41'
+previous:
+  id: JOB/38/39
+  number: '39'
+reference: 'Job 38:40'

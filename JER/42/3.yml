@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 42:3" class="v">3</span>That
+  the <span class="nd">LORD</span> thy God may shew us the way wherein we may
+  walk, and the thing that we may do. </p>
+id: JER/42/3
+next:
+  id: JER/42/4
+  number: '4'
+previous:
+  id: JER/42/2
+  number: '2'
+reference: 'Jeremiah 42:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 21:23"
+  class="v">23</span>And if <span class="add">any</span> mischief follow, then
+  thou shalt give life for life, </p>
+id: EXO/21/23
+next:
+  id: EXO/21/24
+  number: '24'
+previous:
+  id: EXO/21/22
+  number: '22'
+reference: 'Exodus 21:23'

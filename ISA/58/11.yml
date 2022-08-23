@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 58:11"
+  class="v">11</span>And the <span class="nd">LORD</span> shall guide thee
+  continually, and satisfy thy soul in drought, and make fat thy bones: and thou
+  shalt be like a watered garden, and like a spring of water, whose waters fail
+  not. </p>
+id: ISA/58/11
+next:
+  id: ISA/58/12
+  number: '12'
+previous:
+  id: ISA/58/10
+  number: '10'
+reference: 'Isaiah 58:11'

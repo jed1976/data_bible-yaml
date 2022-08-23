@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 40:17" class="v">17</span>¶
+  And it came to pass in the first month in the second year, on the first <span
+  class="add">day</span> of the month, <span class="add">that</span> the
+  tabernacle was reared up. </p>
+id: EXO/40/17
+next:
+  id: EXO/40/18
+  number: '18'
+previous:
+  id: EXO/40/16
+  number: '16'
+reference: 'Exodus 40:17'

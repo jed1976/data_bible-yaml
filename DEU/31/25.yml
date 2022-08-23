@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 31:25"
+  class="v">25</span>That Moses commanded the Levites, which bare the ark of the
+  covenant of the <span class="nd">LORD</span>, saying, </p>
+id: DEU/31/25
+next:
+  id: DEU/31/26
+  number: '26'
+previous:
+  id: DEU/31/24
+  number: '24'
+reference: 'Deuteronomy 31:25'

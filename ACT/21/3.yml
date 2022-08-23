@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 21:3" class="v">3</span>Now
+  when we had discovered Cyprus, we left it on the left hand, and sailed into
+  Syria, and landed at Tyre: for there the ship was to unlade her burden. </p>
+id: ACT/21/3
+next:
+  id: ACT/21/4
+  number: '4'
+previous:
+  id: ACT/21/2
+  number: '2'
+reference: 'Acts 21:3'

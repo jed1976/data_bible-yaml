@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 25:5" class="v">5</span>Take
+  away the wicked <span class="add">from</span> before the king, and his throne
+  shall be established in righteousness.</p>
+id: PRO/25/5
+next:
+  id: PRO/25/6
+  number: '6'
+previous:
+  id: PRO/25/4
+  number: '4'
+reference: 'Proverbs 25:5'

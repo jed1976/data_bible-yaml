@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 3:18" class="v">18</span>In
+  that day the Lord will take away the bravery of <span class="add">their</span>
+  tinkling ornaments <span class="add">about their feet</span>, and <span
+  class="add">their</span> cauls, and <span class="add">their</span> round tires
+  like the moon, </p>
+id: ISA/3/18
+next:
+  id: ISA/3/19
+  number: '19'
+previous:
+  id: ISA/3/17
+  number: '17'
+reference: 'Isaiah 3:18'

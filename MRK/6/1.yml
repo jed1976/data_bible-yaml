@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 6:1" class="v">1</span>And he
+  went out from thence, and came into his own country; and his disciples follow
+  him. </p>
+id: MRK/6/1
+next:
+  id: MRK/6/2
+  number: '2'
+previous:
+  id: MRK/5/43
+  number: '43'
+reference: 'Mark 6:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 1:17"
+  class="v">17</span>According as we hearkened unto Moses in all things, so will
+  we hearken unto thee: only the <span class="nd">LORD</span> thy God be with
+  thee, as he was with Moses. </p>
+id: JOS/1/17
+next:
+  id: JOS/1/18
+  number: '18'
+previous:
+  id: JOS/1/16
+  number: '16'
+reference: 'Joshua 1:17'

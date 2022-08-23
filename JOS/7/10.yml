@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 7:10" class="v">10</span>¶
+  And the <span class="nd">LORD</span> said unto Joshua, Get thee up; wherefore
+  liest thou thus upon thy face? </p>
+id: JOS/7/10
+next:
+  id: JOS/7/11
+  number: '11'
+previous:
+  id: JOS/7/9
+  number: '9'
+reference: 'Joshua 7:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 21:4" class="v">4</span>If
+  his master have given him a wife, and she have born him sons or daughters; the
+  wife and her children shall be her master’s, and he shall go out by himself.
+  </p>
+id: EXO/21/4
+next:
+  id: EXO/21/5
+  number: '5'
+previous:
+  id: EXO/21/3
+  number: '3'
+reference: 'Exodus 21:4'

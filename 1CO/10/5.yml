@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CO 10:5" class="v">5</span>But
+  with many of them God was not well pleased: for they were overthrown in the
+  wilderness. </p>
+id: 1CO/10/5
+next:
+  id: 1CO/10/6
+  number: '6'
+previous:
+  id: 1CO/10/4
+  number: '4'
+reference: '1 Corinthians 10:5'

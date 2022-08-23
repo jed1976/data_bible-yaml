@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 3:8" class="v">8</span>For
+  Jerusalem is ruined, and Judah is fallen: because their tongue and their
+  doings <span class="add">are</span> against the <span class="nd">LORD</span>,
+  to provoke the eyes of his glory.</p>
+id: ISA/3/8
+next:
+  id: ISA/3/9
+  number: '9'
+previous:
+  id: ISA/3/7
+  number: '7'
+reference: 'Isaiah 3:8'

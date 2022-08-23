@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 31:1" class="v">1</span>Woe
+  to them that go down to Egypt for help; and stay on horses, and trust in
+  chariots, because <span class="add">they are</span> many; and in horsemen,
+  because they are very strong; but they look not unto the Holy One of Israel,
+  neither seek the <span class="nd">LORD</span>! </p>
+id: ISA/31/1
+next:
+  id: ISA/31/2
+  number: '2'
+previous:
+  id: ISA/30/33
+  number: '33'
+reference: 'Isaiah 31:1'

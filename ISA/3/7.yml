@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 3:7" class="v">7</span>In
+  that day shall he swear, saying, I will not be an healer; for in my house
+  <span class="add">is</span> neither bread nor clothing: make me not a ruler of
+  the people. </p>
+id: ISA/3/7
+next:
+  id: ISA/3/8
+  number: '8'
+previous:
+  id: ISA/3/6
+  number: '6'
+reference: 'Isaiah 3:7'

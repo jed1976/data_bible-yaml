@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CO 9:10" class="v">10</span>Or
+  saith he <span class="add">it</span> altogether for our sakes? For our sakes,
+  no doubt, <span class="add">this</span> is written: that he that ploweth
+  should plow in hope; and that he that thresheth in hope should be partaker of
+  his hope. </p>
+id: 1CO/9/10
+next:
+  id: 1CO/9/11
+  number: '11'
+previous:
+  id: 1CO/9/9
+  number: '9'
+reference: '1 Corinthians 9:10'

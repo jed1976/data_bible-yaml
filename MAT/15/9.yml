@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 15:9" class="v">9</span><span
+  class="wj">But in vain they do worship me, teaching <span
+  class="add">for</span> doctrines the commandments of men.</span></p>
+id: MAT/15/9
+next:
+  id: MAT/15/10
+  number: '10'
+previous:
+  id: MAT/15/8
+  number: '8'
+reference: 'Matthew 15:9'

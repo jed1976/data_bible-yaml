@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 7:9" class="v">9</span><span
+  class="wj">Or what man is there of you, whom if his son ask bread, will he
+  give him a stone?</span> </p>
+id: MAT/7/9
+next:
+  id: MAT/7/10
+  number: '10'
+previous:
+  id: MAT/7/8
+  number: '8'
+reference: 'Matthew 7:9'

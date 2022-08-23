@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 8:7" class="v">7</span>For he
+  knoweth not that which shall be: for who can tell him when it shall be? </p>
+id: ECC/8/7
+next:
+  id: ECC/8/8
+  number: '8'
+previous:
+  id: ECC/8/6
+  number: '6'
+reference: 'Ecclesiastes 8:7'

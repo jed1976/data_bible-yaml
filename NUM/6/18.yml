@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 6:18" class="v">18</span>And
+  the Nazarite shall shave the head of his separation <span
+  class="add">at</span> the door of the tabernacle of the congregation, and
+  shall take the hair of the head of his separation, and put <span
+  class="add">it</span> in the fire which <span class="add">is</span> under the
+  sacrifice of the peace offerings. </p>
+id: NUM/6/18
+next:
+  id: NUM/6/19
+  number: '19'
+previous:
+  id: NUM/6/17
+  number: '17'
+reference: 'Numbers 6:18'

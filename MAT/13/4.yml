@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 13:4" class="v">4</span><span
+  class="wj">And when he sowed, some <span class="add">seeds</span> fell by the
+  way side, and the fowls came and devoured them up:</span> </p>
+id: MAT/13/4
+next:
+  id: MAT/13/5
+  number: '5'
+previous:
+  id: MAT/13/3
+  number: '3'
+reference: 'Matthew 13:4'

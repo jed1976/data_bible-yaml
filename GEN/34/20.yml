@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 34:20" class="v">20</span>¶
+  And Hamor and Shechem his son came unto the gate of their city, and communed
+  with the men of their city, saying, </p>
+id: GEN/34/20
+next:
+  id: GEN/34/21
+  number: '21'
+previous:
+  id: GEN/34/19
+  number: '19'
+reference: 'Genesis 34:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 5:11" class="v">11</span>He
+  answered them, He that made me whole, the same said unto me, Take up thy bed,
+  and walk. </p>
+id: JHN/5/11
+next:
+  id: JHN/5/12
+  number: '12'
+previous:
+  id: JHN/5/10
+  number: '10'
+reference: 'John 5:11'

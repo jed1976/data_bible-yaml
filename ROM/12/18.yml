@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 12:18" class="v">18</span>If
+  it be possible, as much as lieth in you, live peaceably with all men. </p>
+id: ROM/12/18
+next:
+  id: ROM/12/19
+  number: '19'
+previous:
+  id: ROM/12/17
+  number: '17'
+reference: 'Romans 12:18'

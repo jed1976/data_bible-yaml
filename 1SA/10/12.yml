@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 10:12"
+  class="v">12</span>And one of the same place answered and said, But who <span
+  class="add">is</span> their father? Therefore it became a proverb, <span
+  class="add">Is</span> Saul also among the prophets? </p>
+id: 1SA/10/12
+next:
+  id: 1SA/10/13
+  number: '13'
+previous:
+  id: 1SA/10/11
+  number: '11'
+reference: '1 Samuel 10:12'

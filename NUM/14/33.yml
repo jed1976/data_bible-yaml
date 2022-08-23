@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 14:33"
+  class="v">33</span>And your children shall wander in the wilderness forty
+  years, and bear your whoredoms, until your carcases be wasted in the
+  wilderness. </p>
+id: NUM/14/33
+next:
+  id: NUM/14/34
+  number: '34'
+previous:
+  id: NUM/14/32
+  number: '32'
+reference: 'Numbers 14:33'

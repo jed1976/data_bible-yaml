@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 24:1" class="v">1</span>And
+  Jesus went out, and departed from the temple: and his disciples came to <span
+  class="add">him</span> for to shew him the buildings of the temple. </p>
+id: MAT/24/1
+next:
+  id: MAT/24/2
+  number: '2'
+previous:
+  id: MAT/23/39
+  number: '39'
+reference: 'Matthew 24:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 31:14"
+  class="v">14</span>What then shall I do when God riseth up? and when he
+  visiteth, what shall I answer him? </p>
+id: JOB/31/14
+next:
+  id: JOB/31/15
+  number: '15'
+previous:
+  id: JOB/31/13
+  number: '13'
+reference: 'Job 31:14'

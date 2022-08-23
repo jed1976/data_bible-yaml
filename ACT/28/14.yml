@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 28:14"
+  class="v">14</span>Where we found brethren, and were desired to tarry with
+  them seven days: and so we went toward Rome. </p>
+id: ACT/28/14
+next:
+  id: ACT/28/15
+  number: '15'
+previous:
+  id: ACT/28/13
+  number: '13'
+reference: 'Acts 28:14'

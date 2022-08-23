@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 18:34"
+  class="v">34</span>Jesus answered him, <span class="wj">Sayest thou this thing
+  of thyself, or did others tell it thee of me?</span> </p>
+id: JHN/18/34
+next:
+  id: JHN/18/35
+  number: '35'
+previous:
+  id: JHN/18/33
+  number: '33'
+reference: 'John 18:34'

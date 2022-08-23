@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 33:6" class="v">6</span>By
+  the word of the <span class="nd">LORD</span> were the heavens made; and all
+  the host of them by the breath of his mouth.</p>
+id: PSA/33/6
+next:
+  id: PSA/33/7
+  number: '7'
+previous:
+  id: PSA/33/5
+  number: '5'
+reference: 'Psalms 33:6'

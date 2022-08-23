@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 10:21"
+  class="v">21</span>And all the people returned to the camp to Joshua at
+  Makkedah in peace: none moved his tongue against any of the children of
+  Israel. </p>
+id: JOS/10/21
+next:
+  id: JOS/10/22
+  number: '22'
+previous:
+  id: JOS/10/20
+  number: '20'
+reference: 'Joshua 10:21'

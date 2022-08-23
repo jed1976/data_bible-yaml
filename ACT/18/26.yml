@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 18:26"
+  class="v">26</span>And he began to speak boldly in the synagogue: whom when
+  Aquila and Priscilla had heard, they took him unto <span
+  class="add">them</span>, and expounded unto him the way of God more perfectly.
+  </p>
+id: ACT/18/26
+next:
+  id: ACT/18/27
+  number: '27'
+previous:
+  id: ACT/18/25
+  number: '25'
+reference: 'Acts 18:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="77" data-sid="PSA 119:77"
+  class="v">77</span>Let thy tender mercies come unto me, that I may live: for
+  thy law <span class="add">is</span> my delight.</p>
+id: PSA/119/77
+next:
+  id: PSA/119/78
+  number: '78'
+previous:
+  id: PSA/119/76
+  number: '76'
+reference: 'Psalms 119:77'

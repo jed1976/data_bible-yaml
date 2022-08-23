@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 24:19"
+  class="v">19</span>Out of Jacob shall come he that shall have dominion, and
+  shall destroy him that remaineth of the city.</p>
+id: NUM/24/19
+next:
+  id: NUM/24/20
+  number: '20'
+previous:
+  id: NUM/24/18
+  number: '18'
+reference: 'Numbers 24:19'

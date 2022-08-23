@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JUD 1:5" class="v">5</span>I will
+  therefore put you in remembrance, though ye once knew this, how that the Lord,
+  having saved the people out of the land of Egypt, afterward destroyed them
+  that believed not. </p>
+id: JUD/1/5
+next:
+  id: JUD/1/6
+  number: '6'
+previous:
+  id: JUD/1/4
+  number: '4'
+reference: 'Jude 1:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 14:27"
+  class="v">27</span>The fear of the <span class="nd">LORD</span> <span
+  class="add">is</span> a fountain of life, to depart from the snares of death.
+  </p>
+id: PRO/14/27
+next:
+  id: PRO/14/28
+  number: '28'
+previous:
+  id: PRO/14/26
+  number: '26'
+reference: 'Proverbs 14:27'

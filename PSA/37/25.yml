@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 37:25" class="v">25</span>I
+  have been young, and <span class="add">now</span> am old; yet have I not seen
+  the righteous forsaken, nor his seed begging bread.</p>
+id: PSA/37/25
+next:
+  id: PSA/37/26
+  number: '26'
+previous:
+  id: PSA/37/24
+  number: '24'
+reference: 'Psalms 37:25'

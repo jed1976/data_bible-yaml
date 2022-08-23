@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 27:27"
+  class="v">27</span>But when the fourteenth night was come, as we were driven
+  up and down in Adria, about midnight the shipmen deemed that they drew near to
+  some country; </p>
+id: ACT/27/27
+next:
+  id: ACT/27/28
+  number: '28'
+previous:
+  id: ACT/27/26
+  number: '26'
+reference: 'Acts 27:27'

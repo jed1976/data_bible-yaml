@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 19:6" class="v">6</span>And
+  when Paul had laid <span class="add">his</span> hands upon them, the Holy
+  Ghost came on them; and they spake with tongues, and prophesied. </p>
+id: ACT/19/6
+next:
+  id: ACT/19/7
+  number: '7'
+previous:
+  id: ACT/19/5
+  number: '5'
+reference: 'Acts 19:6'

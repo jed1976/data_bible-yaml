@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CO 7:2"
+  class="v">2</span>Nevertheless, <span class="add">to avoid</span> fornication,
+  let every man have his own wife, and let every woman have her own husband.
+  </p>
+id: 1CO/7/2
+next:
+  id: 1CO/7/3
+  number: '3'
+previous:
+  id: 1CO/7/1
+  number: '1'
+reference: '1 Corinthians 7:2'

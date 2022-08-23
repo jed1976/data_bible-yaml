@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 13:23"
+  class="v">23</span><span class="wj">But take ye heed: behold, I have foretold
+  you all things.</span></p>
+id: MRK/13/23
+next:
+  id: MRK/13/24
+  number: '24'
+previous:
+  id: MRK/13/22
+  number: '22'
+reference: 'Mark 13:23'

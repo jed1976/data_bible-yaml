@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 22:5" class="v">5</span>But
+  take diligent heed to do the commandment and the law, which Moses the servant
+  of the <span class="nd">LORD</span> charged you, to love the <span
+  class="nd">LORD</span> your God, and to walk in all his ways, and to keep his
+  commandments, and to cleave unto him, and to serve him with all your heart and
+  with all your soul. </p>
+id: JOS/22/5
+next:
+  id: JOS/22/6
+  number: '6'
+previous:
+  id: JOS/22/4
+  number: '4'
+reference: 'Joshua 22:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 7:11"
+  class="v">11</span><span class="wj">If ye then, being evil, know how to give
+  good gifts unto your children, how much more shall your Father which is in
+  heaven give good things to them that ask him?</span> </p>
+id: MAT/7/11
+next:
+  id: MAT/7/12
+  number: '12'
+previous:
+  id: MAT/7/10
+  number: '10'
+reference: 'Matthew 7:11'

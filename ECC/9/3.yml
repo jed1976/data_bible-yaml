@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 9:3" class="v">3</span>This
+  <span class="add">is</span> an evil among all <span class="add">things</span>
+  that are done under the sun, that <span class="add">there is</span> one event
+  unto all: yea, also the heart of the sons of men is full of evil, and madness
+  <span class="add">is</span> in their heart while they live, and after that
+  <span class="add">they go</span> to the dead.</p>
+id: ECC/9/3
+next:
+  id: ECC/9/4
+  number: '4'
+previous:
+  id: ECC/9/2
+  number: '2'
+reference: 'Ecclesiastes 9:3'

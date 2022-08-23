@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 23:21"
+  class="v">21</span>But do not thou yield unto them: for there lie in wait for
+  him of them more than forty men, which have bound themselves with an oath,
+  that they will neither eat nor drink till they have killed him: and now are
+  they ready, looking for a promise from thee. </p>
+id: ACT/23/21
+next:
+  id: ACT/23/22
+  number: '22'
+previous:
+  id: ACT/23/20
+  number: '20'
+reference: 'Acts 23:21'

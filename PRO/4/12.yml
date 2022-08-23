@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 4:12"
+  class="v">12</span>When thou goest, thy steps shall not be straitened; and
+  when thou runnest, thou shalt not stumble. </p>
+id: PRO/4/12
+next:
+  id: PRO/4/13
+  number: '13'
+previous:
+  id: PRO/4/11
+  number: '11'
+reference: 'Proverbs 4:12'

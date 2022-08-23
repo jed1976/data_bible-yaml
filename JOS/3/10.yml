@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 3:10" class="v">10</span>And
+  Joshua said, Hereby ye shall know that the living God <span
+  class="add">is</span> among you, and <span class="add">that</span> he will
+  without fail drive out from before you the Canaanites, and the Hittites, and
+  the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and
+  the Jebusites. </p>
+id: JOS/3/10
+next:
+  id: JOS/3/11
+  number: '11'
+previous:
+  id: JOS/3/9
+  number: '9'
+reference: 'Joshua 3:10'

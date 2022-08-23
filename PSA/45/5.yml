@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 45:5"
+  class="v">5</span>Thine arrows <span class="add">are</span> sharp in the heart
+  of the king’s enemies; <span class="add">whereby</span> the people fall under
+  thee.</p>
+id: PSA/45/5
+next:
+  id: PSA/45/6
+  number: '6'
+previous:
+  id: PSA/45/4
+  number: '4'
+reference: 'Psalms 45:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 11:3" class="v">3</span>If
+  the foundations be destroyed, what can the righteous do?</p>
+id: PSA/11/3
+next:
+  id: PSA/11/4
+  number: '4'
+previous:
+  id: PSA/11/2
+  number: '2'
+reference: 'Psalms 11:3'

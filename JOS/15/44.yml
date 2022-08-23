@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JOS 15:44"
+  class="v">44</span>And Keilah, and Achzib, and Mareshah; nine cities with
+  their villages: </p>
+id: JOS/15/44
+next:
+  id: JOS/15/45
+  number: '45'
+previous:
+  id: JOS/15/43
+  number: '43'
+reference: 'Joshua 15:44'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 9:38"
+  class="v">38</span><span class="wj">Pray ye therefore the Lord of the harvest,
+  that he will send forth labourers into his harvest.</span></p>
+id: MAT/9/38
+next:
+  id: MAT/10/1
+  number: '1'
+previous:
+  id: MAT/9/37
+  number: '37'
+reference: 'Matthew 9:38'

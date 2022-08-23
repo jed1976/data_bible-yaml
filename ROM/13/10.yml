@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 13:10"
+  class="v">10</span>Love worketh no ill to his neighbour: therefore love <span
+  class="add">is</span> the fulfilling of the law. </p>
+id: ROM/13/10
+next:
+  id: ROM/13/11
+  number: '11'
+previous:
+  id: ROM/13/9
+  number: '9'
+reference: 'Romans 13:10'

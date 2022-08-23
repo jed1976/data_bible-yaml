@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 15:1" class="v">1</span>Then
+  drew near unto him all the publicans and sinners for to hear him. </p>
+id: LUK/15/1
+next:
+  id: LUK/15/2
+  number: '2'
+previous:
+  id: LUK/14/35
+  number: '35'
+reference: 'Luke 15:1'

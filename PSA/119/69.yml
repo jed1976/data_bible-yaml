@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="69" data-sid="PSA 119:69"
+  class="v">69</span>The proud have forged a lie against me: <span
+  class="add">but</span> I will keep thy precepts with <span
+  class="add">my</span> whole heart.</p>
+id: PSA/119/69
+next:
+  id: PSA/119/70
+  number: '70'
+previous:
+  id: PSA/119/68
+  number: '68'
+reference: 'Psalms 119:69'

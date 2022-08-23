@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 31:24" class="v">24</span>¶
+  And it came to pass, when Moses had made an end of writing the words of this
+  law in a book, until they were finished, </p>
+id: DEU/31/24
+next:
+  id: DEU/31/25
+  number: '25'
+previous:
+  id: DEU/31/23
+  number: '23'
+reference: 'Deuteronomy 31:24'

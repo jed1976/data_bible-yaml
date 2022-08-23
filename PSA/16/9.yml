@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 16:9"
+  class="v">9</span>Therefore my heart is glad, and my glory rejoiceth: my flesh
+  also shall rest in hope.</p>
+id: PSA/16/9
+next:
+  id: PSA/16/10
+  number: '10'
+previous:
+  id: PSA/16/8
+  number: '8'
+reference: 'Psalms 16:9'

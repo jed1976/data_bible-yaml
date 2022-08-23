@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 28:23"
+  class="v">23</span>And thy heaven that <span class="add">is</span> over thy
+  head shall be brass, and the earth that is under thee <span class="add">shall
+  be</span> iron. </p>
+id: DEU/28/23
+next:
+  id: DEU/28/24
+  number: '24'
+previous:
+  id: DEU/28/22
+  number: '22'
+reference: 'Deuteronomy 28:23'

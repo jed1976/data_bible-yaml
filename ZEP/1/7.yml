@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEP 1:7" class="v">7</span>Hold
+  thy peace at the presence of the Lord <span class="nd">GOD</span>: for the day
+  of the <span class="nd">LORD</span> <span class="add">is</span> at hand: for
+  the <span class="nd">LORD</span> hath prepared a sacrifice, he hath bid his
+  guests. </p>
+id: ZEP/1/7
+next:
+  id: ZEP/1/8
+  number: '8'
+previous:
+  id: ZEP/1/6
+  number: '6'
+reference: 'Zephaniah 1:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 4:24"
+  class="v">24</span>That all the people of the earth might know the hand of the
+  <span class="nd">LORD</span>, that it <span class="add">is</span> mighty: that
+  ye might fear the <span class="nd">LORD</span> your God for ever.</p>
+id: JOS/4/24
+next:
+  id: JOS/5/1
+  number: '1'
+previous:
+  id: JOS/4/23
+  number: '23'
+reference: 'Joshua 4:24'

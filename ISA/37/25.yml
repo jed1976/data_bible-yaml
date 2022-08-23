@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 37:25" class="v">25</span>I
+  have digged, and drunk water; and with the sole of my feet have I dried up all
+  the rivers of the besieged places. </p>
+id: ISA/37/25
+next:
+  id: ISA/37/26
+  number: '26'
+previous:
+  id: ISA/37/24
+  number: '24'
+reference: 'Isaiah 37:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 8:5" class="v">5</span>¶ Thy
+  calf, O Samaria, hath cast <span class="add">thee</span> off; mine anger is
+  kindled against them: how long <span class="add">will it be</span> ere they
+  attain to innocency? </p>
+id: HOS/8/5
+next:
+  id: HOS/8/6
+  number: '6'
+previous:
+  id: HOS/8/4
+  number: '4'
+reference: 'Hosea 8:5'

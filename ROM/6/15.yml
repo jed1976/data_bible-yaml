@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 6:15"
+  class="v">15</span>What then? shall we sin, because we are not under the law,
+  but under grace? God forbid. </p>
+id: ROM/6/15
+next:
+  id: ROM/6/16
+  number: '16'
+previous:
+  id: ROM/6/14
+  number: '14'
+reference: 'Romans 6:15'

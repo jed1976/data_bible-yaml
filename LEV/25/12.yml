@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 25:12"
+  class="v">12</span>For it <span class="add">is</span> the jubile; it shall be
+  holy unto you: ye shall eat the increase thereof out of the field. </p>
+id: LEV/25/12
+next:
+  id: LEV/25/13
+  number: '13'
+previous:
+  id: LEV/25/11
+  number: '11'
+reference: 'Leviticus 25:12'

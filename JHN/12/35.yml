@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 12:35"
+  class="v">35</span>Then Jesus said unto them, <span class="wj">Yet a little
+  while is the light with you. Walk while ye have the light, lest darkness come
+  upon you: for he that walketh in darkness knoweth not whither he goeth.</span>
+  </p>
+id: JHN/12/35
+next:
+  id: JHN/12/36
+  number: '36'
+previous:
+  id: JHN/12/34
+  number: '34'
+reference: 'John 12:35'

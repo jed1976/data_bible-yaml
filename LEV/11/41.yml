@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LEV 11:41"
+  class="v">41</span>And every creeping thing that creepeth upon the earth <span
+  class="add">shall be</span> an abomination; it shall not be eaten. </p>
+id: LEV/11/41
+next:
+  id: LEV/11/42
+  number: '42'
+previous:
+  id: LEV/11/40
+  number: '40'
+reference: 'Leviticus 11:41'

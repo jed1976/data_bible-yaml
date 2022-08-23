@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MRK 4:29"
+  class="v">29</span><span class="wj">But when the fruit is brought forth,
+  immediately he putteth in the sickle, because the harvest is come.</span></p>
+id: MRK/4/29
+next:
+  id: MRK/4/30
+  number: '30'
+previous:
+  id: MRK/4/28
+  number: '28'
+reference: 'Mark 4:29'

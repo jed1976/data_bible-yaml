@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 3:26"
+  class="v">26</span>Unto you first God, having raised up his Son Jesus, sent
+  him to bless you, in turning away every one of you from his iniquities.</p>
+id: ACT/3/26
+next:
+  id: ACT/4/1
+  number: '1'
+previous:
+  id: ACT/3/25
+  number: '25'
+reference: 'Acts 3:26'

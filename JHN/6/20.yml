@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 6:20" class="v">20</span>But
+  he saith unto them, <span class="wj">It is I; be not afraid.</span> </p>
+id: JHN/6/20
+next:
+  id: JHN/6/21
+  number: '21'
+previous:
+  id: JHN/6/19
+  number: '19'
+reference: 'John 6:20'

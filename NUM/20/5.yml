@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 20:5" class="v">5</span>And
+  wherefore have ye made us to come up out of Egypt, to bring us in unto this
+  evil place? it <span class="add">is</span> no place of seed, or of figs, or of
+  vines, or of pomegranates; neither <span class="add">is</span> there any water
+  to drink. </p>
+id: NUM/20/5
+next:
+  id: NUM/20/6
+  number: '6'
+previous:
+  id: NUM/20/4
+  number: '4'
+reference: 'Numbers 20:5'

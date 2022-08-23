@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 16:14"
+  class="v">14</span>And the king, and all the people that <span
+  class="add">were</span> with him, came weary, and refreshed themselves
+  there.</p>
+id: 2SA/16/14
+next:
+  id: 2SA/16/15
+  number: '15'
+previous:
+  id: 2SA/16/13
+  number: '13'
+reference: '2 Samuel 16:14'

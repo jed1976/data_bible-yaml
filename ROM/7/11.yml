@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 7:11" class="v">11</span>For
+  sin, taking occasion by the commandment, deceived me, and by it slew <span
+  class="add">me</span>. </p>
+id: ROM/7/11
+next:
+  id: ROM/7/12
+  number: '12'
+previous:
+  id: ROM/7/10
+  number: '10'
+reference: 'Romans 7:11'

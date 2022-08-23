@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2CH 32:24" class="v">24</span>¶
+  In those days Hezekiah was sick to the death, and prayed unto the <span
+  class="nd">LORD</span>: and he spake unto him, and he gave him a sign. </p>
+id: 2CH/32/24
+next:
+  id: 2CH/32/25
+  number: '25'
+previous:
+  id: 2CH/32/23
+  number: '23'
+reference: '2 Chronicles 32:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 2:9" class="v">9</span>Then
+  shalt thou understand righteousness, and judgment, and equity; <span
+  class="add">yea</span>, every good path.</p>
+id: PRO/2/9
+next:
+  id: PRO/2/10
+  number: '10'
+previous:
+  id: PRO/2/8
+  number: '8'
+reference: 'Proverbs 2:9'

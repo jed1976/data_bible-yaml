@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 8:24"
+  class="v">24</span>And, behold, there arose a great tempest in the sea,
+  insomuch that the ship was covered with the waves: but he was asleep. </p>
+id: MAT/8/24
+next:
+  id: MAT/8/25
+  number: '25'
+previous:
+  id: MAT/8/23
+  number: '23'
+reference: 'Matthew 8:24'

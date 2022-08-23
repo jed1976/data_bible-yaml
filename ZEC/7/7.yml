@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 7:7" class="v">7</span><span
+  class="add">Should ye</span> not <span class="add">hear</span> the words which
+  the <span class="nd">LORD</span> hath cried by the former prophets, when
+  Jerusalem was inhabited and in prosperity, and the cities thereof round about
+  her, when <span class="add">men</span> inhabited the south and the plain?</p>
+id: ZEC/7/7
+next:
+  id: ZEC/7/8
+  number: '8'
+previous:
+  id: ZEC/7/6
+  number: '6'
+reference: 'Zechariah 7:7'

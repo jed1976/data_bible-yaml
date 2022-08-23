@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 2:20"
+  class="v">20</span>That thou mayest walk in the way of good <span
+  class="add">men</span>, and keep the paths of the righteous. </p>
+id: PRO/2/20
+next:
+  id: PRO/2/21
+  number: '21'
+previous:
+  id: PRO/2/19
+  number: '19'
+reference: 'Proverbs 2:20'

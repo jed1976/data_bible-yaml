@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOB 38:32"
+  class="v">32</span>Canst thou bring forth Mazzaroth in his season? or canst
+  thou guide Arcturus with his sons? </p>
+id: JOB/38/32
+next:
+  id: JOB/38/33
+  number: '33'
+previous:
+  id: JOB/38/31
+  number: '31'
+reference: 'Job 38:32'

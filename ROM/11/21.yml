@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 11:21"
+  class="v">21</span>For if God spared not the natural branches, <span
+  class="add">take heed</span> lest he also spare not thee. </p>
+id: ROM/11/21
+next:
+  id: ROM/11/22
+  number: '22'
+previous:
+  id: ROM/11/20
+  number: '20'
+reference: 'Romans 11:21'

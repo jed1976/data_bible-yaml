@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 20:10"
+  class="v">10</span>Then the disciples went away again unto their own home.</p>
+id: JHN/20/10
+next:
+  id: JHN/20/11
+  number: '11'
+previous:
+  id: JHN/20/9
+  number: '9'
+reference: 'John 20:10'

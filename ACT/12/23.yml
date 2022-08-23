@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 12:23"
+  class="v">23</span>And immediately the angel of the Lord smote him, because he
+  gave not God the glory: and he was eaten of worms, and gave up the ghost.</p>
+id: ACT/12/23
+next:
+  id: ACT/12/24
+  number: '24'
+previous:
+  id: ACT/12/22
+  number: '22'
+reference: 'Acts 12:23'

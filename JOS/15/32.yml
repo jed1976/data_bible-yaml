@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 15:32"
+  class="v">32</span>And Lebaoth, and Shilhim, and Ain, and Rimmon: all the
+  cities <span class="add">are</span> twenty and nine, with their villages: </p>
+id: JOS/15/32
+next:
+  id: JOS/15/33
+  number: '33'
+previous:
+  id: JOS/15/31
+  number: '31'
+reference: 'Joshua 15:32'

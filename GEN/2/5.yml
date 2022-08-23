@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 2:5" class="v">5</span>And
+  every plant of the field before it was in the earth, and every herb of the
+  field before it grew: for the <span class="nd">LORD</span> God had not caused
+  it to rain upon the earth, and <span class="add">there was</span> not a man to
+  till the ground. </p>
+id: GEN/2/5
+next:
+  id: GEN/2/6
+  number: '6'
+previous:
+  id: GEN/2/4
+  number: '4'
+reference: 'Genesis 2:5'

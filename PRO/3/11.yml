@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 3:11" class="v">11</span>¶
+  My son, despise not the chastening of the <span class="nd">LORD</span>;
+  neither be weary of his correction: </p>
+id: PRO/3/11
+next:
+  id: PRO/3/12
+  number: '12'
+previous:
+  id: PRO/3/10
+  number: '10'
+reference: 'Proverbs 3:11'

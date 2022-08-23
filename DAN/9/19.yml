@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 9:19" class="v">19</span>O
+  Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own
+  sake, O my God: for thy city and thy people are called by thy name.</p>
+id: DAN/9/19
+next:
+  id: DAN/9/20
+  number: '20'
+previous:
+  id: DAN/9/18
+  number: '18'
+reference: 'Daniel 9:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 24:24" class="v">24</span>He
+  that saith unto the wicked, Thou <span class="add">art</span> righteous; him
+  shall the people curse, nations shall abhor him: </p>
+id: PRO/24/24
+next:
+  id: PRO/24/25
+  number: '25'
+previous:
+  id: PRO/24/23
+  number: '23'
+reference: 'Proverbs 24:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZR 7:11" class="v">11</span>¶
+  Now this <span class="add">is</span> the copy of the letter that the king
+  Artaxerxes gave unto Ezra the priest, the scribe, <span
+  class="add">even</span> a scribe of the words of the commandments of the <span
+  class="nd">LORD</span>, and of his statutes to Israel. </p>
+id: EZR/7/11
+next:
+  id: EZR/7/12
+  number: '12'
+previous:
+  id: EZR/7/10
+  number: '10'
+reference: 'Ezra 7:11'

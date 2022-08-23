@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 5:10" class="v">10</span>And
+  David went on, and grew great, and the <span class="nd">LORD</span> God of
+  hosts <span class="add">was</span> with him.</p>
+id: 2SA/5/10
+next:
+  id: 2SA/5/11
+  number: '11'
+previous:
+  id: 2SA/5/9
+  number: '9'
+reference: '2 Samuel 5:10'

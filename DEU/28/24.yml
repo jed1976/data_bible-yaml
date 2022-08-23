@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 28:24"
+  class="v">24</span>The <span class="nd">LORD</span> shall make the rain of thy
+  land powder and dust: from heaven shall it come down upon thee, until thou be
+  destroyed. </p>
+id: DEU/28/24
+next:
+  id: DEU/28/25
+  number: '25'
+previous:
+  id: DEU/28/23
+  number: '23'
+reference: 'Deuteronomy 28:24'

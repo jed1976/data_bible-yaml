@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 27:14" class="v">14</span>If
+  his children be multiplied, <span class="add">it is</span> for the sword: and
+  his offspring shall not be satisfied with bread. </p>
+id: JOB/27/14
+next:
+  id: JOB/27/15
+  number: '15'
+previous:
+  id: JOB/27/13
+  number: '13'
+reference: 'Job 27:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 90:15"
+  class="v">15</span>Make us glad according to the days <span
+  class="add">wherein</span> thou hast afflicted us, <span
+  class="add">and</span> the years <span class="add">wherein</span> we have seen
+  evil.</p>
+id: PSA/90/15
+next:
+  id: PSA/90/16
+  number: '16'
+previous:
+  id: PSA/90/14
+  number: '14'
+reference: 'Psalms 90:15'

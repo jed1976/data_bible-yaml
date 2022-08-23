@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 8:15" class="v">15</span>For
+  ye have not received the spirit of bondage again to fear; but ye have received
+  the Spirit of adoption, whereby we cry, Abba, Father. </p>
+id: ROM/8/15
+next:
+  id: ROM/8/16
+  number: '16'
+previous:
+  id: ROM/8/14
+  number: '14'
+reference: 'Romans 8:15'

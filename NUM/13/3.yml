@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 13:3" class="v">3</span>And
+  Moses by the commandment of the <span class="nd">LORD</span> sent them from
+  the wilderness of Paran: all those men <span class="add">were</span> heads of
+  the children of Israel. </p>
+id: NUM/13/3
+next:
+  id: NUM/13/4
+  number: '4'
+previous:
+  id: NUM/13/2
+  number: '2'
+reference: 'Numbers 13:3'

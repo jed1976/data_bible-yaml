@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 23:13"
+  class="v">13</span>Behold the land of the Chaldeans; this people was not,
+  <span class="add">till</span> the Assyrian founded it for them that dwell in
+  the wilderness: they set up the towers thereof, they raised up the palaces
+  thereof; <span class="add">and</span> he brought it to ruin. </p>
+id: ISA/23/13
+next:
+  id: ISA/23/14
+  number: '14'
+previous:
+  id: ISA/23/12
+  number: '12'
+reference: 'Isaiah 23:13'

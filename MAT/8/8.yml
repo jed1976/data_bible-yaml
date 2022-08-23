@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 8:8" class="v">8</span>The
+  centurion answered and said, Lord, I am not worthy that thou shouldest come
+  under my roof: but speak the word only, and my servant shall be healed. </p>
+id: MAT/8/8
+next:
+  id: MAT/8/9
+  number: '9'
+previous:
+  id: MAT/8/7
+  number: '7'
+reference: 'Matthew 8:8'

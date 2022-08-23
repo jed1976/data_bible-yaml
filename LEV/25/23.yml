@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 25:23" class="v">23</span>¶
+  The land shall not be sold for ever: for the land <span class="add">is</span>
+  mine; for ye <span class="add">are</span> strangers and sojourners with me.
+  </p>
+id: LEV/25/23
+next:
+  id: LEV/25/24
+  number: '24'
+previous:
+  id: LEV/25/22
+  number: '22'
+reference: 'Leviticus 25:23'

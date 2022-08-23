@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JDG 12:8" class="v">8</span>¶ And
+  after him Ibzan of Beth-lehem judged Israel. </p>
+id: JDG/12/8
+next:
+  id: JDG/12/9
+  number: '9'
+previous:
+  id: JDG/12/7
+  number: '7'
+reference: 'Judges 12:8'

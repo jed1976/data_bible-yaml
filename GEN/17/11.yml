@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 17:11"
+  class="v">11</span>And ye shall circumcise the flesh of your foreskin; and it
+  shall be a token of the covenant betwixt me and you. </p>
+id: GEN/17/11
+next:
+  id: GEN/17/12
+  number: '12'
+previous:
+  id: GEN/17/10
+  number: '10'
+reference: 'Genesis 17:11'

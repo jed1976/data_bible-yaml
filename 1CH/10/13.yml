@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 10:13" class="v">13</span>¶
+  So Saul died for his transgression which he committed against the <span
+  class="nd">LORD</span>, <span class="add">even</span> against the word of the
+  <span class="nd">LORD</span>, which he kept not, and also for asking <span
+  class="add">counsel</span> of <span class="add">one that had</span> a familiar
+  spirit, to enquire <span class="add">of it;</span> </p>
+id: 1CH/10/13
+next:
+  id: 1CH/10/14
+  number: '14'
+previous:
+  id: 1CH/10/12
+  number: '12'
+reference: '1 Chronicles 10:13'

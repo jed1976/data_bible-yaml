@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 22:4" class="v">4</span>For
+  if ye do this thing indeed, then shall there enter in by the gates of this
+  house kings sitting upon the throne of David, riding in chariots and on
+  horses, he, and his servants, and his people. </p>
+id: JER/22/4
+next:
+  id: JER/22/5
+  number: '5'
+previous:
+  id: JER/22/3
+  number: '3'
+reference: 'Jeremiah 22:4'

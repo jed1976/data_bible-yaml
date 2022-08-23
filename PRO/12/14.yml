@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 12:14" class="v">14</span>A
+  man shall be satisfied with good by the fruit of <span class="add">his</span>
+  mouth: and the recompence of a man’s hands shall be rendered unto him. </p>
+id: PRO/12/14
+next:
+  id: PRO/12/15
+  number: '15'
+previous:
+  id: PRO/12/13
+  number: '13'
+reference: 'Proverbs 12:14'

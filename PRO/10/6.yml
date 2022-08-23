@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 10:6"
+  class="v">6</span>Blessings <span class="add">are</span> upon the head of the
+  just: but violence covereth the mouth of the wicked. </p>
+id: PRO/10/6
+next:
+  id: PRO/10/7
+  number: '7'
+previous:
+  id: PRO/10/5
+  number: '5'
+reference: 'Proverbs 10:6'

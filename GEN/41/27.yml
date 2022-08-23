@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 41:27"
+  class="v">27</span>And the seven thin and ill favoured kine that came up after
+  them <span class="add">are</span> seven years; and the seven empty ears
+  blasted with the east wind shall be seven years of famine. </p>
+id: GEN/41/27
+next:
+  id: GEN/41/28
+  number: '28'
+previous:
+  id: GEN/41/26
+  number: '26'
+reference: 'Genesis 41:27'

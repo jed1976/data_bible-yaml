@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 14:12"
+  class="v">12</span>And they took Lot, Abram’s brother’s son, who dwelt in
+  Sodom, and his goods, and departed.</p>
+id: GEN/14/12
+next:
+  id: GEN/14/13
+  number: '13'
+previous:
+  id: GEN/14/11
+  number: '11'
+reference: 'Genesis 14:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 31:3" class="v">3</span>And
+  the <span class="nd">LORD</span> said unto Jacob, Return unto the land of thy
+  fathers, and to thy kindred; and I will be with thee. </p>
+id: GEN/31/3
+next:
+  id: GEN/31/4
+  number: '4'
+previous:
+  id: GEN/31/2
+  number: '2'
+reference: 'Genesis 31:3'

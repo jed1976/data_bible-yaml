@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 8:22"
+  class="v">22</span>Then said the Jews, Will he kill himself? because he saith,
+  Whither I go, ye cannot come. </p>
+id: JHN/8/22
+next:
+  id: JHN/8/23
+  number: '23'
+previous:
+  id: JHN/8/21
+  number: '21'
+reference: 'John 8:22'

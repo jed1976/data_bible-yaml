@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1SA 15:29"
+  class="v">29</span>And also the Strength of Israel will not lie nor repent:
+  for he <span class="add">is</span> not a man, that he should repent. </p>
+id: 1SA/15/29
+next:
+  id: 1SA/15/30
+  number: '30'
+previous:
+  id: 1SA/15/28
+  number: '28'
+reference: '1 Samuel 15:29'

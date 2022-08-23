@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 9:3" class="v">3</span>¶ And
+  when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to
+  Ai, </p>
+id: JOS/9/3
+next:
+  id: JOS/9/4
+  number: '4'
+previous:
+  id: JOS/9/2
+  number: '2'
+reference: 'Joshua 9:3'

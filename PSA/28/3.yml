@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 28:3" class="v">3</span>Draw
+  me not away with the wicked, and with the workers of iniquity, which speak
+  peace to their neighbours, but mischief <span class="add">is</span> in their
+  hearts.</p>
+id: PSA/28/3
+next:
+  id: PSA/28/4
+  number: '4'
+previous:
+  id: PSA/28/2
+  number: '2'
+reference: 'Psalms 28:3'

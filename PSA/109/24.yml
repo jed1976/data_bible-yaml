@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 109:24"
+  class="v">24</span>My knees are weak through fasting; and my flesh faileth of
+  fatness.</p>
+id: PSA/109/24
+next:
+  id: PSA/109/25
+  number: '25'
+previous:
+  id: PSA/109/23
+  number: '23'
+reference: 'Psalms 109:24'

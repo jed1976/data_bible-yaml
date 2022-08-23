@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 19:18"
+  class="v">18</span>Where they crucified him, and two other with him, on either
+  side one, and Jesus in the midst.</p>
+id: JHN/19/18
+next:
+  id: JHN/19/19
+  number: '19'
+previous:
+  id: JHN/19/17
+  number: '17'
+reference: 'John 19:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="MRK 14:51"
+  class="v">51</span>And there followed him a certain young man, having a linen
+  cloth cast about <span class="add">his</span> naked <span
+  class="add">body</span>; and the young men laid hold on him: </p>
+id: MRK/14/51
+next:
+  id: MRK/14/52
+  number: '52'
+previous:
+  id: MRK/14/50
+  number: '50'
+reference: 'Mark 14:51'

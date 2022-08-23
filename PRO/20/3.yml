@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 20:3" class="v">3</span><span
+  class="add">It is</span> an honour for a man to cease from strife: but every
+  fool will be meddling. </p>
+id: PRO/20/3
+next:
+  id: PRO/20/4
+  number: '4'
+previous:
+  id: PRO/20/2
+  number: '2'
+reference: 'Proverbs 20:3'

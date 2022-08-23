@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 14:15"
+  class="v">15</span>But if thy brother be grieved with <span
+  class="add">thy</span> meat, now walkest thou not charitably. Destroy not him
+  with thy meat, for whom Christ died. </p>
+id: ROM/14/15
+next:
+  id: ROM/14/16
+  number: '16'
+previous:
+  id: ROM/14/14
+  number: '14'
+reference: 'Romans 14:15'

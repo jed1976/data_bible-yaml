@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 44:30"
+  class="v">30</span>Now therefore when I come to thy servant my father, and the
+  lad <span class="add">be</span> not with us; seeing that his life is bound up
+  in the lad’s life; </p>
+id: GEN/44/30
+next:
+  id: GEN/44/31
+  number: '31'
+previous:
+  id: GEN/44/29
+  number: '29'
+reference: 'Genesis 44:30'

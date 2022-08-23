@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 26:1" class="v">1</span>And
+  it came to pass after the plague, that the <span class="nd">LORD</span> spake
+  unto Moses and unto Eleazar the son of Aaron the priest, saying, </p>
+id: NUM/26/1
+next:
+  id: NUM/26/2
+  number: '2'
+previous:
+  id: NUM/25/18
+  number: '18'
+reference: 'Numbers 26:1'

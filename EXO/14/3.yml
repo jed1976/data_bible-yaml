@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 14:3" class="v">3</span>For
+  Pharaoh will say of the children of Israel, They <span class="add">are</span>
+  entangled in the land, the wilderness hath shut them in. </p>
+id: EXO/14/3
+next:
+  id: EXO/14/4
+  number: '4'
+previous:
+  id: EXO/14/2
+  number: '2'
+reference: 'Exodus 14:3'

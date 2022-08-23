@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 23:12"
+  class="v">12</span>Six days thou shalt do thy work, and on the seventh day
+  thou shalt rest: that thine ox and thine ass may rest, and the son of thy
+  handmaid, and the stranger, may be refreshed. </p>
+id: EXO/23/12
+next:
+  id: EXO/23/13
+  number: '13'
+previous:
+  id: EXO/23/11
+  number: '11'
+reference: 'Exodus 23:12'

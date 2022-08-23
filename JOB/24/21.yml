@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 24:21" class="v">21</span>He
+  evil entreateth the barren <span class="add">that</span> beareth not: and
+  doeth not good to the widow. </p>
+id: JOB/24/21
+next:
+  id: JOB/24/22
+  number: '22'
+previous:
+  id: JOB/24/20
+  number: '20'
+reference: 'Job 24:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 15:3" class="v">3</span>¶ And
+  Samson said concerning them, Now shall I be more blameless than the
+  Philistines, though I do them a displeasure. </p>
+id: JDG/15/3
+next:
+  id: JDG/15/4
+  number: '4'
+previous:
+  id: JDG/15/2
+  number: '2'
+reference: 'Judges 15:3'

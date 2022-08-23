@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HEB 3:7"
+  class="v">7</span>Wherefore (as the Holy Ghost saith, To day if ye will hear
+  his voice, </p>
+id: HEB/3/7
+next:
+  id: HEB/3/8
+  number: '8'
+previous:
+  id: HEB/3/6
+  number: '6'
+reference: 'Hebrews 3:7'

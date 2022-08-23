@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 46:4"
+  class="v">4</span><span class="add">There is</span> a river, the streams
+  whereof shall make glad the city of God, the holy <span
+  class="add">place</span> of the tabernacles of the most High.</p>
+id: PSA/46/4
+next:
+  id: PSA/46/5
+  number: '5'
+previous:
+  id: PSA/46/3
+  number: '3'
+reference: 'Psalms 46:4'

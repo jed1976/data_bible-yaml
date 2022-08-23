@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 21:1"
+  class="v">1</span>Manasseh <span class="add">was</span> twelve years old when
+  he began to reign, and reigned fifty and five years in Jerusalem. And his
+  mother’s name <span class="add">was</span> Hephzi-bah. </p>
+id: 2KI/21/1
+next:
+  id: 2KI/21/2
+  number: '2'
+previous:
+  id: 2KI/20/21
+  number: '21'
+reference: '2 Kings 21:1'

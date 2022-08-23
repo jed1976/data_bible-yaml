@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 24:10"
+  class="v">10</span>But I would not hearken unto Balaam; therefore he blessed
+  you still: so I delivered you out of his hand. </p>
+id: JOS/24/10
+next:
+  id: JOS/24/11
+  number: '11'
+previous:
+  id: JOS/24/9
+  number: '9'
+reference: 'Joshua 24:10'

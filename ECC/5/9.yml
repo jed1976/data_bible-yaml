@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 5:9" class="v">9</span>¶
+  Moreover the profit of the earth is for all: the king <span
+  class="add">himself</span> is served by the field. </p>
+id: ECC/5/9
+next:
+  id: ECC/5/10
+  number: '10'
+previous:
+  id: ECC/5/8
+  number: '8'
+reference: 'Ecclesiastes 5:9'

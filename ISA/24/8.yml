@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 24:8" class="v">8</span>The
+  mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of
+  the harp ceaseth. </p>
+id: ISA/24/8
+next:
+  id: ISA/24/9
+  number: '9'
+previous:
+  id: ISA/24/7
+  number: '7'
+reference: 'Isaiah 24:8'

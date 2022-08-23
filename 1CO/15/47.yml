@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="1CO 15:47"
+  class="v">47</span>The first man <span class="add">is</span> of the earth,
+  earthy: the second man <span class="add">is</span> the Lord from heaven. </p>
+id: 1CO/15/47
+next:
+  id: 1CO/15/48
+  number: '48'
+previous:
+  id: 1CO/15/46
+  number: '46'
+reference: '1 Corinthians 15:47'

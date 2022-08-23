@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 3:32" class="v">32</span>And
+  what he hath seen and heard, that he testifieth; and no man receiveth his
+  testimony. </p>
+id: JHN/3/32
+next:
+  id: JHN/3/33
+  number: '33'
+previous:
+  id: JHN/3/31
+  number: '31'
+reference: 'John 3:32'

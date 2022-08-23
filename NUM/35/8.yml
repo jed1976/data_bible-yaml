@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 35:8" class="v">8</span>And
+  the cities which ye shall give <span class="add">shall be</span> of the
+  possession of the children of Israel: from <span class="add">them that
+  have</span> many ye shall give many; but from <span class="add">them that
+  have</span> few ye shall give few: every one shall give of his cities unto the
+  Levites according to his inheritance which he inheriteth.</p>
+id: NUM/35/8
+next:
+  id: NUM/35/9
+  number: '9'
+previous:
+  id: NUM/35/7
+  number: '7'
+reference: 'Numbers 35:8'

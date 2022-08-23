@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PHP 2:17"
+  class="v">17</span>Yea, and if I be offered upon the sacrifice and service of
+  your faith, I joy, and rejoice with you all. </p>
+id: PHP/2/17
+next:
+  id: PHP/2/18
+  number: '18'
+previous:
+  id: PHP/2/16
+  number: '16'
+reference: 'Philippians 2:17'

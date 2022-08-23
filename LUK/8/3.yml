@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 8:3" class="v">3</span>And
+  Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which
+  ministered unto him of their substance.</p>
+id: LUK/8/3
+next:
+  id: LUK/8/4
+  number: '4'
+previous:
+  id: LUK/8/2
+  number: '2'
+reference: 'Luke 8:3'

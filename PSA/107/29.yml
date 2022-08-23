@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 107:29"
+  class="v">29</span>He maketh the storm a calm, so that the waves thereof are
+  still.</p>
+id: PSA/107/29
+next:
+  id: PSA/107/30
+  number: '30'
+previous:
+  id: PSA/107/28
+  number: '28'
+reference: 'Psalms 107:29'

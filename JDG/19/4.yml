@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 19:4" class="v">4</span>And
+  his father in law, the damsel’s father, retained him; and he abode with him
+  three days: so they did eat and drink, and lodged there.</p>
+id: JDG/19/4
+next:
+  id: JDG/19/5
+  number: '5'
+previous:
+  id: JDG/19/3
+  number: '3'
+reference: 'Judges 19:4'

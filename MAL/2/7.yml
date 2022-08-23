@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAL 2:7" class="v">7</span>For
+  the priest’s lips should keep knowledge, and they should seek the law at his
+  mouth: for he <span class="add">is</span> the messenger of the <span
+  class="nd">LORD</span> of hosts. </p>
+id: MAL/2/7
+next:
+  id: MAL/2/8
+  number: '8'
+previous:
+  id: MAL/2/6
+  number: '6'
+reference: 'Malachi 2:7'

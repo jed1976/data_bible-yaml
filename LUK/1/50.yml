@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 1:50" class="v">50</span>And
+  his mercy <span class="add">is</span> on them that fear him from generation to
+  generation. </p>
+id: LUK/1/50
+next:
+  id: LUK/1/51
+  number: '51'
+previous:
+  id: LUK/1/49
+  number: '49'
+reference: 'Luke 1:50'

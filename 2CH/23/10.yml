@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 23:10"
+  class="v">10</span>And he set all the people, every man having his weapon in
+  his hand, from the right side of the temple to the left side of the temple,
+  along by the altar and the temple, by the king round about. </p>
+id: 2CH/23/10
+next:
+  id: 2CH/23/11
+  number: '11'
+previous:
+  id: 2CH/23/9
+  number: '9'
+reference: '2 Chronicles 23:10'

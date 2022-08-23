@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 5:8" class="v">8</span>But
+  God commendeth his love toward us, in that, while we were yet sinners, Christ
+  died for us. </p>
+id: ROM/5/8
+next:
+  id: ROM/5/9
+  number: '9'
+previous:
+  id: ROM/5/7
+  number: '7'
+reference: 'Romans 5:8'

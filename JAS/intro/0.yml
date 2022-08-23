@@ -1,0 +1,9 @@
+content: <p class="mt1">THE GENERAL EPISTLE OF JAMES</p>
+id: JAS/intro/0
+next:
+  id: JAS/1/1
+  number: '1'
+previous:
+  id: HEB/13/25
+  number: '25'
+reference: James

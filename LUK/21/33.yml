@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 21:33"
+  class="v">33</span><span class="wj">Heaven and earth shall pass away: but my
+  words shall not pass away.</span></p>
+id: LUK/21/33
+next:
+  id: LUK/21/34
+  number: '34'
+previous:
+  id: LUK/21/32
+  number: '32'
+reference: 'Luke 21:33'

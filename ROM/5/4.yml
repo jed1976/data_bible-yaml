@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 5:4" class="v">4</span>And
+  patience, experience; and experience, hope: </p>
+id: ROM/5/4
+next:
+  id: ROM/5/5
+  number: '5'
+previous:
+  id: ROM/5/3
+  number: '3'
+reference: 'Romans 5:4'

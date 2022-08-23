@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 31:3" class="v">3</span><span
+  class="add">Is</span> not destruction to the wicked? and a strange <span
+  class="add">punishment</span> to the workers of iniquity? </p>
+id: JOB/31/3
+next:
+  id: JOB/31/4
+  number: '4'
+previous:
+  id: JOB/31/2
+  number: '2'
+reference: 'Job 31:3'

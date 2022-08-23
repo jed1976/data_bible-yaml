@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 24:26"
+  class="v">26</span><span class="add">Every man</span> shall kiss <span
+  class="add">his</span> lips that giveth a right answer. </p>
+id: PRO/24/26
+next:
+  id: PRO/24/27
+  number: '27'
+previous:
+  id: PRO/24/25
+  number: '25'
+reference: 'Proverbs 24:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 26:12" class="v">12</span>¶
+  <span class="nd">LORD</span>, thou wilt ordain peace for us: for thou also
+  hast wrought all our works in us. </p>
+id: ISA/26/12
+next:
+  id: ISA/26/13
+  number: '13'
+previous:
+  id: ISA/26/11
+  number: '11'
+reference: 'Isaiah 26:12'

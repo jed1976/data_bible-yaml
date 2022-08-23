@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOS 8:34" class="v">34</span>And
+  afterward he read all the words of the law, the blessings and cursings,
+  according to all that is written in the book of the law. </p>
+id: JOS/8/34
+next:
+  id: JOS/8/35
+  number: '35'
+previous:
+  id: JOS/8/33
+  number: '33'
+reference: 'Joshua 8:34'

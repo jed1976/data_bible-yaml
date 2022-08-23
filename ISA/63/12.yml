@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 63:12"
+  class="v">12</span>That led <span class="add">them</span> by the right hand of
+  Moses with his glorious arm, dividing the water before them, to make himself
+  an everlasting name? </p>
+id: ISA/63/12
+next:
+  id: ISA/63/13
+  number: '13'
+previous:
+  id: ISA/63/11
+  number: '11'
+reference: 'Isaiah 63:12'

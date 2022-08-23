@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 66:19"
+  class="v">19</span>And I will set a sign among them, and I will send those
+  that escape of them unto the nations, <span class="add">to</span> Tarshish,
+  Pul, and Lud, that draw the bow, <span class="add">to</span> Tubal, and Javan,
+  <span class="add">to</span> the isles afar off, that have not heard my fame,
+  neither have seen my glory; and they shall declare my glory among the
+  Gentiles. </p>
+id: ISA/66/19
+next:
+  id: ISA/66/20
+  number: '20'
+previous:
+  id: ISA/66/18
+  number: '18'
+reference: 'Isaiah 66:19'

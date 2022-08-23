@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="HAG 2:14"
+  class="v">14</span>Then answered Haggai, and said, So <span
+  class="add">is</span> this people, and so <span class="add">is</span> this
+  nation before me, saith the <span class="nd">LORD</span>; and so <span
+  class="add">is</span> every work of their hands; and that which they offer
+  there <span class="add">is</span> unclean. </p>
+id: HAG/2/14
+next:
+  id: HAG/2/15
+  number: '15'
+previous:
+  id: HAG/2/13
+  number: '13'
+reference: 'Haggai 2:14'

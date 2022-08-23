@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 2:4" class="v">4</span>¶ And
+  if thou bring an oblation of a meat offering baken in the oven, <span
+  class="add">it shall be</span> unleavened cakes of fine flour mingled with
+  oil, or unleavened wafers anointed with oil.</p>
+id: LEV/2/4
+next:
+  id: LEV/2/5
+  number: '5'
+previous:
+  id: LEV/2/3
+  number: '3'
+reference: 'Leviticus 2:4'

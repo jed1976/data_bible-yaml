@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 22:6" class="v">6</span>Come
+  now therefore, I pray thee, curse me this people; for they <span
+  class="add">are</span> too mighty for me: peradventure I shall prevail, <span
+  class="add">that</span> we may smite them, and <span class="add">that</span> I
+  may drive them out of the land: for I wot that he whom thou blessest <span
+  class="add">is</span> blessed, and he whom thou cursest is cursed. </p>
+id: NUM/22/6
+next:
+  id: NUM/22/7
+  number: '7'
+previous:
+  id: NUM/22/5
+  number: '5'
+reference: 'Numbers 22:6'

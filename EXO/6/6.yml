@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 6:6"
+  class="v">6</span>Wherefore say unto the children of Israel, I <span
+  class="add">am</span> the <span class="nd">LORD</span>, and I will bring you
+  out from under the burdens of the Egyptians, and I will rid you out of their
+  bondage, and I will redeem you with a stretched out arm, and with great
+  judgments: </p>
+id: EXO/6/6
+next:
+  id: EXO/6/7
+  number: '7'
+previous:
+  id: EXO/6/5
+  number: '5'
+reference: 'Exodus 6:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 16:4"
+  class="v">4</span>Their sorrows shall be multiplied <span
+  class="add">that</span> hasten <span class="add">after</span> another <span
+  class="add">god:</span> their drink offerings of blood will I not offer, nor
+  take up their names into my lips.</p>
+id: PSA/16/4
+next:
+  id: PSA/16/5
+  number: '5'
+previous:
+  id: PSA/16/3
+  number: '3'
+reference: 'Psalms 16:4'

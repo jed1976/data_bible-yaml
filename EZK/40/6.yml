@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 40:6" class="v">6</span>¶
+  Then came he unto the gate which looketh toward the east, and went up the
+  stairs thereof, and measured the threshold of the gate, <span
+  class="add">which was</span> one reed broad; and the other threshold <span
+  class="add">of the gate, which was</span> one reed broad. </p>
+id: EZK/40/6
+next:
+  id: EZK/40/7
+  number: '7'
+previous:
+  id: EZK/40/5
+  number: '5'
+reference: 'Ezekiel 40:6'

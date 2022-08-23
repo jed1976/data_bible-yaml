@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 30:1" class="v">1</span>But
+  now <span class="add">they that are</span> younger than I have me in derision,
+  whose fathers I would have disdained to have set with the dogs of my flock.
+  </p>
+id: JOB/30/1
+next:
+  id: JOB/30/2
+  number: '2'
+previous:
+  id: JOB/29/25
+  number: '25'
+reference: 'Job 30:1'

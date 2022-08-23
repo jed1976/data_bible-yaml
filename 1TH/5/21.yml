@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1TH 5:21"
+  class="v">21</span>Prove all things; hold fast that which is good. </p>
+id: 1TH/5/21
+next:
+  id: 1TH/5/22
+  number: '22'
+previous:
+  id: 1TH/5/20
+  number: '20'
+reference: '1 Thessalonians 5:21'

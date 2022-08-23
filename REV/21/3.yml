@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 21:3" class="v">3</span>And I
+  heard a great voice out of heaven saying, Behold, the tabernacle of God <span
+  class="add">is</span> with men, and he will dwell with them, and they shall be
+  his people, and God himself shall be with them, <span class="add">and
+  be</span> their God. </p>
+id: REV/21/3
+next:
+  id: REV/21/4
+  number: '4'
+previous:
+  id: REV/21/2
+  number: '2'
+reference: 'Revelation 21:3'

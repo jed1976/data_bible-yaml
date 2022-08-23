@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EXO 12:42" class="v">42</span>It
+  <span class="add">is</span> a night to be much observed unto the <span
+  class="nd">LORD</span> for bringing them out from the land of Egypt: this
+  <span class="add">is</span> that night of the <span class="nd">LORD</span> to
+  be observed of all the children of Israel in their generations.</p>
+id: EXO/12/42
+next:
+  id: EXO/12/43
+  number: '43'
+previous:
+  id: EXO/12/41
+  number: '41'
+reference: 'Exodus 12:42'

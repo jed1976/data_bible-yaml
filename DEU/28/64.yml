@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="DEU 28:64"
+  class="v">64</span>And the <span class="nd">LORD</span> shall scatter thee
+  among all people, from the one end of the earth even unto the other; and there
+  thou shalt serve other gods, which neither thou nor thy fathers have known,
+  <span class="add">even</span> wood and stone. </p>
+id: DEU/28/64
+next:
+  id: DEU/28/65
+  number: '65'
+previous:
+  id: DEU/28/63
+  number: '63'
+reference: 'Deuteronomy 28:64'

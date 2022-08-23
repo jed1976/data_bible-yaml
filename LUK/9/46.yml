@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 9:46" class="v">46</span>¶
+  Then there arose a reasoning among them, which of them should be greatest.
+  </p>
+id: LUK/9/46
+next:
+  id: LUK/9/47
+  number: '47'
+previous:
+  id: LUK/9/45
+  number: '45'
+reference: 'Luke 9:46'

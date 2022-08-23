@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 119:22"
+  class="v">22</span>Remove from me reproach and contempt; for I have kept thy
+  testimonies.</p>
+id: PSA/119/22
+next:
+  id: PSA/119/23
+  number: '23'
+previous:
+  id: PSA/119/21
+  number: '21'
+reference: 'Psalms 119:22'

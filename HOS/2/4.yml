@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 2:4" class="v">4</span>And I
+  will not have mercy upon her children; for they <span class="add">be</span>
+  the children of whoredoms. </p>
+id: HOS/2/4
+next:
+  id: HOS/2/5
+  number: '5'
+previous:
+  id: HOS/2/3
+  number: '3'
+reference: 'Hosea 2:4'

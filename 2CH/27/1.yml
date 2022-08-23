@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 27:1"
+  class="v">1</span>Jotham <span class="add">was</span> twenty and five years
+  old when he began to reign, and he reigned sixteen years in Jerusalem. His
+  mother’s name also <span class="add">was</span> Jerushah, the daughter of
+  Zadok. </p>
+id: 2CH/27/1
+next:
+  id: 2CH/27/2
+  number: '2'
+previous:
+  id: 2CH/26/23
+  number: '23'
+reference: '2 Chronicles 27:1'

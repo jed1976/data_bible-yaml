@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 8:35"
+  class="v">35</span><span class="wj">And the servant abideth not in the house
+  for ever: <span class="add">but</span> the Son abideth ever.</span> </p>
+id: JHN/8/35
+next:
+  id: JHN/8/36
+  number: '36'
+previous:
+  id: JHN/8/34
+  number: '34'
+reference: 'John 8:35'

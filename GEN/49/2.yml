@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 49:2"
+  class="v">2</span>Gather yourselves together, and hear, ye sons of Jacob; and
+  hearken unto Israel your father.</p>
+id: GEN/49/2
+next:
+  id: GEN/49/3
+  number: '3'
+previous:
+  id: GEN/49/1
+  number: '1'
+reference: 'Genesis 49:2'

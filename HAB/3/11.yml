@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HAB 3:11" class="v">11</span>The
+  sun <span class="add">and</span> moon stood still in their habitation: at the
+  light of thine arrows they went, <span class="add">and</span> at the shining
+  of thy glittering spear. </p>
+id: HAB/3/11
+next:
+  id: HAB/3/12
+  number: '12'
+previous:
+  id: HAB/3/10
+  number: '10'
+reference: 'Habakkuk 3:11'

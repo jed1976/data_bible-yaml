@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 10:24"
+  class="v">24</span>And over the host of the tribe of the children of Benjamin
+  <span class="add">was</span> Abidan the son of Gideoni.</p>
+id: NUM/10/24
+next:
+  id: NUM/10/25
+  number: '25'
+previous:
+  id: NUM/10/23
+  number: '23'
+reference: 'Numbers 10:24'

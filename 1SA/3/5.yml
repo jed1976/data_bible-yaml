@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1SA 3:5" class="v">5</span>And he
+  ran unto Eli, and said, Here <span class="add">am</span> I; for thou calledst
+  me. And he said, I called not; lie down again. And he went and lay down. </p>
+id: 1SA/3/5
+next:
+  id: 1SA/3/6
+  number: '6'
+previous:
+  id: 1SA/3/4
+  number: '4'
+reference: '1 Samuel 3:5'

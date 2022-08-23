@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 16:5" class="v">5</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> the portion of mine
+  inheritance and of my cup: thou maintainest my lot.</p>
+id: PSA/16/5
+next:
+  id: PSA/16/6
+  number: '6'
+previous:
+  id: PSA/16/4
+  number: '4'
+reference: 'Psalms 16:5'

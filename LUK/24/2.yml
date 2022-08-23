@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LUK 24:2" class="v">2</span>And
+  they found the stone rolled away from the sepulchre. </p>
+id: LUK/24/2
+next:
+  id: LUK/24/3
+  number: '3'
+previous:
+  id: LUK/24/1
+  number: '1'
+reference: 'Luke 24:2'

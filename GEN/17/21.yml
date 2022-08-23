@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 17:21"
+  class="v">21</span>But my covenant will I establish with Isaac, which Sarah
+  shall bear unto thee at this set time in the next year. </p>
+id: GEN/17/21
+next:
+  id: GEN/17/22
+  number: '22'
+previous:
+  id: GEN/17/20
+  number: '20'
+reference: 'Genesis 17:21'

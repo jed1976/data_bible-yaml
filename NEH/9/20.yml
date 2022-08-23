@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 9:20"
+  class="v">20</span>Thou gavest also thy good spirit to instruct them, and
+  withheldest not thy manna from their mouth, and gavest them water for their
+  thirst. </p>
+id: NEH/9/20
+next:
+  id: NEH/9/21
+  number: '21'
+previous:
+  id: NEH/9/19
+  number: '19'
+reference: 'Nehemiah 9:20'

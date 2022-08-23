@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EZK 27:24"
+  class="v">24</span>These <span class="add">were</span> thy merchants in all
+  sorts <span class="add">of things</span>, in blue clothes, and broidered work,
+  and in chests of rich apparel, bound with cords, and made of cedar, among thy
+  merchandise. </p>
+id: EZK/27/24
+next:
+  id: EZK/27/25
+  number: '25'
+previous:
+  id: EZK/27/23
+  number: '23'
+reference: 'Ezekiel 27:24'

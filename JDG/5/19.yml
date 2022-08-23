@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 5:19" class="v">19</span>The
+  kings came <span class="add">and</span> fought, then fought the kings of
+  Canaan in Taanach by the waters of Megiddo; they took no gain of money. </p>
+id: JDG/5/19
+next:
+  id: JDG/5/20
+  number: '20'
+previous:
+  id: JDG/5/18
+  number: '18'
+reference: 'Judges 5:19'

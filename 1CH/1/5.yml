@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 1:5" class="v">5</span>¶ The
+  sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and
+  Meshech, and Tiras. </p>
+id: 1CH/1/5
+next:
+  id: 1CH/1/6
+  number: '6'
+previous:
+  id: 1CH/1/4
+  number: '4'
+reference: '1 Chronicles 1:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 26:5" class="v">5</span>And
+  thou shalt speak and say before the <span class="nd">LORD</span> thy God, A
+  Syrian ready to perish <span class="add">was</span> my father, and he went
+  down into Egypt, and sojourned there with a few, and became there a nation,
+  great, mighty, and populous: </p>
+id: DEU/26/5
+next:
+  id: DEU/26/6
+  number: '6'
+previous:
+  id: DEU/26/4
+  number: '4'
+reference: 'Deuteronomy 26:5'

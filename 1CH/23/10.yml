@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CH 23:10"
+  class="v">10</span>And the sons of Shimei <span class="add">were</span>,
+  Jahath, Zina, and Jeush, and Beriah. These four <span class="add">were</span>
+  the sons of Shimei. </p>
+id: 1CH/23/10
+next:
+  id: 1CH/23/11
+  number: '11'
+previous:
+  id: 1CH/23/9
+  number: '9'
+reference: '1 Chronicles 23:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 47:23"
+  class="v">23</span>Then Joseph said unto the people, Behold, I have bought you
+  this day and your land for Pharaoh: lo, <span class="add">here is</span> seed
+  for you, and ye shall sow the land. </p>
+id: GEN/47/23
+next:
+  id: GEN/47/24
+  number: '24'
+previous:
+  id: GEN/47/22
+  number: '22'
+reference: 'Genesis 47:23'

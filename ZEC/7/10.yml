@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 7:10" class="v">10</span>And
+  oppress not the widow, nor the fatherless, the stranger, nor the poor; and let
+  none of you imagine evil against his brother in your heart. </p>
+id: ZEC/7/10
+next:
+  id: ZEC/7/11
+  number: '11'
+previous:
+  id: ZEC/7/9
+  number: '9'
+reference: 'Zechariah 7:10'

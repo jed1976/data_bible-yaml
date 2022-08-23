@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LAM 3:55" class="v">55</span>¶ I
+  called upon thy name, O <span class="nd">LORD</span>, out of the low dungeon.
+  </p>
+id: LAM/3/55
+next:
+  id: LAM/3/56
+  number: '56'
+previous:
+  id: LAM/3/54
+  number: '54'
+reference: 'Lamentations 3:55'

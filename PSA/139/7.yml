@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 139:7"
+  class="v">7</span>Whither shall I go from thy spirit? or whither shall I flee
+  from thy presence?</p>
+id: PSA/139/7
+next:
+  id: PSA/139/8
+  number: '8'
+previous:
+  id: PSA/139/6
+  number: '6'
+reference: 'Psalms 139:7'

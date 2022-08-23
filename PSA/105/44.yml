@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="44" data-sid="PSA 105:44"
+  class="v">44</span>And gave them the lands of the heathen: and they inherited
+  the labour of the people;</p>
+id: PSA/105/44
+next:
+  id: PSA/105/45
+  number: '45'
+previous:
+  id: PSA/105/43
+  number: '43'
+reference: 'Psalms 105:44'

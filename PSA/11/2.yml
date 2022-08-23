@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 11:2" class="v">2</span>For,
+  lo, the wicked bend <span class="add">their</span> bow, they make ready their
+  arrow upon the string, that they may privily shoot at the upright in
+  heart.</p>
+id: PSA/11/2
+next:
+  id: PSA/11/3
+  number: '3'
+previous:
+  id: PSA/11/1
+  number: '1'
+reference: 'Psalms 11:2'

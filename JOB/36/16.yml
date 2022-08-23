@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 36:16"
+  class="v">16</span>Even so would he have removed thee out of the strait <span
+  class="add">into</span> a broad place, where <span class="add">there is</span>
+  no straitness; and that which should be set on thy table <span
+  class="add">should be</span> full of fatness. </p>
+id: JOB/36/16
+next:
+  id: JOB/36/17
+  number: '17'
+previous:
+  id: JOB/36/15
+  number: '15'
+reference: 'Job 36:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 6:24"
+  class="v">24</span><span class="wj">¶ No man can serve two masters: for either
+  he will hate the one, and love the other; or else he will hold to the one, and
+  despise the other. Ye cannot serve God and mammon.</span> </p>
+id: MAT/6/24
+next:
+  id: MAT/6/25
+  number: '25'
+previous:
+  id: MAT/6/23
+  number: '23'
+reference: 'Matthew 6:24'

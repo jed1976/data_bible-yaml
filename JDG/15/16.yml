@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 15:16"
+  class="v">16</span>And Samson said, With the jawbone of an ass, heaps upon
+  heaps, with the jaw of an ass have I slain a thousand men. </p>
+id: JDG/15/16
+next:
+  id: JDG/15/17
+  number: '17'
+previous:
+  id: JDG/15/15
+  number: '15'
+reference: 'Judges 15:16'

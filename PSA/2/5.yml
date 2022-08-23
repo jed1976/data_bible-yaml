@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 2:5" class="v">5</span>Then
+  shall he speak unto them in his wrath, and vex them in his sore
+  displeasure.</p>
+id: PSA/2/5
+next:
+  id: PSA/2/6
+  number: '6'
+previous:
+  id: PSA/2/4
+  number: '4'
+reference: 'Psalms 2:5'

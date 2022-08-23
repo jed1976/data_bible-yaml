@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 4:7"
+  class="v">7</span>Remember, I pray thee, who <span class="add">ever</span>
+  perished, being innocent? or where were the righteous cut off? </p>
+id: JOB/4/7
+next:
+  id: JOB/4/8
+  number: '8'
+previous:
+  id: JOB/4/6
+  number: '6'
+reference: 'Job 4:7'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 47:14"
+  class="v">14</span>Behold, they shall be as stubble; the fire shall burn them;
+  they shall not deliver themselves from the power of the flame: <span
+  class="add">there shall</span> not <span class="add">be</span> a coal to warm
+  at, <span class="add">nor</span> fire to sit before it. </p>
+id: ISA/47/14
+next:
+  id: ISA/47/15
+  number: '15'
+previous:
+  id: ISA/47/13
+  number: '13'
+reference: 'Isaiah 47:14'

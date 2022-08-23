@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 15:16"
+  class="v">16</span>One law and one manner shall be for you, and for the
+  stranger that sojourneth with you.</p>
+id: NUM/15/16
+next:
+  id: NUM/15/17
+  number: '17'
+previous:
+  id: NUM/15/15
+  number: '15'
+reference: 'Numbers 15:16'

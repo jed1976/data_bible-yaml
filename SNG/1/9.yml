@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="SNG 1:9" class="v">9</span>I have
+  compared thee, O my love, to a company of horses in Pharaoh’s chariots. </p>
+id: SNG/1/9
+next:
+  id: SNG/1/10
+  number: '10'
+previous:
+  id: SNG/1/8
+  number: '8'
+reference: 'Song of Solomon 1:9'

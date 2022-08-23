@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="2SA 18:29"
+  class="v">29</span>And the king said, Is the young man Absalom safe? And
+  Ahimaaz answered, When Joab sent the king’s servant, and <span
+  class="add">me</span> thy servant, I saw a great tumult, but I knew not what
+  <span class="add">it was</span>. </p>
+id: 2SA/18/29
+next:
+  id: 2SA/18/30
+  number: '30'
+previous:
+  id: 2SA/18/28
+  number: '28'
+reference: '2 Samuel 18:29'

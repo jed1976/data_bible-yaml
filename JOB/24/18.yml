@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 24:18" class="v">18</span>He
+  <span class="add">is</span> swift as the waters; their portion is cursed in
+  the earth: he beholdeth not the way of the vineyards. </p>
+id: JOB/24/18
+next:
+  id: JOB/24/19
+  number: '19'
+previous:
+  id: JOB/24/17
+  number: '17'
+reference: 'Job 24:18'

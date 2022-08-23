@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 20:21" class="v">21</span>An
+  inheritance <span class="add">may be</span> gotten hastily at the beginning;
+  but the end thereof shall not be blessed. </p>
+id: PRO/20/21
+next:
+  id: PRO/20/22
+  number: '22'
+previous:
+  id: PRO/20/20
+  number: '20'
+reference: 'Proverbs 20:21'

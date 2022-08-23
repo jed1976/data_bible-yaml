@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EPH 1:7" class="v">7</span>In
+  whom we have redemption through his blood, the forgiveness of sins, according
+  to the riches of his grace; </p>
+id: EPH/1/7
+next:
+  id: EPH/1/8
+  number: '8'
+previous:
+  id: EPH/1/6
+  number: '6'
+reference: 'Ephesians 1:7'

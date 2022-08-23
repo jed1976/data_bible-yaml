@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CO 1:1" class="v">1</span>Paul,
+  an apostle of Jesus Christ by the will of God, and Timothy <span
+  class="add">our</span> brother, unto the church of God which is at Corinth,
+  with all the saints which are in all Achaia: </p>
+id: 2CO/1/1
+next:
+  id: 2CO/1/2
+  number: '2'
+previous:
+  id: 2CO/intro/0
+  number: '0'
+reference: '2 Corinthians 1:1'

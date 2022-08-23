@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 12:5" class="v">5</span>Your
+  lamb shall be without blemish, a male of the first year: ye shall take <span
+  class="add">it</span> out from the sheep, or from the goats: </p>
+id: EXO/12/5
+next:
+  id: EXO/12/6
+  number: '6'
+previous:
+  id: EXO/12/4
+  number: '4'
+reference: 'Exodus 12:5'

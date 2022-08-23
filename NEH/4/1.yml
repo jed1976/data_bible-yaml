@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 4:1" class="v">1</span>But it
+  came to pass, that when Sanballat heard that we builded the wall, he was
+  wroth, and took great indignation, and mocked the Jews. </p>
+id: NEH/4/1
+next:
+  id: NEH/4/2
+  number: '2'
+previous:
+  id: NEH/3/32
+  number: '32'
+reference: 'Nehemiah 4:1'

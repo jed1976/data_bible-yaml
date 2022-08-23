@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NUM 23:2" class="v">2</span>And
+  Balak did as Balaam had spoken; and Balak and Balaam offered on <span
+  class="add">every</span> altar a bullock and a ram. </p>
+id: NUM/23/2
+next:
+  id: NUM/23/3
+  number: '3'
+previous:
+  id: NUM/23/1
+  number: '1'
+reference: 'Numbers 23:2'

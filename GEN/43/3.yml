@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 43:3" class="v">3</span>And
+  Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye
+  shall not see my face, except your brother <span class="add">be</span> with
+  you. </p>
+id: GEN/43/3
+next:
+  id: GEN/43/4
+  number: '4'
+previous:
+  id: GEN/43/2
+  number: '2'
+reference: 'Genesis 43:3'

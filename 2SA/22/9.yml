@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 22:9" class="v">9</span>There
+  went up a smoke out of his nostrils, and fire out of his mouth devoured: coals
+  were kindled by it. </p>
+id: 2SA/22/9
+next:
+  id: 2SA/22/10
+  number: '10'
+previous:
+  id: 2SA/22/8
+  number: '8'
+reference: '2 Samuel 22:9'

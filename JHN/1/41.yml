@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 1:41" class="v">41</span>He
+  first findeth his own brother Simon, and saith unto him, We have found the
+  Messias, which is, being interpreted, the Christ. </p>
+id: JHN/1/41
+next:
+  id: JHN/1/42
+  number: '42'
+previous:
+  id: JHN/1/40
+  number: '40'
+reference: 'John 1:41'

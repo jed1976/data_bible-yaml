@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 15:7" class="v">7</span>And
+  Saul smote the Amalekites from Havilah <span class="add">until</span> thou
+  comest to Shur, that <span class="add">is</span> over against Egypt. </p>
+id: 1SA/15/7
+next:
+  id: 1SA/15/8
+  number: '8'
+previous:
+  id: 1SA/15/6
+  number: '6'
+reference: '1 Samuel 15:7'

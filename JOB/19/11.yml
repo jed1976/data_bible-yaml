@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 19:11" class="v">11</span>He
+  hath also kindled his wrath against me, and he counteth me unto him as <span
+  class="add">one of</span> his enemies. </p>
+id: JOB/19/11
+next:
+  id: JOB/19/12
+  number: '12'
+previous:
+  id: JOB/19/10
+  number: '10'
+reference: 'Job 19:11'

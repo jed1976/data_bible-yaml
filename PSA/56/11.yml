@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 56:11"
+  class="v">11</span>In God have I put my trust: I will not be afraid what man
+  can do unto me.</p>
+id: PSA/56/11
+next:
+  id: PSA/56/12
+  number: '12'
+previous:
+  id: PSA/56/10
+  number: '10'
+reference: 'Psalms 56:11'

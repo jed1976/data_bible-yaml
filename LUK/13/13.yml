@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 13:13"
+  class="v">13</span>And he laid <span class="add">his</span> hands on her: and
+  immediately she was made straight, and glorified God. </p>
+id: LUK/13/13
+next:
+  id: LUK/13/14
+  number: '14'
+previous:
+  id: LUK/13/12
+  number: '12'
+reference: 'Luke 13:13'

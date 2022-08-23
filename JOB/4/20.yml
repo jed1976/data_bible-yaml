@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 4:20"
+  class="v">20</span>They are destroyed from morning to evening: they perish for
+  ever without any regarding <span class="add">it</span>. </p>
+id: JOB/4/20
+next:
+  id: JOB/4/21
+  number: '21'
+previous:
+  id: JOB/4/19
+  number: '19'
+reference: 'Job 4:20'

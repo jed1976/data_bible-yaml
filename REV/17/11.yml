@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 17:11"
+  class="v">11</span>And the beast that was, and is not, even he is the eighth,
+  and is of the seven, and goeth into perdition. </p>
+id: REV/17/11
+next:
+  id: REV/17/12
+  number: '12'
+previous:
+  id: REV/17/10
+  number: '10'
+reference: 'Revelation 17:11'

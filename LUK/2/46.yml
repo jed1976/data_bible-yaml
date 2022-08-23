@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 2:46" class="v">46</span>And
+  it came to pass, that after three days they found him in the temple, sitting
+  in the midst of the doctors, both hearing them, and asking them questions.
+  </p>
+id: LUK/2/46
+next:
+  id: LUK/2/47
+  number: '47'
+previous:
+  id: LUK/2/45
+  number: '45'
+reference: 'Luke 2:46'

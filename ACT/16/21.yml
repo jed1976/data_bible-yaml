@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 16:21"
+  class="v">21</span>And teach customs, which are not lawful for us to receive,
+  neither to observe, being Romans. </p>
+id: ACT/16/21
+next:
+  id: ACT/16/22
+  number: '22'
+previous:
+  id: ACT/16/20
+  number: '20'
+reference: 'Acts 16:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 3:20"
+  class="v">20</span><span class="wj">For every one that doeth evil hateth the
+  light, neither cometh to the light, lest his deeds should be reproved.</span>
+  </p>
+id: JHN/3/20
+next:
+  id: JHN/3/21
+  number: '21'
+previous:
+  id: JHN/3/19
+  number: '19'
+reference: 'John 3:20'

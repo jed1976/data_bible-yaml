@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 69:20"
+  class="v">20</span>Reproach hath broken my heart; and I am full of heaviness:
+  and I looked <span class="add">for some</span> to take pity, but <span
+  class="add">there was</span> none; and for comforters, but I found none.</p>
+id: PSA/69/20
+next:
+  id: PSA/69/21
+  number: '21'
+previous:
+  id: PSA/69/19
+  number: '19'
+reference: 'Psalms 69:20'

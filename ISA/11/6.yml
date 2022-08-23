@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 11:6" class="v">6</span>The
+  wolf also shall dwell with the lamb, and the leopard shall lie down with the
+  kid; and the calf and the young lion and the fatling together; and a little
+  child shall lead them. </p>
+id: ISA/11/6
+next:
+  id: ISA/11/7
+  number: '7'
+previous:
+  id: ISA/11/5
+  number: '5'
+reference: 'Isaiah 11:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 17:17"
+  class="v">17</span>Then Jesus answered and said, <span class="wj">O faithless
+  and perverse generation, how long shall I be with you? how long shall I suffer
+  you? bring him hither to me.</span> </p>
+id: MAT/17/17
+next:
+  id: MAT/17/18
+  number: '18'
+previous:
+  id: MAT/17/16
+  number: '16'
+reference: 'Matthew 17:17'

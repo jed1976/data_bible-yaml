@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 19:10"
+  class="v">10</span>And they shall be broken in the purposes thereof, all that
+  make sluices <span class="add">and</span> ponds for fish.</p>
+id: ISA/19/10
+next:
+  id: ISA/19/11
+  number: '11'
+previous:
+  id: ISA/19/9
+  number: '9'
+reference: 'Isaiah 19:10'

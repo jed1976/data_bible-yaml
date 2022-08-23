@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 27:25"
+  class="v">25</span>And all thy estimations shall be according to the shekel of
+  the sanctuary: twenty gerahs shall be the shekel.</p>
+id: LEV/27/25
+next:
+  id: LEV/27/26
+  number: '26'
+previous:
+  id: LEV/27/24
+  number: '24'
+reference: 'Leviticus 27:25'

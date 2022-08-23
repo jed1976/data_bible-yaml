@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOS 5:14" class="v">14</span>And
+  he said, Nay; but <span class="add">as</span> captain of the host of the <span
+  class="nd">LORD</span> am I now come. And Joshua fell on his face to the
+  earth, and did worship, and said unto him, What saith my lord unto his
+  servant? </p>
+id: JOS/5/14
+next:
+  id: JOS/5/15
+  number: '15'
+previous:
+  id: JOS/5/13
+  number: '13'
+reference: 'Joshua 5:14'

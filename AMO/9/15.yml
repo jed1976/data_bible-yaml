@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="AMO 9:15" class="v">15</span>And
+  I will plant them upon their land, and they shall no more be pulled up out of
+  their land which I have given them, saith the <span class="nd">LORD</span> thy
+  God.</p>
+id: AMO/9/15
+next:
+  id: OBA/intro/0
+  number: '0'
+previous:
+  id: AMO/9/14
+  number: '14'
+reference: 'Amos 9:15'

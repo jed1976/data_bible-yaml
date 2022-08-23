@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 5:12"
+  class="v">12</span>Therefore <span class="add">will</span> I <span
+  class="add">be</span> unto Ephraim as a moth, and to the house of Judah as
+  rottenness. </p>
+id: HOS/5/12
+next:
+  id: HOS/5/13
+  number: '13'
+previous:
+  id: HOS/5/11
+  number: '11'
+reference: 'Hosea 5:12'

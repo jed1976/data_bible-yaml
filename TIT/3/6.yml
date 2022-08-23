@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="TIT 3:6" class="v">6</span>Which
+  he shed on us abundantly through Jesus Christ our Saviour; </p>
+id: TIT/3/6
+next:
+  id: TIT/3/7
+  number: '7'
+previous:
+  id: TIT/3/5
+  number: '5'
+reference: 'Titus 3:6'

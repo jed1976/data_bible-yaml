@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 7:4" class="v">4</span>For
+  yet seven days, and I will cause it to rain upon the earth forty days and
+  forty nights; and every living substance that I have made will I destroy from
+  off the face of the earth.</p>
+id: GEN/7/4
+next:
+  id: GEN/7/5
+  number: '5'
+previous:
+  id: GEN/7/3
+  number: '3'
+reference: 'Genesis 7:4'

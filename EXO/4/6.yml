@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 4:6" class="v">6</span>¶ And
+  the <span class="nd">LORD</span> said furthermore unto him, Put now thine hand
+  into thy bosom. And he put his hand into his bosom: and when he took it out,
+  behold, his hand <span class="add">was</span> leprous as snow. </p>
+id: EXO/4/6
+next:
+  id: EXO/4/7
+  number: '7'
+previous:
+  id: EXO/4/5
+  number: '5'
+reference: 'Exodus 4:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 7:12" class="v">12</span>For
+  they cast down every man his rod, and they became serpents: but Aaron’s rod
+  swallowed up their rods. </p>
+id: EXO/7/12
+next:
+  id: EXO/7/13
+  number: '13'
+previous:
+  id: EXO/7/11
+  number: '11'
+reference: 'Exodus 7:12'

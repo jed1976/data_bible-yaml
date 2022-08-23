@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 4:13"
+  class="v">13</span>Take fast hold of instruction; let <span
+  class="add">her</span> not go: keep her; for she <span class="add">is</span>
+  thy life.</p>
+id: PRO/4/13
+next:
+  id: PRO/4/14
+  number: '14'
+previous:
+  id: PRO/4/12
+  number: '12'
+reference: 'Proverbs 4:13'

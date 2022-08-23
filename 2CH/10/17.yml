@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2CH 10:17"
+  class="v">17</span>But <span class="add">as for</span> the children of Israel
+  that dwelt in the cities of Judah, Rehoboam reigned over them. </p>
+id: 2CH/10/17
+next:
+  id: 2CH/10/18
+  number: '18'
+previous:
+  id: 2CH/10/16
+  number: '16'
+reference: '2 Chronicles 10:17'

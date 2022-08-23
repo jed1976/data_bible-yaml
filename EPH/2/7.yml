@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EPH 2:7" class="v">7</span>That
+  in the ages to come he might shew the exceeding riches of his grace in <span
+  class="add">his</span> kindness toward us through Christ Jesus. </p>
+id: EPH/2/7
+next:
+  id: EPH/2/8
+  number: '8'
+previous:
+  id: EPH/2/6
+  number: '6'
+reference: 'Ephesians 2:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 4:9" class="v">9</span>And he
+  said unto them, <span class="wj">He that hath ears to hear, let him
+  hear.</span> </p>
+id: MRK/4/9
+next:
+  id: MRK/4/10
+  number: '10'
+previous:
+  id: MRK/4/8
+  number: '8'
+reference: 'Mark 4:9'

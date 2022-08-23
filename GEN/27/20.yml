@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 27:20"
+  class="v">20</span>And Isaac said unto his son, How <span class="add">is
+  it</span> that thou hast found <span class="add">it</span> so quickly, my son?
+  And he said, Because the <span class="nd">LORD</span> thy God brought <span
+  class="add">it</span> to me. </p>
+id: GEN/27/20
+next:
+  id: GEN/27/21
+  number: '21'
+previous:
+  id: GEN/27/19
+  number: '19'
+reference: 'Genesis 27:20'

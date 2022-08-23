@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 73:17"
+  class="v">17</span>Until I went into the sanctuary of God; <span
+  class="add">then</span> understood I their end.</p>
+id: PSA/73/17
+next:
+  id: PSA/73/18
+  number: '18'
+previous:
+  id: PSA/73/16
+  number: '16'
+reference: 'Psalms 73:17'

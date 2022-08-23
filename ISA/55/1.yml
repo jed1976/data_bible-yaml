@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 55:1" class="v">1</span>Ho,
+  every one that thirsteth, come ye to the waters, and he that hath no money;
+  come ye, buy, and eat; yea, come, buy wine and milk without money and without
+  price. </p>
+id: ISA/55/1
+next:
+  id: ISA/55/2
+  number: '2'
+previous:
+  id: ISA/54/17
+  number: '17'
+reference: 'Isaiah 55:1'

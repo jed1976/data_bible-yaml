@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JUD 1:20" class="v">20</span>But
+  ye, beloved, building up yourselves on your most holy faith, praying in the
+  Holy Ghost, </p>
+id: JUD/1/20
+next:
+  id: JUD/1/21
+  number: '21'
+previous:
+  id: JUD/1/19
+  number: '19'
+reference: 'Jude 1:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 20:12" class="v">12</span>¶
+  And the tribes of Israel sent men through all the tribe of Benjamin, saying,
+  What wickedness <span class="add">is</span> this that is done among you? </p>
+id: JDG/20/12
+next:
+  id: JDG/20/13
+  number: '13'
+previous:
+  id: JDG/20/11
+  number: '11'
+reference: 'Judges 20:12'

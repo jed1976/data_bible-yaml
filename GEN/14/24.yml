@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 14:24"
+  class="v">24</span>Save only that which the young men have eaten, and the
+  portion of the men which went with me, Aner, Eshcol, and Mamre; let them take
+  their portion.</p>
+id: GEN/14/24
+next:
+  id: GEN/15/1
+  number: '1'
+previous:
+  id: GEN/14/23
+  number: '23'
+reference: 'Genesis 14:24'

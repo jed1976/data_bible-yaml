@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 25:30"
+  class="v">30</span>And Esau said to Jacob, Feed me, I pray thee, with that
+  same red <span class="add">pottage;</span> for I <span class="add">am</span>
+  faint: therefore was his name called Edom. </p>
+id: GEN/25/30
+next:
+  id: GEN/25/31
+  number: '31'
+previous:
+  id: GEN/25/29
+  number: '29'
+reference: 'Genesis 25:30'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 10:22"
+  class="v">22</span>Pelatiah, Hanan, Anaiah, </p>
+id: NEH/10/22
+next:
+  id: NEH/10/23
+  number: '23'
+previous:
+  id: NEH/10/21
+  number: '21'
+reference: 'Nehemiah 10:22'

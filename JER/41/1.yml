@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 41:1" class="v">1</span>Now
+  it came to pass in the seventh month, <span class="add">that</span> Ishmael
+  the son of Nethaniah the son of Elishama, of the seed royal, and the princes
+  of the king, even ten men with him, came unto Gedaliah the son of Ahikam to
+  Mizpah; and there they did eat bread together in Mizpah. </p>
+id: JER/41/1
+next:
+  id: JER/41/2
+  number: '2'
+previous:
+  id: JER/40/16
+  number: '16'
+reference: 'Jeremiah 41:1'

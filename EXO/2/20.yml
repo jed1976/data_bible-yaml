@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 2:20" class="v">20</span>And
+  he said unto his daughters, And where <span class="add">is</span> he? why
+  <span class="add">is</span> it <span class="add">that</span> ye have left the
+  man? call him, that he may eat bread. </p>
+id: EXO/2/20
+next:
+  id: EXO/2/21
+  number: '21'
+previous:
+  id: EXO/2/19
+  number: '19'
+reference: 'Exodus 2:20'

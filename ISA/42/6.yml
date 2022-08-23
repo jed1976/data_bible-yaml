@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 42:6" class="v">6</span>I the
+  <span class="nd">LORD</span> have called thee in righteousness, and will hold
+  thine hand, and will keep thee, and give thee for a covenant of the people,
+  for a light of the Gentiles; </p>
+id: ISA/42/6
+next:
+  id: ISA/42/7
+  number: '7'
+previous:
+  id: ISA/42/5
+  number: '5'
+reference: 'Isaiah 42:6'

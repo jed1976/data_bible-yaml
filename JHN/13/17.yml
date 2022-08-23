@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 13:17"
+  class="v">17</span><span class="wj">If ye know these things, happy are ye if
+  ye do them.</span></p>
+id: JHN/13/17
+next:
+  id: JHN/13/18
+  number: '18'
+previous:
+  id: JHN/13/16
+  number: '16'
+reference: 'John 13:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 25:11"
+  class="v">11</span><span class="wj">Afterward came also the other virgins,
+  saying, Lord, Lord, open to us.</span> </p>
+id: MAT/25/11
+next:
+  id: MAT/25/12
+  number: '12'
+previous:
+  id: MAT/25/10
+  number: '10'
+reference: 'Matthew 25:11'

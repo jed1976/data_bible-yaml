@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 10:1" class="v">1</span>In
+  the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose
+  name was called Belteshazzar; and the thing <span class="add">was</span> true,
+  but the time appointed <span class="add">was</span> long: and he understood
+  the thing, and had understanding of the vision. </p>
+id: DAN/10/1
+next:
+  id: DAN/10/2
+  number: '2'
+previous:
+  id: DAN/9/27
+  number: '27'
+reference: 'Daniel 10:1'

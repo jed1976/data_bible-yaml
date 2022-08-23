@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 16:12"
+  class="v">12</span>And I put a jewel on thy forehead, and earrings in thine
+  ears, and a beautiful crown upon thine head. </p>
+id: EZK/16/12
+next:
+  id: EZK/16/13
+  number: '13'
+previous:
+  id: EZK/16/11
+  number: '11'
+reference: 'Ezekiel 16:12'

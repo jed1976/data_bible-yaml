@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 35:26"
+  class="v">26</span>But if the slayer shall at any time come without the border
+  of the city of his refuge, whither he was fled; </p>
+id: NUM/35/26
+next:
+  id: NUM/35/27
+  number: '27'
+previous:
+  id: NUM/35/25
+  number: '25'
+reference: 'Numbers 35:26'

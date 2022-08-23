@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 15:15"
+  class="v">15</span>And to this agree the words of the prophets; as it is
+  written, </p>
+id: ACT/15/15
+next:
+  id: ACT/15/16
+  number: '16'
+previous:
+  id: ACT/15/14
+  number: '14'
+reference: 'Acts 15:15'

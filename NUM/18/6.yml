@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 18:6" class="v">6</span>And
+  I, behold, I have taken your brethren the Levites from among the children of
+  Israel: to you <span class="add">they are</span> given <span
+  class="add">as</span> a gift for the <span class="nd">LORD</span>, to do the
+  service of the tabernacle of the congregation. </p>
+id: NUM/18/6
+next:
+  id: NUM/18/7
+  number: '7'
+previous:
+  id: NUM/18/5
+  number: '5'
+reference: 'Numbers 18:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 16:12" class="v">12</span>¶
+  And it shall come to pass, when it is seen that Moab is weary on the high
+  place, that he shall come to his sanctuary to pray; but he shall not prevail.
+  </p>
+id: ISA/16/12
+next:
+  id: ISA/16/13
+  number: '13'
+previous:
+  id: ISA/16/11
+  number: '11'
+reference: 'Isaiah 16:12'

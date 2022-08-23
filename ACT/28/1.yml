@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 28:1" class="v">1</span>And
+  when they were escaped, then they knew that the island was called Melita. </p>
+id: ACT/28/1
+next:
+  id: ACT/28/2
+  number: '2'
+previous:
+  id: ACT/27/44
+  number: '44'
+reference: 'Acts 28:1'

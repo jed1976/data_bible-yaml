@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 12:1" class="v">1</span>And
+  in that day thou shalt say, O <span class="nd">LORD</span>, I will praise
+  thee: though thou wast angry with me, thine anger is turned away, and thou
+  comfortedst me. </p>
+id: ISA/12/1
+next:
+  id: ISA/12/2
+  number: '2'
+previous:
+  id: ISA/11/16
+  number: '16'
+reference: 'Isaiah 12:1'

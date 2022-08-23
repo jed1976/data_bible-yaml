@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 86:11"
+  class="v">11</span>Teach me thy way, O <span class="nd">LORD</span>; I will
+  walk in thy truth: unite my heart to fear thy name.</p>
+id: PSA/86/11
+next:
+  id: PSA/86/12
+  number: '12'
+previous:
+  id: PSA/86/10
+  number: '10'
+reference: 'Psalms 86:11'

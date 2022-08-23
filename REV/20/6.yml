@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 20:6"
+  class="v">6</span>Blessed and holy <span class="add">is</span> he that hath
+  part in the first resurrection: on such the second death hath no power, but
+  they shall be priests of God and of Christ, and shall reign with him a
+  thousand years. </p>
+id: REV/20/6
+next:
+  id: REV/20/7
+  number: '7'
+previous:
+  id: REV/20/5
+  number: '5'
+reference: 'Revelation 20:6'

@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 2:4"
+  class="v">4</span>Behold, I build an house to the name of the <span
+  class="nd">LORD</span> my God, to dedicate <span class="add">it</span> to him,
+  <span class="add">and</span> to burn before him sweet incense, and for the
+  continual shewbread, and for the burnt offerings morning and evening, on the
+  sabbaths, and on the new moons, and on the solemn feasts of the <span
+  class="nd">LORD</span> our God. This <span class="add">is an ordinance</span>
+  for ever to Israel. </p>
+id: 2CH/2/4
+next:
+  id: 2CH/2/5
+  number: '5'
+previous:
+  id: 2CH/2/3
+  number: '3'
+reference: '2 Chronicles 2:4'

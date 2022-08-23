@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 7:13" class="v">13</span>And
+  one of the elders answered, saying unto me, What are these which are arrayed
+  in white robes? and whence came they? </p>
+id: REV/7/13
+next:
+  id: REV/7/14
+  number: '14'
+previous:
+  id: REV/7/12
+  number: '12'
+reference: 'Revelation 7:13'

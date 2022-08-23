@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 65:11"
+  class="v">11</span>Thou crownest the year with thy goodness; and thy paths
+  drop fatness.</p>
+id: PSA/65/11
+next:
+  id: PSA/65/12
+  number: '12'
+previous:
+  id: PSA/65/10
+  number: '10'
+reference: 'Psalms 65:11'

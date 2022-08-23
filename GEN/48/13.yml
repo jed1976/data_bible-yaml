@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 48:13"
+  class="v">13</span>And Joseph took them both, Ephraim in his right hand toward
+  Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand,
+  and brought <span class="add">them</span> near unto him. </p>
+id: GEN/48/13
+next:
+  id: GEN/48/14
+  number: '14'
+previous:
+  id: GEN/48/12
+  number: '12'
+reference: 'Genesis 48:13'

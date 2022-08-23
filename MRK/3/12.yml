@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 3:12" class="v">12</span>And
+  he straitly charged them that they should not make him known. </p>
+id: MRK/3/12
+next:
+  id: MRK/3/13
+  number: '13'
+previous:
+  id: MRK/3/11
+  number: '11'
+reference: 'Mark 3:12'

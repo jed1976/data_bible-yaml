@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DAN 11:2" class="v">2</span>And
+  now will I shew thee the truth. Behold, there shall stand up yet three kings
+  in Persia; and the fourth shall be far richer than <span
+  class="add">they</span> all: and by his strength through his riches he shall
+  stir up all against the realm of Grecia. </p>
+id: DAN/11/2
+next:
+  id: DAN/11/3
+  number: '3'
+previous:
+  id: DAN/11/1
+  number: '1'
+reference: 'Daniel 11:2'

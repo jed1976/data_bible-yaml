@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 7:22"
+  class="v">22</span><span class="wj">Thefts, covetousness, wickedness, deceit,
+  lasciviousness, an evil eye, blasphemy, pride, foolishness:</span> </p>
+id: MRK/7/22
+next:
+  id: MRK/7/23
+  number: '23'
+previous:
+  id: MRK/7/21
+  number: '21'
+reference: 'Mark 7:22'

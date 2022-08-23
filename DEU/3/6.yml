@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 3:6" class="v">6</span>And we
+  utterly destroyed them, as we did unto Sihon king of Heshbon, utterly
+  destroying the men, women, and children, of every city. </p>
+id: DEU/3/6
+next:
+  id: DEU/3/7
+  number: '7'
+previous:
+  id: DEU/3/5
+  number: '5'
+reference: 'Deuteronomy 3:6'

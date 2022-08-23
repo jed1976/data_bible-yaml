@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 3:3" class="v">3</span>And he
+  saith unto the man which had the withered hand, <span class="wj">Stand
+  forth.</span> </p>
+id: MRK/3/3
+next:
+  id: MRK/3/4
+  number: '4'
+previous:
+  id: MRK/3/2
+  number: '2'
+reference: 'Mark 3:3'

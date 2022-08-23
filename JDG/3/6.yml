@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 3:6" class="v">6</span>And
+  they took their daughters to be their wives, and gave their daughters to their
+  sons, and served their gods. </p>
+id: JDG/3/6
+next:
+  id: JDG/3/7
+  number: '7'
+previous:
+  id: JDG/3/5
+  number: '5'
+reference: 'Judges 3:6'

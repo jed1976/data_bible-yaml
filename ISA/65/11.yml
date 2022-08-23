@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 65:11" class="v">11</span>¶
+  But ye <span class="add">are</span> they that forsake the <span
+  class="nd">LORD</span>, that forget my holy mountain, that prepare a table for
+  that troop, and that furnish the drink offering unto that number. </p>
+id: ISA/65/11
+next:
+  id: ISA/65/12
+  number: '12'
+previous:
+  id: ISA/65/10
+  number: '10'
+reference: 'Isaiah 65:11'

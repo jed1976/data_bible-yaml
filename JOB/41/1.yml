@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 41:1" class="v">1</span>Canst
+  thou draw out leviathan with an hook? or his tongue with a cord <span
+  class="add">which</span> thou lettest down? </p>
+id: JOB/41/1
+next:
+  id: JOB/41/2
+  number: '2'
+previous:
+  id: JOB/40/24
+  number: '24'
+reference: 'Job 41:1'

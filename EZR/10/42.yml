@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EZR 10:42"
+  class="v">42</span>Shallum, Amariah, <span class="add">and</span> Joseph. </p>
+id: EZR/10/42
+next:
+  id: EZR/10/43
+  number: '43'
+previous:
+  id: EZR/10/41
+  number: '41'
+reference: 'Ezra 10:42'

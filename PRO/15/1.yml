@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 15:1" class="v">1</span>A
+  soft answer turneth away wrath: but grievous words stir up anger. </p>
+id: PRO/15/1
+next:
+  id: PRO/15/2
+  number: '2'
+previous:
+  id: PRO/14/35
+  number: '35'
+reference: 'Proverbs 15:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2SA 18:25"
+  class="v">25</span>And the watchman cried, and told the king. And the king
+  said, If he <span class="add">be</span> alone, <span class="add">there
+  is</span> tidings in his mouth. And he came apace, and drew near. </p>
+id: 2SA/18/25
+next:
+  id: 2SA/18/26
+  number: '26'
+previous:
+  id: 2SA/18/24
+  number: '24'
+reference: '2 Samuel 18:25'

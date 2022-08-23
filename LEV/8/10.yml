@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 8:10" class="v">10</span>And
+  Moses took the anointing oil, and anointed the tabernacle and all that <span
+  class="add">was</span> therein, and sanctified them. </p>
+id: LEV/8/10
+next:
+  id: LEV/8/11
+  number: '11'
+previous:
+  id: LEV/8/9
+  number: '9'
+reference: 'Leviticus 8:10'

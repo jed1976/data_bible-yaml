@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 5:1" class="v">1</span>Now it
+  came to pass on the third day, that Esther put on <span class="add">her</span>
+  royal <span class="add">apparel</span>, and stood in the inner court of the
+  king’s house, over against the king’s house: and the king sat upon his royal
+  throne in the royal house, over against the gate of the house. </p>
+id: EST/5/1
+next:
+  id: EST/5/2
+  number: '2'
+previous:
+  id: EST/4/17
+  number: '17'
+reference: 'Esther 5:1'

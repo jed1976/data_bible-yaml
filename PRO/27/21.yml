@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 27:21"
+  class="v">21</span><span class="add">As</span> the fining pot for silver, and
+  the furnace for gold; so <span class="add">is</span> a man to his praise. </p>
+id: PRO/27/21
+next:
+  id: PRO/27/22
+  number: '22'
+previous:
+  id: PRO/27/20
+  number: '20'
+reference: 'Proverbs 27:21'

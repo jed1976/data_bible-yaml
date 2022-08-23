@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HEB 7:9" class="v">9</span>And as
+  I may so say, Levi also, who receiveth tithes, payed tithes in Abraham. </p>
+id: HEB/7/9
+next:
+  id: HEB/7/10
+  number: '10'
+previous:
+  id: HEB/7/8
+  number: '8'
+reference: 'Hebrews 7:9'

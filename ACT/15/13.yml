@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 15:13" class="v">13</span>¶
+  And after they had held their peace, James answered, saying, Men <span
+  class="add">and</span> brethren, hearken unto me: </p>
+id: ACT/15/13
+next:
+  id: ACT/15/14
+  number: '14'
+previous:
+  id: ACT/15/12
+  number: '12'
+reference: 'Acts 15:13'

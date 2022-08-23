@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LUK 23:56"
+  class="v">56</span>And they returned, and prepared spices and ointments; and
+  rested the sabbath day according to the commandment.</p>
+id: LUK/23/56
+next:
+  id: LUK/24/1
+  number: '1'
+previous:
+  id: LUK/23/55
+  number: '55'
+reference: 'Luke 23:56'

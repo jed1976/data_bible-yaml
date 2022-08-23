@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="GEN 24:37"
+  class="v">37</span>And my master made me swear, saying, Thou shalt not take a
+  wife to my son of the daughters of the Canaanites, in whose land I dwell: </p>
+id: GEN/24/37
+next:
+  id: GEN/24/38
+  number: '38'
+previous:
+  id: GEN/24/36
+  number: '36'
+reference: 'Genesis 24:37'

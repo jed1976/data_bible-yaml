@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 5:7" class="v">7</span>The
+  watchmen that went about the city found me, they smote me, they wounded me;
+  the keepers of the walls took away my veil from me. </p>
+id: SNG/5/7
+next:
+  id: SNG/5/8
+  number: '8'
+previous:
+  id: SNG/5/6
+  number: '6'
+reference: 'Song of Solomon 5:7'

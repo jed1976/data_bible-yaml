@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 26:16" class="v">16</span>¶
+  This day the <span class="nd">LORD</span> thy God hath commanded thee to do
+  these statutes and judgments: thou shalt therefore keep and do them with all
+  thine heart, and with all thy soul. </p>
+id: DEU/26/16
+next:
+  id: DEU/26/17
+  number: '17'
+previous:
+  id: DEU/26/15
+  number: '15'
+reference: 'Deuteronomy 26:16'

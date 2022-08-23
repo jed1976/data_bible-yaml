@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 12:22" class="v">22</span>¶
+  And he said unto his disciples, <span class="wj">Therefore I say unto you,
+  Take no thought for your life, what ye shall eat; neither for the body, what
+  ye shall put on.</span> </p>
+id: LUK/12/22
+next:
+  id: LUK/12/23
+  number: '23'
+previous:
+  id: LUK/12/21
+  number: '21'
+reference: 'Luke 12:22'

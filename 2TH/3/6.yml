@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2TH 3:6" class="v">6</span>Now we
+  command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw
+  yourselves from every brother that walketh disorderly, and not after the
+  tradition which he received of us. </p>
+id: 2TH/3/6
+next:
+  id: 2TH/3/7
+  number: '7'
+previous:
+  id: 2TH/3/5
+  number: '5'
+reference: '2 Thessalonians 3:6'

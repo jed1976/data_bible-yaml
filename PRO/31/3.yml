@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 31:3" class="v">3</span>Give
+  not thy strength unto women, nor thy ways to that which destroyeth kings. </p>
+id: PRO/31/3
+next:
+  id: PRO/31/4
+  number: '4'
+previous:
+  id: PRO/31/2
+  number: '2'
+reference: 'Proverbs 31:3'

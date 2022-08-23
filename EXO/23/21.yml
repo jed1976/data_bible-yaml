@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 23:21"
+  class="v">21</span>Beware of him, and obey his voice, provoke him not; for he
+  will not pardon your transgressions: for my name <span class="add">is</span>
+  in him. </p>
+id: EXO/23/21
+next:
+  id: EXO/23/22
+  number: '22'
+previous:
+  id: EXO/23/20
+  number: '20'
+reference: 'Exodus 23:21'

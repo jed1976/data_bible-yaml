@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 10:9" class="v">9</span>And
+  if ye go to war in your land against the enemy that oppresseth you, then ye
+  shall blow an alarm with the trumpets; and ye shall be remembered before the
+  <span class="nd">LORD</span> your God, and ye shall be saved from your
+  enemies. </p>
+id: NUM/10/9
+next:
+  id: NUM/10/10
+  number: '10'
+previous:
+  id: NUM/10/8
+  number: '8'
+reference: 'Numbers 10:9'

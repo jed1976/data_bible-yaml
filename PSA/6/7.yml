@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 6:7" class="v">7</span>Mine
+  eye is consumed because of grief; it waxeth old because of all mine
+  enemies.</p>
+id: PSA/6/7
+next:
+  id: PSA/6/8
+  number: '8'
+previous:
+  id: PSA/6/6
+  number: '6'
+reference: 'Psalms 6:7'

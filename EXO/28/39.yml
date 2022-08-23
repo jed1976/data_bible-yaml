@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="EXO 28:39" class="v">39</span>¶
+  And thou shalt embroider the coat of fine linen, and thou shalt make the mitre
+  <span class="add">of</span> fine linen, and thou shalt make the girdle <span
+  class="add">of</span> needlework.</p>
+id: EXO/28/39
+next:
+  id: EXO/28/40
+  number: '40'
+previous:
+  id: EXO/28/38
+  number: '38'
+reference: 'Exodus 28:39'

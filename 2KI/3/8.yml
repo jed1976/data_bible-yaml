@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 3:8" class="v">8</span>And he
+  said, Which way shall we go up? And he answered, The way through the
+  wilderness of Edom. </p>
+id: 2KI/3/8
+next:
+  id: 2KI/3/9
+  number: '9'
+previous:
+  id: 2KI/3/7
+  number: '7'
+reference: '2 Kings 3:8'

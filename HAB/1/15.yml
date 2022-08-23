@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HAB 1:15"
+  class="v">15</span>They take up all of them with the angle, they catch them in
+  their net, and gather them in their drag: therefore they rejoice and are glad.
+  </p>
+id: HAB/1/15
+next:
+  id: HAB/1/16
+  number: '16'
+previous:
+  id: HAB/1/14
+  number: '14'
+reference: 'Habakkuk 1:15'

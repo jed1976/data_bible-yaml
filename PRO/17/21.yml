@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 17:21" class="v">21</span>He
+  that begetteth a fool <span class="add">doeth it</span> to his sorrow: and the
+  father of a fool hath no joy. </p>
+id: PRO/17/21
+next:
+  id: PRO/17/22
+  number: '22'
+previous:
+  id: PRO/17/20
+  number: '20'
+reference: 'Proverbs 17:21'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 7:4" class="v">4</span>And
+  the <span class="nd">LORD</span> said unto Gideon, The people <span
+  class="add">are</span> yet <span class="add">too</span> many; bring them down
+  unto the water, and I will try them for thee there: and it shall be, <span
+  class="add">that</span> of whom I say unto thee, This shall go with thee, the
+  same shall go with thee; and of whomsoever I say unto thee, This shall not go
+  with thee, the same shall not go. </p>
+id: JDG/7/4
+next:
+  id: JDG/7/5
+  number: '5'
+previous:
+  id: JDG/7/3
+  number: '3'
+reference: 'Judges 7:4'

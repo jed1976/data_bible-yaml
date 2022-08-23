@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 10:16"
+  class="v">16</span>Therefore shall the Lord, the Lord of hosts, send among his
+  fat ones leanness; and under his glory he shall kindle a burning like the
+  burning of a fire. </p>
+id: ISA/10/16
+next:
+  id: ISA/10/17
+  number: '17'
+previous:
+  id: ISA/10/15
+  number: '15'
+reference: 'Isaiah 10:16'

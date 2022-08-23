@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 3:19" class="v">19</span>¶
+  And I am sure that the king of Egypt will not let you go, no, not by a mighty
+  hand. </p>
+id: EXO/3/19
+next:
+  id: EXO/3/20
+  number: '20'
+previous:
+  id: EXO/3/18
+  number: '18'
+reference: 'Exodus 3:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 55:12"
+  class="v">12</span>For ye shall go out with joy, and be led forth with peace:
+  the mountains and the hills shall break forth before you into singing, and all
+  the trees of the field shall clap <span class="add">their</span> hands. </p>
+id: ISA/55/12
+next:
+  id: ISA/55/13
+  number: '13'
+previous:
+  id: ISA/55/11
+  number: '11'
+reference: 'Isaiah 55:12'

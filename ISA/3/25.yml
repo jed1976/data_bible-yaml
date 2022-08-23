@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 3:25" class="v">25</span>Thy
+  men shall fall by the sword, and thy mighty in the war. </p>
+id: ISA/3/25
+next:
+  id: ISA/3/26
+  number: '26'
+previous:
+  id: ISA/3/24
+  number: '24'
+reference: 'Isaiah 3:25'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LEV 14:36"
+  class="v">36</span>Then the priest shall command that they empty the house,
+  before the priest go <span class="add">into it</span> to see the plague, that
+  all that <span class="add">is</span> in the house be not made unclean: and
+  afterward the priest shall go in to see the house: </p>
+id: LEV/14/36
+next:
+  id: LEV/14/37
+  number: '37'
+previous:
+  id: LEV/14/35
+  number: '35'
+reference: 'Leviticus 14:36'

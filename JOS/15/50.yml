@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="JOS 15:50"
+  class="v">50</span>And Anab, and Eshtemoh, and Anim, </p>
+id: JOS/15/50
+next:
+  id: JOS/15/51
+  number: '51'
+previous:
+  id: JOS/15/49
+  number: '49'
+reference: 'Joshua 15:50'

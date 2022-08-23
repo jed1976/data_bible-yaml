@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 2:21" class="v">21</span>And
+  she said, According unto your words, so <span class="add">be</span> it. And
+  she sent them away, and they departed: and she bound the scarlet line in the
+  window.</p>
+id: JOS/2/21
+next:
+  id: JOS/2/22
+  number: '22'
+previous:
+  id: JOS/2/20
+  number: '20'
+reference: 'Joshua 2:21'

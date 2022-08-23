@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 24:3" class="v">3</span>And
+  Jehoiada took for him two wives; and he begat sons and daughters.</p>
+id: 2CH/24/3
+next:
+  id: 2CH/24/4
+  number: '4'
+previous:
+  id: 2CH/24/2
+  number: '2'
+reference: '2 Chronicles 24:3'

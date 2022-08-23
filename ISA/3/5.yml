@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 3:5" class="v">5</span>And
+  the people shall be oppressed, every one by another, and every one by his
+  neighbour: the child shall behave himself proudly against the ancient, and the
+  base against the honourable. </p>
+id: ISA/3/5
+next:
+  id: ISA/3/6
+  number: '6'
+previous:
+  id: ISA/3/4
+  number: '4'
+reference: 'Isaiah 3:5'

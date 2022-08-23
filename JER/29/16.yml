@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 29:16"
+  class="v">16</span><span class="add">Know</span> that thus saith the <span
+  class="nd">LORD</span> of the king that sitteth upon the throne of David, and
+  of all the people that dwelleth in this city, <span class="add">and</span> of
+  your brethren that are not gone forth with you into captivity; </p>
+id: JER/29/16
+next:
+  id: JER/29/17
+  number: '17'
+previous:
+  id: JER/29/15
+  number: '15'
+reference: 'Jeremiah 29:16'

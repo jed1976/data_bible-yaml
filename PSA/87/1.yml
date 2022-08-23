@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm <span class="add">or</span> Song for the sons of
+  Korah.</p><p class="q1"><span data-number="1" data-sid="PSA 87:1"
+  class="v">1</span>His foundation <span class="add">is</span> in the holy
+  mountains.</p>
+id: PSA/87/1
+next:
+  id: PSA/87/2
+  number: '2'
+previous:
+  id: PSA/86/17
+  number: '17'
+reference: 'Psalms 87:1'

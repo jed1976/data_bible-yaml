@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 64:12"
+  class="v">12</span>Wilt thou refrain thyself for these <span
+  class="add">things</span>, O <span class="nd">LORD</span>? wilt thou hold thy
+  peace, and afflict us very sore?</p>
+id: ISA/64/12
+next:
+  id: ISA/65/1
+  number: '1'
+previous:
+  id: ISA/64/11
+  number: '11'
+reference: 'Isaiah 64:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 6:15"
+  class="v">15</span>Thou which hast kept with thy servant David my father that
+  which thou hast promised him; and spakest with thy mouth, and hast fulfilled
+  <span class="add">it</span> with thine hand, as <span class="add">it is</span>
+  this day. </p>
+id: 2CH/6/15
+next:
+  id: 2CH/6/16
+  number: '16'
+previous:
+  id: 2CH/6/14
+  number: '14'
+reference: '2 Chronicles 6:15'

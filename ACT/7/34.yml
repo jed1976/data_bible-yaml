@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 7:34" class="v">34</span>I
+  have seen, I have seen the affliction of my people which is in Egypt, and I
+  have heard their groaning, and am come down to deliver them. And now come, I
+  will send thee into Egypt. </p>
+id: ACT/7/34
+next:
+  id: ACT/7/35
+  number: '35'
+previous:
+  id: ACT/7/33
+  number: '33'
+reference: 'Acts 7:34'

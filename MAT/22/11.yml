@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 22:11"
+  class="v">11</span><span class="wj">¶ And when the king came in to see the
+  guests, he saw there a man which had not on a wedding garment:</span> </p>
+id: MAT/22/11
+next:
+  id: MAT/22/12
+  number: '12'
+previous:
+  id: MAT/22/10
+  number: '10'
+reference: 'Matthew 22:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 8:40" class="v">40</span>But
+  Philip was found at Azotus: and passing through he preached in all the cities,
+  till he came to Cæsarea.</p>
+id: ACT/8/40
+next:
+  id: ACT/9/1
+  number: '1'
+previous:
+  id: ACT/8/39
+  number: '39'
+reference: 'Acts 8:40'

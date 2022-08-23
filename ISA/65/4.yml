@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 65:4" class="v">4</span>Which
+  remain among the graves, and lodge in the monuments, which eat swine’s flesh,
+  and broth of abominable <span class="add">things is in</span> their vessels;
+  </p>
+id: ISA/65/4
+next:
+  id: ISA/65/5
+  number: '5'
+previous:
+  id: ISA/65/3
+  number: '3'
+reference: 'Isaiah 65:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GAL 1:3" class="v">3</span>Grace
+  <span class="add">be</span> to you and peace from God the Father, and <span
+  class="add">from</span> our Lord Jesus Christ, </p>
+id: GAL/1/3
+next:
+  id: GAL/1/4
+  number: '4'
+previous:
+  id: GAL/1/2
+  number: '2'
+reference: 'Galatians 1:3'

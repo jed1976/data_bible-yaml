@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 8:5" class="v">5</span>And
+  the streets of the city shall be full of boys and girls playing in the streets
+  thereof. </p>
+id: ZEC/8/5
+next:
+  id: ZEC/8/6
+  number: '6'
+previous:
+  id: ZEC/8/4
+  number: '4'
+reference: 'Zechariah 8:5'

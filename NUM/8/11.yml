@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 8:11" class="v">11</span>And
+  Aaron shall offer the Levites before the <span class="nd">LORD</span> <span
+  class="add">for</span> an offering of the children of Israel, that they may
+  execute the service of the <span class="nd">LORD</span>. </p>
+id: NUM/8/11
+next:
+  id: NUM/8/12
+  number: '12'
+previous:
+  id: NUM/8/10
+  number: '10'
+reference: 'Numbers 8:11'

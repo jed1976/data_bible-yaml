@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 40:9" class="v">9</span>Hast
+  thou an arm like God? or canst thou thunder with a voice like him? </p>
+id: JOB/40/9
+next:
+  id: JOB/40/10
+  number: '10'
+previous:
+  id: JOB/40/8
+  number: '8'
+reference: 'Job 40:9'

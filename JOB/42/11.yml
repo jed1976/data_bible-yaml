@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 42:11"
+  class="v">11</span>Then came there unto him all his brethren, and all his
+  sisters, and all they that had been of his acquaintance before, and did eat
+  bread with him in his house: and they bemoaned him, and comforted him over all
+  the evil that the <span class="nd">LORD</span> had brought upon him: every man
+  also gave him a piece of money, and every one an earring of gold. </p>
+id: JOB/42/11
+next:
+  id: JOB/42/12
+  number: '12'
+previous:
+  id: JOB/42/10
+  number: '10'
+reference: 'Job 42:11'

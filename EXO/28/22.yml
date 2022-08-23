@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 28:22" class="v">22</span>¶
+  And thou shalt make upon the breastplate chains at the ends <span
+  class="add">of</span> wreathen work <span class="add">of</span> pure gold.
+  </p>
+id: EXO/28/22
+next:
+  id: EXO/28/23
+  number: '23'
+previous:
+  id: EXO/28/21
+  number: '21'
+reference: 'Exodus 28:22'

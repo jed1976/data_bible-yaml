@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 19:5" class="v">5</span>Then
+  came Jesus forth, wearing the crown of thorns, and the purple robe. And <span
+  class="add">Pilate</span> saith unto them, Behold the man! </p>
+id: JHN/19/5
+next:
+  id: JHN/19/6
+  number: '6'
+previous:
+  id: JHN/19/4
+  number: '4'
+reference: 'John 19:5'

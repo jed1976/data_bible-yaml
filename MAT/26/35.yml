@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 26:35"
+  class="v">35</span>Peter said unto him, Though I should die with thee, yet
+  will I not deny thee. Likewise also said all the disciples.</p>
+id: MAT/26/35
+next:
+  id: MAT/26/36
+  number: '36'
+previous:
+  id: MAT/26/34
+  number: '34'
+reference: 'Matthew 26:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 7:10" class="v">10</span>He
+  shall return no more to his house, neither shall his place know him any more.
+  </p>
+id: JOB/7/10
+next:
+  id: JOB/7/11
+  number: '11'
+previous:
+  id: JOB/7/9
+  number: '9'
+reference: 'Job 7:10'

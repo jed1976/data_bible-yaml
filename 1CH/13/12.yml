@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CH 13:12"
+  class="v">12</span>And David was afraid of God that day, saying, How shall I
+  bring the ark of God <span class="add">home</span> to me? </p>
+id: 1CH/13/12
+next:
+  id: 1CH/13/13
+  number: '13'
+previous:
+  id: 1CH/13/11
+  number: '11'
+reference: '1 Chronicles 13:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 38:25"
+  class="v">25</span>And the silver of them that were numbered of the
+  congregation <span class="add">was</span> an hundred talents, and a thousand
+  seven hundred and threescore and fifteen shekels, after the shekel of the
+  sanctuary: </p>
+id: EXO/38/25
+next:
+  id: EXO/38/26
+  number: '26'
+previous:
+  id: EXO/38/24
+  number: '24'
+reference: 'Exodus 38:25'

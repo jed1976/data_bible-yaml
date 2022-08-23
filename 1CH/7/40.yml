@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="1CH 7:40" class="v">40</span>All
+  these <span class="add">were</span> the children of Asher, heads of <span
+  class="add">their</span> father’s house, choice <span class="add">and</span>
+  mighty men of valour, chief of the princes. And the number throughout the
+  genealogy of them that were apt to the war <span class="add">and</span> to
+  battle <span class="add">was</span> twenty and six thousand men.</p>
+id: 1CH/7/40
+next:
+  id: 1CH/8/1
+  number: '1'
+previous:
+  id: 1CH/7/39
+  number: '39'
+reference: '1 Chronicles 7:40'

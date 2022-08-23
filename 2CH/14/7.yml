@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 14:7"
+  class="v">7</span>Therefore he said unto Judah, Let us build these cities, and
+  make about <span class="add">them</span> walls, and towers, gates, and bars,
+  <span class="add">while</span> the land <span class="add">is</span> yet before
+  us; because we have sought the <span class="nd">LORD</span> our God, we have
+  sought <span class="add">him</span>, and he hath given us rest on every side.
+  So they built and prospered. </p>
+id: 2CH/14/7
+next:
+  id: 2CH/14/8
+  number: '8'
+previous:
+  id: 2CH/14/6
+  number: '6'
+reference: '2 Chronicles 14:7'

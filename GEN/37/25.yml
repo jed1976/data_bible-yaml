@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 37:25"
+  class="v">25</span>And they sat down to eat bread: and they lifted up their
+  eyes and looked, and, behold, a company of Ishmeelites came from Gilead with
+  their camels bearing spicery and balm and myrrh, going to carry <span
+  class="add">it</span> down to Egypt. </p>
+id: GEN/37/25
+next:
+  id: GEN/37/26
+  number: '26'
+previous:
+  id: GEN/37/24
+  number: '24'
+reference: 'Genesis 37:25'

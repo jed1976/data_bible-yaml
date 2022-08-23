@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GAL 3:29" class="v">29</span>And
+  if ye <span class="add">be</span> Christ’s, then are ye Abraham’s seed, and
+  heirs according to the promise.</p>
+id: GAL/3/29
+next:
+  id: GAL/4/1
+  number: '1'
+previous:
+  id: GAL/3/28
+  number: '28'
+reference: 'Galatians 3:29'

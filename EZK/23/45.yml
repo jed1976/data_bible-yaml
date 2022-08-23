@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="EZK 23:45" class="v">45</span>¶
+  And the righteous men, they shall judge them after the manner of adulteresses,
+  and after the manner of women that shed blood; because they <span
+  class="add">are</span> adulteresses, and blood <span class="add">is</span> in
+  their hands. </p>
+id: EZK/23/45
+next:
+  id: EZK/23/46
+  number: '46'
+previous:
+  id: EZK/23/44
+  number: '44'
+reference: 'Ezekiel 23:45'

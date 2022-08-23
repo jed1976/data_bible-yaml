@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="AMO 5:23"
+  class="v">23</span>Take thou away from me the noise of thy songs; for I will
+  not hear the melody of thy viols. </p>
+id: AMO/5/23
+next:
+  id: AMO/5/24
+  number: '24'
+previous:
+  id: AMO/5/22
+  number: '22'
+reference: 'Amos 5:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 33:4" class="v">4</span>And
+  your spoil shall be gathered <span class="add">like</span> the gathering of
+  the caterpiller: as the running to and fro of locusts shall he run upon them.
+  </p>
+id: ISA/33/4
+next:
+  id: ISA/33/5
+  number: '5'
+previous:
+  id: ISA/33/3
+  number: '3'
+reference: 'Isaiah 33:4'

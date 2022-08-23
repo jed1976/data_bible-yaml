@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 52:3" class="v">3</span>For
+  thus saith the <span class="nd">LORD</span>, Ye have sold yourselves for
+  nought; and ye shall be redeemed without money. </p>
+id: ISA/52/3
+next:
+  id: ISA/52/4
+  number: '4'
+previous:
+  id: ISA/52/2
+  number: '2'
+reference: 'Isaiah 52:3'

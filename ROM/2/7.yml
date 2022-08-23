@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 2:7" class="v">7</span>To
+  them who by patient continuance in well doing seek for glory and honour and
+  immortality, eternal life: </p>
+id: ROM/2/7
+next:
+  id: ROM/2/8
+  number: '8'
+previous:
+  id: ROM/2/6
+  number: '6'
+reference: 'Romans 2:7'

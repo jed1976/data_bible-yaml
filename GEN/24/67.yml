@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="67" data-sid="GEN 24:67"
+  class="v">67</span>And Isaac brought her into his mother Sarah’s tent, and
+  took Rebekah, and she became his wife; and he loved her: and Isaac was
+  comforted after his mother’s <span class="add">death</span>.</p>
+id: GEN/24/67
+next:
+  id: GEN/25/1
+  number: '1'
+previous:
+  id: GEN/24/66
+  number: '66'
+reference: 'Genesis 24:67'

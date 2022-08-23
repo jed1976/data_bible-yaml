@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 6:1" class="v">1</span>And it
+  came to pass in the four hundred and eightieth year after the children of
+  Israel were come out of the land of Egypt, in the fourth year of Solomon’s
+  reign over Israel, in the month Zif, which <span class="add">is</span> the
+  second month, that he began to build the house of the <span
+  class="nd">LORD</span>. </p>
+id: 1KI/6/1
+next:
+  id: 1KI/6/2
+  number: '2'
+previous:
+  id: 1KI/5/18
+  number: '18'
+reference: '1 Kings 6:1'

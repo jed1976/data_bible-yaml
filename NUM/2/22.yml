@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 2:22"
+  class="v">22</span>Then the tribe of Benjamin: and the captain of the sons of
+  Benjamin <span class="add">shall be</span> Abidan the son of Gideoni. </p>
+id: NUM/2/22
+next:
+  id: NUM/2/23
+  number: '23'
+previous:
+  id: NUM/2/21
+  number: '21'
+reference: 'Numbers 2:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 18:15"
+  class="v">15</span><span class="wj">¶ Moreover if thy brother shall trespass
+  against thee, go and tell him his fault between thee and him alone: if he
+  shall hear thee, thou hast gained thy brother.</span> </p>
+id: MAT/18/15
+next:
+  id: MAT/18/16
+  number: '16'
+previous:
+  id: MAT/18/14
+  number: '14'
+reference: 'Matthew 18:15'

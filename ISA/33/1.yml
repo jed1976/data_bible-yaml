@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 33:1" class="v">1</span>Woe
+  to thee that spoilest, and thou <span class="add">wast</span> not spoiled; and
+  dealest treacherously, and they dealt not treacherously with thee! when thou
+  shalt cease to spoil, thou shalt be spoiled; <span class="add">and</span> when
+  thou shalt make an end to deal treacherously, they shall deal treacherously
+  with thee. </p>
+id: ISA/33/1
+next:
+  id: ISA/33/2
+  number: '2'
+previous:
+  id: ISA/32/20
+  number: '20'
+reference: 'Isaiah 33:1'

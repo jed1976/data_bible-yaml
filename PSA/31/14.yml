@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 31:14"
+  class="v">14</span>But I trusted in thee, O <span class="nd">LORD</span>: I
+  said, Thou <span class="add">art</span> my God.</p>
+id: PSA/31/14
+next:
+  id: PSA/31/15
+  number: '15'
+previous:
+  id: PSA/31/13
+  number: '13'
+reference: 'Psalms 31:14'

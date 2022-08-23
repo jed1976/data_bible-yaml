@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 25:1" class="v">1</span><span
+  class="wj">Then shall the kingdom of heaven be likened unto ten virgins, which
+  took their lamps, and went forth to meet the bridegroom.</span> </p>
+id: MAT/25/1
+next:
+  id: MAT/25/2
+  number: '2'
+previous:
+  id: MAT/24/51
+  number: '51'
+reference: 'Matthew 25:1'

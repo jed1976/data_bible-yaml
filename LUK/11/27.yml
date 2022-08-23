@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 11:27" class="v">27</span>¶
+  And it came to pass, as he spake these things, a certain woman of the company
+  lifted up her voice, and said unto him, Blessed <span class="add">is</span>
+  the womb that bare thee, and the paps which thou hast sucked. </p>
+id: LUK/11/27
+next:
+  id: LUK/11/28
+  number: '28'
+previous:
+  id: LUK/11/26
+  number: '26'
+reference: 'Luke 11:27'

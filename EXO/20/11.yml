@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 20:11"
+  class="v">11</span>For <span class="add">in</span> six days the <span
+  class="nd">LORD</span> made heaven and earth, the sea, and all that in them
+  <span class="add">is</span>, and rested the seventh day: wherefore the <span
+  class="nd">LORD</span> blessed the sabbath day, and hallowed it.</p>
+id: EXO/20/11
+next:
+  id: EXO/20/12
+  number: '12'
+previous:
+  id: EXO/20/10
+  number: '10'
+reference: 'Exodus 20:11'

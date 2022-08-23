@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 122:6"
+  class="v">6</span>Pray for the peace of Jerusalem: they shall prosper that
+  love thee.</p>
+id: PSA/122/6
+next:
+  id: PSA/122/7
+  number: '7'
+previous:
+  id: PSA/122/5
+  number: '5'
+reference: 'Psalms 122:6'

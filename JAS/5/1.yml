@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JAS 5:1" class="v">1</span>Go to
+  now, <span class="add">ye</span> rich men, weep and howl for your miseries
+  that shall come upon <span class="add">you</span>. </p>
+id: JAS/5/1
+next:
+  id: JAS/5/2
+  number: '2'
+previous:
+  id: JAS/4/17
+  number: '17'
+reference: 'James 5:1'

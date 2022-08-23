@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JER 25:26"
+  class="v">26</span>And all the kings of the north, far and near, one with
+  another, and all the kingdoms of the world, which <span class="add">are</span>
+  upon the face of the earth: and the king of Sheshach shall drink after them.
+  </p>
+id: JER/25/26
+next:
+  id: JER/25/27
+  number: '27'
+previous:
+  id: JER/25/25
+  number: '25'
+reference: 'Jeremiah 25:26'

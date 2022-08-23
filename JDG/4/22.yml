@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 4:22"
+  class="v">22</span>And, behold, as Barak pursued Sisera, Jael came out to meet
+  him, and said unto him, Come, and I will shew thee the man whom thou seekest.
+  And when he came into her <span class="add">tent</span>, behold, Sisera lay
+  dead, and the nail <span class="add">was</span> in his temples. </p>
+id: JDG/4/22
+next:
+  id: JDG/4/23
+  number: '23'
+previous:
+  id: JDG/4/21
+  number: '21'
+reference: 'Judges 4:22'

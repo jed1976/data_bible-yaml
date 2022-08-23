@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 46:5" class="v">5</span>And
+  Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their
+  father, and their little ones, and their wives, in the wagons which Pharaoh
+  had sent to carry him. </p>
+id: GEN/46/5
+next:
+  id: GEN/46/6
+  number: '6'
+previous:
+  id: GEN/46/4
+  number: '4'
+reference: 'Genesis 46:5'

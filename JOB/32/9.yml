@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 32:9" class="v">9</span>Great
+  men are not <span class="add">always</span> wise: neither do the aged
+  understand judgment. </p>
+id: JOB/32/9
+next:
+  id: JOB/32/10
+  number: '10'
+previous:
+  id: JOB/32/8
+  number: '8'
+reference: 'Job 32:9'

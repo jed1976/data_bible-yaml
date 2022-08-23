@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 11:29"
+  class="v">29</span>And Moses said unto him, Enviest thou for my sake? would
+  God that all the <span class="nd">LORD’s</span> people were prophets, <span
+  class="add">and</span> that the <span class="nd">LORD</span> would put his
+  spirit upon them! </p>
+id: NUM/11/29
+next:
+  id: NUM/11/30
+  number: '30'
+previous:
+  id: NUM/11/28
+  number: '28'
+reference: 'Numbers 11:29'

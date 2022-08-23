@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 10:29"
+  class="v">29</span>But he, willing to justify himself, said unto Jesus, And
+  who is my neighbour? </p>
+id: LUK/10/29
+next:
+  id: LUK/10/30
+  number: '30'
+previous:
+  id: LUK/10/28
+  number: '28'
+reference: 'Luke 10:29'

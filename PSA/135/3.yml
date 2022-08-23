@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 135:3"
+  class="v">3</span>Praise the <span class="nd">LORD</span>; for the <span
+  class="nd">LORD</span> <span class="add">is</span> good: sing praises unto his
+  name; for <span class="add">it is</span> pleasant.</p>
+id: PSA/135/3
+next:
+  id: PSA/135/4
+  number: '4'
+previous:
+  id: PSA/135/2
+  number: '2'
+reference: 'Psalms 135:3'

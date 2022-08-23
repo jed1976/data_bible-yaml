@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 30:3" class="v">3</span>And
+  she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my
+  knees, that I may also have children by her. </p>
+id: GEN/30/3
+next:
+  id: GEN/30/4
+  number: '4'
+previous:
+  id: GEN/30/2
+  number: '2'
+reference: 'Genesis 30:3'

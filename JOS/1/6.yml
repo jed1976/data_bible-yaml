@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 1:6" class="v">6</span>Be
+  strong and of a good courage: for unto this people shalt thou divide for an
+  inheritance the land, which I sware unto their fathers to give them. </p>
+id: JOS/1/6
+next:
+  id: JOS/1/7
+  number: '7'
+previous:
+  id: JOS/1/5
+  number: '5'
+reference: 'Joshua 1:6'

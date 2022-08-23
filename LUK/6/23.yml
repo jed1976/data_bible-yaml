@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 6:23"
+  class="v">23</span><span class="wj">Rejoice ye in that day, and leap for joy:
+  for, behold, your reward <span class="add">is</span> great in heaven: for in
+  the like manner did their fathers unto the prophets.</span> </p>
+id: LUK/6/23
+next:
+  id: LUK/6/24
+  number: '24'
+previous:
+  id: LUK/6/22
+  number: '22'
+reference: 'Luke 6:23'

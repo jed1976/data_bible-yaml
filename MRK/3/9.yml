@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 3:9" class="v">9</span>And he
+  spake to his disciples, that a small ship should wait on him because of the
+  multitude, lest they should throng him. </p>
+id: MRK/3/9
+next:
+  id: MRK/3/10
+  number: '10'
+previous:
+  id: MRK/3/8
+  number: '8'
+reference: 'Mark 3:9'

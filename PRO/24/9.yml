@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 24:9" class="v">9</span>The
+  thought of foolishness <span class="add">is</span> sin: and the scorner <span
+  class="add">is</span> an abomination to men. </p>
+id: PRO/24/9
+next:
+  id: PRO/24/10
+  number: '10'
+previous:
+  id: PRO/24/8
+  number: '8'
+reference: 'Proverbs 24:9'

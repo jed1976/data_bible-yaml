@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 41:10" class="v">10</span>¶
+  Fear thou not; for I <span class="add">am</span> with thee: be not dismayed;
+  for I <span class="add">am</span> thy God: I will strengthen thee; yea, I will
+  help thee; yea, I will uphold thee with the right hand of my righteousness.
+  </p>
+id: ISA/41/10
+next:
+  id: ISA/41/11
+  number: '11'
+previous:
+  id: ISA/41/9
+  number: '9'
+reference: 'Isaiah 41:10'

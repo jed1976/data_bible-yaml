@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ROM 2:27" class="v">27</span>And
+  shall not uncircumcision which is by nature, if it fulfil the law, judge thee,
+  who by the letter and circumcision dost transgress the law? </p>
+id: ROM/2/27
+next:
+  id: ROM/2/28
+  number: '28'
+previous:
+  id: ROM/2/26
+  number: '26'
+reference: 'Romans 2:27'

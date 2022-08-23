@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2SA 23:19"
+  class="v">19</span>Was he not most honourable of three? therefore he was their
+  captain: howbeit he attained not unto the <span class="add">first</span>
+  three. </p>
+id: 2SA/23/19
+next:
+  id: 2SA/23/20
+  number: '20'
+previous:
+  id: 2SA/23/18
+  number: '18'
+reference: '2 Samuel 23:19'

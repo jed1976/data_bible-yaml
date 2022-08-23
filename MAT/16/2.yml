@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAT 16:2" class="v">2</span>He
+  answered and said unto them, <span class="wj">When it is evening, ye say,
+  <span class="add">It will be</span> fair weather: for the sky is red.</span>
+  </p>
+id: MAT/16/2
+next:
+  id: MAT/16/3
+  number: '3'
+previous:
+  id: MAT/16/1
+  number: '1'
+reference: 'Matthew 16:2'

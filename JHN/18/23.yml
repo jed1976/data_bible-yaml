@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 18:23"
+  class="v">23</span>Jesus answered him, <span class="wj">If I have spoken evil,
+  bear witness of the evil: but if well, why smitest thou me?</span> </p>
+id: JHN/18/23
+next:
+  id: JHN/18/24
+  number: '24'
+previous:
+  id: JHN/18/22
+  number: '22'
+reference: 'John 18:23'

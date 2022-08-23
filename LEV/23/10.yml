@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 23:10"
+  class="v">10</span>Speak unto the children of Israel, and say unto them, When
+  ye be come into the land which I give unto you, and shall reap the harvest
+  thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto
+  the priest: </p>
+id: LEV/23/10
+next:
+  id: LEV/23/11
+  number: '11'
+previous:
+  id: LEV/23/9
+  number: '9'
+reference: 'Leviticus 23:10'

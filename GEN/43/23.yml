@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 43:23"
+  class="v">23</span>And he said, Peace <span class="add">be</span> to you, fear
+  not: your God, and the God of your father, hath given you treasure in your
+  sacks: I had your money. And he brought Simeon out unto them. </p>
+id: GEN/43/23
+next:
+  id: GEN/43/24
+  number: '24'
+previous:
+  id: GEN/43/22
+  number: '22'
+reference: 'Genesis 43:23'

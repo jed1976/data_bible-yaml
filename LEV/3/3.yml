@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 3:3" class="v">3</span>And he
+  shall offer of the sacrifice of the peace offering an offering made by fire
+  unto the <span class="nd">LORD</span>; the fat that covereth the inwards, and
+  all the fat that <span class="add">is</span> upon the inwards, </p>
+id: LEV/3/3
+next:
+  id: LEV/3/4
+  number: '4'
+previous:
+  id: LEV/3/2
+  number: '2'
+reference: 'Leviticus 3:3'

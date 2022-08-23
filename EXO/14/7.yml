@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 14:7" class="v">7</span>And
+  he took six hundred chosen chariots, and all the chariots of Egypt, and
+  captains over every one of them. </p>
+id: EXO/14/7
+next:
+  id: EXO/14/8
+  number: '8'
+previous:
+  id: EXO/14/6
+  number: '6'
+reference: 'Exodus 14:7'

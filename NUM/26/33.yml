@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 26:33" class="v">33</span>¶
+  And Zelophehad the son of Hepher had no sons, but daughters: and the names of
+  the daughters of Zelophehad <span class="add">were</span> Mahlah, and Noah,
+  Hoglah, Milcah, and Tirzah. </p>
+id: NUM/26/33
+next:
+  id: NUM/26/34
+  number: '34'
+previous:
+  id: NUM/26/32
+  number: '32'
+reference: 'Numbers 26:33'

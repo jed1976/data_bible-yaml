@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 18:23"
+  class="v">23</span>But the Levites shall do the service of the tabernacle of
+  the congregation, and they shall bear their iniquity: <span class="add">it
+  shall be</span> a statute for ever throughout your generations, that among the
+  children of Israel they have no inheritance. </p>
+id: NUM/18/23
+next:
+  id: NUM/18/24
+  number: '24'
+previous:
+  id: NUM/18/22
+  number: '22'
+reference: 'Numbers 18:23'

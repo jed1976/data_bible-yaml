@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 21:15"
+  class="v">15</span>And after those days we took up our carriages, and went up
+  to Jerusalem. </p>
+id: ACT/21/15
+next:
+  id: ACT/21/16
+  number: '16'
+previous:
+  id: ACT/21/14
+  number: '14'
+reference: 'Acts 21:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 135:18"
+  class="v">18</span>They that make them are like unto them: <span
+  class="add">so is</span> every one that trusteth in them.</p>
+id: PSA/135/18
+next:
+  id: PSA/135/19
+  number: '19'
+previous:
+  id: PSA/135/17
+  number: '17'
+reference: 'Psalms 135:18'

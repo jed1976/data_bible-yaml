@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 26:45"
+  class="v">45</span>Then cometh he to his disciples, and saith unto them, <span
+  class="wj">Sleep on now, and take your rest: behold, the hour is at hand, and
+  the Son of man is betrayed into the hands of sinners.</span> </p>
+id: MAT/26/45
+next:
+  id: MAT/26/46
+  number: '46'
+previous:
+  id: MAT/26/44
+  number: '44'
+reference: 'Matthew 26:45'

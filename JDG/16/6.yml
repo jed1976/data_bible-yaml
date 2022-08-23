@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 16:6" class="v">6</span>¶ And
+  Delilah said to Samson, Tell me, I pray thee, wherein thy great strength <span
+  class="add">lieth</span>, and wherewith thou mightest be bound to afflict
+  thee. </p>
+id: JDG/16/6
+next:
+  id: JDG/16/7
+  number: '7'
+previous:
+  id: JDG/16/5
+  number: '5'
+reference: 'Judges 16:6'

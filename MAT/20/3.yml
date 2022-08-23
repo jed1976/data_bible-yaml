@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 20:3" class="v">3</span><span
+  class="wj">And he went out about the third hour, and saw others standing idle
+  in the marketplace,</span> </p>
+id: MAT/20/3
+next:
+  id: MAT/20/4
+  number: '4'
+previous:
+  id: MAT/20/2
+  number: '2'
+reference: 'Matthew 20:3'

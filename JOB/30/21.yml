@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 30:21"
+  class="v">21</span>Thou art become cruel to me: with thy strong hand thou
+  opposest thyself against me. </p>
+id: JOB/30/21
+next:
+  id: JOB/30/22
+  number: '22'
+previous:
+  id: JOB/30/20
+  number: '20'
+reference: 'Job 30:21'

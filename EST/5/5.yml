@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 5:5" class="v">5</span>Then
+  the king said, Cause Haman to make haste, that he may do as Esther hath said.
+  So the king and Haman came to the banquet that Esther had prepared.</p>
+id: EST/5/5
+next:
+  id: EST/5/6
+  number: '6'
+previous:
+  id: EST/5/4
+  number: '4'
+reference: 'Esther 5:5'

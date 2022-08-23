@@ -1,0 +1,12 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 25:1" class="v">1</span>Unto thee, O <span
+  class="nd">LORD</span>, do I lift up my soul.</p>
+id: PSA/25/1
+next:
+  id: PSA/25/2
+  number: '2'
+previous:
+  id: PSA/24/10
+  number: '10'
+reference: 'Psalms 25:1'

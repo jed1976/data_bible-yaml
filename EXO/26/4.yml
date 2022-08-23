@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 26:4" class="v">4</span>And
+  thou shalt make loops of blue upon the edge of the one curtain from the
+  selvedge in the coupling; and likewise shalt thou make in the uttermost edge
+  of <span class="add">another</span> curtain, in the coupling of the second.
+  </p>
+id: EXO/26/4
+next:
+  id: EXO/26/5
+  number: '5'
+previous:
+  id: EXO/26/3
+  number: '3'
+reference: 'Exodus 26:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 20:3" class="v">3</span>And
+  the people chode with Moses, and spake, saying, Would God that we had died
+  when our brethren died before the <span class="nd">LORD</span>! </p>
+id: NUM/20/3
+next:
+  id: NUM/20/4
+  number: '4'
+previous:
+  id: NUM/20/2
+  number: '2'
+reference: 'Numbers 20:3'

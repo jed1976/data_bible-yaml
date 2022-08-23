@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 23:33"
+  class="v">33</span>Thine eyes shall behold strange women, and thine heart
+  shall utter perverse things. </p>
+id: PRO/23/33
+next:
+  id: PRO/23/34
+  number: '34'
+previous:
+  id: PRO/23/32
+  number: '32'
+reference: 'Proverbs 23:33'

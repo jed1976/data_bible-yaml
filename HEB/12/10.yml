@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 12:10"
+  class="v">10</span>For they verily for a few days chastened <span
+  class="add">us</span> after their own pleasure; but he for <span
+  class="add">our</span> profit, that <span class="add">we</span> might be
+  partakers of his holiness. </p>
+id: HEB/12/10
+next:
+  id: HEB/12/11
+  number: '11'
+previous:
+  id: HEB/12/9
+  number: '9'
+reference: 'Hebrews 12:10'

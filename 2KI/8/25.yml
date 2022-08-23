@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2KI 8:25" class="v">25</span>¶
+  In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the
+  son of Jehoram king of Judah begin to reign. </p>
+id: 2KI/8/25
+next:
+  id: 2KI/8/26
+  number: '26'
+previous:
+  id: 2KI/8/24
+  number: '24'
+reference: '2 Kings 8:25'

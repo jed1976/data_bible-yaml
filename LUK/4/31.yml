@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 4:31" class="v">31</span>And
+  came down to Capernaum, a city of Galilee, and taught them on the sabbath
+  days. </p>
+id: LUK/4/31
+next:
+  id: LUK/4/32
+  number: '32'
+previous:
+  id: LUK/4/30
+  number: '30'
+reference: 'Luke 4:31'

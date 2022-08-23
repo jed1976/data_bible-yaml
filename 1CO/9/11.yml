@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CO 9:11" class="v">11</span>If
+  we have sown unto you spiritual things, <span class="add">is it</span> a great
+  thing if we shall reap your carnal things? </p>
+id: 1CO/9/11
+next:
+  id: 1CO/9/12
+  number: '12'
+previous:
+  id: 1CO/9/10
+  number: '10'
+reference: '1 Corinthians 9:11'

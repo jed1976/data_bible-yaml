@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 10:5"
+  class="v">5</span>Wherefore when he cometh into the world, he saith, Sacrifice
+  and offering thou wouldest not, but a body hast thou prepared me: </p>
+id: HEB/10/5
+next:
+  id: HEB/10/6
+  number: '6'
+previous:
+  id: HEB/10/4
+  number: '4'
+reference: 'Hebrews 10:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JAS 4:13" class="v">13</span>Go
+  to now, ye that say, To day or to morrow we will go into such a city, and
+  continue there a year, and buy and sell, and get gain: </p>
+id: JAS/4/13
+next:
+  id: JAS/4/14
+  number: '14'
+previous:
+  id: JAS/4/12
+  number: '12'
+reference: 'James 4:13'

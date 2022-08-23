@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 18:11"
+  class="v">11</span>And all the prophets prophesied so, saying, Go up to
+  Ramoth-gilead, and prosper: for the <span class="nd">LORD</span> shall deliver
+  <span class="add">it</span> into the hand of the king. </p>
+id: 2CH/18/11
+next:
+  id: 2CH/18/12
+  number: '12'
+previous:
+  id: 2CH/18/10
+  number: '10'
+reference: '2 Chronicles 18:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="87" data-sid="NUM 7:87" class="v">87</span>All
+  the oxen for the burnt offering <span class="add">were</span> twelve bullocks,
+  the rams twelve, the lambs of the first year twelve, with their meat offering:
+  and the kids of the goats for sin offering twelve. </p>
+id: NUM/7/87
+next:
+  id: NUM/7/88
+  number: '88'
+previous:
+  id: NUM/7/86
+  number: '86'
+reference: 'Numbers 7:87'

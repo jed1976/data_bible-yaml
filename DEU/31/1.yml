@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 31:1" class="v">1</span>And
+  Moses went and spake these words unto all Israel. </p>
+id: DEU/31/1
+next:
+  id: DEU/31/2
+  number: '2'
+previous:
+  id: DEU/30/20
+  number: '20'
+reference: 'Deuteronomy 31:1'

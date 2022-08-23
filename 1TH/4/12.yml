@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1TH 4:12"
+  class="v">12</span>That ye may walk honestly toward them that are without, and
+  <span class="add">that</span> ye may have lack of nothing.</p>
+id: 1TH/4/12
+next:
+  id: 1TH/4/13
+  number: '13'
+previous:
+  id: 1TH/4/11
+  number: '11'
+reference: '1 Thessalonians 4:12'

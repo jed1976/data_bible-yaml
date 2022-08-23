@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 26:11"
+  class="v">11</span>And thou shalt make fifty taches of brass, and put the
+  taches into the loops, and couple the tent together, that it may be one. </p>
+id: EXO/26/11
+next:
+  id: EXO/26/12
+  number: '12'
+previous:
+  id: EXO/26/10
+  number: '10'
+reference: 'Exodus 26:11'

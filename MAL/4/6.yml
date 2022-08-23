@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAL 4:6" class="v">6</span>And he
+  shall turn the heart of the fathers to the children, and the heart of the
+  children to their fathers, lest I come and smite the earth with a curse.</p>
+id: MAL/4/6
+next:
+  id: MAT/intro/0
+  number: '0'
+previous:
+  id: MAL/4/5
+  number: '5'
+reference: 'Malachi 4:6'

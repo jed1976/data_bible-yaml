@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 14:20"
+  class="v">20</span>And blessed be the most high God, which hath delivered
+  thine enemies into thy hand. And he gave him tithes of all.</p>
+id: GEN/14/20
+next:
+  id: GEN/14/21
+  number: '21'
+previous:
+  id: GEN/14/19
+  number: '19'
+reference: 'Genesis 14:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 8:10" class="v">10</span>And
+  the third angel sounded, and there fell a great star from heaven, burning as
+  it were a lamp, and it fell upon the third part of the rivers, and upon the
+  fountains of waters; </p>
+id: REV/8/10
+next:
+  id: REV/8/11
+  number: '11'
+previous:
+  id: REV/8/9
+  number: '9'
+reference: 'Revelation 8:10'

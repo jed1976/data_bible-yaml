@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 3:13"
+  class="v">13</span>Their throat <span class="add">is</span> an open sepulchre;
+  with their tongues they have used deceit; the poison of asps <span
+  class="add">is</span> under their lips: </p>
+id: ROM/3/13
+next:
+  id: ROM/3/14
+  number: '14'
+previous:
+  id: ROM/3/12
+  number: '12'
+reference: 'Romans 3:13'

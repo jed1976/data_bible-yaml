@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 6:25" class="v">25</span>And
+  it shall be our righteousness, if we observe to do all these commandments
+  before the <span class="nd">LORD</span> our God, as he hath commanded us.</p>
+id: DEU/6/25
+next:
+  id: DEU/7/1
+  number: '1'
+previous:
+  id: DEU/6/24
+  number: '24'
+reference: 'Deuteronomy 6:25'

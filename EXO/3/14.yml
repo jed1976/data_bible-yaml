@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 3:14" class="v">14</span>And
+  God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the
+  children of Israel, I AM hath sent me unto you. </p>
+id: EXO/3/14
+next:
+  id: EXO/3/15
+  number: '15'
+previous:
+  id: EXO/3/13
+  number: '13'
+reference: 'Exodus 3:14'

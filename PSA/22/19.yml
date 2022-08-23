@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 22:19"
+  class="v">19</span>But be not thou far from me, O <span
+  class="nd">LORD</span>: O my strength, haste thee to help me.</p>
+id: PSA/22/19
+next:
+  id: PSA/22/20
+  number: '20'
+previous:
+  id: PSA/22/18
+  number: '18'
+reference: 'Psalms 22:19'

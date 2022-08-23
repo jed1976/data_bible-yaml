@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 25:5" class="v">5</span>And
+  Moses said unto the judges of Israel, Slay ye every one his men that were
+  joined unto Baal-peor.</p>
+id: NUM/25/5
+next:
+  id: NUM/25/6
+  number: '6'
+previous:
+  id: NUM/25/4
+  number: '4'
+reference: 'Numbers 25:5'

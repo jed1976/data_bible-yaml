@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 4:7" class="v">7</span>For
+  what nation <span class="add">is there so</span> great, who <span
+  class="add">hath</span> God <span class="add">so</span> nigh unto them, as the
+  <span class="nd">LORD</span> our God <span class="add">is</span> in all <span
+  class="add">things that</span> we call upon him <span class="add">for</span>?
+  </p>
+id: DEU/4/7
+next:
+  id: DEU/4/8
+  number: '8'
+previous:
+  id: DEU/4/6
+  number: '6'
+reference: 'Deuteronomy 4:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 20:5" class="v">5</span>And
+  the men of Gibeah rose against me, and beset the house round about upon me by
+  night, <span class="add">and</span> thought to have slain me: and my concubine
+  have they forced, that she is dead. </p>
+id: JDG/20/5
+next:
+  id: JDG/20/6
+  number: '6'
+previous:
+  id: JDG/20/4
+  number: '4'
+reference: 'Judges 20:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 4:12"
+  class="v">12</span>Neither is there salvation in any other: for there is none
+  other name under heaven given among men, whereby we must be saved.</p>
+id: ACT/4/12
+next:
+  id: ACT/4/13
+  number: '13'
+previous:
+  id: ACT/4/11
+  number: '11'
+reference: 'Acts 4:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 12:18"
+  class="v">18</span>Now as soon as it was day, there was no small stir among
+  the soldiers, what was become of Peter. </p>
+id: ACT/12/18
+next:
+  id: ACT/12/19
+  number: '19'
+previous:
+  id: ACT/12/17
+  number: '17'
+reference: 'Acts 12:18'

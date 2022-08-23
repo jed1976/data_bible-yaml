@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 38:12"
+  class="v">12</span>Mine age is departed, and is removed from me as a
+  shepherd’s tent: I have cut off like a weaver my life: he will cut me off with
+  pining sickness: from day <span class="add">even</span> to night wilt thou
+  make an end of me. </p>
+id: ISA/38/12
+next:
+  id: ISA/38/13
+  number: '13'
+previous:
+  id: ISA/38/11
+  number: '11'
+reference: 'Isaiah 38:12'

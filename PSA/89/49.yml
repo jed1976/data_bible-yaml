@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="49" data-sid="PSA 89:49"
+  class="v">49</span>Lord, where <span class="add">are</span> thy former
+  lovingkindnesses, <span class="add">which</span> thou swarest unto David in
+  thy truth?</p>
+id: PSA/89/49
+next:
+  id: PSA/89/50
+  number: '50'
+previous:
+  id: PSA/89/48
+  number: '48'
+reference: 'Psalms 89:49'

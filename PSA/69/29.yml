@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 69:29"
+  class="v">29</span>But I <span class="add">am</span> poor and sorrowful: let
+  thy salvation, O God, set me up on high.</p>
+id: PSA/69/29
+next:
+  id: PSA/69/30
+  number: '30'
+previous:
+  id: PSA/69/28
+  number: '28'
+reference: 'Psalms 69:29'

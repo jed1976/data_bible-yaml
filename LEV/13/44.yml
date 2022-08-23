@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LEV 13:44" class="v">44</span>He
+  is a leprous man, he <span class="add">is</span> unclean: the priest shall
+  pronounce him utterly unclean; his plague <span class="add">is</span> in his
+  head. </p>
+id: LEV/13/44
+next:
+  id: LEV/13/45
+  number: '45'
+previous:
+  id: LEV/13/43
+  number: '43'
+reference: 'Leviticus 13:44'

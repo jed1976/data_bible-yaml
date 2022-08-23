@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 6:9" class="v">9</span>¶ Thus
+  saith the <span class="nd">LORD</span> of hosts, They shall throughly glean
+  the remnant of Israel as a vine: turn back thine hand as a grapegatherer into
+  the baskets. </p>
+id: JER/6/9
+next:
+  id: JER/6/10
+  number: '10'
+previous:
+  id: JER/6/8
+  number: '8'
+reference: 'Jeremiah 6:9'

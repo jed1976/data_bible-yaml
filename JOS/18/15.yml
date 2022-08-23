@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 18:15"
+  class="v">15</span>And the south quarter <span class="add">was</span> from the
+  end of Kirjath-jearim, and the border went out on the west, and went out to
+  the well of waters of Nephtoah: </p>
+id: JOS/18/15
+next:
+  id: JOS/18/16
+  number: '16'
+previous:
+  id: JOS/18/14
+  number: '14'
+reference: 'Joshua 18:15'

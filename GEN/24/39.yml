@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="GEN 24:39"
+  class="v">39</span>And I said unto my master, Peradventure the woman will not
+  follow me. </p>
+id: GEN/24/39
+next:
+  id: GEN/24/40
+  number: '40'
+previous:
+  id: GEN/24/38
+  number: '38'
+reference: 'Genesis 24:39'

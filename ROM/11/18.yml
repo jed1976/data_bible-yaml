@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 11:18"
+  class="v">18</span>Boast not against the branches. But if thou boast, thou
+  bearest not the root, but the root thee. </p>
+id: ROM/11/18
+next:
+  id: ROM/11/19
+  number: '19'
+previous:
+  id: ROM/11/17
+  number: '17'
+reference: 'Romans 11:18'

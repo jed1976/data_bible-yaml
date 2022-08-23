@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 17:11" class="v">11</span>In
+  the day shalt thou make thy plant to grow, and in the morning shalt thou make
+  thy seed to flourish: <span class="add">but</span> the harvest <span
+  class="add">shall be</span> a heap in the day of grief and of desperate
+  sorrow.</p>
+id: ISA/17/11
+next:
+  id: ISA/17/12
+  number: '12'
+previous:
+  id: ISA/17/10
+  number: '10'
+reference: 'Isaiah 17:11'

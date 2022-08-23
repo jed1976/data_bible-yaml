@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 15:30"
+  class="v">30</span>Save thyself, and come down from the cross. </p>
+id: MRK/15/30
+next:
+  id: MRK/15/31
+  number: '31'
+previous:
+  id: MRK/15/29
+  number: '29'
+reference: 'Mark 15:30'

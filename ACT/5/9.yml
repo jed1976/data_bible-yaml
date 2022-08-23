@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 5:9" class="v">9</span>Then
+  Peter said unto her, How is it that ye have agreed together to tempt the
+  Spirit of the Lord? behold, the feet of them which have buried thy husband
+  <span class="add">are</span> at the door, and shall carry thee out. </p>
+id: ACT/5/9
+next:
+  id: ACT/5/10
+  number: '10'
+previous:
+  id: ACT/5/8
+  number: '8'
+reference: 'Acts 5:9'

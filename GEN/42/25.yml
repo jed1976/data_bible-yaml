@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 42:25" class="v">25</span>¶
+  Then Joseph commanded to fill their sacks with corn, and to restore every
+  man’s money into his sack, and to give them provision for the way: and thus
+  did he unto them. </p>
+id: GEN/42/25
+next:
+  id: GEN/42/26
+  number: '26'
+previous:
+  id: GEN/42/24
+  number: '24'
+reference: 'Genesis 42:25'

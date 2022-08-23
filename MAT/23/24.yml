@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 23:24"
+  class="v">24</span><span class="wj"><span class="add">Ye</span> blind guides,
+  which strain at a gnat, and swallow a camel.</span> </p>
+id: MAT/23/24
+next:
+  id: MAT/23/25
+  number: '25'
+previous:
+  id: MAT/23/23
+  number: '23'
+reference: 'Matthew 23:24'

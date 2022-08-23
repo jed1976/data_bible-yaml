@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 8:5" class="v">5</span>And
+  king Solomon, and all the congregation of Israel, that were assembled unto
+  him, <span class="add">were</span> with him before the ark, sacrificing sheep
+  and oxen, that could not be told nor numbered for multitude. </p>
+id: 1KI/8/5
+next:
+  id: 1KI/8/6
+  number: '6'
+previous:
+  id: 1KI/8/4
+  number: '4'
+reference: '1 Kings 8:5'

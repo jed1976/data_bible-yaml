@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 16:4" class="v">4</span>And
+  as they went through the cities, they delivered them the decrees for to keep,
+  that were ordained of the apostles and elders which were at Jerusalem. </p>
+id: ACT/16/4
+next:
+  id: ACT/16/5
+  number: '5'
+previous:
+  id: ACT/16/3
+  number: '3'
+reference: 'Acts 16:4'

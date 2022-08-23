@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 1:6" class="v">6</span>¶
+  There was a man sent from God, whose name <span class="add">was</span> John.
+  </p>
+id: JHN/1/6
+next:
+  id: JHN/1/7
+  number: '7'
+previous:
+  id: JHN/1/5
+  number: '5'
+reference: 'John 1:6'

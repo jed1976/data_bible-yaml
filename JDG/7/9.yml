@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 7:9" class="v">9</span>¶ And
+  it came to pass the same night, that the <span class="nd">LORD</span> said
+  unto him, Arise, get thee down unto the host; for I have delivered it into
+  thine hand. </p>
+id: JDG/7/9
+next:
+  id: JDG/7/10
+  number: '10'
+previous:
+  id: JDG/7/8
+  number: '8'
+reference: 'Judges 7:9'

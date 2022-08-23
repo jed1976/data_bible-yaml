@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 9:5" class="v">5</span>And
+  Peter answered and said to Jesus, Master, it is good for us to be here: and
+  let us make three tabernacles; one for thee, and one for Moses, and one for
+  Elias. </p>
+id: MRK/9/5
+next:
+  id: MRK/9/6
+  number: '6'
+previous:
+  id: MRK/9/4
+  number: '4'
+reference: 'Mark 9:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 31:3" class="v">3</span>¶
+  Behold, the Assyrian <span class="add">was</span> a cedar in Lebanon with fair
+  branches, and with a shadowing shroud, and of an high stature; and his top was
+  among the thick boughs. </p>
+id: EZK/31/3
+next:
+  id: EZK/31/4
+  number: '4'
+previous:
+  id: EZK/31/2
+  number: '2'
+reference: 'Ezekiel 31:3'

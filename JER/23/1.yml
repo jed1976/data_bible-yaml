@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 23:1" class="v">1</span>Woe
+  be unto the pastors that destroy and scatter the sheep of my pasture! saith
+  the <span class="nd">LORD</span>. </p>
+id: JER/23/1
+next:
+  id: JER/23/2
+  number: '2'
+previous:
+  id: JER/22/30
+  number: '30'
+reference: 'Jeremiah 23:1'

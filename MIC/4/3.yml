@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MIC 4:3" class="v">3</span>¶ And
+  he shall judge among many people, and rebuke strong nations afar off; and they
+  shall beat their swords into plowshares, and their spears into pruninghooks:
+  nation shall not lift up a sword against nation, neither shall they learn war
+  any more. </p>
+id: MIC/4/3
+next:
+  id: MIC/4/4
+  number: '4'
+previous:
+  id: MIC/4/2
+  number: '2'
+reference: 'Micah 4:3'

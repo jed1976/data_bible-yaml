@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CH 10:10"
+  class="v">10</span>And they put his armour in the house of their gods, and
+  fastened his head in the temple of Dagon.</p>
+id: 1CH/10/10
+next:
+  id: 1CH/10/11
+  number: '11'
+previous:
+  id: 1CH/10/9
+  number: '9'
+reference: '1 Chronicles 10:10'

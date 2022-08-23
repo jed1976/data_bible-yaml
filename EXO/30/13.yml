@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 30:13"
+  class="v">13</span>This they shall give, every one that passeth among them
+  that are numbered, half a shekel after the shekel of the sanctuary: (a shekel
+  <span class="add">is</span> twenty gerahs:) an half shekel <span
+  class="add">shall be</span> the offering of the <span class="nd">LORD</span>.
+  </p>
+id: EXO/30/13
+next:
+  id: EXO/30/14
+  number: '14'
+previous:
+  id: EXO/30/12
+  number: '12'
+reference: 'Exodus 30:13'

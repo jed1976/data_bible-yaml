@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 4:3" class="v">3</span>Thy
+  lips <span class="add">are</span> like a thread of scarlet, and thy speech
+  <span class="add">is</span> comely: thy temples <span class="add">are</span>
+  like a piece of a pomegranate within thy locks. </p>
+id: SNG/4/3
+next:
+  id: SNG/4/4
+  number: '4'
+previous:
+  id: SNG/4/2
+  number: '2'
+reference: 'Song of Solomon 4:3'

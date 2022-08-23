@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1PE 3:8"
+  class="v">8</span>Finally, <span class="add">be ye</span> all of one mind,
+  having compassion one of another, love as brethren, <span
+  class="add">be</span> pitiful, <span class="add">be</span> courteous: </p>
+id: 1PE/3/8
+next:
+  id: 1PE/3/9
+  number: '9'
+previous:
+  id: 1PE/3/7
+  number: '7'
+reference: '1 Peter 3:8'

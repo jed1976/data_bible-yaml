@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 17:18"
+  class="v">18</span>And it shall be, when he sitteth upon the throne of his
+  kingdom, that he shall write him a copy of this law in a book out of <span
+  class="add">that which is</span> before the priests the Levites: </p>
+id: DEU/17/18
+next:
+  id: DEU/17/19
+  number: '19'
+previous:
+  id: DEU/17/17
+  number: '17'
+reference: 'Deuteronomy 17:18'

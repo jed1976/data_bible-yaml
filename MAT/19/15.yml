@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 19:15"
+  class="v">15</span>And he laid <span class="add">his</span> hands on them, and
+  departed thence.</p>
+id: MAT/19/15
+next:
+  id: MAT/19/16
+  number: '16'
+previous:
+  id: MAT/19/14
+  number: '14'
+reference: 'Matthew 19:15'

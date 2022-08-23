@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 21:9" class="v">9</span>Their
+  houses <span class="add">are</span> safe from fear, neither <span
+  class="add">is</span> the rod of God upon them. </p>
+id: JOB/21/9
+next:
+  id: JOB/21/10
+  number: '10'
+previous:
+  id: JOB/21/8
+  number: '8'
+reference: 'Job 21:9'

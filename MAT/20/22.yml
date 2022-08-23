@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 20:22"
+  class="v">22</span>But Jesus answered and said, <span class="wj">Ye know not
+  what ye ask. Are ye able to drink of the cup that I shall drink of, and to be
+  baptized with the baptism that I am baptized with?</span> They say unto him,
+  We are able. </p>
+id: MAT/20/22
+next:
+  id: MAT/20/23
+  number: '23'
+previous:
+  id: MAT/20/21
+  number: '21'
+reference: 'Matthew 20:22'

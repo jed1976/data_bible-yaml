@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="EXO 12:50"
+  class="v">50</span>Thus did all the children of Israel; as the <span
+  class="nd">LORD</span> commanded Moses and Aaron, so did they. </p>
+id: EXO/12/50
+next:
+  id: EXO/12/51
+  number: '51'
+previous:
+  id: EXO/12/49
+  number: '49'
+reference: 'Exodus 12:50'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 3:12" class="v">12</span>For
+  whom the <span class="nd">LORD</span> loveth he correcteth; even as a father
+  the son <span class="add">in whom</span> he delighteth.</p>
+id: PRO/3/12
+next:
+  id: PRO/3/13
+  number: '13'
+previous:
+  id: PRO/3/11
+  number: '11'
+reference: 'Proverbs 3:12'

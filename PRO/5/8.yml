@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 5:8" class="v">8</span>Remove
+  thy way far from her, and come not nigh the door of her house: </p>
+id: PRO/5/8
+next:
+  id: PRO/5/9
+  number: '9'
+previous:
+  id: PRO/5/7
+  number: '7'
+reference: 'Proverbs 5:8'

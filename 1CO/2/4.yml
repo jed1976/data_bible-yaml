@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 2:4" class="v">4</span>And my
+  speech and my preaching <span class="add">was</span> not with enticing words
+  of man’s wisdom, but in demonstration of the Spirit and of power: </p>
+id: 1CO/2/4
+next:
+  id: 1CO/2/5
+  number: '5'
+previous:
+  id: 1CO/2/3
+  number: '3'
+reference: '1 Corinthians 2:4'

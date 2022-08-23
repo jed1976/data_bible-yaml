@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2SA 22:33"
+  class="v">33</span>God <span class="add">is</span> my strength <span
+  class="add">and</span> power: and he maketh my way perfect. </p>
+id: 2SA/22/33
+next:
+  id: 2SA/22/34
+  number: '34'
+previous:
+  id: 2SA/22/32
+  number: '32'
+reference: '2 Samuel 22:33'

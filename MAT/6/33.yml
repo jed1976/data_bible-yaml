@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 6:33"
+  class="v">33</span><span class="wj">But seek ye first the kingdom of God, and
+  his righteousness; and all these things shall be added unto you.</span> </p>
+id: MAT/6/33
+next:
+  id: MAT/6/34
+  number: '34'
+previous:
+  id: MAT/6/32
+  number: '32'
+reference: 'Matthew 6:33'

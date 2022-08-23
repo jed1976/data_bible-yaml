@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 3:15" class="v">15</span>And
+  I gave Gilead unto Machir. </p>
+id: DEU/3/15
+next:
+  id: DEU/3/16
+  number: '16'
+previous:
+  id: DEU/3/14
+  number: '14'
+reference: 'Deuteronomy 3:15'

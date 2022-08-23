@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 18:4" class="v">4</span>Let a
+  little water, I pray you, be fetched, and wash your feet, and rest yourselves
+  under the tree: </p>
+id: GEN/18/4
+next:
+  id: GEN/18/5
+  number: '5'
+previous:
+  id: GEN/18/3
+  number: '3'
+reference: 'Genesis 18:4'

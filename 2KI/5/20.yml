@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 5:20" class="v">20</span>¶
+  But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath
+  spared Naaman this Syrian, in not receiving at his hands that which he
+  brought: but, <span class="add">as</span> the <span class="nd">LORD</span>
+  liveth, I will run after him, and take somewhat of him. </p>
+id: 2KI/5/20
+next:
+  id: 2KI/5/21
+  number: '21'
+previous:
+  id: 2KI/5/19
+  number: '19'
+reference: '2 Kings 5:20'

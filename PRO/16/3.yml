@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 16:3"
+  class="v">3</span>Commit thy works unto the <span class="nd">LORD</span>, and
+  thy thoughts shall be established. </p>
+id: PRO/16/3
+next:
+  id: PRO/16/4
+  number: '4'
+previous:
+  id: PRO/16/2
+  number: '2'
+reference: 'Proverbs 16:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 3:10" class="v">10</span>And
+  they knew that it was he which sat for alms at the Beautiful gate of the
+  temple: and they were filled with wonder and amazement at that which had
+  happened unto him. </p>
+id: ACT/3/10
+next:
+  id: ACT/3/11
+  number: '11'
+previous:
+  id: ACT/3/9
+  number: '9'
+reference: 'Acts 3:10'

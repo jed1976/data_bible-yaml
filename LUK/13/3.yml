@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 13:3" class="v">3</span><span
+  class="wj">I tell you, Nay: but, except ye repent, ye shall all likewise
+  perish.</span> </p>
+id: LUK/13/3
+next:
+  id: LUK/13/4
+  number: '4'
+previous:
+  id: LUK/13/2
+  number: '2'
+reference: 'Luke 13:3'

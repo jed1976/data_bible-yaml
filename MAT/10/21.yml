@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 10:21"
+  class="v">21</span><span class="wj">And the brother shall deliver up the
+  brother to death, and the father the child: and the children shall rise up
+  against <span class="add">their</span> parents, and cause them to be put to
+  death.</span> </p>
+id: MAT/10/21
+next:
+  id: MAT/10/22
+  number: '22'
+previous:
+  id: MAT/10/20
+  number: '20'
+reference: 'Matthew 10:21'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JER 8:19"
+  class="v">19</span>Behold the voice of the cry of the daughter of my people
+  because of them that dwell in a far country: <span class="add">Is</span> not
+  the <span class="nd">LORD</span> in Zion? <span class="add">is</span> not her
+  king in her? Why have they provoked me to anger with their graven images,
+  <span class="add">and</span> with strange vanities? </p>
+id: JER/8/19
+next:
+  id: JER/8/20
+  number: '20'
+previous:
+  id: JER/8/18
+  number: '18'
+reference: 'Jeremiah 8:19'

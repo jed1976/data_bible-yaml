@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 5:27"
+  class="v">27</span>None shall be weary nor stumble among them; none shall
+  slumber nor sleep; neither shall the girdle of their loins be loosed, nor the
+  latchet of their shoes be broken: </p>
+id: ISA/5/27
+next:
+  id: ISA/5/28
+  number: '28'
+previous:
+  id: ISA/5/26
+  number: '26'
+reference: 'Isaiah 5:27'

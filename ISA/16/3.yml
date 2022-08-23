@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 16:3" class="v">3</span>Take
+  counsel, execute judgment; make thy shadow as the night in the midst of the
+  noonday; hide the outcasts; bewray not him that wandereth. </p>
+id: ISA/16/3
+next:
+  id: ISA/16/4
+  number: '4'
+previous:
+  id: ISA/16/2
+  number: '2'
+reference: 'Isaiah 16:3'

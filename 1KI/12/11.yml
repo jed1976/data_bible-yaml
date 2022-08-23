@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 12:11"
+  class="v">11</span>And now whereas my father did lade you with a heavy yoke, I
+  will add to your yoke: my father hath chastised you with whips, but I will
+  chastise you with scorpions.</p>
+id: 1KI/12/11
+next:
+  id: 1KI/12/12
+  number: '12'
+previous:
+  id: 1KI/12/10
+  number: '10'
+reference: '1 Kings 12:11'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 24:13" class="v">13</span>If
+  Balak would give me his house full of silver and gold, I cannot go beyond the
+  commandment of the <span class="nd">LORD</span>, to do <span
+  class="add">either</span> good or bad of mine own mind; <span
+  class="add">but</span> what the <span class="nd">LORD</span> saith, that will
+  I speak? </p>
+id: NUM/24/13
+next:
+  id: NUM/24/14
+  number: '14'
+previous:
+  id: NUM/24/12
+  number: '12'
+reference: 'Numbers 24:13'

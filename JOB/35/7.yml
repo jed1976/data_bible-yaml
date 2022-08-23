@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 35:7" class="v">7</span>If
+  thou be righteous, what givest thou him? or what receiveth he of thine hand?
+  </p>
+id: JOB/35/7
+next:
+  id: JOB/35/8
+  number: '8'
+previous:
+  id: JOB/35/6
+  number: '6'
+reference: 'Job 35:7'

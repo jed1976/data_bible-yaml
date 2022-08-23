@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEC 6:4" class="v">4</span>Then I
+  answered and said unto the angel that talked with me, What <span
+  class="add">are</span> these, my lord? </p>
+id: ZEC/6/4
+next:
+  id: ZEC/6/5
+  number: '5'
+previous:
+  id: ZEC/6/3
+  number: '3'
+reference: 'Zechariah 6:4'

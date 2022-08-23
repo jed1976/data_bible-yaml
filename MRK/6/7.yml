@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 6:7" class="v">7</span>¶ And
+  he called <span class="add">unto him</span> the twelve, and began to send them
+  forth by two and two; and gave them power over unclean spirits; </p>
+id: MRK/6/7
+next:
+  id: MRK/6/8
+  number: '8'
+previous:
+  id: MRK/6/6
+  number: '6'
+reference: 'Mark 6:7'

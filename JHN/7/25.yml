@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 7:25"
+  class="v">25</span>Then said some of them of Jerusalem, Is not this he, whom
+  they seek to kill? </p>
+id: JHN/7/25
+next:
+  id: JHN/7/26
+  number: '26'
+previous:
+  id: JHN/7/24
+  number: '24'
+reference: 'John 7:25'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 12:21" class="v">21</span>Be
+  not overcome of evil, but overcome evil with good.</p>
+id: ROM/12/21
+next:
+  id: ROM/13/1
+  number: '1'
+previous:
+  id: ROM/12/20
+  number: '20'
+reference: 'Romans 12:21'

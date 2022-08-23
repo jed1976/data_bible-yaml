@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 114:1"
+  class="v">1</span>When Israel went out of Egypt, the house of Jacob from a
+  people of strange language;</p>
+id: PSA/114/1
+next:
+  id: PSA/114/2
+  number: '2'
+previous:
+  id: PSA/113/9
+  number: '9'
+reference: 'Psalms 114:1'

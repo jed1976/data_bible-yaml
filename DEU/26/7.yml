@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 26:7" class="v">7</span>And
+  when we cried unto the <span class="nd">LORD</span> God of our fathers, the
+  <span class="nd">LORD</span> heard our voice, and looked on our affliction,
+  and our labour, and our oppression: </p>
+id: DEU/26/7
+next:
+  id: DEU/26/8
+  number: '8'
+previous:
+  id: DEU/26/6
+  number: '6'
+reference: 'Deuteronomy 26:7'

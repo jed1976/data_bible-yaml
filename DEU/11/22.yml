@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 11:22" class="v">22</span>¶
+  For if ye shall diligently keep all these commandments which I command you, to
+  do them, to love the <span class="nd">LORD</span> your God, to walk in all his
+  ways, and to cleave unto him; </p>
+id: DEU/11/22
+next:
+  id: DEU/11/23
+  number: '23'
+previous:
+  id: DEU/11/21
+  number: '21'
+reference: 'Deuteronomy 11:22'

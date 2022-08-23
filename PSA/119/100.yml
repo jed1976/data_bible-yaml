@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="100" data-sid="PSA 119:100"
+  class="v">100</span>I understand more than the ancients, because I keep thy
+  precepts.</p>
+id: PSA/119/100
+next:
+  id: PSA/119/101
+  number: '101'
+previous:
+  id: PSA/119/99
+  number: '99'
+reference: 'Psalms 119:100'

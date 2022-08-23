@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 11:11"
+  class="v">11</span>These things said he: and after that he saith unto them,
+  <span class="wj">Our friend Lazarus sleepeth; but I go, that I may awake him
+  out of sleep.</span> </p>
+id: JHN/11/11
+next:
+  id: JHN/11/12
+  number: '12'
+previous:
+  id: JHN/11/10
+  number: '10'
+reference: 'John 11:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 18:30"
+  class="v">30</span>Therefore thou shalt say unto them, When ye have heaved the
+  best thereof from it, then it shall be counted unto the Levites as the
+  increase of the threshingfloor, and as the increase of the winepress. </p>
+id: NUM/18/30
+next:
+  id: NUM/18/31
+  number: '31'
+previous:
+  id: NUM/18/29
+  number: '29'
+reference: 'Numbers 18:30'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 132:6" class="v">6</span>Lo,
+  we heard of it at Ephratah: we found it in the fields of the wood.</p>
+id: PSA/132/6
+next:
+  id: PSA/132/7
+  number: '7'
+previous:
+  id: PSA/132/5
+  number: '5'
+reference: 'Psalms 132:6'

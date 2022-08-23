@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NEH 10:31"
+  class="v">31</span>And <span class="add">if</span> the people of the land
+  bring ware or any victuals on the sabbath day to sell, <span
+  class="add">that</span> we would not buy it of them on the sabbath, or on the
+  holy day: and <span class="add">that</span> we would leave the seventh year,
+  and the exaction of every debt.</p>
+id: NEH/10/31
+next:
+  id: NEH/10/32
+  number: '32'
+previous:
+  id: NEH/10/30
+  number: '30'
+reference: 'Nehemiah 10:31'

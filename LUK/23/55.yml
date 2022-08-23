@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LUK 23:55"
+  class="v">55</span>And the women also, which came with him from Galilee,
+  followed after, and beheld the sepulchre, and how his body was laid. </p>
+id: LUK/23/55
+next:
+  id: LUK/23/56
+  number: '56'
+previous:
+  id: LUK/23/54
+  number: '54'
+reference: 'Luke 23:55'

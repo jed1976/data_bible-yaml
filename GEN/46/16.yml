@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 46:16" class="v">16</span>¶
+  And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and
+  Areli.</p>
+id: GEN/46/16
+next:
+  id: GEN/46/17
+  number: '17'
+previous:
+  id: GEN/46/15
+  number: '15'
+reference: 'Genesis 46:16'

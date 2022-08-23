@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 11:19"
+  class="v">19</span>Thou wilt say then, The branches were broken off, that I
+  might be graffed in. </p>
+id: ROM/11/19
+next:
+  id: ROM/11/20
+  number: '20'
+previous:
+  id: ROM/11/18
+  number: '18'
+reference: 'Romans 11:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 2:1" class="v">1</span>Thus
+  saith the <span class="nd">LORD</span>; For three transgressions of Moab, and
+  for four, I will not turn away <span class="add">the punishment</span>
+  thereof; because he burned the bones of the king of Edom into lime: </p>
+id: AMO/2/1
+next:
+  id: AMO/2/2
+  number: '2'
+previous:
+  id: AMO/1/15
+  number: '15'
+reference: 'Amos 2:1'

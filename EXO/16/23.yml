@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 16:23"
+  class="v">23</span>And he said unto them, This <span class="add">is
+  that</span> which the <span class="nd">LORD</span> hath said, To morrow <span
+  class="add">is</span> the rest of the holy sabbath unto the <span
+  class="nd">LORD</span>: bake <span class="add">that</span> which ye will bake
+  <span class="add">to day</span>, and seethe that ye will seethe; and that
+  which remaineth over lay up for you to be kept until the morning. </p>
+id: EXO/16/23
+next:
+  id: EXO/16/24
+  number: '24'
+previous:
+  id: EXO/16/22
+  number: '22'
+reference: 'Exodus 16:23'

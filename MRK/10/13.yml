@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 10:13" class="v">13</span>¶
+  And they brought young children to him, that he should touch them: and <span
+  class="add">his</span> disciples rebuked those that brought <span
+  class="add">them</span>. </p>
+id: MRK/10/13
+next:
+  id: MRK/10/14
+  number: '14'
+previous:
+  id: MRK/10/12
+  number: '12'
+reference: 'Mark 10:13'

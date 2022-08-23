@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 9:14" class="v">14</span>And
+  if a stranger shall sojourn among you, and will keep the passover unto the
+  <span class="nd">LORD</span>; according to the ordinance of the passover, and
+  according to the manner thereof, so shall he do: ye shall have one ordinance,
+  both for the stranger, and for him that was born in the land.</p>
+id: NUM/9/14
+next:
+  id: NUM/9/15
+  number: '15'
+previous:
+  id: NUM/9/13
+  number: '13'
+reference: 'Numbers 9:14'

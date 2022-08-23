@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 7:8" class="v">8</span><span
+  class="wj">Go ye up unto this feast: I go not up yet unto this feast; for my
+  time is not yet full come.</span> </p>
+id: JHN/7/8
+next:
+  id: JHN/7/9
+  number: '9'
+previous:
+  id: JHN/7/7
+  number: '7'
+reference: 'John 7:8'

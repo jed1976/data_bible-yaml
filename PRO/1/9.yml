@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 1:9" class="v">9</span>For
+  they <span class="add">shall be</span> an ornament of grace unto thy head, and
+  chains about thy neck.</p>
+id: PRO/1/9
+next:
+  id: PRO/1/10
+  number: '10'
+previous:
+  id: PRO/1/8
+  number: '8'
+reference: 'Proverbs 1:9'

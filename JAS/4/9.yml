@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JAS 4:9" class="v">9</span>Be
+  afflicted, and mourn, and weep: let your laughter be turned to mourning, and
+  <span class="add">your</span> joy to heaviness. </p>
+id: JAS/4/9
+next:
+  id: JAS/4/10
+  number: '10'
+previous:
+  id: JAS/4/8
+  number: '8'
+reference: 'James 4:9'

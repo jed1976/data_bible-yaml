@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 6:4" class="v">4</span>¶ O
+  Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for
+  your goodness <span class="add">is</span> as a morning cloud, and as the early
+  dew it goeth away. </p>
+id: HOS/6/4
+next:
+  id: HOS/6/5
+  number: '5'
+previous:
+  id: HOS/6/3
+  number: '3'
+reference: 'Hosea 6:4'

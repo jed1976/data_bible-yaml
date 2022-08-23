@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 24:11"
+  class="v">11</span>Therefore now flee thou to thy place: I thought to promote
+  thee unto great honour; but, lo, the <span class="nd">LORD</span> hath kept
+  thee back from honour. </p>
+id: NUM/24/11
+next:
+  id: NUM/24/12
+  number: '12'
+previous:
+  id: NUM/24/10
+  number: '10'
+reference: 'Numbers 24:11'

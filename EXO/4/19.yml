@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 4:19" class="v">19</span>And
+  the <span class="nd">LORD</span> said unto Moses in Midian, Go, return into
+  Egypt: for all the men are dead which sought thy life. </p>
+id: EXO/4/19
+next:
+  id: EXO/4/20
+  number: '20'
+previous:
+  id: EXO/4/18
+  number: '18'
+reference: 'Exodus 4:19'

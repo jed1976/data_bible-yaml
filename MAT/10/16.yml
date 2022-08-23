@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 10:16"
+  class="v">16</span><span class="wj">¶ Behold, I send you forth as sheep in the
+  midst of wolves: be ye therefore wise as serpents, and harmless as
+  doves.</span> </p>
+id: MAT/10/16
+next:
+  id: MAT/10/17
+  number: '17'
+previous:
+  id: MAT/10/15
+  number: '15'
+reference: 'Matthew 10:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 17:20"
+  class="v">20</span>And Jesus said unto them, <span class="wj">Because of your
+  unbelief: for verily I say unto you, If ye have faith as a grain of mustard
+  seed, ye shall say unto this mountain, Remove hence to yonder place; and it
+  shall remove; and nothing shall be impossible unto you.</span> </p>
+id: MAT/17/20
+next:
+  id: MAT/17/21
+  number: '21'
+previous:
+  id: MAT/17/19
+  number: '19'
+reference: 'Matthew 17:20'

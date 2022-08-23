@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 23:19"
+  class="v">19</span>Hear thou, my son, and be wise, and guide thine heart in
+  the way. </p>
+id: PRO/23/19
+next:
+  id: PRO/23/20
+  number: '20'
+previous:
+  id: PRO/23/18
+  number: '18'
+reference: 'Proverbs 23:19'

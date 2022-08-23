@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1TH 2:11" class="v">11</span>As
+  ye know how we exhorted and comforted and charged every one of you, as a
+  father <span class="add">doth</span> his children, </p>
+id: 1TH/2/11
+next:
+  id: 1TH/2/12
+  number: '12'
+previous:
+  id: 1TH/2/10
+  number: '10'
+reference: '1 Thessalonians 2:11'

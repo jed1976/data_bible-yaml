@@ -1,0 +1,15 @@
+content: >-
+  <p class="d">To the chief Musician, Maschil, <span class="add">A Psalm</span>
+  of David, when Doeg the Edomite came and told Saul, and said unto him, David
+  is come to the house of Ahimelech.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 52:1" class="v">1</span>Why boastest thou thyself in mischief, O
+  mighty man? the goodness of God <span class="add">endureth</span>
+  continually.</p>
+id: PSA/52/1
+next:
+  id: PSA/52/2
+  number: '2'
+previous:
+  id: PSA/51/19
+  number: '19'
+reference: 'Psalms 52:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="43" data-sid="PSA 107:43"
+  class="v">43</span>Whoso <span class="add">is</span> wise, and will observe
+  these <span class="add">things</span>, even they shall understand the
+  lovingkindness of the <span class="nd">LORD</span>.</p>
+id: PSA/107/43
+next:
+  id: PSA/108/1
+  number: '1'
+previous:
+  id: PSA/107/42
+  number: '42'
+reference: 'Psalms 107:43'

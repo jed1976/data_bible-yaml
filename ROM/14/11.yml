@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 14:11"
+  class="v">11</span>For it is written, <span class="add">As</span> I live,
+  saith the Lord, every knee shall bow to me, and every tongue shall confess to
+  God. </p>
+id: ROM/14/11
+next:
+  id: ROM/14/12
+  number: '12'
+previous:
+  id: ROM/14/10
+  number: '10'
+reference: 'Romans 14:11'

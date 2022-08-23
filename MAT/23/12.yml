@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 23:12"
+  class="v">12</span><span class="wj">And whosoever shall exalt himself shall be
+  abased; and he that shall humble himself shall be exalted.</span></p>
+id: MAT/23/12
+next:
+  id: MAT/23/13
+  number: '13'
+previous:
+  id: MAT/23/11
+  number: '11'
+reference: 'Matthew 23:12'

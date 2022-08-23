@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 25:42"
+  class="v">42</span><span class="wj">For I was an hungred, and ye gave me no
+  meat: I was thirsty, and ye gave me no drink:</span> </p>
+id: MAT/25/42
+next:
+  id: MAT/25/43
+  number: '43'
+previous:
+  id: MAT/25/41
+  number: '41'
+reference: 'Matthew 25:42'

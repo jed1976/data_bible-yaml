@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 15:23"
+  class="v">23</span>And if it <span class="add">be</span> on <span
+  class="add">her</span> bed, or on any thing whereon she sitteth, when he
+  toucheth it, he shall be unclean until the even. </p>
+id: LEV/15/23
+next:
+  id: LEV/15/24
+  number: '24'
+previous:
+  id: LEV/15/22
+  number: '22'
+reference: 'Leviticus 15:23'

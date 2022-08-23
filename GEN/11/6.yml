@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 11:6" class="v">6</span>And
+  the <span class="nd">LORD</span> said, Behold, the people <span
+  class="add">is</span> one, and they have all one language; and this they begin
+  to do: and now nothing will be restrained from them, which they have imagined
+  to do. </p>
+id: GEN/11/6
+next:
+  id: GEN/11/7
+  number: '7'
+previous:
+  id: GEN/11/5
+  number: '5'
+reference: 'Genesis 11:6'

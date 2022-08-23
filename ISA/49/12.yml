@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 49:12"
+  class="v">12</span>Behold, these shall come from far: and, lo, these from the
+  north and from the west; and these from the land of Sinim.</p>
+id: ISA/49/12
+next:
+  id: ISA/49/13
+  number: '13'
+previous:
+  id: ISA/49/11
+  number: '11'
+reference: 'Isaiah 49:12'

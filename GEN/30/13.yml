@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 30:13"
+  class="v">13</span>And Leah said, Happy am I, for the daughters will call me
+  blessed: and she called his name Asher.</p>
+id: GEN/30/13
+next:
+  id: GEN/30/14
+  number: '14'
+previous:
+  id: GEN/30/12
+  number: '12'
+reference: 'Genesis 30:13'

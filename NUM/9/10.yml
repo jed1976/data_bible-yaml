@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 9:10"
+  class="v">10</span>Speak unto the children of Israel, saying, If any man of
+  you or of your posterity shall be unclean by reason of a dead body, or <span
+  class="add">be</span> in a journey afar off, yet he shall keep the passover
+  unto the <span class="nd">LORD</span>. </p>
+id: NUM/9/10
+next:
+  id: NUM/9/11
+  number: '11'
+previous:
+  id: NUM/9/9
+  number: '9'
+reference: 'Numbers 9:10'

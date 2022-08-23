@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="15" data-sid="PSA 49:15"
+  class="v">15</span>But God will redeem my soul from the power of the grave:
+  for he shall receive me. Selah.</p>
+id: PSA/49/15
+next:
+  id: PSA/49/16
+  number: '16'
+previous:
+  id: PSA/49/14
+  number: '14'
+reference: 'Psalms 49:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 10:12"
+  class="v">12</span>For there is no difference between the Jew and the Greek:
+  for the same Lord over all is rich unto all that call upon him. </p>
+id: ROM/10/12
+next:
+  id: ROM/10/13
+  number: '13'
+previous:
+  id: ROM/10/11
+  number: '11'
+reference: 'Romans 10:12'

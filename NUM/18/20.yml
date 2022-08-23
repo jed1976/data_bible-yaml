@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 18:20" class="v">20</span>¶
+  And the <span class="nd">LORD</span> spake unto Aaron, Thou shalt have no
+  inheritance in their land, neither shalt thou have any part among them: I
+  <span class="add">am</span> thy part and thine inheritance among the children
+  of Israel. </p>
+id: NUM/18/20
+next:
+  id: NUM/18/21
+  number: '21'
+previous:
+  id: NUM/18/19
+  number: '19'
+reference: 'Numbers 18:20'

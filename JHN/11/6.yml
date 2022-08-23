@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 11:6" class="v">6</span>When
+  he had heard therefore that he was sick, he abode two days still in the same
+  place where he was. </p>
+id: JHN/11/6
+next:
+  id: JHN/11/7
+  number: '7'
+previous:
+  id: JHN/11/5
+  number: '5'
+reference: 'John 11:6'

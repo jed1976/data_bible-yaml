@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DAN 11:27"
+  class="v">27</span>And both these kings’ hearts <span class="add">shall
+  be</span> to do mischief, and they shall speak lies at one table; but it shall
+  not prosper: for yet the end <span class="add">shall be</span> at the time
+  appointed. </p>
+id: DAN/11/27
+next:
+  id: DAN/11/28
+  number: '28'
+previous:
+  id: DAN/11/26
+  number: '26'
+reference: 'Daniel 11:27'

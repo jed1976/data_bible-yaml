@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 37:8" class="v">8</span>One
+  cherub on the end on this side, and another cherub on the <span
+  class="add">other</span> end on that side: out of the mercy seat made he the
+  cherubims on the two ends thereof. </p>
+id: EXO/37/8
+next:
+  id: EXO/37/9
+  number: '9'
+previous:
+  id: EXO/37/7
+  number: '7'
+reference: 'Exodus 37:8'

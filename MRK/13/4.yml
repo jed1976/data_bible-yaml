@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 13:4" class="v">4</span>Tell
+  us, when shall these things be? and what <span class="add">shall be</span> the
+  sign when all these things shall be fulfilled? </p>
+id: MRK/13/4
+next:
+  id: MRK/13/5
+  number: '5'
+previous:
+  id: MRK/13/3
+  number: '3'
+reference: 'Mark 13:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 15:20"
+  class="v">20</span>The wicked man travaileth with pain all <span
+  class="add">his</span> days, and the number of years is hidden to the
+  oppressor. </p>
+id: JOB/15/20
+next:
+  id: JOB/15/21
+  number: '21'
+previous:
+  id: JOB/15/19
+  number: '19'
+reference: 'Job 15:20'

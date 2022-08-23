@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 1:1" class="v">1</span>Now it
+  came to pass in the days of Ahasuerus, (this <span class="add">is</span>
+  Ahasuerus which reigned, from India even unto Ethiopia, <span
+  class="add">over</span> an hundred and seven and twenty provinces:) </p>
+id: EST/1/1
+next:
+  id: EST/1/2
+  number: '2'
+previous:
+  id: EST/intro/0
+  number: '0'
+reference: 'Esther 1:1'

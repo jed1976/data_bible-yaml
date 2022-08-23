@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 13:3" class="v">3</span>¶ And
+  Moses said unto the people, Remember this day, in which ye came out from
+  Egypt, out of the house of bondage; for by strength of hand the <span
+  class="nd">LORD</span> brought you out from this <span
+  class="add">place:</span> there shall no leavened bread be eaten. </p>
+id: EXO/13/3
+next:
+  id: EXO/13/4
+  number: '4'
+previous:
+  id: EXO/13/2
+  number: '2'
+reference: 'Exodus 13:3'

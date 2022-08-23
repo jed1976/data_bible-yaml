@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LAM 1:7"
+  class="v">7</span>Jerusalem remembered in the days of her affliction and of
+  her miseries all her pleasant things that she had in the days of old, when her
+  people fell into the hand of the enemy, and none did help her: the adversaries
+  saw her, <span class="add">and</span> did mock at her sabbaths. </p>
+id: LAM/1/7
+next:
+  id: LAM/1/8
+  number: '8'
+previous:
+  id: LAM/1/6
+  number: '6'
+reference: 'Lamentations 1:7'

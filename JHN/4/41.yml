@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 4:41" class="v">41</span>And
+  many more believed because of his own word; </p>
+id: JHN/4/41
+next:
+  id: JHN/4/42
+  number: '42'
+previous:
+  id: JHN/4/40
+  number: '40'
+reference: 'John 4:41'

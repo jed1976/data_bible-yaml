@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 34:19"
+  class="v">19</span><span class="add">How much less to him</span> that
+  accepteth not the persons of princes, nor regardeth the rich more than the
+  poor? for they all <span class="add">are</span> the work of his hands. </p>
+id: JOB/34/19
+next:
+  id: JOB/34/20
+  number: '20'
+previous:
+  id: JOB/34/18
+  number: '18'
+reference: 'Job 34:19'

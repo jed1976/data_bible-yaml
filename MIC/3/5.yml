@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 3:5" class="v">5</span>¶ Thus
+  saith the <span class="nd">LORD</span> concerning the prophets that make my
+  people err, that bite with their teeth, and cry, Peace; and he that putteth
+  not into their mouths, they even prepare war against him. </p>
+id: MIC/3/5
+next:
+  id: MIC/3/6
+  number: '6'
+previous:
+  id: MIC/3/4
+  number: '4'
+reference: 'Micah 3:5'

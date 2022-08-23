@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 16:3" class="v">3</span>And
+  the children of Israel said unto them, Would to God we had died by the hand of
+  the <span class="nd">LORD</span> in the land of Egypt, when we sat by the
+  flesh pots, <span class="add">and</span> when we did eat bread to the full;
+  for ye have brought us forth into this wilderness, to kill this whole assembly
+  with hunger.</p>
+id: EXO/16/3
+next:
+  id: EXO/16/4
+  number: '4'
+previous:
+  id: EXO/16/2
+  number: '2'
+reference: 'Exodus 16:3'

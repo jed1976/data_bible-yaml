@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 15:5" class="v">5</span>The
+  depths have covered them: they sank into the bottom as a stone. </p>
+id: EXO/15/5
+next:
+  id: EXO/15/6
+  number: '6'
+previous:
+  id: EXO/15/4
+  number: '4'
+reference: 'Exodus 15:5'

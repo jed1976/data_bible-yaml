@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="PRO 6:34" class="v">34</span>For
+  jealousy <span class="add">is</span> the rage of a man: therefore he will not
+  spare in the day of vengeance. </p>
+id: PRO/6/34
+next:
+  id: PRO/6/35
+  number: '35'
+previous:
+  id: PRO/6/33
+  number: '33'
+reference: 'Proverbs 6:34'

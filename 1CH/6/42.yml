@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1CH 6:42" class="v">42</span>The
+  son of Ethan, the son of Zimmah, the son of Shimei, </p>
+id: 1CH/6/42
+next:
+  id: 1CH/6/43
+  number: '43'
+previous:
+  id: 1CH/6/41
+  number: '41'
+reference: '1 Chronicles 6:42'

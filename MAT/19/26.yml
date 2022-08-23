@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 19:26"
+  class="v">26</span>But Jesus beheld <span class="add">them</span>, and said
+  unto them, <span class="wj">With men this is impossible; but with God all
+  things are possible.</span></p>
+id: MAT/19/26
+next:
+  id: MAT/19/27
+  number: '27'
+previous:
+  id: MAT/19/25
+  number: '25'
+reference: 'Matthew 19:26'

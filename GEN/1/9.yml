@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 1:9" class="v">9</span>¶ And
+  God said, Let the waters under the heaven be gathered together unto one place,
+  and let the dry <span class="add">land</span> appear: and it was so. </p>
+id: GEN/1/9
+next:
+  id: GEN/1/10
+  number: '10'
+previous:
+  id: GEN/1/8
+  number: '8'
+reference: 'Genesis 1:9'

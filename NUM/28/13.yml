@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 28:13"
+  class="v">13</span>And a several tenth deal of flour mingled with oil <span
+  class="add">for</span> a meat offering unto one lamb; <span
+  class="add">for</span> a burnt offering of a sweet savour, a sacrifice made by
+  fire unto the <span class="nd">LORD</span>. </p>
+id: NUM/28/13
+next:
+  id: NUM/28/14
+  number: '14'
+previous:
+  id: NUM/28/12
+  number: '12'
+reference: 'Numbers 28:13'

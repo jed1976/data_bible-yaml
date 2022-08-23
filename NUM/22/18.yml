@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 22:18"
+  class="v">18</span>And Balaam answered and said unto the servants of Balak, If
+  Balak would give me his house full of silver and gold, I cannot go beyond the
+  word of the <span class="nd">LORD</span> my God, to do less or more. </p>
+id: NUM/22/18
+next:
+  id: NUM/22/19
+  number: '19'
+previous:
+  id: NUM/22/17
+  number: '17'
+reference: 'Numbers 22:18'

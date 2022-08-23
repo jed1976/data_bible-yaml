@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EPH 5:13" class="v">13</span>But
+  all things that are reproved are made manifest by the light: for whatsoever
+  doth make manifest is light. </p>
+id: EPH/5/13
+next:
+  id: EPH/5/14
+  number: '14'
+previous:
+  id: EPH/5/12
+  number: '12'
+reference: 'Ephesians 5:13'

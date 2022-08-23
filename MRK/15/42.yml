@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MRK 15:42" class="v">42</span>¶
+  And now when the even was come, because it was the preparation, that is, the
+  day before the sabbath, </p>
+id: MRK/15/42
+next:
+  id: MRK/15/43
+  number: '43'
+previous:
+  id: MRK/15/41
+  number: '41'
+reference: 'Mark 15:42'

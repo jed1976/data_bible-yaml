@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 33:27"
+  class="v">27</span>And they departed from Tahath, and pitched at Tarah. </p>
+id: NUM/33/27
+next:
+  id: NUM/33/28
+  number: '28'
+previous:
+  id: NUM/33/26
+  number: '26'
+reference: 'Numbers 33:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 8:16"
+  class="v">16</span>(For as yet he was fallen upon none of them: only they were
+  baptized in the name of the Lord Jesus.) </p>
+id: ACT/8/16
+next:
+  id: ACT/8/17
+  number: '17'
+previous:
+  id: ACT/8/15
+  number: '15'
+reference: 'Acts 8:16'

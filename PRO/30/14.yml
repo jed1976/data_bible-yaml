@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 30:14"
+  class="v">14</span><span class="add">There is</span> a generation, whose teeth
+  <span class="add">are as</span> swords, and their jaw teeth <span
+  class="add">as</span> knives, to devour the poor from off the earth, and the
+  needy from <span class="add">among</span> men.</p>
+id: PRO/30/14
+next:
+  id: PRO/30/15
+  number: '15'
+previous:
+  id: PRO/30/13
+  number: '13'
+reference: 'Proverbs 30:14'

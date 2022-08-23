@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JUD 1:21"
+  class="v">21</span>Keep yourselves in the love of God, looking for the mercy
+  of our Lord Jesus Christ unto eternal life. </p>
+id: JUD/1/21
+next:
+  id: JUD/1/22
+  number: '22'
+previous:
+  id: JUD/1/20
+  number: '20'
+reference: 'Jude 1:21'

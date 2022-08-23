@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 12:7" class="v">7</span>And
+  the <span class="nd">LORD</span> appeared unto Abram, and said, Unto thy seed
+  will I give this land: and there builded he an altar unto the <span
+  class="nd">LORD</span>, who appeared unto him. </p>
+id: GEN/12/7
+next:
+  id: GEN/12/8
+  number: '8'
+previous:
+  id: GEN/12/6
+  number: '6'
+reference: 'Genesis 12:7'

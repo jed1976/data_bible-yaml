@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 5:5" class="v">5</span>And
+  they brought up the ark, and the tabernacle of the congregation, and all the
+  holy vessels that <span class="add">were</span> in the tabernacle, these did
+  the priests <span class="add">and</span> the Levites bring up. </p>
+id: 2CH/5/5
+next:
+  id: 2CH/5/6
+  number: '6'
+previous:
+  id: 2CH/5/4
+  number: '4'
+reference: '2 Chronicles 5:5'

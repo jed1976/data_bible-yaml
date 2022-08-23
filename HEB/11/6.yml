@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 11:6" class="v">6</span>But
+  without faith <span class="add">it is</span> impossible to please <span
+  class="add">him</span>: for he that cometh to God must believe that he is, and
+  <span class="add">that</span> he is a rewarder of them that diligently seek
+  him. </p>
+id: HEB/11/6
+next:
+  id: HEB/11/7
+  number: '7'
+previous:
+  id: HEB/11/5
+  number: '5'
+reference: 'Hebrews 11:6'

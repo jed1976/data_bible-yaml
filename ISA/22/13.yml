@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 22:13"
+  class="v">13</span>And behold joy and gladness, slaying oxen, and killing
+  sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we
+  shall die. </p>
+id: ISA/22/13
+next:
+  id: ISA/22/14
+  number: '14'
+previous:
+  id: ISA/22/12
+  number: '12'
+reference: 'Isaiah 22:13'

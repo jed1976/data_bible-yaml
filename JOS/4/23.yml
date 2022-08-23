@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 4:23" class="v">23</span>For
+  the <span class="nd">LORD</span> your God dried up the waters of Jordan from
+  before you, until ye were passed over, as the <span class="nd">LORD</span>
+  your God did to the Red sea, which he dried up from before us, until we were
+  gone over: </p>
+id: JOS/4/23
+next:
+  id: JOS/4/24
+  number: '24'
+previous:
+  id: JOS/4/22
+  number: '22'
+reference: 'Joshua 4:23'

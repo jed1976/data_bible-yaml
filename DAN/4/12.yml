@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 4:12" class="v">12</span>The
+  leaves thereof <span class="add">were</span> fair, and the fruit thereof much,
+  and in it <span class="add">was</span> meat for all: the beasts of the field
+  had shadow under it, and the fowls of the heaven dwelt in the boughs thereof,
+  and all flesh was fed of it. </p>
+id: DAN/4/12
+next:
+  id: DAN/4/13
+  number: '13'
+previous:
+  id: DAN/4/11
+  number: '11'
+reference: 'Daniel 4:12'

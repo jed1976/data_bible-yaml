@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 10:20"
+  class="v">20</span>But I <span class="add">say</span>, that the things which
+  the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would
+  not that ye should have fellowship with devils. </p>
+id: 1CO/10/20
+next:
+  id: 1CO/10/21
+  number: '21'
+previous:
+  id: 1CO/10/19
+  number: '19'
+reference: '1 Corinthians 10:20'

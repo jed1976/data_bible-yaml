@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 4:23" class="v">23</span>So
+  neither I, nor my brethren, nor my servants, nor the men of the guard which
+  followed me, none of us put off our clothes, <span class="add">saving
+  that</span> every one put them off for washing.</p>
+id: NEH/4/23
+next:
+  id: NEH/5/1
+  number: '1'
+previous:
+  id: NEH/4/22
+  number: '22'
+reference: 'Nehemiah 4:23'

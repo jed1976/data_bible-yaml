@@ -1,0 +1,15 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 62:9"
+  class="v">9</span>Surely men of low degree <span class="add">are</span>
+  vanity, <span class="add">and</span> men of high degree <span
+  class="add">are</span> a lie: to be laid in the balance, they <span
+  class="add">are</span> altogether <span class="add">lighter</span> than
+  vanity.</p>
+id: PSA/62/9
+next:
+  id: PSA/62/10
+  number: '10'
+previous:
+  id: PSA/62/8
+  number: '8'
+reference: 'Psalms 62:9'

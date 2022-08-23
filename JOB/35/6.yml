@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 35:6" class="v">6</span>If
+  thou sinnest, what doest thou against him? or <span class="add">if</span> thy
+  transgressions be multiplied, what doest thou unto him? </p>
+id: JOB/35/6
+next:
+  id: JOB/35/7
+  number: '7'
+previous:
+  id: JOB/35/5
+  number: '5'
+reference: 'Job 35:6'

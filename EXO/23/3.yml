@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 23:3" class="v">3</span>¶
+  Neither shalt thou countenance a poor man in his cause.</p>
+id: EXO/23/3
+next:
+  id: EXO/23/4
+  number: '4'
+previous:
+  id: EXO/23/2
+  number: '2'
+reference: 'Exodus 23:3'

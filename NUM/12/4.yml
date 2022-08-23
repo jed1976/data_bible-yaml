@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 12:4" class="v">4</span>And
+  the <span class="nd">LORD</span> spake suddenly unto Moses, and unto Aaron,
+  and unto Miriam, Come out ye three unto the tabernacle of the congregation.
+  And they three came out. </p>
+id: NUM/12/4
+next:
+  id: NUM/12/5
+  number: '5'
+previous:
+  id: NUM/12/3
+  number: '3'
+reference: 'Numbers 12:4'

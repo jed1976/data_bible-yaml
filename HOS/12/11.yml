@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 12:11"
+  class="v">11</span><span class="add">Is there</span> iniquity <span
+  class="add">in</span> Gilead? surely they are vanity: they sacrifice bullocks
+  in Gilgal; yea, their altars <span class="add">are</span> as heaps in the
+  furrows of the fields. </p>
+id: HOS/12/11
+next:
+  id: HOS/12/12
+  number: '12'
+previous:
+  id: HOS/12/10
+  number: '10'
+reference: 'Hosea 12:11'

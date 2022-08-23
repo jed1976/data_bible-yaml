@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JON 1:15" class="v">15</span>So
+  they took up Jonah, and cast him forth into the sea: and the sea ceased from
+  her raging. </p>
+id: JON/1/15
+next:
+  id: JON/1/16
+  number: '16'
+previous:
+  id: JON/1/14
+  number: '14'
+reference: 'Jonah 1:15'

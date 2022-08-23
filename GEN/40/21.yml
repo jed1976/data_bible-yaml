@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 40:21"
+  class="v">21</span>And he restored the chief butler unto his butlership again;
+  and he gave the cup into Pharaoh’s hand: </p>
+id: GEN/40/21
+next:
+  id: GEN/40/22
+  number: '22'
+previous:
+  id: GEN/40/20
+  number: '20'
+reference: 'Genesis 40:21'

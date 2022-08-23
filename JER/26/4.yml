@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 26:4" class="v">4</span>And
+  thou shalt say unto them, Thus saith the <span class="nd">LORD</span>; If ye
+  will not hearken to me, to walk in my law, which I have set before you, </p>
+id: JER/26/4
+next:
+  id: JER/26/5
+  number: '5'
+previous:
+  id: JER/26/3
+  number: '3'
+reference: 'Jeremiah 26:4'

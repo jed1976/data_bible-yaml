@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 45:25" class="v">25</span>¶
+  And they went up out of Egypt, and came into the land of Canaan unto Jacob
+  their father, </p>
+id: GEN/45/25
+next:
+  id: GEN/45/26
+  number: '26'
+previous:
+  id: GEN/45/24
+  number: '24'
+reference: 'Genesis 45:25'

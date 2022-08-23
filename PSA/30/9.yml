@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 30:9" class="v">9</span>What
+  profit <span class="add">is there</span> in my blood, when I go down to the
+  pit? Shall the dust praise thee? shall it declare thy truth?</p>
+id: PSA/30/9
+next:
+  id: PSA/30/10
+  number: '10'
+previous:
+  id: PSA/30/8
+  number: '8'
+reference: 'Psalms 30:9'

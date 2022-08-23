@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JOB 38:37"
+  class="v">37</span>Who can number the clouds in wisdom? or who can stay the
+  bottles of heaven, </p>
+id: JOB/38/37
+next:
+  id: JOB/38/38
+  number: '38'
+previous:
+  id: JOB/38/36
+  number: '36'
+reference: 'Job 38:37'

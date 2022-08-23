@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="41" data-sid="PSA 105:41"
+  class="v">41</span>He opened the rock, and the waters gushed out; they ran in
+  the dry places <span class="add">like</span> a river.</p>
+id: PSA/105/41
+next:
+  id: PSA/105/42
+  number: '42'
+previous:
+  id: PSA/105/40
+  number: '40'
+reference: 'Psalms 105:41'

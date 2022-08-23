@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 4:17"
+  class="v">17</span>Joshua therefore commanded the priests, saying, Come ye up
+  out of Jordan. </p>
+id: JOS/4/17
+next:
+  id: JOS/4/18
+  number: '18'
+previous:
+  id: JOS/4/16
+  number: '16'
+reference: 'Joshua 4:17'

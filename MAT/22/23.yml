@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 22:23" class="v">23</span>¶
+  The same day came to him the Sadducees, which say that there is no
+  resurrection, and asked him, </p>
+id: MAT/22/23
+next:
+  id: MAT/22/24
+  number: '24'
+previous:
+  id: MAT/22/22
+  number: '22'
+reference: 'Matthew 22:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 26:13" class="v">13</span>At
+  midday, O king, I saw in the way a light from heaven, above the brightness of
+  the sun, shining round about me and them which journeyed with me. </p>
+id: ACT/26/13
+next:
+  id: ACT/26/14
+  number: '14'
+previous:
+  id: ACT/26/12
+  number: '12'
+reference: 'Acts 26:13'

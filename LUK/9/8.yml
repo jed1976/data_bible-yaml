@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 9:8" class="v">8</span>And of
+  some, that Elias had appeared; and of others, that one of the old prophets was
+  risen again. </p>
+id: LUK/9/8
+next:
+  id: LUK/9/9
+  number: '9'
+previous:
+  id: LUK/9/7
+  number: '7'
+reference: 'Luke 9:8'

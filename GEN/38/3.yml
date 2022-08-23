@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 38:3" class="v">3</span>And
+  she conceived, and bare a son; and he called his name Er. </p>
+id: GEN/38/3
+next:
+  id: GEN/38/4
+  number: '4'
+previous:
+  id: GEN/38/2
+  number: '2'
+reference: 'Genesis 38:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 7:8" class="v">8</span><span
+  class="wj">For every one that asketh receiveth; and he that seeketh findeth;
+  and to him that knocketh it shall be opened.</span> </p>
+id: MAT/7/8
+next:
+  id: MAT/7/9
+  number: '9'
+previous:
+  id: MAT/7/7
+  number: '7'
+reference: 'Matthew 7:8'

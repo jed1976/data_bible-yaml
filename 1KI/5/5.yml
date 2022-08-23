@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 5:5" class="v">5</span>And,
+  behold, I purpose to build an house unto the name of the <span
+  class="nd">LORD</span> my God, as the <span class="nd">LORD</span> spake unto
+  David my father, saying, Thy son, whom I will set upon thy throne in thy room,
+  he shall build an house unto my name. </p>
+id: 1KI/5/5
+next:
+  id: 1KI/5/6
+  number: '6'
+previous:
+  id: 1KI/5/4
+  number: '4'
+reference: '1 Kings 5:5'

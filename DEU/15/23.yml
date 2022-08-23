@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 15:23"
+  class="v">23</span>Only thou shalt not eat the blood thereof; thou shalt pour
+  it upon the ground as water.</p>
+id: DEU/15/23
+next:
+  id: DEU/16/1
+  number: '1'
+previous:
+  id: DEU/15/22
+  number: '22'
+reference: 'Deuteronomy 15:23'

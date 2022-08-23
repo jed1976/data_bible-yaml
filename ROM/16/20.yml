@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 16:20"
+  class="v">20</span>And the God of peace shall bruise Satan under your feet
+  shortly. The grace of our Lord Jesus Christ <span class="add">be</span> with
+  you. Amen.</p>
+id: ROM/16/20
+next:
+  id: ROM/16/21
+  number: '21'
+previous:
+  id: ROM/16/19
+  number: '19'
+reference: 'Romans 16:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 15:1" class="v">1</span>And
+  certain men which came down from Judæa taught the brethren, <span
+  class="add">and said</span>, Except ye be circumcised after the manner of
+  Moses, ye cannot be saved. </p>
+id: ACT/15/1
+next:
+  id: ACT/15/2
+  number: '2'
+previous:
+  id: ACT/14/28
+  number: '28'
+reference: 'Acts 15:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 19:18" class="v">18</span>He
+  saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not
+  commit adultery, Thou shalt not steal, Thou shalt not bear false witness, </p>
+id: MAT/19/18
+next:
+  id: MAT/19/19
+  number: '19'
+previous:
+  id: MAT/19/17
+  number: '17'
+reference: 'Matthew 19:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 33:4" class="v">4</span>For
+  thus saith the <span class="nd">LORD</span>, the God of Israel, concerning the
+  houses of this city, and concerning the houses of the kings of Judah, which
+  are thrown down by the mounts, and by the sword; </p>
+id: JER/33/4
+next:
+  id: JER/33/5
+  number: '5'
+previous:
+  id: JER/33/3
+  number: '3'
+reference: 'Jeremiah 33:4'

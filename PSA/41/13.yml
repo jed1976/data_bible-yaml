@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 41:13"
+  class="v">13</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span> God of Israel from everlasting, and to everlasting.
+  Amen, and Amen.</p>
+id: PSA/41/13
+next:
+  id: PSA/42/1
+  number: '1'
+previous:
+  id: PSA/41/12
+  number: '12'
+reference: 'Psalms 41:13'

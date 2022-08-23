@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 10:5" class="v">5</span>When
+  ye blow an alarm, then the camps that lie on the east parts shall go forward.
+  </p>
+id: NUM/10/5
+next:
+  id: NUM/10/6
+  number: '6'
+previous:
+  id: NUM/10/4
+  number: '4'
+reference: 'Numbers 10:5'

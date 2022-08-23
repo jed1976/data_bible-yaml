@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 11:9" class="v">9</span>They
+  shall not hurt nor destroy in all my holy mountain: for the earth shall be
+  full of the knowledge of the <span class="nd">LORD</span>, as the waters cover
+  the sea.</p>
+id: ISA/11/9
+next:
+  id: ISA/11/10
+  number: '10'
+previous:
+  id: ISA/11/8
+  number: '8'
+reference: 'Isaiah 11:9'

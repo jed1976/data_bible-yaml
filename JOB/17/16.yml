@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 17:16"
+  class="v">16</span>They shall go down to the bars of the pit, when <span
+  class="add">our</span> rest together <span class="add">is</span> in the
+  dust.</p>
+id: JOB/17/16
+next:
+  id: JOB/18/1
+  number: '1'
+previous:
+  id: JOB/17/15
+  number: '15'
+reference: 'Job 17:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 14:18"
+  class="v">18</span>And the stork, and the heron after her kind, and the
+  lapwing, and the bat. </p>
+id: DEU/14/18
+next:
+  id: DEU/14/19
+  number: '19'
+previous:
+  id: DEU/14/17
+  number: '17'
+reference: 'Deuteronomy 14:18'

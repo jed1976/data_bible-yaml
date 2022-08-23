@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 36:10" class="v">10</span>He
+  openeth also their ear to discipline, and commandeth that they return from
+  iniquity. </p>
+id: JOB/36/10
+next:
+  id: JOB/36/11
+  number: '11'
+previous:
+  id: JOB/36/9
+  number: '9'
+reference: 'Job 36:10'

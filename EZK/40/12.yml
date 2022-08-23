@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 40:12"
+  class="v">12</span>The space also before the little chambers <span
+  class="add">was</span> one cubit <span class="add">on this side</span>, and
+  the space <span class="add">was</span> one cubit on that side: and the little
+  chambers <span class="add">were</span> six cubits on this side, and six cubits
+  on that side. </p>
+id: EZK/40/12
+next:
+  id: EZK/40/13
+  number: '13'
+previous:
+  id: EZK/40/11
+  number: '11'
+reference: 'Ezekiel 40:12'

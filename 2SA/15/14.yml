@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 15:14"
+  class="v">14</span>And David said unto all his servants that <span
+  class="add">were</span> with him at Jerusalem, Arise, and let us flee; for we
+  shall not <span class="add">else</span> escape from Absalom: make speed to
+  depart, lest he overtake us suddenly, and bring evil upon us, and smite the
+  city with the edge of the sword. </p>
+id: 2SA/15/14
+next:
+  id: 2SA/15/15
+  number: '15'
+previous:
+  id: 2SA/15/13
+  number: '13'
+reference: '2 Samuel 15:14'

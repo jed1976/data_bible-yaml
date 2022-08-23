@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 30:13"
+  class="v">13</span>And David said unto him, To whom <span
+  class="add">belongest</span> thou? and whence <span class="add">art</span>
+  thou? And he said, I <span class="add">am</span> a young man of Egypt, servant
+  to an Amalekite; and my master left me, because three days agone I fell sick.
+  </p>
+id: 1SA/30/13
+next:
+  id: 1SA/30/14
+  number: '14'
+previous:
+  id: 1SA/30/12
+  number: '12'
+reference: '1 Samuel 30:13'

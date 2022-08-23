@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 8:12" class="v">12</span>I
+  wisdom dwell with prudence, and find out knowledge of witty inventions. </p>
+id: PRO/8/12
+next:
+  id: PRO/8/13
+  number: '13'
+previous:
+  id: PRO/8/11
+  number: '11'
+reference: 'Proverbs 8:12'

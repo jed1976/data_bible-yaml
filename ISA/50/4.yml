@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 50:4" class="v">4</span>The
+  Lord <span class="nd">GOD</span> hath given me the tongue of the learned, that
+  I should know how to speak a word in season to <span class="add">him that
+  is</span> weary: he wakeneth morning by morning, he wakeneth mine ear to hear
+  as the learned.</p>
+id: ISA/50/4
+next:
+  id: ISA/50/5
+  number: '5'
+previous:
+  id: ISA/50/3
+  number: '3'
+reference: 'Isaiah 50:4'

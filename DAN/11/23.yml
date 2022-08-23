@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DAN 11:23"
+  class="v">23</span>And after the league <span class="add">made</span> with him
+  he shall work deceitfully: for he shall come up, and shall become strong with
+  a small people. </p>
+id: DAN/11/23
+next:
+  id: DAN/11/24
+  number: '24'
+previous:
+  id: DAN/11/22
+  number: '22'
+reference: 'Daniel 11:23'

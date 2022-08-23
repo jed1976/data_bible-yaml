@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 6:14" class="v">14</span>And
+  David danced before the <span class="nd">LORD</span> with all <span
+  class="add">his</span> might; and David <span class="add">was</span> girded
+  with a linen ephod. </p>
+id: 2SA/6/14
+next:
+  id: 2SA/6/15
+  number: '15'
+previous:
+  id: 2SA/6/13
+  number: '13'
+reference: '2 Samuel 6:14'

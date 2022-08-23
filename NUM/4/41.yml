@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 4:41"
+  class="v">41</span>These <span class="add">are</span> they that were numbered
+  of the families of the sons of Gershon, of all that might do service in the
+  tabernacle of the congregation, whom Moses and Aaron did number according to
+  the commandment of the <span class="nd">LORD</span>.</p>
+id: NUM/4/41
+next:
+  id: NUM/4/42
+  number: '42'
+previous:
+  id: NUM/4/40
+  number: '40'
+reference: 'Numbers 4:41'

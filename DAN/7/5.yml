@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 7:5" class="v">5</span>And
+  behold another beast, a second, like to a bear, and it raised up itself on one
+  side, and <span class="add">it had</span> three ribs in the mouth of it
+  between the teeth of it: and they said thus unto it, Arise, devour much flesh.
+  </p>
+id: DAN/7/5
+next:
+  id: DAN/7/6
+  number: '6'
+previous:
+  id: DAN/7/4
+  number: '4'
+reference: 'Daniel 7:5'

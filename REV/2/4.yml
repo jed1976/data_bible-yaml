@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 2:4" class="v">4</span><span
+  class="wj">Nevertheless I have <span class="add">somewhat</span> against thee,
+  because thou hast left thy first love.</span> </p>
+id: REV/2/4
+next:
+  id: REV/2/5
+  number: '5'
+previous:
+  id: REV/2/3
+  number: '3'
+reference: 'Revelation 2:4'

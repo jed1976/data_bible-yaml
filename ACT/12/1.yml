@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 12:1" class="v">1</span>Now
+  about that time Herod the king stretched forth <span class="add">his</span>
+  hands to vex certain of the church. </p>
+id: ACT/12/1
+next:
+  id: ACT/12/2
+  number: '2'
+previous:
+  id: ACT/11/30
+  number: '30'
+reference: 'Acts 12:1'

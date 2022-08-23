@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 24:10"
+  class="v">10</span>And I will send the sword, the famine, and the pestilence,
+  among them, till they be consumed from off the land that I gave unto them and
+  to their fathers.</p>
+id: JER/24/10
+next:
+  id: JER/25/1
+  number: '1'
+previous:
+  id: JER/24/9
+  number: '9'
+reference: 'Jeremiah 24:10'

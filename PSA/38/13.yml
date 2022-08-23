@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 38:13"
+  class="v">13</span>But I, as a deaf <span class="add">man</span>, heard not;
+  and <span class="add">I was</span> as a dumb man <span class="add">that</span>
+  openeth not his mouth.</p>
+id: PSA/38/13
+next:
+  id: PSA/38/14
+  number: '14'
+previous:
+  id: PSA/38/12
+  number: '12'
+reference: 'Psalms 38:13'

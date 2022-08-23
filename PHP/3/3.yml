@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PHP 3:3" class="v">3</span>For we
+  are the circumcision, which worship God in the spirit, and rejoice in Christ
+  Jesus, and have no confidence in the flesh. </p>
+id: PHP/3/3
+next:
+  id: PHP/3/4
+  number: '4'
+previous:
+  id: PHP/3/2
+  number: '2'
+reference: 'Philippians 3:3'

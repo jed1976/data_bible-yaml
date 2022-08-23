@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GAL 5:11" class="v">11</span>And
+  I, brethren, if I yet preach circumcision, why do I yet suffer persecution?
+  then is the offence of the cross ceased. </p>
+id: GAL/5/11
+next:
+  id: GAL/5/12
+  number: '12'
+previous:
+  id: GAL/5/10
+  number: '10'
+reference: 'Galatians 5:11'

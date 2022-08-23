@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 14:8"
+  class="v">8</span>Philip saith unto him, Lord, shew us the Father, and it
+  sufficeth us. </p>
+id: JHN/14/8
+next:
+  id: JHN/14/9
+  number: '9'
+previous:
+  id: JHN/14/7
+  number: '7'
+reference: 'John 14:8'

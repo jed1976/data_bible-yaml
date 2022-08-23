@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 1:9" class="v">9</span>Then
+  Satan answered the <span class="nd">LORD</span>, and said, Doth Job fear God
+  for nought? </p>
+id: JOB/1/9
+next:
+  id: JOB/1/10
+  number: '10'
+previous:
+  id: JOB/1/8
+  number: '8'
+reference: 'Job 1:9'

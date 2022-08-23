@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 6:10" class="v">10</span>¶
+  Who <span class="add">is</span> she <span class="add">that</span> looketh
+  forth as the morning, fair as the moon, clear as the sun, <span
+  class="add">and</span> terrible as <span class="add">an army</span> with
+  banners?</p>
+id: SNG/6/10
+next:
+  id: SNG/6/11
+  number: '11'
+previous:
+  id: SNG/6/9
+  number: '9'
+reference: 'Song of Solomon 6:10'

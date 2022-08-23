@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 44:5" class="v">5</span><span
+  class="add">Is</span> not this <span class="add">it</span> in which my lord
+  drinketh, and whereby indeed he divineth? ye have done evil in so doing.</p>
+id: GEN/44/5
+next:
+  id: GEN/44/6
+  number: '6'
+previous:
+  id: GEN/44/4
+  number: '4'
+reference: 'Genesis 44:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 46:10" class="v">10</span>¶
+  And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar,
+  and Shaul the son of a Canaanitish woman.</p>
+id: GEN/46/10
+next:
+  id: GEN/46/11
+  number: '11'
+previous:
+  id: GEN/46/9
+  number: '9'
+reference: 'Genesis 46:10'

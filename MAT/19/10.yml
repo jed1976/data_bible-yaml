@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 19:10" class="v">10</span>¶
+  His disciples say unto him, If the case of the man be so with <span
+  class="add">his</span> wife, it is not good to marry. </p>
+id: MAT/19/10
+next:
+  id: MAT/19/11
+  number: '11'
+previous:
+  id: MAT/19/9
+  number: '9'
+reference: 'Matthew 19:10'

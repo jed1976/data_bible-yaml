@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 7:22"
+  class="v">22</span><span class="wj">Many will say to me in that day, Lord,
+  Lord, have we not prophesied in thy name? and in thy name have cast out
+  devils? and in thy name done many wonderful works?</span> </p>
+id: MAT/7/22
+next:
+  id: MAT/7/23
+  number: '23'
+previous:
+  id: MAT/7/21
+  number: '21'
+reference: 'Matthew 7:22'

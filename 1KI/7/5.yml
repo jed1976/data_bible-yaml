@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 7:5" class="v">5</span>And
+  all the doors and posts <span class="add">were</span> square, with the
+  windows: and light <span class="add">was</span> against light <span
+  class="add">in</span> three ranks.</p>
+id: 1KI/7/5
+next:
+  id: 1KI/7/6
+  number: '6'
+previous:
+  id: 1KI/7/4
+  number: '4'
+reference: '1 Kings 7:5'

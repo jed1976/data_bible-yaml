@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LAM 4:13" class="v">13</span>¶
+  For the sins of her prophets, <span class="add">and</span> the iniquities of
+  her priests, that have shed the blood of the just in the midst of her, </p>
+id: LAM/4/13
+next:
+  id: LAM/4/14
+  number: '14'
+previous:
+  id: LAM/4/12
+  number: '12'
+reference: 'Lamentations 4:13'

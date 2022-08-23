@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 16:5" class="v">5</span>Every
+  one <span class="add">that is</span> proud in heart <span
+  class="add">is</span> an abomination to the <span class="nd">LORD</span>:
+  <span class="add">though</span> hand <span class="add">join</span> in hand, he
+  shall not be unpunished. </p>
+id: PRO/16/5
+next:
+  id: PRO/16/6
+  number: '6'
+previous:
+  id: PRO/16/4
+  number: '4'
+reference: 'Proverbs 16:5'

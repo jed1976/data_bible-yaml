@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 39:22" class="v">22</span>He
+  mocketh at fear, and is not affrighted; neither turneth he back from the
+  sword. </p>
+id: JOB/39/22
+next:
+  id: JOB/39/23
+  number: '23'
+previous:
+  id: JOB/39/21
+  number: '21'
+reference: 'Job 39:22'

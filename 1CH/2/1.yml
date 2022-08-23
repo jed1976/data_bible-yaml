@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 2:1" class="v">1</span>These
+  <span class="add">are</span> the sons of Israel; Reuben, Simeon, Levi, and
+  Judah, Issachar, and Zebulun, </p>
+id: 1CH/2/1
+next:
+  id: 1CH/2/2
+  number: '2'
+previous:
+  id: 1CH/1/54
+  number: '54'
+reference: '1 Chronicles 2:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 25:42"
+  class="v">42</span>For they <span class="add">are</span> my servants, which I
+  brought forth out of the land of Egypt: they shall not be sold as bondmen.
+  </p>
+id: LEV/25/42
+next:
+  id: LEV/25/43
+  number: '43'
+previous:
+  id: LEV/25/41
+  number: '41'
+reference: 'Leviticus 25:42'

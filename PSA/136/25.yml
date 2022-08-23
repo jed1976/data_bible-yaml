@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 136:25"
+  class="v">25</span>Who giveth food to all flesh: for his mercy <span
+  class="add">endureth</span> for ever.</p>
+id: PSA/136/25
+next:
+  id: PSA/136/26
+  number: '26'
+previous:
+  id: PSA/136/24
+  number: '24'
+reference: 'Psalms 136:25'

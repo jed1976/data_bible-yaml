@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 14:10"
+  class="v">10</span>But why dost thou judge thy brother? or why dost thou set
+  at nought thy brother? for we shall all stand before the judgment seat of
+  Christ. </p>
+id: ROM/14/10
+next:
+  id: ROM/14/11
+  number: '11'
+previous:
+  id: ROM/14/9
+  number: '9'
+reference: 'Romans 14:10'

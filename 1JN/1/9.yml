@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1JN 1:9" class="v">9</span>If we
+  confess our sins, he is faithful and just to forgive us <span
+  class="add">our</span> sins, and to cleanse us from all unrighteousness. </p>
+id: 1JN/1/9
+next:
+  id: 1JN/1/10
+  number: '10'
+previous:
+  id: 1JN/1/8
+  number: '8'
+reference: '1 John 1:9'

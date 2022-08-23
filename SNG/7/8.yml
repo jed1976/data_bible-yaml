@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 7:8" class="v">8</span>I
+  said, I will go up to the palm tree, I will take hold of the boughs thereof:
+  now also thy breasts shall be as clusters of the vine, and the smell of thy
+  nose like apples; </p>
+id: SNG/7/8
+next:
+  id: SNG/7/9
+  number: '9'
+previous:
+  id: SNG/7/7
+  number: '7'
+reference: 'Song of Solomon 7:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOS 22:26"
+  class="v">26</span>Therefore we said, Let us now prepare to build us an altar,
+  not for burnt offering, nor for sacrifice: </p>
+id: JOS/22/26
+next:
+  id: JOS/22/27
+  number: '27'
+previous:
+  id: JOS/22/25
+  number: '25'
+reference: 'Joshua 22:26'

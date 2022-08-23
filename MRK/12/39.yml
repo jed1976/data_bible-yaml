@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MRK 12:39"
+  class="v">39</span><span class="wj">And the chief seats in the synagogues, and
+  the uppermost rooms at feasts:</span> </p>
+id: MRK/12/39
+next:
+  id: MRK/12/40
+  number: '40'
+previous:
+  id: MRK/12/38
+  number: '38'
+reference: 'Mark 12:39'

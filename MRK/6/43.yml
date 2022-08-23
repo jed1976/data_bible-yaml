@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MRK 6:43" class="v">43</span>And
+  they took up twelve baskets full of the fragments, and of the fishes. </p>
+id: MRK/6/43
+next:
+  id: MRK/6/44
+  number: '44'
+previous:
+  id: MRK/6/42
+  number: '42'
+reference: 'Mark 6:43'

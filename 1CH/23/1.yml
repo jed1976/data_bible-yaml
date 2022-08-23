@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 23:1" class="v">1</span>So
+  when David was old and full of days, he made Solomon his son king over
+  Israel.</p>
+id: 1CH/23/1
+next:
+  id: 1CH/23/2
+  number: '2'
+previous:
+  id: 1CH/22/19
+  number: '19'
+reference: '1 Chronicles 23:1'

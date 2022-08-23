@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 42:4" class="v">4</span>He
+  shall not fail nor be discouraged, till he have set judgment in the earth: and
+  the isles shall wait for his law.</p>
+id: ISA/42/4
+next:
+  id: ISA/42/5
+  number: '5'
+previous:
+  id: ISA/42/3
+  number: '3'
+reference: 'Isaiah 42:4'

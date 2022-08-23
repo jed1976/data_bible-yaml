@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ROM 1:30"
+  class="v">30</span>Backbiters, haters of God, despiteful, proud, boasters,
+  inventors of evil things, disobedient to parents, </p>
+id: ROM/1/30
+next:
+  id: ROM/1/31
+  number: '31'
+previous:
+  id: ROM/1/29
+  number: '29'
+reference: 'Romans 1:30'

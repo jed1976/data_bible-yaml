@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 41:4" class="v">4</span>Who
+  hath wrought and done <span class="add">it</span>, calling the generations
+  from the beginning? I the <span class="nd">LORD</span>, the first, and with
+  the last; I <span class="add">am</span> he. </p>
+id: ISA/41/4
+next:
+  id: ISA/41/5
+  number: '5'
+previous:
+  id: ISA/41/3
+  number: '3'
+reference: 'Isaiah 41:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 7:18" class="v">18</span>And
+  <span class="add">that</span> thou shouldest visit him every morning, <span
+  class="add">and</span> try him every moment? </p>
+id: JOB/7/18
+next:
+  id: JOB/7/19
+  number: '19'
+previous:
+  id: JOB/7/17
+  number: '17'
+reference: 'Job 7:18'

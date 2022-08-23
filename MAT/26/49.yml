@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="MAT 26:49"
+  class="v">49</span>And forthwith he came to Jesus, and said, Hail, master; and
+  kissed him. </p>
+id: MAT/26/49
+next:
+  id: MAT/26/50
+  number: '50'
+previous:
+  id: MAT/26/48
+  number: '48'
+reference: 'Matthew 26:49'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 14:23" class="v">23</span>So
+  the <span class="nd">LORD</span> saved Israel that day: and the battle passed
+  over unto Beth-aven.</p>
+id: 1SA/14/23
+next:
+  id: 1SA/14/24
+  number: '24'
+previous:
+  id: 1SA/14/22
+  number: '22'
+reference: '1 Samuel 14:23'

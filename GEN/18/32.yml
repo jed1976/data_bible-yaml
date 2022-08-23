@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 18:32"
+  class="v">32</span>And he said, Oh let not the Lord be angry, and I will speak
+  yet but this once: Peradventure ten shall be found there. And he said, I will
+  not destroy <span class="add">it</span> for ten’s sake. </p>
+id: GEN/18/32
+next:
+  id: GEN/18/33
+  number: '33'
+previous:
+  id: GEN/18/31
+  number: '31'
+reference: 'Genesis 18:32'

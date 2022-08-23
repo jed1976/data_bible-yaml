@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 42:32" class="v">32</span>We
+  <span class="add">be</span> twelve brethren, sons of our father; one <span
+  class="add">is</span> not, and the youngest <span class="add">is</span> this
+  day with our father in the land of Canaan. </p>
+id: GEN/42/32
+next:
+  id: GEN/42/33
+  number: '33'
+previous:
+  id: GEN/42/31
+  number: '31'
+reference: 'Genesis 42:32'

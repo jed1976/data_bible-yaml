@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 6:27" class="v">27</span>And
+  they shall put my name upon the children of Israel; and I will bless them.</p>
+id: NUM/6/27
+next:
+  id: NUM/7/1
+  number: '1'
+previous:
+  id: NUM/6/26
+  number: '26'
+reference: 'Numbers 6:27'

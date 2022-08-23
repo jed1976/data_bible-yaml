@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 5:16"
+  class="v">16</span>There came also a multitude <span class="add">out</span> of
+  the cities round about unto Jerusalem, bringing sick folks, and them which
+  were vexed with unclean spirits: and they were healed every one.</p>
+id: ACT/5/16
+next:
+  id: ACT/5/17
+  number: '17'
+previous:
+  id: ACT/5/15
+  number: '15'
+reference: 'Acts 5:16'

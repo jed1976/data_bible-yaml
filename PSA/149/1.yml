@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 149:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. Sing unto the
+  <span class="nd">LORD</span> a new song, <span class="add">and</span> his
+  praise in the congregation of saints.</p>
+id: PSA/149/1
+next:
+  id: PSA/149/2
+  number: '2'
+previous:
+  id: PSA/148/14
+  number: '14'
+reference: 'Psalms 149:1'

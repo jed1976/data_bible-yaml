@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 41:33"
+  class="v">33</span>Upon earth there is not his like, who is made without fear.
+  </p>
+id: JOB/41/33
+next:
+  id: JOB/41/34
+  number: '34'
+previous:
+  id: JOB/41/32
+  number: '32'
+reference: 'Job 41:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ZEP 3:17" class="v">17</span>The
+  <span class="nd">LORD</span> thy God in the midst of thee <span
+  class="add">is</span> mighty; he will save, he will rejoice over thee with
+  joy; he will rest in his love, he will joy over thee with singing. </p>
+id: ZEP/3/17
+next:
+  id: ZEP/3/18
+  number: '18'
+previous:
+  id: ZEP/3/16
+  number: '16'
+reference: 'Zephaniah 3:17'

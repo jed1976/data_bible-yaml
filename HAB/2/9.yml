@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HAB 2:9" class="v">9</span>¶ Woe
+  to him that coveteth an evil covetousness to his house, that he may set his
+  nest on high, that he may be delivered from the power of evil! </p>
+id: HAB/2/9
+next:
+  id: HAB/2/10
+  number: '10'
+previous:
+  id: HAB/2/8
+  number: '8'
+reference: 'Habakkuk 2:9'

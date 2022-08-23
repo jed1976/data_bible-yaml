@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="RUT 1:7"
+  class="v">7</span>Wherefore she went forth out of the place where she was, and
+  her two daughters in law with her; and they went on the way to return unto the
+  land of Judah. </p>
+id: RUT/1/7
+next:
+  id: RUT/1/8
+  number: '8'
+previous:
+  id: RUT/1/6
+  number: '6'
+reference: 'Ruth 1:7'

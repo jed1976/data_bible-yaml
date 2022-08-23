@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 7:14"
+  class="v">14</span>Thou shalt be blessed above all people: there shall not be
+  male or female barren among you, or among your cattle. </p>
+id: DEU/7/14
+next:
+  id: DEU/7/15
+  number: '15'
+previous:
+  id: DEU/7/13
+  number: '13'
+reference: 'Deuteronomy 7:14'

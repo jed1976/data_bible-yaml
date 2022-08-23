@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 24:12" class="v">12</span>Go
+  and say unto David, Thus saith the <span class="nd">LORD</span>, I offer thee
+  three <span class="add">things;</span> choose thee one of them, that I may
+  <span class="add">do it</span> unto thee. </p>
+id: 2SA/24/12
+next:
+  id: 2SA/24/13
+  number: '13'
+previous:
+  id: 2SA/24/11
+  number: '11'
+reference: '2 Samuel 24:12'

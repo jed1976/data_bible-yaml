@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 66:10"
+  class="v">10</span>Rejoice ye with Jerusalem, and be glad with her, all ye
+  that love her: rejoice for joy with her, all ye that mourn for her: </p>
+id: ISA/66/10
+next:
+  id: ISA/66/11
+  number: '11'
+previous:
+  id: ISA/66/9
+  number: '9'
+reference: 'Isaiah 66:10'

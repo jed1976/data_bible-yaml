@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 50:11" class="v">11</span>I
+  know all the fowls of the mountains: and the wild beasts of the field <span
+  class="add">are</span> mine.</p>
+id: PSA/50/11
+next:
+  id: PSA/50/12
+  number: '12'
+previous:
+  id: PSA/50/10
+  number: '10'
+reference: 'Psalms 50:11'

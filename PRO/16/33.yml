@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 16:33"
+  class="v">33</span>The lot is cast into the lap; but the whole disposing
+  thereof <span class="add">is</span> of the <span class="nd">LORD</span>.</p>
+id: PRO/16/33
+next:
+  id: PRO/17/1
+  number: '1'
+previous:
+  id: PRO/16/32
+  number: '32'
+reference: 'Proverbs 16:33'

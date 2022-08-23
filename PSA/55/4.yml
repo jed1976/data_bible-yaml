@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 55:4" class="v">4</span>My
+  heart is sore pained within me: and the terrors of death are fallen upon
+  me.</p>
+id: PSA/55/4
+next:
+  id: PSA/55/5
+  number: '5'
+previous:
+  id: PSA/55/3
+  number: '3'
+reference: 'Psalms 55:4'

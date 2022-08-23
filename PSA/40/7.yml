@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 40:7" class="v">7</span>Then
+  said I, Lo, I come: in the volume of the book <span class="add">it is</span>
+  written of me,</p>
+id: PSA/40/7
+next:
+  id: PSA/40/8
+  number: '8'
+previous:
+  id: PSA/40/6
+  number: '6'
+reference: 'Psalms 40:7'

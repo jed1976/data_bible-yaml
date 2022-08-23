@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 6:12" class="v">12</span>And
+  the <span class="nd">LORD</span> have removed men far away, and <span
+  class="add">there be</span> a great forsaking in the midst of the land.</p>
+id: ISA/6/12
+next:
+  id: ISA/6/13
+  number: '13'
+previous:
+  id: ISA/6/11
+  number: '11'
+reference: 'Isaiah 6:12'

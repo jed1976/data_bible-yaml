@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 7:21" class="v">21</span>I
+  beheld, and the same horn made war with the saints, and prevailed against
+  them; </p>
+id: DAN/7/21
+next:
+  id: DAN/7/22
+  number: '22'
+previous:
+  id: DAN/7/20
+  number: '20'
+reference: 'Daniel 7:21'

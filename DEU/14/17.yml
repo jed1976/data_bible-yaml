@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 14:17"
+  class="v">17</span>And the pelican, and the gier eagle, and the cormorant,
+  </p>
+id: DEU/14/17
+next:
+  id: DEU/14/18
+  number: '18'
+previous:
+  id: DEU/14/16
+  number: '16'
+reference: 'Deuteronomy 14:17'

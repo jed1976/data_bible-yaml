@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOS 21:33"
+  class="v">33</span>All the cities of the Gershonites according to their
+  families <span class="add">were</span> thirteen cities with their suburbs.</p>
+id: JOS/21/33
+next:
+  id: JOS/21/34
+  number: '34'
+previous:
+  id: JOS/21/32
+  number: '32'
+reference: 'Joshua 21:33'

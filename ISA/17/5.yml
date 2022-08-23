@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 17:5" class="v">5</span>And
+  it shall be as when the harvestman gathereth the corn, and reapeth the ears
+  with his arm; and it shall be as he that gathereth ears in the valley of
+  Rephaim.</p>
+id: ISA/17/5
+next:
+  id: ISA/17/6
+  number: '6'
+previous:
+  id: ISA/17/4
+  number: '4'
+reference: 'Isaiah 17:5'

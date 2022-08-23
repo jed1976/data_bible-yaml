@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 42:21" class="v">21</span>¶
+  And they said one to another, We <span class="add">are</span> verily guilty
+  concerning our brother, in that we saw the anguish of his soul, when he
+  besought us, and we would not hear; therefore is this distress come upon us.
+  </p>
+id: GEN/42/21
+next:
+  id: GEN/42/22
+  number: '22'
+previous:
+  id: GEN/42/20
+  number: '20'
+reference: 'Genesis 42:21'

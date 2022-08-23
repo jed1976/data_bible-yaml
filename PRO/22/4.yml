@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 22:4" class="v">4</span>By
+  humility <span class="add">and</span> the fear of the <span
+  class="nd">LORD</span> <span class="add">are</span> riches, and honour, and
+  life. </p>
+id: PRO/22/4
+next:
+  id: PRO/22/5
+  number: '5'
+previous:
+  id: PRO/22/3
+  number: '3'
+reference: 'Proverbs 22:4'

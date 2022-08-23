@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1KI 7:33" class="v">33</span>And
+  the work of the wheels <span class="add">was</span> like the work of a chariot
+  wheel: their axletrees, and their naves, and their felloes, and their spokes,
+  <span class="add">were</span> all molten. </p>
+id: 1KI/7/33
+next:
+  id: 1KI/7/34
+  number: '34'
+previous:
+  id: 1KI/7/32
+  number: '32'
+reference: '1 Kings 7:33'

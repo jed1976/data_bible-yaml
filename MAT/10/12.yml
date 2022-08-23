@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 10:12"
+  class="v">12</span><span class="wj">And when ye come into an house, salute
+  it.</span> </p>
+id: MAT/10/12
+next:
+  id: MAT/10/13
+  number: '13'
+previous:
+  id: MAT/10/11
+  number: '11'
+reference: 'Matthew 10:12'

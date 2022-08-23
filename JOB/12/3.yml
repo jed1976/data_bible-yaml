@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 12:3" class="v">3</span>But I
+  have understanding as well as you; I <span class="add">am</span> not inferior
+  to you: yea, who knoweth not such things as these? </p>
+id: JOB/12/3
+next:
+  id: JOB/12/4
+  number: '4'
+previous:
+  id: JOB/12/2
+  number: '2'
+reference: 'Job 12:3'

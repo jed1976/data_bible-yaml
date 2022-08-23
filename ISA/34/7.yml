@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 34:7" class="v">7</span>And
+  the unicorns shall come down with them, and the bullocks with the bulls; and
+  their land shall be soaked with blood, and their dust made fat with fatness.
+  </p>
+id: ISA/34/7
+next:
+  id: ISA/34/8
+  number: '8'
+previous:
+  id: ISA/34/6
+  number: '6'
+reference: 'Isaiah 34:7'

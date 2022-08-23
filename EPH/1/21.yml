@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EPH 1:21" class="v">21</span>Far
+  above all principality, and power, and might, and dominion, and every name
+  that is named, not only in this world, but also in that which is to come: </p>
+id: EPH/1/21
+next:
+  id: EPH/1/22
+  number: '22'
+previous:
+  id: EPH/1/20
+  number: '20'
+reference: 'Ephesians 1:21'

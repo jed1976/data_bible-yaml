@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 11:24"
+  class="v">24</span>For if thou wert cut out of the olive tree which is wild by
+  nature, and wert graffed contrary to nature into a good olive tree: how much
+  more shall these, which be the natural <span class="add">branches</span>, be
+  graffed into their own olive tree?</p>
+id: ROM/11/24
+next:
+  id: ROM/11/25
+  number: '25'
+previous:
+  id: ROM/11/23
+  number: '23'
+reference: 'Romans 11:24'

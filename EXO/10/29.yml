@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 10:29"
+  class="v">29</span>And Moses said, Thou hast spoken well, I will see thy face
+  again no more.</p>
+id: EXO/10/29
+next:
+  id: EXO/11/1
+  number: '1'
+previous:
+  id: EXO/10/28
+  number: '28'
+reference: 'Exodus 10:29'

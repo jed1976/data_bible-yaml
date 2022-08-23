@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 28:10"
+  class="v">10</span>And all people of the earth shall see that thou art called
+  by the name of the <span class="nd">LORD</span>; and they shall be afraid of
+  thee. </p>
+id: DEU/28/10
+next:
+  id: DEU/28/11
+  number: '11'
+previous:
+  id: DEU/28/9
+  number: '9'
+reference: 'Deuteronomy 28:10'

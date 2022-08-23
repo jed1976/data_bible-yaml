@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 20:9" class="v">9</span><span
+  class="wj">And when they came that <span class="add">were hired</span> about
+  the eleventh hour, they received every man a penny.</span> </p>
+id: MAT/20/9
+next:
+  id: MAT/20/10
+  number: '10'
+previous:
+  id: MAT/20/8
+  number: '8'
+reference: 'Matthew 20:9'

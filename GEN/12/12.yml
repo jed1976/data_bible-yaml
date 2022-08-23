@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 12:12"
+  class="v">12</span>Therefore it shall come to pass, when the Egyptians shall
+  see thee, that they shall say, This <span class="add">is</span> his wife: and
+  they will kill me, but they will save thee alive. </p>
+id: GEN/12/12
+next:
+  id: GEN/12/13
+  number: '13'
+previous:
+  id: GEN/12/11
+  number: '11'
+reference: 'Genesis 12:12'

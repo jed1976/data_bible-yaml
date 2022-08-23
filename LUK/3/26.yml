@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 3:26"
+  class="v">26</span>Which was <span class="add">the son</span> of Maath, which
+  was <span class="add">the son</span> of Mattathias, which was <span
+  class="add">the son</span> of Semei, which was <span class="add">the
+  son</span> of Joseph, which was <span class="add">the son</span> of Juda, </p>
+id: LUK/3/26
+next:
+  id: LUK/3/27
+  number: '27'
+previous:
+  id: LUK/3/25
+  number: '25'
+reference: 'Luke 3:26'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 2:10" class="v">10</span>And
+  that which is left of the meat offering <span class="add">shall be</span>
+  Aaron’s and his sons’: <span class="add">it is</span> a thing most holy of the
+  offerings of the <span class="nd">LORD</span> made by fire.</p>
+id: LEV/2/10
+next:
+  id: LEV/2/11
+  number: '11'
+previous:
+  id: LEV/2/9
+  number: '9'
+reference: 'Leviticus 2:10'

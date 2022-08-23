@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 27:7" class="v">7</span>And
+  if <span class="add">it be</span> from sixty years old and above; if <span
+  class="add">it be</span> a male, then thy estimation shall be fifteen shekels,
+  and for the female ten shekels. </p>
+id: LEV/27/7
+next:
+  id: LEV/27/8
+  number: '8'
+previous:
+  id: LEV/27/6
+  number: '6'
+reference: 'Leviticus 27:7'

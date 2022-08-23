@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 15:24"
+  class="v">24</span><span class="wj">If I had not done among them the works
+  which none other man did, they had not had sin: but now have they both seen
+  and hated both me and my Father.</span> </p>
+id: JHN/15/24
+next:
+  id: JHN/15/25
+  number: '25'
+previous:
+  id: JHN/15/23
+  number: '23'
+reference: 'John 15:24'

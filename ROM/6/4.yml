@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 6:4"
+  class="v">4</span>Therefore we are buried with him by baptism into death: that
+  like as Christ was raised up from the dead by the glory of the Father, even so
+  we also should walk in newness of life. </p>
+id: ROM/6/4
+next:
+  id: ROM/6/5
+  number: '5'
+previous:
+  id: ROM/6/3
+  number: '3'
+reference: 'Romans 6:4'

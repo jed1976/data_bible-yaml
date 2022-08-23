@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 39:1"
+  class="v">1</span>Knowest thou the time when the wild goats of the rock bring
+  forth? <span class="add">or</span> canst thou mark when the hinds do calve?
+  </p>
+id: JOB/39/1
+next:
+  id: JOB/39/2
+  number: '2'
+previous:
+  id: JOB/38/41
+  number: '41'
+reference: 'Job 39:1'

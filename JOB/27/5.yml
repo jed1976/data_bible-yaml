@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 27:5" class="v">5</span>God
+  forbid that I should justify you: till I die I will not remove mine integrity
+  from me. </p>
+id: JOB/27/5
+next:
+  id: JOB/27/6
+  number: '6'
+previous:
+  id: JOB/27/4
+  number: '4'
+reference: 'Job 27:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 7:10" class="v">10</span>And
+  every meat offering, mingled with oil, and dry, shall all the sons of Aaron
+  have, one <span class="add">as much</span> as another.</p>
+id: LEV/7/10
+next:
+  id: LEV/7/11
+  number: '11'
+previous:
+  id: LEV/7/9
+  number: '9'
+reference: 'Leviticus 7:10'

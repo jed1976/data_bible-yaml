@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 16:20"
+  class="v">20</span>Then charged he his disciples that they should tell no man
+  that he was Jesus the Christ.</p>
+id: MAT/16/20
+next:
+  id: MAT/16/21
+  number: '21'
+previous:
+  id: MAT/16/19
+  number: '19'
+reference: 'Matthew 16:20'

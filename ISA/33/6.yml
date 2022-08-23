@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 33:6" class="v">6</span>And
+  wisdom and knowledge shall be the stability of thy times, <span
+  class="add">and</span> strength of salvation: the fear of the <span
+  class="nd">LORD</span> <span class="add">is</span> his treasure. </p>
+id: ISA/33/6
+next:
+  id: ISA/33/7
+  number: '7'
+previous:
+  id: ISA/33/5
+  number: '5'
+reference: 'Isaiah 33:6'

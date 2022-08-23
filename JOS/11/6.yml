@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 11:6" class="v">6</span>¶ And
+  the <span class="nd">LORD</span> said unto Joshua, Be not afraid because of
+  them: for to morrow about this time will I deliver them up all slain before
+  Israel: thou shalt hough their horses, and burn their chariots with fire. </p>
+id: JOS/11/6
+next:
+  id: JOS/11/7
+  number: '7'
+previous:
+  id: JOS/11/5
+  number: '5'
+reference: 'Joshua 11:6'

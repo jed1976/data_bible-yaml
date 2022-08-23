@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 31:11" class="v">11</span>¶
+  Then Hezekiah commanded to prepare chambers in the house of the <span
+  class="nd">LORD</span>; and they prepared <span class="add">them</span>, </p>
+id: 2CH/31/11
+next:
+  id: 2CH/31/12
+  number: '12'
+previous:
+  id: 2CH/31/10
+  number: '10'
+reference: '2 Chronicles 31:11'

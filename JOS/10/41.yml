@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JOS 10:41"
+  class="v">41</span>And Joshua smote them from Kadesh-barnea even unto Gaza,
+  and all the country of Goshen, even unto Gibeon. </p>
+id: JOS/10/41
+next:
+  id: JOS/10/42
+  number: '42'
+previous:
+  id: JOS/10/40
+  number: '40'
+reference: 'Joshua 10:41'

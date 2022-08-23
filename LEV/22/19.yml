@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 22:19"
+  class="v">19</span><span class="add">Ye shall offer</span> at your own will a
+  male without blemish, of the beeves, of the sheep, or of the goats. </p>
+id: LEV/22/19
+next:
+  id: LEV/22/20
+  number: '20'
+previous:
+  id: LEV/22/18
+  number: '18'
+reference: 'Leviticus 22:19'

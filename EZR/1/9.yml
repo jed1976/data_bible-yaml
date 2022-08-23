@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 1:9" class="v">9</span>And
+  this <span class="add">is</span> the number of them: thirty chargers of gold,
+  a thousand chargers of silver, nine and twenty knives, </p>
+id: EZR/1/9
+next:
+  id: EZR/1/10
+  number: '10'
+previous:
+  id: EZR/1/8
+  number: '8'
+reference: 'Ezra 1:9'

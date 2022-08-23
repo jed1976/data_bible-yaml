@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 8:3" class="v">3</span><span
+  class="wj">And if I send them away fasting to their own houses, they will
+  faint by the way: for divers of them came from far.</span> </p>
+id: MRK/8/3
+next:
+  id: MRK/8/4
+  number: '4'
+previous:
+  id: MRK/8/2
+  number: '2'
+reference: 'Mark 8:3'

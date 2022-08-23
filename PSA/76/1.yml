@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth, A Psalm <span
+  class="add">or</span> Song of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 76:1" class="v">1</span>In Judah <span class="add">is</span> God
+  known: his name <span class="add">is</span> great in Israel.</p>
+id: PSA/76/1
+next:
+  id: PSA/76/2
+  number: '2'
+previous:
+  id: PSA/75/10
+  number: '10'
+reference: 'Psalms 76:1'

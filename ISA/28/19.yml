@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 28:19"
+  class="v">19</span>From the time that it goeth forth it shall take you: for
+  morning by morning shall it pass over, by day and by night: and it shall be a
+  vexation only <span class="add">to</span> understand the report. </p>
+id: ISA/28/19
+next:
+  id: ISA/28/20
+  number: '20'
+previous:
+  id: ISA/28/18
+  number: '18'
+reference: 'Isaiah 28:19'

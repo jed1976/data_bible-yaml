@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 10:4" class="v">4</span>But
+  they were exceedingly afraid, and said, Behold, two kings stood not before
+  him: how then shall we stand? </p>
+id: 2KI/10/4
+next:
+  id: 2KI/10/5
+  number: '5'
+previous:
+  id: 2KI/10/3
+  number: '3'
+reference: '2 Kings 10:4'

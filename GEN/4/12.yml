@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 4:12"
+  class="v">12</span>When thou tillest the ground, it shall not henceforth yield
+  unto thee her strength; a fugitive and a vagabond shalt thou be in the
+  earth.</p>
+id: GEN/4/12
+next:
+  id: GEN/4/13
+  number: '13'
+previous:
+  id: GEN/4/11
+  number: '11'
+reference: 'Genesis 4:12'

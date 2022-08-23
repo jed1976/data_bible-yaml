@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 15:7" class="v">7</span><span
+  class="add">Art</span> thou the first man <span class="add">that</span> was
+  born? or wast thou made before the hills? </p>
+id: JOB/15/7
+next:
+  id: JOB/15/8
+  number: '8'
+previous:
+  id: JOB/15/6
+  number: '6'
+reference: 'Job 15:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 5:11" class="v">11</span>¶
+  And the children of Gad dwelt over against them, in the land of Bashan unto
+  Salchah: </p>
+id: 1CH/5/11
+next:
+  id: 1CH/5/12
+  number: '12'
+previous:
+  id: 1CH/5/10
+  number: '10'
+reference: '1 Chronicles 5:11'

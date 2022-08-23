@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 18:29"
+  class="v">29</span><span class="wj">And his fellowservant fell down at his
+  feet, and besought him, saying, Have patience with me, and I will pay thee
+  all.</span> </p>
+id: MAT/18/29
+next:
+  id: MAT/18/30
+  number: '30'
+previous:
+  id: MAT/18/28
+  number: '28'
+reference: 'Matthew 18:29'

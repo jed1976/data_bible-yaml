@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 10:11"
+  class="v">11</span>And the <span class="nd">LORD</span> said unto the children
+  of Israel, <span class="add">Did</span> not <span class="add">I deliver
+  you</span> from the Egyptians, and from the Amorites, from the children of
+  Ammon, and from the Philistines? </p>
+id: JDG/10/11
+next:
+  id: JDG/10/12
+  number: '12'
+previous:
+  id: JDG/10/10
+  number: '10'
+reference: 'Judges 10:11'

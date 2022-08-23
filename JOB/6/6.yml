@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 6:6" class="v">6</span>Can
+  that which is unsavoury be eaten without salt? or is there <span
+  class="add">any</span> taste in the white of an egg? </p>
+id: JOB/6/6
+next:
+  id: JOB/6/7
+  number: '7'
+previous:
+  id: JOB/6/5
+  number: '5'
+reference: 'Job 6:6'

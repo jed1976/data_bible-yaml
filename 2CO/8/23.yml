@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2CO 8:23"
+  class="v">23</span>Whether <span class="add">any do enquire</span> of Titus,
+  <span class="add">he is</span> my partner and fellowhelper concerning you: or
+  our brethren <span class="add">be enquired of, they are</span> the messengers
+  of the churches, <span class="add">and</span> the glory of Christ. </p>
+id: 2CO/8/23
+next:
+  id: 2CO/8/24
+  number: '24'
+previous:
+  id: 2CO/8/22
+  number: '22'
+reference: '2 Corinthians 8:23'

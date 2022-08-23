@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 16:18"
+  class="v">18</span>For they that are such serve not our Lord Jesus Christ, but
+  their own belly; and by good words and fair speeches deceive the hearts of the
+  simple. </p>
+id: ROM/16/18
+next:
+  id: ROM/16/19
+  number: '19'
+previous:
+  id: ROM/16/17
+  number: '17'
+reference: 'Romans 16:18'

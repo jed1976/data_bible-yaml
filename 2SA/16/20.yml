@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 16:20" class="v">20</span>¶
+  Then said Absalom to Ahithophel, Give counsel among you what we shall do. </p>
+id: 2SA/16/20
+next:
+  id: 2SA/16/21
+  number: '21'
+previous:
+  id: 2SA/16/19
+  number: '19'
+reference: '2 Samuel 16:20'

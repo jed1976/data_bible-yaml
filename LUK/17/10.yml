@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 17:10"
+  class="v">10</span><span class="wj">So likewise ye, when ye shall have done
+  all those things which are commanded you, say, We are unprofitable servants:
+  we have done that which was our duty to do.</span></p>
+id: LUK/17/10
+next:
+  id: LUK/17/11
+  number: '11'
+previous:
+  id: LUK/17/9
+  number: '9'
+reference: 'Luke 17:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2JN 1:5" class="v">5</span>And
+  now I beseech thee, lady, not as though I wrote a new commandment unto thee,
+  but that which we had from the beginning, that we love one another. </p>
+id: 2JN/1/5
+next:
+  id: 2JN/1/6
+  number: '6'
+previous:
+  id: 2JN/1/4
+  number: '4'
+reference: '2 John 1:5'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOS 10:27"
+  class="v">27</span>And it came to pass at the time of the going down of the
+  sun, <span class="add">that</span> Joshua commanded, and they took them down
+  off the trees, and cast them into the cave wherein they had been hid, and laid
+  great stones in the cave’s mouth, <span class="add">which remain</span> until
+  this very day.</p>
+id: JOS/10/27
+next:
+  id: JOS/10/28
+  number: '28'
+previous:
+  id: JOS/10/26
+  number: '26'
+reference: 'Joshua 10:27'

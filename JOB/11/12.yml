@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 11:12"
+  class="v">12</span>For vain man would be wise, though man be born <span
+  class="add">like</span> a wild ass’s colt.</p>
+id: JOB/11/12
+next:
+  id: JOB/11/13
+  number: '13'
+previous:
+  id: JOB/11/11
+  number: '11'
+reference: 'Job 11:12'

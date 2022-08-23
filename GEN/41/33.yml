@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 41:33"
+  class="v">33</span>Now therefore let Pharaoh look out a man discreet and wise,
+  and set him over the land of Egypt. </p>
+id: GEN/41/33
+next:
+  id: GEN/41/34
+  number: '34'
+previous:
+  id: GEN/41/32
+  number: '32'
+reference: 'Genesis 41:33'

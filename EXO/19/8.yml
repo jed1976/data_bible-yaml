@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 19:8" class="v">8</span>And
+  all the people answered together, and said, All that the <span
+  class="nd">LORD</span> hath spoken we will do. And Moses returned the words of
+  the people unto the <span class="nd">LORD</span>.</p>
+id: EXO/19/8
+next:
+  id: EXO/19/9
+  number: '9'
+previous:
+  id: EXO/19/7
+  number: '7'
+reference: 'Exodus 19:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 30:10"
+  class="v">10</span>Hear, O <span class="nd">LORD</span>, and have mercy upon
+  me: <span class="nd">LORD</span>, be thou my helper.</p>
+id: PSA/30/10
+next:
+  id: PSA/30/11
+  number: '11'
+previous:
+  id: PSA/30/9
+  number: '9'
+reference: 'Psalms 30:10'

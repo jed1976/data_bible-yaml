@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 15:21"
+  class="v">21</span>And Miriam answered them, Sing ye to the <span
+  class="nd">LORD</span>, for he hath triumphed gloriously; the horse and his
+  rider hath he thrown into the sea.</p>
+id: EXO/15/21
+next:
+  id: EXO/15/22
+  number: '22'
+previous:
+  id: EXO/15/20
+  number: '20'
+reference: 'Exodus 15:21'

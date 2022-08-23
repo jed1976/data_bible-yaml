@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 22:17"
+  class="v">17</span>Tell us therefore, What thinkest thou? Is it lawful to give
+  tribute unto Caesar, or not? </p>
+id: MAT/22/17
+next:
+  id: MAT/22/18
+  number: '18'
+previous:
+  id: MAT/22/16
+  number: '16'
+reference: 'Matthew 22:17'

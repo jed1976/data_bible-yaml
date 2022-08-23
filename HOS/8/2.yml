@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HOS 8:2" class="v">2</span>Israel
+  shall cry unto me, My God, we know thee. </p>
+id: HOS/8/2
+next:
+  id: HOS/8/3
+  number: '3'
+previous:
+  id: HOS/8/1
+  number: '1'
+reference: 'Hosea 8:2'

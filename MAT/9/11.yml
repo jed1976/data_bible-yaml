@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 9:11" class="v">11</span>And
+  when the Pharisees saw <span class="add">it</span>, they said unto his
+  disciples, Why eateth your Master with publicans and sinners? </p>
+id: MAT/9/11
+next:
+  id: MAT/9/12
+  number: '12'
+previous:
+  id: MAT/9/10
+  number: '10'
+reference: 'Matthew 9:11'

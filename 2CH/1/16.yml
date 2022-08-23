@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 1:16" class="v">16</span>And
+  Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants
+  received the linen yarn at a price. </p>
+id: 2CH/1/16
+next:
+  id: 2CH/1/17
+  number: '17'
+previous:
+  id: 2CH/1/15
+  number: '15'
+reference: '2 Chronicles 1:16'

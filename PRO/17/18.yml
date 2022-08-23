@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 17:18" class="v">18</span>A
+  man void of understanding striketh hands, <span class="add">and</span>
+  becometh surety in the presence of his friend. </p>
+id: PRO/17/18
+next:
+  id: PRO/17/19
+  number: '19'
+previous:
+  id: PRO/17/17
+  number: '17'
+reference: 'Proverbs 17:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="MAT 27:57"
+  class="v">57</span>When the even was come, there came a rich man of Arimathæa,
+  named Joseph, who also himself was Jesus’ disciple: </p>
+id: MAT/27/57
+next:
+  id: MAT/27/58
+  number: '58'
+previous:
+  id: MAT/27/56
+  number: '56'
+reference: 'Matthew 27:57'

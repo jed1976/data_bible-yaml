@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 36:4" class="v">4</span>And
+  Adah bare to Esau Eliphaz; and Bashemath bare Reuel; </p>
+id: GEN/36/4
+next:
+  id: GEN/36/5
+  number: '5'
+previous:
+  id: GEN/36/3
+  number: '3'
+reference: 'Genesis 36:4'

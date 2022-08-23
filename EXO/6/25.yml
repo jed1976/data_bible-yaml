@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 6:25" class="v">25</span>And
+  Eleazar Aaron’s son took him <span class="add">one</span> of the daughters of
+  Putiel to wife; and she bare him Phinehas: these <span class="add">are</span>
+  the heads of the fathers of the Levites according to their families. </p>
+id: EXO/6/25
+next:
+  id: EXO/6/26
+  number: '26'
+previous:
+  id: EXO/6/24
+  number: '24'
+reference: 'Exodus 6:25'

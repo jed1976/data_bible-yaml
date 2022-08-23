@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1KI 11:14" class="v">14</span>¶
+  And the <span class="nd">LORD</span> stirred up an adversary unto Solomon,
+  Hadad the Edomite: he <span class="add">was</span> of the king’s seed in Edom.
+  </p>
+id: 1KI/11/14
+next:
+  id: 1KI/11/15
+  number: '15'
+previous:
+  id: 1KI/11/13
+  number: '13'
+reference: '1 Kings 11:14'

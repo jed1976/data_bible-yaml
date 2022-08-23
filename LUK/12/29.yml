@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 12:29"
+  class="v">29</span><span class="wj">And seek not ye what ye shall eat, or what
+  ye shall drink, neither be ye of doubtful mind.</span> </p>
+id: LUK/12/29
+next:
+  id: LUK/12/30
+  number: '30'
+previous:
+  id: LUK/12/28
+  number: '28'
+reference: 'Luke 12:29'

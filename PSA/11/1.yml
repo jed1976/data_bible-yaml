@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, <span class="add">A Psalm</span> of
+  David.</p><p class="q1"><span data-number="1" data-sid="PSA 11:1"
+  class="v">1</span>In the <span class="nd">LORD</span> put I my trust: how say
+  ye to my soul, Flee <span class="add">as</span> a bird to your mountain?</p>
+id: PSA/11/1
+next:
+  id: PSA/11/2
+  number: '2'
+previous:
+  id: PSA/10/18
+  number: '18'
+reference: 'Psalms 11:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 11:6" class="v">6</span>And
+  the sword shall abide on his cities, and shall consume his branches, and
+  devour <span class="add">them</span>, because of their own counsels. </p>
+id: HOS/11/6
+next:
+  id: HOS/11/7
+  number: '7'
+previous:
+  id: HOS/11/5
+  number: '5'
+reference: 'Hosea 11:6'

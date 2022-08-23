@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 15:17"
+  class="v">17</span><span class="wj">Do not ye yet understand, that whatsoever
+  entereth in at the mouth goeth into the belly, and is cast out into the
+  draught?</span> </p>
+id: MAT/15/17
+next:
+  id: MAT/15/18
+  number: '18'
+previous:
+  id: MAT/15/16
+  number: '16'
+reference: 'Matthew 15:17'

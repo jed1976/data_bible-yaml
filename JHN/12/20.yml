@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 12:20" class="v">20</span>¶
+  And there were certain Greeks among them that came up to worship at the feast:
+  </p>
+id: JHN/12/20
+next:
+  id: JHN/12/21
+  number: '21'
+previous:
+  id: JHN/12/19
+  number: '19'
+reference: 'John 12:20'

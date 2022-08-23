@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 11:10"
+  class="v">10</span>But his sons shall be stirred up, and shall assemble a
+  multitude of great forces: and <span class="add">one</span> shall certainly
+  come, and overflow, and pass through: then shall he return, and be stirred up,
+  <span class="add">even</span> to his fortress. </p>
+id: DAN/11/10
+next:
+  id: DAN/11/11
+  number: '11'
+previous:
+  id: DAN/11/9
+  number: '9'
+reference: 'Daniel 11:10'

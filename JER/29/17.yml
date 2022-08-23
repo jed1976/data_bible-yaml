@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JER 29:17"
+  class="v">17</span>Thus saith the <span class="nd">LORD</span> of hosts;
+  Behold, I will send upon them the sword, the famine, and the pestilence, and
+  will make them like vile figs, that cannot be eaten, they are so evil. </p>
+id: JER/29/17
+next:
+  id: JER/29/18
+  number: '18'
+previous:
+  id: JER/29/16
+  number: '16'
+reference: 'Jeremiah 29:17'

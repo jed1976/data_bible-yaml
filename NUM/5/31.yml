@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 5:31"
+  class="v">31</span>Then shall the man be guiltless from iniquity, and this
+  woman shall bear her iniquity.</p>
+id: NUM/5/31
+next:
+  id: NUM/6/1
+  number: '1'
+previous:
+  id: NUM/5/30
+  number: '30'
+reference: 'Numbers 5:31'

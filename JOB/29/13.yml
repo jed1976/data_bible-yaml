@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 29:13"
+  class="v">13</span>The blessing of him that was ready to perish came upon me:
+  and I caused the widow’s heart to sing for joy. </p>
+id: JOB/29/13
+next:
+  id: JOB/29/14
+  number: '14'
+previous:
+  id: JOB/29/12
+  number: '12'
+reference: 'Job 29:13'

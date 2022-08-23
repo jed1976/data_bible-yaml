@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 8:10"
+  class="v">10</span>When Jesus had lifted up himself, and saw none but the
+  woman, he said unto her, <span class="wj">Woman, where are those thine
+  accusers? hath no man condemned thee?</span> </p>
+id: JHN/8/10
+next:
+  id: JHN/8/11
+  number: '11'
+previous:
+  id: JHN/8/9
+  number: '9'
+reference: 'John 8:10'

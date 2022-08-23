@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 10:9" class="v">9</span>And
+  Moses said, We will go with our young and with our old, with our sons and with
+  our daughters, with our flocks and with our herds will we go; for we <span
+  class="add">must hold</span> a feast unto the <span class="nd">LORD</span>.
+  </p>
+id: EXO/10/9
+next:
+  id: EXO/10/10
+  number: '10'
+previous:
+  id: EXO/10/8
+  number: '8'
+reference: 'Exodus 10:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 63:5" class="v">5</span>And I
+  looked, and <span class="add">there was</span> none to help; and I wondered
+  that <span class="add">there was</span> none to uphold: therefore mine own arm
+  brought salvation unto me; and my fury, it upheld me. </p>
+id: ISA/63/5
+next:
+  id: ISA/63/6
+  number: '6'
+previous:
+  id: ISA/63/4
+  number: '4'
+reference: 'Isaiah 63:5'

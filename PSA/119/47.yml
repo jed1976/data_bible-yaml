@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="47" data-sid="PSA 119:47"
+  class="v">47</span>And I will delight myself in thy commandments, which I have
+  loved.</p>
+id: PSA/119/47
+next:
+  id: PSA/119/48
+  number: '48'
+previous:
+  id: PSA/119/46
+  number: '46'
+reference: 'Psalms 119:47'

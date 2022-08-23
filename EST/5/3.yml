@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EST 5:3" class="v">3</span>Then
+  said the king unto her, What wilt thou, queen Esther? and what <span
+  class="add">is</span> thy request? it shall be even given thee to the half of
+  the kingdom. </p>
+id: EST/5/3
+next:
+  id: EST/5/4
+  number: '4'
+previous:
+  id: EST/5/2
+  number: '2'
+reference: 'Esther 5:3'

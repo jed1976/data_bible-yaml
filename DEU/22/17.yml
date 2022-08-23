@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 22:17"
+  class="v">17</span>And, lo, he hath given occasions of speech <span
+  class="add">against her</span>, saying, I found not thy daughter a maid; and
+  yet these <span class="add">are the tokens of</span> my daughter’s virginity.
+  And they shall spread the cloth before the elders of the city. </p>
+id: DEU/22/17
+next:
+  id: DEU/22/18
+  number: '18'
+previous:
+  id: DEU/22/16
+  number: '16'
+reference: 'Deuteronomy 22:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 14:14" class="v">14</span>I
+  will ascend above the heights of the clouds; I will be like the most High.
+  </p>
+id: ISA/14/14
+next:
+  id: ISA/14/15
+  number: '15'
+previous:
+  id: ISA/14/13
+  number: '13'
+reference: 'Isaiah 14:14'

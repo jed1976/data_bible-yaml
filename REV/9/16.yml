@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 9:16" class="v">16</span>And
+  the number of the army of the horsemen <span class="add">were</span> two
+  hundred thousand thousand: and I heard the number of them. </p>
+id: REV/9/16
+next:
+  id: REV/9/17
+  number: '17'
+previous:
+  id: REV/9/15
+  number: '15'
+reference: 'Revelation 9:16'

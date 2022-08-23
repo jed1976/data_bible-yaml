@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 10:22"
+  class="v">22</span><span class="wj">All things are delivered to me of my
+  Father: and no man knoweth who the Son is, but the Father; and who the Father
+  is, but the Son, and <span class="add">he</span> to whom the Son will reveal
+  <span class="add">him.</span></span></p>
+id: LUK/10/22
+next:
+  id: LUK/10/23
+  number: '23'
+previous:
+  id: LUK/10/21
+  number: '21'
+reference: 'Luke 10:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 39:14"
+  class="v">14</span>And the stones <span class="add">were</span> according to
+  the names of the children of Israel, twelve, according to their names, <span
+  class="add">like</span> the engravings of a signet, every one with his name,
+  according to the twelve tribes. </p>
+id: EXO/39/14
+next:
+  id: EXO/39/15
+  number: '15'
+previous:
+  id: EXO/39/13
+  number: '13'
+reference: 'Exodus 39:14'

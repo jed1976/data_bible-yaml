@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 43:25" class="v">25</span>I,
+  <span class="add">even</span> I, <span class="add">am</span> he that blotteth
+  out thy transgressions for mine own sake, and will not remember thy sins. </p>
+id: ISA/43/25
+next:
+  id: ISA/43/26
+  number: '26'
+previous:
+  id: ISA/43/24
+  number: '24'
+reference: 'Isaiah 43:25'

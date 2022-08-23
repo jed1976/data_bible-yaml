@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HAB 3:4" class="v">4</span>And
+  <span class="add">his</span> brightness was as the light; he had horns <span
+  class="add">coming</span> out of his hand: and there <span
+  class="add">was</span> the hiding of his power. </p>
+id: HAB/3/4
+next:
+  id: HAB/3/5
+  number: '5'
+previous:
+  id: HAB/3/3
+  number: '3'
+reference: 'Habakkuk 3:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 33:19"
+  class="v">19</span>And they departed from Rithmah, and pitched at
+  Rimmon-parez. </p>
+id: NUM/33/19
+next:
+  id: NUM/33/20
+  number: '20'
+previous:
+  id: NUM/33/18
+  number: '18'
+reference: 'Numbers 33:19'

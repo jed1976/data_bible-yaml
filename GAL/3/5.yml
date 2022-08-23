@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GAL 3:5" class="v">5</span>He
+  therefore that ministereth to you the Spirit, and worketh miracles among you,
+  <span class="add">doeth he it</span> by the works of the law, or by the
+  hearing of faith? </p>
+id: GAL/3/5
+next:
+  id: GAL/3/6
+  number: '6'
+previous:
+  id: GAL/3/4
+  number: '4'
+reference: 'Galatians 3:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 14:20"
+  class="v">20</span>Thou prevailest for ever against him, and he passeth: thou
+  changest his countenance, and sendest him away. </p>
+id: JOB/14/20
+next:
+  id: JOB/14/21
+  number: '21'
+previous:
+  id: JOB/14/19
+  number: '19'
+reference: 'Job 14:20'

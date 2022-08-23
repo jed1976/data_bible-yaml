@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="43" data-sid="PSA 105:43"
+  class="v">43</span>And he brought forth his people with joy, <span
+  class="add">and</span> his chosen with gladness:</p>
+id: PSA/105/43
+next:
+  id: PSA/105/44
+  number: '44'
+previous:
+  id: PSA/105/42
+  number: '42'
+reference: 'Psalms 105:43'

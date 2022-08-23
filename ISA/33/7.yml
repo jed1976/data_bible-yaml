@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 33:7"
+  class="v">7</span>Behold, their valiant ones shall cry without: the
+  ambassadors of peace shall weep bitterly. </p>
+id: ISA/33/7
+next:
+  id: ISA/33/8
+  number: '8'
+previous:
+  id: ISA/33/6
+  number: '6'
+reference: 'Isaiah 33:7'

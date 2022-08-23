@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 10:23"
+  class="v">23</span>And the children of Aram; Uz, and Hul, and Gether, and
+  Mash. </p>
+id: GEN/10/23
+next:
+  id: GEN/10/24
+  number: '24'
+previous:
+  id: GEN/10/22
+  number: '22'
+reference: 'Genesis 10:23'

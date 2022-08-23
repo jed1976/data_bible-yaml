@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 26:23"
+  class="v">23</span>That Christ should suffer, <span class="add">and</span>
+  that he should be the first that should rise from the dead, and should shew
+  light unto the people, and to the Gentiles.</p>
+id: ACT/26/23
+next:
+  id: ACT/26/24
+  number: '24'
+previous:
+  id: ACT/26/22
+  number: '22'
+reference: 'Acts 26:23'

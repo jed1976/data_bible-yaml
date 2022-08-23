@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 27:3" class="v">3</span>And
+  thou shalt make his pans to receive his ashes, and his shovels, and his
+  basons, and his fleshhooks, and his firepans: all the vessels thereof thou
+  shalt make <span class="add">of</span> brass. </p>
+id: EXO/27/3
+next:
+  id: EXO/27/4
+  number: '4'
+previous:
+  id: EXO/27/2
+  number: '2'
+reference: 'Exodus 27:3'

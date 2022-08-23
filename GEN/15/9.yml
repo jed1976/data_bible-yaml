@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 15:9" class="v">9</span>And
+  he said unto him, Take me an heifer of three years old, and a she goat of
+  three years old, and a ram of three years old, and a turtledove, and a young
+  pigeon. </p>
+id: GEN/15/9
+next:
+  id: GEN/15/10
+  number: '10'
+previous:
+  id: GEN/15/8
+  number: '8'
+reference: 'Genesis 15:9'

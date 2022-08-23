@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 5:3" class="v">3</span>So all
+  the elders of Israel came to the king to Hebron; and king David made a league
+  with them in Hebron before the <span class="nd">LORD</span>: and they anointed
+  David king over Israel.</p>
+id: 2SA/5/3
+next:
+  id: 2SA/5/4
+  number: '4'
+previous:
+  id: 2SA/5/2
+  number: '2'
+reference: '2 Samuel 5:3'

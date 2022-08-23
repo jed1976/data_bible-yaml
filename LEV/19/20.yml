@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 19:20" class="v">20</span>¶
+  And whosoever lieth carnally with a woman, that <span class="add">is</span> a
+  bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given
+  her; she shall be scourged; they shall not be put to death, because she was
+  not free. </p>
+id: LEV/19/20
+next:
+  id: LEV/19/21
+  number: '21'
+previous:
+  id: LEV/19/19
+  number: '19'
+reference: 'Leviticus 19:20'

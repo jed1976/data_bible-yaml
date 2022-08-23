@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 6:32" class="v">32</span>And
+  they departed into a desert place by ship privately. </p>
+id: MRK/6/32
+next:
+  id: MRK/6/33
+  number: '33'
+previous:
+  id: MRK/6/31
+  number: '31'
+reference: 'Mark 6:32'

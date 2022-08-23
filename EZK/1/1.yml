@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 1:1" class="v">1</span>Now it
+  came to pass in the thirtieth year, in the fourth <span
+  class="add">month</span>, in the fifth <span class="add">day</span> of the
+  month, as I <span class="add">was</span> among the captives by the river of
+  Chebar, <span class="add">that</span> the heavens were opened, and I saw
+  visions of God. </p>
+id: EZK/1/1
+next:
+  id: EZK/1/2
+  number: '2'
+previous:
+  id: EZK/intro/0
+  number: '0'
+reference: 'Ezekiel 1:1'

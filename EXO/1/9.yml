@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 1:9" class="v">9</span>And he
+  said unto his people, Behold, the people of the children of Israel <span
+  class="add">are</span> more and mightier than we: </p>
+id: EXO/1/9
+next:
+  id: EXO/1/10
+  number: '10'
+previous:
+  id: EXO/1/8
+  number: '8'
+reference: 'Exodus 1:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="TIT 2:4" class="v">4</span>That
+  they may teach the young women to be sober, to love their husbands, to love
+  their children, </p>
+id: TIT/2/4
+next:
+  id: TIT/2/5
+  number: '5'
+previous:
+  id: TIT/2/3
+  number: '3'
+reference: 'Titus 2:4'

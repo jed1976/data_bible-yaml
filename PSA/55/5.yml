@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 55:5"
+  class="v">5</span>Fearfulness and trembling are come upon me, and horror hath
+  overwhelmed me.</p>
+id: PSA/55/5
+next:
+  id: PSA/55/6
+  number: '6'
+previous:
+  id: PSA/55/4
+  number: '4'
+reference: 'Psalms 55:5'

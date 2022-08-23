@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 68:24"
+  class="v">24</span>They have seen thy goings, O God; <span
+  class="add">even</span> the goings of my God, my King, in the sanctuary.</p>
+id: PSA/68/24
+next:
+  id: PSA/68/25
+  number: '25'
+previous:
+  id: PSA/68/23
+  number: '23'
+reference: 'Psalms 68:24'

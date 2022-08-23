@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 19:18"
+  class="v">18</span>And he said unto him, We <span class="add">are</span>
+  passing from Beth-lehem-judah toward the side of mount Ephraim; from thence
+  <span class="add">am</span> I: and I went to Beth-lehem-judah, but I <span
+  class="add">am now</span> going to the house of the <span
+  class="nd">LORD</span>; and there <span class="add">is</span> no man that
+  receiveth me to house. </p>
+id: JDG/19/18
+next:
+  id: JDG/19/19
+  number: '19'
+previous:
+  id: JDG/19/17
+  number: '17'
+reference: 'Judges 19:18'

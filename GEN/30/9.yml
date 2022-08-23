@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 30:9" class="v">9</span>When
+  Leah saw that she had left bearing, she took Zilpah her maid, and gave her
+  Jacob to wife. </p>
+id: GEN/30/9
+next:
+  id: GEN/30/10
+  number: '10'
+previous:
+  id: GEN/30/8
+  number: '8'
+reference: 'Genesis 30:9'

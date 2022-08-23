@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 29:9" class="v">9</span>¶
+  Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not
+  with wine; they stagger, but not with strong drink. </p>
+id: ISA/29/9
+next:
+  id: ISA/29/10
+  number: '10'
+previous:
+  id: ISA/29/8
+  number: '8'
+reference: 'Isaiah 29:9'

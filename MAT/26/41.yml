@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 26:41"
+  class="v">41</span><span class="wj">Watch and pray, that ye enter not into
+  temptation: the spirit indeed <span class="add">is</span> willing, but the
+  flesh <span class="add">is</span> weak.</span> </p>
+id: MAT/26/41
+next:
+  id: MAT/26/42
+  number: '42'
+previous:
+  id: MAT/26/40
+  number: '40'
+reference: 'Matthew 26:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 8:15" class="v">15</span>¶
+  And Mordecai went out from the presence of the king in royal apparel of blue
+  and white, and with a great crown of gold, and with a garment of fine linen
+  and purple: and the city of Shushan rejoiced and was glad. </p>
+id: EST/8/15
+next:
+  id: EST/8/16
+  number: '16'
+previous:
+  id: EST/8/14
+  number: '14'
+reference: 'Esther 8:15'

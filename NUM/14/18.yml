@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 14:18"
+  class="v">18</span>The <span class="nd">LORD</span> <span
+  class="add">is</span> longsuffering, and of great mercy, forgiving iniquity
+  and transgression, and by no means clearing <span class="add">the
+  guilty</span>, visiting the iniquity of the fathers upon the children unto the
+  third and fourth <span class="add">generation</span>. </p>
+id: NUM/14/18
+next:
+  id: NUM/14/19
+  number: '19'
+previous:
+  id: NUM/14/17
+  number: '17'
+reference: 'Numbers 14:18'

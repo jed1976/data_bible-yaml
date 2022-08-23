@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 31:16" class="v">16</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Behold, thou shalt sleep
+  with thy fathers; and this people will rise up, and go a whoring after the
+  gods of the strangers of the land, whither they go <span class="add">to
+  be</span> among them, and will forsake me, and break my covenant which I have
+  made with them. </p>
+id: DEU/31/16
+next:
+  id: DEU/31/17
+  number: '17'
+previous:
+  id: DEU/31/15
+  number: '15'
+reference: 'Deuteronomy 31:16'

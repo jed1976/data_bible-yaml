@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 30:33"
+  class="v">33</span>Surely the churning of milk bringeth forth butter, and the
+  wringing of the nose bringeth forth blood: so the forcing of wrath bringeth
+  forth strife.</p>
+id: PRO/30/33
+next:
+  id: PRO/31/1
+  number: '1'
+previous:
+  id: PRO/30/32
+  number: '32'
+reference: 'Proverbs 30:33'

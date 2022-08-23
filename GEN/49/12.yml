@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 49:12"
+  class="v">12</span>His eyes <span class="add">shall be</span> red with wine,
+  and his teeth white with milk.</p>
+id: GEN/49/12
+next:
+  id: GEN/49/13
+  number: '13'
+previous:
+  id: GEN/49/11
+  number: '11'
+reference: 'Genesis 49:12'

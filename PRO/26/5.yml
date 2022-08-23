@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 26:5"
+  class="v">5</span>Answer a fool according to his folly, lest he be wise in his
+  own conceit.</p>
+id: PRO/26/5
+next:
+  id: PRO/26/6
+  number: '6'
+previous:
+  id: PRO/26/4
+  number: '4'
+reference: 'Proverbs 26:5'

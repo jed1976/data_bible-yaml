@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 46:8" class="v">8</span>¶ And
+  these <span class="add">are</span> the names of the children of Israel, which
+  came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn. </p>
+id: GEN/46/8
+next:
+  id: GEN/46/9
+  number: '9'
+previous:
+  id: GEN/46/7
+  number: '7'
+reference: 'Genesis 46:8'

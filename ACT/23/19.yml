@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 23:19"
+  class="v">19</span>Then the chief captain took him by the hand, and went <span
+  class="add">with him</span> aside privately, and asked <span
+  class="add">him</span>, What is that thou hast to tell me? </p>
+id: ACT/23/19
+next:
+  id: ACT/23/20
+  number: '20'
+previous:
+  id: ACT/23/18
+  number: '18'
+reference: 'Acts 23:19'

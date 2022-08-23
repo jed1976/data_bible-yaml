@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 3:3" class="v">3</span><span
+  class="wj">Remember therefore how thou hast received and heard, and hold fast,
+  and repent. If therefore thou shalt not watch, I will come on thee as a thief,
+  and thou shalt not know what hour I will come upon thee.</span> </p>
+id: REV/3/3
+next:
+  id: REV/3/4
+  number: '4'
+previous:
+  id: REV/3/2
+  number: '2'
+reference: 'Revelation 3:3'

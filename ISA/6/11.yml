@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 6:11"
+  class="v">11</span>Then said I, Lord, how long? And he answered, Until the
+  cities be wasted without inhabitant, and the houses without man, and the land
+  be utterly desolate, </p>
+id: ISA/6/11
+next:
+  id: ISA/6/12
+  number: '12'
+previous:
+  id: ISA/6/10
+  number: '10'
+reference: 'Isaiah 6:11'

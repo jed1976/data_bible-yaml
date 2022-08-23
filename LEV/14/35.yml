@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LEV 14:35"
+  class="v">35</span>And he that owneth the house shall come and tell the
+  priest, saying, It seemeth to me <span class="add">there is</span> as it were
+  a plague in the house: </p>
+id: LEV/14/35
+next:
+  id: LEV/14/36
+  number: '36'
+previous:
+  id: LEV/14/34
+  number: '34'
+reference: 'Leviticus 14:35'

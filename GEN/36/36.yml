@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="GEN 36:36"
+  class="v">36</span>And Hadad died, and Samlah of Masrekah reigned in his
+  stead. </p>
+id: GEN/36/36
+next:
+  id: GEN/36/37
+  number: '37'
+previous:
+  id: GEN/36/35
+  number: '35'
+reference: 'Genesis 36:36'

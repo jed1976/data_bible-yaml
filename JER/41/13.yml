@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 41:13"
+  class="v">13</span>Now it came to pass, <span class="add">that</span> when all
+  the people which <span class="add">were</span> with Ishmael saw Johanan the
+  son of Kareah, and all the captains of the forces that <span
+  class="add">were</span> with him, then they were glad. </p>
+id: JER/41/13
+next:
+  id: JER/41/14
+  number: '14'
+previous:
+  id: JER/41/12
+  number: '12'
+reference: 'Jeremiah 41:13'

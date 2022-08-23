@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JER 7:29" class="v">29</span>¶
+  Cut off thine hair, <span class="add">O Jerusalem</span>, and cast <span
+  class="add">it</span> away, and take up a lamentation on high places; for the
+  <span class="nd">LORD</span> hath rejected and forsaken the generation of his
+  wrath. </p>
+id: JER/7/29
+next:
+  id: JER/7/30
+  number: '30'
+previous:
+  id: JER/7/28
+  number: '28'
+reference: 'Jeremiah 7:29'

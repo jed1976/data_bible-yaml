@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 20:12"
+  class="v">12</span>Though wickedness be sweet in his mouth, <span
+  class="add">though</span> he hide it under his tongue; </p>
+id: JOB/20/12
+next:
+  id: JOB/20/13
+  number: '13'
+previous:
+  id: JOB/20/11
+  number: '11'
+reference: 'Job 20:12'

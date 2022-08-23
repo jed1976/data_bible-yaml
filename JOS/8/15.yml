@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 8:15" class="v">15</span>And
+  Joshua and all Israel made as if they were beaten before them, and fled by the
+  way of the wilderness. </p>
+id: JOS/8/15
+next:
+  id: JOS/8/16
+  number: '16'
+previous:
+  id: JOS/8/14
+  number: '14'
+reference: 'Joshua 8:15'

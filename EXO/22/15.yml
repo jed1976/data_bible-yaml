@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 22:15"
+  class="v">15</span><span class="add">But</span> if the owner thereof <span
+  class="add">be</span> with it, he shall not make <span class="add">it</span>
+  good: if it <span class="add">be</span> an hired <span
+  class="add">thing</span>, it came for his hire.</p>
+id: EXO/22/15
+next:
+  id: EXO/22/16
+  number: '16'
+previous:
+  id: EXO/22/14
+  number: '14'
+reference: 'Exodus 22:15'

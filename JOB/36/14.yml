@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 36:14"
+  class="v">14</span>They die in youth, and their life <span
+  class="add">is</span> among the unclean.</p>
+id: JOB/36/14
+next:
+  id: JOB/36/15
+  number: '15'
+previous:
+  id: JOB/36/13
+  number: '13'
+reference: 'Job 36:14'

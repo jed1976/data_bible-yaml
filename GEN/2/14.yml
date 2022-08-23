@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 2:14" class="v">14</span>And
+  the name of the third river <span class="add">is</span> Hiddekel: that <span
+  class="add">is</span> it which goeth toward the east of Assyria. And the
+  fourth river <span class="add">is</span> Euphrates. </p>
+id: GEN/2/14
+next:
+  id: GEN/2/15
+  number: '15'
+previous:
+  id: GEN/2/13
+  number: '13'
+reference: 'Genesis 2:14'

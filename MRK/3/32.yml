@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 3:32" class="v">32</span>And
+  the multitude sat about him, and they said unto him, Behold, thy mother and
+  thy brethren without seek for thee. </p>
+id: MRK/3/32
+next:
+  id: MRK/3/33
+  number: '33'
+previous:
+  id: MRK/3/31
+  number: '31'
+reference: 'Mark 3:32'

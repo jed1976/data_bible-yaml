@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 35:7" class="v">7</span><span
+  class="add">So</span> all the cities which ye shall give to the Levites <span
+  class="add">shall be</span> forty and eight cities: them <span
+  class="add">shall ye give</span> with their suburbs. </p>
+id: NUM/35/7
+next:
+  id: NUM/35/8
+  number: '8'
+previous:
+  id: NUM/35/6
+  number: '6'
+reference: 'Numbers 35:7'

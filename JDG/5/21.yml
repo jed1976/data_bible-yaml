@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 5:21" class="v">21</span>The
+  river of Kishon swept them away, that ancient river, the river Kishon. O my
+  soul, thou hast trodden down strength. </p>
+id: JDG/5/21
+next:
+  id: JDG/5/22
+  number: '22'
+previous:
+  id: JDG/5/20
+  number: '20'
+reference: 'Judges 5:21'

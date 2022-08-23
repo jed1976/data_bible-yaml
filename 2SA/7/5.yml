@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 7:5" class="v">5</span>Go and
+  tell my servant David, Thus saith the <span class="nd">LORD</span>, Shalt thou
+  build me an house for me to dwell in? </p>
+id: 2SA/7/5
+next:
+  id: 2SA/7/6
+  number: '6'
+previous:
+  id: 2SA/7/4
+  number: '4'
+reference: '2 Samuel 7:5'

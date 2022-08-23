@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="2SA 2:27" class="v">27</span>And
+  Joab said, <span class="add">As</span> God liveth, unless thou hadst spoken,
+  surely then in the morning the people had gone up every one from following his
+  brother. </p>
+id: 2SA/2/27
+next:
+  id: 2SA/2/28
+  number: '28'
+previous:
+  id: 2SA/2/26
+  number: '26'
+reference: '2 Samuel 2:27'

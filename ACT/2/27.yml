@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 2:27"
+  class="v">27</span>Because thou wilt not leave my soul in hell, neither wilt
+  thou suffer thine Holy One to see corruption. </p>
+id: ACT/2/27
+next:
+  id: ACT/2/28
+  number: '28'
+previous:
+  id: ACT/2/26
+  number: '26'
+reference: 'Acts 2:27'

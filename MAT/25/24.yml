@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 25:24"
+  class="v">24</span><span class="wj">Then he which had received the one talent
+  came and said, Lord, I knew thee that thou art an hard man, reaping where thou
+  hast not sown, and gathering where thou hast not strawed:</span> </p>
+id: MAT/25/24
+next:
+  id: MAT/25/25
+  number: '25'
+previous:
+  id: MAT/25/23
+  number: '23'
+reference: 'Matthew 25:24'

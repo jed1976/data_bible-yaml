@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 12:13"
+  class="v">13</span>Say, I pray thee, thou <span class="add">art</span> my
+  sister: that it may be well with me for thy sake; and my soul shall live
+  because of thee.</p>
+id: GEN/12/13
+next:
+  id: GEN/12/14
+  number: '14'
+previous:
+  id: GEN/12/12
+  number: '12'
+reference: 'Genesis 12:13'

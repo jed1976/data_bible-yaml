@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 21:3" class="v">3</span>And
+  said, O <span class="nd">LORD</span> God of Israel, why is this come to pass
+  in Israel, that there should be to day one tribe lacking in Israel? </p>
+id: JDG/21/3
+next:
+  id: JDG/21/4
+  number: '4'
+previous:
+  id: JDG/21/2
+  number: '2'
+reference: 'Judges 21:3'

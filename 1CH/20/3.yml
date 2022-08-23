@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 20:3" class="v">3</span>And
+  he brought out the people that <span class="add">were</span> in it, and cut
+  <span class="add">them</span> with saws, and with harrows of iron, and with
+  axes. Even so dealt David with all the cities of the children of Ammon. And
+  David and all the people returned to Jerusalem.</p>
+id: 1CH/20/3
+next:
+  id: 1CH/20/4
+  number: '4'
+previous:
+  id: 1CH/20/2
+  number: '2'
+reference: '1 Chronicles 20:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAL 2:11" class="v">11</span>¶
+  Judah hath dealt treacherously, and an abomination is committed in Israel and
+  in Jerusalem; for Judah hath profaned the holiness of the <span
+  class="nd">LORD</span> which he loved, and hath married the daughter of a
+  strange god. </p>
+id: MAL/2/11
+next:
+  id: MAL/2/12
+  number: '12'
+previous:
+  id: MAL/2/10
+  number: '10'
+reference: 'Malachi 2:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 33:29"
+  class="v">29</span>And they went from Mithcah, and pitched in Hashmonah. </p>
+id: NUM/33/29
+next:
+  id: NUM/33/30
+  number: '30'
+previous:
+  id: NUM/33/28
+  number: '28'
+reference: 'Numbers 33:29'

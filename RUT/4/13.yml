@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="RUT 4:13" class="v">13</span>¶
+  So Boaz took Ruth, and she was his wife: and when he went in unto her, the
+  <span class="nd">LORD</span> gave her conception, and she bare a son. </p>
+id: RUT/4/13
+next:
+  id: RUT/4/14
+  number: '14'
+previous:
+  id: RUT/4/12
+  number: '12'
+reference: 'Ruth 4:13'

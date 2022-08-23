@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 57:10"
+  class="v">10</span>Thou art wearied in the greatness of thy way; <span
+  class="add">yet</span> saidst thou not, There is no hope: thou hast found the
+  life of thine hand; therefore thou wast not grieved. </p>
+id: ISA/57/10
+next:
+  id: ISA/57/11
+  number: '11'
+previous:
+  id: ISA/57/9
+  number: '9'
+reference: 'Isaiah 57:10'

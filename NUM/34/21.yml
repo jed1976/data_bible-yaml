@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 34:21" class="v">21</span>Of
+  the tribe of Benjamin, Elidad the son of Chislon. </p>
+id: NUM/34/21
+next:
+  id: NUM/34/22
+  number: '22'
+previous:
+  id: NUM/34/20
+  number: '20'
+reference: 'Numbers 34:21'

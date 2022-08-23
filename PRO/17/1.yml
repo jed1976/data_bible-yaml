@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 17:1"
+  class="v">1</span>Better <span class="add">is</span> a dry morsel, and
+  quietness therewith, than an house full of sacrifices <span
+  class="add">with</span> strife. </p>
+id: PRO/17/1
+next:
+  id: PRO/17/2
+  number: '2'
+previous:
+  id: PRO/16/33
+  number: '33'
+reference: 'Proverbs 17:1'

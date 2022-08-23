@@ -1,0 +1,13 @@
+content: >-
+  <p class="s1"><span class="tl">א ALEPH.</span></p><p class="q1"><span
+  data-number="1" data-sid="PSA 119:1" class="v">1</span>Blessed <span
+  class="add">are</span> the undefiled in the way, who walk in the law of the
+  <span class="nd">LORD</span>.</p>
+id: PSA/119/1
+next:
+  id: PSA/119/2
+  number: '2'
+previous:
+  id: PSA/118/29
+  number: '29'
+reference: 'Psalms 119:1'

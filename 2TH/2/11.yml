@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2TH 2:11" class="v">11</span>And
+  for this cause God shall send them strong delusion, that they should believe a
+  lie: </p>
+id: 2TH/2/11
+next:
+  id: 2TH/2/12
+  number: '12'
+previous:
+  id: 2TH/2/10
+  number: '10'
+reference: '2 Thessalonians 2:11'

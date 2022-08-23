@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 60:3" class="v">3</span>Thou
+  hast shewed thy people hard things: thou hast made us to drink the wine of
+  astonishment.</p>
+id: PSA/60/3
+next:
+  id: PSA/60/4
+  number: '4'
+previous:
+  id: PSA/60/2
+  number: '2'
+reference: 'Psalms 60:3'

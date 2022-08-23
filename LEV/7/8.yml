@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 7:8" class="v">8</span>And
+  the priest that offereth any man’s burnt offering, <span
+  class="add">even</span> the priest shall have to himself the skin of the burnt
+  offering which he hath offered. </p>
+id: LEV/7/8
+next:
+  id: LEV/7/9
+  number: '9'
+previous:
+  id: LEV/7/7
+  number: '7'
+reference: 'Leviticus 7:8'

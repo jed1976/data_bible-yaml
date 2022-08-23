@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZK 1:15" class="v">15</span>¶
+  Now as I beheld the living creatures, behold one wheel upon the earth by the
+  living creatures, with his four faces. </p>
+id: EZK/1/15
+next:
+  id: EZK/1/16
+  number: '16'
+previous:
+  id: EZK/1/14
+  number: '14'
+reference: 'Ezekiel 1:15'

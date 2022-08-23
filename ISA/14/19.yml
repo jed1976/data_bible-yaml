@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 14:19"
+  class="v">19</span>But thou art cast out of thy grave like an abominable
+  branch, <span class="add">and as</span> the raiment of those that are slain,
+  thrust through with a sword, that go down to the stones of the pit; as a
+  carcase trodden under feet. </p>
+id: ISA/14/19
+next:
+  id: ISA/14/20
+  number: '20'
+previous:
+  id: ISA/14/18
+  number: '18'
+reference: 'Isaiah 14:19'

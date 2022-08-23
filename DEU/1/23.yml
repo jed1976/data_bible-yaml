@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 1:23" class="v">23</span>And
+  the saying pleased me well: and I took twelve men of you, one of a tribe: </p>
+id: DEU/1/23
+next:
+  id: DEU/1/24
+  number: '24'
+previous:
+  id: DEU/1/22
+  number: '22'
+reference: 'Deuteronomy 1:23'

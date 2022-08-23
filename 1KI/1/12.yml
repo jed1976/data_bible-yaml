@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 1:12" class="v">12</span>Now
+  therefore come, let me, I pray thee, give thee counsel, that thou mayest save
+  thine own life, and the life of thy son Solomon. </p>
+id: 1KI/1/12
+next:
+  id: 1KI/1/13
+  number: '13'
+previous:
+  id: 1KI/1/11
+  number: '11'
+reference: '1 Kings 1:12'

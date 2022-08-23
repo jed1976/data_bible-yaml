@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 11:8" class="v">8</span>And
+  he built the city round about, even from Millo round about: and Joab repaired
+  the rest of the city. </p>
+id: 1CH/11/8
+next:
+  id: 1CH/11/9
+  number: '9'
+previous:
+  id: 1CH/11/7
+  number: '7'
+reference: '1 Chronicles 11:8'

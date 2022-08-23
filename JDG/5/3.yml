@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 5:3" class="v">3</span>Hear,
+  O ye kings; give ear, O ye princes; I, <span class="add">even</span> I, will
+  sing unto the <span class="nd">LORD</span>; I will sing <span
+  class="add">praise</span> to the <span class="nd">LORD</span> God of Israel.
+  </p>
+id: JDG/5/3
+next:
+  id: JDG/5/4
+  number: '4'
+previous:
+  id: JDG/5/2
+  number: '2'
+reference: 'Judges 5:3'

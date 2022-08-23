@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JON 4:1" class="v">1</span>But it
+  displeased Jonah exceedingly, and he was very angry. </p>
+id: JON/4/1
+next:
+  id: JON/4/2
+  number: '2'
+previous:
+  id: JON/3/10
+  number: '10'
+reference: 'Jonah 4:1'

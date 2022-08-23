@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 10:32"
+  class="v">32</span>Jesus answered them, <span class="wj">Many good works have
+  I shewed you from my Father; for which of those works do ye stone me?</span>
+  </p>
+id: JHN/10/32
+next:
+  id: JHN/10/33
+  number: '33'
+previous:
+  id: JHN/10/31
+  number: '31'
+reference: 'John 10:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 5:12"
+  class="v">12</span>For thou, <span class="nd">LORD</span>, wilt bless the
+  righteous; with favour wilt thou compass him as <span class="add">with</span>
+  a shield.</p>
+id: PSA/5/12
+next:
+  id: PSA/6/1
+  number: '1'
+previous:
+  id: PSA/5/11
+  number: '11'
+reference: 'Psalms 5:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 66:14"
+  class="v">14</span>Which my lips have uttered, and my mouth hath spoken, when
+  I was in trouble.</p>
+id: PSA/66/14
+next:
+  id: PSA/66/15
+  number: '15'
+previous:
+  id: PSA/66/13
+  number: '13'
+reference: 'Psalms 66:14'

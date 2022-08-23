@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 20:14"
+  class="v">14</span>And Abimelech took sheep, and oxen, and menservants, and
+  womenservants, and gave <span class="add">them</span> unto Abraham, and
+  restored him Sarah his wife. </p>
+id: GEN/20/14
+next:
+  id: GEN/20/15
+  number: '15'
+previous:
+  id: GEN/20/13
+  number: '13'
+reference: 'Genesis 20:14'

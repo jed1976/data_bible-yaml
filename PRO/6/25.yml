@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 6:25"
+  class="v">25</span>Lust not after her beauty in thine heart; neither let her
+  take thee with her eyelids. </p>
+id: PRO/6/25
+next:
+  id: PRO/6/26
+  number: '26'
+previous:
+  id: PRO/6/24
+  number: '24'
+reference: 'Proverbs 6:25'

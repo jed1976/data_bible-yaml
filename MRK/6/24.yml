@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 6:24" class="v">24</span>And
+  she went forth, and said unto her mother, What shall I ask? And she said, The
+  head of John the Baptist. </p>
+id: MRK/6/24
+next:
+  id: MRK/6/25
+  number: '25'
+previous:
+  id: MRK/6/23
+  number: '23'
+reference: 'Mark 6:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 33:11"
+  class="v">11</span>And they removed from the Red sea, and encamped in the
+  wilderness of Sin. </p>
+id: NUM/33/11
+next:
+  id: NUM/33/12
+  number: '12'
+previous:
+  id: NUM/33/10
+  number: '10'
+reference: 'Numbers 33:11'

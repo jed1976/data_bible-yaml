@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 12:10"
+  class="v">10</span>And I will pour upon the house of David, and upon the
+  inhabitants of Jerusalem, the spirit of grace and of supplications: and they
+  shall look upon me whom they have pierced, and they shall mourn for him, as
+  one mourneth for <span class="add">his</span> only <span
+  class="add">son</span>, and shall be in bitterness for him, as one that is in
+  bitterness for <span class="add">his</span> firstborn. </p>
+id: ZEC/12/10
+next:
+  id: ZEC/12/11
+  number: '11'
+previous:
+  id: ZEC/12/9
+  number: '9'
+reference: 'Zechariah 12:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 20:5" class="v">5</span>And
+  he stooping down, <span class="add">and looking in</span>, saw the linen
+  clothes lying; yet went he not in. </p>
+id: JHN/20/5
+next:
+  id: JHN/20/6
+  number: '6'
+previous:
+  id: JHN/20/4
+  number: '4'
+reference: 'John 20:5'

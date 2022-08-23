@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 11:6" class="v">6</span>Upon
+  the which when I had fastened mine eyes, I considered, and saw fourfooted
+  beasts of the earth, and wild beasts, and creeping things, and fowls of the
+  air. </p>
+id: ACT/11/6
+next:
+  id: ACT/11/7
+  number: '7'
+previous:
+  id: ACT/11/5
+  number: '5'
+reference: 'Acts 11:6'

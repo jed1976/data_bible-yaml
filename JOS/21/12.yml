@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 21:12"
+  class="v">12</span>But the fields of the city, and the villages thereof, gave
+  they to Caleb the son of Jephunneh for his possession.</p>
+id: JOS/21/12
+next:
+  id: JOS/21/13
+  number: '13'
+previous:
+  id: JOS/21/11
+  number: '11'
+reference: 'Joshua 21:12'

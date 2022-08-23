@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 10:16"
+  class="v">16</span>And over the host of the tribe of the children of Zebulun
+  <span class="add">was</span> Eliab the son of Helon. </p>
+id: NUM/10/16
+next:
+  id: NUM/10/17
+  number: '17'
+previous:
+  id: NUM/10/15
+  number: '15'
+reference: 'Numbers 10:16'

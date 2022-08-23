@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 16:3" class="v">3</span>And
+  say, Thus saith the Lord <span class="nd">GOD</span> unto Jerusalem; Thy birth
+  and thy nativity <span class="add">is</span> of the land of Canaan; thy father
+  <span class="add">was</span> an Amorite, and thy mother an Hittite. </p>
+id: EZK/16/3
+next:
+  id: EZK/16/4
+  number: '4'
+previous:
+  id: EZK/16/2
+  number: '2'
+reference: 'Ezekiel 16:3'

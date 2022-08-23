@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 15:15"
+  class="v">15</span>And the king’s servants said unto the king, Behold, thy
+  servants <span class="add">are ready to do</span> whatsoever my lord the king
+  shall appoint. </p>
+id: 2SA/15/15
+next:
+  id: 2SA/15/16
+  number: '16'
+previous:
+  id: 2SA/15/14
+  number: '14'
+reference: '2 Samuel 15:15'

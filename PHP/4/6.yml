@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PHP 4:6" class="v">6</span>Be
+  careful for nothing; but in every thing by prayer and supplication with
+  thanksgiving let your requests be made known unto God. </p>
+id: PHP/4/6
+next:
+  id: PHP/4/7
+  number: '7'
+previous:
+  id: PHP/4/5
+  number: '5'
+reference: 'Philippians 4:6'

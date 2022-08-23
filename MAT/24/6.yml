@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 24:6" class="v">6</span><span
+  class="wj">And ye shall hear of wars and rumours of wars: see that ye be not
+  troubled: for all <span class="add">these things</span> must come to pass, but
+  the end is not yet.</span> </p>
+id: MAT/24/6
+next:
+  id: MAT/24/7
+  number: '7'
+previous:
+  id: MAT/24/5
+  number: '5'
+reference: 'Matthew 24:6'

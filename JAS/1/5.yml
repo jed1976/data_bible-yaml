@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JAS 1:5" class="v">5</span>If any
+  of you lack wisdom, let him ask of God, that giveth to all <span
+  class="add">men</span> liberally, and upbraideth not; and it shall be given
+  him. </p>
+id: JAS/1/5
+next:
+  id: JAS/1/6
+  number: '6'
+previous:
+  id: JAS/1/4
+  number: '4'
+reference: 'James 1:5'

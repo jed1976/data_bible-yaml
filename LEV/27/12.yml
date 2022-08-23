@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 27:12"
+  class="v">12</span>And the priest shall value it, whether it be good or bad:
+  as thou valuest it, <span class="add">who art</span> the priest, so shall it
+  be. </p>
+id: LEV/27/12
+next:
+  id: LEV/27/13
+  number: '13'
+previous:
+  id: LEV/27/11
+  number: '11'
+reference: 'Leviticus 27:12'

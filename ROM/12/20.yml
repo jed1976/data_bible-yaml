@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 12:20"
+  class="v">20</span>Therefore if thine enemy hunger, feed him; if he thirst,
+  give him drink: for in so doing thou shalt heap coals of fire on his head.
+  </p>
+id: ROM/12/20
+next:
+  id: ROM/12/21
+  number: '21'
+previous:
+  id: ROM/12/19
+  number: '19'
+reference: 'Romans 12:20'

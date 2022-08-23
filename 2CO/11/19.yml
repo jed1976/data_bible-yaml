@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2CO 11:19"
+  class="v">19</span>For ye suffer fools gladly, seeing ye <span
+  class="add">yourselves</span> are wise. </p>
+id: 2CO/11/19
+next:
+  id: 2CO/11/20
+  number: '20'
+previous:
+  id: 2CO/11/18
+  number: '18'
+reference: '2 Corinthians 11:19'

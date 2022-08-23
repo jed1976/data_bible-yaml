@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 13:35"
+  class="v">35</span>Wherefore he saith also in another <span
+  class="add">psalm</span>, Thou shalt not suffer thine Holy One to see
+  corruption. </p>
+id: ACT/13/35
+next:
+  id: ACT/13/36
+  number: '36'
+previous:
+  id: ACT/13/34
+  number: '34'
+reference: 'Acts 13:35'

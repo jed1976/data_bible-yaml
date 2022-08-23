@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JDG 1:14" class="v">14</span>And
+  it came to pass, when she came <span class="add">to him</span>, that she moved
+  him to ask of her father a field: and she lighted from off <span
+  class="add">her</span> ass; and Caleb said unto her, What wilt thou? </p>
+id: JDG/1/14
+next:
+  id: JDG/1/15
+  number: '15'
+previous:
+  id: JDG/1/13
+  number: '13'
+reference: 'Judges 1:14'

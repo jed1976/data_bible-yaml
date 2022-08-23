@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 10:7" class="v">7</span>And
+  the anger of the <span class="nd">LORD</span> was hot against Israel, and he
+  sold them into the hands of the Philistines, and into the hands of the
+  children of Ammon. </p>
+id: JDG/10/7
+next:
+  id: JDG/10/8
+  number: '8'
+previous:
+  id: JDG/10/6
+  number: '6'
+reference: 'Judges 10:7'

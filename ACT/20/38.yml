@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 20:38"
+  class="v">38</span>Sorrowing most of all for the words which he spake, that
+  they should see his face no more. And they accompanied him unto the ship.</p>
+id: ACT/20/38
+next:
+  id: ACT/21/1
+  number: '1'
+previous:
+  id: ACT/20/37
+  number: '37'
+reference: 'Acts 20:38'

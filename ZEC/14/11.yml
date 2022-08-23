@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 14:11"
+  class="v">11</span>And <span class="add">men</span> shall dwell in it, and
+  there shall be no more utter destruction; but Jerusalem shall be safely
+  inhabited.</p>
+id: ZEC/14/11
+next:
+  id: ZEC/14/12
+  number: '12'
+previous:
+  id: ZEC/14/10
+  number: '10'
+reference: 'Zechariah 14:11'

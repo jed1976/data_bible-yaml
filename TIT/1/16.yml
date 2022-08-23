@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="TIT 1:16"
+  class="v">16</span>They profess that they know God; but in works they deny
+  <span class="add">him</span>, being abominable, and disobedient, and unto
+  every good work reprobate.</p>
+id: TIT/1/16
+next:
+  id: TIT/2/1
+  number: '1'
+previous:
+  id: TIT/1/15
+  number: '15'
+reference: 'Titus 1:16'

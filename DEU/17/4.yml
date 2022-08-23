@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 17:4" class="v">4</span>And
+  it be told thee, and thou hast heard <span class="add">of it</span>, and
+  enquired diligently, and, behold, <span class="add">it be</span> true, <span
+  class="add">and</span> the thing certain, <span class="add">that</span> such
+  abomination is wrought in Israel: </p>
+id: DEU/17/4
+next:
+  id: DEU/17/5
+  number: '5'
+previous:
+  id: DEU/17/3
+  number: '3'
+reference: 'Deuteronomy 17:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 4:6" class="v">6</span><span
+  class="add">Is</span> not <span class="add">this</span> thy fear, thy
+  confidence, thy hope, and the uprightness of thy ways?</p>
+id: JOB/4/6
+next:
+  id: JOB/4/7
+  number: '7'
+previous:
+  id: JOB/4/5
+  number: '5'
+reference: 'Job 4:6'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 18:12"
+  class="v">12</span>And it shall come to pass, <span class="add">as soon
+  as</span> I am gone from thee, that the Spirit of the <span
+  class="nd">LORD</span> shall carry thee whither I know not; and <span
+  class="add">so</span> when I come and tell Ahab, and he cannot find thee, he
+  shall slay me: but I thy servant fear the <span class="nd">LORD</span> from my
+  youth. </p>
+id: 1KI/18/12
+next:
+  id: 1KI/18/13
+  number: '13'
+previous:
+  id: 1KI/18/11
+  number: '11'
+reference: '1 Kings 18:12'

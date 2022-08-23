@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 26:25"
+  class="v">25</span>But he said, I am not mad, most noble Festus; but speak
+  forth the words of truth and soberness. </p>
+id: ACT/26/25
+next:
+  id: ACT/26/26
+  number: '26'
+previous:
+  id: ACT/26/24
+  number: '24'
+reference: 'Acts 26:25'

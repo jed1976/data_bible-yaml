@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 2:18"
+  class="v">18</span>That they would desire mercies of the God of heaven
+  concerning this secret; that Daniel and his fellows should not perish with the
+  rest of the wise <span class="add">men</span> of Babylon.</p>
+id: DAN/2/18
+next:
+  id: DAN/2/19
+  number: '19'
+previous:
+  id: DAN/2/17
+  number: '17'
+reference: 'Daniel 2:18'

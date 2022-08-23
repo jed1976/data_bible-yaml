@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1SA 15:8" class="v">8</span>And
+  he took Agag the king of the Amalekites alive, and utterly destroyed all the
+  people with the edge of the sword. </p>
+id: 1SA/15/8
+next:
+  id: 1SA/15/9
+  number: '9'
+previous:
+  id: 1SA/15/7
+  number: '7'
+reference: '1 Samuel 15:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 1:38" class="v">38</span>And
+  Mary said, Behold the handmaid of the Lord; be it unto me according to thy
+  word. And the angel departed from her. </p>
+id: LUK/1/38
+next:
+  id: LUK/1/39
+  number: '39'
+previous:
+  id: LUK/1/37
+  number: '37'
+reference: 'Luke 1:38'

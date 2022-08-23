@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 12:33"
+  class="v">33</span><span class="wj">Sell that ye have, and give alms; provide
+  yourselves bags which wax not old, a treasure in the heavens that faileth not,
+  where no thief approacheth, neither moth corrupteth.</span> </p>
+id: LUK/12/33
+next:
+  id: LUK/12/34
+  number: '34'
+previous:
+  id: LUK/12/32
+  number: '32'
+reference: 'Luke 12:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 13:42"
+  class="v">42</span>And if there be in the bald head, or bald forehead, a white
+  reddish sore; it <span class="add">is</span> a leprosy sprung up in his bald
+  head, or his bald forehead. </p>
+id: LEV/13/42
+next:
+  id: LEV/13/43
+  number: '43'
+previous:
+  id: LEV/13/41
+  number: '41'
+reference: 'Leviticus 13:42'

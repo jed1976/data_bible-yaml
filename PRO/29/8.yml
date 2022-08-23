@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 29:8"
+  class="v">8</span>Scornful men bring a city into a snare: but wise <span
+  class="add">men</span> turn away wrath. </p>
+id: PRO/29/8
+next:
+  id: PRO/29/9
+  number: '9'
+previous:
+  id: PRO/29/7
+  number: '7'
+reference: 'Proverbs 29:8'

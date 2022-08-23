@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 6:5"
+  class="v">5</span>Moreover he hath not seen the sun, nor known <span
+  class="add">any thing:</span> this hath more rest than the other.</p>
+id: ECC/6/5
+next:
+  id: ECC/6/6
+  number: '6'
+previous:
+  id: ECC/6/4
+  number: '4'
+reference: 'Ecclesiastes 6:5'

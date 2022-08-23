@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1PE 5:5"
+  class="v">5</span>Likewise, ye younger, submit yourselves unto the elder. Yea,
+  all <span class="add">of you</span> be subject one to another, and be clothed
+  with humility: for God resisteth the proud, and giveth grace to the
+  humble.</p>
+id: 1PE/5/5
+next:
+  id: 1PE/5/6
+  number: '6'
+previous:
+  id: 1PE/5/4
+  number: '4'
+reference: '1 Peter 5:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 139:9"
+  class="v">9</span><span class="add">If</span> I take the wings of the morning,
+  <span class="add">and</span> dwell in the uttermost parts of the sea;</p>
+id: PSA/139/9
+next:
+  id: PSA/139/10
+  number: '10'
+previous:
+  id: PSA/139/8
+  number: '8'
+reference: 'Psalms 139:9'

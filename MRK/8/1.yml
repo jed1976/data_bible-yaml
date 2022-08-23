@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 8:1" class="v">1</span>In
+  those days the multitude being very great, and having nothing to eat, Jesus
+  called his disciples <span class="add">unto him</span>, and saith unto them,
+  </p>
+id: MRK/8/1
+next:
+  id: MRK/8/2
+  number: '2'
+previous:
+  id: MRK/7/37
+  number: '37'
+reference: 'Mark 8:1'

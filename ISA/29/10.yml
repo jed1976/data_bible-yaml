@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 29:10"
+  class="v">10</span>For the <span class="nd">LORD</span> hath poured out upon
+  you the spirit of deep sleep, and hath closed your eyes: the prophets and your
+  rulers, the seers hath he covered. </p>
+id: ISA/29/10
+next:
+  id: ISA/29/11
+  number: '11'
+previous:
+  id: ISA/29/9
+  number: '9'
+reference: 'Isaiah 29:10'

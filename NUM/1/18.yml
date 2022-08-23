@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 1:18" class="v">18</span>And
+  they assembled all the congregation together on the first <span
+  class="add">day</span> of the second month, and they declared their pedigrees
+  after their families, by the house of their fathers, according to the number
+  of the names, from twenty years old and upward, by their polls. </p>
+id: NUM/1/18
+next:
+  id: NUM/1/19
+  number: '19'
+previous:
+  id: NUM/1/17
+  number: '17'
+reference: 'Numbers 1:18'

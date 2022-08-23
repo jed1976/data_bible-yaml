@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 24:23"
+  class="v">23</span>And he took up his parable, and said, Alas, who shall live
+  when God doeth this! </p>
+id: NUM/24/23
+next:
+  id: NUM/24/24
+  number: '24'
+previous:
+  id: NUM/24/22
+  number: '22'
+reference: 'Numbers 24:23'

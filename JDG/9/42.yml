@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JDG 9:42" class="v">42</span>And
+  it came to pass on the morrow, that the people went out into the field; and
+  they told Abimelech. </p>
+id: JDG/9/42
+next:
+  id: JDG/9/43
+  number: '43'
+previous:
+  id: JDG/9/41
+  number: '41'
+reference: 'Judges 9:42'

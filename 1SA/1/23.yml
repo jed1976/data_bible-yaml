@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 1:23" class="v">23</span>And
+  Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou
+  have weaned him; only the <span class="nd">LORD</span> establish his word. So
+  the woman abode, and gave her son suck until she weaned him.</p>
+id: 1SA/1/23
+next:
+  id: 1SA/1/24
+  number: '24'
+previous:
+  id: 1SA/1/22
+  number: '22'
+reference: '1 Samuel 1:23'

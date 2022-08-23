@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 14:10"
+  class="v">10</span>And on the eighth day he shall take two he lambs without
+  blemish, and one ewe lamb of the first year without blemish, and three tenth
+  deals of fine flour <span class="add">for</span> a meat offering, mingled with
+  oil, and one log of oil. </p>
+id: LEV/14/10
+next:
+  id: LEV/14/11
+  number: '11'
+previous:
+  id: LEV/14/9
+  number: '9'
+reference: 'Leviticus 14:10'

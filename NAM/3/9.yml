@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NAM 3:9"
+  class="v">9</span>Ethiopia and Egypt <span class="add">were</span> her
+  strength, and <span class="add">it was</span> infinite; Put and Lubim were thy
+  helpers. </p>
+id: NAM/3/9
+next:
+  id: NAM/3/10
+  number: '10'
+previous:
+  id: NAM/3/8
+  number: '8'
+reference: 'Nahum 3:9'

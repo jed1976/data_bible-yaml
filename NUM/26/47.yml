@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="NUM 26:47"
+  class="v">47</span>These <span class="add">are</span> the families of the sons
+  of Asher according to those that were numbered of them; <span class="add">who
+  were</span> fifty and three thousand and four hundred.</p>
+id: NUM/26/47
+next:
+  id: NUM/26/48
+  number: '48'
+previous:
+  id: NUM/26/46
+  number: '46'
+reference: 'Numbers 26:47'

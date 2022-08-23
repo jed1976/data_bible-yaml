@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 1:10" class="v">10</span>And
+  the whole multitude of the people were praying without at the time of incense.
+  </p>
+id: LUK/1/10
+next:
+  id: LUK/1/11
+  number: '11'
+previous:
+  id: LUK/1/9
+  number: '9'
+reference: 'Luke 1:10'

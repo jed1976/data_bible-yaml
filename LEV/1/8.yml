@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 1:8" class="v">8</span>And
+  the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in
+  order upon the wood that <span class="add">is</span> on the fire which <span
+  class="add">is</span> upon the altar: </p>
+id: LEV/1/8
+next:
+  id: LEV/1/9
+  number: '9'
+previous:
+  id: LEV/1/7
+  number: '7'
+reference: 'Leviticus 1:8'

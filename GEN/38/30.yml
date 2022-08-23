@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 38:30"
+  class="v">30</span>And afterward came out his brother, that had the scarlet
+  thread upon his hand: and his name was called Zarah.</p>
+id: GEN/38/30
+next:
+  id: GEN/39/1
+  number: '1'
+previous:
+  id: GEN/38/29
+  number: '29'
+reference: 'Genesis 38:30'

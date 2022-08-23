@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="RUT 3:4" class="v">4</span>And it
+  shall be, when he lieth down, that thou shalt mark the place where he shall
+  lie, and thou shalt go in, and uncover his feet, and lay thee down; and he
+  will tell thee what thou shalt do. </p>
+id: RUT/3/4
+next:
+  id: RUT/3/5
+  number: '5'
+previous:
+  id: RUT/3/3
+  number: '3'
+reference: 'Ruth 3:4'

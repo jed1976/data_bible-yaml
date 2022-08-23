@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 3:12"
+  class="v">12</span>Then were the king’s scribes called on the thirteenth day
+  of the first month, and there was written according to all that Haman had
+  commanded unto the king’s lieutenants, and to the governors that <span
+  class="add">were</span> over every province, and to the rulers of every people
+  of every province according to the writing thereof, and <span
+  class="add">to</span> every people after their language; in the name of king
+  Ahasuerus was it written, and sealed with the king’s ring. </p>
+id: EST/3/12
+next:
+  id: EST/3/13
+  number: '13'
+previous:
+  id: EST/3/11
+  number: '11'
+reference: 'Esther 3:12'

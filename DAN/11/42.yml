@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DAN 11:42" class="v">42</span>He
+  shall stretch forth his hand also upon the countries: and the land of Egypt
+  shall not escape. </p>
+id: DAN/11/42
+next:
+  id: DAN/11/43
+  number: '43'
+previous:
+  id: DAN/11/41
+  number: '41'
+reference: 'Daniel 11:42'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 1:7" class="v">7</span>Only
+  be thou strong and very courageous, that thou mayest observe to do according
+  to all the law, which Moses my servant commanded thee: turn not from it <span
+  class="add">to</span> the right hand or <span class="add">to</span> the left,
+  that thou mayest prosper whithersoever thou goest. </p>
+id: JOS/1/7
+next:
+  id: JOS/1/8
+  number: '8'
+previous:
+  id: JOS/1/6
+  number: '6'
+reference: 'Joshua 1:7'

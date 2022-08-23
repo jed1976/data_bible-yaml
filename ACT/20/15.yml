@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 20:15"
+  class="v">15</span>And we sailed thence, and came the next <span
+  class="add">day</span> over against Chios; and the next <span
+  class="add">day</span> we arrived at Samos, and tarried at Trogyllium; and the
+  next <span class="add">day</span> we came to Miletus. </p>
+id: ACT/20/15
+next:
+  id: ACT/20/16
+  number: '16'
+previous:
+  id: ACT/20/14
+  number: '14'
+reference: 'Acts 20:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 8:11"
+  class="v">11</span>Because Ephraim hath made many altars to sin, altars shall
+  be unto him to sin. </p>
+id: HOS/8/11
+next:
+  id: HOS/8/12
+  number: '12'
+previous:
+  id: HOS/8/10
+  number: '10'
+reference: 'Hosea 8:11'

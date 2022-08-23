@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 18:27" class="v">27</span>¶
+  And Moses let his father in law depart; and he went his way into his own
+  land.</p>
+id: EXO/18/27
+next:
+  id: EXO/19/1
+  number: '1'
+previous:
+  id: EXO/18/26
+  number: '26'
+reference: 'Exodus 18:27'

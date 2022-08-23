@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOL 2:19"
+  class="v">19</span>Yea, the <span class="nd">LORD</span> will answer and say
+  unto his people, Behold, I will send you corn, and wine, and oil, and ye shall
+  be satisfied therewith: and I will no more make you a reproach among the
+  heathen: </p>
+id: JOL/2/19
+next:
+  id: JOL/2/20
+  number: '20'
+previous:
+  id: JOL/2/18
+  number: '18'
+reference: 'Joel 2:19'

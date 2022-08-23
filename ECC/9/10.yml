@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 9:10"
+  class="v">10</span>Whatsoever thy hand findeth to do, do <span
+  class="add">it</span> with thy might; for <span class="add">there is</span> no
+  work, nor device, nor knowledge, nor wisdom, in the grave, whither thou
+  goest.</p>
+id: ECC/9/10
+next:
+  id: ECC/9/11
+  number: '11'
+previous:
+  id: ECC/9/9
+  number: '9'
+reference: 'Ecclesiastes 9:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 3:8" class="v">8</span>It
+  shall be health to thy navel, and marrow to thy bones. </p>
+id: PRO/3/8
+next:
+  id: PRO/3/9
+  number: '9'
+previous:
+  id: PRO/3/7
+  number: '7'
+reference: 'Proverbs 3:8'

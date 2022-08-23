@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 24:23"
+  class="v">23</span>These <span class="add">things</span> also <span
+  class="add">belong</span> to the wise. <span class="add">It is</span> not good
+  to have respect of persons in judgment. </p>
+id: PRO/24/23
+next:
+  id: PRO/24/24
+  number: '24'
+previous:
+  id: PRO/24/22
+  number: '22'
+reference: 'Proverbs 24:23'

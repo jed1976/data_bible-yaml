@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="MAT 26:54"
+  class="v">54</span><span class="wj">But how then shall the scriptures be
+  fulfilled, that thus it must be?</span> </p>
+id: MAT/26/54
+next:
+  id: MAT/26/55
+  number: '55'
+previous:
+  id: MAT/26/53
+  number: '53'
+reference: 'Matthew 26:54'

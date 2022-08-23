@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 7:1" class="v">1</span>My
+  son, keep my words, and lay up my commandments with thee. </p>
+id: PRO/7/1
+next:
+  id: PRO/7/2
+  number: '2'
+previous:
+  id: PRO/6/35
+  number: '35'
+reference: 'Proverbs 7:1'

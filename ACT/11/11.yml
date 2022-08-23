@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 11:11"
+  class="v">11</span>And, behold, immediately there were three men already come
+  unto the house where I was, sent from Cæsarea unto me. </p>
+id: ACT/11/11
+next:
+  id: ACT/11/12
+  number: '12'
+previous:
+  id: ACT/11/10
+  number: '10'
+reference: 'Acts 11:11'

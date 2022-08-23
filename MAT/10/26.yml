@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 10:26"
+  class="v">26</span><span class="wj">Fear them not therefore: for there is
+  nothing covered, that shall not be revealed; and hid, that shall not be
+  known.</span> </p>
+id: MAT/10/26
+next:
+  id: MAT/10/27
+  number: '27'
+previous:
+  id: MAT/10/25
+  number: '25'
+reference: 'Matthew 10:26'

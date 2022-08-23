@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 26:4"
+  class="v">4</span>Answer not a fool according to his folly, lest thou also be
+  like unto him. </p>
+id: PRO/26/4
+next:
+  id: PRO/26/5
+  number: '5'
+previous:
+  id: PRO/26/3
+  number: '3'
+reference: 'Proverbs 26:4'

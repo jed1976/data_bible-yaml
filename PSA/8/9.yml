@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 8:9" class="v">9</span>O
+  <span class="nd">LORD</span> our Lord, how excellent <span
+  class="add">is</span> thy name in all the earth!</p>
+id: PSA/8/9
+next:
+  id: PSA/9/1
+  number: '1'
+previous:
+  id: PSA/8/8
+  number: '8'
+reference: 'Psalms 8:9'

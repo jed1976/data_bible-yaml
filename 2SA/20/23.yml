@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 20:23" class="v">23</span>¶
+  Now Joab <span class="add">was</span> over all the host of Israel: and Benaiah
+  the son of Jehoiada <span class="add">was</span> over the Cherethites and over
+  the Pelethites: </p>
+id: 2SA/20/23
+next:
+  id: 2SA/20/24
+  number: '24'
+previous:
+  id: 2SA/20/22
+  number: '22'
+reference: '2 Samuel 20:23'

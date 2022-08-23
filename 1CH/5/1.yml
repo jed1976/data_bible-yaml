@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 5:1" class="v">1</span>Now
+  the sons of Reuben the firstborn of Israel, (for he <span
+  class="add">was</span> the firstborn; but, forasmuch as he defiled his
+  father’s bed, his birthright was given unto the sons of Joseph the son of
+  Israel: and the genealogy is not to be reckoned after the birthright. </p>
+id: 1CH/5/1
+next:
+  id: 1CH/5/2
+  number: '2'
+previous:
+  id: 1CH/4/43
+  number: '43'
+reference: '1 Chronicles 5:1'

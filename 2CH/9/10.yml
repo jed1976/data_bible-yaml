@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 9:10" class="v">10</span>And
+  the servants also of Huram, and the servants of Solomon, which brought gold
+  from Ophir, brought algum trees and precious stones. </p>
+id: 2CH/9/10
+next:
+  id: 2CH/9/11
+  number: '11'
+previous:
+  id: 2CH/9/9
+  number: '9'
+reference: '2 Chronicles 9:10'

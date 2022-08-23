@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 7:15" class="v">15</span>¶ I
+  Daniel was grieved in my spirit in the midst of <span class="add">my</span>
+  body, and the visions of my head troubled me. </p>
+id: DAN/7/15
+next:
+  id: DAN/7/16
+  number: '16'
+previous:
+  id: DAN/7/14
+  number: '14'
+reference: 'Daniel 7:15'

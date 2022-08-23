@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 3:6" class="v">6</span>And
+  when the woman saw that the tree <span class="add">was</span> good for food,
+  and that it <span class="add">was</span> pleasant to the eyes, and a tree to
+  be desired to make <span class="add">one</span> wise, she took of the fruit
+  thereof, and did eat, and gave also unto her husband with her; and he did eat.
+  </p>
+id: GEN/3/6
+next:
+  id: GEN/3/7
+  number: '7'
+previous:
+  id: GEN/3/5
+  number: '5'
+reference: 'Genesis 3:6'

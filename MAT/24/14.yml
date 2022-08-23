@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 24:14"
+  class="v">14</span><span class="wj">And this gospel of the kingdom shall be
+  preached in all the world for a witness unto all nations; and then shall the
+  end come.</span> </p>
+id: MAT/24/14
+next:
+  id: MAT/24/15
+  number: '15'
+previous:
+  id: MAT/24/13
+  number: '13'
+reference: 'Matthew 24:14'

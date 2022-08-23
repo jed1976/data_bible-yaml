@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 29:24"
+  class="v">24</span>Even all nations shall say, Wherefore hath the <span
+  class="nd">LORD</span> done thus unto this land? what <span
+  class="add">meaneth</span> the heat of this great anger? </p>
+id: DEU/29/24
+next:
+  id: DEU/29/25
+  number: '25'
+previous:
+  id: DEU/29/23
+  number: '23'
+reference: 'Deuteronomy 29:24'

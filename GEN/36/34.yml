@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 36:34"
+  class="v">34</span>And Jobab died, and Husham of the land of Temani reigned in
+  his stead. </p>
+id: GEN/36/34
+next:
+  id: GEN/36/35
+  number: '35'
+previous:
+  id: GEN/36/33
+  number: '33'
+reference: 'Genesis 36:34'

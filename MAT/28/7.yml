@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 28:7" class="v">7</span>And
+  go quickly, and tell his disciples that he is risen from the dead; and,
+  behold, he goeth before you into Galilee; there shall ye see him: lo, I have
+  told you. </p>
+id: MAT/28/7
+next:
+  id: MAT/28/8
+  number: '8'
+previous:
+  id: MAT/28/6
+  number: '6'
+reference: 'Matthew 28:7'

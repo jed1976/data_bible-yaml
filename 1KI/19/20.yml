@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 19:20"
+  class="v">20</span>And he left the oxen, and ran after Elijah, and said, Let
+  me, I pray thee, kiss my father and my mother, and <span
+  class="add">then</span> I will follow thee. And he said unto him, Go back
+  again: for what have I done to thee? </p>
+id: 1KI/19/20
+next:
+  id: 1KI/19/21
+  number: '21'
+previous:
+  id: 1KI/19/19
+  number: '19'
+reference: '1 Kings 19:20'

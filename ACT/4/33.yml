@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 4:33" class="v">33</span>And
+  with great power gave the apostles witness of the resurrection of the Lord
+  Jesus: and great grace was upon them all. </p>
+id: ACT/4/33
+next:
+  id: ACT/4/34
+  number: '34'
+previous:
+  id: ACT/4/32
+  number: '32'
+reference: 'Acts 4:33'

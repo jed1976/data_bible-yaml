@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 14:4"
+  class="v">4</span>Have all the workers of iniquity no knowledge? who eat up my
+  people <span class="add">as</span> they eat bread, and call not upon the <span
+  class="nd">LORD</span>.</p>
+id: PSA/14/4
+next:
+  id: PSA/14/5
+  number: '5'
+previous:
+  id: PSA/14/3
+  number: '3'
+reference: 'Psalms 14:4'

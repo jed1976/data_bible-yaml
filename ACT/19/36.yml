@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ACT 19:36"
+  class="v">36</span>Seeing then that these things cannot be spoken against, ye
+  ought to be quiet, and to do nothing rashly. </p>
+id: ACT/19/36
+next:
+  id: ACT/19/37
+  number: '37'
+previous:
+  id: ACT/19/35
+  number: '35'
+reference: 'Acts 19:36'

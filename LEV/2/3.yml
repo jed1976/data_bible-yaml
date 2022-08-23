@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 2:3" class="v">3</span>And
+  the remnant of the meat offering <span class="add">shall be</span> Aaron’s and
+  his sons’: <span class="add">it is</span> a thing most holy of the offerings
+  of the <span class="nd">LORD</span> made by fire.</p>
+id: LEV/2/3
+next:
+  id: LEV/2/4
+  number: '4'
+previous:
+  id: LEV/2/2
+  number: '2'
+reference: 'Leviticus 2:3'

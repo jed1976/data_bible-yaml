@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 6:16" class="v">16</span>A
+  window shalt thou make to the ark, and in a cubit shalt thou finish it above;
+  and the door of the ark shalt thou set in the side thereof; <span
+  class="add">with</span> lower, second, and third <span
+  class="add">stories</span> shalt thou make it. </p>
+id: GEN/6/16
+next:
+  id: GEN/6/17
+  number: '17'
+previous:
+  id: GEN/6/15
+  number: '15'
+reference: 'Genesis 6:16'

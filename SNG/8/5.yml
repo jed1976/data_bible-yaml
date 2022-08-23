@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 8:5" class="v">5</span>Who
+  <span class="add">is</span> this that cometh up from the wilderness, leaning
+  upon her beloved? I raised thee up under the apple tree: there thy mother
+  brought thee forth: there she brought thee forth <span class="add">that</span>
+  bare thee.</p>
+id: SNG/8/5
+next:
+  id: SNG/8/6
+  number: '6'
+previous:
+  id: SNG/8/4
+  number: '4'
+reference: 'Song of Solomon 8:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 27:13"
+  class="v">13</span>And when the south wind blew softly, supposing that they
+  had obtained <span class="add">their</span> purpose, loosing <span
+  class="add">thence</span>, they sailed close by Crete. </p>
+id: ACT/27/13
+next:
+  id: ACT/27/14
+  number: '14'
+previous:
+  id: ACT/27/12
+  number: '12'
+reference: 'Acts 27:13'

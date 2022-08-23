@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 2:13" class="v">13</span>¶
+  And the Jews’ passover was at hand, and Jesus went up to Jerusalem, </p>
+id: JHN/2/13
+next:
+  id: JHN/2/14
+  number: '14'
+previous:
+  id: JHN/2/12
+  number: '12'
+reference: 'John 2:13'

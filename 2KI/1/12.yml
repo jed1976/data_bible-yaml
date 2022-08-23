@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 1:12" class="v">12</span>And
+  Elijah answered and said unto them, If I <span class="add">be</span> a man of
+  God, let fire come down from heaven, and consume thee and thy fifty. And the
+  fire of God came down from heaven, and consumed him and his fifty.</p>
+id: 2KI/1/12
+next:
+  id: 2KI/1/13
+  number: '13'
+previous:
+  id: 2KI/1/11
+  number: '11'
+reference: '2 Kings 1:12'

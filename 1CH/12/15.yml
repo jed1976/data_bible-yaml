@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CH 12:15"
+  class="v">15</span>These <span class="add">are</span> they that went over
+  Jordan in the first month, when it had overflown all his banks; and they put
+  to flight all <span class="add">them</span> of the valleys, <span
+  class="add">both</span> toward the east, and toward the west. </p>
+id: 1CH/12/15
+next:
+  id: 1CH/12/16
+  number: '16'
+previous:
+  id: 1CH/12/14
+  number: '14'
+reference: '1 Chronicles 12:15'

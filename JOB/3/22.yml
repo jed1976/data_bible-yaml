@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 3:22"
+  class="v">22</span>Which rejoice exceedingly, <span class="add">and</span> are
+  glad, when they can find the grave? </p>
+id: JOB/3/22
+next:
+  id: JOB/3/23
+  number: '23'
+previous:
+  id: JOB/3/21
+  number: '21'
+reference: 'Job 3:22'

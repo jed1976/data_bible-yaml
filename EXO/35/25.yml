@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 35:25"
+  class="v">25</span>And all the women that were wise hearted did spin with
+  their hands, and brought that which they had spun, <span
+  class="add">both</span> of blue, and of purple, <span class="add">and</span>
+  of scarlet, and of fine linen. </p>
+id: EXO/35/25
+next:
+  id: EXO/35/26
+  number: '26'
+previous:
+  id: EXO/35/24
+  number: '24'
+reference: 'Exodus 35:25'

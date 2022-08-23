@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 26:1" class="v">1</span>And
+  it shall be, when thou <span class="add">art</span> come in unto the land
+  which the <span class="nd">LORD</span> thy God giveth thee <span
+  class="add">for</span> an inheritance, and possessest it, and dwellest
+  therein; </p>
+id: DEU/26/1
+next:
+  id: DEU/26/2
+  number: '2'
+previous:
+  id: DEU/25/19
+  number: '19'
+reference: 'Deuteronomy 26:1'

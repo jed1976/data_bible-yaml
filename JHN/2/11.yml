@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 2:11"
+  class="v">11</span>This beginning of miracles did Jesus in Cana of Galilee,
+  and manifested forth his glory; and his disciples believed on him.</p>
+id: JHN/2/11
+next:
+  id: JHN/2/12
+  number: '12'
+previous:
+  id: JHN/2/10
+  number: '10'
+reference: 'John 2:11'

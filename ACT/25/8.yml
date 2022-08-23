@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 25:8" class="v">8</span>While
+  he answered for himself, Neither against the law of the Jews, neither against
+  the temple, nor yet against Cæsar, have I offended any thing at all. </p>
+id: ACT/25/8
+next:
+  id: ACT/25/9
+  number: '9'
+previous:
+  id: ACT/25/7
+  number: '7'
+reference: 'Acts 25:8'

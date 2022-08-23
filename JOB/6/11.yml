@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 6:11"
+  class="v">11</span>What <span class="add">is</span> my strength, that I should
+  hope? and what <span class="add">is</span> mine end, that I should prolong my
+  life? </p>
+id: JOB/6/11
+next:
+  id: JOB/6/12
+  number: '12'
+previous:
+  id: JOB/6/10
+  number: '10'
+reference: 'Job 6:11'

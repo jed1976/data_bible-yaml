@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 29:6" class="v">6</span>In
+  the transgression of an evil man <span class="add">there is</span> a snare:
+  but the righteous doth sing and rejoice. </p>
+id: PRO/29/6
+next:
+  id: PRO/29/7
+  number: '7'
+previous:
+  id: PRO/29/5
+  number: '5'
+reference: 'Proverbs 29:6'

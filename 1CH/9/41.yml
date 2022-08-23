@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="1CH 9:41" class="v">41</span>And
+  the sons of Micah <span class="add">were</span>, Pithon, and Melech, and
+  Tahrea, <span class="add">and Ahaz</span>. </p>
+id: 1CH/9/41
+next:
+  id: 1CH/9/42
+  number: '42'
+previous:
+  id: 1CH/9/40
+  number: '40'
+reference: '1 Chronicles 9:41'

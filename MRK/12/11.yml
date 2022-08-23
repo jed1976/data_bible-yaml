@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 12:11"
+  class="v">11</span><span class="wj">This was the Lord’s doing, and it is
+  marvellous in our eyes?</span> </p>
+id: MRK/12/11
+next:
+  id: MRK/12/12
+  number: '12'
+previous:
+  id: MRK/12/10
+  number: '10'
+reference: 'Mark 12:11'

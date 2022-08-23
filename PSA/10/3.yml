@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 10:3" class="v">3</span>For
+  the wicked boasteth of his heart’s desire, and blesseth the covetous, <span
+  class="add">whom</span> the <span class="nd">LORD</span> abhorreth.</p>
+id: PSA/10/3
+next:
+  id: PSA/10/4
+  number: '4'
+previous:
+  id: PSA/10/2
+  number: '2'
+reference: 'Psalms 10:3'

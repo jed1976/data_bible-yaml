@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 14:24"
+  class="v">24</span>And it came to pass, that in the morning watch the <span
+  class="nd">LORD</span> looked unto the host of the Egyptians through the
+  pillar of fire and of the cloud, and troubled the host of the Egyptians, </p>
+id: EXO/14/24
+next:
+  id: EXO/14/25
+  number: '25'
+previous:
+  id: EXO/14/23
+  number: '23'
+reference: 'Exodus 14:24'

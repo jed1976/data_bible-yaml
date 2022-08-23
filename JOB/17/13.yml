@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 17:13" class="v">13</span>If
+  I wait, the grave <span class="add">is</span> mine house: I have made my bed
+  in the darkness. </p>
+id: JOB/17/13
+next:
+  id: JOB/17/14
+  number: '14'
+previous:
+  id: JOB/17/12
+  number: '12'
+reference: 'Job 17:13'

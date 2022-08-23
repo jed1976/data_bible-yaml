@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 24:41"
+  class="v">41</span><span class="wj">Two <span class="add">women shall
+  be</span> grinding at the mill; the one shall be taken, and the other
+  left.</span></p>
+id: MAT/24/41
+next:
+  id: MAT/24/42
+  number: '42'
+previous:
+  id: MAT/24/40
+  number: '40'
+reference: 'Matthew 24:41'

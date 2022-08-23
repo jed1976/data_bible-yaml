@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="COL 3:7" class="v">7</span>In the
+  which ye also walked some time, when ye lived in them. </p>
+id: COL/3/7
+next:
+  id: COL/3/8
+  number: '8'
+previous:
+  id: COL/3/6
+  number: '6'
+reference: 'Colossians 3:7'

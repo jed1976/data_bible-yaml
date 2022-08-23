@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 45:6"
+  class="v">6</span>Thy throne, O God, <span class="add">is</span> for ever and
+  ever: the sceptre of thy kingdom <span class="add">is</span> a right
+  sceptre.</p>
+id: PSA/45/6
+next:
+  id: PSA/45/7
+  number: '7'
+previous:
+  id: PSA/45/5
+  number: '5'
+reference: 'Psalms 45:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 46:13" class="v">13</span>¶
+  And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.</p>
+id: GEN/46/13
+next:
+  id: GEN/46/14
+  number: '14'
+previous:
+  id: GEN/46/12
+  number: '12'
+reference: 'Genesis 46:13'

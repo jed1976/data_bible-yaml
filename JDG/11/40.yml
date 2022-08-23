@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JDG 11:40"
+  class="v">40</span><span class="add">That</span> the daughters of Israel went
+  yearly to lament the daughter of Jephthah the Gileadite four days in a
+  year.</p>
+id: JDG/11/40
+next:
+  id: JDG/12/1
+  number: '1'
+previous:
+  id: JDG/11/39
+  number: '39'
+reference: 'Judges 11:40'

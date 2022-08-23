@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 26:13"
+  class="v">13</span>Then thou shalt say before the <span class="nd">LORD</span>
+  thy God, I have brought away the hallowed things out of <span
+  class="add">mine</span> house, and also have given them unto the Levite, and
+  unto the stranger, to the fatherless, and to the widow, according to all thy
+  commandments which thou hast commanded me: I have not transgressed thy
+  commandments, neither have I forgotten <span class="add">them:</span> </p>
+id: DEU/26/13
+next:
+  id: DEU/26/14
+  number: '14'
+previous:
+  id: DEU/26/12
+  number: '12'
+reference: 'Deuteronomy 26:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 37:1" class="v">1</span>Fret not thyself because
+  of evildoers, neither be thou envious against the workers of iniquity.</p>
+id: PSA/37/1
+next:
+  id: PSA/37/2
+  number: '2'
+previous:
+  id: PSA/36/12
+  number: '12'
+reference: 'Psalms 37:1'

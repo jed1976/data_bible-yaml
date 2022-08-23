@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 8:38" class="v">38</span>And
+  he commanded the chariot to stand still: and they went down both into the
+  water, both Philip and the eunuch; and he baptized him. </p>
+id: ACT/8/38
+next:
+  id: ACT/8/39
+  number: '39'
+previous:
+  id: ACT/8/37
+  number: '37'
+reference: 'Acts 8:38'

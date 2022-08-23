@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 12:8" class="v">8</span>And
+  the priests consented to receive no <span class="add">more</span> money of the
+  people, neither to repair the breaches of the house. </p>
+id: 2KI/12/8
+next:
+  id: 2KI/12/9
+  number: '9'
+previous:
+  id: 2KI/12/7
+  number: '7'
+reference: '2 Kings 12:8'

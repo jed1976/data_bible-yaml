@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1SA 25:25"
+  class="v">25</span>Let not my lord, I pray thee, regard this man of Belial,
+  <span class="add">even</span> Nabal: for as his name <span
+  class="add">is</span>, so <span class="add">is</span> he; Nabal <span
+  class="add">is</span> his name, and folly <span class="add">is</span> with
+  him: but I thine handmaid saw not the young men of my lord, whom thou didst
+  send. </p>
+id: 1SA/25/25
+next:
+  id: 1SA/25/26
+  number: '26'
+previous:
+  id: 1SA/25/24
+  number: '24'
+reference: '1 Samuel 25:25'

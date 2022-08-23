@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 16:15"
+  class="v">15</span>And when she was baptized, and her household, she besought
+  <span class="add">us</span>, saying, If ye have judged me to be faithful to
+  the Lord, come into my house, and abide <span class="add">there</span>. And
+  she constrained us.</p>
+id: ACT/16/15
+next:
+  id: ACT/16/16
+  number: '16'
+previous:
+  id: ACT/16/14
+  number: '14'
+reference: 'Acts 16:15'

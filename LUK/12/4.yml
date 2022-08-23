@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 12:4" class="v">4</span><span
+  class="wj">And I say unto you my friends, Be not afraid of them that kill the
+  body, and after that have no more that they can do.</span> </p>
+id: LUK/12/4
+next:
+  id: LUK/12/5
+  number: '5'
+previous:
+  id: LUK/12/3
+  number: '3'
+reference: 'Luke 12:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 18:12"
+  class="v">12</span>And the messenger that went to call Micaiah spake to him,
+  saying, Behold, the words of the prophets <span class="add">declare</span>
+  good to the king with one assent; let thy word therefore, I pray thee, be like
+  one of theirs, and speak thou good. </p>
+id: 2CH/18/12
+next:
+  id: 2CH/18/13
+  number: '13'
+previous:
+  id: 2CH/18/11
+  number: '11'
+reference: '2 Chronicles 18:12'

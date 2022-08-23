@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 65:9" class="v">9</span>And I
+  will bring forth a seed out of Jacob, and out of Judah an inheritor of my
+  mountains: and mine elect shall inherit it, and my servants shall dwell there.
+  </p>
+id: ISA/65/9
+next:
+  id: ISA/65/10
+  number: '10'
+previous:
+  id: ISA/65/8
+  number: '8'
+reference: 'Isaiah 65:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 10:1" class="v">1</span>And
+  Nadab and Abihu, the sons of Aaron, took either of them his censer, and put
+  fire therein, and put incense thereon, and offered strange fire before the
+  <span class="nd">LORD</span>, which he commanded them not. </p>
+id: LEV/10/1
+next:
+  id: LEV/10/2
+  number: '2'
+previous:
+  id: LEV/9/24
+  number: '24'
+reference: 'Leviticus 10:1'

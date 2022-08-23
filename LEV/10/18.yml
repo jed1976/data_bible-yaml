@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LEV 10:18"
+  class="v">18</span>Behold, the blood of it was not brought in within the holy
+  <span class="add">place:</span> ye should indeed have eaten it in the holy
+  <span class="add">place</span>, as I commanded. </p>
+id: LEV/10/18
+next:
+  id: LEV/10/19
+  number: '19'
+previous:
+  id: LEV/10/17
+  number: '17'
+reference: 'Leviticus 10:18'

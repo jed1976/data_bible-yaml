@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 24:12"
+  class="v">12</span>And he said, O <span class="nd">LORD</span> God of my
+  master Abraham, I pray thee, send me good speed this day, and shew kindness
+  unto my master Abraham. </p>
+id: GEN/24/12
+next:
+  id: GEN/24/13
+  number: '13'
+previous:
+  id: GEN/24/11
+  number: '11'
+reference: 'Genesis 24:12'

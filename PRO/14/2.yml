@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 14:2" class="v">2</span>He
+  that walketh in his uprightness feareth the <span class="nd">LORD</span>: but
+  <span class="add">he that is</span> perverse in his ways despiseth him. </p>
+id: PRO/14/2
+next:
+  id: PRO/14/3
+  number: '3'
+previous:
+  id: PRO/14/1
+  number: '1'
+reference: 'Proverbs 14:2'

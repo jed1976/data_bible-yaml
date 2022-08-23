@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 4:6" class="v">6</span>So
+  built we the wall; and all the wall was joined together unto the half thereof:
+  for the people had a mind to work.</p>
+id: NEH/4/6
+next:
+  id: NEH/4/7
+  number: '7'
+previous:
+  id: NEH/4/5
+  number: '5'
+reference: 'Nehemiah 4:6'

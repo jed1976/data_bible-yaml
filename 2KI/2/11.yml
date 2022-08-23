@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 2:11" class="v">11</span>And
+  it came to pass, as they still went on, and talked, that, behold, <span
+  class="add">there appeared</span> a chariot of fire, and horses of fire, and
+  parted them both asunder; and Elijah went up by a whirlwind into heaven.</p>
+id: 2KI/2/11
+next:
+  id: 2KI/2/12
+  number: '12'
+previous:
+  id: 2KI/2/10
+  number: '10'
+reference: '2 Kings 2:11'

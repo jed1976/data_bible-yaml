@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 20:3" class="v">3</span>That
+  the slayer that killeth <span class="add">any</span> person unawares <span
+  class="add">and</span> unwittingly may flee thither: and they shall be your
+  refuge from the avenger of blood. </p>
+id: JOS/20/3
+next:
+  id: JOS/20/4
+  number: '4'
+previous:
+  id: JOS/20/2
+  number: '2'
+reference: 'Joshua 20:3'

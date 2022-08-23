@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 2:4" class="v">4</span>And
+  the men of Judah came, and there they anointed David king over the house of
+  Judah. And they told David, saying, <span class="add">That</span> the men of
+  Jabesh-gilead <span class="add">were they</span> that buried Saul.</p>
+id: 2SA/2/4
+next:
+  id: 2SA/2/5
+  number: '5'
+previous:
+  id: 2SA/2/3
+  number: '3'
+reference: '2 Samuel 2:4'

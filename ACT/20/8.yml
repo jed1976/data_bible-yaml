@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 20:8" class="v">8</span>And
+  there were many lights in the upper chamber, where they were gathered
+  together. </p>
+id: ACT/20/8
+next:
+  id: ACT/20/9
+  number: '9'
+previous:
+  id: ACT/20/7
+  number: '7'
+reference: 'Acts 20:8'

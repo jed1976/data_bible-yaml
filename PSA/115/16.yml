@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 115:16"
+  class="v">16</span>The heaven, <span class="add">even</span> the heavens,
+  <span class="add">are</span> the <span class="nd">LORD’s</span>: but the earth
+  hath he given to the children of men.</p>
+id: PSA/115/16
+next:
+  id: PSA/115/17
+  number: '17'
+previous:
+  id: PSA/115/15
+  number: '15'
+reference: 'Psalms 115:16'

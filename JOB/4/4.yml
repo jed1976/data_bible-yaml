@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 4:4" class="v">4</span>Thy
+  words have upholden him that was falling, and thou hast strengthened the
+  feeble knees. </p>
+id: JOB/4/4
+next:
+  id: JOB/4/5
+  number: '5'
+previous:
+  id: JOB/4/3
+  number: '3'
+reference: 'Job 4:4'

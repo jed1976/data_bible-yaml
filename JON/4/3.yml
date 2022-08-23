@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JON 4:3"
+  class="v">3</span>Therefore now, O <span class="nd">LORD</span>, take, I
+  beseech thee, my life from me; for <span class="add">it is</span> better for
+  me to die than to live.</p>
+id: JON/4/3
+next:
+  id: JON/4/4
+  number: '4'
+previous:
+  id: JON/4/2
+  number: '2'
+reference: 'Jonah 4:3'

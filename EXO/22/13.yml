@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 22:13" class="v">13</span>If
+  it be torn in pieces, <span class="add">then</span> let him bring it <span
+  class="add">for</span> witness, <span class="add">and</span> he shall not make
+  good that which was torn.</p>
+id: EXO/22/13
+next:
+  id: EXO/22/14
+  number: '14'
+previous:
+  id: EXO/22/12
+  number: '12'
+reference: 'Exodus 22:13'

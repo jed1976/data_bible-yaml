@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 2:29" class="v">29</span>Men
+  <span class="add">and</span> brethren, let me freely speak unto you of the
+  patriarch David, that he is both dead and buried, and his sepulchre is with us
+  unto this day. </p>
+id: ACT/2/29
+next:
+  id: ACT/2/30
+  number: '30'
+previous:
+  id: ACT/2/28
+  number: '28'
+reference: 'Acts 2:29'

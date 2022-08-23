@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LUK 7:19" class="v">19</span>¶
+  And John calling <span class="add">unto him</span> two of his disciples sent
+  <span class="add">them</span> to Jesus, saying, Art thou he that should come?
+  or look we for another? </p>
+id: LUK/7/19
+next:
+  id: LUK/7/20
+  number: '20'
+previous:
+  id: LUK/7/18
+  number: '18'
+reference: 'Luke 7:19'

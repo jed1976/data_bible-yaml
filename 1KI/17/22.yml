@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 17:22"
+  class="v">22</span>And the <span class="nd">LORD</span> heard the voice of
+  Elijah; and the soul of the child came into him again, and he revived. </p>
+id: 1KI/17/22
+next:
+  id: 1KI/17/23
+  number: '23'
+previous:
+  id: 1KI/17/21
+  number: '21'
+reference: '1 Kings 17:22'

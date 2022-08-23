@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 34:17"
+  class="v">17</span>Shall even he that hateth right govern? and wilt thou
+  condemn him that is most just? </p>
+id: JOB/34/17
+next:
+  id: JOB/34/18
+  number: '18'
+previous:
+  id: JOB/34/16
+  number: '16'
+reference: 'Job 34:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 3:3" class="v">3</span>For
+  this is he that was spoken of by the prophet Esaias, saying, The voice of one
+  crying in the wilderness, Prepare ye the way of the Lord, make his paths
+  straight. </p>
+id: MAT/3/3
+next:
+  id: MAT/3/4
+  number: '4'
+previous:
+  id: MAT/3/2
+  number: '2'
+reference: 'Matthew 3:3'

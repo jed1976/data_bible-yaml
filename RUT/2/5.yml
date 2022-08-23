@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="RUT 2:5" class="v">5</span>Then
+  said Boaz unto his servant that was set over the reapers, Whose damsel <span
+  class="add">is</span> this? </p>
+id: RUT/2/5
+next:
+  id: RUT/2/6
+  number: '6'
+previous:
+  id: RUT/2/4
+  number: '4'
+reference: 'Ruth 2:5'

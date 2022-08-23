@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ט TETH.</span></p><p
+  class="q1"><span data-number="65" data-sid="PSA 119:65"
+  class="v">65</span>Thou hast dealt well with thy servant, O <span
+  class="nd">LORD</span>, according unto thy word.</p>
+id: PSA/119/65
+next:
+  id: PSA/119/66
+  number: '66'
+previous:
+  id: PSA/119/64
+  number: '64'
+reference: 'Psalms 119:65'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 6:25" class="v">25</span>And
+  when they had found him on the other side of the sea, they said unto him,
+  Rabbi, when camest thou hither? </p>
+id: JHN/6/25
+next:
+  id: JHN/6/26
+  number: '26'
+previous:
+  id: JHN/6/24
+  number: '24'
+reference: 'John 6:25'

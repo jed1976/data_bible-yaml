@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 24:1" class="v">1</span>And
+  when Balaam saw that it pleased the <span class="nd">LORD</span> to bless
+  Israel, he went not, as at other times, to seek for enchantments, but he set
+  his face toward the wilderness. </p>
+id: NUM/24/1
+next:
+  id: NUM/24/2
+  number: '2'
+previous:
+  id: NUM/23/30
+  number: '30'
+reference: 'Numbers 24:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 1:15" class="v">15</span>And
+  saying, <span class="wj">The time is fulfilled, and the kingdom of God is at
+  hand: repent ye, and believe the gospel.</span> </p>
+id: MRK/1/15
+next:
+  id: MRK/1/16
+  number: '16'
+previous:
+  id: MRK/1/14
+  number: '14'
+reference: 'Mark 1:15'

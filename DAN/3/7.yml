@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 3:7"
+  class="v">7</span>Therefore at that time, when all the people heard the sound
+  of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all
+  the people, the nations, and the languages, fell down <span
+  class="add">and</span> worshipped the golden image that Nebuchadnezzar the
+  king had set up.</p>
+id: DAN/3/7
+next:
+  id: DAN/3/8
+  number: '8'
+previous:
+  id: DAN/3/6
+  number: '6'
+reference: 'Daniel 3:7'

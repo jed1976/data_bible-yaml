@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 14:12" class="v">12</span>¶
+  Then said he also to him that bade him, <span class="wj">When thou makest a
+  dinner or a supper, call not thy friends, nor thy brethren, neither thy
+  kinsmen, nor <span class="add">thy</span> rich neighbours; lest they also bid
+  thee again, and a recompence be made thee.</span> </p>
+id: LUK/14/12
+next:
+  id: LUK/14/13
+  number: '13'
+previous:
+  id: LUK/14/11
+  number: '11'
+reference: 'Luke 14:12'

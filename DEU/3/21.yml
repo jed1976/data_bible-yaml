@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 3:21" class="v">21</span>¶
+  And I commanded Joshua at that time, saying, Thine eyes have seen all that the
+  <span class="nd">LORD</span> your God hath done unto these two kings: so shall
+  the <span class="nd">LORD</span> do unto all the kingdoms whither thou
+  passest. </p>
+id: DEU/3/21
+next:
+  id: DEU/3/22
+  number: '22'
+previous:
+  id: DEU/3/20
+  number: '20'
+reference: 'Deuteronomy 3:21'

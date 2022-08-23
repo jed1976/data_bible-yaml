@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 22:27"
+  class="v">27</span>And last of all the woman died also. </p>
+id: MAT/22/27
+next:
+  id: MAT/22/28
+  number: '28'
+previous:
+  id: MAT/22/26
+  number: '26'
+reference: 'Matthew 22:27'

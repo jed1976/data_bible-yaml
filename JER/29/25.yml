@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 29:25"
+  class="v">25</span>Thus speaketh the <span class="nd">LORD</span> of hosts,
+  the God of Israel, saying, Because thou hast sent letters in thy name unto all
+  the people that <span class="add">are</span> at Jerusalem, and to Zephaniah
+  the son of Maaseiah the priest, and to all the priests, saying, </p>
+id: JER/29/25
+next:
+  id: JER/29/26
+  number: '26'
+previous:
+  id: JER/29/24
+  number: '24'
+reference: 'Jeremiah 29:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 135:12"
+  class="v">12</span>And gave their land <span class="add">for</span> an
+  heritage, an heritage unto Israel his people.</p>
+id: PSA/135/12
+next:
+  id: PSA/135/13
+  number: '13'
+previous:
+  id: PSA/135/11
+  number: '11'
+reference: 'Psalms 135:12'

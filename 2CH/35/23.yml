@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2CH 35:23"
+  class="v">23</span>And the archers shot at king Josiah; and the king said to
+  his servants, Have me away; for I am sore wounded. </p>
+id: 2CH/35/23
+next:
+  id: 2CH/35/24
+  number: '24'
+previous:
+  id: 2CH/35/22
+  number: '22'
+reference: '2 Chronicles 35:23'

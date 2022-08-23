@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 115:6"
+  class="v">6</span>They have ears, but they hear not: noses have they, but they
+  smell not:</p>
+id: PSA/115/6
+next:
+  id: PSA/115/7
+  number: '7'
+previous:
+  id: PSA/115/5
+  number: '5'
+reference: 'Psalms 115:6'

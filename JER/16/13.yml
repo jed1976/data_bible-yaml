@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 16:13"
+  class="v">13</span>Therefore will I cast you out of this land into a land that
+  ye know not, <span class="add">neither</span> ye nor your fathers; and there
+  shall ye serve other gods day and night; where I will not shew you favour.</p>
+id: JER/16/13
+next:
+  id: JER/16/14
+  number: '14'
+previous:
+  id: JER/16/12
+  number: '12'
+reference: 'Jeremiah 16:13'

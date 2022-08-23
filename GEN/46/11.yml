@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 46:11" class="v">11</span>¶
+  And the sons of Levi; Gershon, Kohath, and Merari.</p>
+id: GEN/46/11
+next:
+  id: GEN/46/12
+  number: '12'
+previous:
+  id: GEN/46/10
+  number: '10'
+reference: 'Genesis 46:11'

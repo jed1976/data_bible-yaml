@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NEH 6:2" class="v">2</span>That
+  Sanballat and Geshem sent unto me, saying, Come, let us meet together in <span
+  class="add">some one of</span> the villages in the plain of Ono. But they
+  thought to do me mischief. </p>
+id: NEH/6/2
+next:
+  id: NEH/6/3
+  number: '3'
+previous:
+  id: NEH/6/1
+  number: '1'
+reference: 'Nehemiah 6:2'

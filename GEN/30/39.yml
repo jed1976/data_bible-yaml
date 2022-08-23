@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="GEN 30:39"
+  class="v">39</span>And the flocks conceived before the rods, and brought forth
+  cattle ringstraked, speckled, and spotted. </p>
+id: GEN/30/39
+next:
+  id: GEN/30/40
+  number: '40'
+previous:
+  id: GEN/30/38
+  number: '38'
+reference: 'Genesis 30:39'

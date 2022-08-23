@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 15:1" class="v">1</span>The
+  burden of Moab. Because in the night Ar of Moab is laid waste, <span
+  class="add">and</span> brought to silence; because in the night Kir of Moab is
+  laid waste, <span class="add">and</span> brought to silence; </p>
+id: ISA/15/1
+next:
+  id: ISA/15/2
+  number: '2'
+previous:
+  id: ISA/14/32
+  number: '32'
+reference: 'Isaiah 15:1'

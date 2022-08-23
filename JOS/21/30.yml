@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 21:30"
+  class="v">30</span>And out of the tribe of Asher, Mishal with her suburbs,
+  Abdon with her suburbs, </p>
+id: JOS/21/30
+next:
+  id: JOS/21/31
+  number: '31'
+previous:
+  id: JOS/21/29
+  number: '29'
+reference: 'Joshua 21:30'

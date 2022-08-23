@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ZEC 8:21" class="v">21</span>And
+  the inhabitants of one <span class="add">city</span> shall go to another,
+  saying, Let us go speedily to pray before the <span class="nd">LORD</span>,
+  and to seek the <span class="nd">LORD</span> of hosts: I will go also. </p>
+id: ZEC/8/21
+next:
+  id: ZEC/8/22
+  number: '22'
+previous:
+  id: ZEC/8/20
+  number: '20'
+reference: 'Zechariah 8:21'

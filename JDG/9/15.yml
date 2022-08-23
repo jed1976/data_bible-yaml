@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 9:15" class="v">15</span>And
+  the bramble said unto the trees, If in truth ye anoint me king over you, <span
+  class="add">then</span> come <span class="add">and</span> put your trust in my
+  shadow: and if not, let fire come out of the bramble, and devour the cedars of
+  Lebanon. </p>
+id: JDG/9/15
+next:
+  id: JDG/9/16
+  number: '16'
+previous:
+  id: JDG/9/14
+  number: '14'
+reference: 'Judges 9:15'

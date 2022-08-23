@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GAL 2:2" class="v">2</span>And I
+  went up by revelation, and communicated unto them that gospel which I preach
+  among the Gentiles, but privately to them which were of reputation, lest by
+  any means I should run, or had run, in vain. </p>
+id: GAL/2/2
+next:
+  id: GAL/2/3
+  number: '3'
+previous:
+  id: GAL/2/1
+  number: '1'
+reference: 'Galatians 2:2'

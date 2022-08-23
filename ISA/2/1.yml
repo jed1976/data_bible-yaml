@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 2:1" class="v">1</span>The
+  word that Isaiah the son of Amoz saw concerning Judah and Jerusalem. </p>
+id: ISA/2/1
+next:
+  id: ISA/2/2
+  number: '2'
+previous:
+  id: ISA/1/31
+  number: '31'
+reference: 'Isaiah 2:1'

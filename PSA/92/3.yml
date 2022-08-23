@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 92:3" class="v">3</span>Upon
+  an instrument of ten strings, and upon the psaltery; upon the harp with a
+  solemn sound.</p>
+id: PSA/92/3
+next:
+  id: PSA/92/4
+  number: '4'
+previous:
+  id: PSA/92/2
+  number: '2'
+reference: 'Psalms 92:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 72:11"
+  class="v">11</span>Yea, all kings shall fall down before him: all nations
+  shall serve him.</p>
+id: PSA/72/11
+next:
+  id: PSA/72/12
+  number: '12'
+previous:
+  id: PSA/72/10
+  number: '10'
+reference: 'Psalms 72:11'

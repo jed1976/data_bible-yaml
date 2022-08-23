@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MRK 14:29"
+  class="v">29</span>But Peter said unto him, Although all shall be offended,
+  yet <span class="add">will</span> not I. </p>
+id: MRK/14/29
+next:
+  id: MRK/14/30
+  number: '30'
+previous:
+  id: MRK/14/28
+  number: '28'
+reference: 'Mark 14:29'

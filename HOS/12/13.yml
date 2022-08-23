@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HOS 12:13"
+  class="v">13</span>And by a prophet the <span class="nd">LORD</span> brought
+  Israel out of Egypt, and by a prophet was he preserved. </p>
+id: HOS/12/13
+next:
+  id: HOS/12/14
+  number: '14'
+previous:
+  id: HOS/12/12
+  number: '12'
+reference: 'Hosea 12:13'

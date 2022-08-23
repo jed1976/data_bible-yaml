@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 49:18" class="v">18</span>¶
+  Lift up thine eyes round about, and behold: all these gather themselves
+  together, <span class="add">and</span> come to thee. <span
+  class="add">As</span> I live, saith the <span class="nd">LORD</span>, thou
+  shalt surely clothe thee with them all, as with an ornament, and bind them
+  <span class="add">on thee</span>, as a bride <span class="add">doeth</span>.
+  </p>
+id: ISA/49/18
+next:
+  id: ISA/49/19
+  number: '19'
+previous:
+  id: ISA/49/17
+  number: '17'
+reference: 'Isaiah 49:18'

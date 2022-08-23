@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 14:4" class="v">4</span>These
+  <span class="add">are</span> the beasts which ye shall eat: the ox, the sheep,
+  and the goat, </p>
+id: DEU/14/4
+next:
+  id: DEU/14/5
+  number: '5'
+previous:
+  id: DEU/14/3
+  number: '3'
+reference: 'Deuteronomy 14:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 13:11"
+  class="v">11</span>And I beheld another beast coming up out of the earth; and
+  he had two horns like a lamb, and he spake as a dragon. </p>
+id: REV/13/11
+next:
+  id: REV/13/12
+  number: '12'
+previous:
+  id: REV/13/10
+  number: '10'
+reference: 'Revelation 13:11'

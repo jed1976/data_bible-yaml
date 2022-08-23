@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 33:29"
+  class="v">29</span>Lo, all these <span class="add">things</span> worketh God
+  oftentimes with man, </p>
+id: JOB/33/29
+next:
+  id: JOB/33/30
+  number: '30'
+previous:
+  id: JOB/33/28
+  number: '28'
+reference: 'Job 33:29'

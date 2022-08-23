@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 14:1" class="v">1</span>Man
+  <span class="add">that is</span> born of a woman <span class="add">is</span>
+  of few days, and full of trouble. </p>
+id: JOB/14/1
+next:
+  id: JOB/14/2
+  number: '2'
+previous:
+  id: JOB/13/28
+  number: '28'
+reference: 'Job 14:1'

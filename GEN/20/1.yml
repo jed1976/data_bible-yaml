@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 20:1" class="v">1</span>And
+  Abraham journeyed from thence toward the south country, and dwelled between
+  Kadesh and Shur, and sojourned in Gerar. </p>
+id: GEN/20/1
+next:
+  id: GEN/20/2
+  number: '2'
+previous:
+  id: GEN/19/38
+  number: '38'
+reference: 'Genesis 20:1'

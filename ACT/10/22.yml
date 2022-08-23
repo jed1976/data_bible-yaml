@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 10:22"
+  class="v">22</span>And they said, Cornelius the centurion, a just man, and one
+  that feareth God, and of good report among all the nation of the Jews, was
+  warned from God by an holy angel to send for thee into his house, and to hear
+  words of thee. </p>
+id: ACT/10/22
+next:
+  id: ACT/10/23
+  number: '23'
+previous:
+  id: ACT/10/21
+  number: '21'
+reference: 'Acts 10:22'

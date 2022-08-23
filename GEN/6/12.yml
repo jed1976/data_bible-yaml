@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 6:12" class="v">12</span>And
+  God looked upon the earth, and, behold, it was corrupt; for all flesh had
+  corrupted his way upon the earth.</p>
+id: GEN/6/12
+next:
+  id: GEN/6/13
+  number: '13'
+previous:
+  id: GEN/6/11
+  number: '11'
+reference: 'Genesis 6:12'

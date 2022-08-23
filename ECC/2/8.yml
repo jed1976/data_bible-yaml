@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 2:8" class="v">8</span>I
+  gathered me also silver and gold, and the peculiar treasure of kings and of
+  the provinces: I gat me men singers and women singers, and the delights of the
+  sons of men, <span class="add">as</span> musical instruments, and that of all
+  sorts. </p>
+id: ECC/2/8
+next:
+  id: ECC/2/9
+  number: '9'
+previous:
+  id: ECC/2/7
+  number: '7'
+reference: 'Ecclesiastes 2:8'

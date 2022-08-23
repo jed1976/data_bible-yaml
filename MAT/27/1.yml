@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 27:1" class="v">1</span>When
+  the morning was come, all the chief priests and elders of the people took
+  counsel against Jesus to put him to death: </p>
+id: MAT/27/1
+next:
+  id: MAT/27/2
+  number: '2'
+previous:
+  id: MAT/26/75
+  number: '75'
+reference: 'Matthew 27:1'

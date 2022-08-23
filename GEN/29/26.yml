@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 29:26"
+  class="v">26</span>And Laban said, It must not be so done in our country, to
+  give the younger before the firstborn. </p>
+id: GEN/29/26
+next:
+  id: GEN/29/27
+  number: '27'
+previous:
+  id: GEN/29/25
+  number: '25'
+reference: 'Genesis 29:26'

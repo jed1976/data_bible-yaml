@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 40:22" class="v">22</span>¶
+  And he put the table in the tent of the congregation, upon the side of the
+  tabernacle northward, without the vail. </p>
+id: EXO/40/22
+next:
+  id: EXO/40/23
+  number: '23'
+previous:
+  id: EXO/40/21
+  number: '21'
+reference: 'Exodus 40:22'

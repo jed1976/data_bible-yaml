@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 32:12"
+  class="v">12</span>Save Caleb the son of Jephunneh the Kenezite, and Joshua
+  the son of Nun: for they have wholly followed the <span
+  class="nd">LORD</span>. </p>
+id: NUM/32/12
+next:
+  id: NUM/32/13
+  number: '13'
+previous:
+  id: NUM/32/11
+  number: '11'
+reference: 'Numbers 32:12'

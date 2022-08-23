@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 11:26"
+  class="v">26</span><span class="wj">Then goeth he, and taketh <span
+  class="add">to him</span> seven other spirits more wicked than himself; and
+  they enter in, and dwell there: and the last <span class="add">state</span> of
+  that man is worse than the first.</span></p>
+id: LUK/11/26
+next:
+  id: LUK/11/27
+  number: '27'
+previous:
+  id: LUK/11/25
+  number: '25'
+reference: 'Luke 11:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="GEN 31:45"
+  class="v">45</span>And Jacob took a stone, and set it up <span
+  class="add">for</span> a pillar. </p>
+id: GEN/31/45
+next:
+  id: GEN/31/46
+  number: '46'
+previous:
+  id: GEN/31/44
+  number: '44'
+reference: 'Genesis 31:45'

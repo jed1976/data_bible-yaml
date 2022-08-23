@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 8:6" class="v">6</span>¶
+  Because to every purpose there is time and judgment, therefore the misery of
+  man <span class="add">is</span> great upon him. </p>
+id: ECC/8/6
+next:
+  id: ECC/8/7
+  number: '7'
+previous:
+  id: ECC/8/5
+  number: '5'
+reference: 'Ecclesiastes 8:6'

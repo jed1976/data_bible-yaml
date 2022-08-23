@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 18:1" class="v">1</span>And
+  the whole congregation of the children of Israel assembled together at Shiloh,
+  and set up the tabernacle of the congregation there. And the land was subdued
+  before them.</p>
+id: JOS/18/1
+next:
+  id: JOS/18/2
+  number: '2'
+previous:
+  id: JOS/17/18
+  number: '18'
+reference: 'Joshua 18:1'

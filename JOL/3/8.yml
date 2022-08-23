@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOL 3:8" class="v">8</span>And I
+  will sell your sons and your daughters into the hand of the children of Judah,
+  and they shall sell them to the Sabeans, to a people far off: for the <span
+  class="nd">LORD</span> hath spoken <span class="add">it</span>.</p>
+id: JOL/3/8
+next:
+  id: JOL/3/9
+  number: '9'
+previous:
+  id: JOL/3/7
+  number: '7'
+reference: 'Joel 3:8'

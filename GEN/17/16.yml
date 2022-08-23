@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 17:16"
+  class="v">16</span>And I will bless her, and give thee a son also of her: yea,
+  I will bless her, and she shall be <span class="add">a mother</span> of
+  nations; kings of people shall be of her. </p>
+id: GEN/17/16
+next:
+  id: GEN/17/17
+  number: '17'
+previous:
+  id: GEN/17/15
+  number: '15'
+reference: 'Genesis 17:16'

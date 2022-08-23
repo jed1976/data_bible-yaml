@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 16:38"
+  class="v">38</span>And the serjeants told these words unto the magistrates:
+  and they feared, when they heard that they were Romans. </p>
+id: ACT/16/38
+next:
+  id: ACT/16/39
+  number: '39'
+previous:
+  id: ACT/16/37
+  number: '37'
+reference: 'Acts 16:38'

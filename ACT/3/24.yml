@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 3:24"
+  class="v">24</span>Yea, and all the prophets from Samuel and those that follow
+  after, as many as have spoken, have likewise foretold of these days. </p>
+id: ACT/3/24
+next:
+  id: ACT/3/25
+  number: '25'
+previous:
+  id: ACT/3/23
+  number: '23'
+reference: 'Acts 3:24'

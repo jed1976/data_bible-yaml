@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 16:10"
+  class="v">10</span>And they drave not out the Canaanites that dwelt in Gezer:
+  but the Canaanites dwell among the Ephraimites unto this day, and serve under
+  tribute.</p>
+id: JOS/16/10
+next:
+  id: JOS/17/1
+  number: '1'
+previous:
+  id: JOS/16/9
+  number: '9'
+reference: 'Joshua 16:10'

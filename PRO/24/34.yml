@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="PRO 24:34" class="v">34</span>So
+  shall thy poverty come <span class="add">as</span> one that travelleth; and
+  thy want as an armed man.</p>
+id: PRO/24/34
+next:
+  id: PRO/25/1
+  number: '1'
+previous:
+  id: PRO/24/33
+  number: '33'
+reference: 'Proverbs 24:34'

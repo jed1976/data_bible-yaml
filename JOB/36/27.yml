@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 36:27"
+  class="v">27</span>For he maketh small the drops of water: they pour down rain
+  according to the vapour thereof: </p>
+id: JOB/36/27
+next:
+  id: JOB/36/28
+  number: '28'
+previous:
+  id: JOB/36/26
+  number: '26'
+reference: 'Job 36:27'

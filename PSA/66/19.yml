@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 66:19"
+  class="v">19</span><span class="add">But</span> verily God hath heard <span
+  class="add">me;</span> he hath attended to the voice of my prayer.</p>
+id: PSA/66/19
+next:
+  id: PSA/66/20
+  number: '20'
+previous:
+  id: PSA/66/18
+  number: '18'
+reference: 'Psalms 66:19'

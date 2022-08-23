@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 7:21" class="v">21</span>I
+  find then a law, that, when I would do good, evil is present with me. </p>
+id: ROM/7/21
+next:
+  id: ROM/7/22
+  number: '22'
+previous:
+  id: ROM/7/20
+  number: '20'
+reference: 'Romans 7:21'

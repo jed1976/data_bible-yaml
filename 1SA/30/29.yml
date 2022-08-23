@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1SA 30:29"
+  class="v">29</span>And to <span class="add">them</span> which <span
+  class="add">were</span> in Rachal, and to <span class="add">them</span> which
+  <span class="add">were</span> in the cities of the Jerahmeelites, and to <span
+  class="add">them</span> which <span class="add">were</span> in the cities of
+  the Kenites, </p>
+id: 1SA/30/29
+next:
+  id: 1SA/30/30
+  number: '30'
+previous:
+  id: 1SA/30/28
+  number: '28'
+reference: '1 Samuel 30:29'

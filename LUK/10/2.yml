@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LUK 10:2"
+  class="v">2</span>Therefore said he unto them, <span class="wj">The harvest
+  truly <span class="add">is</span> great, but the labourers <span
+  class="add">are</span> few: pray ye therefore the Lord of the harvest, that he
+  would send forth labourers into his harvest.</span> </p>
+id: LUK/10/2
+next:
+  id: LUK/10/3
+  number: '3'
+previous:
+  id: LUK/10/1
+  number: '1'
+reference: 'Luke 10:2'

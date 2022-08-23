@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 9:24" class="v">24</span>And
+  straightway the father of the child cried out, and said with tears, Lord, I
+  believe; help thou mine unbelief. </p>
+id: MRK/9/24
+next:
+  id: MRK/9/25
+  number: '25'
+previous:
+  id: MRK/9/23
+  number: '23'
+reference: 'Mark 9:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LUK 2:43" class="v">43</span>And
+  when they had fulfilled the days, as they returned, the child Jesus tarried
+  behind in Jerusalem; and Joseph and his mother knew not <span class="add">of
+  it</span>. </p>
+id: LUK/2/43
+next:
+  id: LUK/2/44
+  number: '44'
+previous:
+  id: LUK/2/42
+  number: '42'
+reference: 'Luke 2:43'

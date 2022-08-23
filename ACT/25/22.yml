@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 25:22"
+  class="v">22</span>Then Agrippa said unto Festus, I would also hear the man
+  myself. To morrow, said he, thou shalt hear him.</p>
+id: ACT/25/22
+next:
+  id: ACT/25/23
+  number: '23'
+previous:
+  id: ACT/25/21
+  number: '21'
+reference: 'Acts 25:22'

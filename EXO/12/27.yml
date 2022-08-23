@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 12:27"
+  class="v">27</span>That ye shall say, It <span class="add">is</span> the
+  sacrifice of the <span class="nd">LORD’s</span> passover, who passed over the
+  houses of the children of Israel in Egypt, when he smote the Egyptians, and
+  delivered our houses. And the people bowed the head and worshipped. </p>
+id: EXO/12/27
+next:
+  id: EXO/12/28
+  number: '28'
+previous:
+  id: EXO/12/26
+  number: '26'
+reference: 'Exodus 12:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 32:7" class="v">7</span>Then
+  Jacob was greatly afraid and distressed: and he divided the people that <span
+  class="add">was</span> with him, and the flocks, and herds, and the camels,
+  into two bands; </p>
+id: GEN/32/7
+next:
+  id: GEN/32/8
+  number: '8'
+previous:
+  id: GEN/32/6
+  number: '6'
+reference: 'Genesis 32:7'

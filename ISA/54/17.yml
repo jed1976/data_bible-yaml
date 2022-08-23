@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 54:17" class="v">17</span>¶
+  No weapon that is formed against thee shall prosper; and every tongue <span
+  class="add">that</span> shall rise against thee in judgment thou shalt
+  condemn. This <span class="add">is</span> the heritage of the servants of the
+  <span class="nd">LORD</span>, and their righteousness <span
+  class="add">is</span> of me, saith the <span class="nd">LORD</span>.</p>
+id: ISA/54/17
+next:
+  id: ISA/55/1
+  number: '1'
+previous:
+  id: ISA/54/16
+  number: '16'
+reference: 'Isaiah 54:17'

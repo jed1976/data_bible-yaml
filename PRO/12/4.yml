@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 12:4" class="v">4</span>A
+  virtuous woman <span class="add">is</span> a crown to her husband: but she
+  that maketh ashamed <span class="add">is</span> as rottenness in his bones.
+  </p>
+id: PRO/12/4
+next:
+  id: PRO/12/5
+  number: '5'
+previous:
+  id: PRO/12/3
+  number: '3'
+reference: 'Proverbs 12:4'

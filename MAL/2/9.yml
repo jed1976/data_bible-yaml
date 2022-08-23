@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAL 2:9"
+  class="v">9</span>Therefore have I also made you contemptible and base before
+  all the people, according as ye have not kept my ways, but have been partial
+  in the law.</p>
+id: MAL/2/9
+next:
+  id: MAL/2/10
+  number: '10'
+previous:
+  id: MAL/2/8
+  number: '8'
+reference: 'Malachi 2:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 142:4"
+  class="v">4</span>I looked on <span class="add">my</span> right hand, and
+  beheld, but <span class="add">there was</span> no man that would know me:
+  refuge failed me; no man cared for my soul.</p>
+id: PSA/142/4
+next:
+  id: PSA/142/5
+  number: '5'
+previous:
+  id: PSA/142/3
+  number: '3'
+reference: 'Psalms 142:4'

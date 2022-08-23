@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 132:8"
+  class="v">8</span>Arise, O <span class="nd">LORD</span>, into thy rest; thou,
+  and the ark of thy strength.</p>
+id: PSA/132/8
+next:
+  id: PSA/132/9
+  number: '9'
+previous:
+  id: PSA/132/7
+  number: '7'
+reference: 'Psalms 132:8'

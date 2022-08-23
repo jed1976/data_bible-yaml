@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 6:12"
+  class="v">12</span>That ye be not slothful, but followers of them who through
+  faith and patience inherit the promises. </p>
+id: HEB/6/12
+next:
+  id: HEB/6/13
+  number: '13'
+previous:
+  id: HEB/6/11
+  number: '11'
+reference: 'Hebrews 6:12'

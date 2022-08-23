@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 20:33" class="v">33</span>I
+  have coveted no man’s silver, or gold, or apparel. </p>
+id: ACT/20/33
+next:
+  id: ACT/20/34
+  number: '34'
+previous:
+  id: ACT/20/32
+  number: '32'
+reference: 'Acts 20:33'

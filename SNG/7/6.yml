@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 7:6" class="v">6</span>How
+  fair and how pleasant art thou, O love, for delights! </p>
+id: SNG/7/6
+next:
+  id: SNG/7/7
+  number: '7'
+previous:
+  id: SNG/7/5
+  number: '5'
+reference: 'Song of Solomon 7:6'

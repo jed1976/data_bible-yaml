@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 34:7" class="v">7</span>¶ And
+  Moses <span class="add">was</span> an hundred and twenty years old when he
+  died: his eye was not dim, nor his natural force abated.</p>
+id: DEU/34/7
+next:
+  id: DEU/34/8
+  number: '8'
+previous:
+  id: DEU/34/6
+  number: '6'
+reference: 'Deuteronomy 34:7'

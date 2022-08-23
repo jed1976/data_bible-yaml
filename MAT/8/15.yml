@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 8:15" class="v">15</span>And
+  he touched her hand, and the fever left her: and she arose, and ministered
+  unto them.</p>
+id: MAT/8/15
+next:
+  id: MAT/8/16
+  number: '16'
+previous:
+  id: MAT/8/14
+  number: '14'
+reference: 'Matthew 8:15'

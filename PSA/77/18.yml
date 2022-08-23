@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 77:18"
+  class="v">18</span>The voice of thy thunder <span class="add">was</span> in
+  the heaven: the lightnings lightened the world: the earth trembled and
+  shook.</p>
+id: PSA/77/18
+next:
+  id: PSA/77/19
+  number: '19'
+previous:
+  id: PSA/77/17
+  number: '17'
+reference: 'Psalms 77:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 11:4" class="v">4</span>For
+  thou hast said, My doctrine <span class="add">is</span> pure, and I am clean
+  in thine eyes. </p>
+id: JOB/11/4
+next:
+  id: JOB/11/5
+  number: '5'
+previous:
+  id: JOB/11/3
+  number: '3'
+reference: 'Job 11:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 11:20"
+  class="v">20</span>For it was of the <span class="nd">LORD</span> to harden
+  their hearts, that they should come against Israel in battle, that he might
+  destroy them utterly, <span class="add">and</span> that they might have no
+  favour, but that he might destroy them, as the <span class="nd">LORD</span>
+  commanded Moses.</p>
+id: JOS/11/20
+next:
+  id: JOS/11/21
+  number: '21'
+previous:
+  id: JOS/11/19
+  number: '19'
+reference: 'Joshua 11:20'

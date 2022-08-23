@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 33:22"
+  class="v">22</span>Yea, his soul draweth near unto the grave, and his life to
+  the destroyers. </p>
+id: JOB/33/22
+next:
+  id: JOB/33/23
+  number: '23'
+previous:
+  id: JOB/33/21
+  number: '21'
+reference: 'Job 33:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 33:1" class="v">1</span>And
+  the <span class="nd">LORD</span> said unto Moses, Depart, <span
+  class="add">and</span> go up hence, thou and the people which thou hast
+  brought up out of the land of Egypt, unto the land which I sware unto Abraham,
+  to Isaac, and to Jacob, saying, Unto thy seed will I give it: </p>
+id: EXO/33/1
+next:
+  id: EXO/33/2
+  number: '2'
+previous:
+  id: EXO/32/35
+  number: '35'
+reference: 'Exodus 33:1'

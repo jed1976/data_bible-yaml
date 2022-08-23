@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="LEV 11:45"
+  class="v">45</span>For I <span class="add">am</span> the <span
+  class="nd">LORD</span> that bringeth you up out of the land of Egypt, to be
+  your God: ye shall therefore be holy, for I <span class="add">am</span> holy.
+  </p>
+id: LEV/11/45
+next:
+  id: LEV/11/46
+  number: '46'
+previous:
+  id: LEV/11/44
+  number: '44'
+reference: 'Leviticus 11:45'

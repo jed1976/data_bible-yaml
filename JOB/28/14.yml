@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 28:14"
+  class="v">14</span>The depth saith, It <span class="add">is</span> not in me:
+  and the sea saith, <span class="add">It is</span> not with me. </p>
+id: JOB/28/14
+next:
+  id: JOB/28/15
+  number: '15'
+previous:
+  id: JOB/28/13
+  number: '13'
+reference: 'Job 28:14'

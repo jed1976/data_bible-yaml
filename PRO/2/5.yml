@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 2:5" class="v">5</span>Then
+  shalt thou understand the fear of the <span class="nd">LORD</span>, and find
+  the knowledge of God. </p>
+id: PRO/2/5
+next:
+  id: PRO/2/6
+  number: '6'
+previous:
+  id: PRO/2/4
+  number: '4'
+reference: 'Proverbs 2:5'

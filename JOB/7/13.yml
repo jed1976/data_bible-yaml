@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 7:13"
+  class="v">13</span>When I say, My bed shall comfort me, my couch shall ease my
+  complaint; </p>
+id: JOB/7/13
+next:
+  id: JOB/7/14
+  number: '14'
+previous:
+  id: JOB/7/12
+  number: '12'
+reference: 'Job 7:13'

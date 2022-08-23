@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 24:14" class="v">14</span>¶
+  Thou shalt not oppress an hired servant <span class="add">that is</span> poor
+  and needy, <span class="add">whether he be</span> of thy brethren, or of thy
+  strangers that <span class="add">are</span> in thy land within thy gates: </p>
+id: DEU/24/14
+next:
+  id: DEU/24/15
+  number: '15'
+previous:
+  id: DEU/24/13
+  number: '13'
+reference: 'Deuteronomy 24:14'

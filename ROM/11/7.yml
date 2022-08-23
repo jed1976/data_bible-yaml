@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 11:7" class="v">7</span>What
+  then? Israel hath not obtained that which he seeketh for; but the election
+  hath obtained it, and the rest were blinded </p>
+id: ROM/11/7
+next:
+  id: ROM/11/8
+  number: '8'
+previous:
+  id: ROM/11/6
+  number: '6'
+reference: 'Romans 11:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 24:11"
+  class="v">11</span>And their words seemed to them as idle tales, and they
+  believed them not. </p>
+id: LUK/24/11
+next:
+  id: LUK/24/12
+  number: '12'
+previous:
+  id: LUK/24/10
+  number: '10'
+reference: 'Luke 24:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 22:15"
+  class="v">15</span>My strength is dried up like a potsherd; and my tongue
+  cleaveth to my jaws; and thou hast brought me into the dust of death.</p>
+id: PSA/22/15
+next:
+  id: PSA/22/16
+  number: '16'
+previous:
+  id: PSA/22/14
+  number: '14'
+reference: 'Psalms 22:15'

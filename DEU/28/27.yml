@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 28:27"
+  class="v">27</span>The <span class="nd">LORD</span> will smite thee with the
+  botch of Egypt, and with the emerods, and with the scab, and with the itch,
+  whereof thou canst not be healed. </p>
+id: DEU/28/27
+next:
+  id: DEU/28/28
+  number: '28'
+previous:
+  id: DEU/28/26
+  number: '26'
+reference: 'Deuteronomy 28:27'

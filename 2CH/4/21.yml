@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2CH 4:21" class="v">21</span>And
+  the flowers, and the lamps, and the tongs, <span class="add">made he of</span>
+  gold, <span class="add">and</span> that perfect gold; </p>
+id: 2CH/4/21
+next:
+  id: 2CH/4/22
+  number: '22'
+previous:
+  id: 2CH/4/20
+  number: '20'
+reference: '2 Chronicles 4:21'

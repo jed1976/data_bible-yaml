@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MIC 4:6" class="v">6</span>In
+  that day, saith the <span class="nd">LORD</span>, will I assemble her that
+  halteth, and I will gather her that is driven out, and her that I have
+  afflicted; </p>
+id: MIC/4/6
+next:
+  id: MIC/4/7
+  number: '7'
+previous:
+  id: MIC/4/5
+  number: '5'
+reference: 'Micah 4:6'

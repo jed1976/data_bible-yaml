@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 3:5" class="v">5</span>And
+  Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which <span
+  class="add">is</span> upon the wood that <span class="add">is</span> on the
+  fire: <span class="add">it is</span> an offering made by fire, of a sweet
+  savour unto the <span class="nd">LORD</span>.</p>
+id: LEV/3/5
+next:
+  id: LEV/3/6
+  number: '6'
+previous:
+  id: LEV/3/4
+  number: '4'
+reference: 'Leviticus 3:5'

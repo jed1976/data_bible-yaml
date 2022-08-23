@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 1:9" class="v">9</span>Then
+  said I, O my lord, what <span class="add">are</span> these? And the angel that
+  talked with me said unto me, I will shew thee what these <span
+  class="add">be</span>. </p>
+id: ZEC/1/9
+next:
+  id: ZEC/1/10
+  number: '10'
+previous:
+  id: ZEC/1/8
+  number: '8'
+reference: 'Zechariah 1:9'

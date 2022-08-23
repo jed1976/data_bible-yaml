@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JAS 4:1" class="v">1</span>From
+  whence <span class="add">come</span> wars and fightings among you? <span
+  class="add">come they</span> not hence, <span class="add">even</span> of your
+  lusts that war in your members? </p>
+id: JAS/4/1
+next:
+  id: JAS/4/2
+  number: '2'
+previous:
+  id: JAS/3/18
+  number: '18'
+reference: 'James 4:1'

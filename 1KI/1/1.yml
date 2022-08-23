@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 1:1" class="v">1</span>Now
+  king David was old <span class="add">and</span> stricken in years; and they
+  covered him with clothes, but he gat no heat. </p>
+id: 1KI/1/1
+next:
+  id: 1KI/1/2
+  number: '2'
+previous:
+  id: 1KI/intro/0
+  number: '0'
+reference: '1 Kings 1:1'

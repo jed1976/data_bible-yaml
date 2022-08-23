@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="HAB 3:19" class="v">19</span>The
+  <span class="nd">LORD</span> God <span class="add">is</span> my strength, and
+  he will make my feet like hinds’ <span class="add">feet</span>, and he will
+  make me to walk upon mine high places. To the chief singer on my stringed
+  instruments.</p>
+id: HAB/3/19
+next:
+  id: ZEP/intro/0
+  number: '0'
+previous:
+  id: HAB/3/18
+  number: '18'
+reference: 'Habakkuk 3:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 78:22"
+  class="v">22</span>Because they believed not in God, and trusted not in his
+  salvation:</p>
+id: PSA/78/22
+next:
+  id: PSA/78/23
+  number: '23'
+previous:
+  id: PSA/78/21
+  number: '21'
+reference: 'Psalms 78:22'

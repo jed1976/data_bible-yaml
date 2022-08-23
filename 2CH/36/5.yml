@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 36:5" class="v">5</span>¶
+  Jehoiakim <span class="add">was</span> twenty and five years old when he began
+  to reign, and he reigned eleven years in Jerusalem: and he did <span
+  class="add">that which was</span> evil in the sight of the <span
+  class="nd">LORD</span> his God. </p>
+id: 2CH/36/5
+next:
+  id: 2CH/36/6
+  number: '6'
+previous:
+  id: 2CH/36/4
+  number: '4'
+reference: '2 Chronicles 36:5'

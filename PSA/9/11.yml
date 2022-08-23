@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 9:11"
+  class="v">11</span>Sing praises to the <span class="nd">LORD</span>, which
+  dwelleth in Zion: declare among the people his doings.</p>
+id: PSA/9/11
+next:
+  id: PSA/9/12
+  number: '12'
+previous:
+  id: PSA/9/10
+  number: '10'
+reference: 'Psalms 9:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 1:15" class="v">15</span>And
+  David called one of the young men, and said, Go near, <span
+  class="add">and</span> fall upon him. And he smote him that he died. </p>
+id: 2SA/1/15
+next:
+  id: 2SA/1/16
+  number: '16'
+previous:
+  id: 2SA/1/14
+  number: '14'
+reference: '2 Samuel 1:15'

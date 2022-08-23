@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 35:12"
+  class="v">12</span>And the land which I gave Abraham and Isaac, to thee I will
+  give it, and to thy seed after thee will I give the land. </p>
+id: GEN/35/12
+next:
+  id: GEN/35/13
+  number: '13'
+previous:
+  id: GEN/35/11
+  number: '11'
+reference: 'Genesis 35:12'

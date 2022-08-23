@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 7:2" class="v">2</span>And it
+  was told the house of David, saying, Syria is confederate with Ephraim. And
+  his heart was moved, and the heart of his people, as the trees of the wood are
+  moved with the wind. </p>
+id: ISA/7/2
+next:
+  id: ISA/7/3
+  number: '3'
+previous:
+  id: ISA/7/1
+  number: '1'
+reference: 'Isaiah 7:2'

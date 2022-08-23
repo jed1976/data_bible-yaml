@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HAB 2:8"
+  class="v">8</span>Because thou hast spoiled many nations, all the remnant of
+  the people shall spoil thee; because of men’s blood, and <span
+  class="add">for</span> the violence of the land, of the city, and of all that
+  dwell therein.</p>
+id: HAB/2/8
+next:
+  id: HAB/2/9
+  number: '9'
+previous:
+  id: HAB/2/7
+  number: '7'
+reference: 'Habakkuk 2:8'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 23:9"
+  class="v">9</span>Moreover Jehoiada the priest delivered to the captains of
+  hundreds spears, and bucklers, and shields, that <span class="add">had
+  been</span> king David’s, which <span class="add">were</span> in the house of
+  God. </p>
+id: 2CH/23/9
+next:
+  id: 2CH/23/10
+  number: '10'
+previous:
+  id: 2CH/23/8
+  number: '8'
+reference: '2 Chronicles 23:9'

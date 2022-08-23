@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 9:12" class="v">12</span>¶
+  And the king said unto Esther the queen, The Jews have slain and destroyed
+  five hundred men in Shushan the palace, and the ten sons of Haman; what have
+  they done in the rest of the king’s provinces? now what <span
+  class="add">is</span> thy petition? and it shall be granted thee: or what
+  <span class="add">is</span> thy request further? and it shall be done. </p>
+id: EST/9/12
+next:
+  id: EST/9/13
+  number: '13'
+previous:
+  id: EST/9/11
+  number: '11'
+reference: 'Esther 9:12'

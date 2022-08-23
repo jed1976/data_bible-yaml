@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 9:12" class="v">12</span>And
+  he slew the burnt offering; and Aaron’s sons presented unto him the blood,
+  which he sprinkled round about upon the altar. </p>
+id: LEV/9/12
+next:
+  id: LEV/9/13
+  number: '13'
+previous:
+  id: LEV/9/11
+  number: '11'
+reference: 'Leviticus 9:12'

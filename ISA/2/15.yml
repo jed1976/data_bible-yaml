@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 2:15" class="v">15</span>And
+  upon every high tower, and upon every fenced wall, </p>
+id: ISA/2/15
+next:
+  id: ISA/2/16
+  number: '16'
+previous:
+  id: ISA/2/14
+  number: '14'
+reference: 'Isaiah 2:15'

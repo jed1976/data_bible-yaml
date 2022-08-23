@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 2:5" class="v">5</span>But
+  after thy hardness and impenitent heart treasurest up unto thyself wrath
+  against the day of wrath and revelation of the righteous judgment of God; </p>
+id: ROM/2/5
+next:
+  id: ROM/2/6
+  number: '6'
+previous:
+  id: ROM/2/4
+  number: '4'
+reference: 'Romans 2:5'

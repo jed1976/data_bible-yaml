@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 19:12"
+  class="v">12</span><span class="wj">For there are some eunuchs, which were so
+  born from <span class="add">their</span> mother’s womb: and there are some
+  eunuchs, which were made eunuchs of men: and there be eunuchs, which have made
+  themselves eunuchs for the kingdom of heaven’s sake. He that is able to
+  receive <span class="add">it</span>, let him receive <span
+  class="add">it.</span></span></p>
+id: MAT/19/12
+next:
+  id: MAT/19/13
+  number: '13'
+previous:
+  id: MAT/19/11
+  number: '11'
+reference: 'Matthew 19:12'

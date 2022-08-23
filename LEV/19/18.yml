@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LEV 19:18" class="v">18</span>¶
+  Thou shalt not avenge, nor bear any grudge against the children of thy people,
+  but thou shalt love thy neighbour as thyself: I <span class="add">am</span>
+  the <span class="nd">LORD</span>.</p>
+id: LEV/19/18
+next:
+  id: LEV/19/19
+  number: '19'
+previous:
+  id: LEV/19/17
+  number: '17'
+reference: 'Leviticus 19:18'

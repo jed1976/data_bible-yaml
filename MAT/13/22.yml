@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 13:22"
+  class="v">22</span><span class="wj">He also that received seed among the
+  thorns is he that heareth the word; and the care of this world, and the
+  deceitfulness of riches, choke the word, and he becometh unfruitful.</span>
+  </p>
+id: MAT/13/22
+next:
+  id: MAT/13/23
+  number: '23'
+previous:
+  id: MAT/13/21
+  number: '21'
+reference: 'Matthew 13:22'

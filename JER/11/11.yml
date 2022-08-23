@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 11:11" class="v">11</span>¶
+  Therefore thus saith the <span class="nd">LORD</span>, Behold, I will bring
+  evil upon them, which they shall not be able to escape; and though they shall
+  cry unto me, I will not hearken unto them. </p>
+id: JER/11/11
+next:
+  id: JER/11/12
+  number: '12'
+previous:
+  id: JER/11/10
+  number: '10'
+reference: 'Jeremiah 11:11'

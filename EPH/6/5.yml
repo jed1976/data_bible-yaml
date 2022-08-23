@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EPH 6:5"
+  class="v">5</span>Servants, be obedient to them that are <span
+  class="add">your</span> masters according to the flesh, with fear and
+  trembling, in singleness of your heart, as unto Christ; </p>
+id: EPH/6/5
+next:
+  id: EPH/6/6
+  number: '6'
+previous:
+  id: EPH/6/4
+  number: '4'
+reference: 'Ephesians 6:5'

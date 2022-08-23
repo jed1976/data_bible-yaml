@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 46:30"
+  class="v">30</span>And Israel said unto Joseph, Now let me die, since I have
+  seen thy face, because thou <span class="add">art</span> yet alive. </p>
+id: GEN/46/30
+next:
+  id: GEN/46/31
+  number: '31'
+previous:
+  id: GEN/46/29
+  number: '29'
+reference: 'Genesis 46:30'

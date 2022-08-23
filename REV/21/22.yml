@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="REV 21:22"
+  class="v">22</span>And I saw no temple therein: for the Lord God Almighty and
+  the Lamb are the temple of it. </p>
+id: REV/21/22
+next:
+  id: REV/21/23
+  number: '23'
+previous:
+  id: REV/21/21
+  number: '21'
+reference: 'Revelation 21:22'

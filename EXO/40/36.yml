@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="EXO 40:36"
+  class="v">36</span>And when the cloud was taken up from over the tabernacle,
+  the children of Israel went onward in all their journeys: </p>
+id: EXO/40/36
+next:
+  id: EXO/40/37
+  number: '37'
+previous:
+  id: EXO/40/35
+  number: '35'
+reference: 'Exodus 40:36'

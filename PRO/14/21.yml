@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 14:21" class="v">21</span>He
+  that despiseth his neighbour sinneth: but he that hath mercy on the poor,
+  happy <span class="add">is</span> he. </p>
+id: PRO/14/21
+next:
+  id: PRO/14/22
+  number: '22'
+previous:
+  id: PRO/14/20
+  number: '20'
+reference: 'Proverbs 14:21'

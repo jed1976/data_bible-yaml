@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 10:10"
+  class="v">10</span>Also in the day of your gladness, and in your solemn days,
+  and in the beginnings of your months, ye shall blow with the trumpets over
+  your burnt offerings, and over the sacrifices of your peace offerings; that
+  they may be to you for a memorial before your God: I <span
+  class="add">am</span> the <span class="nd">LORD</span> your God.</p>
+id: NUM/10/10
+next:
+  id: NUM/10/11
+  number: '11'
+previous:
+  id: NUM/10/9
+  number: '9'
+reference: 'Numbers 10:10'

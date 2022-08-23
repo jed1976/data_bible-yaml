@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="NUM 31:53"
+  class="v">53</span>(<span class="add">For</span> the men of war had taken
+  spoil, every man for himself.) </p>
+id: NUM/31/53
+next:
+  id: NUM/31/54
+  number: '54'
+previous:
+  id: NUM/31/52
+  number: '52'
+reference: 'Numbers 31:53'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 2:16" class="v">16</span>And
+  <span class="add">if</span> any man said unto him, Let them not fail to burn
+  the fat presently, and <span class="add">then</span> take <span class="add">as
+  much</span> as thy soul desireth; then he would answer him, <span
+  class="add">Nay;</span> but thou shalt give <span class="add">it me</span>
+  now: and if not, I will take <span class="add">it</span> by force. </p>
+id: 1SA/2/16
+next:
+  id: 1SA/2/17
+  number: '17'
+previous:
+  id: 1SA/2/15
+  number: '15'
+reference: '1 Samuel 2:16'

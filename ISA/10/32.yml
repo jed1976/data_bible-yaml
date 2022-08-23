@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ISA 10:32" class="v">32</span>As
+  yet shall he remain at Nob that day: he shall shake his hand <span
+  class="add">against</span> the mount of the daughter of Zion, the hill of
+  Jerusalem. </p>
+id: ISA/10/32
+next:
+  id: ISA/10/33
+  number: '33'
+previous:
+  id: ISA/10/31
+  number: '31'
+reference: 'Isaiah 10:32'

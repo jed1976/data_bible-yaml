@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PHP 4:4"
+  class="v">4</span>Rejoice in the Lord alway: <span class="add">and</span>
+  again I say, Rejoice. </p>
+id: PHP/4/4
+next:
+  id: PHP/4/5
+  number: '5'
+previous:
+  id: PHP/4/3
+  number: '3'
+reference: 'Philippians 4:4'

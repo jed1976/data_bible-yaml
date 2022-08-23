@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 62:11"
+  class="v">11</span>God hath spoken once; twice have I heard this; that power
+  <span class="add">belongeth</span> unto God.</p>
+id: PSA/62/11
+next:
+  id: PSA/62/12
+  number: '12'
+previous:
+  id: PSA/62/10
+  number: '10'
+reference: 'Psalms 62:11'

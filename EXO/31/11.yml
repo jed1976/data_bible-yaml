@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 31:11"
+  class="v">11</span>And the anointing oil, and sweet incense for the holy <span
+  class="add">place:</span> according to all that I have commanded thee shall
+  they do.</p>
+id: EXO/31/11
+next:
+  id: EXO/31/12
+  number: '12'
+previous:
+  id: EXO/31/10
+  number: '10'
+reference: 'Exodus 31:11'

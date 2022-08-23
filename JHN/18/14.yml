@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 18:14"
+  class="v">14</span>Now Caiaphas was he, which gave counsel to the Jews, that
+  it was expedient that one man should die for the people.</p>
+id: JHN/18/14
+next:
+  id: JHN/18/15
+  number: '15'
+previous:
+  id: JHN/18/13
+  number: '13'
+reference: 'John 18:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 15:4" class="v">4</span>A
+  wholesome tongue <span class="add">is</span> a tree of life: but perverseness
+  therein <span class="add">is</span> a breach in the spirit. </p>
+id: PRO/15/4
+next:
+  id: PRO/15/5
+  number: '5'
+previous:
+  id: PRO/15/3
+  number: '3'
+reference: 'Proverbs 15:4'

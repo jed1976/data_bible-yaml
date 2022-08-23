@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 21:37"
+  class="v">37</span>And as Paul was to be led into the castle, he said unto the
+  chief captain, May I speak unto thee? Who said, Canst thou speak Greek? </p>
+id: ACT/21/37
+next:
+  id: ACT/21/38
+  number: '38'
+previous:
+  id: ACT/21/36
+  number: '36'
+reference: 'Acts 21:37'

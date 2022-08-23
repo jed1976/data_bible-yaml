@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 27:11" class="v">11</span>I
+  will teach you by the hand of God: <span class="add">that</span> which <span
+  class="add">is</span> with the Almighty will I not conceal. </p>
+id: JOB/27/11
+next:
+  id: JOB/27/12
+  number: '12'
+previous:
+  id: JOB/27/10
+  number: '10'
+reference: 'Job 27:11'

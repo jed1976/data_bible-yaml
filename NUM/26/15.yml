@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 26:15" class="v">15</span>¶
+  The children of Gad after their families: of Zephon, the family of the
+  Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the
+  Shunites: </p>
+id: NUM/26/15
+next:
+  id: NUM/26/16
+  number: '16'
+previous:
+  id: NUM/26/14
+  number: '14'
+reference: 'Numbers 26:15'

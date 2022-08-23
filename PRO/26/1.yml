@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 26:1" class="v">1</span>As
+  snow in summer, and as rain in harvest, so honour is not seemly for a fool.
+  </p>
+id: PRO/26/1
+next:
+  id: PRO/26/2
+  number: '2'
+previous:
+  id: PRO/25/28
+  number: '28'
+reference: 'Proverbs 26:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 23:1" class="v">1</span>He
+  that is wounded in the stones, or hath his privy member cut off, shall not
+  enter into the congregation of the <span class="nd">LORD</span>. </p>
+id: DEU/23/1
+next:
+  id: DEU/23/2
+  number: '2'
+previous:
+  id: DEU/22/30
+  number: '30'
+reference: 'Deuteronomy 23:1'

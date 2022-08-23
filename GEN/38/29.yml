@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 38:29"
+  class="v">29</span>And it came to pass, as he drew back his hand, that,
+  behold, his brother came out: and she said, How hast thou broken forth? <span
+  class="add">this</span> breach <span class="add">be</span> upon thee:
+  therefore his name was called Pharez. </p>
+id: GEN/38/29
+next:
+  id: GEN/38/30
+  number: '30'
+previous:
+  id: GEN/38/28
+  number: '28'
+reference: 'Genesis 38:29'

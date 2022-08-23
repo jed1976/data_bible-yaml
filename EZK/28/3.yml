@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 28:3"
+  class="v">3</span>Behold, thou <span class="add">art</span> wiser than Daniel;
+  there is no secret that they can hide from thee: </p>
+id: EZK/28/3
+next:
+  id: EZK/28/4
+  number: '4'
+previous:
+  id: EZK/28/2
+  number: '2'
+reference: 'Ezekiel 28:3'

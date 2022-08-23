@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 31:13"
+  class="v">13</span>And <span class="add">that</span> their children, which
+  have not known <span class="add">any thing</span>, may hear, and learn to fear
+  the <span class="nd">LORD</span> your God, as long as ye live in the land
+  whither ye go over Jordan to possess it.</p>
+id: DEU/31/13
+next:
+  id: DEU/31/14
+  number: '14'
+previous:
+  id: DEU/31/12
+  number: '12'
+reference: 'Deuteronomy 31:13'

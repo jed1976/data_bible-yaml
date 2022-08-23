@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 30:7" class="v">7</span>Alas!
+  for that day <span class="add">is</span> great, so that none <span
+  class="add">is</span> like it: it <span class="add">is</span> even the time of
+  Jacob’s trouble; but he shall be saved out of it. </p>
+id: JER/30/7
+next:
+  id: JER/30/8
+  number: '8'
+previous:
+  id: JER/30/6
+  number: '6'
+reference: 'Jeremiah 30:7'

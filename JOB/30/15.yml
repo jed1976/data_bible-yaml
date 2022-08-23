@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 30:15"
+  class="v">15</span>Terrors are turned upon me: they pursue my soul as the
+  wind: and my welfare passeth away as a cloud. </p>
+id: JOB/30/15
+next:
+  id: JOB/30/16
+  number: '16'
+previous:
+  id: JOB/30/14
+  number: '14'
+reference: 'Job 30:15'

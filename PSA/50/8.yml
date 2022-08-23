@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 50:8" class="v">8</span>I
+  will not reprove thee for thy sacrifices or thy burnt offerings, <span
+  class="add">to have been</span> continually before me.</p>
+id: PSA/50/8
+next:
+  id: PSA/50/9
+  number: '9'
+previous:
+  id: PSA/50/7
+  number: '7'
+reference: 'Psalms 50:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 1:7" class="v">7</span>¶ And
+  the children of Israel were fruitful, and increased abundantly, and
+  multiplied, and waxed exceeding mighty; and the land was filled with them.</p>
+id: EXO/1/7
+next:
+  id: EXO/1/8
+  number: '8'
+previous:
+  id: EXO/1/6
+  number: '6'
+reference: 'Exodus 1:7'

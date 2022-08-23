@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 23:22"
+  class="v">22</span>But if thou shalt forbear to vow, it shall be no sin in
+  thee. </p>
+id: DEU/23/22
+next:
+  id: DEU/23/23
+  number: '23'
+previous:
+  id: DEU/23/21
+  number: '21'
+reference: 'Deuteronomy 23:22'

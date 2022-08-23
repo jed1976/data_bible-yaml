@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JAS 3:3"
+  class="v">3</span>Behold, we put bits in the horses’ mouths, that they may
+  obey us; and we turn about their whole body. </p>
+id: JAS/3/3
+next:
+  id: JAS/3/4
+  number: '4'
+previous:
+  id: JAS/3/2
+  number: '2'
+reference: 'James 3:3'

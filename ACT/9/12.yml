@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 9:12"
+  class="v">12</span><span class="wj">And hath seen in a vision a man named
+  Ananias coming in, and putting <span class="add">his</span> hand on him, that
+  he might receive his sight.</span> </p>
+id: ACT/9/12
+next:
+  id: ACT/9/13
+  number: '13'
+previous:
+  id: ACT/9/11
+  number: '11'
+reference: 'Acts 9:12'

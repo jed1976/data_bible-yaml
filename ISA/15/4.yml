@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 15:4" class="v">4</span>And
+  Heshbon shall cry, and Elealeh: their voice shall be heard <span
+  class="add">even</span> unto Jahaz: therefore the armed soldiers of Moab shall
+  cry out; his life shall be grievous unto him. </p>
+id: ISA/15/4
+next:
+  id: ISA/15/5
+  number: '5'
+previous:
+  id: ISA/15/3
+  number: '3'
+reference: 'Isaiah 15:4'

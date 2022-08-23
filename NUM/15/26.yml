@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 15:26"
+  class="v">26</span>And it shall be forgiven all the congregation of the
+  children of Israel, and the stranger that sojourneth among them; seeing all
+  the people <span class="add">were</span> in ignorance.</p>
+id: NUM/15/26
+next:
+  id: NUM/15/27
+  number: '27'
+previous:
+  id: NUM/15/25
+  number: '25'
+reference: 'Numbers 15:26'

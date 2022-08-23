@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 9:21" class="v">21</span>And
+  Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of
+  Abimelech his brother.</p>
+id: JDG/9/21
+next:
+  id: JDG/9/22
+  number: '22'
+previous:
+  id: JDG/9/20
+  number: '20'
+reference: 'Judges 9:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="GEN 41:39"
+  class="v">39</span>And Pharaoh said unto Joseph, Forasmuch as God hath shewed
+  thee all this, <span class="add">there is</span> none so discreet and wise as
+  thou <span class="add">art:</span> </p>
+id: GEN/41/39
+next:
+  id: GEN/41/40
+  number: '40'
+previous:
+  id: GEN/41/38
+  number: '38'
+reference: 'Genesis 41:39'

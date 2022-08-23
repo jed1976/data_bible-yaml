@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 12:16"
+  class="v">16</span>And charged them that they should not make him known: </p>
+id: MAT/12/16
+next:
+  id: MAT/12/17
+  number: '17'
+previous:
+  id: MAT/12/15
+  number: '15'
+reference: 'Matthew 12:16'

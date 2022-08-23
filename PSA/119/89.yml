@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ל LAMED.</span></p><p
+  class="q1"><span data-number="89" data-sid="PSA 119:89" class="v">89</span>For
+  ever, O <span class="nd">LORD</span>, thy word is settled in heaven.</p>
+id: PSA/119/89
+next:
+  id: PSA/119/90
+  number: '90'
+previous:
+  id: PSA/119/88
+  number: '88'
+reference: 'Psalms 119:89'

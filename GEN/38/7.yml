@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 38:7" class="v">7</span>And
+  Er, Judah’s firstborn, was wicked in the sight of the <span
+  class="nd">LORD</span>; and the <span class="nd">LORD</span> slew him. </p>
+id: GEN/38/7
+next:
+  id: GEN/38/8
+  number: '8'
+previous:
+  id: GEN/38/6
+  number: '6'
+reference: 'Genesis 38:7'

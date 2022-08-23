@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 3:13"
+  class="v">13</span>Ahaz his son, Hezekiah his son, Manasseh his son, </p>
+id: 1CH/3/13
+next:
+  id: 1CH/3/14
+  number: '14'
+previous:
+  id: 1CH/3/12
+  number: '12'
+reference: '1 Chronicles 3:13'

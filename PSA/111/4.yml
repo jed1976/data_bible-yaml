@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 111:4" class="v">4</span>He
+  hath made his wonderful works to be remembered: the <span
+  class="nd">LORD</span> <span class="add">is</span> gracious and full of
+  compassion.</p>
+id: PSA/111/4
+next:
+  id: PSA/111/5
+  number: '5'
+previous:
+  id: PSA/111/3
+  number: '3'
+reference: 'Psalms 111:4'

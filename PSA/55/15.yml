@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 55:15"
+  class="v">15</span>Let death seize upon them, <span class="add">and</span> let
+  them go down quick into hell: for wickedness <span class="add">is</span> in
+  their dwellings, <span class="add">and</span> among them.</p>
+id: PSA/55/15
+next:
+  id: PSA/55/16
+  number: '16'
+previous:
+  id: PSA/55/14
+  number: '14'
+reference: 'Psalms 55:15'

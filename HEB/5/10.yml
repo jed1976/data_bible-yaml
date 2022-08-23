@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 5:10"
+  class="v">10</span>Called of God an high priest after the order of
+  Melchisedec.</p>
+id: HEB/5/10
+next:
+  id: HEB/5/11
+  number: '11'
+previous:
+  id: HEB/5/9
+  number: '9'
+reference: 'Hebrews 5:10'

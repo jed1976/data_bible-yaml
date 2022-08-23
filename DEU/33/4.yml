@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 33:4" class="v">4</span>Moses
+  commanded us a law, <span class="add">even</span> the inheritance of the
+  congregation of Jacob. </p>
+id: DEU/33/4
+next:
+  id: DEU/33/5
+  number: '5'
+previous:
+  id: DEU/33/3
+  number: '3'
+reference: 'Deuteronomy 33:4'

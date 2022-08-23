@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 27:31"
+  class="v">31</span>And after that they had mocked him, they took the robe off
+  from him, and put his own raiment on him, and led him away to crucify <span
+  class="add">him</span>. </p>
+id: MAT/27/31
+next:
+  id: MAT/27/32
+  number: '32'
+previous:
+  id: MAT/27/30
+  number: '30'
+reference: 'Matthew 27:31'

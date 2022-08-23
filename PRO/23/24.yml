@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 23:24"
+  class="v">24</span>The father of the righteous shall greatly rejoice: and he
+  that begetteth a wise <span class="add">child</span> shall have joy of him.
+  </p>
+id: PRO/23/24
+next:
+  id: PRO/23/25
+  number: '25'
+previous:
+  id: PRO/23/23
+  number: '23'
+reference: 'Proverbs 23:24'

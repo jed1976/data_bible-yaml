@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 50:9" class="v">9</span>And
+  there went up with him both chariots and horsemen: and it was a very great
+  company. </p>
+id: GEN/50/9
+next:
+  id: GEN/50/10
+  number: '10'
+previous:
+  id: GEN/50/8
+  number: '8'
+reference: 'Genesis 50:9'

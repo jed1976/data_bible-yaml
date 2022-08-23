@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 1:11" class="v">11</span>And
+  from thence he went against the inhabitants of Debir: and the name of Debir
+  before <span class="add">was</span> Kirjath-sepher: </p>
+id: JDG/1/11
+next:
+  id: JDG/1/12
+  number: '12'
+previous:
+  id: JDG/1/10
+  number: '10'
+reference: 'Judges 1:11'

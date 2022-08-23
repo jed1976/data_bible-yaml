@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 27:6" class="v">6</span>And
+  the chief priests took the silver pieces, and said, It is not lawful for to
+  put them into the treasury, because it is the price of blood. </p>
+id: MAT/27/6
+next:
+  id: MAT/27/7
+  number: '7'
+previous:
+  id: MAT/27/5
+  number: '5'
+reference: 'Matthew 27:6'

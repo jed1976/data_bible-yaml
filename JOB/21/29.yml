@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 21:29"
+  class="v">29</span>Have ye not asked them that go by the way? and do ye not
+  know their tokens, </p>
+id: JOB/21/29
+next:
+  id: JOB/21/30
+  number: '30'
+previous:
+  id: JOB/21/28
+  number: '28'
+reference: 'Job 21:29'

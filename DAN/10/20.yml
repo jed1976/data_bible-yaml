@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 10:20"
+  class="v">20</span>Then said he, Knowest thou wherefore I come unto thee? and
+  now will I return to fight with the prince of Persia: and when I am gone
+  forth, lo, the prince of Grecia shall come. </p>
+id: DAN/10/20
+next:
+  id: DAN/10/21
+  number: '21'
+previous:
+  id: DAN/10/19
+  number: '19'
+reference: 'Daniel 10:20'

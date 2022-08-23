@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 17:10" class="v">10</span>A
+  reproof entereth more into a wise man than an hundred stripes into a fool.
+  </p>
+id: PRO/17/10
+next:
+  id: PRO/17/11
+  number: '11'
+previous:
+  id: PRO/17/9
+  number: '9'
+reference: 'Proverbs 17:10'

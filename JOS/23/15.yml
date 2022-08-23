@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 23:15"
+  class="v">15</span>Therefore it shall come to pass, <span
+  class="add">that</span> as all good things are come upon you, which the <span
+  class="nd">LORD</span> your God promised you; so shall the <span
+  class="nd">LORD</span> bring upon you all evil things, until he have destroyed
+  you from off this good land which the <span class="nd">LORD</span> your God
+  hath given you. </p>
+id: JOS/23/15
+next:
+  id: JOS/23/16
+  number: '16'
+previous:
+  id: JOS/23/14
+  number: '14'
+reference: 'Joshua 23:15'

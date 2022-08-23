@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 28:15" class="v">15</span>¶
+  Then said the prophet Jeremiah unto Hananiah the prophet, Hear now, Hananiah;
+  The <span class="nd">LORD</span> hath not sent thee; but thou makest this
+  people to trust in a lie. </p>
+id: JER/28/15
+next:
+  id: JER/28/16
+  number: '16'
+previous:
+  id: JER/28/14
+  number: '14'
+reference: 'Jeremiah 28:15'

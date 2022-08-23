@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 4:23"
+  class="v">23</span>Take heed unto yourselves, lest ye forget the covenant of
+  the <span class="nd">LORD</span> your God, which he made with you, and make
+  you a graven image, <span class="add">or</span> the likeness of any <span
+  class="add">thing</span>, which the <span class="nd">LORD</span> thy God hath
+  forbidden thee. </p>
+id: DEU/4/23
+next:
+  id: DEU/4/24
+  number: '24'
+previous:
+  id: DEU/4/22
+  number: '22'
+reference: 'Deuteronomy 4:23'

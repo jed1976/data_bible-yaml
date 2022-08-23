@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 33:13" class="v">13</span>¶
+  And of Joseph he said, Blessed of the <span class="nd">LORD</span> <span
+  class="add">be</span> his land, for the precious things of heaven, for the
+  dew, and for the deep that coucheth beneath, </p>
+id: DEU/33/13
+next:
+  id: DEU/33/14
+  number: '14'
+previous:
+  id: DEU/33/12
+  number: '12'
+reference: 'Deuteronomy 33:13'

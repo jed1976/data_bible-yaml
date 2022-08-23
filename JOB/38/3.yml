@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 38:3" class="v">3</span>Gird
+  up now thy loins like a man; for I will demand of thee, and answer thou
+  me.</p>
+id: JOB/38/3
+next:
+  id: JOB/38/4
+  number: '4'
+previous:
+  id: JOB/38/2
+  number: '2'
+reference: 'Job 38:3'

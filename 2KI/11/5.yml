@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 11:5" class="v">5</span>And
+  he commanded them, saying, This <span class="add">is</span> the thing that ye
+  shall do; A third part of you that enter in on the sabbath shall even be
+  keepers of the watch of the king’s house; </p>
+id: 2KI/11/5
+next:
+  id: 2KI/11/6
+  number: '6'
+previous:
+  id: 2KI/11/4
+  number: '4'
+reference: '2 Kings 11:5'

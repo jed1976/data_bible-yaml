@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 19:42"
+  class="v">42</span>Saying, <span class="wj">If thou hadst known, even thou, at
+  least in this thy day, the things <span class="add">which belong</span> unto
+  thy peace! but now they are hid from thine eyes.</span> </p>
+id: LUK/19/42
+next:
+  id: LUK/19/43
+  number: '43'
+previous:
+  id: LUK/19/41
+  number: '41'
+reference: 'Luke 19:42'

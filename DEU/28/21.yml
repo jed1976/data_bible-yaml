@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 28:21"
+  class="v">21</span>The <span class="nd">LORD</span> shall make the pestilence
+  cleave unto thee, until he have consumed thee from off the land, whither thou
+  goest to possess it. </p>
+id: DEU/28/21
+next:
+  id: DEU/28/22
+  number: '22'
+previous:
+  id: DEU/28/20
+  number: '20'
+reference: 'Deuteronomy 28:21'

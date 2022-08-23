@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 12:5" class="v">5</span>And
+  reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of
+  the Geshurites and the Maachathites, and half Gilead, the border of Sihon king
+  of Heshbon. </p>
+id: JOS/12/5
+next:
+  id: JOS/12/6
+  number: '6'
+previous:
+  id: JOS/12/4
+  number: '4'
+reference: 'Joshua 12:5'

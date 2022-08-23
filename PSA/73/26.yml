@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 73:26"
+  class="v">26</span>My flesh and my heart faileth: <span class="add">but</span>
+  God <span class="add">is</span> the strength of my heart, and my portion for
+  ever.</p>
+id: PSA/73/26
+next:
+  id: PSA/73/27
+  number: '27'
+previous:
+  id: PSA/73/25
+  number: '25'
+reference: 'Psalms 73:26'

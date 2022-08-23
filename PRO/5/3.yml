@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 5:3" class="v">3</span>¶ For
+  the lips of a strange woman drop <span class="add">as</span> an honeycomb, and
+  her mouth <span class="add">is</span> smoother than oil: </p>
+id: PRO/5/3
+next:
+  id: PRO/5/4
+  number: '4'
+previous:
+  id: PRO/5/2
+  number: '2'
+reference: 'Proverbs 5:3'

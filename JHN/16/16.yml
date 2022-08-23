@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 16:16"
+  class="v">16</span><span class="wj">A little while, and ye shall not see me:
+  and again, a little while, and ye shall see me, because I go to the
+  Father.</span> </p>
+id: JHN/16/16
+next:
+  id: JHN/16/17
+  number: '17'
+previous:
+  id: JHN/16/15
+  number: '15'
+reference: 'John 16:16'

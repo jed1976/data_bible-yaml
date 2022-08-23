@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 16:9" class="v">9</span>A
+  man’s heart deviseth his way: but the <span class="nd">LORD</span> directeth
+  his steps. </p>
+id: PRO/16/9
+next:
+  id: PRO/16/10
+  number: '10'
+previous:
+  id: PRO/16/8
+  number: '8'
+reference: 'Proverbs 16:9'

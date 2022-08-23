@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 16:12" class="v">12</span>¶
+  After that he appeared in another form unto two of them, as they walked, and
+  went into the country. </p>
+id: MRK/16/12
+next:
+  id: MRK/16/13
+  number: '13'
+previous:
+  id: MRK/16/11
+  number: '11'
+reference: 'Mark 16:12'

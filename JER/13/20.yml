@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 13:20"
+  class="v">20</span>Lift up your eyes, and behold them that come from the
+  north: where <span class="add">is</span> the flock <span
+  class="add">that</span> was given thee, thy beautiful flock? </p>
+id: JER/13/20
+next:
+  id: JER/13/21
+  number: '21'
+previous:
+  id: JER/13/19
+  number: '19'
+reference: 'Jeremiah 13:20'

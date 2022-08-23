@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JER 6:27" class="v">27</span>I
+  have set thee <span class="add">for</span> a tower <span
+  class="add">and</span> a fortress among my people, that thou mayest know and
+  try their way. </p>
+id: JER/6/27
+next:
+  id: JER/6/28
+  number: '28'
+previous:
+  id: JER/6/26
+  number: '26'
+reference: 'Jeremiah 6:27'

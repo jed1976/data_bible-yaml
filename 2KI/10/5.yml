@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 10:5" class="v">5</span>And
+  he that <span class="add">was</span> over the house, and he that <span
+  class="add">was</span> over the city, the elders also, and the bringers up
+  <span class="add">of the children</span>, sent to Jehu, saying, We <span
+  class="add">are</span> thy servants, and will do all that thou shalt bid us;
+  we will not make any king: do thou <span class="add">that which is</span> good
+  in thine eyes. </p>
+id: 2KI/10/5
+next:
+  id: 2KI/10/6
+  number: '6'
+previous:
+  id: 2KI/10/4
+  number: '4'
+reference: '2 Kings 10:5'

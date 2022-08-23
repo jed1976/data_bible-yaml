@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="TIT 2:15"
+  class="v">15</span>These things speak, and exhort, and rebuke with all
+  authority. Let no man despise thee.</p>
+id: TIT/2/15
+next:
+  id: TIT/3/1
+  number: '1'
+previous:
+  id: TIT/2/14
+  number: '14'
+reference: 'Titus 2:15'

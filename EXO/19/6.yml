@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 19:6" class="v">6</span>And
+  ye shall be unto me a kingdom of priests, and an holy nation. These <span
+  class="add">are</span> the words which thou shalt speak unto the children of
+  Israel.</p>
+id: EXO/19/6
+next:
+  id: EXO/19/7
+  number: '7'
+previous:
+  id: EXO/19/5
+  number: '5'
+reference: 'Exodus 19:6'

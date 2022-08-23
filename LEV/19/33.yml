@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LEV 19:33" class="v">33</span>¶
+  And if a stranger sojourn with thee in your land, ye shall not vex him. </p>
+id: LEV/19/33
+next:
+  id: LEV/19/34
+  number: '34'
+previous:
+  id: LEV/19/32
+  number: '32'
+reference: 'Leviticus 19:33'

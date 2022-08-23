@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 1:13" class="v">13</span>¶
+  And there was a day when his sons and his daughters <span
+  class="add">were</span> eating and drinking wine in their eldest brother’s
+  house: </p>
+id: JOB/1/13
+next:
+  id: JOB/1/14
+  number: '14'
+previous:
+  id: JOB/1/12
+  number: '12'
+reference: 'Job 1:13'

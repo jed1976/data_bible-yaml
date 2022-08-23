@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 26:15"
+  class="v">15</span>And I said, Who art thou, Lord? And he said, <span
+  class="wj">I am Jesus whom thou persecutest.</span> </p>
+id: ACT/26/15
+next:
+  id: ACT/26/16
+  number: '16'
+previous:
+  id: ACT/26/14
+  number: '14'
+reference: 'Acts 26:15'

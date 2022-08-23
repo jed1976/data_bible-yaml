@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 15:25" class="v">25</span>It
+  seemed good unto us, being assembled with one accord, to send chosen men unto
+  you with our beloved Barnabas and Paul, </p>
+id: ACT/15/25
+next:
+  id: ACT/15/26
+  number: '26'
+previous:
+  id: ACT/15/24
+  number: '24'
+reference: 'Acts 15:25'

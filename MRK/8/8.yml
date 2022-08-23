@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 8:8" class="v">8</span>So
+  they did eat, and were filled: and they took up of the broken <span
+  class="add">meat</span> that was left seven baskets. </p>
+id: MRK/8/8
+next:
+  id: MRK/8/9
+  number: '9'
+previous:
+  id: MRK/8/7
+  number: '7'
+reference: 'Mark 8:8'

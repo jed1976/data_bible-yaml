@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 145:6" class="v">6</span>And
+  <span class="add">men</span> shall speak of the might of thy terrible acts:
+  and I will declare thy greatness.</p>
+id: PSA/145/6
+next:
+  id: PSA/145/7
+  number: '7'
+previous:
+  id: PSA/145/5
+  number: '5'
+reference: 'Psalms 145:6'

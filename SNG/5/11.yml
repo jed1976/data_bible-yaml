@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 5:11" class="v">11</span>His
+  head <span class="add">is as</span> the most fine gold, his locks <span
+  class="add">are</span> bushy, <span class="add">and</span> black as a raven.
+  </p>
+id: SNG/5/11
+next:
+  id: SNG/5/12
+  number: '12'
+previous:
+  id: SNG/5/10
+  number: '10'
+reference: 'Song of Solomon 5:11'

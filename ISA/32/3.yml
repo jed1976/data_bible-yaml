@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 32:3" class="v">3</span>And
+  the eyes of them that see shall not be dim, and the ears of them that hear
+  shall hearken. </p>
+id: ISA/32/3
+next:
+  id: ISA/32/4
+  number: '4'
+previous:
+  id: ISA/32/2
+  number: '2'
+reference: 'Isaiah 32:3'

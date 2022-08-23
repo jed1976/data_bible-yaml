@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JAS 1:11" class="v">11</span>For
+  the sun is no sooner risen with a burning heat, but it withereth the grass,
+  and the flower thereof falleth, and the grace of the fashion of it perisheth:
+  so also shall the rich man fade away in his ways. </p>
+id: JAS/1/11
+next:
+  id: JAS/1/12
+  number: '12'
+previous:
+  id: JAS/1/10
+  number: '10'
+reference: 'James 1:11'

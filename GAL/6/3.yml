@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GAL 6:3" class="v">3</span>For if
+  a man think himself to be something, when he is nothing, he deceiveth himself.
+  </p>
+id: GAL/6/3
+next:
+  id: GAL/6/4
+  number: '4'
+previous:
+  id: GAL/6/2
+  number: '2'
+reference: 'Galatians 6:3'

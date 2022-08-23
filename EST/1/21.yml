@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EST 1:21" class="v">21</span>And
+  the saying pleased the king and the princes; and the king did according to the
+  word of Memucan: </p>
+id: EST/1/21
+next:
+  id: EST/1/22
+  number: '22'
+previous:
+  id: EST/1/20
+  number: '20'
+reference: 'Esther 1:21'

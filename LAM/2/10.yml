@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LAM 2:10" class="v">10</span>The
+  elders of the daughter of Zion sit upon the ground, <span
+  class="add">and</span> keep silence: they have cast up dust upon their heads;
+  they have girded themselves with sackcloth: the virgins of Jerusalem hang down
+  their heads to the ground. </p>
+id: LAM/2/10
+next:
+  id: LAM/2/11
+  number: '11'
+previous:
+  id: LAM/2/9
+  number: '9'
+reference: 'Lamentations 2:10'

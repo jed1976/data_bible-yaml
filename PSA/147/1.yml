@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 147:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>: for <span
+  class="add">it is</span> good to sing praises unto our God; for <span
+  class="add">it is</span> pleasant; <span class="add">and</span> praise is
+  comely.</p>
+id: PSA/147/1
+next:
+  id: PSA/147/2
+  number: '2'
+previous:
+  id: PSA/146/10
+  number: '10'
+reference: 'Psalms 147:1'

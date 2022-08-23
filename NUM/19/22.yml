@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 19:22"
+  class="v">22</span>And whatsoever the unclean <span class="add">person</span>
+  toucheth shall be unclean; and the soul that toucheth <span
+  class="add">it</span> shall be unclean until even.</p>
+id: NUM/19/22
+next:
+  id: NUM/20/1
+  number: '1'
+previous:
+  id: NUM/19/21
+  number: '21'
+reference: 'Numbers 19:22'

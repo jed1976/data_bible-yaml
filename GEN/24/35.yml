@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 24:35"
+  class="v">35</span>And the <span class="nd">LORD</span> hath blessed my master
+  greatly; and he is become great: and he hath given him flocks, and herds, and
+  silver, and gold, and menservants, and maidservants, and camels, and asses.
+  </p>
+id: GEN/24/35
+next:
+  id: GEN/24/36
+  number: '36'
+previous:
+  id: GEN/24/34
+  number: '34'
+reference: 'Genesis 24:35'

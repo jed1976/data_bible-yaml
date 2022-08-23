@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 4:9" class="v">9</span>O
+  Belteshazzar, master of the magicians, because I know that the spirit of the
+  holy gods <span class="add">is</span> in thee, and no secret troubleth thee,
+  tell me the visions of my dream that I have seen, and the interpretation
+  thereof. </p>
+id: DAN/4/9
+next:
+  id: DAN/4/10
+  number: '10'
+previous:
+  id: DAN/4/8
+  number: '8'
+reference: 'Daniel 4:9'

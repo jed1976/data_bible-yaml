@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOL 2:30" class="v">30</span>And
+  I will shew wonders in the heavens and in the earth, blood, and fire, and
+  pillars of smoke. </p>
+id: JOL/2/30
+next:
+  id: JOL/2/31
+  number: '31'
+previous:
+  id: JOL/2/29
+  number: '29'
+reference: 'Joel 2:30'

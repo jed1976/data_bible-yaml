@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 14:25"
+  class="v">25</span>Then shalt thou turn <span class="add">it</span> into
+  money, and bind up the money in thine hand, and shalt go unto the place which
+  the <span class="nd">LORD</span> thy God shall choose: </p>
+id: DEU/14/25
+next:
+  id: DEU/14/26
+  number: '26'
+previous:
+  id: DEU/14/24
+  number: '24'
+reference: 'Deuteronomy 14:25'

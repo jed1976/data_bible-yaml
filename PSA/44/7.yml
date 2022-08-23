@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 44:7" class="v">7</span>But
+  thou hast saved us from our enemies, and hast put them to shame that hated
+  us.</p>
+id: PSA/44/7
+next:
+  id: PSA/44/8
+  number: '8'
+previous:
+  id: PSA/44/6
+  number: '6'
+reference: 'Psalms 44:7'

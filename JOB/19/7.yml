@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 19:7"
+  class="v">7</span>Behold, I cry out of wrong, but I am not heard: I cry aloud,
+  but <span class="add">there is</span> no judgment.</p>
+id: JOB/19/7
+next:
+  id: JOB/19/8
+  number: '8'
+previous:
+  id: JOB/19/6
+  number: '6'
+reference: 'Job 19:7'

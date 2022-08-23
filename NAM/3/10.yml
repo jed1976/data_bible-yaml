@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NAM 3:10" class="v">10</span>Yet
+  <span class="add">was</span> she carried away, she went into captivity: her
+  young children also were dashed in pieces at the top of all the streets: and
+  they cast lots for her honourable men, and all her great men were bound in
+  chains. </p>
+id: NAM/3/10
+next:
+  id: NAM/3/11
+  number: '11'
+previous:
+  id: NAM/3/9
+  number: '9'
+reference: 'Nahum 3:10'

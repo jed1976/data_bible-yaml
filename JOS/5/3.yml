@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 5:3" class="v">3</span>And
+  Joshua made him sharp knives, and circumcised the children of Israel at the
+  hill of the foreskins. </p>
+id: JOS/5/3
+next:
+  id: JOS/5/4
+  number: '4'
+previous:
+  id: JOS/5/2
+  number: '2'
+reference: 'Joshua 5:3'

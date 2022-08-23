@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 12:21"
+  class="v">21</span>And upon a set day Herod, arrayed in royal apparel, sat
+  upon his throne, and made an oration unto them. </p>
+id: ACT/12/21
+next:
+  id: ACT/12/22
+  number: '22'
+previous:
+  id: ACT/12/20
+  number: '20'
+reference: 'Acts 12:21'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 15:24"
+  class="v">24</span>Forasmuch as we have heard, that certain which went out
+  from us have troubled you with words, subverting your souls, saying, <span
+  class="add">Ye must</span> be circumcised, and keep the law: to whom we gave
+  no <span class="add">such</span> commandment: </p>
+id: ACT/15/24
+next:
+  id: ACT/15/25
+  number: '25'
+previous:
+  id: ACT/15/23
+  number: '23'
+reference: 'Acts 15:24'

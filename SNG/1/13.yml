@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 1:13" class="v">13</span>A
+  bundle of myrrh <span class="add">is</span> my wellbeloved unto me; he shall
+  lie all night betwixt my breasts. </p>
+id: SNG/1/13
+next:
+  id: SNG/1/14
+  number: '14'
+previous:
+  id: SNG/1/12
+  number: '12'
+reference: 'Song of Solomon 1:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 25:10"
+  class="v">10</span>And ye shall hallow the fiftieth year, and proclaim liberty
+  throughout <span class="add">all</span> the land unto all the inhabitants
+  thereof: it shall be a jubile unto you; and ye shall return every man unto his
+  possession, and ye shall return every man unto his family. </p>
+id: LEV/25/10
+next:
+  id: LEV/25/11
+  number: '11'
+previous:
+  id: LEV/25/9
+  number: '9'
+reference: 'Leviticus 25:10'

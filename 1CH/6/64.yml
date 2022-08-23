@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="1CH 6:64" class="v">64</span>And
+  the children of Israel gave to the Levites <span class="add">these</span>
+  cities with their suburbs. </p>
+id: 1CH/6/64
+next:
+  id: 1CH/6/65
+  number: '65'
+previous:
+  id: 1CH/6/63
+  number: '63'
+reference: '1 Chronicles 6:64'

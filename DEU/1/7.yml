@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 1:7" class="v">7</span>Turn
+  you, and take your journey, and go to the mount of the Amorites, and unto all
+  <span class="add">the places</span> nigh thereunto, in the plain, in the
+  hills, and in the vale, and in the south, and by the sea side, to the land of
+  the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
+  </p>
+id: DEU/1/7
+next:
+  id: DEU/1/8
+  number: '8'
+previous:
+  id: DEU/1/6
+  number: '6'
+reference: 'Deuteronomy 1:7'

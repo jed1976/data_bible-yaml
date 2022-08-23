@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 2:3" class="v">3</span>And
+  thinkest thou this, O man, that judgest them which do such things, and doest
+  the same, that thou shalt escape the judgment of God? </p>
+id: ROM/2/3
+next:
+  id: ROM/2/4
+  number: '4'
+previous:
+  id: ROM/2/2
+  number: '2'
+reference: 'Romans 2:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 27:4" class="v">4</span>And
+  thou shalt make for it a grate of network <span class="add">of</span> brass;
+  and upon the net shalt thou make four brasen rings in the four corners
+  thereof. </p>
+id: EXO/27/4
+next:
+  id: EXO/27/5
+  number: '5'
+previous:
+  id: EXO/27/3
+  number: '3'
+reference: 'Exodus 27:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 9:17" class="v">17</span>And
+  the children of Israel journeyed, and came unto their cities on the third day.
+  Now their cities <span class="add">were</span> Gibeon, and Chephirah, and
+  Beeroth, and Kirjath-jearim. </p>
+id: JOS/9/17
+next:
+  id: JOS/9/18
+  number: '18'
+previous:
+  id: JOS/9/16
+  number: '16'
+reference: 'Joshua 9:17'

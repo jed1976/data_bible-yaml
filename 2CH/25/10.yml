@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 25:10"
+  class="v">10</span>Then Amaziah separated them, <span class="add">to
+  wit</span>, the army that was come to him out of Ephraim, to go home again:
+  wherefore their anger was greatly kindled against Judah, and they returned
+  home in great anger.</p>
+id: 2CH/25/10
+next:
+  id: 2CH/25/11
+  number: '11'
+previous:
+  id: 2CH/25/9
+  number: '9'
+reference: '2 Chronicles 25:10'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 7:4" class="v">4</span>And I
+  heard the number of them which were sealed: <span class="add">and there
+  were</span> sealed an hundred <span class="add">and</span> forty <span
+  class="add">and</span> four thousand of all the tribes of the children of
+  Israel. </p>
+id: REV/7/4
+next:
+  id: REV/7/5
+  number: '5'
+previous:
+  id: REV/7/3
+  number: '3'
+reference: 'Revelation 7:4'

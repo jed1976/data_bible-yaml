@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 9:13" class="v">13</span>¶
+  For the people turneth not unto him that smiteth them, neither do they seek
+  the <span class="nd">LORD</span> of hosts. </p>
+id: ISA/9/13
+next:
+  id: ISA/9/14
+  number: '14'
+previous:
+  id: ISA/9/12
+  number: '12'
+reference: 'Isaiah 9:13'

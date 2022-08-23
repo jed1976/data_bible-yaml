@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 1:27" class="v">27</span>So
+  God created man in his <span class="add">own</span> image, in the image of God
+  created he him; male and female created he them. </p>
+id: GEN/1/27
+next:
+  id: GEN/1/28
+  number: '28'
+previous:
+  id: GEN/1/26
+  number: '26'
+reference: 'Genesis 1:27'

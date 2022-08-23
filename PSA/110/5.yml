@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 110:5"
+  class="v">5</span>The Lord at thy right hand shall strike through kings in the
+  day of his wrath.</p>
+id: PSA/110/5
+next:
+  id: PSA/110/6
+  number: '6'
+previous:
+  id: PSA/110/4
+  number: '4'
+reference: 'Psalms 110:5'

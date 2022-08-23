@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HEB 6:9" class="v">9</span>But,
+  beloved, we are persuaded better things of you, and things that accompany
+  salvation, though we thus speak. </p>
+id: HEB/6/9
+next:
+  id: HEB/6/10
+  number: '10'
+previous:
+  id: HEB/6/8
+  number: '8'
+reference: 'Hebrews 6:9'

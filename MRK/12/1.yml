@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 12:1" class="v">1</span>And
+  he began to speak unto them by parables. <span class="wj">A <span
+  class="add">certain</span> man planted a vineyard, and set an hedge about
+  <span class="add">it</span>, and digged <span class="add">a place for</span>
+  the winefat, and built a tower, and let it out to husbandmen, and went into a
+  far country.</span> </p>
+id: MRK/12/1
+next:
+  id: MRK/12/2
+  number: '2'
+previous:
+  id: MRK/11/33
+  number: '33'
+reference: 'Mark 12:1'

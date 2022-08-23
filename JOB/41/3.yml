@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 41:3" class="v">3</span>Will
+  he make many supplications unto thee? will he speak soft <span
+  class="add">words</span> unto thee? </p>
+id: JOB/41/3
+next:
+  id: JOB/41/4
+  number: '4'
+previous:
+  id: JOB/41/2
+  number: '2'
+reference: 'Job 41:3'

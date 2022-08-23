@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 18:6" class="v">6</span>In
+  my distress I called upon the <span class="nd">LORD</span>, and cried unto my
+  God: he heard my voice out of his temple, and my cry came before him, <span
+  class="add">even</span> into his ears.</p>
+id: PSA/18/6
+next:
+  id: PSA/18/7
+  number: '7'
+previous:
+  id: PSA/18/5
+  number: '5'
+reference: 'Psalms 18:6'

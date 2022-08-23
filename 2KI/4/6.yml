@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 4:6" class="v">6</span>And it
+  came to pass, when the vessels were full, that she said unto her son, Bring me
+  yet a vessel. And he said unto her, <span class="add">There is</span> not a
+  vessel more. And the oil stayed. </p>
+id: 2KI/4/6
+next:
+  id: 2KI/4/7
+  number: '7'
+previous:
+  id: 2KI/4/5
+  number: '5'
+reference: '2 Kings 4:6'

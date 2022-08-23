@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EPH 1:15"
+  class="v">15</span>Wherefore I also, after I heard of your faith in the Lord
+  Jesus, and love unto all the saints, </p>
+id: EPH/1/15
+next:
+  id: EPH/1/16
+  number: '16'
+previous:
+  id: EPH/1/14
+  number: '14'
+reference: 'Ephesians 1:15'

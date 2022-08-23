@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 24:17"
+  class="v">17</span>And the sight of the glory of the <span
+  class="nd">LORD</span> <span class="add">was</span> like devouring fire on the
+  top of the mount in the eyes of the children of Israel. </p>
+id: EXO/24/17
+next:
+  id: EXO/24/18
+  number: '18'
+previous:
+  id: EXO/24/16
+  number: '16'
+reference: 'Exodus 24:17'

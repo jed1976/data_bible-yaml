@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 25:18"
+  class="v">18</span>How he met thee by the way, and smote the hindmost of thee,
+  <span class="add">even</span> all <span class="add">that were</span> feeble
+  behind thee, when thou <span class="add">wast</span> faint and weary; and he
+  feared not God. </p>
+id: DEU/25/18
+next:
+  id: DEU/25/19
+  number: '19'
+previous:
+  id: DEU/25/17
+  number: '17'
+reference: 'Deuteronomy 25:18'

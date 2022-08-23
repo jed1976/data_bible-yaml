@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PHP 4:11" class="v">11</span>Not
+  that I speak in respect of want: for I have learned, in whatsoever state I am,
+  <span class="add">therewith</span> to be content. </p>
+id: PHP/4/11
+next:
+  id: PHP/4/12
+  number: '12'
+previous:
+  id: PHP/4/10
+  number: '10'
+reference: 'Philippians 4:11'

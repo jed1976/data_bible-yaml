@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 4:18"
+  class="v">18</span>This dream I king Nebuchadnezzar have seen. Now thou, O
+  Belteshazzar, declare the interpretation thereof, forasmuch as all the wise
+  <span class="add">men</span> of my kingdom are not able to make known unto me
+  the interpretation: but thou <span class="add">art</span> able; for the spirit
+  of the holy gods <span class="add">is</span> in thee.</p>
+id: DAN/4/18
+next:
+  id: DAN/4/19
+  number: '19'
+previous:
+  id: DAN/4/17
+  number: '17'
+reference: 'Daniel 4:18'

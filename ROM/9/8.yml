@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 9:8" class="v">8</span>That
+  is, They which are the children of the flesh, these <span
+  class="add">are</span> not the children of God: but the children of the
+  promise are counted for the seed. </p>
+id: ROM/9/8
+next:
+  id: ROM/9/9
+  number: '9'
+previous:
+  id: ROM/9/7
+  number: '7'
+reference: 'Romans 9:8'

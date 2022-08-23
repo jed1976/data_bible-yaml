@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 6:18" class="v">18</span>And
+  they that were vexed with unclean spirits: and they were healed. </p>
+id: LUK/6/18
+next:
+  id: LUK/6/19
+  number: '19'
+previous:
+  id: LUK/6/17
+  number: '17'
+reference: 'Luke 6:18'

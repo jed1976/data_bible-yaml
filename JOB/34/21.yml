@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 34:21"
+  class="v">21</span>For his eyes <span class="add">are</span> upon the ways of
+  man, and he seeth all his goings. </p>
+id: JOB/34/21
+next:
+  id: JOB/34/22
+  number: '22'
+previous:
+  id: JOB/34/20
+  number: '20'
+reference: 'Job 34:21'

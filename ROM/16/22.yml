@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 16:22" class="v">22</span>I
+  Tertius, who wrote <span class="add">this</span> epistle, salute you in the
+  Lord. </p>
+id: ROM/16/22
+next:
+  id: ROM/16/23
+  number: '23'
+previous:
+  id: ROM/16/21
+  number: '21'
+reference: 'Romans 16:22'

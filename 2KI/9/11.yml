@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 9:11" class="v">11</span>¶
+  Then Jehu came forth to the servants of his lord: and <span
+  class="add">one</span> said unto him, <span class="add">Is</span> all well?
+  wherefore came this mad <span class="add">fellow</span> to thee? And he said
+  unto them, Ye know the man, and his communication. </p>
+id: 2KI/9/11
+next:
+  id: 2KI/9/12
+  number: '12'
+previous:
+  id: 2KI/9/10
+  number: '10'
+reference: '2 Kings 9:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2PE 1:5" class="v">5</span>And
+  beside this, giving all diligence, add to your faith virtue; and to virtue
+  knowledge; </p>
+id: 2PE/1/5
+next:
+  id: 2PE/1/6
+  number: '6'
+previous:
+  id: 2PE/1/4
+  number: '4'
+reference: '2 Peter 1:5'

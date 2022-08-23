@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 102:15"
+  class="v">15</span>So the heathen shall fear the name of the <span
+  class="nd">LORD</span>, and all the kings of the earth thy glory.</p>
+id: PSA/102/15
+next:
+  id: PSA/102/16
+  number: '16'
+previous:
+  id: PSA/102/14
+  number: '14'
+reference: 'Psalms 102:15'

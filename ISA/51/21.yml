@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 51:21" class="v">21</span>¶
+  Therefore hear now this, thou afflicted, and drunken, but not with wine: </p>
+id: ISA/51/21
+next:
+  id: ISA/51/22
+  number: '22'
+previous:
+  id: ISA/51/20
+  number: '20'
+reference: 'Isaiah 51:21'

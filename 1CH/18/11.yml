@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 18:11" class="v">11</span>¶
+  Them also king David dedicated unto the <span class="nd">LORD</span>, with the
+  silver and the gold that he brought from all <span class="add">these</span>
+  nations; from Edom, and from Moab, and from the children of Ammon, and from
+  the Philistines, and from Amalek. </p>
+id: 1CH/18/11
+next:
+  id: 1CH/18/12
+  number: '12'
+previous:
+  id: 1CH/18/10
+  number: '10'
+reference: '1 Chronicles 18:11'

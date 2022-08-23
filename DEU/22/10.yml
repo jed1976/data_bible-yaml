@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 22:10" class="v">10</span>¶
+  Thou shalt not plow with an ox and an ass together.</p>
+id: DEU/22/10
+next:
+  id: DEU/22/11
+  number: '11'
+previous:
+  id: DEU/22/9
+  number: '9'
+reference: 'Deuteronomy 22:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 26:3"
+  class="v">3</span>Especially <span class="add">because I know</span> thee to
+  be expert in all customs and questions which are among the Jews: wherefore I
+  beseech thee to hear me patiently. </p>
+id: ACT/26/3
+next:
+  id: ACT/26/4
+  number: '4'
+previous:
+  id: ACT/26/2
+  number: '2'
+reference: 'Acts 26:3'

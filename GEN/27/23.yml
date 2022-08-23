@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 27:23"
+  class="v">23</span>And he discerned him not, because his hands were hairy, as
+  his brother Esau’s hands: so he blessed him. </p>
+id: GEN/27/23
+next:
+  id: GEN/27/24
+  number: '24'
+previous:
+  id: GEN/27/22
+  number: '22'
+reference: 'Genesis 27:23'

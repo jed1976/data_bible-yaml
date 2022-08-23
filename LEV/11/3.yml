@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 11:3"
+  class="v">3</span>Whatsoever parteth the hoof, and is clovenfooted, <span
+  class="add">and</span> cheweth the cud, among the beasts, that shall ye eat.
+  </p>
+id: LEV/11/3
+next:
+  id: LEV/11/4
+  number: '4'
+previous:
+  id: LEV/11/2
+  number: '2'
+reference: 'Leviticus 11:3'

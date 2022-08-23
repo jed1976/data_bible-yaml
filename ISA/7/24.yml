@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 7:24"
+  class="v">24</span>With arrows and with bows shall <span
+  class="add">men</span> come thither; because all the land shall become briers
+  and thorns. </p>
+id: ISA/7/24
+next:
+  id: ISA/7/25
+  number: '25'
+previous:
+  id: ISA/7/23
+  number: '23'
+reference: 'Isaiah 7:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 7:7" class="v">7</span>The
+  morning is come unto thee, O thou that dwellest in the land: the time is come,
+  the day of trouble <span class="add">is</span> near, and not the sounding
+  again of the mountains. </p>
+id: EZK/7/7
+next:
+  id: EZK/7/8
+  number: '8'
+previous:
+  id: EZK/7/6
+  number: '6'
+reference: 'Ezekiel 7:7'

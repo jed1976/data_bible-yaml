@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 33:9" class="v">9</span>The
+  earth mourneth <span class="add">and</span> languisheth: Lebanon is ashamed
+  <span class="add">and</span> hewn down: Sharon is like a wilderness; and
+  Bashan and Carmel shake off <span class="add">their fruits</span>. </p>
+id: ISA/33/9
+next:
+  id: ISA/33/10
+  number: '10'
+previous:
+  id: ISA/33/8
+  number: '8'
+reference: 'Isaiah 33:9'

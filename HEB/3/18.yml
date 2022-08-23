@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="HEB 3:18" class="v">18</span>And
+  to whom sware he that they should not enter into his rest, but to them that
+  believed not? </p>
+id: HEB/3/18
+next:
+  id: HEB/3/19
+  number: '19'
+previous:
+  id: HEB/3/17
+  number: '17'
+reference: 'Hebrews 3:18'

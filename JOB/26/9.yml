@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 26:9" class="v">9</span>He
+  holdeth back the face of his throne, <span class="add">and</span> spreadeth
+  his cloud upon it. </p>
+id: JOB/26/9
+next:
+  id: JOB/26/10
+  number: '10'
+previous:
+  id: JOB/26/8
+  number: '8'
+reference: 'Job 26:9'

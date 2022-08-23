@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 21:11" class="v">11</span>¶
+  The burden of Dumah. He calleth to me out of Seir, Watchman, what of the
+  night? Watchman, what of the night? </p>
+id: ISA/21/11
+next:
+  id: ISA/21/12
+  number: '12'
+previous:
+  id: ISA/21/10
+  number: '10'
+reference: 'Isaiah 21:11'

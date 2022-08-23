@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 41:9" class="v">9</span>Now
+  the pit wherein Ishmael had cast all the dead bodies of the men, whom he had
+  slain because of Gedaliah, <span class="add">was</span> it which Asa the king
+  had made for fear of Baasha king of Israel: <span class="add">and</span>
+  Ishmael the son of Nethaniah filled it with <span class="add">them that
+  were</span> slain. </p>
+id: JER/41/9
+next:
+  id: JER/41/10
+  number: '10'
+previous:
+  id: JER/41/8
+  number: '8'
+reference: 'Jeremiah 41:9'

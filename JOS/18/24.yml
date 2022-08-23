@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 18:24"
+  class="v">24</span>And Chephar-haammonai, and Ophni, and Gaba; twelve cities
+  with their villages: </p>
+id: JOS/18/24
+next:
+  id: JOS/18/25
+  number: '25'
+previous:
+  id: JOS/18/23
+  number: '23'
+reference: 'Joshua 18:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 3:20" class="v">20</span>And
+  I will stretch out my hand, and smite Egypt with all my wonders which I will
+  do in the midst thereof: and after that he will let you go. </p>
+id: EXO/3/20
+next:
+  id: EXO/3/21
+  number: '21'
+previous:
+  id: EXO/3/19
+  number: '19'
+reference: 'Exodus 3:20'

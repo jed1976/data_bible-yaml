@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 3:12" class="v">12</span>And
+  this land, <span class="add">which</span> we possessed at that time, from
+  Aroer, which <span class="add">is</span> by the river Arnon, and half mount
+  Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
+  </p>
+id: DEU/3/12
+next:
+  id: DEU/3/13
+  number: '13'
+previous:
+  id: DEU/3/11
+  number: '11'
+reference: 'Deuteronomy 3:12'

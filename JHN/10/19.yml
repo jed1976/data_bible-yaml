@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 10:19" class="v">19</span>¶
+  There was a division therefore again among the Jews for these sayings. </p>
+id: JHN/10/19
+next:
+  id: JHN/10/20
+  number: '20'
+previous:
+  id: JHN/10/18
+  number: '18'
+reference: 'John 10:19'

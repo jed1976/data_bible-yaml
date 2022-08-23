@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 21:16"
+  class="v">16</span><span class="wj">And ye shall be betrayed both by parents,
+  and brethren, and kinsfolks, and friends; and <span class="add">some</span> of
+  you shall they cause to be put to death.</span> </p>
+id: LUK/21/16
+next:
+  id: LUK/21/17
+  number: '17'
+previous:
+  id: LUK/21/15
+  number: '15'
+reference: 'Luke 21:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 24:12"
+  class="v">12</span><span class="wj">And because iniquity shall abound, the
+  love of many shall wax cold.</span> </p>
+id: MAT/24/12
+next:
+  id: MAT/24/13
+  number: '13'
+previous:
+  id: MAT/24/11
+  number: '11'
+reference: 'Matthew 24:12'

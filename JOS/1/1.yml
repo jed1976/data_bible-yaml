@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 1:1" class="v">1</span>Now
+  after the death of Moses the servant of the <span class="nd">LORD</span> it
+  came to pass, that the <span class="nd">LORD</span> spake unto Joshua the son
+  of Nun, Moses’ minister, saying, </p>
+id: JOS/1/1
+next:
+  id: JOS/1/2
+  number: '2'
+previous:
+  id: JOS/intro/0
+  number: '0'
+reference: 'Joshua 1:1'

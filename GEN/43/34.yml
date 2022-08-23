@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 43:34"
+  class="v">34</span>And he took <span class="add">and sent</span> messes unto
+  them from before him: but Benjamin’s mess was five times so much as any of
+  theirs. And they drank, and were merry with him.</p>
+id: GEN/43/34
+next:
+  id: GEN/44/1
+  number: '1'
+previous:
+  id: GEN/43/33
+  number: '33'
+reference: 'Genesis 43:34'

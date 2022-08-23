@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 40:12"
+  class="v">12</span>Look on every one <span class="add">that is</span> proud,
+  <span class="add">and</span> bring him low; and tread down the wicked in their
+  place. </p>
+id: JOB/40/12
+next:
+  id: JOB/40/13
+  number: '13'
+previous:
+  id: JOB/40/11
+  number: '11'
+reference: 'Job 40:12'

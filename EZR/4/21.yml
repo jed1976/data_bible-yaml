@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZR 4:21"
+  class="v">21</span>Give ye now commandment to cause these men to cease, and
+  that this city be not builded, until <span class="add">another</span>
+  commandment shall be given from me. </p>
+id: EZR/4/21
+next:
+  id: EZR/4/22
+  number: '22'
+previous:
+  id: EZR/4/20
+  number: '20'
+reference: 'Ezra 4:21'

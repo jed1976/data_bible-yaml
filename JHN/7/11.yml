@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 7:11"
+  class="v">11</span>Then the Jews sought him at the feast, and said, Where is
+  he? </p>
+id: JHN/7/11
+next:
+  id: JHN/7/12
+  number: '12'
+previous:
+  id: JHN/7/10
+  number: '10'
+reference: 'John 7:11'

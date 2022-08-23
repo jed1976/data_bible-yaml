@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 45:1" class="v">1</span>Then
+  Joseph could not refrain himself before all them that stood by him; and he
+  cried, Cause every man to go out from me. And there stood no man with him,
+  while Joseph made himself known unto his brethren. </p>
+id: GEN/45/1
+next:
+  id: GEN/45/2
+  number: '2'
+previous:
+  id: GEN/44/34
+  number: '34'
+reference: 'Genesis 45:1'

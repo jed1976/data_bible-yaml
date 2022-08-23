@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="RUT 4:3" class="v">3</span>And he
+  said unto the kinsman, Naomi, that is come again out of the country of Moab,
+  selleth a parcel of land, which <span class="add">was</span> our brother
+  Elimelech’s: </p>
+id: RUT/4/3
+next:
+  id: RUT/4/4
+  number: '4'
+previous:
+  id: RUT/4/2
+  number: '2'
+reference: 'Ruth 4:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 107:21"
+  class="v">21</span>Oh that <span class="add">men</span> would praise the <span
+  class="nd">LORD</span> <span class="add">for</span> his goodness, and <span
+  class="add">for</span> his wonderful works to the children of men!</p>
+id: PSA/107/21
+next:
+  id: PSA/107/22
+  number: '22'
+previous:
+  id: PSA/107/20
+  number: '20'
+reference: 'Psalms 107:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOB 15:31"
+  class="v">31</span>Let not him that is deceived trust in vanity: for vanity
+  shall be his recompence. </p>
+id: JOB/15/31
+next:
+  id: JOB/15/32
+  number: '32'
+previous:
+  id: JOB/15/30
+  number: '30'
+reference: 'Job 15:31'

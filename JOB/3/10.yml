@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 3:10"
+  class="v">10</span>Because it shut not up the doors of my <span
+  class="add">mother’s</span> womb, nor hid sorrow from mine eyes.</p>
+id: JOB/3/10
+next:
+  id: JOB/3/11
+  number: '11'
+previous:
+  id: JOB/3/9
+  number: '9'
+reference: 'Job 3:10'

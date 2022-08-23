@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 7:13" class="v">13</span>But
+  prophesy not again any more at Beth-el: for it <span class="add">is</span> the
+  king’s chapel, and it <span class="add">is</span> the king’s court.</p>
+id: AMO/7/13
+next:
+  id: AMO/7/14
+  number: '14'
+previous:
+  id: AMO/7/12
+  number: '12'
+reference: 'Amos 7:13'

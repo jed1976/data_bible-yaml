@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 3:1" class="v">1</span>After
+  these things did king Ahasuerus promote Haman the son of Hammedatha the
+  Agagite, and advanced him, and set his seat above all the princes that <span
+  class="add">were</span> with him. </p>
+id: EST/3/1
+next:
+  id: EST/3/2
+  number: '2'
+previous:
+  id: EST/2/23
+  number: '23'
+reference: 'Esther 3:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 35:19"
+  class="v">19</span>Let not them that are mine enemies wrongfully rejoice over
+  me: <span class="add">neither</span> let them wink with the eye that hate me
+  without a cause.</p>
+id: PSA/35/19
+next:
+  id: PSA/35/20
+  number: '20'
+previous:
+  id: PSA/35/18
+  number: '18'
+reference: 'Psalms 35:19'

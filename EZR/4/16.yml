@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZR 4:16" class="v">16</span>We
+  certify the king that, if this city be builded <span class="add">again</span>,
+  and the walls thereof set up, by this means thou shalt have no portion on this
+  side the river.</p>
+id: EZR/4/16
+next:
+  id: EZR/4/17
+  number: '17'
+previous:
+  id: EZR/4/15
+  number: '15'
+reference: 'Ezra 4:16'

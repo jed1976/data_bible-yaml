@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 44:1" class="v">1</span>The
+  word that came to Jeremiah concerning all the Jews which dwell in the land of
+  Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the
+  country of Pathros, saying, </p>
+id: JER/44/1
+next:
+  id: JER/44/2
+  number: '2'
+previous:
+  id: JER/43/13
+  number: '13'
+reference: 'Jeremiah 44:1'

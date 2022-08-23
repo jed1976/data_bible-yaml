@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JUD 1:22" class="v">22</span>And
+  of some have compassion, making a difference: </p>
+id: JUD/1/22
+next:
+  id: JUD/1/23
+  number: '23'
+previous:
+  id: JUD/1/21
+  number: '21'
+reference: 'Jude 1:22'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 4:5" class="v">5</span>The
+  fool foldeth his hands together, and eateth his own flesh. </p>
+id: ECC/4/5
+next:
+  id: ECC/4/6
+  number: '6'
+previous:
+  id: ECC/4/4
+  number: '4'
+reference: 'Ecclesiastes 4:5'

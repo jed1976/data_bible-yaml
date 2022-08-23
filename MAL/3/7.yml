@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAL 3:7" class="v">7</span>¶ Even
+  from the days of your fathers ye are gone away from mine ordinances, and have
+  not kept <span class="add">them</span>. Return unto me, and I will return unto
+  you, saith the <span class="nd">LORD</span> of hosts. But ye said, Wherein
+  shall we return?</p>
+id: MAL/3/7
+next:
+  id: MAL/3/8
+  number: '8'
+previous:
+  id: MAL/3/6
+  number: '6'
+reference: 'Malachi 3:7'

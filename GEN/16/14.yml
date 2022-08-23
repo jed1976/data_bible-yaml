@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 16:14"
+  class="v">14</span>Wherefore the well was called Beer-lahai-roi; behold, <span
+  class="add">it is</span> between Kadesh and Bered.</p>
+id: GEN/16/14
+next:
+  id: GEN/16/15
+  number: '15'
+previous:
+  id: GEN/16/13
+  number: '13'
+reference: 'Genesis 16:14'

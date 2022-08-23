@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 30:26"
+  class="v">26</span>When I looked for good, then evil came <span
+  class="add">unto me:</span> and when I waited for light, there came darkness.
+  </p>
+id: JOB/30/26
+next:
+  id: JOB/30/27
+  number: '27'
+previous:
+  id: JOB/30/25
+  number: '25'
+reference: 'Job 30:26'

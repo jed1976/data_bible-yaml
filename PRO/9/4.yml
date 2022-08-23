@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 9:4" class="v">4</span>Whoso
+  <span class="add">is</span> simple, let him turn in hither: <span
+  class="add">as for</span> him that wanteth understanding, she saith to him,
+  </p>
+id: PRO/9/4
+next:
+  id: PRO/9/5
+  number: '5'
+previous:
+  id: PRO/9/3
+  number: '3'
+reference: 'Proverbs 9:4'

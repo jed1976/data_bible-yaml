@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 92:10"
+  class="v">10</span>But my horn shalt thou exalt like <span class="add">the
+  horn of</span> an unicorn: I shall be anointed with fresh oil.</p>
+id: PSA/92/10
+next:
+  id: PSA/92/11
+  number: '11'
+previous:
+  id: PSA/92/9
+  number: '9'
+reference: 'Psalms 92:10'

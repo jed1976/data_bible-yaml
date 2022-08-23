@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 4:5" class="v">5</span>Thy
+  two breasts <span class="add">are</span> like two young roes that are twins,
+  which feed among the lilies. </p>
+id: SNG/4/5
+next:
+  id: SNG/4/6
+  number: '6'
+previous:
+  id: SNG/4/4
+  number: '4'
+reference: 'Song of Solomon 4:5'

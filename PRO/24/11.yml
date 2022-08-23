@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 24:11" class="v">11</span>If
+  thou forbear to deliver <span class="add">them that are</span> drawn unto
+  death, and <span class="add">those that are</span> ready to be slain; </p>
+id: PRO/24/11
+next:
+  id: PRO/24/12
+  number: '12'
+previous:
+  id: PRO/24/10
+  number: '10'
+reference: 'Proverbs 24:11'

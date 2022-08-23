@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 4:19" class="v">19</span>¶
+  Then Daniel, whose name <span class="add">was</span> Belteshazzar, was
+  astonied for one hour, and his thoughts troubled him. The king spake, and
+  said, Belteshazzar, let not the dream, or the interpretation thereof, trouble
+  thee. Belteshazzar answered and said, My lord, the dream <span
+  class="add">be</span> to them that hate thee, and the interpretation thereof
+  to thine enemies. </p>
+id: DAN/4/19
+next:
+  id: DAN/4/20
+  number: '20'
+previous:
+  id: DAN/4/18
+  number: '18'
+reference: 'Daniel 4:19'

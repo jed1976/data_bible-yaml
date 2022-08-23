@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 5:41"
+  class="v">41</span><span class="wj">I receive not honour from men.</span> </p>
+id: JHN/5/41
+next:
+  id: JHN/5/42
+  number: '42'
+previous:
+  id: JHN/5/40
+  number: '40'
+reference: 'John 5:41'

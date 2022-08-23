@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 4:40" class="v">40</span>¶
+  Now when the sun was setting, all they that had any sick with divers diseases
+  brought them unto him; and he laid his hands on every one of them, and healed
+  them. </p>
+id: LUK/4/40
+next:
+  id: LUK/4/41
+  number: '41'
+previous:
+  id: LUK/4/39
+  number: '39'
+reference: 'Luke 4:40'

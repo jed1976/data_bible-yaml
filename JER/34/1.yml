@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 34:1" class="v">1</span>The
+  word which came unto Jeremiah from the <span class="nd">LORD</span>, when
+  Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the
+  earth of his dominion, and all the people, fought against Jerusalem, and
+  against all the cities thereof, saying, </p>
+id: JER/34/1
+next:
+  id: JER/34/2
+  number: '2'
+previous:
+  id: JER/33/26
+  number: '26'
+reference: 'Jeremiah 34:1'

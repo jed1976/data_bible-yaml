@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 88:3" class="v">3</span>For
+  my soul is full of troubles: and my life draweth nigh unto the grave.</p>
+id: PSA/88/3
+next:
+  id: PSA/88/4
+  number: '4'
+previous:
+  id: PSA/88/2
+  number: '2'
+reference: 'Psalms 88:3'

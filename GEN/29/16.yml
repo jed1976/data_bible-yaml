@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 29:16"
+  class="v">16</span>And Laban had two daughters: the name of the elder <span
+  class="add">was</span> Leah, and the name of the younger <span
+  class="add">was</span> Rachel. </p>
+id: GEN/29/16
+next:
+  id: GEN/29/17
+  number: '17'
+previous:
+  id: GEN/29/15
+  number: '15'
+reference: 'Genesis 29:16'

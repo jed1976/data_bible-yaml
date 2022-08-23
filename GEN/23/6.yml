@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 23:6" class="v">6</span>Hear
+  us, my lord: thou <span class="add">art</span> a mighty prince among us: in
+  the choice of our sepulchres bury thy dead; none of us shall withhold from
+  thee his sepulchre, but that thou mayest bury thy dead. </p>
+id: GEN/23/6
+next:
+  id: GEN/23/7
+  number: '7'
+previous:
+  id: GEN/23/5
+  number: '5'
+reference: 'Genesis 23:6'

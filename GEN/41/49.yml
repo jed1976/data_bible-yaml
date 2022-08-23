@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="GEN 41:49"
+  class="v">49</span>And Joseph gathered corn as the sand of the sea, very much,
+  until he left numbering; for <span class="add">it was</span> without number.
+  </p>
+id: GEN/41/49
+next:
+  id: GEN/41/50
+  number: '50'
+previous:
+  id: GEN/41/48
+  number: '48'
+reference: 'Genesis 41:49'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 13:23"
+  class="v">23</span>And the border of the children of Reuben was Jordan, and
+  the border <span class="add">thereof</span>. This <span class="add">was</span>
+  the inheritance of the children of Reuben after their families, the cities and
+  the villages thereof. </p>
+id: JOS/13/23
+next:
+  id: JOS/13/24
+  number: '24'
+previous:
+  id: JOS/13/22
+  number: '22'
+reference: 'Joshua 13:23'

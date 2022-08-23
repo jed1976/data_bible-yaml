@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 9:9" class="v">9</span>To the
+  Lord our God <span class="add">belong</span> mercies and forgivenesses, though
+  we have rebelled against him; </p>
+id: DAN/9/9
+next:
+  id: DAN/9/10
+  number: '10'
+previous:
+  id: DAN/9/8
+  number: '8'
+reference: 'Daniel 9:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 13:11" class="v">11</span>¶
+  And it shall be when the <span class="nd">LORD</span> shall bring thee into
+  the land of the Canaanites, as he sware unto thee and to thy fathers, and
+  shall give it thee, </p>
+id: EXO/13/11
+next:
+  id: EXO/13/12
+  number: '12'
+previous:
+  id: EXO/13/10
+  number: '10'
+reference: 'Exodus 13:11'

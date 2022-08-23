@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 8:25"
+  class="v">25</span>After that he put <span class="add">his</span> hands again
+  upon his eyes, and made him look up: and he was restored, and saw every man
+  clearly. </p>
+id: MRK/8/25
+next:
+  id: MRK/8/26
+  number: '26'
+previous:
+  id: MRK/8/24
+  number: '24'
+reference: 'Mark 8:25'

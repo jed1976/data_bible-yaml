@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 28:2" class="v">2</span>Iron
+  is taken out of the earth, and brass <span class="add">is</span> molten <span
+  class="add">out of</span> the stone. </p>
+id: JOB/28/2
+next:
+  id: JOB/28/3
+  number: '3'
+previous:
+  id: JOB/28/1
+  number: '1'
+reference: 'Job 28:2'

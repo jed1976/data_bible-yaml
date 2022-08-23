@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 6:29"
+  class="v">29</span><span class="wj">And unto him that smiteth thee on the
+  <span class="add">one</span> cheek offer also the other; and him that taketh
+  away thy cloke forbid not <span class="add">to take thy</span> coat
+  also.</span> </p>
+id: LUK/6/29
+next:
+  id: LUK/6/30
+  number: '30'
+previous:
+  id: LUK/6/28
+  number: '28'
+reference: 'Luke 6:29'

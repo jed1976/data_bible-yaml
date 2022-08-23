@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 1:3"
+  class="v">3</span>Because of the savour of thy good ointments thy name <span
+  class="add">is as</span> ointment poured forth, therefore do the virgins love
+  thee. </p>
+id: SNG/1/3
+next:
+  id: SNG/1/4
+  number: '4'
+previous:
+  id: SNG/1/2
+  number: '2'
+reference: 'Song of Solomon 1:3'

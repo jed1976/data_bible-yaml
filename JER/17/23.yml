@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 17:23"
+  class="v">23</span>But they obeyed not, neither inclined their ear, but made
+  their neck stiff, that they might not hear, nor receive instruction. </p>
+id: JER/17/23
+next:
+  id: JER/17/24
+  number: '24'
+previous:
+  id: JER/17/22
+  number: '22'
+reference: 'Jeremiah 17:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEP 3:5" class="v">5</span>The
+  just <span class="nd">LORD</span> <span class="add">is</span> in the midst
+  thereof; he will not do iniquity: every morning doth he bring his judgment to
+  light, he faileth not; but the unjust knoweth no shame. </p>
+id: ZEP/3/5
+next:
+  id: ZEP/3/6
+  number: '6'
+previous:
+  id: ZEP/3/4
+  number: '4'
+reference: 'Zephaniah 3:5'

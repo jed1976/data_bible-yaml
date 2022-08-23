@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 46:10"
+  class="v">10</span>Declaring the end from the beginning, and from ancient
+  times <span class="add">the things</span> that are not <span
+  class="add">yet</span> done, saying, My counsel shall stand, and I will do all
+  my pleasure: </p>
+id: ISA/46/10
+next:
+  id: ISA/46/11
+  number: '11'
+previous:
+  id: ISA/46/9
+  number: '9'
+reference: 'Isaiah 46:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 19:5" class="v">5</span>And
+  as he lay and slept under a juniper tree, behold, then an angel touched him,
+  and said unto him, Arise <span class="add">and</span> eat. </p>
+id: 1KI/19/5
+next:
+  id: 1KI/19/6
+  number: '6'
+previous:
+  id: 1KI/19/4
+  number: '4'
+reference: '1 Kings 19:5'

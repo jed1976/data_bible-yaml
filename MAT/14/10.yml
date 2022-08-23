@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 14:10"
+  class="v">10</span>And he sent, and beheaded John in the prison. </p>
+id: MAT/14/10
+next:
+  id: MAT/14/11
+  number: '11'
+previous:
+  id: MAT/14/9
+  number: '9'
+reference: 'Matthew 14:10'

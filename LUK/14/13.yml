@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 14:13"
+  class="v">13</span><span class="wj">But when thou makest a feast, call the
+  poor, the maimed, the lame, the blind:</span> </p>
+id: LUK/14/13
+next:
+  id: LUK/14/14
+  number: '14'
+previous:
+  id: LUK/14/12
+  number: '12'
+reference: 'Luke 14:13'

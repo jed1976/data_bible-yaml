@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LAM 3:20" class="v">20</span>My
+  soul hath <span class="add">them</span> still in remembrance, and is humbled
+  in me.</p>
+id: LAM/3/20
+next:
+  id: LAM/3/21
+  number: '21'
+previous:
+  id: LAM/3/19
+  number: '19'
+reference: 'Lamentations 3:20'

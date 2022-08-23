@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 13:9" class="v">9</span>Then
+  I commanded, and they cleansed the chambers: and thither brought I again the
+  vessels of the house of God, with the meat offering and the frankincense.</p>
+id: NEH/13/9
+next:
+  id: NEH/13/10
+  number: '10'
+previous:
+  id: NEH/13/8
+  number: '8'
+reference: 'Nehemiah 13:9'

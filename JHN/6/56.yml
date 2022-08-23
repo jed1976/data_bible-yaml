@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="JHN 6:56"
+  class="v">56</span><span class="wj">He that eateth my flesh, and drinketh my
+  blood, dwelleth in me, and I in him.</span> </p>
+id: JHN/6/56
+next:
+  id: JHN/6/57
+  number: '57'
+previous:
+  id: JHN/6/55
+  number: '55'
+reference: 'John 6:56'

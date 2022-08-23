@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1SA 2:32" class="v">32</span>And
+  thou shalt see an enemy <span class="add">in my</span> habitation, in all
+  <span class="add">the wealth</span> which <span class="add">God</span> shall
+  give Israel: and there shall not be an old man in thine house for ever. </p>
+id: 1SA/2/32
+next:
+  id: 1SA/2/33
+  number: '33'
+previous:
+  id: 1SA/2/31
+  number: '31'
+reference: '1 Samuel 2:32'

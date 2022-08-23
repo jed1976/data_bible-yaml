@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 14:10"
+  class="v">10</span>Thou hast indeed smitten Edom, and thine heart hath lifted
+  thee up: glory <span class="add">of this</span>, and tarry at home: for why
+  shouldest thou meddle to <span class="add">thy</span> hurt, that thou
+  shouldest fall, <span class="add">even</span> thou, and Judah with thee? </p>
+id: 2KI/14/10
+next:
+  id: 2KI/14/11
+  number: '11'
+previous:
+  id: 2KI/14/9
+  number: '9'
+reference: '2 Kings 14:10'

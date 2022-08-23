@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 1:4" class="v">4</span>Dan,
+  and Naphtali, Gad, and Asher. </p>
+id: EXO/1/4
+next:
+  id: EXO/1/5
+  number: '5'
+previous:
+  id: EXO/1/3
+  number: '3'
+reference: 'Exodus 1:4'

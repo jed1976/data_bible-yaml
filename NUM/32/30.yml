@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 32:30"
+  class="v">30</span>But if they will not pass over with you armed, they shall
+  have possessions among you in the land of Canaan. </p>
+id: NUM/32/30
+next:
+  id: NUM/32/31
+  number: '31'
+previous:
+  id: NUM/32/29
+  number: '29'
+reference: 'Numbers 32:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 4:21" class="v">21</span>And
+  his brother’s name <span class="add">was</span> Jubal: he was the father of
+  all such as handle the harp and organ. </p>
+id: GEN/4/21
+next:
+  id: GEN/4/22
+  number: '22'
+previous:
+  id: GEN/4/20
+  number: '20'
+reference: 'Genesis 4:21'

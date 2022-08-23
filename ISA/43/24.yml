@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 43:24"
+  class="v">24</span>Thou hast bought me no sweet cane with money, neither hast
+  thou filled me with the fat of thy sacrifices: but thou hast made me to serve
+  with thy sins, thou hast wearied me with thine iniquities. </p>
+id: ISA/43/24
+next:
+  id: ISA/43/25
+  number: '25'
+previous:
+  id: ISA/43/23
+  number: '23'
+reference: 'Isaiah 43:24'

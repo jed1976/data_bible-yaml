@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 10:25"
+  class="v">25</span>And as Peter was coming in, Cornelius met him, and fell
+  down at his feet, and worshipped <span class="add">him</span>. </p>
+id: ACT/10/25
+next:
+  id: ACT/10/26
+  number: '26'
+previous:
+  id: ACT/10/24
+  number: '24'
+reference: 'Acts 10:25'

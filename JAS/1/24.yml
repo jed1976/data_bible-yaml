@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JAS 1:24" class="v">24</span>For
+  he beholdeth himself, and goeth his way, and straightway forgetteth what
+  manner of man he was. </p>
+id: JAS/1/24
+next:
+  id: JAS/1/25
+  number: '25'
+previous:
+  id: JAS/1/23
+  number: '23'
+reference: 'James 1:24'

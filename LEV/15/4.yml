@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 15:4" class="v">4</span>Every
+  bed, whereon he lieth that hath the issue, is unclean: and every thing,
+  whereon he sitteth, shall be unclean. </p>
+id: LEV/15/4
+next:
+  id: LEV/15/5
+  number: '5'
+previous:
+  id: LEV/15/3
+  number: '3'
+reference: 'Leviticus 15:4'

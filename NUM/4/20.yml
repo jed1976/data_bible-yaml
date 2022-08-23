@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 4:20" class="v">20</span>But
+  they shall not go in to see when the holy things are covered, lest they
+  die.</p>
+id: NUM/4/20
+next:
+  id: NUM/4/21
+  number: '21'
+previous:
+  id: NUM/4/19
+  number: '19'
+reference: 'Numbers 4:20'

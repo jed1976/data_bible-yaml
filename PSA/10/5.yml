@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 10:5" class="v">5</span>His
+  ways are always grievous; thy judgments <span class="add">are</span> far above
+  out of his sight: <span class="add">as for</span> all his enemies, he puffeth
+  at them.</p>
+id: PSA/10/5
+next:
+  id: PSA/10/6
+  number: '6'
+previous:
+  id: PSA/10/4
+  number: '4'
+reference: 'Psalms 10:5'

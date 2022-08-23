@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1SA 10:15"
+  class="v">15</span>And Saul’s uncle said, Tell me, I pray thee, what Samuel
+  said unto you. </p>
+id: 1SA/10/15
+next:
+  id: 1SA/10/16
+  number: '16'
+previous:
+  id: 1SA/10/14
+  number: '14'
+reference: '1 Samuel 10:15'

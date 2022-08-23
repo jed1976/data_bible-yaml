@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 5:15"
+  class="v">15</span>Insomuch that they brought forth the sick into the streets,
+  and laid <span class="add">them</span> on beds and couches, that at the least
+  the shadow of Peter passing by might overshadow some of them. </p>
+id: ACT/5/15
+next:
+  id: ACT/5/16
+  number: '16'
+previous:
+  id: ACT/5/14
+  number: '14'
+reference: 'Acts 5:15'

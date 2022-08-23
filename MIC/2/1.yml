@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 2:1" class="v">1</span>Woe to
+  them that devise iniquity, and work evil upon their beds! when the morning is
+  light, they practise it, because it is in the power of their hand. </p>
+id: MIC/2/1
+next:
+  id: MIC/2/2
+  number: '2'
+previous:
+  id: MIC/1/16
+  number: '16'
+reference: 'Micah 2:1'

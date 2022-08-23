@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 4:26" class="v">26</span>The
+  kings of the earth stood up, and the rulers were gathered together against the
+  Lord, and against his Christ. </p>
+id: ACT/4/26
+next:
+  id: ACT/4/27
+  number: '27'
+previous:
+  id: ACT/4/25
+  number: '25'
+reference: 'Acts 4:26'

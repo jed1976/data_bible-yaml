@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 10:34" class="v">34</span>¶
+  Then Peter opened <span class="add">his</span> mouth, and said, Of a truth I
+  perceive that God is no respecter of persons: </p>
+id: ACT/10/34
+next:
+  id: ACT/10/35
+  number: '35'
+previous:
+  id: ACT/10/33
+  number: '33'
+reference: 'Acts 10:34'

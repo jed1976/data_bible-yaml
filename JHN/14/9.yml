@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 14:9" class="v">9</span>Jesus
+  saith unto him, <span class="wj">Have I been so long time with you, and yet
+  hast thou not known me, Philip? he that hath seen me hath seen the Father; and
+  how sayest thou <span class="add">then</span>, Shew us the Father?</span> </p>
+id: JHN/14/9
+next:
+  id: JHN/14/10
+  number: '10'
+previous:
+  id: JHN/14/8
+  number: '8'
+reference: 'John 14:9'

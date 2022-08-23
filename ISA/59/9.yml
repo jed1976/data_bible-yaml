@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 59:9" class="v">9</span>¶
+  Therefore is judgment far from us, neither doth justice overtake us: we wait
+  for light, but behold obscurity; for brightness, <span class="add">but</span>
+  we walk in darkness. </p>
+id: ISA/59/9
+next:
+  id: ISA/59/10
+  number: '10'
+previous:
+  id: ISA/59/8
+  number: '8'
+reference: 'Isaiah 59:9'

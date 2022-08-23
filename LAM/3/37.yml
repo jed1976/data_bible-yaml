@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LAM 3:37" class="v">37</span>¶
+  Who <span class="add">is</span> he <span class="add">that</span> saith, and it
+  cometh to pass, <span class="add">when</span> the Lord commandeth <span
+  class="add">it</span> not? </p>
+id: LAM/3/37
+next:
+  id: LAM/3/38
+  number: '38'
+previous:
+  id: LAM/3/36
+  number: '36'
+reference: 'Lamentations 3:37'

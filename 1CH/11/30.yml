@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1CH 11:30"
+  class="v">30</span>Maharai the Netophathite, Heled the son of Baanah the
+  Netophathite, </p>
+id: 1CH/11/30
+next:
+  id: 1CH/11/31
+  number: '31'
+previous:
+  id: 1CH/11/29
+  number: '29'
+reference: '1 Chronicles 11:30'

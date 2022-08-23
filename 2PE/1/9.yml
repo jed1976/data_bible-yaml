@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2PE 1:9" class="v">9</span>But he
+  that lacketh these things is blind, and cannot see afar off, and hath
+  forgotten that he was purged from his old sins. </p>
+id: 2PE/1/9
+next:
+  id: 2PE/1/10
+  number: '10'
+previous:
+  id: 2PE/1/8
+  number: '8'
+reference: '2 Peter 1:9'

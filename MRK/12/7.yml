@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 12:7" class="v">7</span><span
+  class="wj">But those husbandmen said among themselves, This is the heir; come,
+  let us kill him, and the inheritance shall be ours.</span> </p>
+id: MRK/12/7
+next:
+  id: MRK/12/8
+  number: '8'
+previous:
+  id: MRK/12/6
+  number: '6'
+reference: 'Mark 12:7'

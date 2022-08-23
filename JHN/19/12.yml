@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 19:12"
+  class="v">12</span>And from thenceforth Pilate sought to release him: but the
+  Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend:
+  whosoever maketh himself a king speaketh against Cæsar.</p>
+id: JHN/19/12
+next:
+  id: JHN/19/13
+  number: '13'
+previous:
+  id: JHN/19/11
+  number: '11'
+reference: 'John 19:12'

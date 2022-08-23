@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 17:14"
+  class="v">14</span>The beginning of strife <span class="add">is as</span> when
+  one letteth out water: therefore leave off contention, before it be meddled
+  with. </p>
+id: PRO/17/14
+next:
+  id: PRO/17/15
+  number: '15'
+previous:
+  id: PRO/17/13
+  number: '13'
+reference: 'Proverbs 17:14'

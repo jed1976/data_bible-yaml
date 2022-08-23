@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 7:19" class="v">19</span>And
+  Joshua said unto Achan, My son, give, I pray thee, glory to the <span
+  class="nd">LORD</span> God of Israel, and make confession unto him; and tell
+  me now what thou hast done; hide <span class="add">it</span> not from me. </p>
+id: JOS/7/19
+next:
+  id: JOS/7/20
+  number: '20'
+previous:
+  id: JOS/7/18
+  number: '18'
+reference: 'Joshua 7:19'

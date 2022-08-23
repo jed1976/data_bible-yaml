@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1CH 4:43" class="v">43</span>And
+  they smote the rest of the Amalekites that were escaped, and dwelt there unto
+  this day.</p>
+id: 1CH/4/43
+next:
+  id: 1CH/5/1
+  number: '1'
+previous:
+  id: 1CH/4/42
+  number: '42'
+reference: '1 Chronicles 4:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CO 16:5" class="v">5</span>Now I
+  will come unto you, when I shall pass through Macedonia: for I do pass through
+  Macedonia. </p>
+id: 1CO/16/5
+next:
+  id: 1CO/16/6
+  number: '6'
+previous:
+  id: 1CO/16/4
+  number: '4'
+reference: '1 Corinthians 16:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 99:9"
+  class="v">9</span>Exalt the <span class="nd">LORD</span> our God, and worship
+  at his holy hill; for the <span class="nd">LORD</span> our God <span
+  class="add">is</span> holy.</p>
+id: PSA/99/9
+next:
+  id: PSA/100/1
+  number: '1'
+previous:
+  id: PSA/99/8
+  number: '8'
+reference: 'Psalms 99:9'

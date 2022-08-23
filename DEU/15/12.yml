@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 15:12" class="v">12</span>¶
+  <span class="add">And</span> if thy brother, an Hebrew man, or an Hebrew
+  woman, be sold unto thee, and serve thee six years; then in the seventh year
+  thou shalt let him go free from thee. </p>
+id: DEU/15/12
+next:
+  id: DEU/15/13
+  number: '13'
+previous:
+  id: DEU/15/11
+  number: '11'
+reference: 'Deuteronomy 15:12'

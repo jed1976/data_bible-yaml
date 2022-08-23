@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 8:1" class="v">1</span>And it
+  came to pass afterward, that he went throughout every city and village,
+  preaching and shewing the glad tidings of the kingdom of God: and the twelve
+  <span class="add">were</span> with him, </p>
+id: LUK/8/1
+next:
+  id: LUK/8/2
+  number: '2'
+previous:
+  id: LUK/7/50
+  number: '50'
+reference: 'Luke 8:1'

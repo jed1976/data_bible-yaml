@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 14:30"
+  class="v">30</span>Thus the <span class="nd">LORD</span> saved Israel that day
+  out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the
+  sea shore. </p>
+id: EXO/14/30
+next:
+  id: EXO/14/31
+  number: '31'
+previous:
+  id: EXO/14/29
+  number: '29'
+reference: 'Exodus 14:30'

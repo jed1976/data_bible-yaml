@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 14:16"
+  class="v">16</span>And the priest shall dip his right finger in the oil that
+  <span class="add">is</span> in his left hand, and shall sprinkle of the oil
+  with his finger seven times before the <span class="nd">LORD</span>: </p>
+id: LEV/14/16
+next:
+  id: LEV/14/17
+  number: '17'
+previous:
+  id: LEV/14/15
+  number: '15'
+reference: 'Leviticus 14:16'

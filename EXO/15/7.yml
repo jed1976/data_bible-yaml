@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 15:7" class="v">7</span>And
+  in the greatness of thine excellency thou hast overthrown them that rose up
+  against thee: thou sentest forth thy wrath, <span class="add">which</span>
+  consumed them as stubble. </p>
+id: EXO/15/7
+next:
+  id: EXO/15/8
+  number: '8'
+previous:
+  id: EXO/15/6
+  number: '6'
+reference: 'Exodus 15:7'

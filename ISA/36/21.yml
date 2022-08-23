@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 36:21"
+  class="v">21</span>But they held their peace, and answered him not a word: for
+  the king’s commandment was, saying, Answer him not.</p>
+id: ISA/36/21
+next:
+  id: ISA/36/22
+  number: '22'
+previous:
+  id: ISA/36/20
+  number: '20'
+reference: 'Isaiah 36:21'

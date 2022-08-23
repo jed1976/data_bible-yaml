@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 143:12"
+  class="v">12</span>And of thy mercy cut off mine enemies, and destroy all them
+  that afflict my soul: for I <span class="add">am</span> thy servant.</p>
+id: PSA/143/12
+next:
+  id: PSA/144/1
+  number: '1'
+previous:
+  id: PSA/143/11
+  number: '11'
+reference: 'Psalms 143:12'

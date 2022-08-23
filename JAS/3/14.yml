@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JAS 3:14" class="v">14</span>But
+  if ye have bitter envying and strife in your hearts, glory not, and lie not
+  against the truth. </p>
+id: JAS/3/14
+next:
+  id: JAS/3/15
+  number: '15'
+previous:
+  id: JAS/3/13
+  number: '13'
+reference: 'James 3:14'

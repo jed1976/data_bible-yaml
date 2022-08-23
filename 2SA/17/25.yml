@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2SA 17:25" class="v">25</span>¶
+  And Absalom made Amasa captain of the host instead of Joab: which Amasa <span
+  class="add">was</span> a man’s son, whose name <span class="add">was</span>
+  Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to
+  Zeruiah Joab’s mother. </p>
+id: 2SA/17/25
+next:
+  id: 2SA/17/26
+  number: '26'
+previous:
+  id: 2SA/17/24
+  number: '24'
+reference: '2 Samuel 17:25'

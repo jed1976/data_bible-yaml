@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="RUT 4:14" class="v">14</span>And
+  the women said unto Naomi, Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span>, which hath not left thee this day without a kinsman,
+  that his name may be famous in Israel. </p>
+id: RUT/4/14
+next:
+  id: RUT/4/15
+  number: '15'
+previous:
+  id: RUT/4/13
+  number: '13'
+reference: 'Ruth 4:14'

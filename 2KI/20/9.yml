@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 20:9" class="v">9</span>And
+  Isaiah said, This sign shalt thou have of the <span class="nd">LORD</span>,
+  that the <span class="nd">LORD</span> will do the thing that he hath spoken:
+  shall the shadow go forward ten degrees, or go back ten degrees? </p>
+id: 2KI/20/9
+next:
+  id: 2KI/20/10
+  number: '10'
+previous:
+  id: 2KI/20/8
+  number: '8'
+reference: '2 Kings 20:9'

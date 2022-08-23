@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 11:25"
+  class="v">25</span>For I would not, brethren, that ye should be ignorant of
+  this mystery, lest ye should be wise in your own conceits; that blindness in
+  part is happened to Israel, until the fulness of the Gentiles be come in. </p>
+id: ROM/11/25
+next:
+  id: ROM/11/26
+  number: '26'
+previous:
+  id: ROM/11/24
+  number: '24'
+reference: 'Romans 11:25'

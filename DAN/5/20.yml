@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 5:20" class="v">20</span>But
+  when his heart was lifted up, and his mind hardened in pride, he was deposed
+  from his kingly throne, and they took his glory from him: </p>
+id: DAN/5/20
+next:
+  id: DAN/5/21
+  number: '21'
+previous:
+  id: DAN/5/19
+  number: '19'
+reference: 'Daniel 5:20'

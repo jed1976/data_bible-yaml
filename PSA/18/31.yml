@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="31" data-sid="PSA 18:31"
+  class="v">31</span>For who <span class="add">is</span> God save the <span
+  class="nd">LORD</span>? or who <span class="add">is</span> a rock save our
+  God?</p>
+id: PSA/18/31
+next:
+  id: PSA/18/32
+  number: '32'
+previous:
+  id: PSA/18/30
+  number: '30'
+reference: 'Psalms 18:31'

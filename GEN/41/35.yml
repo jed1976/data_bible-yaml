@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 41:35"
+  class="v">35</span>And let them gather all the food of those good years that
+  come, and lay up corn under the hand of Pharaoh, and let them keep food in the
+  cities. </p>
+id: GEN/41/35
+next:
+  id: GEN/41/36
+  number: '36'
+previous:
+  id: GEN/41/34
+  number: '34'
+reference: 'Genesis 41:35'

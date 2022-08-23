@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 1:16"
+  class="v">16</span>While he <span class="add">was</span> yet speaking, there
+  came also another, and said, The fire of God is fallen from heaven, and hath
+  burned up the sheep, and the servants, and consumed them; and I only am
+  escaped alone to tell thee. </p>
+id: JOB/1/16
+next:
+  id: JOB/1/17
+  number: '17'
+previous:
+  id: JOB/1/15
+  number: '15'
+reference: 'Job 1:16'

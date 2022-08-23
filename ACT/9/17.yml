@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 9:17" class="v">17</span>And
+  Ananias went his way, and entered into the house; and putting his hands on him
+  said, Brother Saul, the Lord, <span class="add">even</span> Jesus, that
+  appeared unto thee in the way as thou camest, hath sent me, that thou mightest
+  receive thy sight, and be filled with the Holy Ghost. </p>
+id: ACT/9/17
+next:
+  id: ACT/9/18
+  number: '18'
+previous:
+  id: ACT/9/16
+  number: '16'
+reference: 'Acts 9:17'

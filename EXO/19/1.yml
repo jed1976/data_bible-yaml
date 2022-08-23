@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 19:1" class="v">1</span>In
+  the third month, when the children of Israel were gone forth out of the land
+  of Egypt, the same day came they <span class="add">into</span> the wilderness
+  of Sinai. </p>
+id: EXO/19/1
+next:
+  id: EXO/19/2
+  number: '2'
+previous:
+  id: EXO/18/27
+  number: '27'
+reference: 'Exodus 19:1'

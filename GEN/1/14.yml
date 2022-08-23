@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 1:14" class="v">14</span>¶
+  And God said, Let there be lights in the firmament of the heaven to divide the
+  day from the night; and let them be for signs, and for seasons, and for days,
+  and years: </p>
+id: GEN/1/14
+next:
+  id: GEN/1/15
+  number: '15'
+previous:
+  id: GEN/1/13
+  number: '13'
+reference: 'Genesis 1:14'

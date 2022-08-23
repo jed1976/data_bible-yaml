@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 40:4"
+  class="v">4</span>Blessed <span class="add">is</span> that man that maketh the
+  <span class="nd">LORD</span> his trust, and respecteth not the proud, nor such
+  as turn aside to lies.</p>
+id: PSA/40/4
+next:
+  id: PSA/40/5
+  number: '5'
+previous:
+  id: PSA/40/3
+  number: '3'
+reference: 'Psalms 40:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 118:5" class="v">5</span>I
+  called upon the <span class="nd">LORD</span> in distress: the <span
+  class="nd">LORD</span> answered me, <span class="add">and set me</span> in a
+  large place.</p>
+id: PSA/118/5
+next:
+  id: PSA/118/6
+  number: '6'
+previous:
+  id: PSA/118/4
+  number: '4'
+reference: 'Psalms 118:5'

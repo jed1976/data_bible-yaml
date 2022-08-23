@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 33:2" class="v">2</span>And
+  he put the handmaids and their children foremost, and Leah and her children
+  after, and Rachel and Joseph hindermost. </p>
+id: GEN/33/2
+next:
+  id: GEN/33/3
+  number: '3'
+previous:
+  id: GEN/33/1
+  number: '1'
+reference: 'Genesis 33:2'

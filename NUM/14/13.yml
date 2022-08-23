@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 14:13" class="v">13</span>¶
+  And Moses said unto the <span class="nd">LORD</span>, Then the Egyptians shall
+  hear <span class="add">it</span>, (for thou broughtest up this people in thy
+  might from among them;) </p>
+id: NUM/14/13
+next:
+  id: NUM/14/14
+  number: '14'
+previous:
+  id: NUM/14/12
+  number: '12'
+reference: 'Numbers 14:13'

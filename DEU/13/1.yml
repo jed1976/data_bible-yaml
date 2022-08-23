@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 13:1" class="v">1</span>If
+  there arise among you a prophet, or a dreamer of dreams, and giveth thee a
+  sign or a wonder, </p>
+id: DEU/13/1
+next:
+  id: DEU/13/2
+  number: '2'
+previous:
+  id: DEU/12/32
+  number: '32'
+reference: 'Deuteronomy 13:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GAL 4:14" class="v">14</span>And
+  my temptation which was in my flesh ye despised not, nor rejected; but
+  received me as an angel of God, <span class="add">even</span> as Christ Jesus.
+  </p>
+id: GAL/4/14
+next:
+  id: GAL/4/15
+  number: '15'
+previous:
+  id: GAL/4/13
+  number: '13'
+reference: 'Galatians 4:14'

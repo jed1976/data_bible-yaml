@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 7:14"
+  class="v">14</span><span class="wj">Because strait <span class="add">is</span>
+  the gate, and narrow <span class="add">is</span> the way, which leadeth unto
+  life, and few there be that find it.</span></p>
+id: MAT/7/14
+next:
+  id: MAT/7/15
+  number: '15'
+previous:
+  id: MAT/7/13
+  number: '13'
+reference: 'Matthew 7:14'

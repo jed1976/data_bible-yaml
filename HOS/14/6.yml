@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 14:6" class="v">6</span>His
+  branches shall spread, and his beauty shall be as the olive tree, and his
+  smell as Lebanon. </p>
+id: HOS/14/6
+next:
+  id: HOS/14/7
+  number: '7'
+previous:
+  id: HOS/14/5
+  number: '5'
+reference: 'Hosea 14:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 2:20"
+  class="v">20</span>Then Abner looked behind him, and said, <span
+  class="add">Art</span> thou Asahel? And he answered, I <span
+  class="add">am</span>. </p>
+id: 2SA/2/20
+next:
+  id: 2SA/2/21
+  number: '21'
+previous:
+  id: 2SA/2/19
+  number: '19'
+reference: '2 Samuel 2:20'

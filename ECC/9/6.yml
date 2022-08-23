@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 9:6" class="v">6</span>Also
+  their love, and their hatred, and their envy, is now perished; neither have
+  they any more a portion for ever in any <span class="add">thing</span> that is
+  done under the sun.</p>
+id: ECC/9/6
+next:
+  id: ECC/9/7
+  number: '7'
+previous:
+  id: ECC/9/5
+  number: '5'
+reference: 'Ecclesiastes 9:6'

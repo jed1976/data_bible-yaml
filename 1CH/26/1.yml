@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 26:1"
+  class="v">1</span>Concerning the divisions of the porters: Of the Korhites
+  <span class="add">was</span> Meshelemiah the son of Kore, of the sons of
+  Asaph. </p>
+id: 1CH/26/1
+next:
+  id: 1CH/26/2
+  number: '2'
+previous:
+  id: 1CH/25/31
+  number: '31'
+reference: '1 Chronicles 26:1'

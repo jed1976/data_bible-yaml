@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="46" data-sid="PSA 18:46"
+  class="v">46</span>The <span class="nd">LORD</span> liveth; and blessed <span
+  class="add">be</span> my rock; and let the God of my salvation be exalted.</p>
+id: PSA/18/46
+next:
+  id: PSA/18/47
+  number: '47'
+previous:
+  id: PSA/18/45
+  number: '45'
+reference: 'Psalms 18:46'

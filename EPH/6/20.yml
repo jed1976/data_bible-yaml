@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EPH 6:20" class="v">20</span>For
+  which I am an ambassador in bonds: that therein I may speak boldly, as I ought
+  to speak.</p>
+id: EPH/6/20
+next:
+  id: EPH/6/21
+  number: '21'
+previous:
+  id: EPH/6/19
+  number: '19'
+reference: 'Ephesians 6:20'

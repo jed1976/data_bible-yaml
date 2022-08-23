@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 11:5" class="v">5</span>I was
+  in the city of Joppa praying: and in a trance I saw a vision, A certain vessel
+  descend, as it had been a great sheet, let down from heaven by four corners;
+  and it came even to me: </p>
+id: ACT/11/5
+next:
+  id: ACT/11/6
+  number: '6'
+previous:
+  id: ACT/11/4
+  number: '4'
+reference: 'Acts 11:5'

@@ -1,0 +1,9 @@
+content: <p class="mt1">The Book of Joshua</p>
+id: JOS/intro/0
+next:
+  id: JOS/1/1
+  number: '1'
+previous:
+  id: DEU/34/12
+  number: '12'
+reference: Joshua

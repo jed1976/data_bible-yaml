@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 14:27"
+  class="v">27</span><span class="wj">And whosoever doth not bear his cross, and
+  come after me, cannot be my disciple.</span> </p>
+id: LUK/14/27
+next:
+  id: LUK/14/28
+  number: '28'
+previous:
+  id: LUK/14/26
+  number: '26'
+reference: 'Luke 14:27'

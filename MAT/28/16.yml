@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 28:16" class="v">16</span>¶
+  Then the eleven disciples went away into Galilee, into a mountain where Jesus
+  had appointed them. </p>
+id: MAT/28/16
+next:
+  id: MAT/28/17
+  number: '17'
+previous:
+  id: MAT/28/15
+  number: '15'
+reference: 'Matthew 28:16'

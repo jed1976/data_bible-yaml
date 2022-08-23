@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 11:9" class="v">9</span><span
+  class="wj">And I say unto you, Ask, and it shall be given you; seek, and ye
+  shall find; knock, and it shall be opened unto you.</span> </p>
+id: LUK/11/9
+next:
+  id: LUK/11/10
+  number: '10'
+previous:
+  id: LUK/11/8
+  number: '8'
+reference: 'Luke 11:9'

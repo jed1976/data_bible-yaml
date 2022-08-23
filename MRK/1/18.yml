@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 1:18" class="v">18</span>And
+  straightway they forsook their nets, and followed him. </p>
+id: MRK/1/18
+next:
+  id: MRK/1/19
+  number: '19'
+previous:
+  id: MRK/1/17
+  number: '17'
+reference: 'Mark 1:18'

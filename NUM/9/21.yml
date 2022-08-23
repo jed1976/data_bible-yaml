@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 9:21" class="v">21</span>And
+  <span class="add">so</span> it was, when the cloud abode from even unto the
+  morning, and <span class="add">that</span> the cloud was taken up in the
+  morning, then they journeyed: whether <span class="add">it was</span> by day
+  or by night that the cloud was taken up, they journeyed. </p>
+id: NUM/9/21
+next:
+  id: NUM/9/22
+  number: '22'
+previous:
+  id: NUM/9/20
+  number: '20'
+reference: 'Numbers 9:21'

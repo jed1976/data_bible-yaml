@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 4:3" class="v">3</span>And
+  when the tempter came to him, he said, If thou be the Son of God, command that
+  these stones be made bread. </p>
+id: MAT/4/3
+next:
+  id: MAT/4/4
+  number: '4'
+previous:
+  id: MAT/4/2
+  number: '2'
+reference: 'Matthew 4:3'

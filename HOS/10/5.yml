@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 10:5" class="v">5</span>The
+  inhabitants of Samaria shall fear because of the calves of Beth-aven: for the
+  people thereof shall mourn over it, and the priests thereof <span
+  class="add">that</span> rejoiced on it, for the glory thereof, because it is
+  departed from it. </p>
+id: HOS/10/5
+next:
+  id: HOS/10/6
+  number: '6'
+previous:
+  id: HOS/10/4
+  number: '4'
+reference: 'Hosea 10:5'

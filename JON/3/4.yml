@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JON 3:4" class="v">4</span>And
+  Jonah began to enter into the city a day’s journey, and he cried, and said,
+  Yet forty days, and Nineveh shall be overthrown.</p>
+id: JON/3/4
+next:
+  id: JON/3/5
+  number: '5'
+previous:
+  id: JON/3/3
+  number: '3'
+reference: 'Jonah 3:4'

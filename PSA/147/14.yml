@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 147:14"
+  class="v">14</span>He maketh peace <span class="add">in</span> thy borders,
+  <span class="add">and</span> filleth thee with the finest of the wheat.</p>
+id: PSA/147/14
+next:
+  id: PSA/147/15
+  number: '15'
+previous:
+  id: PSA/147/13
+  number: '13'
+reference: 'Psalms 147:14'

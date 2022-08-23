@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 5:14" class="v">14</span>And
+  they that fed the swine fled, and told <span class="add">it</span> in the
+  city, and in the country. And they went out to see what it was that was done.
+  </p>
+id: MRK/5/14
+next:
+  id: MRK/5/15
+  number: '15'
+previous:
+  id: MRK/5/13
+  number: '13'
+reference: 'Mark 5:14'

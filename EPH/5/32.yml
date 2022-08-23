@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EPH 5:32"
+  class="v">32</span>This is a great mystery: but I speak concerning Christ and
+  the church. </p>
+id: EPH/5/32
+next:
+  id: EPH/5/33
+  number: '33'
+previous:
+  id: EPH/5/31
+  number: '31'
+reference: 'Ephesians 5:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 9:8" class="v">8</span>And
+  they said unto Joshua, We <span class="add">are</span> thy servants. And
+  Joshua said unto them, Who <span class="add">are</span> ye? and from whence
+  come ye? </p>
+id: JOS/9/8
+next:
+  id: JOS/9/9
+  number: '9'
+previous:
+  id: JOS/9/7
+  number: '7'
+reference: 'Joshua 9:8'

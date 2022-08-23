@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 20:33"
+  class="v">33</span>They say unto him, Lord, that our eyes may be opened. </p>
+id: MAT/20/33
+next:
+  id: MAT/20/34
+  number: '34'
+previous:
+  id: MAT/20/32
+  number: '32'
+reference: 'Matthew 20:33'

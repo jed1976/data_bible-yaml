@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="50" data-sid="PSA 89:50"
+  class="v">50</span>Remember, Lord, the reproach of thy servants; <span
+  class="add">how</span> I do bear in my bosom <span class="add">the reproach
+  of</span> all the mighty people;</p>
+id: PSA/89/50
+next:
+  id: PSA/89/51
+  number: '51'
+previous:
+  id: PSA/89/49
+  number: '49'
+reference: 'Psalms 89:50'

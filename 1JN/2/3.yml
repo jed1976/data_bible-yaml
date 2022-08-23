@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1JN 2:3" class="v">3</span>And
+  hereby we do know that we know him, if we keep his commandments. </p>
+id: 1JN/2/3
+next:
+  id: 1JN/2/4
+  number: '4'
+previous:
+  id: 1JN/2/2
+  number: '2'
+reference: '1 John 2:3'

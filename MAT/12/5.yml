@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 12:5" class="v">5</span><span
+  class="wj">Or have ye not read in the law, how that on the sabbath days the
+  priests in the temple profane the sabbath, and are blameless?</span> </p>
+id: MAT/12/5
+next:
+  id: MAT/12/6
+  number: '6'
+previous:
+  id: MAT/12/4
+  number: '4'
+reference: 'Matthew 12:5'

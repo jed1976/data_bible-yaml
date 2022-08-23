@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 23:16"
+  class="v">16</span>And the feast of harvest, the firstfruits of thy labours,
+  which thou hast sown in the field: and the feast of ingathering, <span
+  class="add">which is</span> in the end of the year, when thou hast gathered in
+  thy labours out of the field. </p>
+id: EXO/23/16
+next:
+  id: EXO/23/17
+  number: '17'
+previous:
+  id: EXO/23/15
+  number: '15'
+reference: 'Exodus 23:16'

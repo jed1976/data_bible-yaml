@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 66:16"
+  class="v">16</span>For by fire and by his sword will the <span
+  class="nd">LORD</span> plead with all flesh: and the slain of the <span
+  class="nd">LORD</span> shall be many. </p>
+id: ISA/66/16
+next:
+  id: ISA/66/17
+  number: '17'
+previous:
+  id: ISA/66/15
+  number: '15'
+reference: 'Isaiah 66:16'

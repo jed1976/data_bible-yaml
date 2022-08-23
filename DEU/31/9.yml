@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 31:9" class="v">9</span>¶ And
+  Moses wrote this law, and delivered it unto the priests the sons of Levi,
+  which bare the ark of the covenant of the <span class="nd">LORD</span>, and
+  unto all the elders of Israel. </p>
+id: DEU/31/9
+next:
+  id: DEU/31/10
+  number: '10'
+previous:
+  id: DEU/31/8
+  number: '8'
+reference: 'Deuteronomy 31:9'

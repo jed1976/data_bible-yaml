@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 10:1" class="v">1</span>Now
+  the Philistines fought against Israel; and the men of Israel fled from before
+  the Philistines, and fell down slain in mount Gilboa. </p>
+id: 1CH/10/1
+next:
+  id: 1CH/10/2
+  number: '2'
+previous:
+  id: 1CH/9/44
+  number: '44'
+reference: '1 Chronicles 10:1'

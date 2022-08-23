@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 111:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. I will praise
+  the <span class="nd">LORD</span> with <span class="add">my</span> whole heart,
+  in the assembly of the upright, and <span class="add">in</span> the
+  congregation.</p>
+id: PSA/111/1
+next:
+  id: PSA/111/2
+  number: '2'
+previous:
+  id: PSA/110/7
+  number: '7'
+reference: 'Psalms 111:1'

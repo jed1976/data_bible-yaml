@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 19:5" class="v">5</span>When
+  they heard <span class="add">this</span>, they were baptized in the name of
+  the Lord Jesus. </p>
+id: ACT/19/5
+next:
+  id: ACT/19/6
+  number: '6'
+previous:
+  id: ACT/19/4
+  number: '4'
+reference: 'Acts 19:5'

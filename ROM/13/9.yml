@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 13:9" class="v">9</span>For
+  this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not
+  steal, Thou shalt not bear false witness, Thou shalt not covet; and if <span
+  class="add">there be</span> any other commandment, it is briefly comprehended
+  in this saying, namely, Thou shalt love thy neighbour as thyself. </p>
+id: ROM/13/9
+next:
+  id: ROM/13/10
+  number: '10'
+previous:
+  id: ROM/13/8
+  number: '8'
+reference: 'Romans 13:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1SA 12:10"
+  class="v">10</span>And they cried unto the <span class="nd">LORD</span>, and
+  said, We have sinned, because we have forsaken the <span
+  class="nd">LORD</span>, and have served Baalim and Ashtaroth: but now deliver
+  us out of the hand of our enemies, and we will serve thee. </p>
+id: 1SA/12/10
+next:
+  id: 1SA/12/11
+  number: '11'
+previous:
+  id: 1SA/12/9
+  number: '9'
+reference: '1 Samuel 12:10'

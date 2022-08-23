@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEC 7:8" class="v">8</span>¶ And
+  the word of the <span class="nd">LORD</span> came unto Zechariah, saying, </p>
+id: ZEC/7/8
+next:
+  id: ZEC/7/9
+  number: '9'
+previous:
+  id: ZEC/7/7
+  number: '7'
+reference: 'Zechariah 7:8'

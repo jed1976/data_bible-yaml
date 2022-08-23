@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 1:16" class="v">16</span>And
+  David said unto him, Thy blood <span class="add">be</span> upon thy head; for
+  thy mouth hath testified against thee, saying, I have slain the <span
+  class="nd">LORD’s</span> anointed.</p>
+id: 2SA/1/16
+next:
+  id: 2SA/1/17
+  number: '17'
+previous:
+  id: 2SA/1/15
+  number: '15'
+reference: '2 Samuel 1:16'

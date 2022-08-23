@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NAM 3:13"
+  class="v">13</span>Behold, thy people in the midst of thee <span
+  class="add">are</span> women: the gates of thy land shall be set wide open
+  unto thine enemies: the fire shall devour thy bars. </p>
+id: NAM/3/13
+next:
+  id: NAM/3/14
+  number: '14'
+previous:
+  id: NAM/3/12
+  number: '12'
+reference: 'Nahum 3:13'

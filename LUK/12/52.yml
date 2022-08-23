@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="LUK 12:52"
+  class="v">52</span><span class="wj">For from henceforth there shall be five in
+  one house divided, three against two, and two against three.</span> </p>
+id: LUK/12/52
+next:
+  id: LUK/12/53
+  number: '53'
+previous:
+  id: LUK/12/51
+  number: '51'
+reference: 'Luke 12:52'

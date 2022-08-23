@@ -1,0 +1,15 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 75:8" class="v">8</span>For
+  in the hand of the <span class="nd">LORD</span> <span class="add">there
+  is</span> a cup, and the wine is red; it is full of mixture; and he poureth
+  out of the same: but the dregs thereof, all the wicked of the earth shall
+  wring <span class="add">them</span> out, <span class="add">and</span> drink
+  <span class="add">them</span>.</p>
+id: PSA/75/8
+next:
+  id: PSA/75/9
+  number: '9'
+previous:
+  id: PSA/75/7
+  number: '7'
+reference: 'Psalms 75:8'

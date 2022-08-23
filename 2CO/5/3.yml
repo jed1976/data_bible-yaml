@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CO 5:3" class="v">3</span>If so
+  be that being clothed we shall not be found naked. </p>
+id: 2CO/5/3
+next:
+  id: 2CO/5/4
+  number: '4'
+previous:
+  id: 2CO/5/2
+  number: '2'
+reference: '2 Corinthians 5:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 17:12"
+  class="v">12</span>Therefore I said unto the children of Israel, No soul of
+  you shall eat blood, neither shall any stranger that sojourneth among you eat
+  blood. </p>
+id: LEV/17/12
+next:
+  id: LEV/17/13
+  number: '13'
+previous:
+  id: LEV/17/11
+  number: '11'
+reference: 'Leviticus 17:12'

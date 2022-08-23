@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 9:7" class="v">7</span>Happy
+  <span class="add">are</span> thy men, and happy <span class="add">are</span>
+  these thy servants, which stand continually before thee, and hear thy wisdom.
+  </p>
+id: 2CH/9/7
+next:
+  id: 2CH/9/8
+  number: '8'
+previous:
+  id: 2CH/9/6
+  number: '6'
+reference: '2 Chronicles 9:7'

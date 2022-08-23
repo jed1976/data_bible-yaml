@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 12:10" class="v">10</span>¶
+  And, behold, there was a man which had <span class="add">his</span> hand
+  withered. And they asked him, saying, Is it lawful to heal on the sabbath
+  days? that they might accuse him. </p>
+id: MAT/12/10
+next:
+  id: MAT/12/11
+  number: '11'
+previous:
+  id: MAT/12/9
+  number: '9'
+reference: 'Matthew 12:10'

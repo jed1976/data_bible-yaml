@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 50:3" class="v">3</span>And
+  forty days were fulfilled for him; for so are fulfilled the days of those
+  which are embalmed: and the Egyptians mourned for him threescore and ten days.
+  </p>
+id: GEN/50/3
+next:
+  id: GEN/50/4
+  number: '4'
+previous:
+  id: GEN/50/2
+  number: '2'
+reference: 'Genesis 50:3'

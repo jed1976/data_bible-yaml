@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 13:12"
+  class="v">12</span><span class="wj">For whosoever hath, to him shall be given,
+  and he shall have more abundance: but whosoever hath not, from him shall be
+  taken away even that he hath.</span> </p>
+id: MAT/13/12
+next:
+  id: MAT/13/13
+  number: '13'
+previous:
+  id: MAT/13/11
+  number: '11'
+reference: 'Matthew 13:12'

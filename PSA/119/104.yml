@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="104" data-sid="PSA 119:104"
+  class="v">104</span>Through thy precepts I get understanding: therefore I hate
+  every false way.</p>
+id: PSA/119/104
+next:
+  id: PSA/119/105
+  number: '105'
+previous:
+  id: PSA/119/103
+  number: '103'
+reference: 'Psalms 119:104'

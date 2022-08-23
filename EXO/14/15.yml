@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 14:15" class="v">15</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Wherefore criest thou
+  unto me? speak unto the children of Israel, that they go forward: </p>
+id: EXO/14/15
+next:
+  id: EXO/14/16
+  number: '16'
+previous:
+  id: EXO/14/14
+  number: '14'
+reference: 'Exodus 14:15'

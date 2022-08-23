@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 33:10"
+  class="v">10</span>And Jacob said, Nay, I pray thee, if now I have found grace
+  in thy sight, then receive my present at my hand: for therefore I have seen
+  thy face, as though I had seen the face of God, and thou wast pleased with me.
+  </p>
+id: GEN/33/10
+next:
+  id: GEN/33/11
+  number: '11'
+previous:
+  id: GEN/33/9
+  number: '9'
+reference: 'Genesis 33:10'

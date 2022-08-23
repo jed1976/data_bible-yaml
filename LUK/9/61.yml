@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="61" data-sid="LUK 9:61" class="v">61</span>And
+  another also said, Lord, I will follow thee; but let me first go bid them
+  farewell, which are at home at my house. </p>
+id: LUK/9/61
+next:
+  id: LUK/9/62
+  number: '62'
+previous:
+  id: LUK/9/60
+  number: '60'
+reference: 'Luke 9:61'

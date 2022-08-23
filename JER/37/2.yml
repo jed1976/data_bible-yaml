@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 37:2" class="v">2</span>But
+  neither he, nor his servants, nor the people of the land, did hearken unto the
+  words of the <span class="nd">LORD</span>, which he spake by the prophet
+  Jeremiah. </p>
+id: JER/37/2
+next:
+  id: JER/37/3
+  number: '3'
+previous:
+  id: JER/37/1
+  number: '1'
+reference: 'Jeremiah 37:2'

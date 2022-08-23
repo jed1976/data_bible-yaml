@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 30:25"
+  class="v">25</span>The ants <span class="add">are</span> a people not strong,
+  yet they prepare their meat in the summer; </p>
+id: PRO/30/25
+next:
+  id: PRO/30/26
+  number: '26'
+previous:
+  id: PRO/30/24
+  number: '24'
+reference: 'Proverbs 30:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CO 11:20"
+  class="v">20</span>For ye suffer, if a man bring you into bondage, if a man
+  devour <span class="add">you</span>, if a man take <span class="add">of
+  you</span>, if a man exalt himself, if a man smite you on the face. </p>
+id: 2CO/11/20
+next:
+  id: 2CO/11/21
+  number: '21'
+previous:
+  id: 2CO/11/19
+  number: '19'
+reference: '2 Corinthians 11:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 1:31" class="v">31</span>And
+  God saw every thing that he had made, and, behold, <span class="add">it
+  was</span> very good. And the evening and the morning were the sixth day.</p>
+id: GEN/1/31
+next:
+  id: GEN/2/1
+  number: '1'
+previous:
+  id: GEN/1/30
+  number: '30'
+reference: 'Genesis 1:31'

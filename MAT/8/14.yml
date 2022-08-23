@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 8:14" class="v">14</span>¶
+  And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and
+  sick of a fever. </p>
+id: MAT/8/14
+next:
+  id: MAT/8/15
+  number: '15'
+previous:
+  id: MAT/8/13
+  number: '13'
+reference: 'Matthew 8:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 7:24" class="v">24</span>And
+  the waters prevailed upon the earth an hundred and fifty days.</p>
+id: GEN/7/24
+next:
+  id: GEN/8/1
+  number: '1'
+previous:
+  id: GEN/7/23
+  number: '23'
+reference: 'Genesis 7:24'

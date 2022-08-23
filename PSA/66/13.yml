@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="13" data-sid="PSA 66:13"
+  class="v">13</span>I will go into thy house with burnt offerings: I will pay
+  thee my vows,</p>
+id: PSA/66/13
+next:
+  id: PSA/66/14
+  number: '14'
+previous:
+  id: PSA/66/12
+  number: '12'
+reference: 'Psalms 66:13'

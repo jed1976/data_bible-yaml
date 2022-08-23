@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 7:5" class="v">5</span>And
+  they rose up in the twilight, to go unto the camp of the Syrians: and when
+  they were come to the uttermost part of the camp of Syria, behold, <span
+  class="add">there was</span> no man there. </p>
+id: 2KI/7/5
+next:
+  id: 2KI/7/6
+  number: '6'
+previous:
+  id: 2KI/7/4
+  number: '4'
+reference: '2 Kings 7:5'

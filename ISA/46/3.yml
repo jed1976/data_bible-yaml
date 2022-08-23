@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 46:3" class="v">3</span>¶
+  Hearken unto me, O house of Jacob, and all the remnant of the house of Israel,
+  which are borne <span class="add">by me</span> from the belly, which are
+  carried from the womb: </p>
+id: ISA/46/3
+next:
+  id: ISA/46/4
+  number: '4'
+previous:
+  id: ISA/46/2
+  number: '2'
+reference: 'Isaiah 46:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 1:5" class="v">5</span>And he
+  shall kill the bullock before the <span class="nd">LORD</span>: and the
+  priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round
+  about upon the altar that <span class="add">is by</span> the door of the
+  tabernacle of the congregation. </p>
+id: LEV/1/5
+next:
+  id: LEV/1/6
+  number: '6'
+previous:
+  id: LEV/1/4
+  number: '4'
+reference: 'Leviticus 1:5'

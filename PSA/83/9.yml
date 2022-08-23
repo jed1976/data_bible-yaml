@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="9" data-sid="PSA 83:9"
+  class="v">9</span>Do unto them as <span class="add">unto</span> the
+  Midianites; as <span class="add">to</span> Sisera, as <span
+  class="add">to</span> Jabin, at the brook of Kison:</p>
+id: PSA/83/9
+next:
+  id: PSA/83/10
+  number: '10'
+previous:
+  id: PSA/83/8
+  number: '8'
+reference: 'Psalms 83:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="RUT 3:2" class="v">2</span>And
+  now <span class="add">is</span> not Boaz of our kindred, with whose maidens
+  thou wast? Behold, he winnoweth barley to night in the threshingfloor. </p>
+id: RUT/3/2
+next:
+  id: RUT/3/3
+  number: '3'
+previous:
+  id: RUT/3/1
+  number: '1'
+reference: 'Ruth 3:2'

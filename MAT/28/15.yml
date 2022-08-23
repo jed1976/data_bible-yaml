@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 28:15" class="v">15</span>So
+  they took the money, and did as they were taught: and this saying is commonly
+  reported among the Jews until this day.</p>
+id: MAT/28/15
+next:
+  id: MAT/28/16
+  number: '16'
+previous:
+  id: MAT/28/14
+  number: '14'
+reference: 'Matthew 28:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JHN 1:38"
+  class="v">38</span>Then Jesus turned, and saw them following, and saith unto
+  them, <span class="wj">What seek ye?</span> They said unto him, Rabbi, (which
+  is to say, being interpreted, Master,) where dwellest thou? </p>
+id: JHN/1/38
+next:
+  id: JHN/1/39
+  number: '39'
+previous:
+  id: JHN/1/37
+  number: '37'
+reference: 'John 1:38'

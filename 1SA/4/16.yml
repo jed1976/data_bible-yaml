@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 4:16" class="v">16</span>And
+  the man said unto Eli, I <span class="add">am</span> he that came out of the
+  army, and I fled to day out of the army. And he said, What is there done, my
+  son? </p>
+id: 1SA/4/16
+next:
+  id: 1SA/4/17
+  number: '17'
+previous:
+  id: 1SA/4/15
+  number: '15'
+reference: '1 Samuel 4:16'

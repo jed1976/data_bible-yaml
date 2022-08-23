@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NEH 3:26"
+  class="v">26</span>Moreover the Nethinims dwelt in Ophel, unto <span
+  class="add">the place</span> over against the water gate toward the east, and
+  the tower that lieth out. </p>
+id: NEH/3/26
+next:
+  id: NEH/3/27
+  number: '27'
+previous:
+  id: NEH/3/25
+  number: '25'
+reference: 'Nehemiah 3:26'

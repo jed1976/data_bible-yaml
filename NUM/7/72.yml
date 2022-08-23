@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="72" data-sid="NUM 7:72" class="v">72</span>¶
+  On the eleventh day Pagiel the son of Ocran, prince of the children of Asher,
+  <span class="add">offered:</span> </p>
+id: NUM/7/72
+next:
+  id: NUM/7/73
+  number: '73'
+previous:
+  id: NUM/7/71
+  number: '71'
+reference: 'Numbers 7:72'

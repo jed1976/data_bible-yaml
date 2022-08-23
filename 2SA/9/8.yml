@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2SA 9:8" class="v">8</span>And he
+  bowed himself, and said, What <span class="add">is</span> thy servant, that
+  thou shouldest look upon such a dead dog as I <span class="add">am</span>?</p>
+id: 2SA/9/8
+next:
+  id: 2SA/9/9
+  number: '9'
+previous:
+  id: 2SA/9/7
+  number: '7'
+reference: '2 Samuel 9:8'

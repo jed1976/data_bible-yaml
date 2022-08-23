@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1CH 1:19" class="v">19</span>And
+  unto Eber were born two sons: the name of the one <span class="add">was</span>
+  Peleg; because in his days the earth was divided: and his brother’s name <span
+  class="add">was</span> Joktan. </p>
+id: 1CH/1/19
+next:
+  id: 1CH/1/20
+  number: '20'
+previous:
+  id: 1CH/1/18
+  number: '18'
+reference: '1 Chronicles 1:19'

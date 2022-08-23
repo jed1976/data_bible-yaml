@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 1:20" class="v">20</span>And
+  in all matters of wisdom <span class="add">and</span> understanding, that the
+  king enquired of them, he found them ten times better than all the magicians
+  <span class="add">and</span> astrologers that <span class="add">were</span> in
+  all his realm. </p>
+id: DAN/1/20
+next:
+  id: DAN/1/21
+  number: '21'
+previous:
+  id: DAN/1/19
+  number: '19'
+reference: 'Daniel 1:20'

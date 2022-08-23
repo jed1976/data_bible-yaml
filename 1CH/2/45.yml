@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1CH 2:45" class="v">45</span>And
+  the son of Shammai <span class="add">was</span> Maon: and Maon <span
+  class="add">was</span> the father of Beth-zur. </p>
+id: 1CH/2/45
+next:
+  id: 1CH/2/46
+  number: '46'
+previous:
+  id: 1CH/2/44
+  number: '44'
+reference: '1 Chronicles 2:45'

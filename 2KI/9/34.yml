@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="2KI 9:34" class="v">34</span>And
+  when he was come in, he did eat and drink, and said, Go, see now this cursed
+  <span class="add">woman</span>, and bury her: for she <span
+  class="add">is</span> a king’s daughter. </p>
+id: 2KI/9/34
+next:
+  id: 2KI/9/35
+  number: '35'
+previous:
+  id: 2KI/9/33
+  number: '33'
+reference: '2 Kings 9:34'

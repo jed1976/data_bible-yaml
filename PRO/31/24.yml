@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 31:24"
+  class="v">24</span>She maketh fine linen, and selleth <span
+  class="add">it;</span> and delivereth girdles unto the merchant. </p>
+id: PRO/31/24
+next:
+  id: PRO/31/25
+  number: '25'
+previous:
+  id: PRO/31/23
+  number: '23'
+reference: 'Proverbs 31:24'

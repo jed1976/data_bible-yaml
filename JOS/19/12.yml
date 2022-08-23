@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 19:12"
+  class="v">12</span>And turned from Sarid eastward toward the sunrising unto
+  the border of Chisloth-tabor, and then goeth out to Daberath, and goeth up to
+  Japhia, </p>
+id: JOS/19/12
+next:
+  id: JOS/19/13
+  number: '13'
+previous:
+  id: JOS/19/11
+  number: '11'
+reference: 'Joshua 19:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 82:3"
+  class="v">3</span>Defend the poor and fatherless: do justice to the afflicted
+  and needy.</p>
+id: PSA/82/3
+next:
+  id: PSA/82/4
+  number: '4'
+previous:
+  id: PSA/82/2
+  number: '2'
+reference: 'Psalms 82:3'

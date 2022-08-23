@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 34:4" class="v">4</span>And
+  the <span class="nd">LORD</span> said unto him, This <span
+  class="add">is</span> the land which I sware unto Abraham, unto Isaac, and
+  unto Jacob, saying, I will give it unto thy seed: I have caused thee to see
+  <span class="add">it</span> with thine eyes, but thou shalt not go over
+  thither.</p>
+id: DEU/34/4
+next:
+  id: DEU/34/5
+  number: '5'
+previous:
+  id: DEU/34/3
+  number: '3'
+reference: 'Deuteronomy 34:4'

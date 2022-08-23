@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1KI 12:30"
+  class="v">30</span>And this thing became a sin: for the people went <span
+  class="add">to worship</span> before the one, <span class="add">even</span>
+  unto Dan. </p>
+id: 1KI/12/30
+next:
+  id: 1KI/12/31
+  number: '31'
+previous:
+  id: 1KI/12/29
+  number: '29'
+reference: '1 Kings 12:30'

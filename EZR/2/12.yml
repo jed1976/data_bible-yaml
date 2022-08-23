@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZR 2:12" class="v">12</span>The
+  children of Azgad, a thousand two hundred twenty and two. </p>
+id: EZR/2/12
+next:
+  id: EZR/2/13
+  number: '13'
+previous:
+  id: EZR/2/11
+  number: '11'
+reference: 'Ezra 2:12'

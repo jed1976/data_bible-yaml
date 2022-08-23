@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 18:18"
+  class="v">18</span><span class="wj">Verily I say unto you, Whatsoever ye shall
+  bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth
+  shall be loosed in heaven.</span> </p>
+id: MAT/18/18
+next:
+  id: MAT/18/19
+  number: '19'
+previous:
+  id: MAT/18/17
+  number: '17'
+reference: 'Matthew 18:18'

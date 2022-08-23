@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 5:38"
+  class="v">38</span><span class="wj">But new wine must be put into new bottles;
+  and both are preserved.</span> </p>
+id: LUK/5/38
+next:
+  id: LUK/5/39
+  number: '39'
+previous:
+  id: LUK/5/37
+  number: '37'
+reference: 'Luke 5:38'

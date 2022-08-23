@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 10:10"
+  class="v">10</span><span class="add">It is</span> in my desire that I should
+  chastise them; and the people shall be gathered against them, when they shall
+  bind themselves in their two furrows. </p>
+id: HOS/10/10
+next:
+  id: HOS/10/11
+  number: '11'
+previous:
+  id: HOS/10/9
+  number: '9'
+reference: 'Hosea 10:10'

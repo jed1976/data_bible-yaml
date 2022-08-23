@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 22:16"
+  class="v">16</span>And they came to Balaam, and said to him, Thus saith Balak
+  the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
+  </p>
+id: NUM/22/16
+next:
+  id: NUM/22/17
+  number: '17'
+previous:
+  id: NUM/22/15
+  number: '15'
+reference: 'Numbers 22:16'

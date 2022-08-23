@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 28:33" class="v">33</span>¶
+  And <span class="add">beneath</span> upon the hem of it thou shalt make
+  pomegranates <span class="add">of</span> blue, and <span class="add">of</span>
+  purple, and <span class="add">of</span> scarlet, round about the hem thereof;
+  and bells of gold between them round about: </p>
+id: EXO/28/33
+next:
+  id: EXO/28/34
+  number: '34'
+previous:
+  id: EXO/28/32
+  number: '32'
+reference: 'Exodus 28:33'

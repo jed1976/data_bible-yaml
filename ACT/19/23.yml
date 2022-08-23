@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 19:23"
+  class="v">23</span>And the same time there arose no small stir about that way.
+  </p>
+id: ACT/19/23
+next:
+  id: ACT/19/24
+  number: '24'
+previous:
+  id: ACT/19/22
+  number: '22'
+reference: 'Acts 19:23'

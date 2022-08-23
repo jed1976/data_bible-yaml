@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="COL 1:14" class="v">14</span>In
+  whom we have redemption through his blood, <span class="add">even</span> the
+  forgiveness of sins: </p>
+id: COL/1/14
+next:
+  id: COL/1/15
+  number: '15'
+previous:
+  id: COL/1/13
+  number: '13'
+reference: 'Colossians 1:14'

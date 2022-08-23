@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 9:4" class="v">4</span>¶ For
+  to him that is joined to all the living there is hope: for a living dog is
+  better than a dead lion. </p>
+id: ECC/9/4
+next:
+  id: ECC/9/5
+  number: '5'
+previous:
+  id: ECC/9/3
+  number: '3'
+reference: 'Ecclesiastes 9:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 6:16" class="v">16</span>And
+  when even was <span class="add">now</span> come, his disciples went down unto
+  the sea, </p>
+id: JHN/6/16
+next:
+  id: JHN/6/17
+  number: '17'
+previous:
+  id: JHN/6/15
+  number: '15'
+reference: 'John 6:16'

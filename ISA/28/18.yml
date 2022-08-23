@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 28:18" class="v">18</span>¶
+  And your covenant with death shall be disannulled, and your agreement with
+  hell shall not stand; when the overflowing scourge shall pass through, then ye
+  shall be trodden down by it. </p>
+id: ISA/28/18
+next:
+  id: ISA/28/19
+  number: '19'
+previous:
+  id: ISA/28/17
+  number: '17'
+reference: 'Isaiah 28:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 29:3" class="v">3</span>And I
+  will camp against thee round about, and will lay siege against thee with a
+  mount, and I will raise forts against thee. </p>
+id: ISA/29/3
+next:
+  id: ISA/29/4
+  number: '4'
+previous:
+  id: ISA/29/2
+  number: '2'
+reference: 'Isaiah 29:3'

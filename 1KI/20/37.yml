@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="1KI 20:37"
+  class="v">37</span>Then he found another man, and said, Smite me, I pray thee.
+  And the man smote him, so that in smiting he wounded <span
+  class="add">him</span>. </p>
+id: 1KI/20/37
+next:
+  id: 1KI/20/38
+  number: '38'
+previous:
+  id: 1KI/20/36
+  number: '36'
+reference: '1 Kings 20:37'

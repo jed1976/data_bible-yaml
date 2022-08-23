@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 34:11"
+  class="v">11</span>And Shechem said unto her father and unto her brethren, Let
+  me find grace in your eyes, and what ye shall say unto me I will give. </p>
+id: GEN/34/11
+next:
+  id: GEN/34/12
+  number: '12'
+previous:
+  id: GEN/34/10
+  number: '10'
+reference: 'Genesis 34:11'

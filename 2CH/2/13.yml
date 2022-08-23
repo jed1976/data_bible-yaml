@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 2:13" class="v">13</span>And
+  now I have sent a cunning man, endued with understanding, of Huram my
+  father’s, </p>
+id: 2CH/2/13
+next:
+  id: 2CH/2/14
+  number: '14'
+previous:
+  id: 2CH/2/12
+  number: '12'
+reference: '2 Chronicles 2:13'

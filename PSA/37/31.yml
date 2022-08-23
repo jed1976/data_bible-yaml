@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="31" data-sid="PSA 37:31"
+  class="v">31</span>The law of his God <span class="add">is</span> in his
+  heart; none of his steps shall slide.</p>
+id: PSA/37/31
+next:
+  id: PSA/37/32
+  number: '32'
+previous:
+  id: PSA/37/30
+  number: '30'
+reference: 'Psalms 37:31'

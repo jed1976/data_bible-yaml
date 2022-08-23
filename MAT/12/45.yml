@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 12:45"
+  class="v">45</span><span class="wj">Then goeth he, and taketh with himself
+  seven other spirits more wicked than himself, and they enter in and dwell
+  there: and the last <span class="add">state</span> of that man is worse than
+  the first. Even so shall it be also unto this wicked generation.</span></p>
+id: MAT/12/45
+next:
+  id: MAT/12/46
+  number: '46'
+previous:
+  id: MAT/12/44
+  number: '44'
+reference: 'Matthew 12:45'

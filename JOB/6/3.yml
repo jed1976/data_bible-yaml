@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 6:3" class="v">3</span>For
+  now it would be heavier than the sand of the sea: therefore my words are
+  swallowed up. </p>
+id: JOB/6/3
+next:
+  id: JOB/6/4
+  number: '4'
+previous:
+  id: JOB/6/2
+  number: '2'
+reference: 'Job 6:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 13:7" class="v">7</span>And
+  there was a strife between the herdmen of Abram’s cattle and the herdmen of
+  Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
+  </p>
+id: GEN/13/7
+next:
+  id: GEN/13/8
+  number: '8'
+previous:
+  id: GEN/13/6
+  number: '6'
+reference: 'Genesis 13:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 9:11" class="v">11</span>For
+  by me thy days shall be multiplied, and the years of thy life shall be
+  increased. </p>
+id: PRO/9/11
+next:
+  id: PRO/9/12
+  number: '12'
+previous:
+  id: PRO/9/10
+  number: '10'
+reference: 'Proverbs 9:11'

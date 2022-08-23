@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DAN 5:22" class="v">22</span>And
+  thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest
+  all this; </p>
+id: DAN/5/22
+next:
+  id: DAN/5/23
+  number: '23'
+previous:
+  id: DAN/5/21
+  number: '21'
+reference: 'Daniel 5:22'

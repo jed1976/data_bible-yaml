@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 4:23" class="v">23</span>¶
+  Keep thy heart with all diligence; for out of it <span class="add">are</span>
+  the issues of life. </p>
+id: PRO/4/23
+next:
+  id: PRO/4/24
+  number: '24'
+previous:
+  id: PRO/4/22
+  number: '22'
+reference: 'Proverbs 4:23'

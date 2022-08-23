@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 9:30" class="v">30</span>¶
+  And they departed thence, and passed through Galilee; and he would not that
+  any man should know <span class="add">it</span>. </p>
+id: MRK/9/30
+next:
+  id: MRK/9/31
+  number: '31'
+previous:
+  id: MRK/9/29
+  number: '29'
+reference: 'Mark 9:30'

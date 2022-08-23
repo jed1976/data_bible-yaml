@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 13:46"
+  class="v">46</span><span class="wj">Who, when he had found one pearl of great
+  price, went and sold all that he had, and bought it.</span></p>
+id: MAT/13/46
+next:
+  id: MAT/13/47
+  number: '47'
+previous:
+  id: MAT/13/45
+  number: '45'
+reference: 'Matthew 13:46'

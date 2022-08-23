@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 32:5" class="v">5</span>And
+  when Aaron saw <span class="add">it</span>, he built an altar before it; and
+  Aaron made proclamation, and said, To morrow <span class="add">is</span> a
+  feast to the <span class="nd">LORD</span>. </p>
+id: EXO/32/5
+next:
+  id: EXO/32/6
+  number: '6'
+previous:
+  id: EXO/32/4
+  number: '4'
+reference: 'Exodus 32:5'

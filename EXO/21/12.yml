@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 21:12" class="v">12</span>¶
+  He that smiteth a man, so that he die, shall be surely put to death. </p>
+id: EXO/21/12
+next:
+  id: EXO/21/13
+  number: '13'
+previous:
+  id: EXO/21/11
+  number: '11'
+reference: 'Exodus 21:12'

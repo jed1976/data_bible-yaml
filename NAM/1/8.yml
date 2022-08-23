@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NAM 1:8" class="v">8</span>But
+  with an overrunning flood he will make an utter end of the place thereof, and
+  darkness shall pursue his enemies.</p>
+id: NAM/1/8
+next:
+  id: NAM/1/9
+  number: '9'
+previous:
+  id: NAM/1/7
+  number: '7'
+reference: 'Nahum 1:8'

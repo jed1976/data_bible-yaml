@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 11:5" class="v">5</span>And
+  Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son
+  of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni. </p>
+id: NEH/11/5
+next:
+  id: NEH/11/6
+  number: '6'
+previous:
+  id: NEH/11/4
+  number: '4'
+reference: 'Nehemiah 11:5'

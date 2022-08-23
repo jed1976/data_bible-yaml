@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 69:24"
+  class="v">24</span>Pour out thine indignation upon them, and let thy wrathful
+  anger take hold of them.</p>
+id: PSA/69/24
+next:
+  id: PSA/69/25
+  number: '25'
+previous:
+  id: PSA/69/23
+  number: '23'
+reference: 'Psalms 69:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 94:20"
+  class="v">20</span>Shall the throne of iniquity have fellowship with thee,
+  which frameth mischief by a law?</p>
+id: PSA/94/20
+next:
+  id: PSA/94/21
+  number: '21'
+previous:
+  id: PSA/94/19
+  number: '19'
+reference: 'Psalms 94:20'

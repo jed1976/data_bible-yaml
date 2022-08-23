@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 4:8" class="v">8</span>So two
+  <span class="add">or</span> three cities wandered unto one city, to drink
+  water; but they were not satisfied: yet have ye not returned unto me, saith
+  the <span class="nd">LORD</span>. </p>
+id: AMO/4/8
+next:
+  id: AMO/4/9
+  number: '9'
+previous:
+  id: AMO/4/7
+  number: '7'
+reference: 'Amos 4:8'

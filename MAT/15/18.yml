@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 15:18"
+  class="v">18</span><span class="wj">But those things which proceed out of the
+  mouth come forth from the heart; and they defile the man.</span> </p>
+id: MAT/15/18
+next:
+  id: MAT/15/19
+  number: '19'
+previous:
+  id: MAT/15/17
+  number: '17'
+reference: 'Matthew 15:18'

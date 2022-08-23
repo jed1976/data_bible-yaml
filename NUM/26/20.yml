@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 26:20"
+  class="v">20</span>And the sons of Judah after their families were; of Shelah,
+  the family of the Shelanites: of Pharez, the family of the Pharzites: of
+  Zerah, the family of the Zarhites. </p>
+id: NUM/26/20
+next:
+  id: NUM/26/21
+  number: '21'
+previous:
+  id: NUM/26/19
+  number: '19'
+reference: 'Numbers 26:20'

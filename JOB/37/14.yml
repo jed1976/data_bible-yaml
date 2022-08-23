@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 37:14"
+  class="v">14</span>Hearken unto this, O Job: stand still, and consider the
+  wondrous works of God. </p>
+id: JOB/37/14
+next:
+  id: JOB/37/15
+  number: '15'
+previous:
+  id: JOB/37/13
+  number: '13'
+reference: 'Job 37:14'

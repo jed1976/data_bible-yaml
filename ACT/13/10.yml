@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 13:10"
+  class="v">10</span>And said, O full of all subtilty and all mischief, <span
+  class="add">thou</span> child of the devil, <span class="add">thou</span>
+  enemy of all righteousness, wilt thou not cease to pervert the right ways of
+  the Lord? </p>
+id: ACT/13/10
+next:
+  id: ACT/13/11
+  number: '11'
+previous:
+  id: ACT/13/9
+  number: '9'
+reference: 'Acts 13:10'

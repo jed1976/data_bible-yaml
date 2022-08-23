@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 7:12" class="v">12</span>As
+  concerning the rest of the beasts, they had their dominion taken away: yet
+  their lives were prolonged for a season and time. </p>
+id: DAN/7/12
+next:
+  id: DAN/7/13
+  number: '13'
+previous:
+  id: DAN/7/11
+  number: '11'
+reference: 'Daniel 7:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 13:12"
+  class="v">12</span>That thou shalt set apart unto the <span
+  class="nd">LORD</span> all that openeth the matrix, and every firstling that
+  cometh of a beast which thou hast; the males <span class="add">shall be</span>
+  the <span class="nd">LORD’s</span>. </p>
+id: EXO/13/12
+next:
+  id: EXO/13/13
+  number: '13'
+previous:
+  id: EXO/13/11
+  number: '11'
+reference: 'Exodus 13:12'

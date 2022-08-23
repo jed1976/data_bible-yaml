@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 16:5" class="v">5</span>And
+  in mercy shall the throne be established: and he shall sit upon it in truth in
+  the tabernacle of David, judging, and seeking judgment, and hasting
+  righteousness.</p>
+id: ISA/16/5
+next:
+  id: ISA/16/6
+  number: '6'
+previous:
+  id: ISA/16/4
+  number: '4'
+reference: 'Isaiah 16:5'

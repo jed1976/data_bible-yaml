@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 13:8" class="v">8</span>Thou
+  shalt not consent unto him, nor hearken unto him; neither shall thine eye pity
+  him, neither shalt thou spare, neither shalt thou conceal him: </p>
+id: DEU/13/8
+next:
+  id: DEU/13/9
+  number: '9'
+previous:
+  id: DEU/13/7
+  number: '7'
+reference: 'Deuteronomy 13:8'

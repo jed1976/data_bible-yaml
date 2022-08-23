@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 26:1" class="v">1</span>And
+  there was a famine in the land, beside the first famine that was in the days
+  of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
+  </p>
+id: GEN/26/1
+next:
+  id: GEN/26/2
+  number: '2'
+previous:
+  id: GEN/25/34
+  number: '34'
+reference: 'Genesis 26:1'

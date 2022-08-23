@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 14:27"
+  class="v">27</span>For the <span class="nd">LORD</span> of hosts hath
+  purposed, and who shall disannul <span class="add">it</span>? and his hand
+  <span class="add">is</span> stretched out, and who shall turn it back? </p>
+id: ISA/14/27
+next:
+  id: ISA/14/28
+  number: '28'
+previous:
+  id: ISA/14/26
+  number: '26'
+reference: 'Isaiah 14:27'

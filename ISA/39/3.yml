@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 39:3" class="v">3</span>¶
+  Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said
+  these men? and from whence came they unto thee? And Hezekiah said, They are
+  come from a far country unto me, <span class="add">even</span> from Babylon.
+  </p>
+id: ISA/39/3
+next:
+  id: ISA/39/4
+  number: '4'
+previous:
+  id: ISA/39/2
+  number: '2'
+reference: 'Isaiah 39:3'

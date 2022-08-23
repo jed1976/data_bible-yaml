@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 3:30" class="v">30</span>¶
+  Strive not with a man without cause, if he have done thee no harm.</p>
+id: PRO/3/30
+next:
+  id: PRO/3/31
+  number: '31'
+previous:
+  id: PRO/3/29
+  number: '29'
+reference: 'Proverbs 3:30'

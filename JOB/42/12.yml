@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 42:12" class="v">12</span>So
+  the <span class="nd">LORD</span> blessed the latter end of Job more than his
+  beginning: for he had fourteen thousand sheep, and six thousand camels, and a
+  thousand yoke of oxen, and a thousand she asses. </p>
+id: JOB/42/12
+next:
+  id: JOB/42/13
+  number: '13'
+previous:
+  id: JOB/42/11
+  number: '11'
+reference: 'Job 42:12'

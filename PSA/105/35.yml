@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 105:35"
+  class="v">35</span>And did eat up all the herbs in their land, and devoured
+  the fruit of their ground.</p>
+id: PSA/105/35
+next:
+  id: PSA/105/36
+  number: '36'
+previous:
+  id: PSA/105/34
+  number: '34'
+reference: 'Psalms 105:35'

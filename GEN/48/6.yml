@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 48:6" class="v">6</span>And
+  thy issue, which thou begettest after them, shall be thine, <span
+  class="add">and</span> shall be called after the name of their brethren in
+  their inheritance. </p>
+id: GEN/48/6
+next:
+  id: GEN/48/7
+  number: '7'
+previous:
+  id: GEN/48/5
+  number: '5'
+reference: 'Genesis 48:6'

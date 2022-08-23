@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 27:4"
+  class="v">4</span>Saying, I have sinned in that I have betrayed the innocent
+  blood. And they said, What <span class="add">is that</span> to us? see thou
+  <span class="add">to that</span>. </p>
+id: MAT/27/4
+next:
+  id: MAT/27/5
+  number: '5'
+previous:
+  id: MAT/27/3
+  number: '3'
+reference: 'Matthew 27:4'

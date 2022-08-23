@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 12:15"
+  class="v">15</span>Shall we give, or shall we not give? But he, knowing their
+  hypocrisy, said unto them, <span class="wj">Why tempt ye me? bring me a penny,
+  that I may see <span class="add">it</span>.</span> </p>
+id: MRK/12/15
+next:
+  id: MRK/12/16
+  number: '16'
+previous:
+  id: MRK/12/14
+  number: '14'
+reference: 'Mark 12:15'

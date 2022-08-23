@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 21:32"
+  class="v">32</span><span class="wj">Verily I say unto you, This generation
+  shall not pass away, till all be fulfilled.</span> </p>
+id: LUK/21/32
+next:
+  id: LUK/21/33
+  number: '33'
+previous:
+  id: LUK/21/31
+  number: '31'
+reference: 'Luke 21:32'

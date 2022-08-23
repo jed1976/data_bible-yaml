@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 22:19" class="v">19</span>So
+  Abraham returned unto his young men, and they rose up and went together to
+  Beer-sheba; and Abraham dwelt at Beer-sheba.</p>
+id: GEN/22/19
+next:
+  id: GEN/22/20
+  number: '20'
+previous:
+  id: GEN/22/18
+  number: '18'
+reference: 'Genesis 22:19'

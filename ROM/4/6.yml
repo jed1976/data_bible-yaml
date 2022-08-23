@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 4:6" class="v">6</span>Even
+  as David also describeth the blessedness of the man, unto whom God imputeth
+  righteousness without works, </p>
+id: ROM/4/6
+next:
+  id: ROM/4/7
+  number: '7'
+previous:
+  id: ROM/4/5
+  number: '5'
+reference: 'Romans 4:6'

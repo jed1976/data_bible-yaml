@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="NUM 22:38"
+  class="v">38</span>And Balaam said unto Balak, Lo, I am come unto thee: have I
+  now any power at all to say any thing? the word that God putteth in my mouth,
+  that shall I speak. </p>
+id: NUM/22/38
+next:
+  id: NUM/22/39
+  number: '39'
+previous:
+  id: NUM/22/37
+  number: '37'
+reference: 'Numbers 22:38'

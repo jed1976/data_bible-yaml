@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="RUT 3:16" class="v">16</span>And
+  when she came to her mother in law, she said, Who <span class="add">art</span>
+  thou, my daughter? And she told her all that the man had done to her. </p>
+id: RUT/3/16
+next:
+  id: RUT/3/17
+  number: '17'
+previous:
+  id: RUT/3/15
+  number: '15'
+reference: 'Ruth 3:16'

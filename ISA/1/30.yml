@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 1:30" class="v">30</span>For
+  ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.
+  </p>
+id: ISA/1/30
+next:
+  id: ISA/1/31
+  number: '31'
+previous:
+  id: ISA/1/29
+  number: '29'
+reference: 'Isaiah 1:30'

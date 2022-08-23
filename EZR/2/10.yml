@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 2:10" class="v">10</span>The
+  children of Bani, six hundred forty and two. </p>
+id: EZR/2/10
+next:
+  id: EZR/2/11
+  number: '11'
+previous:
+  id: EZR/2/9
+  number: '9'
+reference: 'Ezra 2:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 2:5" class="v">5</span>And I
+  said unto the king, If it please the king, and if thy servant have found
+  favour in thy sight, that thou wouldest send me unto Judah, unto the city of
+  my fathers’ sepulchres, that I may build it. </p>
+id: NEH/2/5
+next:
+  id: NEH/2/6
+  number: '6'
+previous:
+  id: NEH/2/4
+  number: '4'
+reference: 'Nehemiah 2:5'

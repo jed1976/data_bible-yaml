@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="COL 3:1" class="v">1</span>If ye
+  then be risen with Christ, seek those things which are above, where Christ
+  sitteth on the right hand of God. </p>
+id: COL/3/1
+next:
+  id: COL/3/2
+  number: '2'
+previous:
+  id: COL/2/23
+  number: '23'
+reference: 'Colossians 3:1'

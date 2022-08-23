@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ISA 1:31" class="v">31</span>And
+  the strong shall be as tow, and the maker of it as a spark, and they shall
+  both burn together, and none shall quench <span class="add">them</span>.</p>
+id: ISA/1/31
+next:
+  id: ISA/2/1
+  number: '1'
+previous:
+  id: ISA/1/30
+  number: '30'
+reference: 'Isaiah 1:31'

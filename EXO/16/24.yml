@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 16:24"
+  class="v">24</span>And they laid it up till the morning, as Moses bade: and it
+  did not stink, neither was there any worm therein. </p>
+id: EXO/16/24
+next:
+  id: EXO/16/25
+  number: '25'
+previous:
+  id: EXO/16/23
+  number: '23'
+reference: 'Exodus 16:24'

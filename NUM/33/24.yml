@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 33:24"
+  class="v">24</span>And they removed from mount Shapher, and encamped in
+  Haradah. </p>
+id: NUM/33/24
+next:
+  id: NUM/33/25
+  number: '25'
+previous:
+  id: NUM/33/23
+  number: '23'
+reference: 'Numbers 33:24'

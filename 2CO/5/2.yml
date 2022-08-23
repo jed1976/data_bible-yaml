@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2CO 5:2" class="v">2</span>For in
+  this we groan, earnestly desiring to be clothed upon with our house which is
+  from heaven: </p>
+id: 2CO/5/2
+next:
+  id: 2CO/5/3
+  number: '3'
+previous:
+  id: 2CO/5/1
+  number: '1'
+reference: '2 Corinthians 5:2'

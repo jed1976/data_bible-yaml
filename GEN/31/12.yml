@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 31:12"
+  class="v">12</span>And he said, Lift up now thine eyes, and see, all the rams
+  which leap upon the cattle <span class="add">are</span> ringstraked, speckled,
+  and grisled: for I have seen all that Laban doeth unto thee. </p>
+id: GEN/31/12
+next:
+  id: GEN/31/13
+  number: '13'
+previous:
+  id: GEN/31/11
+  number: '11'
+reference: 'Genesis 31:12'

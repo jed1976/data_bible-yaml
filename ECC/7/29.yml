@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ECC 7:29" class="v">29</span>Lo,
+  this only have I found, that God hath made man upright; but they have sought
+  out many inventions.</p>
+id: ECC/7/29
+next:
+  id: ECC/8/1
+  number: '1'
+previous:
+  id: ECC/7/28
+  number: '28'
+reference: 'Ecclesiastes 7:29'

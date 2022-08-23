@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 35:7" class="v">7</span>For
+  without cause have they hid for me their net <span class="add">in</span> a
+  pit, <span class="add">which</span> without cause they have digged for my
+  soul.</p>
+id: PSA/35/7
+next:
+  id: PSA/35/8
+  number: '8'
+previous:
+  id: PSA/35/6
+  number: '6'
+reference: 'Psalms 35:7'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAL 1:10" class="v">10</span>Who
+  <span class="add">is there</span> even among you that would shut the doors
+  <span class="add">for nought?</span> neither do ye kindle <span
+  class="add">fire</span> on mine altar for nought. I have no pleasure in you,
+  saith the <span class="nd">LORD</span> of hosts, neither will I accept an
+  offering at your hand. </p>
+id: MAL/1/10
+next:
+  id: MAL/1/11
+  number: '11'
+previous:
+  id: MAL/1/9
+  number: '9'
+reference: 'Malachi 1:10'

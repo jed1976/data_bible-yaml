@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 3:19" class="v">19</span>In
+  the sweat of thy face shalt thou eat bread, till thou return unto the ground;
+  for out of it wast thou taken: for dust thou <span class="add">art</span>, and
+  unto dust shalt thou return. </p>
+id: GEN/3/19
+next:
+  id: GEN/3/20
+  number: '20'
+previous:
+  id: GEN/3/18
+  number: '18'
+reference: 'Genesis 3:19'

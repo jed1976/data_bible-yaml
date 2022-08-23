@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 10:23"
+  class="v">23</span>Then called he them in, and lodged <span
+  class="add">them</span>. And on the morrow Peter went away with them, and
+  certain brethren from Joppa accompanied him. </p>
+id: ACT/10/23
+next:
+  id: ACT/10/24
+  number: '24'
+previous:
+  id: ACT/10/22
+  number: '22'
+reference: 'Acts 10:23'

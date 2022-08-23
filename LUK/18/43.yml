@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LUK 18:43"
+  class="v">43</span>And immediately he received his sight, and followed him,
+  glorifying God: and all the people, when they saw <span class="add">it</span>,
+  gave praise unto God.</p>
+id: LUK/18/43
+next:
+  id: LUK/19/1
+  number: '1'
+previous:
+  id: LUK/18/42
+  number: '42'
+reference: 'Luke 18:43'

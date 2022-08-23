@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PHP 2:19" class="v">19</span>But
+  I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may
+  be of good comfort, when I know your state. </p>
+id: PHP/2/19
+next:
+  id: PHP/2/20
+  number: '20'
+previous:
+  id: PHP/2/18
+  number: '18'
+reference: 'Philippians 2:19'

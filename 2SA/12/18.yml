@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 12:18"
+  class="v">18</span>And it came to pass on the seventh day, that the child
+  died. And the servants of David feared to tell him that the child was dead:
+  for they said, Behold, while the child was yet alive, we spake unto him, and
+  he would not hearken unto our voice: how will he then vex himself, if we tell
+  him that the child is dead? </p>
+id: 2SA/12/18
+next:
+  id: 2SA/12/19
+  number: '19'
+previous:
+  id: 2SA/12/17
+  number: '17'
+reference: '2 Samuel 12:18'

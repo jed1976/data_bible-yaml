@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="EZR 2:44" class="v">44</span>The
+  children of Keros, the children of Siaha, the children of Padon, </p>
+id: EZR/2/44
+next:
+  id: EZR/2/45
+  number: '45'
+previous:
+  id: EZR/2/43
+  number: '43'
+reference: 'Ezra 2:44'

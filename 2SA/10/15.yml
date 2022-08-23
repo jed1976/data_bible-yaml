@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 10:15" class="v">15</span>¶
+  And when the Syrians saw that they were smitten before Israel, they gathered
+  themselves together. </p>
+id: 2SA/10/15
+next:
+  id: 2SA/10/16
+  number: '16'
+previous:
+  id: 2SA/10/14
+  number: '14'
+reference: '2 Samuel 10:15'

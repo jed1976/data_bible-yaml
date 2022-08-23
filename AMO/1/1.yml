@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 1:1" class="v">1</span>The
+  words of Amos, who was among the herdmen of Tekoa, which he saw concerning
+  Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the
+  son of Joash king of Israel, two years before the earthquake. </p>
+id: AMO/1/1
+next:
+  id: AMO/1/2
+  number: '2'
+previous:
+  id: AMO/intro/0
+  number: '0'
+reference: 'Amos 1:1'

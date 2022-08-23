@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 23:37"
+  class="v">37</span>And saying, If thou be the king of the Jews, save thyself.
+  </p>
+id: LUK/23/37
+next:
+  id: LUK/23/38
+  number: '38'
+previous:
+  id: LUK/23/36
+  number: '36'
+reference: 'Luke 23:37'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NAM 2:11"
+  class="v">11</span>Where <span class="add">is</span> the dwelling of the
+  lions, and the feedingplace of the young lions, where the lion, <span
+  class="add">even</span> the old lion, walked, <span class="add">and</span> the
+  lion’s whelp, and none made <span class="add">them</span> afraid? </p>
+id: NAM/2/11
+next:
+  id: NAM/2/12
+  number: '12'
+previous:
+  id: NAM/2/10
+  number: '10'
+reference: 'Nahum 2:11'

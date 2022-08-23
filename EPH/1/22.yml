@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EPH 1:22" class="v">22</span>And
+  hath put all <span class="add">things</span> under his feet, and gave him
+  <span class="add">to be</span> the head over all <span
+  class="add">things</span> to the church, </p>
+id: EPH/1/22
+next:
+  id: EPH/1/23
+  number: '23'
+previous:
+  id: EPH/1/21
+  number: '21'
+reference: 'Ephesians 1:22'

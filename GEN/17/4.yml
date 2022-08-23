@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 17:4" class="v">4</span>As
+  for me, behold, my covenant <span class="add">is</span> with thee, and thou
+  shalt be a father of many nations. </p>
+id: GEN/17/4
+next:
+  id: GEN/17/5
+  number: '5'
+previous:
+  id: GEN/17/3
+  number: '3'
+reference: 'Genesis 17:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 8:9" class="v">9</span>But ye
+  are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell
+  in you. Now if any man have not the Spirit of Christ, he is none of his. </p>
+id: ROM/8/9
+next:
+  id: ROM/8/10
+  number: '10'
+previous:
+  id: ROM/8/8
+  number: '8'
+reference: 'Romans 8:9'

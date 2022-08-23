@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="1KI 18:36"
+  class="v">36</span>And it came to pass at <span class="add">the time of</span>
+  the offering of the <span class="add">evening</span> sacrifice, that Elijah
+  the prophet came near, and said, <span class="nd">LORD</span> God of Abraham,
+  Isaac, and of Israel, let it be known this day that thou <span
+  class="add">art</span> God in Israel, and <span class="add">that</span> I
+  <span class="add">am</span> thy servant, and <span class="add">that</span> I
+  have done all these things at thy word. </p>
+id: 1KI/18/36
+next:
+  id: 1KI/18/37
+  number: '37'
+previous:
+  id: 1KI/18/35
+  number: '35'
+reference: '1 Kings 18:36'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 12:25"
+  class="v">25</span>They grope in the dark without light, and he maketh them to
+  stagger like <span class="add">a</span> drunken <span
+  class="add">man</span>.</p>
+id: JOB/12/25
+next:
+  id: JOB/13/1
+  number: '1'
+previous:
+  id: JOB/12/24
+  number: '24'
+reference: 'Job 12:25'

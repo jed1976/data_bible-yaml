@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 19:6" class="v">6</span>And
+  the priest shall take cedar wood, and hyssop, and scarlet, and cast <span
+  class="add">it</span> into the midst of the burning of the heifer. </p>
+id: NUM/19/6
+next:
+  id: NUM/19/7
+  number: '7'
+previous:
+  id: NUM/19/5
+  number: '5'
+reference: 'Numbers 19:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="GEN 24:56"
+  class="v">56</span>And he said unto them, Hinder me not, seeing the <span
+  class="nd">LORD</span> hath prospered my way; send me away that I may go to my
+  master. </p>
+id: GEN/24/56
+next:
+  id: GEN/24/57
+  number: '57'
+previous:
+  id: GEN/24/55
+  number: '55'
+reference: 'Genesis 24:56'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 29:35" class="v">35</span>¶
+  On the eighth day ye shall have a solemn assembly: ye shall do no servile work
+  <span class="add">therein:</span> </p>
+id: NUM/29/35
+next:
+  id: NUM/29/36
+  number: '36'
+previous:
+  id: NUM/29/34
+  number: '34'
+reference: 'Numbers 29:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 11:1" class="v">1</span>A
+  false balance <span class="add">is</span> abomination to the <span
+  class="nd">LORD</span>: but a just weight <span class="add">is</span> his
+  delight. </p>
+id: PRO/11/1
+next:
+  id: PRO/11/2
+  number: '2'
+previous:
+  id: PRO/10/32
+  number: '32'
+reference: 'Proverbs 11:1'

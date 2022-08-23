@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DAN 4:11" class="v">11</span>The
+  tree grew, and was strong, and the height thereof reached unto heaven, and the
+  sight thereof to the end of all the earth: </p>
+id: DAN/4/11
+next:
+  id: DAN/4/12
+  number: '12'
+previous:
+  id: DAN/4/10
+  number: '10'
+reference: 'Daniel 4:11'

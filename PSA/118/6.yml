@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 118:6" class="v">6</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> on my side; I will
+  not fear: what can man do unto me?</p>
+id: PSA/118/6
+next:
+  id: PSA/118/7
+  number: '7'
+previous:
+  id: PSA/118/5
+  number: '5'
+reference: 'Psalms 118:6'

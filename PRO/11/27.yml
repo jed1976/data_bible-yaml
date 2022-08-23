@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 11:27" class="v">27</span>He
+  that diligently seeketh good procureth favour: but he that seeketh mischief,
+  it shall come unto him. </p>
+id: PRO/11/27
+next:
+  id: PRO/11/28
+  number: '28'
+previous:
+  id: PRO/11/26
+  number: '26'
+reference: 'Proverbs 11:27'

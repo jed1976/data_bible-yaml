@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 9:22" class="v">22</span>¶
+  When Abimelech had reigned three years over Israel, </p>
+id: JDG/9/22
+next:
+  id: JDG/9/23
+  number: '23'
+previous:
+  id: JDG/9/21
+  number: '21'
+reference: 'Judges 9:22'

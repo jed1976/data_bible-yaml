@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 19:29"
+  class="v">29</span><span class="wj">And every one that hath forsaken houses,
+  or brethren, or sisters, or father, or mother, or wife, or children, or lands,
+  for my name’s sake, shall receive an hundredfold, and shall inherit
+  everlasting life.</span> </p>
+id: MAT/19/29
+next:
+  id: MAT/19/30
+  number: '30'
+previous:
+  id: MAT/19/28
+  number: '28'
+reference: 'Matthew 19:29'

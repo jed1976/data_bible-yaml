@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EST 9:23" class="v">23</span>And
+  the Jews undertook to do as they had begun, and as Mordecai had written unto
+  them; </p>
+id: EST/9/23
+next:
+  id: EST/9/24
+  number: '24'
+previous:
+  id: EST/9/22
+  number: '22'
+reference: 'Esther 9:23'

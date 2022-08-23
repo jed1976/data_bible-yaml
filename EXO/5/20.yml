@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 5:20" class="v">20</span>¶
+  And they met Moses and Aaron, who stood in the way, as they came forth from
+  Pharaoh: </p>
+id: EXO/5/20
+next:
+  id: EXO/5/21
+  number: '21'
+previous:
+  id: EXO/5/19
+  number: '19'
+reference: 'Exodus 5:20'

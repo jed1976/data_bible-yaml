@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 21:16"
+  class="v">16</span>There went with us also <span class="add">certain</span> of
+  the disciples of Cæsarea, and brought with them one Mnason of Cyprus, an old
+  disciple, with whom we should lodge. </p>
+id: ACT/21/16
+next:
+  id: ACT/21/17
+  number: '17'
+previous:
+  id: ACT/21/15
+  number: '15'
+reference: 'Acts 21:16'

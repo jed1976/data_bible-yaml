@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 28:2" class="v">2</span>And
+  all these blessings shall come on thee, and overtake thee, if thou shalt
+  hearken unto the voice of the <span class="nd">LORD</span> thy God. </p>
+id: DEU/28/2
+next:
+  id: DEU/28/3
+  number: '3'
+previous:
+  id: DEU/28/1
+  number: '1'
+reference: 'Deuteronomy 28:2'

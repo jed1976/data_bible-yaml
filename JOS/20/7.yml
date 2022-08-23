@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 20:7" class="v">7</span>¶ And
+  they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount
+  Ephraim, and Kirjath-arba, which <span class="add">is</span> Hebron, in the
+  mountain of Judah. </p>
+id: JOS/20/7
+next:
+  id: JOS/20/8
+  number: '8'
+previous:
+  id: JOS/20/6
+  number: '6'
+reference: 'Joshua 20:7'

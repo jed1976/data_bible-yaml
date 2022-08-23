@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 22:1" class="v">1</span>And
+  the children of Israel set forward, and pitched in the plains of Moab on this
+  side Jordan <span class="add">by</span> Jericho.</p>
+id: NUM/22/1
+next:
+  id: NUM/22/2
+  number: '2'
+previous:
+  id: NUM/21/35
+  number: '35'
+reference: 'Numbers 22:1'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 75:9" class="v">9</span>But
+  I will declare for ever; I will sing praises to the God of Jacob.</p>
+id: PSA/75/9
+next:
+  id: PSA/75/10
+  number: '10'
+previous:
+  id: PSA/75/8
+  number: '8'
+reference: 'Psalms 75:9'

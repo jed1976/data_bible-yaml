@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 19:1" class="v">1</span>And
+  it came to pass in those days, when <span class="add">there was</span> no king
+  in Israel, that there was a certain Levite sojourning on the side of mount
+  Ephraim, who took to him a concubine out of Beth-lehem-judah. </p>
+id: JDG/19/1
+next:
+  id: JDG/19/2
+  number: '2'
+previous:
+  id: JDG/18/31
+  number: '31'
+reference: 'Judges 19:1'

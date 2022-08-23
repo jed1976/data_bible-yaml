@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 10:1" class="v">1</span>The
+  proverbs of Solomon. A wise son maketh a glad father: but a foolish son <span
+  class="add">is</span> the heaviness of his mother.</p>
+id: PRO/10/1
+next:
+  id: PRO/10/2
+  number: '2'
+previous:
+  id: PRO/9/18
+  number: '18'
+reference: 'Proverbs 10:1'

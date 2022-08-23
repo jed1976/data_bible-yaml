@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="GEN 41:57"
+  class="v">57</span>And all countries came into Egypt to Joseph for to buy
+  <span class="add">corn;</span> because that the famine was <span
+  class="add">so</span> sore in all lands.</p>
+id: GEN/41/57
+next:
+  id: GEN/42/1
+  number: '1'
+previous:
+  id: GEN/41/56
+  number: '56'
+reference: 'Genesis 41:57'

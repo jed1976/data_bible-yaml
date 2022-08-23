@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ROM 8:36" class="v">36</span>As
+  it is written, For thy sake we are killed all the day long; we are accounted
+  as sheep for the slaughter. </p>
+id: ROM/8/36
+next:
+  id: ROM/8/37
+  number: '37'
+previous:
+  id: ROM/8/35
+  number: '35'
+reference: 'Romans 8:36'

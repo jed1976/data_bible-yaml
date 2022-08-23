@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EZK 8:18"
+  class="v">18</span>Therefore will I also deal in fury: mine eye shall not
+  spare, neither will I have pity: and though they cry in mine ears with a loud
+  voice, <span class="add">yet</span> will I not hear them.</p>
+id: EZK/8/18
+next:
+  id: EZK/9/1
+  number: '1'
+previous:
+  id: EZK/8/17
+  number: '17'
+reference: 'Ezekiel 8:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 41:5" class="v">5</span>The
+  isles saw <span class="add">it</span>, and feared; the ends of the earth were
+  afraid, drew near, and came. </p>
+id: ISA/41/5
+next:
+  id: ISA/41/6
+  number: '6'
+previous:
+  id: ISA/41/4
+  number: '4'
+reference: 'Isaiah 41:5'

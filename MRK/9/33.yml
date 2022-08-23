@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 9:33" class="v">33</span>¶
+  And he came to Capernaum: and being in the house he asked them, <span
+  class="wj">What was it that ye disputed among yourselves by the way?</span>
+  </p>
+id: MRK/9/33
+next:
+  id: MRK/9/34
+  number: '34'
+previous:
+  id: MRK/9/32
+  number: '32'
+reference: 'Mark 9:33'

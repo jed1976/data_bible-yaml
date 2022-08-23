@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 124:4"
+  class="v">4</span>Then the waters had overwhelmed us, the stream had gone over
+  our soul:</p>
+id: PSA/124/4
+next:
+  id: PSA/124/5
+  number: '5'
+previous:
+  id: PSA/124/3
+  number: '3'
+reference: 'Psalms 124:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 39:2" class="v">2</span><span
+  class="add">And</span> in the eleventh year of Zedekiah, in the fourth month,
+  the ninth <span class="add">day</span> of the month, the city was broken up.
+  </p>
+id: JER/39/2
+next:
+  id: JER/39/3
+  number: '3'
+previous:
+  id: JER/39/1
+  number: '1'
+reference: 'Jeremiah 39:2'

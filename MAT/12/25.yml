@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 12:25"
+  class="v">25</span>And Jesus knew their thoughts, and said unto them, <span
+  class="wj">Every kingdom divided against itself is brought to desolation; and
+  every city or house divided against itself shall not stand:</span> </p>
+id: MAT/12/25
+next:
+  id: MAT/12/26
+  number: '26'
+previous:
+  id: MAT/12/24
+  number: '24'
+reference: 'Matthew 12:25'

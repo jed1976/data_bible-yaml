@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZR 2:6" class="v">6</span>The
+  children of Pahath-moab, of the children of Jeshua <span
+  class="add">and</span> Joab, two thousand eight hundred and twelve. </p>
+id: EZR/2/6
+next:
+  id: EZR/2/7
+  number: '7'
+previous:
+  id: EZR/2/5
+  number: '5'
+reference: 'Ezra 2:6'

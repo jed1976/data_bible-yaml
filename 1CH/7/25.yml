@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 7:25" class="v">25</span>And
+  Rephah <span class="add">was</span> his son, also Resheph, and Telah his son,
+  and Tahan his son, </p>
+id: 1CH/7/25
+next:
+  id: 1CH/7/26
+  number: '26'
+previous:
+  id: 1CH/7/24
+  number: '24'
+reference: '1 Chronicles 7:25'

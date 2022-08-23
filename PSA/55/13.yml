@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 55:13"
+  class="v">13</span>But <span class="add">it was</span> thou, a man mine equal,
+  my guide, and mine acquaintance.</p>
+id: PSA/55/13
+next:
+  id: PSA/55/14
+  number: '14'
+previous:
+  id: PSA/55/12
+  number: '12'
+reference: 'Psalms 55:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 8:15" class="v">15</span>And
+  he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with
+  whom ye did upbraid me, saying, <span class="add">Are</span> the hands of
+  Zebah and Zalmunna now in thine hand, that we should give bread unto thy men
+  <span class="add">that are</span> weary? </p>
+id: JDG/8/15
+next:
+  id: JDG/8/16
+  number: '16'
+previous:
+  id: JDG/8/14
+  number: '14'
+reference: 'Judges 8:15'

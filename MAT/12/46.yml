@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 12:46" class="v">46</span>¶
+  While he yet talked to the people, behold, <span class="add">his</span> mother
+  and his brethren stood without, desiring to speak with him. </p>
+id: MAT/12/46
+next:
+  id: MAT/12/47
+  number: '47'
+previous:
+  id: MAT/12/45
+  number: '45'
+reference: 'Matthew 12:46'

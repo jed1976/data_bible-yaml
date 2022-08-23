@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 23:11"
+  class="v">11</span>But the seventh <span class="add">year</span> thou shalt
+  let it rest and lie still; that the poor of thy people may eat: and what they
+  leave the beasts of the field shall eat. In like manner thou shalt deal with
+  thy vineyard, <span class="add">and</span> with thy oliveyard. </p>
+id: EXO/23/11
+next:
+  id: EXO/23/12
+  number: '12'
+previous:
+  id: EXO/23/10
+  number: '10'
+reference: 'Exodus 23:11'

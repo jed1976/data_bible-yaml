@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JOS 19:42"
+  class="v">42</span>And Shaalabbin, and Ajalon, and Jethlah, </p>
+id: JOS/19/42
+next:
+  id: JOS/19/43
+  number: '43'
+previous:
+  id: JOS/19/41
+  number: '41'
+reference: 'Joshua 19:42'

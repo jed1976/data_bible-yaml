@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 12:23"
+  class="v">23</span>The sons of Levi, the chief of the fathers, <span
+  class="add">were</span> written in the book of the chronicles, even until the
+  days of Johanan the son of Eliashib. </p>
+id: NEH/12/23
+next:
+  id: NEH/12/24
+  number: '24'
+previous:
+  id: NEH/12/22
+  number: '22'
+reference: 'Nehemiah 12:23'

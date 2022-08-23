@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 142:6"
+  class="v">6</span>Attend unto my cry; for I am brought very low: deliver me
+  from my persecutors; for they are stronger than I.</p>
+id: PSA/142/6
+next:
+  id: PSA/142/7
+  number: '7'
+previous:
+  id: PSA/142/5
+  number: '5'
+reference: 'Psalms 142:6'

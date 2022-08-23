@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NEH 2:14"
+  class="v">14</span>Then I went on to the gate of the fountain, and to the
+  king’s pool: but <span class="add">there was</span> no place for the beast
+  <span class="add">that was</span> under me to pass. </p>
+id: NEH/2/14
+next:
+  id: NEH/2/15
+  number: '15'
+previous:
+  id: NEH/2/13
+  number: '13'
+reference: 'Nehemiah 2:14'

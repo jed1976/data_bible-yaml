@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 10:9"
+  class="v">9</span>Wherefore Levi hath no part nor inheritance with his
+  brethren; the <span class="nd">LORD</span> <span class="add">is</span> his
+  inheritance, according as the <span class="nd">LORD</span> thy God promised
+  him. </p>
+id: DEU/10/9
+next:
+  id: DEU/10/10
+  number: '10'
+previous:
+  id: DEU/10/8
+  number: '8'
+reference: 'Deuteronomy 10:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 23:10"
+  class="v">10</span>Pass through thy land as a river, O daughter of Tarshish:
+  <span class="add">there is</span> no more strength. </p>
+id: ISA/23/10
+next:
+  id: ISA/23/11
+  number: '11'
+previous:
+  id: ISA/23/9
+  number: '9'
+reference: 'Isaiah 23:10'

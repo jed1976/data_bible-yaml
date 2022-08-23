@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 8:13" class="v">13</span>But
+  it shall not be well with the wicked, neither shall he prolong <span
+  class="add">his</span> days, <span class="add">which are</span> as a shadow;
+  because he feareth not before God.</p>
+id: ECC/8/13
+next:
+  id: ECC/8/14
+  number: '14'
+previous:
+  id: ECC/8/12
+  number: '12'
+reference: 'Ecclesiastes 8:13'

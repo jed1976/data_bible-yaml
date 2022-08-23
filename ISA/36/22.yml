@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 36:22" class="v">22</span>¶
+  Then came Eliakim, the son of Hilkiah, that <span class="add">was</span> over
+  the household, and Shebna the scribe, and Joah, the son of Asaph, the
+  recorder, to Hezekiah with <span class="add">their</span> clothes rent, and
+  told him the words of Rabshakeh.</p>
+id: ISA/36/22
+next:
+  id: ISA/37/1
+  number: '1'
+previous:
+  id: ISA/36/21
+  number: '21'
+reference: 'Isaiah 36:22'

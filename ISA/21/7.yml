@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 21:7" class="v">7</span>And
+  he saw a chariot <span class="add">with</span> a couple of horsemen, a chariot
+  of asses, <span class="add">and</span> a chariot of camels; and he hearkened
+  diligently with much heed: </p>
+id: ISA/21/7
+next:
+  id: ISA/21/8
+  number: '8'
+previous:
+  id: ISA/21/6
+  number: '6'
+reference: 'Isaiah 21:7'

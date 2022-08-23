@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="RUT 4:17" class="v">17</span>And
+  the women her neighbours gave it a name, saying, There is a son born to Naomi;
+  and they called his name Obed: he <span class="add">is</span> the father of
+  Jesse, the father of David.</p>
+id: RUT/4/17
+next:
+  id: RUT/4/18
+  number: '18'
+previous:
+  id: RUT/4/16
+  number: '16'
+reference: 'Ruth 4:17'

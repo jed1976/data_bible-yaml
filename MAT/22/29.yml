@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 22:29"
+  class="v">29</span>Jesus answered and said unto them, <span class="wj">Ye do
+  err, not knowing the scriptures, nor the power of God.</span> </p>
+id: MAT/22/29
+next:
+  id: MAT/22/30
+  number: '30'
+previous:
+  id: MAT/22/28
+  number: '28'
+reference: 'Matthew 22:29'

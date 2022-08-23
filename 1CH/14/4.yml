@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 14:4" class="v">4</span>Now
+  these <span class="add">are</span> the names of <span class="add">his</span>
+  children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,
+  </p>
+id: 1CH/14/4
+next:
+  id: 1CH/14/5
+  number: '5'
+previous:
+  id: 1CH/14/3
+  number: '3'
+reference: '1 Chronicles 14:4'

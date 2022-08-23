@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 14:4" class="v">4</span>For
+  the children of Joseph were two tribes, Manasseh and Ephraim: therefore they
+  gave no part unto the Levites in the land, save cities to dwell <span
+  class="add">in</span>, with their suburbs for their cattle and for their
+  substance. </p>
+id: JOS/14/4
+next:
+  id: JOS/14/5
+  number: '5'
+previous:
+  id: JOS/14/3
+  number: '3'
+reference: 'Joshua 14:4'

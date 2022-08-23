@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 7:16" class="v">16</span>And
+  were carried over into Sychem, and laid in the sepulchre that Abraham bought
+  for a sum of money of the sons of Emmor <span class="add">the father</span> of
+  Sychem. </p>
+id: ACT/7/16
+next:
+  id: ACT/7/17
+  number: '17'
+previous:
+  id: ACT/7/15
+  number: '15'
+reference: 'Acts 7:16'

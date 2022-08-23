@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 9:18" class="v">18</span>And
+  immediately there fell from his eyes as it had been scales: and he received
+  sight forthwith, and arose, and was baptized. </p>
+id: ACT/9/18
+next:
+  id: ACT/9/19
+  number: '19'
+previous:
+  id: ACT/9/17
+  number: '17'
+reference: 'Acts 9:18'

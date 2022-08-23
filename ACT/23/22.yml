@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 23:22" class="v">22</span>So
+  the chief captain <span class="add">then</span> let the young man depart, and
+  charged <span class="add">him, See thou</span> tell no man that thou hast
+  shewed these things to me. </p>
+id: ACT/23/22
+next:
+  id: ACT/23/23
+  number: '23'
+previous:
+  id: ACT/23/21
+  number: '21'
+reference: 'Acts 23:22'

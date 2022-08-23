@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 2:21" class="v">21</span>And
+  he changeth the times and the seasons: he removeth kings, and setteth up
+  kings: he giveth wisdom unto the wise, and knowledge to them that know
+  understanding: </p>
+id: DAN/2/21
+next:
+  id: DAN/2/22
+  number: '22'
+previous:
+  id: DAN/2/20
+  number: '20'
+reference: 'Daniel 2:21'

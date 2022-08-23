@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 8:6" class="v">6</span>This
+  they said, tempting him, that they might have to accuse him. But Jesus stooped
+  down, and with <span class="add">his</span> finger wrote on the ground, <span
+  class="add">as though he heard them not</span>. </p>
+id: JHN/8/6
+next:
+  id: JHN/8/7
+  number: '7'
+previous:
+  id: JHN/8/5
+  number: '5'
+reference: 'John 8:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="COL 1:26"
+  class="v">26</span><span class="add">Even</span> the mystery which hath been
+  hid from ages and from generations, but now is made manifest to his saints:
+  </p>
+id: COL/1/26
+next:
+  id: COL/1/27
+  number: '27'
+previous:
+  id: COL/1/25
+  number: '25'
+reference: 'Colossians 1:26'

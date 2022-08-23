@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 26:14" class="v">14</span>¶
+  Then one of the twelve, called Judas Iscariot, went unto the chief priests,
+  </p>
+id: MAT/26/14
+next:
+  id: MAT/26/15
+  number: '15'
+previous:
+  id: MAT/26/13
+  number: '13'
+reference: 'Matthew 26:14'

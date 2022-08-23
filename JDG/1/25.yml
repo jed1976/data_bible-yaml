@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JDG 1:25" class="v">25</span>And
+  when he shewed them the entrance into the city, they smote the city with the
+  edge of the sword; but they let go the man and all his family. </p>
+id: JDG/1/25
+next:
+  id: JDG/1/26
+  number: '26'
+previous:
+  id: JDG/1/24
+  number: '24'
+reference: 'Judges 1:25'

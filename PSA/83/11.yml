@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 83:11"
+  class="v">11</span>Make their nobles like Oreb, and like Zeeb: yea, all their
+  princes as Zebah, and as Zalmunna:</p>
+id: PSA/83/11
+next:
+  id: PSA/83/12
+  number: '12'
+previous:
+  id: PSA/83/10
+  number: '10'
+reference: 'Psalms 83:11'

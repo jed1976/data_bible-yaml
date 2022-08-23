@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 23:20"
+  class="v">20</span><span class="wj">Whoso therefore shall swear by the altar,
+  sweareth by it, and by all things thereon.</span> </p>
+id: MAT/23/20
+next:
+  id: MAT/23/21
+  number: '21'
+previous:
+  id: MAT/23/19
+  number: '19'
+reference: 'Matthew 23:20'

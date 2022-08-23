@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HAG 2:15" class="v">15</span>And
+  now, I pray you, consider from this day and upward, from before a stone was
+  laid upon a stone in the temple of the <span class="nd">LORD</span>: </p>
+id: HAG/2/15
+next:
+  id: HAG/2/16
+  number: '16'
+previous:
+  id: HAG/2/14
+  number: '14'
+reference: 'Haggai 2:15'

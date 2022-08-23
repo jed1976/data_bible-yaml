@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS</p>
+id: GAL/intro/0
+next:
+  id: GAL/1/1
+  number: '1'
+previous:
+  id: 2CO/13/14
+  number: '14'
+reference: Galatians

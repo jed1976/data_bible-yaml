@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JAS 5:11"
+  class="v">11</span>Behold, we count them happy which endure. Ye have heard of
+  the patience of Job, and have seen the end of the Lord; that the Lord is very
+  pitiful, and of tender mercy. </p>
+id: JAS/5/11
+next:
+  id: JAS/5/12
+  number: '12'
+previous:
+  id: JAS/5/10
+  number: '10'
+reference: 'James 5:11'

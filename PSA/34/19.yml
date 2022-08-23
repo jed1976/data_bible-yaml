@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 34:19"
+  class="v">19</span>Many <span class="add">are</span> the afflictions of the
+  righteous: but the <span class="nd">LORD</span> delivereth him out of them
+  all.</p>
+id: PSA/34/19
+next:
+  id: PSA/34/20
+  number: '20'
+previous:
+  id: PSA/34/18
+  number: '18'
+reference: 'Psalms 34:19'

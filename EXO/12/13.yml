@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 12:13"
+  class="v">13</span>And the blood shall be to you for a token upon the houses
+  where ye <span class="add">are:</span> and when I see the blood, I will pass
+  over you, and the plague shall not be upon you to destroy <span
+  class="add">you</span>, when I smite the land of Egypt. </p>
+id: EXO/12/13
+next:
+  id: EXO/12/14
+  number: '14'
+previous:
+  id: EXO/12/12
+  number: '12'
+reference: 'Exodus 12:13'

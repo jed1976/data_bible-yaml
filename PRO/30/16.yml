@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 30:16"
+  class="v">16</span>The grave; and the barren womb; the earth <span
+  class="add">that</span> is not filled with water; and the fire <span
+  class="add">that</span> saith not, <span class="add">It is</span> enough. </p>
+id: PRO/30/16
+next:
+  id: PRO/30/17
+  number: '17'
+previous:
+  id: PRO/30/15
+  number: '15'
+reference: 'Proverbs 30:16'

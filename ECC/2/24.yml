@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ECC 2:24" class="v">24</span>¶
+  <span class="add">There is</span> nothing better for a man, <span
+  class="add">than</span> that he should eat and drink, and <span
+  class="add">that</span> he should make his soul enjoy good in his labour. This
+  also I saw, that it <span class="add">was</span> from the hand of God. </p>
+id: ECC/2/24
+next:
+  id: ECC/2/25
+  number: '25'
+previous:
+  id: ECC/2/23
+  number: '23'
+reference: 'Ecclesiastes 2:24'

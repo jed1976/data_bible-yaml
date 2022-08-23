@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1PE 3:3" class="v">3</span>Whose
+  adorning let it not be that outward <span class="add">adorning</span> of
+  plaiting the hair, and of wearing of gold, or of putting on of apparel; </p>
+id: 1PE/3/3
+next:
+  id: 1PE/3/4
+  number: '4'
+previous:
+  id: 1PE/3/2
+  number: '2'
+reference: '1 Peter 3:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TH 3:1"
+  class="v">1</span>Wherefore when we could no longer forbear, we thought it
+  good to be left at Athens alone; </p>
+id: 1TH/3/1
+next:
+  id: 1TH/3/2
+  number: '2'
+previous:
+  id: 1TH/2/20
+  number: '20'
+reference: '1 Thessalonians 3:1'

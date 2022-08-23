@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 33:16" class="v">16</span>He
+  shall dwell on high: his place of defence <span class="add">shall be</span>
+  the munitions of rocks: bread shall be given him; his waters <span
+  class="add">shall be</span> sure. </p>
+id: ISA/33/16
+next:
+  id: ISA/33/17
+  number: '17'
+previous:
+  id: ISA/33/15
+  number: '15'
+reference: 'Isaiah 33:16'

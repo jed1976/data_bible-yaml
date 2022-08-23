@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="34" data-sid="PSA 106:34"
+  class="v">34</span>They did not destroy the nations, concerning whom the <span
+  class="nd">LORD</span> commanded them:</p>
+id: PSA/106/34
+next:
+  id: PSA/106/35
+  number: '35'
+previous:
+  id: PSA/106/33
+  number: '33'
+reference: 'Psalms 106:34'

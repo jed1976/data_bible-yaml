@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 10:14"
+  class="v">14</span><span class="wj">I am the good shepherd, and know my <span
+  class="add">sheep</span>, and am known of mine.</span> </p>
+id: JHN/10/14
+next:
+  id: JHN/10/15
+  number: '15'
+previous:
+  id: JHN/10/13
+  number: '13'
+reference: 'John 10:14'

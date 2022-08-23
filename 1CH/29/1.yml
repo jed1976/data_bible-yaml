@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 29:1"
+  class="v">1</span>Furthermore David the king said unto all the congregation,
+  Solomon my son, whom alone God hath chosen, <span class="add">is yet</span>
+  young and tender, and the work <span class="add">is</span> great: for the
+  palace <span class="add">is</span> not for man, but for the <span
+  class="nd">LORD</span> God. </p>
+id: 1CH/29/1
+next:
+  id: 1CH/29/2
+  number: '2'
+previous:
+  id: 1CH/28/21
+  number: '21'
+reference: '1 Chronicles 29:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 12:12"
+  class="v">12</span><span class="wj">How much then is a man better than a
+  sheep? Wherefore it is lawful to do well on the sabbath days.</span> </p>
+id: MAT/12/12
+next:
+  id: MAT/12/13
+  number: '13'
+previous:
+  id: MAT/12/11
+  number: '11'
+reference: 'Matthew 12:12'

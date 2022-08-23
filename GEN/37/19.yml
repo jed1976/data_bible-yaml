@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 37:19"
+  class="v">19</span>And they said one to another, Behold, this dreamer cometh.
+  </p>
+id: GEN/37/19
+next:
+  id: GEN/37/20
+  number: '20'
+previous:
+  id: GEN/37/18
+  number: '18'
+reference: 'Genesis 37:19'

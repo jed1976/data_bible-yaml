@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LEV 11:33"
+  class="v">33</span>And every earthen vessel, whereinto <span
+  class="add">any</span> of them falleth, whatsoever <span class="add">is</span>
+  in it shall be unclean; and ye shall break it. </p>
+id: LEV/11/33
+next:
+  id: LEV/11/34
+  number: '34'
+previous:
+  id: LEV/11/32
+  number: '32'
+reference: 'Leviticus 11:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 4:8" class="v">8</span>And
+  Cain talked with Abel his brother: and it came to pass, when they were in the
+  field, that Cain rose up against Abel his brother, and slew him.</p>
+id: GEN/4/8
+next:
+  id: GEN/4/9
+  number: '9'
+previous:
+  id: GEN/4/7
+  number: '7'
+reference: 'Genesis 4:8'

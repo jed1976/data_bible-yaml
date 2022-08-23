@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 33:3" class="v">3</span>Unto
+  a land flowing with milk and honey: for I will not go up in the midst of thee;
+  for thou <span class="add">art</span> a stiffnecked people: lest I consume
+  thee in the way.</p>
+id: EXO/33/3
+next:
+  id: EXO/33/4
+  number: '4'
+previous:
+  id: EXO/33/2
+  number: '2'
+reference: 'Exodus 33:3'

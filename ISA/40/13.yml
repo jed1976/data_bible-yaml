@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 40:13"
+  class="v">13</span>Who hath directed the Spirit of the <span
+  class="nd">LORD</span>, or <span class="add">being</span> his counsellor hath
+  taught him? </p>
+id: ISA/40/13
+next:
+  id: ISA/40/14
+  number: '14'
+previous:
+  id: ISA/40/12
+  number: '12'
+reference: 'Isaiah 40:13'

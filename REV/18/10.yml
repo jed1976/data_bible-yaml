@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 18:10"
+  class="v">10</span>Standing afar off for the fear of her torment, saying,
+  Alas, alas, that great city Babylon, that mighty city! for in one hour is thy
+  judgment come. </p>
+id: REV/18/10
+next:
+  id: REV/18/11
+  number: '11'
+previous:
+  id: REV/18/9
+  number: '9'
+reference: 'Revelation 18:10'

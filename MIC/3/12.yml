@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 3:12"
+  class="v">12</span>Therefore shall Zion for your sake be plowed <span
+  class="add">as</span> a field, and Jerusalem shall become heaps, and the
+  mountain of the house as the high places of the forest.</p>
+id: MIC/3/12
+next:
+  id: MIC/4/1
+  number: '1'
+previous:
+  id: MIC/3/11
+  number: '11'
+reference: 'Micah 3:12'

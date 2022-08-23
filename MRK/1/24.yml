@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 1:24"
+  class="v">24</span>Saying, Let <span class="add">us</span> alone; what have we
+  to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know
+  thee who thou art, the Holy One of God. </p>
+id: MRK/1/24
+next:
+  id: MRK/1/25
+  number: '25'
+previous:
+  id: MRK/1/23
+  number: '23'
+reference: 'Mark 1:24'

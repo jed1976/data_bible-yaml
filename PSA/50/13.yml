@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 50:13"
+  class="v">13</span>Will I eat the flesh of bulls, or drink the blood of
+  goats?</p>
+id: PSA/50/13
+next:
+  id: PSA/50/14
+  number: '14'
+previous:
+  id: PSA/50/12
+  number: '12'
+reference: 'Psalms 50:13'

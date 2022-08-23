@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PHM 1:23"
+  class="v">23</span>There salute thee Epaphras, my fellowprisoner in Christ
+  Jesus; </p>
+id: PHM/1/23
+next:
+  id: PHM/1/24
+  number: '24'
+previous:
+  id: PHM/1/22
+  number: '22'
+reference: 'Philemon 1:23'

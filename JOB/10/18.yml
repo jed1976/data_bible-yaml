@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 10:18"
+  class="v">18</span>Wherefore then hast thou brought me forth out of the womb?
+  Oh that I had given up the ghost, and no eye had seen me! </p>
+id: JOB/10/18
+next:
+  id: JOB/10/19
+  number: '19'
+previous:
+  id: JOB/10/17
+  number: '17'
+reference: 'Job 10:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 60:15"
+  class="v">15</span>Whereas thou hast been forsaken and hated, so that no man
+  went through <span class="add">thee</span>, I will make thee an eternal
+  excellency, a joy of many generations. </p>
+id: ISA/60/15
+next:
+  id: ISA/60/16
+  number: '16'
+previous:
+  id: ISA/60/14
+  number: '14'
+reference: 'Isaiah 60:15'

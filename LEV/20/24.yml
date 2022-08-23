@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 20:24"
+  class="v">24</span>But I have said unto you, Ye shall inherit their land, and
+  I will give it unto you to possess it, a land that floweth with milk and
+  honey: I <span class="add">am</span> the <span class="nd">LORD</span> your
+  God, which have separated you from <span class="add">other</span> people. </p>
+id: LEV/20/24
+next:
+  id: LEV/20/25
+  number: '25'
+previous:
+  id: LEV/20/23
+  number: '23'
+reference: 'Leviticus 20:24'

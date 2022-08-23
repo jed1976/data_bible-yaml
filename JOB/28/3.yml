@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 28:3" class="v">3</span>He
+  setteth an end to darkness, and searcheth out all perfection: the stones of
+  darkness, and the shadow of death. </p>
+id: JOB/28/3
+next:
+  id: JOB/28/4
+  number: '4'
+previous:
+  id: JOB/28/2
+  number: '2'
+reference: 'Job 28:3'

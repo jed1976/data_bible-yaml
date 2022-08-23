@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 11:15" class="v">15</span>So
+  the king of the north shall come, and cast up a mount, and take the most
+  fenced cities: and the arms of the south shall not withstand, neither his
+  chosen people, neither <span class="add">shall there be any</span> strength to
+  withstand. </p>
+id: DAN/11/15
+next:
+  id: DAN/11/16
+  number: '16'
+previous:
+  id: DAN/11/14
+  number: '14'
+reference: 'Daniel 11:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 18:15"
+  class="v">15</span>The heart of the prudent getteth knowledge; and the ear of
+  the wise seeketh knowledge. </p>
+id: PRO/18/15
+next:
+  id: PRO/18/16
+  number: '16'
+previous:
+  id: PRO/18/14
+  number: '14'
+reference: 'Proverbs 18:15'

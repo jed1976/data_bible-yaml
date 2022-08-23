@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 19:29"
+  class="v">29</span>Now there was set a vessel full of vinegar: and they filled
+  a spunge with vinegar, and put <span class="add">it</span> upon hyssop, and
+  put <span class="add">it</span> to his mouth. </p>
+id: JHN/19/29
+next:
+  id: JHN/19/30
+  number: '30'
+previous:
+  id: JHN/19/28
+  number: '28'
+reference: 'John 19:29'

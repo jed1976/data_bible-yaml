@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EZK 19:2" class="v">2</span>And
+  say, What <span class="add">is</span> thy mother? A lioness: she lay down
+  among lions, she nourished her whelps among young lions. </p>
+id: EZK/19/2
+next:
+  id: EZK/19/3
+  number: '3'
+previous:
+  id: EZK/19/1
+  number: '1'
+reference: 'Ezekiel 19:2'

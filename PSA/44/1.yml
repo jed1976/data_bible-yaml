@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician for the sons of Korah, Maschil.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 44:1" class="v">1</span>We have
+  heard with our ears, O God, our fathers have told us, <span
+  class="add">what</span> work thou didst in their days, in the times of
+  old.</p>
+id: PSA/44/1
+next:
+  id: PSA/44/2
+  number: '2'
+previous:
+  id: PSA/43/5
+  number: '5'
+reference: 'Psalms 44:1'

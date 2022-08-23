@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 46:21" class="v">21</span>¶
+  And the sons of Benjamin <span class="add">were</span> Belah, and Becher, and
+  Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard. </p>
+id: GEN/46/21
+next:
+  id: GEN/46/22
+  number: '22'
+previous:
+  id: GEN/46/20
+  number: '20'
+reference: 'Genesis 46:21'

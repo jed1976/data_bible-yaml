@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 15:11"
+  class="v">11</span>And the rest of the acts of Zachariah, behold, they <span
+  class="add">are</span> written in the book of the chronicles of the kings of
+  Israel. </p>
+id: 2KI/15/11
+next:
+  id: 2KI/15/12
+  number: '12'
+previous:
+  id: 2KI/15/10
+  number: '10'
+reference: '2 Kings 15:11'

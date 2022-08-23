@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 26:19"
+  class="v">19</span>Thy dead <span class="add">men</span> shall live, <span
+  class="add">together with</span> my dead body shall they arise. Awake and
+  sing, ye that dwell in dust: for thy dew <span class="add">is as</span> the
+  dew of herbs, and the earth shall cast out the dead.</p>
+id: ISA/26/19
+next:
+  id: ISA/26/20
+  number: '20'
+previous:
+  id: ISA/26/18
+  number: '18'
+reference: 'Isaiah 26:19'

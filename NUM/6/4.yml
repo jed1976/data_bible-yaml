@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 6:4" class="v">4</span>All
+  the days of his separation shall he eat nothing that is made of the vine tree,
+  from the kernels even to the husk. </p>
+id: NUM/6/4
+next:
+  id: NUM/6/5
+  number: '5'
+previous:
+  id: NUM/6/3
+  number: '3'
+reference: 'Numbers 6:4'

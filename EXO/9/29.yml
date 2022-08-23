@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 9:29" class="v">29</span>And
+  Moses said unto him, As soon as I am gone out of the city, I will spread
+  abroad my hands unto the <span class="nd">LORD</span>; <span
+  class="add">and</span> the thunder shall cease, neither shall there be any
+  more hail; that thou mayest know how that the earth <span
+  class="add">is</span> the <span class="nd">LORD’s</span>. </p>
+id: EXO/9/29
+next:
+  id: EXO/9/30
+  number: '30'
+previous:
+  id: EXO/9/28
+  number: '28'
+reference: 'Exodus 9:29'

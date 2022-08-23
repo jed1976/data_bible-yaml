@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 95:11"
+  class="v">11</span>Unto whom I sware in my wrath that they should not enter
+  into my rest.</p>
+id: PSA/95/11
+next:
+  id: PSA/96/1
+  number: '1'
+previous:
+  id: PSA/95/10
+  number: '10'
+reference: 'Psalms 95:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JAS 2:20" class="v">20</span>But
+  wilt thou know, O vain man, that faith without works is dead? </p>
+id: JAS/2/20
+next:
+  id: JAS/2/21
+  number: '21'
+previous:
+  id: JAS/2/19
+  number: '19'
+reference: 'James 2:20'

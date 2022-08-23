@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 21:15"
+  class="v">15</span>And the water was spent in the bottle, and she cast the
+  child under one of the shrubs. </p>
+id: GEN/21/15
+next:
+  id: GEN/21/16
+  number: '16'
+previous:
+  id: GEN/21/14
+  number: '14'
+reference: 'Genesis 21:15'

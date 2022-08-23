@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 16:7" class="v">7</span>I
+  will bless the <span class="nd">LORD</span>, who hath given me counsel: my
+  reins also instruct me in the night seasons.</p>
+id: PSA/16/7
+next:
+  id: PSA/16/8
+  number: '8'
+previous:
+  id: PSA/16/6
+  number: '6'
+reference: 'Psalms 16:7'

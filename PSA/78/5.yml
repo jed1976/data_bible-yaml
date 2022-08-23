@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 78:5" class="v">5</span>For
+  he established a testimony in Jacob, and appointed a law in Israel, which he
+  commanded our fathers, that they should make them known to their children:</p>
+id: PSA/78/5
+next:
+  id: PSA/78/6
+  number: '6'
+previous:
+  id: PSA/78/4
+  number: '4'
+reference: 'Psalms 78:5'

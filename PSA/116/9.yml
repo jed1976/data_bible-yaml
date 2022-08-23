@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 116:9" class="v">9</span>I
+  will walk before the <span class="nd">LORD</span> in the land of the
+  living.</p>
+id: PSA/116/9
+next:
+  id: PSA/116/10
+  number: '10'
+previous:
+  id: PSA/116/8
+  number: '8'
+reference: 'Psalms 116:9'

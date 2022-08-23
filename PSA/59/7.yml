@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 59:7"
+  class="v">7</span>Behold, they belch out with their mouth: swords <span
+  class="add">are</span> in their lips: for who, <span class="add">say
+  they</span>, doth hear?</p>
+id: PSA/59/7
+next:
+  id: PSA/59/8
+  number: '8'
+previous:
+  id: PSA/59/6
+  number: '6'
+reference: 'Psalms 59:7'

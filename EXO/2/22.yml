@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 2:22" class="v">22</span>And
+  she bare <span class="add">him</span> a son, and he called his name Gershom:
+  for he said, I have been a stranger in a strange land.</p>
+id: EXO/2/22
+next:
+  id: EXO/2/23
+  number: '23'
+previous:
+  id: EXO/2/21
+  number: '21'
+reference: 'Exodus 2:22'

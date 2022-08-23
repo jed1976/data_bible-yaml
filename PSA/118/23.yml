@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 118:23"
+  class="v">23</span>This is the <span class="nd">LORD’s</span> doing; it <span
+  class="add">is</span> marvellous in our eyes.</p>
+id: PSA/118/23
+next:
+  id: PSA/118/24
+  number: '24'
+previous:
+  id: PSA/118/22
+  number: '22'
+reference: 'Psalms 118:23'

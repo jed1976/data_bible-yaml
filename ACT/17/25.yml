@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 17:25"
+  class="v">25</span>Neither is worshipped with men’s hands, as though he needed
+  any thing, seeing he giveth to all life, and breath, and all things; </p>
+id: ACT/17/25
+next:
+  id: ACT/17/26
+  number: '26'
+previous:
+  id: ACT/17/24
+  number: '24'
+reference: 'Acts 17:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 12:22"
+  class="v">22</span>And the people gave a shout, <span class="add">saying, It
+  is</span> the voice of a god, and not of a man. </p>
+id: ACT/12/22
+next:
+  id: ACT/12/23
+  number: '23'
+previous:
+  id: ACT/12/21
+  number: '21'
+reference: 'Acts 12:22'

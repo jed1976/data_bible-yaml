@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 129:7"
+  class="v">7</span>Wherewith the mower filleth not his hand; nor he that
+  bindeth sheaves his bosom.</p>
+id: PSA/129/7
+next:
+  id: PSA/129/8
+  number: '8'
+previous:
+  id: PSA/129/6
+  number: '6'
+reference: 'Psalms 129:7'

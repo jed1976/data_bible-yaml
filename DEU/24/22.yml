@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 24:22"
+  class="v">22</span>And thou shalt remember that thou wast a bondman in the
+  land of Egypt: therefore I command thee to do this thing.</p>
+id: DEU/24/22
+next:
+  id: DEU/25/1
+  number: '1'
+previous:
+  id: DEU/24/21
+  number: '21'
+reference: 'Deuteronomy 24:22'

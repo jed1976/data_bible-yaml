@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 8:32" class="v">32</span>Now
+  therefore hearken unto me, O ye children: for blessed <span class="add">are
+  they that</span> keep my ways. </p>
+id: PRO/8/32
+next:
+  id: PRO/8/33
+  number: '33'
+previous:
+  id: PRO/8/31
+  number: '31'
+reference: 'Proverbs 8:32'

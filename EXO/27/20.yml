@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 27:20" class="v">20</span>¶
+  And thou shalt command the children of Israel, that they bring thee pure oil
+  olive beaten for the light, to cause the lamp to burn always. </p>
+id: EXO/27/20
+next:
+  id: EXO/27/21
+  number: '21'
+previous:
+  id: EXO/27/19
+  number: '19'
+reference: 'Exodus 27:20'

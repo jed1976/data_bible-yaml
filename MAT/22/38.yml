@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 22:38"
+  class="v">38</span><span class="wj">This is the first and great
+  commandment.</span> </p>
+id: MAT/22/38
+next:
+  id: MAT/22/39
+  number: '39'
+previous:
+  id: MAT/22/37
+  number: '37'
+reference: 'Matthew 22:38'

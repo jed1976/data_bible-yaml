@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 27:23"
+  class="v">23</span>Cursed <span class="add">be</span> he that lieth with his
+  mother in law. And all the people shall say, Amen. </p>
+id: DEU/27/23
+next:
+  id: DEU/27/24
+  number: '24'
+previous:
+  id: DEU/27/22
+  number: '22'
+reference: 'Deuteronomy 27:23'

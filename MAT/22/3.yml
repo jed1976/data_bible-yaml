@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 22:3" class="v">3</span><span
+  class="wj">And sent forth his servants to call them that were bidden to the
+  wedding: and they would not come.</span> </p>
+id: MAT/22/3
+next:
+  id: MAT/22/4
+  number: '4'
+previous:
+  id: MAT/22/2
+  number: '2'
+reference: 'Matthew 22:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 19:11" class="v">11</span>¶
+  He that toucheth the dead body of any man shall be unclean seven days. </p>
+id: NUM/19/11
+next:
+  id: NUM/19/12
+  number: '12'
+previous:
+  id: NUM/19/10
+  number: '10'
+reference: 'Numbers 19:11'

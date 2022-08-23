@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 24:20" class="v">20</span>¶
+  And when he looked on Amalek, he took up his parable, and said, Amalek <span
+  class="add">was</span> the first of the nations; but his latter end <span
+  class="add">shall be</span> that he perish for ever. </p>
+id: NUM/24/20
+next:
+  id: NUM/24/21
+  number: '21'
+previous:
+  id: NUM/24/19
+  number: '19'
+reference: 'Numbers 24:20'

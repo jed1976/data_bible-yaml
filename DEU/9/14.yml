@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 9:14" class="v">14</span>Let
+  me alone, that I may destroy them, and blot out their name from under heaven:
+  and I will make of thee a nation mightier and greater than they. </p>
+id: DEU/9/14
+next:
+  id: DEU/9/15
+  number: '15'
+previous:
+  id: DEU/9/13
+  number: '13'
+reference: 'Deuteronomy 9:14'

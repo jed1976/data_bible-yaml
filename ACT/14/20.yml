@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 14:20"
+  class="v">20</span>Howbeit, as the disciples stood round about him, he rose
+  up, and came into the city: and the next day he departed with Barnabas to
+  Derbe. </p>
+id: ACT/14/20
+next:
+  id: ACT/14/21
+  number: '21'
+previous:
+  id: ACT/14/19
+  number: '19'
+reference: 'Acts 14:20'

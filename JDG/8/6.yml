@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 8:6" class="v">6</span>¶ And
+  the princes of Succoth said, <span class="add">Are</span> the hands of Zebah
+  and Zalmunna now in thine hand, that we should give bread unto thine army?
+  </p>
+id: JDG/8/6
+next:
+  id: JDG/8/7
+  number: '7'
+previous:
+  id: JDG/8/5
+  number: '5'
+reference: 'Judges 8:6'

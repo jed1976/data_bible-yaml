@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 20:12"
+  class="v">12</span>And seeth two angels in white sitting, the one at the head,
+  and the other at the feet, where the body of Jesus had lain. </p>
+id: JHN/20/12
+next:
+  id: JHN/20/13
+  number: '13'
+previous:
+  id: JHN/20/11
+  number: '11'
+reference: 'John 20:12'

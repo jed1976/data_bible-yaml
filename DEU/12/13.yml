@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 12:13"
+  class="v">13</span>Take heed to thyself that thou offer not thy burnt
+  offerings in every place that thou seest: </p>
+id: DEU/12/13
+next:
+  id: DEU/12/14
+  number: '14'
+previous:
+  id: DEU/12/12
+  number: '12'
+reference: 'Deuteronomy 12:13'

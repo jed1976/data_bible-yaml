@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 5:3" class="v">3</span>My
+  voice shalt thou hear in the morning, O <span class="nd">LORD</span>; in the
+  morning will I direct <span class="add">my prayer</span> unto thee, and will
+  look up.</p>
+id: PSA/5/3
+next:
+  id: PSA/5/4
+  number: '4'
+previous:
+  id: PSA/5/2
+  number: '2'
+reference: 'Psalms 5:3'

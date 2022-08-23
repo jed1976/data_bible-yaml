@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="EXO 29:43"
+  class="v">43</span>And there I will meet with the children of Israel, and
+  <span class="add">the tabernacle</span> shall be sanctified by my glory. </p>
+id: EXO/29/43
+next:
+  id: EXO/29/44
+  number: '44'
+previous:
+  id: EXO/29/42
+  number: '42'
+reference: 'Exodus 29:43'

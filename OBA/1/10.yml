@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="OBA 1:10" class="v">10</span>¶
+  For <span class="add">thy</span> violence against thy brother Jacob shame
+  shall cover thee, and thou shalt be cut off for ever. </p>
+id: OBA/1/10
+next:
+  id: OBA/1/11
+  number: '11'
+previous:
+  id: OBA/1/9
+  number: '9'
+reference: 'Obadiah 1:10'

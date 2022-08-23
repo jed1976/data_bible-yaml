@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 33:11"
+  class="v">11</span>Take, I pray thee, my blessing that is brought to thee;
+  because God hath dealt graciously with me, and because I have enough. And he
+  urged him, and he took <span class="add">it</span>. </p>
+id: GEN/33/11
+next:
+  id: GEN/33/12
+  number: '12'
+previous:
+  id: GEN/33/10
+  number: '10'
+reference: 'Genesis 33:11'

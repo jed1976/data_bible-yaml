@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 18:24" class="v">24</span>¶
+  And a certain Jew named Apollos, born at Alexandria, an eloquent man, <span
+  class="add">and</span> mighty in the scriptures, came to Ephesus. </p>
+id: ACT/18/24
+next:
+  id: ACT/18/25
+  number: '25'
+previous:
+  id: ACT/18/23
+  number: '23'
+reference: 'Acts 18:24'

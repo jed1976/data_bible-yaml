@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 31:7" class="v">7</span>¶ And
+  Moses called unto Joshua, and said unto him in the sight of all Israel, Be
+  strong and of a good courage: for thou must go with this people unto the land
+  which the <span class="nd">LORD</span> hath sworn unto their fathers to give
+  them; and thou shalt cause them to inherit it. </p>
+id: DEU/31/7
+next:
+  id: DEU/31/8
+  number: '8'
+previous:
+  id: DEU/31/6
+  number: '6'
+reference: 'Deuteronomy 31:7'

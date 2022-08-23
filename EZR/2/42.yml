@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EZR 2:42" class="v">42</span>¶
+  The children of the porters: the children of Shallum, the children of Ater,
+  the children of Talmon, the children of Akkub, the children of Hatita, the
+  children of Shobai, <span class="add">in</span> all an hundred thirty and
+  nine.</p>
+id: EZR/2/42
+next:
+  id: EZR/2/43
+  number: '43'
+previous:
+  id: EZR/2/41
+  number: '41'
+reference: 'Ezra 2:42'

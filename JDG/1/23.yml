@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 1:23" class="v">23</span>And
+  the house of Joseph sent to descry Beth-el. (Now the name of the city before
+  <span class="add">was</span> Luz.) </p>
+id: JDG/1/23
+next:
+  id: JDG/1/24
+  number: '24'
+previous:
+  id: JDG/1/22
+  number: '22'
+reference: 'Judges 1:23'

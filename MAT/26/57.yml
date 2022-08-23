@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="MAT 26:57" class="v">57</span>¶
+  And they that had laid hold on Jesus led <span class="add">him</span> away to
+  Caiaphas the high priest, where the scribes and the elders were assembled.
+  </p>
+id: MAT/26/57
+next:
+  id: MAT/26/58
+  number: '58'
+previous:
+  id: MAT/26/56
+  number: '56'
+reference: 'Matthew 26:57'

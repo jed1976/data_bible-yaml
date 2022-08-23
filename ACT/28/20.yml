@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 28:20"
+  class="v">20</span>For this cause therefore have I called for you, to see
+  <span class="add">you</span>, and to speak with <span class="add">you</span>:
+  because that for the hope of Israel I am bound with this chain. </p>
+id: ACT/28/20
+next:
+  id: ACT/28/21
+  number: '21'
+previous:
+  id: ACT/28/19
+  number: '19'
+reference: 'Acts 28:20'

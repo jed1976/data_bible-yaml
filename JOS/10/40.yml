@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JOS 10:40" class="v">40</span>¶
+  So Joshua smote all the country of the hills, and of the south, and of the
+  vale, and of the springs, and all their kings: he left none remaining, but
+  utterly destroyed all that breathed, as the <span class="nd">LORD</span> God
+  of Israel commanded. </p>
+id: JOS/10/40
+next:
+  id: JOS/10/41
+  number: '41'
+previous:
+  id: JOS/10/39
+  number: '39'
+reference: 'Joshua 10:40'

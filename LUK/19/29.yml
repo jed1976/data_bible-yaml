@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 19:29"
+  class="v">29</span>And it came to pass, when he was come nigh to Bethphage and
+  Bethany, at the mount called <span class="add">the mount</span> of Olives, he
+  sent two of his disciples, </p>
+id: LUK/19/29
+next:
+  id: LUK/19/30
+  number: '30'
+previous:
+  id: LUK/19/28
+  number: '28'
+reference: 'Luke 19:29'

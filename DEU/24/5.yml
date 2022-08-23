@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 24:5" class="v">5</span>¶
+  When a man hath taken a new wife, he shall not go out to war, neither shall he
+  be charged with any business: <span class="add">but</span> he shall be free at
+  home one year, and shall cheer up his wife which he hath taken.</p>
+id: DEU/24/5
+next:
+  id: DEU/24/6
+  number: '6'
+previous:
+  id: DEU/24/4
+  number: '4'
+reference: 'Deuteronomy 24:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 24:3" class="v">3</span>¶ And
+  Moses came and told the people all the words of the <span
+  class="nd">LORD</span>, and all the judgments: and all the people answered
+  with one voice, and said, All the words which the <span class="nd">LORD</span>
+  hath said will we do. </p>
+id: EXO/24/3
+next:
+  id: EXO/24/4
+  number: '4'
+previous:
+  id: EXO/24/2
+  number: '2'
+reference: 'Exodus 24:3'

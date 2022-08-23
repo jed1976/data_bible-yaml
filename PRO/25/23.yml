@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 25:23"
+  class="v">23</span>The north wind driveth away rain: so <span
+  class="add">doth</span> an angry countenance a backbiting tongue. </p>
+id: PRO/25/23
+next:
+  id: PRO/25/24
+  number: '24'
+previous:
+  id: PRO/25/22
+  number: '22'
+reference: 'Proverbs 25:23'

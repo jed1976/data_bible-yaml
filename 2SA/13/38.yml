@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="2SA 13:38" class="v">38</span>So
+  Absalom fled, and went to Geshur, and was there three years. </p>
+id: 2SA/13/38
+next:
+  id: 2SA/13/39
+  number: '39'
+previous:
+  id: 2SA/13/37
+  number: '37'
+reference: '2 Samuel 13:38'

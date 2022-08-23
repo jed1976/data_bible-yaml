@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 16:13"
+  class="v">13</span><span class="wj">Howbeit when he, the Spirit of truth, is
+  come, he will guide you into all truth: for he shall not speak of himself; but
+  whatsoever he shall hear, <span class="add">that</span> shall he speak: and he
+  will shew you things to come.</span> </p>
+id: JHN/16/13
+next:
+  id: JHN/16/14
+  number: '14'
+previous:
+  id: JHN/16/12
+  number: '12'
+reference: 'John 16:13'

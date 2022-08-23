@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 2:42" class="v">42</span>And
+  they continued stedfastly in the apostles’ doctrine and fellowship, and in
+  breaking of bread, and in prayers. </p>
+id: ACT/2/42
+next:
+  id: ACT/2/43
+  number: '43'
+previous:
+  id: ACT/2/41
+  number: '41'
+reference: 'Acts 2:42'

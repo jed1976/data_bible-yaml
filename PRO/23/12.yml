@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 23:12"
+  class="v">12</span>Apply thine heart unto instruction, and thine ears to the
+  words of knowledge. </p>
+id: PRO/23/12
+next:
+  id: PRO/23/13
+  number: '13'
+previous:
+  id: PRO/23/11
+  number: '11'
+reference: 'Proverbs 23:12'

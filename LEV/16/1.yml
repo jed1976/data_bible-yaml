@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 16:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses after the death of the two
+  sons of Aaron, when they offered before the <span class="nd">LORD</span>, and
+  died; </p>
+id: LEV/16/1
+next:
+  id: LEV/16/2
+  number: '2'
+previous:
+  id: LEV/15/33
+  number: '33'
+reference: 'Leviticus 16:1'

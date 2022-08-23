@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ROM 3:29"
+  class="v">29</span><span class="add">Is he</span> the God of the Jews only?
+  <span class="add">is he</span> not also of the Gentiles? Yes, of the Gentiles
+  also: </p>
+id: ROM/3/29
+next:
+  id: ROM/3/30
+  number: '30'
+previous:
+  id: ROM/3/28
+  number: '28'
+reference: 'Romans 3:29'

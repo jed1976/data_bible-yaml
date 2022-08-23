@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JHN 8:43"
+  class="v">43</span><span class="wj">Why do ye not understand my speech? <span
+  class="add">even</span> because ye cannot hear my word.</span> </p>
+id: JHN/8/43
+next:
+  id: JHN/8/44
+  number: '44'
+previous:
+  id: JHN/8/42
+  number: '42'
+reference: 'John 8:43'

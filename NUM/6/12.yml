@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 6:12" class="v">12</span>And
+  he shall consecrate unto the <span class="nd">LORD</span> the days of his
+  separation, and shall bring a lamb of the first year for a trespass offering:
+  but the days that were before shall be lost, because his separation was
+  defiled.</p>
+id: NUM/6/12
+next:
+  id: NUM/6/13
+  number: '13'
+previous:
+  id: NUM/6/11
+  number: '11'
+reference: 'Numbers 6:12'

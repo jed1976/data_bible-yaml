@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 6:15"
+  class="v">15</span><span class="wj">But if ye forgive not men their
+  trespasses, neither will your Father forgive your trespasses.</span></p>
+id: MAT/6/15
+next:
+  id: MAT/6/16
+  number: '16'
+previous:
+  id: MAT/6/14
+  number: '14'
+reference: 'Matthew 6:15'

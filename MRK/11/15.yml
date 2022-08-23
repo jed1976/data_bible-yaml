@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 11:15" class="v">15</span>¶
+  And they come to Jerusalem: and Jesus went into the temple, and began to cast
+  out them that sold and bought in the temple, and overthrew the tables of the
+  moneychangers, and the seats of them that sold doves; </p>
+id: MRK/11/15
+next:
+  id: MRK/11/16
+  number: '16'
+previous:
+  id: MRK/11/14
+  number: '14'
+reference: 'Mark 11:15'

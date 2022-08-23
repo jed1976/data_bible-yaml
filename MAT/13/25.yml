@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 13:25"
+  class="v">25</span><span class="wj">But while men slept, his enemy came and
+  sowed tares among the wheat, and went his way.</span> </p>
+id: MAT/13/25
+next:
+  id: MAT/13/26
+  number: '26'
+previous:
+  id: MAT/13/24
+  number: '24'
+reference: 'Matthew 13:25'

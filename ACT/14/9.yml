@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 14:9" class="v">9</span>The
+  same heard Paul speak: who stedfastly beholding him, and perceiving that he
+  had faith to be healed, </p>
+id: ACT/14/9
+next:
+  id: ACT/14/10
+  number: '10'
+previous:
+  id: ACT/14/8
+  number: '8'
+reference: 'Acts 14:9'

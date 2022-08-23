@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 6:18" class="v">18</span>The
+  paths of their way are turned aside; they go to nothing, and perish. </p>
+id: JOB/6/18
+next:
+  id: JOB/6/19
+  number: '19'
+previous:
+  id: JOB/6/17
+  number: '17'
+reference: 'Job 6:18'

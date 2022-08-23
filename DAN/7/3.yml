@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 7:3" class="v">3</span>And
+  four great beasts came up from the sea, diverse one from another. </p>
+id: DAN/7/3
+next:
+  id: DAN/7/4
+  number: '4'
+previous:
+  id: DAN/7/2
+  number: '2'
+reference: 'Daniel 7:3'

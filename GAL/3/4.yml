@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GAL 3:4" class="v">4</span>Have
+  ye suffered so many things in vain? if <span class="add">it be</span> yet in
+  vain. </p>
+id: GAL/3/4
+next:
+  id: GAL/3/5
+  number: '5'
+previous:
+  id: GAL/3/3
+  number: '3'
+reference: 'Galatians 3:4'

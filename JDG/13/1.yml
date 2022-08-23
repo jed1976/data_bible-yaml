@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 13:1" class="v">1</span>And
+  the children of Israel did evil again in the sight of the <span
+  class="nd">LORD</span>; and the <span class="nd">LORD</span> delivered them
+  into the hand of the Philistines forty years.</p>
+id: JDG/13/1
+next:
+  id: JDG/13/2
+  number: '2'
+previous:
+  id: JDG/12/15
+  number: '15'
+reference: 'Judges 13:1'

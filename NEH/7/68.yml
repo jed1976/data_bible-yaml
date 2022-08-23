@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="68" data-sid="NEH 7:68"
+  class="v">68</span>Their horses, seven hundred thirty and six: their mules,
+  two hundred forty and five: </p>
+id: NEH/7/68
+next:
+  id: NEH/7/69
+  number: '69'
+previous:
+  id: NEH/7/67
+  number: '67'
+reference: 'Nehemiah 7:68'

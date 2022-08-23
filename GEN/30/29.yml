@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 30:29"
+  class="v">29</span>And he said unto him, Thou knowest how I have served thee,
+  and how thy cattle was with me. </p>
+id: GEN/30/29
+next:
+  id: GEN/30/30
+  number: '30'
+previous:
+  id: GEN/30/28
+  number: '28'
+reference: 'Genesis 30:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 7:5" class="v">5</span>Then
+  said I, O Lord <span class="nd">GOD</span>, cease, I beseech thee: by whom
+  shall Jacob arise? for he <span class="add">is</span> small. </p>
+id: AMO/7/5
+next:
+  id: AMO/7/6
+  number: '6'
+previous:
+  id: AMO/7/4
+  number: '4'
+reference: 'Amos 7:5'

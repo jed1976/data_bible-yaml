@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 6:9" class="v">9</span>And as
+  troops of robbers wait for a man, <span class="add">so</span> the company of
+  priests murder in the way by consent: for they commit lewdness. </p>
+id: HOS/6/9
+next:
+  id: HOS/6/10
+  number: '10'
+previous:
+  id: HOS/6/8
+  number: '8'
+reference: 'Hosea 6:9'

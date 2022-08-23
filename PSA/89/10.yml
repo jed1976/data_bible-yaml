@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 89:10"
+  class="v">10</span>Thou hast broken Rahab in pieces, as one that is slain;
+  thou hast scattered thine enemies with thy strong arm.</p>
+id: PSA/89/10
+next:
+  id: PSA/89/11
+  number: '11'
+previous:
+  id: PSA/89/9
+  number: '9'
+reference: 'Psalms 89:10'

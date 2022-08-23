@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 12:30"
+  class="v">30</span><span class="wj">For all these things do the nations of the
+  world seek after: and your Father knoweth that ye have need of these
+  things.</span></p>
+id: LUK/12/30
+next:
+  id: LUK/12/31
+  number: '31'
+previous:
+  id: LUK/12/29
+  number: '29'
+reference: 'Luke 12:30'

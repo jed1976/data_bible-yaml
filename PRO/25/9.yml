@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 25:9"
+  class="v">9</span>Debate thy cause with thy neighbour <span
+  class="add">himself;</span> and discover not a secret to another: </p>
+id: PRO/25/9
+next:
+  id: PRO/25/10
+  number: '10'
+previous:
+  id: PRO/25/8
+  number: '8'
+reference: 'Proverbs 25:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 43:19"
+  class="v">19</span>Behold, I will do a new thing; now it shall spring forth;
+  shall ye not know it? I will even make a way in the wilderness, <span
+  class="add">and</span> rivers in the desert. </p>
+id: ISA/43/19
+next:
+  id: ISA/43/20
+  number: '20'
+previous:
+  id: ISA/43/18
+  number: '18'
+reference: 'Isaiah 43:19'

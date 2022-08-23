@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 41:29"
+  class="v">29</span>Behold, there come seven years of great plenty throughout
+  all the land of Egypt: </p>
+id: GEN/41/29
+next:
+  id: GEN/41/30
+  number: '30'
+previous:
+  id: GEN/41/28
+  number: '28'
+reference: 'Genesis 41:29'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 54:5" class="v">5</span>He
+  shall reward evil unto mine enemies: cut them off in thy truth.</p>
+id: PSA/54/5
+next:
+  id: PSA/54/6
+  number: '6'
+previous:
+  id: PSA/54/4
+  number: '4'
+reference: 'Psalms 54:5'

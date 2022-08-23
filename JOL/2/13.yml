@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOL 2:13" class="v">13</span>And
+  rend your heart, and not your garments, and turn unto the <span
+  class="nd">LORD</span> your God: for he <span class="add">is</span> gracious
+  and merciful, slow to anger, and of great kindness, and repenteth him of the
+  evil. </p>
+id: JOL/2/13
+next:
+  id: JOL/2/14
+  number: '14'
+previous:
+  id: JOL/2/12
+  number: '12'
+reference: 'Joel 2:13'

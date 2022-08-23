@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EZR 2:30" class="v">30</span>The
+  children of Magbish, an hundred fifty and six. </p>
+id: EZR/2/30
+next:
+  id: EZR/2/31
+  number: '31'
+previous:
+  id: EZR/2/29
+  number: '29'
+reference: 'Ezra 2:30'

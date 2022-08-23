@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 12:7" class="v">7</span>And
+  there was war in heaven: Michael and his angels fought against the dragon; and
+  the dragon fought and his angels, </p>
+id: REV/12/7
+next:
+  id: REV/12/8
+  number: '8'
+previous:
+  id: REV/12/6
+  number: '6'
+reference: 'Revelation 12:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 7:9" class="v">9</span>And
+  the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
+  </p>
+id: ACT/7/9
+next:
+  id: ACT/7/10
+  number: '10'
+previous:
+  id: ACT/7/8
+  number: '8'
+reference: 'Acts 7:9'

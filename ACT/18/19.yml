@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 18:19"
+  class="v">19</span>And he came to Ephesus, and left them there: but he himself
+  entered into the synagogue, and reasoned with the Jews. </p>
+id: ACT/18/19
+next:
+  id: ACT/18/20
+  number: '20'
+previous:
+  id: ACT/18/18
+  number: '18'
+reference: 'Acts 18:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="DAN 2:36" class="v">36</span>¶
+  This <span class="add">is</span> the dream; and we will tell the
+  interpretation thereof before the king. </p>
+id: DAN/2/36
+next:
+  id: DAN/2/37
+  number: '37'
+previous:
+  id: DAN/2/35
+  number: '35'
+reference: 'Daniel 2:36'

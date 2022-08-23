@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 26:24"
+  class="v">24</span>And the <span class="nd">LORD</span> appeared unto him the
+  same night, and said, I <span class="add">am</span> the God of Abraham thy
+  father: fear not, for I <span class="add">am</span> with thee, and will bless
+  thee, and multiply thy seed for my servant Abraham’s sake. </p>
+id: GEN/26/24
+next:
+  id: GEN/26/25
+  number: '25'
+previous:
+  id: GEN/26/23
+  number: '23'
+reference: 'Genesis 26:24'

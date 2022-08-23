@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 7:17" class="v">17</span>And
+  the flood was forty days upon the earth; and the waters increased, and bare up
+  the ark, and it was lift up above the earth. </p>
+id: GEN/7/17
+next:
+  id: GEN/7/18
+  number: '18'
+previous:
+  id: GEN/7/16
+  number: '16'
+reference: 'Genesis 7:17'

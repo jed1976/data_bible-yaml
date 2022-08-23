@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 7:8" class="v">8</span>And he
+  gave him the covenant of circumcision: and so <span class="add">Abraham</span>
+  begat Isaac, and circumcised him the eighth day; and Isaac <span
+  class="add">begat</span> Jacob; and Jacob <span class="add">begat</span> the
+  twelve patriarchs. </p>
+id: ACT/7/8
+next:
+  id: ACT/7/9
+  number: '9'
+previous:
+  id: ACT/7/7
+  number: '7'
+reference: 'Acts 7:8'

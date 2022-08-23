@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 12:6" class="v">6</span>Or
+  ever the silver cord be loosed, or the golden bowl be broken, or the pitcher
+  be broken at the fountain, or the wheel broken at the cistern. </p>
+id: ECC/12/6
+next:
+  id: ECC/12/7
+  number: '7'
+previous:
+  id: ECC/12/5
+  number: '5'
+reference: 'Ecclesiastes 12:6'

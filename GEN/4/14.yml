@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 4:14"
+  class="v">14</span>Behold, thou hast driven me out this day from the face of
+  the earth; and from thy face shall I be hid; and I shall be a fugitive and a
+  vagabond in the earth; and it shall come to pass, <span
+  class="add">that</span> every one that findeth me shall slay me. </p>
+id: GEN/4/14
+next:
+  id: GEN/4/15
+  number: '15'
+previous:
+  id: GEN/4/13
+  number: '13'
+reference: 'Genesis 4:14'

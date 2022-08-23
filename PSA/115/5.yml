@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 115:5"
+  class="v">5</span>They have mouths, but they speak not: eyes have they, but
+  they see not:</p>
+id: PSA/115/5
+next:
+  id: PSA/115/6
+  number: '6'
+previous:
+  id: PSA/115/4
+  number: '4'
+reference: 'Psalms 115:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 37:3" class="v">3</span>And
+  they said unto him, Thus saith Hezekiah, This day <span class="add">is</span>
+  a day of trouble, and of rebuke, and of blasphemy: for the children are come
+  to the birth, and <span class="add">there is</span> not strength to bring
+  forth. </p>
+id: ISA/37/3
+next:
+  id: ISA/37/4
+  number: '4'
+previous:
+  id: ISA/37/2
+  number: '2'
+reference: 'Isaiah 37:3'

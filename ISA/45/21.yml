@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 45:21"
+  class="v">21</span>Tell ye, and bring <span class="add">them</span> near; yea,
+  let them take counsel together: who hath declared this from ancient time?
+  <span class="add">who</span> hath told it from that time? <span
+  class="add">have</span> not I the <span class="nd">LORD</span>? and <span
+  class="add">there is</span> no God else beside me; a just God and a Saviour;
+  <span class="add">there is</span> none beside me. </p>
+id: ISA/45/21
+next:
+  id: ISA/45/22
+  number: '22'
+previous:
+  id: ISA/45/20
+  number: '20'
+reference: 'Isaiah 45:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1PE 2:11"
+  class="v">11</span>Dearly beloved, I beseech <span class="add">you</span> as
+  strangers and pilgrims, abstain from fleshly lusts, which war against the
+  soul; </p>
+id: 1PE/2/11
+next:
+  id: 1PE/2/12
+  number: '12'
+previous:
+  id: 1PE/2/10
+  number: '10'
+reference: '1 Peter 2:11'

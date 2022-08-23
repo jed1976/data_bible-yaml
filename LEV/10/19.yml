@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 10:19"
+  class="v">19</span>And Aaron said unto Moses, Behold, this day have they
+  offered their sin offering and their burnt offering before the <span
+  class="nd">LORD</span>; and such things have befallen me: and <span
+  class="add">if</span> I had eaten the sin offering to day, should it have been
+  accepted in the sight of the <span class="nd">LORD</span>? </p>
+id: LEV/10/19
+next:
+  id: LEV/10/20
+  number: '20'
+previous:
+  id: LEV/10/18
+  number: '18'
+reference: 'Leviticus 10:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 24:5" class="v">5</span>For
+  we have found this man <span class="add">a</span> pestilent <span
+  class="add">fellow</span>, and a mover of sedition among all the Jews
+  throughout the world, and a ringleader of the sect of the Nazarenes: </p>
+id: ACT/24/5
+next:
+  id: ACT/24/6
+  number: '6'
+previous:
+  id: ACT/24/4
+  number: '4'
+reference: 'Acts 24:5'

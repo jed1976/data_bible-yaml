@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 17:17"
+  class="v">17</span>Then Abraham fell upon his face, and laughed, and said in
+  his heart, Shall <span class="add">a child</span> be born unto him that is an
+  hundred years old? and shall Sarah, that is ninety years old, bear? </p>
+id: GEN/17/17
+next:
+  id: GEN/17/18
+  number: '18'
+previous:
+  id: GEN/17/16
+  number: '16'
+reference: 'Genesis 17:17'

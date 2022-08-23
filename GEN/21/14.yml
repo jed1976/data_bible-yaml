@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 21:14"
+  class="v">14</span>And Abraham rose up early in the morning, and took bread,
+  and a bottle of water, and gave <span class="add">it</span> unto Hagar,
+  putting <span class="add">it</span> on her shoulder, and the child, and sent
+  her away: and she departed, and wandered in the wilderness of Beer-sheba. </p>
+id: GEN/21/14
+next:
+  id: GEN/21/15
+  number: '15'
+previous:
+  id: GEN/21/13
+  number: '13'
+reference: 'Genesis 21:14'

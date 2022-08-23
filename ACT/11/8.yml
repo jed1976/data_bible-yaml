@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 11:8" class="v">8</span>But I
+  said, Not so, Lord: for nothing common or unclean hath at any time entered
+  into my mouth. </p>
+id: ACT/11/8
+next:
+  id: ACT/11/9
+  number: '9'
+previous:
+  id: ACT/11/7
+  number: '7'
+reference: 'Acts 11:8'

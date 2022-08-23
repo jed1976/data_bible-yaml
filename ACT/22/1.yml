@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 22:1" class="v">1</span>Men,
+  brethren, and fathers, hear ye my defence <span class="add">which I
+  make</span> now unto you. </p>
+id: ACT/22/1
+next:
+  id: ACT/22/2
+  number: '2'
+previous:
+  id: ACT/21/40
+  number: '40'
+reference: 'Acts 22:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MRK 14:40"
+  class="v">40</span>And when he returned, he found them asleep again, (for
+  their eyes were heavy,) neither wist they what to answer him. </p>
+id: MRK/14/40
+next:
+  id: MRK/14/41
+  number: '41'
+previous:
+  id: MRK/14/39
+  number: '39'
+reference: 'Mark 14:40'

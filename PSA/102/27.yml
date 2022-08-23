@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 102:27"
+  class="v">27</span>But thou <span class="add">art</span> the same, and thy
+  years shall have no end.</p>
+id: PSA/102/27
+next:
+  id: PSA/102/28
+  number: '28'
+previous:
+  id: PSA/102/26
+  number: '26'
+reference: 'Psalms 102:27'

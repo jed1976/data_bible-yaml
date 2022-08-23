@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 11:4" class="v">4</span>And
+  they said, Go to, let us build us a city and a tower, whose top <span
+  class="add">may reach</span> unto heaven; and let us make us a name, lest we
+  be scattered abroad upon the face of the whole earth.</p>
+id: GEN/11/4
+next:
+  id: GEN/11/5
+  number: '5'
+previous:
+  id: GEN/11/3
+  number: '3'
+reference: 'Genesis 11:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CO 9:25" class="v">25</span>And
+  every man that striveth for the mastery is temperate in all things. Now they
+  <span class="add">do it</span> to obtain a corruptible crown; but we an
+  incorruptible. </p>
+id: 1CO/9/25
+next:
+  id: 1CO/9/26
+  number: '26'
+previous:
+  id: 1CO/9/24
+  number: '24'
+reference: '1 Corinthians 9:25'

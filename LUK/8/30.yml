@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 8:30" class="v">30</span>And
+  Jesus asked him, saying, <span class="wj">What is thy name?</span> And he
+  said, Legion: because many devils were entered into him. </p>
+id: LUK/8/30
+next:
+  id: LUK/8/31
+  number: '31'
+previous:
+  id: LUK/8/29
+  number: '29'
+reference: 'Luke 8:30'

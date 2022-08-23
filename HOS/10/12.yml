@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 10:12"
+  class="v">12</span>Sow to yourselves in righteousness, reap in mercy; break up
+  your fallow ground: for <span class="add">it is</span> time to seek the <span
+  class="nd">LORD</span>, till he come and rain righteousness upon you. </p>
+id: HOS/10/12
+next:
+  id: HOS/10/13
+  number: '13'
+previous:
+  id: HOS/10/11
+  number: '11'
+reference: 'Hosea 10:12'

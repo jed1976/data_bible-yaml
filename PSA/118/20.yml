@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 118:20"
+  class="v">20</span>This gate of the <span class="nd">LORD</span>, into which
+  the righteous shall enter.</p>
+id: PSA/118/20
+next:
+  id: PSA/118/21
+  number: '21'
+previous:
+  id: PSA/118/19
+  number: '19'
+reference: 'Psalms 118:20'

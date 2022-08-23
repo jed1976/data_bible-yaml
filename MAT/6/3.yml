@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 6:3" class="v">3</span><span
+  class="wj">But when thou doest alms, let not thy left hand know what thy right
+  hand doeth:</span> </p>
+id: MAT/6/3
+next:
+  id: MAT/6/4
+  number: '4'
+previous:
+  id: MAT/6/2
+  number: '2'
+reference: 'Matthew 6:3'

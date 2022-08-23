@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 3:7"
+  class="v">7</span>Arise, O <span class="nd">LORD</span>; save me, O my God:
+  for thou hast smitten all mine enemies <span class="add">upon</span> the cheek
+  bone; thou hast broken the teeth of the ungodly.</p>
+id: PSA/3/7
+next:
+  id: PSA/3/8
+  number: '8'
+previous:
+  id: PSA/3/6
+  number: '6'
+reference: 'Psalms 3:7'

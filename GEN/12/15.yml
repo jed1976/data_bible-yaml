@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 12:15"
+  class="v">15</span>The princes also of Pharaoh saw her, and commended her
+  before Pharaoh: and the woman was taken into Pharaoh’s house. </p>
+id: GEN/12/15
+next:
+  id: GEN/12/16
+  number: '16'
+previous:
+  id: GEN/12/14
+  number: '14'
+reference: 'Genesis 12:15'

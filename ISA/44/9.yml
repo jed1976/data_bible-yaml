@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 44:9" class="v">9</span>¶
+  They that make a graven image <span class="add">are</span> all of them vanity;
+  and their delectable things shall not profit; and they <span
+  class="add">are</span> their own witnesses; they see not, nor know; that they
+  may be ashamed. </p>
+id: ISA/44/9
+next:
+  id: ISA/44/10
+  number: '10'
+previous:
+  id: ISA/44/8
+  number: '8'
+reference: 'Isaiah 44:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1SA 7:11" class="v">11</span>And
+  the men of Israel went out of Mizpeh, and pursued the Philistines, and smote
+  them, until <span class="add">they came</span> under Beth-car. </p>
+id: 1SA/7/11
+next:
+  id: 1SA/7/12
+  number: '12'
+previous:
+  id: 1SA/7/10
+  number: '10'
+reference: '1 Samuel 7:11'

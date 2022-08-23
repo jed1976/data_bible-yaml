@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 39:25" class="v">25</span>He
+  saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the
+  thunder of the captains, and the shouting.</p>
+id: JOB/39/25
+next:
+  id: JOB/39/26
+  number: '26'
+previous:
+  id: JOB/39/24
+  number: '24'
+reference: 'Job 39:25'

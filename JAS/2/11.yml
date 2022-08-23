@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JAS 2:11" class="v">11</span>For
+  he that said, Do not commit adultery, said also, Do not kill. Now if thou
+  commit no adultery, yet if thou kill, thou art become a transgressor of the
+  law. </p>
+id: JAS/2/11
+next:
+  id: JAS/2/12
+  number: '12'
+previous:
+  id: JAS/2/10
+  number: '10'
+reference: 'James 2:11'

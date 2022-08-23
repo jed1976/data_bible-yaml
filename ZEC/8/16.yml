@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ZEC 8:16" class="v">16</span>¶
+  These <span class="add">are</span> the things that ye shall do; Speak ye every
+  man the truth to his neighbour; execute the judgment of truth and peace in
+  your gates: </p>
+id: ZEC/8/16
+next:
+  id: ZEC/8/17
+  number: '17'
+previous:
+  id: ZEC/8/15
+  number: '15'
+reference: 'Zechariah 8:16'

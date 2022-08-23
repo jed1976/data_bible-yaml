@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EST 8:10" class="v">10</span>And
+  he wrote in the king Ahasuerus’ name, and sealed <span class="add">it</span>
+  with the king’s ring, and sent letters by posts on horseback, <span
+  class="add">and</span> riders on mules, camels, <span class="add">and</span>
+  young dromedaries: </p>
+id: EST/8/10
+next:
+  id: EST/8/11
+  number: '11'
+previous:
+  id: EST/8/9
+  number: '9'
+reference: 'Esther 8:10'

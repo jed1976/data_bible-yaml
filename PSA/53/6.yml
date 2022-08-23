@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 53:6" class="v">6</span>Oh
+  that the salvation of Israel <span class="add">were come</span> out of Zion!
+  When God bringeth back the captivity of his people, Jacob shall rejoice, <span
+  class="add">and</span> Israel shall be glad.</p>
+id: PSA/53/6
+next:
+  id: PSA/54/1
+  number: '1'
+previous:
+  id: PSA/53/5
+  number: '5'
+reference: 'Psalms 53:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HOS 9:13"
+  class="v">13</span>Ephraim, as I saw Tyrus, <span class="add">is</span>
+  planted in a pleasant place: but Ephraim shall bring forth his children to the
+  murderer. </p>
+id: HOS/9/13
+next:
+  id: HOS/9/14
+  number: '14'
+previous:
+  id: HOS/9/12
+  number: '12'
+reference: 'Hosea 9:13'

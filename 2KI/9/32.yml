@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2KI 9:32" class="v">32</span>And
+  he lifted up his face to the window, and said, Who <span class="add">is</span>
+  on my side? who? And there looked out to him two <span class="add">or</span>
+  three eunuchs. </p>
+id: 2KI/9/32
+next:
+  id: 2KI/9/33
+  number: '33'
+previous:
+  id: 2KI/9/31
+  number: '31'
+reference: '2 Kings 9:32'

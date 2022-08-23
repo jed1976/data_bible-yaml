@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EST 1:16" class="v">16</span>And
+  Memucan answered before the king and the princes, Vashti the queen hath not
+  done wrong to the king only, but also to all the princes, and to all the
+  people that <span class="add">are</span> in all the provinces of the king
+  Ahasuerus. </p>
+id: EST/1/16
+next:
+  id: EST/1/17
+  number: '17'
+previous:
+  id: EST/1/15
+  number: '15'
+reference: 'Esther 1:16'

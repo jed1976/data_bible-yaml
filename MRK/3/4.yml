@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 3:4" class="v">4</span>And he
+  saith unto them, <span class="wj">Is it lawful to do good on the sabbath days,
+  or to do evil? to save life, or to kill?</span> But they held their peace.
+  </p>
+id: MRK/3/4
+next:
+  id: MRK/3/5
+  number: '5'
+previous:
+  id: MRK/3/3
+  number: '3'
+reference: 'Mark 3:4'

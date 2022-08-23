@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GAL 5:16"
+  class="v">16</span><span class="add">This</span> I say then, Walk in the
+  Spirit, and ye shall not fulfil the lust of the flesh. </p>
+id: GAL/5/16
+next:
+  id: GAL/5/17
+  number: '17'
+previous:
+  id: GAL/5/15
+  number: '15'
+reference: 'Galatians 5:16'

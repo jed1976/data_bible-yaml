@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 1:9" class="v">9</span>¶ And
+  I spake unto you at that time, saying, I am not able to bear you myself alone:
+  </p>
+id: DEU/1/9
+next:
+  id: DEU/1/10
+  number: '10'
+previous:
+  id: DEU/1/8
+  number: '8'
+reference: 'Deuteronomy 1:9'

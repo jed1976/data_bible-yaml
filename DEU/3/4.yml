@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 3:4" class="v">4</span>And we
+  took all his cities at that time, there was not a city which we took not from
+  them, threescore cities, all the region of Argob, the kingdom of Og in Bashan.
+  </p>
+id: DEU/3/4
+next:
+  id: DEU/3/5
+  number: '5'
+previous:
+  id: DEU/3/3
+  number: '3'
+reference: 'Deuteronomy 3:4'

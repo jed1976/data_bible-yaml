@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 23:10"
+  class="v">10</span>For the land is full of adulterers; for because of swearing
+  the land mourneth; the pleasant places of the wilderness are dried up, and
+  their course is evil, and their force <span class="add">is</span> not right.
+  </p>
+id: JER/23/10
+next:
+  id: JER/23/11
+  number: '11'
+previous:
+  id: JER/23/9
+  number: '9'
+reference: 'Jeremiah 23:10'

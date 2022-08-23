@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 21:1" class="v">1</span>The king shall joy in
+  thy strength, O <span class="nd">LORD</span>; and in thy salvation how greatly
+  shall he rejoice!</p>
+id: PSA/21/1
+next:
+  id: PSA/21/2
+  number: '2'
+previous:
+  id: PSA/20/9
+  number: '9'
+reference: 'Psalms 21:1'

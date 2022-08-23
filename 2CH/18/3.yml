@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 18:3" class="v">3</span>And
+  Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me
+  to Ramoth-gilead? And he answered him, I <span class="add">am</span> as thou
+  <span class="add">art</span>, and my people as thy people; and <span
+  class="add">we will be</span> with thee in the war.</p>
+id: 2CH/18/3
+next:
+  id: 2CH/18/4
+  number: '4'
+previous:
+  id: 2CH/18/2
+  number: '2'
+reference: '2 Chronicles 18:3'

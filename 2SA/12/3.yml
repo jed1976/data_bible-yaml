@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 12:3" class="v">3</span>But
+  the poor <span class="add">man</span> had nothing, save one little ewe lamb,
+  which he had bought and nourished up: and it grew up together with him, and
+  with his children; it did eat of his own meat, and drank of his own cup, and
+  lay in his bosom, and was unto him as a daughter. </p>
+id: 2SA/12/3
+next:
+  id: 2SA/12/4
+  number: '4'
+previous:
+  id: 2SA/12/2
+  number: '2'
+reference: '2 Samuel 12:3'

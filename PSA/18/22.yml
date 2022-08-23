@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 18:22"
+  class="v">22</span>For all his judgments <span class="add">were</span> before
+  me, and I did not put away his statutes from me.</p>
+id: PSA/18/22
+next:
+  id: PSA/18/23
+  number: '23'
+previous:
+  id: PSA/18/21
+  number: '21'
+reference: 'Psalms 18:22'

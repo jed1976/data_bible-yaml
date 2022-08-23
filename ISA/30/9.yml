@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 30:9" class="v">9</span>That
+  this <span class="add">is</span> a rebellious people, lying children, children
+  <span class="add">that</span> will not hear the law of the <span
+  class="nd">LORD</span>: </p>
+id: ISA/30/9
+next:
+  id: ISA/30/10
+  number: '10'
+previous:
+  id: ISA/30/8
+  number: '8'
+reference: 'Isaiah 30:9'

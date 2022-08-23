@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 36:5"
+  class="v">5</span>Behold, God <span class="add">is</span> mighty, and
+  despiseth not <span class="add">any: he is</span> mighty in strength <span
+  class="add">and</span> wisdom. </p>
+id: JOB/36/5
+next:
+  id: JOB/36/6
+  number: '6'
+previous:
+  id: JOB/36/4
+  number: '4'
+reference: 'Job 36:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 3:1" class="v">1</span>Now
+  these <span class="add">are</span> the nations which the <span
+  class="nd">LORD</span> left, to prove Israel by them, <span
+  class="add">even</span> as many <span class="add">of Israel</span> as had not
+  known all the wars of Canaan; </p>
+id: JDG/3/1
+next:
+  id: JDG/3/2
+  number: '2'
+previous:
+  id: JDG/2/23
+  number: '23'
+reference: 'Judges 3:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JHN 6:31" class="v">31</span>Our
+  fathers did eat manna in the desert; as it is written, He gave them bread from
+  heaven to eat. </p>
+id: JHN/6/31
+next:
+  id: JHN/6/32
+  number: '32'
+previous:
+  id: JHN/6/30
+  number: '30'
+reference: 'John 6:31'

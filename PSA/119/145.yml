@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ק KOPH.</span></p><p
+  class="q1"><span data-number="145" data-sid="PSA 119:145"
+  class="v">145</span>I cried with <span class="add">my</span> whole heart; hear
+  me, O <span class="nd">LORD</span>: I will keep thy statutes.</p>
+id: PSA/119/145
+next:
+  id: PSA/119/146
+  number: '146'
+previous:
+  id: PSA/119/144
+  number: '144'
+reference: 'Psalms 119:145'

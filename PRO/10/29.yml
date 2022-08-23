@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 10:29"
+  class="v">29</span>The way of the <span class="nd">LORD</span> <span
+  class="add">is</span> strength to the upright: but destruction <span
+  class="add">shall be</span> to the workers of iniquity. </p>
+id: PRO/10/29
+next:
+  id: PRO/10/30
+  number: '30'
+previous:
+  id: PRO/10/28
+  number: '28'
+reference: 'Proverbs 10:29'

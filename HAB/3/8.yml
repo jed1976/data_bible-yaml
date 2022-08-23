@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HAB 3:8" class="v">8</span>Was
+  the <span class="nd">LORD</span> displeased against the rivers? <span
+  class="add">was</span> thine anger against the rivers? <span
+  class="add">was</span> thy wrath against the sea, that thou didst ride upon
+  thine horses <span class="add">and</span> thy chariots of salvation? </p>
+id: HAB/3/8
+next:
+  id: HAB/3/9
+  number: '9'
+previous:
+  id: HAB/3/7
+  number: '7'
+reference: 'Habakkuk 3:8'

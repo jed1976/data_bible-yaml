@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 30:12"
+  class="v">12</span>When thou takest the sum of the children of Israel after
+  their number, then shall they give every man a ransom for his soul unto the
+  <span class="nd">LORD</span>, when thou numberest them; that there be no
+  plague among them, when <span class="add">thou</span> numberest them. </p>
+id: EXO/30/12
+next:
+  id: EXO/30/13
+  number: '13'
+previous:
+  id: EXO/30/11
+  number: '11'
+reference: 'Exodus 30:12'

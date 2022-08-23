@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 44:14" class="v">14</span>He
+  heweth him down cedars, and taketh the cypress and the oak, which he
+  strengtheneth for himself among the trees of the forest: he planteth an ash,
+  and the rain doth nourish <span class="add">it</span>. </p>
+id: ISA/44/14
+next:
+  id: ISA/44/15
+  number: '15'
+previous:
+  id: ISA/44/13
+  number: '13'
+reference: 'Isaiah 44:14'

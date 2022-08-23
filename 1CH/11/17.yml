@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1CH 11:17"
+  class="v">17</span>And David longed, and said, Oh that one would give me drink
+  of the water of the well of Beth-lehem, that <span class="add">is</span> at
+  the gate! </p>
+id: 1CH/11/17
+next:
+  id: 1CH/11/18
+  number: '18'
+previous:
+  id: 1CH/11/16
+  number: '16'
+reference: '1 Chronicles 11:17'

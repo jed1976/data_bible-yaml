@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 34:13"
+  class="v">13</span>Who hath given him a charge over the earth? or who hath
+  disposed the whole world? </p>
+id: JOB/34/13
+next:
+  id: JOB/34/14
+  number: '14'
+previous:
+  id: JOB/34/12
+  number: '12'
+reference: 'Job 34:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 34:1" class="v">1</span>And
+  Moses went up from the plains of Moab unto the mountain of Nebo, to the top of
+  Pisgah, that <span class="add">is</span> over against Jericho. And the <span
+  class="nd">LORD</span> shewed him all the land of Gilead, unto Dan, </p>
+id: DEU/34/1
+next:
+  id: DEU/34/2
+  number: '2'
+previous:
+  id: DEU/33/29
+  number: '29'
+reference: 'Deuteronomy 34:1'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JHN 10:31"
+  class="v">31</span>Then the Jews took up stones again to stone him. </p>
+id: JHN/10/31
+next:
+  id: JHN/10/32
+  number: '32'
+previous:
+  id: JHN/10/30
+  number: '30'
+reference: 'John 10:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 65:23"
+  class="v">23</span>They shall not labour in vain, nor bring forth for trouble;
+  for they <span class="add">are</span> the seed of the blessed of the <span
+  class="nd">LORD</span>, and their offspring with them. </p>
+id: ISA/65/23
+next:
+  id: ISA/65/24
+  number: '24'
+previous:
+  id: ISA/65/22
+  number: '22'
+reference: 'Isaiah 65:23'

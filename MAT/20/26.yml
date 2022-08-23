@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 20:26"
+  class="v">26</span><span class="wj">But it shall not be so among you: but
+  whosoever will be great among you, let him be your minister;</span> </p>
+id: MAT/20/26
+next:
+  id: MAT/20/27
+  number: '27'
+previous:
+  id: MAT/20/25
+  number: '25'
+reference: 'Matthew 20:26'

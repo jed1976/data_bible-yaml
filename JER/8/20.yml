@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 8:20" class="v">20</span>The
+  harvest is past, the summer is ended, and we are not saved. </p>
+id: JER/8/20
+next:
+  id: JER/8/21
+  number: '21'
+previous:
+  id: JER/8/19
+  number: '19'
+reference: 'Jeremiah 8:20'

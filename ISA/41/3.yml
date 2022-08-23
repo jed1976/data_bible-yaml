@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 41:3" class="v">3</span>He
+  pursued them, <span class="add">and</span> passed safely; <span
+  class="add">even</span> by the way <span class="add">that</span> he had not
+  gone with his feet. </p>
+id: ISA/41/3
+next:
+  id: ISA/41/4
+  number: '4'
+previous:
+  id: ISA/41/2
+  number: '2'
+reference: 'Isaiah 41:3'

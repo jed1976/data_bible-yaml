@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 2:1" class="v">1</span>And it
+  came to pass, when the <span class="nd">LORD</span> would take up Elijah into
+  heaven by a whirlwind, that Elijah went with Elisha from Gilgal. </p>
+id: 2KI/2/1
+next:
+  id: 2KI/2/2
+  number: '2'
+previous:
+  id: 2KI/1/18
+  number: '18'
+reference: '2 Kings 2:1'

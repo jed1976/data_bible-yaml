@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 12:6"
+  class="v">6</span>Having then gifts differing according to the grace that is
+  given to us, whether prophecy, <span class="add">let us prophesy</span>
+  according to the proportion of faith; </p>
+id: ROM/12/6
+next:
+  id: ROM/12/7
+  number: '7'
+previous:
+  id: ROM/12/5
+  number: '5'
+reference: 'Romans 12:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 48:6" class="v">6</span>Fear
+  took hold upon them there, <span class="add">and</span> pain, as of a woman in
+  travail.</p>
+id: PSA/48/6
+next:
+  id: PSA/48/7
+  number: '7'
+previous:
+  id: PSA/48/5
+  number: '5'
+reference: 'Psalms 48:6'

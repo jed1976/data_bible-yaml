@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 29:12"
+  class="v">12</span>And Jacob told Rachel that he <span class="add">was</span>
+  her father’s brother, and that he <span class="add">was</span> Rebekah’s son:
+  and she ran and told her father. </p>
+id: GEN/29/12
+next:
+  id: GEN/29/13
+  number: '13'
+previous:
+  id: GEN/29/11
+  number: '11'
+reference: 'Genesis 29:12'

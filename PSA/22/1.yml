@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician upon Aijeleth Shahar, A Psalm of
+  David.</p><p class="q1"><span data-number="1" data-sid="PSA 22:1"
+  class="v">1</span>My God, my God, why hast thou forsaken me? <span
+  class="add">why art thou so</span> far from helping me, <span class="add">and
+  from</span> the words of my roaring?</p>
+id: PSA/22/1
+next:
+  id: PSA/22/2
+  number: '2'
+previous:
+  id: PSA/21/13
+  number: '13'
+reference: 'Psalms 22:1'

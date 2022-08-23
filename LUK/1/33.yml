@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 1:33" class="v">33</span>And
+  he shall reign over the house of Jacob for ever; and of his kingdom there
+  shall be no end. </p>
+id: LUK/1/33
+next:
+  id: LUK/1/34
+  number: '34'
+previous:
+  id: LUK/1/32
+  number: '32'
+reference: 'Luke 1:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 42:1" class="v">1</span>Then
+  all the captains of the forces, and Johanan the son of Kareah, and Jezaniah
+  the son of Hoshaiah, and all the people from the least even unto the greatest,
+  came near, </p>
+id: JER/42/1
+next:
+  id: JER/42/2
+  number: '2'
+previous:
+  id: JER/41/18
+  number: '18'
+reference: 'Jeremiah 42:1'

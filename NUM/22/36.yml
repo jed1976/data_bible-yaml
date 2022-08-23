@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NUM 22:36" class="v">36</span>¶
+  And when Balak heard that Balaam was come, he went out to meet him unto a city
+  of Moab, which <span class="add">is</span> in the border of Arnon, which <span
+  class="add">is</span> in the utmost coast. </p>
+id: NUM/22/36
+next:
+  id: NUM/22/37
+  number: '37'
+previous:
+  id: NUM/22/35
+  number: '35'
+reference: 'Numbers 22:36'

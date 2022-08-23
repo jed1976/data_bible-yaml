@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 20:4" class="v">4</span>So
+  shall the king of Assyria lead away the Egyptians prisoners, and the
+  Ethiopians captives, young and old, naked and barefoot, even with <span
+  class="add">their</span> buttocks uncovered, to the shame of Egypt. </p>
+id: ISA/20/4
+next:
+  id: ISA/20/5
+  number: '5'
+previous:
+  id: ISA/20/3
+  number: '3'
+reference: 'Isaiah 20:4'

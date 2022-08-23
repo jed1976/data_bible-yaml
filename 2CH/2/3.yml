@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 2:3" class="v">3</span>¶ And
+  Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David
+  my father, and didst send him cedars to build him an house to dwell therein,
+  <span class="add">even so deal with me</span>. </p>
+id: 2CH/2/3
+next:
+  id: 2CH/2/4
+  number: '4'
+previous:
+  id: 2CH/2/2
+  number: '2'
+reference: '2 Chronicles 2:3'

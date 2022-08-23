@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CO 12:22"
+  class="v">22</span>Nay, much more those members of the body, which seem to be
+  more feeble, are necessary: </p>
+id: 1CO/12/22
+next:
+  id: 1CO/12/23
+  number: '23'
+previous:
+  id: 1CO/12/21
+  number: '21'
+reference: '1 Corinthians 12:22'

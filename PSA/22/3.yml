@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 22:3" class="v">3</span>But
+  thou <span class="add">art</span> holy, <span class="add">O thou</span> that
+  inhabitest the praises of Israel.</p>
+id: PSA/22/3
+next:
+  id: PSA/22/4
+  number: '4'
+previous:
+  id: PSA/22/2
+  number: '2'
+reference: 'Psalms 22:3'

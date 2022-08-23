@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 14:27"
+  class="v">27</span>But straightway Jesus spake unto them, saying, <span
+  class="wj">Be of good cheer; it is I; be not afraid.</span> </p>
+id: MAT/14/27
+next:
+  id: MAT/14/28
+  number: '28'
+previous:
+  id: MAT/14/26
+  number: '26'
+reference: 'Matthew 14:27'

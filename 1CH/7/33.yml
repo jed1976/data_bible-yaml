@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CH 7:33" class="v">33</span>And
+  the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These <span
+  class="add">are</span> the children of Japhlet. </p>
+id: 1CH/7/33
+next:
+  id: 1CH/7/34
+  number: '34'
+previous:
+  id: 1CH/7/32
+  number: '32'
+reference: '1 Chronicles 7:33'

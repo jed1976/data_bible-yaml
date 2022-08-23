@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 29:9" class="v">9</span>For,
+  lo, our fathers have fallen by the sword, and our sons and our daughters and
+  our wives <span class="add">are</span> in captivity for this. </p>
+id: 2CH/29/9
+next:
+  id: 2CH/29/10
+  number: '10'
+previous:
+  id: 2CH/29/8
+  number: '8'
+reference: '2 Chronicles 29:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="9" data-sid="PSA 115:9"
+  class="v">9</span>O Israel, trust thou in the <span class="nd">LORD</span>: he
+  <span class="add">is</span> their help and their shield.</p>
+id: PSA/115/9
+next:
+  id: PSA/115/10
+  number: '10'
+previous:
+  id: PSA/115/8
+  number: '8'
+reference: 'Psalms 115:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 46:7" class="v">7</span>His
+  sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and
+  all his seed brought he with him into Egypt.</p>
+id: GEN/46/7
+next:
+  id: GEN/46/8
+  number: '8'
+previous:
+  id: GEN/46/6
+  number: '6'
+reference: 'Genesis 46:7'

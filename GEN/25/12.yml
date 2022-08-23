@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 25:12" class="v">12</span>¶
+  Now these <span class="add">are</span> the generations of Ishmael, Abraham’s
+  son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham: </p>
+id: GEN/25/12
+next:
+  id: GEN/25/13
+  number: '13'
+previous:
+  id: GEN/25/11
+  number: '11'
+reference: 'Genesis 25:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MIC 6:10" class="v">10</span>¶
+  Are there yet the treasures of wickedness in the house of the wicked, and the
+  scant measure <span class="add">that is</span> abominable? </p>
+id: MIC/6/10
+next:
+  id: MIC/6/11
+  number: '11'
+previous:
+  id: MIC/6/9
+  number: '9'
+reference: 'Micah 6:10'

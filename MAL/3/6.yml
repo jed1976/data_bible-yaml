@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAL 3:6" class="v">6</span>For I
+  <span class="add">am</span> the <span class="nd">LORD</span>, I change not;
+  therefore ye sons of Jacob are not consumed.</p>
+id: MAL/3/6
+next:
+  id: MAL/3/7
+  number: '7'
+previous:
+  id: MAL/3/5
+  number: '5'
+reference: 'Malachi 3:6'

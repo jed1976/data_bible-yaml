@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 7:7" class="v">7</span>And
+  Moses <span class="add">was</span> fourscore years old, and Aaron fourscore
+  and three years old, when they spake unto Pharaoh.</p>
+id: EXO/7/7
+next:
+  id: EXO/7/8
+  number: '8'
+previous:
+  id: EXO/7/6
+  number: '6'
+reference: 'Exodus 7:7'

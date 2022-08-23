@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 10:9" class="v">9</span><span
+  class="wj">Provide neither gold, nor silver, nor brass in your purses,</span>
+  </p>
+id: MAT/10/9
+next:
+  id: MAT/10/10
+  number: '10'
+previous:
+  id: MAT/10/8
+  number: '8'
+reference: 'Matthew 10:9'

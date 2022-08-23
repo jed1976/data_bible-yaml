@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 41:21"
+  class="v">21</span>Produce your cause, saith the <span class="nd">LORD</span>;
+  bring forth your strong <span class="add">reasons</span>, saith the King of
+  Jacob. </p>
+id: ISA/41/21
+next:
+  id: ISA/41/22
+  number: '22'
+previous:
+  id: ISA/41/20
+  number: '20'
+reference: 'Isaiah 41:21'

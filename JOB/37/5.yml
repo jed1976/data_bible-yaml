@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 37:5" class="v">5</span>God
+  thundereth marvellously with his voice; great things doeth he, which we cannot
+  comprehend.</p>
+id: JOB/37/5
+next:
+  id: JOB/37/6
+  number: '6'
+previous:
+  id: JOB/37/4
+  number: '4'
+reference: 'Job 37:5'

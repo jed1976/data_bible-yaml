@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="HAB 1:17"
+  class="v">17</span>Shall they therefore empty their net, and not spare
+  continually to slay the nations?</p>
+id: HAB/1/17
+next:
+  id: HAB/2/1
+  number: '1'
+previous:
+  id: HAB/1/16
+  number: '16'
+reference: 'Habakkuk 1:17'

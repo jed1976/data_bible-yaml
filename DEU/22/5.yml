@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 22:5" class="v">5</span>¶ The
+  woman shall not wear that which pertaineth unto a man, neither shall a man put
+  on a woman’s garment: for all that do so <span class="add">are</span>
+  abomination unto the <span class="nd">LORD</span> thy God.</p>
+id: DEU/22/5
+next:
+  id: DEU/22/6
+  number: '6'
+previous:
+  id: DEU/22/4
+  number: '4'
+reference: 'Deuteronomy 22:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 24:15"
+  class="v">15</span>And thou shalt speak unto the children of Israel, saying,
+  Whosoever curseth his God shall bear his sin. </p>
+id: LEV/24/15
+next:
+  id: LEV/24/16
+  number: '16'
+previous:
+  id: LEV/24/14
+  number: '14'
+reference: 'Leviticus 24:15'

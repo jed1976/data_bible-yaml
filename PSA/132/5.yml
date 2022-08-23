@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 132:5"
+  class="v">5</span>Until I find out a place for the <span
+  class="nd">LORD</span>, an habitation for the mighty <span
+  class="add">God</span> of Jacob.</p>
+id: PSA/132/5
+next:
+  id: PSA/132/6
+  number: '6'
+previous:
+  id: PSA/132/4
+  number: '4'
+reference: 'Psalms 132:5'

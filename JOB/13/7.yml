@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 13:7" class="v">7</span>Will
+  ye speak wickedly for God? and talk deceitfully for him? </p>
+id: JOB/13/7
+next:
+  id: JOB/13/8
+  number: '8'
+previous:
+  id: JOB/13/6
+  number: '6'
+reference: 'Job 13:7'

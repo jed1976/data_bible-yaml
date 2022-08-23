@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 36:35"
+  class="v">35</span>And Husham died, and Hadad the son of Bedad, who smote
+  Midian in the field of Moab, reigned in his stead: and the name of his city
+  <span class="add">was</span> Avith. </p>
+id: GEN/36/35
+next:
+  id: GEN/36/36
+  number: '36'
+previous:
+  id: GEN/36/34
+  number: '34'
+reference: 'Genesis 36:35'

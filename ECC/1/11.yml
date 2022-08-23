@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 1:11"
+  class="v">11</span><span class="add">There is</span> no remembrance of former
+  <span class="add">things;</span> neither shall there be <span
+  class="add">any</span> remembrance of <span class="add">things</span> that are
+  to come with <span class="add">those</span> that shall come after.</p>
+id: ECC/1/11
+next:
+  id: ECC/1/12
+  number: '12'
+previous:
+  id: ECC/1/10
+  number: '10'
+reference: 'Ecclesiastes 1:11'

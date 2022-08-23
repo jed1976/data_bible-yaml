@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 18:33"
+  class="v">33</span>Then Pilate entered into the judgment hall again, and
+  called Jesus, and said unto him, Art thou the King of the Jews? </p>
+id: JHN/18/33
+next:
+  id: JHN/18/34
+  number: '34'
+previous:
+  id: JHN/18/32
+  number: '32'
+reference: 'John 18:33'

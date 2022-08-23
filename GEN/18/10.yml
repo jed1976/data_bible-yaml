@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 18:10"
+  class="v">10</span>And he said, I will certainly return unto thee according to
+  the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard
+  <span class="add">it</span> in the tent door, which <span
+  class="add">was</span> behind him. </p>
+id: GEN/18/10
+next:
+  id: GEN/18/11
+  number: '11'
+previous:
+  id: GEN/18/9
+  number: '9'
+reference: 'Genesis 18:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 11:5" class="v">5</span>And
+  the <span class="nd">LORD</span> came down to see the city and the tower,
+  which the children of men builded. </p>
+id: GEN/11/5
+next:
+  id: GEN/11/6
+  number: '6'
+previous:
+  id: GEN/11/4
+  number: '4'
+reference: 'Genesis 11:5'

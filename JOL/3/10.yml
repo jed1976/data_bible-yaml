@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOL 3:10"
+  class="v">10</span>Beat your plowshares into swords, and your pruninghooks
+  into spears: let the weak say, I <span class="add">am</span> strong. </p>
+id: JOL/3/10
+next:
+  id: JOL/3/11
+  number: '11'
+previous:
+  id: JOL/3/9
+  number: '9'
+reference: 'Joel 3:10'

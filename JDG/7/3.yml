@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 7:3" class="v">3</span>Now
+  therefore go to, proclaim in the ears of the people, saying, Whosoever <span
+  class="add">is</span> fearful and afraid, let him return and depart early from
+  mount Gilead. And there returned of the people twenty and two thousand; and
+  there remained ten thousand. </p>
+id: JDG/7/3
+next:
+  id: JDG/7/4
+  number: '4'
+previous:
+  id: JDG/7/2
+  number: '2'
+reference: 'Judges 7:3'

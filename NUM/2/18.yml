@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 2:18" class="v">18</span>¶
+  On the west side <span class="add">shall be</span> the standard of the camp of
+  Ephraim according to their armies: and the captain of the sons of Ephraim
+  <span class="add">shall be</span> Elishama the son of Ammihud. </p>
+id: NUM/2/18
+next:
+  id: NUM/2/19
+  number: '19'
+previous:
+  id: NUM/2/17
+  number: '17'
+reference: 'Numbers 2:18'

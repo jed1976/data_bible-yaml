@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 5:1" class="v">1</span>And
+  the Philistines took the ark of God, and brought it from Eben-ezer unto
+  Ashdod. </p>
+id: 1SA/5/1
+next:
+  id: 1SA/5/2
+  number: '2'
+previous:
+  id: 1SA/4/22
+  number: '22'
+reference: '1 Samuel 5:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 21:15"
+  class="v">15</span><span class="add">It is</span> joy to the just to do
+  judgment: but destruction <span class="add">shall be</span> to the workers of
+  iniquity. </p>
+id: PRO/21/15
+next:
+  id: PRO/21/16
+  number: '16'
+previous:
+  id: PRO/21/14
+  number: '14'
+reference: 'Proverbs 21:15'

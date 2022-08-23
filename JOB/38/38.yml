@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JOB 38:38"
+  class="v">38</span>When the dust groweth into hardness, and the clods cleave
+  fast together? </p>
+id: JOB/38/38
+next:
+  id: JOB/38/39
+  number: '39'
+previous:
+  id: JOB/38/37
+  number: '37'
+reference: 'Job 38:38'

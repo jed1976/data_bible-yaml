@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 6:24"
+  class="v">24</span>Teach me, and I will hold my tongue: and cause me to
+  understand wherein I have erred. </p>
+id: JOB/6/24
+next:
+  id: JOB/6/25
+  number: '25'
+previous:
+  id: JOB/6/23
+  number: '23'
+reference: 'Job 6:24'

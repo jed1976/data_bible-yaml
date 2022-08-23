@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="82" data-sid="NUM 7:82" class="v">82</span>One
+  kid of the goats for a sin offering: </p>
+id: NUM/7/82
+next:
+  id: NUM/7/83
+  number: '83'
+previous:
+  id: NUM/7/81
+  number: '81'
+reference: 'Numbers 7:82'

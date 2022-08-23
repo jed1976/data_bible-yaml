@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 44:24"
+  class="v">24</span>Thus saith the <span class="nd">LORD</span>, thy redeemer,
+  and he that formed thee from the womb, I <span class="add">am</span> the <span
+  class="nd">LORD</span> that maketh all <span class="add">things;</span> that
+  stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;
+  </p>
+id: ISA/44/24
+next:
+  id: ISA/44/25
+  number: '25'
+previous:
+  id: ISA/44/23
+  number: '23'
+reference: 'Isaiah 44:24'

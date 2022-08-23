@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 22:9" class="v">9</span>Thou
+  hast sent widows away empty, and the arms of the fatherless have been broken.
+  </p>
+id: JOB/22/9
+next:
+  id: JOB/22/10
+  number: '10'
+previous:
+  id: JOB/22/8
+  number: '8'
+reference: 'Job 22:9'

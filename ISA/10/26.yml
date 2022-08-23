@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ISA 10:26"
+  class="v">26</span>And the <span class="nd">LORD</span> of hosts shall stir up
+  a scourge for him according to the slaughter of Midian at the rock of Oreb:
+  and <span class="add">as</span> his rod <span class="add">was</span> upon the
+  sea, so shall he lift it up after the manner of Egypt. </p>
+id: ISA/10/26
+next:
+  id: ISA/10/27
+  number: '27'
+previous:
+  id: ISA/10/25
+  number: '25'
+reference: 'Isaiah 10:26'

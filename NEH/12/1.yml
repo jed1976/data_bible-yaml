@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 12:1" class="v">1</span>Now
+  these <span class="add">are</span> the priests and the Levites that went up
+  with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
+  </p>
+id: NEH/12/1
+next:
+  id: NEH/12/2
+  number: '2'
+previous:
+  id: NEH/11/36
+  number: '36'
+reference: 'Nehemiah 12:1'

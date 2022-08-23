@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 8:3" class="v">3</span>And
+  another angel came and stood at the altar, having a golden censer; and there
+  was given unto him much incense, that he should offer <span
+  class="add">it</span> with the prayers of all saints upon the golden altar
+  which was before the throne. </p>
+id: REV/8/3
+next:
+  id: REV/8/4
+  number: '4'
+previous:
+  id: REV/8/2
+  number: '2'
+reference: 'Revelation 8:3'

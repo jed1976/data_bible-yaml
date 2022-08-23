@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 4:6" class="v">6</span>And
+  the priest shall dip his finger in the blood, and sprinkle of the blood seven
+  times before the <span class="nd">LORD</span>, before the vail of the
+  sanctuary. </p>
+id: LEV/4/6
+next:
+  id: LEV/4/7
+  number: '7'
+previous:
+  id: LEV/4/5
+  number: '5'
+reference: 'Leviticus 4:6'

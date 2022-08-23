@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 23:11"
+  class="v">11</span><span class="wj">But he that is greatest among you shall be
+  your servant.</span> </p>
+id: MAT/23/11
+next:
+  id: MAT/23/12
+  number: '12'
+previous:
+  id: MAT/23/10
+  number: '10'
+reference: 'Matthew 23:11'

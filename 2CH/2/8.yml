@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 2:8" class="v">8</span>Send
+  me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know
+  that thy servants can skill to cut timber in Lebanon; and, behold, my servants
+  <span class="add">shall be</span> with thy servants, </p>
+id: 2CH/2/8
+next:
+  id: 2CH/2/9
+  number: '9'
+previous:
+  id: 2CH/2/7
+  number: '7'
+reference: '2 Chronicles 2:8'

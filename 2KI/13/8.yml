@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 13:8" class="v">8</span>¶ Now
+  the rest of the acts of Jehoahaz, and all that he did, and his might, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Israel? </p>
+id: 2KI/13/8
+next:
+  id: 2KI/13/9
+  number: '9'
+previous:
+  id: 2KI/13/7
+  number: '7'
+reference: '2 Kings 13:8'

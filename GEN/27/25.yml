@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 27:25"
+  class="v">25</span>And he said, Bring <span class="add">it</span> near to me,
+  and I will eat of my son’s venison, that my soul may bless thee. And he
+  brought <span class="add">it</span> near to him, and he did eat: and he
+  brought him wine, and he drank. </p>
+id: GEN/27/25
+next:
+  id: GEN/27/26
+  number: '26'
+previous:
+  id: GEN/27/24
+  number: '24'
+reference: 'Genesis 27:25'

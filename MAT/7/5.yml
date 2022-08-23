@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 7:5" class="v">5</span><span
+  class="wj">Thou hypocrite, first cast out the beam out of thine own eye; and
+  then shalt thou see clearly to cast out the mote out of thy brother’s
+  eye.</span></p>
+id: MAT/7/5
+next:
+  id: MAT/7/6
+  number: '6'
+previous:
+  id: MAT/7/4
+  number: '4'
+reference: 'Matthew 7:5'

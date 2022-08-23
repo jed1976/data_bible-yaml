@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 16:18"
+  class="v">18</span><span class="wj">Whosoever putteth away his wife, and
+  marrieth another, committeth adultery: and whosoever marrieth her that is put
+  away from <span class="add">her</span> husband committeth adultery.</span></p>
+id: LUK/16/18
+next:
+  id: LUK/16/19
+  number: '19'
+previous:
+  id: LUK/16/17
+  number: '17'
+reference: 'Luke 16:18'

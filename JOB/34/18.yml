@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 34:18"
+  class="v">18</span><span class="add">Is it fit</span> to say to a king, <span
+  class="add">Thou art</span> wicked? <span class="add">and</span> to princes,
+  <span class="add">Ye are</span> ungodly? </p>
+id: JOB/34/18
+next:
+  id: JOB/34/19
+  number: '19'
+previous:
+  id: JOB/34/17
+  number: '17'
+reference: 'Job 34:18'

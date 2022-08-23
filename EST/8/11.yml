@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EST 8:11"
+  class="v">11</span>Wherein the king granted the Jews which <span
+  class="add">were</span> in every city to gather themselves together, and to
+  stand for their life, to destroy, to slay, and to cause to perish, all the
+  power of the people and province that would assault them, <span
+  class="add">both</span> little ones and women, and <span class="add">to
+  take</span> the spoil of them for a prey, </p>
+id: EST/8/11
+next:
+  id: EST/8/12
+  number: '12'
+previous:
+  id: EST/8/10
+  number: '10'
+reference: 'Esther 8:11'

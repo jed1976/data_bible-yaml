@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="83" data-sid="PSA 119:83"
+  class="v">83</span>For I am become like a bottle in the smoke; <span
+  class="add">yet</span> do I not forget thy statutes.</p>
+id: PSA/119/83
+next:
+  id: PSA/119/84
+  number: '84'
+previous:
+  id: PSA/119/82
+  number: '82'
+reference: 'Psalms 119:83'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2TI 4:1" class="v">1</span>I
+  charge <span class="add">thee</span> therefore before God, and the Lord Jesus
+  Christ, who shall judge the quick and the dead at his appearing and his
+  kingdom; </p>
+id: 2TI/4/1
+next:
+  id: 2TI/4/2
+  number: '2'
+previous:
+  id: 2TI/3/17
+  number: '17'
+reference: '2 Timothy 4:1'

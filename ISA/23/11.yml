@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 23:11" class="v">11</span>He
+  stretched out his hand over the sea, he shook the kingdoms: the <span
+  class="nd">LORD</span> hath given a commandment against the merchant <span
+  class="add">city</span>, to destroy the strong holds thereof. </p>
+id: ISA/23/11
+next:
+  id: ISA/23/12
+  number: '12'
+previous:
+  id: ISA/23/10
+  number: '10'
+reference: 'Isaiah 23:11'

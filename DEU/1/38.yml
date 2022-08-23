@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="DEU 1:38"
+  class="v">38</span><span class="add">But</span> Joshua the son of Nun, which
+  standeth before thee, he shall go in thither: encourage him: for he shall
+  cause Israel to inherit it. </p>
+id: DEU/1/38
+next:
+  id: DEU/1/39
+  number: '39'
+previous:
+  id: DEU/1/37
+  number: '37'
+reference: 'Deuteronomy 1:38'

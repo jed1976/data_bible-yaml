@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAL 2:3"
+  class="v">3</span>Behold, I will corrupt your seed, and spread dung upon your
+  faces, <span class="add">even</span> the dung of your solemn feasts; and <span
+  class="add">one</span> shall take you away with it. </p>
+id: MAL/2/3
+next:
+  id: MAL/2/4
+  number: '4'
+previous:
+  id: MAL/2/2
+  number: '2'
+reference: 'Malachi 2:3'

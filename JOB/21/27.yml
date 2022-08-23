@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 21:27"
+  class="v">27</span>Behold, I know your thoughts, and the devices <span
+  class="add">which</span> ye wrongfully imagine against me. </p>
+id: JOB/21/27
+next:
+  id: JOB/21/28
+  number: '28'
+previous:
+  id: JOB/21/26
+  number: '26'
+reference: 'Job 21:27'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 13:9" class="v">9</span>And
+  it shall be for a sign unto thee upon thine hand, and for a memorial between
+  thine eyes, that the <span class="nd">LORD’s</span> law may be in thy mouth:
+  for with a strong hand hath the <span class="nd">LORD</span> brought thee out
+  of Egypt. </p>
+id: EXO/13/9
+next:
+  id: EXO/13/10
+  number: '10'
+previous:
+  id: EXO/13/8
+  number: '8'
+reference: 'Exodus 13:9'

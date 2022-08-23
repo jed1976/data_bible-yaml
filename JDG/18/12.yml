@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 18:12"
+  class="v">12</span>And they went up, and pitched in Kirjath-jearim, in Judah:
+  wherefore they called that place Mahaneh-dan unto this day: behold, <span
+  class="add">it is</span> behind Kirjath-jearim. </p>
+id: JDG/18/12
+next:
+  id: JDG/18/13
+  number: '13'
+previous:
+  id: JDG/18/11
+  number: '11'
+reference: 'Judges 18:12'

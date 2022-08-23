@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 14:7" class="v">7</span><span
+  class="wj">For ye have the poor with you always, and whensoever ye will ye may
+  do them good: but me ye have not always.</span> </p>
+id: MRK/14/7
+next:
+  id: MRK/14/8
+  number: '8'
+previous:
+  id: MRK/14/6
+  number: '6'
+reference: 'Mark 14:7'

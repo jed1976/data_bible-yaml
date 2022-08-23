@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 35:7"
+  class="v">7</span>Neither shall ye build house, nor sow seed, nor plant
+  vineyard, nor have <span class="add">any:</span> but all your days ye shall
+  dwell in tents; that ye may live many days in the land where ye <span
+  class="add">be</span> strangers. </p>
+id: JER/35/7
+next:
+  id: JER/35/8
+  number: '8'
+previous:
+  id: JER/35/6
+  number: '6'
+reference: 'Jeremiah 35:7'

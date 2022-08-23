@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 2:10" class="v">10</span>And
+  the child grew, and she brought him unto Pharaoh’s daughter, and he became her
+  son. And she called his name Moses: and she said, Because I drew him out of
+  the water.</p>
+id: EXO/2/10
+next:
+  id: EXO/2/11
+  number: '11'
+previous:
+  id: EXO/2/9
+  number: '9'
+reference: 'Exodus 2:10'

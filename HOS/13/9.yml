@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 13:9" class="v">9</span>¶ O
+  Israel, thou hast destroyed thyself; but in me <span class="add">is</span>
+  thine help. </p>
+id: HOS/13/9
+next:
+  id: HOS/13/10
+  number: '10'
+previous:
+  id: HOS/13/8
+  number: '8'
+reference: 'Hosea 13:9'

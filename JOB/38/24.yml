@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 38:24" class="v">24</span>By
+  what way is the light parted, <span class="add">which</span> scattereth the
+  east wind upon the earth?</p>
+id: JOB/38/24
+next:
+  id: JOB/38/25
+  number: '25'
+previous:
+  id: JOB/38/23
+  number: '23'
+reference: 'Job 38:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 34:18"
+  class="v">18</span>And ye shall take one prince of every tribe, to divide the
+  land by inheritance. </p>
+id: NUM/34/18
+next:
+  id: NUM/34/19
+  number: '19'
+previous:
+  id: NUM/34/17
+  number: '17'
+reference: 'Numbers 34:18'

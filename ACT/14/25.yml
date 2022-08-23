@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 14:25"
+  class="v">25</span>And when they had preached the word in Perga, they went
+  down into Attalia: </p>
+id: ACT/14/25
+next:
+  id: ACT/14/26
+  number: '26'
+previous:
+  id: ACT/14/24
+  number: '24'
+reference: 'Acts 14:25'

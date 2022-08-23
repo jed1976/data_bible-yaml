@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 41:23"
+  class="v">23</span>Shew the things that are to come hereafter, that we may
+  know that ye <span class="add">are</span> gods: yea, do good, or do evil, that
+  we may be dismayed, and behold <span class="add">it</span> together. </p>
+id: ISA/41/23
+next:
+  id: ISA/41/24
+  number: '24'
+previous:
+  id: ISA/41/22
+  number: '22'
+reference: 'Isaiah 41:23'

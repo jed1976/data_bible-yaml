@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CO 11:21"
+  class="v">21</span>For in eating every one taketh before <span
+  class="add">other</span> his own supper: and one is hungry, and another is
+  drunken. </p>
+id: 1CO/11/21
+next:
+  id: 1CO/11/22
+  number: '22'
+previous:
+  id: 1CO/11/20
+  number: '20'
+reference: '1 Corinthians 11:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="HEB 11:33"
+  class="v">33</span>Who through faith subdued kingdoms, wrought righteousness,
+  obtained promises, stopped the mouths of lions, </p>
+id: HEB/11/33
+next:
+  id: HEB/11/34
+  number: '34'
+previous:
+  id: HEB/11/32
+  number: '32'
+reference: 'Hebrews 11:33'

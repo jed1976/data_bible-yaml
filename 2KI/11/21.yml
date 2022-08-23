@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 11:21"
+  class="v">21</span>Seven years old <span class="add">was</span> Jehoash when
+  he began to reign.</p>
+id: 2KI/11/21
+next:
+  id: 2KI/12/1
+  number: '1'
+previous:
+  id: 2KI/11/20
+  number: '20'
+reference: '2 Kings 11:21'

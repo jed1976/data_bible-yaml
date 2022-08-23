@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 36:5" class="v">5</span>And
+  Aholibamah bare Jeush, and Jaalam, and Korah: these <span
+  class="add">are</span> the sons of Esau, which were born unto him in the land
+  of Canaan. </p>
+id: GEN/36/5
+next:
+  id: GEN/36/6
+  number: '6'
+previous:
+  id: GEN/36/4
+  number: '4'
+reference: 'Genesis 36:5'

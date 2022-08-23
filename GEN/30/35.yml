@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 30:35"
+  class="v">35</span>And he removed that day the he goats that were ringstraked
+  and spotted, and all the she goats that were speckled and spotted, <span
+  class="add">and</span> every one that had <span class="add">some</span> white
+  in it, and all the brown among the sheep, and gave <span
+  class="add">them</span> into the hand of his sons. </p>
+id: GEN/30/35
+next:
+  id: GEN/30/36
+  number: '36'
+previous:
+  id: GEN/30/34
+  number: '34'
+reference: 'Genesis 30:35'

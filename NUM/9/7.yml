@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 9:7" class="v">7</span>And
+  those men said unto him, We <span class="add">are</span> defiled by the dead
+  body of a man: wherefore are we kept back, that we may not offer an offering
+  of the <span class="nd">LORD</span> in his appointed season among the children
+  of Israel? </p>
+id: NUM/9/7
+next:
+  id: NUM/9/8
+  number: '8'
+previous:
+  id: NUM/9/6
+  number: '6'
+reference: 'Numbers 9:7'

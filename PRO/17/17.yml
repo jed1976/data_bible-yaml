@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 17:17" class="v">17</span>A
+  friend loveth at all times, and a brother is born for adversity. </p>
+id: PRO/17/17
+next:
+  id: PRO/17/18
+  number: '18'
+previous:
+  id: PRO/17/16
+  number: '16'
+reference: 'Proverbs 17:17'

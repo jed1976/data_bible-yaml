@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 20:10" class="v">10</span>¶
+  Wherefore I caused them to go forth out of the land of Egypt, and brought them
+  into the wilderness. </p>
+id: EZK/20/10
+next:
+  id: EZK/20/11
+  number: '11'
+previous:
+  id: EZK/20/9
+  number: '9'
+reference: 'Ezekiel 20:10'

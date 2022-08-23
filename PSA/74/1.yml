@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">Maschil of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 74:1" class="v">1</span>O God, why hast thou cast <span
+  class="add">us</span> off for ever? <span class="add">why</span> doth thine
+  anger smoke against the sheep of thy pasture?</p>
+id: PSA/74/1
+next:
+  id: PSA/74/2
+  number: '2'
+previous:
+  id: PSA/73/28
+  number: '28'
+reference: 'Psalms 74:1'

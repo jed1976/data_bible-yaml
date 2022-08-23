@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 11:21" class="v">21</span>¶
+  And at that time came Joshua, and cut off the Anakims from the mountains, from
+  Hebron, from Debir, from Anab, and from all the mountains of Judah, and from
+  all the mountains of Israel: Joshua destroyed them utterly with their cities.
+  </p>
+id: JOS/11/21
+next:
+  id: JOS/11/22
+  number: '22'
+previous:
+  id: JOS/11/20
+  number: '20'
+reference: 'Joshua 11:21'

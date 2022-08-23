@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 119:42"
+  class="v">42</span>So shall I have wherewith to answer him that reproacheth
+  me: for I trust in thy word.</p>
+id: PSA/119/42
+next:
+  id: PSA/119/43
+  number: '43'
+previous:
+  id: PSA/119/41
+  number: '41'
+reference: 'Psalms 119:42'

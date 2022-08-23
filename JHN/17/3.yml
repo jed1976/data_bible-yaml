@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 17:3" class="v">3</span><span
+  class="wj">And this is life eternal, that they might know thee the only true
+  God, and Jesus Christ, whom thou hast sent.</span> </p>
+id: JHN/17/3
+next:
+  id: JHN/17/4
+  number: '4'
+previous:
+  id: JHN/17/2
+  number: '2'
+reference: 'John 17:3'

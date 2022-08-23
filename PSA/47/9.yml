@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 47:9" class="v">9</span>The
+  princes of the people are gathered together, <span class="add">even</span> the
+  people of the God of Abraham: for the shields of the earth <span
+  class="add">belong</span> unto God: he is greatly exalted.</p>
+id: PSA/47/9
+next:
+  id: PSA/48/1
+  number: '1'
+previous:
+  id: PSA/47/8
+  number: '8'
+reference: 'Psalms 47:9'

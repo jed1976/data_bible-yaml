@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 10:9" class="v">9</span>That
+  if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in
+  thine heart that God hath raised him from the dead, thou shalt be saved. </p>
+id: ROM/10/9
+next:
+  id: ROM/10/10
+  number: '10'
+previous:
+  id: ROM/10/8
+  number: '8'
+reference: 'Romans 10:9'

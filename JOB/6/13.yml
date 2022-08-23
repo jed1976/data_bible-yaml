@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 6:13"
+  class="v">13</span><span class="add">Is</span> not my help in me? and is
+  wisdom driven quite from me?</p>
+id: JOB/6/13
+next:
+  id: JOB/6/14
+  number: '14'
+previous:
+  id: JOB/6/12
+  number: '12'
+reference: 'Job 6:13'

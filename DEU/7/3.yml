@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 7:3"
+  class="v">3</span>Neither shalt thou make marriages with them; thy daughter
+  thou shalt not give unto his son, nor his daughter shalt thou take unto thy
+  son. </p>
+id: DEU/7/3
+next:
+  id: DEU/7/4
+  number: '4'
+previous:
+  id: DEU/7/2
+  number: '2'
+reference: 'Deuteronomy 7:3'

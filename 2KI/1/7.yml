@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2KI 1:7" class="v">7</span>And he
+  said unto them, What manner of man <span class="add">was he</span> which came
+  up to meet you, and told you these words? </p>
+id: 2KI/1/7
+next:
+  id: 2KI/1/8
+  number: '8'
+previous:
+  id: 2KI/1/6
+  number: '6'
+reference: '2 Kings 1:7'

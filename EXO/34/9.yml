@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 34:9" class="v">9</span>And
+  he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray
+  thee, go among us; for it <span class="add">is</span> a stiffnecked people;
+  and pardon our iniquity and our sin, and take us for thine inheritance.</p>
+id: EXO/34/9
+next:
+  id: EXO/34/10
+  number: '10'
+previous:
+  id: EXO/34/8
+  number: '8'
+reference: 'Exodus 34:9'

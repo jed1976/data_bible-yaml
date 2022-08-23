@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 14:13"
+  class="v">13</span>And he sendeth forth two of his disciples, and saith unto
+  them, <span class="wj">Go ye into the city, and there shall meet you a man
+  bearing a pitcher of water: follow him.</span> </p>
+id: MRK/14/13
+next:
+  id: MRK/14/14
+  number: '14'
+previous:
+  id: MRK/14/12
+  number: '12'
+reference: 'Mark 14:13'

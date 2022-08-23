@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 36:12"
+  class="v">12</span>And Timna was concubine to Eliphaz Esau’s son; and she bare
+  to Eliphaz Amalek: these <span class="add">were</span> the sons of Adah Esau’s
+  wife. </p>
+id: GEN/36/12
+next:
+  id: GEN/36/13
+  number: '13'
+previous:
+  id: GEN/36/11
+  number: '11'
+reference: 'Genesis 36:12'

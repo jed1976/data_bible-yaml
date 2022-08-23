@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 27:7" class="v">7</span>The
+  full soul loatheth an honeycomb; but to the hungry soul every bitter thing is
+  sweet. </p>
+id: PRO/27/7
+next:
+  id: PRO/27/8
+  number: '8'
+previous:
+  id: PRO/27/6
+  number: '6'
+reference: 'Proverbs 27:7'

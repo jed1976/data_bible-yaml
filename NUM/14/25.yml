@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 14:25"
+  class="v">25</span>(Now the Amalekites and the Canaanites dwelt in the
+  valley.) To morrow turn you, and get you into the wilderness by the way of the
+  Red sea.</p>
+id: NUM/14/25
+next:
+  id: NUM/14/26
+  number: '26'
+previous:
+  id: NUM/14/24
+  number: '24'
+reference: 'Numbers 14:25'

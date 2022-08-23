@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MRK 14:45"
+  class="v">45</span>And as soon as he was come, he goeth straightway to him,
+  and saith, Master, master; and kissed him.</p>
+id: MRK/14/45
+next:
+  id: MRK/14/46
+  number: '46'
+previous:
+  id: MRK/14/44
+  number: '44'
+reference: 'Mark 14:45'

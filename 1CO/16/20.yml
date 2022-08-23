@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 16:20"
+  class="v">20</span>All the brethren greet you. Greet ye one another with an
+  holy kiss. </p>
+id: 1CO/16/20
+next:
+  id: 1CO/16/21
+  number: '21'
+previous:
+  id: 1CO/16/19
+  number: '19'
+reference: '1 Corinthians 16:20'

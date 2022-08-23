@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 7:40" class="v">40</span>And
+  Jesus answering said unto him, <span class="wj">Simon, I have somewhat to say
+  unto thee.</span> And he saith, Master, say on. </p>
+id: LUK/7/40
+next:
+  id: LUK/7/41
+  number: '41'
+previous:
+  id: LUK/7/39
+  number: '39'
+reference: 'Luke 7:40'

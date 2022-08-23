@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 14:32"
+  class="v">32</span>This <span class="add">is</span> the law <span
+  class="add">of him</span> in whom <span class="add">is</span> the plague of
+  leprosy, whose hand is not able to get <span class="add">that which
+  pertaineth</span> to his cleansing.</p>
+id: LEV/14/32
+next:
+  id: LEV/14/33
+  number: '33'
+previous:
+  id: LEV/14/31
+  number: '31'
+reference: 'Leviticus 14:32'

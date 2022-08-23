@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 5:6"
+  class="v">6</span>Although affliction cometh not forth of the dust, neither
+  doth trouble spring out of the ground; </p>
+id: JOB/5/6
+next:
+  id: JOB/5/7
+  number: '7'
+previous:
+  id: JOB/5/5
+  number: '5'
+reference: 'Job 5:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 24:21"
+  class="v">21</span>When thou gatherest the grapes of thy vineyard, thou shalt
+  not glean <span class="add">it</span> afterward: it shall be for the stranger,
+  for the fatherless, and for the widow. </p>
+id: DEU/24/21
+next:
+  id: DEU/24/22
+  number: '22'
+previous:
+  id: DEU/24/20
+  number: '20'
+reference: 'Deuteronomy 24:21'

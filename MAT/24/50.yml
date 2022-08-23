@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MAT 24:50"
+  class="v">50</span><span class="wj">The lord of that servant shall come in a
+  day when he looketh not for <span class="add">him</span>, and in an hour that
+  he is not aware of,</span> </p>
+id: MAT/24/50
+next:
+  id: MAT/24/51
+  number: '51'
+previous:
+  id: MAT/24/49
+  number: '49'
+reference: 'Matthew 24:50'

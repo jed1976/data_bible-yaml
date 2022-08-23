@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 4:8" class="v">8</span>I
+  will both lay me down in peace, and sleep: for thou, <span
+  class="nd">LORD</span>, only makest me dwell in safety.</p>
+id: PSA/4/8
+next:
+  id: PSA/5/1
+  number: '1'
+previous:
+  id: PSA/4/7
+  number: '7'
+reference: 'Psalms 4:8'

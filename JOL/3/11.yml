@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOL 3:11"
+  class="v">11</span>Assemble yourselves, and come, all ye heathen, and gather
+  yourselves together round about: thither cause thy mighty ones to come down, O
+  <span class="nd">LORD</span>. </p>
+id: JOL/3/11
+next:
+  id: JOL/3/12
+  number: '12'
+previous:
+  id: JOL/3/10
+  number: '10'
+reference: 'Joel 3:11'

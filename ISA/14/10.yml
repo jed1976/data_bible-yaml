@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 14:10"
+  class="v">10</span>All they shall speak and say unto thee, Art thou also
+  become weak as we? art thou become like unto us? </p>
+id: ISA/14/10
+next:
+  id: ISA/14/11
+  number: '11'
+previous:
+  id: ISA/14/9
+  number: '9'
+reference: 'Isaiah 14:10'

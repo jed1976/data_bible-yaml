@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 17:3" class="v">3</span>And
+  the people thirsted there for water; and the people murmured against Moses,
+  and said, Wherefore <span class="add">is</span> this <span
+  class="add">that</span> thou hast brought us up out of Egypt, to kill us and
+  our children and our cattle with thirst? </p>
+id: EXO/17/3
+next:
+  id: EXO/17/4
+  number: '4'
+previous:
+  id: EXO/17/2
+  number: '2'
+reference: 'Exodus 17:3'

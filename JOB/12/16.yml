@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 12:16"
+  class="v">16</span>With him <span class="add">is</span> strength and wisdom:
+  the deceived and the deceiver <span class="add">are</span> his. </p>
+id: JOB/12/16
+next:
+  id: JOB/12/17
+  number: '17'
+previous:
+  id: JOB/12/15
+  number: '15'
+reference: 'Job 12:16'

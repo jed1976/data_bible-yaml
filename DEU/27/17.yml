@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 27:17"
+  class="v">17</span>Cursed <span class="add">be</span> he that removeth his
+  neighbour’s landmark. And all the people shall say, Amen. </p>
+id: DEU/27/17
+next:
+  id: DEU/27/18
+  number: '18'
+previous:
+  id: DEU/27/16
+  number: '16'
+reference: 'Deuteronomy 27:17'

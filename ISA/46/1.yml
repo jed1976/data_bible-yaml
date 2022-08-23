@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 46:1" class="v">1</span>Bel
+  boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the
+  cattle: your carriages <span class="add">were</span> heavy loaden; <span
+  class="add">they are</span> a burden to the weary <span
+  class="add">beast</span>. </p>
+id: ISA/46/1
+next:
+  id: ISA/46/2
+  number: '2'
+previous:
+  id: ISA/45/25
+  number: '25'
+reference: 'Isaiah 46:1'

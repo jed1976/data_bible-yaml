@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JAS 4:7" class="v">7</span>Submit
+  yourselves therefore to God. Resist the devil, and he will flee from you. </p>
+id: JAS/4/7
+next:
+  id: JAS/4/8
+  number: '8'
+previous:
+  id: JAS/4/6
+  number: '6'
+reference: 'James 4:7'

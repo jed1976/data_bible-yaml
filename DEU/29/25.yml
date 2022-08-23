@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 29:25"
+  class="v">25</span>Then men shall say, Because they have forsaken the covenant
+  of the <span class="nd">LORD</span> God of their fathers, which he made with
+  them when he brought them forth out of the land of Egypt: </p>
+id: DEU/29/25
+next:
+  id: DEU/29/26
+  number: '26'
+previous:
+  id: DEU/29/24
+  number: '24'
+reference: 'Deuteronomy 29:25'

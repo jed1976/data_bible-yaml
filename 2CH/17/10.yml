@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 17:10" class="v">10</span>¶
+  And the fear of the <span class="nd">LORD</span> fell upon all the kingdoms of
+  the lands that <span class="add">were</span> round about Judah, so that they
+  made no war against Jehoshaphat. </p>
+id: 2CH/17/10
+next:
+  id: 2CH/17/11
+  number: '11'
+previous:
+  id: 2CH/17/9
+  number: '9'
+reference: '2 Chronicles 17:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 25:6" class="v">6</span>And
+  when he had tarried among them more than ten days, he went down unto Cæsarea;
+  and the next day sitting on the judgment seat commanded Paul to be brought.
+  </p>
+id: ACT/25/6
+next:
+  id: ACT/25/7
+  number: '7'
+previous:
+  id: ACT/25/5
+  number: '5'
+reference: 'Acts 25:6'

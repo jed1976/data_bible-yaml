@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 14:6" class="v">6</span>Ye
+  have shamed the counsel of the poor, because the <span class="nd">LORD</span>
+  <span class="add">is</span> his refuge.</p>
+id: PSA/14/6
+next:
+  id: PSA/14/7
+  number: '7'
+previous:
+  id: PSA/14/5
+  number: '5'
+reference: 'Psalms 14:6'

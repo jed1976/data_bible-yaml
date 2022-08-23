@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 1:13" class="v">13</span>¶
+  Then Solomon came <span class="add">from his journey</span> to the high place
+  that <span class="add">was</span> at Gibeon to Jerusalem, from before the
+  tabernacle of the congregation, and reigned over Israel. </p>
+id: 2CH/1/13
+next:
+  id: 2CH/1/14
+  number: '14'
+previous:
+  id: 2CH/1/12
+  number: '12'
+reference: '2 Chronicles 1:13'

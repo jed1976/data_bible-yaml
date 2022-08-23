@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 9:23"
+  class="v">23</span>Then God sent an evil spirit between Abimelech and the men
+  of Shechem; and the men of Shechem dealt treacherously with Abimelech: </p>
+id: JDG/9/23
+next:
+  id: JDG/9/24
+  number: '24'
+previous:
+  id: JDG/9/22
+  number: '22'
+reference: 'Judges 9:23'

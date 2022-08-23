@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 17:3" class="v">3</span>What
+  man soever <span class="add">there be</span> of the house of Israel, that
+  killeth an ox, or lamb, or goat, in the camp, or that killeth <span
+  class="add">it</span> out of the camp, </p>
+id: LEV/17/3
+next:
+  id: LEV/17/4
+  number: '4'
+previous:
+  id: LEV/17/2
+  number: '2'
+reference: 'Leviticus 17:3'

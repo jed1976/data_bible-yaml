@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 2:9" class="v">9</span>So I
+  was great, and increased more than all that were before me in Jerusalem: also
+  my wisdom remained with me. </p>
+id: ECC/2/9
+next:
+  id: ECC/2/10
+  number: '10'
+previous:
+  id: ECC/2/8
+  number: '8'
+reference: 'Ecclesiastes 2:9'

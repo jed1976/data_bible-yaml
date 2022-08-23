@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 14:12"
+  class="v">12</span>There is a way which seemeth right unto a man, but the end
+  thereof <span class="add">are</span> the ways of death. </p>
+id: PRO/14/12
+next:
+  id: PRO/14/13
+  number: '13'
+previous:
+  id: PRO/14/11
+  number: '11'
+reference: 'Proverbs 14:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1PE 5:6" class="v">6</span>Humble
+  yourselves therefore under the mighty hand of God, that he may exalt you in
+  due time: </p>
+id: 1PE/5/6
+next:
+  id: 1PE/5/7
+  number: '7'
+previous:
+  id: 1PE/5/5
+  number: '5'
+reference: '1 Peter 5:6'

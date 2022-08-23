@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 42:4" class="v">4</span>Hear,
+  I beseech thee, and I will speak: I will demand of thee, and declare thou unto
+  me. </p>
+id: JOB/42/4
+next:
+  id: JOB/42/5
+  number: '5'
+previous:
+  id: JOB/42/3
+  number: '3'
+reference: 'Job 42:4'

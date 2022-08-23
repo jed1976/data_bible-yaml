@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 14:14"
+  class="v">14</span>And every raven after his kind, </p>
+id: DEU/14/14
+next:
+  id: DEU/14/15
+  number: '15'
+previous:
+  id: DEU/14/13
+  number: '13'
+reference: 'Deuteronomy 14:14'

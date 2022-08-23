@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 8:8" class="v">8</span><span
+  class="add">There is</span> no man that hath power over the spirit to retain
+  the spirit; neither <span class="add">hath he</span> power in the day of
+  death: and <span class="add">there is</span> no discharge in <span
+  class="add">that</span> war; neither shall wickedness deliver those that are
+  given to it.</p>
+id: ECC/8/8
+next:
+  id: ECC/8/9
+  number: '9'
+previous:
+  id: ECC/8/7
+  number: '7'
+reference: 'Ecclesiastes 8:8'

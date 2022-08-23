@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 14:6" class="v">6</span>But
+  when Herod’s birthday was kept, the daughter of Herodias danced before them,
+  and pleased Herod. </p>
+id: MAT/14/6
+next:
+  id: MAT/14/7
+  number: '7'
+previous:
+  id: MAT/14/5
+  number: '5'
+reference: 'Matthew 14:6'

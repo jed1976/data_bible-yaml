@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 34:6" class="v">6</span>And
+  the <span class="nd">LORD</span> passed by before him, and proclaimed, The
+  <span class="nd">LORD</span>, The <span class="nd">LORD</span> God, merciful
+  and gracious, longsuffering, and abundant in goodness and truth, </p>
+id: EXO/34/6
+next:
+  id: EXO/34/7
+  number: '7'
+previous:
+  id: EXO/34/5
+  number: '5'
+reference: 'Exodus 34:6'

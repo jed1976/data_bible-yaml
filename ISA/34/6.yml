@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 34:6" class="v">6</span>The
+  sword of the <span class="nd">LORD</span> is filled with blood, it is made fat
+  with fatness, <span class="add">and</span> with the blood of lambs and goats,
+  with the fat of the kidneys of rams: for the <span class="nd">LORD</span> hath
+  a sacrifice in Bozrah, and a great slaughter in the land of Idumea. </p>
+id: ISA/34/6
+next:
+  id: ISA/34/7
+  number: '7'
+previous:
+  id: ISA/34/5
+  number: '5'
+reference: 'Isaiah 34:6'

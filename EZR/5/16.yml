@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZR 5:16"
+  class="v">16</span>Then came the same Sheshbazzar, <span
+  class="add">and</span> laid the foundation of the house of God which <span
+  class="add">is</span> in Jerusalem: and since that time even until now hath it
+  been in building, and <span class="add">yet</span> it is not finished. </p>
+id: EZR/5/16
+next:
+  id: EZR/5/17
+  number: '17'
+previous:
+  id: EZR/5/15
+  number: '15'
+reference: 'Ezra 5:16'

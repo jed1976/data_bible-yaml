@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 49:14" class="v">14</span>¶
+  Issachar <span class="add">is</span> a strong ass couching down between two
+  burdens: </p>
+id: GEN/49/14
+next:
+  id: GEN/49/15
+  number: '15'
+previous:
+  id: GEN/49/13
+  number: '13'
+reference: 'Genesis 49:14'

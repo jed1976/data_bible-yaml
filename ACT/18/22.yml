@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 18:22"
+  class="v">22</span>And when he had landed at Cæsarea, and gone up, and saluted
+  the church, he went down to Antioch. </p>
+id: ACT/18/22
+next:
+  id: ACT/18/23
+  number: '23'
+previous:
+  id: ACT/18/21
+  number: '21'
+reference: 'Acts 18:22'

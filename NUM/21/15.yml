@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 21:15"
+  class="v">15</span>And at the stream of the brooks that goeth down to the
+  dwelling of Ar, and lieth upon the border of Moab. </p>
+id: NUM/21/15
+next:
+  id: NUM/21/16
+  number: '16'
+previous:
+  id: NUM/21/14
+  number: '14'
+reference: 'Numbers 21:15'

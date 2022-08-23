@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CH 12:9" class="v">9</span>Ezer
+  the first, Obadiah the second, Eliab the third, </p>
+id: 1CH/12/9
+next:
+  id: 1CH/12/10
+  number: '10'
+previous:
+  id: 1CH/12/8
+  number: '8'
+reference: '1 Chronicles 12:9'

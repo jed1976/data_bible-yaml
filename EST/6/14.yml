@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EST 6:14" class="v">14</span>And
+  while they <span class="add">were</span> yet talking with him, came the king’s
+  chamberlains, and hasted to bring Haman unto the banquet that Esther had
+  prepared.</p>
+id: EST/6/14
+next:
+  id: EST/7/1
+  number: '1'
+previous:
+  id: EST/6/13
+  number: '13'
+reference: 'Esther 6:14'

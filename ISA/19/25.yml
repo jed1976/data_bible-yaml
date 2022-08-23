@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 19:25"
+  class="v">25</span>Whom the <span class="nd">LORD</span> of hosts shall bless,
+  saying, Blessed <span class="add">be</span> Egypt my people, and Assyria the
+  work of my hands, and Israel mine inheritance.</p>
+id: ISA/19/25
+next:
+  id: ISA/20/1
+  number: '1'
+previous:
+  id: ISA/19/24
+  number: '24'
+reference: 'Isaiah 19:25'

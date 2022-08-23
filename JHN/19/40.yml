@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JHN 19:40"
+  class="v">40</span>Then took they the body of Jesus, and wound it in linen
+  clothes with the spices, as the manner of the Jews is to bury. </p>
+id: JHN/19/40
+next:
+  id: JHN/19/41
+  number: '41'
+previous:
+  id: JHN/19/39
+  number: '39'
+reference: 'John 19:40'

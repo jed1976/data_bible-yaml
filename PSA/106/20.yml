@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 106:20"
+  class="v">20</span>Thus they changed their glory into the similitude of an ox
+  that eateth grass.</p>
+id: PSA/106/20
+next:
+  id: PSA/106/21
+  number: '21'
+previous:
+  id: PSA/106/19
+  number: '19'
+reference: 'Psalms 106:20'

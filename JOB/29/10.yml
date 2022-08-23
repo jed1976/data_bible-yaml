@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 29:10"
+  class="v">10</span>The nobles held their peace, and their tongue cleaved to
+  the roof of their mouth. </p>
+id: JOB/29/10
+next:
+  id: JOB/29/11
+  number: '11'
+previous:
+  id: JOB/29/9
+  number: '9'
+reference: 'Job 29:10'

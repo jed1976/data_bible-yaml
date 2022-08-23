@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 11:20"
+  class="v">20</span>And Reu lived two and thirty years, and begat Serug: </p>
+id: GEN/11/20
+next:
+  id: GEN/11/21
+  number: '21'
+previous:
+  id: GEN/11/19
+  number: '19'
+reference: 'Genesis 11:20'

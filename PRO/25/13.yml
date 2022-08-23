@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 25:13" class="v">13</span>As
+  the cold of snow in the time of harvest, <span class="add">so is</span> a
+  faithful messenger to them that send him: for he refresheth the soul of his
+  masters. </p>
+id: PRO/25/13
+next:
+  id: PRO/25/14
+  number: '14'
+previous:
+  id: PRO/25/12
+  number: '12'
+reference: 'Proverbs 25:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 37:33"
+  class="v">33</span>And he knew it, and said, <span class="add">It is</span> my
+  son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in
+  pieces. </p>
+id: GEN/37/33
+next:
+  id: GEN/37/34
+  number: '34'
+previous:
+  id: GEN/37/32
+  number: '32'
+reference: 'Genesis 37:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 36:20" class="v">20</span>¶
+  These <span class="add">are</span> the sons of Seir the Horite, who inhabited
+  the land; Lotan, and Shobal, and Zibeon, and Anah, </p>
+id: GEN/36/20
+next:
+  id: GEN/36/21
+  number: '21'
+previous:
+  id: GEN/36/19
+  number: '19'
+reference: 'Genesis 36:20'

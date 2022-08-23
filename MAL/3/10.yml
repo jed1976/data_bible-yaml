@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAL 3:10"
+  class="v">10</span>Bring ye all the tithes into the storehouse, that there may
+  be meat in mine house, and prove me now herewith, saith the <span
+  class="nd">LORD</span> of hosts, if I will not open you the windows of heaven,
+  and pour you out a blessing, that <span class="add">there shall</span> not
+  <span class="add">be room</span> enough <span class="add">to receive
+  it</span>. </p>
+id: MAL/3/10
+next:
+  id: MAL/3/11
+  number: '11'
+previous:
+  id: MAL/3/9
+  number: '9'
+reference: 'Malachi 3:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="NUM 26:60"
+  class="v">60</span>And unto Aaron was born Nadab, and Abihu, Eleazar, and
+  Ithamar. </p>
+id: NUM/26/60
+next:
+  id: NUM/26/61
+  number: '61'
+previous:
+  id: NUM/26/59
+  number: '59'
+reference: 'Numbers 26:60'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MIC 5:15" class="v">15</span>And
+  I will execute vengeance in anger and fury upon the heathen, such as they have
+  not heard.</p>
+id: MIC/5/15
+next:
+  id: MIC/6/1
+  number: '1'
+previous:
+  id: MIC/5/14
+  number: '14'
+reference: 'Micah 5:15'

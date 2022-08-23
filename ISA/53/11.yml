@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 53:11" class="v">11</span>He
+  shall see of the travail of his soul, <span class="add">and</span> shall be
+  satisfied: by his knowledge shall my righteous servant justify many; for he
+  shall bear their iniquities. </p>
+id: ISA/53/11
+next:
+  id: ISA/53/12
+  number: '12'
+previous:
+  id: ISA/53/10
+  number: '10'
+reference: 'Isaiah 53:11'

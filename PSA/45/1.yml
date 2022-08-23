@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician upon Shoshannim, for the sons of Korah,
+  Maschil, A Song of loves.</p><p class="q1"><span data-number="1" data-sid="PSA
+  45:1" class="v">1</span>My heart is inditing a good matter: I speak of the
+  things which I have made touching the king: my tongue <span
+  class="add">is</span> the pen of a ready writer.</p>
+id: PSA/45/1
+next:
+  id: PSA/45/2
+  number: '2'
+previous:
+  id: PSA/44/26
+  number: '26'
+reference: 'Psalms 45:1'

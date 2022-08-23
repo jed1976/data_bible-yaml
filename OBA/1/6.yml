@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="OBA 1:6" class="v">6</span>How
+  are <span class="add">the things</span> of Esau searched out! <span
+  class="add">how</span> are his hidden things sought up! </p>
+id: OBA/1/6
+next:
+  id: OBA/1/7
+  number: '7'
+previous:
+  id: OBA/1/5
+  number: '5'
+reference: 'Obadiah 1:6'

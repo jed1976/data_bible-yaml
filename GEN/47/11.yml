@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 47:11" class="v">11</span>¶
+  And Joseph placed his father and his brethren, and gave them a possession in
+  the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh
+  had commanded. </p>
+id: GEN/47/11
+next:
+  id: GEN/47/12
+  number: '12'
+previous:
+  id: GEN/47/10
+  number: '10'
+reference: 'Genesis 47:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 7:5" class="v">5</span>Then
+  the Pharisees and scribes asked him, Why walk not thy disciples according to
+  the tradition of the elders, but eat bread with unwashen hands? </p>
+id: MRK/7/5
+next:
+  id: MRK/7/6
+  number: '6'
+previous:
+  id: MRK/7/4
+  number: '4'
+reference: 'Mark 7:5'

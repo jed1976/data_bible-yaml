@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 21:18"
+  class="v">18</span>And the <span class="add">day</span> following Paul went in
+  with us unto James; and all the elders were present. </p>
+id: ACT/21/18
+next:
+  id: ACT/21/19
+  number: '19'
+previous:
+  id: ACT/21/17
+  number: '17'
+reference: 'Acts 21:18'

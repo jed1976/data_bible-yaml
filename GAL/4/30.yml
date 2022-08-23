@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GAL 4:30"
+  class="v">30</span>Nevertheless what saith the scripture? Cast out the
+  bondwoman and her son: for the son of the bondwoman shall not be heir with the
+  son of the freewoman. </p>
+id: GAL/4/30
+next:
+  id: GAL/4/31
+  number: '31'
+previous:
+  id: GAL/4/29
+  number: '29'
+reference: 'Galatians 4:30'

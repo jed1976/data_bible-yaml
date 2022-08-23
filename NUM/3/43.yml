@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 3:43" class="v">43</span>And
+  all the firstborn males by the number of names, from a month old and upward,
+  of those that were numbered of them, were twenty and two thousand two hundred
+  and threescore and thirteen.</p>
+id: NUM/3/43
+next:
+  id: NUM/3/44
+  number: '44'
+previous:
+  id: NUM/3/42
+  number: '42'
+reference: 'Numbers 3:43'

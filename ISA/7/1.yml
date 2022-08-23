@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 7:1" class="v">1</span>And it
+  came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of
+  Judah, <span class="add">that</span> Rezin the king of Syria, and Pekah the
+  son of Remaliah, king of Israel, went up toward Jerusalem to war against it,
+  but could not prevail against it. </p>
+id: ISA/7/1
+next:
+  id: ISA/7/2
+  number: '2'
+previous:
+  id: ISA/6/13
+  number: '13'
+reference: 'Isaiah 7:1'

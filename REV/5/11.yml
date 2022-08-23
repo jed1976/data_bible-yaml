@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 5:11" class="v">11</span>And
+  I beheld, and I heard the voice of many angels round about the throne and the
+  beasts and the elders: and the number of them was ten thousand times ten
+  thousand, and thousands of thousands; </p>
+id: REV/5/11
+next:
+  id: REV/5/12
+  number: '12'
+previous:
+  id: REV/5/10
+  number: '10'
+reference: 'Revelation 5:11'

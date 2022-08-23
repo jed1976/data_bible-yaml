@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 22:30"
+  class="v">30</span>And the ass said unto Balaam, <span class="add">Am</span>
+  not I thine ass, upon which thou hast ridden ever since <span class="add">I
+  was</span> thine unto this day? was I ever wont to do so unto thee? And he
+  said, Nay. </p>
+id: NUM/22/30
+next:
+  id: NUM/22/31
+  number: '31'
+previous:
+  id: NUM/22/29
+  number: '29'
+reference: 'Numbers 22:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 48:2" class="v">2</span>And
+  <span class="add">one</span> told Jacob, and said, Behold, thy son Joseph
+  cometh unto thee: and Israel strengthened himself, and sat upon the bed. </p>
+id: GEN/48/2
+next:
+  id: GEN/48/3
+  number: '3'
+previous:
+  id: GEN/48/1
+  number: '1'
+reference: 'Genesis 48:2'

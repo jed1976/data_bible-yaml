@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 14:15"
+  class="v">15</span>They smote also the tents of cattle, and carried away sheep
+  and camels in abundance, and returned to Jerusalem.</p>
+id: 2CH/14/15
+next:
+  id: 2CH/15/1
+  number: '1'
+previous:
+  id: 2CH/14/14
+  number: '14'
+reference: '2 Chronicles 14:15'

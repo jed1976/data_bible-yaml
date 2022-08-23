@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 26:13" class="v">13</span>By
+  his spirit he hath garnished the heavens; his hand hath formed the crooked
+  serpent. </p>
+id: JOB/26/13
+next:
+  id: JOB/26/14
+  number: '14'
+previous:
+  id: JOB/26/12
+  number: '12'
+reference: 'Job 26:13'

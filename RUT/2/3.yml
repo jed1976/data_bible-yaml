@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="RUT 2:3" class="v">3</span>And
+  she went, and came, and gleaned in the field after the reapers: and her hap
+  was to light on a part of the field <span class="add">belonging</span> unto
+  Boaz, who <span class="add">was</span> of the kindred of Elimelech.</p>
+id: RUT/2/3
+next:
+  id: RUT/2/4
+  number: '4'
+previous:
+  id: RUT/2/2
+  number: '2'
+reference: 'Ruth 2:3'

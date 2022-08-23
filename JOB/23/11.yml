@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 23:11" class="v">11</span>My
+  foot hath held his steps, his way have I kept, and not declined. </p>
+id: JOB/23/11
+next:
+  id: JOB/23/12
+  number: '12'
+previous:
+  id: JOB/23/10
+  number: '10'
+reference: 'Job 23:11'

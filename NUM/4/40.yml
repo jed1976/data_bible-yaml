@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 4:40"
+  class="v">40</span>Even those that were numbered of them, throughout their
+  families, by the house of their fathers, were two thousand and six hundred and
+  thirty. </p>
+id: NUM/4/40
+next:
+  id: NUM/4/41
+  number: '41'
+previous:
+  id: NUM/4/39
+  number: '39'
+reference: 'Numbers 4:40'

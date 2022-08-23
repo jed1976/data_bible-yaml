@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 10:11"
+  class="v">11</span>Surely the serpent will bite without enchantment; and a
+  babbler is no better.</p>
+id: ECC/10/11
+next:
+  id: ECC/10/12
+  number: '12'
+previous:
+  id: ECC/10/10
+  number: '10'
+reference: 'Ecclesiastes 10:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 2:7" class="v">7</span>And
+  the people served the <span class="nd">LORD</span> all the days of Joshua, and
+  all the days of the elders that outlived Joshua, who had seen all the great
+  works of the <span class="nd">LORD</span>, that he did for Israel. </p>
+id: JDG/2/7
+next:
+  id: JDG/2/8
+  number: '8'
+previous:
+  id: JDG/2/6
+  number: '6'
+reference: 'Judges 2:7'

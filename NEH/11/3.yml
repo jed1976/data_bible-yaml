@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 11:3" class="v">3</span>¶ Now
+  these <span class="add">are</span> the chief of the province that dwelt in
+  Jerusalem: but in the cities of Judah dwelt every one in his possession in
+  their cities, <span class="add">to wit</span>, Israel, the priests, and the
+  Levites, and the Nethinims, and the children of Solomon’s servants. </p>
+id: NEH/11/3
+next:
+  id: NEH/11/4
+  number: '4'
+previous:
+  id: NEH/11/2
+  number: '2'
+reference: 'Nehemiah 11:3'

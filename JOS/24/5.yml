@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 24:5" class="v">5</span>I
+  sent Moses also and Aaron, and I plagued Egypt, according to that which I did
+  among them: and afterward I brought you out. </p>
+id: JOS/24/5
+next:
+  id: JOS/24/6
+  number: '6'
+previous:
+  id: JOS/24/4
+  number: '4'
+reference: 'Joshua 24:5'

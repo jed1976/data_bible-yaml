@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 30:18" class="v">18</span>¶
+  And therefore will the <span class="nd">LORD</span> wait, that he may be
+  gracious unto you, and therefore will he be exalted, that he may have mercy
+  upon you: for the <span class="nd">LORD</span> <span class="add">is</span> a
+  God of judgment: blessed <span class="add">are</span> all they that wait for
+  him. </p>
+id: ISA/30/18
+next:
+  id: ISA/30/19
+  number: '19'
+previous:
+  id: ISA/30/17
+  number: '17'
+reference: 'Isaiah 30:18'

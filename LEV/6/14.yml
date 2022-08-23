@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 6:14" class="v">14</span>¶
+  And this <span class="add">is</span> the law of the meat offering: the sons of
+  Aaron shall offer it before the <span class="nd">LORD</span>, before the
+  altar. </p>
+id: LEV/6/14
+next:
+  id: LEV/6/15
+  number: '15'
+previous:
+  id: LEV/6/13
+  number: '13'
+reference: 'Leviticus 6:14'

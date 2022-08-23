@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 15:11"
+  class="v">11</span>And whomsoever he toucheth that hath the issue, and hath
+  not rinsed his hands in water, he shall wash his clothes, and bathe <span
+  class="add">himself</span> in water, and be unclean until the even. </p>
+id: LEV/15/11
+next:
+  id: LEV/15/12
+  number: '12'
+previous:
+  id: LEV/15/10
+  number: '10'
+reference: 'Leviticus 15:11'

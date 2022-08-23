@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 73:16"
+  class="v">16</span>When I thought to know this, it <span
+  class="add">was</span> too painful for me;</p>
+id: PSA/73/16
+next:
+  id: PSA/73/17
+  number: '17'
+previous:
+  id: PSA/73/15
+  number: '15'
+reference: 'Psalms 73:16'

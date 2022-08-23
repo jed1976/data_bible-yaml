@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 4:5" class="v">5</span>And
+  Azariah the son of Nathan <span class="add">was</span> over the officers: and
+  Zabud the son of Nathan <span class="add">was</span> principal officer, <span
+  class="add">and</span> the king’s friend: </p>
+id: 1KI/4/5
+next:
+  id: 1KI/4/6
+  number: '6'
+previous:
+  id: 1KI/4/4
+  number: '4'
+reference: '1 Kings 4:5'

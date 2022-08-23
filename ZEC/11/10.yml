@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 11:10" class="v">10</span>¶
+  And I took my staff, <span class="add">even</span> Beauty, and cut it asunder,
+  that I might break my covenant which I had made with all the people. </p>
+id: ZEC/11/10
+next:
+  id: ZEC/11/11
+  number: '11'
+previous:
+  id: ZEC/11/9
+  number: '9'
+reference: 'Zechariah 11:10'

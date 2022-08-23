@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 29:8" class="v">8</span>It
+  shall even be as when an hungry <span class="add">man</span> dreameth, and,
+  behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty
+  man dreameth, and, behold, he drinketh; but he awaketh, and, behold, <span
+  class="add">he is</span> faint, and his soul hath appetite: so shall the
+  multitude of all the nations be, that fight against mount Zion.</p>
+id: ISA/29/8
+next:
+  id: ISA/29/9
+  number: '9'
+previous:
+  id: ISA/29/7
+  number: '7'
+reference: 'Isaiah 29:8'

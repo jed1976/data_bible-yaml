@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="61" data-sid="LUK 1:61" class="v">61</span>And
+  they said unto her, There is none of thy kindred that is called by this name.
+  </p>
+id: LUK/1/61
+next:
+  id: LUK/1/62
+  number: '62'
+previous:
+  id: LUK/1/60
+  number: '60'
+reference: 'Luke 1:61'

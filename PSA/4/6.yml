@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 4:6"
+  class="v">6</span><span class="add">There be</span> many that say, Who will
+  shew us <span class="add">any</span> good? <span class="nd">LORD</span>, lift
+  thou up the light of thy countenance upon us.</p>
+id: PSA/4/6
+next:
+  id: PSA/4/7
+  number: '7'
+previous:
+  id: PSA/4/5
+  number: '5'
+reference: 'Psalms 4:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 9:25" class="v">25</span>Now
+  my days are swifter than a post: they flee away, they see no good. </p>
+id: JOB/9/25
+next:
+  id: JOB/9/26
+  number: '26'
+previous:
+  id: JOB/9/24
+  number: '24'
+reference: 'Job 9:25'

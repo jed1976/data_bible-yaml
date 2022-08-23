@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 25:22"
+  class="v">22</span>And all the kings of Tyrus, and all the kings of Zidon, and
+  the kings of the isles which <span class="add">are</span> beyond the sea, </p>
+id: JER/25/22
+next:
+  id: JER/25/23
+  number: '23'
+previous:
+  id: JER/25/21
+  number: '21'
+reference: 'Jeremiah 25:22'

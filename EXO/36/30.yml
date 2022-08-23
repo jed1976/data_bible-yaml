@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 36:30"
+  class="v">30</span>And there were eight boards; and their sockets <span
+  class="add">were</span> sixteen sockets of silver, under every board two
+  sockets.</p>
+id: EXO/36/30
+next:
+  id: EXO/36/31
+  number: '31'
+previous:
+  id: EXO/36/29
+  number: '29'
+reference: 'Exodus 36:30'

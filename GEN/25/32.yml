@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 25:32"
+  class="v">32</span>And Esau said, Behold, I <span class="add">am</span> at the
+  point to die: and what profit shall this birthright do to me? </p>
+id: GEN/25/32
+next:
+  id: GEN/25/33
+  number: '33'
+previous:
+  id: GEN/25/31
+  number: '31'
+reference: 'Genesis 25:32'

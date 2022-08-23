@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 35:12"
+  class="v">12</span>The ark, and the staves thereof, <span
+  class="add">with</span> the mercy seat, and the vail of the covering, </p>
+id: EXO/35/12
+next:
+  id: EXO/35/13
+  number: '13'
+previous:
+  id: EXO/35/11
+  number: '11'
+reference: 'Exodus 35:12'

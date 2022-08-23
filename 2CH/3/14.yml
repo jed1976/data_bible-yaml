@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2CH 3:14" class="v">14</span>¶
+  And he made the vail <span class="add">of</span> blue, and purple, and
+  crimson, and fine linen, and wrought cherubims thereon. </p>
+id: 2CH/3/14
+next:
+  id: 2CH/3/15
+  number: '15'
+previous:
+  id: 2CH/3/13
+  number: '13'
+reference: '2 Chronicles 3:14'

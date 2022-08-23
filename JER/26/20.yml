@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 26:20"
+  class="v">20</span>And there was also a man that prophesied in the name of the
+  <span class="nd">LORD</span>, Urijah the son of Shemaiah of Kirjath-jearim,
+  who prophesied against this city and against this land according to all the
+  words of Jeremiah: </p>
+id: JER/26/20
+next:
+  id: JER/26/21
+  number: '21'
+previous:
+  id: JER/26/19
+  number: '19'
+reference: 'Jeremiah 26:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 9:23"
+  class="v">23</span>Their children also multipliedst thou as the stars of
+  heaven, and broughtest them into the land, concerning which thou hadst
+  promised to their fathers, that they should go in to possess <span
+  class="add">it</span>. </p>
+id: NEH/9/23
+next:
+  id: NEH/9/24
+  number: '24'
+previous:
+  id: NEH/9/22
+  number: '22'
+reference: 'Nehemiah 9:23'

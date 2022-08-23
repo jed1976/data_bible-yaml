@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 3:11" class="v">11</span>And
+  as the lame man which was healed held Peter and John, all the people ran
+  together unto them in the porch that is called Solomon’s, greatly
+  wondering.</p>
+id: ACT/3/11
+next:
+  id: ACT/3/12
+  number: '12'
+previous:
+  id: ACT/3/10
+  number: '10'
+reference: 'Acts 3:11'

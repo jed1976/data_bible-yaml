@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LAM 3:32" class="v">32</span>But
+  though he cause grief, yet will he have compassion according to the multitude
+  of his mercies. </p>
+id: LAM/3/32
+next:
+  id: LAM/3/33
+  number: '33'
+previous:
+  id: LAM/3/31
+  number: '31'
+reference: 'Lamentations 3:32'

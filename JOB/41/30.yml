@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 41:30"
+  class="v">30</span>Sharp stones <span class="add">are</span> under him: he
+  spreadeth sharp pointed things upon the mire. </p>
+id: JOB/41/30
+next:
+  id: JOB/41/31
+  number: '31'
+previous:
+  id: JOB/41/29
+  number: '29'
+reference: 'Job 41:30'

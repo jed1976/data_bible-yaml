@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 9:4" class="v">4</span>¶ Then
+  stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel,
+  Shebaniah, Bunni, Sherebiah, Bani, <span class="add">and</span> Chenani, and
+  cried with a loud voice unto the <span class="nd">LORD</span> their God. </p>
+id: NEH/9/4
+next:
+  id: NEH/9/5
+  number: '5'
+previous:
+  id: NEH/9/3
+  number: '3'
+reference: 'Nehemiah 9:4'

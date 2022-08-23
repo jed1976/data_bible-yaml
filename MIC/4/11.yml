@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MIC 4:11" class="v">11</span>¶
+  Now also many nations are gathered against thee, that say, Let her be defiled,
+  and let our eye look upon Zion. </p>
+id: MIC/4/11
+next:
+  id: MIC/4/12
+  number: '12'
+previous:
+  id: MIC/4/10
+  number: '10'
+reference: 'Micah 4:11'

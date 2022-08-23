@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 23:26"
+  class="v">26</span><span class="wj"><span class="add">Thou</span> blind
+  Pharisee, cleanse first that <span class="add">which is</span> within the cup
+  and platter, that the outside of them may be clean also.</span> </p>
+id: MAT/23/26
+next:
+  id: MAT/23/27
+  number: '27'
+previous:
+  id: MAT/23/25
+  number: '25'
+reference: 'Matthew 23:26'

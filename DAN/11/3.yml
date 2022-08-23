@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 11:3" class="v">3</span>And a
+  mighty king shall stand up, that shall rule with great dominion, and do
+  according to his will. </p>
+id: DAN/11/3
+next:
+  id: DAN/11/4
+  number: '4'
+previous:
+  id: DAN/11/2
+  number: '2'
+reference: 'Daniel 11:3'

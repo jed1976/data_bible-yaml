@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 41:14" class="v">14</span>¶
+  Then Pharaoh sent and called Joseph, and they brought him hastily out of the
+  dungeon: and he shaved <span class="add">himself</span>, and changed his
+  raiment, and came in unto Pharaoh. </p>
+id: GEN/41/14
+next:
+  id: GEN/41/15
+  number: '15'
+previous:
+  id: GEN/41/13
+  number: '13'
+reference: 'Genesis 41:14'

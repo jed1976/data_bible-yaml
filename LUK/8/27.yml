@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 8:27" class="v">27</span>And
+  when he went forth to land, there met him out of the city a certain man, which
+  had devils long time, and ware no clothes, neither abode in <span
+  class="add">any</span> house, but in the tombs. </p>
+id: LUK/8/27
+next:
+  id: LUK/8/28
+  number: '28'
+previous:
+  id: LUK/8/26
+  number: '26'
+reference: 'Luke 8:27'

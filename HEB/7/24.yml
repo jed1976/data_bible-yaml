@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="HEB 7:24" class="v">24</span>But
+  this <span class="add">man</span>, because he continueth ever, hath an
+  unchangeable priesthood. </p>
+id: HEB/7/24
+next:
+  id: HEB/7/25
+  number: '25'
+previous:
+  id: HEB/7/23
+  number: '23'
+reference: 'Hebrews 7:24'

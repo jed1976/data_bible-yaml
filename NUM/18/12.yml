@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 18:12"
+  class="v">12</span>All the best of the oil, and all the best of the wine, and
+  of the wheat, the firstfruits of them which they shall offer unto the <span
+  class="nd">LORD</span>, them have I given thee. </p>
+id: NUM/18/12
+next:
+  id: NUM/18/13
+  number: '13'
+previous:
+  id: NUM/18/11
+  number: '11'
+reference: 'Numbers 18:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 5:6" class="v">6</span>They
+  shall go with their flocks and with their herds to seek the <span
+  class="nd">LORD</span>; but they shall not find <span class="add">him;</span>
+  he hath withdrawn himself from them. </p>
+id: HOS/5/6
+next:
+  id: HOS/5/7
+  number: '7'
+previous:
+  id: HOS/5/5
+  number: '5'
+reference: 'Hosea 5:6'

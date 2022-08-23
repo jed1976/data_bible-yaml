@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LAM 2:3" class="v">3</span>He
+  hath cut off in <span class="add">his</span> fierce anger all the horn of
+  Israel: he hath drawn back his right hand from before the enemy, and he burned
+  against Jacob like a flaming fire, <span class="add">which</span> devoureth
+  round about. </p>
+id: LAM/2/3
+next:
+  id: LAM/2/4
+  number: '4'
+previous:
+  id: LAM/2/2
+  number: '2'
+reference: 'Lamentations 2:3'

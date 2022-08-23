@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EPH 2:8" class="v">8</span>For by
+  grace are ye saved through faith; and that not of yourselves: <span
+  class="add">it is</span> the gift of God: </p>
+id: EPH/2/8
+next:
+  id: EPH/2/9
+  number: '9'
+previous:
+  id: EPH/2/7
+  number: '7'
+reference: 'Ephesians 2:8'

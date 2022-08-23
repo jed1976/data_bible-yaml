@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 3:25" class="v">25</span>For
+  the thing which I greatly feared is come upon me, and that which I was afraid
+  of is come unto me. </p>
+id: JOB/3/25
+next:
+  id: JOB/3/26
+  number: '26'
+previous:
+  id: JOB/3/24
+  number: '24'
+reference: 'Job 3:25'

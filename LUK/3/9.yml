@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 3:9" class="v">9</span>And
+  now also the axe is laid unto the root of the trees: every tree therefore
+  which bringeth not forth good fruit is hewn down, and cast into the fire. </p>
+id: LUK/3/9
+next:
+  id: LUK/3/10
+  number: '10'
+previous:
+  id: LUK/3/8
+  number: '8'
+reference: 'Luke 3:9'

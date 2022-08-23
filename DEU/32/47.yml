@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="DEU 32:47"
+  class="v">47</span>For it <span class="add">is</span> not a vain thing for
+  you; because it <span class="add">is</span> your life: and through this thing
+  ye shall prolong <span class="add">your</span> days in the land, whither ye go
+  over Jordan to possess it. </p>
+id: DEU/32/47
+next:
+  id: DEU/32/48
+  number: '48'
+previous:
+  id: DEU/32/46
+  number: '46'
+reference: 'Deuteronomy 32:47'

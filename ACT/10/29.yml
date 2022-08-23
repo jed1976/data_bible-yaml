@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 10:29"
+  class="v">29</span>Therefore came I <span class="add">unto you</span> without
+  gainsaying, as soon as I was sent for: I ask therefore for what intent ye have
+  sent for me? </p>
+id: ACT/10/29
+next:
+  id: ACT/10/30
+  number: '30'
+previous:
+  id: ACT/10/28
+  number: '28'
+reference: 'Acts 10:29'

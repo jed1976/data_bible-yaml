@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 54:3" class="v">3</span>For
+  thou shalt break forth on the right hand and on the left; and thy seed shall
+  inherit the Gentiles, and make the desolate cities to be inhabited. </p>
+id: ISA/54/3
+next:
+  id: ISA/54/4
+  number: '4'
+previous:
+  id: ISA/54/2
+  number: '2'
+reference: 'Isaiah 54:3'

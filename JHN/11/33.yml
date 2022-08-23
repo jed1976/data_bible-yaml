@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 11:33"
+  class="v">33</span>When Jesus therefore saw her weeping, and the Jews also
+  weeping which came with her, he groaned in the spirit, and was troubled, </p>
+id: JHN/11/33
+next:
+  id: JHN/11/34
+  number: '34'
+previous:
+  id: JHN/11/32
+  number: '32'
+reference: 'John 11:33'

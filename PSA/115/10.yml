@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 115:10"
+  class="v">10</span>O house of Aaron, trust in the <span
+  class="nd">LORD</span>: he <span class="add">is</span> their help and their
+  shield.</p>
+id: PSA/115/10
+next:
+  id: PSA/115/11
+  number: '11'
+previous:
+  id: PSA/115/9
+  number: '9'
+reference: 'Psalms 115:10'

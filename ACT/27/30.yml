@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 27:30"
+  class="v">30</span>And as the shipmen were about to flee out of the ship, when
+  they had let down the boat into the sea, under colour as though they would
+  have cast anchors out of the foreship, </p>
+id: ACT/27/30
+next:
+  id: ACT/27/31
+  number: '31'
+previous:
+  id: ACT/27/29
+  number: '29'
+reference: 'Acts 27:30'

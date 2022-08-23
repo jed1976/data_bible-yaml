@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 9:10" class="v">10</span>And
+  they had tails like unto scorpions, and there were stings in their tails: and
+  their power <span class="add">was</span> to hurt men five months. </p>
+id: REV/9/10
+next:
+  id: REV/9/11
+  number: '11'
+previous:
+  id: REV/9/9
+  number: '9'
+reference: 'Revelation 9:10'

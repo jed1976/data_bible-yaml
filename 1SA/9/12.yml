@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 9:12" class="v">12</span>And
+  they answered them, and said, He is; behold, <span class="add">he is</span>
+  before you: make haste now, for he came to day to the city; for <span
+  class="add">there is</span> a sacrifice of the people to day in the high
+  place: </p>
+id: 1SA/9/12
+next:
+  id: 1SA/9/13
+  number: '13'
+previous:
+  id: 1SA/9/11
+  number: '11'
+reference: '1 Samuel 9:12'

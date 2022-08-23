@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 22:24" class="v">24</span>¶
+  And there was also a strife among them, which of them should be accounted the
+  greatest. </p>
+id: LUK/22/24
+next:
+  id: LUK/22/25
+  number: '25'
+previous:
+  id: LUK/22/23
+  number: '23'
+reference: 'Luke 22:24'

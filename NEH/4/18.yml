@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 4:18" class="v">18</span>For
+  the builders, every one had his sword girded by his side, and <span
+  class="add">so</span> builded. And he that sounded the trumpet <span
+  class="add">was</span> by me.</p>
+id: NEH/4/18
+next:
+  id: NEH/4/19
+  number: '19'
+previous:
+  id: NEH/4/17
+  number: '17'
+reference: 'Nehemiah 4:18'

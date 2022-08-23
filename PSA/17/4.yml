@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 17:4"
+  class="v">4</span>Concerning the works of men, by the word of thy lips I have
+  kept <span class="add">me from</span> the paths of the destroyer.</p>
+id: PSA/17/4
+next:
+  id: PSA/17/5
+  number: '5'
+previous:
+  id: PSA/17/3
+  number: '3'
+reference: 'Psalms 17:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CO 3:16"
+  class="v">16</span>Know ye not that ye are the temple of God, and <span
+  class="add">that</span> the Spirit of God dwelleth in you? </p>
+id: 1CO/3/16
+next:
+  id: 1CO/3/17
+  number: '17'
+previous:
+  id: 1CO/3/15
+  number: '15'
+reference: '1 Corinthians 3:16'

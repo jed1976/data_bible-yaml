@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 8:6" class="v">6</span>For to
+  be carnally minded <span class="add">is</span> death; but to be spiritually
+  minded <span class="add">is</span> life and peace. </p>
+id: ROM/8/6
+next:
+  id: ROM/8/7
+  number: '7'
+previous:
+  id: ROM/8/5
+  number: '5'
+reference: 'Romans 8:6'

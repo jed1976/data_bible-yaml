@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 12:1" class="v">1</span>And
+  at that time shall Michael stand up, the great prince which standeth for the
+  children of thy people: and there shall be a time of trouble, such as never
+  was since there was a nation <span class="add">even</span> to that same time:
+  and at that time thy people shall be delivered, every one that shall be found
+  written in the book. </p>
+id: DAN/12/1
+next:
+  id: DAN/12/2
+  number: '2'
+previous:
+  id: DAN/11/45
+  number: '45'
+reference: 'Daniel 12:1'

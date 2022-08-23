@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="3" data-sid="PSA 63:3"
+  class="v">3</span>Because thy lovingkindness <span class="add">is</span>
+  better than life, my lips shall praise thee.</p>
+id: PSA/63/3
+next:
+  id: PSA/63/4
+  number: '4'
+previous:
+  id: PSA/63/2
+  number: '2'
+reference: 'Psalms 63:3'

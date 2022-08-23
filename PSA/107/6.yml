@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 107:6"
+  class="v">6</span>Then they cried unto the <span class="nd">LORD</span> in
+  their trouble, <span class="add">and</span> he delivered them out of their
+  distresses.</p>
+id: PSA/107/6
+next:
+  id: PSA/107/7
+  number: '7'
+previous:
+  id: PSA/107/5
+  number: '5'
+reference: 'Psalms 107:6'

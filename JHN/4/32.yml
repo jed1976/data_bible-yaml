@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 4:32" class="v">32</span>But
+  he said unto them, <span class="wj">I have meat to eat that ye know not
+  of.</span> </p>
+id: JHN/4/32
+next:
+  id: JHN/4/33
+  number: '33'
+previous:
+  id: JHN/4/31
+  number: '31'
+reference: 'John 4:32'

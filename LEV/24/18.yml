@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LEV 24:18"
+  class="v">18</span>And he that killeth a beast shall make it good; beast for
+  beast. </p>
+id: LEV/24/18
+next:
+  id: LEV/24/19
+  number: '19'
+previous:
+  id: LEV/24/17
+  number: '17'
+reference: 'Leviticus 24:18'

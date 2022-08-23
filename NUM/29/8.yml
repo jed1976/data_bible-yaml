@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 29:8" class="v">8</span>But
+  ye shall offer a burnt offering unto the <span class="nd">LORD</span> <span
+  class="add">for</span> a sweet savour; one young bullock, one ram, <span
+  class="add">and</span> seven lambs of the first year; they shall be unto you
+  without blemish: </p>
+id: NUM/29/8
+next:
+  id: NUM/29/9
+  number: '9'
+previous:
+  id: NUM/29/7
+  number: '7'
+reference: 'Numbers 29:8'

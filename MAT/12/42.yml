@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 12:42"
+  class="v">42</span><span class="wj">The queen of the south shall rise up in
+  the judgment with this generation, and shall condemn it: for she came from the
+  uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a
+  greater than Solomon <span class="add">is</span> here.</span> </p>
+id: MAT/12/42
+next:
+  id: MAT/12/43
+  number: '43'
+previous:
+  id: MAT/12/41
+  number: '41'
+reference: 'Matthew 12:42'

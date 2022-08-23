@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 39:4" class="v">4</span>Their
+  young ones are in good liking, they grow up with corn; they go forth, and
+  return not unto them. </p>
+id: JOB/39/4
+next:
+  id: JOB/39/5
+  number: '5'
+previous:
+  id: JOB/39/3
+  number: '3'
+reference: 'Job 39:4'

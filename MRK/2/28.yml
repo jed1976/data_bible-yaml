@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="MRK 2:28"
+  class="v">28</span><span class="wj">Therefore the Son of man is Lord also of
+  the sabbath.</span></p>
+id: MRK/2/28
+next:
+  id: MRK/3/1
+  number: '1'
+previous:
+  id: MRK/2/27
+  number: '27'
+reference: 'Mark 2:28'

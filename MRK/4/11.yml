@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 4:11" class="v">11</span>And
+  he said unto them, <span class="wj">Unto you it is given to know the mystery
+  of the kingdom of God: but unto them that are without, all <span
+  class="add">these</span> things are done in parables:</span> </p>
+id: MRK/4/11
+next:
+  id: MRK/4/12
+  number: '12'
+previous:
+  id: MRK/4/10
+  number: '10'
+reference: 'Mark 4:11'

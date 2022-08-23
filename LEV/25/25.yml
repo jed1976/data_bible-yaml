@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 25:25" class="v">25</span>¶
+  If thy brother be waxen poor, and hath sold away <span class="add">some</span>
+  of his possession, and if any of his kin come to redeem it, then shall he
+  redeem that which his brother sold. </p>
+id: LEV/25/25
+next:
+  id: LEV/25/26
+  number: '26'
+previous:
+  id: LEV/25/24
+  number: '24'
+reference: 'Leviticus 25:25'

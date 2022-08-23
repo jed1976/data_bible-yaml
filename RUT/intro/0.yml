@@ -1,0 +1,9 @@
+content: <p class="mt1">The Book of Ruth</p>
+id: RUT/intro/0
+next:
+  id: RUT/1/1
+  number: '1'
+previous:
+  id: JDG/21/25
+  number: '25'
+reference: Ruth

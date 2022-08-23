@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="LUK 12:45"
+  class="v">45</span><span class="wj">But and if that servant say in his heart,
+  My lord delayeth his coming; and shall begin to beat the menservants and
+  maidens, and to eat and drink, and to be drunken;</span> </p>
+id: LUK/12/45
+next:
+  id: LUK/12/46
+  number: '46'
+previous:
+  id: LUK/12/44
+  number: '44'
+reference: 'Luke 12:45'

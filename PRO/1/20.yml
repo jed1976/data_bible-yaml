@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 1:20" class="v">20</span>¶
+  Wisdom crieth without; she uttereth her voice in the streets: </p>
+id: PRO/1/20
+next:
+  id: PRO/1/21
+  number: '21'
+previous:
+  id: PRO/1/19
+  number: '19'
+reference: 'Proverbs 1:20'

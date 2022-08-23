@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 29:15"
+  class="v">15</span>Woe unto them that seek deep to hide their counsel from the
+  <span class="nd">LORD</span>, and their works are in the dark, and they say,
+  Who seeth us? and who knoweth us? </p>
+id: ISA/29/15
+next:
+  id: ISA/29/16
+  number: '16'
+previous:
+  id: ISA/29/14
+  number: '14'
+reference: 'Isaiah 29:15'

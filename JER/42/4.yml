@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 42:4" class="v">4</span>Then
+  Jeremiah the prophet said unto them, I have heard <span
+  class="add">you;</span> behold, I will pray unto the <span
+  class="nd">LORD</span> your God according to your words; and it shall come to
+  pass, <span class="add">that</span> whatsoever thing the <span
+  class="nd">LORD</span> shall answer you, I will declare <span
+  class="add">it</span> unto you; I will keep nothing back from you. </p>
+id: JER/42/4
+next:
+  id: JER/42/5
+  number: '5'
+previous:
+  id: JER/42/3
+  number: '3'
+reference: 'Jeremiah 42:4'

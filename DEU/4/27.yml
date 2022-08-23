@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 4:27" class="v">27</span>And
+  the <span class="nd">LORD</span> shall scatter you among the nations, and ye
+  shall be left few in number among the heathen, whither the <span
+  class="nd">LORD</span> shall lead you. </p>
+id: DEU/4/27
+next:
+  id: DEU/4/28
+  number: '28'
+previous:
+  id: DEU/4/26
+  number: '26'
+reference: 'Deuteronomy 4:27'

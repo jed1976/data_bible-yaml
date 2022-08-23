@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 43:27"
+  class="v">27</span>Thy first father hath sinned, and thy teachers have
+  transgressed against me. </p>
+id: ISA/43/27
+next:
+  id: ISA/43/28
+  number: '28'
+previous:
+  id: ISA/43/26
+  number: '26'
+reference: 'Isaiah 43:27'

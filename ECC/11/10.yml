@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 11:10"
+  class="v">10</span>Therefore remove sorrow from thy heart, and put away evil
+  from thy flesh: for childhood and youth <span class="add">are</span>
+  vanity.</p>
+id: ECC/11/10
+next:
+  id: ECC/12/1
+  number: '1'
+previous:
+  id: ECC/11/9
+  number: '9'
+reference: 'Ecclesiastes 11:10'

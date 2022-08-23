@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 4:24" class="v">24</span>But
+  for us also, to whom it shall be imputed, if we believe on him that raised up
+  Jesus our Lord from the dead; </p>
+id: ROM/4/24
+next:
+  id: ROM/4/25
+  number: '25'
+previous:
+  id: ROM/4/23
+  number: '23'
+reference: 'Romans 4:24'

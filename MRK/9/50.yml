@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MRK 9:50"
+  class="v">50</span><span class="wj">Salt <span class="add">is</span> good: but
+  if the salt have lost his saltness, wherewith will ye season it? Have salt in
+  yourselves, and have peace one with another.</span></p>
+id: MRK/9/50
+next:
+  id: MRK/10/1
+  number: '1'
+previous:
+  id: MRK/9/49
+  number: '49'
+reference: 'Mark 9:50'

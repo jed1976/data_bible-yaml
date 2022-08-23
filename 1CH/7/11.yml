@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 7:11" class="v">11</span>All
+  these the sons of Jediael, by the heads of their fathers, mighty men of
+  valour, <span class="add">were</span> seventeen thousand and two hundred <span
+  class="add">soldiers</span>, fit to go out for war <span
+  class="add">and</span> battle. </p>
+id: 1CH/7/11
+next:
+  id: 1CH/7/12
+  number: '12'
+previous:
+  id: 1CH/7/10
+  number: '10'
+reference: '1 Chronicles 7:11'

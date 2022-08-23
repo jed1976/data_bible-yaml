@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 10:19" class="v">19</span>¶
+  While Peter thought on the vision, the Spirit said unto him, Behold, three men
+  seek thee. </p>
+id: ACT/10/19
+next:
+  id: ACT/10/20
+  number: '20'
+previous:
+  id: ACT/10/18
+  number: '18'
+reference: 'Acts 10:19'

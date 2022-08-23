@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MRK 8:31" class="v">31</span>And
+  he began to teach them, that the Son of man must suffer many things, and be
+  rejected of the elders, and <span class="add">of</span> the chief priests, and
+  scribes, and be killed, and after three days rise again. </p>
+id: MRK/8/31
+next:
+  id: MRK/8/32
+  number: '32'
+previous:
+  id: MRK/8/30
+  number: '30'
+reference: 'Mark 8:31'

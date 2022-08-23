@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 14:6" class="v">6</span>Turn
+  from him, that he may rest, till he shall accomplish, as an hireling, his
+  day.</p>
+id: JOB/14/6
+next:
+  id: JOB/14/7
+  number: '7'
+previous:
+  id: JOB/14/5
+  number: '5'
+reference: 'Job 14:6'

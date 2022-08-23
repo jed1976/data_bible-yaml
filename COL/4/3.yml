@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="COL 4:3" class="v">3</span>Withal
+  praying also for us, that God would open unto us a door of utterance, to speak
+  the mystery of Christ, for which I am also in bonds: </p>
+id: COL/4/3
+next:
+  id: COL/4/4
+  number: '4'
+previous:
+  id: COL/4/2
+  number: '2'
+reference: 'Colossians 4:3'

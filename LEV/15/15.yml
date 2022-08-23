@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 15:15"
+  class="v">15</span>And the priest shall offer them, the one <span
+  class="add">for</span> a sin offering, and the other <span
+  class="add">for</span> a burnt offering; and the priest shall make an
+  atonement for him before the <span class="nd">LORD</span> for his issue. </p>
+id: LEV/15/15
+next:
+  id: LEV/15/16
+  number: '16'
+previous:
+  id: LEV/15/14
+  number: '14'
+reference: 'Leviticus 15:15'

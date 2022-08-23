@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 28:3" class="v">3</span>But
+  God said unto me, Thou shalt not build an house for my name, because thou
+  <span class="add">hast been</span> a man of war, and hast shed blood. </p>
+id: 1CH/28/3
+next:
+  id: 1CH/28/4
+  number: '4'
+previous:
+  id: 1CH/28/2
+  number: '2'
+reference: '1 Chronicles 28:3'

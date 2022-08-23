@@ -1,0 +1,12 @@
+content: >-
+  <p class="s1"><span class="tl">ד DALETH.</span></p><p class="q1"><span
+  data-number="25" data-sid="PSA 119:25" class="v">25</span>My soul cleaveth
+  unto the dust: quicken thou me according to thy word.</p>
+id: PSA/119/25
+next:
+  id: PSA/119/26
+  number: '26'
+previous:
+  id: PSA/119/24
+  number: '24'
+reference: 'Psalms 119:25'

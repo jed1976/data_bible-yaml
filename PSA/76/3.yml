@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 76:3"
+  class="v">3</span>There brake he the arrows of the bow, the shield, and the
+  sword, and the battle. Selah.</p>
+id: PSA/76/3
+next:
+  id: PSA/76/4
+  number: '4'
+previous:
+  id: PSA/76/2
+  number: '2'
+reference: 'Psalms 76:3'

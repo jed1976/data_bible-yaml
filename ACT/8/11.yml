@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 8:11" class="v">11</span>And
+  to him they had regard, because that of long time he had bewitched them with
+  sorceries. </p>
+id: ACT/8/11
+next:
+  id: ACT/8/12
+  number: '12'
+previous:
+  id: ACT/8/10
+  number: '10'
+reference: 'Acts 8:11'

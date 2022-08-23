@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JER 33:17" class="v">17</span>¶
+  For thus saith the <span class="nd">LORD</span>; David shall never want a man
+  to sit upon the throne of the house of Israel; </p>
+id: JER/33/17
+next:
+  id: JER/33/18
+  number: '18'
+previous:
+  id: JER/33/16
+  number: '16'
+reference: 'Jeremiah 33:17'

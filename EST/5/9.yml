@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 5:9" class="v">9</span>¶ Then
+  went Haman forth that day joyful and with a glad heart: but when Haman saw
+  Mordecai in the king’s gate, that he stood not up, nor moved for him, he was
+  full of indignation against Mordecai. </p>
+id: EST/5/9
+next:
+  id: EST/5/10
+  number: '10'
+previous:
+  id: EST/5/8
+  number: '8'
+reference: 'Esther 5:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 14:4" class="v">4</span>Where
+  no oxen <span class="add">are</span>, the crib <span class="add">is</span>
+  clean: but much increase <span class="add">is</span> by the strength of the
+  ox. </p>
+id: PRO/14/4
+next:
+  id: PRO/14/5
+  number: '5'
+previous:
+  id: PRO/14/3
+  number: '3'
+reference: 'Proverbs 14:4'

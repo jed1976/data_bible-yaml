@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JON 1:9" class="v">9</span>And he
+  said unto them, I <span class="add">am</span> an Hebrew; and I fear the <span
+  class="nd">LORD</span>, the God of heaven, which hath made the sea and the dry
+  <span class="add">land</span>. </p>
+id: JON/1/9
+next:
+  id: JON/1/10
+  number: '10'
+previous:
+  id: JON/1/8
+  number: '8'
+reference: 'Jonah 1:9'

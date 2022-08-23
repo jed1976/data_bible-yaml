@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 5:13"
+  class="v">13</span>There is a sore evil <span class="add">which</span> I have
+  seen under the sun, <span class="add">namely</span>, riches kept for the
+  owners thereof to their hurt. </p>
+id: ECC/5/13
+next:
+  id: ECC/5/14
+  number: '14'
+previous:
+  id: ECC/5/12
+  number: '12'
+reference: 'Ecclesiastes 5:13'

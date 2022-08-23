@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 2:9" class="v">9</span>¶ Yet
+  destroyed I the Amorite before them, whose height <span class="add">was</span>
+  like the height of the cedars, and he <span class="add">was</span> strong as
+  the oaks; yet I destroyed his fruit from above, and his roots from beneath.
+  </p>
+id: AMO/2/9
+next:
+  id: AMO/2/10
+  number: '10'
+previous:
+  id: AMO/2/8
+  number: '8'
+reference: 'Amos 2:9'

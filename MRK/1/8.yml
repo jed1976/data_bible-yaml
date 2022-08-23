@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 1:8" class="v">8</span>I
+  indeed have baptized you with water: but he shall baptize you with the Holy
+  Ghost. </p>
+id: MRK/1/8
+next:
+  id: MRK/1/9
+  number: '9'
+previous:
+  id: MRK/1/7
+  number: '7'
+reference: 'Mark 1:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 2:18" class="v">18</span>And
+  now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or
+  what hast thou to do in the way of Assyria, to drink the waters of the river?
+  </p>
+id: JER/2/18
+next:
+  id: JER/2/19
+  number: '19'
+previous:
+  id: JER/2/17
+  number: '17'
+reference: 'Jeremiah 2:18'

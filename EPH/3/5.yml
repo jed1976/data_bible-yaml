@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EPH 3:5" class="v">5</span>Which
+  in other ages was not made known unto the sons of men, as it is now revealed
+  unto his holy apostles and prophets by the Spirit; </p>
+id: EPH/3/5
+next:
+  id: EPH/3/6
+  number: '6'
+previous:
+  id: EPH/3/4
+  number: '4'
+reference: 'Ephesians 3:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="DEU 4:38" class="v">38</span>To
+  drive out nations from before thee greater and mightier than thou <span
+  class="add">art</span>, to bring thee in, to give thee their land <span
+  class="add">for</span> an inheritance, as <span class="add">it is</span> this
+  day. </p>
+id: DEU/4/38
+next:
+  id: DEU/4/39
+  number: '39'
+previous:
+  id: DEU/4/37
+  number: '37'
+reference: 'Deuteronomy 4:38'

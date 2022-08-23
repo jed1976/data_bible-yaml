@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 21:10"
+  class="v">10</span>Wherefore she said unto Abraham, Cast out this bondwoman
+  and her son: for the son of this bondwoman shall not be heir with my son,
+  <span class="add">even</span> with Isaac. </p>
+id: GEN/21/10
+next:
+  id: GEN/21/11
+  number: '11'
+previous:
+  id: GEN/21/9
+  number: '9'
+reference: 'Genesis 21:10'

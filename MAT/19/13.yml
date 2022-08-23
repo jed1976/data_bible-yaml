@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 19:13" class="v">13</span>¶
+  Then were there brought unto him little children, that he should put <span
+  class="add">his</span> hands on them, and pray: and the disciples rebuked
+  them. </p>
+id: MAT/19/13
+next:
+  id: MAT/19/14
+  number: '14'
+previous:
+  id: MAT/19/12
+  number: '12'
+reference: 'Matthew 19:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 11:3"
+  class="v">3</span>Therefore his sisters sent unto him, saying, Lord, behold,
+  he whom thou lovest is sick. </p>
+id: JHN/11/3
+next:
+  id: JHN/11/4
+  number: '4'
+previous:
+  id: JHN/11/2
+  number: '2'
+reference: 'John 11:3'

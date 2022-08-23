@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 8:10"
+  class="v">10</span>Take counsel together, and it shall come to nought; speak
+  the word, and it shall not stand: for God <span class="add">is</span> with
+  us.</p>
+id: ISA/8/10
+next:
+  id: ISA/8/11
+  number: '11'
+previous:
+  id: ISA/8/9
+  number: '9'
+reference: 'Isaiah 8:10'

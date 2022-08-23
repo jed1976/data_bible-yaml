@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 13:12"
+  class="v">12</span>And he exerciseth all the power of the first beast before
+  him, and causeth the earth and them which dwell therein to worship the first
+  beast, whose deadly wound was healed. </p>
+id: REV/13/12
+next:
+  id: REV/13/13
+  number: '13'
+previous:
+  id: REV/13/11
+  number: '11'
+reference: 'Revelation 13:12'

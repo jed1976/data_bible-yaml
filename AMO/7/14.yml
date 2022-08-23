@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="AMO 7:14" class="v">14</span>¶
+  Then answered Amos, and said to Amaziah, I <span class="add">was</span> no
+  prophet, neither <span class="add">was</span> I a prophet’s son; but I <span
+  class="add">was</span> an herdman, and a gatherer of sycomore fruit: </p>
+id: AMO/7/14
+next:
+  id: AMO/7/15
+  number: '15'
+previous:
+  id: AMO/7/13
+  number: '13'
+reference: 'Amos 7:14'

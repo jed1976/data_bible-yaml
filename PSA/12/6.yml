@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 12:6" class="v">6</span>The
+  words of the <span class="nd">LORD</span> <span class="add">are</span> pure
+  words: <span class="add">as</span> silver tried in a furnace of earth,
+  purified seven times.</p>
+id: PSA/12/6
+next:
+  id: PSA/12/7
+  number: '7'
+previous:
+  id: PSA/12/5
+  number: '5'
+reference: 'Psalms 12:6'

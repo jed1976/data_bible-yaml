@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 9:9" class="v">9</span>For
+  this <span class="add">is</span> the word of promise, At this time will I
+  come, and Sara shall have a son. </p>
+id: ROM/9/9
+next:
+  id: ROM/9/10
+  number: '10'
+previous:
+  id: ROM/9/8
+  number: '8'
+reference: 'Romans 9:9'

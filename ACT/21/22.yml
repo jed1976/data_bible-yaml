@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 21:22"
+  class="v">22</span>What is it therefore? the multitude must needs come
+  together: for they will hear that thou art come. </p>
+id: ACT/21/22
+next:
+  id: ACT/21/23
+  number: '23'
+previous:
+  id: ACT/21/21
+  number: '21'
+reference: 'Acts 21:22'

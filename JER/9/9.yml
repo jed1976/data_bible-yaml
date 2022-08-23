@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 9:9" class="v">9</span>¶
+  Shall I not visit them for these <span class="add">things</span>? saith the
+  <span class="nd">LORD</span>: shall not my soul be avenged on such a nation as
+  this? </p>
+id: JER/9/9
+next:
+  id: JER/9/10
+  number: '10'
+previous:
+  id: JER/9/8
+  number: '8'
+reference: 'Jeremiah 9:9'

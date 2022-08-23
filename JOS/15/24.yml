@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 15:24"
+  class="v">24</span>Ziph, and Telem, and Bealoth, </p>
+id: JOS/15/24
+next:
+  id: JOS/15/25
+  number: '25'
+previous:
+  id: JOS/15/23
+  number: '23'
+reference: 'Joshua 15:24'

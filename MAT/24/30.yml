@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 24:30"
+  class="v">30</span><span class="wj">And then shall appear the sign of the Son
+  of man in heaven: and then shall all the tribes of the earth mourn, and they
+  shall see the Son of man coming in the clouds of heaven with power and great
+  glory.</span> </p>
+id: MAT/24/30
+next:
+  id: MAT/24/31
+  number: '31'
+previous:
+  id: MAT/24/29
+  number: '29'
+reference: 'Matthew 24:30'

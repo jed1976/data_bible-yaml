@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 62:12"
+  class="v">12</span>And they shall call them, The holy people, The redeemed of
+  the <span class="nd">LORD</span>: and thou shalt be called, Sought out, A city
+  not forsaken.</p>
+id: ISA/62/12
+next:
+  id: ISA/63/1
+  number: '1'
+previous:
+  id: ISA/62/11
+  number: '11'
+reference: 'Isaiah 62:12'

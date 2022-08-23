@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CH 11:6" class="v">6</span>And
+  David said, Whosoever smiteth the Jebusites first shall be chief and captain.
+  So Joab the son of Zeruiah went first up, and was chief. </p>
+id: 1CH/11/6
+next:
+  id: 1CH/11/7
+  number: '7'
+previous:
+  id: 1CH/11/5
+  number: '5'
+reference: '1 Chronicles 11:6'

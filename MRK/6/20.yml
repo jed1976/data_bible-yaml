@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 6:20" class="v">20</span>For
+  Herod feared John, knowing that he was a just man and an holy, and observed
+  him; and when he heard him, he did many things, and heard him gladly. </p>
+id: MRK/6/20
+next:
+  id: MRK/6/21
+  number: '21'
+previous:
+  id: MRK/6/19
+  number: '19'
+reference: 'Mark 6:20'

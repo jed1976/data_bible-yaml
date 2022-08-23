@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 19:18"
+  class="v">18</span>Chasten thy son while there is hope, and let not thy soul
+  spare for his crying. </p>
+id: PRO/19/18
+next:
+  id: PRO/19/19
+  number: '19'
+previous:
+  id: PRO/19/17
+  number: '17'
+reference: 'Proverbs 19:18'

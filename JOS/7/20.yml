@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 7:20" class="v">20</span>And
+  Achan answered Joshua, and said, Indeed I have sinned against the <span
+  class="nd">LORD</span> God of Israel, and thus and thus have I done: </p>
+id: JOS/7/20
+next:
+  id: JOS/7/21
+  number: '21'
+previous:
+  id: JOS/7/19
+  number: '19'
+reference: 'Joshua 7:20'

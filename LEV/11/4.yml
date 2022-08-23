@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 11:4"
+  class="v">4</span>Nevertheless these shall ye not eat of them that chew the
+  cud, or of them that divide the hoof: <span class="add">as</span> the camel,
+  because he cheweth the cud, but divideth not the hoof; he <span
+  class="add">is</span> unclean unto you. </p>
+id: LEV/11/4
+next:
+  id: LEV/11/5
+  number: '5'
+previous:
+  id: LEV/11/3
+  number: '3'
+reference: 'Leviticus 11:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 8:7" class="v">7</span>The
+  first angel sounded, and there followed hail and fire mingled with blood, and
+  they were cast upon the earth: and the third part of trees was burnt up, and
+  all green grass was burnt up. </p>
+id: REV/8/7
+next:
+  id: REV/8/8
+  number: '8'
+previous:
+  id: REV/8/6
+  number: '6'
+reference: 'Revelation 8:7'

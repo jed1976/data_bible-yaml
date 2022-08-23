@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 32:4" class="v">4</span>And
+  he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant
+  Jacob saith thus, I have sojourned with Laban, and stayed there until now:
+  </p>
+id: GEN/32/4
+next:
+  id: GEN/32/5
+  number: '5'
+previous:
+  id: GEN/32/3
+  number: '3'
+reference: 'Genesis 32:4'

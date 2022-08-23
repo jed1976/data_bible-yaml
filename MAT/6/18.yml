@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 6:18"
+  class="v">18</span><span class="wj">That thou appear not unto men to fast, but
+  unto thy Father which is in secret: and thy Father, which seeth in secret,
+  shall reward thee openly.</span></p>
+id: MAT/6/18
+next:
+  id: MAT/6/19
+  number: '19'
+previous:
+  id: MAT/6/17
+  number: '17'
+reference: 'Matthew 6:18'

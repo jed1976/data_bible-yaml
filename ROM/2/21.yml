@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 2:21"
+  class="v">21</span>Thou therefore which teachest another, teachest thou not
+  thyself? thou that preachest a man should not steal, dost thou steal? </p>
+id: ROM/2/21
+next:
+  id: ROM/2/22
+  number: '22'
+previous:
+  id: ROM/2/20
+  number: '20'
+reference: 'Romans 2:21'

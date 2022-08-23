@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 15:3" class="v">3</span>For
+  even Christ pleased not himself; but, as it is written, The reproaches of them
+  that reproached thee fell on me. </p>
+id: ROM/15/3
+next:
+  id: ROM/15/4
+  number: '4'
+previous:
+  id: ROM/15/2
+  number: '2'
+reference: 'Romans 15:3'

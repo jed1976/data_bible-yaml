@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2CO 13:14"
+  class="v">14</span>The grace of the Lord Jesus Christ, and the love of God,
+  and the communion of the Holy Ghost, <span class="add">be</span> with you all.
+  Amen.</p>
+id: 2CO/13/14
+next:
+  id: GAL/intro/0
+  number: '0'
+previous:
+  id: 2CO/13/13
+  number: '13'
+reference: '2 Corinthians 13:14'

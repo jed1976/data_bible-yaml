@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 14:16"
+  class="v">16</span>And Samson’s wife wept before him, and said, Thou dost but
+  hate me, and lovest me not: thou hast put forth a riddle unto the children of
+  my people, and hast not told <span class="add">it</span> me. And he said unto
+  her, Behold, I have not told <span class="add">it</span> my father nor my
+  mother, and shall I tell <span class="add">it</span> thee? </p>
+id: JDG/14/16
+next:
+  id: JDG/14/17
+  number: '17'
+previous:
+  id: JDG/14/15
+  number: '15'
+reference: 'Judges 14:16'

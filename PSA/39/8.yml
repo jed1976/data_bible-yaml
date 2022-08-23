@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 39:8"
+  class="v">8</span>Deliver me from all my transgressions: make me not the
+  reproach of the foolish.</p>
+id: PSA/39/8
+next:
+  id: PSA/39/9
+  number: '9'
+previous:
+  id: PSA/39/7
+  number: '7'
+reference: 'Psalms 39:8'

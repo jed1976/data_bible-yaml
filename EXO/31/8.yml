@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 31:8" class="v">8</span>And
+  the table and his furniture, and the pure candlestick with all his furniture,
+  and the altar of incense, </p>
+id: EXO/31/8
+next:
+  id: EXO/31/9
+  number: '9'
+previous:
+  id: EXO/31/7
+  number: '7'
+reference: 'Exodus 31:8'

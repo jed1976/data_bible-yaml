@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 10:13"
+  class="v">13</span>And these <span class="add">things</span> hast thou hid in
+  thine heart: I know that this <span class="add">is</span> with thee.</p>
+id: JOB/10/13
+next:
+  id: JOB/10/14
+  number: '14'
+previous:
+  id: JOB/10/12
+  number: '12'
+reference: 'Job 10:13'

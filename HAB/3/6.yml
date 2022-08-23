@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HAB 3:6" class="v">6</span>He
+  stood, and measured the earth: he beheld, and drove asunder the nations; and
+  the everlasting mountains were scattered, the perpetual hills did bow: his
+  ways <span class="add">are</span> everlasting. </p>
+id: HAB/3/6
+next:
+  id: HAB/3/7
+  number: '7'
+previous:
+  id: HAB/3/5
+  number: '5'
+reference: 'Habakkuk 3:6'

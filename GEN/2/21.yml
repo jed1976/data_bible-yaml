@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 2:21" class="v">21</span>And
+  the <span class="nd">LORD</span> God caused a deep sleep to fall upon Adam,
+  and he slept: and he took one of his ribs, and closed up the flesh instead
+  thereof; </p>
+id: GEN/2/21
+next:
+  id: GEN/2/22
+  number: '22'
+previous:
+  id: GEN/2/20
+  number: '20'
+reference: 'Genesis 2:21'

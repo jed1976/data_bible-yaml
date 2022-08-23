@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 44:22"
+  class="v">22</span>Yea, for thy sake are we killed all the day long; we are
+  counted as sheep for the slaughter.</p>
+id: PSA/44/22
+next:
+  id: PSA/44/23
+  number: '23'
+previous:
+  id: PSA/44/21
+  number: '21'
+reference: 'Psalms 44:22'

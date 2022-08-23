@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="2SA 12:29"
+  class="v">29</span>And David gathered all the people together, and went to
+  Rabbah, and fought against it, and took it. </p>
+id: 2SA/12/29
+next:
+  id: 2SA/12/30
+  number: '30'
+previous:
+  id: 2SA/12/28
+  number: '28'
+reference: '2 Samuel 12:29'

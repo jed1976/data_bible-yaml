@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 3:23"
+  class="v">23</span>Truly in vain <span class="add">is salvation hoped
+  for</span> from the hills, <span class="add">and from</span> the multitude of
+  mountains: truly in the <span class="nd">LORD</span> our God <span
+  class="add">is</span> the salvation of Israel. </p>
+id: JER/3/23
+next:
+  id: JER/3/24
+  number: '24'
+previous:
+  id: JER/3/22
+  number: '22'
+reference: 'Jeremiah 3:23'

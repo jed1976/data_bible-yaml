@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 5:1" class="v">1</span>This
+  <span class="add">is</span> the book of the generations of Adam. In the day
+  that God created man, in the likeness of God made he him; </p>
+id: GEN/5/1
+next:
+  id: GEN/5/2
+  number: '2'
+previous:
+  id: GEN/4/26
+  number: '26'
+reference: 'Genesis 5:1'

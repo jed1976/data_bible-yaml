@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 36:12"
+  class="v">12</span>There are the workers of iniquity fallen: they are cast
+  down, and shall not be able to rise.</p>
+id: PSA/36/12
+next:
+  id: PSA/37/1
+  number: '1'
+previous:
+  id: PSA/36/11
+  number: '11'
+reference: 'Psalms 36:12'

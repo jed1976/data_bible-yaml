@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 27:9" class="v">9</span>Now
+  when much time was spent, and when sailing was now dangerous, because the fast
+  was now already past, Paul admonished <span class="add">them</span>, </p>
+id: ACT/27/9
+next:
+  id: ACT/27/10
+  number: '10'
+previous:
+  id: ACT/27/8
+  number: '8'
+reference: 'Acts 27:9'

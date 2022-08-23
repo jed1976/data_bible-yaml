@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 28:24"
+  class="v">24</span>And thou shalt put the two wreathen <span
+  class="add">chains</span> of gold in the two rings <span class="add">which
+  are</span> on the ends of the breastplate. </p>
+id: EXO/28/24
+next:
+  id: EXO/28/25
+  number: '25'
+previous:
+  id: EXO/28/23
+  number: '23'
+reference: 'Exodus 28:24'

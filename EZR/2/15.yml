@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZR 2:15" class="v">15</span>The
+  children of Adin, four hundred fifty and four. </p>
+id: EZR/2/15
+next:
+  id: EZR/2/16
+  number: '16'
+previous:
+  id: EZR/2/14
+  number: '14'
+reference: 'Ezra 2:15'

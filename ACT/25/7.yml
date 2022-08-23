@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 25:7" class="v">7</span>And
+  when he was come, the Jews which came down from Jerusalem stood round about,
+  and laid many and grievous complaints against Paul, which they could not
+  prove. </p>
+id: ACT/25/7
+next:
+  id: ACT/25/8
+  number: '8'
+previous:
+  id: ACT/25/6
+  number: '6'
+reference: 'Acts 25:7'

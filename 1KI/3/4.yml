@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 3:4" class="v">4</span>And
+  the king went to Gibeon to sacrifice there; for that <span
+  class="add">was</span> the great high place: a thousand burnt offerings did
+  Solomon offer upon that altar.</p>
+id: 1KI/3/4
+next:
+  id: 1KI/3/5
+  number: '5'
+previous:
+  id: 1KI/3/3
+  number: '3'
+reference: '1 Kings 3:4'

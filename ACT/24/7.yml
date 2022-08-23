@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 24:7" class="v">7</span>But
+  the chief captain Lysias came <span class="add">upon us</span>, and with great
+  violence took <span class="add">him</span> away out of our hands, </p>
+id: ACT/24/7
+next:
+  id: ACT/24/8
+  number: '8'
+previous:
+  id: ACT/24/6
+  number: '6'
+reference: 'Acts 24:7'

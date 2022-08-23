@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 13:10"
+  class="v">10</span>And Lot lifted up his eyes, and beheld all the plain of
+  Jordan, that it <span class="add">was</span> well watered every where, before
+  the <span class="nd">LORD</span> destroyed Sodom and Gomorrah, <span
+  class="add">even</span> as the garden of the <span class="nd">LORD</span>,
+  like the land of Egypt, as thou comest unto Zoar. </p>
+id: GEN/13/10
+next:
+  id: GEN/13/11
+  number: '11'
+previous:
+  id: GEN/13/9
+  number: '9'
+reference: 'Genesis 13:10'

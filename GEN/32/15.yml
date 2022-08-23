@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 32:15"
+  class="v">15</span>Thirty milch camels with their colts, forty kine, and ten
+  bulls, twenty she asses, and ten foals. </p>
+id: GEN/32/15
+next:
+  id: GEN/32/16
+  number: '16'
+previous:
+  id: GEN/32/14
+  number: '14'
+reference: 'Genesis 32:15'

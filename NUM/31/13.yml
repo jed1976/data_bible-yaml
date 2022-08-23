@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 31:13" class="v">13</span>¶
+  And Moses, and Eleazar the priest, and all the princes of the congregation,
+  went forth to meet them without the camp. </p>
+id: NUM/31/13
+next:
+  id: NUM/31/14
+  number: '14'
+previous:
+  id: NUM/31/12
+  number: '12'
+reference: 'Numbers 31:13'

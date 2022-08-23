@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1CH 6:18" class="v">18</span>And
+  the sons of Kohath <span class="add">were</span>, Amram, and Izhar, and
+  Hebron, and Uzziel. </p>
+id: 1CH/6/18
+next:
+  id: 1CH/6/19
+  number: '19'
+previous:
+  id: 1CH/6/17
+  number: '17'
+reference: '1 Chronicles 6:18'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 9:3"
+  class="v">3</span>Behold, the hand of the <span class="nd">LORD</span> is upon
+  thy cattle which <span class="add">is</span> in the field, upon the horses,
+  upon the asses, upon the camels, upon the oxen, and upon the sheep: <span
+  class="add">there shall be</span> a very grievous murrain. </p>
+id: EXO/9/3
+next:
+  id: EXO/9/4
+  number: '4'
+previous:
+  id: EXO/9/2
+  number: '2'
+reference: 'Exodus 9:3'

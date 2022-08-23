@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GAL 4:21"
+  class="v">21</span>Tell me, ye that desire to be under the law, do ye not hear
+  the law? </p>
+id: GAL/4/21
+next:
+  id: GAL/4/22
+  number: '22'
+previous:
+  id: GAL/4/20
+  number: '20'
+reference: 'Galatians 4:21'

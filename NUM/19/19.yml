@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 19:19"
+  class="v">19</span>And the clean <span class="add">person</span> shall
+  sprinkle upon the unclean on the third day, and on the seventh day: and on the
+  seventh day he shall purify himself, and wash his clothes, and bathe himself
+  in water, and shall be clean at even. </p>
+id: NUM/19/19
+next:
+  id: NUM/19/20
+  number: '20'
+previous:
+  id: NUM/19/18
+  number: '18'
+reference: 'Numbers 19:19'

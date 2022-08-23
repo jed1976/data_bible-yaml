@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 6:21"
+  class="v">21</span>Bind them continually upon thine heart, <span
+  class="add">and</span> tie them about thy neck. </p>
+id: PRO/6/21
+next:
+  id: PRO/6/22
+  number: '22'
+previous:
+  id: PRO/6/20
+  number: '20'
+reference: 'Proverbs 6:21'

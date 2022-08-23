@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="AMO 5:20"
+  class="v">20</span><span class="add">Shall</span> not the day of the <span
+  class="nd">LORD</span> <span class="add">be</span> darkness, and not light?
+  even very dark, and no brightness in it?</p>
+id: AMO/5/20
+next:
+  id: AMO/5/21
+  number: '21'
+previous:
+  id: AMO/5/19
+  number: '19'
+reference: 'Amos 5:20'

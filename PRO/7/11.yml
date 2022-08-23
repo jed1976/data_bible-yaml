@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 7:11"
+  class="v">11</span>(She <span class="add">is</span> loud and stubborn; her
+  feet abide not in her house: </p>
+id: PRO/7/11
+next:
+  id: PRO/7/12
+  number: '12'
+previous:
+  id: PRO/7/10
+  number: '10'
+reference: 'Proverbs 7:11'

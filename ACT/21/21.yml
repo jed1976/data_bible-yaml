@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 21:21"
+  class="v">21</span>And they are informed of thee, that thou teachest all the
+  Jews which are among the Gentiles to forsake Moses, saying that they ought not
+  to circumcise <span class="add">their</span> children, neither to walk after
+  the customs. </p>
+id: ACT/21/21
+next:
+  id: ACT/21/22
+  number: '22'
+previous:
+  id: ACT/21/20
+  number: '20'
+reference: 'Acts 21:21'

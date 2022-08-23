@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 20:15"
+  class="v">15</span>And if a man lie with a beast, he shall surely be put to
+  death: and ye shall slay the beast. </p>
+id: LEV/20/15
+next:
+  id: LEV/20/16
+  number: '16'
+previous:
+  id: LEV/20/14
+  number: '14'
+reference: 'Leviticus 20:15'

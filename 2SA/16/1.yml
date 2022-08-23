@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 16:1" class="v">1</span>And
+  when David was a little past the top <span class="add">of the hill</span>,
+  behold, Ziba the servant of Mephibosheth met him, with a couple of asses
+  saddled, and upon them two hundred <span class="add">loaves</span> of bread,
+  and an hundred bunches of raisins, and an hundred of summer fruits, and a
+  bottle of wine. </p>
+id: 2SA/16/1
+next:
+  id: 2SA/16/2
+  number: '2'
+previous:
+  id: 2SA/15/37
+  number: '37'
+reference: '2 Samuel 16:1'

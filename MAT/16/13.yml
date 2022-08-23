@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 16:13" class="v">13</span>¶
+  When Jesus came into the coasts of Caesarea Philippi, he asked his disciples,
+  saying, <span class="wj">Whom do men say that I the Son of man am?</span> </p>
+id: MAT/16/13
+next:
+  id: MAT/16/14
+  number: '14'
+previous:
+  id: MAT/16/12
+  number: '12'
+reference: 'Matthew 16:13'

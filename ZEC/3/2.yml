@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ZEC 3:2" class="v">2</span>And
+  the <span class="nd">LORD</span> said unto Satan, The <span
+  class="nd">LORD</span> rebuke thee, O Satan; even the <span
+  class="nd">LORD</span> that hath chosen Jerusalem rebuke thee: <span
+  class="add">is</span> not this a brand plucked out of the fire? </p>
+id: ZEC/3/2
+next:
+  id: ZEC/3/3
+  number: '3'
+previous:
+  id: ZEC/3/1
+  number: '1'
+reference: 'Zechariah 3:2'

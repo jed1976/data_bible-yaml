@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 28:5" class="v">5</span>Evil
+  men understand not judgment: but they that seek the <span
+  class="nd">LORD</span> understand all <span class="add">things</span>. </p>
+id: PRO/28/5
+next:
+  id: PRO/28/6
+  number: '6'
+previous:
+  id: PRO/28/4
+  number: '4'
+reference: 'Proverbs 28:5'

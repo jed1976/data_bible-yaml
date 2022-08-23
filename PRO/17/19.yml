@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 17:19" class="v">19</span>He
+  loveth transgression that loveth strife: <span class="add">and</span> he that
+  exalteth his gate seeketh destruction. </p>
+id: PRO/17/19
+next:
+  id: PRO/17/20
+  number: '20'
+previous:
+  id: PRO/17/18
+  number: '18'
+reference: 'Proverbs 17:19'

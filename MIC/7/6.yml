@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MIC 7:6" class="v">6</span>For
+  the son dishonoureth the father, the daughter riseth up against her mother,
+  the daughter in law against her mother in law; a man’s enemies <span
+  class="add">are</span> the men of his own house.</p>
+id: MIC/7/6
+next:
+  id: MIC/7/7
+  number: '7'
+previous:
+  id: MIC/7/5
+  number: '5'
+reference: 'Micah 7:6'

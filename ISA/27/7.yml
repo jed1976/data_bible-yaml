@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 27:7" class="v">7</span>¶
+  Hath he smitten him, as he smote those that smote him? <span
+  class="add">or</span> is he slain according to the slaughter of them that are
+  slain by him? </p>
+id: ISA/27/7
+next:
+  id: ISA/27/8
+  number: '8'
+previous:
+  id: ISA/27/6
+  number: '6'
+reference: 'Isaiah 27:7'

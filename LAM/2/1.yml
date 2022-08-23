@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LAM 2:1" class="v">1</span>How
+  hath the Lord covered the daughter of Zion with a cloud in his anger, <span
+  class="add">and</span> cast down from heaven unto the earth the beauty of
+  Israel, and remembered not his footstool in the day of his anger! </p>
+id: LAM/2/1
+next:
+  id: LAM/2/2
+  number: '2'
+previous:
+  id: LAM/1/22
+  number: '22'
+reference: 'Lamentations 2:1'

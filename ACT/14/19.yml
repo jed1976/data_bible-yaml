@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 14:19" class="v">19</span>¶
+  And there came thither <span class="add">certain</span> Jews from Antioch and
+  Iconium, who persuaded the people, and, having stoned Paul, drew <span
+  class="add">him</span> out of the city, supposing he had been dead. </p>
+id: ACT/14/19
+next:
+  id: ACT/14/20
+  number: '20'
+previous:
+  id: ACT/14/18
+  number: '18'
+reference: 'Acts 14:19'

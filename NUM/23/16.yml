@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 23:16"
+  class="v">16</span>And the <span class="nd">LORD</span> met Balaam, and put a
+  word in his mouth, and said, Go again unto Balak, and say thus. </p>
+id: NUM/23/16
+next:
+  id: NUM/23/17
+  number: '17'
+previous:
+  id: NUM/23/15
+  number: '15'
+reference: 'Numbers 23:16'

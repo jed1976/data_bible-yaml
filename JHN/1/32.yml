@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 1:32" class="v">32</span>And
+  John bare record, saying, I saw the Spirit descending from heaven like a dove,
+  and it abode upon him. </p>
+id: JHN/1/32
+next:
+  id: JHN/1/33
+  number: '33'
+previous:
+  id: JHN/1/31
+  number: '31'
+reference: 'John 1:32'

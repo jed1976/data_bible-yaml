@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 9:12" class="v">12</span>For
+  man also knoweth not his time: as the fishes that are taken in an evil net,
+  and as the birds that are caught in the snare; so <span class="add">are</span>
+  the sons of men snared in an evil time, when it falleth suddenly upon
+  them.</p>
+id: ECC/9/12
+next:
+  id: ECC/9/13
+  number: '13'
+previous:
+  id: ECC/9/11
+  number: '11'
+reference: 'Ecclesiastes 9:12'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 94:6" class="v">6</span>They
+  slay the widow and the stranger, and murder the fatherless.</p>
+id: PSA/94/6
+next:
+  id: PSA/94/7
+  number: '7'
+previous:
+  id: PSA/94/5
+  number: '5'
+reference: 'Psalms 94:6'

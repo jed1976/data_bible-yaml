@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 73:14"
+  class="v">14</span>For all the day long have I been plagued, and chastened
+  every morning.</p>
+id: PSA/73/14
+next:
+  id: PSA/73/15
+  number: '15'
+previous:
+  id: PSA/73/13
+  number: '13'
+reference: 'Psalms 73:14'

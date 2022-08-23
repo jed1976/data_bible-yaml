@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 4:38" class="v">38</span>And
+  he was in the hinder part of the ship, asleep on a pillow: and they awake him,
+  and say unto him, Master, carest thou not that we perish? </p>
+id: MRK/4/38
+next:
+  id: MRK/4/39
+  number: '39'
+previous:
+  id: MRK/4/37
+  number: '37'
+reference: 'Mark 4:38'

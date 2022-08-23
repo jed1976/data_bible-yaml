@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEP 1:6" class="v">6</span>And
+  them that are turned back from the <span class="nd">LORD</span>; and <span
+  class="add">those</span> that have not sought the <span
+  class="nd">LORD</span>, nor enquired for him.</p>
+id: ZEP/1/6
+next:
+  id: ZEP/1/7
+  number: '7'
+previous:
+  id: ZEP/1/5
+  number: '5'
+reference: 'Zephaniah 1:6'

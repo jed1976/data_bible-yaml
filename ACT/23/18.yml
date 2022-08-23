@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 23:18" class="v">18</span>So
+  he took him, and brought <span class="add">him</span> to the chief captain,
+  and said, Paul the prisoner called me unto <span class="add">him</span>, and
+  prayed me to bring this young man unto thee, who hath something to say unto
+  thee. </p>
+id: ACT/23/18
+next:
+  id: ACT/23/19
+  number: '19'
+previous:
+  id: ACT/23/17
+  number: '17'
+reference: 'Acts 23:18'

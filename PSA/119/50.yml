@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="50" data-sid="PSA 119:50"
+  class="v">50</span>This <span class="add">is</span> my comfort in my
+  affliction: for thy word hath quickened me.</p>
+id: PSA/119/50
+next:
+  id: PSA/119/51
+  number: '51'
+previous:
+  id: PSA/119/49
+  number: '49'
+reference: 'Psalms 119:50'

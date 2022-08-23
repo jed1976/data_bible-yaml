@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 1:15" class="v">15</span>And
+  she said unto him, Give me a blessing: for thou hast given me a south land;
+  give me also springs of water. And Caleb gave her the upper springs and the
+  nether springs.</p>
+id: JDG/1/15
+next:
+  id: JDG/1/16
+  number: '16'
+previous:
+  id: JDG/1/14
+  number: '14'
+reference: 'Judges 1:15'

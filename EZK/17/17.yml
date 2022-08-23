@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EZK 17:17"
+  class="v">17</span>Neither shall Pharaoh with <span class="add">his</span>
+  mighty army and great company make for him in the war, by casting up mounts,
+  and building forts, to cut off many persons: </p>
+id: EZK/17/17
+next:
+  id: EZK/17/18
+  number: '18'
+previous:
+  id: EZK/17/16
+  number: '16'
+reference: 'Ezekiel 17:17'

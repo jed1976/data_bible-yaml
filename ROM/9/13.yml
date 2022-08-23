@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 9:13" class="v">13</span>As
+  it is written, Jacob have I loved, but Esau have I hated.</p>
+id: ROM/9/13
+next:
+  id: ROM/9/14
+  number: '14'
+previous:
+  id: ROM/9/12
+  number: '12'
+reference: 'Romans 9:13'

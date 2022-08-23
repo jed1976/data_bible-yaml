@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 112:7" class="v">7</span>He
+  shall not be afraid of evil tidings: his heart is fixed, trusting in the <span
+  class="nd">LORD</span>.</p>
+id: PSA/112/7
+next:
+  id: PSA/112/8
+  number: '8'
+previous:
+  id: PSA/112/6
+  number: '6'
+reference: 'Psalms 112:7'

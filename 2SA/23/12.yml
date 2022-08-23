@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 23:12"
+  class="v">12</span>But he stood in the midst of the ground, and defended it,
+  and slew the Philistines: and the <span class="nd">LORD</span> wrought a great
+  victory. </p>
+id: 2SA/23/12
+next:
+  id: 2SA/23/13
+  number: '13'
+previous:
+  id: 2SA/23/11
+  number: '11'
+reference: '2 Samuel 23:12'

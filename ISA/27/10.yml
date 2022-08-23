@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 27:10"
+  class="v">10</span>Yet the defenced city <span class="add">shall be</span>
+  desolate, <span class="add">and</span> the habitation forsaken, and left like
+  a wilderness: there shall the calf feed, and there shall he lie down, and
+  consume the branches thereof. </p>
+id: ISA/27/10
+next:
+  id: ISA/27/11
+  number: '11'
+previous:
+  id: ISA/27/9
+  number: '9'
+reference: 'Isaiah 27:10'

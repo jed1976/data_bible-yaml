@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 34:8" class="v">8</span>O
+  taste and see that the <span class="nd">LORD</span> <span
+  class="add">is</span> good: blessed <span class="add">is</span> the man <span
+  class="add">that</span> trusteth in him.</p>
+id: PSA/34/8
+next:
+  id: PSA/34/9
+  number: '9'
+previous:
+  id: PSA/34/7
+  number: '7'
+reference: 'Psalms 34:8'

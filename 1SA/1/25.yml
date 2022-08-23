@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1SA 1:25" class="v">25</span>And
+  they slew a bullock, and brought the child to Eli. </p>
+id: 1SA/1/25
+next:
+  id: 1SA/1/26
+  number: '26'
+previous:
+  id: 1SA/1/24
+  number: '24'
+reference: '1 Samuel 1:25'

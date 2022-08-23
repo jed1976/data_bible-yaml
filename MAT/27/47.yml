@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MAT 27:47"
+  class="v">47</span>Some of them that stood there, when they heard <span
+  class="add">that</span>, said, This <span class="add">man</span> calleth for
+  Elias. </p>
+id: MAT/27/47
+next:
+  id: MAT/27/48
+  number: '48'
+previous:
+  id: MAT/27/46
+  number: '46'
+reference: 'Matthew 27:47'

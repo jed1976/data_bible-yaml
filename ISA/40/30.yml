@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 40:30"
+  class="v">30</span>Even the youths shall faint and be weary, and the young men
+  shall utterly fall: </p>
+id: ISA/40/30
+next:
+  id: ISA/40/31
+  number: '31'
+previous:
+  id: ISA/40/29
+  number: '29'
+reference: 'Isaiah 40:30'

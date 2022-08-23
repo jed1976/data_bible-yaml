@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 14:21"
+  class="v">21</span>But <span class="add">as</span> truly <span
+  class="add">as</span> I live, all the earth shall be filled with the glory of
+  the <span class="nd">LORD</span>. </p>
+id: NUM/14/21
+next:
+  id: NUM/14/22
+  number: '22'
+previous:
+  id: NUM/14/20
+  number: '20'
+reference: 'Numbers 14:21'

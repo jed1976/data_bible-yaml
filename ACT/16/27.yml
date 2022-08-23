@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 16:27"
+  class="v">27</span>And the keeper of the prison awaking out of his sleep, and
+  seeing the prison doors open, he drew out his sword, and would have killed
+  himself, supposing that the prisoners had been fled. </p>
+id: ACT/16/27
+next:
+  id: ACT/16/28
+  number: '28'
+previous:
+  id: ACT/16/26
+  number: '26'
+reference: 'Acts 16:27'

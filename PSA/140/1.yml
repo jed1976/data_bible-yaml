@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 140:1" class="v">1</span>Deliver me, O <span
+  class="nd">LORD</span>, from the evil man: preserve me from the violent
+  man;</p>
+id: PSA/140/1
+next:
+  id: PSA/140/2
+  number: '2'
+previous:
+  id: PSA/139/24
+  number: '24'
+reference: 'Psalms 140:1'

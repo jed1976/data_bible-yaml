@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 13:20" class="v">20</span>It
+  shall never be inhabited, neither shall it be dwelt in from generation to
+  generation: neither shall the Arabian pitch tent there; neither shall the
+  shepherds make their fold there. </p>
+id: ISA/13/20
+next:
+  id: ISA/13/21
+  number: '21'
+previous:
+  id: ISA/13/19
+  number: '19'
+reference: 'Isaiah 13:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 13:3" class="v">3</span>And
+  let us bring again the ark of our God to us: for we enquired not at it in the
+  days of Saul. </p>
+id: 1CH/13/3
+next:
+  id: 1CH/13/4
+  number: '4'
+previous:
+  id: 1CH/13/2
+  number: '2'
+reference: '1 Chronicles 13:3'

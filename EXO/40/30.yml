@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 40:30" class="v">30</span>¶
+  And he set the laver between the tent of the congregation and the altar, and
+  put water there, to wash <span class="add">withal</span>. </p>
+id: EXO/40/30
+next:
+  id: EXO/40/31
+  number: '31'
+previous:
+  id: EXO/40/29
+  number: '29'
+reference: 'Exodus 40:30'

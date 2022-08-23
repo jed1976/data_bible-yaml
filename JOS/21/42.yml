@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JOS 21:42"
+  class="v">42</span>These cities were every one with their suburbs round about
+  them: thus <span class="add">were</span> all these cities.</p>
+id: JOS/21/42
+next:
+  id: JOS/21/43
+  number: '43'
+previous:
+  id: JOS/21/41
+  number: '41'
+reference: 'Joshua 21:42'

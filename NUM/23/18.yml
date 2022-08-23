@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 23:18"
+  class="v">18</span>And he took up his parable, and said, Rise up, Balak, and
+  hear; hearken unto me, thou son of Zippor: </p>
+id: NUM/23/18
+next:
+  id: NUM/23/19
+  number: '19'
+previous:
+  id: NUM/23/17
+  number: '17'
+reference: 'Numbers 23:18'

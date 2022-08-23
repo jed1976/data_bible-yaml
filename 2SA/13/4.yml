@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 13:4" class="v">4</span>And
+  he said unto him, Why <span class="add">art</span> thou, <span
+  class="add">being</span> the king’s son, lean from day to day? wilt thou not
+  tell me? And Amnon said unto him, I love Tamar, my brother Absalom’s sister.
+  </p>
+id: 2SA/13/4
+next:
+  id: 2SA/13/5
+  number: '5'
+previous:
+  id: 2SA/13/3
+  number: '3'
+reference: '2 Samuel 13:4'

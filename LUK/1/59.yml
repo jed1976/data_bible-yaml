@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="LUK 1:59" class="v">59</span>And
+  it came to pass, that on the eighth day they came to circumcise the child; and
+  they called him Zacharias, after the name of his father. </p>
+id: LUK/1/59
+next:
+  id: LUK/1/60
+  number: '60'
+previous:
+  id: LUK/1/58
+  number: '58'
+reference: 'Luke 1:59'

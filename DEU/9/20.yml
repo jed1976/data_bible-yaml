@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 9:20" class="v">20</span>And
+  the <span class="nd">LORD</span> was very angry with Aaron to have destroyed
+  him: and I prayed for Aaron also the same time. </p>
+id: DEU/9/20
+next:
+  id: DEU/9/21
+  number: '21'
+previous:
+  id: DEU/9/19
+  number: '19'
+reference: 'Deuteronomy 9:20'

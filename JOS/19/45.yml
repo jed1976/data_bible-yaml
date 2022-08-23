@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JOS 19:45"
+  class="v">45</span>And Jehud, and Bene-berak, and Gath-rimmon, </p>
+id: JOS/19/45
+next:
+  id: JOS/19/46
+  number: '46'
+previous:
+  id: JOS/19/44
+  number: '44'
+reference: 'Joshua 19:45'

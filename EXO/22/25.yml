@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 22:25" class="v">25</span>¶
+  If thou lend money to <span class="add">any of</span> my people <span
+  class="add">that is</span> poor by thee, thou shalt not be to him as an
+  usurer, neither shalt thou lay upon him usury. </p>
+id: EXO/22/25
+next:
+  id: EXO/22/26
+  number: '26'
+previous:
+  id: EXO/22/24
+  number: '24'
+reference: 'Exodus 22:25'

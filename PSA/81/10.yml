@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 81:10" class="v">10</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span> thy God, which
+  brought thee out of the land of Egypt: open thy mouth wide, and I will fill
+  it.</p>
+id: PSA/81/10
+next:
+  id: PSA/81/11
+  number: '11'
+previous:
+  id: PSA/81/9
+  number: '9'
+reference: 'Psalms 81:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 38:17"
+  class="v">17</span>And he said, I will send <span class="add">thee</span> a
+  kid from the flock. And she said, Wilt thou give <span class="add">me</span> a
+  pledge, till thou send <span class="add">it</span>? </p>
+id: GEN/38/17
+next:
+  id: GEN/38/18
+  number: '18'
+previous:
+  id: GEN/38/16
+  number: '16'
+reference: 'Genesis 38:17'

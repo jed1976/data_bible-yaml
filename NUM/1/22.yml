@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 1:22" class="v">22</span>¶
+  Of the children of Simeon, by their generations, after their families, by the
+  house of their fathers, those that were numbered of them, according to the
+  number of the names, by their polls, every male from twenty years old and
+  upward, all that were able to go forth to war; </p>
+id: NUM/1/22
+next:
+  id: NUM/1/23
+  number: '23'
+previous:
+  id: NUM/1/21
+  number: '21'
+reference: 'Numbers 1:22'

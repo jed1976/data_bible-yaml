@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 14:3" class="v">3</span><span
+  class="wj">And if I go and prepare a place for you, I will come again, and
+  receive you unto myself; that where I am, <span class="add">there</span> ye
+  may be also.</span> </p>
+id: JHN/14/3
+next:
+  id: JHN/14/4
+  number: '4'
+previous:
+  id: JHN/14/2
+  number: '2'
+reference: 'John 14:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 1:20" class="v">20</span>And
+  straightway he called them: and they left their father Zebedee in the ship
+  with the hired servants, and went after him. </p>
+id: MRK/1/20
+next:
+  id: MRK/1/21
+  number: '21'
+previous:
+  id: MRK/1/19
+  number: '19'
+reference: 'Mark 1:20'

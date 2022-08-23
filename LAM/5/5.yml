@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LAM 5:5" class="v">5</span>Our
+  necks <span class="add">are</span> under persecution: we labour, <span
+  class="add">and</span> have no rest. </p>
+id: LAM/5/5
+next:
+  id: LAM/5/6
+  number: '6'
+previous:
+  id: LAM/5/4
+  number: '4'
+reference: 'Lamentations 5:5'

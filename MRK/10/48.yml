@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MRK 10:48"
+  class="v">48</span>And many charged him that he should hold his peace: but he
+  cried the more a great deal, <span class="add">Thou</span> Son of David, have
+  mercy on me. </p>
+id: MRK/10/48
+next:
+  id: MRK/10/49
+  number: '49'
+previous:
+  id: MRK/10/47
+  number: '47'
+reference: 'Mark 10:48'

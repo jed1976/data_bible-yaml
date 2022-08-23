@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 14:10"
+  class="v">10</span>But man dieth, and wasteth away: yea, man giveth up the
+  ghost, and where <span class="add">is</span> he? </p>
+id: JOB/14/10
+next:
+  id: JOB/14/11
+  number: '11'
+previous:
+  id: JOB/14/9
+  number: '9'
+reference: 'Job 14:10'

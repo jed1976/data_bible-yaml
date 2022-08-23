@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 36:15" class="v">15</span>¶
+  These <span class="add">were</span> dukes of the sons of Esau: the sons of
+  Eliphaz the firstborn <span class="add">son</span> of Esau; duke Teman, duke
+  Omar, duke Zepho, duke Kenaz, </p>
+id: GEN/36/15
+next:
+  id: GEN/36/16
+  number: '16'
+previous:
+  id: GEN/36/14
+  number: '14'
+reference: 'Genesis 36:15'

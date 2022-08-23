@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 5:3" class="v">3</span>And
+  they said, The God of the Hebrews hath met with us: let us go, we pray thee,
+  three days’ journey into the desert, and sacrifice unto the <span
+  class="nd">LORD</span> our God; lest he fall upon us with pestilence, or with
+  the sword. </p>
+id: EXO/5/3
+next:
+  id: EXO/5/4
+  number: '4'
+previous:
+  id: EXO/5/2
+  number: '2'
+reference: 'Exodus 5:3'

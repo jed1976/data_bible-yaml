@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 16:7" class="v">7</span>But
+  the <span class="nd">LORD</span> said unto Samuel, Look not on his
+  countenance, or on the height of his stature; because I have refused him: for
+  <span class="add">the <span class="nd">Lord</span> seeth</span> not as man
+  seeth; for man looketh on the outward appearance, but the <span
+  class="nd">LORD</span> looketh on the heart. </p>
+id: 1SA/16/7
+next:
+  id: 1SA/16/8
+  number: '8'
+previous:
+  id: 1SA/16/6
+  number: '6'
+reference: '1 Samuel 16:7'

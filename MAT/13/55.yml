@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="MAT 13:55" class="v">55</span>Is
+  not this the carpenter’s son? is not his mother called Mary? and his brethren,
+  James, and Joses, and Simon, and Judas? </p>
+id: MAT/13/55
+next:
+  id: MAT/13/56
+  number: '56'
+previous:
+  id: MAT/13/54
+  number: '54'
+reference: 'Matthew 13:55'

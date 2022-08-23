@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="EXO 12:44"
+  class="v">44</span>But every man’s servant that is bought for money, when thou
+  hast circumcised him, then shall he eat thereof. </p>
+id: EXO/12/44
+next:
+  id: EXO/12/45
+  number: '45'
+previous:
+  id: EXO/12/43
+  number: '43'
+reference: 'Exodus 12:44'

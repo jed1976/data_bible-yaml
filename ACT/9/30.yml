@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 9:30"
+  class="v">30</span><span class="add">Which</span> when the brethren knew, they
+  brought him down to Cæsarea, and sent him forth to Tarsus. </p>
+id: ACT/9/30
+next:
+  id: ACT/9/31
+  number: '31'
+previous:
+  id: ACT/9/29
+  number: '29'
+reference: 'Acts 9:30'

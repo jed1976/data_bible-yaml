@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HEB 12:20"
+  class="v">20</span>(For they could not endure that which was commanded, And if
+  so much as a beast touch the mountain, it shall be stoned, or thrust through
+  with a dart: </p>
+id: HEB/12/20
+next:
+  id: HEB/12/21
+  number: '21'
+previous:
+  id: HEB/12/19
+  number: '19'
+reference: 'Hebrews 12:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 20:13"
+  class="v">13</span>Sing unto the <span class="nd">LORD</span>, praise ye the
+  <span class="nd">LORD</span>: for he hath delivered the soul of the poor from
+  the hand of evildoers.</p>
+id: JER/20/13
+next:
+  id: JER/20/14
+  number: '14'
+previous:
+  id: JER/20/12
+  number: '12'
+reference: 'Jeremiah 20:13'

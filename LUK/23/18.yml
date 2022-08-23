@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 23:18"
+  class="v">18</span>And they cried out all at once, saying, Away with this
+  <span class="add">man</span>, and release unto us Barabbas: </p>
+id: LUK/23/18
+next:
+  id: LUK/23/19
+  number: '19'
+previous:
+  id: LUK/23/17
+  number: '17'
+reference: 'Luke 23:18'

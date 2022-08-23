@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 25:3" class="v">3</span>And
+  Israel joined himself unto Baal-peor: and the anger of the <span
+  class="nd">LORD</span> was kindled against Israel. </p>
+id: NUM/25/3
+next:
+  id: NUM/25/4
+  number: '4'
+previous:
+  id: NUM/25/2
+  number: '2'
+reference: 'Numbers 25:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CO 6:1" class="v">1</span>We
+  then, <span class="add">as</span> workers together <span class="add">with
+  him</span>, beseech <span class="add">you</span> also that ye receive not the
+  grace of God in vain. </p>
+id: 2CO/6/1
+next:
+  id: 2CO/6/2
+  number: '2'
+previous:
+  id: 2CO/5/21
+  number: '21'
+reference: '2 Corinthians 6:1'

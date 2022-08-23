@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 5:12" class="v">12</span>And
+  all the devils besought him, saying, Send us into the swine, that we may enter
+  into them. </p>
+id: MRK/5/12
+next:
+  id: MRK/5/13
+  number: '13'
+previous:
+  id: MRK/5/11
+  number: '11'
+reference: 'Mark 5:12'

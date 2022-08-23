@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 7:18" class="v">18</span>The
+  children of Adonikam, six hundred threescore and seven. </p>
+id: NEH/7/18
+next:
+  id: NEH/7/19
+  number: '19'
+previous:
+  id: NEH/7/17
+  number: '17'
+reference: 'Nehemiah 7:18'

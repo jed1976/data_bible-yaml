@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 116:1" class="v">1</span>I
+  love the <span class="nd">LORD</span>, because he hath heard my voice <span
+  class="add">and</span> my supplications.</p>
+id: PSA/116/1
+next:
+  id: PSA/116/2
+  number: '2'
+previous:
+  id: PSA/115/18
+  number: '18'
+reference: 'Psalms 116:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOL 3:16" class="v">16</span>The
+  <span class="nd">LORD</span> also shall roar out of Zion, and utter his voice
+  from Jerusalem; and the heavens and the earth shall shake: but the <span
+  class="nd">LORD</span> <span class="add">will be</span> the hope of his
+  people, and the strength of the children of Israel. </p>
+id: JOL/3/16
+next:
+  id: JOL/3/17
+  number: '17'
+previous:
+  id: JOL/3/15
+  number: '15'
+reference: 'Joel 3:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 22:10"
+  class="v">10</span>And I said, What shall I do, Lord? And the Lord said unto
+  me, <span class="wj">Arise, and go into Damascus; and there it shall be told
+  thee of all things which are appointed for thee to do.</span> </p>
+id: ACT/22/10
+next:
+  id: ACT/22/11
+  number: '11'
+previous:
+  id: ACT/22/9
+  number: '9'
+reference: 'Acts 22:10'

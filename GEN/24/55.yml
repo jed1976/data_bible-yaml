@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="GEN 24:55"
+  class="v">55</span>And her brother and her mother said, Let the damsel abide
+  with us <span class="add">a few</span> days, at the least ten; after that she
+  shall go. </p>
+id: GEN/24/55
+next:
+  id: GEN/24/56
+  number: '56'
+previous:
+  id: GEN/24/54
+  number: '54'
+reference: 'Genesis 24:55'

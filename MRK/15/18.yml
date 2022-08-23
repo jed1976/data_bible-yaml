@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 15:18"
+  class="v">18</span>And began to salute him, Hail, King of the Jews! </p>
+id: MRK/15/18
+next:
+  id: MRK/15/19
+  number: '19'
+previous:
+  id: MRK/15/17
+  number: '17'
+reference: 'Mark 15:18'

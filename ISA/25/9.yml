@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 25:9" class="v">9</span>¶ And
+  it shall be said in that day, Lo, this <span class="add">is</span> our God; we
+  have waited for him, and he will save us: this <span class="add">is</span> the
+  <span class="nd">LORD</span>; we have waited for him, we will be glad and
+  rejoice in his salvation. </p>
+id: ISA/25/9
+next:
+  id: ISA/25/10
+  number: '10'
+previous:
+  id: ISA/25/8
+  number: '8'
+reference: 'Isaiah 25:9'

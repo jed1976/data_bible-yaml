@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 11:18" class="v">18</span>¶
+  And the <span class="nd">LORD</span> hath given me knowledge <span
+  class="add">of it</span>, and I know <span class="add">it:</span> then thou
+  shewedst me their doings. </p>
+id: JER/11/18
+next:
+  id: JER/11/19
+  number: '19'
+previous:
+  id: JER/11/17
+  number: '17'
+reference: 'Jeremiah 11:18'

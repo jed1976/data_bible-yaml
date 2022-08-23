@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 26:23"
+  class="v">23</span>And two boards shalt thou make for the corners of the
+  tabernacle in the two sides. </p>
+id: EXO/26/23
+next:
+  id: EXO/26/24
+  number: '24'
+previous:
+  id: EXO/26/22
+  number: '22'
+reference: 'Exodus 26:23'

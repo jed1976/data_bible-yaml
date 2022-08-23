@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 16:12"
+  class="v">12</span>And he will be a wild man; his hand <span class="add">will
+  be</span> against every man, and every man’s hand against him; and he shall
+  dwell in the presence of all his brethren. </p>
+id: GEN/16/12
+next:
+  id: GEN/16/13
+  number: '13'
+previous:
+  id: GEN/16/11
+  number: '11'
+reference: 'Genesis 16:12'

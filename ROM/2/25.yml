@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 2:25" class="v">25</span>For
+  circumcision verily profiteth, if thou keep the law: but if thou be a breaker
+  of the law, thy circumcision is made uncircumcision. </p>
+id: ROM/2/25
+next:
+  id: ROM/2/26
+  number: '26'
+previous:
+  id: ROM/2/24
+  number: '24'
+reference: 'Romans 2:25'

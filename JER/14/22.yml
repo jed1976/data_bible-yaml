@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 14:22"
+  class="v">22</span>Are there <span class="add">any</span> among the vanities
+  of the Gentiles that can cause rain? or can the heavens give showers? <span
+  class="add">art</span> not thou he, O <span class="nd">LORD</span> our God?
+  therefore we will wait upon thee: for thou hast made all these <span
+  class="add">things</span>.</p>
+id: JER/14/22
+next:
+  id: JER/15/1
+  number: '1'
+previous:
+  id: JER/14/21
+  number: '21'
+reference: 'Jeremiah 14:22'

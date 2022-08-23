@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 19:13" class="v">13</span>A
+  foolish son <span class="add">is</span> the calamity of his father: and the
+  contentions of a wife <span class="add">are</span> a continual dropping. </p>
+id: PRO/19/13
+next:
+  id: PRO/19/14
+  number: '14'
+previous:
+  id: PRO/19/12
+  number: '12'
+reference: 'Proverbs 19:13'

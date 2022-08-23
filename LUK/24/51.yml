@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="LUK 24:51"
+  class="v">51</span>And it came to pass, while he blessed them, he was parted
+  from them, and carried up into heaven. </p>
+id: LUK/24/51
+next:
+  id: LUK/24/52
+  number: '52'
+previous:
+  id: LUK/24/50
+  number: '50'
+reference: 'Luke 24:51'

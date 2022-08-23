@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 8:35"
+  class="v">35</span>Then Philip opened his mouth, and began at the same
+  scripture, and preached unto him Jesus. </p>
+id: ACT/8/35
+next:
+  id: ACT/8/36
+  number: '36'
+previous:
+  id: ACT/8/34
+  number: '34'
+reference: 'Acts 8:35'

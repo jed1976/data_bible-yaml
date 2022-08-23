@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 12:40"
+  class="v">40</span><span class="wj">For as Jonas was three days and three
+  nights in the whale’s belly; so shall the Son of man be three days and three
+  nights in the heart of the earth.</span> </p>
+id: MAT/12/40
+next:
+  id: MAT/12/41
+  number: '41'
+previous:
+  id: MAT/12/39
+  number: '39'
+reference: 'Matthew 12:40'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 64:5" class="v">5</span>They
+  encourage themselves <span class="add">in</span> an evil matter: they commune
+  of laying snares privily; they say, Who shall see them?</p>
+id: PSA/64/5
+next:
+  id: PSA/64/6
+  number: '6'
+previous:
+  id: PSA/64/4
+  number: '4'
+reference: 'Psalms 64:5'

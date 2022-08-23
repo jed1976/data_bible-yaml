@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 27:12" class="v">12</span>My
+  father peradventure will feel me, and I shall seem to him as a deceiver; and I
+  shall bring a curse upon me, and not a blessing. </p>
+id: GEN/27/12
+next:
+  id: GEN/27/13
+  number: '13'
+previous:
+  id: GEN/27/11
+  number: '11'
+reference: 'Genesis 27:12'

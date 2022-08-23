@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 14:17" class="v">17</span>¶
+  And the king of Sodom went out to meet him after his return from the slaughter
+  of Chedorlaomer, and of the kings that <span class="add">were</span> with him,
+  at the valley of Shaveh, which <span class="add">is</span> the king’s dale.
+  </p>
+id: GEN/14/17
+next:
+  id: GEN/14/18
+  number: '18'
+previous:
+  id: GEN/14/16
+  number: '16'
+reference: 'Genesis 14:17'

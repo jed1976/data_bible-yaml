@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 14:26" class="v">26</span>In
+  the fear of the <span class="nd">LORD</span> <span class="add">is</span>
+  strong confidence: and his children shall have a place of refuge. </p>
+id: PRO/14/26
+next:
+  id: PRO/14/27
+  number: '27'
+previous:
+  id: PRO/14/25
+  number: '25'
+reference: 'Proverbs 14:26'

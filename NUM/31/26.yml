@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 31:26"
+  class="v">26</span>Take the sum of the prey that was taken, <span
+  class="add">both</span> of man and of beast, thou, and Eleazar the priest, and
+  the chief fathers of the congregation: </p>
+id: NUM/31/26
+next:
+  id: NUM/31/27
+  number: '27'
+previous:
+  id: NUM/31/25
+  number: '25'
+reference: 'Numbers 31:26'

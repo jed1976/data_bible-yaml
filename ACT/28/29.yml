@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 28:29"
+  class="v">29</span>And when he had said these words, the Jews departed, and
+  had great reasoning among themselves.</p>
+id: ACT/28/29
+next:
+  id: ACT/28/30
+  number: '30'
+previous:
+  id: ACT/28/28
+  number: '28'
+reference: 'Acts 28:29'

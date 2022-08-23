@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 14:3" class="v">3</span>In
+  the mouth of the foolish <span class="add">is</span> a rod of pride: but the
+  lips of the wise shall preserve them. </p>
+id: PRO/14/3
+next:
+  id: PRO/14/4
+  number: '4'
+previous:
+  id: PRO/14/2
+  number: '2'
+reference: 'Proverbs 14:3'

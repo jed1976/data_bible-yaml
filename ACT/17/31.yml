@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 17:31"
+  class="v">31</span>Because he hath appointed a day, in the which he will judge
+  the world in righteousness by <span class="add">that</span> man whom he hath
+  ordained; <span class="add">whereof</span> he hath given assurance unto all
+  <span class="add">men</span>, in that he hath raised him from the dead.</p>
+id: ACT/17/31
+next:
+  id: ACT/17/32
+  number: '32'
+previous:
+  id: ACT/17/30
+  number: '30'
+reference: 'Acts 17:31'

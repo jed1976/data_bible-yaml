@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1KI 6:18" class="v">18</span>And
+  the cedar of the house within <span class="add">was</span> carved with knops
+  and open flowers: all <span class="add">was</span> cedar; there was no stone
+  seen. </p>
+id: 1KI/6/18
+next:
+  id: 1KI/6/19
+  number: '19'
+previous:
+  id: 1KI/6/17
+  number: '17'
+reference: '1 Kings 6:18'

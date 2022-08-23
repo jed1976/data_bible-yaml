@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 19:21"
+  class="v">21</span>And he said unto him, See, I have accepted thee concerning
+  this thing also, that I will not overthrow this city, for the which thou hast
+  spoken. </p>
+id: GEN/19/21
+next:
+  id: GEN/19/22
+  number: '22'
+previous:
+  id: GEN/19/20
+  number: '20'
+reference: 'Genesis 19:21'

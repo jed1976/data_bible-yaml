@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NEH 2:19" class="v">19</span>But
+  when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem
+  the Arabian, heard <span class="add">it</span>, they laughed us to scorn, and
+  despised us, and said, What <span class="add">is</span> this thing that ye do?
+  will ye rebel against the king? </p>
+id: NEH/2/19
+next:
+  id: NEH/2/20
+  number: '20'
+previous:
+  id: NEH/2/18
+  number: '18'
+reference: 'Nehemiah 2:19'

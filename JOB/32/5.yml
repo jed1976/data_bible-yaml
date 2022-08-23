@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 32:5" class="v">5</span>When
+  Elihu saw that <span class="add">there was</span> no answer in the mouth of
+  <span class="add">these</span> three men, then his wrath was kindled.</p>
+id: JOB/32/5
+next:
+  id: JOB/32/6
+  number: '6'
+previous:
+  id: JOB/32/4
+  number: '4'
+reference: 'Job 32:5'

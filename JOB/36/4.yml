@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 36:4" class="v">4</span>For
+  truly my words <span class="add">shall</span> not <span class="add">be</span>
+  false: he that is perfect in knowledge <span class="add">is</span> with
+  thee.</p>
+id: JOB/36/4
+next:
+  id: JOB/36/5
+  number: '5'
+previous:
+  id: JOB/36/3
+  number: '3'
+reference: 'Job 36:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="COL 4:13" class="v">13</span>For
+  I bear him record, that he hath a great zeal for you, and them <span
+  class="add">that are</span> in Laodicea, and them in Hierapolis. </p>
+id: COL/4/13
+next:
+  id: COL/4/14
+  number: '14'
+previous:
+  id: COL/4/12
+  number: '12'
+reference: 'Colossians 4:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 17:14" class="v">14</span>¶
+  When thou art come unto the land which the <span class="nd">LORD</span> thy
+  God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say,
+  I will set a king over me, like as all the nations that <span
+  class="add">are</span> about me; </p>
+id: DEU/17/14
+next:
+  id: DEU/17/15
+  number: '15'
+previous:
+  id: DEU/17/13
+  number: '13'
+reference: 'Deuteronomy 17:14'

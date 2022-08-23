@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 21:9" class="v">9</span><span
+  class="wj">But when ye shall hear of wars and commotions, be not terrified:
+  for these things must first come to pass; but the end <span
+  class="add">is</span> not by and by.</span> </p>
+id: LUK/21/9
+next:
+  id: LUK/21/10
+  number: '10'
+previous:
+  id: LUK/21/8
+  number: '8'
+reference: 'Luke 21:9'

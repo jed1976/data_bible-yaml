@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 8:19" class="v">19</span>And
+  I have given the Levites <span class="add">as</span> a gift to Aaron and to
+  his sons from among the children of Israel, to do the service of the children
+  of Israel in the tabernacle of the congregation, and to make an atonement for
+  the children of Israel: that there be no plague among the children of Israel,
+  when the children of Israel come nigh unto the sanctuary. </p>
+id: NUM/8/19
+next:
+  id: NUM/8/20
+  number: '20'
+previous:
+  id: NUM/8/18
+  number: '18'
+reference: 'Numbers 8:19'

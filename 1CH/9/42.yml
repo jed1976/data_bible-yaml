@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1CH 9:42" class="v">42</span>And
+  Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri
+  begat Moza; </p>
+id: 1CH/9/42
+next:
+  id: 1CH/9/43
+  number: '43'
+previous:
+  id: 1CH/9/41
+  number: '41'
+reference: '1 Chronicles 9:42'

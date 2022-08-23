@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 2:19" class="v">19</span>¶
+  Then was the secret revealed unto Daniel in a night vision. Then Daniel
+  blessed the God of heaven. </p>
+id: DAN/2/19
+next:
+  id: DAN/2/20
+  number: '20'
+previous:
+  id: DAN/2/18
+  number: '18'
+reference: 'Daniel 2:19'

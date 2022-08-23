@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 40:6" class="v">6</span>The
+  voice said, Cry. And he said, What shall I cry? All flesh <span
+  class="add">is</span> grass, and all the goodliness thereof <span
+  class="add">is</span> as the flower of the field: </p>
+id: ISA/40/6
+next:
+  id: ISA/40/7
+  number: '7'
+previous:
+  id: ISA/40/5
+  number: '5'
+reference: 'Isaiah 40:6'

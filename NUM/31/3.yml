@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 31:3" class="v">3</span>And
+  Moses spake unto the people, saying, Arm some of yourselves unto the war, and
+  let them go against the Midianites, and avenge the <span
+  class="nd">LORD</span> of Midian. </p>
+id: NUM/31/3
+next:
+  id: NUM/31/4
+  number: '4'
+previous:
+  id: NUM/31/2
+  number: '2'
+reference: 'Numbers 31:3'

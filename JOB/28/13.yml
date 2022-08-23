@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 28:13"
+  class="v">13</span>Man knoweth not the price thereof; neither is it found in
+  the land of the living.</p>
+id: JOB/28/13
+next:
+  id: JOB/28/14
+  number: '14'
+previous:
+  id: JOB/28/12
+  number: '12'
+reference: 'Job 28:13'

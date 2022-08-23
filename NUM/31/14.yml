@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 31:14"
+  class="v">14</span>And Moses was wroth with the officers of the host, <span
+  class="add">with</span> the captains over thousands, and captains over
+  hundreds, which came from the battle. </p>
+id: NUM/31/14
+next:
+  id: NUM/31/15
+  number: '15'
+previous:
+  id: NUM/31/13
+  number: '13'
+reference: 'Numbers 31:14'

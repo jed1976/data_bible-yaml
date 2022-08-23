@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="RUT 4:20" class="v">20</span>And
+  Amminadab begat Nahshon, and Nahshon begat Salmon, </p>
+id: RUT/4/20
+next:
+  id: RUT/4/21
+  number: '21'
+previous:
+  id: RUT/4/19
+  number: '19'
+reference: 'Ruth 4:20'

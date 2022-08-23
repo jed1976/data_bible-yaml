@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 81:5" class="v">5</span>This
+  he ordained in Joseph <span class="add">for</span> a testimony, when he went
+  out through the land of Egypt: <span class="add">where</span> I heard a
+  language <span class="add">that</span> I understood not.</p>
+id: PSA/81/5
+next:
+  id: PSA/81/6
+  number: '6'
+previous:
+  id: PSA/81/4
+  number: '4'
+reference: 'Psalms 81:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="1SA 25:36" class="v">36</span>¶
+  And Abigail came to Nabal; and, behold, he held a feast in his house, like the
+  feast of a king; and Nabal’s heart <span class="add">was</span> merry within
+  him, for he <span class="add">was</span> very drunken: wherefore she told him
+  nothing, less or more, until the morning light. </p>
+id: 1SA/25/36
+next:
+  id: 1SA/25/37
+  number: '37'
+previous:
+  id: 1SA/25/35
+  number: '35'
+reference: '1 Samuel 25:36'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="EXO 29:38" class="v">38</span>¶
+  Now this <span class="add">is that</span> which thou shalt offer upon the
+  altar; two lambs of the first year day by day continually. </p>
+id: EXO/29/38
+next:
+  id: EXO/29/39
+  number: '39'
+previous:
+  id: EXO/29/37
+  number: '37'
+reference: 'Exodus 29:38'

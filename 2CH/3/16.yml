@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 3:16" class="v">16</span>And
+  he made chains, <span class="add">as</span> in the oracle, and put <span
+  class="add">them</span> on the heads of the pillars; and made an hundred
+  pomegranates, and put <span class="add">them</span> on the chains. </p>
+id: 2CH/3/16
+next:
+  id: 2CH/3/17
+  number: '17'
+previous:
+  id: 2CH/3/15
+  number: '15'
+reference: '2 Chronicles 3:16'

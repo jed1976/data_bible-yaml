@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 7:11" class="v">11</span>And
+  above <span class="add">were</span> costly stones, after the measures of hewed
+  stones, and cedars. </p>
+id: 1KI/7/11
+next:
+  id: 1KI/7/12
+  number: '12'
+previous:
+  id: 1KI/7/10
+  number: '10'
+reference: '1 Kings 7:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 13:3" class="v">3</span>Jesus
+  knowing that the Father had given all things into his hands, and that he was
+  come from God, and went to God; </p>
+id: JHN/13/3
+next:
+  id: JHN/13/4
+  number: '4'
+previous:
+  id: JHN/13/2
+  number: '2'
+reference: 'John 13:3'

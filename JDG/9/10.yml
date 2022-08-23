@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 9:10" class="v">10</span>And
+  the trees said to the fig tree, Come thou, <span class="add">and</span> reign
+  over us. </p>
+id: JDG/9/10
+next:
+  id: JDG/9/11
+  number: '11'
+previous:
+  id: JDG/9/9
+  number: '9'
+reference: 'Judges 9:10'

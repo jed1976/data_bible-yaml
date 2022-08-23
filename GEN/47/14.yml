@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 47:14"
+  class="v">14</span>And Joseph gathered up all the money that was found in the
+  land of Egypt, and in the land of Canaan, for the corn which they bought: and
+  Joseph brought the money into Pharaoh’s house. </p>
+id: GEN/47/14
+next:
+  id: GEN/47/15
+  number: '15'
+previous:
+  id: GEN/47/13
+  number: '13'
+reference: 'Genesis 47:14'

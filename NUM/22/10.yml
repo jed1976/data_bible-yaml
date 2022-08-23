@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 22:10"
+  class="v">10</span>And Balaam said unto God, Balak the son of Zippor, king of
+  Moab, hath sent unto me, <span class="add">saying</span>, </p>
+id: NUM/22/10
+next:
+  id: NUM/22/11
+  number: '11'
+previous:
+  id: NUM/22/9
+  number: '9'
+reference: 'Numbers 22:10'

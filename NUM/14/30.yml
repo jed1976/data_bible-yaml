@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 14:30"
+  class="v">30</span>Doubtless ye shall not come into the land, <span
+  class="add">concerning</span> which I sware to make you dwell therein, save
+  Caleb the son of Jephunneh, and Joshua the son of Nun. </p>
+id: NUM/14/30
+next:
+  id: NUM/14/31
+  number: '31'
+previous:
+  id: NUM/14/29
+  number: '29'
+reference: 'Numbers 14:30'

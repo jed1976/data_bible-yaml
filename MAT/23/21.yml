@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 23:21"
+  class="v">21</span><span class="wj">And whoso shall swear by the temple,
+  sweareth by it, and by him that dwelleth therein.</span> </p>
+id: MAT/23/21
+next:
+  id: MAT/23/22
+  number: '22'
+previous:
+  id: MAT/23/20
+  number: '20'
+reference: 'Matthew 23:21'

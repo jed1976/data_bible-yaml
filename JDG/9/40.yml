@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JDG 9:40" class="v">40</span>And
+  Abimelech chased him, and he fled before him, and many were overthrown <span
+  class="add">and</span> wounded, <span class="add">even</span> unto the
+  entering of the gate. </p>
+id: JDG/9/40
+next:
+  id: JDG/9/41
+  number: '41'
+previous:
+  id: JDG/9/39
+  number: '39'
+reference: 'Judges 9:40'

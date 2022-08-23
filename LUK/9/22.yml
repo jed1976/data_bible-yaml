@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 9:22"
+  class="v">22</span>Saying, <span class="wj">The Son of man must suffer many
+  things, and be rejected of the elders and chief priests and scribes, and be
+  slain, and be raised the third day.</span></p>
+id: LUK/9/22
+next:
+  id: LUK/9/23
+  number: '23'
+previous:
+  id: LUK/9/21
+  number: '21'
+reference: 'Luke 9:22'

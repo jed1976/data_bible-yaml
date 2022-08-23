@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 11:24" class="v">24</span>He
+  shall enter peaceably even upon the fattest places of the province; and he
+  shall do <span class="add">that</span> which his fathers have not done, nor
+  his fathers’ fathers; he shall scatter among them the prey, and spoil, and
+  riches: <span class="add">yea</span>, and he shall forecast his devices
+  against the strong holds, even for a time. </p>
+id: DAN/11/24
+next:
+  id: DAN/11/25
+  number: '25'
+previous:
+  id: DAN/11/23
+  number: '23'
+reference: 'Daniel 11:24'

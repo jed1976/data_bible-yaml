@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 5:20" class="v">20</span>¶
+  Woe unto them that call evil good, and good evil; that put darkness for light,
+  and light for darkness; that put bitter for sweet, and sweet for bitter! </p>
+id: ISA/5/20
+next:
+  id: ISA/5/21
+  number: '21'
+previous:
+  id: ISA/5/19
+  number: '19'
+reference: 'Isaiah 5:20'

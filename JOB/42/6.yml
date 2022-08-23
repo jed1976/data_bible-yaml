@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 42:6"
+  class="v">6</span>Wherefore I abhor <span class="add">myself</span>, and
+  repent in dust and ashes.</p>
+id: JOB/42/6
+next:
+  id: JOB/42/7
+  number: '7'
+previous:
+  id: JOB/42/5
+  number: '5'
+reference: 'Job 42:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 26:4"
+  class="v">4</span>Moreover the sons of Obed-edom <span
+  class="add">were</span>, Shemaiah the firstborn, Jehozabad the second, Joah
+  the third, and Sacar the fourth, and Nethaneel the fifth, </p>
+id: 1CH/26/4
+next:
+  id: 1CH/26/5
+  number: '5'
+previous:
+  id: 1CH/26/3
+  number: '3'
+reference: '1 Chronicles 26:4'

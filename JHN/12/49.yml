@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="JHN 12:49"
+  class="v">49</span><span class="wj">For I have not spoken of myself; but the
+  Father which sent me, he gave me a commandment, what I should say, and what I
+  should speak.</span> </p>
+id: JHN/12/49
+next:
+  id: JHN/12/50
+  number: '50'
+previous:
+  id: JHN/12/48
+  number: '48'
+reference: 'John 12:49'

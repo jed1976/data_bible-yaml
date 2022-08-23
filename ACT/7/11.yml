@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 7:11" class="v">11</span>Now
+  there came a dearth over all the land of Egypt and Chanaan, and great
+  affliction: and our fathers found no sustenance. </p>
+id: ACT/7/11
+next:
+  id: ACT/7/12
+  number: '12'
+previous:
+  id: ACT/7/10
+  number: '10'
+reference: 'Acts 7:11'

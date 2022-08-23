@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 44:18"
+  class="v">18</span>Our heart is not turned back, neither have our steps
+  declined from thy way;</p>
+id: PSA/44/18
+next:
+  id: PSA/44/19
+  number: '19'
+previous:
+  id: PSA/44/17
+  number: '17'
+reference: 'Psalms 44:18'

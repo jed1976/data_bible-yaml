@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 20:16"
+  class="v">16</span>Jesus saith unto her, <span class="wj">Mary.</span> She
+  turned herself, and saith unto him, Rabboni; which is to say, Master. </p>
+id: JHN/20/16
+next:
+  id: JHN/20/17
+  number: '17'
+previous:
+  id: JHN/20/15
+  number: '15'
+reference: 'John 20:16'

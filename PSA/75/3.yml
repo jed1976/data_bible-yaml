@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 75:3" class="v">3</span>The
+  earth and all the inhabitants thereof are dissolved: I bear up the pillars of
+  it. Selah.</p>
+id: PSA/75/3
+next:
+  id: PSA/75/4
+  number: '4'
+previous:
+  id: PSA/75/2
+  number: '2'
+reference: 'Psalms 75:3'

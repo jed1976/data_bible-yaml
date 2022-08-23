@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Prayer of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 86:1" class="v">1</span>Bow down thine ear, O <span
+  class="nd">LORD</span>, hear me: for I <span class="add">am</span> poor and
+  needy.</p>
+id: PSA/86/1
+next:
+  id: PSA/86/2
+  number: '2'
+previous:
+  id: PSA/85/13
+  number: '13'
+reference: 'Psalms 86:1'

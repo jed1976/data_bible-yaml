@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LAM 3:7" class="v">7</span>He
+  hath hedged me about, that I cannot get out: he hath made my chain heavy. </p>
+id: LAM/3/7
+next:
+  id: LAM/3/8
+  number: '8'
+previous:
+  id: LAM/3/6
+  number: '6'
+reference: 'Lamentations 3:7'

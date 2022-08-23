@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 4:7" class="v">7</span>Thou
+  hast put gladness in my heart, more than in the time <span
+  class="add">that</span> their corn and their wine increased.</p>
+id: PSA/4/7
+next:
+  id: PSA/4/8
+  number: '8'
+previous:
+  id: PSA/4/6
+  number: '6'
+reference: 'Psalms 4:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1KI 3:27"
+  class="v">27</span>Then the king answered and said, Give her the living child,
+  and in no wise slay it: she <span class="add">is</span> the mother thereof.
+  </p>
+id: 1KI/3/27
+next:
+  id: 1KI/3/28
+  number: '28'
+previous:
+  id: 1KI/3/26
+  number: '26'
+reference: '1 Kings 3:27'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 32:15" class="v">15</span>¶
+  And Moses turned, and went down from the mount, and the two tables of the
+  testimony <span class="add">were</span> in his hand: the tables <span
+  class="add">were</span> written on both their sides; on the one side and on
+  the other <span class="add">were</span> they written. </p>
+id: EXO/32/15
+next:
+  id: EXO/32/16
+  number: '16'
+previous:
+  id: EXO/32/14
+  number: '14'
+reference: 'Exodus 32:15'

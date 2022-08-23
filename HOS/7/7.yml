@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 7:7" class="v">7</span>They
+  are all hot as an oven, and have devoured their judges; all their kings are
+  fallen: <span class="add">there is</span> none among them that calleth unto
+  me.</p>
+id: HOS/7/7
+next:
+  id: HOS/7/8
+  number: '8'
+previous:
+  id: HOS/7/6
+  number: '6'
+reference: 'Hosea 7:7'

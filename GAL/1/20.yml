@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GAL 1:20" class="v">20</span>Now
+  the things which I write unto you, behold, before God, I lie not. </p>
+id: GAL/1/20
+next:
+  id: GAL/1/21
+  number: '21'
+previous:
+  id: GAL/1/19
+  number: '19'
+reference: 'Galatians 1:20'

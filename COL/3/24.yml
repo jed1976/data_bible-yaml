@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="COL 3:24"
+  class="v">24</span>Knowing that of the Lord ye shall receive the reward of the
+  inheritance: for ye serve the Lord Christ. </p>
+id: COL/3/24
+next:
+  id: COL/3/25
+  number: '25'
+previous:
+  id: COL/3/23
+  number: '23'
+reference: 'Colossians 3:24'

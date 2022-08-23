@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 51:7"
+  class="v">7</span>Purge me with hyssop, and I shall be clean: wash me, and I
+  shall be whiter than snow.</p>
+id: PSA/51/7
+next:
+  id: PSA/51/8
+  number: '8'
+previous:
+  id: PSA/51/6
+  number: '6'
+reference: 'Psalms 51:7'

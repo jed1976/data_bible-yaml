@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 27:3" class="v">3</span>Now
+  therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out
+  to the field, and take me <span class="add">some</span> venison; </p>
+id: GEN/27/3
+next:
+  id: GEN/27/4
+  number: '4'
+previous:
+  id: GEN/27/2
+  number: '2'
+reference: 'Genesis 27:3'

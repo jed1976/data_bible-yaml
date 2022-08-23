@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 37:10"
+  class="v">10</span>And he told <span class="add">it</span> to his father, and
+  to his brethren: and his father rebuked him, and said unto him, What <span
+  class="add">is</span> this dream that thou hast dreamed? Shall I and thy
+  mother and thy brethren indeed come to bow down ourselves to thee to the
+  earth? </p>
+id: GEN/37/10
+next:
+  id: GEN/37/11
+  number: '11'
+previous:
+  id: GEN/37/9
+  number: '9'
+reference: 'Genesis 37:10'

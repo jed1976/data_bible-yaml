@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1PE 4:8" class="v">8</span>And
+  above all things have fervent charity among yourselves: for charity shall
+  cover the multitude of sins. </p>
+id: 1PE/4/8
+next:
+  id: 1PE/4/9
+  number: '9'
+previous:
+  id: 1PE/4/7
+  number: '7'
+reference: '1 Peter 4:8'

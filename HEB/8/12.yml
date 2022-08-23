@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 8:12" class="v">12</span>For
+  I will be merciful to their unrighteousness, and their sins and their
+  iniquities will I remember no more. </p>
+id: HEB/8/12
+next:
+  id: HEB/8/13
+  number: '13'
+previous:
+  id: HEB/8/11
+  number: '11'
+reference: 'Hebrews 8:12'

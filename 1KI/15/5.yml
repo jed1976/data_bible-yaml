@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 15:5"
+  class="v">5</span>Because David did <span class="add">that which was</span>
+  right in the eyes of the <span class="nd">LORD</span>, and turned not aside
+  from any <span class="add">thing</span> that he commanded him all the days of
+  his life, save only in the matter of Uriah the Hittite. </p>
+id: 1KI/15/5
+next:
+  id: 1KI/15/6
+  number: '6'
+previous:
+  id: 1KI/15/4
+  number: '4'
+reference: '1 Kings 15:5'

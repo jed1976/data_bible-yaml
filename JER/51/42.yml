@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JER 51:42"
+  class="v">42</span>The sea is come up upon Babylon: she is covered with the
+  multitude of the waves thereof. </p>
+id: JER/51/42
+next:
+  id: JER/51/43
+  number: '43'
+previous:
+  id: JER/51/41
+  number: '41'
+reference: 'Jeremiah 51:42'

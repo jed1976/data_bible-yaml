@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 26:10"
+  class="v">10</span>And Abimelech said, What <span class="add">is</span> this
+  thou hast done unto us? one of the people might lightly have lien with thy
+  wife, and thou shouldest have brought guiltiness upon us. </p>
+id: GEN/26/10
+next:
+  id: GEN/26/11
+  number: '11'
+previous:
+  id: GEN/26/9
+  number: '9'
+reference: 'Genesis 26:10'

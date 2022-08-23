@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 68:19"
+  class="v">19</span>Blessed <span class="add">be</span> the Lord, <span
+  class="add">who</span> daily loadeth us <span class="add">with benefits,
+  even</span> the God of our salvation. Selah.</p>
+id: PSA/68/19
+next:
+  id: PSA/68/20
+  number: '20'
+previous:
+  id: PSA/68/18
+  number: '18'
+reference: 'Psalms 68:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 2:13" class="v">13</span>And
+  they forsook the <span class="nd">LORD</span>, and served Baal and
+  Ashtaroth.</p>
+id: JDG/2/13
+next:
+  id: JDG/2/14
+  number: '14'
+previous:
+  id: JDG/2/12
+  number: '12'
+reference: 'Judges 2:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 9:15" class="v">15</span>Now
+  there was found in it a poor wise man, and he by his wisdom delivered the
+  city; yet no man remembered that same poor man. </p>
+id: ECC/9/15
+next:
+  id: ECC/9/16
+  number: '16'
+previous:
+  id: ECC/9/14
+  number: '14'
+reference: 'Ecclesiastes 9:15'

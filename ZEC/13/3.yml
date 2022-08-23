@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 13:3" class="v">3</span>And
+  it shall come to pass, <span class="add">that</span> when any shall yet
+  prophesy, then his father and his mother that begat him shall say unto him,
+  Thou shalt not live; for thou speakest lies in the name of the <span
+  class="nd">LORD</span>: and his father and his mother that begat him shall
+  thrust him through when he prophesieth. </p>
+id: ZEC/13/3
+next:
+  id: ZEC/13/4
+  number: '4'
+previous:
+  id: ZEC/13/2
+  number: '2'
+reference: 'Zechariah 13:3'

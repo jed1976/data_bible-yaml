@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 78:11"
+  class="v">11</span>And forgat his works, and his wonders that he had shewed
+  them.</p>
+id: PSA/78/11
+next:
+  id: PSA/78/12
+  number: '12'
+previous:
+  id: PSA/78/10
+  number: '10'
+reference: 'Psalms 78:11'

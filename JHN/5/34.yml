@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 5:34"
+  class="v">34</span><span class="wj">But I receive not testimony from man: but
+  these things I say, that ye might be saved.</span> </p>
+id: JHN/5/34
+next:
+  id: JHN/5/35
+  number: '35'
+previous:
+  id: JHN/5/33
+  number: '33'
+reference: 'John 5:34'

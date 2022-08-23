@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 26:20"
+  class="v">20</span>Now when the even was come, he sat down with the twelve.
+  </p>
+id: MAT/26/20
+next:
+  id: MAT/26/21
+  number: '21'
+previous:
+  id: MAT/26/19
+  number: '19'
+reference: 'Matthew 26:20'

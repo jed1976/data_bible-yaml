@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 47:7" class="v">7</span>And
+  Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob
+  blessed Pharaoh. </p>
+id: GEN/47/7
+next:
+  id: GEN/47/8
+  number: '8'
+previous:
+  id: GEN/47/6
+  number: '6'
+reference: 'Genesis 47:7'

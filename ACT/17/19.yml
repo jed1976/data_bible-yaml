@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 17:19"
+  class="v">19</span>And they took him, and brought him unto Areopagus, saying,
+  May we know what this new doctrine, whereof thou speakest, <span
+  class="add">is</span>? </p>
+id: ACT/17/19
+next:
+  id: ACT/17/20
+  number: '20'
+previous:
+  id: ACT/17/18
+  number: '18'
+reference: 'Acts 17:19'

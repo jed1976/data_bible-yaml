@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NAM 1:11"
+  class="v">11</span>There is <span class="add">one</span> come out of thee,
+  that imagineth evil against the <span class="nd">LORD</span>, a wicked
+  counsellor. </p>
+id: NAM/1/11
+next:
+  id: NAM/1/12
+  number: '12'
+previous:
+  id: NAM/1/10
+  number: '10'
+reference: 'Nahum 1:11'

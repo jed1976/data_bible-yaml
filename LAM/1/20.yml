@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LAM 1:20"
+  class="v">20</span>Behold, O <span class="nd">LORD</span>; for I <span
+  class="add">am</span> in distress: my bowels are troubled; mine heart is
+  turned within me; for I have grievously rebelled: abroad the sword bereaveth,
+  at home <span class="add">there is</span> as death. </p>
+id: LAM/1/20
+next:
+  id: LAM/1/21
+  number: '21'
+previous:
+  id: LAM/1/19
+  number: '19'
+reference: 'Lamentations 1:20'

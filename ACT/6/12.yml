@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 6:12" class="v">12</span>And
+  they stirred up the people, and the elders, and the scribes, and came upon
+  <span class="add">him</span>, and caught him, and brought <span
+  class="add">him</span> to the council, </p>
+id: ACT/6/12
+next:
+  id: ACT/6/13
+  number: '13'
+previous:
+  id: ACT/6/11
+  number: '11'
+reference: 'Acts 6:12'

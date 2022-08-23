@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 119:19"
+  class="v">19</span>I <span class="add">am</span> a stranger in the earth: hide
+  not thy commandments from me.</p>
+id: PSA/119/19
+next:
+  id: PSA/119/20
+  number: '20'
+previous:
+  id: PSA/119/18
+  number: '18'
+reference: 'Psalms 119:19'

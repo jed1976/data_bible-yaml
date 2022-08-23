@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CO 10:33"
+  class="v">33</span>Even as I please all <span class="add">men</span> in all
+  <span class="add">things</span>, not seeking mine own profit, but the <span
+  class="add">profit</span> of many, that they may be saved.</p>
+id: 1CO/10/33
+next:
+  id: 1CO/11/1
+  number: '1'
+previous:
+  id: 1CO/10/32
+  number: '32'
+reference: '1 Corinthians 10:33'

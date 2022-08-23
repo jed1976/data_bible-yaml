@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 12:24"
+  class="v">24</span>And ye shall observe this thing for an ordinance to thee
+  and to thy sons for ever. </p>
+id: EXO/12/24
+next:
+  id: EXO/12/25
+  number: '25'
+previous:
+  id: EXO/12/23
+  number: '23'
+reference: 'Exodus 12:24'

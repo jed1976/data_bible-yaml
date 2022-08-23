@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 27:11"
+  class="v">11</span>And Jesus stood before the governor: and the governor asked
+  him, saying, Art thou the King of the Jews? And Jesus said unto him, <span
+  class="wj">Thou sayest.</span> </p>
+id: MAT/27/11
+next:
+  id: MAT/27/12
+  number: '12'
+previous:
+  id: MAT/27/10
+  number: '10'
+reference: 'Matthew 27:11'

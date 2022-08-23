@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 13:20"
+  class="v">20</span>And if, when the priest seeth it, behold, it <span
+  class="add">be</span> in sight lower than the skin, and the hair thereof be
+  turned white; the priest shall pronounce him unclean: it <span
+  class="add">is</span> a plague of leprosy broken out of the boil. </p>
+id: LEV/13/20
+next:
+  id: LEV/13/21
+  number: '21'
+previous:
+  id: LEV/13/19
+  number: '19'
+reference: 'Leviticus 13:20'

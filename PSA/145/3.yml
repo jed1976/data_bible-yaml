@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 145:3"
+  class="v">3</span>Great <span class="add">is</span> the <span
+  class="nd">LORD</span>, and greatly to be praised; and his greatness <span
+  class="add">is</span> unsearchable.</p>
+id: PSA/145/3
+next:
+  id: PSA/145/4
+  number: '4'
+previous:
+  id: PSA/145/2
+  number: '2'
+reference: 'Psalms 145:3'

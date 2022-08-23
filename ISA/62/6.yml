@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 62:6" class="v">6</span>I
+  have set watchmen upon thy walls, O Jerusalem, <span class="add">which</span>
+  shall never hold their peace day nor night: ye that make mention of the <span
+  class="nd">LORD</span>, keep not silence, </p>
+id: ISA/62/6
+next:
+  id: ISA/62/7
+  number: '7'
+previous:
+  id: ISA/62/5
+  number: '5'
+reference: 'Isaiah 62:6'

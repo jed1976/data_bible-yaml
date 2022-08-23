@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 28:7" class="v">7</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> my strength and my
+  shield; my heart trusted in him, and I am helped: therefore my heart greatly
+  rejoiceth; and with my song will I praise him.</p>
+id: PSA/28/7
+next:
+  id: PSA/28/8
+  number: '8'
+previous:
+  id: PSA/28/6
+  number: '6'
+reference: 'Psalms 28:7'

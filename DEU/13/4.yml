@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 13:4" class="v">4</span>Ye
+  shall walk after the <span class="nd">LORD</span> your God, and fear him, and
+  keep his commandments, and obey his voice, and ye shall serve him, and cleave
+  unto him. </p>
+id: DEU/13/4
+next:
+  id: DEU/13/5
+  number: '5'
+previous:
+  id: DEU/13/3
+  number: '3'
+reference: 'Deuteronomy 13:4'

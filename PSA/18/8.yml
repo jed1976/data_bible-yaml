@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 18:8"
+  class="v">8</span>There went up a smoke out of his nostrils, and fire out of
+  his mouth devoured: coals were kindled by it.</p>
+id: PSA/18/8
+next:
+  id: PSA/18/9
+  number: '9'
+previous:
+  id: PSA/18/7
+  number: '7'
+reference: 'Psalms 18:8'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 3:12" class="v">12</span>¶
+  <span class="add">As for</span> my people, children <span
+  class="add">are</span> their oppressors, and women rule over them. O my
+  people, they which lead thee cause <span class="add">thee</span> to err, and
+  destroy the way of thy paths. </p>
+id: ISA/3/12
+next:
+  id: ISA/3/13
+  number: '13'
+previous:
+  id: ISA/3/11
+  number: '11'
+reference: 'Isaiah 3:12'

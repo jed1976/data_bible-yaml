@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 2:15" class="v">15</span>¶
+  Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai,
+  who had taken her for his daughter, was come to go in unto the king, she
+  required nothing but what Hegai the king’s chamberlain, the keeper of the
+  women, appointed. And Esther obtained favour in the sight of all them that
+  looked upon her. </p>
+id: EST/2/15
+next:
+  id: EST/2/16
+  number: '16'
+previous:
+  id: EST/2/14
+  number: '14'
+reference: 'Esther 2:15'

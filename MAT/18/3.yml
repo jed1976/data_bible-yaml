@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 18:3" class="v">3</span>And
+  said, <span class="wj">Verily I say unto you, Except ye be converted, and
+  become as little children, ye shall not enter into the kingdom of
+  heaven.</span> </p>
+id: MAT/18/3
+next:
+  id: MAT/18/4
+  number: '4'
+previous:
+  id: MAT/18/2
+  number: '2'
+reference: 'Matthew 18:3'

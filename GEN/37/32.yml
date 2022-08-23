@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 37:32"
+  class="v">32</span>And they sent the coat of <span class="add">many</span>
+  colours, and they brought <span class="add">it</span> to their father; and
+  said, This have we found: know now whether it <span class="add">be</span> thy
+  son’s coat or no. </p>
+id: GEN/37/32
+next:
+  id: GEN/37/33
+  number: '33'
+previous:
+  id: GEN/37/31
+  number: '31'
+reference: 'Genesis 37:32'

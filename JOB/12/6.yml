@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 12:6" class="v">6</span>The
+  tabernacles of robbers prosper, and they that provoke God are secure; into
+  whose hand God bringeth <span class="add">abundantly</span>. </p>
+id: JOB/12/6
+next:
+  id: JOB/12/7
+  number: '7'
+previous:
+  id: JOB/12/5
+  number: '5'
+reference: 'Job 12:6'

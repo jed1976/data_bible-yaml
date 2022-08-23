@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 9:10"
+  class="v">10</span>Neither have we obeyed the voice of the <span
+  class="nd">LORD</span> our God, to walk in his laws, which he set before us by
+  his servants the prophets. </p>
+id: DAN/9/10
+next:
+  id: DAN/9/11
+  number: '11'
+previous:
+  id: DAN/9/9
+  number: '9'
+reference: 'Daniel 9:10'

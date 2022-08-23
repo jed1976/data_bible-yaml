@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 8:18" class="v">18</span>And
+  when Simon saw that through laying on of the apostles’ hands the Holy Ghost
+  was given, he offered them money, </p>
+id: ACT/8/18
+next:
+  id: ACT/8/19
+  number: '19'
+previous:
+  id: ACT/8/17
+  number: '17'
+reference: 'Acts 8:18'

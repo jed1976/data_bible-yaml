@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="PRO 23:35"
+  class="v">35</span>They have stricken me, <span class="add">shalt thou say,
+  and</span> I was not sick; they have beaten me, <span class="add">and</span> I
+  felt <span class="add">it</span> not: when shall I awake? I will seek it yet
+  again.</p>
+id: PRO/23/35
+next:
+  id: PRO/24/1
+  number: '1'
+previous:
+  id: PRO/23/34
+  number: '34'
+reference: 'Proverbs 23:35'

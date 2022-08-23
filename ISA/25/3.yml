@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 25:3"
+  class="v">3</span>Therefore shall the strong people glorify thee, the city of
+  the terrible nations shall fear thee. </p>
+id: ISA/25/3
+next:
+  id: ISA/25/4
+  number: '4'
+previous:
+  id: ISA/25/2
+  number: '2'
+reference: 'Isaiah 25:3'

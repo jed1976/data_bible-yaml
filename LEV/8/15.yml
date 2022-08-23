@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 8:15" class="v">15</span>And
+  he slew <span class="add">it;</span> and Moses took the blood, and put <span
+  class="add">it</span> upon the horns of the altar round about with his finger,
+  and purified the altar, and poured the blood at the bottom of the altar, and
+  sanctified it, to make reconciliation upon it. </p>
+id: LEV/8/15
+next:
+  id: LEV/8/16
+  number: '16'
+previous:
+  id: LEV/8/14
+  number: '14'
+reference: 'Leviticus 8:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 13:45"
+  class="v">45</span><span class="wj">¶ Again, the kingdom of heaven is like
+  unto a merchant man, seeking goodly pearls:</span> </p>
+id: MAT/13/45
+next:
+  id: MAT/13/46
+  number: '46'
+previous:
+  id: MAT/13/44
+  number: '44'
+reference: 'Matthew 13:45'

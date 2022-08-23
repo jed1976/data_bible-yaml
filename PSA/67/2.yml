@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 67:2" class="v">2</span>That
+  thy way may be known upon earth, thy saving health among all nations.</p>
+id: PSA/67/2
+next:
+  id: PSA/67/3
+  number: '3'
+previous:
+  id: PSA/67/1
+  number: '1'
+reference: 'Psalms 67:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 18:18"
+  class="v">18</span>And passed along toward the side over against Arabah
+  northward, and went down unto Arabah: </p>
+id: JOS/18/18
+next:
+  id: JOS/18/19
+  number: '19'
+previous:
+  id: JOS/18/17
+  number: '17'
+reference: 'Joshua 18:18'

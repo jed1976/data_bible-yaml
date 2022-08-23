@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 1:3" class="v">3</span>The
+  voice of one crying in the wilderness, Prepare ye the way of the Lord, make
+  his paths straight. </p>
+id: MRK/1/3
+next:
+  id: MRK/1/4
+  number: '4'
+previous:
+  id: MRK/1/2
+  number: '2'
+reference: 'Mark 1:3'

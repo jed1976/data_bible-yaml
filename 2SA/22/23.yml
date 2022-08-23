@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 22:23"
+  class="v">23</span>For all his judgments <span class="add">were</span> before
+  me: and <span class="add">as for</span> his statutes, I did not depart from
+  them. </p>
+id: 2SA/22/23
+next:
+  id: 2SA/22/24
+  number: '24'
+previous:
+  id: 2SA/22/22
+  number: '22'
+reference: '2 Samuel 22:23'

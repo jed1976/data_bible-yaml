@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 28:8" class="v">8</span>And
+  the other lamb shalt thou offer at even: as the meat offering of the morning,
+  and as the drink offering thereof, thou shalt offer <span
+  class="add">it</span>, a sacrifice made by fire, of a sweet savour unto the
+  <span class="nd">LORD</span>.</p>
+id: NUM/28/8
+next:
+  id: NUM/28/9
+  number: '9'
+previous:
+  id: NUM/28/7
+  number: '7'
+reference: 'Numbers 28:8'

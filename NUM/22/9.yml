@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 22:9" class="v">9</span>And
+  God came unto Balaam, and said, What men <span class="add">are</span> these
+  with thee? </p>
+id: NUM/22/9
+next:
+  id: NUM/22/10
+  number: '10'
+previous:
+  id: NUM/22/8
+  number: '8'
+reference: 'Numbers 22:9'

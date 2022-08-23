@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 3:1" class="v">1</span>Now in
+  the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate being
+  governor of Judæa, and Herod being tetrarch of Galilee, and his brother Philip
+  tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the
+  tetrarch of Abilene, </p>
+id: LUK/3/1
+next:
+  id: LUK/3/2
+  number: '2'
+previous:
+  id: LUK/2/52
+  number: '52'
+reference: 'Luke 3:1'

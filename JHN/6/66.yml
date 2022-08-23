@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="JHN 6:66" class="v">66</span>¶
+  From that <span class="add">time</span> many of his disciples went back, and
+  walked no more with him. </p>
+id: JHN/6/66
+next:
+  id: JHN/6/67
+  number: '67'
+previous:
+  id: JHN/6/65
+  number: '65'
+reference: 'John 6:66'

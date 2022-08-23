@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 22:50" class="v">50</span>¶
+  And one of them smote the servant of the high priest, and cut off his right
+  ear. </p>
+id: LUK/22/50
+next:
+  id: LUK/22/51
+  number: '51'
+previous:
+  id: LUK/22/49
+  number: '49'
+reference: 'Luke 22:50'

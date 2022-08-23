@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="NUM 31:51"
+  class="v">51</span>And Moses and Eleazar the priest took the gold of them,
+  <span class="add">even</span> all wrought jewels. </p>
+id: NUM/31/51
+next:
+  id: NUM/31/52
+  number: '52'
+previous:
+  id: NUM/31/50
+  number: '50'
+reference: 'Numbers 31:51'

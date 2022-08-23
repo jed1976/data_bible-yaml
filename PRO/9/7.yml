@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 9:7" class="v">7</span>He
+  that reproveth a scorner getteth to himself shame: and he that rebuketh a
+  wicked <span class="add">man getteth</span> himself a blot. </p>
+id: PRO/9/7
+next:
+  id: PRO/9/8
+  number: '8'
+previous:
+  id: PRO/9/6
+  number: '6'
+reference: 'Proverbs 9:7'

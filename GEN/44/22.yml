@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 44:22"
+  class="v">22</span>And we said unto my lord, The lad cannot leave his father:
+  for <span class="add">if</span> he should leave his father, <span
+  class="add">his father</span> would die. </p>
+id: GEN/44/22
+next:
+  id: GEN/44/23
+  number: '23'
+previous:
+  id: GEN/44/21
+  number: '21'
+reference: 'Genesis 44:22'

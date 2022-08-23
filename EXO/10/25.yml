@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 10:25"
+  class="v">25</span>And Moses said, Thou must give us also sacrifices and burnt
+  offerings, that we may sacrifice unto the <span class="nd">LORD</span> our
+  God. </p>
+id: EXO/10/25
+next:
+  id: EXO/10/26
+  number: '26'
+previous:
+  id: EXO/10/24
+  number: '24'
+reference: 'Exodus 10:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 7:9" class="v">9</span>Thus
+  speaketh the <span class="nd">LORD</span> of hosts, saying, Execute true
+  judgment, and shew mercy and compassions every man to his brother: </p>
+id: ZEC/7/9
+next:
+  id: ZEC/7/10
+  number: '10'
+previous:
+  id: ZEC/7/8
+  number: '8'
+reference: 'Zechariah 7:9'

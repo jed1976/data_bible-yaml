@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 10:10"
+  class="v">10</span>But the <span class="nd">LORD</span> <span
+  class="add">is</span> the true God, he <span class="add">is</span> the living
+  God, and an everlasting king: at his wrath the earth shall tremble, and the
+  nations shall not be able to abide his indignation. </p>
+id: JER/10/10
+next:
+  id: JER/10/11
+  number: '11'
+previous:
+  id: JER/10/9
+  number: '9'
+reference: 'Jeremiah 10:10'

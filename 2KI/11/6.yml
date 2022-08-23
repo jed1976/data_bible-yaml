@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 11:6" class="v">6</span>And a
+  third part <span class="add">shall be</span> at the gate of Sur; and a third
+  part at the gate behind the guard: so shall ye keep the watch of the house,
+  that it be not broken down. </p>
+id: 2KI/11/6
+next:
+  id: 2KI/11/7
+  number: '7'
+previous:
+  id: 2KI/11/5
+  number: '5'
+reference: '2 Kings 11:6'

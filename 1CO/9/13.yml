@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CO 9:13" class="v">13</span>Do
+  ye not know that they which minister about holy things live <span
+  class="add">of the things</span> of the temple? and they which wait at the
+  altar are partakers with the altar? </p>
+id: 1CO/9/13
+next:
+  id: 1CO/9/14
+  number: '14'
+previous:
+  id: 1CO/9/12
+  number: '12'
+reference: '1 Corinthians 9:13'

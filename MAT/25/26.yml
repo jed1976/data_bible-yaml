@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 25:26"
+  class="v">26</span><span class="wj">His lord answered and said unto him, <span
+  class="add">Thou</span> wicked and slothful servant, thou knewest that I reap
+  where I sowed not, and gather where I have not strawed:</span> </p>
+id: MAT/25/26
+next:
+  id: MAT/25/27
+  number: '27'
+previous:
+  id: MAT/25/25
+  number: '25'
+reference: 'Matthew 25:26'

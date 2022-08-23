@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CH 14:2" class="v">2</span>And
+  David perceived that the <span class="nd">LORD</span> had confirmed him king
+  over Israel, for his kingdom was lifted up on high, because of his people
+  Israel.</p>
+id: 1CH/14/2
+next:
+  id: 1CH/14/3
+  number: '3'
+previous:
+  id: 1CH/14/1
+  number: '1'
+reference: '1 Chronicles 14:2'

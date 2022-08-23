@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZR 4:11" class="v">11</span>¶
+  This <span class="add">is</span> the copy of the letter that they sent unto
+  him, <span class="add">even</span> unto Artaxerxes the king; Thy servants the
+  men on this side the river, and at such a time. </p>
+id: EZR/4/11
+next:
+  id: EZR/4/12
+  number: '12'
+previous:
+  id: EZR/4/10
+  number: '10'
+reference: 'Ezra 4:11'

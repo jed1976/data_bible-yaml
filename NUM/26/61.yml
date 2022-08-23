@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="61" data-sid="NUM 26:61"
+  class="v">61</span>And Nadab and Abihu died, when they offered strange fire
+  before the <span class="nd">LORD</span>. </p>
+id: NUM/26/61
+next:
+  id: NUM/26/62
+  number: '62'
+previous:
+  id: NUM/26/60
+  number: '60'
+reference: 'Numbers 26:61'

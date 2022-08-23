@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="61" data-sid="NEH 7:61" class="v">61</span>And
+  these <span class="add">were</span> they which went up <span
+  class="add">also</span> from Tel-melah, Tel-haresha, Cherub, Addon, and Immer:
+  but they could not shew their father’s house, nor their seed, whether they
+  <span class="add">were</span> of Israel. </p>
+id: NEH/7/61
+next:
+  id: NEH/7/62
+  number: '62'
+previous:
+  id: NEH/7/60
+  number: '60'
+reference: 'Nehemiah 7:61'

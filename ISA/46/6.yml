@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 46:6" class="v">6</span>They
+  lavish gold out of the bag, and weigh silver in the balance, <span
+  class="add">and</span> hire a goldsmith; and he maketh it a god: they fall
+  down, yea, they worship. </p>
+id: ISA/46/6
+next:
+  id: ISA/46/7
+  number: '7'
+previous:
+  id: ISA/46/5
+  number: '5'
+reference: 'Isaiah 46:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 27:35"
+  class="v">35</span>And they crucified him, and parted his garments, casting
+  lots: that it might be fulfilled which was spoken by the prophet, They parted
+  my garments among them, and upon my vesture did they cast lots. </p>
+id: MAT/27/35
+next:
+  id: MAT/27/36
+  number: '36'
+previous:
+  id: MAT/27/34
+  number: '34'
+reference: 'Matthew 27:35'

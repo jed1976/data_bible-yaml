@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 32:20" class="v">20</span>I
+  will speak, that I may be refreshed: I will open my lips and answer. </p>
+id: JOB/32/20
+next:
+  id: JOB/32/21
+  number: '21'
+previous:
+  id: JOB/32/19
+  number: '19'
+reference: 'Job 32:20'

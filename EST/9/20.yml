@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EST 9:20" class="v">20</span>¶
+  And Mordecai wrote these things, and sent letters unto all the Jews that <span
+  class="add">were</span> in all the provinces of the king Ahasuerus, <span
+  class="add">both</span> nigh and far, </p>
+id: EST/9/20
+next:
+  id: EST/9/21
+  number: '21'
+previous:
+  id: EST/9/19
+  number: '19'
+reference: 'Esther 9:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="3" data-sid="PSA 8:3"
+  class="v">3</span>When I consider thy heavens, the work of thy fingers, the
+  moon and the stars, which thou hast ordained;</p>
+id: PSA/8/3
+next:
+  id: PSA/8/4
+  number: '4'
+previous:
+  id: PSA/8/2
+  number: '2'
+reference: 'Psalms 8:3'

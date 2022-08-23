@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 7:26"
+  class="v">26</span>Neither shalt thou bring an abomination into thine house,
+  lest thou be a cursed thing like it: <span class="add">but</span> thou shalt
+  utterly detest it, and thou shalt utterly abhor it; for it <span
+  class="add">is</span> a cursed thing.</p>
+id: DEU/7/26
+next:
+  id: DEU/8/1
+  number: '1'
+previous:
+  id: DEU/7/25
+  number: '25'
+reference: 'Deuteronomy 7:26'

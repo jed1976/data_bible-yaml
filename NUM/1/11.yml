@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 1:11" class="v">11</span>Of
+  Benjamin; Abidan the son of Gideoni. </p>
+id: NUM/1/11
+next:
+  id: NUM/1/12
+  number: '12'
+previous:
+  id: NUM/1/10
+  number: '10'
+reference: 'Numbers 1:11'

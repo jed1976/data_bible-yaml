@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 25:12"
+  class="v">12</span>What man <span class="add">is</span> he that feareth the
+  <span class="nd">LORD</span>? him shall he teach in the way <span
+  class="add">that</span> he shall choose.</p>
+id: PSA/25/12
+next:
+  id: PSA/25/13
+  number: '13'
+previous:
+  id: PSA/25/11
+  number: '11'
+reference: 'Psalms 25:12'

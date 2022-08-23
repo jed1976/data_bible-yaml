@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 4:9" class="v">9</span>Then
+  saith the woman of Samaria unto him, How is it that thou, being a Jew, askest
+  drink of me, which am a woman of Samaria? for the Jews have no dealings with
+  the Samaritans. </p>
+id: JHN/4/9
+next:
+  id: JHN/4/10
+  number: '10'
+previous:
+  id: JHN/4/8
+  number: '8'
+reference: 'John 4:9'

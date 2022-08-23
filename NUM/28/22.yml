@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 28:22"
+  class="v">22</span>And one goat <span class="add">for</span> a sin offering,
+  to make an atonement for you. </p>
+id: NUM/28/22
+next:
+  id: NUM/28/23
+  number: '23'
+previous:
+  id: NUM/28/21
+  number: '21'
+reference: 'Numbers 28:22'

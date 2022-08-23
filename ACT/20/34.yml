@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 20:34"
+  class="v">34</span>Yea, ye yourselves know, that these hands have ministered
+  unto my necessities, and to them that were with me. </p>
+id: ACT/20/34
+next:
+  id: ACT/20/35
+  number: '35'
+previous:
+  id: ACT/20/33
+  number: '33'
+reference: 'Acts 20:34'

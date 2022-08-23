@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 2:23" class="v">23</span>And
+  he came and dwelt in a city called Nazareth: that it might be fulfilled which
+  was spoken by the prophets, He shall be called a Nazarene.</p>
+id: MAT/2/23
+next:
+  id: MAT/3/1
+  number: '1'
+previous:
+  id: MAT/2/22
+  number: '22'
+reference: 'Matthew 2:23'

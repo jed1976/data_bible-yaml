@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 8:11"
+  class="v">11</span><span class="wj">Now the parable is this: The seed is the
+  word of God.</span> </p>
+id: LUK/8/11
+next:
+  id: LUK/8/12
+  number: '12'
+previous:
+  id: LUK/8/10
+  number: '10'
+reference: 'Luke 8:11'

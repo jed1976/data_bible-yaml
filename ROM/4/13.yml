@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 4:13" class="v">13</span>For
+  the promise, that he should be the heir of the world, <span
+  class="add">was</span> not to Abraham, or to his seed, through the law, but
+  through the righteousness of faith. </p>
+id: ROM/4/13
+next:
+  id: ROM/4/14
+  number: '14'
+previous:
+  id: ROM/4/12
+  number: '12'
+reference: 'Romans 4:13'

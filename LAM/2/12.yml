@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LAM 2:12"
+  class="v">12</span>They say to their mothers, Where <span
+  class="add">is</span> corn and wine? when they swooned as the wounded in the
+  streets of the city, when their soul was poured out into their mothers’ bosom.
+  </p>
+id: LAM/2/12
+next:
+  id: LAM/2/13
+  number: '13'
+previous:
+  id: LAM/2/11
+  number: '11'
+reference: 'Lamentations 2:12'

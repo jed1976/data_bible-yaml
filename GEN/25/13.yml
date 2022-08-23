@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 25:13"
+  class="v">13</span>And these <span class="add">are</span> the names of the
+  sons of Ishmael, by their names, according to their generations: the firstborn
+  of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam, </p>
+id: GEN/25/13
+next:
+  id: GEN/25/14
+  number: '14'
+previous:
+  id: GEN/25/12
+  number: '12'
+reference: 'Genesis 25:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 13:14"
+  class="v">14</span>Then shalt thou enquire, and make search, and ask
+  diligently; and, behold, <span class="add">if it be</span> truth, <span
+  class="add">and</span> the thing certain, <span class="add">that</span> such
+  abomination is wrought among you; </p>
+id: DEU/13/14
+next:
+  id: DEU/13/15
+  number: '15'
+previous:
+  id: DEU/13/13
+  number: '13'
+reference: 'Deuteronomy 13:14'

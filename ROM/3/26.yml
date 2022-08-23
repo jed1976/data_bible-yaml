@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ROM 3:26" class="v">26</span>To
+  declare, <span class="add">I say</span>, at this time his righteousness: that
+  he might be just, and the justifier of him which believeth in Jesus. </p>
+id: ROM/3/26
+next:
+  id: ROM/3/27
+  number: '27'
+previous:
+  id: ROM/3/25
+  number: '25'
+reference: 'Romans 3:26'

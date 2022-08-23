@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 20:9" class="v">9</span>Six
+  days shalt thou labour, and do all thy work: </p>
+id: EXO/20/9
+next:
+  id: EXO/20/10
+  number: '10'
+previous:
+  id: EXO/20/8
+  number: '8'
+reference: 'Exodus 20:9'

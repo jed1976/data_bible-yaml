@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 16:9" class="v">9</span><span
+  class="add">Seemeth it but</span> a small thing unto you, that the God of
+  Israel hath separated you from the congregation of Israel, to bring you near
+  to himself to do the service of the tabernacle of the <span
+  class="nd">LORD</span>, and to stand before the congregation to minister unto
+  them? </p>
+id: NUM/16/9
+next:
+  id: NUM/16/10
+  number: '10'
+previous:
+  id: NUM/16/8
+  number: '8'
+reference: 'Numbers 16:9'

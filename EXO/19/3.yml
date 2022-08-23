@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 19:3" class="v">3</span>And
+  Moses went up unto God, and the <span class="nd">LORD</span> called unto him
+  out of the mountain, saying, Thus shalt thou say to the house of Jacob, and
+  tell the children of Israel; </p>
+id: EXO/19/3
+next:
+  id: EXO/19/4
+  number: '4'
+previous:
+  id: EXO/19/2
+  number: '2'
+reference: 'Exodus 19:3'

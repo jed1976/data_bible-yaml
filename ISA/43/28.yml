@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="ISA 43:28"
+  class="v">28</span>Therefore I have profaned the princes of the sanctuary, and
+  have given Jacob to the curse, and Israel to reproaches.</p>
+id: ISA/43/28
+next:
+  id: ISA/44/1
+  number: '1'
+previous:
+  id: ISA/43/27
+  number: '27'
+reference: 'Isaiah 43:28'

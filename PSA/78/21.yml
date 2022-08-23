@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 78:21"
+  class="v">21</span>Therefore the <span class="nd">LORD</span> heard <span
+  class="add">this</span>, and was wroth: so a fire was kindled against Jacob,
+  and anger also came up against Israel;</p>
+id: PSA/78/21
+next:
+  id: PSA/78/22
+  number: '22'
+previous:
+  id: PSA/78/20
+  number: '20'
+reference: 'Psalms 78:21'

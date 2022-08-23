@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 9:5" class="v">5</span>For
+  every battle of the warrior <span class="add">is</span> with confused noise,
+  and garments rolled in blood; but <span class="add">this</span> shall be with
+  burning <span class="add">and</span> fuel of fire. </p>
+id: ISA/9/5
+next:
+  id: ISA/9/6
+  number: '6'
+previous:
+  id: ISA/9/4
+  number: '4'
+reference: 'Isaiah 9:5'

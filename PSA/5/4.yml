@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 5:4" class="v">4</span>For
+  thou <span class="add">art</span> not a God that hath pleasure in wickedness:
+  neither shall evil dwell with thee.</p>
+id: PSA/5/4
+next:
+  id: PSA/5/5
+  number: '5'
+previous:
+  id: PSA/5/3
+  number: '3'
+reference: 'Psalms 5:4'

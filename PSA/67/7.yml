@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 67:7" class="v">7</span>God
+  shall bless us; and all the ends of the earth shall fear him.</p>
+id: PSA/67/7
+next:
+  id: PSA/68/1
+  number: '1'
+previous:
+  id: PSA/67/6
+  number: '6'
+reference: 'Psalms 67:7'

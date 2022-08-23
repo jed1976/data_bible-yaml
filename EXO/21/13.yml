@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 21:13"
+  class="v">13</span>And if a man lie not in wait, but God deliver <span
+  class="add">him</span> into his hand; then I will appoint thee a place whither
+  he shall flee. </p>
+id: EXO/21/13
+next:
+  id: EXO/21/14
+  number: '14'
+previous:
+  id: EXO/21/12
+  number: '12'
+reference: 'Exodus 21:13'

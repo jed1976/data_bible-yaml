@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 12:20"
+  class="v">20</span>The king of Shimron-meron, one; the king of Achshaph, one;
+  </p>
+id: JOS/12/20
+next:
+  id: JOS/12/21
+  number: '21'
+previous:
+  id: JOS/12/19
+  number: '19'
+reference: 'Joshua 12:20'

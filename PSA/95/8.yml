@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 95:8"
+  class="v">8</span>Harden not your heart, as in the provocation, <span
+  class="add">and</span> as <span class="add">in</span> the day of temptation in
+  the wilderness:</p>
+id: PSA/95/8
+next:
+  id: PSA/95/9
+  number: '9'
+previous:
+  id: PSA/95/7
+  number: '7'
+reference: 'Psalms 95:8'

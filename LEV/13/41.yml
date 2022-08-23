@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LEV 13:41"
+  class="v">41</span>And he that hath his hair fallen off from the part of his
+  head toward his face, he <span class="add">is</span> forehead bald: <span
+  class="add">yet is</span> he clean. </p>
+id: LEV/13/41
+next:
+  id: LEV/13/42
+  number: '42'
+previous:
+  id: LEV/13/40
+  number: '40'
+reference: 'Leviticus 13:41'

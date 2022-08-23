@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 27:1" class="v">1</span>In
+  that day the <span class="nd">LORD</span> with his sore and great and strong
+  sword shall punish leviathan the piercing serpent, even leviathan that crooked
+  serpent; and he shall slay the dragon that <span class="add">is</span> in the
+  sea. </p>
+id: ISA/27/1
+next:
+  id: ISA/27/2
+  number: '2'
+previous:
+  id: ISA/26/21
+  number: '21'
+reference: 'Isaiah 27:1'

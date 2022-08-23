@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 23:6" class="v">6</span>And
+  he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all
+  the princes of Moab. </p>
+id: NUM/23/6
+next:
+  id: NUM/23/7
+  number: '7'
+previous:
+  id: NUM/23/5
+  number: '5'
+reference: 'Numbers 23:6'

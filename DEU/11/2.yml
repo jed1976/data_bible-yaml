@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 11:2" class="v">2</span>And
+  know ye this day: for <span class="add">I speak</span> not with your children
+  which have not known, and which have not seen the chastisement of the <span
+  class="nd">LORD</span> your God, his greatness, his mighty hand, and his
+  stretched out arm, </p>
+id: DEU/11/2
+next:
+  id: DEU/11/3
+  number: '3'
+previous:
+  id: DEU/11/1
+  number: '1'
+reference: 'Deuteronomy 11:2'

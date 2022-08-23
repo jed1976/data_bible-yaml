@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 19:12"
+  class="v">12</span>His troops come together, and raise up their way against
+  me, and encamp round about my tabernacle. </p>
+id: JOB/19/12
+next:
+  id: JOB/19/13
+  number: '13'
+previous:
+  id: JOB/19/11
+  number: '11'
+reference: 'Job 19:12'

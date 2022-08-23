@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 9:24"
+  class="v">24</span>Even us, whom he hath called, not of the Jews only, but
+  also of the Gentiles? </p>
+id: ROM/9/24
+next:
+  id: ROM/9/25
+  number: '25'
+previous:
+  id: ROM/9/23
+  number: '23'
+reference: 'Romans 9:24'

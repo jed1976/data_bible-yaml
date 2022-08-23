@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 29:5" class="v">5</span>And I
+  have led you forty years in the wilderness: your clothes are not waxen old
+  upon you, and thy shoe is not waxen old upon thy foot. </p>
+id: DEU/29/5
+next:
+  id: DEU/29/6
+  number: '6'
+previous:
+  id: DEU/29/4
+  number: '4'
+reference: 'Deuteronomy 29:5'

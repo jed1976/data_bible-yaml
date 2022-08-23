@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 21:14"
+  class="v">14</span>The inhabitants of the land of Tema brought water to him
+  that was thirsty, they prevented with their bread him that fled. </p>
+id: ISA/21/14
+next:
+  id: ISA/21/15
+  number: '15'
+previous:
+  id: ISA/21/13
+  number: '13'
+reference: 'Isaiah 21:14'

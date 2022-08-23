@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 27:4" class="v">4</span>One
+  <span class="add">thing</span> have I desired of the <span
+  class="nd">LORD</span>, that will I seek after; that I may dwell in the house
+  of the <span class="nd">LORD</span> all the days of my life, to behold the
+  beauty of the <span class="nd">LORD</span>, and to enquire in his temple.</p>
+id: PSA/27/4
+next:
+  id: PSA/27/5
+  number: '5'
+previous:
+  id: PSA/27/3
+  number: '3'
+reference: 'Psalms 27:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 140:5" class="v">5</span>The
+  proud have hid a snare for me, and cords; they have spread a net by the
+  wayside; they have set gins for me. Selah.</p>
+id: PSA/140/5
+next:
+  id: PSA/140/6
+  number: '6'
+previous:
+  id: PSA/140/4
+  number: '4'
+reference: 'Psalms 140:5'

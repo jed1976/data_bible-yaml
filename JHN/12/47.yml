@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="JHN 12:47"
+  class="v">47</span><span class="wj">And if any man hear my words, and believe
+  not, I judge him not: for I came not to judge the world, but to save the
+  world.</span> </p>
+id: JHN/12/47
+next:
+  id: JHN/12/48
+  number: '48'
+previous:
+  id: JHN/12/46
+  number: '46'
+reference: 'John 12:47'

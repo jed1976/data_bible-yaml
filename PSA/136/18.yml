@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 136:18"
+  class="v">18</span>And slew famous kings: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/18
+next:
+  id: PSA/136/19
+  number: '19'
+previous:
+  id: PSA/136/17
+  number: '17'
+reference: 'Psalms 136:18'

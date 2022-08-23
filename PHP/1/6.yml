@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PHP 1:6" class="v">6</span>Being
+  confident of this very thing, that he which hath begun a good work in you will
+  perform <span class="add">it</span> until the day of Jesus Christ: </p>
+id: PHP/1/6
+next:
+  id: PHP/1/7
+  number: '7'
+previous:
+  id: PHP/1/5
+  number: '5'
+reference: 'Philippians 1:6'

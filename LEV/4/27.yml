@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LEV 4:27" class="v">27</span>¶
+  And if any one of the common people sin through ignorance, while he doeth
+  <span class="add">somewhat against</span> any of the commandments of the <span
+  class="nd">LORD</span> <span class="add">concerning things</span> which ought
+  not to be done, and be guilty; </p>
+id: LEV/4/27
+next:
+  id: LEV/4/28
+  number: '28'
+previous:
+  id: LEV/4/26
+  number: '26'
+reference: 'Leviticus 4:27'

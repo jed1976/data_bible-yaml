@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 10:17"
+  class="v">17</span>And it was told Joshua, saying, The five kings are found
+  hid in a cave at Makkedah. </p>
+id: JOS/10/17
+next:
+  id: JOS/10/18
+  number: '18'
+previous:
+  id: JOS/10/16
+  number: '16'
+reference: 'Joshua 10:17'

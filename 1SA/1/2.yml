@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 1:2" class="v">2</span>And he
+  had two wives; the name of the one <span class="add">was</span> Hannah, and
+  the name of the other Peninnah: and Peninnah had children, but Hannah had no
+  children. </p>
+id: 1SA/1/2
+next:
+  id: 1SA/1/3
+  number: '3'
+previous:
+  id: 1SA/1/1
+  number: '1'
+reference: '1 Samuel 1:2'

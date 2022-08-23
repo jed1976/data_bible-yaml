@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="AMO 6:6" class="v">6</span>That
+  drink wine in bowls, and anoint themselves with the chief ointments: but they
+  are not grieved for the affliction of Joseph.</p>
+id: AMO/6/6
+next:
+  id: AMO/6/7
+  number: '7'
+previous:
+  id: AMO/6/5
+  number: '5'
+reference: 'Amos 6:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 20:22" class="v">22</span>¶
+  Ye shall therefore keep all my statutes, and all my judgments, and do them:
+  that the land, whither I bring you to dwell therein, spue you not out. </p>
+id: LEV/20/22
+next:
+  id: LEV/20/23
+  number: '23'
+previous:
+  id: LEV/20/21
+  number: '21'
+reference: 'Leviticus 20:22'

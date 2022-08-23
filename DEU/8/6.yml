@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 8:6"
+  class="v">6</span>Therefore thou shalt keep the commandments of the <span
+  class="nd">LORD</span> thy God, to walk in his ways, and to fear him. </p>
+id: DEU/8/6
+next:
+  id: DEU/8/7
+  number: '7'
+previous:
+  id: DEU/8/5
+  number: '5'
+reference: 'Deuteronomy 8:6'

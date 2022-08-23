@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 28:23" class="v">23</span>¶
+  Give ye ear, and hear my voice; hearken, and hear my speech. </p>
+id: ISA/28/23
+next:
+  id: ISA/28/24
+  number: '24'
+previous:
+  id: ISA/28/22
+  number: '22'
+reference: 'Isaiah 28:23'

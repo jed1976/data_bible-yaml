@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 23:9" class="v">9</span>The
+  <span class="nd">LORD</span> of hosts hath purposed it, to stain the pride of
+  all glory, <span class="add">and</span> to bring into contempt all the
+  honourable of the earth. </p>
+id: ISA/23/9
+next:
+  id: ISA/23/10
+  number: '10'
+previous:
+  id: ISA/23/8
+  number: '8'
+reference: 'Isaiah 23:9'

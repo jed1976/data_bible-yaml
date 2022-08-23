@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="1CO 14:38"
+  class="v">38</span>But if any man be ignorant, let him be ignorant. </p>
+id: 1CO/14/38
+next:
+  id: 1CO/14/39
+  number: '39'
+previous:
+  id: 1CO/14/37
+  number: '37'
+reference: '1 Corinthians 14:38'

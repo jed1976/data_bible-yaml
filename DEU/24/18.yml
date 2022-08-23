@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 24:18"
+  class="v">18</span>But thou shalt remember that thou wast a bondman in Egypt,
+  and the <span class="nd">LORD</span> thy God redeemed thee thence: therefore I
+  command thee to do this thing.</p>
+id: DEU/24/18
+next:
+  id: DEU/24/19
+  number: '19'
+previous:
+  id: DEU/24/17
+  number: '17'
+reference: 'Deuteronomy 24:18'

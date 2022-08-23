@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1KI 1:7" class="v">7</span>And he
+  conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they
+  following Adonijah helped <span class="add">him</span>. </p>
+id: 1KI/1/7
+next:
+  id: 1KI/1/8
+  number: '8'
+previous:
+  id: 1KI/1/6
+  number: '6'
+reference: '1 Kings 1:7'

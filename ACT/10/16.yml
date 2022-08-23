@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 10:16"
+  class="v">16</span>This was done thrice: and the vessel was received up again
+  into heaven. </p>
+id: ACT/10/16
+next:
+  id: ACT/10/17
+  number: '17'
+previous:
+  id: ACT/10/15
+  number: '15'
+reference: 'Acts 10:16'

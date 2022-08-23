@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 48:20" class="v">20</span>¶
+  Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing
+  declare ye, tell this, utter it <span class="add">even</span> to the end of
+  the earth; say ye, The <span class="nd">LORD</span> hath redeemed his servant
+  Jacob. </p>
+id: ISA/48/20
+next:
+  id: ISA/48/21
+  number: '21'
+previous:
+  id: ISA/48/19
+  number: '19'
+reference: 'Isaiah 48:20'

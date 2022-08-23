@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 1:10" class="v">10</span>He
+  was in the world, and the world was made by him, and the world knew him not.
+  </p>
+id: JHN/1/10
+next:
+  id: JHN/1/11
+  number: '11'
+previous:
+  id: JHN/1/9
+  number: '9'
+reference: 'John 1:10'

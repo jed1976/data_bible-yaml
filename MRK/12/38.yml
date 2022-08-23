@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 12:38" class="v">38</span>¶
+  And he said unto them in his doctrine, <span class="wj">Beware of the scribes,
+  which love to go in long clothing, and <span class="add">love</span>
+  salutations in the marketplaces,</span> </p>
+id: MRK/12/38
+next:
+  id: MRK/12/39
+  number: '39'
+previous:
+  id: MRK/12/37
+  number: '37'
+reference: 'Mark 12:38'

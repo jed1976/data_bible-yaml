@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 39:10"
+  class="v">10</span>And they set in it four rows of stones: <span
+  class="add">the first</span> row <span class="add">was</span> a sardius, a
+  topaz, and a carbuncle: this <span class="add">was</span> the first row. </p>
+id: EXO/39/10
+next:
+  id: EXO/39/11
+  number: '11'
+previous:
+  id: EXO/39/9
+  number: '9'
+reference: 'Exodus 39:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CO 11:6" class="v">6</span>But
+  though <span class="add">I be</span> rude in speech, yet not in knowledge; but
+  we have been throughly made manifest among you in all things. </p>
+id: 2CO/11/6
+next:
+  id: 2CO/11/7
+  number: '7'
+previous:
+  id: 2CO/11/5
+  number: '5'
+reference: '2 Corinthians 11:6'

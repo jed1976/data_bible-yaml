@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="COL 2:3" class="v">3</span>In
+  whom are hid all the treasures of wisdom and knowledge. </p>
+id: COL/2/3
+next:
+  id: COL/2/4
+  number: '4'
+previous:
+  id: COL/2/2
+  number: '2'
+reference: 'Colossians 2:3'

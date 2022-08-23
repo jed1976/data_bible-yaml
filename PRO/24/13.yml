@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 24:13" class="v">13</span>My
+  son, eat thou honey, because <span class="add">it is</span> good; and the
+  honeycomb, <span class="add">which is</span> sweet to thy taste: </p>
+id: PRO/24/13
+next:
+  id: PRO/24/14
+  number: '14'
+previous:
+  id: PRO/24/12
+  number: '12'
+reference: 'Proverbs 24:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 24:24"
+  class="v">24</span>And she said unto him, I <span class="add">am</span> the
+  daughter of Bethuel the son of Milcah, which she bare unto Nahor. </p>
+id: GEN/24/24
+next:
+  id: GEN/24/25
+  number: '25'
+previous:
+  id: GEN/24/23
+  number: '23'
+reference: 'Genesis 24:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 87:3"
+  class="v">3</span>Glorious things are spoken of thee, O city of God.
+  Selah.</p>
+id: PSA/87/3
+next:
+  id: PSA/87/4
+  number: '4'
+previous:
+  id: PSA/87/2
+  number: '2'
+reference: 'Psalms 87:3'

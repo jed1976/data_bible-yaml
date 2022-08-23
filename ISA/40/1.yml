@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 40:1"
+  class="v">1</span>Comfort ye, comfort ye my people, saith your God. </p>
+id: ISA/40/1
+next:
+  id: ISA/40/2
+  number: '2'
+previous:
+  id: ISA/39/8
+  number: '8'
+reference: 'Isaiah 40:1'

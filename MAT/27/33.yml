@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 27:33"
+  class="v">33</span>And when they were come unto a place called Golgotha, that
+  is to say, a place of a skull,</p>
+id: MAT/27/33
+next:
+  id: MAT/27/34
+  number: '34'
+previous:
+  id: MAT/27/32
+  number: '32'
+reference: 'Matthew 27:33'

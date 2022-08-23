@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 3:3" class="v">3</span>For
+  this <span class="add">man</span> was counted worthy of more glory than Moses,
+  inasmuch as he who hath builded the house hath more honour than the house.
+  </p>
+id: HEB/3/3
+next:
+  id: HEB/3/4
+  number: '4'
+previous:
+  id: HEB/3/2
+  number: '2'
+reference: 'Hebrews 3:3'

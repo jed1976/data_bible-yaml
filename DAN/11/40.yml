@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="DAN 11:40"
+  class="v">40</span>And at the time of the end shall the king of the south push
+  at him: and the king of the north shall come against him like a whirlwind,
+  with chariots, and with horsemen, and with many ships; and he shall enter into
+  the countries, and shall overflow and pass over. </p>
+id: DAN/11/40
+next:
+  id: DAN/11/41
+  number: '41'
+previous:
+  id: DAN/11/39
+  number: '39'
+reference: 'Daniel 11:40'

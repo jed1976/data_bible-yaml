@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOL 2:21" class="v">21</span>¶
+  Fear not, O land; be glad and rejoice: for the <span class="nd">LORD</span>
+  will do great things. </p>
+id: JOL/2/21
+next:
+  id: JOL/2/22
+  number: '22'
+previous:
+  id: JOL/2/20
+  number: '20'
+reference: 'Joel 2:21'

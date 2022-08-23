@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 7:22" class="v">22</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: LEV/7/22
+next:
+  id: LEV/7/23
+  number: '23'
+previous:
+  id: LEV/7/21
+  number: '21'
+reference: 'Leviticus 7:22'

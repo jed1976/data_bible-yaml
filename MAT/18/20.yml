@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 18:20"
+  class="v">20</span><span class="wj">For where two or three are gathered
+  together in my name, there am I in the midst of them.</span></p>
+id: MAT/18/20
+next:
+  id: MAT/18/21
+  number: '21'
+previous:
+  id: MAT/18/19
+  number: '19'
+reference: 'Matthew 18:20'

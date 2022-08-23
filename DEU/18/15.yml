@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 18:15" class="v">15</span>¶
+  The <span class="nd">LORD</span> thy God will raise up unto thee a Prophet
+  from the midst of thee, of thy brethren, like unto me; unto him ye shall
+  hearken; </p>
+id: DEU/18/15
+next:
+  id: DEU/18/16
+  number: '16'
+previous:
+  id: DEU/18/14
+  number: '14'
+reference: 'Deuteronomy 18:15'

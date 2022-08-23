@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 15:30" class="v">30</span>He
+  shall not depart out of darkness; the flame shall dry up his branches, and by
+  the breath of his mouth shall he go away. </p>
+id: JOB/15/30
+next:
+  id: JOB/15/31
+  number: '31'
+previous:
+  id: JOB/15/29
+  number: '29'
+reference: 'Job 15:30'

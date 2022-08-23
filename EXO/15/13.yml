@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 15:13"
+  class="v">13</span>Thou in thy mercy hast led forth the people <span
+  class="add">which</span> thou hast redeemed: thou hast guided <span
+  class="add">them</span> in thy strength unto thy holy habitation. </p>
+id: EXO/15/13
+next:
+  id: EXO/15/14
+  number: '14'
+previous:
+  id: EXO/15/12
+  number: '12'
+reference: 'Exodus 15:13'

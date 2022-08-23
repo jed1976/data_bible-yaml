@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 46:6" class="v">6</span>And
+  they took their cattle, and their goods, which they had gotten in the land of
+  Canaan, and came into Egypt, Jacob, and all his seed with him: </p>
+id: GEN/46/6
+next:
+  id: GEN/46/7
+  number: '7'
+previous:
+  id: GEN/46/5
+  number: '5'
+reference: 'Genesis 46:6'

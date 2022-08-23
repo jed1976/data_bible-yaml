@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 34:25"
+  class="v">25</span>Thou shalt not offer the blood of my sacrifice with leaven;
+  neither shall the sacrifice of the feast of the passover be left unto the
+  morning. </p>
+id: EXO/34/25
+next:
+  id: EXO/34/26
+  number: '26'
+previous:
+  id: EXO/34/24
+  number: '24'
+reference: 'Exodus 34:25'

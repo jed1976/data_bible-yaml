@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 7:1" class="v">1</span>Then
+  Elisha said, Hear ye the word of the <span class="nd">LORD</span>; Thus saith
+  the <span class="nd">LORD</span>, To morrow about this time <span
+  class="add">shall</span> a measure of fine flour <span class="add">be
+  sold</span> for a shekel, and two measures of barley for a shekel, in the gate
+  of Samaria. </p>
+id: 2KI/7/1
+next:
+  id: 2KI/7/2
+  number: '2'
+previous:
+  id: 2KI/6/33
+  number: '33'
+reference: '2 Kings 7:1'

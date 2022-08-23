@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 6:4" class="v">4</span>For
+  <span class="add">it is</span> impossible for those who were once enlightened,
+  and have tasted of the heavenly gift, and were made partakers of the Holy
+  Ghost, </p>
+id: HEB/6/4
+next:
+  id: HEB/6/5
+  number: '5'
+previous:
+  id: HEB/6/3
+  number: '3'
+reference: 'Hebrews 6:4'

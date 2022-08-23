@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="COL 3:3" class="v">3</span>For ye
+  are dead, and your life is hid with Christ in God. </p>
+id: COL/3/3
+next:
+  id: COL/3/4
+  number: '4'
+previous:
+  id: COL/3/2
+  number: '2'
+reference: 'Colossians 3:3'

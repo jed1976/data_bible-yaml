@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="AMO 5:6" class="v">6</span>Seek
+  the <span class="nd">LORD</span>, and ye shall live; lest he break out like
+  fire in the house of Joseph, and devour <span class="add">it</span>, and <span
+  class="add">there be</span> none to quench <span class="add">it</span> in
+  Beth-el. </p>
+id: AMO/5/6
+next:
+  id: AMO/5/7
+  number: '7'
+previous:
+  id: AMO/5/5
+  number: '5'
+reference: 'Amos 5:6'

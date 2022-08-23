@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 120:6" class="v">6</span>My
+  soul hath long dwelt with him that hateth peace.</p>
+id: PSA/120/6
+next:
+  id: PSA/120/7
+  number: '7'
+previous:
+  id: PSA/120/5
+  number: '5'
+reference: 'Psalms 120:6'

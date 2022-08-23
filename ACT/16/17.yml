@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 16:17"
+  class="v">17</span>The same followed Paul and us, and cried, saying, These men
+  are the servants of the most high God, which shew unto us the way of
+  salvation. </p>
+id: ACT/16/17
+next:
+  id: ACT/16/18
+  number: '18'
+previous:
+  id: ACT/16/16
+  number: '16'
+reference: 'Acts 16:17'

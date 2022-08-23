@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 20:12" class="v">12</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses and Aaron, Because ye
+  believed me not, to sanctify me in the eyes of the children of Israel,
+  therefore ye shall not bring this congregation into the land which I have
+  given them. </p>
+id: NUM/20/12
+next:
+  id: NUM/20/13
+  number: '13'
+previous:
+  id: NUM/20/11
+  number: '11'
+reference: 'Numbers 20:12'

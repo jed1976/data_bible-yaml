@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1SA 6:6"
+  class="v">6</span>Wherefore then do ye harden your hearts, as the Egyptians
+  and Pharaoh hardened their hearts? when he had wrought wonderfully among them,
+  did they not let the people go, and they departed? </p>
+id: 1SA/6/6
+next:
+  id: 1SA/6/7
+  number: '7'
+previous:
+  id: 1SA/6/5
+  number: '5'
+reference: '1 Samuel 6:6'

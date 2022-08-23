@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 1:18" class="v">18</span>And
+  they lay wait for their <span class="add">own</span> blood; they lurk privily
+  for their <span class="add">own</span> lives. </p>
+id: PRO/1/18
+next:
+  id: PRO/1/19
+  number: '19'
+previous:
+  id: PRO/1/17
+  number: '17'
+reference: 'Proverbs 1:18'

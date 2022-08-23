@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 21:10"
+  class="v">10</span>Their bull gendereth, and faileth not; their cow calveth,
+  and casteth not her calf. </p>
+id: JOB/21/10
+next:
+  id: JOB/21/11
+  number: '11'
+previous:
+  id: JOB/21/9
+  number: '9'
+reference: 'Job 21:10'

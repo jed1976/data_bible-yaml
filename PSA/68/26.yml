@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 68:26"
+  class="v">26</span>Bless ye God in the congregations, <span
+  class="add">even</span> the Lord, from the fountain of Israel.</p>
+id: PSA/68/26
+next:
+  id: PSA/68/27
+  number: '27'
+previous:
+  id: PSA/68/25
+  number: '25'
+reference: 'Psalms 68:26'

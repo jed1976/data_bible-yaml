@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 27:2" class="v">2</span>And
+  thou shalt make the horns of it upon the four corners thereof: his horns shall
+  be of the same: and thou shalt overlay it with brass. </p>
+id: EXO/27/2
+next:
+  id: EXO/27/3
+  number: '3'
+previous:
+  id: EXO/27/1
+  number: '1'
+reference: 'Exodus 27:2'

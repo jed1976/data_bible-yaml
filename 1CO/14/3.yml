@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 14:3" class="v">3</span>But
+  he that prophesieth speaketh unto men <span class="add">to</span> edification,
+  and exhortation, and comfort. </p>
+id: 1CO/14/3
+next:
+  id: 1CO/14/4
+  number: '4'
+previous:
+  id: 1CO/14/2
+  number: '2'
+reference: '1 Corinthians 14:3'

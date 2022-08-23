@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 22:1" class="v">1</span>And
+  David spake unto the <span class="nd">LORD</span> the words of this song in
+  the day <span class="add">that</span> the <span class="nd">LORD</span> had
+  delivered him out of the hand of all his enemies, and out of the hand of
+  Saul:</p>
+id: 2SA/22/1
+next:
+  id: 2SA/22/2
+  number: '2'
+previous:
+  id: 2SA/21/22
+  number: '22'
+reference: '2 Samuel 22:1'

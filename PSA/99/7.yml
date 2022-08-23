@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 99:7" class="v">7</span>He
+  spake unto them in the cloudy pillar: they kept his testimonies, and the
+  ordinance <span class="add">that</span> he gave them.</p>
+id: PSA/99/7
+next:
+  id: PSA/99/8
+  number: '8'
+previous:
+  id: PSA/99/6
+  number: '6'
+reference: 'Psalms 99:7'

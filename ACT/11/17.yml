@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 11:17"
+  class="v">17</span>Forasmuch then as God gave them the like gift as <span
+  class="add">he did</span> unto us, who believed on the Lord Jesus Christ; what
+  was I, that I could withstand God? </p>
+id: ACT/11/17
+next:
+  id: ACT/11/18
+  number: '18'
+previous:
+  id: ACT/11/16
+  number: '16'
+reference: 'Acts 11:17'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 8:29" class="v">29</span>And
+  Moses said, Behold, I go out from thee, and I will intreat the <span
+  class="nd">LORD</span> that the swarms <span class="add">of flies</span> may
+  depart from Pharaoh, from his servants, and from his people, to morrow: but
+  let not Pharaoh deal deceitfully any more in not letting the people go to
+  sacrifice to the <span class="nd">LORD</span>. </p>
+id: EXO/8/29
+next:
+  id: EXO/8/30
+  number: '30'
+previous:
+  id: EXO/8/28
+  number: '28'
+reference: 'Exodus 8:29'

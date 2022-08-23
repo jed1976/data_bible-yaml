@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 6:15" class="v">15</span>And
+  he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family
+  <span class="add">is</span> poor in Manasseh, and I <span
+  class="add">am</span> the least in my father’s house. </p>
+id: JDG/6/15
+next:
+  id: JDG/6/16
+  number: '16'
+previous:
+  id: JDG/6/14
+  number: '14'
+reference: 'Judges 6:15'

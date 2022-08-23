@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 17:33"
+  class="v">33</span><span class="wj">Whosoever shall seek to save his life
+  shall lose it; and whosoever shall lose his life shall preserve it.</span>
+  </p>
+id: LUK/17/33
+next:
+  id: LUK/17/34
+  number: '34'
+previous:
+  id: LUK/17/32
+  number: '32'
+reference: 'Luke 17:33'

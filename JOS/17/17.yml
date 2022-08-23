@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 17:17"
+  class="v">17</span>And Joshua spake unto the house of Joseph, <span
+  class="add">even</span> to Ephraim and to Manasseh, saying, Thou <span
+  class="add">art</span> a great people, and hast great power: thou shalt not
+  have one lot <span class="add">only:</span> </p>
+id: JOS/17/17
+next:
+  id: JOS/17/18
+  number: '18'
+previous:
+  id: JOS/17/16
+  number: '16'
+reference: 'Joshua 17:17'

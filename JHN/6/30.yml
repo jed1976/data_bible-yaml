@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 6:30"
+  class="v">30</span>They said therefore unto him, What sign shewest thou then,
+  that we may see, and believe thee? what dost thou work? </p>
+id: JHN/6/30
+next:
+  id: JHN/6/31
+  number: '31'
+previous:
+  id: JHN/6/29
+  number: '29'
+reference: 'John 6:30'

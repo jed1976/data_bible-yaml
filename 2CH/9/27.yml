@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="2CH 9:27" class="v">27</span>And
+  the king made silver in Jerusalem as stones, and cedar trees made he as the
+  sycomore trees that <span class="add">are</span> in the low plains in
+  abundance. </p>
+id: 2CH/9/27
+next:
+  id: 2CH/9/28
+  number: '28'
+previous:
+  id: 2CH/9/26
+  number: '26'
+reference: '2 Chronicles 9:27'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 10:16"
+  class="v">16</span>And Hadarezer sent, and brought out the Syrians that <span
+  class="add">were</span> beyond the river: and they came to Helam; and Shobach
+  the captain of the host of Hadarezer <span class="add">went</span> before
+  them. </p>
+id: 2SA/10/16
+next:
+  id: 2SA/10/17
+  number: '17'
+previous:
+  id: 2SA/10/15
+  number: '15'
+reference: '2 Samuel 10:16'

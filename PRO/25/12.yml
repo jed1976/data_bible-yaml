@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 25:12"
+  class="v">12</span><span class="add">As</span> an earring of gold, and an
+  ornament of fine gold, <span class="add">so is</span> a wise reprover upon an
+  obedient ear. </p>
+id: PRO/25/12
+next:
+  id: PRO/25/13
+  number: '13'
+previous:
+  id: PRO/25/11
+  number: '11'
+reference: 'Proverbs 25:12'

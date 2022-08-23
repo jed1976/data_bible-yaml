@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 32:19"
+  class="v">19</span>Behold, my belly <span class="add">is</span> as wine <span
+  class="add">which</span> hath no vent; it is ready to burst like new bottles.
+  </p>
+id: JOB/32/19
+next:
+  id: JOB/32/20
+  number: '20'
+previous:
+  id: JOB/32/18
+  number: '18'
+reference: 'Job 32:19'

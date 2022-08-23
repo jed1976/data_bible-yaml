@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 13:6" class="v">6</span>¶ If
+  thy brother, the son of thy mother, or thy son, or thy daughter, or the wife
+  of thy bosom, or thy friend, which <span class="add">is</span> as thine own
+  soul, entice thee secretly, saying, Let us go and serve other gods, which thou
+  hast not known, thou, nor thy fathers; </p>
+id: DEU/13/6
+next:
+  id: DEU/13/7
+  number: '7'
+previous:
+  id: DEU/13/5
+  number: '5'
+reference: 'Deuteronomy 13:6'

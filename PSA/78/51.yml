@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="51" data-sid="PSA 78:51"
+  class="v">51</span>And smote all the firstborn in Egypt; the chief of <span
+  class="add">their</span> strength in the tabernacles of Ham:</p>
+id: PSA/78/51
+next:
+  id: PSA/78/52
+  number: '52'
+previous:
+  id: PSA/78/50
+  number: '50'
+reference: 'Psalms 78:51'

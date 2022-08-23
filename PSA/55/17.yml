@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 55:17"
+  class="v">17</span>Evening, and morning, and at noon, will I pray, and cry
+  aloud: and he shall hear my voice.</p>
+id: PSA/55/17
+next:
+  id: PSA/55/18
+  number: '18'
+previous:
+  id: PSA/55/16
+  number: '16'
+reference: 'Psalms 55:17'

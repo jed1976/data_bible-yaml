@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 14:15" class="v">15</span>¶
+  Now <span class="add">if</span> thou shalt kill <span class="add">all</span>
+  this people as one man, then the nations which have heard the fame of thee
+  will speak, saying, </p>
+id: NUM/14/15
+next:
+  id: NUM/14/16
+  number: '16'
+previous:
+  id: NUM/14/14
+  number: '14'
+reference: 'Numbers 14:15'

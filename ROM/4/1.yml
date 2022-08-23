@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 4:1" class="v">1</span>What
+  shall we say then that Abraham our father, as pertaining to the flesh, hath
+  found? </p>
+id: ROM/4/1
+next:
+  id: ROM/4/2
+  number: '2'
+previous:
+  id: ROM/3/31
+  number: '31'
+reference: 'Romans 4:1'

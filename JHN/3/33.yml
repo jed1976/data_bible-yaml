@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 3:33" class="v">33</span>He
+  that hath received his testimony hath set to his seal that God is true. </p>
+id: JHN/3/33
+next:
+  id: JHN/3/34
+  number: '34'
+previous:
+  id: JHN/3/32
+  number: '32'
+reference: 'John 3:33'

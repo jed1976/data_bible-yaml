@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 56:2"
+  class="v">2</span>Blessed <span class="add">is</span> the man <span
+  class="add">that</span> doeth this, and the son of man <span
+  class="add">that</span> layeth hold on it; that keepeth the sabbath from
+  polluting it, and keepeth his hand from doing any evil.</p>
+id: ISA/56/2
+next:
+  id: ISA/56/3
+  number: '3'
+previous:
+  id: ISA/56/1
+  number: '1'
+reference: 'Isaiah 56:2'

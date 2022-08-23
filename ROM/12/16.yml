@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 12:16"
+  class="v">16</span><span class="add">Be</span> of the same mind one toward
+  another. Mind not high things, but condescend to men of low estate. Be not
+  wise in your own conceits. </p>
+id: ROM/12/16
+next:
+  id: ROM/12/17
+  number: '17'
+previous:
+  id: ROM/12/15
+  number: '15'
+reference: 'Romans 12:16'

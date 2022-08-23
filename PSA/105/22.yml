@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 105:22"
+  class="v">22</span>To bind his princes at his pleasure; and teach his senators
+  wisdom.</p>
+id: PSA/105/22
+next:
+  id: PSA/105/23
+  number: '23'
+previous:
+  id: PSA/105/21
+  number: '21'
+reference: 'Psalms 105:22'

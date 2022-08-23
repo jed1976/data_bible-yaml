@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 62:3" class="v">3</span>How
+  long will ye imagine mischief against a man? ye shall be slain all of you: as
+  a bowing wall <span class="add">shall ye be, and as</span> a tottering
+  fence.</p>
+id: PSA/62/3
+next:
+  id: PSA/62/4
+  number: '4'
+previous:
+  id: PSA/62/2
+  number: '2'
+reference: 'Psalms 62:3'

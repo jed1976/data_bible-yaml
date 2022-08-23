@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 18:11"
+  class="v">11</span>And that doeth not any of those <span
+  class="add">duties</span>, but even hath eaten upon the mountains, and defiled
+  his neighbour’s wife, </p>
+id: EZK/18/11
+next:
+  id: EZK/18/12
+  number: '12'
+previous:
+  id: EZK/18/10
+  number: '10'
+reference: 'Ezekiel 18:11'

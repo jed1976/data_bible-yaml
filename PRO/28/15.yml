@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 28:15"
+  class="v">15</span><span class="add">As</span> a roaring lion, and a ranging
+  bear; <span class="add">so is</span> a wicked ruler over the poor people. </p>
+id: PRO/28/15
+next:
+  id: PRO/28/16
+  number: '16'
+previous:
+  id: PRO/28/14
+  number: '14'
+reference: 'Proverbs 28:15'

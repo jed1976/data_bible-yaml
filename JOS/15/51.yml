@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JOS 15:51"
+  class="v">51</span>And Goshen, and Holon, and Giloh; eleven cities with their
+  villages: </p>
+id: JOS/15/51
+next:
+  id: JOS/15/52
+  number: '52'
+previous:
+  id: JOS/15/50
+  number: '50'
+reference: 'Joshua 15:51'

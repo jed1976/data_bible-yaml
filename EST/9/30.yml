@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EST 9:30" class="v">30</span>And
+  he sent the letters unto all the Jews, to the hundred twenty and seven
+  provinces of the kingdom of Ahasuerus, <span class="add">with</span> words of
+  peace and truth, </p>
+id: EST/9/30
+next:
+  id: EST/9/31
+  number: '31'
+previous:
+  id: EST/9/29
+  number: '29'
+reference: 'Esther 9:30'

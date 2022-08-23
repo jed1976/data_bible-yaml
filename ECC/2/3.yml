@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 2:3" class="v">3</span>I
+  sought in mine heart to give myself unto wine, yet acquainting mine heart with
+  wisdom; and to lay hold on folly, till I might see what <span
+  class="add">was</span> that good for the sons of men, which they should do
+  under the heaven all the days of their life. </p>
+id: ECC/2/3
+next:
+  id: ECC/2/4
+  number: '4'
+previous:
+  id: ECC/2/2
+  number: '2'
+reference: 'Ecclesiastes 2:3'

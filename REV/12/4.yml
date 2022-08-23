@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 12:4" class="v">4</span>And
+  his tail drew the third part of the stars of heaven, and did cast them to the
+  earth: and the dragon stood before the woman which was ready to be delivered,
+  for to devour her child as soon as it was born. </p>
+id: REV/12/4
+next:
+  id: REV/12/5
+  number: '5'
+previous:
+  id: REV/12/3
+  number: '3'
+reference: 'Revelation 12:4'

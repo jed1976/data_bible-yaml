@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 14:19"
+  class="v">19</span><span class="wj">Yet a little while, and the world seeth me
+  no more; but ye see me: because I live, ye shall live also.</span> </p>
+id: JHN/14/19
+next:
+  id: JHN/14/20
+  number: '20'
+previous:
+  id: JHN/14/18
+  number: '18'
+reference: 'John 14:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 12:23"
+  class="v">23</span>And all the people were amazed, and said, Is not this the
+  son of David? </p>
+id: MAT/12/23
+next:
+  id: MAT/12/24
+  number: '24'
+previous:
+  id: MAT/12/22
+  number: '22'
+reference: 'Matthew 12:23'

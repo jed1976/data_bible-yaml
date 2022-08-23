@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 21:16"
+  class="v">16</span>Lo, their good <span class="add">is</span> not in their
+  hand: the counsel of the wicked is far from me.</p>
+id: JOB/21/16
+next:
+  id: JOB/21/17
+  number: '17'
+previous:
+  id: JOB/21/15
+  number: '15'
+reference: 'Job 21:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 11:4" class="v">4</span>And
+  they went their way, and found the colt tied by the door without in a place
+  where two ways met; and they loose him. </p>
+id: MRK/11/4
+next:
+  id: MRK/11/5
+  number: '5'
+previous:
+  id: MRK/11/3
+  number: '3'
+reference: 'Mark 11:4'

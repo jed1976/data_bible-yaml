@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 15:1" class="v">1</span>And
+  <span class="add">David</span> made him houses in the city of David, and
+  prepared a place for the ark of God, and pitched for it a tent. </p>
+id: 1CH/15/1
+next:
+  id: 1CH/15/2
+  number: '2'
+previous:
+  id: 1CH/14/17
+  number: '17'
+reference: '1 Chronicles 15:1'

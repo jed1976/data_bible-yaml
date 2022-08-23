@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 82:6"
+  class="v">6</span>I have said, Ye <span class="add">are</span> gods; and all
+  of you <span class="add">are</span> children of the most High.</p>
+id: PSA/82/6
+next:
+  id: PSA/82/7
+  number: '7'
+previous:
+  id: PSA/82/5
+  number: '5'
+reference: 'Psalms 82:6'

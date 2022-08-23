@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 20:1" class="v">1</span>And
+  there happened to be there a man of Belial, whose name <span
+  class="add">was</span> Sheba, the son of Bichri, a Benjamite: and he blew a
+  trumpet, and said, We have no part in David, neither have we inheritance in
+  the son of Jesse: every man to his tents, O Israel. </p>
+id: 2SA/20/1
+next:
+  id: 2SA/20/2
+  number: '2'
+previous:
+  id: 2SA/19/43
+  number: '43'
+reference: '2 Samuel 20:1'

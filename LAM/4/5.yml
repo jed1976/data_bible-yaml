@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LAM 4:5" class="v">5</span>They
+  that did feed delicately are desolate in the streets: they that were brought
+  up in scarlet embrace dunghills. </p>
+id: LAM/4/5
+next:
+  id: LAM/4/6
+  number: '6'
+previous:
+  id: LAM/4/4
+  number: '4'
+reference: 'Lamentations 4:5'

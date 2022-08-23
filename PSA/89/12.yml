@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 89:12"
+  class="v">12</span>The north and the south thou hast created them: Tabor and
+  Hermon shall rejoice in thy name.</p>
+id: PSA/89/12
+next:
+  id: PSA/89/13
+  number: '13'
+previous:
+  id: PSA/89/11
+  number: '11'
+reference: 'Psalms 89:12'

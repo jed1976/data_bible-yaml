@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth, A Psalm of David.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 4:1" class="v">1</span>Hear me
+  when I call, O God of my righteousness: thou hast enlarged me <span
+  class="add">when I was</span> in distress; have mercy upon me, and hear my
+  prayer.</p>
+id: PSA/4/1
+next:
+  id: PSA/4/2
+  number: '2'
+previous:
+  id: PSA/3/8
+  number: '8'
+reference: 'Psalms 4:1'

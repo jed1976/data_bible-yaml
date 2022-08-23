@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 10:9" class="v">9</span>¶ On
+  the morrow, as they went on their journey, and drew nigh unto the city, Peter
+  went up upon the housetop to pray about the sixth hour: </p>
+id: ACT/10/9
+next:
+  id: ACT/10/10
+  number: '10'
+previous:
+  id: ACT/10/8
+  number: '8'
+reference: 'Acts 10:9'

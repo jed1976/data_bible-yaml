@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 6:1" class="v">1</span>After
+  these things Jesus went over the sea of Galilee, which is <span
+  class="add">the sea</span> of Tiberias. </p>
+id: JHN/6/1
+next:
+  id: JHN/6/2
+  number: '2'
+previous:
+  id: JHN/5/47
+  number: '47'
+reference: 'John 6:1'

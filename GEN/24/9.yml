@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 24:9" class="v">9</span>And
+  the servant put his hand under the thigh of Abraham his master, and sware to
+  him concerning that matter.</p>
+id: GEN/24/9
+next:
+  id: GEN/24/10
+  number: '10'
+previous:
+  id: GEN/24/8
+  number: '8'
+reference: 'Genesis 24:9'

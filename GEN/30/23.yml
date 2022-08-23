@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 30:23"
+  class="v">23</span>And she conceived, and bare a son; and said, God hath taken
+  away my reproach: </p>
+id: GEN/30/23
+next:
+  id: GEN/30/24
+  number: '24'
+previous:
+  id: GEN/30/22
+  number: '22'
+reference: 'Genesis 30:23'

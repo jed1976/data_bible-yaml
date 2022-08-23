@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 13:20" class="v">20</span>¶
+  And they took their journey from Succoth, and encamped in Etham, in the edge
+  of the wilderness. </p>
+id: EXO/13/20
+next:
+  id: EXO/13/21
+  number: '21'
+previous:
+  id: EXO/13/19
+  number: '19'
+reference: 'Exodus 13:20'

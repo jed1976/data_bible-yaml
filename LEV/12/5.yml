@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 12:5" class="v">5</span>But
+  if she bear a maid child, then she shall be unclean two weeks, as in her
+  separation: and she shall continue in the blood of her purifying threescore
+  and six days.</p>
+id: LEV/12/5
+next:
+  id: LEV/12/6
+  number: '6'
+previous:
+  id: LEV/12/4
+  number: '4'
+reference: 'Leviticus 12:5'

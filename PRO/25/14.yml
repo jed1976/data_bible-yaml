@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 25:14"
+  class="v">14</span>Whoso boasteth himself of a false gift <span class="add">is
+  like</span> clouds and wind without rain. </p>
+id: PRO/25/14
+next:
+  id: PRO/25/15
+  number: '15'
+previous:
+  id: PRO/25/13
+  number: '13'
+reference: 'Proverbs 25:14'

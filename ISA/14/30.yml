@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 14:30"
+  class="v">30</span>And the firstborn of the poor shall feed, and the needy
+  shall lie down in safety: and I will kill thy root with famine, and he shall
+  slay thy remnant. </p>
+id: ISA/14/30
+next:
+  id: ISA/14/31
+  number: '31'
+previous:
+  id: ISA/14/29
+  number: '29'
+reference: 'Isaiah 14:30'

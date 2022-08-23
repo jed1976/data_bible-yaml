@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 22:1" class="v">1</span>And
+  the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead:
+  for the band of men that came with the Arabians to the camp had slain all the
+  eldest. So Ahaziah the son of Jehoram king of Judah reigned. </p>
+id: 2CH/22/1
+next:
+  id: 2CH/22/2
+  number: '2'
+previous:
+  id: 2CH/21/20
+  number: '20'
+reference: '2 Chronicles 22:1'

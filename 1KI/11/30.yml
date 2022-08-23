@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1KI 11:30"
+  class="v">30</span>And Ahijah caught the new garment that <span
+  class="add">was</span> on him, and rent it <span class="add">in</span> twelve
+  pieces: </p>
+id: 1KI/11/30
+next:
+  id: 1KI/11/31
+  number: '31'
+previous:
+  id: 1KI/11/29
+  number: '29'
+reference: '1 Kings 11:30'

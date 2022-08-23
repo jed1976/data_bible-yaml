@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2SA 20:25"
+  class="v">25</span>And Sheva <span class="add">was</span> scribe: and Zadok
+  and Abiathar <span class="add">were</span> the priests: </p>
+id: 2SA/20/25
+next:
+  id: 2SA/20/26
+  number: '26'
+previous:
+  id: 2SA/20/24
+  number: '24'
+reference: '2 Samuel 20:25'

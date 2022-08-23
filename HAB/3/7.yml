@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HAB 3:7" class="v">7</span>I saw
+  the tents of Cushan in affliction: <span class="add">and</span> the curtains
+  of the land of Midian did tremble. </p>
+id: HAB/3/7
+next:
+  id: HAB/3/8
+  number: '8'
+previous:
+  id: HAB/3/6
+  number: '6'
+reference: 'Habakkuk 3:7'

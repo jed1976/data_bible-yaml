@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 10:16"
+  class="v">16</span>Circumcise therefore the foreskin of your heart, and be no
+  more stiffnecked. </p>
+id: DEU/10/16
+next:
+  id: DEU/10/17
+  number: '17'
+previous:
+  id: DEU/10/15
+  number: '15'
+reference: 'Deuteronomy 10:16'

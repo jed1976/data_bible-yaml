@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 19:12" class="v">12</span>Ye
+  <span class="add">are</span> my brethren, ye <span class="add">are</span> my
+  bones and my flesh: wherefore then are ye the last to bring back the king?
+  </p>
+id: 2SA/19/12
+next:
+  id: 2SA/19/13
+  number: '13'
+previous:
+  id: 2SA/19/11
+  number: '11'
+reference: '2 Samuel 19:12'

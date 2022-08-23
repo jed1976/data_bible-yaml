@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 20:12" class="v">12</span>¶
+  Honour thy father and thy mother: that thy days may be long upon the land
+  which the <span class="nd">LORD</span> thy God giveth thee. </p>
+id: EXO/20/12
+next:
+  id: EXO/20/13
+  number: '13'
+previous:
+  id: EXO/20/11
+  number: '11'
+reference: 'Exodus 20:12'

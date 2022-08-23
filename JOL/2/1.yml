@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOL 2:1" class="v">1</span>Blow
+  ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the
+  inhabitants of the land tremble: for the day of the <span
+  class="nd">LORD</span> cometh, for <span class="add">it is</span> nigh at
+  hand; </p>
+id: JOL/2/1
+next:
+  id: JOL/2/2
+  number: '2'
+previous:
+  id: JOL/1/20
+  number: '20'
+reference: 'Joel 2:1'

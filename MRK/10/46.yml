@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MRK 10:46" class="v">46</span>¶
+  And they came to Jericho: and as he went out of Jericho with his disciples and
+  a great number of people, blind Bartimæus, the son of Timæus, sat by the
+  highway side begging. </p>
+id: MRK/10/46
+next:
+  id: MRK/10/47
+  number: '47'
+previous:
+  id: MRK/10/45
+  number: '45'
+reference: 'Mark 10:46'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 2:7" class="v">7</span>And
+  they were all amazed and marvelled, saying one to another, Behold, are not all
+  these which speak Galilæans? </p>
+id: ACT/2/7
+next:
+  id: ACT/2/8
+  number: '8'
+previous:
+  id: ACT/2/6
+  number: '6'
+reference: 'Acts 2:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 15:4" class="v">4</span><span
+  class="wj">Abide in me, and I in you. As the branch cannot bear fruit of
+  itself, except it abide in the vine; no more can ye, except ye abide in
+  me.</span> </p>
+id: JHN/15/4
+next:
+  id: JHN/15/5
+  number: '5'
+previous:
+  id: JHN/15/3
+  number: '3'
+reference: 'John 15:4'

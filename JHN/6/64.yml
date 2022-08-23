@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="JHN 6:64"
+  class="v">64</span><span class="wj">But there are some of you that believe
+  not.</span> For Jesus knew from the beginning who they were that believed not,
+  and who should betray him. </p>
+id: JHN/6/64
+next:
+  id: JHN/6/65
+  number: '65'
+previous:
+  id: JHN/6/63
+  number: '63'
+reference: 'John 6:64'

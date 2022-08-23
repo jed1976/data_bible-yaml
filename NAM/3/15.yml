@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NAM 3:15"
+  class="v">15</span>There shall the fire devour thee; the sword shall cut thee
+  off, it shall eat thee up like the cankerworm: make thyself many as the
+  cankerworm, make thyself many as the locusts. </p>
+id: NAM/3/15
+next:
+  id: NAM/3/16
+  number: '16'
+previous:
+  id: NAM/3/14
+  number: '14'
+reference: 'Nahum 3:15'

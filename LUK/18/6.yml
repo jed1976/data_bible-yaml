@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 18:6" class="v">6</span>And
+  the Lord said, <span class="wj">Hear what the unjust judge saith.</span> </p>
+id: LUK/18/6
+next:
+  id: LUK/18/7
+  number: '7'
+previous:
+  id: LUK/18/5
+  number: '5'
+reference: 'Luke 18:6'

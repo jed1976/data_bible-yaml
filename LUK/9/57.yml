@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="LUK 9:57" class="v">57</span>¶
+  And it came to pass, that, as they went in the way, a certain <span
+  class="add">man</span> said unto him, Lord, I will follow thee whithersoever
+  thou goest. </p>
+id: LUK/9/57
+next:
+  id: LUK/9/58
+  number: '58'
+previous:
+  id: LUK/9/56
+  number: '56'
+reference: 'Luke 9:57'

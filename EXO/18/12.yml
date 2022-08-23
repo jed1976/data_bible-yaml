@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 18:12"
+  class="v">12</span>And Jethro, Moses’ father in law, took a burnt offering and
+  sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread
+  with Moses’ father in law before God.</p>
+id: EXO/18/12
+next:
+  id: EXO/18/13
+  number: '13'
+previous:
+  id: EXO/18/11
+  number: '11'
+reference: 'Exodus 18:12'

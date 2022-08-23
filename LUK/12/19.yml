@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LUK 12:19"
+  class="v">19</span><span class="wj">And I will say to my soul, Soul, thou hast
+  much goods laid up for many years; take thine ease, eat, drink, <span
+  class="add">and</span> be merry.</span> </p>
+id: LUK/12/19
+next:
+  id: LUK/12/20
+  number: '20'
+previous:
+  id: LUK/12/18
+  number: '18'
+reference: 'Luke 12:19'

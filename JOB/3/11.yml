@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 3:11" class="v">11</span>Why
+  died I not from the womb? <span class="add">why</span> did I <span
+  class="add">not</span> give up the ghost when I came out of the belly? </p>
+id: JOB/3/11
+next:
+  id: JOB/3/12
+  number: '12'
+previous:
+  id: JOB/3/10
+  number: '10'
+reference: 'Job 3:11'

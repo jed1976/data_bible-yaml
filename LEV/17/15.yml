@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 17:15"
+  class="v">15</span>And every soul that eateth that which died <span
+  class="add">of itself</span>, or that which was torn <span class="add">with
+  beasts, whether it be</span> one of your own country, or a stranger, he shall
+  both wash his clothes, and bathe <span class="add">himself</span> in water,
+  and be unclean until the even: then shall he be clean. </p>
+id: LEV/17/15
+next:
+  id: LEV/17/16
+  number: '16'
+previous:
+  id: LEV/17/14
+  number: '14'
+reference: 'Leviticus 17:15'

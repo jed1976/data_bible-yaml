@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 104:27"
+  class="v">27</span>These wait all upon thee; that thou mayest give <span
+  class="add">them</span> their meat in due season.</p>
+id: PSA/104/27
+next:
+  id: PSA/104/28
+  number: '28'
+previous:
+  id: PSA/104/26
+  number: '26'
+reference: 'Psalms 104:27'

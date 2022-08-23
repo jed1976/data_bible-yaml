@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 6:4" class="v">4</span>Then
+  it shall be, because he hath sinned, and is guilty, that he shall restore that
+  which he took violently away, or the thing which he hath deceitfully gotten,
+  or that which was delivered him to keep, or the lost thing which he found,
+  </p>
+id: LEV/6/4
+next:
+  id: LEV/6/5
+  number: '5'
+previous:
+  id: LEV/6/3
+  number: '3'
+reference: 'Leviticus 6:4'

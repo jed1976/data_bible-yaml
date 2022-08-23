@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 13:12"
+  class="v">12</span>For now we see through a glass, darkly; but then face to
+  face: now I know in part; but then shall I know even as also I am known. </p>
+id: 1CO/13/12
+next:
+  id: 1CO/13/13
+  number: '13'
+previous:
+  id: 1CO/13/11
+  number: '11'
+reference: '1 Corinthians 13:12'

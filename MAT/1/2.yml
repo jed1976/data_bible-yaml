@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAT 1:2"
+  class="v">2</span>Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat
+  Judas and his brethren; </p>
+id: MAT/1/2
+next:
+  id: MAT/1/3
+  number: '3'
+previous:
+  id: MAT/1/1
+  number: '1'
+reference: 'Matthew 1:2'

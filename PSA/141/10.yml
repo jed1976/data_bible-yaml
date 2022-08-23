@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 141:10"
+  class="v">10</span>Let the wicked fall into their own nets, whilst that I
+  withal escape.</p>
+id: PSA/141/10
+next:
+  id: PSA/142/1
+  number: '1'
+previous:
+  id: PSA/141/9
+  number: '9'
+reference: 'Psalms 141:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 7:7" class="v">7</span>And
+  the nation to whom they shall be in bondage will I judge, said God: and after
+  that shall they come forth, and serve me in this place. </p>
+id: ACT/7/7
+next:
+  id: ACT/7/8
+  number: '8'
+previous:
+  id: ACT/7/6
+  number: '6'
+reference: 'Acts 7:7'

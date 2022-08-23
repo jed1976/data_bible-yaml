@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 3:14" class="v">14</span>The
+  <span class="nd">LORD</span> will enter into judgment with the ancients of his
+  people, and the princes thereof: for ye have eaten up the vineyard; the spoil
+  of the poor <span class="add">is</span> in your houses. </p>
+id: ISA/3/14
+next:
+  id: ISA/3/15
+  number: '15'
+previous:
+  id: ISA/3/13
+  number: '13'
+reference: 'Isaiah 3:14'

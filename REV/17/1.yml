@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 17:1" class="v">1</span>And
+  there came one of the seven angels which had the seven vials, and talked with
+  me, saying unto me, Come hither; I will shew unto thee the judgment of the
+  great whore that sitteth upon many waters: </p>
+id: REV/17/1
+next:
+  id: REV/17/2
+  number: '2'
+previous:
+  id: REV/16/21
+  number: '21'
+reference: 'Revelation 17:1'

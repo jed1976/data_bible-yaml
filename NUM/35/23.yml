@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 35:23" class="v">23</span>Or
+  with any stone, wherewith a man may die, seeing <span class="add">him</span>
+  not, and cast <span class="add">it</span> upon him, that he die, and <span
+  class="add">was</span> not his enemy, neither sought his harm: </p>
+id: NUM/35/23
+next:
+  id: NUM/35/24
+  number: '24'
+previous:
+  id: NUM/35/22
+  number: '22'
+reference: 'Numbers 35:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DEU 1:42" class="v">42</span>And
+  the <span class="nd">LORD</span> said unto me, Say unto them, Go not up,
+  neither fight; for I <span class="add">am</span> not among you; lest ye be
+  smitten before your enemies. </p>
+id: DEU/1/42
+next:
+  id: DEU/1/43
+  number: '43'
+previous:
+  id: DEU/1/41
+  number: '41'
+reference: 'Deuteronomy 1:42'

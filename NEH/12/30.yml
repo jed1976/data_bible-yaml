@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NEH 12:30"
+  class="v">30</span>And the priests and the Levites purified themselves, and
+  purified the people, and the gates, and the wall. </p>
+id: NEH/12/30
+next:
+  id: NEH/12/31
+  number: '31'
+previous:
+  id: NEH/12/29
+  number: '29'
+reference: 'Nehemiah 12:30'

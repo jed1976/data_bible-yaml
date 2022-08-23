@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 21:12"
+  class="v">12</span>Jesus saith unto them, <span class="wj">Come <span
+  class="add">and</span> dine.</span> And none of the disciples durst ask him,
+  Who art thou? knowing that it was the Lord. </p>
+id: JHN/21/12
+next:
+  id: JHN/21/13
+  number: '13'
+previous:
+  id: JHN/21/11
+  number: '11'
+reference: 'John 21:12'

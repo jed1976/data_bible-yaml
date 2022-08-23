@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOS 6:27" class="v">27</span>So
+  the <span class="nd">LORD</span> was with Joshua; and his fame was <span
+  class="add">noised</span> throughout all the country.</p>
+id: JOS/6/27
+next:
+  id: JOS/7/1
+  number: '1'
+previous:
+  id: JOS/6/26
+  number: '26'
+reference: 'Joshua 6:27'

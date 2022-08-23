@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 64:1" class="v">1</span>Hear my voice, O God, in
+  my prayer: preserve my life from fear of the enemy.</p>
+id: PSA/64/1
+next:
+  id: PSA/64/2
+  number: '2'
+previous:
+  id: PSA/63/11
+  number: '11'
+reference: 'Psalms 64:1'

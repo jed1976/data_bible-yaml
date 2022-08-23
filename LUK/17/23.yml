@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 17:23"
+  class="v">23</span><span class="wj">And they shall say to you, See here; or,
+  see there: go not after <span class="add">them</span>, nor follow <span
+  class="add">them</span>.</span> </p>
+id: LUK/17/23
+next:
+  id: LUK/17/24
+  number: '24'
+previous:
+  id: LUK/17/22
+  number: '22'
+reference: 'Luke 17:23'

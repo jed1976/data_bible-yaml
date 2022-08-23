@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NUM 7:36" class="v">36</span>¶
+  On the fifth day Shelumiel the son of Zurishaddai, prince of the children of
+  Simeon, <span class="add">did offer:</span> </p>
+id: NUM/7/36
+next:
+  id: NUM/7/37
+  number: '37'
+previous:
+  id: NUM/7/35
+  number: '35'
+reference: 'Numbers 7:36'

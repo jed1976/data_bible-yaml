@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="RUT 2:15" class="v">15</span>And
+  when she was risen up to glean, Boaz commanded his young men, saying, Let her
+  glean even among the sheaves, and reproach her not: </p>
+id: RUT/2/15
+next:
+  id: RUT/2/16
+  number: '16'
+previous:
+  id: RUT/2/14
+  number: '14'
+reference: 'Ruth 2:15'

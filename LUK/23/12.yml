@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 23:12" class="v">12</span>¶
+  And the same day Pilate and Herod were made friends together: for before they
+  were at enmity between themselves.</p>
+id: LUK/23/12
+next:
+  id: LUK/23/13
+  number: '13'
+previous:
+  id: LUK/23/11
+  number: '11'
+reference: 'Luke 23:12'

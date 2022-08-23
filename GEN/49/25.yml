@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 49:25"
+  class="v">25</span><span class="add">Even</span> by the God of thy father, who
+  shall help thee; and by the Almighty, who shall bless thee with blessings of
+  heaven above, blessings of the deep that lieth under, blessings of the
+  breasts, and of the womb: </p>
+id: GEN/49/25
+next:
+  id: GEN/49/26
+  number: '26'
+previous:
+  id: GEN/49/24
+  number: '24'
+reference: 'Genesis 49:25'

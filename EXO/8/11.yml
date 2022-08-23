@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 8:11" class="v">11</span>And
+  the frogs shall depart from thee, and from thy houses, and from thy servants,
+  and from thy people; they shall remain in the river only. </p>
+id: EXO/8/11
+next:
+  id: EXO/8/12
+  number: '12'
+previous:
+  id: EXO/8/10
+  number: '10'
+reference: 'Exodus 8:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 18:7" class="v">7</span>¶ And
+  he departed thence, and entered into a certain <span class="add">man’s</span>
+  house, named Justus, <span class="add">one</span> that worshipped God, whose
+  house joined hard to the synagogue. </p>
+id: ACT/18/7
+next:
+  id: ACT/18/8
+  number: '8'
+previous:
+  id: ACT/18/6
+  number: '6'
+reference: 'Acts 18:7'

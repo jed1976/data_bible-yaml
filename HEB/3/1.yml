@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 3:1"
+  class="v">1</span>Wherefore, holy brethren, partakers of the heavenly calling,
+  consider the Apostle and High Priest of our profession, Christ Jesus; </p>
+id: HEB/3/1
+next:
+  id: HEB/3/2
+  number: '2'
+previous:
+  id: HEB/2/18
+  number: '18'
+reference: 'Hebrews 3:1'

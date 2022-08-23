@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 13:33"
+  class="v">33</span><span class="wj">Nevertheless I must walk to day, and to
+  morrow, and the <span class="add">day</span> following: for it cannot be that
+  a prophet perish out of Jerusalem.</span> </p>
+id: LUK/13/33
+next:
+  id: LUK/13/34
+  number: '34'
+previous:
+  id: LUK/13/32
+  number: '32'
+reference: 'Luke 13:33'

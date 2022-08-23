@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 1:22" class="v">22</span>And
+  when he came out, he could not speak unto them: and they perceived that he had
+  seen a vision in the temple: for he beckoned unto them, and remained
+  speechless. </p>
+id: LUK/1/22
+next:
+  id: LUK/1/23
+  number: '23'
+previous:
+  id: LUK/1/21
+  number: '21'
+reference: 'Luke 1:22'

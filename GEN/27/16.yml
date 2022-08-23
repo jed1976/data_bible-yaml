@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 27:16"
+  class="v">16</span>And she put the skins of the kids of the goats upon his
+  hands, and upon the smooth of his neck: </p>
+id: GEN/27/16
+next:
+  id: GEN/27/17
+  number: '17'
+previous:
+  id: GEN/27/15
+  number: '15'
+reference: 'Genesis 27:16'

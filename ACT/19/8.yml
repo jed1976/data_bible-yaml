@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 19:8" class="v">8</span>And
+  he went into the synagogue, and spake boldly for the space of three months,
+  disputing and persuading the things concerning the kingdom of God. </p>
+id: ACT/19/8
+next:
+  id: ACT/19/9
+  number: '9'
+previous:
+  id: ACT/19/7
+  number: '7'
+reference: 'Acts 19:8'

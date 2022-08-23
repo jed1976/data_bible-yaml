@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="47" data-sid="PSA 89:47"
+  class="v">47</span>Remember how short my time is: wherefore hast thou made all
+  men in vain?</p>
+id: PSA/89/47
+next:
+  id: PSA/89/48
+  number: '48'
+previous:
+  id: PSA/89/46
+  number: '46'
+reference: 'Psalms 89:47'

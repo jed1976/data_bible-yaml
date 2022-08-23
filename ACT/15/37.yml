@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 15:37"
+  class="v">37</span>And Barnabas determined to take with them John, whose
+  surname was Mark. </p>
+id: ACT/15/37
+next:
+  id: ACT/15/38
+  number: '38'
+previous:
+  id: ACT/15/36
+  number: '36'
+reference: 'Acts 15:37'

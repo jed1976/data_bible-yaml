@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 18:11" class="v">11</span>¶
+  Now therefore go to, speak to the men of Judah, and to the inhabitants of
+  Jerusalem, saying, Thus saith the <span class="nd">LORD</span>; Behold, I
+  frame evil against you, and devise a device against you: return ye now every
+  one from his evil way, and make your ways and your doings good. </p>
+id: JER/18/11
+next:
+  id: JER/18/12
+  number: '12'
+previous:
+  id: JER/18/10
+  number: '10'
+reference: 'Jeremiah 18:11'

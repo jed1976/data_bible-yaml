@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 49:4" class="v">4</span>I
+  will incline mine ear to a parable: I will open my dark saying upon the
+  harp.</p>
+id: PSA/49/4
+next:
+  id: PSA/49/5
+  number: '5'
+previous:
+  id: PSA/49/3
+  number: '3'
+reference: 'Psalms 49:4'

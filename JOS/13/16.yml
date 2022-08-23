@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 13:16"
+  class="v">16</span>And their coast was from Aroer, that <span
+  class="add">is</span> on the bank of the river Arnon, and the city that <span
+  class="add">is</span> in the midst of the river, and all the plain by Medeba;
+  </p>
+id: JOS/13/16
+next:
+  id: JOS/13/17
+  number: '17'
+previous:
+  id: JOS/13/15
+  number: '15'
+reference: 'Joshua 13:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 17:12"
+  class="v">12</span>Say now to the rebellious house, Know ye not what these
+  <span class="add">things mean</span>? tell <span class="add">them</span>,
+  Behold, the king of Babylon is come to Jerusalem, and hath taken the king
+  thereof, and the princes thereof, and led them with him to Babylon; </p>
+id: EZK/17/12
+next:
+  id: EZK/17/13
+  number: '13'
+previous:
+  id: EZK/17/11
+  number: '11'
+reference: 'Ezekiel 17:12'

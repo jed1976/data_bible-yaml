@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 8:4" class="v">4</span>They
+  have set up kings, but not by me: they have made princes, and I knew <span
+  class="add">it</span> not: of their silver and their gold have they made them
+  idols, that they may be cut off.</p>
+id: HOS/8/4
+next:
+  id: HOS/8/5
+  number: '5'
+previous:
+  id: HOS/8/3
+  number: '3'
+reference: 'Hosea 8:4'

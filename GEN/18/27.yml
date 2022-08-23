@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 18:27"
+  class="v">27</span>And Abraham answered and said, Behold now, I have taken
+  upon me to speak unto the Lord, which <span class="add">am but</span> dust and
+  ashes: </p>
+id: GEN/18/27
+next:
+  id: GEN/18/28
+  number: '28'
+previous:
+  id: GEN/18/26
+  number: '26'
+reference: 'Genesis 18:27'

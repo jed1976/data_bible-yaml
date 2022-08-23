@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 16:12" class="v">12</span>It
+  may be that the <span class="nd">LORD</span> will look on mine affliction, and
+  that the <span class="nd">LORD</span> will requite me good for his cursing
+  this day. </p>
+id: 2SA/16/12
+next:
+  id: 2SA/16/13
+  number: '13'
+previous:
+  id: 2SA/16/11
+  number: '11'
+reference: '2 Samuel 16:12'

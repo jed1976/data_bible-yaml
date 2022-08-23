@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 25:9" class="v">9</span>And
+  he burnt the house of the <span class="nd">LORD</span>, and the king’s house,
+  and all the houses of Jerusalem, and every great <span
+  class="add">man’s</span> house burnt he with fire. </p>
+id: 2KI/25/9
+next:
+  id: 2KI/25/10
+  number: '10'
+previous:
+  id: 2KI/25/8
+  number: '8'
+reference: '2 Kings 25:9'

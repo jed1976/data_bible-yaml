@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 27:13"
+  class="v">13</span><span class="add">I had fainted</span>, unless I had
+  believed to see the goodness of the <span class="nd">LORD</span> in the land
+  of the living.</p>
+id: PSA/27/13
+next:
+  id: PSA/27/14
+  number: '14'
+previous:
+  id: PSA/27/12
+  number: '12'
+reference: 'Psalms 27:13'

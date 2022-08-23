@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 19:3" class="v">3</span>And
+  ye shall give her unto Eleazar the priest, that he may bring her forth without
+  the camp, and <span class="add">one</span> shall slay her before his face:
+  </p>
+id: NUM/19/3
+next:
+  id: NUM/19/4
+  number: '4'
+previous:
+  id: NUM/19/2
+  number: '2'
+reference: 'Numbers 19:3'

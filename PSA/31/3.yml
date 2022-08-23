@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 31:3" class="v">3</span>For
+  thou <span class="add">art</span> my rock and my fortress; therefore for thy
+  name’s sake lead me, and guide me.</p>
+id: PSA/31/3
+next:
+  id: PSA/31/4
+  number: '4'
+previous:
+  id: PSA/31/2
+  number: '2'
+reference: 'Psalms 31:3'

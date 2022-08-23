@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 6:4" class="v">4</span>For he
+  cometh in with vanity, and departeth in darkness, and his name shall be
+  covered with darkness. </p>
+id: ECC/6/4
+next:
+  id: ECC/6/5
+  number: '5'
+previous:
+  id: ECC/6/3
+  number: '3'
+reference: 'Ecclesiastes 6:4'

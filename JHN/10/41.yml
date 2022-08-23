@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 10:41"
+  class="v">41</span>And many resorted unto him, and said, John did no miracle:
+  but all things that John spake of this man were true. </p>
+id: JHN/10/41
+next:
+  id: JHN/10/42
+  number: '42'
+previous:
+  id: JHN/10/40
+  number: '40'
+reference: 'John 10:41'

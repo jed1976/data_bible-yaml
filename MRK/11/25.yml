@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 11:25"
+  class="v">25</span><span class="wj">And when ye stand praying, forgive, if ye
+  have ought against any: that your Father also which is in heaven may forgive
+  you your trespasses.</span> </p>
+id: MRK/11/25
+next:
+  id: MRK/11/26
+  number: '26'
+previous:
+  id: MRK/11/24
+  number: '24'
+reference: 'Mark 11:25'

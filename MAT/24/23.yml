@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 24:23"
+  class="v">23</span><span class="wj">Then if any man shall say unto you, Lo,
+  here <span class="add">is</span> Christ, or there; believe <span
+  class="add">it</span> not.</span> </p>
+id: MAT/24/23
+next:
+  id: MAT/24/24
+  number: '24'
+previous:
+  id: MAT/24/22
+  number: '22'
+reference: 'Matthew 24:23'

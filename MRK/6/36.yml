@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MRK 6:36"
+  class="v">36</span>Send them away, that they may go into the country round
+  about, and into the villages, and buy themselves bread: for they have nothing
+  to eat. </p>
+id: MRK/6/36
+next:
+  id: MRK/6/37
+  number: '37'
+previous:
+  id: MRK/6/35
+  number: '35'
+reference: 'Mark 6:36'

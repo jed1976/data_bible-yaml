@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 77:17"
+  class="v">17</span>The clouds poured out water: the skies sent out a sound:
+  thine arrows also went abroad.</p>
+id: PSA/77/17
+next:
+  id: PSA/77/18
+  number: '18'
+previous:
+  id: PSA/77/16
+  number: '16'
+reference: 'Psalms 77:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 1:18"
+  class="v">18</span>Come now, and let us reason together, saith the <span
+  class="nd">LORD</span>: though your sins be as scarlet, they shall be as white
+  as snow; though they be red like crimson, they shall be as wool. </p>
+id: ISA/1/18
+next:
+  id: ISA/1/19
+  number: '19'
+previous:
+  id: ISA/1/17
+  number: '17'
+reference: 'Isaiah 1:18'

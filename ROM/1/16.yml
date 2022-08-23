@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 1:16" class="v">16</span>For
+  I am not ashamed of the gospel of Christ: for it is the power of God unto
+  salvation to every one that believeth; to the Jew first, and also to the
+  Greek. </p>
+id: ROM/1/16
+next:
+  id: ROM/1/17
+  number: '17'
+previous:
+  id: ROM/1/15
+  number: '15'
+reference: 'Romans 1:16'

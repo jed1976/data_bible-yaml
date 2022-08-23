@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="ISA 40:28" class="v">28</span>¶
+  Hast thou not known? hast thou not heard, <span class="add">that</span> the
+  everlasting God, the <span class="nd">LORD</span>, the Creator of the ends of
+  the earth, fainteth not, neither is weary? <span class="add">there is</span>
+  no searching of his understanding. </p>
+id: ISA/40/28
+next:
+  id: ISA/40/29
+  number: '29'
+previous:
+  id: ISA/40/27
+  number: '27'
+reference: 'Isaiah 40:28'

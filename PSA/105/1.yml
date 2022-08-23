@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 105:1" class="v">1</span>O
+  give thanks unto the <span class="nd">LORD</span>; call upon his name: make
+  known his deeds among the people.</p>
+id: PSA/105/1
+next:
+  id: PSA/105/2
+  number: '2'
+previous:
+  id: PSA/104/35
+  number: '35'
+reference: 'Psalms 105:1'

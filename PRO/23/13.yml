@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 23:13"
+  class="v">13</span>Withhold not correction from the child: for <span
+  class="add">if</span> thou beatest him with the rod, he shall not die. </p>
+id: PRO/23/13
+next:
+  id: PRO/23/14
+  number: '14'
+previous:
+  id: PRO/23/12
+  number: '12'
+reference: 'Proverbs 23:13'

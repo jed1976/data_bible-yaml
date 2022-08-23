@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 5:30" class="v">30</span>But
+  their scribes and Pharisees murmured against his disciples, saying, Why do ye
+  eat and drink with publicans and sinners? </p>
+id: LUK/5/30
+next:
+  id: LUK/5/31
+  number: '31'
+previous:
+  id: LUK/5/29
+  number: '29'
+reference: 'Luke 5:30'

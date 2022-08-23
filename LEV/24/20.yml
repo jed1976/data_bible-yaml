@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 24:20"
+  class="v">20</span>Breach for breach, eye for eye, tooth for tooth: as he hath
+  caused a blemish in a man, so shall it be done to him <span
+  class="add">again</span>. </p>
+id: LEV/24/20
+next:
+  id: LEV/24/21
+  number: '21'
+previous:
+  id: LEV/24/19
+  number: '19'
+reference: 'Leviticus 24:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 19:16"
+  class="v">16</span>This <span class="add">is</span> the inheritance of the
+  children of Zebulun according to their families, these cities with their
+  villages.</p>
+id: JOS/19/16
+next:
+  id: JOS/19/17
+  number: '17'
+previous:
+  id: JOS/19/15
+  number: '15'
+reference: 'Joshua 19:16'

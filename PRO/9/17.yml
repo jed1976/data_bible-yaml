@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 9:17"
+  class="v">17</span>Stolen waters are sweet, and bread <span
+  class="add">eaten</span> in secret is pleasant. </p>
+id: PRO/9/17
+next:
+  id: PRO/9/18
+  number: '18'
+previous:
+  id: PRO/9/16
+  number: '16'
+reference: 'Proverbs 9:17'

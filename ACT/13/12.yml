@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 13:12"
+  class="v">12</span>Then the deputy, when he saw what was done, believed, being
+  astonished at the doctrine of the Lord. </p>
+id: ACT/13/12
+next:
+  id: ACT/13/13
+  number: '13'
+previous:
+  id: ACT/13/11
+  number: '11'
+reference: 'Acts 13:12'

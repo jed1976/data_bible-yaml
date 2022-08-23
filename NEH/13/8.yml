@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 13:8" class="v">8</span>And
+  it grieved me sore: therefore I cast forth all the household stuff of Tobiah
+  out of the chamber. </p>
+id: NEH/13/8
+next:
+  id: NEH/13/9
+  number: '9'
+previous:
+  id: NEH/13/7
+  number: '7'
+reference: 'Nehemiah 13:8'

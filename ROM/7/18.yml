@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 7:18" class="v">18</span>For
+  I know that in me (that is, in my flesh,) dwelleth no good thing: for to will
+  is present with me; but <span class="add">how</span> to perform that which is
+  good I find not. </p>
+id: ROM/7/18
+next:
+  id: ROM/7/19
+  number: '19'
+previous:
+  id: ROM/7/17
+  number: '17'
+reference: 'Romans 7:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 139:12"
+  class="v">12</span>Yea, the darkness hideth not from thee; but the night
+  shineth as the day: the darkness and the light <span class="add">are</span>
+  both alike <span class="add">to thee</span>.</p>
+id: PSA/139/12
+next:
+  id: PSA/139/13
+  number: '13'
+previous:
+  id: PSA/139/11
+  number: '11'
+reference: 'Psalms 139:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="GEN 31:37"
+  class="v">37</span>Whereas thou hast searched all my stuff, what hast thou
+  found of all thy household stuff? set <span class="add">it</span> here before
+  my brethren and thy brethren, that they may judge betwixt us both. </p>
+id: GEN/31/37
+next:
+  id: GEN/31/38
+  number: '38'
+previous:
+  id: GEN/31/36
+  number: '36'
+reference: 'Genesis 31:37'

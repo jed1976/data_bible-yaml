@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 3:18" class="v">18</span>She
+  <span class="add">is</span> a tree of life to them that lay hold upon her: and
+  happy <span class="add">is every one</span> that retaineth her. </p>
+id: PRO/3/18
+next:
+  id: PRO/3/19
+  number: '19'
+previous:
+  id: PRO/3/17
+  number: '17'
+reference: 'Proverbs 3:18'

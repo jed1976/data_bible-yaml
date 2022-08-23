@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 146:7"
+  class="v">7</span>Which executeth judgment for the oppressed: which giveth
+  food to the hungry. The <span class="nd">LORD</span> looseth the
+  prisoners:</p>
+id: PSA/146/7
+next:
+  id: PSA/146/8
+  number: '8'
+previous:
+  id: PSA/146/6
+  number: '6'
+reference: 'Psalms 146:7'

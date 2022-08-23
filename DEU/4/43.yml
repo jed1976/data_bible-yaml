@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DEU 4:43"
+  class="v">43</span><span class="add">Namely</span>, Bezer in the wilderness,
+  in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites;
+  and Golan in Bashan, of the Manassites.</p>
+id: DEU/4/43
+next:
+  id: DEU/4/44
+  number: '44'
+previous:
+  id: DEU/4/42
+  number: '42'
+reference: 'Deuteronomy 4:43'

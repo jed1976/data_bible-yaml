@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="NUM 26:54" class="v">54</span>To
+  many thou shalt give the more inheritance, and to few thou shalt give the less
+  inheritance: to every one shall his inheritance be given according to those
+  that were numbered of him. </p>
+id: NUM/26/54
+next:
+  id: NUM/26/55
+  number: '55'
+previous:
+  id: NUM/26/53
+  number: '53'
+reference: 'Numbers 26:54'

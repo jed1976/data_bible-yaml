@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 8:11" class="v">11</span>And
+  he sprinkled thereof upon the altar seven times, and anointed the altar and
+  all his vessels, both the laver and his foot, to sanctify them. </p>
+id: LEV/8/11
+next:
+  id: LEV/8/12
+  number: '12'
+previous:
+  id: LEV/8/10
+  number: '10'
+reference: 'Leviticus 8:11'

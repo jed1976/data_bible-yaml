@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 10:13"
+  class="v">13</span>And Moses stretched forth his rod over the land of Egypt,
+  and the <span class="nd">LORD</span> brought an east wind upon the land all
+  that day, and all <span class="add">that</span> night; <span
+  class="add">and</span> when it was morning, the east wind brought the locusts.
+  </p>
+id: EXO/10/13
+next:
+  id: EXO/10/14
+  number: '14'
+previous:
+  id: EXO/10/12
+  number: '12'
+reference: 'Exodus 10:13'

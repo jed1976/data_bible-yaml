@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LEV 11:46"
+  class="v">46</span>This <span class="add">is</span> the law of the beasts, and
+  of the fowl, and of every living creature that moveth in the waters, and of
+  every creature that creepeth upon the earth: </p>
+id: LEV/11/46
+next:
+  id: LEV/11/47
+  number: '47'
+previous:
+  id: LEV/11/45
+  number: '45'
+reference: 'Leviticus 11:46'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 1:32" class="v">32</span>For
+  the turning away of the simple shall slay them, and the prosperity of fools
+  shall destroy them. </p>
+id: PRO/1/32
+next:
+  id: PRO/1/33
+  number: '33'
+previous:
+  id: PRO/1/31
+  number: '31'
+reference: 'Proverbs 1:32'

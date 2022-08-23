@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 3:12" class="v">12</span>In
+  that day I will perform against Eli all <span class="add">things</span> which
+  I have spoken concerning his house: when I begin, I will also make an end.
+  </p>
+id: 1SA/3/12
+next:
+  id: 1SA/3/13
+  number: '13'
+previous:
+  id: 1SA/3/11
+  number: '11'
+reference: '1 Samuel 3:12'

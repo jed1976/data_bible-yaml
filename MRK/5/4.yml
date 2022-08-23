@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 5:4"
+  class="v">4</span>Because that he had been often bound with fetters and
+  chains, and the chains had been plucked asunder by him, and the fetters broken
+  in pieces: neither could any <span class="add">man</span> tame him. </p>
+id: MRK/5/4
+next:
+  id: MRK/5/5
+  number: '5'
+previous:
+  id: MRK/5/3
+  number: '3'
+reference: 'Mark 5:4'

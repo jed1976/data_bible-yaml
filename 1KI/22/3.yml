@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 22:3" class="v">3</span>And
+  the king of Israel said unto his servants, Know ye that Ramoth in Gilead <span
+  class="add">is</span> ours, and we <span class="add">be</span> still, <span
+  class="add">and</span> take it not out of the hand of the king of Syria? </p>
+id: 1KI/22/3
+next:
+  id: 1KI/22/4
+  number: '4'
+previous:
+  id: 1KI/22/2
+  number: '2'
+reference: '1 Kings 22:3'

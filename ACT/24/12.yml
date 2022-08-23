@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 24:12"
+  class="v">12</span>And they neither found me in the temple disputing with any
+  man, neither raising up the people, neither in the synagogues, nor in the
+  city: </p>
+id: ACT/24/12
+next:
+  id: ACT/24/13
+  number: '13'
+previous:
+  id: ACT/24/11
+  number: '11'
+reference: 'Acts 24:12'

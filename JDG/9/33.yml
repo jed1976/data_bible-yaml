@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JDG 9:33" class="v">33</span>And
+  it shall be, <span class="add">that</span> in the morning, as soon as the sun
+  is up, thou shalt rise early, and set upon the city: and, behold, <span
+  class="add">when</span> he and the people that <span class="add">is</span>
+  with him come out against thee, then mayest thou do to them as thou shalt find
+  occasion.</p>
+id: JDG/9/33
+next:
+  id: JDG/9/34
+  number: '34'
+previous:
+  id: JDG/9/32
+  number: '32'
+reference: 'Judges 9:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 3:37" class="v">37</span>And
+  the pillars of the court round about, and their sockets, and their pins, and
+  their cords.</p>
+id: NUM/3/37
+next:
+  id: NUM/3/38
+  number: '38'
+previous:
+  id: NUM/3/36
+  number: '36'
+reference: 'Numbers 3:37'

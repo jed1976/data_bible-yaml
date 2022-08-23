@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 31:25"
+  class="v">25</span>Strength and honour <span class="add">are</span> her
+  clothing; and she shall rejoice in time to come. </p>
+id: PRO/31/25
+next:
+  id: PRO/31/26
+  number: '26'
+previous:
+  id: PRO/31/24
+  number: '24'
+reference: 'Proverbs 31:25'

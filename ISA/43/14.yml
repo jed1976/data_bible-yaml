@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 43:14" class="v">14</span>¶
+  Thus saith the <span class="nd">LORD</span>, your redeemer, the Holy One of
+  Israel; For your sake I have sent to Babylon, and have brought down all their
+  nobles, and the Chaldeans, whose cry <span class="add">is</span> in the ships.
+  </p>
+id: ISA/43/14
+next:
+  id: ISA/43/15
+  number: '15'
+previous:
+  id: ISA/43/13
+  number: '13'
+reference: 'Isaiah 43:14'

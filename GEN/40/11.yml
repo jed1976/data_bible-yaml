@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 40:11"
+  class="v">11</span>And Pharaoh’s cup <span class="add">was</span> in my hand:
+  and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup
+  into Pharaoh’s hand. </p>
+id: GEN/40/11
+next:
+  id: GEN/40/12
+  number: '12'
+previous:
+  id: GEN/40/10
+  number: '10'
+reference: 'Genesis 40:11'

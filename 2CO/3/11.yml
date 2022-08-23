@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CO 3:11" class="v">11</span>For
+  if that which is done away <span class="add">was</span> glorious, much more
+  that which remaineth <span class="add">is</span> glorious. </p>
+id: 2CO/3/11
+next:
+  id: 2CO/3/12
+  number: '12'
+previous:
+  id: 2CO/3/10
+  number: '10'
+reference: '2 Corinthians 3:11'

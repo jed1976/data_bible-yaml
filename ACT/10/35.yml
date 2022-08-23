@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 10:35"
+  class="v">35</span>But in every nation he that feareth him, and worketh
+  righteousness, is accepted with him. </p>
+id: ACT/10/35
+next:
+  id: ACT/10/36
+  number: '36'
+previous:
+  id: ACT/10/34
+  number: '34'
+reference: 'Acts 10:35'

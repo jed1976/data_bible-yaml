@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="MAT 27:53"
+  class="v">53</span>And came out of the graves after his resurrection, and went
+  into the holy city, and appeared unto many. </p>
+id: MAT/27/53
+next:
+  id: MAT/27/54
+  number: '54'
+previous:
+  id: MAT/27/52
+  number: '52'
+reference: 'Matthew 27:53'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="2SA 22:44"
+  class="v">44</span>Thou also hast delivered me from the strivings of my
+  people, thou hast kept me <span class="add">to be</span> head of the heathen:
+  a people <span class="add">which</span> I knew not shall serve me. </p>
+id: 2SA/22/44
+next:
+  id: 2SA/22/45
+  number: '45'
+previous:
+  id: 2SA/22/43
+  number: '43'
+reference: '2 Samuel 22:44'

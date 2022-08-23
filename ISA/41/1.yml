@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 41:1" class="v">1</span>Keep
+  silence before me, O islands; and let the people renew <span
+  class="add">their</span> strength: let them come near; then let them speak:
+  let us come near together to judgment. </p>
+id: ISA/41/1
+next:
+  id: ISA/41/2
+  number: '2'
+previous:
+  id: ISA/40/31
+  number: '31'
+reference: 'Isaiah 41:1'

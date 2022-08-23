@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 2:30" class="v">30</span>But
+  Sihon king of Heshbon would not let us pass by him: for the <span
+  class="nd">LORD</span> thy God hardened his spirit, and made his heart
+  obstinate, that he might deliver him into thy hand, as <span
+  class="add">appeareth</span> this day. </p>
+id: DEU/2/30
+next:
+  id: DEU/2/31
+  number: '31'
+previous:
+  id: DEU/2/29
+  number: '29'
+reference: 'Deuteronomy 2:30'

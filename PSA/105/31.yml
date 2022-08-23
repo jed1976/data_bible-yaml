@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="31" data-sid="PSA 105:31"
+  class="v">31</span>He spake, and there came divers sorts of flies, <span
+  class="add">and</span> lice in all their coasts.</p>
+id: PSA/105/31
+next:
+  id: PSA/105/32
+  number: '32'
+previous:
+  id: PSA/105/30
+  number: '30'
+reference: 'Psalms 105:31'

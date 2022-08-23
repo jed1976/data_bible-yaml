@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 15:9" class="v">9</span>¶
+  Then the Philistines went up, and pitched in Judah, and spread themselves in
+  Lehi. </p>
+id: JDG/15/9
+next:
+  id: JDG/15/10
+  number: '10'
+previous:
+  id: JDG/15/8
+  number: '8'
+reference: 'Judges 15:9'

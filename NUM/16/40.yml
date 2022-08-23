@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 16:40"
+  class="v">40</span><span class="add">To be</span> a memorial unto the children
+  of Israel, that no stranger, which <span class="add">is</span> not of the seed
+  of Aaron, come near to offer incense before the <span class="nd">LORD</span>;
+  that he be not as Korah, and as his company: as the <span
+  class="nd">LORD</span> said to him by the hand of Moses.</p>
+id: NUM/16/40
+next:
+  id: NUM/16/41
+  number: '41'
+previous:
+  id: NUM/16/39
+  number: '39'
+reference: 'Numbers 16:40'

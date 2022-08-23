@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2KI 12:17" class="v">17</span>¶
+  Then Hazael king of Syria went up, and fought against Gath, and took it: and
+  Hazael set his face to go up to Jerusalem. </p>
+id: 2KI/12/17
+next:
+  id: 2KI/12/18
+  number: '18'
+previous:
+  id: 2KI/12/16
+  number: '16'
+reference: '2 Kings 12:17'

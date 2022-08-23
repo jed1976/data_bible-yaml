@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 13:8" class="v">8</span>And
+  <span class="add">if</span> the priest see that, behold, the scab spreadeth in
+  the skin, then the priest shall pronounce him unclean: it <span
+  class="add">is</span> a leprosy.</p>
+id: LEV/13/8
+next:
+  id: LEV/13/9
+  number: '9'
+previous:
+  id: LEV/13/7
+  number: '7'
+reference: 'Leviticus 13:8'

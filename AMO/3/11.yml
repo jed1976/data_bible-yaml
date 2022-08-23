@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 3:11"
+  class="v">11</span>Therefore thus saith the Lord <span class="nd">GOD</span>;
+  An adversary <span class="add">there shall be</span> even round about the
+  land; and he shall bring down thy strength from thee, and thy palaces shall be
+  spoiled. </p>
+id: AMO/3/11
+next:
+  id: AMO/3/12
+  number: '12'
+previous:
+  id: AMO/3/10
+  number: '10'
+reference: 'Amos 3:11'

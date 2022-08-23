@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1KI 11:33"
+  class="v">33</span>Because that they have forsaken me, and have worshipped
+  Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and
+  Milcom the god of the children of Ammon, and have not walked in my ways, to do
+  <span class="add">that which is</span> right in mine eyes, and <span
+  class="add">to keep</span> my statutes and my judgments, as <span
+  class="add">did</span> David his father. </p>
+id: 1KI/11/33
+next:
+  id: 1KI/11/34
+  number: '34'
+previous:
+  id: 1KI/11/32
+  number: '32'
+reference: '1 Kings 11:33'

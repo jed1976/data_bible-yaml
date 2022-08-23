@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 48:10"
+  class="v">10</span>Now the eyes of Israel were dim for age, <span
+  class="add">so that</span> he could not see. And he brought them near unto
+  him; and he kissed them, and embraced them. </p>
+id: GEN/48/10
+next:
+  id: GEN/48/11
+  number: '11'
+previous:
+  id: GEN/48/9
+  number: '9'
+reference: 'Genesis 48:10'

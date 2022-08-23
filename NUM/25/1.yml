@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 25:1" class="v">1</span>And
+  Israel abode in Shittim, and the people began to commit whoredom with the
+  daughters of Moab. </p>
+id: NUM/25/1
+next:
+  id: NUM/25/2
+  number: '2'
+previous:
+  id: NUM/24/25
+  number: '25'
+reference: 'Numbers 25:1'

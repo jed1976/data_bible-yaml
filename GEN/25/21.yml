@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 25:21"
+  class="v">21</span>And Isaac intreated the <span class="nd">LORD</span> for
+  his wife, because she <span class="add">was</span> barren: and the <span
+  class="nd">LORD</span> was intreated of him, and Rebekah his wife conceived.
+  </p>
+id: GEN/25/21
+next:
+  id: GEN/25/22
+  number: '22'
+previous:
+  id: GEN/25/20
+  number: '20'
+reference: 'Genesis 25:21'

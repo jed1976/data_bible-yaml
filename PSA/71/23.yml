@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 71:23"
+  class="v">23</span>My lips shall greatly rejoice when I sing unto thee; and my
+  soul, which thou hast redeemed.</p>
+id: PSA/71/23
+next:
+  id: PSA/71/24
+  number: '24'
+previous:
+  id: PSA/71/22
+  number: '22'
+reference: 'Psalms 71:23'

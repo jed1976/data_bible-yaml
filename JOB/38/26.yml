@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 38:26" class="v">26</span>To
+  cause it to rain on the earth, <span class="add">where</span> no man <span
+  class="add">is; on</span> the wilderness, wherein <span class="add">there
+  is</span> no man; </p>
+id: JOB/38/26
+next:
+  id: JOB/38/27
+  number: '27'
+previous:
+  id: JOB/38/25
+  number: '25'
+reference: 'Job 38:26'

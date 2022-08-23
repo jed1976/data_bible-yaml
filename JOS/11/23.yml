@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 11:23" class="v">23</span>So
+  Joshua took the whole land, according to all that the <span
+  class="nd">LORD</span> said unto Moses; and Joshua gave it for an inheritance
+  unto Israel according to their divisions by their tribes. And the land rested
+  from war.</p>
+id: JOS/11/23
+next:
+  id: JOS/12/1
+  number: '1'
+previous:
+  id: JOS/11/22
+  number: '22'
+reference: 'Joshua 11:23'

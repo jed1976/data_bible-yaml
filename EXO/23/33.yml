@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 23:33"
+  class="v">33</span>They shall not dwell in thy land, lest they make thee sin
+  against me: for if thou serve their gods, it will surely be a snare unto
+  thee.</p>
+id: EXO/23/33
+next:
+  id: EXO/24/1
+  number: '1'
+previous:
+  id: EXO/23/32
+  number: '32'
+reference: 'Exodus 23:33'

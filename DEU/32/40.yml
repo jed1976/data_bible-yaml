@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="DEU 32:40"
+  class="v">40</span>For I lift up my hand to heaven, and say, I live for ever.
+  </p>
+id: DEU/32/40
+next:
+  id: DEU/32/41
+  number: '41'
+previous:
+  id: DEU/32/39
+  number: '39'
+reference: 'Deuteronomy 32:40'

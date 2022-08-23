@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JER 48:40"
+  class="v">40</span>For thus saith the <span class="nd">LORD</span>; Behold, he
+  shall fly as an eagle, and shall spread his wings over Moab. </p>
+id: JER/48/40
+next:
+  id: JER/48/41
+  number: '41'
+previous:
+  id: JER/48/39
+  number: '39'
+reference: 'Jeremiah 48:40'

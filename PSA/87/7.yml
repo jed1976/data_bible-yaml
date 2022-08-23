@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 87:7" class="v">7</span>As
+  well the singers as the players on instruments <span class="add">shall be
+  there:</span> all my springs <span class="add">are</span> in thee.</p>
+id: PSA/87/7
+next:
+  id: PSA/88/1
+  number: '1'
+previous:
+  id: PSA/87/6
+  number: '6'
+reference: 'Psalms 87:7'

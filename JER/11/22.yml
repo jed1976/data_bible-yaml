@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 11:22"
+  class="v">22</span>Therefore thus saith the <span class="nd">LORD</span> of
+  hosts, Behold, I will punish them: the young men shall die by the sword; their
+  sons and their daughters shall die by famine: </p>
+id: JER/11/22
+next:
+  id: JER/11/23
+  number: '23'
+previous:
+  id: JER/11/21
+  number: '21'
+reference: 'Jeremiah 11:22'

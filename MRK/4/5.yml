@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 4:5" class="v">5</span><span
+  class="wj">And some fell on stony ground, where it had not much earth; and
+  immediately it sprang up, because it had no depth of earth:</span> </p>
+id: MRK/4/5
+next:
+  id: MRK/4/6
+  number: '6'
+previous:
+  id: MRK/4/4
+  number: '4'
+reference: 'Mark 4:5'

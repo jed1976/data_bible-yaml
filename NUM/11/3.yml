@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 11:3" class="v">3</span>And
+  he called the name of the place Taberah: because the fire of the <span
+  class="nd">LORD</span> burnt among them.</p>
+id: NUM/11/3
+next:
+  id: NUM/11/4
+  number: '4'
+previous:
+  id: NUM/11/2
+  number: '2'
+reference: 'Numbers 11:3'

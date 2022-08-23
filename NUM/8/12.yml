@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 8:12" class="v">12</span>And
+  the Levites shall lay their hands upon the heads of the bullocks: and thou
+  shalt offer the one <span class="add">for</span> a sin offering, and the other
+  <span class="add">for</span> a burnt offering, unto the <span
+  class="nd">LORD</span>, to make an atonement for the Levites. </p>
+id: NUM/8/12
+next:
+  id: NUM/8/13
+  number: '13'
+previous:
+  id: NUM/8/11
+  number: '11'
+reference: 'Numbers 8:12'

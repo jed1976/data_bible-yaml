@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 21:12"
+  class="v">12</span>They take the timbrel and harp, and rejoice at the sound of
+  the organ. </p>
+id: JOB/21/12
+next:
+  id: JOB/21/13
+  number: '13'
+previous:
+  id: JOB/21/11
+  number: '11'
+reference: 'Job 21:12'

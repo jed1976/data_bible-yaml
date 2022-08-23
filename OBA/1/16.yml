@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="OBA 1:16" class="v">16</span>For
+  as ye have drunk upon my holy mountain, <span class="add">so</span> shall all
+  the heathen drink continually, yea, they shall drink, and they shall swallow
+  down, and they shall be as though they had not been.</p>
+id: OBA/1/16
+next:
+  id: OBA/1/17
+  number: '17'
+previous:
+  id: OBA/1/15
+  number: '15'
+reference: 'Obadiah 1:16'

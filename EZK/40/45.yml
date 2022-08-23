@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="EZK 40:45"
+  class="v">45</span>And he said unto me, This chamber, whose prospect <span
+  class="add">is</span> toward the south, <span class="add">is</span> for the
+  priests, the keepers of the charge of the house. </p>
+id: EZK/40/45
+next:
+  id: EZK/40/46
+  number: '46'
+previous:
+  id: EZK/40/44
+  number: '44'
+reference: 'Ezekiel 40:45'

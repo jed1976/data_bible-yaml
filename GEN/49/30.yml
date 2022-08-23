@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 49:30" class="v">30</span>In
+  the cave that <span class="add">is</span> in the field of Machpelah, which
+  <span class="add">is</span> before Mamre, in the land of Canaan, which Abraham
+  bought with the field of Ephron the Hittite for a possession of a
+  buryingplace. </p>
+id: GEN/49/30
+next:
+  id: GEN/49/31
+  number: '31'
+previous:
+  id: GEN/49/29
+  number: '29'
+reference: 'Genesis 49:30'

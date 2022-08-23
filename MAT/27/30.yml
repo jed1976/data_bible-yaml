@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 27:30"
+  class="v">30</span>And they spit upon him, and took the reed, and smote him on
+  the head. </p>
+id: MAT/27/30
+next:
+  id: MAT/27/31
+  number: '31'
+previous:
+  id: MAT/27/29
+  number: '29'
+reference: 'Matthew 27:30'

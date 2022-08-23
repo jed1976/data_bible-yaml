@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 2:19"
+  class="v">19</span>Jesus answered and said unto them, <span class="wj">Destroy
+  this temple, and in three days I will raise it up.</span> </p>
+id: JHN/2/19
+next:
+  id: JHN/2/20
+  number: '20'
+previous:
+  id: JHN/2/18
+  number: '18'
+reference: 'John 2:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 2:6" class="v">6</span>For
+  the <span class="nd">LORD</span> giveth wisdom: out of his mouth <span
+  class="add">cometh</span> knowledge and understanding. </p>
+id: PRO/2/6
+next:
+  id: PRO/2/7
+  number: '7'
+previous:
+  id: PRO/2/5
+  number: '5'
+reference: 'Proverbs 2:6'

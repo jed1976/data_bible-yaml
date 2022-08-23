@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 48:10"
+  class="v">10</span>Cursed <span class="add">be</span> he that doeth the work
+  of the <span class="nd">LORD</span> deceitfully, and cursed <span
+  class="add">be</span> he that keepeth back his sword from blood.</p>
+id: JER/48/10
+next:
+  id: JER/48/11
+  number: '11'
+previous:
+  id: JER/48/9
+  number: '9'
+reference: 'Jeremiah 48:10'

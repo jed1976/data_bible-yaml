@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 57:9" class="v">9</span>I
+  will praise thee, O Lord, among the people: I will sing unto thee among the
+  nations.</p>
+id: PSA/57/9
+next:
+  id: PSA/57/10
+  number: '10'
+previous:
+  id: PSA/57/8
+  number: '8'
+reference: 'Psalms 57:9'

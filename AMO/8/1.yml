@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 8:1" class="v">1</span>Thus
+  hath the Lord <span class="nd">GOD</span> shewed unto me: and behold a basket
+  of summer fruit. </p>
+id: AMO/8/1
+next:
+  id: AMO/8/2
+  number: '2'
+previous:
+  id: AMO/7/17
+  number: '17'
+reference: 'Amos 8:1'

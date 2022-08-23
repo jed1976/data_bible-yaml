@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1SA 24:10"
+  class="v">10</span>Behold, this day thine eyes have seen how that the <span
+  class="nd">LORD</span> had delivered thee to day into mine hand in the cave:
+  and <span class="add">some</span> bade <span class="add">me</span> kill thee:
+  but <span class="add">mine eye</span> spared thee; and I said, I will not put
+  forth mine hand against my lord; for he <span class="add">is</span> the <span
+  class="nd">LORD’s</span> anointed. </p>
+id: 1SA/24/10
+next:
+  id: 1SA/24/11
+  number: '11'
+previous:
+  id: 1SA/24/9
+  number: '9'
+reference: '1 Samuel 24:10'

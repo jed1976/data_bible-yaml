@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 8:32" class="v">32</span>And
+  that which remaineth of the flesh and of the bread shall ye burn with fire.
+  </p>
+id: LEV/8/32
+next:
+  id: LEV/8/33
+  number: '33'
+previous:
+  id: LEV/8/31
+  number: '31'
+reference: 'Leviticus 8:32'

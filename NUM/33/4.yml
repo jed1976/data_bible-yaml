@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 33:4" class="v">4</span>For
+  the Egyptians buried all <span class="add">their</span> firstborn, which the
+  <span class="nd">LORD</span> had smitten among them: upon their gods also the
+  <span class="nd">LORD</span> executed judgments. </p>
+id: NUM/33/4
+next:
+  id: NUM/33/5
+  number: '5'
+previous:
+  id: NUM/33/3
+  number: '3'
+reference: 'Numbers 33:4'

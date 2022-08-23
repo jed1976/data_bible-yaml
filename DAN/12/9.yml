@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 12:9" class="v">9</span>And
+  he said, Go thy way, Daniel: for the words <span class="add">are</span> closed
+  up and sealed till the time of the end. </p>
+id: DAN/12/9
+next:
+  id: DAN/12/10
+  number: '10'
+previous:
+  id: DAN/12/8
+  number: '8'
+reference: 'Daniel 12:9'

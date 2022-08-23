@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CH 16:20"
+  class="v">20</span>And <span class="add">when</span> they went from nation to
+  nation, and from <span class="add">one</span> kingdom to another people; </p>
+id: 1CH/16/20
+next:
+  id: 1CH/16/21
+  number: '21'
+previous:
+  id: 1CH/16/19
+  number: '19'
+reference: '1 Chronicles 16:20'

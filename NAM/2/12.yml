@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NAM 2:12" class="v">12</span>The
+  lion did tear in pieces enough for his whelps, and strangled for his
+  lionesses, and filled his holes with prey, and his dens with ravin. </p>
+id: NAM/2/12
+next:
+  id: NAM/2/13
+  number: '13'
+previous:
+  id: NAM/2/11
+  number: '11'
+reference: 'Nahum 2:12'

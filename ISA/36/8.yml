@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 36:8" class="v">8</span>Now
+  therefore give pledges, I pray thee, to my master the king of Assyria, and I
+  will give thee two thousand horses, if thou be able on thy part to set riders
+  upon them. </p>
+id: ISA/36/8
+next:
+  id: ISA/36/9
+  number: '9'
+previous:
+  id: ISA/36/7
+  number: '7'
+reference: 'Isaiah 36:8'

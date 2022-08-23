@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 17:11"
+  class="v">11</span><span class="wj">And now I am no more in the world, but
+  these are in the world, and I come to thee. Holy Father, keep through thine
+  own name those whom thou hast given me, that they may be one, as we <span
+  class="add">are</span>.</span> </p>
+id: JHN/17/11
+next:
+  id: JHN/17/12
+  number: '12'
+previous:
+  id: JHN/17/10
+  number: '10'
+reference: 'John 17:11'

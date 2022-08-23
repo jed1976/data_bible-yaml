@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 34:20"
+  class="v">20</span>But the firstling of an ass thou shalt redeem with a lamb:
+  and if thou redeem <span class="add">him</span> not, then shalt thou break his
+  neck. All the firstborn of thy sons thou shalt redeem. And none shall appear
+  before me empty.</p>
+id: EXO/34/20
+next:
+  id: EXO/34/21
+  number: '21'
+previous:
+  id: EXO/34/19
+  number: '19'
+reference: 'Exodus 34:20'

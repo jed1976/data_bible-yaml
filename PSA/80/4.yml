@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 80:4" class="v">4</span>O
+  <span class="nd">LORD</span> God of hosts, how long wilt thou be angry against
+  the prayer of thy people?</p>
+id: PSA/80/4
+next:
+  id: PSA/80/5
+  number: '5'
+previous:
+  id: PSA/80/3
+  number: '3'
+reference: 'Psalms 80:4'

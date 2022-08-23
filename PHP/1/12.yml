@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PHP 1:12" class="v">12</span>But
+  I would ye should understand, brethren, that the things <span
+  class="add">which happened</span> unto me have fallen out rather unto the
+  furtherance of the gospel; </p>
+id: PHP/1/12
+next:
+  id: PHP/1/13
+  number: '13'
+previous:
+  id: PHP/1/11
+  number: '11'
+reference: 'Philippians 1:12'

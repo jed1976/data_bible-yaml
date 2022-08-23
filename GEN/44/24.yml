@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 44:24"
+  class="v">24</span>And it came to pass when we came up unto thy servant my
+  father, we told him the words of my lord. </p>
+id: GEN/44/24
+next:
+  id: GEN/44/25
+  number: '25'
+previous:
+  id: GEN/44/23
+  number: '23'
+reference: 'Genesis 44:24'

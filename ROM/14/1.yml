@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 14:1" class="v">1</span>Him
+  that is weak in the faith receive ye, <span class="add">but</span> not to
+  doubtful disputations. </p>
+id: ROM/14/1
+next:
+  id: ROM/14/2
+  number: '2'
+previous:
+  id: ROM/13/14
+  number: '14'
+reference: 'Romans 14:1'

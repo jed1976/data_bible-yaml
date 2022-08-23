@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 15:12" class="v">12</span>A
+  scorner loveth not one that reproveth him: neither will he go unto the wise.
+  </p>
+id: PRO/15/12
+next:
+  id: PRO/15/13
+  number: '13'
+previous:
+  id: PRO/15/11
+  number: '11'
+reference: 'Proverbs 15:12'

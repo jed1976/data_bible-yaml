@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 48:12" class="v">12</span>¶
+  Hearken unto me, O Jacob and Israel, my called; I <span class="add">am</span>
+  he; I <span class="add">am</span> the first, I also <span
+  class="add">am</span> the last. </p>
+id: ISA/48/12
+next:
+  id: ISA/48/13
+  number: '13'
+previous:
+  id: ISA/48/11
+  number: '11'
+reference: 'Isaiah 48:12'

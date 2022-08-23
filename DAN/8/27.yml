@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DAN 8:27" class="v">27</span>And
+  I Daniel fainted, and was sick <span class="add">certain</span> days;
+  afterward I rose up, and did the king’s business; and I was astonished at the
+  vision, but none understood <span class="add">it</span>.</p>
+id: DAN/8/27
+next:
+  id: DAN/9/1
+  number: '1'
+previous:
+  id: DAN/8/26
+  number: '26'
+reference: 'Daniel 8:27'

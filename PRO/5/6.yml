@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 5:6" class="v">6</span>Lest
+  thou shouldest ponder the path of life, her ways are moveable, <span
+  class="add">that</span> thou canst not know <span class="add">them</span>.
+  </p>
+id: PRO/5/6
+next:
+  id: PRO/5/7
+  number: '7'
+previous:
+  id: PRO/5/5
+  number: '5'
+reference: 'Proverbs 5:6'

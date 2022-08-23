@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 4:1" class="v">1</span>Hear
+  the word of the <span class="nd">LORD</span>, ye children of Israel: for the
+  <span class="nd">LORD</span> hath a controversy with the inhabitants of the
+  land, because <span class="add">there is</span> no truth, nor mercy, nor
+  knowledge of God in the land. </p>
+id: HOS/4/1
+next:
+  id: HOS/4/2
+  number: '2'
+previous:
+  id: HOS/3/5
+  number: '5'
+reference: 'Hosea 4:1'

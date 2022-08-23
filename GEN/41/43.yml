@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 41:43"
+  class="v">43</span>And he made him to ride in the second chariot which he had;
+  and they cried before him, Bow the knee: and he made him <span
+  class="add">ruler</span> over all the land of Egypt. </p>
+id: GEN/41/43
+next:
+  id: GEN/41/44
+  number: '44'
+previous:
+  id: GEN/41/42
+  number: '42'
+reference: 'Genesis 41:43'

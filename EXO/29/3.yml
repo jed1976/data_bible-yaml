@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 29:3" class="v">3</span>And
+  thou shalt put them into one basket, and bring them in the basket, with the
+  bullock and the two rams. </p>
+id: EXO/29/3
+next:
+  id: EXO/29/4
+  number: '4'
+previous:
+  id: EXO/29/2
+  number: '2'
+reference: 'Exodus 29:3'

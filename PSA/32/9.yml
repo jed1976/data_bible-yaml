@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 32:9" class="v">9</span>Be
+  ye not as the horse, <span class="add">or</span> as the mule, <span
+  class="add">which</span> have no understanding: whose mouth must be held in
+  with bit and bridle, lest they come near unto thee.</p>
+id: PSA/32/9
+next:
+  id: PSA/32/10
+  number: '10'
+previous:
+  id: PSA/32/8
+  number: '8'
+reference: 'Psalms 32:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 17:15" class="v">15</span>He
+  that justifieth the wicked, and he that condemneth the just, even they both
+  <span class="add">are</span> abomination to the <span class="nd">LORD</span>.
+  </p>
+id: PRO/17/15
+next:
+  id: PRO/17/16
+  number: '16'
+previous:
+  id: PRO/17/14
+  number: '14'
+reference: 'Proverbs 17:15'

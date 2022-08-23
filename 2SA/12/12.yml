@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 12:12"
+  class="v">12</span>For thou didst <span class="add">it</span> secretly: but I
+  will do this thing before all Israel, and before the sun. </p>
+id: 2SA/12/12
+next:
+  id: 2SA/12/13
+  number: '13'
+previous:
+  id: 2SA/12/11
+  number: '11'
+reference: '2 Samuel 12:12'

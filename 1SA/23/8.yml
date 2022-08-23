@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1SA 23:8" class="v">8</span>And
+  Saul called all the people together to war, to go down to Keilah, to besiege
+  David and his men.</p>
+id: 1SA/23/8
+next:
+  id: 1SA/23/9
+  number: '9'
+previous:
+  id: 1SA/23/7
+  number: '7'
+reference: '1 Samuel 23:8'

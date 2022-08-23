@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HAB 3:15"
+  class="v">15</span>Thou didst walk through the sea with thine horses, <span
+  class="add">through</span> the heap of great waters.</p>
+id: HAB/3/15
+next:
+  id: HAB/3/16
+  number: '16'
+previous:
+  id: HAB/3/14
+  number: '14'
+reference: 'Habakkuk 3:15'

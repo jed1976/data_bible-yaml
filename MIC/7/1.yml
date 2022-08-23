@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 7:1" class="v">1</span>Woe is
+  me! for I am as when they have gathered the summer fruits, as the
+  grapegleanings of the vintage: <span class="add">there is</span> no cluster to
+  eat: my soul desired the firstripe fruit. </p>
+id: MIC/7/1
+next:
+  id: MIC/7/2
+  number: '2'
+previous:
+  id: MIC/6/16
+  number: '16'
+reference: 'Micah 7:1'

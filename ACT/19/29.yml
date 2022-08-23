@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 19:29"
+  class="v">29</span>And the whole city was filled with confusion: and having
+  caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel,
+  they rushed with one accord into the theatre. </p>
+id: ACT/19/29
+next:
+  id: ACT/19/30
+  number: '30'
+previous:
+  id: ACT/19/28
+  number: '28'
+reference: 'Acts 19:29'

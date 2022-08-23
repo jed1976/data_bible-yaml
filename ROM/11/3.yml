@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 11:3" class="v">3</span>Lord,
+  they have killed thy prophets, and digged down thine altars; and I am left
+  alone, and they seek my life. </p>
+id: ROM/11/3
+next:
+  id: ROM/11/4
+  number: '4'
+previous:
+  id: ROM/11/2
+  number: '2'
+reference: 'Romans 11:3'

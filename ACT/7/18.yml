@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 7:18"
+  class="v">18</span>Till another king arose, which knew not Joseph. </p>
+id: ACT/7/18
+next:
+  id: ACT/7/19
+  number: '19'
+previous:
+  id: ACT/7/17
+  number: '17'
+reference: 'Acts 7:18'

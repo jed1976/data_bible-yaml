@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 45:12"
+  class="v">12</span>And, behold, your eyes see, and the eyes of my brother
+  Benjamin, that <span class="add">it is</span> my mouth that speaketh unto you.
+  </p>
+id: GEN/45/12
+next:
+  id: GEN/45/13
+  number: '13'
+previous:
+  id: GEN/45/11
+  number: '11'
+reference: 'Genesis 45:12'

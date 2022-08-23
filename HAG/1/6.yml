@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HAG 1:6" class="v">6</span>Ye
+  have sown much, and bring in little; ye eat, but ye have not enough; ye drink,
+  but ye are not filled with drink; ye clothe you, but there is none warm; and
+  he that earneth wages earneth wages <span class="add">to put it</span> into a
+  bag with holes.</p>
+id: HAG/1/6
+next:
+  id: HAG/1/7
+  number: '7'
+previous:
+  id: HAG/1/5
+  number: '5'
+reference: 'Haggai 1:6'

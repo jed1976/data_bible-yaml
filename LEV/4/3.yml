@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 4:3" class="v">3</span>If the
+  priest that is anointed do sin according to the sin of the people; then let
+  him bring for his sin, which he hath sinned, a young bullock without blemish
+  unto the <span class="nd">LORD</span> for a sin offering. </p>
+id: LEV/4/3
+next:
+  id: LEV/4/4
+  number: '4'
+previous:
+  id: LEV/4/2
+  number: '2'
+reference: 'Leviticus 4:3'

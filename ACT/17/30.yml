@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 17:30"
+  class="v">30</span>And the times of this ignorance God winked at; but now
+  commandeth all men every where to repent: </p>
+id: ACT/17/30
+next:
+  id: ACT/17/31
+  number: '31'
+previous:
+  id: ACT/17/29
+  number: '29'
+reference: 'Acts 17:30'

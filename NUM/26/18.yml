@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 26:18"
+  class="v">18</span>These <span class="add">are</span> the families of the
+  children of Gad according to those that were numbered of them, forty thousand
+  and five hundred.</p>
+id: NUM/26/18
+next:
+  id: NUM/26/19
+  number: '19'
+previous:
+  id: NUM/26/17
+  number: '17'
+reference: 'Numbers 26:18'

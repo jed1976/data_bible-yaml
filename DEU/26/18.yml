@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 26:18"
+  class="v">18</span>And the <span class="nd">LORD</span> hath avouched thee
+  this day to be his peculiar people, as he hath promised thee, and that <span
+  class="add">thou</span> shouldest keep all his commandments; </p>
+id: DEU/26/18
+next:
+  id: DEU/26/19
+  number: '19'
+previous:
+  id: DEU/26/17
+  number: '17'
+reference: 'Deuteronomy 26:18'

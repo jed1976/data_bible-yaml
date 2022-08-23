@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1SA 2:18" class="v">18</span>¶
+  But Samuel ministered before the <span class="nd">LORD</span>, <span
+  class="add">being</span> a child, girded with a linen ephod. </p>
+id: 1SA/2/18
+next:
+  id: 1SA/2/19
+  number: '19'
+previous:
+  id: 1SA/2/17
+  number: '17'
+reference: '1 Samuel 2:18'

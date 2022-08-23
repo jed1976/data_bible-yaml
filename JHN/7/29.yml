@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 7:29"
+  class="v">29</span><span class="wj">But I know him: for I am from him, and he
+  hath sent me.</span> </p>
+id: JHN/7/29
+next:
+  id: JHN/7/30
+  number: '30'
+previous:
+  id: JHN/7/28
+  number: '28'
+reference: 'John 7:29'

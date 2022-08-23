@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1PE 1:1" class="v">1</span>Peter,
+  an apostle of Jesus Christ, to the strangers scattered throughout Pontus,
+  Galatia, Cappadocia, Asia, and Bithynia, </p>
+id: 1PE/1/1
+next:
+  id: 1PE/1/2
+  number: '2'
+previous:
+  id: 1PE/intro/0
+  number: '0'
+reference: '1 Peter 1:1'

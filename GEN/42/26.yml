@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 42:26"
+  class="v">26</span>And they laded their asses with the corn, and departed
+  thence. </p>
+id: GEN/42/26
+next:
+  id: GEN/42/27
+  number: '27'
+previous:
+  id: GEN/42/25
+  number: '25'
+reference: 'Genesis 42:26'

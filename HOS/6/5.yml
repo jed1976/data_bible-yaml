@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 6:5"
+  class="v">5</span>Therefore have I hewed <span class="add">them</span> by the
+  prophets; I have slain them by the words of my mouth: and thy judgments <span
+  class="add">are as</span> the light <span class="add">that</span> goeth forth.
+  </p>
+id: HOS/6/5
+next:
+  id: HOS/6/6
+  number: '6'
+previous:
+  id: HOS/6/4
+  number: '4'
+reference: 'Hosea 6:5'

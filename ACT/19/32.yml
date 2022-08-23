@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 19:32"
+  class="v">32</span>Some therefore cried one thing, and some another: for the
+  assembly was confused; and the more part knew not wherefore they were come
+  together. </p>
+id: ACT/19/32
+next:
+  id: ACT/19/33
+  number: '33'
+previous:
+  id: ACT/19/31
+  number: '31'
+reference: 'Acts 19:32'

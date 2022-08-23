@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 4:30" class="v">30</span>And
+  Aaron spake all the words which the <span class="nd">LORD</span> had spoken
+  unto Moses, and did the signs in the sight of the people. </p>
+id: EXO/4/30
+next:
+  id: EXO/4/31
+  number: '31'
+previous:
+  id: EXO/4/29
+  number: '29'
+reference: 'Exodus 4:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 12:17"
+  class="v">17</span><span class="wj">And he thought within himself, saying,
+  What shall I do, because I have no room where to bestow my fruits?</span> </p>
+id: LUK/12/17
+next:
+  id: LUK/12/18
+  number: '18'
+previous:
+  id: LUK/12/16
+  number: '16'
+reference: 'Luke 12:17'

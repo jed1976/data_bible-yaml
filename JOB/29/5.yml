@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 29:5" class="v">5</span>When
+  the Almighty <span class="add">was</span> yet with me, <span
+  class="add">when</span> my children <span class="add">were</span> about me;
+  </p>
+id: JOB/29/5
+next:
+  id: JOB/29/6
+  number: '6'
+previous:
+  id: JOB/29/4
+  number: '4'
+reference: 'Job 29:5'

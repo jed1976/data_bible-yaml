@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 15:17"
+  class="v">17</span>And they clothed him with purple, and platted a crown of
+  thorns, and put it about his <span class="add">head</span>, </p>
+id: MRK/15/17
+next:
+  id: MRK/15/18
+  number: '18'
+previous:
+  id: MRK/15/16
+  number: '16'
+reference: 'Mark 15:17'

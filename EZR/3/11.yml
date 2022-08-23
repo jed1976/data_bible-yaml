@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZR 3:11" class="v">11</span>And
+  they sang together by course in praising and giving thanks unto the <span
+  class="nd">LORD</span>; because <span class="add">he is</span> good, for his
+  mercy <span class="add">endureth</span> for ever toward Israel. And all the
+  people shouted with a great shout, when they praised the <span
+  class="nd">LORD</span>, because the foundation of the house of the <span
+  class="nd">LORD</span> was laid. </p>
+id: EZR/3/11
+next:
+  id: EZR/3/12
+  number: '12'
+previous:
+  id: EZR/3/10
+  number: '10'
+reference: 'Ezra 3:11'

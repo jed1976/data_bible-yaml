@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 2:40" class="v">40</span>And
+  the child grew, and waxed strong in spirit, filled with wisdom: and the grace
+  of God was upon him. </p>
+id: LUK/2/40
+next:
+  id: LUK/2/41
+  number: '41'
+previous:
+  id: LUK/2/39
+  number: '39'
+reference: 'Luke 2:40'

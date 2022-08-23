@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 5:17"
+  class="v">17</span><span class="wj">¶ Think not that I am come to destroy the
+  law, or the prophets: I am not come to destroy, but to fulfil.</span> </p>
+id: MAT/5/17
+next:
+  id: MAT/5/18
+  number: '18'
+previous:
+  id: MAT/5/16
+  number: '16'
+reference: 'Matthew 5:17'

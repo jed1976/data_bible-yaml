@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 9:5" class="v">5</span>We
+  have sinned, and have committed iniquity, and have done wickedly, and have
+  rebelled, even by departing from thy precepts and from thy judgments: </p>
+id: DAN/9/5
+next:
+  id: DAN/9/6
+  number: '6'
+previous:
+  id: DAN/9/4
+  number: '4'
+reference: 'Daniel 9:5'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 20:7" class="v">7</span>Now
+  therefore restore the man <span class="add">his</span> wife; for he <span
+  class="add">is</span> a prophet, and he shall pray for thee, and thou shalt
+  live: and if thou restore <span class="add">her</span> not, know thou that
+  thou shalt surely die, thou, and all that <span class="add">are</span>
+  thine.</p>
+id: GEN/20/7
+next:
+  id: GEN/20/8
+  number: '8'
+previous:
+  id: GEN/20/6
+  number: '6'
+reference: 'Genesis 20:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 11:3"
+  class="v">3</span>Saying, Thou wentest in to men uncircumcised, and didst eat
+  with them. </p>
+id: ACT/11/3
+next:
+  id: ACT/11/4
+  number: '4'
+previous:
+  id: ACT/11/2
+  number: '2'
+reference: 'Acts 11:3'

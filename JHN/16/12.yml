@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 16:12"
+  class="v">12</span><span class="wj">I have yet many things to say unto you,
+  but ye cannot bear them now.</span> </p>
+id: JHN/16/12
+next:
+  id: JHN/16/13
+  number: '13'
+previous:
+  id: JHN/16/11
+  number: '11'
+reference: 'John 16:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 17:21"
+  class="v">21</span>(For all the Athenians and strangers which were there spent
+  their time in nothing else, but either to tell, or to hear some new
+  thing.)</p>
+id: ACT/17/21
+next:
+  id: ACT/17/22
+  number: '22'
+previous:
+  id: ACT/17/20
+  number: '20'
+reference: 'Acts 17:21'

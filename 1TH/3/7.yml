@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1TH 3:7"
+  class="v">7</span>Therefore, brethren, we were comforted over you in all our
+  affliction and distress by your faith: </p>
+id: 1TH/3/7
+next:
+  id: 1TH/3/8
+  number: '8'
+previous:
+  id: 1TH/3/6
+  number: '6'
+reference: '1 Thessalonians 3:7'

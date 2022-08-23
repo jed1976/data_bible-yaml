@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 3:9" class="v">9</span>Let
+  the stars of the twilight thereof be dark; let it look for light, but <span
+  class="add">have</span> none; neither let it see the dawning of the day: </p>
+id: JOB/3/9
+next:
+  id: JOB/3/10
+  number: '10'
+previous:
+  id: JOB/3/8
+  number: '8'
+reference: 'Job 3:9'

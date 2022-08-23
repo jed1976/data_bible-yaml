@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 19:27"
+  class="v">27</span><span class="wj">But those mine enemies, which would not
+  that I should reign over them, bring hither, and slay <span
+  class="add">them</span> before me.</span></p>
+id: LUK/19/27
+next:
+  id: LUK/19/28
+  number: '28'
+previous:
+  id: LUK/19/26
+  number: '26'
+reference: 'Luke 19:27'

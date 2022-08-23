@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 14:4" class="v">4</span>Then
+  shall the priest command to take for him that is to be cleansed two birds
+  alive <span class="add">and</span> clean, and cedar wood, and scarlet, and
+  hyssop: </p>
+id: LEV/14/4
+next:
+  id: LEV/14/5
+  number: '5'
+previous:
+  id: LEV/14/3
+  number: '3'
+reference: 'Leviticus 14:4'

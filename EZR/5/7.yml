@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZR 5:7" class="v">7</span>They
+  sent a letter unto him, wherein was written thus; Unto Darius the king, all
+  peace. </p>
+id: EZR/5/7
+next:
+  id: EZR/5/8
+  number: '8'
+previous:
+  id: EZR/5/6
+  number: '6'
+reference: 'Ezra 5:7'

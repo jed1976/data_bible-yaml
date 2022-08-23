@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 6:5" class="v">5</span>And it
+  shall come to pass, that when they make a long <span class="add">blast</span>
+  with the ram’s horn, <span class="add">and</span> when ye hear the sound of
+  the trumpet, all the people shall shout with a great shout; and the wall of
+  the city shall fall down flat, and the people shall ascend up every man
+  straight before him.</p>
+id: JOS/6/5
+next:
+  id: JOS/6/6
+  number: '6'
+previous:
+  id: JOS/6/4
+  number: '4'
+reference: 'Joshua 6:5'

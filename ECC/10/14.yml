@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 10:14" class="v">14</span>A
+  fool also is full of words: a man cannot tell what shall be; and what shall be
+  after him, who can tell him? </p>
+id: ECC/10/14
+next:
+  id: ECC/10/15
+  number: '15'
+previous:
+  id: ECC/10/13
+  number: '13'
+reference: 'Ecclesiastes 10:14'

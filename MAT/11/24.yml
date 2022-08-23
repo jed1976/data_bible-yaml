@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 11:24"
+  class="v">24</span><span class="wj">But I say unto you, That it shall be more
+  tolerable for the land of Sodom in the day of judgment, than for
+  thee.</span></p>
+id: MAT/11/24
+next:
+  id: MAT/11/25
+  number: '25'
+previous:
+  id: MAT/11/23
+  number: '23'
+reference: 'Matthew 11:24'

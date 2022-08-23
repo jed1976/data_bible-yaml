@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 15:9" class="v">9</span><span
+  class="wj">As the Father hath loved me, so have I loved you: continue ye in my
+  love.</span> </p>
+id: JHN/15/9
+next:
+  id: JHN/15/10
+  number: '10'
+previous:
+  id: JHN/15/8
+  number: '8'
+reference: 'John 15:9'

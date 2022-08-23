@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DEU 5:33" class="v">33</span>Ye
+  shall walk in all the ways which the <span class="nd">LORD</span> your God
+  hath commanded you, that ye may live, and <span class="add">that it may
+  be</span> well with you, and <span class="add">that</span> ye may prolong
+  <span class="add">your</span> days in the land which ye shall possess.</p>
+id: DEU/5/33
+next:
+  id: DEU/6/1
+  number: '1'
+previous:
+  id: DEU/5/32
+  number: '32'
+reference: 'Deuteronomy 5:33'

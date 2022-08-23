@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="COL 1:12"
+  class="v">12</span>Giving thanks unto the Father, which hath made us meet to
+  be partakers of the inheritance of the saints in light: </p>
+id: COL/1/12
+next:
+  id: COL/1/13
+  number: '13'
+previous:
+  id: COL/1/11
+  number: '11'
+reference: 'Colossians 1:12'

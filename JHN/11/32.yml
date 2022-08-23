@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 11:32"
+  class="v">32</span>Then when Mary was come where Jesus was, and saw him, she
+  fell down at his feet, saying unto him, Lord, if thou hadst been here, my
+  brother had not died. </p>
+id: JHN/11/32
+next:
+  id: JHN/11/33
+  number: '33'
+previous:
+  id: JHN/11/31
+  number: '31'
+reference: 'John 11:32'

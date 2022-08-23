@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 6:6" class="v">6</span>And it
+  repented the <span class="nd">LORD</span> that he had made man on the earth,
+  and it grieved him at his heart. </p>
+id: GEN/6/6
+next:
+  id: GEN/6/7
+  number: '7'
+previous:
+  id: GEN/6/5
+  number: '5'
+reference: 'Genesis 6:6'

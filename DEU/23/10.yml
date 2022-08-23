@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 23:10" class="v">10</span>¶
+  If there be among you any man, that is not clean by reason of uncleanness that
+  chanceth him by night, then shall he go abroad out of the camp, he shall not
+  come within the camp: </p>
+id: DEU/23/10
+next:
+  id: DEU/23/11
+  number: '11'
+previous:
+  id: DEU/23/9
+  number: '9'
+reference: 'Deuteronomy 23:10'

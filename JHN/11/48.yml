@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="JHN 11:48" class="v">48</span>If
+  we let him thus alone, all <span class="add">men</span> will believe on him:
+  and the Romans shall come and take away both our place and nation. </p>
+id: JHN/11/48
+next:
+  id: JHN/11/49
+  number: '49'
+previous:
+  id: JHN/11/47
+  number: '47'
+reference: 'John 11:48'

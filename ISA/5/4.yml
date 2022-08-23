@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 5:4" class="v">4</span>What
+  could have been done more to my vineyard, that I have not done in it?
+  wherefore, when I looked that it should bring forth grapes, brought it forth
+  wild grapes? </p>
+id: ISA/5/4
+next:
+  id: ISA/5/5
+  number: '5'
+previous:
+  id: ISA/5/3
+  number: '3'
+reference: 'Isaiah 5:4'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 4:15" class="v">15</span>And
+  when Aaron and his sons have made an end of covering the sanctuary, and all
+  the vessels of the sanctuary, as the camp is to set forward; after that, the
+  sons of Kohath shall come to bear <span class="add">it:</span> but they shall
+  not touch <span class="add">any</span> holy thing, lest they die. These <span
+  class="add">things are</span> the burden of the sons of Kohath in the
+  tabernacle of the congregation.</p>
+id: NUM/4/15
+next:
+  id: NUM/4/16
+  number: '16'
+previous:
+  id: NUM/4/14
+  number: '14'
+reference: 'Numbers 4:15'

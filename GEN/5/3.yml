@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 5:3" class="v">3</span>¶ And
+  Adam lived an hundred and thirty years, and begat <span class="add">a
+  son</span> in his own likeness, after his image; and called his name Seth:
+  </p>
+id: GEN/5/3
+next:
+  id: GEN/5/4
+  number: '4'
+previous:
+  id: GEN/5/2
+  number: '2'
+reference: 'Genesis 5:3'

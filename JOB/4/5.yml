@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 4:5" class="v">5</span>But
+  now it is come upon thee, and thou faintest; it toucheth thee, and thou art
+  troubled. </p>
+id: JOB/4/5
+next:
+  id: JOB/4/6
+  number: '6'
+previous:
+  id: JOB/4/4
+  number: '4'
+reference: 'Job 4:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 4:11" class="v">11</span>And
+  our adversaries said, They shall not know, neither see, till we come in the
+  midst among them, and slay them, and cause the work to cease. </p>
+id: NEH/4/11
+next:
+  id: NEH/4/12
+  number: '12'
+previous:
+  id: NEH/4/10
+  number: '10'
+reference: 'Nehemiah 4:11'

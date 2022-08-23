@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CO 11:11"
+  class="v">11</span>Nevertheless neither is the man without the woman, neither
+  the woman without the man, in the Lord. </p>
+id: 1CO/11/11
+next:
+  id: 1CO/11/12
+  number: '12'
+previous:
+  id: 1CO/11/10
+  number: '10'
+reference: '1 Corinthians 11:11'

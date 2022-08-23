@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 3:3" class="v">3</span>¶ Now
+  these <span class="add">are the things wherein</span> Solomon was instructed
+  for the building of the house of God. The length by cubits after the first
+  measure <span class="add">was</span> threescore cubits, and the breadth twenty
+  cubits. </p>
+id: 2CH/3/3
+next:
+  id: 2CH/3/4
+  number: '4'
+previous:
+  id: 2CH/3/2
+  number: '2'
+reference: '2 Chronicles 3:3'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 23:3" class="v">3</span>¶ And
+  the king stood by a pillar, and made a covenant before the <span
+  class="nd">LORD</span>, to walk after the <span class="nd">LORD</span>, and to
+  keep his commandments and his testimonies and his statutes with all <span
+  class="add">their</span> heart and all <span class="add">their</span> soul, to
+  perform the words of this covenant that were written in this book. And all the
+  people stood to the covenant.</p>
+id: 2KI/23/3
+next:
+  id: 2KI/23/4
+  number: '4'
+previous:
+  id: 2KI/23/2
+  number: '2'
+reference: '2 Kings 23:3'

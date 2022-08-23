@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 53:3"
+  class="v">3</span>Every one of them is gone back: they are altogether become
+  filthy; <span class="add">there is</span> none that doeth good, no, not
+  one.</p>
+id: PSA/53/3
+next:
+  id: PSA/53/4
+  number: '4'
+previous:
+  id: PSA/53/2
+  number: '2'
+reference: 'Psalms 53:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EPH 1:6" class="v">6</span>To the
+  praise of the glory of his grace, wherein he hath made us accepted in the
+  beloved. </p>
+id: EPH/1/6
+next:
+  id: EPH/1/7
+  number: '7'
+previous:
+  id: EPH/1/5
+  number: '5'
+reference: 'Ephesians 1:6'

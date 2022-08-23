@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 14:7" class="v">7</span>And
+  they spake unto all the company of the children of Israel, saying, The land,
+  which we passed through to search it, <span class="add">is</span> an exceeding
+  good land. </p>
+id: NUM/14/7
+next:
+  id: NUM/14/8
+  number: '8'
+previous:
+  id: NUM/14/6
+  number: '6'
+reference: 'Numbers 14:7'

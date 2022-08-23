@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 7:15" class="v">15</span>So
+  that my soul chooseth strangling, <span class="add">and</span> death rather
+  than my life. </p>
+id: JOB/7/15
+next:
+  id: JOB/7/16
+  number: '16'
+previous:
+  id: JOB/7/14
+  number: '14'
+reference: 'Job 7:15'

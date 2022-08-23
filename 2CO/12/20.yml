@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CO 12:20"
+  class="v">20</span>For I fear, lest, when I come, I shall not find you such as
+  I would, and <span class="add">that</span> I shall be found unto you such as
+  ye would not: lest <span class="add">there be</span> debates, envyings,
+  wraths, strifes, backbitings, whisperings, swellings, tumults: </p>
+id: 2CO/12/20
+next:
+  id: 2CO/12/21
+  number: '21'
+previous:
+  id: 2CO/12/19
+  number: '19'
+reference: '2 Corinthians 12:20'

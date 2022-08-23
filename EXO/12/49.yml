@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="EXO 12:49"
+  class="v">49</span>One law shall be to him that is homeborn, and unto the
+  stranger that sojourneth among you. </p>
+id: EXO/12/49
+next:
+  id: EXO/12/50
+  number: '50'
+previous:
+  id: EXO/12/48
+  number: '48'
+reference: 'Exodus 12:49'

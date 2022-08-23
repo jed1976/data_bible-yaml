@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 130:3" class="v">3</span>If
+  thou, <span class="nd">LORD</span>, shouldest mark iniquities, O Lord, who
+  shall stand?</p>
+id: PSA/130/3
+next:
+  id: PSA/130/4
+  number: '4'
+previous:
+  id: PSA/130/2
+  number: '2'
+reference: 'Psalms 130:3'

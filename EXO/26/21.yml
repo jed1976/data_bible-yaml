@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 26:21"
+  class="v">21</span>And their forty sockets <span class="add">of</span> silver;
+  two sockets under one board, and two sockets under another board. </p>
+id: EXO/26/21
+next:
+  id: EXO/26/22
+  number: '22'
+previous:
+  id: EXO/26/20
+  number: '20'
+reference: 'Exodus 26:21'

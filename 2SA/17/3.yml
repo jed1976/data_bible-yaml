@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 17:3" class="v">3</span>And I
+  will bring back all the people unto thee: the man whom thou seekest <span
+  class="add">is</span> as if all returned: <span class="add">so</span> all the
+  people shall be in peace. </p>
+id: 2SA/17/3
+next:
+  id: 2SA/17/4
+  number: '4'
+previous:
+  id: 2SA/17/2
+  number: '2'
+reference: '2 Samuel 17:3'

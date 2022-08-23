@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 2:11" class="v">11</span>¶
+  And the children of Israel did evil in the sight of the <span
+  class="nd">LORD</span>, and served Baalim: </p>
+id: JDG/2/11
+next:
+  id: JDG/2/12
+  number: '12'
+previous:
+  id: JDG/2/10
+  number: '10'
+reference: 'Judges 2:11'

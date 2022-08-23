@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 3:9" class="v">9</span>If it
+  please the king, let it be written that they may be destroyed: and I will pay
+  ten thousand talents of silver to the hands of those that have the charge of
+  the business, to bring <span class="add">it</span> into the king’s treasuries.
+  </p>
+id: EST/3/9
+next:
+  id: EST/3/10
+  number: '10'
+previous:
+  id: EST/3/8
+  number: '8'
+reference: 'Esther 3:9'

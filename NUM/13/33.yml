@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 13:33"
+  class="v">33</span>And there we saw the giants, the sons of Anak, <span
+  class="add">which come</span> of the giants: and we were in our own sight as
+  grasshoppers, and so we were in their sight.</p>
+id: NUM/13/33
+next:
+  id: NUM/14/1
+  number: '1'
+previous:
+  id: NUM/13/32
+  number: '32'
+reference: 'Numbers 13:33'

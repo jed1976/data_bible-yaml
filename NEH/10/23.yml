@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 10:23"
+  class="v">23</span>Hoshea, Hananiah, Hashub, </p>
+id: NEH/10/23
+next:
+  id: NEH/10/24
+  number: '24'
+previous:
+  id: NEH/10/22
+  number: '22'
+reference: 'Nehemiah 10:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="21" data-sid="PSA 37:21"
+  class="v">21</span>The wicked borroweth, and payeth not again: but the
+  righteous sheweth mercy, and giveth.</p>
+id: PSA/37/21
+next:
+  id: PSA/37/22
+  number: '22'
+previous:
+  id: PSA/37/20
+  number: '20'
+reference: 'Psalms 37:21'

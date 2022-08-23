@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 66:4" class="v">4</span>I
+  also will choose their delusions, and will bring their fears upon them;
+  because when I called, none did answer; when I spake, they did not hear: but
+  they did evil before mine eyes, and chose <span class="add">that</span> in
+  which I delighted not.</p>
+id: ISA/66/4
+next:
+  id: ISA/66/5
+  number: '5'
+previous:
+  id: ISA/66/3
+  number: '3'
+reference: 'Isaiah 66:4'

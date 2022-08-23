@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZR 6:3" class="v">3</span>In the
+  first year of Cyrus the king <span class="add">the same</span> Cyrus the king
+  made a decree <span class="add">concerning</span> the house of God at
+  Jerusalem, Let the house be builded, the place where they offered sacrifices,
+  and let the foundations thereof be strongly laid; the height thereof
+  threescore cubits, <span class="add">and</span> the breadth thereof threescore
+  cubits; </p>
+id: EZR/6/3
+next:
+  id: EZR/6/4
+  number: '4'
+previous:
+  id: EZR/6/2
+  number: '2'
+reference: 'Ezra 6:3'

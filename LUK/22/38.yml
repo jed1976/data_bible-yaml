@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 22:38"
+  class="v">38</span>And they said, Lord, behold, here <span
+  class="add">are</span> two swords. And he said unto them, <span class="wj">It
+  is enough.</span></p>
+id: LUK/22/38
+next:
+  id: LUK/22/39
+  number: '39'
+previous:
+  id: LUK/22/37
+  number: '37'
+reference: 'Luke 22:38'

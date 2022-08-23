@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 26:18"
+  class="v">18</span>Micah the Morasthite prophesied in the days of Hezekiah
+  king of Judah, and spake to all the people of Judah, saying, Thus saith the
+  <span class="nd">LORD</span> of hosts; Zion shall be plowed <span
+  class="add">like</span> a field, and Jerusalem shall become heaps, and the
+  mountain of the house as the high places of a forest. </p>
+id: JER/26/18
+next:
+  id: JER/26/19
+  number: '19'
+previous:
+  id: JER/26/17
+  number: '17'
+reference: 'Jeremiah 26:18'

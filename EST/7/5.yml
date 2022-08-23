@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 7:5" class="v">5</span>¶ Then
+  the king Ahasuerus answered and said unto Esther the queen, Who is he, and
+  where is he, that durst presume in his heart to do so? </p>
+id: EST/7/5
+next:
+  id: EST/7/6
+  number: '6'
+previous:
+  id: EST/7/4
+  number: '4'
+reference: 'Esther 7:5'

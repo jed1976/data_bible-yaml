@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 20:21"
+  class="v">21</span>Thus Edom refused to give Israel passage through his
+  border: wherefore Israel turned away from him.</p>
+id: NUM/20/21
+next:
+  id: NUM/20/22
+  number: '22'
+previous:
+  id: NUM/20/20
+  number: '20'
+reference: 'Numbers 20:21'

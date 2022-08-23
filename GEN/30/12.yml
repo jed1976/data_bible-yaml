@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 30:12"
+  class="v">12</span>And Zilpah Leah’s maid bare Jacob a second son. </p>
+id: GEN/30/12
+next:
+  id: GEN/30/13
+  number: '13'
+previous:
+  id: GEN/30/11
+  number: '11'
+reference: 'Genesis 30:12'

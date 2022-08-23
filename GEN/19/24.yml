@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 19:24"
+  class="v">24</span>Then the <span class="nd">LORD</span> rained upon Sodom and
+  upon Gomorrah brimstone and fire from the <span class="nd">LORD</span> out of
+  heaven; </p>
+id: GEN/19/24
+next:
+  id: GEN/19/25
+  number: '25'
+previous:
+  id: GEN/19/23
+  number: '23'
+reference: 'Genesis 19:24'

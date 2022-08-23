@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2SA 23:26"
+  class="v">26</span>Helez the Paltite, Ira the son of Ikkesh the Tekoite, </p>
+id: 2SA/23/26
+next:
+  id: 2SA/23/27
+  number: '27'
+previous:
+  id: 2SA/23/25
+  number: '25'
+reference: '2 Samuel 23:26'

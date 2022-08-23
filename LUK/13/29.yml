@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 13:29"
+  class="v">29</span><span class="wj">And they shall come from the east, and
+  <span class="add">from</span> the west, and from the north, and <span
+  class="add">from</span> the south, and shall sit down in the kingdom of
+  God.</span> </p>
+id: LUK/13/29
+next:
+  id: LUK/13/30
+  number: '30'
+previous:
+  id: LUK/13/28
+  number: '28'
+reference: 'Luke 13:29'

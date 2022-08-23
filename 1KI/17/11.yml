@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 17:11"
+  class="v">11</span>And as she was going to fetch <span class="add">it</span>,
+  he called to her, and said, Bring me, I pray thee, a morsel of bread in thine
+  hand. </p>
+id: 1KI/17/11
+next:
+  id: 1KI/17/12
+  number: '12'
+previous:
+  id: 1KI/17/10
+  number: '10'
+reference: '1 Kings 17:11'

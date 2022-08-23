@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 7:21" class="v">21</span>And
+  it shall come to pass in that day, <span class="add">that</span> a man shall
+  nourish a young cow, and two sheep; </p>
+id: ISA/7/21
+next:
+  id: ISA/7/22
+  number: '22'
+previous:
+  id: ISA/7/20
+  number: '20'
+reference: 'Isaiah 7:21'

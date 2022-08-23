@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 107:42"
+  class="v">42</span>The righteous shall see <span class="add">it</span>, and
+  rejoice: and all iniquity shall stop her mouth.</p>
+id: PSA/107/42
+next:
+  id: PSA/107/43
+  number: '43'
+previous:
+  id: PSA/107/41
+  number: '41'
+reference: 'Psalms 107:42'

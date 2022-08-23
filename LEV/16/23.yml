@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 16:23"
+  class="v">23</span>And Aaron shall come into the tabernacle of the
+  congregation, and shall put off the linen garments, which he put on when he
+  went into the holy <span class="add">place</span>, and shall leave them there:
+  </p>
+id: LEV/16/23
+next:
+  id: LEV/16/24
+  number: '24'
+previous:
+  id: LEV/16/22
+  number: '22'
+reference: 'Leviticus 16:23'

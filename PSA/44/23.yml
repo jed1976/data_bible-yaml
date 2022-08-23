@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 44:23"
+  class="v">23</span>Awake, why sleepest thou, O Lord? arise, cast <span
+  class="add">us</span> not off for ever.</p>
+id: PSA/44/23
+next:
+  id: PSA/44/24
+  number: '24'
+previous:
+  id: PSA/44/22
+  number: '22'
+reference: 'Psalms 44:23'

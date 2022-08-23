@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PHP 2:23" class="v">23</span>Him
+  therefore I hope to send presently, so soon as I shall see how it will go with
+  me. </p>
+id: PHP/2/23
+next:
+  id: PHP/2/24
+  number: '24'
+previous:
+  id: PHP/2/22
+  number: '22'
+reference: 'Philippians 2:23'

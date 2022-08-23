@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="RUT 4:9" class="v">9</span>¶ And
+  Boaz said unto the elders, and <span class="add">unto</span> all the people,
+  Ye <span class="add">are</span> witnesses this day, that I have bought all
+  that <span class="add">was</span> Elimelech’s, and all that <span
+  class="add">was</span> Chilion’s and Mahlon’s, of the hand of Naomi. </p>
+id: RUT/4/9
+next:
+  id: RUT/4/10
+  number: '10'
+previous:
+  id: RUT/4/8
+  number: '8'
+reference: 'Ruth 4:9'

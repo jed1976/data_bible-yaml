@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 2:11" class="v">11</span>So
+  I came to Jerusalem, and was there three days.</p>
+id: NEH/2/11
+next:
+  id: NEH/2/12
+  number: '12'
+previous:
+  id: NEH/2/10
+  number: '10'
+reference: 'Nehemiah 2:11'

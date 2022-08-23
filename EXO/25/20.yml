@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 25:20"
+  class="v">20</span>And the cherubims shall stretch forth <span
+  class="add">their</span> wings on high, covering the mercy seat with their
+  wings, and their faces <span class="add">shall look</span> one to another;
+  toward the mercy seat shall the faces of the cherubims be. </p>
+id: EXO/25/20
+next:
+  id: EXO/25/21
+  number: '21'
+previous:
+  id: EXO/25/19
+  number: '19'
+reference: 'Exodus 25:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 28:21"
+  class="v">21</span>Seeing it is hid from the eyes of all living, and kept
+  close from the fowls of the air. </p>
+id: JOB/28/21
+next:
+  id: JOB/28/22
+  number: '22'
+previous:
+  id: JOB/28/20
+  number: '20'
+reference: 'Job 28:21'

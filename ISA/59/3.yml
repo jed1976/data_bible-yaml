@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 59:3" class="v">3</span>For
+  your hands are defiled with blood, and your fingers with iniquity; your lips
+  have spoken lies, your tongue hath muttered perverseness. </p>
+id: ISA/59/3
+next:
+  id: ISA/59/4
+  number: '4'
+previous:
+  id: ISA/59/2
+  number: '2'
+reference: 'Isaiah 59:3'

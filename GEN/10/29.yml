@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 10:29"
+  class="v">29</span>And Ophir, and Havilah, and Jobab: all these <span
+  class="add">were</span> the sons of Joktan. </p>
+id: GEN/10/29
+next:
+  id: GEN/10/30
+  number: '30'
+previous:
+  id: GEN/10/28
+  number: '28'
+reference: 'Genesis 10:29'

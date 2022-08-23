@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 7:14" class="v">14</span>And
+  he came and touched the bier: and they that bare <span class="add">him</span>
+  stood still. And he said, <span class="wj">Young man, I say unto thee,
+  Arise.</span> </p>
+id: LUK/7/14
+next:
+  id: LUK/7/15
+  number: '15'
+previous:
+  id: LUK/7/13
+  number: '13'
+reference: 'Luke 7:14'

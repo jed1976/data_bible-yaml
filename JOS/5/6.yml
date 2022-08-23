@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 5:6" class="v">6</span>For
+  the children of Israel walked forty years in the wilderness, till all the
+  people <span class="add">that were</span> men of war, which came out of Egypt,
+  were consumed, because they obeyed not the voice of the <span
+  class="nd">LORD</span>: unto whom the <span class="nd">LORD</span> sware that
+  he would not shew them the land, which the <span class="nd">LORD</span> sware
+  unto their fathers that he would give us, a land that floweth with milk and
+  honey. </p>
+id: JOS/5/6
+next:
+  id: JOS/5/7
+  number: '7'
+previous:
+  id: JOS/5/5
+  number: '5'
+reference: 'Joshua 5:6'

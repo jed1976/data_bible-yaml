@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 3:25"
+  class="v">25</span><span class="wj">And if a house be divided against itself,
+  that house cannot stand.</span> </p>
+id: MRK/3/25
+next:
+  id: MRK/3/26
+  number: '26'
+previous:
+  id: MRK/3/24
+  number: '24'
+reference: 'Mark 3:25'

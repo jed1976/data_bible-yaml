@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1KI 10:29"
+  class="v">29</span>And a chariot came up and went out of Egypt for six hundred
+  <span class="add">shekels</span> of silver, and an horse for an hundred and
+  fifty: and so for all the kings of the Hittites, and for the kings of Syria,
+  did they bring <span class="add">them</span> out by their means.</p>
+id: 1KI/10/29
+next:
+  id: 1KI/11/1
+  number: '1'
+previous:
+  id: 1KI/10/28
+  number: '28'
+reference: '1 Kings 10:29'

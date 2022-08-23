@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 6:5" class="v">5</span>That
+  chant to the sound of the viol, <span class="add">and</span> invent to
+  themselves instruments of musick, like David; </p>
+id: AMO/6/5
+next:
+  id: AMO/6/6
+  number: '6'
+previous:
+  id: AMO/6/4
+  number: '4'
+reference: 'Amos 6:5'

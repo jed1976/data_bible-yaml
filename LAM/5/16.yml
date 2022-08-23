@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LAM 5:16" class="v">16</span>The
+  crown is fallen <span class="add">from</span> our head: woe unto us, that we
+  have sinned!</p>
+id: LAM/5/16
+next:
+  id: LAM/5/17
+  number: '17'
+previous:
+  id: LAM/5/15
+  number: '15'
+reference: 'Lamentations 5:16'

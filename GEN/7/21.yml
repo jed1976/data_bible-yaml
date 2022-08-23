@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 7:21" class="v">21</span>And
+  all flesh died that moved upon the earth, both of fowl, and of cattle, and of
+  beast, and of every creeping thing that creepeth upon the earth, and every
+  man: </p>
+id: GEN/7/21
+next:
+  id: GEN/7/22
+  number: '22'
+previous:
+  id: GEN/7/20
+  number: '20'
+reference: 'Genesis 7:21'

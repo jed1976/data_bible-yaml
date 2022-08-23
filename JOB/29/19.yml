@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 29:19" class="v">19</span>My
+  root <span class="add">was</span> spread out by the waters, and the dew lay
+  all night upon my branch. </p>
+id: JOB/29/19
+next:
+  id: JOB/29/20
+  number: '20'
+previous:
+  id: JOB/29/18
+  number: '18'
+reference: 'Job 29:19'

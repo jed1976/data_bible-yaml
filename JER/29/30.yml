@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JER 29:30" class="v">30</span>¶
+  Then came the word of the <span class="nd">LORD</span> unto Jeremiah, saying,
+  </p>
+id: JER/29/30
+next:
+  id: JER/29/31
+  number: '31'
+previous:
+  id: JER/29/29
+  number: '29'
+reference: 'Jeremiah 29:30'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 20:15"
+  class="v">15</span>Jesus saith unto her, <span class="wj">Woman, why weepest
+  thou? whom seekest thou?</span> She, supposing him to be the gardener, saith
+  unto him, Sir, if thou have borne him hence, tell me where thou hast laid him,
+  and I will take him away. </p>
+id: JHN/20/15
+next:
+  id: JHN/20/16
+  number: '16'
+previous:
+  id: JHN/20/14
+  number: '14'
+reference: 'John 20:15'

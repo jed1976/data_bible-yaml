@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 21:23"
+  class="v">23</span>One dieth in his full strength, being wholly at ease and
+  quiet. </p>
+id: JOB/21/23
+next:
+  id: JOB/21/24
+  number: '24'
+previous:
+  id: JOB/21/22
+  number: '22'
+reference: 'Job 21:23'

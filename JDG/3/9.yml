@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 3:9" class="v">9</span>And
+  when the children of Israel cried unto the <span class="nd">LORD</span>, the
+  <span class="nd">LORD</span> raised up a deliverer to the children of Israel,
+  who delivered them, <span class="add">even</span> Othniel the son of Kenaz,
+  Caleb’s younger brother. </p>
+id: JDG/3/9
+next:
+  id: JDG/3/10
+  number: '10'
+previous:
+  id: JDG/3/8
+  number: '8'
+reference: 'Judges 3:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="63" data-sid="LAM 3:63"
+  class="v">63</span>Behold their sitting down, and their rising up; I <span
+  class="add">am</span> their musick.</p>
+id: LAM/3/63
+next:
+  id: LAM/3/64
+  number: '64'
+previous:
+  id: LAM/3/62
+  number: '62'
+reference: 'Lamentations 3:63'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 66:3" class="v">3</span>Say
+  unto God, How terrible <span class="add">art thou in</span> thy works! through
+  the greatness of thy power shall thine enemies submit themselves unto
+  thee.</p>
+id: PSA/66/3
+next:
+  id: PSA/66/4
+  number: '4'
+previous:
+  id: PSA/66/2
+  number: '2'
+reference: 'Psalms 66:3'

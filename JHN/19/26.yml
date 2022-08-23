@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 19:26"
+  class="v">26</span>When Jesus therefore saw his mother, and the disciple
+  standing by, whom he loved, he saith unto his mother, <span class="wj">Woman,
+  behold thy son!</span> </p>
+id: JHN/19/26
+next:
+  id: JHN/19/27
+  number: '27'
+previous:
+  id: JHN/19/25
+  number: '25'
+reference: 'John 19:26'

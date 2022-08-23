@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1PE 4:15" class="v">15</span>But
+  let none of you suffer as a murderer, or <span class="add">as</span> a thief,
+  or <span class="add">as</span> an evildoer, or as a busybody in other men’s
+  matters. </p>
+id: 1PE/4/15
+next:
+  id: 1PE/4/16
+  number: '16'
+previous:
+  id: 1PE/4/14
+  number: '14'
+reference: '1 Peter 4:15'

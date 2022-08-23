@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EZK 14:19" class="v">19</span>¶
+  Or <span class="add">if</span> I send a pestilence into that land, and pour
+  out my fury upon it in blood, to cut off from it man and beast: </p>
+id: EZK/14/19
+next:
+  id: EZK/14/20
+  number: '20'
+previous:
+  id: EZK/14/18
+  number: '18'
+reference: 'Ezekiel 14:19'

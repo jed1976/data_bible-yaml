@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 46:9"
+  class="v">9</span>Remember the former things of old: for I <span
+  class="add">am</span> God, and <span class="add">there is</span> none else;
+  <span class="add">I am</span> God, and <span class="add">there is</span> none
+  like me, </p>
+id: ISA/46/9
+next:
+  id: ISA/46/10
+  number: '10'
+previous:
+  id: ISA/46/8
+  number: '8'
+reference: 'Isaiah 46:9'

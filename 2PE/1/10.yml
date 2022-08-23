@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2PE 1:10"
+  class="v">10</span>Wherefore the rather, brethren, give diligence to make your
+  calling and election sure: for if ye do these things, ye shall never fall:
+  </p>
+id: 2PE/1/10
+next:
+  id: 2PE/1/11
+  number: '11'
+previous:
+  id: 2PE/1/9
+  number: '9'
+reference: '2 Peter 1:10'

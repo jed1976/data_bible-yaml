@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CH 30:20"
+  class="v">20</span>And the <span class="nd">LORD</span> hearkened to Hezekiah,
+  and healed the people.</p>
+id: 2CH/30/20
+next:
+  id: 2CH/30/21
+  number: '21'
+previous:
+  id: 2CH/30/19
+  number: '19'
+reference: '2 Chronicles 30:20'

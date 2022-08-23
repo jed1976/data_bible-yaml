@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 11:20" class="v">20</span>¶
+  And the residue of Israel, of the priests, <span class="add">and</span> the
+  Levites, <span class="add">were</span> in all the cities of Judah, every one
+  in his inheritance. </p>
+id: NEH/11/20
+next:
+  id: NEH/11/21
+  number: '21'
+previous:
+  id: NEH/11/19
+  number: '19'
+reference: 'Nehemiah 11:20'

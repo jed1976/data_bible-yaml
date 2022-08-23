@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 12:8" class="v">8</span>And
+  he removed from thence unto a mountain on the east of Beth-el, and pitched his
+  tent, <span class="add">having</span> Beth-el on the west, and Hai on the
+  east: and there he builded an altar unto the <span class="nd">LORD</span>, and
+  called upon the name of the <span class="nd">LORD</span>. </p>
+id: GEN/12/8
+next:
+  id: GEN/12/9
+  number: '9'
+previous:
+  id: GEN/12/7
+  number: '7'
+reference: 'Genesis 12:8'

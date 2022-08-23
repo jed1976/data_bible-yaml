@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 22:22"
+  class="v">22</span>Rob not the poor, because he <span class="add">is</span>
+  poor: neither oppress the afflicted in the gate: </p>
+id: PRO/22/22
+next:
+  id: PRO/22/23
+  number: '23'
+previous:
+  id: PRO/22/21
+  number: '21'
+reference: 'Proverbs 22:22'

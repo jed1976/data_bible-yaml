@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 91:12"
+  class="v">12</span>They shall bear thee up in <span class="add">their</span>
+  hands, lest thou dash thy foot against a stone.</p>
+id: PSA/91/12
+next:
+  id: PSA/91/13
+  number: '13'
+previous:
+  id: PSA/91/11
+  number: '11'
+reference: 'Psalms 91:12'

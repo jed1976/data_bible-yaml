@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 34:29"
+  class="v">29</span>These <span class="add">are they</span> whom the <span
+  class="nd">LORD</span> commanded to divide the inheritance unto the children
+  of Israel in the land of Canaan.</p>
+id: NUM/34/29
+next:
+  id: NUM/35/1
+  number: '1'
+previous:
+  id: NUM/34/28
+  number: '28'
+reference: 'Numbers 34:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 6:7" class="v">7</span>All
+  the labour of man <span class="add">is</span> for his mouth, and yet the
+  appetite is not filled. </p>
+id: ECC/6/7
+next:
+  id: ECC/6/8
+  number: '8'
+previous:
+  id: ECC/6/6
+  number: '6'
+reference: 'Ecclesiastes 6:7'

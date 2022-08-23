@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="COL 3:23" class="v">23</span>And
+  whatsoever ye do, do <span class="add">it</span> heartily, as to the Lord, and
+  not unto men; </p>
+id: COL/3/23
+next:
+  id: COL/3/24
+  number: '24'
+previous:
+  id: COL/3/22
+  number: '22'
+reference: 'Colossians 3:23'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 3:8" class="v">8</span>And
+  they heard the voice of the <span class="nd">LORD</span> God walking in the
+  garden in the cool of the day: and Adam and his wife hid themselves from the
+  presence of the <span class="nd">LORD</span> God amongst the trees of the
+  garden.</p>
+id: GEN/3/8
+next:
+  id: GEN/3/9
+  number: '9'
+previous:
+  id: GEN/3/7
+  number: '7'
+reference: 'Genesis 3:8'

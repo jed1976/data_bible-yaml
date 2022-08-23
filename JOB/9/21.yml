@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 9:21"
+  class="v">21</span><span class="add">Though</span> I <span
+  class="add">were</span> perfect, <span class="add">yet</span> would I not know
+  my soul: I would despise my life.</p>
+id: JOB/9/21
+next:
+  id: JOB/9/22
+  number: '22'
+previous:
+  id: JOB/9/20
+  number: '20'
+reference: 'Job 9:21'

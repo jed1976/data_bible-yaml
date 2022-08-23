@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 46:19"
+  class="v">19</span>The sons of Rachel Jacob’s wife; Joseph, and Benjamin.</p>
+id: GEN/46/19
+next:
+  id: GEN/46/20
+  number: '20'
+previous:
+  id: GEN/46/18
+  number: '18'
+reference: 'Genesis 46:19'

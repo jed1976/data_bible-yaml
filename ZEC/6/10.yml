@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 6:10"
+  class="v">10</span>Take of <span class="add">them of</span> the captivity,
+  <span class="add">even</span> of Heldai, of Tobijah, and of Jedaiah, which are
+  come from Babylon, and come thou the same day, and go into the house of Josiah
+  the son of Zephaniah; </p>
+id: ZEC/6/10
+next:
+  id: ZEC/6/11
+  number: '11'
+previous:
+  id: ZEC/6/9
+  number: '9'
+reference: 'Zechariah 6:10'

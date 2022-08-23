@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 3:11"
+  class="v">11</span>There is none that understandeth, there is none that
+  seeketh after God. </p>
+id: ROM/3/11
+next:
+  id: ROM/3/12
+  number: '12'
+previous:
+  id: ROM/3/10
+  number: '10'
+reference: 'Romans 3:11'

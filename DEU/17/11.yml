@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 17:11"
+  class="v">11</span>According to the sentence of the law which they shall teach
+  thee, and according to the judgment which they shall tell thee, thou shalt do:
+  thou shalt not decline from the sentence which they shall shew thee, <span
+  class="add">to</span> the right hand, nor <span class="add">to</span> the
+  left. </p>
+id: DEU/17/11
+next:
+  id: DEU/17/12
+  number: '12'
+previous:
+  id: DEU/17/10
+  number: '10'
+reference: 'Deuteronomy 17:11'

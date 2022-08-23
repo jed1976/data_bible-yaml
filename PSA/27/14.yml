@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 27:14"
+  class="v">14</span>Wait on the <span class="nd">LORD</span>: be of good
+  courage, and he shall strengthen thine heart: wait, I say, on the <span
+  class="nd">LORD</span>.</p>
+id: PSA/27/14
+next:
+  id: PSA/28/1
+  number: '1'
+previous:
+  id: PSA/27/13
+  number: '13'
+reference: 'Psalms 27:14'

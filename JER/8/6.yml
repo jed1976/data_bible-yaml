@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 8:6" class="v">6</span>I
+  hearkened and heard, <span class="add">but</span> they spake not aright: no
+  man repented him of his wickedness, saying, What have I done? every one turned
+  to his course, as the horse rusheth into the battle. </p>
+id: JER/8/6
+next:
+  id: JER/8/7
+  number: '7'
+previous:
+  id: JER/8/5
+  number: '5'
+reference: 'Jeremiah 8:6'

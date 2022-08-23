@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 145:19"
+  class="v">19</span>He will fulfil the desire of them that fear him: he also
+  will hear their cry, and will save them.</p>
+id: PSA/145/19
+next:
+  id: PSA/145/20
+  number: '20'
+previous:
+  id: PSA/145/18
+  number: '18'
+reference: 'Psalms 145:19'

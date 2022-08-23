@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 1:17" class="v">17</span>So
+  all the generations from Abraham to David <span class="add">are</span>
+  fourteen generations; and from David until the carrying away into Babylon
+  <span class="add">are</span> fourteen generations; and from the carrying away
+  into Babylon unto Christ <span class="add">are</span> fourteen
+  generations.</p>
+id: MAT/1/17
+next:
+  id: MAT/1/18
+  number: '18'
+previous:
+  id: MAT/1/16
+  number: '16'
+reference: 'Matthew 1:17'

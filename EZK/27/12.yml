@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 27:12"
+  class="v">12</span>Tarshish <span class="add">was</span> thy merchant by
+  reason of the multitude of all <span class="add">kind of</span> riches; with
+  silver, iron, tin, and lead, they traded in thy fairs. </p>
+id: EZK/27/12
+next:
+  id: EZK/27/13
+  number: '13'
+previous:
+  id: EZK/27/11
+  number: '11'
+reference: 'Ezekiel 27:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 24:18"
+  class="v">18</span>And the <span class="nd">LORD</span> drave out from before
+  us all the people, even the Amorites which dwelt in the land: <span
+  class="add">therefore</span> will we also serve the <span
+  class="nd">LORD</span>; for he <span class="add">is</span> our God. </p>
+id: JOS/24/18
+next:
+  id: JOS/24/19
+  number: '19'
+previous:
+  id: JOS/24/17
+  number: '17'
+reference: 'Joshua 24:18'

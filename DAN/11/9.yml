@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 11:9" class="v">9</span>So
+  the king of the south shall come into <span class="add">his</span> kingdom,
+  and shall return into his own land. </p>
+id: DAN/11/9
+next:
+  id: DAN/11/10
+  number: '10'
+previous:
+  id: DAN/11/8
+  number: '8'
+reference: 'Daniel 11:9'

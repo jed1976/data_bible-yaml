@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 10:9" class="v">9</span>When
+  Joab saw that the front of the battle was against him before and behind, he
+  chose of all the choice <span class="add">men</span> of Israel, and put <span
+  class="add">them</span> in array against the Syrians: </p>
+id: 2SA/10/9
+next:
+  id: 2SA/10/10
+  number: '10'
+previous:
+  id: 2SA/10/8
+  number: '8'
+reference: '2 Samuel 10:9'

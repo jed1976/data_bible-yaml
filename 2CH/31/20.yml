@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CH 31:20" class="v">20</span>¶
+  And thus did Hezekiah throughout all Judah, and wrought <span class="add">that
+  which was</span> good and right and truth before the <span
+  class="nd">LORD</span> his God. </p>
+id: 2CH/31/20
+next:
+  id: 2CH/31/21
+  number: '21'
+previous:
+  id: 2CH/31/19
+  number: '19'
+reference: '2 Chronicles 31:20'

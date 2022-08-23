@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 5:39"
+  class="v">39</span><span class="wj">But I say unto you, That ye resist not
+  evil: but whosoever shall smite thee on thy right cheek, turn to him the other
+  also.</span> </p>
+id: MAT/5/39
+next:
+  id: MAT/5/40
+  number: '40'
+previous:
+  id: MAT/5/38
+  number: '38'
+reference: 'Matthew 5:39'

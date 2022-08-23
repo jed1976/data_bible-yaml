@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="OBA 1:11" class="v">11</span>In
+  the day that thou stoodest on the other side, in the day that the strangers
+  carried away captive his forces, and foreigners entered into his gates, and
+  cast lots upon Jerusalem, even thou <span class="add">wast</span> as one of
+  them. </p>
+id: OBA/1/11
+next:
+  id: OBA/1/12
+  number: '12'
+previous:
+  id: OBA/1/10
+  number: '10'
+reference: 'Obadiah 1:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 23:24"
+  class="v">24</span>And Pilate gave sentence that it should be as they
+  required. </p>
+id: LUK/23/24
+next:
+  id: LUK/23/25
+  number: '25'
+previous:
+  id: LUK/23/23
+  number: '23'
+reference: 'Luke 23:24'

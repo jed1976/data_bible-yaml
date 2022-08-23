@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 12:12"
+  class="v">12</span>And when he had considered <span class="add">the
+  thing</span>, he came to the house of Mary the mother of John, whose surname
+  was Mark; where many were gathered together praying. </p>
+id: ACT/12/12
+next:
+  id: ACT/12/13
+  number: '13'
+previous:
+  id: ACT/12/11
+  number: '11'
+reference: 'Acts 12:12'

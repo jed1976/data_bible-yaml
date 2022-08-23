@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 34:6" class="v">6</span>This
+  poor man cried, and the <span class="nd">LORD</span> heard <span
+  class="add">him</span>, and saved him out of all his troubles.</p>
+id: PSA/34/6
+next:
+  id: PSA/34/7
+  number: '7'
+previous:
+  id: PSA/34/5
+  number: '5'
+reference: 'Psalms 34:6'

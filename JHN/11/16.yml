@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 11:16"
+  class="v">16</span>Then said Thomas, which is called Didymus, unto his
+  fellowdisciples, Let us also go, that we may die with him. </p>
+id: JHN/11/16
+next:
+  id: JHN/11/17
+  number: '17'
+previous:
+  id: JHN/11/15
+  number: '15'
+reference: 'John 11:16'

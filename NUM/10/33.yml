@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 10:33" class="v">33</span>¶
+  And they departed from the mount of the <span class="nd">LORD</span> three
+  days’ journey: and the ark of the covenant of the <span class="nd">LORD</span>
+  went before them in the three days’ journey, to search out a resting place for
+  them. </p>
+id: NUM/10/33
+next:
+  id: NUM/10/34
+  number: '34'
+previous:
+  id: NUM/10/32
+  number: '32'
+reference: 'Numbers 10:33'

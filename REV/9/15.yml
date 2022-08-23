@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 9:15" class="v">15</span>And
+  the four angels were loosed, which were prepared for an hour, and a day, and a
+  month, and a year, for to slay the third part of men. </p>
+id: REV/9/15
+next:
+  id: REV/9/16
+  number: '16'
+previous:
+  id: REV/9/14
+  number: '14'
+reference: 'Revelation 9:15'

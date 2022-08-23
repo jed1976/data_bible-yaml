@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="MAT 26:65"
+  class="v">65</span>Then the high priest rent his clothes, saying, He hath
+  spoken blasphemy; what further need have we of witnesses? behold, now ye have
+  heard his blasphemy. </p>
+id: MAT/26/65
+next:
+  id: MAT/26/66
+  number: '66'
+previous:
+  id: MAT/26/64
+  number: '64'
+reference: 'Matthew 26:65'

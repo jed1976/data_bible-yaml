@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 13:23"
+  class="v">23</span>But if the bright spot stay in his place, <span
+  class="add">and</span> spread not, it <span class="add">is</span> a burning
+  boil; and the priest shall pronounce him clean.</p>
+id: LEV/13/23
+next:
+  id: LEV/13/24
+  number: '24'
+previous:
+  id: LEV/13/22
+  number: '22'
+reference: 'Leviticus 13:23'

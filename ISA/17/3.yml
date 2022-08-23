@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 17:3" class="v">3</span>The
+  fortress also shall cease from Ephraim, and the kingdom from Damascus, and the
+  remnant of Syria: they shall be as the glory of the children of Israel, saith
+  the <span class="nd">LORD</span> of hosts. </p>
+id: ISA/17/3
+next:
+  id: ISA/17/4
+  number: '4'
+previous:
+  id: ISA/17/2
+  number: '2'
+reference: 'Isaiah 17:3'

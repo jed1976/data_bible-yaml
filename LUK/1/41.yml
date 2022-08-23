@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 1:41" class="v">41</span>And
+  it came to pass, that, when Elisabeth heard the salutation of Mary, the babe
+  leaped in her womb; and Elisabeth was filled with the Holy Ghost: </p>
+id: LUK/1/41
+next:
+  id: LUK/1/42
+  number: '42'
+previous:
+  id: LUK/1/40
+  number: '40'
+reference: 'Luke 1:41'

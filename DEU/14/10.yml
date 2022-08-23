@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 14:10"
+  class="v">10</span>And whatsoever hath not fins and scales ye may not eat; it
+  <span class="add">is</span> unclean unto you.</p>
+id: DEU/14/10
+next:
+  id: DEU/14/11
+  number: '11'
+previous:
+  id: DEU/14/9
+  number: '9'
+reference: 'Deuteronomy 14:10'

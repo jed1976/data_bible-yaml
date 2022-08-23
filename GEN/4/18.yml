@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 4:18" class="v">18</span>And
+  unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat
+  Methusael: and Methusael begat Lamech.</p>
+id: GEN/4/18
+next:
+  id: GEN/4/19
+  number: '19'
+previous:
+  id: GEN/4/17
+  number: '17'
+reference: 'Genesis 4:18'

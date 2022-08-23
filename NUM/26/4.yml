@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 26:4" class="v">4</span><span
+  class="add">Take the sum of the people</span>, from twenty years old and
+  upward; as the <span class="nd">LORD</span> commanded Moses and the children
+  of Israel, which went forth out of the land of Egypt.</p>
+id: NUM/26/4
+next:
+  id: NUM/26/5
+  number: '5'
+previous:
+  id: NUM/26/3
+  number: '3'
+reference: 'Numbers 26:4'

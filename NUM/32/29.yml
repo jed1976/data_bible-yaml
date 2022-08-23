@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 32:29"
+  class="v">29</span>And Moses said unto them, If the children of Gad and the
+  children of Reuben will pass with you over Jordan, every man armed to battle,
+  before the <span class="nd">LORD</span>, and the land shall be subdued before
+  you; then ye shall give them the land of Gilead for a possession: </p>
+id: NUM/32/29
+next:
+  id: NUM/32/30
+  number: '30'
+previous:
+  id: NUM/32/28
+  number: '28'
+reference: 'Numbers 32:29'

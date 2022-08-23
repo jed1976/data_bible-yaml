@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MAT 26:44"
+  class="v">44</span>And he left them, and went away again, and prayed the third
+  time, saying the same words. </p>
+id: MAT/26/44
+next:
+  id: MAT/26/45
+  number: '45'
+previous:
+  id: MAT/26/43
+  number: '43'
+reference: 'Matthew 26:44'

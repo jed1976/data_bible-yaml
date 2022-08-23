@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 14:18"
+  class="v">18</span>And Melchizedek king of Salem brought forth bread and wine:
+  and he <span class="add">was</span> the priest of the most high God. </p>
+id: GEN/14/18
+next:
+  id: GEN/14/19
+  number: '19'
+previous:
+  id: GEN/14/17
+  number: '17'
+reference: 'Genesis 14:18'

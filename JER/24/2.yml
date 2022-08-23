@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 24:2" class="v">2</span>One
+  basket <span class="add">had</span> very good figs, <span
+  class="add">even</span> like the figs <span class="add">that are</span> first
+  ripe: and the other basket <span class="add">had</span> very naughty figs,
+  which could not be eaten, they were so bad. </p>
+id: JER/24/2
+next:
+  id: JER/24/3
+  number: '3'
+previous:
+  id: JER/24/1
+  number: '1'
+reference: 'Jeremiah 24:2'

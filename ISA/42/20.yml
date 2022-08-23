@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 42:20"
+  class="v">20</span>Seeing many things, but thou observest not; opening the
+  ears, but he heareth not. </p>
+id: ISA/42/20
+next:
+  id: ISA/42/21
+  number: '21'
+previous:
+  id: ISA/42/19
+  number: '19'
+reference: 'Isaiah 42:20'

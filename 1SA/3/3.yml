@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1SA 3:3" class="v">3</span>And
+  ere the lamp of God went out in the temple of the <span
+  class="nd">LORD</span>, where the ark of God <span class="add">was</span>, and
+  Samuel was laid down <span class="add">to sleep;</span> </p>
+id: 1SA/3/3
+next:
+  id: 1SA/3/4
+  number: '4'
+previous:
+  id: 1SA/3/2
+  number: '2'
+reference: '1 Samuel 3:3'

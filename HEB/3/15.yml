@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HEB 3:15"
+  class="v">15</span>While it is said, To day if ye will hear his voice, harden
+  not your hearts, as in the provocation. </p>
+id: HEB/3/15
+next:
+  id: HEB/3/16
+  number: '16'
+previous:
+  id: HEB/3/14
+  number: '14'
+reference: 'Hebrews 3:15'

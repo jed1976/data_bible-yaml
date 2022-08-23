@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 18:9" class="v">9</span>Then
+  spake the Lord to Paul in the night by a vision, <span class="wj">Be not
+  afraid, but speak, and hold not thy peace:</span> </p>
+id: ACT/18/9
+next:
+  id: ACT/18/10
+  number: '10'
+previous:
+  id: ACT/18/8
+  number: '8'
+reference: 'Acts 18:9'

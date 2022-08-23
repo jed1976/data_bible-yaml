@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 10:18"
+  class="v">18</span>And he went out from Pharaoh, and intreated the <span
+  class="nd">LORD</span>. </p>
+id: EXO/10/18
+next:
+  id: EXO/10/19
+  number: '19'
+previous:
+  id: EXO/10/17
+  number: '17'
+reference: 'Exodus 10:18'

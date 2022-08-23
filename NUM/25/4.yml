@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 25:4" class="v">4</span>And
+  the <span class="nd">LORD</span> said unto Moses, Take all the heads of the
+  people, and hang them up before the <span class="nd">LORD</span> against the
+  sun, that the fierce anger of the <span class="nd">LORD</span> may be turned
+  away from Israel. </p>
+id: NUM/25/4
+next:
+  id: NUM/25/5
+  number: '5'
+previous:
+  id: NUM/25/3
+  number: '3'
+reference: 'Numbers 25:4'

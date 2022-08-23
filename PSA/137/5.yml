@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 137:5" class="v">5</span>If
+  I forget thee, O Jerusalem, let my right hand forget <span class="add">her
+  cunning</span>.</p>
+id: PSA/137/5
+next:
+  id: PSA/137/6
+  number: '6'
+previous:
+  id: PSA/137/4
+  number: '4'
+reference: 'Psalms 137:5'

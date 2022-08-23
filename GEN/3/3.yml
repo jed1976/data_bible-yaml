@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 3:3" class="v">3</span>But of
+  the fruit of the tree which <span class="add">is</span> in the midst of the
+  garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest
+  ye die. </p>
+id: GEN/3/3
+next:
+  id: GEN/3/4
+  number: '4'
+previous:
+  id: GEN/3/2
+  number: '2'
+reference: 'Genesis 3:3'

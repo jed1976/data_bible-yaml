@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 32:3"
+  class="v">3</span>Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and
+  Elealeh, and Shebam, and Nebo, and Beon, </p>
+id: NUM/32/3
+next:
+  id: NUM/32/4
+  number: '4'
+previous:
+  id: NUM/32/2
+  number: '2'
+reference: 'Numbers 32:3'

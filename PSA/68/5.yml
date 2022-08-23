@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 68:5" class="v">5</span>A
+  father of the fatherless, and a judge of the widows, <span
+  class="add">is</span> God in his holy habitation.</p>
+id: PSA/68/5
+next:
+  id: PSA/68/6
+  number: '6'
+previous:
+  id: PSA/68/4
+  number: '4'
+reference: 'Psalms 68:5'

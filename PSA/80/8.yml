@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 80:8"
+  class="v">8</span>Thou hast brought a vine out of Egypt: thou hast cast out
+  the heathen, and planted it.</p>
+id: PSA/80/8
+next:
+  id: PSA/80/9
+  number: '9'
+previous:
+  id: PSA/80/7
+  number: '7'
+reference: 'Psalms 80:8'

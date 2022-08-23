@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GAL 5:19" class="v">19</span>Now
+  the works of the flesh are manifest, which are <span class="add">these</span>;
+  Adultery, fornication, uncleanness, lasciviousness, </p>
+id: GAL/5/19
+next:
+  id: GAL/5/20
+  number: '20'
+previous:
+  id: GAL/5/18
+  number: '18'
+reference: 'Galatians 5:19'

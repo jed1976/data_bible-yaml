@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 12:16"
+  class="v">16</span>And he entreated Abram well for her sake: and he had sheep,
+  and oxen, and he asses, and menservants, and maidservants, and she asses, and
+  camels. </p>
+id: GEN/12/16
+next:
+  id: GEN/12/17
+  number: '17'
+previous:
+  id: GEN/12/15
+  number: '15'
+reference: 'Genesis 12:16'

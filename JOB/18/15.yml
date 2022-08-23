@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 18:15" class="v">15</span>It
+  shall dwell in his tabernacle, because <span class="add">it is</span> none of
+  his: brimstone shall be scattered upon his habitation. </p>
+id: JOB/18/15
+next:
+  id: JOB/18/16
+  number: '16'
+previous:
+  id: JOB/18/14
+  number: '14'
+reference: 'Job 18:15'

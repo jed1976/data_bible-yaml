@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EPH 5:4"
+  class="v">4</span>Neither filthiness, nor foolish talking, nor jesting, which
+  are not convenient: but rather giving of thanks. </p>
+id: EPH/5/4
+next:
+  id: EPH/5/5
+  number: '5'
+previous:
+  id: EPH/5/3
+  number: '3'
+reference: 'Ephesians 5:4'

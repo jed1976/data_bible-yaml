@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 31:27"
+  class="v">27</span>And my heart hath been secretly enticed, or my mouth hath
+  kissed my hand: </p>
+id: JOB/31/27
+next:
+  id: JOB/31/28
+  number: '28'
+previous:
+  id: JOB/31/26
+  number: '26'
+reference: 'Job 31:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 13:13"
+  class="v">13</span>And he said unto his sons, Saddle me the ass. So they
+  saddled him the ass: and he rode thereon, </p>
+id: 1KI/13/13
+next:
+  id: 1KI/13/14
+  number: '14'
+previous:
+  id: 1KI/13/12
+  number: '12'
+reference: '1 Kings 13:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 34:15"
+  class="v">15</span>The eyes of the <span class="nd">LORD</span> <span
+  class="add">are</span> upon the righteous, and his ears <span class="add">are
+  open</span> unto their cry.</p>
+id: PSA/34/15
+next:
+  id: PSA/34/16
+  number: '16'
+previous:
+  id: PSA/34/14
+  number: '14'
+reference: 'Psalms 34:15'

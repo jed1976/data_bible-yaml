@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 2:11" class="v">11</span>The
+  name of the first <span class="add">is</span> Pison: that <span
+  class="add">is</span> it which compasseth the whole land of Havilah, where
+  <span class="add">there is</span> gold; </p>
+id: GEN/2/11
+next:
+  id: GEN/2/12
+  number: '12'
+previous:
+  id: GEN/2/10
+  number: '10'
+reference: 'Genesis 2:11'

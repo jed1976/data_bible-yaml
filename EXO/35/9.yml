@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 35:9" class="v">9</span>And
+  onyx stones, and stones to be set for the ephod, and for the breastplate. </p>
+id: EXO/35/9
+next:
+  id: EXO/35/10
+  number: '10'
+previous:
+  id: EXO/35/8
+  number: '8'
+reference: 'Exodus 35:9'

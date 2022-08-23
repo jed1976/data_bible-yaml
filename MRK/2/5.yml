@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 2:5" class="v">5</span>When
+  Jesus saw their faith, he said unto the sick of the palsy, <span
+  class="wj">Son, thy sins be forgiven thee.</span> </p>
+id: MRK/2/5
+next:
+  id: MRK/2/6
+  number: '6'
+previous:
+  id: MRK/2/4
+  number: '4'
+reference: 'Mark 2:5'

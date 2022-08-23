@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JER 42:5" class="v">5</span>Then
+  they said to Jeremiah, The <span class="nd">LORD</span> be a true and faithful
+  witness between us, if we do not even according to all things for the which
+  the <span class="nd">LORD</span> thy God shall send thee to us. </p>
+id: JER/42/5
+next:
+  id: JER/42/6
+  number: '6'
+previous:
+  id: JER/42/4
+  number: '4'
+reference: 'Jeremiah 42:5'

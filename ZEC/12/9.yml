@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 12:9" class="v">9</span>¶ And
+  it shall come to pass in that day, <span class="add">that</span> I will seek
+  to destroy all the nations that come against Jerusalem. </p>
+id: ZEC/12/9
+next:
+  id: ZEC/12/10
+  number: '10'
+previous:
+  id: ZEC/12/8
+  number: '8'
+reference: 'Zechariah 12:9'

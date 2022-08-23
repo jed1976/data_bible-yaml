@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 8:18" class="v">18</span>And
+  Benaiah the son of Jehoiada <span class="add">was over</span> both the
+  Cherethites and the Pelethites; and David’s sons were chief rulers.</p>
+id: 2SA/8/18
+next:
+  id: 2SA/9/1
+  number: '1'
+previous:
+  id: 2SA/8/17
+  number: '17'
+reference: '2 Samuel 8:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="9" data-sid="PSA 78:9"
+  class="v">9</span>The children of Ephraim, <span class="add">being</span>
+  armed, <span class="add">and</span> carrying bows, turned back in the day of
+  battle.</p>
+id: PSA/78/9
+next:
+  id: PSA/78/10
+  number: '10'
+previous:
+  id: PSA/78/8
+  number: '8'
+reference: 'Psalms 78:9'

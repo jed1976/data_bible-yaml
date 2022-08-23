@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 26:17" class="v">17</span>¶
+  And Isaac departed thence, and pitched his tent in the valley of Gerar, and
+  dwelt there. </p>
+id: GEN/26/17
+next:
+  id: GEN/26/18
+  number: '18'
+previous:
+  id: GEN/26/16
+  number: '16'
+reference: 'Genesis 26:17'

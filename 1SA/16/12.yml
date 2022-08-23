@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 16:12"
+  class="v">12</span>And he sent, and brought him in. Now he <span
+  class="add">was</span> ruddy, <span class="add">and</span> withal of a
+  beautiful countenance, and goodly to look to. And the <span
+  class="nd">LORD</span> said, Arise, anoint him: for this <span
+  class="add">is</span> he. </p>
+id: 1SA/16/12
+next:
+  id: 1SA/16/13
+  number: '13'
+previous:
+  id: 1SA/16/11
+  number: '11'
+reference: '1 Samuel 16:12'

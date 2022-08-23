@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 52:9" class="v">9</span>I
+  will praise thee for ever, because thou hast done <span class="add">it:</span>
+  and I will wait on thy name; for <span class="add">it is</span> good before
+  thy saints.</p>
+id: PSA/52/9
+next:
+  id: PSA/53/1
+  number: '1'
+previous:
+  id: PSA/52/8
+  number: '8'
+reference: 'Psalms 52:9'

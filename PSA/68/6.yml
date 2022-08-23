@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 68:6" class="v">6</span>God
+  setteth the solitary in families: he bringeth out those which are bound with
+  chains: but the rebellious dwell in a dry <span class="add">land</span>.</p>
+id: PSA/68/6
+next:
+  id: PSA/68/7
+  number: '7'
+previous:
+  id: PSA/68/5
+  number: '5'
+reference: 'Psalms 68:6'

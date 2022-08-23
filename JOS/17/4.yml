@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 17:4" class="v">4</span>And
+  they came near before Eleazar the priest, and before Joshua the son of Nun,
+  and before the princes, saying, The <span class="nd">LORD</span> commanded
+  Moses to give us an inheritance among our brethren. Therefore according to the
+  commandment of the <span class="nd">LORD</span> he gave them an inheritance
+  among the brethren of their father. </p>
+id: JOS/17/4
+next:
+  id: JOS/17/5
+  number: '5'
+previous:
+  id: JOS/17/3
+  number: '3'
+reference: 'Joshua 17:4'

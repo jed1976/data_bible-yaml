@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 6:42" class="v">42</span>And
+  they said, Is not this Jesus, the son of Joseph, whose father and mother we
+  know? how is it then that he saith, I came down from heaven? </p>
+id: JHN/6/42
+next:
+  id: JHN/6/43
+  number: '43'
+previous:
+  id: JHN/6/41
+  number: '41'
+reference: 'John 6:42'

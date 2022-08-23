@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 21:13"
+  class="v">13</span>Because <span class="add">it is</span> a trial, and what if
+  <span class="add">the sword</span> contemn even the rod? it shall be no <span
+  class="add">more</span>, saith the Lord <span class="nd">GOD</span>. </p>
+id: EZK/21/13
+next:
+  id: EZK/21/14
+  number: '14'
+previous:
+  id: EZK/21/12
+  number: '12'
+reference: 'Ezekiel 21:13'

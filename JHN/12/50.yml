@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="JHN 12:50"
+  class="v">50</span><span class="wj">And I know that his commandment is life
+  everlasting: whatsoever I speak therefore, even as the Father said unto me, so
+  I speak.</span></p>
+id: JHN/12/50
+next:
+  id: JHN/13/1
+  number: '1'
+previous:
+  id: JHN/12/49
+  number: '49'
+reference: 'John 12:50'

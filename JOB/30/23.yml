@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 30:23"
+  class="v">23</span>For I know <span class="add">that</span> thou wilt bring me
+  <span class="add">to</span> death, and <span class="add">to</span> the house
+  appointed for all living. </p>
+id: JOB/30/23
+next:
+  id: JOB/30/24
+  number: '24'
+previous:
+  id: JOB/30/22
+  number: '22'
+reference: 'Job 30:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 41:10"
+  class="v">10</span>None <span class="add">is so</span> fierce that dare stir
+  him up: who then is able to stand before me?</p>
+id: JOB/41/10
+next:
+  id: JOB/41/11
+  number: '11'
+previous:
+  id: JOB/41/9
+  number: '9'
+reference: 'Job 41:10'

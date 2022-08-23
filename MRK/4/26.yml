@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 4:26" class="v">26</span>¶
+  And he said, <span class="wj">So is the kingdom of God, as if a man should
+  cast seed into the ground;</span> </p>
+id: MRK/4/26
+next:
+  id: MRK/4/27
+  number: '27'
+previous:
+  id: MRK/4/25
+  number: '25'
+reference: 'Mark 4:26'

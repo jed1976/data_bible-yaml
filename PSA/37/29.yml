@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 37:29"
+  class="v">29</span>The righteous shall inherit the land, and dwell therein for
+  ever.</p>
+id: PSA/37/29
+next:
+  id: PSA/37/30
+  number: '30'
+previous:
+  id: PSA/37/28
+  number: '28'
+reference: 'Psalms 37:29'

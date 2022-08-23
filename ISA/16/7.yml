@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 16:7"
+  class="v">7</span>Therefore shall Moab howl for Moab, every one shall howl:
+  for the foundations of Kir-hareseth shall ye mourn; surely <span
+  class="add">they are</span> stricken. </p>
+id: ISA/16/7
+next:
+  id: ISA/16/8
+  number: '8'
+previous:
+  id: ISA/16/6
+  number: '6'
+reference: 'Isaiah 16:7'

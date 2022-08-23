@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 16:10"
+  class="v">10</span>And the angel of the <span class="nd">LORD</span> said unto
+  her, I will multiply thy seed exceedingly, that it shall not be numbered for
+  multitude. </p>
+id: GEN/16/10
+next:
+  id: GEN/16/11
+  number: '11'
+previous:
+  id: GEN/16/9
+  number: '9'
+reference: 'Genesis 16:10'

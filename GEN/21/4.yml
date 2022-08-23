@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 21:4" class="v">4</span>And
+  Abraham circumcised his son Isaac being eight days old, as God had commanded
+  him. </p>
+id: GEN/21/4
+next:
+  id: GEN/21/5
+  number: '5'
+previous:
+  id: GEN/21/3
+  number: '3'
+reference: 'Genesis 21:4'

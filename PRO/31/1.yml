@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 31:1" class="v">1</span>The
+  words of king Lemuel, the prophecy that his mother taught him. </p>
+id: PRO/31/1
+next:
+  id: PRO/31/2
+  number: '2'
+previous:
+  id: PRO/30/33
+  number: '33'
+reference: 'Proverbs 31:1'

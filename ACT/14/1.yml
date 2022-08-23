@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 14:1" class="v">1</span>And
+  it came to pass in Iconium, that they went both together into the synagogue of
+  the Jews, and so spake, that a great multitude both of the Jews and also of
+  the Greeks believed. </p>
+id: ACT/14/1
+next:
+  id: ACT/14/2
+  number: '2'
+previous:
+  id: ACT/13/52
+  number: '52'
+reference: 'Acts 14:1'

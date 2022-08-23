@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 8:11" class="v">11</span>And
+  the dove came in to him in the evening; and, lo, in her mouth <span
+  class="add">was</span> an olive leaf pluckt off: so Noah knew that the waters
+  were abated from off the earth. </p>
+id: GEN/8/11
+next:
+  id: GEN/8/12
+  number: '12'
+previous:
+  id: GEN/8/10
+  number: '10'
+reference: 'Genesis 8:11'

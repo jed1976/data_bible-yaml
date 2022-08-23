@@ -1,0 +1,9 @@
+content: <p class="mt1">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</p>
+id: 1CO/intro/0
+next:
+  id: 1CO/1/1
+  number: '1'
+previous:
+  id: ROM/16/27
+  number: '27'
+reference: 1 Corinthians

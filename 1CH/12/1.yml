@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 12:1" class="v">1</span>Now
+  these <span class="add">are</span> they that came to David to Ziklag, while he
+  yet kept himself close because of Saul the son of Kish: and they <span
+  class="add">were</span> among the mighty men, helpers of the war. </p>
+id: 1CH/12/1
+next:
+  id: 1CH/12/2
+  number: '2'
+previous:
+  id: 1CH/11/47
+  number: '47'
+reference: '1 Chronicles 12:1'

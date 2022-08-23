@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 2:20" class="v">20</span>The
+  sun shall be turned into darkness, and the moon into blood, before that great
+  and notable day of the Lord come: </p>
+id: ACT/2/20
+next:
+  id: ACT/2/21
+  number: '21'
+previous:
+  id: ACT/2/19
+  number: '19'
+reference: 'Acts 2:20'

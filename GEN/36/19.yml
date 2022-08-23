@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 36:19"
+  class="v">19</span>These <span class="add">are</span> the sons of Esau, who
+  <span class="add">is</span> Edom, and these <span class="add">are</span> their
+  dukes.</p>
+id: GEN/36/19
+next:
+  id: GEN/36/20
+  number: '20'
+previous:
+  id: GEN/36/18
+  number: '18'
+reference: 'Genesis 36:19'

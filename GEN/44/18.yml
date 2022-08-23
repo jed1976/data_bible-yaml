@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 44:18" class="v">18</span>¶
+  Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray
+  thee, speak a word in my lord’s ears, and let not thine anger burn against thy
+  servant: for thou <span class="add">art</span> even as Pharaoh. </p>
+id: GEN/44/18
+next:
+  id: GEN/44/19
+  number: '19'
+previous:
+  id: GEN/44/17
+  number: '17'
+reference: 'Genesis 44:18'

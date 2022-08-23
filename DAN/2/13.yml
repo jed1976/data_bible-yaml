@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 2:13" class="v">13</span>And
+  the decree went forth that the wise <span class="add">men</span> should be
+  slain; and they sought Daniel and his fellows to be slain.</p>
+id: DAN/2/13
+next:
+  id: DAN/2/14
+  number: '14'
+previous:
+  id: DAN/2/12
+  number: '12'
+reference: 'Daniel 2:13'

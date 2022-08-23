@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 23:13"
+  class="v">13</span><span class="wj">¶ But woe unto you, scribes and Pharisees,
+  hypocrites! for ye shut up the kingdom of heaven against men: for ye neither
+  go in <span class="add">yourselves</span>, neither suffer ye them that are
+  entering to go in.</span> </p>
+id: MAT/23/13
+next:
+  id: MAT/23/14
+  number: '14'
+previous:
+  id: MAT/23/12
+  number: '12'
+reference: 'Matthew 23:13'

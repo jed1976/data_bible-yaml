@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2CH 25:26"
+  class="v">26</span>Now the rest of the acts of Amaziah, first and last,
+  behold, <span class="add">are</span> they not written in the book of the kings
+  of Judah and Israel?</p>
+id: 2CH/25/26
+next:
+  id: 2CH/25/27
+  number: '27'
+previous:
+  id: 2CH/25/25
+  number: '25'
+reference: '2 Chronicles 25:26'

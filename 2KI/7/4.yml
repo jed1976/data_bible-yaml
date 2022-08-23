@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 7:4" class="v">4</span>If we
+  say, We will enter into the city, then the famine <span class="add">is</span>
+  in the city, and we shall die there: and if we sit still here, we die also.
+  Now therefore come, and let us fall unto the host of the Syrians: if they save
+  us alive, we shall live; and if they kill us, we shall but die. </p>
+id: 2KI/7/4
+next:
+  id: 2KI/7/5
+  number: '5'
+previous:
+  id: 2KI/7/3
+  number: '3'
+reference: '2 Kings 7:4'

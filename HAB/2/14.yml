@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="HAB 2:14" class="v">14</span>For
+  the earth shall be filled with the knowledge of the glory of the <span
+  class="nd">LORD</span>, as the waters cover the sea.</p>
+id: HAB/2/14
+next:
+  id: HAB/2/15
+  number: '15'
+previous:
+  id: HAB/2/13
+  number: '13'
+reference: 'Habakkuk 2:14'

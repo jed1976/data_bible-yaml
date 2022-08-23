@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 34:22" class="v">22</span>¶
+  And thou shalt observe the feast of weeks, of the firstfruits of wheat
+  harvest, and the feast of ingathering at the year’s end.</p>
+id: EXO/34/22
+next:
+  id: EXO/34/23
+  number: '23'
+previous:
+  id: EXO/34/21
+  number: '21'
+reference: 'Exodus 34:22'

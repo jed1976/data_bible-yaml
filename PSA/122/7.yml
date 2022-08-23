@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 122:7"
+  class="v">7</span>Peace be within thy walls, <span class="add">and</span>
+  prosperity within thy palaces.</p>
+id: PSA/122/7
+next:
+  id: PSA/122/8
+  number: '8'
+previous:
+  id: PSA/122/6
+  number: '6'
+reference: 'Psalms 122:7'

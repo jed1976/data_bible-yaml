@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOL 1:18" class="v">18</span>How
+  do the beasts groan! the herds of cattle are perplexed, because they have no
+  pasture; yea, the flocks of sheep are made desolate. </p>
+id: JOL/1/18
+next:
+  id: JOL/1/19
+  number: '19'
+previous:
+  id: JOL/1/17
+  number: '17'
+reference: 'Joel 1:18'

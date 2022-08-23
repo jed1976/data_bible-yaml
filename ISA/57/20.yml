@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 57:20"
+  class="v">20</span>But the wicked <span class="add">are</span> like the
+  troubled sea, when it cannot rest, whose waters cast up mire and dirt. </p>
+id: ISA/57/20
+next:
+  id: ISA/57/21
+  number: '21'
+previous:
+  id: ISA/57/19
+  number: '19'
+reference: 'Isaiah 57:20'

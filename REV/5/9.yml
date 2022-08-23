@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 5:9" class="v">9</span>And
+  they sung a new song, saying, Thou art worthy to take the book, and to open
+  the seals thereof: for thou wast slain, and hast redeemed us to God by thy
+  blood out of every kindred, and tongue, and people, and nation; </p>
+id: REV/5/9
+next:
+  id: REV/5/10
+  number: '10'
+previous:
+  id: REV/5/8
+  number: '8'
+reference: 'Revelation 5:9'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 30:15" class="v">15</span>¶
+  See, I have set before thee this day life and good, and death and evil; </p>
+id: DEU/30/15
+next:
+  id: DEU/30/16
+  number: '16'
+previous:
+  id: DEU/30/14
+  number: '14'
+reference: 'Deuteronomy 30:15'

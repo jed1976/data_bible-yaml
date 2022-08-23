@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GAL 6:6" class="v">6</span>Let
+  him that is taught in the word communicate unto him that teacheth in all good
+  things. </p>
+id: GAL/6/6
+next:
+  id: GAL/6/7
+  number: '7'
+previous:
+  id: GAL/6/5
+  number: '5'
+reference: 'Galatians 6:6'

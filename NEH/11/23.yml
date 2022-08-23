@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 11:23"
+  class="v">23</span>For <span class="add">it was</span> the king’s commandment
+  concerning them, that a certain portion should be for the singers, due for
+  every day. </p>
+id: NEH/11/23
+next:
+  id: NEH/11/24
+  number: '24'
+previous:
+  id: NEH/11/22
+  number: '22'
+reference: 'Nehemiah 11:23'

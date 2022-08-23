@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 20:11" class="v">11</span>¶
+  But Mary stood without at the sepulchre weeping: and as she wept, she stooped
+  down, <span class="add">and looked</span> into the sepulchre, </p>
+id: JHN/20/11
+next:
+  id: JHN/20/12
+  number: '12'
+previous:
+  id: JHN/20/10
+  number: '10'
+reference: 'John 20:11'

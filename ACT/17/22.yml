@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 17:22" class="v">22</span>¶
+  Then Paul stood in the midst of Mars’ hill, and said, <span
+  class="add">Ye</span> men of Athens, I perceive that in all things ye are too
+  superstitious. </p>
+id: ACT/17/22
+next:
+  id: ACT/17/23
+  number: '23'
+previous:
+  id: ACT/17/21
+  number: '21'
+reference: 'Acts 17:22'

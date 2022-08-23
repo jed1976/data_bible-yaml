@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LAM 1:14" class="v">14</span>The
+  yoke of my transgressions is bound by his hand: they are wreathed, <span
+  class="add">and</span> come up upon my neck: he hath made my strength to fall,
+  the Lord hath delivered me into <span class="add">their</span> hands, <span
+  class="add">from whom</span> I am not able to rise up. </p>
+id: LAM/1/14
+next:
+  id: LAM/1/15
+  number: '15'
+previous:
+  id: LAM/1/13
+  number: '13'
+reference: 'Lamentations 1:14'

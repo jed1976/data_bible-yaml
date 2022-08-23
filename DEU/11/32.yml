@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DEU 11:32"
+  class="v">32</span>And ye shall observe to do all the statutes and judgments
+  which I set before you this day.</p>
+id: DEU/11/32
+next:
+  id: DEU/12/1
+  number: '1'
+previous:
+  id: DEU/11/31
+  number: '31'
+reference: 'Deuteronomy 11:32'

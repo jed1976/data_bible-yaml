@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1TH 3:12" class="v">12</span>And
+  the Lord make you to increase and abound in love one toward another, and
+  toward all <span class="add">men</span>, even as we <span
+  class="add">do</span> toward you: </p>
+id: 1TH/3/12
+next:
+  id: 1TH/3/13
+  number: '13'
+previous:
+  id: 1TH/3/11
+  number: '11'
+reference: '1 Thessalonians 3:12'

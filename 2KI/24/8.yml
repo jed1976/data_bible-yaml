@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 24:8" class="v">8</span>¶
+  Jehoiachin <span class="add">was</span> eighteen years old when he began to
+  reign, and he reigned in Jerusalem three months. And his mother’s name <span
+  class="add">was</span> Nehushta, the daughter of Elnathan of Jerusalem. </p>
+id: 2KI/24/8
+next:
+  id: 2KI/24/9
+  number: '9'
+previous:
+  id: 2KI/24/7
+  number: '7'
+reference: '2 Kings 24:8'

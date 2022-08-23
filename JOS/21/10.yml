@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 21:10"
+  class="v">10</span>Which the children of Aaron, <span class="add">being</span>
+  of the families of the Kohathites, <span class="add">who were</span> of the
+  children of Levi, had: for theirs was the first lot. </p>
+id: JOS/21/10
+next:
+  id: JOS/21/11
+  number: '11'
+previous:
+  id: JOS/21/9
+  number: '9'
+reference: 'Joshua 21:10'

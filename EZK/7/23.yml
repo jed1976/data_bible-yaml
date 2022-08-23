@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 7:23" class="v">23</span>¶
+  Make a chain: for the land is full of bloody crimes, and the city is full of
+  violence. </p>
+id: EZK/7/23
+next:
+  id: EZK/7/24
+  number: '24'
+previous:
+  id: EZK/7/22
+  number: '22'
+reference: 'Ezekiel 7:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 62:6" class="v">6</span>He
+  only <span class="add">is</span> my rock and my salvation: <span
+  class="add">he is</span> my defence; I shall not be moved.</p>
+id: PSA/62/6
+next:
+  id: PSA/62/7
+  number: '7'
+previous:
+  id: PSA/62/5
+  number: '5'
+reference: 'Psalms 62:6'

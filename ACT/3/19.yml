@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 3:19" class="v">19</span>¶
+  Repent ye therefore, and be converted, that your sins may be blotted out, when
+  the times of refreshing shall come from the presence of the Lord; </p>
+id: ACT/3/19
+next:
+  id: ACT/3/20
+  number: '20'
+previous:
+  id: ACT/3/18
+  number: '18'
+reference: 'Acts 3:19'

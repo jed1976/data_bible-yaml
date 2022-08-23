@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 21:19"
+  class="v">19</span>Then they said, Behold, <span class="add">there is</span> a
+  feast of the <span class="nd">LORD</span> in Shiloh yearly <span
+  class="add">in a place</span> which <span class="add">is</span> on the north
+  side of Beth-el, on the east side of the highway that goeth up from Beth-el to
+  Shechem, and on the south of Lebonah. </p>
+id: JDG/21/19
+next:
+  id: JDG/21/20
+  number: '20'
+previous:
+  id: JDG/21/18
+  number: '18'
+reference: 'Judges 21:19'

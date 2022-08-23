@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 11:21"
+  class="v">21</span><span class="add">Though</span> hand <span
+  class="add">join</span> in hand, the wicked shall not be unpunished: but the
+  seed of the righteous shall be delivered. </p>
+id: PRO/11/21
+next:
+  id: PRO/11/22
+  number: '22'
+previous:
+  id: PRO/11/20
+  number: '20'
+reference: 'Proverbs 11:21'

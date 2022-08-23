@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 12:16" class="v">16</span>¶
+  Now therefore stand and see this great thing, which the <span
+  class="nd">LORD</span> will do before your eyes. </p>
+id: 1SA/12/16
+next:
+  id: 1SA/12/17
+  number: '17'
+previous:
+  id: 1SA/12/15
+  number: '15'
+reference: '1 Samuel 12:16'

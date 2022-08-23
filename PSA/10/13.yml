@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 10:13"
+  class="v">13</span>Wherefore doth the wicked contemn God? he hath said in his
+  heart, Thou wilt not require <span class="add">it</span>.</p>
+id: PSA/10/13
+next:
+  id: PSA/10/14
+  number: '14'
+previous:
+  id: PSA/10/12
+  number: '12'
+reference: 'Psalms 10:13'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAL 1:11" class="v">11</span>For
+  from the rising of the sun even unto the going down of the same my name <span
+  class="add">shall be</span> great among the Gentiles; and in every place
+  incense <span class="add">shall be</span> offered unto my name, and a pure
+  offering: for my name <span class="add">shall be</span> great among the
+  heathen, saith the <span class="nd">LORD</span> of hosts.</p>
+id: MAL/1/11
+next:
+  id: MAL/1/12
+  number: '12'
+previous:
+  id: MAL/1/10
+  number: '10'
+reference: 'Malachi 1:11'

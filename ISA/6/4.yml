@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 6:4" class="v">4</span>And
+  the posts of the door moved at the voice of him that cried, and the house was
+  filled with smoke.</p>
+id: ISA/6/4
+next:
+  id: ISA/6/5
+  number: '5'
+previous:
+  id: ISA/6/3
+  number: '3'
+reference: 'Isaiah 6:4'

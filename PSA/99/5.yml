@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 99:5"
+  class="v">5</span>Exalt ye the <span class="nd">LORD</span> our God, and
+  worship at his footstool; <span class="add">for</span> he <span
+  class="add">is</span> holy.</p>
+id: PSA/99/5
+next:
+  id: PSA/99/6
+  number: '6'
+previous:
+  id: PSA/99/4
+  number: '4'
+reference: 'Psalms 99:5'

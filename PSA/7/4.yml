@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 7:4" class="v">4</span>If I
+  have rewarded evil unto him that was at peace with me; (yea, I have delivered
+  him that without cause is mine enemy:)</p>
+id: PSA/7/4
+next:
+  id: PSA/7/5
+  number: '5'
+previous:
+  id: PSA/7/3
+  number: '3'
+reference: 'Psalms 7:4'

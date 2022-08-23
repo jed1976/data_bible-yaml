@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 14:18"
+  class="v">18</span>For he that in these things serveth Christ <span
+  class="add">is</span> acceptable to God, and approved of men. </p>
+id: ROM/14/18
+next:
+  id: ROM/14/19
+  number: '19'
+previous:
+  id: ROM/14/17
+  number: '17'
+reference: 'Romans 14:18'

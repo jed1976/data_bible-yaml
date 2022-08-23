@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 26:1" class="v">1</span>In
+  the beginning of the reign of Jehoiakim the son of Josiah king of Judah came
+  this word from the <span class="nd">LORD</span>, saying, </p>
+id: JER/26/1
+next:
+  id: JER/26/2
+  number: '2'
+previous:
+  id: JER/25/38
+  number: '38'
+reference: 'Jeremiah 26:1'

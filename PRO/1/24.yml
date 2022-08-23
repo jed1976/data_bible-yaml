@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 1:24" class="v">24</span>¶
+  Because I have called, and ye refused; I have stretched out my hand, and no
+  man regarded; </p>
+id: PRO/1/24
+next:
+  id: PRO/1/25
+  number: '25'
+previous:
+  id: PRO/1/23
+  number: '23'
+reference: 'Proverbs 1:24'

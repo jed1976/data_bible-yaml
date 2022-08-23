@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 15:4" class="v">4</span>In
+  whose eyes a vile person is contemned; but he honoureth them that fear the
+  <span class="nd">LORD</span>. <span class="add">He that</span> sweareth to
+  <span class="add">his own</span> hurt, and changeth not.</p>
+id: PSA/15/4
+next:
+  id: PSA/15/5
+  number: '5'
+previous:
+  id: PSA/15/3
+  number: '3'
+reference: 'Psalms 15:4'

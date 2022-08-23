@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JAS 3:16" class="v">16</span>For
+  where envying and strife <span class="add">is</span>, there <span
+  class="add">is</span> confusion and every evil work. </p>
+id: JAS/3/16
+next:
+  id: JAS/3/17
+  number: '17'
+previous:
+  id: JAS/3/15
+  number: '15'
+reference: 'James 3:16'

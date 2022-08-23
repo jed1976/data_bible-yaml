@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 21:9" class="v">9</span>So
+  shalt thou put away the <span class="add">guilt of</span> innocent blood from
+  among you, when thou shalt do <span class="add">that which is</span> right in
+  the sight of the <span class="nd">LORD</span>.</p>
+id: DEU/21/9
+next:
+  id: DEU/21/10
+  number: '10'
+previous:
+  id: DEU/21/8
+  number: '8'
+reference: 'Deuteronomy 21:9'

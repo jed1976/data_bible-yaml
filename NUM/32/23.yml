@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 32:23"
+  class="v">23</span>But if ye will not do so, behold, ye have sinned against
+  the <span class="nd">LORD</span>: and be sure your sin will find you out. </p>
+id: NUM/32/23
+next:
+  id: NUM/32/24
+  number: '24'
+previous:
+  id: NUM/32/22
+  number: '22'
+reference: 'Numbers 32:23'

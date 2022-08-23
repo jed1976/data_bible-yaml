@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 26:5" class="v">5</span>Which
+  knew me from the beginning, if they would testify, that after the most
+  straitest sect of our religion I lived a Pharisee. </p>
+id: ACT/26/5
+next:
+  id: ACT/26/6
+  number: '6'
+previous:
+  id: ACT/26/4
+  number: '4'
+reference: 'Acts 26:5'

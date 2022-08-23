@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 1:5" class="v">5</span>¶ Then
+  Adonijah the son of Haggith exalted himself, saying, I will be king: and he
+  prepared him chariots and horsemen, and fifty men to run before him. </p>
+id: 1KI/1/5
+next:
+  id: 1KI/1/6
+  number: '6'
+previous:
+  id: 1KI/1/4
+  number: '4'
+reference: '1 Kings 1:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 19:22"
+  class="v">22</span>Why do ye persecute me as God, and are not satisfied with
+  my flesh?</p>
+id: JOB/19/22
+next:
+  id: JOB/19/23
+  number: '23'
+previous:
+  id: JOB/19/21
+  number: '21'
+reference: 'Job 19:22'

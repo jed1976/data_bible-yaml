@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 41:27" class="v">27</span>He
+  esteemeth iron as straw, <span class="add">and</span> brass as rotten wood.
+  </p>
+id: JOB/41/27
+next:
+  id: JOB/41/28
+  number: '28'
+previous:
+  id: JOB/41/26
+  number: '26'
+reference: 'Job 41:27'

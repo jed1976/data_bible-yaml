@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 12:3" class="v">3</span>And
+  they that be wise shall shine as the brightness of the firmament; and they
+  that turn many to righteousness as the stars for ever and ever. </p>
+id: DAN/12/3
+next:
+  id: DAN/12/4
+  number: '4'
+previous:
+  id: DAN/12/2
+  number: '2'
+reference: 'Daniel 12:3'

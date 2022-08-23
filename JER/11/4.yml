@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 11:4" class="v">4</span>Which
+  I commanded your fathers in the day <span class="add">that</span> I brought
+  them forth out of the land of Egypt, from the iron furnace, saying, Obey my
+  voice, and do them, according to all which I command you: so shall ye be my
+  people, and I will be your God: </p>
+id: JER/11/4
+next:
+  id: JER/11/5
+  number: '5'
+previous:
+  id: JER/11/3
+  number: '3'
+reference: 'Jeremiah 11:4'

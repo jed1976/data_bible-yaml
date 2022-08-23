@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ACT 25:2" class="v">2</span>Then
+  the high priest and the chief of the Jews informed him against Paul, and
+  besought him, </p>
+id: ACT/25/2
+next:
+  id: ACT/25/3
+  number: '3'
+previous:
+  id: ACT/25/1
+  number: '1'
+reference: 'Acts 25:2'

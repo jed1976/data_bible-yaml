@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 4:5" class="v">5</span>Then
+  cometh he to a city of Samaria, which is called Sychar, near to the parcel of
+  ground that Jacob gave to his son Joseph. </p>
+id: JHN/4/5
+next:
+  id: JHN/4/6
+  number: '6'
+previous:
+  id: JHN/4/4
+  number: '4'
+reference: 'John 4:5'

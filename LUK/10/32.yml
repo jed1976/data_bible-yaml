@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 10:32"
+  class="v">32</span><span class="wj">And likewise a Levite, when he was at the
+  place, came and looked <span class="add">on him</span>, and passed by on the
+  other side.</span> </p>
+id: LUK/10/32
+next:
+  id: LUK/10/33
+  number: '33'
+previous:
+  id: LUK/10/31
+  number: '31'
+reference: 'Luke 10:32'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 8:6" class="v">6</span>And
+  Ezra blessed the <span class="nd">LORD</span>, the great God. And all the
+  people answered, Amen, Amen, with lifting up their hands: and they bowed their
+  heads, and worshipped the <span class="nd">LORD</span> with <span
+  class="add">their</span> faces to the ground. </p>
+id: NEH/8/6
+next:
+  id: NEH/8/7
+  number: '7'
+previous:
+  id: NEH/8/5
+  number: '5'
+reference: 'Nehemiah 8:6'

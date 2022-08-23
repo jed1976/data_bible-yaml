@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 3:17"
+  class="v">17</span><span class="wj">For God sent not his Son into the world to
+  condemn the world; but that the world through him might be saved.</span></p>
+id: JHN/3/17
+next:
+  id: JHN/3/18
+  number: '18'
+previous:
+  id: JHN/3/16
+  number: '16'
+reference: 'John 3:17'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JER 2:8" class="v">8</span>The
+  priests said not, Where <span class="add">is</span> the <span
+  class="nd">LORD</span>? and they that handle the law knew me not: the pastors
+  also transgressed against me, and the prophets prophesied by Baal, and walked
+  after <span class="add">things that</span> do not profit.</p>
+id: JER/2/8
+next:
+  id: JER/2/9
+  number: '9'
+previous:
+  id: JER/2/7
+  number: '7'
+reference: 'Jeremiah 2:8'

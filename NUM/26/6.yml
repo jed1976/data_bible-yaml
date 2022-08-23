@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 26:6" class="v">6</span>Of
+  Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.
+  </p>
+id: NUM/26/6
+next:
+  id: NUM/26/7
+  number: '7'
+previous:
+  id: NUM/26/5
+  number: '5'
+reference: 'Numbers 26:6'

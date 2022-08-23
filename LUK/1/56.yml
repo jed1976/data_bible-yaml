@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LUK 1:56" class="v">56</span>And
+  Mary abode with her about three months, and returned to her own house. </p>
+id: LUK/1/56
+next:
+  id: LUK/1/57
+  number: '57'
+previous:
+  id: LUK/1/55
+  number: '55'
+reference: 'Luke 1:56'

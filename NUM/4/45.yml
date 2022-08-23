@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="NUM 4:45"
+  class="v">45</span>These <span class="add">be</span> those that were numbered
+  of the families of the sons of Merari, whom Moses and Aaron numbered according
+  to the word of the <span class="nd">LORD</span> by the hand of Moses. </p>
+id: NUM/4/45
+next:
+  id: NUM/4/46
+  number: '46'
+previous:
+  id: NUM/4/44
+  number: '44'
+reference: 'Numbers 4:45'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 1:16"
+  class="v">16</span>These <span class="add">were</span> the renowned of the
+  congregation, princes of the tribes of their fathers, heads of thousands in
+  Israel.</p>
+id: NUM/1/16
+next:
+  id: NUM/1/17
+  number: '17'
+previous:
+  id: NUM/1/15
+  number: '15'
+reference: 'Numbers 1:16'

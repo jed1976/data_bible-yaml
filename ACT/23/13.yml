@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 23:13"
+  class="v">13</span>And they were more than forty which had made this
+  conspiracy. </p>
+id: ACT/23/13
+next:
+  id: ACT/23/14
+  number: '14'
+previous:
+  id: ACT/23/12
+  number: '12'
+reference: 'Acts 23:13'

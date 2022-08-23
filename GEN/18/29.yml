@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 18:29"
+  class="v">29</span>And he spake unto him yet again, and said, Peradventure
+  there shall be forty found there. And he said, I will not do <span
+  class="add">it</span> for forty’s sake. </p>
+id: GEN/18/29
+next:
+  id: GEN/18/30
+  number: '30'
+previous:
+  id: GEN/18/28
+  number: '28'
+reference: 'Genesis 18:29'

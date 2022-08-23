@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 10:1" class="v">1</span>Ask
+  ye of the <span class="nd">LORD</span> rain in the time of the latter rain;
+  <span class="add">so</span> the <span class="nd">LORD</span> shall make bright
+  clouds, and give them showers of rain, to every one grass in the field. </p>
+id: ZEC/10/1
+next:
+  id: ZEC/10/2
+  number: '2'
+previous:
+  id: ZEC/9/17
+  number: '17'
+reference: 'Zechariah 10:1'

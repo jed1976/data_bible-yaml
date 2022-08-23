@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 11:8" class="v">8</span>How
+  shall I give thee up, Ephraim? <span class="add">how</span> shall I deliver
+  thee, Israel? how shall I make thee as Admah? <span class="add">how</span>
+  shall I set thee as Zeboim? mine heart is turned within me, my repentings are
+  kindled together. </p>
+id: HOS/11/8
+next:
+  id: HOS/11/9
+  number: '9'
+previous:
+  id: HOS/11/7
+  number: '7'
+reference: 'Hosea 11:8'

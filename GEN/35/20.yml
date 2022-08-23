@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 35:20"
+  class="v">20</span>And Jacob set a pillar upon her grave: that <span
+  class="add">is</span> the pillar of Rachel’s grave unto this day.</p>
+id: GEN/35/20
+next:
+  id: GEN/35/21
+  number: '21'
+previous:
+  id: GEN/35/19
+  number: '19'
+reference: 'Genesis 35:20'

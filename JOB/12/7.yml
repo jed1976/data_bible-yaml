@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 12:7" class="v">7</span>But
+  ask now the beasts, and they shall teach thee; and the fowls of the air, and
+  they shall tell thee: </p>
+id: JOB/12/7
+next:
+  id: JOB/12/8
+  number: '8'
+previous:
+  id: JOB/12/6
+  number: '6'
+reference: 'Job 12:7'

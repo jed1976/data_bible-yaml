@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 27:25"
+  class="v">25</span>Cursed <span class="add">be</span> he that taketh reward to
+  slay an innocent person. And all the people shall say, Amen. </p>
+id: DEU/27/25
+next:
+  id: DEU/27/26
+  number: '26'
+previous:
+  id: DEU/27/24
+  number: '24'
+reference: 'Deuteronomy 27:25'

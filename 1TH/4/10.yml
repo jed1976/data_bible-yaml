@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1TH 4:10" class="v">10</span>And
+  indeed ye do it toward all the brethren which are in all Macedonia: but we
+  beseech you, brethren, that ye increase more and more; </p>
+id: 1TH/4/10
+next:
+  id: 1TH/4/11
+  number: '11'
+previous:
+  id: 1TH/4/9
+  number: '9'
+reference: '1 Thessalonians 4:10'

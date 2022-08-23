@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 25:20"
+  class="v">20</span>And if ye shall say, What shall we eat the seventh year?
+  behold, we shall not sow, nor gather in our increase: </p>
+id: LEV/25/20
+next:
+  id: LEV/25/21
+  number: '21'
+previous:
+  id: LEV/25/19
+  number: '19'
+reference: 'Leviticus 25:20'

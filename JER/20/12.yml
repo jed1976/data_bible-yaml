@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 20:12"
+  class="v">12</span>But, O <span class="nd">LORD</span> of hosts, that triest
+  the righteous, <span class="add">and</span> seest the reins and the heart, let
+  me see thy vengeance on them: for unto thee have I opened my cause. </p>
+id: JER/20/12
+next:
+  id: JER/20/13
+  number: '13'
+previous:
+  id: JER/20/11
+  number: '11'
+reference: 'Jeremiah 20:12'

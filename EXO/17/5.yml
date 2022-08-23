@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 17:5" class="v">5</span>And
+  the <span class="nd">LORD</span> said unto Moses, Go on before the people, and
+  take with thee of the elders of Israel; and thy rod, wherewith thou smotest
+  the river, take in thine hand, and go. </p>
+id: EXO/17/5
+next:
+  id: EXO/17/6
+  number: '6'
+previous:
+  id: EXO/17/4
+  number: '4'
+reference: 'Exodus 17:5'

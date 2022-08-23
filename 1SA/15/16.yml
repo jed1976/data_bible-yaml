@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 15:16"
+  class="v">16</span>Then Samuel said unto Saul, Stay, and I will tell thee what
+  the <span class="nd">LORD</span> hath said to me this night. And he said unto
+  him, Say on. </p>
+id: 1SA/15/16
+next:
+  id: 1SA/15/17
+  number: '17'
+previous:
+  id: 1SA/15/15
+  number: '15'
+reference: '1 Samuel 15:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 12:12"
+  class="v">12</span>And Elon the Zebulonite died, and was buried in Aijalon in
+  the country of Zebulun.</p>
+id: JDG/12/12
+next:
+  id: JDG/12/13
+  number: '13'
+previous:
+  id: JDG/12/11
+  number: '11'
+reference: 'Judges 12:12'

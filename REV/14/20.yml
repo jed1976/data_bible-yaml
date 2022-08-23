@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="REV 14:20"
+  class="v">20</span>And the winepress was trodden without the city, and blood
+  came out of the winepress, even unto the horse bridles, by the space of a
+  thousand <span class="add">and</span> six hundred furlongs.</p>
+id: REV/14/20
+next:
+  id: REV/15/1
+  number: '1'
+previous:
+  id: REV/14/19
+  number: '19'
+reference: 'Revelation 14:20'

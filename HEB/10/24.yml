@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="HEB 10:24"
+  class="v">24</span>And let us consider one another to provoke unto love and to
+  good works: </p>
+id: HEB/10/24
+next:
+  id: HEB/10/25
+  number: '25'
+previous:
+  id: HEB/10/23
+  number: '23'
+reference: 'Hebrews 10:24'

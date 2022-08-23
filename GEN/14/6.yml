@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 14:6" class="v">6</span>And
+  the Horites in their mount Seir, unto El-paran, which <span
+  class="add">is</span> by the wilderness. </p>
+id: GEN/14/6
+next:
+  id: GEN/14/7
+  number: '7'
+previous:
+  id: GEN/14/5
+  number: '5'
+reference: 'Genesis 14:6'

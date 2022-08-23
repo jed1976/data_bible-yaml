@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 12:1"
+  class="v">1</span>Wherefore seeing we also are compassed about with so great a
+  cloud of witnesses, let us lay aside every weight, and the sin which doth so
+  easily beset <span class="add">us</span>, and let us run with patience the
+  race that is set before us, </p>
+id: HEB/12/1
+next:
+  id: HEB/12/2
+  number: '2'
+previous:
+  id: HEB/11/40
+  number: '40'
+reference: 'Hebrews 12:1'

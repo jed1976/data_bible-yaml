@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 31:22" class="v">22</span>¶
+  How long wilt thou go about, O thou backsliding daughter? for the <span
+  class="nd">LORD</span> hath created a new thing in the earth, A woman shall
+  compass a man. </p>
+id: JER/31/22
+next:
+  id: JER/31/23
+  number: '23'
+previous:
+  id: JER/31/21
+  number: '21'
+reference: 'Jeremiah 31:22'

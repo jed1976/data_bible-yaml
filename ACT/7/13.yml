@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 7:13" class="v">13</span>And
+  at the second <span class="add">time</span> Joseph was made known to his
+  brethren; and Joseph’s kindred was made known unto Pharaoh. </p>
+id: ACT/7/13
+next:
+  id: ACT/7/14
+  number: '14'
+previous:
+  id: ACT/7/12
+  number: '12'
+reference: 'Acts 7:13'

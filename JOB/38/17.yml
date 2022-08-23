@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 38:17"
+  class="v">17</span>Have the gates of death been opened unto thee? or hast thou
+  seen the doors of the shadow of death? </p>
+id: JOB/38/17
+next:
+  id: JOB/38/18
+  number: '18'
+previous:
+  id: JOB/38/16
+  number: '16'
+reference: 'Job 38:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2SA 7:6"
+  class="v">6</span>Whereas I have not dwelt in <span class="add">any</span>
+  house since the time that I brought up the children of Israel out of Egypt,
+  even to this day, but have walked in a tent and in a tabernacle. </p>
+id: 2SA/7/6
+next:
+  id: 2SA/7/7
+  number: '7'
+previous:
+  id: 2SA/7/5
+  number: '5'
+reference: '2 Samuel 7:6'

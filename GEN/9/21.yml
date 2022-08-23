@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 9:21" class="v">21</span>And
+  he drank of the wine, and was drunken; and he was uncovered within his tent.
+  </p>
+id: GEN/9/21
+next:
+  id: GEN/9/22
+  number: '22'
+previous:
+  id: GEN/9/20
+  number: '20'
+reference: 'Genesis 9:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 35:3" class="v">3</span>And
+  let us arise, and go up to Beth-el; and I will make there an altar unto God,
+  who answered me in the day of my distress, and was with me in the way which I
+  went. </p>
+id: GEN/35/3
+next:
+  id: GEN/35/4
+  number: '4'
+previous:
+  id: GEN/35/2
+  number: '2'
+reference: 'Genesis 35:3'

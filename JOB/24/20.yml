@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 24:20"
+  class="v">20</span>The womb shall forget him; the worm shall feed sweetly on
+  him; he shall be no more remembered; and wickedness shall be broken as a tree.
+  </p>
+id: JOB/24/20
+next:
+  id: JOB/24/21
+  number: '21'
+previous:
+  id: JOB/24/19
+  number: '19'
+reference: 'Job 24:20'

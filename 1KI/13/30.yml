@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1KI 13:30"
+  class="v">30</span>And he laid his carcase in his own grave; and they mourned
+  over him, <span class="add">saying</span>, Alas, my brother! </p>
+id: 1KI/13/30
+next:
+  id: 1KI/13/31
+  number: '31'
+previous:
+  id: 1KI/13/29
+  number: '29'
+reference: '1 Kings 13:30'

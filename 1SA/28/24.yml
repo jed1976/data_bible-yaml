@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1SA 28:24"
+  class="v">24</span>And the woman had a fat calf in the house; and she hasted,
+  and killed it, and took flour, and kneaded <span class="add">it</span>, and
+  did bake unleavened bread thereof: </p>
+id: 1SA/28/24
+next:
+  id: 1SA/28/25
+  number: '25'
+previous:
+  id: 1SA/28/23
+  number: '23'
+reference: '1 Samuel 28:24'

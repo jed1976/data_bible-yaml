@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 7:21" class="v">21</span>And
+  why dost thou not pardon my transgression, and take away mine iniquity? for
+  now shall I sleep in the dust; and thou shalt seek me in the morning, but I
+  <span class="add">shall</span> not <span class="add">be</span>.</p>
+id: JOB/7/21
+next:
+  id: JOB/8/1
+  number: '1'
+previous:
+  id: JOB/7/20
+  number: '20'
+reference: 'Job 7:21'

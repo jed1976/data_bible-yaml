@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 9:14" class="v">14</span>¶
+  Then came to him the disciples of John, saying, Why do we and the Pharisees
+  fast oft, but thy disciples fast not? </p>
+id: MAT/9/14
+next:
+  id: MAT/9/15
+  number: '15'
+previous:
+  id: MAT/9/13
+  number: '13'
+reference: 'Matthew 9:14'

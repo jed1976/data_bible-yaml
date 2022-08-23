@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 30:7" class="v">7</span>And
+  Aaron shall burn thereon sweet incense every morning: when he dresseth the
+  lamps, he shall burn incense upon it. </p>
+id: EXO/30/7
+next:
+  id: EXO/30/8
+  number: '8'
+previous:
+  id: EXO/30/6
+  number: '6'
+reference: 'Exodus 30:7'

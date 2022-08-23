@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 22:8" class="v">8</span>That
+  which dieth of itself, or is torn <span class="add">with beasts</span>, he
+  shall not eat to defile himself therewith: I <span class="add">am</span> the
+  <span class="nd">LORD</span>. </p>
+id: LEV/22/8
+next:
+  id: LEV/22/9
+  number: '9'
+previous:
+  id: LEV/22/7
+  number: '7'
+reference: 'Leviticus 22:8'

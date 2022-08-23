@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="MAT 26:55" class="v">55</span>In
+  that same hour said Jesus to the multitudes, <span class="wj">Are ye come out
+  as against a thief with swords and staves for to take me? I sat daily with you
+  teaching in the temple, and ye laid no hold on me.</span> </p>
+id: MAT/26/55
+next:
+  id: MAT/26/56
+  number: '56'
+previous:
+  id: MAT/26/54
+  number: '54'
+reference: 'Matthew 26:55'

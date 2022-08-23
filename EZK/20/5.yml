@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 20:5" class="v">5</span>¶ And
+  say unto them, Thus saith the Lord <span class="nd">GOD</span>; In the day
+  when I chose Israel, and lifted up mine hand unto the seed of the house of
+  Jacob, and made myself known unto them in the land of Egypt, when I lifted up
+  mine hand unto them, saying, I <span class="add">am</span> the <span
+  class="nd">LORD</span> your God; </p>
+id: EZK/20/5
+next:
+  id: EZK/20/6
+  number: '6'
+previous:
+  id: EZK/20/4
+  number: '4'
+reference: 'Ezekiel 20:5'

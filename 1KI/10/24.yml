@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1KI 10:24" class="v">24</span>¶
+  And all the earth sought to Solomon, to hear his wisdom, which God had put in
+  his heart. </p>
+id: 1KI/10/24
+next:
+  id: 1KI/10/25
+  number: '25'
+previous:
+  id: 1KI/10/23
+  number: '23'
+reference: '1 Kings 10:24'

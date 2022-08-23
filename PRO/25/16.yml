@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 25:16"
+  class="v">16</span>Hast thou found honey? eat so much as is sufficient for
+  thee, lest thou be filled therewith, and vomit it. </p>
+id: PRO/25/16
+next:
+  id: PRO/25/17
+  number: '17'
+previous:
+  id: PRO/25/15
+  number: '15'
+reference: 'Proverbs 25:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 10:11"
+  class="v">11</span>And the navy also of Hiram, that brought gold from Ophir,
+  brought in from Ophir great plenty of almug trees, and precious stones. </p>
+id: 1KI/10/11
+next:
+  id: 1KI/10/12
+  number: '12'
+previous:
+  id: 1KI/10/10
+  number: '10'
+reference: '1 Kings 10:11'

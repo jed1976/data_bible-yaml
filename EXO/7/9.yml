@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 7:9" class="v">9</span>When
+  Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt
+  say unto Aaron, Take thy rod, and cast <span class="add">it</span> before
+  Pharaoh, <span class="add">and</span> it shall become a serpent.</p>
+id: EXO/7/9
+next:
+  id: EXO/7/10
+  number: '10'
+previous:
+  id: EXO/7/8
+  number: '8'
+reference: 'Exodus 7:9'

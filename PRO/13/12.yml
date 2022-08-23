@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 13:12"
+  class="v">12</span>Hope deferred maketh the heart sick: but <span
+  class="add">when</span> the desire cometh, <span class="add">it is</span> a
+  tree of life. </p>
+id: PRO/13/12
+next:
+  id: PRO/13/13
+  number: '13'
+previous:
+  id: PRO/13/11
+  number: '11'
+reference: 'Proverbs 13:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 1:13" class="v">13</span>Now
+  I would not have you ignorant, brethren, that oftentimes I purposed to come
+  unto you, (but was let hitherto,) that I might have some fruit among you also,
+  even as among other Gentiles. </p>
+id: ROM/1/13
+next:
+  id: ROM/1/14
+  number: '14'
+previous:
+  id: ROM/1/12
+  number: '12'
+reference: 'Romans 1:13'

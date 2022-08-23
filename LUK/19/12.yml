@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 19:12" class="v">12</span>He
+  said therefore, <span class="wj">A certain nobleman went into a far country to
+  receive for himself a kingdom, and to return.</span> </p>
+id: LUK/19/12
+next:
+  id: LUK/19/13
+  number: '13'
+previous:
+  id: LUK/19/11
+  number: '11'
+reference: 'Luke 19:12'

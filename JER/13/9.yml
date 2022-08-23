@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 13:9" class="v">9</span>Thus
+  saith the <span class="nd">LORD</span>, After this manner will I mar the pride
+  of Judah, and the great pride of Jerusalem. </p>
+id: JER/13/9
+next:
+  id: JER/13/10
+  number: '10'
+previous:
+  id: JER/13/8
+  number: '8'
+reference: 'Jeremiah 13:9'

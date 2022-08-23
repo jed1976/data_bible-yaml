@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 21:25"
+  class="v">25</span>And Abraham reproved Abimelech because of a well of water,
+  which Abimelech’s servants had violently taken away. </p>
+id: GEN/21/25
+next:
+  id: GEN/21/26
+  number: '26'
+previous:
+  id: GEN/21/24
+  number: '24'
+reference: 'Genesis 21:25'

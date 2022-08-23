@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 49:11"
+  class="v">11</span>Leave thy fatherless children, I will preserve <span
+  class="add">them</span> alive; and let thy widows trust in me. </p>
+id: JER/49/11
+next:
+  id: JER/49/12
+  number: '12'
+previous:
+  id: JER/49/10
+  number: '10'
+reference: 'Jeremiah 49:11'

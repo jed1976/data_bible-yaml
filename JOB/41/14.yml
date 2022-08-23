@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 41:14"
+  class="v">14</span>Who can open the doors of his face? his teeth <span
+  class="add">are</span> terrible round about. </p>
+id: JOB/41/14
+next:
+  id: JOB/41/15
+  number: '15'
+previous:
+  id: JOB/41/13
+  number: '13'
+reference: 'Job 41:14'

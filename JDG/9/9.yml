@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 9:9" class="v">9</span>But
+  the olive tree said unto them, Should I leave my fatness, wherewith by me they
+  honour God and man, and go to be promoted over the trees? </p>
+id: JDG/9/9
+next:
+  id: JDG/9/10
+  number: '10'
+previous:
+  id: JDG/9/8
+  number: '8'
+reference: 'Judges 9:9'

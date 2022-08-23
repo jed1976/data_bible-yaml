@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 28:16" class="v">16</span>¶
+  And Jacob awaked out of his sleep, and he said, Surely the <span
+  class="nd">LORD</span> is in this place; and I knew <span
+  class="add">it</span> not. </p>
+id: GEN/28/16
+next:
+  id: GEN/28/17
+  number: '17'
+previous:
+  id: GEN/28/15
+  number: '15'
+reference: 'Genesis 28:16'

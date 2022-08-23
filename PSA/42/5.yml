@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 42:5" class="v">5</span>Why
+  art thou cast down, O my soul? and <span class="add">why</span> art thou
+  disquieted in me? hope thou in God: for I shall yet praise him <span
+  class="add">for</span> the help of his countenance.</p>
+id: PSA/42/5
+next:
+  id: PSA/42/6
+  number: '6'
+previous:
+  id: PSA/42/4
+  number: '4'
+reference: 'Psalms 42:5'

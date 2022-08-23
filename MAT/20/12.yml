@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 20:12"
+  class="v">12</span><span class="wj">Saying, These last have wrought <span
+  class="add">but</span> one hour, and thou hast made them equal unto us, which
+  have borne the burden and heat of the day.</span> </p>
+id: MAT/20/12
+next:
+  id: MAT/20/13
+  number: '13'
+previous:
+  id: MAT/20/11
+  number: '11'
+reference: 'Matthew 20:12'

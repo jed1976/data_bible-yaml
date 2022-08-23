@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 28:19"
+  class="v">19</span>And he called the name of that place Beth-el: but the name
+  of that city <span class="add">was called</span> Luz at the first. </p>
+id: GEN/28/19
+next:
+  id: GEN/28/20
+  number: '20'
+previous:
+  id: GEN/28/18
+  number: '18'
+reference: 'Genesis 28:19'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JAS 3:18" class="v">18</span>And
+  the fruit of righteousness is sown in peace of them that make peace.</p>
+id: JAS/3/18
+next:
+  id: JAS/4/1
+  number: '1'
+previous:
+  id: JAS/3/17
+  number: '17'
+reference: 'James 3:18'

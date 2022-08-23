@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1CH 12:27"
+  class="v">27</span>And Jehoiada <span class="add">was</span> the leader of the
+  Aaronites, and with him <span class="add">were</span> three thousand and seven
+  hundred; </p>
+id: 1CH/12/27
+next:
+  id: 1CH/12/28
+  number: '28'
+previous:
+  id: 1CH/12/26
+  number: '26'
+reference: '1 Chronicles 12:27'

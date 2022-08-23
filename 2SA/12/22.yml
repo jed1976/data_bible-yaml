@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 12:22"
+  class="v">22</span>And he said, While the child was yet alive, I fasted and
+  wept: for I said, Who can tell <span class="add">whether</span> <span
+  class="nd">GOD</span> will be gracious to me, that the child may live? </p>
+id: 2SA/12/22
+next:
+  id: 2SA/12/23
+  number: '23'
+previous:
+  id: 2SA/12/21
+  number: '21'
+reference: '2 Samuel 12:22'

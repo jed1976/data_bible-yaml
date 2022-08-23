@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="1KI 1:48" class="v">48</span>And
+  also thus said the king, Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span> God of Israel, which hath given <span
+  class="add">one</span> to sit on my throne this day, mine eyes even seeing
+  <span class="add">it</span>. </p>
+id: 1KI/1/48
+next:
+  id: 1KI/1/49
+  number: '49'
+previous:
+  id: 1KI/1/47
+  number: '47'
+reference: '1 Kings 1:48'

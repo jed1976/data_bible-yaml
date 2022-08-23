@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 41:22"
+  class="v">22</span>Let them bring <span class="add">them</span> forth, and
+  shew us what shall happen: let them shew the former things, what they <span
+  class="add">be</span>, that we may consider them, and know the latter end of
+  them; or declare us things for to come. </p>
+id: ISA/41/22
+next:
+  id: ISA/41/23
+  number: '23'
+previous:
+  id: ISA/41/21
+  number: '21'
+reference: 'Isaiah 41:22'

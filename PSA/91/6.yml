@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 91:6"
+  class="v">6</span><span class="add">Nor</span> for the pestilence <span
+  class="add">that</span> walketh in darkness; <span class="add">nor</span> for
+  the destruction <span class="add">that</span> wasteth at noonday.</p>
+id: PSA/91/6
+next:
+  id: PSA/91/7
+  number: '7'
+previous:
+  id: PSA/91/5
+  number: '5'
+reference: 'Psalms 91:6'

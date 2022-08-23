@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 20:21"
+  class="v">21</span>And the people stood afar off, and Moses drew near unto the
+  thick darkness where God <span class="add">was</span>.</p>
+id: EXO/20/21
+next:
+  id: EXO/20/22
+  number: '22'
+previous:
+  id: EXO/20/20
+  number: '20'
+reference: 'Exodus 20:21'

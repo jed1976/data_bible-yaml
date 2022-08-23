@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 102:3" class="v">3</span>For
+  my days are consumed like smoke, and my bones are burned as an hearth.</p>
+id: PSA/102/3
+next:
+  id: PSA/102/4
+  number: '4'
+previous:
+  id: PSA/102/2
+  number: '2'
+reference: 'Psalms 102:3'

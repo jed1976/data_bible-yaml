@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician, <span class="add">A Psalm</span> of David
+  the servant of the <span class="nd">LORD</span>.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 36:1" class="v">1</span>The transgression of the
+  wicked saith within my heart, <span class="add">that there is</span> no fear
+  of God before his eyes.</p>
+id: PSA/36/1
+next:
+  id: PSA/36/2
+  number: '2'
+previous:
+  id: PSA/35/28
+  number: '28'
+reference: 'Psalms 36:1'

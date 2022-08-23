@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NAM 1:3" class="v">3</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> slow to anger, and
+  great in power, and will not at all acquit <span class="add">the
+  wicked:</span> the <span class="nd">LORD</span> hath his way in the whirlwind
+  and in the storm, and the clouds <span class="add">are</span> the dust of his
+  feet. </p>
+id: NAM/1/3
+next:
+  id: NAM/1/4
+  number: '4'
+previous:
+  id: NAM/1/2
+  number: '2'
+reference: 'Nahum 1:3'

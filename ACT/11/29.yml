@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 11:29"
+  class="v">29</span>Then the disciples, every man according to his ability,
+  determined to send relief unto the brethren which dwelt in Judæa: </p>
+id: ACT/11/29
+next:
+  id: ACT/11/30
+  number: '30'
+previous:
+  id: ACT/11/28
+  number: '28'
+reference: 'Acts 11:29'

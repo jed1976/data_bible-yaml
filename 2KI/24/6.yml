@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 24:6" class="v">6</span>So
+  Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.
+  </p>
+id: 2KI/24/6
+next:
+  id: 2KI/24/7
+  number: '7'
+previous:
+  id: 2KI/24/5
+  number: '5'
+reference: '2 Kings 24:6'

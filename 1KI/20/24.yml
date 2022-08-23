@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1KI 20:24"
+  class="v">24</span>And do this thing, Take the kings away, every man out of
+  his place, and put captains in their rooms: </p>
+id: 1KI/20/24
+next:
+  id: 1KI/20/25
+  number: '25'
+previous:
+  id: 1KI/20/23
+  number: '23'
+reference: '1 Kings 20:24'

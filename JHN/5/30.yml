@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 5:30"
+  class="v">30</span><span class="wj">I can of mine own self do nothing: as I
+  hear, I judge: and my judgment is just; because I seek not mine own will, but
+  the will of the Father which hath sent me.</span> </p>
+id: JHN/5/30
+next:
+  id: JHN/5/31
+  number: '31'
+previous:
+  id: JHN/5/29
+  number: '29'
+reference: 'John 5:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 69:14"
+  class="v">14</span>Deliver me out of the mire, and let me not sink: let me be
+  delivered from them that hate me, and out of the deep waters.</p>
+id: PSA/69/14
+next:
+  id: PSA/69/15
+  number: '15'
+previous:
+  id: PSA/69/13
+  number: '13'
+reference: 'Psalms 69:14'

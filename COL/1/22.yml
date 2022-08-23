@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="COL 1:22" class="v">22</span>In
+  the body of his flesh through death, to present you holy and unblameable and
+  unreproveable in his sight: </p>
+id: COL/1/22
+next:
+  id: COL/1/23
+  number: '23'
+previous:
+  id: COL/1/21
+  number: '21'
+reference: 'Colossians 1:22'

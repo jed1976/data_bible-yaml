@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 12:5" class="v">5</span><span
+  class="wj">But I will forewarn you whom ye shall fear: Fear him, which after
+  he hath killed hath power to cast into hell; yea, I say unto you, Fear
+  him.</span> </p>
+id: LUK/12/5
+next:
+  id: LUK/12/6
+  number: '6'
+previous:
+  id: LUK/12/4
+  number: '4'
+reference: 'Luke 12:5'

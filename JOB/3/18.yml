@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 3:18"
+  class="v">18</span><span class="add">There</span> the prisoners rest together;
+  they hear not the voice of the oppressor. </p>
+id: JOB/3/18
+next:
+  id: JOB/3/19
+  number: '19'
+previous:
+  id: JOB/3/17
+  number: '17'
+reference: 'Job 3:18'

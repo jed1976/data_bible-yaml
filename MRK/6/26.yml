@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 6:26" class="v">26</span>And
+  the king was exceeding sorry; <span class="add">yet</span> for his oath’s
+  sake, and for their sakes which sat with him, he would not reject her. </p>
+id: MRK/6/26
+next:
+  id: MRK/6/27
+  number: '27'
+previous:
+  id: MRK/6/25
+  number: '25'
+reference: 'Mark 6:26'

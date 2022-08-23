@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 11:21"
+  class="v">21</span>Then said Martha unto Jesus, Lord, if thou hadst been here,
+  my brother had not died. </p>
+id: JHN/11/21
+next:
+  id: JHN/11/22
+  number: '22'
+previous:
+  id: JHN/11/20
+  number: '20'
+reference: 'John 11:21'

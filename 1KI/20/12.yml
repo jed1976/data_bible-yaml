@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 20:12"
+  class="v">12</span>And it came to pass, when <span
+  class="add">Ben-hadad</span> heard this message, as he <span
+  class="add">was</span> drinking, he and the kings in the pavilions, that he
+  said unto his servants, Set <span class="add">yourselves in array</span>. And
+  they set <span class="add">themselves in array</span> against the city.</p>
+id: 1KI/20/12
+next:
+  id: 1KI/20/13
+  number: '13'
+previous:
+  id: 1KI/20/11
+  number: '11'
+reference: '1 Kings 20:12'

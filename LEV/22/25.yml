@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 22:25"
+  class="v">25</span>Neither from a stranger’s hand shall ye offer the bread of
+  your God of any of these; because their corruption <span class="add">is</span>
+  in them, <span class="add">and</span> blemishes <span class="add">be</span> in
+  them: they shall not be accepted for you.</p>
+id: LEV/22/25
+next:
+  id: LEV/22/26
+  number: '26'
+previous:
+  id: LEV/22/24
+  number: '24'
+reference: 'Leviticus 22:25'

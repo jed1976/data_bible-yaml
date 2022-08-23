@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 12:35"
+  class="v">35</span><span class="wj">Let your loins be girded about, and <span
+  class="add">your</span> lights burning;</span> </p>
+id: LUK/12/35
+next:
+  id: LUK/12/36
+  number: '36'
+previous:
+  id: LUK/12/34
+  number: '34'
+reference: 'Luke 12:35'

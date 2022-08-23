@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 13:20"
+  class="v">20</span>And Absalom her brother said unto her, Hath Amnon thy
+  brother been with thee? but hold now thy peace, my sister: he <span
+  class="add">is</span> thy brother; regard not this thing. So Tamar remained
+  desolate in her brother Absalom’s house.</p>
+id: 2SA/13/20
+next:
+  id: 2SA/13/21
+  number: '21'
+previous:
+  id: 2SA/13/19
+  number: '19'
+reference: '2 Samuel 13:20'

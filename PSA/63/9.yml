@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 63:9" class="v">9</span>But
+  those <span class="add">that</span> seek my soul, to destroy <span
+  class="add">it</span>, shall go into the lower parts of the earth.</p>
+id: PSA/63/9
+next:
+  id: PSA/63/10
+  number: '10'
+previous:
+  id: PSA/63/8
+  number: '8'
+reference: 'Psalms 63:9'

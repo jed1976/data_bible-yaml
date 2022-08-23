@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 7:1" class="v">1</span>And it
+  came to pass on the day that Moses had fully set up the tabernacle, and had
+  anointed it, and sanctified it, and all the instruments thereof, both the
+  altar and all the vessels thereof, and had anointed them, and sanctified them;
+  </p>
+id: NUM/7/1
+next:
+  id: NUM/7/2
+  number: '2'
+previous:
+  id: NUM/6/27
+  number: '27'
+reference: 'Numbers 7:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 147:4" class="v">4</span>He
+  telleth the number of the stars; he calleth them all by <span
+  class="add">their</span> names.</p>
+id: PSA/147/4
+next:
+  id: PSA/147/5
+  number: '5'
+previous:
+  id: PSA/147/3
+  number: '3'
+reference: 'Psalms 147:4'

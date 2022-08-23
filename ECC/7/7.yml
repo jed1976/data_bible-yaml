@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 7:7" class="v">7</span>¶
+  Surely oppression maketh a wise man mad; and a gift destroyeth the heart. </p>
+id: ECC/7/7
+next:
+  id: ECC/7/8
+  number: '8'
+previous:
+  id: ECC/7/6
+  number: '6'
+reference: 'Ecclesiastes 7:7'

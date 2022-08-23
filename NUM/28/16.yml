@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 28:16"
+  class="v">16</span>And in the fourteenth day of the first month <span
+  class="add">is</span> the passover of the <span class="nd">LORD</span>. </p>
+id: NUM/28/16
+next:
+  id: NUM/28/17
+  number: '17'
+previous:
+  id: NUM/28/15
+  number: '15'
+reference: 'Numbers 28:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 52:15" class="v">15</span>So
+  shall he sprinkle many nations; the kings shall shut their mouths at him: for
+  <span class="add">that</span> which had not been told them shall they see; and
+  <span class="add">that</span> which they had not heard shall they
+  consider.</p>
+id: ISA/52/15
+next:
+  id: ISA/53/1
+  number: '1'
+previous:
+  id: ISA/52/14
+  number: '14'
+reference: 'Isaiah 52:15'

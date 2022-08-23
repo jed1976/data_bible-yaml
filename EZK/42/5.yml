@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 42:5" class="v">5</span>Now
+  the upper chambers <span class="add">were</span> shorter: for the galleries
+  were higher than these, than the lower, and than the middlemost of the
+  building. </p>
+id: EZK/42/5
+next:
+  id: EZK/42/6
+  number: '6'
+previous:
+  id: EZK/42/4
+  number: '4'
+reference: 'Ezekiel 42:5'

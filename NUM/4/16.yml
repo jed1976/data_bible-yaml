@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 4:16" class="v">16</span>¶
+  And to the office of Eleazar the son of Aaron the priest <span
+  class="add">pertaineth</span> the oil for the light, and the sweet incense,
+  and the daily meat offering, and the anointing oil, <span
+  class="add">and</span> the oversight of all the tabernacle, and of all that
+  therein <span class="add">is</span>, in the sanctuary, and in the vessels
+  thereof.</p>
+id: NUM/4/16
+next:
+  id: NUM/4/17
+  number: '17'
+previous:
+  id: NUM/4/15
+  number: '15'
+reference: 'Numbers 4:16'

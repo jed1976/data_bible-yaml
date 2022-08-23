@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 22:11"
+  class="v">11</span>Be not far from me; for trouble <span class="add">is</span>
+  near; for <span class="add">there is</span> none to help.</p>
+id: PSA/22/11
+next:
+  id: PSA/22/12
+  number: '12'
+previous:
+  id: PSA/22/10
+  number: '10'
+reference: 'Psalms 22:11'

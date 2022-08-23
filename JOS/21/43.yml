@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JOS 21:43" class="v">43</span>¶
+  And the <span class="nd">LORD</span> gave unto Israel all the land which he
+  sware to give unto their fathers; and they possessed it, and dwelt therein.
+  </p>
+id: JOS/21/43
+next:
+  id: JOS/21/44
+  number: '44'
+previous:
+  id: JOS/21/42
+  number: '42'
+reference: 'Joshua 21:43'

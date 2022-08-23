@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 7:30"
+  class="v">30</span>Then they sought to take him: but no man laid hands on him,
+  because his hour was not yet come. </p>
+id: JHN/7/30
+next:
+  id: JHN/7/31
+  number: '31'
+previous:
+  id: JHN/7/29
+  number: '29'
+reference: 'John 7:30'

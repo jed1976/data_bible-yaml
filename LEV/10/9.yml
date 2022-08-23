@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 10:9" class="v">9</span>Do
+  not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into
+  the tabernacle of the congregation, lest ye die: <span class="add">it shall
+  be</span> a statute for ever throughout your generations: </p>
+id: LEV/10/9
+next:
+  id: LEV/10/10
+  number: '10'
+previous:
+  id: LEV/10/8
+  number: '8'
+reference: 'Leviticus 10:9'

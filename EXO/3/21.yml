@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 3:21" class="v">21</span>And
+  I will give this people favour in the sight of the Egyptians: and it shall
+  come to pass, that, when ye go, ye shall not go empty: </p>
+id: EXO/3/21
+next:
+  id: EXO/3/22
+  number: '22'
+previous:
+  id: EXO/3/20
+  number: '20'
+reference: 'Exodus 3:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 16:9" class="v">9</span>¶
+  Seven weeks shalt thou number unto thee: begin to number the seven weeks from
+  <span class="add">such time as</span> thou beginnest <span class="add">to
+  put</span> the sickle to the corn. </p>
+id: DEU/16/9
+next:
+  id: DEU/16/10
+  number: '10'
+previous:
+  id: DEU/16/8
+  number: '8'
+reference: 'Deuteronomy 16:9'

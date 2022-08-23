@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 32:3"
+  class="v">3</span>Because I will publish the name of the <span
+  class="nd">LORD</span>: ascribe ye greatness unto our God. </p>
+id: DEU/32/3
+next:
+  id: DEU/32/4
+  number: '4'
+previous:
+  id: DEU/32/2
+  number: '2'
+reference: 'Deuteronomy 32:3'

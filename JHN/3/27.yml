@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JHN 3:27"
+  class="v">27</span>John answered and said, A man can receive nothing, except
+  it be given him from heaven. </p>
+id: JHN/3/27
+next:
+  id: JHN/3/28
+  number: '28'
+previous:
+  id: JHN/3/26
+  number: '26'
+reference: 'John 3:27'

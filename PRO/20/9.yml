@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 20:9" class="v">9</span>Who
+  can say, I have made my heart clean, I am pure from my sin? </p>
+id: PRO/20/9
+next:
+  id: PRO/20/10
+  number: '10'
+previous:
+  id: PRO/20/8
+  number: '8'
+reference: 'Proverbs 20:9'

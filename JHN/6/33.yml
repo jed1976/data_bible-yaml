@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 6:33"
+  class="v">33</span><span class="wj">For the bread of God is he which cometh
+  down from heaven, and giveth life unto the world.</span> </p>
+id: JHN/6/33
+next:
+  id: JHN/6/34
+  number: '34'
+previous:
+  id: JHN/6/32
+  number: '32'
+reference: 'John 6:33'

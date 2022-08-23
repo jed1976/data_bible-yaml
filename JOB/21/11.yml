@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 21:11"
+  class="v">11</span>They send forth their little ones like a flock, and their
+  children dance. </p>
+id: JOB/21/11
+next:
+  id: JOB/21/12
+  number: '12'
+previous:
+  id: JOB/21/10
+  number: '10'
+reference: 'Job 21:11'

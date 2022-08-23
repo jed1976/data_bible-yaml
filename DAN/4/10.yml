@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 4:10"
+  class="v">10</span>Thus <span class="add">were</span> the visions of mine head
+  in my bed; I saw, and behold a tree in the midst of the earth, and the height
+  thereof <span class="add">was</span> great. </p>
+id: DAN/4/10
+next:
+  id: DAN/4/11
+  number: '11'
+previous:
+  id: DAN/4/9
+  number: '9'
+reference: 'Daniel 4:10'

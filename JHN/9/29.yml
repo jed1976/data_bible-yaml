@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 9:29" class="v">29</span>We
+  know that God spake unto Moses: <span class="add">as for</span> this <span
+  class="add">fellow</span>, we know not from whence he is. </p>
+id: JHN/9/29
+next:
+  id: JHN/9/30
+  number: '30'
+previous:
+  id: JHN/9/28
+  number: '28'
+reference: 'John 9:29'

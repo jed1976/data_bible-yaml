@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1JN 2:4" class="v">4</span>He
+  that saith, I know him, and keepeth not his commandments, is a liar, and the
+  truth is not in him. </p>
+id: 1JN/2/4
+next:
+  id: 1JN/2/5
+  number: '5'
+previous:
+  id: 1JN/2/3
+  number: '3'
+reference: '1 John 2:4'

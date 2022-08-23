@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 4:6" class="v">6</span>Then
+  he answered and spake unto me, saying, This <span class="add">is</span> the
+  word of the <span class="nd">LORD</span> unto Zerubbabel, saying, Not by
+  might, nor by power, but by my spirit, saith the <span class="nd">LORD</span>
+  of hosts. </p>
+id: ZEC/4/6
+next:
+  id: ZEC/4/7
+  number: '7'
+previous:
+  id: ZEC/4/5
+  number: '5'
+reference: 'Zechariah 4:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 13:1"
+  class="v">1</span>Though I speak with the tongues of men and of angels, and
+  have not charity, I am become <span class="add">as</span> sounding brass, or a
+  tinkling cymbal. </p>
+id: 1CO/13/1
+next:
+  id: 1CO/13/2
+  number: '2'
+previous:
+  id: 1CO/12/31
+  number: '31'
+reference: '1 Corinthians 13:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 19:13"
+  class="v">13</span>And from thence passeth on along on the east to
+  Gittah-hepher, to Ittah-kazin, and goeth out to Remmon-methoar to Neah; </p>
+id: JOS/19/13
+next:
+  id: JOS/19/14
+  number: '14'
+previous:
+  id: JOS/19/12
+  number: '12'
+reference: 'Joshua 19:13'

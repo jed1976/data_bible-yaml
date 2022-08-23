@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 9:8" class="v">8</span>And
+  Poratha, and Adalia, and Aridatha, </p>
+id: EST/9/8
+next:
+  id: EST/9/9
+  number: '9'
+previous:
+  id: EST/9/7
+  number: '7'
+reference: 'Esther 9:8'

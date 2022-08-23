@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 20:1" class="v">1</span>In
+  the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent
+  him,) and fought against Ashdod, and took it; </p>
+id: ISA/20/1
+next:
+  id: ISA/20/2
+  number: '2'
+previous:
+  id: ISA/19/25
+  number: '25'
+reference: 'Isaiah 20:1'

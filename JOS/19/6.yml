@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 19:6" class="v">6</span>And
+  Beth-lebaoth, and Sharuhen; thirteen cities and their villages: </p>
+id: JOS/19/6
+next:
+  id: JOS/19/7
+  number: '7'
+previous:
+  id: JOS/19/5
+  number: '5'
+reference: 'Joshua 19:6'

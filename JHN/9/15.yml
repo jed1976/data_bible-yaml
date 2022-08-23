@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 9:15"
+  class="v">15</span>Then again the Pharisees also asked him how he had received
+  his sight. He said unto them, He put clay upon mine eyes, and I washed, and do
+  see. </p>
+id: JHN/9/15
+next:
+  id: JHN/9/16
+  number: '16'
+previous:
+  id: JHN/9/14
+  number: '14'
+reference: 'John 9:15'

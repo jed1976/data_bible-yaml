@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 1:21" class="v">21</span>And
+  Daniel continued <span class="add">even</span> unto the first year of king
+  Cyrus.</p>
+id: DAN/1/21
+next:
+  id: DAN/2/1
+  number: '1'
+previous:
+  id: DAN/1/20
+  number: '20'
+reference: 'Daniel 1:21'

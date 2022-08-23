@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 14:5" class="v">5</span>¶ And
+  the <span class="nd">LORD</span> said unto Ahijah, Behold, the wife of
+  Jeroboam cometh to ask a thing of thee for her son; for he <span
+  class="add">is</span> sick: thus and thus shalt thou say unto her: for it
+  shall be, when she cometh in, that she shall feign herself <span
+  class="add">to be</span> another <span class="add">woman</span>. </p>
+id: 1KI/14/5
+next:
+  id: 1KI/14/6
+  number: '6'
+previous:
+  id: 1KI/14/4
+  number: '4'
+reference: '1 Kings 14:5'

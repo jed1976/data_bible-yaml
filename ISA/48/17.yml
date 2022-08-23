@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 48:17"
+  class="v">17</span>Thus saith the <span class="nd">LORD</span>, thy Redeemer,
+  the Holy One of Israel; I <span class="add">am</span> the <span
+  class="nd">LORD</span> thy God which teacheth thee to profit, which leadeth
+  thee by the way <span class="add">that</span> thou shouldest go. </p>
+id: ISA/48/17
+next:
+  id: ISA/48/18
+  number: '18'
+previous:
+  id: ISA/48/16
+  number: '16'
+reference: 'Isaiah 48:17'

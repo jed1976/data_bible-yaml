@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 17:4" class="v">4</span>And
+  thou, even thyself, shalt discontinue from thine heritage that I gave thee;
+  and I will cause thee to serve thine enemies in the land which thou knowest
+  not: for ye have kindled a fire in mine anger, <span class="add">which</span>
+  shall burn for ever.</p>
+id: JER/17/4
+next:
+  id: JER/17/5
+  number: '5'
+previous:
+  id: JER/17/3
+  number: '3'
+reference: 'Jeremiah 17:4'

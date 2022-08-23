@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 24:23" class="v">23</span>¶
+  And Moses spake to the children of Israel, that they should bring forth him
+  that had cursed out of the camp, and stone him with stones. And the children
+  of Israel did as the <span class="nd">LORD</span> commanded Moses.</p>
+id: LEV/24/23
+next:
+  id: LEV/25/1
+  number: '1'
+previous:
+  id: LEV/24/22
+  number: '22'
+reference: 'Leviticus 24:23'

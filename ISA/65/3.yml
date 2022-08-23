@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 65:3" class="v">3</span>A
+  people that provoketh me to anger continually to my face; that sacrificeth in
+  gardens, and burneth incense upon altars of brick; </p>
+id: ISA/65/3
+next:
+  id: ISA/65/4
+  number: '4'
+previous:
+  id: ISA/65/2
+  number: '2'
+reference: 'Isaiah 65:3'

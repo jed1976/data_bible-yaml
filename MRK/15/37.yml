@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 15:37"
+  class="v">37</span>And Jesus cried with a loud voice, and gave up the ghost.
+  </p>
+id: MRK/15/37
+next:
+  id: MRK/15/38
+  number: '38'
+previous:
+  id: MRK/15/36
+  number: '36'
+reference: 'Mark 15:37'

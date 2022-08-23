@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 4:10"
+  class="v">10</span>Jesus answered and said unto her, <span class="wj">If thou
+  knewest the gift of God, and who it is that saith to thee, Give me to drink;
+  thou wouldest have asked of him, and he would have given thee living
+  water.</span> </p>
+id: JHN/4/10
+next:
+  id: JHN/4/11
+  number: '11'
+previous:
+  id: JHN/4/9
+  number: '9'
+reference: 'John 4:10'

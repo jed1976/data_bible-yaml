@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1CO 10:32"
+  class="v">32</span>Give none offence, neither to the Jews, nor to the
+  Gentiles, nor to the church of God: </p>
+id: 1CO/10/32
+next:
+  id: 1CO/10/33
+  number: '33'
+previous:
+  id: 1CO/10/31
+  number: '31'
+reference: '1 Corinthians 10:32'

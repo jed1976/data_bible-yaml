@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 24:11"
+  class="v">11</span>And Nebuchadnezzar king of Babylon came against the city,
+  and his servants did besiege it. </p>
+id: 2KI/24/11
+next:
+  id: 2KI/24/12
+  number: '12'
+previous:
+  id: 2KI/24/10
+  number: '10'
+reference: '2 Kings 24:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 28:10" class="v">10</span>¶
+  And Jacob went out from Beer-sheba, and went toward Haran. </p>
+id: GEN/28/10
+next:
+  id: GEN/28/11
+  number: '11'
+previous:
+  id: GEN/28/9
+  number: '9'
+reference: 'Genesis 28:10'

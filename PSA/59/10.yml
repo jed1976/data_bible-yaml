@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 59:10"
+  class="v">10</span>The God of my mercy shall prevent me: God shall let me see
+  <span class="add">my desire</span> upon mine enemies.</p>
+id: PSA/59/10
+next:
+  id: PSA/59/11
+  number: '11'
+previous:
+  id: PSA/59/9
+  number: '9'
+reference: 'Psalms 59:10'

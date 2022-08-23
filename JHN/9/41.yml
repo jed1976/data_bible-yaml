@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 9:41"
+  class="v">41</span>Jesus said unto them, <span class="wj">If ye were blind, ye
+  should have no sin: but now ye say, We see; therefore your sin
+  remaineth.</span></p>
+id: JHN/9/41
+next:
+  id: JHN/10/1
+  number: '1'
+previous:
+  id: JHN/9/40
+  number: '40'
+reference: 'John 9:41'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 6:5" class="v">5</span>¶ Then
+  said I, Woe <span class="add">is</span> me! for I am undone; because I <span
+  class="add">am</span> a man of unclean lips, and I dwell in the midst of a
+  people of unclean lips: for mine eyes have seen the King, the <span
+  class="nd">LORD</span> of hosts. </p>
+id: ISA/6/5
+next:
+  id: ISA/6/6
+  number: '6'
+previous:
+  id: ISA/6/4
+  number: '4'
+reference: 'Isaiah 6:5'

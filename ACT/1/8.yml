@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 1:8" class="v">8</span><span
+  class="wj">But ye shall receive power, after that the Holy Ghost is come upon
+  you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa,
+  and in Samaria, and unto the uttermost part of the earth.</span> </p>
+id: ACT/1/8
+next:
+  id: ACT/1/9
+  number: '9'
+previous:
+  id: ACT/1/7
+  number: '7'
+reference: 'Acts 1:8'

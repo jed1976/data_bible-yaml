@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 11:20"
+  class="v">20</span>All fowls that creep, going upon <span
+  class="add">all</span> four, <span class="add">shall be</span> an abomination
+  unto you. </p>
+id: LEV/11/20
+next:
+  id: LEV/11/21
+  number: '21'
+previous:
+  id: LEV/11/19
+  number: '19'
+reference: 'Leviticus 11:20'

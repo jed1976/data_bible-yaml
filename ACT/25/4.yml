@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 25:4" class="v">4</span>But
+  Festus answered, that Paul should be kept at Cæsarea, and that he himself
+  would depart shortly <span class="add">thither</span>. </p>
+id: ACT/25/4
+next:
+  id: ACT/25/5
+  number: '5'
+previous:
+  id: ACT/25/3
+  number: '3'
+reference: 'Acts 25:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 54:1" class="v">1</span>Sing,
+  O barren, thou <span class="add">that</span> didst not bear; break forth into
+  singing, and cry aloud, thou <span class="add">that</span> didst not travail
+  with child: for more <span class="add">are</span> the children of the desolate
+  than the children of the married wife, saith the <span class="nd">LORD</span>.
+  </p>
+id: ISA/54/1
+next:
+  id: ISA/54/2
+  number: '2'
+previous:
+  id: ISA/53/12
+  number: '12'
+reference: 'Isaiah 54:1'

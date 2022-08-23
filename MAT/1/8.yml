@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 1:8" class="v">8</span>And
+  Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias; </p>
+id: MAT/1/8
+next:
+  id: MAT/1/9
+  number: '9'
+previous:
+  id: MAT/1/7
+  number: '7'
+reference: 'Matthew 1:8'

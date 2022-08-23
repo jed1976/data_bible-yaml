@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 28:14"
+  class="v">14</span>And if this come to the governor’s ears, we will persuade
+  him, and secure you. </p>
+id: MAT/28/14
+next:
+  id: MAT/28/15
+  number: '15'
+previous:
+  id: MAT/28/13
+  number: '13'
+reference: 'Matthew 28:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOL 3:21" class="v">21</span>For
+  I will cleanse their blood <span class="add">that</span> I have not cleansed:
+  for the <span class="nd">LORD</span> dwelleth in Zion.</p>
+id: JOL/3/21
+next:
+  id: AMO/intro/0
+  number: '0'
+previous:
+  id: JOL/3/20
+  number: '20'
+reference: 'Joel 3:21'

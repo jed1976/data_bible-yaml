@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 24:9" class="v">9</span>They
+  pluck the fatherless from the breast, and take a pledge of the poor. </p>
+id: JOB/24/9
+next:
+  id: JOB/24/10
+  number: '10'
+previous:
+  id: JOB/24/8
+  number: '8'
+reference: 'Job 24:9'

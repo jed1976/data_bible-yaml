@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 20:24"
+  class="v">24</span>And the children of Israel came near against the children
+  of Benjamin the second day. </p>
+id: JDG/20/24
+next:
+  id: JDG/20/25
+  number: '25'
+previous:
+  id: JDG/20/23
+  number: '23'
+reference: 'Judges 20:24'

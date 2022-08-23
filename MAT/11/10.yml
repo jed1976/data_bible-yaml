@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 11:10"
+  class="v">10</span><span class="wj">For this is <span class="add">he</span>,
+  of whom it is written, Behold, I send my messenger before thy face, which
+  shall prepare thy way before thee.</span> </p>
+id: MAT/11/10
+next:
+  id: MAT/11/11
+  number: '11'
+previous:
+  id: MAT/11/9
+  number: '9'
+reference: 'Matthew 11:10'

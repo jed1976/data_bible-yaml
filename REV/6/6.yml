@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 6:6" class="v">6</span>And I
+  heard a voice in the midst of the four beasts say, A measure of wheat for a
+  penny, and three measures of barley for a penny; and <span
+  class="add">see</span> thou hurt not the oil and the wine. </p>
+id: REV/6/6
+next:
+  id: REV/6/7
+  number: '7'
+previous:
+  id: REV/6/5
+  number: '5'
+reference: 'Revelation 6:6'

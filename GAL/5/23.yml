@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GAL 5:23"
+  class="v">23</span>Meekness, temperance: against such there is no law. </p>
+id: GAL/5/23
+next:
+  id: GAL/5/24
+  number: '24'
+previous:
+  id: GAL/5/22
+  number: '22'
+reference: 'Galatians 5:23'

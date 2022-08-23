@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 135:5"
+  class="v">5</span>For I know that the <span class="nd">LORD</span> <span
+  class="add">is</span> great, and <span class="add">that</span> our Lord <span
+  class="add">is</span> above all gods.</p>
+id: PSA/135/5
+next:
+  id: PSA/135/6
+  number: '6'
+previous:
+  id: PSA/135/4
+  number: '4'
+reference: 'Psalms 135:5'

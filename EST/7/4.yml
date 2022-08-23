@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 7:4" class="v">4</span>For we
+  are sold, I and my people, to be destroyed, to be slain, and to perish. But if
+  we had been sold for bondmen and bondwomen, I had held my tongue, although the
+  enemy could not countervail the king’s damage.</p>
+id: EST/7/4
+next:
+  id: EST/7/5
+  number: '5'
+previous:
+  id: EST/7/3
+  number: '3'
+reference: 'Esther 7:4'

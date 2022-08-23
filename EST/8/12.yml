@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 8:12"
+  class="v">12</span>Upon one day in all the provinces of king Ahasuerus, <span
+  class="add">namely</span>, upon the thirteenth <span class="add">day</span> of
+  the twelfth month, which <span class="add">is</span> the month Adar. </p>
+id: EST/8/12
+next:
+  id: EST/8/13
+  number: '13'
+previous:
+  id: EST/8/11
+  number: '11'
+reference: 'Esther 8:12'

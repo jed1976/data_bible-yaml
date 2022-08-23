@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="COL 4:1"
+  class="v">1</span>Masters, give unto <span class="add">your</span> servants
+  that which is just and equal; knowing that ye also have a Master in
+  heaven.</p>
+id: COL/4/1
+next:
+  id: COL/4/2
+  number: '2'
+previous:
+  id: COL/3/25
+  number: '25'
+reference: 'Colossians 4:1'

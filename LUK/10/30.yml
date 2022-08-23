@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 10:30"
+  class="v">30</span>And Jesus answering said, <span class="wj">A certain <span
+  class="add">man</span> went down from Jerusalem to Jericho, and fell among
+  thieves, which stripped him of his raiment, and wounded <span
+  class="add">him</span>, and departed, leaving <span class="add">him</span>
+  half dead.</span> </p>
+id: LUK/10/30
+next:
+  id: LUK/10/31
+  number: '31'
+previous:
+  id: LUK/10/29
+  number: '29'
+reference: 'Luke 10:30'

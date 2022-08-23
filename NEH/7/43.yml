@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NEH 7:43" class="v">43</span>¶
+  The Levites: the children of Jeshua, of Kadmiel, <span class="add">and</span>
+  of the children of Hodevah, seventy and four.</p>
+id: NEH/7/43
+next:
+  id: NEH/7/44
+  number: '44'
+previous:
+  id: NEH/7/42
+  number: '42'
+reference: 'Nehemiah 7:43'

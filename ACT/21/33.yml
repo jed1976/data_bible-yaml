@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 21:33"
+  class="v">33</span>Then the chief captain came near, and took him, and
+  commanded <span class="add">him</span> to be bound with two chains; and
+  demanded who he was, and what he had done. </p>
+id: ACT/21/33
+next:
+  id: ACT/21/34
+  number: '34'
+previous:
+  id: ACT/21/32
+  number: '32'
+reference: 'Acts 21:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 8:42"
+  class="v">42</span>Jesus said unto them, <span class="wj">If God were your
+  Father, ye would love me: for I proceeded forth and came from God; neither
+  came I of myself, but he sent me.</span> </p>
+id: JHN/8/42
+next:
+  id: JHN/8/43
+  number: '43'
+previous:
+  id: JHN/8/41
+  number: '41'
+reference: 'John 8:42'

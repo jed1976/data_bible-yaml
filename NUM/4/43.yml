@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 4:43"
+  class="v">43</span>From thirty years old and upward even unto fifty years old,
+  every one that entereth into the service, for the work in the tabernacle of
+  the congregation, </p>
+id: NUM/4/43
+next:
+  id: NUM/4/44
+  number: '44'
+previous:
+  id: NUM/4/42
+  number: '42'
+reference: 'Numbers 4:43'

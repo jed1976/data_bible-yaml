@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1KI 19:15"
+  class="v">15</span>And the <span class="nd">LORD</span> said unto him, Go,
+  return on thy way to the wilderness of Damascus: and when thou comest, anoint
+  Hazael <span class="add">to be</span> king over Syria: </p>
+id: 1KI/19/15
+next:
+  id: 1KI/19/16
+  number: '16'
+previous:
+  id: 1KI/19/14
+  number: '14'
+reference: '1 Kings 19:15'

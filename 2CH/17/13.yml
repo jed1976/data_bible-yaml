@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 17:13"
+  class="v">13</span>And he had much business in the cities of Judah: and the
+  men of war, mighty men of valour, <span class="add">were</span> in Jerusalem.
+  </p>
+id: 2CH/17/13
+next:
+  id: 2CH/17/14
+  number: '14'
+previous:
+  id: 2CH/17/12
+  number: '12'
+reference: '2 Chronicles 17:13'

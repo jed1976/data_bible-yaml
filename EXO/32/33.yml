@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 32:33"
+  class="v">33</span>And the <span class="nd">LORD</span> said unto Moses,
+  Whosoever hath sinned against me, him will I blot out of my book. </p>
+id: EXO/32/33
+next:
+  id: EXO/32/34
+  number: '34'
+previous:
+  id: EXO/32/32
+  number: '32'
+reference: 'Exodus 32:33'

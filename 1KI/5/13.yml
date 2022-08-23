@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 5:13" class="v">13</span>¶
+  And king Solomon raised a levy out of all Israel; and the levy was thirty
+  thousand men. </p>
+id: 1KI/5/13
+next:
+  id: 1KI/5/14
+  number: '14'
+previous:
+  id: 1KI/5/12
+  number: '12'
+reference: '1 Kings 5:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 29:15" class="v">15</span>¶
+  And Laban said unto Jacob, Because thou <span class="add">art</span> my
+  brother, shouldest thou therefore serve me for nought? tell me, what <span
+  class="add">shall</span> thy wages <span class="add">be</span>? </p>
+id: GEN/29/15
+next:
+  id: GEN/29/16
+  number: '16'
+previous:
+  id: GEN/29/14
+  number: '14'
+reference: 'Genesis 29:15'

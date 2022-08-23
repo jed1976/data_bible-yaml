@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 2:4" class="v">4</span>And he
+  shall judge among the nations, and shall rebuke many people: and they shall
+  beat their swords into plowshares, and their spears into pruninghooks: nation
+  shall not lift up sword against nation, neither shall they learn war any more.
+  </p>
+id: ISA/2/4
+next:
+  id: ISA/2/5
+  number: '5'
+previous:
+  id: ISA/2/3
+  number: '3'
+reference: 'Isaiah 2:4'

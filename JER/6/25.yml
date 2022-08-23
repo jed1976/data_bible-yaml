@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 6:25" class="v">25</span>Go
+  not forth into the field, nor walk by the way; for the sword of the enemy
+  <span class="add">and</span> fear <span class="add">is</span> on every
+  side.</p>
+id: JER/6/25
+next:
+  id: JER/6/26
+  number: '26'
+previous:
+  id: JER/6/24
+  number: '24'
+reference: 'Jeremiah 6:25'

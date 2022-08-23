@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 85:9"
+  class="v">9</span>Surely his salvation <span class="add">is</span> nigh them
+  that fear him; that glory may dwell in our land.</p>
+id: PSA/85/9
+next:
+  id: PSA/85/10
+  number: '10'
+previous:
+  id: PSA/85/8
+  number: '8'
+reference: 'Psalms 85:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 11:9"
+  class="v">9</span>Therefore is the name of it called Babel; because the <span
+  class="nd">LORD</span> did there confound the language of all the earth: and
+  from thence did the <span class="nd">LORD</span> scatter them abroad upon the
+  face of all the earth.</p>
+id: GEN/11/9
+next:
+  id: GEN/11/10
+  number: '10'
+previous:
+  id: GEN/11/8
+  number: '8'
+reference: 'Genesis 11:9'

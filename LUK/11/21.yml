@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 11:21"
+  class="v">21</span><span class="wj">When a strong man armed keepeth his
+  palace, his goods are in peace:</span> </p>
+id: LUK/11/21
+next:
+  id: LUK/11/22
+  number: '22'
+previous:
+  id: LUK/11/20
+  number: '20'
+reference: 'Luke 11:21'

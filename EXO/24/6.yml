@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 24:6" class="v">6</span>And
+  Moses took half of the blood, and put <span class="add">it</span> in basons;
+  and half of the blood he sprinkled on the altar. </p>
+id: EXO/24/6
+next:
+  id: EXO/24/7
+  number: '7'
+previous:
+  id: EXO/24/5
+  number: '5'
+reference: 'Exodus 24:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 15:10"
+  class="v">10</span>And he took unto him all these, and divided them in the
+  midst, and laid each piece one against another: but the birds divided he not.
+  </p>
+id: GEN/15/10
+next:
+  id: GEN/15/11
+  number: '11'
+previous:
+  id: GEN/15/9
+  number: '9'
+reference: 'Genesis 15:10'

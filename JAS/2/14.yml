@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JAS 2:14"
+  class="v">14</span>What <span class="add">doth it</span> profit, my brethren,
+  though a man say he hath faith, and have not works? can faith save him? </p>
+id: JAS/2/14
+next:
+  id: JAS/2/15
+  number: '15'
+previous:
+  id: JAS/2/13
+  number: '13'
+reference: 'James 2:14'

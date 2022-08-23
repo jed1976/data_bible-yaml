@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 12:27"
+  class="v">27</span>The slothful <span class="add">man</span> roasteth not that
+  which he took in hunting: but the substance of a diligent man <span
+  class="add">is</span> precious. </p>
+id: PRO/12/27
+next:
+  id: PRO/12/28
+  number: '28'
+previous:
+  id: PRO/12/26
+  number: '26'
+reference: 'Proverbs 12:27'

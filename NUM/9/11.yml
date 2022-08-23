@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 9:11" class="v">11</span>The
+  fourteenth day of the second month at even they shall keep it, <span
+  class="add">and</span> eat it with unleavened bread and bitter <span
+  class="add">herbs</span>. </p>
+id: NUM/9/11
+next:
+  id: NUM/9/12
+  number: '12'
+previous:
+  id: NUM/9/10
+  number: '10'
+reference: 'Numbers 9:11'

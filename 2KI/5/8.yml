@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 5:8" class="v">8</span>¶ And
+  it was <span class="add">so</span>, when Elisha the man of God had heard that
+  the king of Israel had rent his clothes, that he sent to the king, saying,
+  Wherefore hast thou rent thy clothes? let him come now to me, and he shall
+  know that there is a prophet in Israel.</p>
+id: 2KI/5/8
+next:
+  id: 2KI/5/9
+  number: '9'
+previous:
+  id: 2KI/5/7
+  number: '7'
+reference: '2 Kings 5:8'

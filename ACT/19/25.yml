@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 19:25"
+  class="v">25</span>Whom he called together with the workmen of like
+  occupation, and said, Sirs, ye know that by this craft we have our wealth.
+  </p>
+id: ACT/19/25
+next:
+  id: ACT/19/26
+  number: '26'
+previous:
+  id: ACT/19/24
+  number: '24'
+reference: 'Acts 19:25'

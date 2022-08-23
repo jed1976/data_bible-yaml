@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 9:20" class="v">20</span>And
+  he shall snatch on the right hand, and be hungry; and he shall eat on the left
+  hand, and they shall not be satisfied: they shall eat every man the flesh of
+  his own arm: </p>
+id: ISA/9/20
+next:
+  id: ISA/9/21
+  number: '21'
+previous:
+  id: ISA/9/19
+  number: '19'
+reference: 'Isaiah 9:20'

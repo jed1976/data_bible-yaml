@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 15:10" class="v">10</span>¶
+  But Absalom sent spies throughout all the tribes of Israel, saying, As soon as
+  ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in
+  Hebron. </p>
+id: 2SA/15/10
+next:
+  id: 2SA/15/11
+  number: '11'
+previous:
+  id: 2SA/15/9
+  number: '9'
+reference: '2 Samuel 15:10'

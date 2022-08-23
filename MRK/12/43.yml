@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MRK 12:43"
+  class="v">43</span>And he called <span class="add">unto him</span> his
+  disciples, and saith unto them, <span class="wj">Verily I say unto you, That
+  this poor widow hath cast more in, than all they which have cast into the
+  treasury:</span> </p>
+id: MRK/12/43
+next:
+  id: MRK/12/44
+  number: '44'
+previous:
+  id: MRK/12/42
+  number: '42'
+reference: 'Mark 12:43'

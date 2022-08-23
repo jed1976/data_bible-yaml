@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="84" data-sid="NUM 7:84"
+  class="v">84</span>This <span class="add">was</span> the dedication of the
+  altar, in the day when it was anointed, by the princes of Israel: twelve
+  chargers of silver, twelve silver bowls, twelve spoons of gold: </p>
+id: NUM/7/84
+next:
+  id: NUM/7/85
+  number: '85'
+previous:
+  id: NUM/7/83
+  number: '83'
+reference: 'Numbers 7:84'

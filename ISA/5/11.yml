@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 5:11" class="v">11</span>¶
+  Woe unto them that rise up early in the morning, <span class="add">that</span>
+  they may follow strong drink; that continue until night, <span
+  class="add">till</span> wine inflame them! </p>
+id: ISA/5/11
+next:
+  id: ISA/5/12
+  number: '12'
+previous:
+  id: ISA/5/10
+  number: '10'
+reference: 'Isaiah 5:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 40:18"
+  class="v">18</span>And Joseph answered and said, This <span
+  class="add">is</span> the interpretation thereof: The three baskets <span
+  class="add">are</span> three days: </p>
+id: GEN/40/18
+next:
+  id: GEN/40/19
+  number: '19'
+previous:
+  id: GEN/40/17
+  number: '17'
+reference: 'Genesis 40:18'

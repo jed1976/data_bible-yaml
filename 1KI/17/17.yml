@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1KI 17:17" class="v">17</span>¶
+  And it came to pass after these things, <span class="add">that</span> the son
+  of the woman, the mistress of the house, fell sick; and his sickness was so
+  sore, that there was no breath left in him. </p>
+id: 1KI/17/17
+next:
+  id: 1KI/17/18
+  number: '18'
+previous:
+  id: 1KI/17/16
+  number: '16'
+reference: '1 Kings 17:17'

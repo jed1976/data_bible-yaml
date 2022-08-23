@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 4:12" class="v">12</span>¶
+  Now when Jesus had heard that John was cast into prison, he departed into
+  Galilee; </p>
+id: MAT/4/12
+next:
+  id: MAT/4/13
+  number: '13'
+previous:
+  id: MAT/4/11
+  number: '11'
+reference: 'Matthew 4:12'

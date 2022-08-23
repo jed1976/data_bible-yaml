@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 6:17"
+  class="v">17</span>What time they wax warm, they vanish: when it is hot, they
+  are consumed out of their place. </p>
+id: JOB/6/17
+next:
+  id: JOB/6/18
+  number: '18'
+previous:
+  id: JOB/6/16
+  number: '16'
+reference: 'Job 6:17'

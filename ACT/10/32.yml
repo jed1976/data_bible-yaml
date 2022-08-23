@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 10:32"
+  class="v">32</span>Send therefore to Joppa, and call hither Simon, whose
+  surname is Peter; he is lodged in the house of <span class="add">one</span>
+  Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.
+  </p>
+id: ACT/10/32
+next:
+  id: ACT/10/33
+  number: '33'
+previous:
+  id: ACT/10/31
+  number: '31'
+reference: 'Acts 10:32'

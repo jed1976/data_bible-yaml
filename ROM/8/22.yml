@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 8:22" class="v">22</span>For
+  we know that the whole creation groaneth and travaileth in pain together until
+  now. </p>
+id: ROM/8/22
+next:
+  id: ROM/8/23
+  number: '23'
+previous:
+  id: ROM/8/21
+  number: '21'
+reference: 'Romans 8:22'

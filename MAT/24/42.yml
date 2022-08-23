@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 24:42"
+  class="v">42</span><span class="wj">¶ Watch therefore: for ye know not what
+  hour your Lord doth come.</span> </p>
+id: MAT/24/42
+next:
+  id: MAT/24/43
+  number: '43'
+previous:
+  id: MAT/24/41
+  number: '41'
+reference: 'Matthew 24:42'

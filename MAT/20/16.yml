@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 20:16"
+  class="v">16</span><span class="wj">So the last shall be first, and the first
+  last: for many be called, but few chosen.</span></p>
+id: MAT/20/16
+next:
+  id: MAT/20/17
+  number: '17'
+previous:
+  id: MAT/20/15
+  number: '15'
+reference: 'Matthew 20:16'

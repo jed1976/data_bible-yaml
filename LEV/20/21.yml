@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 20:21"
+  class="v">21</span>And if a man shall take his brother’s wife, it <span
+  class="add">is</span> an unclean thing: he hath uncovered his brother’s
+  nakedness; they shall be childless.</p>
+id: LEV/20/21
+next:
+  id: LEV/20/22
+  number: '22'
+previous:
+  id: LEV/20/20
+  number: '20'
+reference: 'Leviticus 20:21'

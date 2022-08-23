@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 6:5" class="v">5</span>Turn
+  away thine eyes from me, for they have overcome me: thy hair <span
+  class="add">is</span> as a flock of goats that appear from Gilead. </p>
+id: SNG/6/5
+next:
+  id: SNG/6/6
+  number: '6'
+previous:
+  id: SNG/6/4
+  number: '4'
+reference: 'Song of Solomon 6:5'

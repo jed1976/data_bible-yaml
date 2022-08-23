@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 13:21"
+  class="v">21</span>But the angel of the <span class="nd">LORD</span> did no
+  more appear to Manoah and to his wife. Then Manoah knew that he <span
+  class="add">was</span> an angel of the <span class="nd">LORD</span>. </p>
+id: JDG/13/21
+next:
+  id: JDG/13/22
+  number: '22'
+previous:
+  id: JDG/13/20
+  number: '20'
+reference: 'Judges 13:21'

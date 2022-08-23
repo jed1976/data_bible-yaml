@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 18:42"
+  class="v">42</span>And Jesus said unto him, <span class="wj">Receive thy
+  sight: thy faith hath saved thee.</span> </p>
+id: LUK/18/42
+next:
+  id: LUK/18/43
+  number: '43'
+previous:
+  id: LUK/18/41
+  number: '41'
+reference: 'Luke 18:42'

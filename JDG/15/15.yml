@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 15:15"
+  class="v">15</span>And he found a new jawbone of an ass, and put forth his
+  hand, and took it, and slew a thousand men therewith. </p>
+id: JDG/15/15
+next:
+  id: JDG/15/16
+  number: '16'
+previous:
+  id: JDG/15/14
+  number: '14'
+reference: 'Judges 15:15'

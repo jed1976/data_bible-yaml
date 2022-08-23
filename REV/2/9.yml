@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 2:9" class="v">9</span><span
+  class="wj">I know thy works, and tribulation, and poverty, (but thou art rich)
+  and <span class="add">I know</span> the blasphemy of them which say they are
+  Jews, and are not, but <span class="add">are</span> the synagogue of
+  Satan.</span> </p>
+id: REV/2/9
+next:
+  id: REV/2/10
+  number: '10'
+previous:
+  id: REV/2/8
+  number: '8'
+reference: 'Revelation 2:9'

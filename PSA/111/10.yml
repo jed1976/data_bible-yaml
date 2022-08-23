@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 111:10"
+  class="v">10</span>The fear of the <span class="nd">LORD</span> <span
+  class="add">is</span> the beginning of wisdom: a good understanding have all
+  they that do <span class="add">his commandments:</span> his praise endureth
+  for ever.</p>
+id: PSA/111/10
+next:
+  id: PSA/112/1
+  number: '1'
+previous:
+  id: PSA/111/9
+  number: '9'
+reference: 'Psalms 111:10'

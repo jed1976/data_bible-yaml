@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 28:22"
+  class="v">22</span>And this stone, which I have set <span
+  class="add">for</span> a pillar, shall be God’s house: and of all that thou
+  shalt give me I will surely give the tenth unto thee.</p>
+id: GEN/28/22
+next:
+  id: GEN/29/1
+  number: '1'
+previous:
+  id: GEN/28/21
+  number: '21'
+reference: 'Genesis 28:22'

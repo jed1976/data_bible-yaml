@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 16:3"
+  class="v">3</span><span class="add">But</span> to the saints that <span
+  class="add">are</span> in the earth, and <span class="add">to</span> the
+  excellent, in whom <span class="add">is</span> all my delight.</p>
+id: PSA/16/3
+next:
+  id: PSA/16/4
+  number: '4'
+previous:
+  id: PSA/16/2
+  number: '2'
+reference: 'Psalms 16:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="33" data-sid="PSA 107:33"
+  class="v">33</span>He turneth rivers into a wilderness, and the watersprings
+  into dry ground;</p>
+id: PSA/107/33
+next:
+  id: PSA/107/34
+  number: '34'
+previous:
+  id: PSA/107/32
+  number: '32'
+reference: 'Psalms 107:33'

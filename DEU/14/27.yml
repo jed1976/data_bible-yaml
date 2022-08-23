@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 14:27"
+  class="v">27</span>And the Levite that <span class="add">is</span> within thy
+  gates; thou shalt not forsake him; for he hath no part nor inheritance with
+  thee.</p>
+id: DEU/14/27
+next:
+  id: DEU/14/28
+  number: '28'
+previous:
+  id: DEU/14/26
+  number: '26'
+reference: 'Deuteronomy 14:27'

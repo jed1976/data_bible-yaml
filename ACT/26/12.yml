@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 26:12"
+  class="v">12</span>Whereupon as I went to Damascus with authority and
+  commission from the chief priests, </p>
+id: ACT/26/12
+next:
+  id: ACT/26/13
+  number: '13'
+previous:
+  id: ACT/26/11
+  number: '11'
+reference: 'Acts 26:12'

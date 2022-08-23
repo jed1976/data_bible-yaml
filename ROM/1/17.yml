@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ROM 1:17" class="v">17</span>For
+  therein is the righteousness of God revealed from faith to faith: as it is
+  written, The just shall live by faith.</p>
+id: ROM/1/17
+next:
+  id: ROM/1/18
+  number: '18'
+previous:
+  id: ROM/1/16
+  number: '16'
+reference: 'Romans 1:17'

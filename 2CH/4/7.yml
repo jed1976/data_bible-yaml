@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 4:7" class="v">7</span>And he
+  made ten candlesticks of gold according to their form, and set <span
+  class="add">them</span> in the temple, five on the right hand, and five on the
+  left. </p>
+id: 2CH/4/7
+next:
+  id: 2CH/4/8
+  number: '8'
+previous:
+  id: 2CH/4/6
+  number: '6'
+reference: '2 Chronicles 4:7'

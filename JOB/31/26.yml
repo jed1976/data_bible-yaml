@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 31:26" class="v">26</span>If
+  I beheld the sun when it shined, or the moon walking <span
+  class="add">in</span> brightness; </p>
+id: JOB/31/26
+next:
+  id: JOB/31/27
+  number: '27'
+previous:
+  id: JOB/31/25
+  number: '25'
+reference: 'Job 31:26'

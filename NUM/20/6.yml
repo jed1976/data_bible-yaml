@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 20:6" class="v">6</span>And
+  Moses and Aaron went from the presence of the assembly unto the door of the
+  tabernacle of the congregation, and they fell upon their faces: and the glory
+  of the <span class="nd">LORD</span> appeared unto them.</p>
+id: NUM/20/6
+next:
+  id: NUM/20/7
+  number: '7'
+previous:
+  id: NUM/20/5
+  number: '5'
+reference: 'Numbers 20:6'

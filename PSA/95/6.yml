@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 95:6" class="v">6</span>O
+  come, let us worship and bow down: let us kneel before the <span
+  class="nd">LORD</span> our maker.</p>
+id: PSA/95/6
+next:
+  id: PSA/95/7
+  number: '7'
+previous:
+  id: PSA/95/5
+  number: '5'
+reference: 'Psalms 95:6'

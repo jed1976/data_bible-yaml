@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 19:6" class="v">6</span>Know
+  now that God hath overthrown me, and hath compassed me with his net. </p>
+id: JOB/19/6
+next:
+  id: JOB/19/7
+  number: '7'
+previous:
+  id: JOB/19/5
+  number: '5'
+reference: 'Job 19:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 22:13"
+  class="v">13</span>And Balaam rose up in the morning, and said unto the
+  princes of Balak, Get you into your land: for the <span class="nd">LORD</span>
+  refuseth to give me leave to go with you. </p>
+id: NUM/22/13
+next:
+  id: NUM/22/14
+  number: '14'
+previous:
+  id: NUM/22/12
+  number: '12'
+reference: 'Numbers 22:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 4:25" class="v">25</span>I
+  beheld, and, lo, <span class="add">there was</span> no man, and all the birds
+  of the heavens were fled. </p>
+id: JER/4/25
+next:
+  id: JER/4/26
+  number: '26'
+previous:
+  id: JER/4/24
+  number: '24'
+reference: 'Jeremiah 4:25'

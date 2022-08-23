@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1CO 12:29"
+  class="v">29</span><span class="add">Are</span> all apostles? <span
+  class="add">are</span> all prophets? <span class="add">are</span> all
+  teachers? <span class="add">are</span> all workers of miracles? </p>
+id: 1CO/12/29
+next:
+  id: 1CO/12/30
+  number: '30'
+previous:
+  id: 1CO/12/28
+  number: '28'
+reference: '1 Corinthians 12:29'

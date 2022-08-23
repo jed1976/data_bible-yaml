@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 3:13" class="v">13</span>¶
+  Happy <span class="add">is</span> the man <span class="add">that</span>
+  findeth wisdom, and the man <span class="add">that</span> getteth
+  understanding. </p>
+id: PRO/3/13
+next:
+  id: PRO/3/14
+  number: '14'
+previous:
+  id: PRO/3/12
+  number: '12'
+reference: 'Proverbs 3:13'

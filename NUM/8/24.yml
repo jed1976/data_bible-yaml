@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 8:24"
+  class="v">24</span>This <span class="add">is it</span> that <span
+  class="add">belongeth</span> unto the Levites: from twenty and five years old
+  and upward they shall go in to wait upon the service of the tabernacle of the
+  congregation: </p>
+id: NUM/8/24
+next:
+  id: NUM/8/25
+  number: '25'
+previous:
+  id: NUM/8/23
+  number: '23'
+reference: 'Numbers 8:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 4:23" class="v">23</span>¶
+  And Jesus went about all Galilee, teaching in their synagogues, and preaching
+  the gospel of the kingdom, and healing all manner of sickness and all manner
+  of disease among the people. </p>
+id: MAT/4/23
+next:
+  id: MAT/4/24
+  number: '24'
+previous:
+  id: MAT/4/22
+  number: '22'
+reference: 'Matthew 4:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 14:6" class="v">6</span>And
+  Jesus said, <span class="wj">Let her alone; why trouble ye her? she hath
+  wrought a good work on me.</span> </p>
+id: MRK/14/6
+next:
+  id: MRK/14/7
+  number: '7'
+previous:
+  id: MRK/14/5
+  number: '5'
+reference: 'Mark 14:6'

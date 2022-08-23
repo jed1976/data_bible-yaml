@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 12:13" class="v">13</span>¶
+  Let us hear the conclusion of the whole matter: Fear God, and keep his
+  commandments: for this <span class="add">is</span> the whole <span
+  class="add">duty</span> of man. </p>
+id: ECC/12/13
+next:
+  id: ECC/12/14
+  number: '14'
+previous:
+  id: ECC/12/12
+  number: '12'
+reference: 'Ecclesiastes 12:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 4:25"
+  class="v">25</span>Then Zipporah took a sharp stone, and cut off the foreskin
+  of her son, and cast <span class="add">it</span> at his feet, and said, Surely
+  a bloody husband <span class="add">art</span> thou to me. </p>
+id: EXO/4/25
+next:
+  id: EXO/4/26
+  number: '26'
+previous:
+  id: EXO/4/24
+  number: '24'
+reference: 'Exodus 4:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEP 2:12" class="v">12</span>¶
+  Ye Ethiopians also, ye <span class="add">shall be</span> slain by my sword.
+  </p>
+id: ZEP/2/12
+next:
+  id: ZEP/2/13
+  number: '13'
+previous:
+  id: ZEP/2/11
+  number: '11'
+reference: 'Zephaniah 2:12'

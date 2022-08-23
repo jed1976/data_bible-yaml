@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 5:1" class="v">1</span>For
+  every high priest taken from among men is ordained for men in things <span
+  class="add">pertaining</span> to God, that he may offer both gifts and
+  sacrifices for sins: </p>
+id: HEB/5/1
+next:
+  id: HEB/5/2
+  number: '2'
+previous:
+  id: HEB/4/16
+  number: '16'
+reference: 'Hebrews 5:1'

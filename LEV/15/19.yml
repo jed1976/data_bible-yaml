@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 15:19" class="v">19</span>¶
+  And if a woman have an issue, <span class="add">and</span> her issue in her
+  flesh be blood, she shall be put apart seven days: and whosoever toucheth her
+  shall be unclean until the even. </p>
+id: LEV/15/19
+next:
+  id: LEV/15/20
+  number: '20'
+previous:
+  id: LEV/15/18
+  number: '18'
+reference: 'Leviticus 15:19'

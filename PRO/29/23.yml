@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 29:23" class="v">23</span>A
+  man’s pride shall bring him low: but honour shall uphold the humble in spirit.
+  </p>
+id: PRO/29/23
+next:
+  id: PRO/29/24
+  number: '24'
+previous:
+  id: PRO/29/22
+  number: '22'
+reference: 'Proverbs 29:23'

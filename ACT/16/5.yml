@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 16:5" class="v">5</span>And
+  so were the churches established in the faith, and increased in number daily.
+  </p>
+id: ACT/16/5
+next:
+  id: ACT/16/6
+  number: '6'
+previous:
+  id: ACT/16/4
+  number: '4'
+reference: 'Acts 16:5'

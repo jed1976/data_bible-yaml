@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 10:8" class="v">8</span>Happy
+  <span class="add">are</span> thy men, happy <span class="add">are</span> these
+  thy servants, which stand continually before thee, <span
+  class="add">and</span> that hear thy wisdom. </p>
+id: 1KI/10/8
+next:
+  id: 1KI/10/9
+  number: '9'
+previous:
+  id: 1KI/10/7
+  number: '7'
+reference: '1 Kings 10:8'

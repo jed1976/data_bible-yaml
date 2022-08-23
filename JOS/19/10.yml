@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 19:10" class="v">10</span>¶
+  And the third lot came up for the children of Zebulun according to their
+  families: and the border of their inheritance was unto Sarid: </p>
+id: JOS/19/10
+next:
+  id: JOS/19/11
+  number: '11'
+previous:
+  id: JOS/19/9
+  number: '9'
+reference: 'Joshua 19:10'

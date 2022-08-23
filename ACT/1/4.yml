@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 1:4" class="v">4</span>And,
+  being assembled together with <span class="add">them</span>, commanded them
+  that they should not depart from Jerusalem, <span class="wj">but wait for the
+  promise of the Father, which,</span> <span class="add">saith he</span>, <span
+  class="wj">ye have heard of me.</span> </p>
+id: ACT/1/4
+next:
+  id: ACT/1/5
+  number: '5'
+previous:
+  id: ACT/1/3
+  number: '3'
+reference: 'Acts 1:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 14:32"
+  class="v">32</span><span class="wj">Or else, while the other is yet a great
+  way off, he sendeth an ambassage, and desireth conditions of peace.</span>
+  </p>
+id: LUK/14/32
+next:
+  id: LUK/14/33
+  number: '33'
+previous:
+  id: LUK/14/31
+  number: '31'
+reference: 'Luke 14:32'

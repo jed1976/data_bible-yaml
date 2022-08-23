@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 26:42"
+  class="v">42</span>Then will I remember my covenant with Jacob, and also my
+  covenant with Isaac, and also my covenant with Abraham will I remember; and I
+  will remember the land. </p>
+id: LEV/26/42
+next:
+  id: LEV/26/43
+  number: '43'
+previous:
+  id: LEV/26/41
+  number: '41'
+reference: 'Leviticus 26:42'

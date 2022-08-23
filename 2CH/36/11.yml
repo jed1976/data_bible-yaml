@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 36:11" class="v">11</span>¶
+  Zedekiah <span class="add">was</span> one and twenty years old when he began
+  to reign, and reigned eleven years in Jerusalem. </p>
+id: 2CH/36/11
+next:
+  id: 2CH/36/12
+  number: '12'
+previous:
+  id: 2CH/36/10
+  number: '10'
+reference: '2 Chronicles 36:11'

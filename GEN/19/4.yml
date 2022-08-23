@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 19:4" class="v">4</span>¶ But
+  before they lay down, the men of the city, <span class="add">even</span> the
+  men of Sodom, compassed the house round, both old and young, all the people
+  from every quarter: </p>
+id: GEN/19/4
+next:
+  id: GEN/19/5
+  number: '5'
+previous:
+  id: GEN/19/3
+  number: '3'
+reference: 'Genesis 19:4'

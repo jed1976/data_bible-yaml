@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="TIT 2:11" class="v">11</span>For
+  the grace of God that bringeth salvation hath appeared to all men, </p>
+id: TIT/2/11
+next:
+  id: TIT/2/12
+  number: '12'
+previous:
+  id: TIT/2/10
+  number: '10'
+reference: 'Titus 2:11'

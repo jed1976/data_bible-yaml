@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 27:12"
+  class="v">12</span>Behold, all ye yourselves have seen <span
+  class="add">it;</span> why then are ye thus altogether vain? </p>
+id: JOB/27/12
+next:
+  id: JOB/27/13
+  number: '13'
+previous:
+  id: JOB/27/11
+  number: '11'
+reference: 'Job 27:12'

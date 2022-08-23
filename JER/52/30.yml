@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JER 52:30" class="v">30</span>In
+  the three and twentieth year of Nebuchadrezzar Nebuzar-adan the captain of the
+  guard carried away captive of the Jews seven hundred forty and five persons:
+  all the persons <span class="add">were</span> four thousand and six
+  hundred.</p>
+id: JER/52/30
+next:
+  id: JER/52/31
+  number: '31'
+previous:
+  id: JER/52/29
+  number: '29'
+reference: 'Jeremiah 52:30'

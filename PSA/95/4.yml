@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 95:4" class="v">4</span>In
+  his hand <span class="add">are</span> the deep places of the earth: the
+  strength of the hills <span class="add">is</span> his also.</p>
+id: PSA/95/4
+next:
+  id: PSA/95/5
+  number: '5'
+previous:
+  id: PSA/95/3
+  number: '3'
+reference: 'Psalms 95:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 9:8"
+  class="v">8</span>Blessed be the <span class="nd">LORD</span> thy God, which
+  delighted in thee to set thee on his throne, <span class="add">to be</span>
+  king for the <span class="nd">LORD</span> thy God: because thy God loved
+  Israel, to establish them for ever, therefore made he thee king over them, to
+  do judgment and justice. </p>
+id: 2CH/9/8
+next:
+  id: 2CH/9/9
+  number: '9'
+previous:
+  id: 2CH/9/7
+  number: '7'
+reference: '2 Chronicles 9:8'

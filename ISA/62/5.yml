@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 62:5" class="v">5</span>¶ For
+  <span class="add">as</span> a young man marrieth a virgin, <span
+  class="add">so</span> shall thy sons marry thee: and <span
+  class="add">as</span> the bridegroom rejoiceth over the bride, <span
+  class="add">so</span> shall thy God rejoice over thee.</p>
+id: ISA/62/5
+next:
+  id: ISA/62/6
+  number: '6'
+previous:
+  id: ISA/62/4
+  number: '4'
+reference: 'Isaiah 62:5'

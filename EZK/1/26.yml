@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EZK 1:26" class="v">26</span>¶
+  And above the firmament that <span class="add">was</span> over their heads
+  <span class="add">was</span> the likeness of a throne, as the appearance of a
+  sapphire stone: and upon the likeness of the throne <span
+  class="add">was</span> the likeness as the appearance of a man above upon it.
+  </p>
+id: EZK/1/26
+next:
+  id: EZK/1/27
+  number: '27'
+previous:
+  id: EZK/1/25
+  number: '25'
+reference: 'Ezekiel 1:26'

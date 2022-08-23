@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 4:8" class="v">8</span>And
+  what nation <span class="add">is there so</span> great, that hath statutes and
+  judgments <span class="add">so</span> righteous as all this law, which I set
+  before you this day? </p>
+id: DEU/4/8
+next:
+  id: DEU/4/9
+  number: '9'
+previous:
+  id: DEU/4/7
+  number: '7'
+reference: 'Deuteronomy 4:8'

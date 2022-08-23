@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 13:5" class="v">5</span>And
+  he had prepared for him a great chamber, where aforetime they laid the meat
+  offerings, the frankincense, and the vessels, and the tithes of the corn, the
+  new wine, and the oil, which was commanded <span class="add">to be
+  given</span> to the Levites, and the singers, and the porters; and the
+  offerings of the priests. </p>
+id: NEH/13/5
+next:
+  id: NEH/13/6
+  number: '6'
+previous:
+  id: NEH/13/4
+  number: '4'
+reference: 'Nehemiah 13:5'

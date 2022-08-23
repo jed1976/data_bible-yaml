@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 26:1" class="v">1</span>But
+  Job answered and said, </p>
+id: JOB/26/1
+next:
+  id: JOB/26/2
+  number: '2'
+previous:
+  id: JOB/25/6
+  number: '6'
+reference: 'Job 26:1'

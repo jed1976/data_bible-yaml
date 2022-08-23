@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 9:1" class="v">1</span>Hear,
+  O Israel: Thou <span class="add">art</span> to pass over Jordan this day, to
+  go in to possess nations greater and mightier than thyself, cities great and
+  fenced up to heaven, </p>
+id: DEU/9/1
+next:
+  id: DEU/9/2
+  number: '2'
+previous:
+  id: DEU/8/20
+  number: '20'
+reference: 'Deuteronomy 9:1'

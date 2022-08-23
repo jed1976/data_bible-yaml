@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="AMO 3:6" class="v">6</span>Shall
+  a trumpet be blown in the city, and the people not be afraid? shall there be
+  evil in a city, and the <span class="nd">LORD</span> hath not done <span
+  class="add">it</span>? </p>
+id: AMO/3/6
+next:
+  id: AMO/3/7
+  number: '7'
+previous:
+  id: AMO/3/5
+  number: '5'
+reference: 'Amos 3:6'

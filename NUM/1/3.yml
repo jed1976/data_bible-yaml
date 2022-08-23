@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 1:3" class="v">3</span>From
+  twenty years old and upward, all that are able to go forth to war in Israel:
+  thou and Aaron shall number them by their armies. </p>
+id: NUM/1/3
+next:
+  id: NUM/1/4
+  number: '4'
+previous:
+  id: NUM/1/2
+  number: '2'
+reference: 'Numbers 1:3'

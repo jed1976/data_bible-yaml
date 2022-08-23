@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 23:23"
+  class="v">23</span>That which is gone out of thy lips thou shalt keep and
+  perform; <span class="add">even</span> a freewill offering, according as thou
+  hast vowed unto the <span class="nd">LORD</span> thy God, which thou hast
+  promised with thy mouth.</p>
+id: DEU/23/23
+next:
+  id: DEU/23/24
+  number: '24'
+previous:
+  id: DEU/23/22
+  number: '22'
+reference: 'Deuteronomy 23:23'

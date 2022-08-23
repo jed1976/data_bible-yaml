@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZR 7:3" class="v">3</span>The
+  son of Amariah, the son of Azariah, the son of Meraioth, </p>
+id: EZR/7/3
+next:
+  id: EZR/7/4
+  number: '4'
+previous:
+  id: EZR/7/2
+  number: '2'
+reference: 'Ezra 7:3'

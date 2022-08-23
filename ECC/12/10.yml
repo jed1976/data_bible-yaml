@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 12:10"
+  class="v">10</span>The preacher sought to find out acceptable words: and <span
+  class="add">that which was</span> written <span class="add">was</span>
+  upright, <span class="add">even</span> words of truth. </p>
+id: ECC/12/10
+next:
+  id: ECC/12/11
+  number: '11'
+previous:
+  id: ECC/12/9
+  number: '9'
+reference: 'Ecclesiastes 12:10'

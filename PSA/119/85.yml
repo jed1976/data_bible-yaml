@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="85" data-sid="PSA 119:85"
+  class="v">85</span>The proud have digged pits for me, which <span
+  class="add">are</span> not after thy law.</p>
+id: PSA/119/85
+next:
+  id: PSA/119/86
+  number: '86'
+previous:
+  id: PSA/119/84
+  number: '84'
+reference: 'Psalms 119:85'

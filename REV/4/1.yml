@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 4:1" class="v">1</span>After
+  this I looked, and, behold, a door <span class="add">was</span> opened in
+  heaven: and the first voice which I heard <span class="add">was</span> as it
+  were of a trumpet talking with me; which said, Come up hither, and I will shew
+  thee things which must be hereafter. </p>
+id: REV/4/1
+next:
+  id: REV/4/2
+  number: '2'
+previous:
+  id: REV/3/22
+  number: '22'
+reference: 'Revelation 4:1'

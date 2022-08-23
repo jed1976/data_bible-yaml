@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 61:4" class="v">4</span>¶ And
+  they shall build the old wastes, they shall raise up the former desolations,
+  and they shall repair the waste cities, the desolations of many generations.
+  </p>
+id: ISA/61/4
+next:
+  id: ISA/61/5
+  number: '5'
+previous:
+  id: ISA/61/3
+  number: '3'
+reference: 'Isaiah 61:4'

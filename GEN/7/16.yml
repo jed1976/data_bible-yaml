@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 7:16" class="v">16</span>And
+  they that went in, went in male and female of all flesh, as God had commanded
+  him: and the <span class="nd">LORD</span> shut him in.</p>
+id: GEN/7/16
+next:
+  id: GEN/7/17
+  number: '17'
+previous:
+  id: GEN/7/15
+  number: '15'
+reference: 'Genesis 7:16'

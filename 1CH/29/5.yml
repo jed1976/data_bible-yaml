@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 29:5" class="v">5</span>The
+  gold for <span class="add">things</span> of gold, and the silver for <span
+  class="add">things</span> of silver, and for all manner of work <span
+  class="add">to be made</span> by the hands of artificers. And who <span
+  class="add">then</span> is willing to consecrate his service this day unto the
+  <span class="nd">LORD</span>?</p>
+id: 1CH/29/5
+next:
+  id: 1CH/29/6
+  number: '6'
+previous:
+  id: 1CH/29/4
+  number: '4'
+reference: '1 Chronicles 29:5'

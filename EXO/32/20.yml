@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 32:20"
+  class="v">20</span>And he took the calf which they had made, and burnt <span
+  class="add">it</span> in the fire, and ground <span class="add">it</span> to
+  powder, and strawed <span class="add">it</span> upon the water, and made the
+  children of Israel drink <span class="add">of it</span>.</p>
+id: EXO/32/20
+next:
+  id: EXO/32/21
+  number: '21'
+previous:
+  id: EXO/32/19
+  number: '19'
+reference: 'Exodus 32:20'

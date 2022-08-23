@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 10:1" class="v">1</span>And
+  after Abimelech there arose to defend Israel Tola the son of Puah, the son of
+  Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim. </p>
+id: JDG/10/1
+next:
+  id: JDG/10/2
+  number: '2'
+previous:
+  id: JDG/9/57
+  number: '57'
+reference: 'Judges 10:1'

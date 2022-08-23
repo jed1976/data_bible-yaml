@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 25:19"
+  class="v">19</span>Consider mine enemies; for they are many; and they hate me
+  with cruel hatred.</p>
+id: PSA/25/19
+next:
+  id: PSA/25/20
+  number: '20'
+previous:
+  id: PSA/25/18
+  number: '18'
+reference: 'Psalms 25:19'

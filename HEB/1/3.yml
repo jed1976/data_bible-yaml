@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 1:3" class="v">3</span>Who
+  being the brightness of <span class="add">his</span> glory, and the express
+  image of his person, and upholding all things by the word of his power, when
+  he had by himself purged our sins, sat down on the right hand of the Majesty
+  on high; </p>
+id: HEB/1/3
+next:
+  id: HEB/1/4
+  number: '4'
+previous:
+  id: HEB/1/2
+  number: '2'
+reference: 'Hebrews 1:3'

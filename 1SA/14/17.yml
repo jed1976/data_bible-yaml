@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 14:17"
+  class="v">17</span>Then said Saul unto the people that <span
+  class="add">were</span> with him, Number now, and see who is gone from us. And
+  when they had numbered, behold, Jonathan and his armourbearer <span
+  class="add">were</span> not <span class="add">there</span>. </p>
+id: 1SA/14/17
+next:
+  id: 1SA/14/18
+  number: '18'
+previous:
+  id: 1SA/14/16
+  number: '16'
+reference: '1 Samuel 14:17'

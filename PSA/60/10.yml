@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 60:10"
+  class="v">10</span><span class="add">Wilt</span> not thou, O God, <span
+  class="add">which</span> hadst cast us off? and <span class="add">thou</span>,
+  O God, <span class="add">which</span> didst not go out with our armies?</p>
+id: PSA/60/10
+next:
+  id: PSA/60/11
+  number: '11'
+previous:
+  id: PSA/60/9
+  number: '9'
+reference: 'Psalms 60:10'

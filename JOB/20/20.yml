@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 20:20"
+  class="v">20</span>Surely he shall not feel quietness in his belly, he shall
+  not save of that which he desired. </p>
+id: JOB/20/20
+next:
+  id: JOB/20/21
+  number: '21'
+previous:
+  id: JOB/20/19
+  number: '19'
+reference: 'Job 20:20'

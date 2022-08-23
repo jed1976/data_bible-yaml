@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="TIT 1:2" class="v">2</span>In
+  hope of eternal life, which God, that cannot lie, promised before the world
+  began; </p>
+id: TIT/1/2
+next:
+  id: TIT/1/3
+  number: '3'
+previous:
+  id: TIT/1/1
+  number: '1'
+reference: 'Titus 1:2'

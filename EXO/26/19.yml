@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 26:19"
+  class="v">19</span>And thou shalt make forty sockets of silver under the
+  twenty boards; two sockets under one board for his two tenons, and two sockets
+  under another board for his two tenons. </p>
+id: EXO/26/19
+next:
+  id: EXO/26/20
+  number: '20'
+previous:
+  id: EXO/26/18
+  number: '18'
+reference: 'Exodus 26:19'

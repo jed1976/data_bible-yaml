@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 39:15"
+  class="v">15</span>And it came to pass, when he heard that I lifted up my
+  voice and cried, that he left his garment with me, and fled, and got him out.
+  </p>
+id: GEN/39/15
+next:
+  id: GEN/39/16
+  number: '16'
+previous:
+  id: GEN/39/14
+  number: '14'
+reference: 'Genesis 39:15'

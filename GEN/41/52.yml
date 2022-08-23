@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="GEN 41:52"
+  class="v">52</span>And the name of the second called he Ephraim: For God hath
+  caused me to be fruitful in the land of my affliction.</p>
+id: GEN/41/52
+next:
+  id: GEN/41/53
+  number: '53'
+previous:
+  id: GEN/41/51
+  number: '51'
+reference: 'Genesis 41:52'

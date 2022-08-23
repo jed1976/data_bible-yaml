@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAL 1:14" class="v">14</span>But
+  cursed <span class="add">be</span> the deceiver, which hath in his flock a
+  male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I <span
+  class="add">am</span> a great King, saith the <span class="nd">LORD</span> of
+  hosts, and my name <span class="add">is</span> dreadful among the heathen.</p>
+id: MAL/1/14
+next:
+  id: MAL/2/1
+  number: '1'
+previous:
+  id: MAL/1/13
+  number: '13'
+reference: 'Malachi 1:14'

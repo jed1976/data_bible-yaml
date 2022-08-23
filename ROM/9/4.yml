@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 9:4" class="v">4</span>Who
+  are Israelites; to whom <span class="add">pertaineth</span> the adoption, and
+  the glory, and the covenants, and the giving of the law, and the service <span
+  class="add">of God</span>, and the promises; </p>
+id: ROM/9/4
+next:
+  id: ROM/9/5
+  number: '5'
+previous:
+  id: ROM/9/3
+  number: '3'
+reference: 'Romans 9:4'

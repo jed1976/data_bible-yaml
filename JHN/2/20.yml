@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 2:20"
+  class="v">20</span>Then said the Jews, Forty and six years was this temple in
+  building, and wilt thou rear it up in three days? </p>
+id: JHN/2/20
+next:
+  id: JHN/2/21
+  number: '21'
+previous:
+  id: JHN/2/19
+  number: '19'
+reference: 'John 2:20'

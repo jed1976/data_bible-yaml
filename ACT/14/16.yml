@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 14:16"
+  class="v">16</span>Who in times past suffered all nations to walk in their own
+  ways. </p>
+id: ACT/14/16
+next:
+  id: ACT/14/17
+  number: '17'
+previous:
+  id: ACT/14/15
+  number: '15'
+reference: 'Acts 14:16'

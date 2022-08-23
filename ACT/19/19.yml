@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 19:19"
+  class="v">19</span>Many of them also which used curious arts brought their
+  books together, and burned them before all <span class="add">men</span>: and
+  they counted the price of them, and found <span class="add">it</span> fifty
+  thousand <span class="add">pieces</span> of silver. </p>
+id: ACT/19/19
+next:
+  id: ACT/19/20
+  number: '20'
+previous:
+  id: ACT/19/18
+  number: '18'
+reference: 'Acts 19:19'

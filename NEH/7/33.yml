@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NEH 7:33" class="v">33</span>The
+  men of the other Nebo, fifty and two. </p>
+id: NEH/7/33
+next:
+  id: NEH/7/34
+  number: '34'
+previous:
+  id: NEH/7/32
+  number: '32'
+reference: 'Nehemiah 7:33'

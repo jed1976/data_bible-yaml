@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 20:4" class="v">4</span>¶
+  Then said the king to Amasa, Assemble me the men of Judah within three days,
+  and be thou here present. </p>
+id: 2SA/20/4
+next:
+  id: 2SA/20/5
+  number: '5'
+previous:
+  id: 2SA/20/3
+  number: '3'
+reference: '2 Samuel 20:4'

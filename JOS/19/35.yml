@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOS 19:35"
+  class="v">35</span>And the fenced cities <span class="add">are</span> Ziddim,
+  Zer, and Hammath, Rakkath, and Chinnereth, </p>
+id: JOS/19/35
+next:
+  id: JOS/19/36
+  number: '36'
+previous:
+  id: JOS/19/34
+  number: '34'
+reference: 'Joshua 19:35'

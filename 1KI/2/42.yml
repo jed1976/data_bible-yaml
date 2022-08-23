@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1KI 2:42" class="v">42</span>And
+  the king sent and called for Shimei, and said unto him, Did I not make thee to
+  swear by the <span class="nd">LORD</span>, and protested unto thee, saying,
+  Know for a certain, on the day thou goest out, and walkest abroad any whither,
+  that thou shalt surely die? and thou saidst unto me, The word <span
+  class="add">that</span> I have heard <span class="add">is</span> good. </p>
+id: 1KI/2/42
+next:
+  id: 1KI/2/43
+  number: '43'
+previous:
+  id: 1KI/2/41
+  number: '41'
+reference: '1 Kings 2:42'

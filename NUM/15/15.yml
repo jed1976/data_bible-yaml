@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 15:15"
+  class="v">15</span>One ordinance <span class="add">shall be both</span> for
+  you of the congregation, and also for the stranger that sojourneth <span
+  class="add">with you</span>, an ordinance for ever in your generations: as ye
+  <span class="add">are</span>, so shall the stranger be before the <span
+  class="nd">LORD</span>. </p>
+id: NUM/15/15
+next:
+  id: NUM/15/16
+  number: '16'
+previous:
+  id: NUM/15/14
+  number: '14'
+reference: 'Numbers 15:15'

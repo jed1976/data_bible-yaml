@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 26:1" class="v">1</span>Ye
+  shall make you no idols nor graven image, neither rear you up a standing
+  image, neither shall ye set up <span class="add">any</span> image of stone in
+  your land, to bow down unto it: for I <span class="add">am</span> the <span
+  class="nd">LORD</span> your God.</p>
+id: LEV/26/1
+next:
+  id: LEV/26/2
+  number: '2'
+previous:
+  id: LEV/25/55
+  number: '55'
+reference: 'Leviticus 26:1'

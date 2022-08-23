@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 45:19"
+  class="v">19</span>Now thou art commanded, this do ye; take you wagons out of
+  the land of Egypt for your little ones, and for your wives, and bring your
+  father, and come. </p>
+id: GEN/45/19
+next:
+  id: GEN/45/20
+  number: '20'
+previous:
+  id: GEN/45/18
+  number: '18'
+reference: 'Genesis 45:19'

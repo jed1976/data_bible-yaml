@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 3:25" class="v">25</span>Be
+  not afraid of sudden fear, neither of the desolation of the wicked, when it
+  cometh. </p>
+id: PRO/3/25
+next:
+  id: PRO/3/26
+  number: '26'
+previous:
+  id: PRO/3/24
+  number: '24'
+reference: 'Proverbs 3:25'

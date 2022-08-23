@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="21" data-sid="PSA 109:21"
+  class="v">21</span>But do thou for me, O <span class="nd">GOD</span> the Lord,
+  for thy name’s sake: because thy mercy <span class="add">is</span> good,
+  deliver thou me.</p>
+id: PSA/109/21
+next:
+  id: PSA/109/22
+  number: '22'
+previous:
+  id: PSA/109/20
+  number: '20'
+reference: 'Psalms 109:21'

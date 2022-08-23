@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 43:3" class="v">3</span>For I
+  <span class="add">am</span> the <span class="nd">LORD</span> thy God, the Holy
+  One of Israel, thy Saviour: I gave Egypt <span class="add">for</span> thy
+  ransom, Ethiopia and Seba for thee. </p>
+id: ISA/43/3
+next:
+  id: ISA/43/4
+  number: '4'
+previous:
+  id: ISA/43/2
+  number: '2'
+reference: 'Isaiah 43:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 8:22" class="v">22</span>But
+  Jesus said unto him, <span class="wj">Follow me; and let the dead bury their
+  dead.</span></p>
+id: MAT/8/22
+next:
+  id: MAT/8/23
+  number: '23'
+previous:
+  id: MAT/8/21
+  number: '21'
+reference: 'Matthew 8:22'

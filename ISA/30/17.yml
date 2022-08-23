@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 30:17"
+  class="v">17</span>One thousand <span class="add">shall flee</span> at the
+  rebuke of one; at the rebuke of five shall ye flee: till ye be left as a
+  beacon upon the top of a mountain, and as an ensign on an hill.</p>
+id: ISA/30/17
+next:
+  id: ISA/30/18
+  number: '18'
+previous:
+  id: ISA/30/16
+  number: '16'
+reference: 'Isaiah 30:17'

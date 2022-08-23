@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 9:13" class="v">13</span>But
+  the man that <span class="add">is</span> clean, and is not in a journey, and
+  forbeareth to keep the passover, even the same soul shall be cut off from
+  among his people: because he brought not the offering of the <span
+  class="nd">LORD</span> in his appointed season, that man shall bear his sin.
+  </p>
+id: NUM/9/13
+next:
+  id: NUM/9/14
+  number: '14'
+previous:
+  id: NUM/9/12
+  number: '12'
+reference: 'Numbers 9:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 8:3" class="v">3</span>She
+  crieth at the gates, at the entry of the city, at the coming in at the doors.
+  </p>
+id: PRO/8/3
+next:
+  id: PRO/8/4
+  number: '4'
+previous:
+  id: PRO/8/2
+  number: '2'
+reference: 'Proverbs 8:3'

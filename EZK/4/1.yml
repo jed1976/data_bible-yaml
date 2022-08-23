@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 4:1" class="v">1</span>Thou
+  also, son of man, take thee a tile, and lay it before thee, and pourtray upon
+  it the city, <span class="add">even</span> Jerusalem: </p>
+id: EZK/4/1
+next:
+  id: EZK/4/2
+  number: '2'
+previous:
+  id: EZK/3/27
+  number: '27'
+reference: 'Ezekiel 4:1'

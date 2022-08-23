@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 3:12" class="v">12</span>And
+  he said, Certainly I will be with thee; and this <span class="add">shall
+  be</span> a token unto thee, that I have sent thee: When thou hast brought
+  forth the people out of Egypt, ye shall serve God upon this mountain. </p>
+id: EXO/3/12
+next:
+  id: EXO/3/13
+  number: '13'
+previous:
+  id: EXO/3/11
+  number: '11'
+reference: 'Exodus 3:12'

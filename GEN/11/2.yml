@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 11:2" class="v">2</span>And
+  it came to pass, as they journeyed from the east, that they found a plain in
+  the land of Shinar; and they dwelt there. </p>
+id: GEN/11/2
+next:
+  id: GEN/11/3
+  number: '3'
+previous:
+  id: GEN/11/1
+  number: '1'
+reference: 'Genesis 11:2'

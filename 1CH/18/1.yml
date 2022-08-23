@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 18:1" class="v">1</span>Now
+  after this it came to pass, that David smote the Philistines, and subdued
+  them, and took Gath and her towns out of the hand of the Philistines. </p>
+id: 1CH/18/1
+next:
+  id: 1CH/18/2
+  number: '2'
+previous:
+  id: 1CH/17/27
+  number: '27'
+reference: '1 Chronicles 18:1'

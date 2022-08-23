@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 106:23"
+  class="v">23</span>Therefore he said that he would destroy them, had not Moses
+  his chosen stood before him in the breach, to turn away his wrath, lest he
+  should destroy <span class="add">them</span>.</p>
+id: PSA/106/23
+next:
+  id: PSA/106/24
+  number: '24'
+previous:
+  id: PSA/106/22
+  number: '22'
+reference: 'Psalms 106:23'

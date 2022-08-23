@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 24:4" class="v">4</span>And
+  Moses wrote all the words of the <span class="nd">LORD</span>, and rose up
+  early in the morning, and builded an altar under the hill, and twelve pillars,
+  according to the twelve tribes of Israel. </p>
+id: EXO/24/4
+next:
+  id: EXO/24/5
+  number: '5'
+previous:
+  id: EXO/24/3
+  number: '3'
+reference: 'Exodus 24:4'

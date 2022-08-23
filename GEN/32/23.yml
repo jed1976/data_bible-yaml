@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 32:23"
+  class="v">23</span>And he took them, and sent them over the brook, and sent
+  over that he had.</p>
+id: GEN/32/23
+next:
+  id: GEN/32/24
+  number: '24'
+previous:
+  id: GEN/32/22
+  number: '22'
+reference: 'Genesis 32:23'

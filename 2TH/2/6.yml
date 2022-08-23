@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2TH 2:6" class="v">6</span>And
+  now ye know what withholdeth that he might be revealed in his time. </p>
+id: 2TH/2/6
+next:
+  id: 2TH/2/7
+  number: '7'
+previous:
+  id: 2TH/2/5
+  number: '5'
+reference: '2 Thessalonians 2:6'

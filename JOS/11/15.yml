@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 11:15" class="v">15</span>¶
+  As the <span class="nd">LORD</span> commanded Moses his servant, so did Moses
+  command Joshua, and so did Joshua; he left nothing undone of all that the
+  <span class="nd">LORD</span> commanded Moses. </p>
+id: JOS/11/15
+next:
+  id: JOS/11/16
+  number: '16'
+previous:
+  id: JOS/11/14
+  number: '14'
+reference: 'Joshua 11:15'

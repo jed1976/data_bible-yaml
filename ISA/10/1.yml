@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 10:1" class="v">1</span>Woe
+  unto them that decree unrighteous decrees, and that write grievousness <span
+  class="add">which</span> they have prescribed; </p>
+id: ISA/10/1
+next:
+  id: ISA/10/2
+  number: '2'
+previous:
+  id: ISA/9/21
+  number: '21'
+reference: 'Isaiah 10:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 5:4" class="v">4</span><span
+  class="wj">Blessed <span class="add">are</span> they that mourn: for they
+  shall be comforted.</span> </p>
+id: MAT/5/4
+next:
+  id: MAT/5/5
+  number: '5'
+previous:
+  id: MAT/5/3
+  number: '3'
+reference: 'Matthew 5:4'

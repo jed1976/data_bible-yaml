@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 33:13"
+  class="v">13</span>And he said unto him, My lord knoweth that the children
+  <span class="add">are</span> tender, and the flocks and herds with young <span
+  class="add">are</span> with me: and if men should overdrive them one day, all
+  the flock will die. </p>
+id: GEN/33/13
+next:
+  id: GEN/33/14
+  number: '14'
+previous:
+  id: GEN/33/12
+  number: '12'
+reference: 'Genesis 33:13'

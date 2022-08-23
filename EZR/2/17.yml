@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EZR 2:17" class="v">17</span>The
+  children of Bezai, three hundred twenty and three. </p>
+id: EZR/2/17
+next:
+  id: EZR/2/18
+  number: '18'
+previous:
+  id: EZR/2/16
+  number: '16'
+reference: 'Ezra 2:17'

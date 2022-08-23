@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 43:26" class="v">26</span>¶
+  And when Joseph came home, they brought him the present which <span
+  class="add">was</span> in their hand into the house, and bowed themselves to
+  him to the earth. </p>
+id: GEN/43/26
+next:
+  id: GEN/43/27
+  number: '27'
+previous:
+  id: GEN/43/25
+  number: '25'
+reference: 'Genesis 43:26'

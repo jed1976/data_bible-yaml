@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 3:5" class="v">5</span>Let
+  darkness and the shadow of death stain it; let a cloud dwell upon it; let the
+  blackness of the day terrify it. </p>
+id: JOB/3/5
+next:
+  id: JOB/3/6
+  number: '6'
+previous:
+  id: JOB/3/4
+  number: '4'
+reference: 'Job 3:5'

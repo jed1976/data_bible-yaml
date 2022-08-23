@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 14:1"
+  class="v">1</span>Follow after charity, and desire spiritual <span
+  class="add">gifts</span>, but rather that ye may prophesy. </p>
+id: 1CO/14/1
+next:
+  id: 1CO/14/2
+  number: '2'
+previous:
+  id: 1CO/13/13
+  number: '13'
+reference: '1 Corinthians 14:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 6:1" class="v">1</span>Then
+  the <span class="nd">LORD</span> said unto Moses, Now shalt thou see what I
+  will do to Pharaoh: for with a strong hand shall he let them go, and with a
+  strong hand shall he drive them out of his land. </p>
+id: EXO/6/1
+next:
+  id: EXO/6/2
+  number: '2'
+previous:
+  id: EXO/5/23
+  number: '23'
+reference: 'Exodus 6:1'

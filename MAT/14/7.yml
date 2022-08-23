@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 14:7"
+  class="v">7</span>Whereupon he promised with an oath to give her whatsoever
+  she would ask. </p>
+id: MAT/14/7
+next:
+  id: MAT/14/8
+  number: '8'
+previous:
+  id: MAT/14/6
+  number: '6'
+reference: 'Matthew 14:7'

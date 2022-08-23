@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 35:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses in the plains of Moab by
+  Jordan <span class="add">near</span> Jericho, saying, </p>
+id: NUM/35/1
+next:
+  id: NUM/35/2
+  number: '2'
+previous:
+  id: NUM/34/29
+  number: '29'
+reference: 'Numbers 35:1'

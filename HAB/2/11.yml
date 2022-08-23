@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HAB 2:11" class="v">11</span>For
+  the stone shall cry out of the wall, and the beam out of the timber shall
+  answer it.</p>
+id: HAB/2/11
+next:
+  id: HAB/2/12
+  number: '12'
+previous:
+  id: HAB/2/10
+  number: '10'
+reference: 'Habakkuk 2:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 19:9" class="v">9</span>A
+  false witness shall not be unpunished, and <span class="add">he that</span>
+  speaketh lies shall perish. </p>
+id: PRO/19/9
+next:
+  id: PRO/19/10
+  number: '10'
+previous:
+  id: PRO/19/8
+  number: '8'
+reference: 'Proverbs 19:9'

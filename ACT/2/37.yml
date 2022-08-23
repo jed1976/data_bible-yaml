@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 2:37" class="v">37</span>¶
+  Now when they heard <span class="add">this</span>, they were pricked in their
+  heart, and said unto Peter and to the rest of the apostles, Men <span
+  class="add">and</span> brethren, what shall we do? </p>
+id: ACT/2/37
+next:
+  id: ACT/2/38
+  number: '38'
+previous:
+  id: ACT/2/36
+  number: '36'
+reference: 'Acts 2:37'

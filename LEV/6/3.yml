@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 6:3" class="v">3</span>Or
+  have found that which was lost, and lieth concerning it, and sweareth falsely;
+  in any of all these that a man doeth, sinning therein: </p>
+id: LEV/6/3
+next:
+  id: LEV/6/4
+  number: '4'
+previous:
+  id: LEV/6/2
+  number: '2'
+reference: 'Leviticus 6:3'

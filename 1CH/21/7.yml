@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 21:7" class="v">7</span>And
+  God was displeased with this thing; therefore he smote Israel. </p>
+id: 1CH/21/7
+next:
+  id: 1CH/21/8
+  number: '8'
+previous:
+  id: 1CH/21/6
+  number: '6'
+reference: '1 Chronicles 21:7'

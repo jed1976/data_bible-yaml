@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 16:5" class="v">5</span><span
+  class="wj">But now I go my way to him that sent me; and none of you asketh me,
+  Whither goest thou?</span> </p>
+id: JHN/16/5
+next:
+  id: JHN/16/6
+  number: '6'
+previous:
+  id: JHN/16/4
+  number: '4'
+reference: 'John 16:5'

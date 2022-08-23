@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 6:12" class="v">12</span>And
+  Moses spake before the <span class="nd">LORD</span>, saying, Behold, the
+  children of Israel have not hearkened unto me; how then shall Pharaoh hear me,
+  who <span class="add">am</span> of uncircumcised lips? </p>
+id: EXO/6/12
+next:
+  id: EXO/6/13
+  number: '13'
+previous:
+  id: EXO/6/11
+  number: '11'
+reference: 'Exodus 6:12'

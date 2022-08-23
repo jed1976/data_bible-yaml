@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 20:3" class="v">3</span>And
+  shall say unto them, Hear, O Israel, ye approach this day unto battle against
+  your enemies: let not your hearts faint, fear not, and do not tremble, neither
+  be ye terrified because of them; </p>
+id: DEU/20/3
+next:
+  id: DEU/20/4
+  number: '4'
+previous:
+  id: DEU/20/2
+  number: '2'
+reference: 'Deuteronomy 20:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 6:9" class="v">9</span>Then
+  said Jesus unto them, <span class="wj">I will ask you one thing; Is it lawful
+  on the sabbath days to do good, or to do evil? to save life, or to destroy
+  <span class="add">it</span>?</span> </p>
+id: LUK/6/9
+next:
+  id: LUK/6/10
+  number: '10'
+previous:
+  id: LUK/6/8
+  number: '8'
+reference: 'Luke 6:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 1:6" class="v">6</span>Then
+  said I, Ah, Lord <span class="nd">GOD</span>! behold, I cannot speak: for I
+  <span class="add">am</span> a child.</p>
+id: JER/1/6
+next:
+  id: JER/1/7
+  number: '7'
+previous:
+  id: JER/1/5
+  number: '5'
+reference: 'Jeremiah 1:6'

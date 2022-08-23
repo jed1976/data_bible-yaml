@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 7:5" class="v">5</span>Thine
+  head upon thee <span class="add">is</span> like Carmel, and the hair of thine
+  head like purple; the king <span class="add">is</span> held in the galleries.
+  </p>
+id: SNG/7/5
+next:
+  id: SNG/7/6
+  number: '6'
+previous:
+  id: SNG/7/4
+  number: '4'
+reference: 'Song of Solomon 7:5'

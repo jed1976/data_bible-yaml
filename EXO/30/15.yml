@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 30:15"
+  class="v">15</span>The rich shall not give more, and the poor shall not give
+  less than half a shekel, when <span class="add">they</span> give an offering
+  unto the <span class="nd">LORD</span>, to make an atonement for your souls.
+  </p>
+id: EXO/30/15
+next:
+  id: EXO/30/16
+  number: '16'
+previous:
+  id: EXO/30/14
+  number: '14'
+reference: 'Exodus 30:15'

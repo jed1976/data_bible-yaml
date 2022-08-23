@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="33" data-sid="PSA 104:33"
+  class="v">33</span>I will sing unto the <span class="nd">LORD</span> as long
+  as I live: I will sing praise to my God while I have my being.</p>
+id: PSA/104/33
+next:
+  id: PSA/104/34
+  number: '34'
+previous:
+  id: PSA/104/32
+  number: '32'
+reference: 'Psalms 104:33'

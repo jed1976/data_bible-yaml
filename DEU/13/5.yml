@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 13:5" class="v">5</span>And
+  that prophet, or that dreamer of dreams, shall be put to death; because he
+  hath spoken to turn <span class="add">you</span> away from the <span
+  class="nd">LORD</span> your God, which brought you out of the land of Egypt,
+  and redeemed you out of the house of bondage, to thrust thee out of the way
+  which the <span class="nd">LORD</span> thy God commanded thee to walk in. So
+  shalt thou put the evil away from the midst of thee.</p>
+id: DEU/13/5
+next:
+  id: DEU/13/6
+  number: '6'
+previous:
+  id: DEU/13/4
+  number: '4'
+reference: 'Deuteronomy 13:5'

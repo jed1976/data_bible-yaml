@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 8:13" class="v">13</span>For
+  if ye live after the flesh, ye shall die: but if ye through the Spirit do
+  mortify the deeds of the body, ye shall live. </p>
+id: ROM/8/13
+next:
+  id: ROM/8/14
+  number: '14'
+previous:
+  id: ROM/8/12
+  number: '12'
+reference: 'Romans 8:13'

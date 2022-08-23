@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 3:24"
+  class="v">24</span><span class="wj">And if a kingdom be divided against
+  itself, that kingdom cannot stand.</span> </p>
+id: MRK/3/24
+next:
+  id: MRK/3/25
+  number: '25'
+previous:
+  id: MRK/3/23
+  number: '23'
+reference: 'Mark 3:24'

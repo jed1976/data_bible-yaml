@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 8:9" class="v">9</span>¶ Thus
+  saith the <span class="nd">LORD</span> of hosts; Let your hands be strong, ye
+  that hear in these days these words by the mouth of the prophets, which <span
+  class="add">were</span> in the day <span class="add">that</span> the
+  foundation of the house of the <span class="nd">LORD</span> of hosts was laid,
+  that the temple might be built. </p>
+id: ZEC/8/9
+next:
+  id: ZEC/8/10
+  number: '10'
+previous:
+  id: ZEC/8/8
+  number: '8'
+reference: 'Zechariah 8:9'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 17:1" class="v">1</span>Thou
+  shalt not sacrifice unto the <span class="nd">LORD</span> thy God <span
+  class="add">any</span> bullock, or sheep, wherein is blemish, <span
+  class="add">or</span> any evilfavouredness: for that <span
+  class="add">is</span> an abomination unto the <span class="nd">LORD</span> thy
+  God.</p>
+id: DEU/17/1
+next:
+  id: DEU/17/2
+  number: '2'
+previous:
+  id: DEU/16/22
+  number: '22'
+reference: 'Deuteronomy 17:1'

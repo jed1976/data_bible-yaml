@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 7:22" class="v">22</span>All
+  in whose nostrils <span class="add">was</span> the breath of life, of all that
+  <span class="add">was</span> in the dry <span class="add">land</span>, died.
+  </p>
+id: GEN/7/22
+next:
+  id: GEN/7/23
+  number: '23'
+previous:
+  id: GEN/7/21
+  number: '21'
+reference: 'Genesis 7:22'

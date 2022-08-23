@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 20:11"
+  class="v">11</span><span class="wj">And when they had received <span
+  class="add">it</span>, they murmured against the goodman of the house,</span>
+  </p>
+id: MAT/20/11
+next:
+  id: MAT/20/12
+  number: '12'
+previous:
+  id: MAT/20/10
+  number: '10'
+reference: 'Matthew 20:11'

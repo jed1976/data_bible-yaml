@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 19:7" class="v">7</span>The
+  paper reeds by the brooks, by the mouth of the brooks, and every thing sown by
+  the brooks, shall wither, be driven away, and be no <span
+  class="add">more</span>. </p>
+id: ISA/19/7
+next:
+  id: ISA/19/8
+  number: '8'
+previous:
+  id: ISA/19/6
+  number: '6'
+reference: 'Isaiah 19:7'

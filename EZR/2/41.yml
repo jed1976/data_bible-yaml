@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="EZR 2:41" class="v">41</span>¶
+  The singers: the children of Asaph, an hundred twenty and eight.</p>
+id: EZR/2/41
+next:
+  id: EZR/2/42
+  number: '42'
+previous:
+  id: EZR/2/40
+  number: '40'
+reference: 'Ezra 2:41'

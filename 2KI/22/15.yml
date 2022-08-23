@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2KI 22:15" class="v">15</span>¶
+  And she said unto them, Thus saith the <span class="nd">LORD</span> God of
+  Israel, Tell the man that sent you to me, </p>
+id: 2KI/22/15
+next:
+  id: 2KI/22/16
+  number: '16'
+previous:
+  id: 2KI/22/14
+  number: '14'
+reference: '2 Kings 22:15'

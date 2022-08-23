@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 78:8" class="v">8</span>And
+  might not be as their fathers, a stubborn and rebellious generation; a
+  generation <span class="add">that</span> set not their heart aright, and whose
+  spirit was not stedfast with God.</p>
+id: PSA/78/8
+next:
+  id: PSA/78/9
+  number: '9'
+previous:
+  id: PSA/78/7
+  number: '7'
+reference: 'Psalms 78:8'

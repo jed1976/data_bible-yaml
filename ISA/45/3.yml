@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 45:3" class="v">3</span>And I
+  will give thee the treasures of darkness, and hidden riches of secret places,
+  that thou mayest know that I, the <span class="nd">LORD</span>, which call
+  <span class="add">thee</span> by thy name, <span class="add">am</span> the God
+  of Israel. </p>
+id: ISA/45/3
+next:
+  id: ISA/45/4
+  number: '4'
+previous:
+  id: ISA/45/2
+  number: '2'
+reference: 'Isaiah 45:3'

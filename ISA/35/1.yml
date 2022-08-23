@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 35:1" class="v">1</span>The
+  wilderness and the solitary place shall be glad for them; and the desert shall
+  rejoice, and blossom as the rose. </p>
+id: ISA/35/1
+next:
+  id: ISA/35/2
+  number: '2'
+previous:
+  id: ISA/34/17
+  number: '17'
+reference: 'Isaiah 35:1'

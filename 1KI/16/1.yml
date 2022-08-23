@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 16:1" class="v">1</span>Then
+  the word of the <span class="nd">LORD</span> came to Jehu the son of Hanani
+  against Baasha, saying, </p>
+id: 1KI/16/1
+next:
+  id: 1KI/16/2
+  number: '2'
+previous:
+  id: 1KI/15/34
+  number: '34'
+reference: '1 Kings 16:1'

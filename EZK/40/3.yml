@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 40:3" class="v">3</span>And
+  he brought me thither, and, behold, <span class="add">there was</span> a man,
+  whose appearance <span class="add">was</span> like the appearance of brass,
+  with a line of flax in his hand, and a measuring reed; and he stood in the
+  gate. </p>
+id: EZK/40/3
+next:
+  id: EZK/40/4
+  number: '4'
+previous:
+  id: EZK/40/2
+  number: '2'
+reference: 'Ezekiel 40:3'

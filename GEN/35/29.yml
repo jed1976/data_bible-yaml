@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 35:29"
+  class="v">29</span>And Isaac gave up the ghost, and died, and was gathered
+  unto his people, <span class="add">being</span> old and full of days: and his
+  sons Esau and Jacob buried him.</p>
+id: GEN/35/29
+next:
+  id: GEN/36/1
+  number: '1'
+previous:
+  id: GEN/35/28
+  number: '28'
+reference: 'Genesis 35:29'

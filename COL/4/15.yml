@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="COL 4:15"
+  class="v">15</span>Salute the brethren which are in Laodicea, and Nymphas, and
+  the church which is in his house. </p>
+id: COL/4/15
+next:
+  id: COL/4/16
+  number: '16'
+previous:
+  id: COL/4/14
+  number: '14'
+reference: 'Colossians 4:15'

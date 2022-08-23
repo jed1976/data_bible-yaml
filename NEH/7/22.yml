@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 7:22" class="v">22</span>The
+  children of Hashum, three hundred twenty and eight. </p>
+id: NEH/7/22
+next:
+  id: NEH/7/23
+  number: '23'
+previous:
+  id: NEH/7/21
+  number: '21'
+reference: 'Nehemiah 7:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="30" data-sid="PSA 69:30"
+  class="v">30</span>I will praise the name of God with a song, and will magnify
+  him with thanksgiving.</p>
+id: PSA/69/30
+next:
+  id: PSA/69/31
+  number: '31'
+previous:
+  id: PSA/69/29
+  number: '29'
+reference: 'Psalms 69:30'

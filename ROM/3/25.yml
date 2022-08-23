@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 3:25"
+  class="v">25</span>Whom God hath set forth <span class="add">to be</span> a
+  propitiation through faith in his blood, to declare his righteousness for the
+  remission of sins that are past, through the forbearance of God; </p>
+id: ROM/3/25
+next:
+  id: ROM/3/26
+  number: '26'
+previous:
+  id: ROM/3/24
+  number: '24'
+reference: 'Romans 3:25'

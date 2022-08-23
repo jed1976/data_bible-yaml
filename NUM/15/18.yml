@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 15:18"
+  class="v">18</span>Speak unto the children of Israel, and say unto them, When
+  ye come into the land whither I bring you, </p>
+id: NUM/15/18
+next:
+  id: NUM/15/19
+  number: '19'
+previous:
+  id: NUM/15/17
+  number: '17'
+reference: 'Numbers 15:18'

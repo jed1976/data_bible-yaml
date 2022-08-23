@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 1:12" class="v">12</span>¶
+  Then the angel of the <span class="nd">LORD</span> answered and said, O <span
+  class="nd">LORD</span> of hosts, how long wilt thou not have mercy on
+  Jerusalem and on the cities of Judah, against which thou hast had indignation
+  these threescore and ten years? </p>
+id: ZEC/1/12
+next:
+  id: ZEC/1/13
+  number: '13'
+previous:
+  id: ZEC/1/11
+  number: '11'
+reference: 'Zechariah 1:12'

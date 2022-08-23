@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PHP 4:20" class="v">20</span>Now
+  unto God and our Father <span class="add">be</span> glory for ever and ever.
+  Amen.</p>
+id: PHP/4/20
+next:
+  id: PHP/4/21
+  number: '21'
+previous:
+  id: PHP/4/19
+  number: '19'
+reference: 'Philippians 4:20'

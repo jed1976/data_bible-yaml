@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 15:7" class="v">7</span>And
+  the border went up toward Debir from the valley of Achor, and so northward,
+  looking toward Gilgal, that <span class="add">is</span> before the going up to
+  Adummim, which <span class="add">is</span> on the south side of the river: and
+  the border passed toward the waters of En-shemesh, and the goings out thereof
+  were at En-rogel: </p>
+id: JOS/15/7
+next:
+  id: JOS/15/8
+  number: '8'
+previous:
+  id: JOS/15/6
+  number: '6'
+reference: 'Joshua 15:7'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 19:17"
+  class="v">17</span>And he said unto him, <span class="wj">Why callest thou me
+  good? <span class="add">there is</span> none good but one, <span
+  class="add">that is</span>, God: but if thou wilt enter into life, keep the
+  commandments.</span> </p>
+id: MAT/19/17
+next:
+  id: MAT/19/18
+  number: '18'
+previous:
+  id: MAT/19/16
+  number: '16'
+reference: 'Matthew 19:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 27:37"
+  class="v">37</span>And we were in all in the ship two hundred threescore and
+  sixteen souls. </p>
+id: ACT/27/37
+next:
+  id: ACT/27/38
+  number: '38'
+previous:
+  id: ACT/27/36
+  number: '36'
+reference: 'Acts 27:37'

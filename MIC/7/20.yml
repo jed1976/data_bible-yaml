@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MIC 7:20"
+  class="v">20</span>Thou wilt perform the truth to Jacob, <span
+  class="add">and</span> the mercy to Abraham, which thou hast sworn unto our
+  fathers from the days of old.</p>
+id: MIC/7/20
+next:
+  id: NAM/intro/0
+  number: '0'
+previous:
+  id: MIC/7/19
+  number: '19'
+reference: 'Micah 7:20'

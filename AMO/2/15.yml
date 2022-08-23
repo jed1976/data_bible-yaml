@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="AMO 2:15"
+  class="v">15</span>Neither shall he stand that handleth the bow; and <span
+  class="add">he that is</span> swift of foot shall not deliver <span
+  class="add">himself:</span> neither shall he that rideth the horse deliver
+  himself. </p>
+id: AMO/2/15
+next:
+  id: AMO/2/16
+  number: '16'
+previous:
+  id: AMO/2/14
+  number: '14'
+reference: 'Amos 2:15'

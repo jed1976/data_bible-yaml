@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 11:23"
+  class="v">23</span>Who, when he came, and had seen the grace of God, was glad,
+  and exhorted them all, that with purpose of heart they would cleave unto the
+  Lord. </p>
+id: ACT/11/23
+next:
+  id: ACT/11/24
+  number: '24'
+previous:
+  id: ACT/11/22
+  number: '22'
+reference: 'Acts 11:23'

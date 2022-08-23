@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 21:3" class="v">3</span>And
+  he said, <span class="wj">Of a truth I say unto you, that this poor widow hath
+  cast in more than they all:</span> </p>
+id: LUK/21/3
+next:
+  id: LUK/21/4
+  number: '4'
+previous:
+  id: LUK/21/2
+  number: '2'
+reference: 'Luke 21:3'

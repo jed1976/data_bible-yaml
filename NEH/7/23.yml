@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NEH 7:23" class="v">23</span>The
+  children of Bezai, three hundred twenty and four. </p>
+id: NEH/7/23
+next:
+  id: NEH/7/24
+  number: '24'
+previous:
+  id: NEH/7/22
+  number: '22'
+reference: 'Nehemiah 7:23'

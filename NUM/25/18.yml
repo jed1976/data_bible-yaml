@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 25:18"
+  class="v">18</span>For they vex you with their wiles, wherewith they have
+  beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter
+  of a prince of Midian, their sister, which was slain in the day of the plague
+  for Peor’s sake.</p>
+id: NUM/25/18
+next:
+  id: NUM/26/1
+  number: '1'
+previous:
+  id: NUM/25/17
+  number: '17'
+reference: 'Numbers 25:18'

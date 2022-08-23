@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 14:20"
+  class="v">20</span>And the <span class="nd">LORD</span> said, I have pardoned
+  according to thy word: </p>
+id: NUM/14/20
+next:
+  id: NUM/14/21
+  number: '21'
+previous:
+  id: NUM/14/19
+  number: '19'
+reference: 'Numbers 14:20'

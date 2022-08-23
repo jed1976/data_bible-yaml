@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 22:20"
+  class="v">20</span>Deliver my soul from the sword; my darling from the power
+  of the dog.</p>
+id: PSA/22/20
+next:
+  id: PSA/22/21
+  number: '21'
+previous:
+  id: PSA/22/19
+  number: '19'
+reference: 'Psalms 22:20'

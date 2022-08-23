@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 15:35"
+  class="v">35</span>And some of them that stood by, when they heard <span
+  class="add">it</span>, said, Behold, he calleth Elias. </p>
+id: MRK/15/35
+next:
+  id: MRK/15/36
+  number: '36'
+previous:
+  id: MRK/15/34
+  number: '34'
+reference: 'Mark 15:35'

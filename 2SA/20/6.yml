@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2SA 20:6" class="v">6</span>And
+  David said to Abishai, Now shall Sheba the son of Bichri do us more harm than
+  <span class="add">did</span> Absalom: take thou thy lord’s servants, and
+  pursue after him, lest he get him fenced cities, and escape us. </p>
+id: 2SA/20/6
+next:
+  id: 2SA/20/7
+  number: '7'
+previous:
+  id: 2SA/20/5
+  number: '5'
+reference: '2 Samuel 20:6'

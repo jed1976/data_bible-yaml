@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 3:3" class="v">3</span>Now
+  Joshua was clothed with filthy garments, and stood before the angel. </p>
+id: ZEC/3/3
+next:
+  id: ZEC/3/4
+  number: '4'
+previous:
+  id: ZEC/3/2
+  number: '2'
+reference: 'Zechariah 3:3'

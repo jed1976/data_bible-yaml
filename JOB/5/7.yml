@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 5:7" class="v">7</span>Yet
+  man is born unto trouble, as the sparks fly upward. </p>
+id: JOB/5/7
+next:
+  id: JOB/5/8
+  number: '8'
+previous:
+  id: JOB/5/6
+  number: '6'
+reference: 'Job 5:7'

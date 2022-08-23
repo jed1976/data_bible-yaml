@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 20:6" class="v">6</span>Then
+  cometh Simon Peter following him, and went into the sepulchre, and seeth the
+  linen clothes lie, </p>
+id: JHN/20/6
+next:
+  id: JHN/20/7
+  number: '7'
+previous:
+  id: JHN/20/5
+  number: '5'
+reference: 'John 20:6'

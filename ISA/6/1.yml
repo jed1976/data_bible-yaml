@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 6:1" class="v">1</span>In the
+  year that king Uzziah died I saw also the Lord sitting upon a throne, high and
+  lifted up, and his train filled the temple. </p>
+id: ISA/6/1
+next:
+  id: ISA/6/2
+  number: '2'
+previous:
+  id: ISA/5/30
+  number: '30'
+reference: 'Isaiah 6:1'

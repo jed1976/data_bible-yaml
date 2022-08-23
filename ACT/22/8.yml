@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 22:8" class="v">8</span>And I
+  answered, Who art thou, Lord? And he said unto me, <span class="wj">I am Jesus
+  of Nazareth, whom thou persecutest.</span> </p>
+id: ACT/22/8
+next:
+  id: ACT/22/9
+  number: '9'
+previous:
+  id: ACT/22/7
+  number: '7'
+reference: 'Acts 22:8'

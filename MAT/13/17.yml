@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 13:17"
+  class="v">17</span><span class="wj">For verily I say unto you, That many
+  prophets and righteous <span class="add">men</span> have desired to see <span
+  class="add">those things</span> which ye see, and have not seen <span
+  class="add">them</span>; and to hear <span class="add">those things</span>
+  which ye hear, and have not heard <span class="add">them.</span></span></p>
+id: MAT/13/17
+next:
+  id: MAT/13/18
+  number: '18'
+previous:
+  id: MAT/13/16
+  number: '16'
+reference: 'Matthew 13:17'

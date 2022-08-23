@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 22:4"
+  class="v">4</span>Therefore said I, Look away from me; I will weep bitterly,
+  labour not to comfort me, because of the spoiling of the daughter of my
+  people. </p>
+id: ISA/22/4
+next:
+  id: ISA/22/5
+  number: '5'
+previous:
+  id: ISA/22/3
+  number: '3'
+reference: 'Isaiah 22:4'

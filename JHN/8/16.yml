@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 8:16"
+  class="v">16</span><span class="wj">And yet if I judge, my judgment is true:
+  for I am not alone, but I and the Father that sent me.</span> </p>
+id: JHN/8/16
+next:
+  id: JHN/8/17
+  number: '17'
+previous:
+  id: JHN/8/15
+  number: '15'
+reference: 'John 8:16'

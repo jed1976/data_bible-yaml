@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 12:9" class="v">9</span>Much
+  people of the Jews therefore knew that he was there: and they came not for
+  Jesus’ sake only, but that they might see Lazarus also, whom he had raised
+  from the dead.</p>
+id: JHN/12/9
+next:
+  id: JHN/12/10
+  number: '10'
+previous:
+  id: JHN/12/8
+  number: '8'
+reference: 'John 12:9'

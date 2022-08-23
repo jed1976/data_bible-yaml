@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 4:7" class="v">7</span><span
+  class="wj">And some fell among thorns, and the thorns grew up, and choked it,
+  and it yielded no fruit.</span> </p>
+id: MRK/4/7
+next:
+  id: MRK/4/8
+  number: '8'
+previous:
+  id: MRK/4/6
+  number: '6'
+reference: 'Mark 4:7'

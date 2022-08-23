@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 46:9" class="v">9</span>He
+  maketh wars to cease unto the end of the earth; he breaketh the bow, and
+  cutteth the spear in sunder; he burneth the chariot in the fire.</p>
+id: PSA/46/9
+next:
+  id: PSA/46/10
+  number: '10'
+previous:
+  id: PSA/46/8
+  number: '8'
+reference: 'Psalms 46:9'

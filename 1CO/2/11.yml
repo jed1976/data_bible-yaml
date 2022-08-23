@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CO 2:11" class="v">11</span>For
+  what man knoweth the things of a man, save the spirit of man which is in him?
+  even so the things of God knoweth no man, but the Spirit of God. </p>
+id: 1CO/2/11
+next:
+  id: 1CO/2/12
+  number: '12'
+previous:
+  id: 1CO/2/10
+  number: '10'
+reference: '1 Corinthians 2:11'

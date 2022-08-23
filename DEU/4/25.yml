@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 4:25" class="v">25</span>¶
+  When thou shalt beget children, and children’s children, and ye shall have
+  remained long in the land, and shall corrupt <span
+  class="add">yourselves</span>, and make a graven image, <span
+  class="add">or</span> the likeness of any <span class="add">thing</span>, and
+  shall do evil in the sight of the <span class="nd">LORD</span> thy God, to
+  provoke him to anger: </p>
+id: DEU/4/25
+next:
+  id: DEU/4/26
+  number: '26'
+previous:
+  id: DEU/4/24
+  number: '24'
+reference: 'Deuteronomy 4:25'

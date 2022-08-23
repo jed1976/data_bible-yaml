@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 24:20"
+  class="v">20</span>For there shall be no reward to the evil <span
+  class="add">man;</span> the candle of the wicked shall be put out.</p>
+id: PRO/24/20
+next:
+  id: PRO/24/21
+  number: '21'
+previous:
+  id: PRO/24/19
+  number: '19'
+reference: 'Proverbs 24:20'

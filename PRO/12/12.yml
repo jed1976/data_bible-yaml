@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 12:12"
+  class="v">12</span>The wicked desireth the net of evil <span
+  class="add">men:</span> but the root of the righteous yieldeth <span
+  class="add">fruit</span>. </p>
+id: PRO/12/12
+next:
+  id: PRO/12/13
+  number: '13'
+previous:
+  id: PRO/12/11
+  number: '11'
+reference: 'Proverbs 12:12'

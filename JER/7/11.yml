@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 7:11" class="v">11</span>Is
+  this house, which is called by my name, become a den of robbers in your eyes?
+  Behold, even I have seen <span class="add">it</span>, saith the <span
+  class="nd">LORD</span>. </p>
+id: JER/7/11
+next:
+  id: JER/7/12
+  number: '12'
+previous:
+  id: JER/7/10
+  number: '10'
+reference: 'Jeremiah 7:11'

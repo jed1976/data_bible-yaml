@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="DAN 4:34" class="v">34</span>And
+  at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and
+  mine understanding returned unto me, and I blessed the most High, and I
+  praised and honoured him that liveth for ever, whose dominion <span
+  class="add">is</span> an everlasting dominion, and his kingdom <span
+  class="add">is</span> from generation to generation: </p>
+id: DAN/4/34
+next:
+  id: DAN/4/35
+  number: '35'
+previous:
+  id: DAN/4/33
+  number: '33'
+reference: 'Daniel 4:34'

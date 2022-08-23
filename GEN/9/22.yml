@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 9:22" class="v">22</span>And
+  Ham, the father of Canaan, saw the nakedness of his father, and told his two
+  brethren without. </p>
+id: GEN/9/22
+next:
+  id: GEN/9/23
+  number: '23'
+previous:
+  id: GEN/9/21
+  number: '21'
+reference: 'Genesis 9:22'

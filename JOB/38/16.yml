@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 38:16"
+  class="v">16</span>Hast thou entered into the springs of the sea? or hast thou
+  walked in the search of the depth? </p>
+id: JOB/38/16
+next:
+  id: JOB/38/17
+  number: '17'
+previous:
+  id: JOB/38/15
+  number: '15'
+reference: 'Job 38:16'

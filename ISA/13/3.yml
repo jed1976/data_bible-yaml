@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 13:3" class="v">3</span>I
+  have commanded my sanctified ones, I have also called my mighty ones for mine
+  anger, <span class="add">even</span> them that rejoice in my highness. </p>
+id: ISA/13/3
+next:
+  id: ISA/13/4
+  number: '4'
+previous:
+  id: ISA/13/2
+  number: '2'
+reference: 'Isaiah 13:3'

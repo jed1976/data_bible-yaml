@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JDG 9:32" class="v">32</span>Now
+  therefore up by night, thou and the people that <span class="add">is</span>
+  with thee, and lie in wait in the field: </p>
+id: JDG/9/32
+next:
+  id: JDG/9/33
+  number: '33'
+previous:
+  id: JDG/9/31
+  number: '31'
+reference: 'Judges 9:32'

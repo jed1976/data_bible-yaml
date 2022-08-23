@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="NEH 7:50" class="v">50</span>The
+  children of Reaiah, the children of Rezin, the children of Nekoda, </p>
+id: NEH/7/50
+next:
+  id: NEH/7/51
+  number: '51'
+previous:
+  id: NEH/7/49
+  number: '49'
+reference: 'Nehemiah 7:50'

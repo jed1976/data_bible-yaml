@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 4:15"
+  class="v">15</span>Where is then the blessedness ye spake of? for I bear you
+  record, that, if <span class="add">it had been</span> possible, ye would have
+  plucked out your own eyes, and have given them to me. </p>
+id: GAL/4/15
+next:
+  id: GAL/4/16
+  number: '16'
+previous:
+  id: GAL/4/14
+  number: '14'
+reference: 'Galatians 4:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 27:24" class="v">24</span>In
+  the year of the jubile the field shall return unto him of whom it was bought,
+  <span class="add">even</span> to him to whom the possession of the land <span
+  class="add">did belong</span>. </p>
+id: LEV/27/24
+next:
+  id: LEV/27/25
+  number: '25'
+previous:
+  id: LEV/27/23
+  number: '23'
+reference: 'Leviticus 27:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JAS 3:13" class="v">13</span>Who
+  <span class="add">is</span> a wise man and endued with knowledge among you?
+  let him shew out of a good conversation his works with meekness of wisdom.
+  </p>
+id: JAS/3/13
+next:
+  id: JAS/3/14
+  number: '14'
+previous:
+  id: JAS/3/12
+  number: '12'
+reference: 'James 3:13'

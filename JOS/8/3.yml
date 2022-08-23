@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 8:3" class="v">3</span>¶ So
+  Joshua arose, and all the people of war, to go up against Ai: and Joshua chose
+  out thirty thousand mighty men of valour, and sent them away by night. </p>
+id: JOS/8/3
+next:
+  id: JOS/8/4
+  number: '4'
+previous:
+  id: JOS/8/2
+  number: '2'
+reference: 'Joshua 8:3'

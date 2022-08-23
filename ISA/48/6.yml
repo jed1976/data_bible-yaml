@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 48:6" class="v">6</span>Thou
+  hast heard, see all this; and will not ye declare <span class="add">it</span>?
+  I have shewed thee new things from this time, even hidden things, and thou
+  didst not know them. </p>
+id: ISA/48/6
+next:
+  id: ISA/48/7
+  number: '7'
+previous:
+  id: ISA/48/5
+  number: '5'
+reference: 'Isaiah 48:6'

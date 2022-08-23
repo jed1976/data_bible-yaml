@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 11:26"
+  class="v">26</span>But there remained two <span class="add">of the</span> men
+  in the camp, the name of the one <span class="add">was</span> Eldad, and the
+  name of the other Medad: and the spirit rested upon them; and they <span
+  class="add">were</span> of them that were written, but went not out unto the
+  tabernacle: and they prophesied in the camp. </p>
+id: NUM/11/26
+next:
+  id: NUM/11/27
+  number: '27'
+previous:
+  id: NUM/11/25
+  number: '25'
+reference: 'Numbers 11:26'

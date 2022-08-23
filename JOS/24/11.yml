@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 24:11"
+  class="v">11</span>And ye went over Jordan, and came unto Jericho: and the men
+  of Jericho fought against you, the Amorites, and the Perizzites, and the
+  Canaanites, and the Hittites, and the Girgashites, the Hivites, and the
+  Jebusites; and I delivered them into your hand. </p>
+id: JOS/24/11
+next:
+  id: JOS/24/12
+  number: '12'
+previous:
+  id: JOS/24/10
+  number: '10'
+reference: 'Joshua 24:11'

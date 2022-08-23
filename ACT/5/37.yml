@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 5:37"
+  class="v">37</span>After this man rose up Judas of Galilee in the days of the
+  taxing, and drew away much people after him: he also perished; and all, <span
+  class="add">even</span> as many as obeyed him, were dispersed. </p>
+id: ACT/5/37
+next:
+  id: ACT/5/38
+  number: '38'
+previous:
+  id: ACT/5/36
+  number: '36'
+reference: 'Acts 5:37'

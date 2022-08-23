@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 7:22"
+  class="v">22</span>Then Jesus answering said unto them, <span class="wj">Go
+  your way, and tell John what things ye have seen and heard; how that the blind
+  see, the lame walk, the lepers are cleansed, the deaf hear, the dead are
+  raised, to the poor the gospel is preached.</span> </p>
+id: LUK/7/22
+next:
+  id: LUK/7/23
+  number: '23'
+previous:
+  id: LUK/7/21
+  number: '21'
+reference: 'Luke 7:22'

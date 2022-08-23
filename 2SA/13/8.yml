@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2SA 13:8" class="v">8</span>So
+  Tamar went to her brother Amnon’s house; and he was laid down. And she took
+  flour, and kneaded <span class="add">it</span>, and made cakes in his sight,
+  and did bake the cakes. </p>
+id: 2SA/13/8
+next:
+  id: 2SA/13/9
+  number: '9'
+previous:
+  id: 2SA/13/7
+  number: '7'
+reference: '2 Samuel 13:8'

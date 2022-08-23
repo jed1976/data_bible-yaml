@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 5:29"
+  class="v">29</span>This <span class="add">is</span> the law of jealousies,
+  when a wife goeth aside <span class="add">to another</span> instead of her
+  husband, and is defiled; </p>
+id: NUM/5/29
+next:
+  id: NUM/5/30
+  number: '30'
+previous:
+  id: NUM/5/28
+  number: '28'
+reference: 'Numbers 5:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 12:13"
+  class="v">13</span>And Moses cried unto the <span class="nd">LORD</span>,
+  saying, Heal her now, O God, I beseech thee.</p>
+id: NUM/12/13
+next:
+  id: NUM/12/14
+  number: '14'
+previous:
+  id: NUM/12/12
+  number: '12'
+reference: 'Numbers 12:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 32:22"
+  class="v">22</span>And Aaron said, Let not the anger of my lord wax hot: thou
+  knowest the people, that they <span class="add">are set</span> on mischief.
+  </p>
+id: EXO/32/22
+next:
+  id: EXO/32/23
+  number: '23'
+previous:
+  id: EXO/32/21
+  number: '21'
+reference: 'Exodus 32:22'

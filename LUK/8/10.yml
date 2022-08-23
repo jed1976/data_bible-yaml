@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 8:10" class="v">10</span>And
+  he said, <span class="wj">Unto you it is given to know the mysteries of the
+  kingdom of God: but to others in parables; that seeing they might not see, and
+  hearing they might not understand.</span> </p>
+id: LUK/8/10
+next:
+  id: LUK/8/11
+  number: '11'
+previous:
+  id: LUK/8/9
+  number: '9'
+reference: 'Luke 8:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 9:23" class="v">23</span>And
+  Joram turned his hands, and fled, and said to Ahaziah, <span class="add">There
+  is</span> treachery, O Ahaziah. </p>
+id: 2KI/9/23
+next:
+  id: 2KI/9/24
+  number: '24'
+previous:
+  id: 2KI/9/22
+  number: '22'
+reference: '2 Kings 9:23'

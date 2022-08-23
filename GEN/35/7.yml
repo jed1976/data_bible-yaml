@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 35:7" class="v">7</span>And
+  he built there an altar, and called the place El-beth-el: because there God
+  appeared unto him, when he fled from the face of his brother. </p>
+id: GEN/35/7
+next:
+  id: GEN/35/8
+  number: '8'
+previous:
+  id: GEN/35/6
+  number: '6'
+reference: 'Genesis 35:7'

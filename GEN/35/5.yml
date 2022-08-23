@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 35:5" class="v">5</span>And
+  they journeyed: and the terror of God was upon the cities that <span
+  class="add">were</span> round about them, and they did not pursue after the
+  sons of Jacob.</p>
+id: GEN/35/5
+next:
+  id: GEN/35/6
+  number: '6'
+previous:
+  id: GEN/35/4
+  number: '4'
+reference: 'Genesis 35:5'

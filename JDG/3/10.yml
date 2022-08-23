@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 3:10" class="v">10</span>And
+  the Spirit of the <span class="nd">LORD</span> came upon him, and he judged
+  Israel, and went out to war: and the <span class="nd">LORD</span> delivered
+  Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed
+  against Chushan-rishathaim. </p>
+id: JDG/3/10
+next:
+  id: JDG/3/11
+  number: '11'
+previous:
+  id: JDG/3/9
+  number: '9'
+reference: 'Judges 3:10'

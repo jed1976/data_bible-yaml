@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 20:11"
+  class="v">11</span>And the man that lieth with his father’s wife hath
+  uncovered his father’s nakedness: both of them shall surely be put to death;
+  their blood <span class="add">shall be</span> upon them. </p>
+id: LEV/20/11
+next:
+  id: LEV/20/12
+  number: '12'
+previous:
+  id: LEV/20/10
+  number: '10'
+reference: 'Leviticus 20:11'

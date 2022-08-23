@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 107:19"
+  class="v">19</span>Then they cry unto the <span class="nd">LORD</span> in
+  their trouble, <span class="add">and</span> he saveth them out of their
+  distresses.</p>
+id: PSA/107/19
+next:
+  id: PSA/107/20
+  number: '20'
+previous:
+  id: PSA/107/18
+  number: '18'
+reference: 'Psalms 107:19'

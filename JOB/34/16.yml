@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 34:16" class="v">16</span>If
+  now <span class="add">thou hast</span> understanding, hear this: hearken to
+  the voice of my words. </p>
+id: JOB/34/16
+next:
+  id: JOB/34/17
+  number: '17'
+previous:
+  id: JOB/34/15
+  number: '15'
+reference: 'Job 34:16'

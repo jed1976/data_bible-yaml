@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 6:5" class="v">5</span>And
+  have tasted the good word of God, and the powers of the world to come, </p>
+id: HEB/6/5
+next:
+  id: HEB/6/6
+  number: '6'
+previous:
+  id: HEB/6/4
+  number: '4'
+reference: 'Hebrews 6:5'

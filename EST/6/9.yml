@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 6:9" class="v">9</span>And
+  let this apparel and horse be delivered to the hand of one of the king’s most
+  noble princes, that they may array the man <span class="add">withal</span>
+  whom the king delighteth to honour, and bring him on horseback through the
+  street of the city, and proclaim before him, Thus shall it be done to the man
+  whom the king delighteth to honour. </p>
+id: EST/6/9
+next:
+  id: EST/6/10
+  number: '10'
+previous:
+  id: EST/6/8
+  number: '8'
+reference: 'Esther 6:9'

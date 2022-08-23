@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 56:1" class="v">1</span>Thus
+  saith the <span class="nd">LORD</span>, Keep ye judgment, and do justice: for
+  my salvation <span class="add">is</span> near to come, and my righteousness to
+  be revealed. </p>
+id: ISA/56/1
+next:
+  id: ISA/56/2
+  number: '2'
+previous:
+  id: ISA/55/13
+  number: '13'
+reference: 'Isaiah 56:1'

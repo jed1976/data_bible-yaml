@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 8:4"
+  class="v">4</span>Therefore they that were scattered abroad went every where
+  preaching the word. </p>
+id: ACT/8/4
+next:
+  id: ACT/8/5
+  number: '5'
+previous:
+  id: ACT/8/3
+  number: '3'
+reference: 'Acts 8:4'

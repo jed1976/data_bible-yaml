@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="HEB 10:25"
+  class="v">25</span>Not forsaking the assembling of ourselves together, as the
+  manner of some <span class="add">is</span>; but exhorting <span
+  class="add">one another</span>: and so much the more, as ye see the day
+  approaching. </p>
+id: HEB/10/25
+next:
+  id: HEB/10/26
+  number: '26'
+previous:
+  id: HEB/10/24
+  number: '24'
+reference: 'Hebrews 10:25'

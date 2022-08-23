@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 2:17" class="v">17</span>And
+  when they had seen <span class="add">it</span>, they made known abroad the
+  saying which was told them concerning this child. </p>
+id: LUK/2/17
+next:
+  id: LUK/2/18
+  number: '18'
+previous:
+  id: LUK/2/16
+  number: '16'
+reference: 'Luke 2:17'

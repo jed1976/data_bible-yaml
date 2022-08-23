@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 23:12"
+  class="v">12</span>And when it was day, certain of the Jews banded together,
+  and bound themselves under a curse, saying that they would neither eat nor
+  drink till they had killed Paul. </p>
+id: ACT/23/12
+next:
+  id: ACT/23/13
+  number: '13'
+previous:
+  id: ACT/23/11
+  number: '11'
+reference: 'Acts 23:12'

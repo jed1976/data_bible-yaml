@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 6:13" class="v">13</span>¶
+  And he said, Go and spy where he <span class="add">is</span>, that I may send
+  and fetch him. And it was told him, saying, Behold, <span class="add">he
+  is</span> in Dothan. </p>
+id: 2KI/6/13
+next:
+  id: 2KI/6/14
+  number: '14'
+previous:
+  id: 2KI/6/12
+  number: '12'
+reference: '2 Kings 6:13'

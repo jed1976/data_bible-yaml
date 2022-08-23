@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 46:25"
+  class="v">25</span>These <span class="add">are</span> the sons of Bilhah,
+  which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all
+  the souls <span class="add">were</span> seven. </p>
+id: GEN/46/25
+next:
+  id: GEN/46/26
+  number: '26'
+previous:
+  id: GEN/46/24
+  number: '24'
+reference: 'Genesis 46:25'

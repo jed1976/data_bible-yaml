@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Song <span class="add">or</span> Psalm of Asaph.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 83:1" class="v">1</span>Keep
+  not thou silence, O God: hold not thy peace, and be not still, O God.</p>
+id: PSA/83/1
+next:
+  id: PSA/83/2
+  number: '2'
+previous:
+  id: PSA/82/8
+  number: '8'
+reference: 'Psalms 83:1'

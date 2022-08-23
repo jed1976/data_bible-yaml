@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 2:20" class="v">20</span>An
+  instructor of the foolish, a teacher of babes, which hast the form of
+  knowledge and of the truth in the law. </p>
+id: ROM/2/20
+next:
+  id: ROM/2/21
+  number: '21'
+previous:
+  id: ROM/2/19
+  number: '19'
+reference: 'Romans 2:20'

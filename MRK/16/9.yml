@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 16:9" class="v">9</span>¶ Now
+  when <span class="add">Jesus</span> was risen early the first <span
+  class="add">day</span> of the week, he appeared first to Mary Magdalene, out
+  of whom he had cast seven devils. </p>
+id: MRK/16/9
+next:
+  id: MRK/16/10
+  number: '10'
+previous:
+  id: MRK/16/8
+  number: '8'
+reference: 'Mark 16:9'

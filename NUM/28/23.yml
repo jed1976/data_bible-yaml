@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 28:23" class="v">23</span>Ye
+  shall offer these beside the burnt offering in the morning, which <span
+  class="add">is</span> for a continual burnt offering. </p>
+id: NUM/28/23
+next:
+  id: NUM/28/24
+  number: '24'
+previous:
+  id: NUM/28/22
+  number: '22'
+reference: 'Numbers 28:23'

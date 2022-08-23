@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="REV 5:14" class="v">14</span>And
+  the four beasts said, Amen. And the four <span class="add">and</span> twenty
+  elders fell down and worshipped him that liveth for ever and ever.</p>
+id: REV/5/14
+next:
+  id: REV/6/1
+  number: '1'
+previous:
+  id: REV/5/13
+  number: '13'
+reference: 'Revelation 5:14'

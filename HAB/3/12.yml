@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HAB 3:12"
+  class="v">12</span>Thou didst march through the land in indignation, thou
+  didst thresh the heathen in anger. </p>
+id: HAB/3/12
+next:
+  id: HAB/3/13
+  number: '13'
+previous:
+  id: HAB/3/11
+  number: '11'
+reference: 'Habakkuk 3:12'

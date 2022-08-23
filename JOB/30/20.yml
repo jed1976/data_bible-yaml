@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 30:20" class="v">20</span>I
+  cry unto thee, and thou dost not hear me: I stand up, and thou regardest me
+  <span class="add">not</span>. </p>
+id: JOB/30/20
+next:
+  id: JOB/30/21
+  number: '21'
+previous:
+  id: JOB/30/19
+  number: '19'
+reference: 'Job 30:20'

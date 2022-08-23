@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 35:16" class="v">16</span>¶
+  And they journeyed from Beth-el; and there was but a little way to come to
+  Ephrath: and Rachel travailed, and she had hard labour. </p>
+id: GEN/35/16
+next:
+  id: GEN/35/17
+  number: '17'
+previous:
+  id: GEN/35/15
+  number: '15'
+reference: 'Genesis 35:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 13:24"
+  class="v">24</span>When John had first preached before his coming the baptism
+  of repentance to all the people of Israel. </p>
+id: ACT/13/24
+next:
+  id: ACT/13/25
+  number: '25'
+previous:
+  id: ACT/13/23
+  number: '23'
+reference: 'Acts 13:24'

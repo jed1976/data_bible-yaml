@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 1:26"
+  class="v">26</span>John answered them, saying, I baptize with water: but there
+  standeth one among you, whom ye know not; </p>
+id: JHN/1/26
+next:
+  id: JHN/1/27
+  number: '27'
+previous:
+  id: JHN/1/25
+  number: '25'
+reference: 'John 1:26'

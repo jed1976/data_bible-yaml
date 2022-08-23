@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EZK 36:25" class="v">25</span>¶
+  Then will I sprinkle clean water upon you, and ye shall be clean: from all
+  your filthiness, and from all your idols, will I cleanse you. </p>
+id: EZK/36/25
+next:
+  id: EZK/36/26
+  number: '26'
+previous:
+  id: EZK/36/24
+  number: '24'
+reference: 'Ezekiel 36:25'

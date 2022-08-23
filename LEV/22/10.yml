@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 22:10"
+  class="v">10</span>There shall no stranger eat <span class="add">of</span> the
+  holy thing: a sojourner of the priest, or an hired servant, shall not eat
+  <span class="add">of</span> the holy thing. </p>
+id: LEV/22/10
+next:
+  id: LEV/22/11
+  number: '11'
+previous:
+  id: LEV/22/9
+  number: '9'
+reference: 'Leviticus 22:10'

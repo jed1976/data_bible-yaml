@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 28:4"
+  class="v">4</span>Howbeit the <span class="nd">LORD</span> God of Israel chose
+  me before all the house of my father to be king over Israel for ever: for he
+  hath chosen Judah <span class="add">to be</span> the ruler; and of the house
+  of Judah, the house of my father; and among the sons of my father he liked me
+  to make <span class="add">me</span> king over all Israel: </p>
+id: 1CH/28/4
+next:
+  id: 1CH/28/5
+  number: '5'
+previous:
+  id: 1CH/28/3
+  number: '3'
+reference: '1 Chronicles 28:4'

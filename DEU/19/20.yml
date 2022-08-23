@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 19:20"
+  class="v">20</span>And those which remain shall hear, and fear, and shall
+  henceforth commit no more any such evil among you. </p>
+id: DEU/19/20
+next:
+  id: DEU/19/21
+  number: '21'
+previous:
+  id: DEU/19/19
+  number: '19'
+reference: 'Deuteronomy 19:20'

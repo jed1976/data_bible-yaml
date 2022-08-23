@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 13:9" class="v">9</span>Simon
+  Peter saith unto him, Lord, not my feet only, but also <span
+  class="add">my</span> hands and <span class="add">my</span> head. </p>
+id: JHN/13/9
+next:
+  id: JHN/13/10
+  number: '10'
+previous:
+  id: JHN/13/8
+  number: '8'
+reference: 'John 13:9'

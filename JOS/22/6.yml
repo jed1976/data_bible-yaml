@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 22:6" class="v">6</span>So
+  Joshua blessed them, and sent them away: and they went unto their tents.</p>
+id: JOS/22/6
+next:
+  id: JOS/22/7
+  number: '7'
+previous:
+  id: JOS/22/5
+  number: '5'
+reference: 'Joshua 22:6'

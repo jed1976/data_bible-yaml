@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2SA 11:6" class="v">6</span>¶ And
+  David sent to Joab, <span class="add">saying</span>, Send me Uriah the
+  Hittite. And Joab sent Uriah to David. </p>
+id: 2SA/11/6
+next:
+  id: 2SA/11/7
+  number: '7'
+previous:
+  id: 2SA/11/5
+  number: '5'
+reference: '2 Samuel 11:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 12:24" class="v">24</span>He
+  taketh away the heart of the chief of the people of the earth, and causeth
+  them to wander in a wilderness <span class="add">where there is</span> no way.
+  </p>
+id: JOB/12/24
+next:
+  id: JOB/12/25
+  number: '25'
+previous:
+  id: JOB/12/23
+  number: '23'
+reference: 'Job 12:24'

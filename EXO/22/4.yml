@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 22:4" class="v">4</span>If
+  the theft be certainly found in his hand alive, whether it be ox, or ass, or
+  sheep; he shall restore double.</p>
+id: EXO/22/4
+next:
+  id: EXO/22/5
+  number: '5'
+previous:
+  id: EXO/22/3
+  number: '3'
+reference: 'Exodus 22:4'

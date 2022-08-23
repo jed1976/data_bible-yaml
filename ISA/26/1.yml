@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 26:1" class="v">1</span>In
+  that day shall this song be sung in the land of Judah; We have a strong city;
+  salvation will <span class="add">God</span> appoint <span
+  class="add">for</span> walls and bulwarks. </p>
+id: ISA/26/1
+next:
+  id: ISA/26/2
+  number: '2'
+previous:
+  id: ISA/25/12
+  number: '12'
+reference: 'Isaiah 26:1'

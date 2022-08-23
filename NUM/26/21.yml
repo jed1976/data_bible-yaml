@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 26:21"
+  class="v">21</span>And the sons of Pharez were; of Hezron, the family of the
+  Hezronites: of Hamul, the family of the Hamulites. </p>
+id: NUM/26/21
+next:
+  id: NUM/26/22
+  number: '22'
+previous:
+  id: NUM/26/20
+  number: '20'
+reference: 'Numbers 26:21'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JOS 19:44"
+  class="v">44</span>And Eltekeh, and Gibbethon, and Baalath, </p>
+id: JOS/19/44
+next:
+  id: JOS/19/45
+  number: '45'
+previous:
+  id: JOS/19/43
+  number: '43'
+reference: 'Joshua 19:44'

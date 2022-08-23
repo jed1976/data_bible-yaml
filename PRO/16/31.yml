@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="PRO 16:31"
+  class="v">31</span>The hoary head <span class="add">is</span> a crown of
+  glory, <span class="add">if</span> it be found in the way of righteousness.
+  </p>
+id: PRO/16/31
+next:
+  id: PRO/16/32
+  number: '32'
+previous:
+  id: PRO/16/30
+  number: '30'
+reference: 'Proverbs 16:31'

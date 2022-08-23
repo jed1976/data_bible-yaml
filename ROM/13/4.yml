@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 13:4" class="v">4</span>For
+  he is the minister of God to thee for good. But if thou do that which is evil,
+  be afraid; for he beareth not the sword in vain: for he is the minister of
+  God, a revenger to <span class="add">execute</span> wrath upon him that doeth
+  evil. </p>
+id: ROM/13/4
+next:
+  id: ROM/13/5
+  number: '5'
+previous:
+  id: ROM/13/3
+  number: '3'
+reference: 'Romans 13:4'

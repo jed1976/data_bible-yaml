@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 14:21"
+  class="v">21</span>And Moses stretched out his hand over the sea; and the
+  <span class="nd">LORD</span> caused the sea to go <span
+  class="add">back</span> by a strong east wind all that night, and made the sea
+  dry <span class="add">land</span>, and the waters were divided. </p>
+id: EXO/14/21
+next:
+  id: EXO/14/22
+  number: '22'
+previous:
+  id: EXO/14/20
+  number: '20'
+reference: 'Exodus 14:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 21:13" class="v">13</span>On
+  the east three gates; on the north three gates; on the south three gates; and
+  on the west three gates. </p>
+id: REV/21/13
+next:
+  id: REV/21/14
+  number: '14'
+previous:
+  id: REV/21/12
+  number: '12'
+reference: 'Revelation 21:13'

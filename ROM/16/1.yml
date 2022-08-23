@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 16:1" class="v">1</span>I
+  commend unto you Phebe our sister, which is a servant of the church which is
+  at Cenchrea: </p>
+id: ROM/16/1
+next:
+  id: ROM/16/2
+  number: '2'
+previous:
+  id: ROM/15/33
+  number: '33'
+reference: 'Romans 16:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 37:23"
+  class="v">23</span>The steps of a <span class="add">good</span> man are
+  ordered by the <span class="nd">LORD</span>: and he delighteth in his way.</p>
+id: PSA/37/23
+next:
+  id: PSA/37/24
+  number: '24'
+previous:
+  id: PSA/37/22
+  number: '22'
+reference: 'Psalms 37:23'

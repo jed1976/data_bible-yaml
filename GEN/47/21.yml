@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 47:21"
+  class="v">21</span>And as for the people, he removed them to cities from <span
+  class="add">one</span> end of the borders of Egypt even to the <span
+  class="add">other</span> end thereof. </p>
+id: GEN/47/21
+next:
+  id: GEN/47/22
+  number: '22'
+previous:
+  id: GEN/47/20
+  number: '20'
+reference: 'Genesis 47:21'

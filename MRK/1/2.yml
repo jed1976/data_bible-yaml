@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MRK 1:2" class="v">2</span>As it
+  is written in the prophets, Behold, I send my messenger before thy face, which
+  shall prepare thy way before thee. </p>
+id: MRK/1/2
+next:
+  id: MRK/1/3
+  number: '3'
+previous:
+  id: MRK/1/1
+  number: '1'
+reference: 'Mark 1:2'

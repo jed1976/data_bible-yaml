@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOS 19:22"
+  class="v">22</span>And the coast reacheth to Tabor, and Shahazimah, and
+  Beth-shemesh; and the outgoings of their border were at Jordan: sixteen cities
+  with their villages. </p>
+id: JOS/19/22
+next:
+  id: JOS/19/23
+  number: '23'
+previous:
+  id: JOS/19/21
+  number: '21'
+reference: 'Joshua 19:22'

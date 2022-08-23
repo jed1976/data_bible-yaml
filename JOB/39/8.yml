@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 39:8" class="v">8</span>The
+  range of the mountains <span class="add">is</span> his pasture, and he
+  searcheth after every green thing. </p>
+id: JOB/39/8
+next:
+  id: JOB/39/9
+  number: '9'
+previous:
+  id: JOB/39/7
+  number: '7'
+reference: 'Job 39:8'

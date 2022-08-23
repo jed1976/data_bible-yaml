@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 27:1" class="v">1</span>Boast
+  not thyself of to morrow; for thou knowest not what a day may bring forth.
+  </p>
+id: PRO/27/1
+next:
+  id: PRO/27/2
+  number: '2'
+previous:
+  id: PRO/26/28
+  number: '28'
+reference: 'Proverbs 27:1'

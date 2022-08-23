@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 9:9" class="v">9</span>And
+  didst see the affliction of our fathers in Egypt, and heardest their cry by
+  the Red sea; </p>
+id: NEH/9/9
+next:
+  id: NEH/9/10
+  number: '10'
+previous:
+  id: NEH/9/8
+  number: '8'
+reference: 'Nehemiah 9:9'

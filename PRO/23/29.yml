@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 23:29"
+  class="v">29</span>Who hath woe? who hath sorrow? who hath contentions? who
+  hath babbling? who hath wounds without cause? who hath redness of eyes? </p>
+id: PRO/23/29
+next:
+  id: PRO/23/30
+  number: '30'
+previous:
+  id: PRO/23/28
+  number: '28'
+reference: 'Proverbs 23:29'

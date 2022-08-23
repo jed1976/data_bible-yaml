@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 17:1" class="v">1</span>And
+  when Abram was ninety years old and nine, the <span class="nd">LORD</span>
+  appeared to Abram, and said unto him, I <span class="add">am</span> the
+  Almighty God; walk before me, and be thou perfect. </p>
+id: GEN/17/1
+next:
+  id: GEN/17/2
+  number: '2'
+previous:
+  id: GEN/16/16
+  number: '16'
+reference: 'Genesis 17:1'

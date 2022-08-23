@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 19:9" class="v">9</span>And
+  Jesus said unto him, <span class="wj">This day is salvation come to this
+  house, forsomuch as he also is a son of Abraham.</span> </p>
+id: LUK/19/9
+next:
+  id: LUK/19/10
+  number: '10'
+previous:
+  id: LUK/19/8
+  number: '8'
+reference: 'Luke 19:9'

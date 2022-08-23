@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 4:4" class="v">4</span>And
+  Benaiah the son of Jehoiada <span class="add">was</span> over the host: and
+  Zadok and Abiathar <span class="add">were</span> the priests: </p>
+id: 1KI/4/4
+next:
+  id: 1KI/4/5
+  number: '5'
+previous:
+  id: 1KI/4/3
+  number: '3'
+reference: '1 Kings 4:4'

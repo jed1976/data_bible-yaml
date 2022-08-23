@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="1KI 7:44" class="v">44</span>And
+  one sea, and twelve oxen under the sea; </p>
+id: 1KI/7/44
+next:
+  id: 1KI/7/45
+  number: '45'
+previous:
+  id: 1KI/7/43
+  number: '43'
+reference: '1 Kings 7:44'

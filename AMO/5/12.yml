@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 5:12" class="v">12</span>For
+  I know your manifold transgressions and your mighty sins: they afflict the
+  just, they take a bribe, and they turn aside the poor in the gate <span
+  class="add">from their right</span>. </p>
+id: AMO/5/12
+next:
+  id: AMO/5/13
+  number: '13'
+previous:
+  id: AMO/5/11
+  number: '11'
+reference: 'Amos 5:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1PE 3:12" class="v">12</span>For
+  the eyes of the Lord <span class="add">are</span> over the righteous, and his
+  ears <span class="add">are open</span> unto their prayers: but the face of the
+  Lord <span class="add">is</span> against them that do evil.</p>
+id: 1PE/3/12
+next:
+  id: 1PE/3/13
+  number: '13'
+previous:
+  id: 1PE/3/11
+  number: '11'
+reference: '1 Peter 3:12'

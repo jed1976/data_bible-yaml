@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 7:6" class="v">6</span>But he
+  whose descent is not counted from them received tithes of Abraham, and blessed
+  him that had the promises. </p>
+id: HEB/7/6
+next:
+  id: HEB/7/7
+  number: '7'
+previous:
+  id: HEB/7/5
+  number: '5'
+reference: 'Hebrews 7:6'

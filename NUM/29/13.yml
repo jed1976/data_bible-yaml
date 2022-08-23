@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 29:13"
+  class="v">13</span>And ye shall offer a burnt offering, a sacrifice made by
+  fire, of a sweet savour unto the <span class="nd">LORD</span>; thirteen young
+  bullocks, two rams, <span class="add">and</span> fourteen lambs of the first
+  year; they shall be without blemish: </p>
+id: NUM/29/13
+next:
+  id: NUM/29/14
+  number: '14'
+previous:
+  id: NUM/29/12
+  number: '12'
+reference: 'Numbers 29:13'

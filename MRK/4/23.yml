@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 4:23"
+  class="v">23</span><span class="wj">If any man have ears to hear, let him
+  hear.</span> </p>
+id: MRK/4/23
+next:
+  id: MRK/4/24
+  number: '24'
+previous:
+  id: MRK/4/22
+  number: '22'
+reference: 'Mark 4:23'

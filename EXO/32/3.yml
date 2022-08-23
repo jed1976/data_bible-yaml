@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 32:3" class="v">3</span>And
+  all the people brake off the golden earrings which <span
+  class="add">were</span> in their ears, and brought <span
+  class="add">them</span> unto Aaron. </p>
+id: EXO/32/3
+next:
+  id: EXO/32/4
+  number: '4'
+previous:
+  id: EXO/32/2
+  number: '2'
+reference: 'Exodus 32:3'

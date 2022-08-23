@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 10:8" class="v">8</span>¶ And
+  the <span class="nd">LORD</span> spake unto Aaron, saying, </p>
+id: LEV/10/8
+next:
+  id: LEV/10/9
+  number: '9'
+previous:
+  id: LEV/10/7
+  number: '7'
+reference: 'Leviticus 10:8'

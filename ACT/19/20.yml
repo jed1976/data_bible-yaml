@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 19:20" class="v">20</span>So
+  mightily grew the word of God and prevailed.</p>
+id: ACT/19/20
+next:
+  id: ACT/19/21
+  number: '21'
+previous:
+  id: ACT/19/19
+  number: '19'
+reference: 'Acts 19:20'

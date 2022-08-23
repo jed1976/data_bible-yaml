@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 31:9" class="v">9</span>Thus
+  God hath taken away the cattle of your father, and given <span
+  class="add">them</span> to me. </p>
+id: GEN/31/9
+next:
+  id: GEN/31/10
+  number: '10'
+previous:
+  id: GEN/31/8
+  number: '8'
+reference: 'Genesis 31:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 12:15"
+  class="v">15</span>And Miriam was shut out from the camp seven days: and the
+  people journeyed not till Miriam was brought in <span
+  class="add">again</span>. </p>
+id: NUM/12/15
+next:
+  id: NUM/12/16
+  number: '16'
+previous:
+  id: NUM/12/14
+  number: '14'
+reference: 'Numbers 12:15'

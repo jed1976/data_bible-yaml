@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 73:13"
+  class="v">13</span>Verily I have cleansed my heart <span class="add">in</span>
+  vain, and washed my hands in innocency.</p>
+id: PSA/73/13
+next:
+  id: PSA/73/14
+  number: '14'
+previous:
+  id: PSA/73/12
+  number: '12'
+reference: 'Psalms 73:13'

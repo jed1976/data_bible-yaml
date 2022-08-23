@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EZK 40:35" class="v">35</span>¶
+  And he brought me to the north gate, and measured <span class="add">it</span>
+  according to these measures; </p>
+id: EZK/40/35
+next:
+  id: EZK/40/36
+  number: '36'
+previous:
+  id: EZK/40/34
+  number: '34'
+reference: 'Ezekiel 40:35'

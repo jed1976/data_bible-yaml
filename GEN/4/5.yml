@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 4:5" class="v">5</span>But
+  unto Cain and to his offering he had not respect. And Cain was very wroth, and
+  his countenance fell.</p>
+id: GEN/4/5
+next:
+  id: GEN/4/6
+  number: '6'
+previous:
+  id: GEN/4/4
+  number: '4'
+reference: 'Genesis 4:5'

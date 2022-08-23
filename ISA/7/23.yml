@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 7:23" class="v">23</span>And
+  it shall come to pass in that day, <span class="add">that</span> every place
+  shall be, where there were a thousand vines at a thousand silverlings, it
+  shall <span class="add">even</span> be for briers and thorns. </p>
+id: ISA/7/23
+next:
+  id: ISA/7/24
+  number: '24'
+previous:
+  id: ISA/7/22
+  number: '22'
+reference: 'Isaiah 7:23'

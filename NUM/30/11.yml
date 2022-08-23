@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 30:11"
+  class="v">11</span>And her husband heard <span class="add">it</span>, and held
+  his peace at her, <span class="add">and</span> disallowed her not: then all
+  her vows shall stand, and every bond wherewith she bound her soul shall stand.
+  </p>
+id: NUM/30/11
+next:
+  id: NUM/30/12
+  number: '12'
+previous:
+  id: NUM/30/10
+  number: '10'
+reference: 'Numbers 30:11'

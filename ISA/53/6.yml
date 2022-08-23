@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 53:6" class="v">6</span>All
+  we like sheep have gone astray; we have turned every one to his own way; and
+  the <span class="nd">LORD</span> hath laid on him the iniquity of us all. </p>
+id: ISA/53/6
+next:
+  id: ISA/53/7
+  number: '7'
+previous:
+  id: ISA/53/5
+  number: '5'
+reference: 'Isaiah 53:6'

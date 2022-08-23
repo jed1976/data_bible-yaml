@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 2:13" class="v">13</span>And
+  the priests’ custom with the people <span class="add">was, that</span>, when
+  any man offered sacrifice, the priest’s servant came, while the flesh was in
+  seething, with a fleshhook of three teeth in his hand; </p>
+id: 1SA/2/13
+next:
+  id: 1SA/2/14
+  number: '14'
+previous:
+  id: 1SA/2/12
+  number: '12'
+reference: '1 Samuel 2:13'

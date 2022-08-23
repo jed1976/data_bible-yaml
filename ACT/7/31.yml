@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 7:31"
+  class="v">31</span>When Moses saw <span class="add">it</span>, he wondered at
+  the sight: and as he drew near to behold <span class="add">it</span>, the
+  voice of the Lord came unto him, </p>
+id: ACT/7/31
+next:
+  id: ACT/7/32
+  number: '32'
+previous:
+  id: ACT/7/30
+  number: '30'
+reference: 'Acts 7:31'

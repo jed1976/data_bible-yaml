@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 19:25" class="v">25</span>¶
+  Now there stood by the cross of Jesus his mother, and his mother’s sister,
+  Mary the <span class="add">wife</span> of Cleophas, and Mary Magdalene. </p>
+id: JHN/19/25
+next:
+  id: JHN/19/26
+  number: '26'
+previous:
+  id: JHN/19/24
+  number: '24'
+reference: 'John 19:25'

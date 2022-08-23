@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="JHN 11:55" class="v">55</span>¶
+  And the Jews’ passover was nigh at hand: and many went out of the country up
+  to Jerusalem before the passover, to purify themselves. </p>
+id: JHN/11/55
+next:
+  id: JHN/11/56
+  number: '56'
+previous:
+  id: JHN/11/54
+  number: '54'
+reference: 'John 11:55'

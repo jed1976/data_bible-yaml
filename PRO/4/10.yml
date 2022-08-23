@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 4:10"
+  class="v">10</span>Hear, O my son, and receive my sayings; and the years of
+  thy life shall be many. </p>
+id: PRO/4/10
+next:
+  id: PRO/4/11
+  number: '11'
+previous:
+  id: PRO/4/9
+  number: '9'
+reference: 'Proverbs 4:10'

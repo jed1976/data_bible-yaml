@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 6:15"
+  class="v">15</span>Matthew and Thomas, James the <span class="add">son</span>
+  of Alphæus, and Simon called Zelotes, </p>
+id: LUK/6/15
+next:
+  id: LUK/6/16
+  number: '16'
+previous:
+  id: LUK/6/14
+  number: '14'
+reference: 'Luke 6:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 12:12"
+  class="v">12</span>And when he humbled himself, the wrath of the <span
+  class="nd">LORD</span> turned from him, that he would not destroy <span
+  class="add">him</span> altogether: and also in Judah things went well.</p>
+id: 2CH/12/12
+next:
+  id: 2CH/12/13
+  number: '13'
+previous:
+  id: 2CH/12/11
+  number: '11'
+reference: '2 Chronicles 12:12'

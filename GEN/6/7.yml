@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 6:7" class="v">7</span>And
+  the <span class="nd">LORD</span> said, I will destroy man whom I have created
+  from the face of the earth; both man, and beast, and the creeping thing, and
+  the fowls of the air; for it repenteth me that I have made them.</p>
+id: GEN/6/7
+next:
+  id: GEN/6/8
+  number: '8'
+previous:
+  id: GEN/6/6
+  number: '6'
+reference: 'Genesis 6:7'

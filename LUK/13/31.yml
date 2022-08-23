@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 13:31" class="v">31</span>¶
+  The same day there came certain of the Pharisees, saying unto him, Get thee
+  out, and depart hence: for Herod will kill thee. </p>
+id: LUK/13/31
+next:
+  id: LUK/13/32
+  number: '32'
+previous:
+  id: LUK/13/30
+  number: '30'
+reference: 'Luke 13:31'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 25:17"
+  class="v">17</span>Vex the Midianites, and smite them: </p>
+id: NUM/25/17
+next:
+  id: NUM/25/18
+  number: '18'
+previous:
+  id: NUM/25/16
+  number: '16'
+reference: 'Numbers 25:17'

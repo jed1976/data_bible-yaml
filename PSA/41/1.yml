@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 41:1" class="v">1</span>Blessed <span
+  class="add">is</span> he that considereth the poor: the <span
+  class="nd">LORD</span> will deliver him in time of trouble.</p>
+id: PSA/41/1
+next:
+  id: PSA/41/2
+  number: '2'
+previous:
+  id: PSA/40/17
+  number: '17'
+reference: 'Psalms 41:1'

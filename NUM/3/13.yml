@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 3:13"
+  class="v">13</span>Because all the firstborn <span class="add">are</span>
+  mine; <span class="add">for</span> on the day that I smote all the firstborn
+  in the land of Egypt I hallowed unto me all the firstborn in Israel, both man
+  and beast: mine shall they be: I <span class="add">am</span> the <span
+  class="nd">LORD</span>.</p>
+id: NUM/3/13
+next:
+  id: NUM/3/14
+  number: '14'
+previous:
+  id: NUM/3/12
+  number: '12'
+reference: 'Numbers 3:13'

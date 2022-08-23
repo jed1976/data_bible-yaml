@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 8:10" class="v">10</span>I
+  <span class="add">am</span> a wall, and my breasts like towers: then was I in
+  his eyes as one that found favour. </p>
+id: SNG/8/10
+next:
+  id: SNG/8/11
+  number: '11'
+previous:
+  id: SNG/8/9
+  number: '9'
+reference: 'Song of Solomon 8:10'

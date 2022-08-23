@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 14:22"
+  class="v">22</span>Confirming the souls of the disciples, <span
+  class="add">and</span> exhorting them to continue in the faith, and that we
+  must through much tribulation enter into the kingdom of God. </p>
+id: ACT/14/22
+next:
+  id: ACT/14/23
+  number: '23'
+previous:
+  id: ACT/14/21
+  number: '21'
+reference: 'Acts 14:22'

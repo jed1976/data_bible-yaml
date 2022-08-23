@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 144:5" class="v">5</span>Bow
+  thy heavens, O <span class="nd">LORD</span>, and come down: touch the
+  mountains, and they shall smoke.</p>
+id: PSA/144/5
+next:
+  id: PSA/144/6
+  number: '6'
+previous:
+  id: PSA/144/4
+  number: '4'
+reference: 'Psalms 144:5'

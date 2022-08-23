@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 23:11"
+  class="v">11</span>Then they brought out the king’s son, and put upon him the
+  crown, and <span class="add">gave him</span> the testimony, and made him king.
+  And Jehoiada and his sons anointed him, and said, God save the king.</p>
+id: 2CH/23/11
+next:
+  id: 2CH/23/12
+  number: '12'
+previous:
+  id: 2CH/23/10
+  number: '10'
+reference: '2 Chronicles 23:11'

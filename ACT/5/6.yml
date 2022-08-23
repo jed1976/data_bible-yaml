@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 5:6" class="v">6</span>And
+  the young men arose, wound him up, and carried <span class="add">him</span>
+  out, and buried <span class="add">him</span>. </p>
+id: ACT/5/6
+next:
+  id: ACT/5/7
+  number: '7'
+previous:
+  id: ACT/5/5
+  number: '5'
+reference: 'Acts 5:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GAL 4:26" class="v">26</span>But
+  Jerusalem which is above is free, which is the mother of us all. </p>
+id: GAL/4/26
+next:
+  id: GAL/4/27
+  number: '27'
+previous:
+  id: GAL/4/25
+  number: '25'
+reference: 'Galatians 4:26'

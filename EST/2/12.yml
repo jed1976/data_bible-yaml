@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EST 2:12" class="v">12</span>¶
+  Now when every maid’s turn was come to go in to king Ahasuerus, after that she
+  had been twelve months, according to the manner of the women, (for so were the
+  days of their purifications accomplished, <span class="add">to wit</span>, six
+  months with oil of myrrh, and six months with sweet odours, and with <span
+  class="add">other</span> things for the purifying of the women;) </p>
+id: EST/2/12
+next:
+  id: EST/2/13
+  number: '13'
+previous:
+  id: EST/2/11
+  number: '11'
+reference: 'Esther 2:12'

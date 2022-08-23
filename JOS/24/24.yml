@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 24:24"
+  class="v">24</span>And the people said unto Joshua, The <span
+  class="nd">LORD</span> our God will we serve, and his voice will we obey. </p>
+id: JOS/24/24
+next:
+  id: JOS/24/25
+  number: '25'
+previous:
+  id: JOS/24/23
+  number: '23'
+reference: 'Joshua 24:24'

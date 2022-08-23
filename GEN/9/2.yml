@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 9:2" class="v">2</span>And
+  the fear of you and the dread of you shall be upon every beast of the earth,
+  and upon every fowl of the air, upon all that moveth <span
+  class="add">upon</span> the earth, and upon all the fishes of the sea; into
+  your hand are they delivered. </p>
+id: GEN/9/2
+next:
+  id: GEN/9/3
+  number: '3'
+previous:
+  id: GEN/9/1
+  number: '1'
+reference: 'Genesis 9:2'

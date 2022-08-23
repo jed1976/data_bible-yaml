@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 1:20"
+  class="v">20</span>Wherefore it came to pass, when the time was come about
+  after Hannah had conceived, that she bare a son, and called his name Samuel,
+  <span class="add">saying</span>, Because I have asked him of the <span
+  class="nd">LORD</span>. </p>
+id: 1SA/1/20
+next:
+  id: 1SA/1/21
+  number: '21'
+previous:
+  id: 1SA/1/19
+  number: '19'
+reference: '1 Samuel 1:20'

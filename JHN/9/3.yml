@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 9:3" class="v">3</span>Jesus
+  answered, <span class="wj">Neither hath this man sinned, nor his parents: but
+  that the works of God should be made manifest in him.</span> </p>
+id: JHN/9/3
+next:
+  id: JHN/9/4
+  number: '4'
+previous:
+  id: JHN/9/2
+  number: '2'
+reference: 'John 9:3'

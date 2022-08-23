@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 8:21"
+  class="v">21</span>Then said Jesus again unto them, <span class="wj">I go my
+  way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot
+  come.</span> </p>
+id: JHN/8/21
+next:
+  id: JHN/8/22
+  number: '22'
+previous:
+  id: JHN/8/20
+  number: '20'
+reference: 'John 8:21'

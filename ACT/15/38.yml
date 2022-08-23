@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 15:38"
+  class="v">38</span>But Paul thought not good to take him with them, who
+  departed from them from Pamphylia, and went not with them to the work. </p>
+id: ACT/15/38
+next:
+  id: ACT/15/39
+  number: '39'
+previous:
+  id: ACT/15/37
+  number: '37'
+reference: 'Acts 15:38'

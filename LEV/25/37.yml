@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LEV 25:37"
+  class="v">37</span>Thou shalt not give him thy money upon usury, nor lend him
+  thy victuals for increase. </p>
+id: LEV/25/37
+next:
+  id: LEV/25/38
+  number: '38'
+previous:
+  id: LEV/25/36
+  number: '36'
+reference: 'Leviticus 25:37'

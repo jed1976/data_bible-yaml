@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NAM 1:12"
+  class="v">12</span>Thus saith the <span class="nd">LORD</span>; Though <span
+  class="add">they be</span> quiet, and likewise many, yet thus shall they be
+  cut down, when he shall pass through. Though I have afflicted thee, I will
+  afflict thee no more. </p>
+id: NAM/1/12
+next:
+  id: NAM/1/13
+  number: '13'
+previous:
+  id: NAM/1/11
+  number: '11'
+reference: 'Nahum 1:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 2:18" class="v">18</span>And
+  he set threescore and ten thousand of them <span class="add">to be</span>
+  bearers of burdens, and fourscore thousand <span class="add">to be</span>
+  hewers in the mountain, and three thousand and six hundred overseers to set
+  the people a work.</p>
+id: 2CH/2/18
+next:
+  id: 2CH/3/1
+  number: '1'
+previous:
+  id: 2CH/2/17
+  number: '17'
+reference: '2 Chronicles 2:18'

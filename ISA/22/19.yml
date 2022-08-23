@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 22:19"
+  class="v">19</span>And I will drive thee from thy station, and from thy state
+  shall he pull thee down.</p>
+id: ISA/22/19
+next:
+  id: ISA/22/20
+  number: '20'
+previous:
+  id: ISA/22/18
+  number: '18'
+reference: 'Isaiah 22:19'

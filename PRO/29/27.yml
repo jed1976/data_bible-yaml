@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 29:27" class="v">27</span>An
+  unjust man <span class="add">is</span> an abomination to the just: and <span
+  class="add">he that is</span> upright in the way <span class="add">is</span>
+  abomination to the wicked.</p>
+id: PRO/29/27
+next:
+  id: PRO/30/1
+  number: '1'
+previous:
+  id: PRO/29/26
+  number: '26'
+reference: 'Proverbs 29:27'

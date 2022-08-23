@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="52" data-sid="PSA 119:52"
+  class="v">52</span>I remembered thy judgments of old, O <span
+  class="nd">LORD</span>; and have comforted myself.</p>
+id: PSA/119/52
+next:
+  id: PSA/119/53
+  number: '53'
+previous:
+  id: PSA/119/51
+  number: '51'
+reference: 'Psalms 119:52'

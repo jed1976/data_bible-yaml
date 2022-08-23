@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 84:12" class="v">12</span>O
+  <span class="nd">LORD</span> of hosts, blessed <span class="add">is</span> the
+  man that trusteth in thee.</p>
+id: PSA/84/12
+next:
+  id: PSA/85/1
+  number: '1'
+previous:
+  id: PSA/84/11
+  number: '11'
+reference: 'Psalms 84:12'

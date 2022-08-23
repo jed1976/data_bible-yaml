@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 1:12" class="v">12</span>And
+  after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel
+  begat Zorobabel; </p>
+id: MAT/1/12
+next:
+  id: MAT/1/13
+  number: '13'
+previous:
+  id: MAT/1/11
+  number: '11'
+reference: 'Matthew 1:12'

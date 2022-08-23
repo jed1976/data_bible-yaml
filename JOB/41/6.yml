@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 41:6" class="v">6</span>Shall
+  the companions make a banquet of him? shall they part him among the merchants?
+  </p>
+id: JOB/41/6
+next:
+  id: JOB/41/7
+  number: '7'
+previous:
+  id: JOB/41/5
+  number: '5'
+reference: 'Job 41:6'

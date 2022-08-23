@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NEH 10:30"
+  class="v">30</span>And that we would not give our daughters unto the people of
+  the land, nor take their daughters for our sons: </p>
+id: NEH/10/30
+next:
+  id: NEH/10/31
+  number: '31'
+previous:
+  id: NEH/10/29
+  number: '29'
+reference: 'Nehemiah 10:30'

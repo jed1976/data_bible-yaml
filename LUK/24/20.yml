@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 24:20"
+  class="v">20</span>And how the chief priests and our rulers delivered him to
+  be condemned to death, and have crucified him. </p>
+id: LUK/24/20
+next:
+  id: LUK/24/21
+  number: '21'
+previous:
+  id: LUK/24/19
+  number: '19'
+reference: 'Luke 24:20'

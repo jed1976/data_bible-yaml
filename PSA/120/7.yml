@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 120:7" class="v">7</span>I
+  <span class="add">am for</span> peace: but when I speak, they <span
+  class="add">are</span> for war.</p>
+id: PSA/120/7
+next:
+  id: PSA/121/1
+  number: '1'
+previous:
+  id: PSA/120/6
+  number: '6'
+reference: 'Psalms 120:7'

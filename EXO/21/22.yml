@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 21:22" class="v">22</span>¶
+  If men strive, and hurt a woman with child, so that her fruit depart <span
+  class="add">from her</span>, and yet no mischief follow: he shall be surely
+  punished, according as the woman’s husband will lay upon him; and he shall pay
+  as the judges <span class="add">determine</span>. </p>
+id: EXO/21/22
+next:
+  id: EXO/21/23
+  number: '23'
+previous:
+  id: EXO/21/21
+  number: '21'
+reference: 'Exodus 21:22'

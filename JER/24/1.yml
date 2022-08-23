@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 24:1" class="v">1</span>The
+  <span class="nd">LORD</span> shewed me, and, behold, two baskets of figs <span
+  class="add">were</span> set before the temple of the <span
+  class="nd">LORD</span>, after that Nebuchadrezzar king of Babylon had carried
+  away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of
+  Judah, with the carpenters and smiths, from Jerusalem, and had brought them to
+  Babylon. </p>
+id: JER/24/1
+next:
+  id: JER/24/2
+  number: '2'
+previous:
+  id: JER/23/40
+  number: '40'
+reference: 'Jeremiah 24:1'

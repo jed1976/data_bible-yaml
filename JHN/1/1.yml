@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 1:1" class="v">1</span>In the
+  beginning was the Word, and the Word was with God, and the Word was God. </p>
+id: JHN/1/1
+next:
+  id: JHN/1/2
+  number: '2'
+previous:
+  id: JHN/intro/0
+  number: '0'
+reference: 'John 1:1'

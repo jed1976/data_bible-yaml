@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="COL 2:9" class="v">9</span>For in
+  him dwelleth all the fulness of the Godhead bodily. </p>
+id: COL/2/9
+next:
+  id: COL/2/10
+  number: '10'
+previous:
+  id: COL/2/8
+  number: '8'
+reference: 'Colossians 2:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 58:12"
+  class="v">12</span>And <span class="add">they that shall be</span> of thee
+  shall build the old waste places: thou shalt raise up the foundations of many
+  generations; and thou shalt be called, The repairer of the breach, The
+  restorer of paths to dwell in.</p>
+id: ISA/58/12
+next:
+  id: ISA/58/13
+  number: '13'
+previous:
+  id: ISA/58/11
+  number: '11'
+reference: 'Isaiah 58:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 19:25"
+  class="v">25</span>And their border was Helkath, and Hali, and Beten, and
+  Achshaph, </p>
+id: JOS/19/25
+next:
+  id: JOS/19/26
+  number: '26'
+previous:
+  id: JOS/19/24
+  number: '24'
+reference: 'Joshua 19:25'

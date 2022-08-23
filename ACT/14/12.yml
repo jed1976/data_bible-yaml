@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 14:12"
+  class="v">12</span>And they called Barnabas, Jupiter; and Paul, Mercurius,
+  because he was the chief speaker. </p>
+id: ACT/14/12
+next:
+  id: ACT/14/13
+  number: '13'
+previous:
+  id: ACT/14/11
+  number: '11'
+reference: 'Acts 14:12'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CH 20:6" class="v">6</span>And
+  said, O <span class="nd">LORD</span> God of our fathers, <span
+  class="add">art</span> not thou God in heaven? and rulest <span
+  class="add">not</span> thou over all the kingdoms of the heathen? and in thine
+  hand <span class="add">is there not</span> power and might, so that none is
+  able to withstand thee? </p>
+id: 2CH/20/6
+next:
+  id: 2CH/20/7
+  number: '7'
+previous:
+  id: 2CH/20/5
+  number: '5'
+reference: '2 Chronicles 20:6'

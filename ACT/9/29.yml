@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 9:29" class="v">29</span>And
+  he spake boldly in the name of the Lord Jesus, and disputed against the
+  Grecians: but they went about to slay him. </p>
+id: ACT/9/29
+next:
+  id: ACT/9/30
+  number: '30'
+previous:
+  id: ACT/9/28
+  number: '28'
+reference: 'Acts 9:29'

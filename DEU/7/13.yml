@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 7:13" class="v">13</span>And
+  he will love thee, and bless thee, and multiply thee: he will also bless the
+  fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and
+  thine oil, the increase of thy kine, and the flocks of thy sheep, in the land
+  which he sware unto thy fathers to give thee. </p>
+id: DEU/7/13
+next:
+  id: DEU/7/14
+  number: '14'
+previous:
+  id: DEU/7/12
+  number: '12'
+reference: 'Deuteronomy 7:13'

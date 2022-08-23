@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 16:10" class="v">10</span>¶
+  And it shall come to pass, when thou shalt shew this people all these words,
+  and they shall say unto thee, Wherefore hath the <span class="nd">LORD</span>
+  pronounced all this great evil against us? or what <span class="add">is</span>
+  our iniquity? or what <span class="add">is</span> our sin that we have
+  committed against the <span class="nd">LORD</span> our God? </p>
+id: JER/16/10
+next:
+  id: JER/16/11
+  number: '11'
+previous:
+  id: JER/16/9
+  number: '9'
+reference: 'Jeremiah 16:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 81:14" class="v">14</span>I
+  should soon have subdued their enemies, and turned my hand against their
+  adversaries.</p>
+id: PSA/81/14
+next:
+  id: PSA/81/15
+  number: '15'
+previous:
+  id: PSA/81/13
+  number: '13'
+reference: 'Psalms 81:14'

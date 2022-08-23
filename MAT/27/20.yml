@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 27:20"
+  class="v">20</span>But the chief priests and elders persuaded the multitude
+  that they should ask Barabbas, and destroy Jesus. </p>
+id: MAT/27/20
+next:
+  id: MAT/27/21
+  number: '21'
+previous:
+  id: MAT/27/19
+  number: '19'
+reference: 'Matthew 27:20'

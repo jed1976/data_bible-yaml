@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="30" data-sid="PSA 68:30"
+  class="v">30</span>Rebuke the company of spearmen, the multitude of the bulls,
+  with the calves of the people, <span class="add">till every one</span> submit
+  himself with pieces of silver: scatter thou the people <span
+  class="add">that</span> delight in war.</p>
+id: PSA/68/30
+next:
+  id: PSA/68/31
+  number: '31'
+previous:
+  id: PSA/68/29
+  number: '29'
+reference: 'Psalms 68:30'

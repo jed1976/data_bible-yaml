@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EST 3:7" class="v">7</span>¶ In
+  the first month, that <span class="add">is</span>, the month Nisan, in the
+  twelfth year of king Ahasuerus, they cast Pur, that <span
+  class="add">is</span>, the lot, before Haman from day to day, and from month
+  to month, <span class="add">to</span> the twelfth <span
+  class="add">month</span>, that <span class="add">is</span>, the month
+  Adar.</p>
+id: EST/3/7
+next:
+  id: EST/3/8
+  number: '8'
+previous:
+  id: EST/3/6
+  number: '6'
+reference: 'Esther 3:7'

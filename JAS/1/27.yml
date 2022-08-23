@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JAS 1:27"
+  class="v">27</span>Pure religion and undefiled before God and the Father is
+  this, To visit the fatherless and widows in their affliction, <span
+  class="add">and</span> to keep himself unspotted from the world.</p>
+id: JAS/1/27
+next:
+  id: JAS/2/1
+  number: '1'
+previous:
+  id: JAS/1/26
+  number: '26'
+reference: 'James 1:27'

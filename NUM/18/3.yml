@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 18:3" class="v">3</span>And
+  they shall keep thy charge, and the charge of all the tabernacle: only they
+  shall not come nigh the vessels of the sanctuary and the altar, that neither
+  they, nor ye also, die. </p>
+id: NUM/18/3
+next:
+  id: NUM/18/4
+  number: '4'
+previous:
+  id: NUM/18/2
+  number: '2'
+reference: 'Numbers 18:3'

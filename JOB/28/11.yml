@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 28:11" class="v">11</span>He
+  bindeth the floods from overflowing; and <span class="add">the thing that
+  is</span> hid bringeth he forth to light. </p>
+id: JOB/28/11
+next:
+  id: JOB/28/12
+  number: '12'
+previous:
+  id: JOB/28/10
+  number: '10'
+reference: 'Job 28:11'

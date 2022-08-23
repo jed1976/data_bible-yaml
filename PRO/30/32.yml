@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 30:32" class="v">32</span>If
+  thou hast done foolishly in lifting up thyself, or if thou hast thought evil,
+  <span class="add">lay</span> thine hand upon thy mouth. </p>
+id: PRO/30/32
+next:
+  id: PRO/30/33
+  number: '33'
+previous:
+  id: PRO/30/31
+  number: '31'
+reference: 'Proverbs 30:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 6:22"
+  class="v">22</span>When thou goest, it shall lead thee; when thou sleepest, it
+  shall keep thee; and <span class="add">when</span> thou awakest, it shall talk
+  with thee. </p>
+id: PRO/6/22
+next:
+  id: PRO/6/23
+  number: '23'
+previous:
+  id: PRO/6/21
+  number: '21'
+reference: 'Proverbs 6:22'

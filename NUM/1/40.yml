@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 1:40" class="v">40</span>¶
+  Of the children of Asher, by their generations, after their families, by the
+  house of their fathers, according to the number of the names, from twenty
+  years old and upward, all that were able to go forth to war; </p>
+id: NUM/1/40
+next:
+  id: NUM/1/41
+  number: '41'
+previous:
+  id: NUM/1/39
+  number: '39'
+reference: 'Numbers 1:40'

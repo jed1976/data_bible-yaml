@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 24:25"
+  class="v">25</span><span class="wj">Behold, I have told you before.</span>
+  </p>
+id: MAT/24/25
+next:
+  id: MAT/24/26
+  number: '26'
+previous:
+  id: MAT/24/24
+  number: '24'
+reference: 'Matthew 24:25'

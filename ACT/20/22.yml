@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 20:22"
+  class="v">22</span>And now, behold, I go bound in the spirit unto Jerusalem,
+  not knowing the things that shall befall me there: </p>
+id: ACT/20/22
+next:
+  id: ACT/20/23
+  number: '23'
+previous:
+  id: ACT/20/21
+  number: '21'
+reference: 'Acts 20:22'

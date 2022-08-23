@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 24:19"
+  class="v">19</span>Who ought to have been here before thee, and object, if
+  they had ought against me. </p>
+id: ACT/24/19
+next:
+  id: ACT/24/20
+  number: '20'
+previous:
+  id: ACT/24/18
+  number: '18'
+reference: 'Acts 24:19'

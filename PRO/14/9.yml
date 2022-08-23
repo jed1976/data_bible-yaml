@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 14:9" class="v">9</span>Fools
+  make a mock at sin: but among the righteous <span class="add">there is</span>
+  favour. </p>
+id: PRO/14/9
+next:
+  id: PRO/14/10
+  number: '10'
+previous:
+  id: PRO/14/8
+  number: '8'
+reference: 'Proverbs 14:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 9:4" class="v">4</span>And
+  the <span class="nd">LORD</span> shall sever between the cattle of Israel and
+  the cattle of Egypt: and there shall nothing die of all <span class="add">that
+  is</span> the children’s of Israel. </p>
+id: EXO/9/4
+next:
+  id: EXO/9/5
+  number: '5'
+previous:
+  id: EXO/9/3
+  number: '3'
+reference: 'Exodus 9:4'

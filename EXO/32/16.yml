@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 32:16"
+  class="v">16</span>And the tables <span class="add">were</span> the work of
+  God, and the writing <span class="add">was</span> the writing of God, graven
+  upon the tables. </p>
+id: EXO/32/16
+next:
+  id: EXO/32/17
+  number: '17'
+previous:
+  id: EXO/32/15
+  number: '15'
+reference: 'Exodus 32:16'

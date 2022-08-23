@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 95:2" class="v">2</span>Let
+  us come before his presence with thanksgiving, and make a joyful noise unto
+  him with psalms.</p>
+id: PSA/95/2
+next:
+  id: PSA/95/3
+  number: '3'
+previous:
+  id: PSA/95/1
+  number: '1'
+reference: 'Psalms 95:2'

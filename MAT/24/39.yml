@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 24:39"
+  class="v">39</span><span class="wj">And knew not until the flood came, and
+  took them all away; so shall also the coming of the Son of man be.</span> </p>
+id: MAT/24/39
+next:
+  id: MAT/24/40
+  number: '40'
+previous:
+  id: MAT/24/38
+  number: '38'
+reference: 'Matthew 24:39'

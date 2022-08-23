@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 18:1" class="v">1</span>And
+  David numbered the people that <span class="add">were</span> with him, and set
+  captains of thousands and captains of hundreds over them. </p>
+id: 2SA/18/1
+next:
+  id: 2SA/18/2
+  number: '2'
+previous:
+  id: 2SA/17/29
+  number: '29'
+reference: '2 Samuel 18:1'

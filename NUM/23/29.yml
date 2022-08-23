@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 23:29"
+  class="v">29</span>And Balaam said unto Balak, Build me here seven altars, and
+  prepare me here seven bullocks and seven rams. </p>
+id: NUM/23/29
+next:
+  id: NUM/23/30
+  number: '30'
+previous:
+  id: NUM/23/28
+  number: '28'
+reference: 'Numbers 23:29'

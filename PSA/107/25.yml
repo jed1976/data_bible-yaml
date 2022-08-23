@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 107:25"
+  class="v">25</span>For he commandeth, and raiseth the stormy wind, which
+  lifteth up the waves thereof.</p>
+id: PSA/107/25
+next:
+  id: PSA/107/26
+  number: '26'
+previous:
+  id: PSA/107/24
+  number: '24'
+reference: 'Psalms 107:25'

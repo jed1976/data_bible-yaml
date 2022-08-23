@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZK 44:21"
+  class="v">21</span>Neither shall any priest drink wine, when they enter into
+  the inner court. </p>
+id: EZK/44/21
+next:
+  id: EZK/44/22
+  number: '22'
+previous:
+  id: EZK/44/20
+  number: '20'
+reference: 'Ezekiel 44:21'

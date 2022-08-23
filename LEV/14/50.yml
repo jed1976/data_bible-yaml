@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LEV 14:50"
+  class="v">50</span>And he shall kill the one of the birds in an earthen vessel
+  over running water: </p>
+id: LEV/14/50
+next:
+  id: LEV/14/51
+  number: '51'
+previous:
+  id: LEV/14/49
+  number: '49'
+reference: 'Leviticus 14:50'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 24:46"
+  class="v">46</span><span class="wj">Blessed <span class="add">is</span> that
+  servant, whom his lord when he cometh shall find so doing.</span> </p>
+id: MAT/24/46
+next:
+  id: MAT/24/47
+  number: '47'
+previous:
+  id: MAT/24/45
+  number: '45'
+reference: 'Matthew 24:46'

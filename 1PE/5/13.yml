@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1PE 5:13" class="v">13</span>The
+  <span class="add">church that is</span> at Babylon, elected together with
+  <span class="add">you</span>, saluteth you; and <span class="add">so
+  doth</span> Marcus my son. </p>
+id: 1PE/5/13
+next:
+  id: 1PE/5/14
+  number: '14'
+previous:
+  id: 1PE/5/12
+  number: '12'
+reference: '1 Peter 5:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 21:10"
+  class="v">10</span>And the congregation sent thither twelve thousand men of
+  the valiantest, and commanded them, saying, Go and smite the inhabitants of
+  Jabesh-gilead with the edge of the sword, with the women and the children.
+  </p>
+id: JDG/21/10
+next:
+  id: JDG/21/11
+  number: '11'
+previous:
+  id: JDG/21/9
+  number: '9'
+reference: 'Judges 21:10'

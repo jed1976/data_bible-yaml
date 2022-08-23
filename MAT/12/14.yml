@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 12:14" class="v">14</span>¶
+  Then the Pharisees went out, and held a council against him, how they might
+  destroy him. </p>
+id: MAT/12/14
+next:
+  id: MAT/12/15
+  number: '15'
+previous:
+  id: MAT/12/13
+  number: '13'
+reference: 'Matthew 12:14'

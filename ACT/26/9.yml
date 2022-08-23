@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 26:9" class="v">9</span>I
+  verily thought with myself, that I ought to do many things contrary to the
+  name of Jesus of Nazareth. </p>
+id: ACT/26/9
+next:
+  id: ACT/26/10
+  number: '10'
+previous:
+  id: ACT/26/8
+  number: '8'
+reference: 'Acts 26:9'

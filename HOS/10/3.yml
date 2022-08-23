@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 10:3" class="v">3</span>For
+  now they shall say, We have no king, because we feared not the <span
+  class="nd">LORD</span>; what then should a king do to us? </p>
+id: HOS/10/3
+next:
+  id: HOS/10/4
+  number: '4'
+previous:
+  id: HOS/10/2
+  number: '2'
+reference: 'Hosea 10:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 5:20"
+  class="v">20</span><span class="wj">For the Father loveth the Son, and sheweth
+  him all things that himself doeth: and he will shew him greater works than
+  these, that ye may marvel.</span> </p>
+id: JHN/5/20
+next:
+  id: JHN/5/21
+  number: '21'
+previous:
+  id: JHN/5/19
+  number: '19'
+reference: 'John 5:20'

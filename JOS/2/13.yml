@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 2:13" class="v">13</span>And
+  <span class="add">that</span> ye will save alive my father, and my mother, and
+  my brethren, and my sisters, and all that they have, and deliver our lives
+  from death. </p>
+id: JOS/2/13
+next:
+  id: JOS/2/14
+  number: '14'
+previous:
+  id: JOS/2/12
+  number: '12'
+reference: 'Joshua 2:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 34:7" class="v">7</span>What
+  man <span class="add">is</span> like Job, <span class="add">who</span>
+  drinketh up scorning like water? </p>
+id: JOB/34/7
+next:
+  id: JOB/34/8
+  number: '8'
+previous:
+  id: JOB/34/6
+  number: '6'
+reference: 'Job 34:7'

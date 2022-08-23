@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 12:24"
+  class="v">24</span>The children of Judah that bare shield and spear <span
+  class="add">were</span> six thousand and eight hundred, ready armed to the
+  war. </p>
+id: 1CH/12/24
+next:
+  id: 1CH/12/25
+  number: '25'
+previous:
+  id: 1CH/12/23
+  number: '23'
+reference: '1 Chronicles 12:24'

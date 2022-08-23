@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 37:7" class="v">7</span>He
+  sealeth up the hand of every man; that all men may know his work. </p>
+id: JOB/37/7
+next:
+  id: JOB/37/8
+  number: '8'
+previous:
+  id: JOB/37/6
+  number: '6'
+reference: 'Job 37:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LUK 12:55"
+  class="v">55</span><span class="wj">And when <span class="add">ye see</span>
+  the south wind blow, ye say, There will be heat; and it cometh to pass.</span>
+  </p>
+id: LUK/12/55
+next:
+  id: LUK/12/56
+  number: '56'
+previous:
+  id: LUK/12/54
+  number: '54'
+reference: 'Luke 12:55'

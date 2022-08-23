@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 115:17"
+  class="v">17</span>The dead praise not the <span class="nd">LORD</span>,
+  neither any that go down into silence.</p>
+id: PSA/115/17
+next:
+  id: PSA/115/18
+  number: '18'
+previous:
+  id: PSA/115/16
+  number: '16'
+reference: 'Psalms 115:17'

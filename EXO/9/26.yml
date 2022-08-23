@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 9:26"
+  class="v">26</span>Only in the land of Goshen, where the children of Israel
+  <span class="add">were</span>, was there no hail.</p>
+id: EXO/9/26
+next:
+  id: EXO/9/27
+  number: '27'
+previous:
+  id: EXO/9/25
+  number: '25'
+reference: 'Exodus 9:26'

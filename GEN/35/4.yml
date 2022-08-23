@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 35:4" class="v">4</span>And
+  they gave unto Jacob all the strange gods which <span class="add">were</span>
+  in their hand, and <span class="add">all their</span> earrings which <span
+  class="add">were</span> in their ears; and Jacob hid them under the oak which
+  <span class="add">was</span> by Shechem. </p>
+id: GEN/35/4
+next:
+  id: GEN/35/5
+  number: '5'
+previous:
+  id: GEN/35/3
+  number: '3'
+reference: 'Genesis 35:4'

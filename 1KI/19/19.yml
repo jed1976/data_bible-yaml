@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1KI 19:19" class="v">19</span>¶
+  So he departed thence, and found Elisha the son of Shaphat, who <span
+  class="add">was</span> plowing <span class="add">with</span> twelve yoke <span
+  class="add">of oxen</span> before him, and he with the twelfth: and Elijah
+  passed by him, and cast his mantle upon him. </p>
+id: 1KI/19/19
+next:
+  id: 1KI/19/20
+  number: '20'
+previous:
+  id: 1KI/19/18
+  number: '18'
+reference: '1 Kings 19:19'

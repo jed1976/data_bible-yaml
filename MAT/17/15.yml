@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 17:15"
+  class="v">15</span>Lord, have mercy on my son: for he is lunatick, and sore
+  vexed: for ofttimes he falleth into the fire, and oft into the water. </p>
+id: MAT/17/15
+next:
+  id: MAT/17/16
+  number: '16'
+previous:
+  id: MAT/17/14
+  number: '14'
+reference: 'Matthew 17:15'

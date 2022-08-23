@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JDG 6:8" class="v">8</span>That
+  the <span class="nd">LORD</span> sent a prophet unto the children of Israel,
+  which said unto them, Thus saith the <span class="nd">LORD</span> God of
+  Israel, I brought you up from Egypt, and brought you forth out of the house of
+  bondage; </p>
+id: JDG/6/8
+next:
+  id: JDG/6/9
+  number: '9'
+previous:
+  id: JDG/6/7
+  number: '7'
+reference: 'Judges 6:8'

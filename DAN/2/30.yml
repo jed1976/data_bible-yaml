@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DAN 2:30" class="v">30</span>But
+  as for me, this secret is not revealed to me for <span class="add">any</span>
+  wisdom that I have more than any living, but for <span
+  class="add">their</span> sakes that shall make known the interpretation to the
+  king, and that thou mightest know the thoughts of thy heart.</p>
+id: DAN/2/30
+next:
+  id: DAN/2/31
+  number: '31'
+previous:
+  id: DAN/2/29
+  number: '29'
+reference: 'Daniel 2:30'

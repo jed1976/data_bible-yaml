@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="MAT 27:60"
+  class="v">60</span>And laid it in his own new tomb, which he had hewn out in
+  the rock: and he rolled a great stone to the door of the sepulchre, and
+  departed. </p>
+id: MAT/27/60
+next:
+  id: MAT/27/61
+  number: '61'
+previous:
+  id: MAT/27/59
+  number: '59'
+reference: 'Matthew 27:60'

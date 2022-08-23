@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JER 5:26" class="v">26</span>For
+  among my people are found wicked <span class="add">men:</span> they lay wait,
+  as he that setteth snares; they set a trap, they catch men. </p>
+id: JER/5/26
+next:
+  id: JER/5/27
+  number: '27'
+previous:
+  id: JER/5/25
+  number: '25'
+reference: 'Jeremiah 5:26'

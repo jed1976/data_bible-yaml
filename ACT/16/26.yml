@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 16:26"
+  class="v">26</span>And suddenly there was a great earthquake, so that the
+  foundations of the prison were shaken: and immediately all the doors were
+  opened, and every one’s bands were loosed. </p>
+id: ACT/16/26
+next:
+  id: ACT/16/27
+  number: '27'
+previous:
+  id: ACT/16/25
+  number: '25'
+reference: 'Acts 16:26'

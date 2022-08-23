@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 5:9" class="v">9</span>Thine
+  hand shall be lifted up upon thine adversaries, and all thine enemies shall be
+  cut off. </p>
+id: MIC/5/9
+next:
+  id: MIC/5/10
+  number: '10'
+previous:
+  id: MIC/5/8
+  number: '8'
+reference: 'Micah 5:9'

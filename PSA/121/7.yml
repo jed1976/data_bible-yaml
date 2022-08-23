@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 121:7" class="v">7</span>The
+  <span class="nd">LORD</span> shall preserve thee from all evil: he shall
+  preserve thy soul.</p>
+id: PSA/121/7
+next:
+  id: PSA/121/8
+  number: '8'
+previous:
+  id: PSA/121/6
+  number: '6'
+reference: 'Psalms 121:7'

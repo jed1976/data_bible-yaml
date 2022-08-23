@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 24:1"
+  class="v">1</span>Behold, the <span class="nd">LORD</span> maketh the earth
+  empty, and maketh it waste, and turneth it upside down, and scattereth abroad
+  the inhabitants thereof. </p>
+id: ISA/24/1
+next:
+  id: ISA/24/2
+  number: '2'
+previous:
+  id: ISA/23/18
+  number: '18'
+reference: 'Isaiah 24:1'

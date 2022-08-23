@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 6:13" class="v">13</span>He
+  winketh with his eyes, he speaketh with his feet, he teacheth with his
+  fingers; </p>
+id: PRO/6/13
+next:
+  id: PRO/6/14
+  number: '14'
+previous:
+  id: PRO/6/12
+  number: '12'
+reference: 'Proverbs 6:13'

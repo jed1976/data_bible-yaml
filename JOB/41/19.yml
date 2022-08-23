@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 41:19"
+  class="v">19</span>Out of his mouth go burning lamps, <span
+  class="add">and</span> sparks of fire leap out. </p>
+id: JOB/41/19
+next:
+  id: JOB/41/20
+  number: '20'
+previous:
+  id: JOB/41/18
+  number: '18'
+reference: 'Job 41:19'

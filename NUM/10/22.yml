@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 10:22" class="v">22</span>¶
+  And the standard of the camp of the children of Ephraim set forward according
+  to their armies: and over his host <span class="add">was</span> Elishama the
+  son of Ammihud. </p>
+id: NUM/10/22
+next:
+  id: NUM/10/23
+  number: '23'
+previous:
+  id: NUM/10/21
+  number: '21'
+reference: 'Numbers 10:22'

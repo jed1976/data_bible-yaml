@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 1:22"
+  class="v">22</span>Professing themselves to be wise, they became fools, </p>
+id: ROM/1/22
+next:
+  id: ROM/1/23
+  number: '23'
+previous:
+  id: ROM/1/21
+  number: '21'
+reference: 'Romans 1:22'

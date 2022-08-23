@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 45:4" class="v">4</span>And
+  Joseph said unto his brethren, Come near to me, I pray you. And they came
+  near. And he said, I <span class="add">am</span> Joseph your brother, whom ye
+  sold into Egypt. </p>
+id: GEN/45/4
+next:
+  id: GEN/45/5
+  number: '5'
+previous:
+  id: GEN/45/3
+  number: '3'
+reference: 'Genesis 45:4'

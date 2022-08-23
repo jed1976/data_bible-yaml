@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 32:4" class="v">4</span><span
+  class="add">Even</span> the country which the <span class="nd">LORD</span>
+  smote before the congregation of Israel, <span class="add">is</span> a land
+  for cattle, and thy servants have cattle: </p>
+id: NUM/32/4
+next:
+  id: NUM/32/5
+  number: '5'
+previous:
+  id: NUM/32/3
+  number: '3'
+reference: 'Numbers 32:4'

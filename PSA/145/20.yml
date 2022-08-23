@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 145:20"
+  class="v">20</span>The <span class="nd">LORD</span> preserveth all them that
+  love him: but all the wicked will he destroy.</p>
+id: PSA/145/20
+next:
+  id: PSA/145/21
+  number: '21'
+previous:
+  id: PSA/145/19
+  number: '19'
+reference: 'Psalms 145:20'

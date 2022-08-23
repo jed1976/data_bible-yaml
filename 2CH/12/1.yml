@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 12:1" class="v">1</span>And
+  it came to pass, when Rehoboam had established the kingdom, and had
+  strengthened himself, he forsook the law of the <span class="nd">LORD</span>,
+  and all Israel with him. </p>
+id: 2CH/12/1
+next:
+  id: 2CH/12/2
+  number: '2'
+previous:
+  id: 2CH/11/23
+  number: '23'
+reference: '2 Chronicles 12:1'

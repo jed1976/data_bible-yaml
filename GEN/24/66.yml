@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="GEN 24:66"
+  class="v">66</span>And the servant told Isaac all things that he had done.
+  </p>
+id: GEN/24/66
+next:
+  id: GEN/24/67
+  number: '67'
+previous:
+  id: GEN/24/65
+  number: '65'
+reference: 'Genesis 24:66'

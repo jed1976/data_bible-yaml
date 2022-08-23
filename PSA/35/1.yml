@@ -1,0 +1,13 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 35:1" class="v">1</span>Plead <span
+  class="add">my cause</span>, O <span class="nd">LORD</span>, with them that
+  strive with me: fight against them that fight against me.</p>
+id: PSA/35/1
+next:
+  id: PSA/35/2
+  number: '2'
+previous:
+  id: PSA/34/22
+  number: '22'
+reference: 'Psalms 35:1'

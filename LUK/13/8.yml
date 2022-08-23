@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 13:8" class="v">8</span><span
+  class="wj">And he answering said unto him, Lord, let it alone this year also,
+  till I shall dig about it, and dung <span class="add">it</span>:</span> </p>
+id: LUK/13/8
+next:
+  id: LUK/13/9
+  number: '9'
+previous:
+  id: LUK/13/7
+  number: '7'
+reference: 'Luke 13:8'

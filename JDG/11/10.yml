@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 11:10"
+  class="v">10</span>And the elders of Gilead said unto Jephthah, The <span
+  class="nd">LORD</span> be witness between us, if we do not so according to thy
+  words. </p>
+id: JDG/11/10
+next:
+  id: JDG/11/11
+  number: '11'
+previous:
+  id: JDG/11/9
+  number: '9'
+reference: 'Judges 11:10'

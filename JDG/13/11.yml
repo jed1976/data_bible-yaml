@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 13:11"
+  class="v">11</span>And Manoah arose, and went after his wife, and came to the
+  man, and said unto him, <span class="add">Art</span> thou the man that spakest
+  unto the woman? And he said, I <span class="add">am</span>. </p>
+id: JDG/13/11
+next:
+  id: JDG/13/12
+  number: '12'
+previous:
+  id: JDG/13/10
+  number: '10'
+reference: 'Judges 13:11'

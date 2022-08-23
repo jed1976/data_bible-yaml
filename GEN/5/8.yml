@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 5:8" class="v">8</span>And
+  all the days of Seth were nine hundred and twelve years: and he died.</p>
+id: GEN/5/8
+next:
+  id: GEN/5/9
+  number: '9'
+previous:
+  id: GEN/5/7
+  number: '7'
+reference: 'Genesis 5:8'

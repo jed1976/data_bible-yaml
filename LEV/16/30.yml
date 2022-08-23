@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 16:30"
+  class="v">30</span>For on that day shall <span class="add">the priest</span>
+  make an atonement for you, to cleanse you, <span class="add">that</span> ye
+  may be clean from all your sins before the <span class="nd">LORD</span>. </p>
+id: LEV/16/30
+next:
+  id: LEV/16/31
+  number: '31'
+previous:
+  id: LEV/16/29
+  number: '29'
+reference: 'Leviticus 16:30'

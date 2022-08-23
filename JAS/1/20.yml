@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JAS 1:20" class="v">20</span>For
+  the wrath of man worketh not the righteousness of God. </p>
+id: JAS/1/20
+next:
+  id: JAS/1/21
+  number: '21'
+previous:
+  id: JAS/1/19
+  number: '19'
+reference: 'James 1:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 1:5" class="v">5</span>¶ Why
+  should ye be stricken any more? ye will revolt more and more: the whole head
+  is sick, and the whole heart faint. </p>
+id: ISA/1/5
+next:
+  id: ISA/1/6
+  number: '6'
+previous:
+  id: ISA/1/4
+  number: '4'
+reference: 'Isaiah 1:5'

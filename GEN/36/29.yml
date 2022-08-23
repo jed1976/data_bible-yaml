@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 36:29"
+  class="v">29</span>These <span class="add">are</span> the dukes <span
+  class="add">that came</span> of the Horites; duke Lotan, duke Shobal, duke
+  Zibeon, duke Anah, </p>
+id: GEN/36/29
+next:
+  id: GEN/36/30
+  number: '30'
+previous:
+  id: GEN/36/28
+  number: '28'
+reference: 'Genesis 36:29'

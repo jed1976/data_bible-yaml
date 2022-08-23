@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 11:4" class="v">4</span>Thus
+  saith the <span class="nd">LORD</span>, Ye shall not go up, nor fight against
+  your brethren: return every man to his house: for this thing is done of me.
+  And they obeyed the words of the <span class="nd">LORD</span>, and returned
+  from going against Jeroboam.</p>
+id: 2CH/11/4
+next:
+  id: 2CH/11/5
+  number: '5'
+previous:
+  id: 2CH/11/3
+  number: '3'
+reference: '2 Chronicles 11:4'

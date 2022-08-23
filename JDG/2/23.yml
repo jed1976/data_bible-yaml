@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 2:23"
+  class="v">23</span>Therefore the <span class="nd">LORD</span> left those
+  nations, without driving them out hastily; neither delivered he them into the
+  hand of Joshua.</p>
+id: JDG/2/23
+next:
+  id: JDG/3/1
+  number: '1'
+previous:
+  id: JDG/2/22
+  number: '22'
+reference: 'Judges 2:23'

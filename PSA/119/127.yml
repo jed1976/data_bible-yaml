@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="127" data-sid="PSA 119:127"
+  class="v">127</span>Therefore I love thy commandments above gold; yea, above
+  fine gold.</p>
+id: PSA/119/127
+next:
+  id: PSA/119/128
+  number: '128'
+previous:
+  id: PSA/119/126
+  number: '126'
+reference: 'Psalms 119:127'

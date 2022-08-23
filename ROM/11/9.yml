@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 11:9" class="v">9</span>And
+  David saith, Let their table be made a snare, and a trap, and a
+  stumblingblock, and a recompence unto them: </p>
+id: ROM/11/9
+next:
+  id: ROM/11/10
+  number: '10'
+previous:
+  id: ROM/11/8
+  number: '8'
+reference: 'Romans 11:9'

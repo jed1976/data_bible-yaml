@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JAS 4:6" class="v">6</span>But he
+  giveth more grace. Wherefore he saith, God resisteth the proud, but giveth
+  grace unto the humble. </p>
+id: JAS/4/6
+next:
+  id: JAS/4/7
+  number: '7'
+previous:
+  id: JAS/4/5
+  number: '5'
+reference: 'James 4:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 10:27"
+  class="v">27</span>And Hadoram, and Uzal, and Diklah, </p>
+id: GEN/10/27
+next:
+  id: GEN/10/28
+  number: '28'
+previous:
+  id: GEN/10/26
+  number: '26'
+reference: 'Genesis 10:27'

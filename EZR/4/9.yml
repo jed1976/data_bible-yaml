@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 4:9" class="v">9</span>Then
+  <span class="add">wrote</span> Rehum the chancellor, and Shimshai the scribe,
+  and the rest of their companions; the Dinaites, the Apharsathchites, the
+  Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites,
+  the Dehavites, <span class="add">and</span> the Elamites, </p>
+id: EZR/4/9
+next:
+  id: EZR/4/10
+  number: '10'
+previous:
+  id: EZR/4/8
+  number: '8'
+reference: 'Ezra 4:9'

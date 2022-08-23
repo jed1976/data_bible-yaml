@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 17:3" class="v">3</span>And,
+  behold, there appeared unto them Moses and Elias talking with him. </p>
+id: MAT/17/3
+next:
+  id: MAT/17/4
+  number: '4'
+previous:
+  id: MAT/17/2
+  number: '2'
+reference: 'Matthew 17:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 9:10" class="v">10</span>I
+  found Israel like grapes in the wilderness; I saw your fathers as the
+  firstripe in the fig tree at her first time: <span class="add">but</span> they
+  went to Baal-peor, and separated themselves unto <span class="add">that</span>
+  shame; and <span class="add">their</span> abominations were according as they
+  loved.</p>
+id: HOS/9/10
+next:
+  id: HOS/9/11
+  number: '11'
+previous:
+  id: HOS/9/9
+  number: '9'
+reference: 'Hosea 9:10'

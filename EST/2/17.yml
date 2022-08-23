@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EST 2:17" class="v">17</span>And
+  the king loved Esther above all the women, and she obtained grace and favour
+  in his sight more than all the virgins; so that he set the royal crown upon
+  her head, and made her queen instead of Vashti. </p>
+id: EST/2/17
+next:
+  id: EST/2/18
+  number: '18'
+previous:
+  id: EST/2/16
+  number: '16'
+reference: 'Esther 2:17'

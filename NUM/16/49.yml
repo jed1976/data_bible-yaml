@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 16:49"
+  class="v">49</span>Now they that died in the plague were fourteen thousand and
+  seven hundred, beside them that died about the matter of Korah. </p>
+id: NUM/16/49
+next:
+  id: NUM/16/50
+  number: '50'
+previous:
+  id: NUM/16/48
+  number: '48'
+reference: 'Numbers 16:49'

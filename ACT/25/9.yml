@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 25:9" class="v">9</span>But
+  Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou
+  go up to Jerusalem, and there be judged of these things before me? </p>
+id: ACT/25/9
+next:
+  id: ACT/25/10
+  number: '10'
+previous:
+  id: ACT/25/8
+  number: '8'
+reference: 'Acts 25:9'

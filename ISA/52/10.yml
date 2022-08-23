@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 52:10"
+  class="v">10</span>The <span class="nd">LORD</span> hath made bare his holy
+  arm in the eyes of all the nations; and all the ends of the earth shall see
+  the salvation of our God.</p>
+id: ISA/52/10
+next:
+  id: ISA/52/11
+  number: '11'
+previous:
+  id: ISA/52/9
+  number: '9'
+reference: 'Isaiah 52:10'

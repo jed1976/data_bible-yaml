@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 6:21" class="v">21</span>And
+  when a convenient day was come, that Herod on his birthday made a supper to
+  his lords, high captains, and chief <span class="add">estates</span> of
+  Galilee; </p>
+id: MRK/6/21
+next:
+  id: MRK/6/22
+  number: '22'
+previous:
+  id: MRK/6/20
+  number: '20'
+reference: 'Mark 6:21'

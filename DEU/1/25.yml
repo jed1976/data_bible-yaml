@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 1:25" class="v">25</span>And
+  they took of the fruit of the land in their hands, and brought <span
+  class="add">it</span> down unto us, and brought us word again, and said, <span
+  class="add">It is</span> a good land which the <span class="nd">LORD</span>
+  our God doth give us. </p>
+id: DEU/1/25
+next:
+  id: DEU/1/26
+  number: '26'
+previous:
+  id: DEU/1/24
+  number: '24'
+reference: 'Deuteronomy 1:25'

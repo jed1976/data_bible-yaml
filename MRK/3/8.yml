@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 3:8" class="v">8</span>And
+  from Jerusalem, and from Idumaea, and <span class="add">from</span> beyond
+  Jordan; and they about Tyre and Sidon, a great multitude, when they had heard
+  what great things he did, came unto him. </p>
+id: MRK/3/8
+next:
+  id: MRK/3/9
+  number: '9'
+previous:
+  id: MRK/3/7
+  number: '7'
+reference: 'Mark 3:8'

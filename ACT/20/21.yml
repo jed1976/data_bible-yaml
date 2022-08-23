@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 20:21"
+  class="v">21</span>Testifying both to the Jews, and also to the Greeks,
+  repentance toward God, and faith toward our Lord Jesus Christ. </p>
+id: ACT/20/21
+next:
+  id: ACT/20/22
+  number: '22'
+previous:
+  id: ACT/20/20
+  number: '20'
+reference: 'Acts 20:21'

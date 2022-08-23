@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 22:22" class="v">22</span>¶
+  Ye shall not afflict any widow, or fatherless child. </p>
+id: EXO/22/22
+next:
+  id: EXO/22/23
+  number: '23'
+previous:
+  id: EXO/22/21
+  number: '21'
+reference: 'Exodus 22:22'

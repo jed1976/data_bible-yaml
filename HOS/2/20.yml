@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HOS 2:20" class="v">20</span>I
+  will even betroth thee unto me in faithfulness: and thou shalt know the <span
+  class="nd">LORD</span>. </p>
+id: HOS/2/20
+next:
+  id: HOS/2/21
+  number: '21'
+previous:
+  id: HOS/2/19
+  number: '19'
+reference: 'Hosea 2:20'

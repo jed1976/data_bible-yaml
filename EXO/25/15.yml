@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 25:15"
+  class="v">15</span>The staves shall be in the rings of the ark: they shall not
+  be taken from it. </p>
+id: EXO/25/15
+next:
+  id: EXO/25/16
+  number: '16'
+previous:
+  id: EXO/25/14
+  number: '14'
+reference: 'Exodus 25:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 30:25"
+  class="v">25</span>Did not I weep for him that was in trouble? was <span
+  class="add">not</span> my soul grieved for the poor? </p>
+id: JOB/30/25
+next:
+  id: JOB/30/26
+  number: '26'
+previous:
+  id: JOB/30/24
+  number: '24'
+reference: 'Job 30:25'

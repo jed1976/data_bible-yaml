@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 8:4" class="v">4</span>And
+  Jesus saith unto him, <span class="wj">See thou tell no man; but go thy way,
+  shew thyself to the priest, and offer the gift that Moses commanded, for a
+  testimony unto them.</span></p>
+id: MAT/8/4
+next:
+  id: MAT/8/5
+  number: '5'
+previous:
+  id: MAT/8/3
+  number: '3'
+reference: 'Matthew 8:4'

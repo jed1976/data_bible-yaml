@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 2:11"
+  class="v">11</span><span class="wj">I say unto thee, Arise, and take up thy
+  bed, and go thy way into thine house.</span> </p>
+id: MRK/2/11
+next:
+  id: MRK/2/12
+  number: '12'
+previous:
+  id: MRK/2/10
+  number: '10'
+reference: 'Mark 2:11'

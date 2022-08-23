@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 33:4" class="v">4</span>¶ And
+  when the people heard these evil tidings, they mourned: and no man did put on
+  him his ornaments. </p>
+id: EXO/33/4
+next:
+  id: EXO/33/5
+  number: '5'
+previous:
+  id: EXO/33/3
+  number: '3'
+reference: 'Exodus 33:4'

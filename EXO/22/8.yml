@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 22:8" class="v">8</span>If
+  the thief be not found, then the master of the house shall be brought unto the
+  judges, <span class="add">to see</span> whether he have put his hand unto his
+  neighbour’s goods. </p>
+id: EXO/22/8
+next:
+  id: EXO/22/9
+  number: '9'
+previous:
+  id: EXO/22/7
+  number: '7'
+reference: 'Exodus 22:8'

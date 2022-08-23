@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JDG 6:31" class="v">31</span>And
+  Joash said unto all that stood against him, Will ye plead for Baal? will ye
+  save him? he that will plead for him, let him be put to death whilst <span
+  class="add">it is yet</span> morning: if he <span class="add">be</span> a god,
+  let him plead for himself, because <span class="add">one</span> hath cast down
+  his altar. </p>
+id: JDG/6/31
+next:
+  id: JDG/6/32
+  number: '32'
+previous:
+  id: JDG/6/30
+  number: '30'
+reference: 'Judges 6:31'

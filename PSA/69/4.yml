@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 69:4" class="v">4</span>They
+  that hate me without a cause are more than the hairs of mine head: they that
+  would destroy me, <span class="add">being</span> mine enemies wrongfully, are
+  mighty: then I restored <span class="add">that</span> which I took not
+  away.</p>
+id: PSA/69/4
+next:
+  id: PSA/69/5
+  number: '5'
+previous:
+  id: PSA/69/3
+  number: '3'
+reference: 'Psalms 69:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 28:18"
+  class="v">18</span>And Jesus came and spake unto them, saying, <span
+  class="wj">All power is given unto me in heaven and in earth.</span></p>
+id: MAT/28/18
+next:
+  id: MAT/28/19
+  number: '19'
+previous:
+  id: MAT/28/17
+  number: '17'
+reference: 'Matthew 28:18'

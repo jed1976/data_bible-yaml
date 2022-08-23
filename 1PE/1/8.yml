@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1PE 1:8" class="v">8</span>Whom
+  having not seen, ye love; in whom, though now ye see <span
+  class="add">him</span> not, yet believing, ye rejoice with joy unspeakable and
+  full of glory: </p>
+id: 1PE/1/8
+next:
+  id: 1PE/1/9
+  number: '9'
+previous:
+  id: 1PE/1/7
+  number: '7'
+reference: '1 Peter 1:8'

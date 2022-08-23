@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 20:12"
+  class="v">12</span>And yet indeed <span class="add">she is</span> my sister;
+  she <span class="add">is</span> the daughter of my father, but not the
+  daughter of my mother; and she became my wife. </p>
+id: GEN/20/12
+next:
+  id: GEN/20/13
+  number: '13'
+previous:
+  id: GEN/20/11
+  number: '11'
+reference: 'Genesis 20:12'

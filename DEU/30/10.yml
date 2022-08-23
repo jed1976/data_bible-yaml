@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 30:10" class="v">10</span>If
+  thou shalt hearken unto the voice of the <span class="nd">LORD</span> thy God,
+  to keep his commandments and his statutes which are written in this book of
+  the law, <span class="add">and</span> if thou turn unto the <span
+  class="nd">LORD</span> thy God with all thine heart, and with all thy
+  soul.</p>
+id: DEU/30/10
+next:
+  id: DEU/30/11
+  number: '11'
+previous:
+  id: DEU/30/9
+  number: '9'
+reference: 'Deuteronomy 30:10'

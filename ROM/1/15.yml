@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 1:15" class="v">15</span>So,
+  as much as in me is, I am ready to preach the gospel to you that are at Rome
+  also. </p>
+id: ROM/1/15
+next:
+  id: ROM/1/16
+  number: '16'
+previous:
+  id: ROM/1/14
+  number: '14'
+reference: 'Romans 1:15'

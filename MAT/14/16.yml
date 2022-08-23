@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 14:16"
+  class="v">16</span>But Jesus said unto them, <span class="wj">They need not
+  depart; give ye them to eat.</span> </p>
+id: MAT/14/16
+next:
+  id: MAT/14/17
+  number: '17'
+previous:
+  id: MAT/14/15
+  number: '15'
+reference: 'Matthew 14:16'

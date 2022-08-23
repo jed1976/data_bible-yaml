@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 13:22" class="v">22</span>A
+  good <span class="add">man</span> leaveth an inheritance to his children’s
+  children: and the wealth of the sinner <span class="add">is</span> laid up for
+  the just. </p>
+id: PRO/13/22
+next:
+  id: PRO/13/23
+  number: '23'
+previous:
+  id: PRO/13/21
+  number: '21'
+reference: 'Proverbs 13:22'

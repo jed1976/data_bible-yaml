@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 22:6" class="v">6</span>¶ If
+  a bird’s nest chance to be before thee in the way in any tree, or on the
+  ground, <span class="add">whether they be</span> young ones, or eggs, and the
+  dam sitting upon the young, or upon the eggs, thou shalt not take the dam with
+  the young: </p>
+id: DEU/22/6
+next:
+  id: DEU/22/7
+  number: '7'
+previous:
+  id: DEU/22/5
+  number: '5'
+reference: 'Deuteronomy 22:6'

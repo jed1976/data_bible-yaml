@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 27:1"
+  class="v">1</span>Moreover Job continued his parable, and said, </p>
+id: JOB/27/1
+next:
+  id: JOB/27/2
+  number: '2'
+previous:
+  id: JOB/26/14
+  number: '14'
+reference: 'Job 27:1'

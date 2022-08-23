@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 3:18" class="v">18</span>And
+  Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the
+  <span class="add">son</span> of Alphaeus, and Thaddaeus, and Simon the
+  Canaanite, </p>
+id: MRK/3/18
+next:
+  id: MRK/3/19
+  number: '19'
+previous:
+  id: MRK/3/17
+  number: '17'
+reference: 'Mark 3:18'

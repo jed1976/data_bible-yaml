@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 66:18"
+  class="v">18</span>If I regard iniquity in my heart, the Lord will not hear
+  <span class="add">me:</span></p>
+id: PSA/66/18
+next:
+  id: PSA/66/19
+  number: '19'
+previous:
+  id: PSA/66/17
+  number: '17'
+reference: 'Psalms 66:18'

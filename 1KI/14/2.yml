@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1KI 14:2" class="v">2</span>And
+  Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou
+  be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there
+  <span class="add">is</span> Ahijah the prophet, which told me that <span
+  class="add">I should be</span> king over this people. </p>
+id: 1KI/14/2
+next:
+  id: 1KI/14/3
+  number: '3'
+previous:
+  id: 1KI/14/1
+  number: '1'
+reference: '1 Kings 14:2'

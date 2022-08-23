@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 6:11"
+  class="v">11</span>Also, O Judah, he hath set an harvest for thee, when I
+  returned the captivity of my people.</p>
+id: HOS/6/11
+next:
+  id: HOS/7/1
+  number: '1'
+previous:
+  id: HOS/6/10
+  number: '10'
+reference: 'Hosea 6:11'

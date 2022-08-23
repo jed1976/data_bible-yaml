@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="EZR 10:40"
+  class="v">40</span>Machnadebai, Shashai, Sharai, </p>
+id: EZR/10/40
+next:
+  id: EZR/10/41
+  number: '41'
+previous:
+  id: EZR/10/39
+  number: '39'
+reference: 'Ezra 10:40'

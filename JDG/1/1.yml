@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 1:1" class="v">1</span>Now
+  after the death of Joshua it came to pass, that the children of Israel asked
+  the <span class="nd">LORD</span>, saying, Who shall go up for us against the
+  Canaanites first, to fight against them? </p>
+id: JDG/1/1
+next:
+  id: JDG/1/2
+  number: '2'
+previous:
+  id: JDG/intro/0
+  number: '0'
+reference: 'Judges 1:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="64" data-sid="PSA 119:64"
+  class="v">64</span>The earth, O <span class="nd">LORD</span>, is full of thy
+  mercy: teach me thy statutes.</p>
+id: PSA/119/64
+next:
+  id: PSA/119/65
+  number: '65'
+previous:
+  id: PSA/119/63
+  number: '63'
+reference: 'Psalms 119:64'

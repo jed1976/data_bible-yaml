@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 1:31"
+  class="v">31</span>And, behold, thou shalt conceive in thy womb, and bring
+  forth a son, and shalt call his name JESUS. </p>
+id: LUK/1/31
+next:
+  id: LUK/1/32
+  number: '32'
+previous:
+  id: LUK/1/30
+  number: '30'
+reference: 'Luke 1:31'

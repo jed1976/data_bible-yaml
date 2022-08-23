@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 1:10"
+  class="v">10</span>Thirty basons of gold, silver basons of a second <span
+  class="add">sort</span> four hundred and ten, <span class="add">and</span>
+  other vessels a thousand. </p>
+id: EZR/1/10
+next:
+  id: EZR/1/11
+  number: '11'
+previous:
+  id: EZR/1/9
+  number: '9'
+reference: 'Ezra 1:10'

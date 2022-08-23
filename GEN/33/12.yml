@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 33:12"
+  class="v">12</span>And he said, Let us take our journey, and let us go, and I
+  will go before thee. </p>
+id: GEN/33/12
+next:
+  id: GEN/33/13
+  number: '13'
+previous:
+  id: GEN/33/11
+  number: '11'
+reference: 'Genesis 33:12'

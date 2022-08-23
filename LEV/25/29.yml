@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 25:29"
+  class="v">29</span>And if a man sell a dwelling house in a walled city, then
+  he may redeem it within a whole year after it is sold; <span
+  class="add">within</span> a full year may he redeem it. </p>
+id: LEV/25/29
+next:
+  id: LEV/25/30
+  number: '30'
+previous:
+  id: LEV/25/28
+  number: '28'
+reference: 'Leviticus 25:29'

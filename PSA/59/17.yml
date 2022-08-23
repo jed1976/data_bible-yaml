@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 59:17"
+  class="v">17</span>Unto thee, O my strength, will I sing: for God <span
+  class="add">is</span> my defence, <span class="add">and</span> the God of my
+  mercy.</p>
+id: PSA/59/17
+next:
+  id: PSA/60/1
+  number: '1'
+previous:
+  id: PSA/59/16
+  number: '16'
+reference: 'Psalms 59:17'

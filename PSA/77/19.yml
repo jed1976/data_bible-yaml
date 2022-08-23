@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 77:19"
+  class="v">19</span>Thy way <span class="add">is</span> in the sea, and thy
+  path in the great waters, and thy footsteps are not known.</p>
+id: PSA/77/19
+next:
+  id: PSA/77/20
+  number: '20'
+previous:
+  id: PSA/77/18
+  number: '18'
+reference: 'Psalms 77:19'

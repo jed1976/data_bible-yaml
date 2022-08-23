@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 6:11" class="v">11</span>And
+  houses full of all good <span class="add">things</span>, which thou filledst
+  not, and wells digged, which thou diggedst not, vineyards and olive trees,
+  which thou plantedst not; when thou shalt have eaten and be full; </p>
+id: DEU/6/11
+next:
+  id: DEU/6/12
+  number: '12'
+previous:
+  id: DEU/6/10
+  number: '10'
+reference: 'Deuteronomy 6:11'

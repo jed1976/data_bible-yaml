@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 18:25"
+  class="v">25</span>And Elijah said unto the prophets of Baal, Choose you one
+  bullock for yourselves, and dress <span class="add">it</span> first; for ye
+  <span class="add">are</span> many; and call on the name of your gods, but put
+  no fire <span class="add">under</span>. </p>
+id: 1KI/18/25
+next:
+  id: 1KI/18/26
+  number: '26'
+previous:
+  id: 1KI/18/24
+  number: '24'
+reference: '1 Kings 18:25'

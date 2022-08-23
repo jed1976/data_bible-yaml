@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 9:7" class="v">7</span>¶
+  Remember, <span class="add">and</span> forget not, how thou provokedst the
+  <span class="nd">LORD</span> thy God to wrath in the wilderness: from the day
+  that thou didst depart out of the land of Egypt, until ye came unto this
+  place, ye have been rebellious against the <span class="nd">LORD</span>. </p>
+id: DEU/9/7
+next:
+  id: DEU/9/8
+  number: '8'
+previous:
+  id: DEU/9/6
+  number: '6'
+reference: 'Deuteronomy 9:7'

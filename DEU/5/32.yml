@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DEU 5:32" class="v">32</span>Ye
+  shall observe to do therefore as the <span class="nd">LORD</span> your God
+  hath commanded you: ye shall not turn aside to the right hand or to the left.
+  </p>
+id: DEU/5/32
+next:
+  id: DEU/5/33
+  number: '33'
+previous:
+  id: DEU/5/31
+  number: '31'
+reference: 'Deuteronomy 5:32'

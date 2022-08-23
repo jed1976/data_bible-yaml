@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 9:5" class="v">5</span><span
+  class="wj">As long as I am in the world, I am the light of the world.</span>
+  </p>
+id: JHN/9/5
+next:
+  id: JHN/9/6
+  number: '6'
+previous:
+  id: JHN/9/4
+  number: '4'
+reference: 'John 9:5'

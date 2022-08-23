@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="GEN 24:64"
+  class="v">64</span>And Rebekah lifted up her eyes, and when she saw Isaac, she
+  lighted off the camel. </p>
+id: GEN/24/64
+next:
+  id: GEN/24/65
+  number: '65'
+previous:
+  id: GEN/24/63
+  number: '63'
+reference: 'Genesis 24:64'

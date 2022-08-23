@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 12:5" class="v">5</span>But
+  unto the place which the <span class="nd">LORD</span> your God shall choose
+  out of all your tribes to put his name there, <span class="add">even</span>
+  unto his habitation shall ye seek, and thither thou shalt come: </p>
+id: DEU/12/5
+next:
+  id: DEU/12/6
+  number: '6'
+previous:
+  id: DEU/12/4
+  number: '4'
+reference: 'Deuteronomy 12:5'

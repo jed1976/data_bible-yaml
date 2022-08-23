@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 15:9" class="v">9</span>And
+  that the Gentiles might glorify God for <span class="add">his</span> mercy; as
+  it is written, For this cause I will confess to thee among the Gentiles, and
+  sing unto thy name. </p>
+id: ROM/15/9
+next:
+  id: ROM/15/10
+  number: '10'
+previous:
+  id: ROM/15/8
+  number: '8'
+reference: 'Romans 15:9'

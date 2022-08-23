@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 19:9" class="v">9</span>And
+  they said, Stand back. And they said <span class="add">again</span>, This one
+  <span class="add">fellow</span> came in to sojourn, and he will needs be a
+  judge: now will we deal worse with thee, than with them. And they pressed sore
+  upon the man, <span class="add">even</span> Lot, and came near to break the
+  door. </p>
+id: GEN/19/9
+next:
+  id: GEN/19/10
+  number: '10'
+previous:
+  id: GEN/19/8
+  number: '8'
+reference: 'Genesis 19:9'

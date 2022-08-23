@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 16:24"
+  class="v">24</span>The grace of our Lord Jesus Christ <span
+  class="add">be</span> with you all. Amen.</p>
+id: ROM/16/24
+next:
+  id: ROM/16/25
+  number: '25'
+previous:
+  id: ROM/16/23
+  number: '23'
+reference: 'Romans 16:24'

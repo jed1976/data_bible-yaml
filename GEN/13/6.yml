@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 13:6" class="v">6</span>And
+  the land was not able to bear them, that they might dwell together: for their
+  substance was great, so that they could not dwell together. </p>
+id: GEN/13/6
+next:
+  id: GEN/13/7
+  number: '7'
+previous:
+  id: GEN/13/5
+  number: '5'
+reference: 'Genesis 13:6'

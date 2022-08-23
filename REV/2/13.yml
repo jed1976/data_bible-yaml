@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 2:13"
+  class="v">13</span><span class="wj">I know thy works, and where thou dwellest,
+  <span class="add">even</span> where Satan’s seat <span class="add">is</span>:
+  and thou holdest fast my name, and hast not denied my faith, even in those
+  days wherein Antipas <span class="add">was</span> my faithful martyr, who was
+  slain among you, where Satan dwelleth.</span> </p>
+id: REV/2/13
+next:
+  id: REV/2/14
+  number: '14'
+previous:
+  id: REV/2/12
+  number: '12'
+reference: 'Revelation 2:13'

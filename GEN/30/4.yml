@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 30:4" class="v">4</span>And
+  she gave him Bilhah her handmaid to wife: and Jacob went in unto her. </p>
+id: GEN/30/4
+next:
+  id: GEN/30/5
+  number: '5'
+previous:
+  id: GEN/30/3
+  number: '3'
+reference: 'Genesis 30:4'

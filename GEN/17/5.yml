@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 17:5"
+  class="v">5</span>Neither shall thy name any more be called Abram, but thy
+  name shall be Abraham; for a father of many nations have I made thee. </p>
+id: GEN/17/5
+next:
+  id: GEN/17/6
+  number: '6'
+previous:
+  id: GEN/17/4
+  number: '4'
+reference: 'Genesis 17:5'

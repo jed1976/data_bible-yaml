@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="COL 2:12"
+  class="v">12</span>Buried with him in baptism, wherein also ye are risen with
+  <span class="add">him</span> through the faith of the operation of God, who
+  hath raised him from the dead. </p>
+id: COL/2/12
+next:
+  id: COL/2/13
+  number: '13'
+previous:
+  id: COL/2/11
+  number: '11'
+reference: 'Colossians 2:12'

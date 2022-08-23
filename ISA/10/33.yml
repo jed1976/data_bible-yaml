@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ISA 10:33"
+  class="v">33</span>Behold, the Lord, the <span class="nd">LORD</span> of
+  hosts, shall lop the bough with terror: and the high ones of stature <span
+  class="add">shall be</span> hewn down, and the haughty shall be humbled. </p>
+id: ISA/10/33
+next:
+  id: ISA/10/34
+  number: '34'
+previous:
+  id: ISA/10/32
+  number: '32'
+reference: 'Isaiah 10:33'

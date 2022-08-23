@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 17:35"
+  class="v">35</span><span class="wj">Two <span class="add">women</span> shall
+  be grinding together; the one shall be taken, and the other left.</span> </p>
+id: LUK/17/35
+next:
+  id: LUK/17/36
+  number: '36'
+previous:
+  id: LUK/17/34
+  number: '34'
+reference: 'Luke 17:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="1SA 14:51"
+  class="v">51</span>And Kish <span class="add">was</span> the father of Saul;
+  and Ner the father of Abner <span class="add">was</span> the son of Abiel.
+  </p>
+id: 1SA/14/51
+next:
+  id: 1SA/14/52
+  number: '52'
+previous:
+  id: 1SA/14/50
+  number: '50'
+reference: '1 Samuel 14:51'

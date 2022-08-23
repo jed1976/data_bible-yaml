@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 35:1" class="v">1</span>And
+  God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there
+  an altar unto God, that appeared unto thee when thou fleddest from the face of
+  Esau thy brother. </p>
+id: GEN/35/1
+next:
+  id: GEN/35/2
+  number: '2'
+previous:
+  id: GEN/34/31
+  number: '31'
+reference: 'Genesis 35:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DAN 7:22"
+  class="v">22</span>Until the Ancient of days came, and judgment was given to
+  the saints of the most High; and the time came that the saints possessed the
+  kingdom. </p>
+id: DAN/7/22
+next:
+  id: DAN/7/23
+  number: '23'
+previous:
+  id: DAN/7/21
+  number: '21'
+reference: 'Daniel 7:22'

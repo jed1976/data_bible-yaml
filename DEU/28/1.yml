@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 28:1" class="v">1</span>And
+  it shall come to pass, if thou shalt hearken diligently unto the voice of the
+  <span class="nd">LORD</span> thy God, to observe <span class="add">and</span>
+  to do all his commandments which I command thee this day, that the <span
+  class="nd">LORD</span> thy God will set thee on high above all nations of the
+  earth: </p>
+id: DEU/28/1
+next:
+  id: DEU/28/2
+  number: '2'
+previous:
+  id: DEU/27/26
+  number: '26'
+reference: 'Deuteronomy 28:1'

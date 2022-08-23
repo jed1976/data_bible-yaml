@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 19:3" class="v">3</span>And
+  he said unto them, Unto what then were ye baptized? And they said, Unto John’s
+  baptism. </p>
+id: ACT/19/3
+next:
+  id: ACT/19/4
+  number: '4'
+previous:
+  id: ACT/19/2
+  number: '2'
+reference: 'Acts 19:3'

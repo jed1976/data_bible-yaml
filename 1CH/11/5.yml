@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 11:5" class="v">5</span>And
+  the inhabitants of Jebus said to David, Thou shalt not come hither.
+  Nevertheless David took the castle of Zion, which <span class="add">is</span>
+  the city of David. </p>
+id: 1CH/11/5
+next:
+  id: 1CH/11/6
+  number: '6'
+previous:
+  id: 1CH/11/4
+  number: '4'
+reference: '1 Chronicles 11:5'

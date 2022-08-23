@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 24:25"
+  class="v">25</span>And if <span class="add">it be</span> not <span
+  class="add">so</span> now, who will make me a liar, and make my speech nothing
+  worth?</p>
+id: JOB/24/25
+next:
+  id: JOB/25/1
+  number: '1'
+previous:
+  id: JOB/24/24
+  number: '24'
+reference: 'Job 24:25'

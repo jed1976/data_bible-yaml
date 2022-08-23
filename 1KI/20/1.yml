@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 20:1" class="v">1</span>And
+  Ben-hadad the king of Syria gathered all his host together: and <span
+  class="add">there were</span> thirty and two kings with him, and horses, and
+  chariots: and he went up and besieged Samaria, and warred against it. </p>
+id: 1KI/20/1
+next:
+  id: 1KI/20/2
+  number: '2'
+previous:
+  id: 1KI/19/21
+  number: '21'
+reference: '1 Kings 20:1'

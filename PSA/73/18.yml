@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 73:18"
+  class="v">18</span>Surely thou didst set them in slippery places: thou
+  castedst them down into destruction.</p>
+id: PSA/73/18
+next:
+  id: PSA/73/19
+  number: '19'
+previous:
+  id: PSA/73/17
+  number: '17'
+reference: 'Psalms 73:18'

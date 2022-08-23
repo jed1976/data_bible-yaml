@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 10:25"
+  class="v">25</span><span class="wj">It is easier for a camel to go through the
+  eye of a needle, than for a rich man to enter into the kingdom of God.</span>
+  </p>
+id: MRK/10/25
+next:
+  id: MRK/10/26
+  number: '26'
+previous:
+  id: MRK/10/24
+  number: '24'
+reference: 'Mark 10:25'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 48:6" class="v">6</span>Flee,
+  save your lives, and be like the heath in the wilderness.</p>
+id: JER/48/6
+next:
+  id: JER/48/7
+  number: '7'
+previous:
+  id: JER/48/5
+  number: '5'
+reference: 'Jeremiah 48:6'

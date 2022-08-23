@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="GEN 30:41"
+  class="v">41</span>And it came to pass, whensoever the stronger cattle did
+  conceive, that Jacob laid the rods before the eyes of the cattle in the
+  gutters, that they might conceive among the rods. </p>
+id: GEN/30/41
+next:
+  id: GEN/30/42
+  number: '42'
+previous:
+  id: GEN/30/40
+  number: '40'
+reference: 'Genesis 30:41'

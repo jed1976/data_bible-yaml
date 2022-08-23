@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 11:3"
+  class="v">3</span>Through faith we understand that the worlds were framed by
+  the word of God, so that things which are seen were not made of things which
+  do appear. </p>
+id: HEB/11/3
+next:
+  id: HEB/11/4
+  number: '4'
+previous:
+  id: HEB/11/2
+  number: '2'
+reference: 'Hebrews 11:3'

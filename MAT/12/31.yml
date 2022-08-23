@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 12:31"
+  class="v">31</span><span class="wj">¶ Wherefore I say unto you, All manner of
+  sin and blasphemy shall be forgiven unto men: but the blasphemy <span
+  class="add">against</span> the <span class="add">Holy</span> Ghost shall not
+  be forgiven unto men.</span> </p>
+id: MAT/12/31
+next:
+  id: MAT/12/32
+  number: '32'
+previous:
+  id: MAT/12/30
+  number: '30'
+reference: 'Matthew 12:31'

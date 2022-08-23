@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 26:42" class="v">42</span>¶
+  These <span class="add">are</span> the sons of Dan after their families: of
+  Shuham, the family of the Shuhamites. These <span class="add">are</span> the
+  families of Dan after their families. </p>
+id: NUM/26/42
+next:
+  id: NUM/26/43
+  number: '43'
+previous:
+  id: NUM/26/41
+  number: '41'
+reference: 'Numbers 26:42'

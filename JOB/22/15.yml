@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 22:15"
+  class="v">15</span>Hast thou marked the old way which wicked men have trodden?
+  </p>
+id: JOB/22/15
+next:
+  id: JOB/22/16
+  number: '16'
+previous:
+  id: JOB/22/14
+  number: '14'
+reference: 'Job 22:15'

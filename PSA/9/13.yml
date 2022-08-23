@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 9:13"
+  class="v">13</span>Have mercy upon me, O <span class="nd">LORD</span>;
+  consider my trouble <span class="add">which I suffer</span> of them that hate
+  me, thou that liftest me up from the gates of death:</p>
+id: PSA/9/13
+next:
+  id: PSA/9/14
+  number: '14'
+previous:
+  id: PSA/9/12
+  number: '12'
+reference: 'Psalms 9:13'

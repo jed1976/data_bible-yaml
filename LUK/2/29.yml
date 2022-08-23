@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 2:29"
+  class="v">29</span>Lord, now lettest thou thy servant depart in peace,
+  according to thy word: </p>
+id: LUK/2/29
+next:
+  id: LUK/2/30
+  number: '30'
+previous:
+  id: LUK/2/28
+  number: '28'
+reference: 'Luke 2:29'

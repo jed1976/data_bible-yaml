@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 27:3" class="v">3</span>Of
+  the children of Perez <span class="add">was</span> the chief of all the
+  captains of the host for the first month. </p>
+id: 1CH/27/3
+next:
+  id: 1CH/27/4
+  number: '4'
+previous:
+  id: 1CH/27/2
+  number: '2'
+reference: '1 Chronicles 27:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 32:1" class="v">1</span>And
+  Jacob went on his way, and the angels of God met him. </p>
+id: GEN/32/1
+next:
+  id: GEN/32/2
+  number: '2'
+previous:
+  id: GEN/31/55
+  number: '55'
+reference: 'Genesis 32:1'

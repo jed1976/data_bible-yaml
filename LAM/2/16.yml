@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LAM 2:16" class="v">16</span>All
+  thine enemies have opened their mouth against thee: they hiss and gnash the
+  teeth: they say, We have swallowed <span class="add">her</span> up: certainly
+  this <span class="add">is</span> the day that we looked for; we have found, we
+  have seen <span class="add">it</span>. </p>
+id: LAM/2/16
+next:
+  id: LAM/2/17
+  number: '17'
+previous:
+  id: LAM/2/15
+  number: '15'
+reference: 'Lamentations 2:16'

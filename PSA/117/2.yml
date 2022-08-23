@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 117:2" class="v">2</span>For
+  his merciful kindness is great toward us: and the truth of the <span
+  class="nd">LORD</span> <span class="add">endureth</span> for ever. Praise ye
+  the <span class="nd">LORD</span>.</p>
+id: PSA/117/2
+next:
+  id: PSA/118/1
+  number: '1'
+previous:
+  id: PSA/117/1
+  number: '1'
+reference: 'Psalms 117:2'

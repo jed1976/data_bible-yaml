@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 4:10" class="v">10</span>And
+  the rest of the nations whom the great and noble Asnappar brought over, and
+  set in the cities of Samaria, and the rest <span class="add">that are</span>
+  on this side the river, and at such a time.</p>
+id: EZR/4/10
+next:
+  id: EZR/4/11
+  number: '11'
+previous:
+  id: EZR/4/9
+  number: '9'
+reference: 'Ezra 4:10'

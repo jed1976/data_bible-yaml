@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CO 10:7"
+  class="v">7</span>Neither be ye idolaters, as <span class="add">were</span>
+  some of them; as it is written, The people sat down to eat and drink, and rose
+  up to play. </p>
+id: 1CO/10/7
+next:
+  id: 1CO/10/8
+  number: '8'
+previous:
+  id: 1CO/10/6
+  number: '6'
+reference: '1 Corinthians 10:7'

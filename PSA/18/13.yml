@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 18:13"
+  class="v">13</span>The <span class="nd">LORD</span> also thundered in the
+  heavens, and the Highest gave his voice; hail <span class="add">stones</span>
+  and coals of fire.</p>
+id: PSA/18/13
+next:
+  id: PSA/18/14
+  number: '14'
+previous:
+  id: PSA/18/12
+  number: '12'
+reference: 'Psalms 18:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 11:20"
+  class="v">20</span>And some of them were men of Cyprus and Cyrene, which, when
+  they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.
+  </p>
+id: ACT/11/20
+next:
+  id: ACT/11/21
+  number: '21'
+previous:
+  id: ACT/11/19
+  number: '19'
+reference: 'Acts 11:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 3:31" class="v">31</span>And
+  their charge <span class="add">shall be</span> the ark, and the table, and the
+  candlestick, and the altars, and the vessels of the sanctuary wherewith they
+  minister, and the hanging, and all the service thereof. </p>
+id: NUM/3/31
+next:
+  id: NUM/3/32
+  number: '32'
+previous:
+  id: NUM/3/30
+  number: '30'
+reference: 'Numbers 3:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 4:10" class="v">10</span>For
+  if they fall, the one will lift up his fellow: but woe to him <span
+  class="add">that is</span> alone when he falleth; for <span class="add">he
+  hath</span> not another to help him up. </p>
+id: ECC/4/10
+next:
+  id: ECC/4/11
+  number: '11'
+previous:
+  id: ECC/4/9
+  number: '9'
+reference: 'Ecclesiastes 4:10'

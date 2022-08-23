@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JHN 17:2" class="v">2</span><span
+  class="wj">As thou hast given him power over all flesh, that he should give
+  eternal life to as many as thou hast given him.</span> </p>
+id: JHN/17/2
+next:
+  id: JHN/17/3
+  number: '3'
+previous:
+  id: JHN/17/1
+  number: '1'
+reference: 'John 17:2'

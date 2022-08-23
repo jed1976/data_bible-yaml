@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 4:20" class="v">20</span>For
+  we cannot but speak the things which we have seen and heard. </p>
+id: ACT/4/20
+next:
+  id: ACT/4/21
+  number: '21'
+previous:
+  id: ACT/4/19
+  number: '19'
+reference: 'Acts 4:20'

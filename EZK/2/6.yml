@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 2:6" class="v">6</span>¶ And
+  thou, son of man, be not afraid of them, neither be afraid of their words,
+  though briers and thorns <span class="add">be</span> with thee, and thou dost
+  dwell among scorpions: be not afraid of their words, nor be dismayed at their
+  looks, though they <span class="add">be</span> a rebellious house. </p>
+id: EZK/2/6
+next:
+  id: EZK/2/7
+  number: '7'
+previous:
+  id: EZK/2/5
+  number: '5'
+reference: 'Ezekiel 2:6'

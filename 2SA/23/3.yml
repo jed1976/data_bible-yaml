@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 23:3" class="v">3</span>The
+  God of Israel said, the Rock of Israel spake to me, He that ruleth over men
+  <span class="add">must be</span> just, ruling in the fear of God. </p>
+id: 2SA/23/3
+next:
+  id: 2SA/23/4
+  number: '4'
+previous:
+  id: 2SA/23/2
+  number: '2'
+reference: '2 Samuel 23:3'

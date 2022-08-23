@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="NUM 1:47" class="v">47</span>¶
+  But the Levites after the tribe of their fathers were not numbered among them.
+  </p>
+id: NUM/1/47
+next:
+  id: NUM/1/48
+  number: '48'
+previous:
+  id: NUM/1/46
+  number: '46'
+reference: 'Numbers 1:47'

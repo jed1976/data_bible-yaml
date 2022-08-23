@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 32:13"
+  class="v">13</span>Remember Abraham, Isaac, and Israel, thy servants, to whom
+  thou swarest by thine own self, and saidst unto them, I will multiply your
+  seed as the stars of heaven, and all this land that I have spoken of will I
+  give unto your seed, and they shall inherit <span class="add">it</span> for
+  ever. </p>
+id: EXO/32/13
+next:
+  id: EXO/32/14
+  number: '14'
+previous:
+  id: EXO/32/12
+  number: '12'
+reference: 'Exodus 32:13'

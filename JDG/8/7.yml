@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 8:7" class="v">7</span>And
+  Gideon said, Therefore when the <span class="nd">LORD</span> hath delivered
+  Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns
+  of the wilderness and with briers.</p>
+id: JDG/8/7
+next:
+  id: JDG/8/8
+  number: '8'
+previous:
+  id: JDG/8/6
+  number: '6'
+reference: 'Judges 8:7'

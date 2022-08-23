@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 8:12"
+  class="v">12</span>Whilst it <span class="add">is</span> yet in his greenness,
+  <span class="add">and</span> not cut down, it withereth before any <span
+  class="add">other</span> herb. </p>
+id: JOB/8/12
+next:
+  id: JOB/8/13
+  number: '13'
+previous:
+  id: JOB/8/11
+  number: '11'
+reference: 'Job 8:12'

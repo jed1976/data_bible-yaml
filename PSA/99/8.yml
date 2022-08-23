@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 99:8" class="v">8</span>Thou
+  answeredst them, O <span class="nd">LORD</span> our God: thou wast a God that
+  forgavest them, though thou tookest vengeance of their inventions.</p>
+id: PSA/99/8
+next:
+  id: PSA/99/9
+  number: '9'
+previous:
+  id: PSA/99/7
+  number: '7'
+reference: 'Psalms 99:8'

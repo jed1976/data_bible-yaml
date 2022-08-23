@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 45:16"
+  class="v">16</span>Instead of thy fathers shall be thy children, whom thou
+  mayest make princes in all the earth.</p>
+id: PSA/45/16
+next:
+  id: PSA/45/17
+  number: '17'
+previous:
+  id: PSA/45/15
+  number: '15'
+reference: 'Psalms 45:16'

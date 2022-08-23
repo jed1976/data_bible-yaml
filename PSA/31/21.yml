@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 31:21"
+  class="v">21</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span>: for he hath shewed me his marvellous kindness in a
+  strong city.</p>
+id: PSA/31/21
+next:
+  id: PSA/31/22
+  number: '22'
+previous:
+  id: PSA/31/20
+  number: '20'
+reference: 'Psalms 31:21'

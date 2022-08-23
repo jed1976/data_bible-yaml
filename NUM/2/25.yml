@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 2:25" class="v">25</span>¶
+  The standard of the camp of Dan <span class="add">shall be</span> on the north
+  side by their armies: and the captain of the children of Dan <span
+  class="add">shall be</span> Ahiezer the son of Ammishaddai. </p>
+id: NUM/2/25
+next:
+  id: NUM/2/26
+  number: '26'
+previous:
+  id: NUM/2/24
+  number: '24'
+reference: 'Numbers 2:25'

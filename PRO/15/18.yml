@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 15:18" class="v">18</span>A
+  wrathful man stirreth up strife: but <span class="add">he that is</span> slow
+  to anger appeaseth strife. </p>
+id: PRO/15/18
+next:
+  id: PRO/15/19
+  number: '19'
+previous:
+  id: PRO/15/17
+  number: '17'
+reference: 'Proverbs 15:18'

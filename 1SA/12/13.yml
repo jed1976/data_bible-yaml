@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 12:13"
+  class="v">13</span>Now therefore behold the king whom ye have chosen, <span
+  class="add">and</span> whom ye have desired! and, behold, the <span
+  class="nd">LORD</span> hath set a king over you. </p>
+id: 1SA/12/13
+next:
+  id: 1SA/12/14
+  number: '14'
+previous:
+  id: 1SA/12/12
+  number: '12'
+reference: '1 Samuel 12:13'

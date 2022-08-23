@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 7:12"
+  class="v">12</span>Therefore the children of Israel could not stand before
+  their enemies, <span class="add">but</span> turned <span
+  class="add">their</span> backs before their enemies, because they were
+  accursed: neither will I be with you any more, except ye destroy the accursed
+  from among you. </p>
+id: JOS/7/12
+next:
+  id: JOS/7/13
+  number: '13'
+previous:
+  id: JOS/7/11
+  number: '11'
+reference: 'Joshua 7:12'

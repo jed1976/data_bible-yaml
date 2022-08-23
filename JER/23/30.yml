@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JER 23:30"
+  class="v">30</span>Therefore, behold, I <span class="add">am</span> against
+  the prophets, saith the <span class="nd">LORD</span>, that steal my words
+  every one from his neighbour. </p>
+id: JER/23/30
+next:
+  id: JER/23/31
+  number: '31'
+previous:
+  id: JER/23/29
+  number: '29'
+reference: 'Jeremiah 23:30'

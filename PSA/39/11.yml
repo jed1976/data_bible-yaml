@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 39:11"
+  class="v">11</span>When thou with rebukes dost correct man for iniquity, thou
+  makest his beauty to consume away like a moth: surely every man <span
+  class="add">is</span> vanity. Selah.</p>
+id: PSA/39/11
+next:
+  id: PSA/39/12
+  number: '12'
+previous:
+  id: PSA/39/10
+  number: '10'
+reference: 'Psalms 39:11'

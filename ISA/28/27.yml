@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 28:27"
+  class="v">27</span>For the fitches are not threshed with a threshing
+  instrument, neither is a cart wheel turned about upon the cummin; but the
+  fitches are beaten out with a staff, and the cummin with a rod. </p>
+id: ISA/28/27
+next:
+  id: ISA/28/28
+  number: '28'
+previous:
+  id: ISA/28/26
+  number: '26'
+reference: 'Isaiah 28:27'

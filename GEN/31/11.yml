@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 31:11"
+  class="v">11</span>And the angel of God spake unto me in a dream, <span
+  class="add">saying</span>, Jacob: And I said, Here <span class="add">am</span>
+  I. </p>
+id: GEN/31/11
+next:
+  id: GEN/31/12
+  number: '12'
+previous:
+  id: GEN/31/10
+  number: '10'
+reference: 'Genesis 31:11'

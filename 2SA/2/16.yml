@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 2:16" class="v">16</span>And
+  they caught every one his fellow by the head, and <span
+  class="add">thrust</span> his sword in his fellow’s side; so they fell down
+  together: wherefore that place was called Helkath-hazzurim, which <span
+  class="add">is</span> in Gibeon. </p>
+id: 2SA/2/16
+next:
+  id: 2SA/2/17
+  number: '17'
+previous:
+  id: 2SA/2/15
+  number: '15'
+reference: '2 Samuel 2:16'

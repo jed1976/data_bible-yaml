@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 11:30"
+  class="v">30</span>Now Jesus was not yet come into the town, but was in that
+  place where Martha met him. </p>
+id: JHN/11/30
+next:
+  id: JHN/11/31
+  number: '31'
+previous:
+  id: JHN/11/29
+  number: '29'
+reference: 'John 11:30'

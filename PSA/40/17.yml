@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 40:17"
+  class="v">17</span>But I <span class="add">am</span> poor and needy; <span
+  class="add">yet</span> the Lord thinketh upon me: thou <span
+  class="add">art</span> my help and my deliverer; make no tarrying, O my
+  God.</p>
+id: PSA/40/17
+next:
+  id: PSA/41/1
+  number: '1'
+previous:
+  id: PSA/40/16
+  number: '16'
+reference: 'Psalms 40:17'

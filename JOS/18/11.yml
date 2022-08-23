@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 18:11" class="v">11</span>¶
+  And the lot of the tribe of the children of Benjamin came up according to
+  their families: and the coast of their lot came forth between the children of
+  Judah and the children of Joseph. </p>
+id: JOS/18/11
+next:
+  id: JOS/18/12
+  number: '12'
+previous:
+  id: JOS/18/10
+  number: '10'
+reference: 'Joshua 18:11'

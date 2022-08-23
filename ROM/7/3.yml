@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 7:3" class="v">3</span>So
+  then if, while <span class="add">her</span> husband liveth, she be married to
+  another man, she shall be called an adulteress: but if her husband be dead,
+  she is free from that law; so that she is no adulteress, though she be married
+  to another man. </p>
+id: ROM/7/3
+next:
+  id: ROM/7/4
+  number: '4'
+previous:
+  id: ROM/7/2
+  number: '2'
+reference: 'Romans 7:3'

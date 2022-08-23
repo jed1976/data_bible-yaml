@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 24:6" class="v">6</span>¶ No
+  man shall take the nether or the upper millstone to pledge: for he taketh
+  <span class="add">a man’s</span> life to pledge.</p>
+id: DEU/24/6
+next:
+  id: DEU/24/7
+  number: '7'
+previous:
+  id: DEU/24/5
+  number: '5'
+reference: 'Deuteronomy 24:6'

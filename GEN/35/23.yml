@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 35:23"
+  class="v">23</span>The sons of Leah; Reuben, Jacob’s firstborn, and Simeon,
+  and Levi, and Judah, and Issachar, and Zebulun: </p>
+id: GEN/35/23
+next:
+  id: GEN/35/24
+  number: '24'
+previous:
+  id: GEN/35/22
+  number: '22'
+reference: 'Genesis 35:23'

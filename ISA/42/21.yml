@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 42:21"
+  class="v">21</span>The <span class="nd">LORD</span> is well pleased for his
+  righteousness’ sake; he will magnify the law, and make <span
+  class="add">it</span> honourable. </p>
+id: ISA/42/21
+next:
+  id: ISA/42/22
+  number: '22'
+previous:
+  id: ISA/42/20
+  number: '20'
+reference: 'Isaiah 42:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 24:13"
+  class="v">13</span>They are of those that rebel against the light; they know
+  not the ways thereof, nor abide in the paths thereof. </p>
+id: JOB/24/13
+next:
+  id: JOB/24/14
+  number: '14'
+previous:
+  id: JOB/24/12
+  number: '12'
+reference: 'Job 24:13'

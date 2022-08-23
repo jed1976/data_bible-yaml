@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 2:23" class="v">23</span>¶
+  Now when he was in Jerusalem at the passover, in the feast <span
+  class="add">day</span>, many believed in his name, when they saw the miracles
+  which he did. </p>
+id: JHN/2/23
+next:
+  id: JHN/2/24
+  number: '24'
+previous:
+  id: JHN/2/22
+  number: '22'
+reference: 'John 2:23'

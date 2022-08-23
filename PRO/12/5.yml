@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 12:5" class="v">5</span>The
+  thoughts of the righteous <span class="add">are</span> right: <span
+  class="add">but</span> the counsels of the wicked <span class="add">are</span>
+  deceit. </p>
+id: PRO/12/5
+next:
+  id: PRO/12/6
+  number: '6'
+previous:
+  id: PRO/12/4
+  number: '4'
+reference: 'Proverbs 12:5'

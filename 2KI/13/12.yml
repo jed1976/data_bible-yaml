@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 13:12"
+  class="v">12</span>And the rest of the acts of Joash, and all that he did, and
+  his might wherewith he fought against Amaziah king of Judah, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Israel? </p>
+id: 2KI/13/12
+next:
+  id: 2KI/13/13
+  number: '13'
+previous:
+  id: 2KI/13/11
+  number: '11'
+reference: '2 Kings 13:12'

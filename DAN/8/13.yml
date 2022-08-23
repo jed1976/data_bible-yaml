@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 8:13" class="v">13</span>¶
+  Then I heard one saint speaking, and another saint said unto that certain
+  <span class="add">saint</span> which spake, How long <span class="add">shall
+  be</span> the vision <span class="add">concerning</span> the daily <span
+  class="add">sacrifice</span>, and the transgression of desolation, to give
+  both the sanctuary and the host to be trodden under foot? </p>
+id: DAN/8/13
+next:
+  id: DAN/8/14
+  number: '14'
+previous:
+  id: DAN/8/12
+  number: '12'
+reference: 'Daniel 8:13'

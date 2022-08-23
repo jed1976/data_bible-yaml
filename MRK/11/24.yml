@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 11:24"
+  class="v">24</span><span class="wj">Therefore I say unto you, What things
+  soever ye desire, when ye pray, believe that ye receive <span
+  class="add">them</span>, and ye shall have <span
+  class="add">them</span>.</span> </p>
+id: MRK/11/24
+next:
+  id: MRK/11/25
+  number: '25'
+previous:
+  id: MRK/11/23
+  number: '23'
+reference: 'Mark 11:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 59:1"
+  class="v">1</span>Behold, the <span class="nd">LORD’s</span> hand is not
+  shortened, that it cannot save; neither his ear heavy, that it cannot hear:
+  </p>
+id: ISA/59/1
+next:
+  id: ISA/59/2
+  number: '2'
+previous:
+  id: ISA/58/14
+  number: '14'
+reference: 'Isaiah 59:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 10:3" class="v">3</span>But
+  in those <span class="add">sacrifices there is</span> a remembrance again
+  <span class="add">made</span> of sins every year. </p>
+id: HEB/10/3
+next:
+  id: HEB/10/4
+  number: '4'
+previous:
+  id: HEB/10/2
+  number: '2'
+reference: 'Hebrews 10:3'

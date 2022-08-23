@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 103:10"
+  class="v">10</span>He hath not dealt with us after our sins; nor rewarded us
+  according to our iniquities.</p>
+id: PSA/103/10
+next:
+  id: PSA/103/11
+  number: '11'
+previous:
+  id: PSA/103/9
+  number: '9'
+reference: 'Psalms 103:10'

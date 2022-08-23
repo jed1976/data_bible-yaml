@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 111:9" class="v">9</span>He
+  sent redemption unto his people: he hath commanded his covenant for ever: holy
+  and reverend <span class="add">is</span> his name.</p>
+id: PSA/111/9
+next:
+  id: PSA/111/10
+  number: '10'
+previous:
+  id: PSA/111/8
+  number: '8'
+reference: 'Psalms 111:9'

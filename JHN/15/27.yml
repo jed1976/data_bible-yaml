@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JHN 15:27"
+  class="v">27</span><span class="wj">And ye also shall bear witness, because ye
+  have been with me from the beginning.</span></p>
+id: JHN/15/27
+next:
+  id: JHN/16/1
+  number: '1'
+previous:
+  id: JHN/15/26
+  number: '26'
+reference: 'John 15:27'

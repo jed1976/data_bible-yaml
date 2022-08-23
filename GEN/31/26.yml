@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 31:26"
+  class="v">26</span>And Laban said to Jacob, What hast thou done, that thou
+  hast stolen away unawares to me, and carried away my daughters, as captives
+  <span class="add">taken</span> with the sword? </p>
+id: GEN/31/26
+next:
+  id: GEN/31/27
+  number: '27'
+previous:
+  id: GEN/31/25
+  number: '25'
+reference: 'Genesis 31:26'

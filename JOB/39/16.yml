@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 39:16"
+  class="v">16</span>She is hardened against her young ones, as though <span
+  class="add">they were</span> not hers: her labour is in vain without fear;
+  </p>
+id: JOB/39/16
+next:
+  id: JOB/39/17
+  number: '17'
+previous:
+  id: JOB/39/15
+  number: '15'
+reference: 'Job 39:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MAT 5:44"
+  class="v">44</span><span class="wj">But I say unto you, Love your enemies,
+  bless them that curse you, do good to them that hate you, and pray for them
+  which despitefully use you, and persecute you;</span> </p>
+id: MAT/5/44
+next:
+  id: MAT/5/45
+  number: '45'
+previous:
+  id: MAT/5/43
+  number: '43'
+reference: 'Matthew 5:44'

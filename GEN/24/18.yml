@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 24:18"
+  class="v">18</span>And she said, Drink, my lord: and she hasted, and let down
+  her pitcher upon her hand, and gave him drink. </p>
+id: GEN/24/18
+next:
+  id: GEN/24/19
+  number: '19'
+previous:
+  id: GEN/24/17
+  number: '17'
+reference: 'Genesis 24:18'

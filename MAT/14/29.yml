@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 14:29"
+  class="v">29</span>And he said, <span class="wj">Come.</span> And when Peter
+  was come down out of the ship, he walked on the water, to go to Jesus. </p>
+id: MAT/14/29
+next:
+  id: MAT/14/30
+  number: '30'
+previous:
+  id: MAT/14/28
+  number: '28'
+reference: 'Matthew 14:29'

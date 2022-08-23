@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 102:21"
+  class="v">21</span>To declare the name of the <span class="nd">LORD</span> in
+  Zion, and his praise in Jerusalem;</p>
+id: PSA/102/21
+next:
+  id: PSA/102/22
+  number: '22'
+previous:
+  id: PSA/102/20
+  number: '20'
+reference: 'Psalms 102:21'

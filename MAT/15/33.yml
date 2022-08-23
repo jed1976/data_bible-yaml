@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 15:33"
+  class="v">33</span>And his disciples say unto him, Whence should we have so
+  much bread in the wilderness, as to fill so great a multitude? </p>
+id: MAT/15/33
+next:
+  id: MAT/15/34
+  number: '34'
+previous:
+  id: MAT/15/32
+  number: '32'
+reference: 'Matthew 15:33'

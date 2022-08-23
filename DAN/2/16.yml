@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 2:16"
+  class="v">16</span>Then Daniel went in, and desired of the king that he would
+  give him time, and that he would shew the king the interpretation. </p>
+id: DAN/2/16
+next:
+  id: DAN/2/17
+  number: '17'
+previous:
+  id: DAN/2/15
+  number: '15'
+reference: 'Daniel 2:16'

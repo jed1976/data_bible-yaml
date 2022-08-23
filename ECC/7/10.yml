@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 7:10" class="v">10</span>Say
+  not thou, What is <span class="add">the cause</span> that the former days were
+  better than these? for thou dost not enquire wisely concerning this.</p>
+id: ECC/7/10
+next:
+  id: ECC/7/11
+  number: '11'
+previous:
+  id: ECC/7/9
+  number: '9'
+reference: 'Ecclesiastes 7:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 20:13"
+  class="v">13</span>Thou shalt not kill. </p>
+id: EXO/20/13
+next:
+  id: EXO/20/14
+  number: '14'
+previous:
+  id: EXO/20/12
+  number: '12'
+reference: 'Exodus 20:13'

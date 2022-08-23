@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 8:14" class="v">14</span>¶
+  Now <span class="add">the disciples</span> had forgotten to take bread,
+  neither had they in the ship with them more than one loaf. </p>
+id: MRK/8/14
+next:
+  id: MRK/8/15
+  number: '15'
+previous:
+  id: MRK/8/13
+  number: '13'
+reference: 'Mark 8:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="RUT 3:18"
+  class="v">18</span>Then said she, Sit still, my daughter, until thou know how
+  the matter will fall: for the man will not be in rest, until he have finished
+  the thing this day.</p>
+id: RUT/3/18
+next:
+  id: RUT/4/1
+  number: '1'
+previous:
+  id: RUT/3/17
+  number: '17'
+reference: 'Ruth 3:18'

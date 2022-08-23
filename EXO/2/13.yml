@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 2:13" class="v">13</span>And
+  when he went out the second day, behold, two men of the Hebrews strove
+  together: and he said to him that did the wrong, Wherefore smitest thou thy
+  fellow? </p>
+id: EXO/2/13
+next:
+  id: EXO/2/14
+  number: '14'
+previous:
+  id: EXO/2/12
+  number: '12'
+reference: 'Exodus 2:13'

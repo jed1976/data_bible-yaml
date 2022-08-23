@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 1:4" class="v">4</span>¶ And
+  I looked, and, behold, a whirlwind came out of the north, a great cloud, and a
+  fire infolding itself, and a brightness <span class="add">was</span> about it,
+  and out of the midst thereof as the colour of amber, out of the midst of the
+  fire. </p>
+id: EZK/1/4
+next:
+  id: EZK/1/5
+  number: '5'
+previous:
+  id: EZK/1/3
+  number: '3'
+reference: 'Ezekiel 1:4'

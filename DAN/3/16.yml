@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 3:16"
+  class="v">16</span>Shadrach, Meshach, and Abed-nego, answered and said to the
+  king, O Nebuchadnezzar, we <span class="add">are</span> not careful to answer
+  thee in this matter. </p>
+id: DAN/3/16
+next:
+  id: DAN/3/17
+  number: '17'
+previous:
+  id: DAN/3/15
+  number: '15'
+reference: 'Daniel 3:16'

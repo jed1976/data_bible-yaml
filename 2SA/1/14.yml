@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 1:14" class="v">14</span>And
+  David said unto him, How wast thou not afraid to stretch forth thine hand to
+  destroy the <span class="nd">LORD’s</span> anointed? </p>
+id: 2SA/1/14
+next:
+  id: 2SA/1/15
+  number: '15'
+previous:
+  id: 2SA/1/13
+  number: '13'
+reference: '2 Samuel 1:14'

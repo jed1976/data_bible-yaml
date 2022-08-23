@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 3:18" class="v">18</span>But
+  if not, be it known unto thee, O king, that we will not serve thy gods, nor
+  worship the golden image which thou hast set up.</p>
+id: DAN/3/18
+next:
+  id: DAN/3/19
+  number: '19'
+previous:
+  id: DAN/3/17
+  number: '17'
+reference: 'Daniel 3:18'

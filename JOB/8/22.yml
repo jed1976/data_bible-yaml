@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 8:22"
+  class="v">22</span>They that hate thee shall be clothed with shame; and the
+  dwelling place of the wicked shall come to nought.</p>
+id: JOB/8/22
+next:
+  id: JOB/9/1
+  number: '1'
+previous:
+  id: JOB/8/21
+  number: '21'
+reference: 'Job 8:22'

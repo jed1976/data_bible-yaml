@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 25:8" class="v">8</span>Then
+  Abraham gave up the ghost, and died in a good old age, an old man, and full
+  <span class="add">of years;</span> and was gathered to his people. </p>
+id: GEN/25/8
+next:
+  id: GEN/25/9
+  number: '9'
+previous:
+  id: GEN/25/7
+  number: '7'
+reference: 'Genesis 25:8'

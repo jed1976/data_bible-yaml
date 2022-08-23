@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 6:8" class="v">8</span>And
+  commanded them that they should take nothing for <span
+  class="add">their</span> journey, save a staff only; no scrip, no bread, no
+  money in <span class="add">their</span> purse: </p>
+id: MRK/6/8
+next:
+  id: MRK/6/9
+  number: '9'
+previous:
+  id: MRK/6/7
+  number: '7'
+reference: 'Mark 6:8'

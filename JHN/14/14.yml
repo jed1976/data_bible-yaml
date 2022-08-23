@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 14:14"
+  class="v">14</span><span class="wj">If ye shall ask any thing in my name, I
+  will do <span class="add">it.</span></span></p>
+id: JHN/14/14
+next:
+  id: JHN/14/15
+  number: '15'
+previous:
+  id: JHN/14/13
+  number: '13'
+reference: 'John 14:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 3:8" class="v">8</span>Bring
+  forth therefore fruits meet for repentance: </p>
+id: MAT/3/8
+next:
+  id: MAT/3/9
+  number: '9'
+previous:
+  id: MAT/3/7
+  number: '7'
+reference: 'Matthew 3:8'

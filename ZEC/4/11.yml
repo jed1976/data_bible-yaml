@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 4:11" class="v">11</span>¶
+  Then answered I, and said unto him, What <span class="add">are</span> these
+  two olive trees upon the right <span class="add">side</span> of the
+  candlestick and upon the left <span class="add">side</span> thereof? </p>
+id: ZEC/4/11
+next:
+  id: ZEC/4/12
+  number: '12'
+previous:
+  id: ZEC/4/10
+  number: '10'
+reference: 'Zechariah 4:11'

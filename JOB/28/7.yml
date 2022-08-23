@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 28:7" class="v">7</span><span
+  class="add">There is</span> a path which no fowl knoweth, and which the
+  vulture’s eye hath not seen: </p>
+id: JOB/28/7
+next:
+  id: JOB/28/8
+  number: '8'
+previous:
+  id: JOB/28/6
+  number: '6'
+reference: 'Job 28:7'

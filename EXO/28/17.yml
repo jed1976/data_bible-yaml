@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 28:17"
+  class="v">17</span>And thou shalt set in it settings of stones, <span
+  class="add">even</span> four rows of stones: <span class="add">the
+  first</span> row <span class="add">shall be</span> a sardius, a topaz, and a
+  carbuncle: <span class="add">this shall be</span> the first row. </p>
+id: EXO/28/17
+next:
+  id: EXO/28/18
+  number: '18'
+previous:
+  id: EXO/28/16
+  number: '16'
+reference: 'Exodus 28:17'

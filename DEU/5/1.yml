@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 5:1" class="v">1</span>And
+  Moses called all Israel, and said unto them, Hear, O Israel, the statutes and
+  judgments which I speak in your ears this day, that ye may learn them, and
+  keep, and do them. </p>
+id: DEU/5/1
+next:
+  id: DEU/5/2
+  number: '2'
+previous:
+  id: DEU/4/49
+  number: '49'
+reference: 'Deuteronomy 5:1'

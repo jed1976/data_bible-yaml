@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 1:16" class="v">16</span>And
+  Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called
+  Christ. </p>
+id: MAT/1/16
+next:
+  id: MAT/1/17
+  number: '17'
+previous:
+  id: MAT/1/15
+  number: '15'
+reference: 'Matthew 1:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 36:25"
+  class="v">25</span>And for the other side of the tabernacle, <span
+  class="add">which is</span> toward the north corner, he made twenty boards,
+  </p>
+id: EXO/36/25
+next:
+  id: EXO/36/26
+  number: '26'
+previous:
+  id: EXO/36/24
+  number: '24'
+reference: 'Exodus 36:25'

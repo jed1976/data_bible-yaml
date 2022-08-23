@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 6:5" class="v">5</span>¶ And
+  against the wall of the house he built chambers round about, <span
+  class="add">against</span> the walls of the house round about, <span
+  class="add">both</span> of the temple and of the oracle: and he made chambers
+  round about: </p>
+id: 1KI/6/5
+next:
+  id: 1KI/6/6
+  number: '6'
+previous:
+  id: 1KI/6/4
+  number: '4'
+reference: '1 Kings 6:5'

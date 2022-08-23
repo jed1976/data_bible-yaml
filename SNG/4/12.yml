@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 4:12" class="v">12</span>A
+  garden inclosed <span class="add">is</span> my sister, <span
+  class="add">my</span> spouse; a spring shut up, a fountain sealed.  </p>
+id: SNG/4/12
+next:
+  id: SNG/4/13
+  number: '13'
+previous:
+  id: SNG/4/11
+  number: '11'
+reference: 'Song of Solomon 4:12'

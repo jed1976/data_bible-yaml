@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 15:35"
+  class="v">35</span>And the <span class="nd">LORD</span> said unto Moses, The
+  man shall be surely put to death: all the congregation shall stone him with
+  stones without the camp. </p>
+id: NUM/15/35
+next:
+  id: NUM/15/36
+  number: '36'
+previous:
+  id: NUM/15/34
+  number: '34'
+reference: 'Numbers 15:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 15:21"
+  class="v">21</span>And whosoever toucheth her bed shall wash his clothes, and
+  bathe <span class="add">himself</span> in water, and be unclean until the
+  even. </p>
+id: LEV/15/21
+next:
+  id: LEV/15/22
+  number: '22'
+previous:
+  id: LEV/15/20
+  number: '20'
+reference: 'Leviticus 15:21'

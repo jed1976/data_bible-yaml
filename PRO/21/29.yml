@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 21:29" class="v">29</span>A
+  wicked man hardeneth his face: but <span class="add">as for</span> the
+  upright, he directeth his way.</p>
+id: PRO/21/29
+next:
+  id: PRO/21/30
+  number: '30'
+previous:
+  id: PRO/21/28
+  number: '28'
+reference: 'Proverbs 21:29'

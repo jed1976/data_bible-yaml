@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 8:26"
+  class="v">26</span>While as yet he had not made the earth, nor the fields, nor
+  the highest part of the dust of the world. </p>
+id: PRO/8/26
+next:
+  id: PRO/8/27
+  number: '27'
+previous:
+  id: PRO/8/25
+  number: '25'
+reference: 'Proverbs 8:26'

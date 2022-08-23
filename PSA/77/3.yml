@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 77:3" class="v">3</span>I
+  remembered God, and was troubled: I complained, and my spirit was overwhelmed.
+  Selah.</p>
+id: PSA/77/3
+next:
+  id: PSA/77/4
+  number: '4'
+previous:
+  id: PSA/77/2
+  number: '2'
+reference: 'Psalms 77:3'

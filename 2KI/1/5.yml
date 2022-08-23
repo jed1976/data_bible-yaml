@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 1:5" class="v">5</span>¶ And
+  when the messengers turned back unto him, he said unto them, Why are ye now
+  turned back? </p>
+id: 2KI/1/5
+next:
+  id: 2KI/1/6
+  number: '6'
+previous:
+  id: 2KI/1/4
+  number: '4'
+reference: '2 Kings 1:5'

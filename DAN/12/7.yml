@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 12:7" class="v">7</span>And I
+  heard the man clothed in linen, which <span class="add">was</span> upon the
+  waters of the river, when he held up his right hand and his left hand unto
+  heaven, and sware by him that liveth for ever that <span class="add">it shall
+  be</span> for a time, times, and an half; and when he shall have accomplished
+  to scatter the power of the holy people, all these <span
+  class="add">things</span> shall be finished. </p>
+id: DAN/12/7
+next:
+  id: DAN/12/8
+  number: '8'
+previous:
+  id: DAN/12/6
+  number: '6'
+reference: 'Daniel 12:7'

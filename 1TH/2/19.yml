@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1TH 2:19" class="v">19</span>For
+  what <span class="add">is</span> our hope, or joy, or crown of rejoicing?
+  <span class="add">Are</span> not even ye in the presence of our Lord Jesus
+  Christ at his coming? </p>
+id: 1TH/2/19
+next:
+  id: 1TH/2/20
+  number: '20'
+previous:
+  id: 1TH/2/18
+  number: '18'
+reference: '1 Thessalonians 2:19'

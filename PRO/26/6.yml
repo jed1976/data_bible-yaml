@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 26:6" class="v">6</span>He
+  that sendeth a message by the hand of a fool cutteth off the feet, <span
+  class="add">and</span> drinketh damage. </p>
+id: PRO/26/6
+next:
+  id: PRO/26/7
+  number: '7'
+previous:
+  id: PRO/26/5
+  number: '5'
+reference: 'Proverbs 26:6'

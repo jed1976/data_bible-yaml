@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 18:4" class="v">4</span>And
+  they shall be joined unto thee, and keep the charge of the tabernacle of the
+  congregation, for all the service of the tabernacle: and a stranger shall not
+  come nigh unto you. </p>
+id: NUM/18/4
+next:
+  id: NUM/18/5
+  number: '5'
+previous:
+  id: NUM/18/3
+  number: '3'
+reference: 'Numbers 18:4'

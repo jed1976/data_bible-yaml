@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 10:15"
+  class="v">15</span>Only the <span class="nd">LORD</span> had a delight in thy
+  fathers to love them, and he chose their seed after them, <span
+  class="add">even</span> you above all people, as <span class="add">it
+  is</span> this day. </p>
+id: DEU/10/15
+next:
+  id: DEU/10/16
+  number: '16'
+previous:
+  id: DEU/10/14
+  number: '14'
+reference: 'Deuteronomy 10:15'

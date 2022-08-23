@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 24:23"
+  class="v">23</span>And said, Whose daughter <span class="add">art</span> thou?
+  tell me, I pray thee: is there room <span class="add">in</span> thy father’s
+  house for us to lodge in? </p>
+id: GEN/24/23
+next:
+  id: GEN/24/24
+  number: '24'
+previous:
+  id: GEN/24/22
+  number: '22'
+reference: 'Genesis 24:23'

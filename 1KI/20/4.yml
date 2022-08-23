@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 20:4" class="v">4</span>And
+  the king of Israel answered and said, My lord, O king, according to thy
+  saying, I <span class="add">am</span> thine, and all that I have. </p>
+id: 1KI/20/4
+next:
+  id: 1KI/20/5
+  number: '5'
+previous:
+  id: 1KI/20/3
+  number: '3'
+reference: '1 Kings 20:4'

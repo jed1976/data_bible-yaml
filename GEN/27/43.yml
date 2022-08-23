@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="GEN 27:43"
+  class="v">43</span>Now therefore, my son, obey my voice; and arise, flee thou
+  to Laban my brother to Haran; </p>
+id: GEN/27/43
+next:
+  id: GEN/27/44
+  number: '44'
+previous:
+  id: GEN/27/42
+  number: '42'
+reference: 'Genesis 27:43'

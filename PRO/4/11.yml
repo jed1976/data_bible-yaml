@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 4:11" class="v">11</span>I
+  have taught thee in the way of wisdom; I have led thee in right paths. </p>
+id: PRO/4/11
+next:
+  id: PRO/4/12
+  number: '12'
+previous:
+  id: PRO/4/10
+  number: '10'
+reference: 'Proverbs 4:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 86:7" class="v">7</span>In
+  the day of my trouble I will call upon thee: for thou wilt answer me.</p>
+id: PSA/86/7
+next:
+  id: PSA/86/8
+  number: '8'
+previous:
+  id: PSA/86/6
+  number: '6'
+reference: 'Psalms 86:7'

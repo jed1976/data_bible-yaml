@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 19:16"
+  class="v">16</span>And the man in whom the evil spirit was leaped on them, and
+  overcame them, and prevailed against them, so that they fled out of that house
+  naked and wounded. </p>
+id: ACT/19/16
+next:
+  id: ACT/19/17
+  number: '17'
+previous:
+  id: ACT/19/15
+  number: '15'
+reference: 'Acts 19:16'

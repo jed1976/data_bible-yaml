@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 11:30"
+  class="v">30</span>And Jephthah vowed a vow unto the <span
+  class="nd">LORD</span>, and said, If thou shalt without fail deliver the
+  children of Ammon into mine hands, </p>
+id: JDG/11/30
+next:
+  id: JDG/11/31
+  number: '31'
+previous:
+  id: JDG/11/29
+  number: '29'
+reference: 'Judges 11:30'

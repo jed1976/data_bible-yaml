@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 40:25"
+  class="v">25</span>And he lighted the lamps before the <span
+  class="nd">LORD</span>; as the <span class="nd">LORD</span> commanded
+  Moses.</p>
+id: EXO/40/25
+next:
+  id: EXO/40/26
+  number: '26'
+previous:
+  id: EXO/40/24
+  number: '24'
+reference: 'Exodus 40:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 9:6" class="v">6</span>And
+  all the men of Shechem gathered together, and all the house of Millo, and
+  went, and made Abimelech king, by the plain of the pillar that <span
+  class="add">was</span> in Shechem.</p>
+id: JDG/9/6
+next:
+  id: JDG/9/7
+  number: '7'
+previous:
+  id: JDG/9/5
+  number: '5'
+reference: 'Judges 9:6'

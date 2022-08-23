@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 38:8" class="v">8</span>And
+  Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise
+  up seed to thy brother. </p>
+id: GEN/38/8
+next:
+  id: GEN/38/9
+  number: '9'
+previous:
+  id: GEN/38/7
+  number: '7'
+reference: 'Genesis 38:8'

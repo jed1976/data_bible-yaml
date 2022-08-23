@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 33:20" class="v">20</span>So
+  that his life abhorreth bread, and his soul dainty meat. </p>
+id: JOB/33/20
+next:
+  id: JOB/33/21
+  number: '21'
+previous:
+  id: JOB/33/19
+  number: '19'
+reference: 'Job 33:20'

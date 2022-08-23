@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1SA 14:21"
+  class="v">21</span>Moreover the Hebrews <span class="add">that</span> were
+  with the Philistines before that time, which went up with them into the camp
+  <span class="add">from the country</span> round about, even they also <span
+  class="add">turned</span> to be with the Israelites that <span
+  class="add">were</span> with Saul and Jonathan. </p>
+id: 1SA/14/21
+next:
+  id: 1SA/14/22
+  number: '22'
+previous:
+  id: 1SA/14/20
+  number: '20'
+reference: '1 Samuel 14:21'

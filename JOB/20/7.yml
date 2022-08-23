@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 20:7" class="v">7</span><span
+  class="add">Yet</span> he shall perish for ever like his own dung: they which
+  have seen him shall say, Where <span class="add">is</span> he? </p>
+id: JOB/20/7
+next:
+  id: JOB/20/8
+  number: '8'
+previous:
+  id: JOB/20/6
+  number: '6'
+reference: 'Job 20:7'

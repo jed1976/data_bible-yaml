@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 22:6" class="v">6</span><span
+  class="wj">And the remnant took his servants, and entreated them spitefully,
+  and slew <span class="add">them</span>.</span> </p>
+id: MAT/22/6
+next:
+  id: MAT/22/7
+  number: '7'
+previous:
+  id: MAT/22/5
+  number: '5'
+reference: 'Matthew 22:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 7:4" class="v">4</span>But
+  Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and
+  bring forth mine armies, <span class="add">and</span> my people the children
+  of Israel, out of the land of Egypt by great judgments. </p>
+id: EXO/7/4
+next:
+  id: EXO/7/5
+  number: '5'
+previous:
+  id: EXO/7/3
+  number: '3'
+reference: 'Exodus 7:4'

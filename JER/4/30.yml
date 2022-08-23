@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JER 4:30" class="v">30</span>And
+  <span class="add">when</span> thou <span class="add">art</span> spoiled, what
+  wilt thou do? Though thou clothest thyself with crimson, though thou deckest
+  thee with ornaments of gold, though thou rentest thy face with painting, in
+  vain shalt thou make thyself fair; <span class="add">thy</span> lovers will
+  despise thee, they will seek thy life. </p>
+id: JER/4/30
+next:
+  id: JER/4/31
+  number: '31'
+previous:
+  id: JER/4/29
+  number: '29'
+reference: 'Jeremiah 4:30'

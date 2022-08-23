@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 25:5" class="v">5</span>Thou
+  shalt bring down the noise of strangers, as the heat in a dry place; <span
+  class="add">even</span> the heat with the shadow of a cloud: the branch of the
+  terrible ones shall be brought low.</p>
+id: ISA/25/5
+next:
+  id: ISA/25/6
+  number: '6'
+previous:
+  id: ISA/25/4
+  number: '4'
+reference: 'Isaiah 25:5'

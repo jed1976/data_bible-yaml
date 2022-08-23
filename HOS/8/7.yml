@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 8:7" class="v">7</span>For
+  they have sown the wind, and they shall reap the whirlwind: it hath no stalk:
+  the bud shall yield no meal: if so be it yield, the strangers shall swallow it
+  up.</p>
+id: HOS/8/7
+next:
+  id: HOS/8/8
+  number: '8'
+previous:
+  id: HOS/8/6
+  number: '6'
+reference: 'Hosea 8:7'

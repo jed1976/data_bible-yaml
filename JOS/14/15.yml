@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 14:15"
+  class="v">15</span>And the name of Hebron before <span class="add">was</span>
+  Kirjath-arba; <span class="add">which Arba was</span> a great man among the
+  Anakims. And the land had rest from war.</p>
+id: JOS/14/15
+next:
+  id: JOS/15/1
+  number: '1'
+previous:
+  id: JOS/14/14
+  number: '14'
+reference: 'Joshua 14:15'

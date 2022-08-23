@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 4:12" class="v">12</span>¶
+  My people ask counsel at their stocks, and their staff declareth unto them:
+  for the spirit of whoredoms hath caused <span class="add">them</span> to err,
+  and they have gone a whoring from under their God. </p>
+id: HOS/4/12
+next:
+  id: HOS/4/13
+  number: '13'
+previous:
+  id: HOS/4/11
+  number: '11'
+reference: 'Hosea 4:12'

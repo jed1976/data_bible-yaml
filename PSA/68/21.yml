@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 68:21"
+  class="v">21</span>But God shall wound the head of his enemies, <span
+  class="add">and</span> the hairy scalp of such an one as goeth on still in his
+  trespasses.</p>
+id: PSA/68/21
+next:
+  id: PSA/68/22
+  number: '22'
+previous:
+  id: PSA/68/20
+  number: '20'
+reference: 'Psalms 68:21'

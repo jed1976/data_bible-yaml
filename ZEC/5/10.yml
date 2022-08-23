@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 5:10"
+  class="v">10</span>Then said I to the angel that talked with me, Whither do
+  these bear the ephah? </p>
+id: ZEC/5/10
+next:
+  id: ZEC/5/11
+  number: '11'
+previous:
+  id: ZEC/5/9
+  number: '9'
+reference: 'Zechariah 5:10'

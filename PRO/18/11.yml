@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 18:11"
+  class="v">11</span>The rich man’s wealth <span class="add">is</span> his
+  strong city, and as an high wall in his own conceit. </p>
+id: PRO/18/11
+next:
+  id: PRO/18/12
+  number: '12'
+previous:
+  id: PRO/18/10
+  number: '10'
+reference: 'Proverbs 18:11'

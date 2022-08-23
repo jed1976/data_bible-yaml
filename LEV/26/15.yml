@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 26:15"
+  class="v">15</span>And if ye shall despise my statutes, or if your soul abhor
+  my judgments, so that ye will not do all my commandments, <span
+  class="add">but</span> that ye break my covenant: </p>
+id: LEV/26/15
+next:
+  id: LEV/26/16
+  number: '16'
+previous:
+  id: LEV/26/14
+  number: '14'
+reference: 'Leviticus 26:15'

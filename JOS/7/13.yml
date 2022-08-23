@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 7:13" class="v">13</span>Up,
+  sanctify the people, and say, Sanctify yourselves against to morrow: for thus
+  saith the <span class="nd">LORD</span> God of Israel, <span class="add">There
+  is</span> an accursed thing in the midst of thee, O Israel: thou canst not
+  stand before thine enemies, until ye take away the accursed thing from among
+  you. </p>
+id: JOS/7/13
+next:
+  id: JOS/7/14
+  number: '14'
+previous:
+  id: JOS/7/12
+  number: '12'
+reference: 'Joshua 7:13'

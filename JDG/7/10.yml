@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 7:10" class="v">10</span>But
+  if thou fear to go down, go thou with Phurah thy servant down to the host:
+  </p>
+id: JDG/7/10
+next:
+  id: JDG/7/11
+  number: '11'
+previous:
+  id: JDG/7/9
+  number: '9'
+reference: 'Judges 7:10'

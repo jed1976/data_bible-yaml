@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 20:7" class="v">7</span>And
+  upon the first <span class="add">day</span> of the week, when the disciples
+  came together to break bread, Paul preached unto them, ready to depart on the
+  morrow; and continued his speech until midnight. </p>
+id: ACT/20/7
+next:
+  id: ACT/20/8
+  number: '8'
+previous:
+  id: ACT/20/6
+  number: '6'
+reference: 'Acts 20:7'

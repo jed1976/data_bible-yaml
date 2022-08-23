@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 40:15"
+  class="v">15</span>Behold, the nations <span class="add">are</span> as a drop
+  of a bucket, and are counted as the small dust of the balance: behold, he
+  taketh up the isles as a very little thing. </p>
+id: ISA/40/15
+next:
+  id: ISA/40/16
+  number: '16'
+previous:
+  id: ISA/40/14
+  number: '14'
+reference: 'Isaiah 40:15'

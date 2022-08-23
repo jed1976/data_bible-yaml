@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 58:4"
+  class="v">4</span>Behold, ye fast for strife and debate, and to smite with the
+  fist of wickedness: ye shall not fast as <span class="add">ye do this</span>
+  day, to make your voice to be heard on high. </p>
+id: ISA/58/4
+next:
+  id: ISA/58/5
+  number: '5'
+previous:
+  id: ISA/58/3
+  number: '3'
+reference: 'Isaiah 58:4'

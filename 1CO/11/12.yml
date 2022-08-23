@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 11:12"
+  class="v">12</span>For as the woman <span class="add">is</span> of the man,
+  even so <span class="add">is</span> the man also by the woman; but all things
+  of God. </p>
+id: 1CO/11/12
+next:
+  id: 1CO/11/13
+  number: '13'
+previous:
+  id: 1CO/11/11
+  number: '11'
+reference: '1 Corinthians 11:12'

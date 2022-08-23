@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="MRK 10:51"
+  class="v">51</span>And Jesus answered and said unto him, <span class="wj">What
+  wilt thou that I should do unto thee?</span> The blind man said unto him,
+  Lord, that I might receive my sight. </p>
+id: MRK/10/51
+next:
+  id: MRK/10/52
+  number: '52'
+previous:
+  id: MRK/10/50
+  number: '50'
+reference: 'Mark 10:51'

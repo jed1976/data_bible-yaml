@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JHN 20:2" class="v">2</span>Then
+  she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus
+  loved, and saith unto them, They have taken away the Lord out of the
+  sepulchre, and we know not where they have laid him. </p>
+id: JHN/20/2
+next:
+  id: JHN/20/3
+  number: '3'
+previous:
+  id: JHN/20/1
+  number: '1'
+reference: 'John 20:2'

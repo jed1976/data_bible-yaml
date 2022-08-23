@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 13:30"
+  class="v">30</span>And Caleb stilled the people before Moses, and said, Let us
+  go up at once, and possess it; for we are well able to overcome it. </p>
+id: NUM/13/30
+next:
+  id: NUM/13/31
+  number: '31'
+previous:
+  id: NUM/13/29
+  number: '29'
+reference: 'Numbers 13:30'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 36:20"
+  class="v">20</span>Who <span class="add">are they</span> among all the gods of
+  these lands, that have delivered their land out of my hand, that the <span
+  class="nd">LORD</span> should deliver Jerusalem out of my hand? </p>
+id: ISA/36/20
+next:
+  id: ISA/36/21
+  number: '21'
+previous:
+  id: ISA/36/19
+  number: '19'
+reference: 'Isaiah 36:20'

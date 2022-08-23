@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 48:15" class="v">15</span>I,
+  <span class="add">even</span> I, have spoken; yea, I have called him: I have
+  brought him, and he shall make his way prosperous.</p>
+id: ISA/48/15
+next:
+  id: ISA/48/16
+  number: '16'
+previous:
+  id: ISA/48/14
+  number: '14'
+reference: 'Isaiah 48:15'

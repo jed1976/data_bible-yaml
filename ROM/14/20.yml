@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 14:20"
+  class="v">20</span>For meat destroy not the work of God. All things indeed
+  <span class="add">are</span> pure; but <span class="add">it is</span> evil for
+  that man who eateth with offence. </p>
+id: ROM/14/20
+next:
+  id: ROM/14/21
+  number: '21'
+previous:
+  id: ROM/14/19
+  number: '19'
+reference: 'Romans 14:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 37:8" class="v">8</span>¶ So
+  Rabshakeh returned, and found the king of Assyria warring against Libnah: for
+  he had heard that he was departed from Lachish. </p>
+id: ISA/37/8
+next:
+  id: ISA/37/9
+  number: '9'
+previous:
+  id: ISA/37/7
+  number: '7'
+reference: 'Isaiah 37:8'

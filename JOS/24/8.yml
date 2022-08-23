@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 24:8" class="v">8</span>And I
+  brought you into the land of the Amorites, which dwelt on the other side
+  Jordan; and they fought with you: and I gave them into your hand, that ye
+  might possess their land; and I destroyed them from before you. </p>
+id: JOS/24/8
+next:
+  id: JOS/24/9
+  number: '9'
+previous:
+  id: JOS/24/7
+  number: '7'
+reference: 'Joshua 24:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="67" data-sid="JHN 6:67"
+  class="v">67</span>Then said Jesus unto the twelve, <span class="wj">Will ye
+  also go away?</span> </p>
+id: JHN/6/67
+next:
+  id: JHN/6/68
+  number: '68'
+previous:
+  id: JHN/6/66
+  number: '66'
+reference: 'John 6:67'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PHM 1:13"
+  class="v">13</span>Whom I would have retained with me, that in thy stead he
+  might have ministered unto me in the bonds of the gospel: </p>
+id: PHM/1/13
+next:
+  id: PHM/1/14
+  number: '14'
+previous:
+  id: PHM/1/12
+  number: '12'
+reference: 'Philemon 1:13'

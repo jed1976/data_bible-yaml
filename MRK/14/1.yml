@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 14:1" class="v">1</span>After
+  two days was <span class="add">the feast of</span> the passover, and of
+  unleavened bread: and the chief priests and the scribes sought how they might
+  take him by craft, and put <span class="add">him</span> to death. </p>
+id: MRK/14/1
+next:
+  id: MRK/14/2
+  number: '2'
+previous:
+  id: MRK/13/37
+  number: '37'
+reference: 'Mark 14:1'

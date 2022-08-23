@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 25:1" class="v">1</span>And
+  it came to pass in the ninth year of his reign, in the tenth month, in the
+  tenth <span class="add">day</span> of the month, <span class="add">that</span>
+  Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem,
+  and pitched against it; and they built forts against it round about. </p>
+id: 2KI/25/1
+next:
+  id: 2KI/25/2
+  number: '2'
+previous:
+  id: 2KI/24/20
+  number: '20'
+reference: '2 Kings 25:1'

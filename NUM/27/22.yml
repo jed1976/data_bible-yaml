@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 27:22"
+  class="v">22</span>And Moses did as the <span class="nd">LORD</span> commanded
+  him: and he took Joshua, and set him before Eleazar the priest, and before all
+  the congregation: </p>
+id: NUM/27/22
+next:
+  id: NUM/27/23
+  number: '23'
+previous:
+  id: NUM/27/21
+  number: '21'
+reference: 'Numbers 27:22'

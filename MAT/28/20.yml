@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 28:20"
+  class="v">20</span><span class="wj">Teaching them to observe all things
+  whatsoever I have commanded you: and, lo, I am with you alway, <span
+  class="add">even</span> unto the end of the world.</span> Amen.</p>
+id: MAT/28/20
+next:
+  id: MRK/intro/0
+  number: '0'
+previous:
+  id: MAT/28/19
+  number: '19'
+reference: 'Matthew 28:20'

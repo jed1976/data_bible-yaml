@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 145:13"
+  class="v">13</span>Thy kingdom <span class="add">is</span> an everlasting
+  kingdom, and thy dominion <span class="add">endureth</span> throughout all
+  generations.</p>
+id: PSA/145/13
+next:
+  id: PSA/145/14
+  number: '14'
+previous:
+  id: PSA/145/12
+  number: '12'
+reference: 'Psalms 145:13'

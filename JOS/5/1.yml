@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 5:1" class="v">1</span>And it
+  came to pass, when all the kings of the Amorites, which <span
+  class="add">were</span> on the side of Jordan westward, and all the kings of
+  the Canaanites, which <span class="add">were</span> by the sea, heard that the
+  <span class="nd">LORD</span> had dried up the waters of Jordan from before the
+  children of Israel, until we were passed over, that their heart melted,
+  neither was there spirit in them any more, because of the children of
+  Israel.</p>
+id: JOS/5/1
+next:
+  id: JOS/5/2
+  number: '2'
+previous:
+  id: JOS/4/24
+  number: '24'
+reference: 'Joshua 5:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 21:4" class="v">4</span>And
+  finding disciples, we tarried there seven days: who said to Paul through the
+  Spirit, that he should not go up to Jerusalem. </p>
+id: ACT/21/4
+next:
+  id: ACT/21/5
+  number: '5'
+previous:
+  id: ACT/21/3
+  number: '3'
+reference: 'Acts 21:4'

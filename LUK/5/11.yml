@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 5:11" class="v">11</span>And
+  when they had brought their ships to land, they forsook all, and followed
+  him.</p>
+id: LUK/5/11
+next:
+  id: LUK/5/12
+  number: '12'
+previous:
+  id: LUK/5/10
+  number: '10'
+reference: 'Luke 5:11'

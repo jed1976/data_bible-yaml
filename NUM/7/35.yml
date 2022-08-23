@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 7:35" class="v">35</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Elizur the son of Shedeur.</p>
+id: NUM/7/35
+next:
+  id: NUM/7/36
+  number: '36'
+previous:
+  id: NUM/7/34
+  number: '34'
+reference: 'Numbers 7:35'

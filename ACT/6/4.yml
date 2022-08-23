@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 6:4" class="v">4</span>But we
+  will give ourselves continually to prayer, and to the ministry of the
+  word.</p>
+id: ACT/6/4
+next:
+  id: ACT/6/5
+  number: '5'
+previous:
+  id: ACT/6/3
+  number: '3'
+reference: 'Acts 6:4'

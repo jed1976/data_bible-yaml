@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 4:37" class="v">37</span>And
+  the fame of him went out into every place of the country round about.</p>
+id: LUK/4/37
+next:
+  id: LUK/4/38
+  number: '38'
+previous:
+  id: LUK/4/36
+  number: '36'
+reference: 'Luke 4:37'

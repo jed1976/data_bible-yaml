@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 26:13" class="v">13</span>Of
+  Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites. </p>
+id: NUM/26/13
+next:
+  id: NUM/26/14
+  number: '14'
+previous:
+  id: NUM/26/12
+  number: '12'
+reference: 'Numbers 26:13'

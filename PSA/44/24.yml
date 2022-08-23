@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 44:24"
+  class="v">24</span>Wherefore hidest thou thy face, <span
+  class="add">and</span> forgettest our affliction and our oppression?</p>
+id: PSA/44/24
+next:
+  id: PSA/44/25
+  number: '25'
+previous:
+  id: PSA/44/23
+  number: '23'
+reference: 'Psalms 44:24'

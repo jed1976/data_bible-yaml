@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 12:15"
+  class="v">15</span>But when Jesus knew <span class="add">it</span>, he
+  withdrew himself from thence: and great multitudes followed him, and he healed
+  them all; </p>
+id: MAT/12/15
+next:
+  id: MAT/12/16
+  number: '16'
+previous:
+  id: MAT/12/14
+  number: '14'
+reference: 'Matthew 12:15'

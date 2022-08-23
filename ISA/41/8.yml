@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 41:8" class="v">8</span>But
+  thou, Israel, <span class="add">art</span> my servant, Jacob whom I have
+  chosen, the seed of Abraham my friend. </p>
+id: ISA/41/8
+next:
+  id: ISA/41/9
+  number: '9'
+previous:
+  id: ISA/41/7
+  number: '7'
+reference: 'Isaiah 41:8'

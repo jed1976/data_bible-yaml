@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 12:7" class="v">7</span>Thou
+  shalt keep them, O <span class="nd">LORD</span>, thou shalt preserve them from
+  this generation for ever.</p>
+id: PSA/12/7
+next:
+  id: PSA/12/8
+  number: '8'
+previous:
+  id: PSA/12/6
+  number: '6'
+reference: 'Psalms 12:7'

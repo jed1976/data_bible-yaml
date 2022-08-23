@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ACT 5:2" class="v">2</span>And
+  kept back <span class="add">part</span> of the price, his wife also being
+  privy <span class="add">to it</span>, and brought a certain part, and laid
+  <span class="add">it</span> at the apostles’ feet. </p>
+id: ACT/5/2
+next:
+  id: ACT/5/3
+  number: '3'
+previous:
+  id: ACT/5/1
+  number: '1'
+reference: 'Acts 5:2'

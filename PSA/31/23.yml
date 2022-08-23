@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 31:23" class="v">23</span>O
+  love the <span class="nd">LORD</span>, all ye his saints: <span
+  class="add">for</span> the <span class="nd">LORD</span> preserveth the
+  faithful, and plentifully rewardeth the proud doer.</p>
+id: PSA/31/23
+next:
+  id: PSA/31/24
+  number: '24'
+previous:
+  id: PSA/31/22
+  number: '22'
+reference: 'Psalms 31:23'

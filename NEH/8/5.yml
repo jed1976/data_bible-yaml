@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 8:5" class="v">5</span>And
+  Ezra opened the book in the sight of all the people; (for he was above all the
+  people;) and when he opened it, all the people stood up: </p>
+id: NEH/8/5
+next:
+  id: NEH/8/6
+  number: '6'
+previous:
+  id: NEH/8/4
+  number: '4'
+reference: 'Nehemiah 8:5'

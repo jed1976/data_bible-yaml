@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 25:6" class="v">6</span>And
+  it shall be, <span class="add">that</span> the firstborn which she beareth
+  shall succeed in the name of his brother <span class="add">which is</span>
+  dead, that his name be not put out of Israel. </p>
+id: DEU/25/6
+next:
+  id: DEU/25/7
+  number: '7'
+previous:
+  id: DEU/25/5
+  number: '5'
+reference: 'Deuteronomy 25:6'

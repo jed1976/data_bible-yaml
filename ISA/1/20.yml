@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 1:20" class="v">20</span>But
+  if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of
+  the <span class="nd">LORD</span> hath spoken <span class="add">it</span>.</p>
+id: ISA/1/20
+next:
+  id: ISA/1/21
+  number: '21'
+previous:
+  id: ISA/1/19
+  number: '19'
+reference: 'Isaiah 1:20'

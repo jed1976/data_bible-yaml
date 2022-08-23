@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOS 12:2" class="v">2</span>Sihon
+  king of the Amorites, who dwelt in Heshbon, <span class="add">and</span> ruled
+  from Aroer, which <span class="add">is</span> upon the bank of the river
+  Arnon, and from the middle of the river, and from half Gilead, even unto the
+  river Jabbok, <span class="add">which is</span> the border of the children of
+  Ammon; </p>
+id: JOS/12/2
+next:
+  id: JOS/12/3
+  number: '3'
+previous:
+  id: JOS/12/1
+  number: '1'
+reference: 'Joshua 12:2'

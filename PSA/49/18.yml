@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 49:18"
+  class="v">18</span>Though while he lived he blessed his soul: and <span
+  class="add">men</span> will praise thee, when thou doest well to thyself.</p>
+id: PSA/49/18
+next:
+  id: PSA/49/19
+  number: '19'
+previous:
+  id: PSA/49/17
+  number: '17'
+reference: 'Psalms 49:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 6:32"
+  class="v">32</span><span class="wj">For if ye love them which love you, what
+  thank have ye? for sinners also love those that love them.</span> </p>
+id: LUK/6/32
+next:
+  id: LUK/6/33
+  number: '33'
+previous:
+  id: LUK/6/31
+  number: '31'
+reference: 'Luke 6:32'

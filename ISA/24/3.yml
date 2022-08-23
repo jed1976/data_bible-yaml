@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 24:3" class="v">3</span>The
+  land shall be utterly emptied, and utterly spoiled: for the <span
+  class="nd">LORD</span> hath spoken this word. </p>
+id: ISA/24/3
+next:
+  id: ISA/24/4
+  number: '4'
+previous:
+  id: ISA/24/2
+  number: '2'
+reference: 'Isaiah 24:3'

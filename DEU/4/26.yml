@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 4:26" class="v">26</span>I
+  call heaven and earth to witness against you this day, that ye shall soon
+  utterly perish from off the land whereunto ye go over Jordan to possess it; ye
+  shall not prolong <span class="add">your</span> days upon it, but shall
+  utterly be destroyed. </p>
+id: DEU/4/26
+next:
+  id: DEU/4/27
+  number: '27'
+previous:
+  id: DEU/4/25
+  number: '25'
+reference: 'Deuteronomy 4:26'

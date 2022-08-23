@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 4:11" class="v">11</span>And
+  the skin of the bullock, and all his flesh, with his head, and with his legs,
+  and his inwards, and his dung, </p>
+id: LEV/4/11
+next:
+  id: LEV/4/12
+  number: '12'
+previous:
+  id: LEV/4/10
+  number: '10'
+reference: 'Leviticus 4:11'

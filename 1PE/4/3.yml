@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1PE 4:3" class="v">3</span>For
+  the time past of <span class="add">our</span> life may suffice us to have
+  wrought the will of the Gentiles, when we walked in lasciviousness, lusts,
+  excess of wine, revellings, banquetings, and abominable idolatries: </p>
+id: 1PE/4/3
+next:
+  id: 1PE/4/4
+  number: '4'
+previous:
+  id: 1PE/4/2
+  number: '2'
+reference: '1 Peter 4:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1KI 12:14"
+  class="v">14</span>And spake to them after the counsel of the young men,
+  saying, My father made your yoke heavy, and I will add to your yoke: my father
+  <span class="add">also</span> chastised you with whips, but I will chastise
+  you with scorpions. </p>
+id: 1KI/12/14
+next:
+  id: 1KI/12/15
+  number: '15'
+previous:
+  id: 1KI/12/13
+  number: '13'
+reference: '1 Kings 12:14'

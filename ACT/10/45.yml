@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="ACT 10:45"
+  class="v">45</span>And they of the circumcision which believed were
+  astonished, as many as came with Peter, because that on the Gentiles also was
+  poured out the gift of the Holy Ghost. </p>
+id: ACT/10/45
+next:
+  id: ACT/10/46
+  number: '46'
+previous:
+  id: ACT/10/44
+  number: '44'
+reference: 'Acts 10:45'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LAM 3:18" class="v">18</span>And
+  I said, My strength and my hope is perished from the <span
+  class="nd">LORD</span>: </p>
+id: LAM/3/18
+next:
+  id: LAM/3/19
+  number: '19'
+previous:
+  id: LAM/3/17
+  number: '17'
+reference: 'Lamentations 3:18'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 1:7" class="v">7</span>And
+  Adoni-bezek said, Threescore and ten kings, having their thumbs and their
+  great toes cut off, gathered <span class="add">their meat</span> under my
+  table: as I have done, so God hath requited me. And they brought him to
+  Jerusalem, and there he died. </p>
+id: JDG/1/7
+next:
+  id: JDG/1/8
+  number: '8'
+previous:
+  id: JDG/1/6
+  number: '6'
+reference: 'Judges 1:7'

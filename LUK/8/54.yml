@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LUK 8:54" class="v">54</span>And
+  he put them all out, and took her by the hand, and called, saying, <span
+  class="wj">Maid, arise.</span> </p>
+id: LUK/8/54
+next:
+  id: LUK/8/55
+  number: '55'
+previous:
+  id: LUK/8/53
+  number: '53'
+reference: 'Luke 8:54'

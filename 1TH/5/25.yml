@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1TH 5:25"
+  class="v">25</span>Brethren, pray for us.</p>
+id: 1TH/5/25
+next:
+  id: 1TH/5/26
+  number: '26'
+previous:
+  id: 1TH/5/24
+  number: '24'
+reference: '1 Thessalonians 5:25'

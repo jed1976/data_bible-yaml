@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 13:22"
+  class="v">22</span>And I commanded the Levites that they should cleanse
+  themselves, and <span class="add">that</span> they should come <span
+  class="add">and</span> keep the gates, to sanctify the sabbath day. Remember
+  me, O my God, <span class="add">concerning</span> this also, and spare me
+  according to the greatness of thy mercy.</p>
+id: NEH/13/22
+next:
+  id: NEH/13/23
+  number: '23'
+previous:
+  id: NEH/13/21
+  number: '21'
+reference: 'Nehemiah 13:22'

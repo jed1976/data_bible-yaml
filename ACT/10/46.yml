@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="ACT 10:46"
+  class="v">46</span>For they heard them speak with tongues, and magnify God.
+  Then answered Peter, </p>
+id: ACT/10/46
+next:
+  id: ACT/10/47
+  number: '47'
+previous:
+  id: ACT/10/45
+  number: '45'
+reference: 'Acts 10:46'

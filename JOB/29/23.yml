@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 29:23"
+  class="v">23</span>And they waited for me as for the rain; and they opened
+  their mouth wide <span class="add">as</span> for the latter rain. </p>
+id: JOB/29/23
+next:
+  id: JOB/29/24
+  number: '24'
+previous:
+  id: JOB/29/22
+  number: '22'
+reference: 'Job 29:23'

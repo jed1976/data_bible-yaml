@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 7:11" class="v">11</span>¶
+  Wisdom <span class="add">is</span> good with an inheritance: and <span
+  class="add">by it there is</span> profit to them that see the sun. </p>
+id: ECC/7/11
+next:
+  id: ECC/7/12
+  number: '12'
+previous:
+  id: ECC/7/10
+  number: '10'
+reference: 'Ecclesiastes 7:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 33:11" class="v">11</span>Ye
+  shall conceive chaff, ye shall bring forth stubble: your breath, <span
+  class="add">as</span> fire, shall devour you. </p>
+id: ISA/33/11
+next:
+  id: ISA/33/12
+  number: '12'
+previous:
+  id: ISA/33/10
+  number: '10'
+reference: 'Isaiah 33:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 29:5" class="v">5</span>And
+  one kid of the goats <span class="add">for</span> a sin offering, to make an
+  atonement for you: </p>
+id: NUM/29/5
+next:
+  id: NUM/29/6
+  number: '6'
+previous:
+  id: NUM/29/4
+  number: '4'
+reference: 'Numbers 29:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 45:3" class="v">3</span>Gird
+  thy sword upon <span class="add">thy</span> thigh, O <span
+  class="add">most</span> mighty, with thy glory and thy majesty.</p>
+id: PSA/45/3
+next:
+  id: PSA/45/4
+  number: '4'
+previous:
+  id: PSA/45/2
+  number: '2'
+reference: 'Psalms 45:3'

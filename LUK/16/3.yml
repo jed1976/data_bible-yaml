@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 16:3" class="v">3</span><span
+  class="wj">Then the steward said within himself, What shall I do? for my lord
+  taketh away from me the stewardship: I cannot dig; to beg I am ashamed.</span>
+  </p>
+id: LUK/16/3
+next:
+  id: LUK/16/4
+  number: '4'
+previous:
+  id: LUK/16/2
+  number: '2'
+reference: 'Luke 16:3'

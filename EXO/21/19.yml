@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 21:19" class="v">19</span>If
+  he rise again, and walk abroad upon his staff, then shall he that smote <span
+  class="add">him</span> be quit: only he shall pay <span class="add">for</span>
+  the loss of his time, and shall cause <span class="add">him</span> to be
+  thoroughly healed.</p>
+id: EXO/21/19
+next:
+  id: EXO/21/20
+  number: '20'
+previous:
+  id: EXO/21/18
+  number: '18'
+reference: 'Exodus 21:19'

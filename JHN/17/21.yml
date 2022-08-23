@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 17:21"
+  class="v">21</span><span class="wj">That they all may be one; as thou, Father,
+  <span class="add">art</span> in me, and I in thee, that they also may be one
+  in us: that the world may believe that thou hast sent me.</span> </p>
+id: JHN/17/21
+next:
+  id: JHN/17/22
+  number: '22'
+previous:
+  id: JHN/17/20
+  number: '20'
+reference: 'John 17:21'

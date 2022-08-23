@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 41:21"
+  class="v">21</span>His breath kindleth coals, and a flame goeth out of his
+  mouth. </p>
+id: JOB/41/21
+next:
+  id: JOB/41/22
+  number: '22'
+previous:
+  id: JOB/41/20
+  number: '20'
+reference: 'Job 41:21'

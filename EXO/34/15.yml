@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 34:15"
+  class="v">15</span>Lest thou make a covenant with the inhabitants of the land,
+  and they go a whoring after their gods, and do sacrifice unto their gods, and
+  <span class="add">one</span> call thee, and thou eat of his sacrifice; </p>
+id: EXO/34/15
+next:
+  id: EXO/34/16
+  number: '16'
+previous:
+  id: EXO/34/14
+  number: '14'
+reference: 'Exodus 34:15'

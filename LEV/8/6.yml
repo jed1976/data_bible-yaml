@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 8:6" class="v">6</span>And
+  Moses brought Aaron and his sons, and washed them with water. </p>
+id: LEV/8/6
+next:
+  id: LEV/8/7
+  number: '7'
+previous:
+  id: LEV/8/5
+  number: '5'
+reference: 'Leviticus 8:6'

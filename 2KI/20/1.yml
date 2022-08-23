@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 20:1" class="v">1</span>In
+  those days was Hezekiah sick unto death. And the prophet Isaiah the son of
+  Amoz came to him, and said unto him, Thus saith the <span
+  class="nd">LORD</span>, Set thine house in order; for thou shalt die, and not
+  live. </p>
+id: 2KI/20/1
+next:
+  id: 2KI/20/2
+  number: '2'
+previous:
+  id: 2KI/19/37
+  number: '37'
+reference: '2 Kings 20:1'

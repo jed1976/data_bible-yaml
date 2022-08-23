@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 10:10" class="v">10</span>If
+  the iron be blunt, and he do not whet the edge, then must he put to more
+  strength: but wisdom <span class="add">is</span> profitable to direct. </p>
+id: ECC/10/10
+next:
+  id: ECC/10/11
+  number: '11'
+previous:
+  id: ECC/10/9
+  number: '9'
+reference: 'Ecclesiastes 10:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 102:24"
+  class="v">24</span>I said, O my God, take me not away in the midst of my days:
+  thy years <span class="add">are</span> throughout all generations.</p>
+id: PSA/102/24
+next:
+  id: PSA/102/25
+  number: '25'
+previous:
+  id: PSA/102/23
+  number: '23'
+reference: 'Psalms 102:24'

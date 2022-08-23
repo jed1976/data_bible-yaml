@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ECC 7:27"
+  class="v">27</span>Behold, this have I found, saith the preacher, <span
+  class="add">counting</span> one by one, to find out the account: </p>
+id: ECC/7/27
+next:
+  id: ECC/7/28
+  number: '28'
+previous:
+  id: ECC/7/26
+  number: '26'
+reference: 'Ecclesiastes 7:27'

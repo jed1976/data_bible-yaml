@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 18:14"
+  class="v">14</span><span class="wj">I tell you, this man went down to his
+  house justified <span class="add">rather</span> than the other: for every one
+  that exalteth himself shall be abased; and he that humbleth himself shall be
+  exalted.</span> </p>
+id: LUK/18/14
+next:
+  id: LUK/18/15
+  number: '15'
+previous:
+  id: LUK/18/13
+  number: '13'
+reference: 'Luke 18:14'

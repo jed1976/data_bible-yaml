@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 29:7" class="v">7</span>The
+  righteous considereth the cause of the poor: <span class="add">but</span> the
+  wicked regardeth not to know <span class="add">it</span>. </p>
+id: PRO/29/7
+next:
+  id: PRO/29/8
+  number: '8'
+previous:
+  id: PRO/29/6
+  number: '6'
+reference: 'Proverbs 29:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 2:18"
+  class="v">18</span>Thou art to pass over through Ar, the coast of Moab, this
+  day: </p>
+id: DEU/2/18
+next:
+  id: DEU/2/19
+  number: '19'
+previous:
+  id: DEU/2/17
+  number: '17'
+reference: 'Deuteronomy 2:18'

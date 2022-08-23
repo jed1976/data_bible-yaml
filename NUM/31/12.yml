@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 31:12"
+  class="v">12</span>And they brought the captives, and the prey, and the spoil,
+  unto Moses, and Eleazar the priest, and unto the congregation of the children
+  of Israel, unto the camp at the plains of Moab, which <span
+  class="add">are</span> by Jordan <span class="add">near</span> Jericho.</p>
+id: NUM/31/12
+next:
+  id: NUM/31/13
+  number: '13'
+previous:
+  id: NUM/31/11
+  number: '11'
+reference: 'Numbers 31:12'

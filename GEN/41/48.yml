@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="GEN 41:48"
+  class="v">48</span>And he gathered up all the food of the seven years, which
+  were in the land of Egypt, and laid up the food in the cities: the food of the
+  field, which <span class="add">was</span> round about every city, laid he up
+  in the same. </p>
+id: GEN/41/48
+next:
+  id: GEN/41/49
+  number: '49'
+previous:
+  id: GEN/41/47
+  number: '47'
+reference: 'Genesis 41:48'

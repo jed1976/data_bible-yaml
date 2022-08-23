@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 3:4" class="v">4</span>And
+  the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of
+  Abital; </p>
+id: 2SA/3/4
+next:
+  id: 2SA/3/5
+  number: '5'
+previous:
+  id: 2SA/3/3
+  number: '3'
+reference: '2 Samuel 3:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 17:8" class="v">8</span><span
+  class="wj">For I have given unto them the words which thou gavest me; and they
+  have received <span class="add">them</span>, and have known surely that I came
+  out from thee, and they have believed that thou didst send me.</span> </p>
+id: JHN/17/8
+next:
+  id: JHN/17/9
+  number: '9'
+previous:
+  id: JHN/17/7
+  number: '7'
+reference: 'John 17:8'

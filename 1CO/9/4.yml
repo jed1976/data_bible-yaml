@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 9:4" class="v">4</span>Have
+  we not power to eat and to drink? </p>
+id: 1CO/9/4
+next:
+  id: 1CO/9/5
+  number: '5'
+previous:
+  id: 1CO/9/3
+  number: '3'
+reference: '1 Corinthians 9:4'

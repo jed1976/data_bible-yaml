@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 69:19"
+  class="v">19</span>Thou hast known my reproach, and my shame, and my
+  dishonour: mine adversaries <span class="add">are</span> all before thee.</p>
+id: PSA/69/19
+next:
+  id: PSA/69/20
+  number: '20'
+previous:
+  id: PSA/69/18
+  number: '18'
+reference: 'Psalms 69:19'

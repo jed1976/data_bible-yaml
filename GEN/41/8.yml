@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 41:8" class="v">8</span>And
+  it came to pass in the morning that his spirit was troubled; and he sent and
+  called for all the magicians of Egypt, and all the wise men thereof: and
+  Pharaoh told them his dream; but <span class="add">there was</span> none that
+  could interpret them unto Pharaoh.</p>
+id: GEN/41/8
+next:
+  id: GEN/41/9
+  number: '9'
+previous:
+  id: GEN/41/7
+  number: '7'
+reference: 'Genesis 41:8'

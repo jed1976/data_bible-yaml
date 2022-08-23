@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 10:3" class="v">3</span>Yea
+  also, when he that is a fool walketh by the way, his wisdom faileth <span
+  class="add">him</span>, and he saith to every one <span
+  class="add">that</span> he <span class="add">is</span> a fool.</p>
+id: ECC/10/3
+next:
+  id: ECC/10/4
+  number: '4'
+previous:
+  id: ECC/10/2
+  number: '2'
+reference: 'Ecclesiastes 10:3'

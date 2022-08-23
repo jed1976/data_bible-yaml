@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 39:5" class="v">5</span>Thou
+  shalt fall upon the open field: for I have spoken <span class="add">it</span>,
+  saith the Lord <span class="nd">GOD</span>. </p>
+id: EZK/39/5
+next:
+  id: EZK/39/6
+  number: '6'
+previous:
+  id: EZK/39/4
+  number: '4'
+reference: 'Ezekiel 39:5'

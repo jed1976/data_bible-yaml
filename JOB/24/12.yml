@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 24:12"
+  class="v">12</span>Men groan from out of the city, and the soul of the wounded
+  crieth out: yet God layeth not folly <span class="add">to them</span>.</p>
+id: JOB/24/12
+next:
+  id: JOB/24/13
+  number: '13'
+previous:
+  id: JOB/24/11
+  number: '11'
+reference: 'Job 24:12'

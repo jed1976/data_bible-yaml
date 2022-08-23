@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 15:23" class="v">23</span>A
+  man hath joy by the answer of his mouth: and a word <span
+  class="add">spoken</span> in due season, how good <span class="add">is
+  it</span>! </p>
+id: PRO/15/23
+next:
+  id: PRO/15/24
+  number: '24'
+previous:
+  id: PRO/15/22
+  number: '22'
+reference: 'Proverbs 15:23'

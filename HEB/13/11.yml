@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HEB 13:11"
+  class="v">11</span>For the bodies of those beasts, whose blood is brought into
+  the sanctuary by the high priest for sin, are burned without the camp. </p>
+id: HEB/13/11
+next:
+  id: HEB/13/12
+  number: '12'
+previous:
+  id: HEB/13/10
+  number: '10'
+reference: 'Hebrews 13:11'

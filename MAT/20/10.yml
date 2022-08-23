@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 20:10"
+  class="v">10</span><span class="wj">But when the first came, they supposed
+  that they should have received more; and they likewise received every man a
+  penny.</span> </p>
+id: MAT/20/10
+next:
+  id: MAT/20/11
+  number: '11'
+previous:
+  id: MAT/20/9
+  number: '9'
+reference: 'Matthew 20:10'

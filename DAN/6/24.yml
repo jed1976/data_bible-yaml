@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 6:24" class="v">24</span>¶
+  And the king commanded, and they brought those men which had accused Daniel,
+  and they cast <span class="add">them</span> into the den of lions, them, their
+  children, and their wives; and the lions had the mastery of them, and brake
+  all their bones in pieces or ever they came at the bottom of the den.</p>
+id: DAN/6/24
+next:
+  id: DAN/6/25
+  number: '25'
+previous:
+  id: DAN/6/23
+  number: '23'
+reference: 'Daniel 6:24'

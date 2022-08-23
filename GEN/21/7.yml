@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 21:7" class="v">7</span>And
+  she said, Who would have said unto Abraham, that Sarah should have given
+  children suck? for I have born <span class="add">him</span> a son in his old
+  age. </p>
+id: GEN/21/7
+next:
+  id: GEN/21/8
+  number: '8'
+previous:
+  id: GEN/21/6
+  number: '6'
+reference: 'Genesis 21:7'

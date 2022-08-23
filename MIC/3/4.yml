@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 3:4" class="v">4</span>Then
+  shall they cry unto the <span class="nd">LORD</span>, but he will not hear
+  them: he will even hide his face from them at that time, as they have behaved
+  themselves ill in their doings.</p>
+id: MIC/3/4
+next:
+  id: MIC/3/5
+  number: '5'
+previous:
+  id: MIC/3/3
+  number: '3'
+reference: 'Micah 3:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 2:8" class="v">8</span>¶ The
+  voice of my beloved! behold, he cometh leaping upon the mountains, skipping
+  upon the hills. </p>
+id: SNG/2/8
+next:
+  id: SNG/2/9
+  number: '9'
+previous:
+  id: SNG/2/7
+  number: '7'
+reference: 'Song of Solomon 2:8'

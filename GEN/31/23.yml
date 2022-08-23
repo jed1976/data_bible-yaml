@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 31:23"
+  class="v">23</span>And he took his brethren with him, and pursued after him
+  seven days’ journey; and they overtook him in the mount Gilead. </p>
+id: GEN/31/23
+next:
+  id: GEN/31/24
+  number: '24'
+previous:
+  id: GEN/31/22
+  number: '22'
+reference: 'Genesis 31:23'

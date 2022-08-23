@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 56:7"
+  class="v">7</span>Shall they escape by iniquity? in <span
+  class="add">thine</span> anger cast down the people, O God.</p>
+id: PSA/56/7
+next:
+  id: PSA/56/8
+  number: '8'
+previous:
+  id: PSA/56/6
+  number: '6'
+reference: 'Psalms 56:7'

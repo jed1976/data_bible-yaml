@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 9:22"
+  class="v">22</span>Speak, Thus saith the <span class="nd">LORD</span>, Even
+  the carcases of men shall fall as dung upon the open field, and as the handful
+  after the harvestman, and none shall gather <span class="add">them</span>.</p>
+id: JER/9/22
+next:
+  id: JER/9/23
+  number: '23'
+previous:
+  id: JER/9/21
+  number: '21'
+reference: 'Jeremiah 9:22'

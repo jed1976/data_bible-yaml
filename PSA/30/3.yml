@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 30:3" class="v">3</span>O
+  <span class="nd">LORD</span>, thou hast brought up my soul from the grave:
+  thou hast kept me alive, that I should not go down to the pit.</p>
+id: PSA/30/3
+next:
+  id: PSA/30/4
+  number: '4'
+previous:
+  id: PSA/30/2
+  number: '2'
+reference: 'Psalms 30:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 4:16" class="v">16</span>Let
+  his heart be changed from man’s, and let a beast’s heart be given unto him;
+  and let seven times pass over him. </p>
+id: DAN/4/16
+next:
+  id: DAN/4/17
+  number: '17'
+previous:
+  id: DAN/4/15
+  number: '15'
+reference: 'Daniel 4:16'

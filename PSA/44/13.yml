@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 44:13"
+  class="v">13</span>Thou makest us a reproach to our neighbours, a scorn and a
+  derision to them that are round about us.</p>
+id: PSA/44/13
+next:
+  id: PSA/44/14
+  number: '14'
+previous:
+  id: PSA/44/12
+  number: '12'
+reference: 'Psalms 44:13'

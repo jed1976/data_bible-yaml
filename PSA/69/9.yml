@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 69:9" class="v">9</span>For
+  the zeal of thine house hath eaten me up; and the reproaches of them that
+  reproached thee are fallen upon me.</p>
+id: PSA/69/9
+next:
+  id: PSA/69/10
+  number: '10'
+previous:
+  id: PSA/69/8
+  number: '8'
+reference: 'Psalms 69:9'

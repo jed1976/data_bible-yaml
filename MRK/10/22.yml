@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 10:22"
+  class="v">22</span>And he was sad at that saying, and went away grieved: for
+  he had great possessions.</p>
+id: MRK/10/22
+next:
+  id: MRK/10/23
+  number: '23'
+previous:
+  id: MRK/10/21
+  number: '21'
+reference: 'Mark 10:22'

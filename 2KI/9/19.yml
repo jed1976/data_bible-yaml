@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2KI 9:19"
+  class="v">19</span>Then he sent out a second on horseback, which came to them,
+  and said, Thus saith the king, <span class="add">Is it</span> peace? And Jehu
+  answered, What hast thou to do with peace? turn thee behind me. </p>
+id: 2KI/9/19
+next:
+  id: 2KI/9/20
+  number: '20'
+previous:
+  id: 2KI/9/18
+  number: '18'
+reference: '2 Kings 9:19'

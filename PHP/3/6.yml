@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PHP 3:6"
+  class="v">6</span>Concerning zeal, persecuting the church; touching the
+  righteousness which is in the law, blameless. </p>
+id: PHP/3/6
+next:
+  id: PHP/3/7
+  number: '7'
+previous:
+  id: PHP/3/5
+  number: '5'
+reference: 'Philippians 3:6'

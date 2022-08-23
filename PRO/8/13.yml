@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 8:13" class="v">13</span>The
+  fear of the <span class="nd">LORD</span> <span class="add">is</span> to hate
+  evil: pride, and arrogancy, and the evil way, and the froward mouth, do I
+  hate. </p>
+id: PRO/8/13
+next:
+  id: PRO/8/14
+  number: '14'
+previous:
+  id: PRO/8/12
+  number: '12'
+reference: 'Proverbs 8:13'

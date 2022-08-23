@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 13:18"
+  class="v">18</span>And Jahazah, and Kedemoth, and Mephaath, </p>
+id: JOS/13/18
+next:
+  id: JOS/13/19
+  number: '19'
+previous:
+  id: JOS/13/17
+  number: '17'
+reference: 'Joshua 13:18'

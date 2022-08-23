@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 3:6" class="v">6</span><span
+  class="wj">He that hath an ear, let him hear what the Spirit saith unto the
+  churches.</span></p>
+id: REV/3/6
+next:
+  id: REV/3/7
+  number: '7'
+previous:
+  id: REV/3/5
+  number: '5'
+reference: 'Revelation 3:6'

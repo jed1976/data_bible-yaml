@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 23:12"
+  class="v">12</span>And Abraham bowed down himself before the people of the
+  land. </p>
+id: GEN/23/12
+next:
+  id: GEN/23/13
+  number: '13'
+previous:
+  id: GEN/23/11
+  number: '11'
+reference: 'Genesis 23:12'

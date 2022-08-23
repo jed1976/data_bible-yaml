@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LEV 26:33"
+  class="v">33</span>And I will scatter you among the heathen, and will draw out
+  a sword after you: and your land shall be desolate, and your cities waste.
+  </p>
+id: LEV/26/33
+next:
+  id: LEV/26/34
+  number: '34'
+previous:
+  id: LEV/26/32
+  number: '32'
+reference: 'Leviticus 26:33'

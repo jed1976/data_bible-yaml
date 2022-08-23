@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 8:8" class="v">8</span>So
+  then they that are in the flesh cannot please God. </p>
+id: ROM/8/8
+next:
+  id: ROM/8/9
+  number: '9'
+previous:
+  id: ROM/8/7
+  number: '7'
+reference: 'Romans 8:8'

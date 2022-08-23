@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 148:7"
+  class="v">7</span>Praise the <span class="nd">LORD</span> from the earth, ye
+  dragons, and all deeps:</p>
+id: PSA/148/7
+next:
+  id: PSA/148/8
+  number: '8'
+previous:
+  id: PSA/148/6
+  number: '6'
+reference: 'Psalms 148:7'

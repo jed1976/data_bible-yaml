@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 3:26" class="v">26</span>And
+  the hangings of the court, and the curtain for the door of the court, which
+  <span class="add">is</span> by the tabernacle, and by the altar round about,
+  and the cords of it for all the service thereof.</p>
+id: NUM/3/26
+next:
+  id: NUM/3/27
+  number: '27'
+previous:
+  id: NUM/3/25
+  number: '25'
+reference: 'Numbers 3:26'

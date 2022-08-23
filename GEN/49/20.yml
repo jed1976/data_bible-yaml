@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 49:20" class="v">20</span>¶
+  Out of Asher his bread <span class="add">shall be</span> fat, and he shall
+  yield royal dainties.</p>
+id: GEN/49/20
+next:
+  id: GEN/49/21
+  number: '21'
+previous:
+  id: GEN/49/19
+  number: '19'
+reference: 'Genesis 49:20'

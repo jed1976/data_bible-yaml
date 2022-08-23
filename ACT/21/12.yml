@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 21:12"
+  class="v">12</span>And when we heard these things, both we, and they of that
+  place, besought him not to go up to Jerusalem. </p>
+id: ACT/21/12
+next:
+  id: ACT/21/13
+  number: '13'
+previous:
+  id: ACT/21/11
+  number: '11'
+reference: 'Acts 21:12'

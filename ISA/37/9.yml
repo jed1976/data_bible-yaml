@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 37:9" class="v">9</span>And
+  he heard say concerning Tirhakah king of Ethiopia, He is come forth to make
+  war with thee. And when he heard <span class="add">it</span>, he sent
+  messengers to Hezekiah, saying, </p>
+id: ISA/37/9
+next:
+  id: ISA/37/10
+  number: '10'
+previous:
+  id: ISA/37/8
+  number: '8'
+reference: 'Isaiah 37:9'

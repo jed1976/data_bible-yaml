@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 40:4" class="v">4</span>Every
+  valley shall be exalted, and every mountain and hill shall be made low: and
+  the crooked shall be made straight, and the rough places plain: </p>
+id: ISA/40/4
+next:
+  id: ISA/40/5
+  number: '5'
+previous:
+  id: ISA/40/3
+  number: '3'
+reference: 'Isaiah 40:4'

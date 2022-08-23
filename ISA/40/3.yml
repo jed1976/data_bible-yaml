@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 40:3" class="v">3</span>¶ The
+  voice of him that crieth in the wilderness, Prepare ye the way of the <span
+  class="nd">LORD</span>, make straight in the desert a highway for our God.
+  </p>
+id: ISA/40/3
+next:
+  id: ISA/40/4
+  number: '4'
+previous:
+  id: ISA/40/2
+  number: '2'
+reference: 'Isaiah 40:3'

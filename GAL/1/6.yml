@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GAL 1:6" class="v">6</span>I
+  marvel that ye are so soon removed from him that called you into the grace of
+  Christ unto another gospel: </p>
+id: GAL/1/6
+next:
+  id: GAL/1/7
+  number: '7'
+previous:
+  id: GAL/1/5
+  number: '5'
+reference: 'Galatians 1:6'

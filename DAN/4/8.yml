@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 4:8" class="v">8</span>¶ But
+  at the last Daniel came in before me, whose name <span class="add">was</span>
+  Belteshazzar, according to the name of my god, and in whom <span
+  class="add">is</span> the spirit of the holy gods: and before him I told the
+  dream, <span class="add">saying</span>, </p>
+id: DAN/4/8
+next:
+  id: DAN/4/9
+  number: '9'
+previous:
+  id: DAN/4/7
+  number: '7'
+reference: 'Daniel 4:8'

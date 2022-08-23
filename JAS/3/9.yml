@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JAS 3:9"
+  class="v">9</span>Therewith bless we God, even the Father; and therewith curse
+  we men, which are made after the similitude of God. </p>
+id: JAS/3/9
+next:
+  id: JAS/3/10
+  number: '10'
+previous:
+  id: JAS/3/8
+  number: '8'
+reference: 'James 3:9'

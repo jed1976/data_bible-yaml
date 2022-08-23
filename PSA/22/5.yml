@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 22:5" class="v">5</span>They
+  cried unto thee, and were delivered: they trusted in thee, and were not
+  confounded.</p>
+id: PSA/22/5
+next:
+  id: PSA/22/6
+  number: '6'
+previous:
+  id: PSA/22/4
+  number: '4'
+reference: 'Psalms 22:5'

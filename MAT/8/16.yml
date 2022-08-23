@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 8:16" class="v">16</span>¶
+  When the even was come, they brought unto him many that were possessed with
+  devils: and he cast out the spirits with <span class="add">his</span> word,
+  and healed all that were sick: </p>
+id: MAT/8/16
+next:
+  id: MAT/8/17
+  number: '17'
+previous:
+  id: MAT/8/15
+  number: '15'
+reference: 'Matthew 8:16'

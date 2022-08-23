@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 41:6" class="v">6</span>And
+  if he come to see <span class="add">me</span>, he speaketh vanity: his heart
+  gathereth iniquity to itself; <span class="add">when</span> he goeth abroad,
+  he telleth <span class="add">it</span>.</p>
+id: PSA/41/6
+next:
+  id: PSA/41/7
+  number: '7'
+previous:
+  id: PSA/41/5
+  number: '5'
+reference: 'Psalms 41:6'

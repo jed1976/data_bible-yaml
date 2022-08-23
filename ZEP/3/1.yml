@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEP 3:1" class="v">1</span>Woe to
+  her that is filthy and polluted, to the oppressing city! </p>
+id: ZEP/3/1
+next:
+  id: ZEP/3/2
+  number: '2'
+previous:
+  id: ZEP/2/15
+  number: '15'
+reference: 'Zephaniah 3:1'

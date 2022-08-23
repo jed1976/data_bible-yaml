@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 18:15"
+  class="v">15</span>But if it be a question of words and names, and <span
+  class="add">of</span> your law, look ye <span class="add">to it</span>; for I
+  will be no judge of such <span class="add">matters</span>. </p>
+id: ACT/18/15
+next:
+  id: ACT/18/16
+  number: '16'
+previous:
+  id: ACT/18/14
+  number: '14'
+reference: 'Acts 18:15'

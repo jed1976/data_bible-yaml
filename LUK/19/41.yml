@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 19:41" class="v">41</span>¶
+  And when he was come near, he beheld the city, and wept over it, </p>
+id: LUK/19/41
+next:
+  id: LUK/19/42
+  number: '42'
+previous:
+  id: LUK/19/40
+  number: '40'
+reference: 'Luke 19:41'

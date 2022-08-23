@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 9:5" class="v">5</span>¶ And
+  to the others he said in mine hearing, Go ye after him through the city, and
+  smite: let not your eye spare, neither have ye pity: </p>
+id: EZK/9/5
+next:
+  id: EZK/9/6
+  number: '6'
+previous:
+  id: EZK/9/4
+  number: '4'
+reference: 'Ezekiel 9:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ה HE.</span></p><p
+  class="q1"><span data-number="33" data-sid="PSA 119:33"
+  class="v">33</span>Teach me, O <span class="nd">LORD</span>, the way of thy
+  statutes; and I shall keep it <span class="add">unto</span> the end.</p>
+id: PSA/119/33
+next:
+  id: PSA/119/34
+  number: '34'
+previous:
+  id: PSA/119/32
+  number: '32'
+reference: 'Psalms 119:33'

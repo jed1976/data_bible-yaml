@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NAM 3:19"
+  class="v">19</span><span class="add">There is</span> no healing of thy bruise;
+  thy wound is grievous: all that hear the bruit of thee shall clap the hands
+  over thee: for upon whom hath not thy wickedness passed continually?</p>
+id: NAM/3/19
+next:
+  id: HAB/intro/0
+  number: '0'
+previous:
+  id: NAM/3/18
+  number: '18'
+reference: 'Nahum 3:19'

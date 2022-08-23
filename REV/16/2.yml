@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="REV 16:2" class="v">2</span>And
+  the first went, and poured out his vial upon the earth; and there fell a
+  noisome and grievous sore upon the men which had the mark of the beast, and
+  <span class="add">upon</span> them which worshipped his image. </p>
+id: REV/16/2
+next:
+  id: REV/16/3
+  number: '3'
+previous:
+  id: REV/16/1
+  number: '1'
+reference: 'Revelation 16:2'

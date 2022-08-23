@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 35:15"
+  class="v">15</span>But in mine adversity they rejoiced, and gathered
+  themselves together: <span class="add">yea</span>, the abjects gathered
+  themselves together against me, and I knew <span class="add">it</span> not;
+  they did tear <span class="add">me</span>, and ceased not:</p>
+id: PSA/35/15
+next:
+  id: PSA/35/16
+  number: '16'
+previous:
+  id: PSA/35/14
+  number: '14'
+reference: 'Psalms 35:15'

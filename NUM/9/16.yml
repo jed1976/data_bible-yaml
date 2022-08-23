@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 9:16" class="v">16</span>So
+  it was alway: the cloud covered it <span class="add">by day</span>, and the
+  appearance of fire by night. </p>
+id: NUM/9/16
+next:
+  id: NUM/9/17
+  number: '17'
+previous:
+  id: NUM/9/15
+  number: '15'
+reference: 'Numbers 9:16'

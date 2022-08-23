@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="74" data-sid="PSA 119:74"
+  class="v">74</span>They that fear thee will be glad when they see me; because
+  I have hoped in thy word.</p>
+id: PSA/119/74
+next:
+  id: PSA/119/75
+  number: '75'
+previous:
+  id: PSA/119/73
+  number: '73'
+reference: 'Psalms 119:74'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 25:7" class="v">7</span>But
+  there came a man of God to him, saying, O king, let not the army of Israel go
+  with thee; for the <span class="nd">LORD</span> <span class="add">is</span>
+  not with Israel, <span class="add">to wit, with</span> all the children of
+  Ephraim. </p>
+id: 2CH/25/7
+next:
+  id: 2CH/25/8
+  number: '8'
+previous:
+  id: 2CH/25/6
+  number: '6'
+reference: '2 Chronicles 25:7'

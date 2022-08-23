@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="COL 2:23"
+  class="v">23</span>Which things have indeed a shew of wisdom in will worship,
+  and humility, and neglecting of the body; not in any honour to the satisfying
+  of the flesh.</p>
+id: COL/2/23
+next:
+  id: COL/3/1
+  number: '1'
+previous:
+  id: COL/2/22
+  number: '22'
+reference: 'Colossians 2:23'

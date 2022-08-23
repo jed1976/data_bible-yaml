@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 23:9" class="v">9</span>For
+  the <span class="nd">LORD</span> hath driven out from before you great nations
+  and strong: but <span class="add">as for</span> you, no man hath been able to
+  stand before you unto this day. </p>
+id: JOS/23/9
+next:
+  id: JOS/23/10
+  number: '10'
+previous:
+  id: JOS/23/8
+  number: '8'
+reference: 'Joshua 23:9'

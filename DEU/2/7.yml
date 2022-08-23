@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 2:7" class="v">7</span>For
+  the <span class="nd">LORD</span> thy God hath blessed thee in all the works of
+  thy hand: he knoweth thy walking through this great wilderness: these forty
+  years the <span class="nd">LORD</span> thy God <span class="add">hath
+  been</span> with thee; thou hast lacked nothing.</p>
+id: DEU/2/7
+next:
+  id: DEU/2/8
+  number: '8'
+previous:
+  id: DEU/2/6
+  number: '6'
+reference: 'Deuteronomy 2:7'

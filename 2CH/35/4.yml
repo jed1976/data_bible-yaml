@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 35:4" class="v">4</span>And
+  prepare <span class="add">yourselves</span> by the houses of your fathers,
+  after your courses, according to the writing of David king of Israel, and
+  according to the writing of Solomon his son. </p>
+id: 2CH/35/4
+next:
+  id: 2CH/35/5
+  number: '5'
+previous:
+  id: 2CH/35/3
+  number: '3'
+reference: '2 Chronicles 35:4'

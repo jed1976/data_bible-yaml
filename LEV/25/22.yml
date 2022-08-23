@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 25:22"
+  class="v">22</span>And ye shall sow the eighth year, and eat <span
+  class="add">yet</span> of old fruit until the ninth year; until her fruits
+  come in ye shall eat <span class="add">of</span> the old <span
+  class="add">store</span>.</p>
+id: LEV/25/22
+next:
+  id: LEV/25/23
+  number: '23'
+previous:
+  id: LEV/25/21
+  number: '21'
+reference: 'Leviticus 25:22'

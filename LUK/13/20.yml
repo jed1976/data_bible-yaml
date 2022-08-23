@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 13:20"
+  class="v">20</span>And again he said, <span class="wj">Whereunto shall I liken
+  the kingdom of God?</span> </p>
+id: LUK/13/20
+next:
+  id: LUK/13/21
+  number: '21'
+previous:
+  id: LUK/13/19
+  number: '19'
+reference: 'Luke 13:20'

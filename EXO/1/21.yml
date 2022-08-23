@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 1:21" class="v">21</span>And
+  it came to pass, because the midwives feared God, that he made them houses.
+  </p>
+id: EXO/1/21
+next:
+  id: EXO/1/22
+  number: '22'
+previous:
+  id: EXO/1/20
+  number: '20'
+reference: 'Exodus 1:21'

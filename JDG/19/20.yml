@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 19:20"
+  class="v">20</span>And the old man said, Peace <span class="add">be</span>
+  with thee; howsoever <span class="add">let</span> all thy wants <span
+  class="add">lie</span> upon me; only lodge not in the street. </p>
+id: JDG/19/20
+next:
+  id: JDG/19/21
+  number: '21'
+previous:
+  id: JDG/19/19
+  number: '19'
+reference: 'Judges 19:20'

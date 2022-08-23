@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 12:3" class="v">3</span>For
+  consider him that endured such contradiction of sinners against himself, lest
+  ye be wearied and faint in your minds. </p>
+id: HEB/12/3
+next:
+  id: HEB/12/4
+  number: '4'
+previous:
+  id: HEB/12/2
+  number: '2'
+reference: 'Hebrews 12:3'

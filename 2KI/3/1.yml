@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 3:1" class="v">1</span>Now
+  Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth
+  year of Jehoshaphat king of Judah, and reigned twelve years. </p>
+id: 2KI/3/1
+next:
+  id: 2KI/3/2
+  number: '2'
+previous:
+  id: 2KI/2/25
+  number: '25'
+reference: '2 Kings 3:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 10:4" class="v">4</span>And
+  did all drink the same spiritual drink: for they drank of that spiritual Rock
+  that followed them: and that Rock was Christ. </p>
+id: 1CO/10/4
+next:
+  id: 1CO/10/5
+  number: '5'
+previous:
+  id: 1CO/10/3
+  number: '3'
+reference: '1 Corinthians 10:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 20:3" class="v">3</span>I
+  have heard the check of my reproach, and the spirit of my understanding
+  causeth me to answer. </p>
+id: JOB/20/3
+next:
+  id: JOB/20/4
+  number: '4'
+previous:
+  id: JOB/20/2
+  number: '2'
+reference: 'Job 20:3'

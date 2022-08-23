@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="65" data-sid="PSA 78:65"
+  class="v">65</span>Then the Lord awaked as one out of sleep, <span
+  class="add">and</span> like a mighty man that shouteth by reason of wine.</p>
+id: PSA/78/65
+next:
+  id: PSA/78/66
+  number: '66'
+previous:
+  id: PSA/78/64
+  number: '64'
+reference: 'Psalms 78:65'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HEB 1:2" class="v">2</span>Hath
+  in these last days spoken unto us by <span class="add">his</span> Son, whom he
+  hath appointed heir of all things, by whom also he made the worlds; </p>
+id: HEB/1/2
+next:
+  id: HEB/1/3
+  number: '3'
+previous:
+  id: HEB/1/1
+  number: '1'
+reference: 'Hebrews 1:2'

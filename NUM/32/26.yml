@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 32:26"
+  class="v">26</span>Our little ones, our wives, our flocks, and all our cattle,
+  shall be there in the cities of Gilead: </p>
+id: NUM/32/26
+next:
+  id: NUM/32/27
+  number: '27'
+previous:
+  id: NUM/32/25
+  number: '25'
+reference: 'Numbers 32:26'

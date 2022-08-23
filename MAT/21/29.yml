@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 21:29"
+  class="v">29</span><span class="wj">He answered and said, I will not: but
+  afterward he repented, and went.</span> </p>
+id: MAT/21/29
+next:
+  id: MAT/21/30
+  number: '30'
+previous:
+  id: MAT/21/28
+  number: '28'
+reference: 'Matthew 21:29'

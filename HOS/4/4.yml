@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 4:4" class="v">4</span>Yet
+  let no man strive, nor reprove another: for thy people <span
+  class="add">are</span> as they that strive with the priest. </p>
+id: HOS/4/4
+next:
+  id: HOS/4/5
+  number: '5'
+previous:
+  id: HOS/4/3
+  number: '3'
+reference: 'Hosea 4:4'

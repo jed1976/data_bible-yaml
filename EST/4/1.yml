@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 4:1" class="v">1</span>When
+  Mordecai perceived all that was done, Mordecai rent his clothes, and put on
+  sackcloth with ashes, and went out into the midst of the city, and cried with
+  a loud and a bitter cry; </p>
+id: EST/4/1
+next:
+  id: EST/4/2
+  number: '2'
+previous:
+  id: EST/3/15
+  number: '15'
+reference: 'Esther 4:1'

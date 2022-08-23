@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 33:29"
+  class="v">29</span>Happy <span class="add">art</span> thou, O Israel: who
+  <span class="add">is</span> like unto thee, O people saved by the <span
+  class="nd">LORD</span>, the shield of thy help, and who <span
+  class="add">is</span> the sword of thy excellency! and thine enemies shall be
+  found liars unto thee; and thou shalt tread upon their high places.</p>
+id: DEU/33/29
+next:
+  id: DEU/34/1
+  number: '1'
+previous:
+  id: DEU/33/28
+  number: '28'
+reference: 'Deuteronomy 33:29'

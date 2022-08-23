@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="JHN 7:53" class="v">53</span>And
+  every man went unto his own house.</p>
+id: JHN/7/53
+next:
+  id: JHN/8/1
+  number: '1'
+previous:
+  id: JHN/7/52
+  number: '52'
+reference: 'John 7:53'

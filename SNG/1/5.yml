@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 1:5" class="v">5</span>I
+  <span class="add">am</span> black, but comely, O ye daughters of Jerusalem, as
+  the tents of Kedar, as the curtains of Solomon. </p>
+id: SNG/1/5
+next:
+  id: SNG/1/6
+  number: '6'
+previous:
+  id: SNG/1/4
+  number: '4'
+reference: 'Song of Solomon 1:5'

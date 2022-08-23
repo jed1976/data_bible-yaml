@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 12:8" class="v">8</span>And I
+  heard, but I understood not: then said I, O my Lord, what <span
+  class="add">shall be</span> the end of these <span class="add">things</span>?
+  </p>
+id: DAN/12/8
+next:
+  id: DAN/12/9
+  number: '9'
+previous:
+  id: DAN/12/7
+  number: '7'
+reference: 'Daniel 12:8'

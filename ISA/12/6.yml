@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 12:6" class="v">6</span>Cry
+  out and shout, thou inhabitant of Zion: for great <span class="add">is</span>
+  the Holy One of Israel in the midst of thee.</p>
+id: ISA/12/6
+next:
+  id: ISA/13/1
+  number: '1'
+previous:
+  id: ISA/12/5
+  number: '5'
+reference: 'Isaiah 12:6'

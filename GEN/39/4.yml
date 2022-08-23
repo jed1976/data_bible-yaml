@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 39:4" class="v">4</span>And
+  Joseph found grace in his sight, and he served him: and he made him overseer
+  over his house, and all <span class="add">that</span> he had he put into his
+  hand. </p>
+id: GEN/39/4
+next:
+  id: GEN/39/5
+  number: '5'
+previous:
+  id: GEN/39/3
+  number: '3'
+reference: 'Genesis 39:4'

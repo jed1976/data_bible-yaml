@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 1:14"
+  class="v">14</span>Cast in thy lot among us; let us all have one purse: </p>
+id: PRO/1/14
+next:
+  id: PRO/1/15
+  number: '15'
+previous:
+  id: PRO/1/13
+  number: '13'
+reference: 'Proverbs 1:14'

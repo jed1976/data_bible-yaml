@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NEH 7:25" class="v">25</span>The
+  children of Gibeon, ninety and five. </p>
+id: NEH/7/25
+next:
+  id: NEH/7/26
+  number: '26'
+previous:
+  id: NEH/7/24
+  number: '24'
+reference: 'Nehemiah 7:25'

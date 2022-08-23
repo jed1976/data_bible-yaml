@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 16:16"
+  class="v">16</span><span class="wj">The law and the prophets <span
+  class="add">were</span> until John: since that time the kingdom of God is
+  preached, and every man presseth into it.</span> </p>
+id: LUK/16/16
+next:
+  id: LUK/16/17
+  number: '17'
+previous:
+  id: LUK/16/15
+  number: '15'
+reference: 'Luke 16:16'

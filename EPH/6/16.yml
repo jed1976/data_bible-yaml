@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EPH 6:16"
+  class="v">16</span>Above all, taking the shield of faith, wherewith ye shall
+  be able to quench all the fiery darts of the wicked. </p>
+id: EPH/6/16
+next:
+  id: EPH/6/17
+  number: '17'
+previous:
+  id: EPH/6/15
+  number: '15'
+reference: 'Ephesians 6:16'

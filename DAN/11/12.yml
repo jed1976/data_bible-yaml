@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 11:12"
+  class="v">12</span><span class="add">And</span> when he hath taken away the
+  multitude, his heart shall be lifted up; and he shall cast down <span
+  class="add">many</span> ten thousands: but he shall not be strengthened <span
+  class="add">by it</span>. </p>
+id: DAN/11/12
+next:
+  id: DAN/11/13
+  number: '13'
+previous:
+  id: DAN/11/11
+  number: '11'
+reference: 'Daniel 11:12'

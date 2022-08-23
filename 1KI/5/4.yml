@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 5:4" class="v">4</span>But
+  now the <span class="nd">LORD</span> my God hath given me rest on every side,
+  <span class="add">so that there is</span> neither adversary nor evil
+  occurrent. </p>
+id: 1KI/5/4
+next:
+  id: 1KI/5/5
+  number: '5'
+previous:
+  id: 1KI/5/3
+  number: '3'
+reference: '1 Kings 5:4'

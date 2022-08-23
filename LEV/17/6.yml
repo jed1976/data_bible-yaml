@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 17:6" class="v">6</span>And
+  the priest shall sprinkle the blood upon the altar of the <span
+  class="nd">LORD</span> <span class="add">at</span> the door of the tabernacle
+  of the congregation, and burn the fat for a sweet savour unto the <span
+  class="nd">LORD</span>. </p>
+id: LEV/17/6
+next:
+  id: LEV/17/7
+  number: '7'
+previous:
+  id: LEV/17/5
+  number: '5'
+reference: 'Leviticus 17:6'

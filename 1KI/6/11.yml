@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 6:11" class="v">11</span>¶
+  And the word of the <span class="nd">LORD</span> came to Solomon, saying, </p>
+id: 1KI/6/11
+next:
+  id: 1KI/6/12
+  number: '12'
+previous:
+  id: 1KI/6/10
+  number: '10'
+reference: '1 Kings 6:11'

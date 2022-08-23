@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 15:13"
+  class="v">13</span>And Samuel came to Saul: and Saul said unto him, Blessed
+  <span class="add">be</span> thou of the <span class="nd">LORD</span>: I have
+  performed the commandment of the <span class="nd">LORD</span>. </p>
+id: 1SA/15/13
+next:
+  id: 1SA/15/14
+  number: '14'
+previous:
+  id: 1SA/15/12
+  number: '12'
+reference: '1 Samuel 15:13'

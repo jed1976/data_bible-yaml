@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 10:19"
+  class="v">19</span>And the rest of the trees of his forest shall be few, that
+  a child may write them.</p>
+id: ISA/10/19
+next:
+  id: ISA/10/20
+  number: '20'
+previous:
+  id: ISA/10/18
+  number: '18'
+reference: 'Isaiah 10:19'

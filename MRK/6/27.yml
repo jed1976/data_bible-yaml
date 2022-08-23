@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 6:27" class="v">27</span>And
+  immediately the king sent an executioner, and commanded his head to be
+  brought: and he went and beheaded him in the prison, </p>
+id: MRK/6/27
+next:
+  id: MRK/6/28
+  number: '28'
+previous:
+  id: MRK/6/26
+  number: '26'
+reference: 'Mark 6:27'

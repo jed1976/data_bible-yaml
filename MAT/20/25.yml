@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 20:25"
+  class="v">25</span>But Jesus called them <span class="add">unto him</span>,
+  and said, <span class="wj">Ye know that the princes of the Gentiles exercise
+  dominion over them, and they that are great exercise authority upon
+  them.</span> </p>
+id: MAT/20/25
+next:
+  id: MAT/20/26
+  number: '26'
+previous:
+  id: MAT/20/24
+  number: '24'
+reference: 'Matthew 20:25'

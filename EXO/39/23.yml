@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 39:23"
+  class="v">23</span>And <span class="add">there was</span> an hole in the midst
+  of the robe, as the hole of an habergeon, <span class="add">with</span> a band
+  round about the hole, that it should not rend. </p>
+id: EXO/39/23
+next:
+  id: EXO/39/24
+  number: '24'
+previous:
+  id: EXO/39/22
+  number: '22'
+reference: 'Exodus 39:23'

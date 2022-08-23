@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 12:37"
+  class="v">37</span><span class="wj">David therefore himself calleth him Lord;
+  and whence is he <span class="add">then</span> his son? And the common people
+  heard him gladly.</span></p>
+id: MRK/12/37
+next:
+  id: MRK/12/38
+  number: '38'
+previous:
+  id: MRK/12/36
+  number: '36'
+reference: 'Mark 12:37'

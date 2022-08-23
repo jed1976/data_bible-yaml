@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 31:3" class="v">3</span>The
+  <span class="nd">LORD</span> thy God, he will go over before thee, <span
+  class="add">and</span> he will destroy these nations from before thee, and
+  thou shalt possess them: <span class="add">and</span> Joshua, he shall go over
+  before thee, as the <span class="nd">LORD</span> hath said. </p>
+id: DEU/31/3
+next:
+  id: DEU/31/4
+  number: '4'
+previous:
+  id: DEU/31/2
+  number: '2'
+reference: 'Deuteronomy 31:3'

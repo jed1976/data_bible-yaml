@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 6:12" class="v">12</span>Or
+  ever I was aware, my soul made me <span class="add">like</span> the chariots
+  of Amminadib. </p>
+id: SNG/6/12
+next:
+  id: SNG/6/13
+  number: '13'
+previous:
+  id: SNG/6/11
+  number: '11'
+reference: 'Song of Solomon 6:12'

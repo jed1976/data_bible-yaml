@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 2:7" class="v">7</span>¶ So
+  went Satan forth from the presence of the <span class="nd">LORD</span>, and
+  smote Job with sore boils from the sole of his foot unto his crown. </p>
+id: JOB/2/7
+next:
+  id: JOB/2/8
+  number: '8'
+previous:
+  id: JOB/2/6
+  number: '6'
+reference: 'Job 2:7'

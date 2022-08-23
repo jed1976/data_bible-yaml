@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ROM 14:17"
+  class="v">17</span>For the kingdom of God is not meat and drink; but
+  righteousness, and peace, and joy in the Holy Ghost. </p>
+id: ROM/14/17
+next:
+  id: ROM/14/18
+  number: '18'
+previous:
+  id: ROM/14/16
+  number: '16'
+reference: 'Romans 14:17'

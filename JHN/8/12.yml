@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 8:12" class="v">12</span>¶
+  Then spake Jesus again unto them, saying, <span class="wj">I am the light of
+  the world: he that followeth me shall not walk in darkness, but shall have the
+  light of life.</span> </p>
+id: JHN/8/12
+next:
+  id: JHN/8/13
+  number: '13'
+previous:
+  id: JHN/8/11
+  number: '11'
+reference: 'John 8:12'

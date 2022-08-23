@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 10:18"
+  class="v">18</span><span class="wj">And ye shall be brought before governors
+  and kings for my sake, for a testimony against them and the Gentiles.</span>
+  </p>
+id: MAT/10/18
+next:
+  id: MAT/10/19
+  number: '19'
+previous:
+  id: MAT/10/17
+  number: '17'
+reference: 'Matthew 10:18'

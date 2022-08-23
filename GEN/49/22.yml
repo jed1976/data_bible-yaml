@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 49:22" class="v">22</span>¶
+  Joseph <span class="add">is</span> a fruitful bough, <span
+  class="add">even</span> a fruitful bough by a well; <span
+  class="add">whose</span> branches run over the wall: </p>
+id: GEN/49/22
+next:
+  id: GEN/49/23
+  number: '23'
+previous:
+  id: GEN/49/21
+  number: '21'
+reference: 'Genesis 49:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 38:1" class="v">1</span>In
+  those days was Hezekiah sick unto death. And Isaiah the prophet the son of
+  Amoz came unto him, and said unto him, Thus saith the <span
+  class="nd">LORD</span>, Set thine house in order: for thou shalt die, and not
+  live. </p>
+id: ISA/38/1
+next:
+  id: ISA/38/2
+  number: '2'
+previous:
+  id: ISA/37/38
+  number: '38'
+reference: 'Isaiah 38:1'

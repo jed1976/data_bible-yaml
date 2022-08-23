@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 22:3" class="v">3</span>Thus
+  saith the <span class="nd">LORD</span>; Execute ye judgment and righteousness,
+  and deliver the spoiled out of the hand of the oppressor: and do no wrong, do
+  no violence to the stranger, the fatherless, nor the widow, neither shed
+  innocent blood in this place. </p>
+id: JER/22/3
+next:
+  id: JER/22/4
+  number: '4'
+previous:
+  id: JER/22/2
+  number: '2'
+reference: 'Jeremiah 22:3'

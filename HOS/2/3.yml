@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 2:3" class="v">3</span>Lest I
+  strip her naked, and set her as in the day that she was born, and make her as
+  a wilderness, and set her like a dry land, and slay her with thirst. </p>
+id: HOS/2/3
+next:
+  id: HOS/2/4
+  number: '4'
+previous:
+  id: HOS/2/2
+  number: '2'
+reference: 'Hosea 2:3'

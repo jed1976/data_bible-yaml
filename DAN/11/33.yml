@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DAN 11:33"
+  class="v">33</span>And they that understand among the people shall instruct
+  many: yet they shall fall by the sword, and by flame, by captivity, and by
+  spoil, <span class="add">many</span> days. </p>
+id: DAN/11/33
+next:
+  id: DAN/11/34
+  number: '34'
+previous:
+  id: DAN/11/32
+  number: '32'
+reference: 'Daniel 11:33'

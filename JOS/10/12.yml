@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 10:12" class="v">12</span>¶
+  Then spake Joshua to the <span class="nd">LORD</span> in the day when the
+  <span class="nd">LORD</span> delivered up the Amorites before the children of
+  Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon;
+  and thou, Moon, in the valley of Ajalon. </p>
+id: JOS/10/12
+next:
+  id: JOS/10/13
+  number: '13'
+previous:
+  id: JOS/10/11
+  number: '11'
+reference: 'Joshua 10:12'

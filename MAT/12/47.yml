@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MAT 12:47"
+  class="v">47</span>Then one said unto him, Behold, thy mother and thy brethren
+  stand without, desiring to speak with thee. </p>
+id: MAT/12/47
+next:
+  id: MAT/12/48
+  number: '48'
+previous:
+  id: MAT/12/46
+  number: '46'
+reference: 'Matthew 12:47'

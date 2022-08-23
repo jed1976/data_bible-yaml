@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 31:5" class="v">5</span>And
+  in cutting of stones, to set <span class="add">them</span>, and in carving of
+  timber, to work in all manner of workmanship. </p>
+id: EXO/31/5
+next:
+  id: EXO/31/6
+  number: '6'
+previous:
+  id: EXO/31/4
+  number: '4'
+reference: 'Exodus 31:5'

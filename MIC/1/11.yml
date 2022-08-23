@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MIC 1:11"
+  class="v">11</span>Pass ye away, thou inhabitant of Saphir, having thy shame
+  naked: the inhabitant of Zaanan came not forth in the mourning of Beth-ezel;
+  he shall receive of you his standing. </p>
+id: MIC/1/11
+next:
+  id: MIC/1/12
+  number: '12'
+previous:
+  id: MIC/1/10
+  number: '10'
+reference: 'Micah 1:11'

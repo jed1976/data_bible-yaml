@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 42:9" class="v">9</span>I
+  will say unto God my rock, Why hast thou forgotten me? why go I mourning
+  because of the oppression of the enemy?</p>
+id: PSA/42/9
+next:
+  id: PSA/42/10
+  number: '10'
+previous:
+  id: PSA/42/8
+  number: '8'
+reference: 'Psalms 42:9'

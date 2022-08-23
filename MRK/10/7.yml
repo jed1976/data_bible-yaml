@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 10:7" class="v">7</span><span
+  class="wj">For this cause shall a man leave his father and mother, and cleave
+  to his wife;</span> </p>
+id: MRK/10/7
+next:
+  id: MRK/10/8
+  number: '8'
+previous:
+  id: MRK/10/6
+  number: '6'
+reference: 'Mark 10:7'

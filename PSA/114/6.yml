@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 114:6" class="v">6</span>Ye
+  mountains, <span class="add">that</span> ye skipped like rams; <span
+  class="add">and</span> ye little hills, like lambs?</p>
+id: PSA/114/6
+next:
+  id: PSA/114/7
+  number: '7'
+previous:
+  id: PSA/114/5
+  number: '5'
+reference: 'Psalms 114:6'

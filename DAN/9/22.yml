@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DAN 9:22" class="v">22</span>And
+  he informed <span class="add">me</span>, and talked with me, and said, O
+  Daniel, I am now come forth to give thee skill and understanding. </p>
+id: DAN/9/22
+next:
+  id: DAN/9/23
+  number: '23'
+previous:
+  id: DAN/9/21
+  number: '21'
+reference: 'Daniel 9:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="GEN 31:41"
+  class="v">41</span>Thus have I been twenty years in thy house; I served thee
+  fourteen years for thy two daughters, and six years for thy cattle: and thou
+  hast changed my wages ten times. </p>
+id: GEN/31/41
+next:
+  id: GEN/31/42
+  number: '42'
+previous:
+  id: GEN/31/40
+  number: '40'
+reference: 'Genesis 31:41'

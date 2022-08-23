@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ROM 11:29"
+  class="v">29</span>For the gifts and calling of God <span
+  class="add">are</span> without repentance. </p>
+id: ROM/11/29
+next:
+  id: ROM/11/30
+  number: '30'
+previous:
+  id: ROM/11/28
+  number: '28'
+reference: 'Romans 11:29'

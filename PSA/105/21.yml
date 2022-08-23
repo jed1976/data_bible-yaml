@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 105:21"
+  class="v">21</span>He made him lord of his house, and ruler of all his
+  substance:</p>
+id: PSA/105/21
+next:
+  id: PSA/105/22
+  number: '22'
+previous:
+  id: PSA/105/20
+  number: '20'
+reference: 'Psalms 105:21'

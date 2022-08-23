@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 9:5" class="v">5</span>And
+  the <span class="nd">LORD</span> appointed a set time, saying, To morrow the
+  <span class="nd">LORD</span> shall do this thing in the land. </p>
+id: EXO/9/5
+next:
+  id: EXO/9/6
+  number: '6'
+previous:
+  id: EXO/9/4
+  number: '4'
+reference: 'Exodus 9:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="SNG 6:4" class="v">4</span>¶ Thou
+  <span class="add">art</span> beautiful, O my love, as Tirzah, comely as
+  Jerusalem, terrible as <span class="add">an army</span> with banners. </p>
+id: SNG/6/4
+next:
+  id: SNG/6/5
+  number: '5'
+previous:
+  id: SNG/6/3
+  number: '3'
+reference: 'Song of Solomon 6:4'

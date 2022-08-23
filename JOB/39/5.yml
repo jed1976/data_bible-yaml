@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 39:5" class="v">5</span>Who
+  hath sent out the wild ass free? or who hath loosed the bands of the wild ass?
+  </p>
+id: JOB/39/5
+next:
+  id: JOB/39/6
+  number: '6'
+previous:
+  id: JOB/39/4
+  number: '4'
+reference: 'Job 39:5'

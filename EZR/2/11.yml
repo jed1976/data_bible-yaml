@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZR 2:11" class="v">11</span>The
+  children of Bebai, six hundred twenty and three. </p>
+id: EZR/2/11
+next:
+  id: EZR/2/12
+  number: '12'
+previous:
+  id: EZR/2/10
+  number: '10'
+reference: 'Ezra 2:11'

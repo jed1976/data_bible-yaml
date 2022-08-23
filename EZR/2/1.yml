@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 2:1" class="v">1</span>Now
+  these <span class="add">are</span> the children of the province that went up
+  out of the captivity, of those which had been carried away, whom
+  Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came
+  again unto Jerusalem and Judah, every one unto his city; </p>
+id: EZR/2/1
+next:
+  id: EZR/2/2
+  number: '2'
+previous:
+  id: EZR/1/11
+  number: '11'
+reference: 'Ezra 2:1'

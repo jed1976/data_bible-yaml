@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 4:30" class="v">30</span>¶
+  And he said, <span class="wj">Whereunto shall we liken the kingdom of God? or
+  with what comparison shall we compare it?</span> </p>
+id: MRK/4/30
+next:
+  id: MRK/4/31
+  number: '31'
+previous:
+  id: MRK/4/29
+  number: '29'
+reference: 'Mark 4:30'

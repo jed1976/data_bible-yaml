@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 19:31"
+  class="v">31</span>And certain of the chief of Asia, which were his friends,
+  sent unto him, desiring <span class="add">him</span> that he would not
+  adventure himself into the theatre. </p>
+id: ACT/19/31
+next:
+  id: ACT/19/32
+  number: '32'
+previous:
+  id: ACT/19/30
+  number: '30'
+reference: 'Acts 19:31'

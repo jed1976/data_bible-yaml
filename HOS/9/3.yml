@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 9:3" class="v">3</span>They
+  shall not dwell in the <span class="nd">LORD’s</span> land; but Ephraim shall
+  return to Egypt, and they shall eat unclean <span class="add">things</span> in
+  Assyria. </p>
+id: HOS/9/3
+next:
+  id: HOS/9/4
+  number: '4'
+previous:
+  id: HOS/9/2
+  number: '2'
+reference: 'Hosea 9:3'

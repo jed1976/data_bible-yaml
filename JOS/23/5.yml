@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 23:5" class="v">5</span>And
+  the <span class="nd">LORD</span> your God, he shall expel them from before
+  you, and drive them from out of your sight; and ye shall possess their land,
+  as the <span class="nd">LORD</span> your God hath promised unto you. </p>
+id: JOS/23/5
+next:
+  id: JOS/23/6
+  number: '6'
+previous:
+  id: JOS/23/4
+  number: '4'
+reference: 'Joshua 23:5'

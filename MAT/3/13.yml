@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 3:13" class="v">13</span>¶
+  Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
+  </p>
+id: MAT/3/13
+next:
+  id: MAT/3/14
+  number: '14'
+previous:
+  id: MAT/3/12
+  number: '12'
+reference: 'Matthew 3:13'

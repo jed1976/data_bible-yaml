@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 24:17"
+  class="v">17</span>And he said to David, Thou <span class="add">art</span>
+  more righteous than I: for thou hast rewarded me good, whereas I have rewarded
+  thee evil. </p>
+id: 1SA/24/17
+next:
+  id: 1SA/24/18
+  number: '18'
+previous:
+  id: 1SA/24/16
+  number: '16'
+reference: '1 Samuel 24:17'

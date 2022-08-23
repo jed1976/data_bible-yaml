@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1KI 21:18"
+  class="v">18</span>Arise, go down to meet Ahab king of Israel, which <span
+  class="add">is</span> in Samaria: behold, <span class="add">he is</span> in
+  the vineyard of Naboth, whither he is gone down to possess it. </p>
+id: 1KI/21/18
+next:
+  id: 1KI/21/19
+  number: '19'
+previous:
+  id: 1KI/21/17
+  number: '17'
+reference: '1 Kings 21:18'

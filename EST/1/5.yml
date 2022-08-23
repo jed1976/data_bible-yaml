@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 1:5" class="v">5</span>And
+  when these days were expired, the king made a feast unto all the people that
+  were present in Shushan the palace, both unto great and small, seven days, in
+  the court of the garden of the king’s palace; </p>
+id: EST/1/5
+next:
+  id: EST/1/6
+  number: '6'
+previous:
+  id: EST/1/4
+  number: '4'
+reference: 'Esther 1:5'

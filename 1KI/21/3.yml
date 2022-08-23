@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 21:3" class="v">3</span>And
+  Naboth said to Ahab, The <span class="nd">LORD</span> forbid it me, that I
+  should give the inheritance of my fathers unto thee. </p>
+id: 1KI/21/3
+next:
+  id: 1KI/21/4
+  number: '4'
+previous:
+  id: 1KI/21/2
+  number: '2'
+reference: '1 Kings 21:3'

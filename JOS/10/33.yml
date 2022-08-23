@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOS 10:33" class="v">33</span>¶
+  Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his
+  people, until he had left him none remaining.</p>
+id: JOS/10/33
+next:
+  id: JOS/10/34
+  number: '34'
+previous:
+  id: JOS/10/32
+  number: '32'
+reference: 'Joshua 10:33'

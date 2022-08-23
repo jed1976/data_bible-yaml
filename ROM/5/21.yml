@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 5:21"
+  class="v">21</span>That as sin hath reigned unto death, even so might grace
+  reign through righteousness unto eternal life by Jesus Christ our Lord.</p>
+id: ROM/5/21
+next:
+  id: ROM/6/1
+  number: '1'
+previous:
+  id: ROM/5/20
+  number: '20'
+reference: 'Romans 5:21'

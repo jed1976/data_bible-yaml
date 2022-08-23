@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1KI 9:24" class="v">24</span>¶
+  But Pharaoh’s daughter came up out of the city of David unto her house which
+  <span class="add">Solomon</span> had built for her: then did he build
+  Millo.</p>
+id: 1KI/9/24
+next:
+  id: 1KI/9/25
+  number: '25'
+previous:
+  id: 1KI/9/23
+  number: '23'
+reference: '1 Kings 9:24'

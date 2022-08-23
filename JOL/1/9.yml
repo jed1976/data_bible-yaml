@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOL 1:9" class="v">9</span>The
+  meat offering and the drink offering is cut off from the house of the <span
+  class="nd">LORD</span>; the priests, the <span class="nd">LORD’s</span>
+  ministers, mourn. </p>
+id: JOL/1/9
+next:
+  id: JOL/1/10
+  number: '10'
+previous:
+  id: JOL/1/8
+  number: '8'
+reference: 'Joel 1:9'

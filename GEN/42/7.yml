@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 42:7" class="v">7</span>And
+  Joseph saw his brethren, and he knew them, but made himself strange unto them,
+  and spake roughly unto them; and he said unto them, Whence come ye? And they
+  said, From the land of Canaan to buy food. </p>
+id: GEN/42/7
+next:
+  id: GEN/42/8
+  number: '8'
+previous:
+  id: GEN/42/6
+  number: '6'
+reference: 'Genesis 42:7'

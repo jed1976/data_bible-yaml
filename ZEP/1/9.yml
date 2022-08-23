@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEP 1:9" class="v">9</span>In the
+  same day also will I punish all those that leap on the threshold, which fill
+  their masters’ houses with violence and deceit. </p>
+id: ZEP/1/9
+next:
+  id: ZEP/1/10
+  number: '10'
+previous:
+  id: ZEP/1/8
+  number: '8'
+reference: 'Zephaniah 1:9'

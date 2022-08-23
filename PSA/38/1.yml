@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David, to bring to remembrance.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 38:1" class="v">1</span>O <span
+  class="nd">LORD</span>, rebuke me not in thy wrath: neither chasten me in thy
+  hot displeasure.</p>
+id: PSA/38/1
+next:
+  id: PSA/38/2
+  number: '2'
+previous:
+  id: PSA/37/40
+  number: '40'
+reference: 'Psalms 38:1'

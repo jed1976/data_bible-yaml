@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 19:7" class="v">7</span>Ain,
+  Remmon, and Ether, and Ashan; four cities and their villages: </p>
+id: JOS/19/7
+next:
+  id: JOS/19/8
+  number: '8'
+previous:
+  id: JOS/19/6
+  number: '6'
+reference: 'Joshua 19:7'

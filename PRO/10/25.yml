@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 10:25" class="v">25</span>As
+  the whirlwind passeth, so <span class="add">is</span> the wicked no <span
+  class="add">more:</span> but the righteous <span class="add">is</span> an
+  everlasting foundation. </p>
+id: PRO/10/25
+next:
+  id: PRO/10/26
+  number: '26'
+previous:
+  id: PRO/10/24
+  number: '24'
+reference: 'Proverbs 10:25'

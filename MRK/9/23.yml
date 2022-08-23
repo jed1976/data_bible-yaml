@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 9:23"
+  class="v">23</span>Jesus said unto him, <span class="wj">If thou canst
+  believe, all things <span class="add">are</span> possible to him that
+  believeth.</span> </p>
+id: MRK/9/23
+next:
+  id: MRK/9/24
+  number: '24'
+previous:
+  id: MRK/9/22
+  number: '22'
+reference: 'Mark 9:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 10:5" class="v">5</span>¶ O
+  Assyrian, the rod of mine anger, and the staff in their hand is mine
+  indignation. </p>
+id: ISA/10/5
+next:
+  id: ISA/10/6
+  number: '6'
+previous:
+  id: ISA/10/4
+  number: '4'
+reference: 'Isaiah 10:5'

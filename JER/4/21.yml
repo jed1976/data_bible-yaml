@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 4:21" class="v">21</span>How
+  long shall I see the standard, <span class="add">and</span> hear the sound of
+  the trumpet? </p>
+id: JER/4/21
+next:
+  id: JER/4/22
+  number: '22'
+previous:
+  id: JER/4/20
+  number: '20'
+reference: 'Jeremiah 4:21'

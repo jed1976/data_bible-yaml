@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 18:7" class="v">7</span>And
+  the women answered <span class="add">one another</span> as they played, and
+  said, Saul hath slain his thousands, and David his ten thousands. </p>
+id: 1SA/18/7
+next:
+  id: 1SA/18/8
+  number: '8'
+previous:
+  id: 1SA/18/6
+  number: '6'
+reference: '1 Samuel 18:7'

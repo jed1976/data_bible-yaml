@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 26:9"
+  class="v">9</span>Moreover Uzziah built towers in Jerusalem at the corner
+  gate, and at the valley gate, and at the turning <span class="add">of the
+  wall</span>, and fortified them. </p>
+id: 2CH/26/9
+next:
+  id: 2CH/26/10
+  number: '10'
+previous:
+  id: 2CH/26/8
+  number: '8'
+reference: '2 Chronicles 26:9'

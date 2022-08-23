@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOS 10:22"
+  class="v">22</span>Then said Joshua, Open the mouth of the cave, and bring out
+  those five kings unto me out of the cave. </p>
+id: JOS/10/22
+next:
+  id: JOS/10/23
+  number: '23'
+previous:
+  id: JOS/10/21
+  number: '21'
+reference: 'Joshua 10:22'

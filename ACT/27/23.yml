@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 27:23"
+  class="v">23</span>For there stood by me this night the angel of God, whose I
+  am, and whom I serve, </p>
+id: ACT/27/23
+next:
+  id: ACT/27/24
+  number: '24'
+previous:
+  id: ACT/27/22
+  number: '22'
+reference: 'Acts 27:23'

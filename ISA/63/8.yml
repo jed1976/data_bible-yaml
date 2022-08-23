@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 63:8" class="v">8</span>For
+  he said, Surely they <span class="add">are</span> my people, children <span
+  class="add">that</span> will not lie: so he was their Saviour. </p>
+id: ISA/63/8
+next:
+  id: ISA/63/9
+  number: '9'
+previous:
+  id: ISA/63/7
+  number: '7'
+reference: 'Isaiah 63:8'

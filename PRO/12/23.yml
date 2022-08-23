@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 12:23" class="v">23</span>A
+  prudent man concealeth knowledge: but the heart of fools proclaimeth
+  foolishness. </p>
+id: PRO/12/23
+next:
+  id: PRO/12/24
+  number: '24'
+previous:
+  id: PRO/12/22
+  number: '22'
+reference: 'Proverbs 12:23'

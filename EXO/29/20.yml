@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 29:20"
+  class="v">20</span>Then shalt thou kill the ram, and take of his blood, and
+  put <span class="add">it</span> upon the tip of the right ear of Aaron, and
+  upon the tip of the right ear of his sons, and upon the thumb of their right
+  hand, and upon the great toe of their right foot, and sprinkle the blood upon
+  the altar round about. </p>
+id: EXO/29/20
+next:
+  id: EXO/29/21
+  number: '21'
+previous:
+  id: EXO/29/19
+  number: '19'
+reference: 'Exodus 29:20'

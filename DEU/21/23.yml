@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 21:23"
+  class="v">23</span>His body shall not remain all night upon the tree, but thou
+  shalt in any wise bury him that day; (for he that is hanged <span
+  class="add">is</span> accursed of God;) that thy land be not defiled, which
+  the <span class="nd">LORD</span> thy God giveth thee <span
+  class="add">for</span> an inheritance.</p>
+id: DEU/21/23
+next:
+  id: DEU/22/1
+  number: '1'
+previous:
+  id: DEU/21/22
+  number: '22'
+reference: 'Deuteronomy 21:23'

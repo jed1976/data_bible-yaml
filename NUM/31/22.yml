@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 31:22"
+  class="v">22</span>Only the gold, and the silver, the brass, the iron, the
+  tin, and the lead, </p>
+id: NUM/31/22
+next:
+  id: NUM/31/23
+  number: '23'
+previous:
+  id: NUM/31/21
+  number: '21'
+reference: 'Numbers 31:22'

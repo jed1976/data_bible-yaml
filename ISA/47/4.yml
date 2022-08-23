@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 47:4" class="v">4</span><span
+  class="add">As for</span> our redeemer, the <span class="nd">LORD</span> of
+  hosts <span class="add">is</span> his name, the Holy One of Israel. </p>
+id: ISA/47/4
+next:
+  id: ISA/47/5
+  number: '5'
+previous:
+  id: ISA/47/3
+  number: '3'
+reference: 'Isaiah 47:4'

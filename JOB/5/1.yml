@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 5:1" class="v">1</span>Call
+  now, if there be any that will answer thee; and to which of the saints wilt
+  thou turn? </p>
+id: JOB/5/1
+next:
+  id: JOB/5/2
+  number: '2'
+previous:
+  id: JOB/4/21
+  number: '21'
+reference: 'Job 5:1'

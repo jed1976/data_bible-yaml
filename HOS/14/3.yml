@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 14:3"
+  class="v">3</span>Asshur shall not save us; we will not ride upon horses:
+  neither will we say any more to the work of our hands, <span class="add">Ye
+  are</span> our gods: for in thee the fatherless findeth mercy.</p>
+id: HOS/14/3
+next:
+  id: HOS/14/4
+  number: '4'
+previous:
+  id: HOS/14/2
+  number: '2'
+reference: 'Hosea 14:3'

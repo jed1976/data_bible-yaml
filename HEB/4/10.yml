@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 4:10" class="v">10</span>For
+  he that is entered into his rest, he also hath ceased from his own works, as
+  God <span class="add">did</span> from his. </p>
+id: HEB/4/10
+next:
+  id: HEB/4/11
+  number: '11'
+previous:
+  id: HEB/4/9
+  number: '9'
+reference: 'Hebrews 4:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 97:1" class="v">1</span>The
+  <span class="nd">LORD</span> reigneth; let the earth rejoice; let the
+  multitude of isles be glad <span class="add">thereof</span>.</p>
+id: PSA/97/1
+next:
+  id: PSA/97/2
+  number: '2'
+previous:
+  id: PSA/96/13
+  number: '13'
+reference: 'Psalms 97:1'

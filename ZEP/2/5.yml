@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEP 2:5" class="v">5</span>Woe
+  unto the inhabitants of the sea coast, the nation of the Cherethites! the word
+  of the <span class="nd">LORD</span> <span class="add">is</span> against you; O
+  Canaan, the land of the Philistines, I will even destroy thee, that there
+  shall be no inhabitant. </p>
+id: ZEP/2/5
+next:
+  id: ZEP/2/6
+  number: '6'
+previous:
+  id: ZEP/2/4
+  number: '4'
+reference: 'Zephaniah 2:5'

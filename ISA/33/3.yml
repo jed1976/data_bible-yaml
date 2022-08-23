@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 33:3" class="v">3</span>At
+  the noise of the tumult the people fled; at the lifting up of thyself the
+  nations were scattered. </p>
+id: ISA/33/3
+next:
+  id: ISA/33/4
+  number: '4'
+previous:
+  id: ISA/33/2
+  number: '2'
+reference: 'Isaiah 33:3'

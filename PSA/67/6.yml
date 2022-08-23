@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 67:6"
+  class="v">6</span><span class="add">Then</span> shall the earth yield her
+  increase; <span class="add">and</span> God, <span class="add">even</span> our
+  own God, shall bless us.</p>
+id: PSA/67/6
+next:
+  id: PSA/67/7
+  number: '7'
+previous:
+  id: PSA/67/5
+  number: '5'
+reference: 'Psalms 67:6'

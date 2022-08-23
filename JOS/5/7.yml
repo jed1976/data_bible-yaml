@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 5:7" class="v">7</span>And
+  their children, <span class="add">whom</span> he raised up in their stead,
+  them Joshua circumcised: for they were uncircumcised, because they had not
+  circumcised them by the way. </p>
+id: JOS/5/7
+next:
+  id: JOS/5/8
+  number: '8'
+previous:
+  id: JOS/5/6
+  number: '6'
+reference: 'Joshua 5:7'

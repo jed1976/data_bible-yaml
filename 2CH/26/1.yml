@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 26:1" class="v">1</span>Then
+  all the people of Judah took Uzziah, who <span class="add">was</span> sixteen
+  years old, and made him king in the room of his father Amaziah. </p>
+id: 2CH/26/1
+next:
+  id: 2CH/26/2
+  number: '2'
+previous:
+  id: 2CH/25/28
+  number: '28'
+reference: '2 Chronicles 26:1'

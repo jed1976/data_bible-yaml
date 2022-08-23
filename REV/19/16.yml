@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 19:16"
+  class="v">16</span>And he hath on <span class="add">his</span> vesture and on
+  his thigh a name written, KING OF KINGS, AND LORD OF LORDS.</p>
+id: REV/19/16
+next:
+  id: REV/19/17
+  number: '17'
+previous:
+  id: REV/19/15
+  number: '15'
+reference: 'Revelation 19:16'

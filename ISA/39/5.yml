@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 39:5" class="v">5</span>Then
+  said Isaiah to Hezekiah, Hear the word of the <span class="nd">LORD</span> of
+  hosts: </p>
+id: ISA/39/5
+next:
+  id: ISA/39/6
+  number: '6'
+previous:
+  id: ISA/39/4
+  number: '4'
+reference: 'Isaiah 39:5'

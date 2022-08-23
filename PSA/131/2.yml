@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 131:2"
+  class="v">2</span>Surely I have behaved and quieted myself, as a child that is
+  weaned of his mother: my soul <span class="add">is</span> even as a weaned
+  child.</p>
+id: PSA/131/2
+next:
+  id: PSA/131/3
+  number: '3'
+previous:
+  id: PSA/131/1
+  number: '1'
+reference: 'Psalms 131:2'

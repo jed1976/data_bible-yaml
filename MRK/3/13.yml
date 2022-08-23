@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 3:13" class="v">13</span>And
+  he goeth up into a mountain, and calleth <span class="add">unto him</span>
+  whom he would: and they came unto him. </p>
+id: MRK/3/13
+next:
+  id: MRK/3/14
+  number: '14'
+previous:
+  id: MRK/3/12
+  number: '12'
+reference: 'Mark 3:13'

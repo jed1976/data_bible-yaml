@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 15:33"
+  class="v">33</span>And after they had tarried <span class="add">there</span> a
+  space, they were let go in peace from the brethren unto the apostles. </p>
+id: ACT/15/33
+next:
+  id: ACT/15/34
+  number: '34'
+previous:
+  id: ACT/15/32
+  number: '32'
+reference: 'Acts 15:33'

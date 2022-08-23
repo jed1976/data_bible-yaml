@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2TI 2:13" class="v">13</span>If
+  we believe not, <span class="add">yet</span> he abideth faithful: he cannot
+  deny himself. </p>
+id: 2TI/2/13
+next:
+  id: 2TI/2/14
+  number: '14'
+previous:
+  id: 2TI/2/12
+  number: '12'
+reference: '2 Timothy 2:13'

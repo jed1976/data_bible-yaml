@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NAM 2:10" class="v">10</span>She
+  is empty, and void, and waste: and the heart melteth, and the knees smite
+  together, and much pain <span class="add">is</span> in all loins, and the
+  faces of them all gather blackness.</p>
+id: NAM/2/10
+next:
+  id: NAM/2/11
+  number: '11'
+previous:
+  id: NAM/2/9
+  number: '9'
+reference: 'Nahum 2:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 8:5" class="v">5</span>And as
+  I was considering, behold, an he goat came from the west on the face of the
+  whole earth, and touched not the ground: and the goat <span
+  class="add">had</span> a notable horn between his eyes. </p>
+id: DAN/8/5
+next:
+  id: DAN/8/6
+  number: '6'
+previous:
+  id: DAN/8/4
+  number: '4'
+reference: 'Daniel 8:5'

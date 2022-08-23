@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 41:10"
+  class="v">10</span>Pharaoh was wroth with his servants, and put me in ward in
+  the captain of the guard’s house, <span class="add">both</span> me and the
+  chief baker: </p>
+id: GEN/41/10
+next:
+  id: GEN/41/11
+  number: '11'
+previous:
+  id: GEN/41/9
+  number: '9'
+reference: 'Genesis 41:10'

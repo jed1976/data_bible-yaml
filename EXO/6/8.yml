@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 6:8" class="v">8</span>And I
+  will bring you in unto the land, concerning the which I did swear to give it
+  to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I
+  <span class="add">am</span> the <span class="nd">LORD</span>.</p>
+id: EXO/6/8
+next:
+  id: EXO/6/9
+  number: '9'
+previous:
+  id: EXO/6/7
+  number: '7'
+reference: 'Exodus 6:8'

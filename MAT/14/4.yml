@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 14:4" class="v">4</span>For
+  John said unto him, It is not lawful for thee to have her. </p>
+id: MAT/14/4
+next:
+  id: MAT/14/5
+  number: '5'
+previous:
+  id: MAT/14/3
+  number: '3'
+reference: 'Matthew 14:4'

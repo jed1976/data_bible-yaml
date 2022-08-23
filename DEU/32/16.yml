@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 32:16"
+  class="v">16</span>They provoked him to jealousy with strange <span
+  class="add">gods</span>, with abominations provoked they him to anger. </p>
+id: DEU/32/16
+next:
+  id: DEU/32/17
+  number: '17'
+previous:
+  id: DEU/32/15
+  number: '15'
+reference: 'Deuteronomy 32:16'

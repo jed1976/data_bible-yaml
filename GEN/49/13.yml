@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 49:13" class="v">13</span>¶
+  Zebulun shall dwell at the haven of the sea; and he <span class="add">shall
+  be</span> for an haven of ships; and his border <span class="add">shall
+  be</span> unto Zidon.</p>
+id: GEN/49/13
+next:
+  id: GEN/49/14
+  number: '14'
+previous:
+  id: GEN/49/12
+  number: '12'
+reference: 'Genesis 49:13'

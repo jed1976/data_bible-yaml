@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 25:26"
+  class="v">26</span>And if the man have none to redeem it, and himself be able
+  to redeem it; </p>
+id: LEV/25/26
+next:
+  id: LEV/25/27
+  number: '27'
+previous:
+  id: LEV/25/25
+  number: '25'
+reference: 'Leviticus 25:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 18:10"
+  class="v">10</span>The snare <span class="add">is</span> laid for him in the
+  ground, and a trap for him in the way.</p>
+id: JOB/18/10
+next:
+  id: JOB/18/11
+  number: '11'
+previous:
+  id: JOB/18/9
+  number: '9'
+reference: 'Job 18:10'

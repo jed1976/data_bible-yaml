@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 13:10"
+  class="v">10</span>Jesus saith to him, <span class="wj">He that is washed
+  needeth not save to wash <span class="add">his</span> feet, but is clean every
+  whit: and ye are clean, but not all.</span> </p>
+id: JHN/13/10
+next:
+  id: JHN/13/11
+  number: '11'
+previous:
+  id: JHN/13/9
+  number: '9'
+reference: 'John 13:10'

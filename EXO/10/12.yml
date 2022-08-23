@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 10:12" class="v">12</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Stretch out thine hand
+  over the land of Egypt for the locusts, that they may come up upon the land of
+  Egypt, and eat every herb of the land, <span class="add">even</span> all that
+  the hail hath left. </p>
+id: EXO/10/12
+next:
+  id: EXO/10/13
+  number: '13'
+previous:
+  id: EXO/10/11
+  number: '11'
+reference: 'Exodus 10:12'

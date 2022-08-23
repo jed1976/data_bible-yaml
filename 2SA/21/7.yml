@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 21:7" class="v">7</span>But
+  the king spared Mephibosheth, the son of Jonathan the son of Saul, because of
+  the <span class="nd">LORD’s</span> oath that <span class="add">was</span>
+  between them, between David and Jonathan the son of Saul. </p>
+id: 2SA/21/7
+next:
+  id: 2SA/21/8
+  number: '8'
+previous:
+  id: 2SA/21/6
+  number: '6'
+reference: '2 Samuel 21:7'

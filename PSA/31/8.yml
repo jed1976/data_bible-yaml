@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 31:8" class="v">8</span>And
+  hast not shut me up into the hand of the enemy: thou hast set my feet in a
+  large room.</p>
+id: PSA/31/8
+next:
+  id: PSA/31/9
+  number: '9'
+previous:
+  id: PSA/31/7
+  number: '7'
+reference: 'Psalms 31:8'

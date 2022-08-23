@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 11:8" class="v">8</span>And
+  after him Gabbai, Sallai, nine hundred twenty and eight. </p>
+id: NEH/11/8
+next:
+  id: NEH/11/9
+  number: '9'
+previous:
+  id: NEH/11/7
+  number: '7'
+reference: 'Nehemiah 11:8'

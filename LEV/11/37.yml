@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LEV 11:37"
+  class="v">37</span>And if <span class="add">any part</span> of their carcase
+  fall upon any sowing seed which is to be sown, it <span class="add">shall
+  be</span> clean. </p>
+id: LEV/11/37
+next:
+  id: LEV/11/38
+  number: '38'
+previous:
+  id: LEV/11/36
+  number: '36'
+reference: 'Leviticus 11:37'

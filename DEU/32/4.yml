@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 32:4" class="v">4</span><span
+  class="add">He is</span> the Rock, his work <span class="add">is</span>
+  perfect: for all his ways <span class="add">are</span> judgment: a God of
+  truth and without iniquity, just and right <span class="add">is</span> he.
+  </p>
+id: DEU/32/4
+next:
+  id: DEU/32/5
+  number: '5'
+previous:
+  id: DEU/32/3
+  number: '3'
+reference: 'Deuteronomy 32:4'

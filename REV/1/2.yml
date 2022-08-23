@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="REV 1:2" class="v">2</span>Who
+  bare record of the word of God, and of the testimony of Jesus Christ, and of
+  all things that he saw. </p>
+id: REV/1/2
+next:
+  id: REV/1/3
+  number: '3'
+previous:
+  id: REV/1/1
+  number: '1'
+reference: 'Revelation 1:2'

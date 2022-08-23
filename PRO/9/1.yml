@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 9:1" class="v">1</span>Wisdom
+  hath builded her house, she hath hewn out her seven pillars: </p>
+id: PRO/9/1
+next:
+  id: PRO/9/2
+  number: '2'
+previous:
+  id: PRO/8/36
+  number: '36'
+reference: 'Proverbs 9:1'

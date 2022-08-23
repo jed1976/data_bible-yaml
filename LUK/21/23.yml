@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 21:23"
+  class="v">23</span><span class="wj">But woe unto them that are with child, and
+  to them that give suck, in those days! for there shall be great distress in
+  the land, and wrath upon this people.</span> </p>
+id: LUK/21/23
+next:
+  id: LUK/21/24
+  number: '24'
+previous:
+  id: LUK/21/22
+  number: '22'
+reference: 'Luke 21:23'

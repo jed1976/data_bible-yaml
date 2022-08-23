@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 6:11"
+  class="v">11</span>For, behold, the <span class="nd">LORD</span> commandeth,
+  and he will smite the great house with breaches, and the little house with
+  clefts.</p>
+id: AMO/6/11
+next:
+  id: AMO/6/12
+  number: '12'
+previous:
+  id: AMO/6/10
+  number: '10'
+reference: 'Amos 6:11'

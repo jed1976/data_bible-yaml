@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 24:14" class="v">14</span>So
+  <span class="add">shall</span> the knowledge of wisdom <span
+  class="add">be</span> unto thy soul: when thou hast found <span
+  class="add">it</span>, then there shall be a reward, and thy expectation shall
+  not be cut off.</p>
+id: PRO/24/14
+next:
+  id: PRO/24/15
+  number: '15'
+previous:
+  id: PRO/24/13
+  number: '13'
+reference: 'Proverbs 24:14'

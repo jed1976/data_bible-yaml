@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 6:20" class="v">20</span>Of
+  fowls after their kind, and of cattle after their kind, of every creeping
+  thing of the earth after his kind, two of every <span class="add">sort</span>
+  shall come unto thee, to keep <span class="add">them</span> alive. </p>
+id: GEN/6/20
+next:
+  id: GEN/6/21
+  number: '21'
+previous:
+  id: GEN/6/19
+  number: '19'
+reference: 'Genesis 6:20'

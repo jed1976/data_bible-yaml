@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 10:23"
+  class="v">23</span><span class="add">It is</span> as sport to a fool to do
+  mischief: but a man of understanding hath wisdom.</p>
+id: PRO/10/23
+next:
+  id: PRO/10/24
+  number: '24'
+previous:
+  id: PRO/10/22
+  number: '22'
+reference: 'Proverbs 10:23'

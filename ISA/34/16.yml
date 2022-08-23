@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 34:16" class="v">16</span>¶
+  Seek ye out of the book of the <span class="nd">LORD</span>, and read: no one
+  of these shall fail, none shall want her mate: for my mouth it hath commanded,
+  and his spirit it hath gathered them. </p>
+id: ISA/34/16
+next:
+  id: ISA/34/17
+  number: '17'
+previous:
+  id: ISA/34/15
+  number: '15'
+reference: 'Isaiah 34:16'

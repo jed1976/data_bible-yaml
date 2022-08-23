@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 5:16" class="v">16</span>¶
+  And he withdrew himself into the wilderness, and prayed. </p>
+id: LUK/5/16
+next:
+  id: LUK/5/17
+  number: '17'
+previous:
+  id: LUK/5/15
+  number: '15'
+reference: 'Luke 5:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 2:5" class="v">5</span>¶ And
+  if thy oblation <span class="add">be</span> a meat offering <span
+  class="add">baken</span> in a pan, it shall be <span class="add">of</span>
+  fine flour unleavened, mingled with oil. </p>
+id: LEV/2/5
+next:
+  id: LEV/2/6
+  number: '6'
+previous:
+  id: LEV/2/4
+  number: '4'
+reference: 'Leviticus 2:5'

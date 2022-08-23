@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 12:15"
+  class="v">15</span>Fear not, daughter of Sion: behold, thy King cometh,
+  sitting on an ass’s colt. </p>
+id: JHN/12/15
+next:
+  id: JHN/12/16
+  number: '16'
+previous:
+  id: JHN/12/14
+  number: '14'
+reference: 'John 12:15'

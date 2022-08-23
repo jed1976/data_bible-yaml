@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 1:11" class="v">11</span>¶
+  Wherefore Nathan spake unto Bath-sheba the mother of Solomon, saying, Hast
+  thou not heard that Adonijah the son of Haggith doth reign, and David our lord
+  knoweth <span class="add">it</span> not? </p>
+id: 1KI/1/11
+next:
+  id: 1KI/1/12
+  number: '12'
+previous:
+  id: 1KI/1/10
+  number: '10'
+reference: '1 Kings 1:11'

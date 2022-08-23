@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 20:23"
+  class="v">23</span>And the <span class="nd">LORD</span> spake unto Moses and
+  Aaron in mount Hor, by the coast of the land of Edom, saying, </p>
+id: NUM/20/23
+next:
+  id: NUM/20/24
+  number: '24'
+previous:
+  id: NUM/20/22
+  number: '22'
+reference: 'Numbers 20:23'

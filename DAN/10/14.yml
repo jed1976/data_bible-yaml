@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DAN 10:14"
+  class="v">14</span>Now I am come to make thee understand what shall befall thy
+  people in the latter days: for yet the vision <span class="add">is</span> for
+  <span class="add">many</span> days. </p>
+id: DAN/10/14
+next:
+  id: DAN/10/15
+  number: '15'
+previous:
+  id: DAN/10/13
+  number: '13'
+reference: 'Daniel 10:14'

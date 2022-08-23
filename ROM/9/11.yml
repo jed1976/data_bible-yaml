@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 9:11"
+  class="v">11</span>(For <span class="add">the children</span> being not yet
+  born, neither having done any good or evil, that the purpose of God according
+  to election might stand, not of works, but of him that calleth;) </p>
+id: ROM/9/11
+next:
+  id: ROM/9/12
+  number: '12'
+previous:
+  id: ROM/9/10
+  number: '10'
+reference: 'Romans 9:11'

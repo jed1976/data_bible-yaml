@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 1:37"
+  class="v">37</span>Those that were numbered of them, <span
+  class="add">even</span> of the tribe of Benjamin, <span
+  class="add">were</span> thirty and five thousand and four hundred.</p>
+id: NUM/1/37
+next:
+  id: NUM/1/38
+  number: '38'
+previous:
+  id: NUM/1/36
+  number: '36'
+reference: 'Numbers 1:37'

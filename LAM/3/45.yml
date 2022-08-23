@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="LAM 3:45"
+  class="v">45</span>Thou hast made us <span class="add">as</span> the
+  offscouring and refuse in the midst of the people. </p>
+id: LAM/3/45
+next:
+  id: LAM/3/46
+  number: '46'
+previous:
+  id: LAM/3/44
+  number: '44'
+reference: 'Lamentations 3:45'

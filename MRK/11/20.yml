@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 11:20" class="v">20</span>¶
+  And in the morning, as they passed by, they saw the fig tree dried up from the
+  roots. </p>
+id: MRK/11/20
+next:
+  id: MRK/11/21
+  number: '21'
+previous:
+  id: MRK/11/19
+  number: '19'
+reference: 'Mark 11:20'

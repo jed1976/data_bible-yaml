@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="MAT 13:56"
+  class="v">56</span>And his sisters, are they not all with us? Whence then hath
+  this <span class="add">man</span> all these things? </p>
+id: MAT/13/56
+next:
+  id: MAT/13/57
+  number: '57'
+previous:
+  id: MAT/13/55
+  number: '55'
+reference: 'Matthew 13:56'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 23:10" class="v">10</span>He
+  arose, and smote the Philistines until his hand was weary, and his hand clave
+  unto the sword: and the <span class="nd">LORD</span> wrought a great victory
+  that day; and the people returned after him only to spoil. </p>
+id: 2SA/23/10
+next:
+  id: 2SA/23/11
+  number: '11'
+previous:
+  id: 2SA/23/9
+  number: '9'
+reference: '2 Samuel 23:10'

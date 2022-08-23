@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 22:24"
+  class="v">24</span>The chief captain commanded him to be brought into the
+  castle, and bade that he should be examined by scourging; that he might know
+  wherefore they cried so against him. </p>
+id: ACT/22/24
+next:
+  id: ACT/22/25
+  number: '25'
+previous:
+  id: ACT/22/23
+  number: '23'
+reference: 'Acts 22:24'

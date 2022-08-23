@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 24:18"
+  class="v">18</span><span class="wj">Neither let him which is in the field
+  return back to take his clothes.</span> </p>
+id: MAT/24/18
+next:
+  id: MAT/24/19
+  number: '19'
+previous:
+  id: MAT/24/17
+  number: '17'
+reference: 'Matthew 24:18'

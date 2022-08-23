@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="2KI 9:27" class="v">27</span>¶
+  But when Ahaziah the king of Judah saw <span class="add">this</span>, he fled
+  by the way of the garden house. And Jehu followed after him, and said, Smite
+  him also in the chariot. <span class="add">And they did so</span> at the going
+  up to Gur, which <span class="add">is</span> by Ibleam. And he fled to
+  Megiddo, and died there. </p>
+id: 2KI/9/27
+next:
+  id: 2KI/9/28
+  number: '28'
+previous:
+  id: 2KI/9/26
+  number: '26'
+reference: '2 Kings 9:27'

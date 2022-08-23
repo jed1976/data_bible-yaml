@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 40:20" class="v">20</span>He
+  that <span class="add">is</span> so impoverished that he hath no oblation
+  chooseth a tree <span class="add">that</span> will not rot; he seeketh unto
+  him a cunning workman to prepare a graven image, <span class="add">that</span>
+  shall not be moved. </p>
+id: ISA/40/20
+next:
+  id: ISA/40/21
+  number: '21'
+previous:
+  id: ISA/40/19
+  number: '19'
+reference: 'Isaiah 40:20'

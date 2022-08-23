@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1TI 5:18" class="v">18</span>For
+  the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn.
+  And, The labourer <span class="add">is</span> worthy of his reward. </p>
+id: 1TI/5/18
+next:
+  id: 1TI/5/19
+  number: '19'
+previous:
+  id: 1TI/5/17
+  number: '17'
+reference: '1 Timothy 5:18'

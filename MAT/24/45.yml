@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 24:45"
+  class="v">45</span><span class="wj">Who then is a faithful and wise servant,
+  whom his lord hath made ruler over his household, to give them meat in due
+  season?</span> </p>
+id: MAT/24/45
+next:
+  id: MAT/24/46
+  number: '46'
+previous:
+  id: MAT/24/44
+  number: '44'
+reference: 'Matthew 24:45'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JER 9:17" class="v">17</span>¶
+  Thus saith the <span class="nd">LORD</span> of hosts, Consider ye, and call
+  for the mourning women, that they may come; and send for cunning <span
+  class="add">women</span>, that they may come: </p>
+id: JER/9/17
+next:
+  id: JER/9/18
+  number: '18'
+previous:
+  id: JER/9/16
+  number: '16'
+reference: 'Jeremiah 9:17'

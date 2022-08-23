@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 26:3" class="v">3</span>Then
+  assembled together the chief priests, and the scribes, and the elders of the
+  people, unto the palace of the high priest, who was called Caiaphas, </p>
+id: MAT/26/3
+next:
+  id: MAT/26/4
+  number: '4'
+previous:
+  id: MAT/26/2
+  number: '2'
+reference: 'Matthew 26:3'

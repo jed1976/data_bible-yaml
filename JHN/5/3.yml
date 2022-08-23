@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 5:3" class="v">3</span>In
+  these lay a great multitude of impotent folk, of blind, halt, withered,
+  waiting for the moving of the water. </p>
+id: JHN/5/3
+next:
+  id: JHN/5/4
+  number: '4'
+previous:
+  id: JHN/5/2
+  number: '2'
+reference: 'John 5:3'

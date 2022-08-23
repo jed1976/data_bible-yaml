@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 50:23"
+  class="v">23</span>And Joseph saw Ephraim’s children of the third <span
+  class="add">generation:</span> the children also of Machir the son of Manasseh
+  were brought up upon Joseph’s knees. </p>
+id: GEN/50/23
+next:
+  id: GEN/50/24
+  number: '24'
+previous:
+  id: GEN/50/22
+  number: '22'
+reference: 'Genesis 50:23'

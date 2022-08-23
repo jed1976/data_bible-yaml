@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 7:4" class="v">4</span>They
+  <span class="add">are</span> all adulterers, as an oven heated by the baker,
+  <span class="add">who</span> ceaseth from raising after he hath kneaded the
+  dough, until it be leavened. </p>
+id: HOS/7/4
+next:
+  id: HOS/7/5
+  number: '5'
+previous:
+  id: HOS/7/3
+  number: '3'
+reference: 'Hosea 7:4'

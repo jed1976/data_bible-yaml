@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 4:12" class="v">12</span>And
+  they shall take all the instruments of ministry, wherewith they minister in
+  the sanctuary, and put <span class="add">them</span> in a cloth of blue, and
+  cover them with a covering of badgers’ skins, and shall put <span
+  class="add">them</span> on a bar: </p>
+id: NUM/4/12
+next:
+  id: NUM/4/13
+  number: '13'
+previous:
+  id: NUM/4/11
+  number: '11'
+reference: 'Numbers 4:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 14:12"
+  class="v">12</span>And the priest shall take one he lamb, and offer him for a
+  trespass offering, and the log of oil, and wave them <span
+  class="add">for</span> a wave offering before the <span
+  class="nd">LORD</span>: </p>
+id: LEV/14/12
+next:
+  id: LEV/14/13
+  number: '13'
+previous:
+  id: LEV/14/11
+  number: '11'
+reference: 'Leviticus 14:12'

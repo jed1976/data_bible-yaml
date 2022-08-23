@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 95:7"
+  class="v">7</span>For he <span class="add">is</span> our God; and we <span
+  class="add">are</span> the people of his pasture, and the sheep of his hand.
+  To day if ye will hear his voice,</p>
+id: PSA/95/7
+next:
+  id: PSA/95/8
+  number: '8'
+previous:
+  id: PSA/95/6
+  number: '6'
+reference: 'Psalms 95:7'

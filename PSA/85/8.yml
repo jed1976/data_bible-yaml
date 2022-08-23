@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 85:8"
+  class="v">8</span>I will hear what God the <span class="nd">LORD</span> will
+  speak: for he will speak peace unto his people, and to his saints: but let
+  them not turn again to folly.</p>
+id: PSA/85/8
+next:
+  id: PSA/85/9
+  number: '9'
+previous:
+  id: PSA/85/7
+  number: '7'
+reference: 'Psalms 85:8'

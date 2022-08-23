@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="1KI 2:35" class="v">35</span>¶
+  And the king put Benaiah the son of Jehoiada in his room over the host: and
+  Zadok the priest did the king put in the room of Abiathar.</p>
+id: 1KI/2/35
+next:
+  id: 1KI/2/36
+  number: '36'
+previous:
+  id: 1KI/2/34
+  number: '34'
+reference: '1 Kings 2:35'

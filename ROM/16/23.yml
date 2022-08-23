@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 16:23"
+  class="v">23</span>Gaius mine host, and of the whole church, saluteth you.
+  Erastus the chamberlain of the city saluteth you, and Quartus a brother. </p>
+id: ROM/16/23
+next:
+  id: ROM/16/24
+  number: '24'
+previous:
+  id: ROM/16/22
+  number: '22'
+reference: 'Romans 16:23'

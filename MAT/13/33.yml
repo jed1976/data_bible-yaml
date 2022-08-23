@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 13:33" class="v">33</span>¶
+  Another parable spake he unto them; <span class="wj">The kingdom of heaven is
+  like unto leaven, which a woman took, and hid in three measures of meal, till
+  the whole was leavened.</span> </p>
+id: MAT/13/33
+next:
+  id: MAT/13/34
+  number: '34'
+previous:
+  id: MAT/13/32
+  number: '32'
+reference: 'Matthew 13:33'

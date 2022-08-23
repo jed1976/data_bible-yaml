@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="ACT 7:47" class="v">47</span>But
+  Solomon built him an house. </p>
+id: ACT/7/47
+next:
+  id: ACT/7/48
+  number: '48'
+previous:
+  id: ACT/7/46
+  number: '46'
+reference: 'Acts 7:47'

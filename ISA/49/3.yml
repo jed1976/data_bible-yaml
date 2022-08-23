@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 49:3" class="v">3</span>And
+  said unto me, Thou <span class="add">art</span> my servant, O Israel, in whom
+  I will be glorified. </p>
+id: ISA/49/3
+next:
+  id: ISA/49/4
+  number: '4'
+previous:
+  id: ISA/49/2
+  number: '2'
+reference: 'Isaiah 49:3'

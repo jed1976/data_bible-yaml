@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 18:8" class="v">8</span>Jesus
+  answered, <span class="wj">I have told you that I am <span
+  class="add">he</span>: if therefore ye seek me, let these go their way:</span>
+  </p>
+id: JHN/18/8
+next:
+  id: JHN/18/9
+  number: '9'
+previous:
+  id: JHN/18/7
+  number: '7'
+reference: 'John 18:8'

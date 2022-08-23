@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2KI 15:16" class="v">16</span>¶
+  Then Menahem smote Tiphsah, and all that <span class="add">were</span>
+  therein, and the coasts thereof from Tirzah: because they opened not <span
+  class="add">to him</span>, therefore he smote <span class="add">it; and</span>
+  all the women therein that were with child he ripped up. </p>
+id: 2KI/15/16
+next:
+  id: 2KI/15/17
+  number: '17'
+previous:
+  id: 2KI/15/15
+  number: '15'
+reference: '2 Kings 15:16'

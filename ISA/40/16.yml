@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 40:16"
+  class="v">16</span>And Lebanon <span class="add">is</span> not sufficient to
+  burn, nor the beasts thereof sufficient for a burnt offering. </p>
+id: ISA/40/16
+next:
+  id: ISA/40/17
+  number: '17'
+previous:
+  id: ISA/40/15
+  number: '15'
+reference: 'Isaiah 40:16'

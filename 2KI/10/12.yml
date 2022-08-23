@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 10:12" class="v">12</span>¶
+  And he arose and departed, and came to Samaria. <span class="add">And</span>
+  as he <span class="add">was</span> at the shearing house in the way, </p>
+id: 2KI/10/12
+next:
+  id: 2KI/10/13
+  number: '13'
+previous:
+  id: 2KI/10/11
+  number: '11'
+reference: '2 Kings 10:12'

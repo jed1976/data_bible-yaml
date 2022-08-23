@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 22:3" class="v">3</span>If
+  the sun be risen upon him, <span class="add">there shall be</span> blood <span
+  class="add">shed</span> for him; <span class="add">for</span> he should make
+  full restitution; if he have nothing, then he shall be sold for his theft.
+  </p>
+id: EXO/22/3
+next:
+  id: EXO/22/4
+  number: '4'
+previous:
+  id: EXO/22/2
+  number: '2'
+reference: 'Exodus 22:3'

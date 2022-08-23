@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 30:30"
+  class="v">30</span>For <span class="add">it was</span> little which thou hadst
+  before I <span class="add">came</span>, and it is <span class="add">now</span>
+  increased unto a multitude; and the <span class="nd">LORD</span> hath blessed
+  thee since my coming: and now when shall I provide for mine own house also?
+  </p>
+id: GEN/30/30
+next:
+  id: GEN/30/31
+  number: '31'
+previous:
+  id: GEN/30/29
+  number: '29'
+reference: 'Genesis 30:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 18:33"
+  class="v">33</span><span class="wj">Shouldest not thou also have had
+  compassion on thy fellowservant, even as I had pity on thee?</span> </p>
+id: MAT/18/33
+next:
+  id: MAT/18/34
+  number: '34'
+previous:
+  id: MAT/18/32
+  number: '32'
+reference: 'Matthew 18:33'

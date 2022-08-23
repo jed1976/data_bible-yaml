@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="DEU 32:44" class="v">44</span>¶
+  And Moses came and spake all the words of this song in the ears of the people,
+  he, and Hoshea the son of Nun. </p>
+id: DEU/32/44
+next:
+  id: DEU/32/45
+  number: '45'
+previous:
+  id: DEU/32/43
+  number: '43'
+reference: 'Deuteronomy 32:44'

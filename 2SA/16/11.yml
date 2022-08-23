@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 16:11"
+  class="v">11</span>And David said to Abishai, and to all his servants, Behold,
+  my son, which came forth of my bowels, seeketh my life: how much more now
+  <span class="add">may this</span> Benjamite <span class="add">do it</span>?
+  let him alone, and let him curse; for the <span class="nd">LORD</span> hath
+  bidden him. </p>
+id: 2SA/16/11
+next:
+  id: 2SA/16/12
+  number: '12'
+previous:
+  id: 2SA/16/10
+  number: '10'
+reference: '2 Samuel 16:11'

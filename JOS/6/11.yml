@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 6:11" class="v">11</span>So
+  the ark of the <span class="nd">LORD</span> compassed the city, going about
+  <span class="add">it</span> once: and they came into the camp, and lodged in
+  the camp.</p>
+id: JOS/6/11
+next:
+  id: JOS/6/12
+  number: '12'
+previous:
+  id: JOS/6/10
+  number: '10'
+reference: 'Joshua 6:11'

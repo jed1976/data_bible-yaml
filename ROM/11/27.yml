@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ROM 11:27"
+  class="v">27</span>For this <span class="add">is</span> my covenant unto them,
+  when I shall take away their sins. </p>
+id: ROM/11/27
+next:
+  id: ROM/11/28
+  number: '28'
+previous:
+  id: ROM/11/26
+  number: '26'
+reference: 'Romans 11:27'

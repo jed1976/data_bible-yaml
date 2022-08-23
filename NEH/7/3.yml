@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 7:3" class="v">3</span>And I
+  said unto them, Let not the gates of Jerusalem be opened until the sun be hot;
+  and while they stand by, let them shut the doors, and bar <span
+  class="add">them:</span> and appoint watches of the inhabitants of Jerusalem,
+  every one in his watch, and every one <span class="add">to be</span> over
+  against his house. </p>
+id: NEH/7/3
+next:
+  id: NEH/7/4
+  number: '4'
+previous:
+  id: NEH/7/2
+  number: '2'
+reference: 'Nehemiah 7:3'

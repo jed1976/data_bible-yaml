@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 12:10"
+  class="v">10</span>Then died Ibzan, and was buried at Beth-lehem.</p>
+id: JDG/12/10
+next:
+  id: JDG/12/11
+  number: '11'
+previous:
+  id: JDG/12/9
+  number: '9'
+reference: 'Judges 12:10'

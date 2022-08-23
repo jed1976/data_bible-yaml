@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 33:18"
+  class="v">18</span>Behold, the eye of the <span class="nd">LORD</span> <span
+  class="add">is</span> upon them that fear him, upon them that hope in his
+  mercy;</p>
+id: PSA/33/18
+next:
+  id: PSA/33/19
+  number: '19'
+previous:
+  id: PSA/33/17
+  number: '17'
+reference: 'Psalms 33:18'

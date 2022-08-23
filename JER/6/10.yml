@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 6:10" class="v">10</span>To
+  whom shall I speak, and give warning, that they may hear? behold, their ear
+  <span class="add">is</span> uncircumcised, and they cannot hearken: behold,
+  the word of the <span class="nd">LORD</span> is unto them a reproach; they
+  have no delight in it. </p>
+id: JER/6/10
+next:
+  id: JER/6/11
+  number: '11'
+previous:
+  id: JER/6/9
+  number: '9'
+reference: 'Jeremiah 6:10'

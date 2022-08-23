@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 15:17"
+  class="v">17</span>And Othniel the son of Kenaz, the brother of Caleb, took
+  it: and he gave him Achsah his daughter to wife. </p>
+id: JOS/15/17
+next:
+  id: JOS/15/18
+  number: '18'
+previous:
+  id: JOS/15/16
+  number: '16'
+reference: 'Joshua 15:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 11:11" class="v">11</span>I
+  say then, Have they stumbled that they should fall? God forbid: but <span
+  class="add">rather</span> through their fall salvation <span class="add">is
+  come</span> unto the Gentiles, for to provoke them to jealousy. </p>
+id: ROM/11/11
+next:
+  id: ROM/11/12
+  number: '12'
+previous:
+  id: ROM/11/10
+  number: '10'
+reference: 'Romans 11:11'

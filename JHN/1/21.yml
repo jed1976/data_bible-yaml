@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 1:21" class="v">21</span>And
+  they asked him, What then? Art thou Elias? And he saith, I am not. Art thou
+  that prophet? And he answered, No. </p>
+id: JHN/1/21
+next:
+  id: JHN/1/22
+  number: '22'
+previous:
+  id: JHN/1/20
+  number: '20'
+reference: 'John 1:21'

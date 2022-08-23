@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 17:7" class="v">7</span>¶ And
+  the coast of Manasseh was from Asher to Michmethah, that <span
+  class="add">lieth</span> before Shechem; and the border went along on the
+  right hand unto the inhabitants of En-tappuah. </p>
+id: JOS/17/7
+next:
+  id: JOS/17/8
+  number: '8'
+previous:
+  id: JOS/17/6
+  number: '6'
+reference: 'Joshua 17:7'

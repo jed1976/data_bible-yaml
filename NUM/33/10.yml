@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 33:10"
+  class="v">10</span>And they removed from Elim, and encamped by the Red sea.
+  </p>
+id: NUM/33/10
+next:
+  id: NUM/33/11
+  number: '11'
+previous:
+  id: NUM/33/9
+  number: '9'
+reference: 'Numbers 33:10'

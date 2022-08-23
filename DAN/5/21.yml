@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 5:21" class="v">21</span>And
+  he was driven from the sons of men; and his heart was made like the beasts,
+  and his dwelling <span class="add">was</span> with the wild asses: they fed
+  him with grass like oxen, and his body was wet with the dew of heaven; till he
+  knew that the most high God ruled in the kingdom of men, and <span
+  class="add">that</span> he appointeth over it whomsoever he will. </p>
+id: DAN/5/21
+next:
+  id: DAN/5/22
+  number: '22'
+previous:
+  id: DAN/5/20
+  number: '20'
+reference: 'Daniel 5:21'

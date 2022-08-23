@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 4:4" class="v">4</span>¶ Come
+  to Beth-el, and transgress; at Gilgal multiply transgression; and bring your
+  sacrifices every morning, <span class="add">and</span> your tithes after three
+  years: </p>
+id: AMO/4/4
+next:
+  id: AMO/4/5
+  number: '5'
+previous:
+  id: AMO/4/3
+  number: '3'
+reference: 'Amos 4:4'

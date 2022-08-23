@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 28:1" class="v">1</span>And
+  Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou
+  shalt not take a wife of the daughters of Canaan. </p>
+id: GEN/28/1
+next:
+  id: GEN/28/2
+  number: '2'
+previous:
+  id: GEN/27/46
+  number: '46'
+reference: 'Genesis 28:1'

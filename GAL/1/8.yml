@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GAL 1:8" class="v">8</span>But
+  though we, or an angel from heaven, preach any other gospel unto you than that
+  which we have preached unto you, let him be accursed. </p>
+id: GAL/1/8
+next:
+  id: GAL/1/9
+  number: '9'
+previous:
+  id: GAL/1/7
+  number: '7'
+reference: 'Galatians 1:8'

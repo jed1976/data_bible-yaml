@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 16:19"
+  class="v">19</span>Better <span class="add">it is to be</span> of an humble
+  spirit with the lowly, than to divide the spoil with the proud. </p>
+id: PRO/16/19
+next:
+  id: PRO/16/20
+  number: '20'
+previous:
+  id: PRO/16/18
+  number: '18'
+reference: 'Proverbs 16:19'

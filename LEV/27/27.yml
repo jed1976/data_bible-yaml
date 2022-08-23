@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LEV 27:27"
+  class="v">27</span>And if <span class="add">it be</span> of an unclean beast,
+  then he shall redeem <span class="add">it</span> according to thine
+  estimation, and shall add a fifth <span class="add">part</span> of it thereto:
+  or if it be not redeemed, then it shall be sold according to thy estimation.
+  </p>
+id: LEV/27/27
+next:
+  id: LEV/27/28
+  number: '28'
+previous:
+  id: LEV/27/26
+  number: '26'
+reference: 'Leviticus 27:27'

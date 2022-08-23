@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 12:20"
+  class="v">20</span><span class="wj">But God said unto him, <span
+  class="add">Thou</span> fool, this night thy soul shall be required of thee:
+  then whose shall those things be, which thou hast provided?</span> </p>
+id: LUK/12/20
+next:
+  id: LUK/12/21
+  number: '21'
+previous:
+  id: LUK/12/19
+  number: '19'
+reference: 'Luke 12:20'

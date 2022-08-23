@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EZR 2:18" class="v">18</span>The
+  children of Jorah, an hundred and twelve. </p>
+id: EZR/2/18
+next:
+  id: EZR/2/19
+  number: '19'
+previous:
+  id: EZR/2/17
+  number: '17'
+reference: 'Ezra 2:18'

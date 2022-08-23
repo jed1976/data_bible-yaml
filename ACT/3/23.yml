@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 3:23" class="v">23</span>And
+  it shall come to pass, <span class="add">that</span> every soul, which will
+  not hear that prophet, shall be destroyed from among the people. </p>
+id: ACT/3/23
+next:
+  id: ACT/3/24
+  number: '24'
+previous:
+  id: ACT/3/22
+  number: '22'
+reference: 'Acts 3:23'

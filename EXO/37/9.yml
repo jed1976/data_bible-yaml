@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 37:9" class="v">9</span>And
+  the cherubims spread out <span class="add">their</span> wings on high, <span
+  class="add">and</span> covered with their wings over the mercy seat, with
+  their faces one to another; <span class="add">even</span> to the mercy
+  seatward were the faces of the cherubims.</p>
+id: EXO/37/9
+next:
+  id: EXO/37/10
+  number: '10'
+previous:
+  id: EXO/37/8
+  number: '8'
+reference: 'Exodus 37:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 26:25"
+  class="v">25</span>And I will bring a sword upon you, that shall avenge the
+  quarrel of <span class="add">my</span> covenant: and when ye are gathered
+  together within your cities, I will send the pestilence among you; and ye
+  shall be delivered into the hand of the enemy. </p>
+id: LEV/26/25
+next:
+  id: LEV/26/26
+  number: '26'
+previous:
+  id: LEV/26/24
+  number: '24'
+reference: 'Leviticus 26:25'

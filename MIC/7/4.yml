@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 7:4" class="v">4</span>The
+  best of them <span class="add">is</span> as a brier: the most upright <span
+  class="add">is sharper</span> than a thorn hedge: the day of thy watchmen
+  <span class="add">and</span> thy visitation cometh; now shall be their
+  perplexity.</p>
+id: MIC/7/4
+next:
+  id: MIC/7/5
+  number: '5'
+previous:
+  id: MIC/7/3
+  number: '3'
+reference: 'Micah 7:4'

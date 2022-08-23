@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 1:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses in the wilderness of Sinai,
+  in the tabernacle of the congregation, on the first <span
+  class="add">day</span> of the second month, in the second year after they were
+  come out of the land of Egypt, saying, </p>
+id: NUM/1/1
+next:
+  id: NUM/1/2
+  number: '2'
+previous:
+  id: NUM/intro/0
+  number: '0'
+reference: 'Numbers 1:1'

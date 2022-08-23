@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 7:10" class="v">10</span>And
+  delivered him out of all his afflictions, and gave him favour and wisdom in
+  the sight of Pharaoh king of Egypt; and he made him governor over Egypt and
+  all his house. </p>
+id: ACT/7/10
+next:
+  id: ACT/7/11
+  number: '11'
+previous:
+  id: ACT/7/9
+  number: '9'
+reference: 'Acts 7:10'

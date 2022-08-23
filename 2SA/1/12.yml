@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 1:12" class="v">12</span>And
+  they mourned, and wept, and fasted until even, for Saul, and for Jonathan his
+  son, and for the people of the <span class="nd">LORD</span>, and for the house
+  of Israel; because they were fallen by the sword.</p>
+id: 2SA/1/12
+next:
+  id: 2SA/1/13
+  number: '13'
+previous:
+  id: 2SA/1/11
+  number: '11'
+reference: '2 Samuel 1:12'

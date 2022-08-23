@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 31:30"
+  class="v">30</span>Favour <span class="add">is</span> deceitful, and beauty
+  <span class="add">is</span> vain: <span class="add">but</span> a woman <span
+  class="add">that</span> feareth the <span class="nd">LORD</span>, she shall be
+  praised. </p>
+id: PRO/31/30
+next:
+  id: PRO/31/31
+  number: '31'
+previous:
+  id: PRO/31/29
+  number: '29'
+reference: 'Proverbs 31:30'

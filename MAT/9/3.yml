@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 9:3" class="v">3</span>And,
+  behold, certain of the scribes said within themselves, This <span
+  class="add">man</span> blasphemeth. </p>
+id: MAT/9/3
+next:
+  id: MAT/9/4
+  number: '4'
+previous:
+  id: MAT/9/2
+  number: '2'
+reference: 'Matthew 9:3'

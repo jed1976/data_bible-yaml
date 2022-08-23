@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOL 1:13"
+  class="v">13</span>Gird yourselves, and lament, ye priests: howl, ye ministers
+  of the altar: come, lie all night in sackcloth, ye ministers of my God: for
+  the meat offering and the drink offering is withholden from the house of your
+  God.</p>
+id: JOL/1/13
+next:
+  id: JOL/1/14
+  number: '14'
+previous:
+  id: JOL/1/12
+  number: '12'
+reference: 'Joel 1:13'

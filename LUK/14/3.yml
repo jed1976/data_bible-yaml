@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 14:3" class="v">3</span>And
+  Jesus answering spake unto the lawyers and Pharisees, saying, <span
+  class="wj">Is it lawful to heal on the sabbath day?</span> </p>
+id: LUK/14/3
+next:
+  id: LUK/14/4
+  number: '4'
+previous:
+  id: LUK/14/2
+  number: '2'
+reference: 'Luke 14:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 12:4" class="v">4</span><span
+  class="wj">And again he sent unto them another servant; and at him they cast
+  stones, and wounded <span class="add">him</span> in the head, and sent <span
+  class="add">him</span> away shamefully handled.</span> </p>
+id: MRK/12/4
+next:
+  id: MRK/12/5
+  number: '5'
+previous:
+  id: MRK/12/3
+  number: '3'
+reference: 'Mark 12:4'

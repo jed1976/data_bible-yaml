@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 4:20" class="v">20</span>The
+  tree that thou sawest, which grew, and was strong, whose height reached unto
+  the heaven, and the sight thereof to all the earth; </p>
+id: DAN/4/20
+next:
+  id: DAN/4/21
+  number: '21'
+previous:
+  id: DAN/4/19
+  number: '19'
+reference: 'Daniel 4:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 10:33"
+  class="v">33</span><span class="wj">But a certain Samaritan, as he journeyed,
+  came where he was: and when he saw him, he had compassion <span class="add">on
+  him</span>,</span> </p>
+id: LUK/10/33
+next:
+  id: LUK/10/34
+  number: '34'
+previous:
+  id: LUK/10/32
+  number: '32'
+reference: 'Luke 10:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 11:10"
+  class="v">10</span>And this was done three times: and all were drawn up again
+  into heaven. </p>
+id: ACT/11/10
+next:
+  id: ACT/11/11
+  number: '11'
+previous:
+  id: ACT/11/9
+  number: '9'
+reference: 'Acts 11:10'

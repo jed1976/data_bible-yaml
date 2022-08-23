@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 16:3" class="v">3</span>Thou
+  shalt eat no leavened bread with it; seven days shalt thou eat unleavened
+  bread therewith, <span class="add">even</span> the bread of affliction; for
+  thou camest forth out of the land of Egypt in haste: that thou mayest remember
+  the day when thou camest forth out of the land of Egypt all the days of thy
+  life. </p>
+id: DEU/16/3
+next:
+  id: DEU/16/4
+  number: '4'
+previous:
+  id: DEU/16/2
+  number: '2'
+reference: 'Deuteronomy 16:3'

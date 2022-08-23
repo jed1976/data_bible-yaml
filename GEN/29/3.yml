@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 29:3" class="v">3</span>And
+  thither were all the flocks gathered: and they rolled the stone from the
+  well’s mouth, and watered the sheep, and put the stone again upon the well’s
+  mouth in his place. </p>
+id: GEN/29/3
+next:
+  id: GEN/29/4
+  number: '4'
+previous:
+  id: GEN/29/2
+  number: '2'
+reference: 'Genesis 29:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 39:3" class="v">3</span>My
+  heart was hot within me, while I was musing the fire burned: <span
+  class="add">then</span> spake I with my tongue,</p>
+id: PSA/39/3
+next:
+  id: PSA/39/4
+  number: '4'
+previous:
+  id: PSA/39/2
+  number: '2'
+reference: 'Psalms 39:3'

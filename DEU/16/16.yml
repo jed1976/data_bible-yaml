@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 16:16" class="v">16</span>¶
+  Three times in a year shall all thy males appear before the <span
+  class="nd">LORD</span> thy God in the place which he shall choose; in the
+  feast of unleavened bread, and in the feast of weeks, and in the feast of
+  tabernacles: and they shall not appear before the <span class="nd">LORD</span>
+  empty: </p>
+id: DEU/16/16
+next:
+  id: DEU/16/17
+  number: '17'
+previous:
+  id: DEU/16/15
+  number: '15'
+reference: 'Deuteronomy 16:16'

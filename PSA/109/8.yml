@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 109:8" class="v">8</span>Let
+  his days be few; <span class="add">and</span> let another take his office.</p>
+id: PSA/109/8
+next:
+  id: PSA/109/9
+  number: '9'
+previous:
+  id: PSA/109/7
+  number: '7'
+reference: 'Psalms 109:8'

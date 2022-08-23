@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 7:5" class="v">5</span>But
+  thus shall ye deal with them; ye shall destroy their altars, and break down
+  their images, and cut down their groves, and burn their graven images with
+  fire. </p>
+id: DEU/7/5
+next:
+  id: DEU/7/6
+  number: '6'
+previous:
+  id: DEU/7/4
+  number: '4'
+reference: 'Deuteronomy 7:5'

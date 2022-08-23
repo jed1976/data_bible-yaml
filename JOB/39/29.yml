@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 39:29"
+  class="v">29</span>From thence she seeketh the prey, <span
+  class="add">and</span> her eyes behold afar off. </p>
+id: JOB/39/29
+next:
+  id: JOB/39/30
+  number: '30'
+previous:
+  id: JOB/39/28
+  number: '28'
+reference: 'Job 39:29'

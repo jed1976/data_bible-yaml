@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CH 13:6" class="v">6</span>And
+  David went up, and all Israel, to Baalah, <span class="add">that is</span>, to
+  Kirjath-jearim, which <span class="add">belonged</span> to Judah, to bring up
+  thence the ark of God the <span class="nd">LORD</span>, that dwelleth <span
+  class="add">between</span> the cherubims, whose name is called <span
+  class="add">on it</span>. </p>
+id: 1CH/13/6
+next:
+  id: 1CH/13/7
+  number: '7'
+previous:
+  id: 1CH/13/5
+  number: '5'
+reference: '1 Chronicles 13:6'

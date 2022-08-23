@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 3:5" class="v">5</span>And
+  when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman
+  full of wrath. </p>
+id: EST/3/5
+next:
+  id: EST/3/6
+  number: '6'
+previous:
+  id: EST/3/4
+  number: '4'
+reference: 'Esther 3:5'

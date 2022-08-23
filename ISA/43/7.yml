@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 43:7" class="v">7</span><span
+  class="add">Even</span> every one that is called by my name: for I have
+  created him for my glory, I have formed him; yea, I have made him.</p>
+id: ISA/43/7
+next:
+  id: ISA/43/8
+  number: '8'
+previous:
+  id: ISA/43/6
+  number: '6'
+reference: 'Isaiah 43:7'

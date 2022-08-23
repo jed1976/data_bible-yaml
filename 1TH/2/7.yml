@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1TH 2:7" class="v">7</span>But we
+  were gentle among you, even as a nurse cherisheth her children: </p>
+id: 1TH/2/7
+next:
+  id: 1TH/2/8
+  number: '8'
+previous:
+  id: 1TH/2/6
+  number: '6'
+reference: '1 Thessalonians 2:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="26" data-sid="PSA 119:26"
+  class="v">26</span>I have declared my ways, and thou heardest me: teach me thy
+  statutes.</p>
+id: PSA/119/26
+next:
+  id: PSA/119/27
+  number: '27'
+previous:
+  id: PSA/119/25
+  number: '25'
+reference: 'Psalms 119:26'

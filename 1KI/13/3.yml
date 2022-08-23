@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 13:3" class="v">3</span>And
+  he gave a sign the same day, saying, This <span class="add">is</span> the sign
+  which the <span class="nd">LORD</span> hath spoken; Behold, the altar shall be
+  rent, and the ashes that <span class="add">are</span> upon it shall be poured
+  out. </p>
+id: 1KI/13/3
+next:
+  id: 1KI/13/4
+  number: '4'
+previous:
+  id: 1KI/13/2
+  number: '2'
+reference: '1 Kings 13:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 49:7"
+  class="v">7</span>Cursed <span class="add">be</span> their anger, for <span
+  class="add">it was</span> fierce; and their wrath, for it was cruel: I will
+  divide them in Jacob, and scatter them in Israel.</p>
+id: GEN/49/7
+next:
+  id: GEN/49/8
+  number: '8'
+previous:
+  id: GEN/49/6
+  number: '6'
+reference: 'Genesis 49:7'

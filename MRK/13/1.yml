@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 13:1" class="v">1</span>And
+  as he went out of the temple, one of his disciples saith unto him, Master, see
+  what manner of stones and what buildings <span class="add">are here</span>!
+  </p>
+id: MRK/13/1
+next:
+  id: MRK/13/2
+  number: '2'
+previous:
+  id: MRK/12/44
+  number: '44'
+reference: 'Mark 13:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 5:26" class="v">26</span>And
+  had suffered many things of many physicians, and had spent all that she had,
+  and was nothing bettered, but rather grew worse, </p>
+id: MRK/5/26
+next:
+  id: MRK/5/27
+  number: '27'
+previous:
+  id: MRK/5/25
+  number: '25'
+reference: 'Mark 5:26'

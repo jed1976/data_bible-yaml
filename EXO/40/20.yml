@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 40:20" class="v">20</span>¶
+  And he took and put the testimony into the ark, and set the staves on the ark,
+  and put the mercy seat above upon the ark: </p>
+id: EXO/40/20
+next:
+  id: EXO/40/21
+  number: '21'
+previous:
+  id: EXO/40/19
+  number: '19'
+reference: 'Exodus 40:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LAM 5:8"
+  class="v">8</span>Servants have ruled over us: <span class="add">there
+  is</span> none that doth deliver <span class="add">us</span> out of their
+  hand. </p>
+id: LAM/5/8
+next:
+  id: LAM/5/9
+  number: '9'
+previous:
+  id: LAM/5/7
+  number: '7'
+reference: 'Lamentations 5:8'

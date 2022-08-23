@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 10:11"
+  class="v">11</span>And he saith unto them, <span class="wj">Whosoever shall
+  put away his wife, and marry another, committeth adultery against her.</span>
+  </p>
+id: MRK/10/11
+next:
+  id: MRK/10/12
+  number: '12'
+previous:
+  id: MRK/10/10
+  number: '10'
+reference: 'Mark 10:11'

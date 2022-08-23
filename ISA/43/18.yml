@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 43:18" class="v">18</span>¶
+  Remember ye not the former things, neither consider the things of old. </p>
+id: ISA/43/18
+next:
+  id: ISA/43/19
+  number: '19'
+previous:
+  id: ISA/43/17
+  number: '17'
+reference: 'Isaiah 43:18'

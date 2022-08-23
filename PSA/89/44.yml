@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="44" data-sid="PSA 89:44"
+  class="v">44</span>Thou hast made his glory to cease, and cast his throne down
+  to the ground.</p>
+id: PSA/89/44
+next:
+  id: PSA/89/45
+  number: '45'
+previous:
+  id: PSA/89/43
+  number: '43'
+reference: 'Psalms 89:44'

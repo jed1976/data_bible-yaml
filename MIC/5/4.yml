@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 5:4" class="v">4</span>¶ And
+  he shall stand and feed in the strength of the <span class="nd">LORD</span>,
+  in the majesty of the name of the <span class="nd">LORD</span> his God; and
+  they shall abide: for now shall he be great unto the ends of the earth. </p>
+id: MIC/5/4
+next:
+  id: MIC/5/5
+  number: '5'
+previous:
+  id: MIC/5/3
+  number: '3'
+reference: 'Micah 5:4'

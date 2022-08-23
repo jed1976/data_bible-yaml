@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 13:20"
+  class="v">20</span><span class="wj">But he that received the seed into stony
+  places, the same is he that heareth the word, and anon with joy receiveth
+  it;</span> </p>
+id: MAT/13/20
+next:
+  id: MAT/13/21
+  number: '21'
+previous:
+  id: MAT/13/19
+  number: '19'
+reference: 'Matthew 13:20'

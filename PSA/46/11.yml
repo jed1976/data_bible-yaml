@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 46:11"
+  class="v">11</span>The <span class="nd">LORD</span> of hosts <span
+  class="add">is</span> with us; the God of Jacob <span class="add">is</span>
+  our refuge. Selah.</p>
+id: PSA/46/11
+next:
+  id: PSA/47/1
+  number: '1'
+previous:
+  id: PSA/46/10
+  number: '10'
+reference: 'Psalms 46:11'

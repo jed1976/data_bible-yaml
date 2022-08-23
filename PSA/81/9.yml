@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 81:9"
+  class="v">9</span>There shall no strange god be in thee; neither shalt thou
+  worship any strange god.</p>
+id: PSA/81/9
+next:
+  id: PSA/81/10
+  number: '10'
+previous:
+  id: PSA/81/8
+  number: '8'
+reference: 'Psalms 81:9'

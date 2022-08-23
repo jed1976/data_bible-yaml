@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 4:3" class="v">3</span>For I
+  was my father’s son, tender and only <span class="add">beloved</span> in the
+  sight of my mother. </p>
+id: PRO/4/3
+next:
+  id: PRO/4/4
+  number: '4'
+previous:
+  id: PRO/4/2
+  number: '2'
+reference: 'Proverbs 4:3'

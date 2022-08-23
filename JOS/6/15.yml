@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 6:15" class="v">15</span>And
+  it came to pass on the seventh day, that they rose early about the dawning of
+  the day, and compassed the city after the same manner seven times: only on
+  that day they compassed the city seven times. </p>
+id: JOS/6/15
+next:
+  id: JOS/6/16
+  number: '16'
+previous:
+  id: JOS/6/14
+  number: '14'
+reference: 'Joshua 6:15'

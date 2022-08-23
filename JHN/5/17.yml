@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 5:17" class="v">17</span>¶
+  But Jesus answered them, <span class="wj">My Father worketh hitherto, and I
+  work.</span> </p>
+id: JHN/5/17
+next:
+  id: JHN/5/18
+  number: '18'
+previous:
+  id: JHN/5/16
+  number: '16'
+reference: 'John 5:17'

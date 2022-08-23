@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="1CH 6:50" class="v">50</span>And
+  these <span class="add">are</span> the sons of Aaron; Eleazar his son,
+  Phinehas his son, Abishua his son, </p>
+id: 1CH/6/50
+next:
+  id: 1CH/6/51
+  number: '51'
+previous:
+  id: 1CH/6/49
+  number: '49'
+reference: '1 Chronicles 6:50'

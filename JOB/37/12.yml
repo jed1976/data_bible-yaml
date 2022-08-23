@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 37:12"
+  class="v">12</span>And it is turned round about by his counsels: that they may
+  do whatsoever he commandeth them upon the face of the world in the earth. </p>
+id: JOB/37/12
+next:
+  id: JOB/37/13
+  number: '13'
+previous:
+  id: JOB/37/11
+  number: '11'
+reference: 'Job 37:12'

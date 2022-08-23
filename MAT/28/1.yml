@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 28:1" class="v">1</span>In
+  the end of the sabbath, as it began to dawn toward the first <span
+  class="add">day</span> of the week, came Mary Magdalene and the other Mary to
+  see the sepulchre. </p>
+id: MAT/28/1
+next:
+  id: MAT/28/2
+  number: '2'
+previous:
+  id: MAT/27/66
+  number: '66'
+reference: 'Matthew 28:1'

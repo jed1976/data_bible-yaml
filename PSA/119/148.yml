@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="148" data-sid="PSA 119:148"
+  class="v">148</span>Mine eyes prevent the <span class="add">night</span>
+  watches, that I might meditate in thy word.</p>
+id: PSA/119/148
+next:
+  id: PSA/119/149
+  number: '149'
+previous:
+  id: PSA/119/147
+  number: '147'
+reference: 'Psalms 119:148'

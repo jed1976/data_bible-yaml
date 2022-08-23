@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 6:9" class="v">9</span>There
+  is a lad here, which hath five barley loaves, and two small fishes: but what
+  are they among so many? </p>
+id: JHN/6/9
+next:
+  id: JHN/6/10
+  number: '10'
+previous:
+  id: JHN/6/8
+  number: '8'
+reference: 'John 6:9'

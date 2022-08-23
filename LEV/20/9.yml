@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 20:9" class="v">9</span>¶ For
+  every one that curseth his father or his mother shall be surely put to death:
+  he hath cursed his father or his mother; his blood <span class="add">shall
+  be</span> upon him.</p>
+id: LEV/20/9
+next:
+  id: LEV/20/10
+  number: '10'
+previous:
+  id: LEV/20/8
+  number: '8'
+reference: 'Leviticus 20:9'

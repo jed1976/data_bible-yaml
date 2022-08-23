@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 54:13"
+  class="v">13</span>And all thy children <span class="add">shall be</span>
+  taught of the <span class="nd">LORD</span>; and great <span class="add">shall
+  be</span> the peace of thy children. </p>
+id: ISA/54/13
+next:
+  id: ISA/54/14
+  number: '14'
+previous:
+  id: ISA/54/12
+  number: '12'
+reference: 'Isaiah 54:13'

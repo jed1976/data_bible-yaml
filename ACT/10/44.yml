@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="ACT 10:44" class="v">44</span>¶
+  While Peter yet spake these words, the Holy Ghost fell on all them which heard
+  the word. </p>
+id: ACT/10/44
+next:
+  id: ACT/10/45
+  number: '45'
+previous:
+  id: ACT/10/43
+  number: '43'
+reference: 'Acts 10:44'

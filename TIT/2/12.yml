@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="TIT 2:12"
+  class="v">12</span>Teaching us that, denying ungodliness and worldly lusts, we
+  should live soberly, righteously, and godly, in this present world; </p>
+id: TIT/2/12
+next:
+  id: TIT/2/13
+  number: '13'
+previous:
+  id: TIT/2/11
+  number: '11'
+reference: 'Titus 2:12'

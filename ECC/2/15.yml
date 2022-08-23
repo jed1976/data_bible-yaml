@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 2:15"
+  class="v">15</span>Then said I in my heart, As it happeneth to the fool, so it
+  happeneth even to me; and why was I then more wise? Then I said in my heart,
+  that this also <span class="add">is</span> vanity. </p>
+id: ECC/2/15
+next:
+  id: ECC/2/16
+  number: '16'
+previous:
+  id: ECC/2/14
+  number: '14'
+reference: 'Ecclesiastes 2:15'

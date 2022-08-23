@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JAS 3:8" class="v">8</span>But
+  the tongue can no man tame; <span class="add">it is</span> an unruly evil,
+  full of deadly poison. </p>
+id: JAS/3/8
+next:
+  id: JAS/3/9
+  number: '9'
+previous:
+  id: JAS/3/7
+  number: '7'
+reference: 'James 3:8'

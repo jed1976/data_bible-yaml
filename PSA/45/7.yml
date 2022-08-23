@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 45:7" class="v">7</span>Thou
+  lovest righteousness, and hatest wickedness: therefore God, thy God, hath
+  anointed thee with the oil of gladness above thy fellows.</p>
+id: PSA/45/7
+next:
+  id: PSA/45/8
+  number: '8'
+previous:
+  id: PSA/45/6
+  number: '6'
+reference: 'Psalms 45:7'

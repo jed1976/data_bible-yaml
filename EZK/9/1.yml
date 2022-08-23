@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 9:1" class="v">1</span>He
+  cried also in mine ears with a loud voice, saying, Cause them that have charge
+  over the city to draw near, even every man <span class="add">with</span> his
+  destroying weapon in his hand. </p>
+id: EZK/9/1
+next:
+  id: EZK/9/2
+  number: '2'
+previous:
+  id: EZK/8/18
+  number: '18'
+reference: 'Ezekiel 9:1'

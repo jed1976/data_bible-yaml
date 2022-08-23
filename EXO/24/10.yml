@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 24:10"
+  class="v">10</span>And they saw the God of Israel: and <span class="add">there
+  was</span> under his feet as it were a paved work of a sapphire stone, and as
+  it were the body of heaven in <span class="add">his</span> clearness. </p>
+id: EXO/24/10
+next:
+  id: EXO/24/11
+  number: '11'
+previous:
+  id: EXO/24/9
+  number: '9'
+reference: 'Exodus 24:10'

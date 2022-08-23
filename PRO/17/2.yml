@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 17:2" class="v">2</span>A
+  wise servant shall have rule over a son that causeth shame, and shall have
+  part of the inheritance among the brethren. </p>
+id: PRO/17/2
+next:
+  id: PRO/17/3
+  number: '3'
+previous:
+  id: PRO/17/1
+  number: '1'
+reference: 'Proverbs 17:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 8:20" class="v">20</span>The
+  ram which thou sawest having <span class="add">two</span> horns <span
+  class="add">are</span> the kings of Media and Persia. </p>
+id: DAN/8/20
+next:
+  id: DAN/8/21
+  number: '21'
+previous:
+  id: DAN/8/19
+  number: '19'
+reference: 'Daniel 8:20'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 20:12"
+  class="v">12</span>And Jonathan said unto David, O <span
+  class="nd">LORD</span> God of Israel, when I have sounded my father about to
+  morrow any time, <span class="add">or</span> the third <span
+  class="add">day</span>, and, behold, <span class="add">if there be</span> good
+  toward David, and I then send not unto thee, and shew it thee; </p>
+id: 1SA/20/12
+next:
+  id: 1SA/20/13
+  number: '13'
+previous:
+  id: 1SA/20/11
+  number: '11'
+reference: '1 Samuel 20:12'

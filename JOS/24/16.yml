@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 24:16"
+  class="v">16</span>And the people answered and said, God forbid that we should
+  forsake the <span class="nd">LORD</span>, to serve other gods; </p>
+id: JOS/24/16
+next:
+  id: JOS/24/17
+  number: '17'
+previous:
+  id: JOS/24/15
+  number: '15'
+reference: 'Joshua 24:16'

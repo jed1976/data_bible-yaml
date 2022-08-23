@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 9:11"
+  class="v">11</span>Then said Ziba unto the king, According to all that my lord
+  the king hath commanded his servant, so shall thy servant do. As for
+  Mephibosheth, <span class="add">said the king</span>, he shall eat at my
+  table, as one of the king’s sons. </p>
+id: 2SA/9/11
+next:
+  id: 2SA/9/12
+  number: '12'
+previous:
+  id: 2SA/9/10
+  number: '10'
+reference: '2 Samuel 9:11'

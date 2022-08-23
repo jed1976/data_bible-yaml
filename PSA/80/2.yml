@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 80:2"
+  class="v">2</span>Before Ephraim and Benjamin and Manasseh stir up thy
+  strength, and come <span class="add">and</span> save us.</p>
+id: PSA/80/2
+next:
+  id: PSA/80/3
+  number: '3'
+previous:
+  id: PSA/80/1
+  number: '1'
+reference: 'Psalms 80:2'

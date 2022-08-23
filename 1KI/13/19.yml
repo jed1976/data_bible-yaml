@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1KI 13:19" class="v">19</span>So
+  he went back with him, and did eat bread in his house, and drank water.</p>
+id: 1KI/13/19
+next:
+  id: 1KI/13/20
+  number: '20'
+previous:
+  id: 1KI/13/18
+  number: '18'
+reference: '1 Kings 13:19'

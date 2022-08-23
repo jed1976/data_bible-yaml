@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NEH 11:32"
+  class="v">32</span><span class="add">And</span> at Anathoth, Nob, Ananiah,
+  </p>
+id: NEH/11/32
+next:
+  id: NEH/11/33
+  number: '33'
+previous:
+  id: NEH/11/31
+  number: '31'
+reference: 'Nehemiah 11:32'

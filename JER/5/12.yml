@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 5:12"
+  class="v">12</span>They have belied the <span class="nd">LORD</span>, and
+  said, <span class="add">It is</span> not he; neither shall evil come upon us;
+  neither shall we see sword nor famine: </p>
+id: JER/5/12
+next:
+  id: JER/5/13
+  number: '13'
+previous:
+  id: JER/5/11
+  number: '11'
+reference: 'Jeremiah 5:12'

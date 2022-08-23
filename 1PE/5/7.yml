@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1PE 5:7"
+  class="v">7</span>Casting all your care upon him; for he careth for you. </p>
+id: 1PE/5/7
+next:
+  id: 1PE/5/8
+  number: '8'
+previous:
+  id: 1PE/5/6
+  number: '6'
+reference: '1 Peter 5:7'

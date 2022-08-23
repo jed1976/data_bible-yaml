@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 39:20"
+  class="v">20</span>And Joseph’s master took him, and put him into the prison,
+  a place where the king’s prisoners <span class="add">were</span> bound: and he
+  was there in the prison.</p>
+id: GEN/39/20
+next:
+  id: GEN/39/21
+  number: '21'
+previous:
+  id: GEN/39/19
+  number: '19'
+reference: 'Genesis 39:20'

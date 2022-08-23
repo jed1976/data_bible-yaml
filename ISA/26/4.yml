@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 26:4" class="v">4</span>Trust
+  ye in the <span class="nd">LORD</span> for ever: for in the <span
+  class="nd">LORD</span> <span class="nd">JEHOVAH</span> <span
+  class="add">is</span> everlasting strength:</p>
+id: ISA/26/4
+next:
+  id: ISA/26/5
+  number: '5'
+previous:
+  id: ISA/26/3
+  number: '3'
+reference: 'Isaiah 26:4'

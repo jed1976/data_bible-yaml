@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 8:5" class="v">5</span>Whoso
+  keepeth the commandment shall feel no evil thing: and a wise man’s heart
+  discerneth both time and judgment.</p>
+id: ECC/8/5
+next:
+  id: ECC/8/6
+  number: '6'
+previous:
+  id: ECC/8/4
+  number: '4'
+reference: 'Ecclesiastes 8:5'

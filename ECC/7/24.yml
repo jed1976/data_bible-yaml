@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ECC 7:24"
+  class="v">24</span>That which is far off, and exceeding deep, who can find it
+  out? </p>
+id: ECC/7/24
+next:
+  id: ECC/7/25
+  number: '25'
+previous:
+  id: ECC/7/23
+  number: '23'
+reference: 'Ecclesiastes 7:24'

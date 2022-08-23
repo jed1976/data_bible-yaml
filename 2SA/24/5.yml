@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 24:5" class="v">5</span>¶ And
+  they passed over Jordan, and pitched in Aroer, on the right side of the city
+  that <span class="add">lieth</span> in the midst of the river of Gad, and
+  toward Jazer: </p>
+id: 2SA/24/5
+next:
+  id: 2SA/24/6
+  number: '6'
+previous:
+  id: 2SA/24/4
+  number: '4'
+reference: '2 Samuel 24:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 21:6" class="v">6</span>The
+  getting of treasures by a lying tongue <span class="add">is</span> a vanity
+  tossed to and fro of them that seek death. </p>
+id: PRO/21/6
+next:
+  id: PRO/21/7
+  number: '7'
+previous:
+  id: PRO/21/5
+  number: '5'
+reference: 'Proverbs 21:6'

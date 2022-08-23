@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 26:40"
+  class="v">40</span>And he cometh unto the disciples, and findeth them asleep,
+  and saith unto Peter, <span class="wj">What, could ye not watch with me one
+  hour?</span> </p>
+id: MAT/26/40
+next:
+  id: MAT/26/41
+  number: '41'
+previous:
+  id: MAT/26/39
+  number: '39'
+reference: 'Matthew 26:40'

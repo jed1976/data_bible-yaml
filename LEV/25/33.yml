@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LEV 25:33"
+  class="v">33</span>And if a man purchase of the Levites, then the house that
+  was sold, and the city of his possession, shall go out in <span
+  class="add">the year of</span> jubile: for the houses of the cities of the
+  Levites <span class="add">are</span> their possession among the children of
+  Israel. </p>
+id: LEV/25/33
+next:
+  id: LEV/25/34
+  number: '34'
+previous:
+  id: LEV/25/32
+  number: '32'
+reference: 'Leviticus 25:33'

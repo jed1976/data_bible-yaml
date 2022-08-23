@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 10:20" class="v">20</span>¶
+  And it shall come to pass in that day, <span class="add">that</span> the
+  remnant of Israel, and such as are escaped of the house of Jacob, shall no
+  more again stay upon him that smote them; but shall stay upon the <span
+  class="nd">LORD</span>, the Holy One of Israel, in truth. </p>
+id: ISA/10/20
+next:
+  id: ISA/10/21
+  number: '21'
+previous:
+  id: ISA/10/19
+  number: '19'
+reference: 'Isaiah 10:20'

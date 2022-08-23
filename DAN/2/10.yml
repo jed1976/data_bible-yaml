@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 2:10" class="v">10</span>¶
+  The Chaldeans answered before the king, and said, There is not a man upon the
+  earth that can shew the king’s matter: therefore <span class="add">there
+  is</span> no king, lord, nor ruler, <span class="add">that</span> asked such
+  things at any magician, or astrologer, or Chaldean. </p>
+id: DAN/2/10
+next:
+  id: DAN/2/11
+  number: '11'
+previous:
+  id: DAN/2/9
+  number: '9'
+reference: 'Daniel 2:10'

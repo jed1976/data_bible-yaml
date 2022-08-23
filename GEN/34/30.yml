@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 34:30"
+  class="v">30</span>And Jacob said to Simeon and Levi, Ye have troubled me to
+  make me to stink among the inhabitants of the land, among the Canaanites and
+  the Perizzites: and I <span class="add">being</span> few in number, they shall
+  gather themselves together against me, and slay me; and I shall be destroyed,
+  I and my house. </p>
+id: GEN/34/30
+next:
+  id: GEN/34/31
+  number: '31'
+previous:
+  id: GEN/34/29
+  number: '29'
+reference: 'Genesis 34:30'

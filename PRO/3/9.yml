@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 3:9" class="v">9</span>Honour
+  the <span class="nd">LORD</span> with thy substance, and with the firstfruits
+  of all thine increase: </p>
+id: PRO/3/9
+next:
+  id: PRO/3/10
+  number: '10'
+previous:
+  id: PRO/3/8
+  number: '8'
+reference: 'Proverbs 3:9'

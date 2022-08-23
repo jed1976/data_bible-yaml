@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 1:7" class="v">7</span>And
+  preached, saying, There cometh one mightier than I after me, the latchet of
+  whose shoes I am not worthy to stoop down and unloose. </p>
+id: MRK/1/7
+next:
+  id: MRK/1/8
+  number: '8'
+previous:
+  id: MRK/1/6
+  number: '6'
+reference: 'Mark 1:7'

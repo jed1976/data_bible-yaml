@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 58:4"
+  class="v">4</span>Their poison <span class="add">is</span> like the poison of
+  a serpent: <span class="add">they are</span> like the deaf adder <span
+  class="add">that</span> stoppeth her ear;</p>
+id: PSA/58/4
+next:
+  id: PSA/58/5
+  number: '5'
+previous:
+  id: PSA/58/3
+  number: '3'
+reference: 'Psalms 58:4'

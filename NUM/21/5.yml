@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 21:5" class="v">5</span>And
+  the people spake against God, and against Moses, Wherefore have ye brought us
+  up out of Egypt to die in the wilderness? for <span class="add">there
+  is</span> no bread, neither <span class="add">is there any</span> water; and
+  our soul loatheth this light bread. </p>
+id: NUM/21/5
+next:
+  id: NUM/21/6
+  number: '6'
+previous:
+  id: NUM/21/4
+  number: '4'
+reference: 'Numbers 21:5'

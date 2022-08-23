@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="SNG 8:4" class="v">4</span>I
+  charge you, O daughters of Jerusalem, that ye stir not up, nor awake <span
+  class="add">my</span> love, until he please.</p>
+id: SNG/8/4
+next:
+  id: SNG/8/5
+  number: '5'
+previous:
+  id: SNG/8/3
+  number: '3'
+reference: 'Song of Solomon 8:4'

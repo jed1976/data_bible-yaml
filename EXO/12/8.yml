@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 12:8" class="v">8</span>And
+  they shall eat the flesh in that night, roast with fire, and unleavened bread;
+  <span class="add">and</span> with bitter <span class="add">herbs</span> they
+  shall eat it. </p>
+id: EXO/12/8
+next:
+  id: EXO/12/9
+  number: '9'
+previous:
+  id: EXO/12/7
+  number: '7'
+reference: 'Exodus 12:8'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ECC 5:18" class="v">18</span>¶
+  Behold <span class="add">that</span> which I have seen: <span class="add">it
+  is</span> good and comely <span class="add">for one</span> to eat and to
+  drink, and to enjoy the good of all his labour that he taketh under the sun
+  all the days of his life, which God giveth him: for it <span
+  class="add">is</span> his portion. </p>
+id: ECC/5/18
+next:
+  id: ECC/5/19
+  number: '19'
+previous:
+  id: ECC/5/17
+  number: '17'
+reference: 'Ecclesiastes 5:18'

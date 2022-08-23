@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">A Song <span class="add">or</span> Psalm for the sons of Korah,
+  to the chief Musician upon Mahalath Leannoth, Maschil of Heman the
+  Ezrahite.</p><p class="q1"><span data-number="1" data-sid="PSA 88:1"
+  class="v">1</span>O <span class="nd">LORD</span> God of my salvation, I have
+  cried day <span class="add">and</span> night before thee:</p>
+id: PSA/88/1
+next:
+  id: PSA/88/2
+  number: '2'
+previous:
+  id: PSA/87/7
+  number: '7'
+reference: 'Psalms 88:1'

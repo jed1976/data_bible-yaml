@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth, Maschil, <span class="add">A
+  Psalm</span> of David.</p><p class="q1"><span data-number="1" data-sid="PSA
+  55:1" class="v">1</span>Give ear to my prayer, O God; and hide not thyself
+  from my supplication.</p>
+id: PSA/55/1
+next:
+  id: PSA/55/2
+  number: '2'
+previous:
+  id: PSA/54/7
+  number: '7'
+reference: 'Psalms 55:1'

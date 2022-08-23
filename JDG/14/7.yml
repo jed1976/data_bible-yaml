@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 14:7" class="v">7</span>And
+  he went down, and talked with the woman; and she pleased Samson well.</p>
+id: JDG/14/7
+next:
+  id: JDG/14/8
+  number: '8'
+previous:
+  id: JDG/14/6
+  number: '6'
+reference: 'Judges 14:7'

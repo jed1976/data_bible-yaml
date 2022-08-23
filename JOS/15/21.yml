@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 15:21"
+  class="v">21</span>And the uttermost cities of the tribe of the children of
+  Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,
+  </p>
+id: JOS/15/21
+next:
+  id: JOS/15/22
+  number: '22'
+previous:
+  id: JOS/15/20
+  number: '20'
+reference: 'Joshua 15:21'

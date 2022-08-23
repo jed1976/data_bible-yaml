@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="1TH 5:28" class="v">28</span>The
+  grace of our Lord Jesus Christ <span class="add">be</span> with you. Amen.</p>
+id: 1TH/5/28
+next:
+  id: 2TH/intro/0
+  number: '0'
+previous:
+  id: 1TH/5/27
+  number: '27'
+reference: '1 Thessalonians 5:28'

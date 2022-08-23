@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 115:2"
+  class="v">2</span>Wherefore should the heathen say, Where <span
+  class="add">is</span> now their God?</p>
+id: PSA/115/2
+next:
+  id: PSA/115/3
+  number: '3'
+previous:
+  id: PSA/115/1
+  number: '1'
+reference: 'Psalms 115:2'

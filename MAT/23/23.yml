@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 23:23"
+  class="v">23</span><span class="wj">Woe unto you, scribes and Pharisees,
+  hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted
+  the weightier <span class="add">matters</span> of the law, judgment, mercy,
+  and faith: these ought ye to have done, and not to leave the other
+  undone.</span> </p>
+id: MAT/23/23
+next:
+  id: MAT/23/24
+  number: '24'
+previous:
+  id: MAT/23/22
+  number: '22'
+reference: 'Matthew 23:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 16:12" class="v">12</span>I
+  was at ease, but he hath broken me asunder: he hath also taken <span
+  class="add">me</span> by my neck, and shaken me to pieces, and set me up for
+  his mark. </p>
+id: JOB/16/12
+next:
+  id: JOB/16/13
+  number: '13'
+previous:
+  id: JOB/16/11
+  number: '11'
+reference: 'Job 16:12'

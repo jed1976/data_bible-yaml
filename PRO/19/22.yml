@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 19:22"
+  class="v">22</span>The desire of a man <span class="add">is</span> his
+  kindness: and a poor man <span class="add">is</span> better than a liar. </p>
+id: PRO/19/22
+next:
+  id: PRO/19/23
+  number: '23'
+previous:
+  id: PRO/19/21
+  number: '21'
+reference: 'Proverbs 19:22'

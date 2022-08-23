@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 28:23"
+  class="v">23</span>And thou shalt make upon the breastplate two rings of gold,
+  and shalt put the two rings on the two ends of the breastplate. </p>
+id: EXO/28/23
+next:
+  id: EXO/28/24
+  number: '24'
+previous:
+  id: EXO/28/22
+  number: '22'
+reference: 'Exodus 28:23'

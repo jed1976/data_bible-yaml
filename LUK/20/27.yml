@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LUK 20:27" class="v">27</span>¶
+  Then came to <span class="add">him</span> certain of the Sadducees, which deny
+  that there is any resurrection; and they asked him, </p>
+id: LUK/20/27
+next:
+  id: LUK/20/28
+  number: '28'
+previous:
+  id: LUK/20/26
+  number: '26'
+reference: 'Luke 20:27'

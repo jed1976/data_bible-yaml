@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="NUM 16:48"
+  class="v">48</span>And he stood between the dead and the living; and the
+  plague was stayed. </p>
+id: NUM/16/48
+next:
+  id: NUM/16/49
+  number: '49'
+previous:
+  id: NUM/16/47
+  number: '47'
+reference: 'Numbers 16:48'

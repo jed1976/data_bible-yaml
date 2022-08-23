@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 33:10"
+  class="v">10</span>The <span class="nd">LORD</span> bringeth the counsel of
+  the heathen to nought: he maketh the devices of the people of none effect.</p>
+id: PSA/33/10
+next:
+  id: PSA/33/11
+  number: '11'
+previous:
+  id: PSA/33/9
+  number: '9'
+reference: 'Psalms 33:10'

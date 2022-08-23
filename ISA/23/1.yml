@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 23:1" class="v">1</span>The
+  burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that
+  there is no house, no entering in: from the land of Chittim it is revealed to
+  them. </p>
+id: ISA/23/1
+next:
+  id: ISA/23/2
+  number: '2'
+previous:
+  id: ISA/22/25
+  number: '25'
+reference: 'Isaiah 23:1'

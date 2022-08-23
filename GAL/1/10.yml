@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GAL 1:10" class="v">10</span>For
+  do I now persuade men, or God? or do I seek to please men? for if I yet
+  pleased men, I should not be the servant of Christ. </p>
+id: GAL/1/10
+next:
+  id: GAL/1/11
+  number: '11'
+previous:
+  id: GAL/1/9
+  number: '9'
+reference: 'Galatians 1:10'

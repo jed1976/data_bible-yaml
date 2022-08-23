@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 106:5"
+  class="v">5</span>That I may see the good of thy chosen, that I may rejoice in
+  the gladness of thy nation, that I may glory with thine inheritance.</p>
+id: PSA/106/5
+next:
+  id: PSA/106/6
+  number: '6'
+previous:
+  id: PSA/106/4
+  number: '4'
+reference: 'Psalms 106:5'

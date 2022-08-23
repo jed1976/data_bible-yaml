@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 11:25"
+  class="v">25</span>Jesus said unto her, <span class="wj">I am the
+  resurrection, and the life: he that believeth in me, though he were dead, yet
+  shall he live:</span> </p>
+id: JHN/11/25
+next:
+  id: JHN/11/26
+  number: '26'
+previous:
+  id: JHN/11/24
+  number: '24'
+reference: 'John 11:25'

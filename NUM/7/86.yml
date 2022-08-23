@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="86" data-sid="NUM 7:86" class="v">86</span>The
+  golden spoons <span class="add">were</span> twelve, full of incense, <span
+  class="add">weighing</span> ten <span class="add">shekels</span> apiece, after
+  the shekel of the sanctuary: all the gold of the spoons <span
+  class="add">was</span> an hundred and twenty <span class="add">shekels</span>.
+  </p>
+id: NUM/7/86
+next:
+  id: NUM/7/87
+  number: '87'
+previous:
+  id: NUM/7/85
+  number: '85'
+reference: 'Numbers 7:86'

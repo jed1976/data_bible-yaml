@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 7:20"
+  class="v">20</span>Moreover the <span class="nd">LORD</span> thy God will send
+  the hornet among them, until they that are left, and hide themselves from
+  thee, be destroyed. </p>
+id: DEU/7/20
+next:
+  id: DEU/7/21
+  number: '21'
+previous:
+  id: DEU/7/19
+  number: '19'
+reference: 'Deuteronomy 7:20'

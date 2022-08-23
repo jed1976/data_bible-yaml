@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 30:29"
+  class="v">29</span>And thou shalt sanctify them, that they may be most holy:
+  whatsoever toucheth them shall be holy. </p>
+id: EXO/30/29
+next:
+  id: EXO/30/30
+  number: '30'
+previous:
+  id: EXO/30/28
+  number: '28'
+reference: 'Exodus 30:29'

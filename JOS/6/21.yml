@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 6:21" class="v">21</span>And
+  they utterly destroyed all that <span class="add">was</span> in the city, both
+  man and woman, young and old, and ox, and sheep, and ass, with the edge of the
+  sword. </p>
+id: JOS/6/21
+next:
+  id: JOS/6/22
+  number: '22'
+previous:
+  id: JOS/6/20
+  number: '20'
+reference: 'Joshua 6:21'

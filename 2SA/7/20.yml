@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 7:20" class="v">20</span>And
+  what can David say more unto thee? for thou, Lord <span class="nd">GOD</span>,
+  knowest thy servant. </p>
+id: 2SA/7/20
+next:
+  id: 2SA/7/21
+  number: '21'
+previous:
+  id: 2SA/7/19
+  number: '19'
+reference: '2 Samuel 7:20'

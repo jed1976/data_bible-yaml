@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 8:4" class="v">4</span>¶ And
+  Gideon came to Jordan, <span class="add">and</span> passed over, he, and the
+  three hundred men that <span class="add">were</span> with him, faint, yet
+  pursuing <span class="add">them</span>. </p>
+id: JDG/8/4
+next:
+  id: JDG/8/5
+  number: '5'
+previous:
+  id: JDG/8/3
+  number: '3'
+reference: 'Judges 8:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EZK 40:30"
+  class="v">30</span>And the arches round about <span class="add">were</span>
+  five and twenty cubits long, and five cubits broad. </p>
+id: EZK/40/30
+next:
+  id: EZK/40/31
+  number: '31'
+previous:
+  id: EZK/40/29
+  number: '29'
+reference: 'Ezekiel 40:30'

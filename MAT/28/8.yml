@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 28:8" class="v">8</span>And
+  they departed quickly from the sepulchre with fear and great joy; and did run
+  to bring his disciples word.</p>
+id: MAT/28/8
+next:
+  id: MAT/28/9
+  number: '9'
+previous:
+  id: MAT/28/7
+  number: '7'
+reference: 'Matthew 28:8'

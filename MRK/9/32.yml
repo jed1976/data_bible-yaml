@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 9:32" class="v">32</span>But
+  they understood not that saying, and were afraid to ask him.</p>
+id: MRK/9/32
+next:
+  id: MRK/9/33
+  number: '33'
+previous:
+  id: MRK/9/31
+  number: '31'
+reference: 'Mark 9:32'

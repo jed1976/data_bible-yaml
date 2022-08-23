@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 15:20"
+  class="v">20</span>But that we write unto them, that they abstain from
+  pollutions of idols, and <span class="add">from</span> fornication, and <span
+  class="add">from</span> things strangled, and <span class="add">from</span>
+  blood. </p>
+id: ACT/15/20
+next:
+  id: ACT/15/21
+  number: '21'
+previous:
+  id: ACT/15/19
+  number: '19'
+reference: 'Acts 15:20'

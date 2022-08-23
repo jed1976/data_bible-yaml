@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 10:19"
+  class="v">19</span><span class="wj">But when they deliver you up, take no
+  thought how or what ye shall speak: for it shall be given you in that same
+  hour what ye shall speak.</span> </p>
+id: MAT/10/19
+next:
+  id: MAT/10/20
+  number: '20'
+previous:
+  id: MAT/10/18
+  number: '18'
+reference: 'Matthew 10:19'

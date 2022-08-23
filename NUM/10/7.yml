@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 10:7" class="v">7</span>But
+  when the congregation is to be gathered together, ye shall blow, but ye shall
+  not sound an alarm. </p>
+id: NUM/10/7
+next:
+  id: NUM/10/8
+  number: '8'
+previous:
+  id: NUM/10/6
+  number: '6'
+reference: 'Numbers 10:7'

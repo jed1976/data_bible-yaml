@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 8:11" class="v">11</span>And
+  the Pharisees came forth, and began to question with him, seeking of him a
+  sign from heaven, tempting him. </p>
+id: MRK/8/11
+next:
+  id: MRK/8/12
+  number: '12'
+previous:
+  id: MRK/8/10
+  number: '10'
+reference: 'Mark 8:11'

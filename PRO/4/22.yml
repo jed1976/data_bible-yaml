@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 4:22" class="v">22</span>For
+  they <span class="add">are</span> life unto those that find them, and health
+  to all their flesh.</p>
+id: PRO/4/22
+next:
+  id: PRO/4/23
+  number: '23'
+previous:
+  id: PRO/4/21
+  number: '21'
+reference: 'Proverbs 4:22'

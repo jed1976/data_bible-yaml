@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 5:9" class="v">9</span>For he
+  was astonished, and all that were with him, at the draught of the fishes which
+  they had taken: </p>
+id: LUK/5/9
+next:
+  id: LUK/5/10
+  number: '10'
+previous:
+  id: LUK/5/8
+  number: '8'
+reference: 'Luke 5:9'

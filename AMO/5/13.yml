@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 5:13"
+  class="v">13</span>Therefore the prudent shall keep silence in that time; for
+  it <span class="add">is</span> an evil time. </p>
+id: AMO/5/13
+next:
+  id: AMO/5/14
+  number: '14'
+previous:
+  id: AMO/5/12
+  number: '12'
+reference: 'Amos 5:13'

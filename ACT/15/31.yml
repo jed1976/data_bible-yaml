@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 15:31"
+  class="v">31</span><span class="add">Which</span> when they had read, they
+  rejoiced for the consolation. </p>
+id: ACT/15/31
+next:
+  id: ACT/15/32
+  number: '32'
+previous:
+  id: ACT/15/30
+  number: '30'
+reference: 'Acts 15:31'

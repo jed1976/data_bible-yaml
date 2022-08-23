@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 5:1" class="v">1</span>Then
+  came all the tribes of Israel to David unto Hebron, and spake, saying, Behold,
+  we <span class="add">are</span> thy bone and thy flesh. </p>
+id: 2SA/5/1
+next:
+  id: 2SA/5/2
+  number: '2'
+previous:
+  id: 2SA/4/12
+  number: '12'
+reference: '2 Samuel 5:1'

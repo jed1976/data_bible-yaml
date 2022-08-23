@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1SA 2:11" class="v">11</span>And
+  Elkanah went to Ramah to his house. And the child did minister unto the <span
+  class="nd">LORD</span> before Eli the priest.</p>
+id: 1SA/2/11
+next:
+  id: 1SA/2/12
+  number: '12'
+previous:
+  id: 1SA/2/10
+  number: '10'
+reference: '1 Samuel 2:11'

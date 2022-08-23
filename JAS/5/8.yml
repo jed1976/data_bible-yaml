@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JAS 5:8" class="v">8</span>Be ye
+  also patient; stablish your hearts: for the coming of the Lord draweth nigh.
+  </p>
+id: JAS/5/8
+next:
+  id: JAS/5/9
+  number: '9'
+previous:
+  id: JAS/5/7
+  number: '7'
+reference: 'James 5:8'

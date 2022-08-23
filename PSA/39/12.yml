@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 39:12"
+  class="v">12</span>Hear my prayer, O <span class="nd">LORD</span>, and give
+  ear unto my cry; hold not thy peace at my tears: for I <span
+  class="add">am</span> a stranger with thee, <span class="add">and</span> a
+  sojourner, as all my fathers <span class="add">were</span>.</p>
+id: PSA/39/12
+next:
+  id: PSA/39/13
+  number: '13'
+previous:
+  id: PSA/39/11
+  number: '11'
+reference: 'Psalms 39:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 19:13"
+  class="v">13</span>Thine eye shall not pity him, but thou shalt put away <span
+  class="add">the guilt of</span> innocent blood from Israel, that it may go
+  well with thee.</p>
+id: DEU/19/13
+next:
+  id: DEU/19/14
+  number: '14'
+previous:
+  id: DEU/19/12
+  number: '12'
+reference: 'Deuteronomy 19:13'

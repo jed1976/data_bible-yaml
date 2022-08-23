@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 1:3" class="v">3</span>The
+  word of the <span class="nd">LORD</span> came expressly unto Ezekiel the
+  priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and
+  the hand of the <span class="nd">LORD</span> was there upon him.</p>
+id: EZK/1/3
+next:
+  id: EZK/1/4
+  number: '4'
+previous:
+  id: EZK/1/2
+  number: '2'
+reference: 'Ezekiel 1:3'

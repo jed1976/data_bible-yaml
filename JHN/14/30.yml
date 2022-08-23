@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 14:30"
+  class="v">30</span><span class="wj">Hereafter I will not talk much with you:
+  for the prince of this world cometh, and hath nothing in me.</span> </p>
+id: JHN/14/30
+next:
+  id: JHN/14/31
+  number: '31'
+previous:
+  id: JHN/14/29
+  number: '29'
+reference: 'John 14:30'

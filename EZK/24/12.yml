@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 24:12"
+  class="v">12</span>She hath wearied <span class="add">herself</span> with
+  lies, and her great scum went not forth out of her: her scum <span
+  class="add">shall be</span> in the fire. </p>
+id: EZK/24/12
+next:
+  id: EZK/24/13
+  number: '13'
+previous:
+  id: EZK/24/11
+  number: '11'
+reference: 'Ezekiel 24:12'

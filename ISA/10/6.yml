@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 10:6" class="v">6</span>I
+  will send him against an hypocritical nation, and against the people of my
+  wrath will I give him a charge, to take the spoil, and to take the prey, and
+  to tread them down like the mire of the streets. </p>
+id: ISA/10/6
+next:
+  id: ISA/10/7
+  number: '7'
+previous:
+  id: ISA/10/5
+  number: '5'
+reference: 'Isaiah 10:6'

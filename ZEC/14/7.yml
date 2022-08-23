@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 14:7" class="v">7</span>But
+  it shall be one day which shall be known to the <span class="nd">LORD</span>,
+  not day, nor night: but it shall come to pass, <span class="add">that</span>
+  at evening time it shall be light.</p>
+id: ZEC/14/7
+next:
+  id: ZEC/14/8
+  number: '8'
+previous:
+  id: ZEC/14/6
+  number: '6'
+reference: 'Zechariah 14:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 6:10" class="v">10</span>And
+  Joshua had commanded the people, saying, Ye shall not shout, nor make any
+  noise with your voice, neither shall <span class="add">any</span> word proceed
+  out of your mouth, until the day I bid you shout; then shall ye shout. </p>
+id: JOS/6/10
+next:
+  id: JOS/6/11
+  number: '11'
+previous:
+  id: JOS/6/9
+  number: '9'
+reference: 'Joshua 6:10'

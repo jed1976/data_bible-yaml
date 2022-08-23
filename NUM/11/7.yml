@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 11:7" class="v">7</span>And
+  the manna <span class="add">was</span> as coriander seed, and the colour
+  thereof as the colour of bdellium. </p>
+id: NUM/11/7
+next:
+  id: NUM/11/8
+  number: '8'
+previous:
+  id: NUM/11/6
+  number: '6'
+reference: 'Numbers 11:7'

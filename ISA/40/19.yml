@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 40:19"
+  class="v">19</span>The workman melteth a graven image, and the goldsmith
+  spreadeth it over with gold, and casteth silver chains. </p>
+id: ISA/40/19
+next:
+  id: ISA/40/20
+  number: '20'
+previous:
+  id: ISA/40/18
+  number: '18'
+reference: 'Isaiah 40:19'

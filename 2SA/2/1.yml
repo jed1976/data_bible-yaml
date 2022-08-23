@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 2:1" class="v">1</span>And it
+  came to pass after this, that David enquired of the <span
+  class="nd">LORD</span>, saying, Shall I go up into any of the cities of Judah?
+  And the <span class="nd">LORD</span> said unto him, Go up. And David said,
+  Whither shall I go up? And he said, Unto Hebron. </p>
+id: 2SA/2/1
+next:
+  id: 2SA/2/2
+  number: '2'
+previous:
+  id: 2SA/1/27
+  number: '27'
+reference: '2 Samuel 2:1'

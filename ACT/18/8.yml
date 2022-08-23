@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 18:8" class="v">8</span>And
+  Crispus, the chief ruler of the synagogue, believed on the Lord with all his
+  house; and many of the Corinthians hearing believed, and were baptized. </p>
+id: ACT/18/8
+next:
+  id: ACT/18/9
+  number: '9'
+previous:
+  id: ACT/18/7
+  number: '7'
+reference: 'Acts 18:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LUK 12:54" class="v">54</span>¶
+  And he said also to the people, <span class="wj">When ye see a cloud rise out
+  of the west, straightway ye say, There cometh a shower; and so it is.</span>
+  </p>
+id: LUK/12/54
+next:
+  id: LUK/12/55
+  number: '55'
+previous:
+  id: LUK/12/53
+  number: '53'
+reference: 'Luke 12:54'

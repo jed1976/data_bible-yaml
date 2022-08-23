@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JHN 8:45"
+  class="v">45</span><span class="wj">And because I tell <span
+  class="add">you</span> the truth, ye believe me not.</span> </p>
+id: JHN/8/45
+next:
+  id: JHN/8/46
+  number: '46'
+previous:
+  id: JHN/8/44
+  number: '44'
+reference: 'John 8:45'

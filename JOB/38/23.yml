@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 38:23"
+  class="v">23</span>Which I have reserved against the time of trouble, against
+  the day of battle and war? </p>
+id: JOB/38/23
+next:
+  id: JOB/38/24
+  number: '24'
+previous:
+  id: JOB/38/22
+  number: '22'
+reference: 'Job 38:23'

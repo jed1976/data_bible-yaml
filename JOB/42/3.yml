@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 42:3" class="v">3</span>Who
+  <span class="add">is</span> he that hideth counsel without knowledge?
+  therefore have I uttered that I understood not; things too wonderful for me,
+  which I knew not. </p>
+id: JOB/42/3
+next:
+  id: JOB/42/4
+  number: '4'
+previous:
+  id: JOB/42/2
+  number: '2'
+reference: 'Job 42:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MIC 6:6" class="v">6</span>¶
+  Wherewith shall I come before the <span class="nd">LORD</span>, <span
+  class="add">and</span> bow myself before the high God? shall I come before him
+  with burnt offerings, with calves of a year old? </p>
+id: MIC/6/6
+next:
+  id: MIC/6/7
+  number: '7'
+previous:
+  id: MIC/6/5
+  number: '5'
+reference: 'Micah 6:6'

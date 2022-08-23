@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 25:24"
+  class="v">24</span>And in all the land of your possession ye shall grant a
+  redemption for the land.</p>
+id: LEV/25/24
+next:
+  id: LEV/25/25
+  number: '25'
+previous:
+  id: LEV/25/23
+  number: '23'
+reference: 'Leviticus 25:24'

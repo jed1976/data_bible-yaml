@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 10:10"
+  class="v">10</span><span class="wj">The thief cometh not, but for to steal,
+  and to kill, and to destroy: I am come that they might have life, and that
+  they might have <span class="add">it</span> more abundantly.</span> </p>
+id: JHN/10/10
+next:
+  id: JHN/10/11
+  number: '11'
+previous:
+  id: JHN/10/9
+  number: '9'
+reference: 'John 10:10'

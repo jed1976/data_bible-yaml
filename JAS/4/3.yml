@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JAS 4:3" class="v">3</span>Ye
+  ask, and receive not, because ye ask amiss, that ye may consume <span
+  class="add">it</span> upon your lusts. </p>
+id: JAS/4/3
+next:
+  id: JAS/4/4
+  number: '4'
+previous:
+  id: JAS/4/2
+  number: '2'
+reference: 'James 4:3'

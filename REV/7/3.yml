@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 7:3"
+  class="v">3</span>Saying, Hurt not the earth, neither the sea, nor the trees,
+  till we have sealed the servants of our God in their foreheads. </p>
+id: REV/7/3
+next:
+  id: REV/7/4
+  number: '4'
+previous:
+  id: REV/7/2
+  number: '2'
+reference: 'Revelation 7:3'

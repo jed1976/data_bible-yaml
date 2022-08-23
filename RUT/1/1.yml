@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="RUT 1:1" class="v">1</span>Now it
+  came to pass in the days when the judges ruled, that there was a famine in the
+  land. And a certain man of Beth-lehem-judah went to sojourn in the country of
+  Moab, he, and his wife, and his two sons. </p>
+id: RUT/1/1
+next:
+  id: RUT/1/2
+  number: '2'
+previous:
+  id: RUT/intro/0
+  number: '0'
+reference: 'Ruth 1:1'

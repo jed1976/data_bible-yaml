@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 14:13"
+  class="v">13</span>And I heard a voice from heaven saying unto me, Write,
+  Blessed <span class="add">are</span> the dead which die in the Lord from
+  henceforth: Yea, saith the Spirit, that they may rest from their labours; and
+  their works do follow them.</p>
+id: REV/14/13
+next:
+  id: REV/14/14
+  number: '14'
+previous:
+  id: REV/14/12
+  number: '12'
+reference: 'Revelation 14:13'

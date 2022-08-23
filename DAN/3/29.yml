@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DAN 3:29"
+  class="v">29</span>Therefore I make a decree, That every people, nation, and
+  language, which speak any thing amiss against the God of Shadrach, Meshach,
+  and Abed-nego, shall be cut in pieces, and their houses shall be made a
+  dunghill: because there is no other God that can deliver after this sort. </p>
+id: DAN/3/29
+next:
+  id: DAN/3/30
+  number: '30'
+previous:
+  id: DAN/3/28
+  number: '28'
+reference: 'Daniel 3:29'

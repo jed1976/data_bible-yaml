@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 5:42"
+  class="v">42</span><span class="wj">Give to him that asketh thee, and from him
+  that would borrow of thee turn not thou away.</span></p>
+id: MAT/5/42
+next:
+  id: MAT/5/43
+  number: '43'
+previous:
+  id: MAT/5/41
+  number: '41'
+reference: 'Matthew 5:42'

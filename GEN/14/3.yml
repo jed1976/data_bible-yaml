@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 14:3" class="v">3</span>All
+  these were joined together in the vale of Siddim, which is the salt sea. </p>
+id: GEN/14/3
+next:
+  id: GEN/14/4
+  number: '4'
+previous:
+  id: GEN/14/2
+  number: '2'
+reference: 'Genesis 14:3'

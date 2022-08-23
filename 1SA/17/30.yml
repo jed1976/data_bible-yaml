@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1SA 17:30" class="v">30</span>¶
+  And he turned from him toward another, and spake after the same manner: and
+  the people answered him again after the former manner.</p>
+id: 1SA/17/30
+next:
+  id: 1SA/17/31
+  number: '31'
+previous:
+  id: 1SA/17/29
+  number: '29'
+reference: '1 Samuel 17:30'

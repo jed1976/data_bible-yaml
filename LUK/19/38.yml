@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 19:38"
+  class="v">38</span>Saying, Blessed <span class="add">be</span> the King that
+  cometh in the name of the Lord: peace in heaven, and glory in the highest.
+  </p>
+id: LUK/19/38
+next:
+  id: LUK/19/39
+  number: '39'
+previous:
+  id: LUK/19/37
+  number: '37'
+reference: 'Luke 19:38'

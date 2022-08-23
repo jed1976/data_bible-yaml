@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 106:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. O give thanks
+  unto the <span class="nd">LORD</span>; for <span class="add">he is</span>
+  good: for his mercy <span class="add">endureth</span> for ever.</p>
+id: PSA/106/1
+next:
+  id: PSA/106/2
+  number: '2'
+previous:
+  id: PSA/105/45
+  number: '45'
+reference: 'Psalms 106:1'

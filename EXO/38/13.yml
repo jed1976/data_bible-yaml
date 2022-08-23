@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 38:13"
+  class="v">13</span>And for the east side eastward fifty cubits. </p>
+id: EXO/38/13
+next:
+  id: EXO/38/14
+  number: '14'
+previous:
+  id: EXO/38/12
+  number: '12'
+reference: 'Exodus 38:13'

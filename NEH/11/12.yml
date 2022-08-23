@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 11:12"
+  class="v">12</span>And their brethren that did the work of the house <span
+  class="add">were</span> eight hundred twenty and two: and Adaiah the son of
+  Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son
+  of Pashur, the son of Malchiah, </p>
+id: NEH/11/12
+next:
+  id: NEH/11/13
+  number: '13'
+previous:
+  id: NEH/11/11
+  number: '11'
+reference: 'Nehemiah 11:12'

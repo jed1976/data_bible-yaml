@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 12:12"
+  class="v">12</span>Let her not be as one dead, of whom the flesh is half
+  consumed when he cometh out of his mother’s womb. </p>
+id: NUM/12/12
+next:
+  id: NUM/12/13
+  number: '13'
+previous:
+  id: NUM/12/11
+  number: '11'
+reference: 'Numbers 12:12'

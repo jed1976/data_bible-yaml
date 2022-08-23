@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JAS 3:11"
+  class="v">11</span>Doth a fountain send forth at the same place sweet <span
+  class="add">water</span> and bitter? </p>
+id: JAS/3/11
+next:
+  id: JAS/3/12
+  number: '12'
+previous:
+  id: JAS/3/10
+  number: '10'
+reference: 'James 3:11'

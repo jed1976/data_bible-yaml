@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 104:24"
+  class="v">24</span>O <span class="nd">LORD</span>, how manifold are thy works!
+  in wisdom hast thou made them all: the earth is full of thy riches.</p>
+id: PSA/104/24
+next:
+  id: PSA/104/25
+  number: '25'
+previous:
+  id: PSA/104/23
+  number: '23'
+reference: 'Psalms 104:24'

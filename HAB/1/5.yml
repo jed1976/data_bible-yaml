@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HAB 1:5" class="v">5</span>¶
+  Behold ye among the heathen, and regard, and wonder marvellously: for <span
+  class="add">I</span> will work a work in your days, <span
+  class="add">which</span> ye will not believe, though it be told <span
+  class="add">you</span>. </p>
+id: HAB/1/5
+next:
+  id: HAB/1/6
+  number: '6'
+previous:
+  id: HAB/1/4
+  number: '4'
+reference: 'Habakkuk 1:5'

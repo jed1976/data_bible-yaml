@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 26:16"
+  class="v">16</span><span class="nd">LORD</span>, in trouble have they visited
+  thee, they poured out a prayer <span class="add">when</span> thy chastening
+  <span class="add">was</span> upon them. </p>
+id: ISA/26/16
+next:
+  id: ISA/26/17
+  number: '17'
+previous:
+  id: ISA/26/15
+  number: '15'
+reference: 'Isaiah 26:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1CO 12:30"
+  class="v">30</span>Have all the gifts of healing? do all speak with tongues?
+  do all interpret? </p>
+id: 1CO/12/30
+next:
+  id: 1CO/12/31
+  number: '31'
+previous:
+  id: 1CO/12/29
+  number: '29'
+reference: '1 Corinthians 12:30'

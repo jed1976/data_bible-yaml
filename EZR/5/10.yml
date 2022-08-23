@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 5:10" class="v">10</span>We
+  asked their names also, to certify thee, that we might write the names of the
+  men that <span class="add">were</span> the chief of them. </p>
+id: EZR/5/10
+next:
+  id: EZR/5/11
+  number: '11'
+previous:
+  id: EZR/5/9
+  number: '9'
+reference: 'Ezra 5:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LUK 18:37"
+  class="v">37</span>And they told him, that Jesus of Nazareth passeth by. </p>
+id: LUK/18/37
+next:
+  id: LUK/18/38
+  number: '38'
+previous:
+  id: LUK/18/36
+  number: '36'
+reference: 'Luke 18:37'

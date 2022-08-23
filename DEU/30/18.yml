@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 30:18" class="v">18</span>I
+  denounce unto you this day, that ye shall surely perish, <span class="add">and
+  that</span> ye shall not prolong <span class="add">your</span> days upon the
+  land, whither thou passest over Jordan to go to possess it. </p>
+id: DEU/30/18
+next:
+  id: DEU/30/19
+  number: '19'
+previous:
+  id: DEU/30/17
+  number: '17'
+reference: 'Deuteronomy 30:18'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 13:6" class="v">6</span>Of
+  the tribe of Judah, Caleb the son of Jephunneh. </p>
+id: NUM/13/6
+next:
+  id: NUM/13/7
+  number: '7'
+previous:
+  id: NUM/13/5
+  number: '5'
+reference: 'Numbers 13:6'

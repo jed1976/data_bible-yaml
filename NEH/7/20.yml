@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 7:20" class="v">20</span>The
+  children of Adin, six hundred fifty and five. </p>
+id: NEH/7/20
+next:
+  id: NEH/7/21
+  number: '21'
+previous:
+  id: NEH/7/19
+  number: '19'
+reference: 'Nehemiah 7:20'

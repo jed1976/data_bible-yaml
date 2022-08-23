@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 23:6" class="v">6</span>Eat
+  thou not the bread of <span class="add">him that hath</span> an evil eye,
+  neither desire thou his dainty meats: </p>
+id: PRO/23/6
+next:
+  id: PRO/23/7
+  number: '7'
+previous:
+  id: PRO/23/5
+  number: '5'
+reference: 'Proverbs 23:6'

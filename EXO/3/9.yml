@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 3:9" class="v">9</span>Now
+  therefore, behold, the cry of the children of Israel is come unto me: and I
+  have also seen the oppression wherewith the Egyptians oppress them. </p>
+id: EXO/3/9
+next:
+  id: EXO/3/10
+  number: '10'
+previous:
+  id: EXO/3/8
+  number: '8'
+reference: 'Exodus 3:9'

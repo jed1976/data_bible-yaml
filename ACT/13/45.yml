@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="ACT 13:45"
+  class="v">45</span>But when the Jews saw the multitudes, they were filled with
+  envy, and spake against those things which were spoken by Paul, contradicting
+  and blaspheming. </p>
+id: ACT/13/45
+next:
+  id: ACT/13/46
+  number: '46'
+previous:
+  id: ACT/13/44
+  number: '44'
+reference: 'Acts 13:45'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HOS 13:13"
+  class="v">13</span>The sorrows of a travailing woman shall come upon him: he
+  <span class="add">is</span> an unwise son; for he should not stay long in
+  <span class="add">the place of</span> the breaking forth of children. </p>
+id: HOS/13/13
+next:
+  id: HOS/13/14
+  number: '14'
+previous:
+  id: HOS/13/12
+  number: '12'
+reference: 'Hosea 13:13'

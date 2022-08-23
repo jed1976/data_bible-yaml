@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 8:10"
+  class="v">10</span>When thou hast eaten and art full, then thou shalt bless
+  the <span class="nd">LORD</span> thy God for the good land which he hath given
+  thee. </p>
+id: DEU/8/10
+next:
+  id: DEU/8/11
+  number: '11'
+previous:
+  id: DEU/8/9
+  number: '9'
+reference: 'Deuteronomy 8:10'

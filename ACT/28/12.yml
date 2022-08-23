@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 28:12"
+  class="v">12</span>And landing at Syracuse, we tarried <span
+  class="add">there</span> three days. </p>
+id: ACT/28/12
+next:
+  id: ACT/28/13
+  number: '13'
+previous:
+  id: ACT/28/11
+  number: '11'
+reference: 'Acts 28:12'

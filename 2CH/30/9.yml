@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 30:9" class="v">9</span>For
+  if ye turn again unto the <span class="nd">LORD</span>, your brethren and your
+  children <span class="add">shall find</span> compassion before them that lead
+  them captive, so that they shall come again into this land: for the <span
+  class="nd">LORD</span> your God <span class="add">is</span> gracious and
+  merciful, and will not turn away <span class="add">his</span> face from you,
+  if ye return unto him. </p>
+id: 2CH/30/9
+next:
+  id: 2CH/30/10
+  number: '10'
+previous:
+  id: 2CH/30/8
+  number: '8'
+reference: '2 Chronicles 30:9'

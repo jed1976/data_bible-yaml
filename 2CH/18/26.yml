@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2CH 18:26"
+  class="v">26</span>And say, Thus saith the king, Put this <span
+  class="add">fellow</span> in the prison, and feed him with bread of affliction
+  and with water of affliction, until I return in peace. </p>
+id: 2CH/18/26
+next:
+  id: 2CH/18/27
+  number: '27'
+previous:
+  id: 2CH/18/25
+  number: '25'
+reference: '2 Chronicles 18:26'

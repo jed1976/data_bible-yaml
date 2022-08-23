@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 18:9" class="v">9</span>¶
+  When thou art come into the land which the <span class="nd">LORD</span> thy
+  God giveth thee, thou shalt not learn to do after the abominations of those
+  nations. </p>
+id: DEU/18/9
+next:
+  id: DEU/18/10
+  number: '10'
+previous:
+  id: DEU/18/8
+  number: '8'
+reference: 'Deuteronomy 18:9'

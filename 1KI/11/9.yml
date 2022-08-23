@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1KI 11:9" class="v">9</span>¶ And
+  the <span class="nd">LORD</span> was angry with Solomon, because his heart was
+  turned from the <span class="nd">LORD</span> God of Israel, which had appeared
+  unto him twice, </p>
+id: 1KI/11/9
+next:
+  id: 1KI/11/10
+  number: '10'
+previous:
+  id: 1KI/11/8
+  number: '8'
+reference: '1 Kings 11:9'

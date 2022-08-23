@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 22:1" class="v">1</span>Then
+  David said, This <span class="add">is</span> the house of the <span
+  class="nd">LORD</span> God, and this <span class="add">is</span> the altar of
+  the burnt offering for Israel. </p>
+id: 1CH/22/1
+next:
+  id: 1CH/22/2
+  number: '2'
+previous:
+  id: 1CH/21/30
+  number: '30'
+reference: '1 Chronicles 22:1'

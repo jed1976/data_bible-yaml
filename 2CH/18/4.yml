@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 18:4" class="v">4</span>¶ And
+  Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of
+  the <span class="nd">LORD</span> to day. </p>
+id: 2CH/18/4
+next:
+  id: 2CH/18/5
+  number: '5'
+previous:
+  id: 2CH/18/3
+  number: '3'
+reference: '2 Chronicles 18:4'

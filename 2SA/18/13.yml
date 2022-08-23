@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 18:13"
+  class="v">13</span>Otherwise I should have wrought falsehood against mine own
+  life: for there is no matter hid from the king, and thou thyself wouldest have
+  set thyself against <span class="add">me</span>. </p>
+id: 2SA/18/13
+next:
+  id: 2SA/18/14
+  number: '14'
+previous:
+  id: 2SA/18/12
+  number: '12'
+reference: '2 Samuel 18:13'

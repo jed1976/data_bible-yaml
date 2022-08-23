@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 3:1" class="v">1</span>And I,
+  brethren, could not speak unto you as unto spiritual, but as unto carnal,
+  <span class="add">even</span> as unto babes in Christ. </p>
+id: 1CO/3/1
+next:
+  id: 1CO/3/2
+  number: '2'
+previous:
+  id: 1CO/2/16
+  number: '16'
+reference: '1 Corinthians 3:1'

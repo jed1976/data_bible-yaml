@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JHN 20:31"
+  class="v">31</span>But these are written, that ye might believe that Jesus is
+  the Christ, the Son of God; and that believing ye might have life through his
+  name.</p>
+id: JHN/20/31
+next:
+  id: JHN/21/1
+  number: '1'
+previous:
+  id: JHN/20/30
+  number: '30'
+reference: 'John 20:31'

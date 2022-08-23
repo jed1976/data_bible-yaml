@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 22:5" class="v">5</span>¶ If
+  a man shall cause a field or vineyard to be eaten, and shall put in his beast,
+  and shall feed in another man’s field; of the best of his own field, and of
+  the best of his own vineyard, shall he make restitution.</p>
+id: EXO/22/5
+next:
+  id: EXO/22/6
+  number: '6'
+previous:
+  id: EXO/22/4
+  number: '4'
+reference: 'Exodus 22:5'

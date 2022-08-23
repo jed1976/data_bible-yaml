@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PHM 1:11"
+  class="v">11</span>Which in time past was to thee unprofitable, but now
+  profitable to thee and to me: </p>
+id: PHM/1/11
+next:
+  id: PHM/1/12
+  number: '12'
+previous:
+  id: PHM/1/10
+  number: '10'
+reference: 'Philemon 1:11'

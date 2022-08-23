@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 5:4" class="v">4</span>When
+  thou vowest a vow unto God, defer not to pay it; for <span class="add">he
+  hath</span> no pleasure in fools: pay that which thou hast vowed. </p>
+id: ECC/5/4
+next:
+  id: ECC/5/5
+  number: '5'
+previous:
+  id: ECC/5/3
+  number: '3'
+reference: 'Ecclesiastes 5:4'

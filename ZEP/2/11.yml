@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEP 2:11" class="v">11</span>The
+  <span class="nd">LORD</span> <span class="add">will be</span> terrible unto
+  them: for he will famish all the gods of the earth; and <span
+  class="add">men</span> shall worship him, every one from his place, <span
+  class="add">even</span> all the isles of the heathen.</p>
+id: ZEP/2/11
+next:
+  id: ZEP/2/12
+  number: '12'
+previous:
+  id: ZEP/2/10
+  number: '10'
+reference: 'Zephaniah 2:11'

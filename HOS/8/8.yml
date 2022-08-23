@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 8:8" class="v">8</span>Israel
+  is swallowed up: now shall they be among the Gentiles as a vessel wherein
+  <span class="add">is</span> no pleasure. </p>
+id: HOS/8/8
+next:
+  id: HOS/8/9
+  number: '9'
+previous:
+  id: HOS/8/7
+  number: '7'
+reference: 'Hosea 8:8'

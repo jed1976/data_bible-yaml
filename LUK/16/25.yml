@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LUK 16:25"
+  class="v">25</span><span class="wj">But Abraham said, Son, remember that thou
+  in thy lifetime receivedst thy good things, and likewise Lazarus evil things:
+  but now he is comforted, and thou art tormented.</span> </p>
+id: LUK/16/25
+next:
+  id: LUK/16/26
+  number: '26'
+previous:
+  id: LUK/16/24
+  number: '24'
+reference: 'Luke 16:25'

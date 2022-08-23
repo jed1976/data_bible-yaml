@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 11:9" class="v">9</span>An
+  hypocrite with <span class="add">his</span> mouth destroyeth his neighbour:
+  but through knowledge shall the just be delivered.</p>
+id: PRO/11/9
+next:
+  id: PRO/11/10
+  number: '10'
+previous:
+  id: PRO/11/8
+  number: '8'
+reference: 'Proverbs 11:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 4:24" class="v">24</span>And
+  when they heard that, they lifted up their voice to God with one accord, and
+  said, Lord, thou <span class="add">art</span> God, which hast made heaven, and
+  earth, and the sea, and all that in them is: </p>
+id: ACT/4/24
+next:
+  id: ACT/4/25
+  number: '25'
+previous:
+  id: ACT/4/23
+  number: '23'
+reference: 'Acts 4:24'

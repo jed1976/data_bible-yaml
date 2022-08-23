@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 4:37" class="v">37</span>And
+  there arose a great storm of wind, and the waves beat into the ship, so that
+  it was now full. </p>
+id: MRK/4/37
+next:
+  id: MRK/4/38
+  number: '38'
+previous:
+  id: MRK/4/36
+  number: '36'
+reference: 'Mark 4:37'

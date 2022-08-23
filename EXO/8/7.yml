@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 8:7" class="v">7</span>And
+  the magicians did so with their enchantments, and brought up frogs upon the
+  land of Egypt.</p>
+id: EXO/8/7
+next:
+  id: EXO/8/8
+  number: '8'
+previous:
+  id: EXO/8/6
+  number: '6'
+reference: 'Exodus 8:7'

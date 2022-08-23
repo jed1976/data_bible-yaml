@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 8:22" class="v">22</span>And
+  they shall look unto the earth; and behold trouble and darkness, dimness of
+  anguish; and <span class="add">they shall be</span> driven to darkness.</p>
+id: ISA/8/22
+next:
+  id: ISA/9/1
+  number: '1'
+previous:
+  id: ISA/8/21
+  number: '21'
+reference: 'Isaiah 8:22'

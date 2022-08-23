@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 21:6" class="v">6</span>And I
+  will smite the inhabitants of this city, both man and beast: they shall die of
+  a great pestilence. </p>
+id: JER/21/6
+next:
+  id: JER/21/7
+  number: '7'
+previous:
+  id: JER/21/5
+  number: '5'
+reference: 'Jeremiah 21:6'

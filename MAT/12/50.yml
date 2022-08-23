@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MAT 12:50"
+  class="v">50</span><span class="wj">For whosoever shall do the will of my
+  Father which is in heaven, the same is my brother, and sister, and
+  mother.</span></p>
+id: MAT/12/50
+next:
+  id: MAT/13/1
+  number: '1'
+previous:
+  id: MAT/12/49
+  number: '49'
+reference: 'Matthew 12:50'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 25:9" class="v">9</span><span
+  class="wj">But the wise answered, saying, <span class="add">Not so</span>;
+  lest there be not enough for us and you: but go ye rather to them that sell,
+  and buy for yourselves.</span> </p>
+id: MAT/25/9
+next:
+  id: MAT/25/10
+  number: '10'
+previous:
+  id: MAT/25/8
+  number: '8'
+reference: 'Matthew 25:9'

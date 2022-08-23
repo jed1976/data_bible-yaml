@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 32:1" class="v">1</span>So
+  these three men ceased to answer Job, because he <span class="add">was</span>
+  righteous in his own eyes. </p>
+id: JOB/32/1
+next:
+  id: JOB/32/2
+  number: '2'
+previous:
+  id: JOB/31/40
+  number: '40'
+reference: 'Job 32:1'

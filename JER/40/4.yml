@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 40:4" class="v">4</span>And
+  now, behold, I loose thee this day from the chains which <span
+  class="add">were</span> upon thine hand. If it seem good unto thee to come
+  with me into Babylon, come; and I will look well unto thee: but if it seem ill
+  unto thee to come with me into Babylon, forbear: behold, all the land <span
+  class="add">is</span> before thee: whither it seemeth good and convenient for
+  thee to go, thither go. </p>
+id: JER/40/4
+next:
+  id: JER/40/5
+  number: '5'
+previous:
+  id: JER/40/3
+  number: '3'
+reference: 'Jeremiah 40:4'

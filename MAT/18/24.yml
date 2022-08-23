@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 18:24"
+  class="v">24</span><span class="wj">And when he had begun to reckon, one was
+  brought unto him, which owed him ten thousand talents.</span> </p>
+id: MAT/18/24
+next:
+  id: MAT/18/25
+  number: '25'
+previous:
+  id: MAT/18/23
+  number: '23'
+reference: 'Matthew 18:24'

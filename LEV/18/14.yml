@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 18:14"
+  class="v">14</span>Thou shalt not uncover the nakedness of thy father’s
+  brother, thou shalt not approach to his wife: she <span class="add">is</span>
+  thine aunt. </p>
+id: LEV/18/14
+next:
+  id: LEV/18/15
+  number: '15'
+previous:
+  id: LEV/18/13
+  number: '13'
+reference: 'Leviticus 18:14'

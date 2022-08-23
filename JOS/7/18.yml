@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 7:18" class="v">18</span>And
+  he brought his household man by man; and Achan, the son of Carmi, the son of
+  Zabdi, the son of Zerah, of the tribe of Judah, was taken. </p>
+id: JOS/7/18
+next:
+  id: JOS/7/19
+  number: '19'
+previous:
+  id: JOS/7/17
+  number: '17'
+reference: 'Joshua 7:18'

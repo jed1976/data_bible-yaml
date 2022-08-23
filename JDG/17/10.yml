@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 17:10"
+  class="v">10</span>And Micah said unto him, Dwell with me, and be unto me a
+  father and a priest, and I will give thee ten <span class="add">shekels</span>
+  of silver by the year, and a suit of apparel, and thy victuals. So the Levite
+  went in. </p>
+id: JDG/17/10
+next:
+  id: JDG/17/11
+  number: '11'
+previous:
+  id: JDG/17/9
+  number: '9'
+reference: 'Judges 17:10'

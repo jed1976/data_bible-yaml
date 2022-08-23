@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 80:17"
+  class="v">17</span>Let thy hand be upon the man of thy right hand, upon the
+  son of man <span class="add">whom</span> thou madest strong for thyself.</p>
+id: PSA/80/17
+next:
+  id: PSA/80/18
+  number: '18'
+previous:
+  id: PSA/80/16
+  number: '16'
+reference: 'Psalms 80:17'

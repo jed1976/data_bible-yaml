@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 16:8"
+  class="v">8</span>Better <span class="add">is</span> a little with
+  righteousness than great revenues without right. </p>
+id: PRO/16/8
+next:
+  id: PRO/16/9
+  number: '9'
+previous:
+  id: PRO/16/7
+  number: '7'
+reference: 'Proverbs 16:8'

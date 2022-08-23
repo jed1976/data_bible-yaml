@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 25:10"
+  class="v">10</span>Moreover I will take from them the voice of mirth, and the
+  voice of gladness, the voice of the bridegroom, and the voice of the bride,
+  the sound of the millstones, and the light of the candle. </p>
+id: JER/25/10
+next:
+  id: JER/25/11
+  number: '11'
+previous:
+  id: JER/25/9
+  number: '9'
+reference: 'Jeremiah 25:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 35:11"
+  class="v">11</span>And they killed the passover, and the priests sprinkled
+  <span class="add">the blood</span> from their hands, and the Levites flayed
+  <span class="add">them</span>. </p>
+id: 2CH/35/11
+next:
+  id: 2CH/35/12
+  number: '12'
+previous:
+  id: 2CH/35/10
+  number: '10'
+reference: '2 Chronicles 35:11'

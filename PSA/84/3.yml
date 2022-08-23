@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 84:3" class="v">3</span>Yea,
+  the sparrow hath found an house, and the swallow a nest for herself, where she
+  may lay her young, <span class="add">even</span> thine altars, O <span
+  class="nd">LORD</span> of hosts, my King, and my God.</p>
+id: PSA/84/3
+next:
+  id: PSA/84/4
+  number: '4'
+previous:
+  id: PSA/84/2
+  number: '2'
+reference: 'Psalms 84:3'

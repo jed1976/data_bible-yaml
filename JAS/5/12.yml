@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JAS 5:12" class="v">12</span>But
+  above all things, my brethren, swear not, neither by heaven, neither by the
+  earth, neither by any other oath: but let your yea be yea; and <span
+  class="add">your</span> nay, nay; lest ye fall into condemnation. </p>
+id: JAS/5/12
+next:
+  id: JAS/5/13
+  number: '13'
+previous:
+  id: JAS/5/11
+  number: '11'
+reference: 'James 5:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 35:1" class="v">1</span>And
+  Moses gathered all the congregation of the children of Israel together, and
+  said unto them, These <span class="add">are</span> the words which the <span
+  class="nd">LORD</span> hath commanded, that <span class="add">ye</span> should
+  do them. </p>
+id: EXO/35/1
+next:
+  id: EXO/35/2
+  number: '2'
+previous:
+  id: EXO/34/35
+  number: '35'
+reference: 'Exodus 35:1'

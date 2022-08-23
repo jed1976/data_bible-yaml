@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 10:20"
+  class="v">20</span>But Esaias is very bold, and saith, I was found of them
+  that sought me not; I was made manifest unto them that asked not after me.
+  </p>
+id: ROM/10/20
+next:
+  id: ROM/10/21
+  number: '21'
+previous:
+  id: ROM/10/19
+  number: '19'
+reference: 'Romans 10:20'

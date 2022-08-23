@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 22:9" class="v">9</span>For
+  all manner of trespass, <span class="add">whether it be</span> for ox, for
+  ass, for sheep, for raiment, <span class="add">or</span> for any manner of
+  lost thing, which <span class="add">another</span> challengeth to be his, the
+  cause of both parties shall come before the judges; <span
+  class="add">and</span> whom the judges shall condemn, he shall pay double unto
+  his neighbour. </p>
+id: EXO/22/9
+next:
+  id: EXO/22/10
+  number: '10'
+previous:
+  id: EXO/22/8
+  number: '8'
+reference: 'Exodus 22:9'

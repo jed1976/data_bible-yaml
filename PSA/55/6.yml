@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 55:6" class="v">6</span>And
+  I said, Oh that I had wings like a dove! <span class="add">for then</span>
+  would I fly away, and be at rest.</p>
+id: PSA/55/6
+next:
+  id: PSA/55/7
+  number: '7'
+previous:
+  id: PSA/55/5
+  number: '5'
+reference: 'Psalms 55:6'

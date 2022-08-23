@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 61:6" class="v">6</span>Thou
+  wilt prolong the king’s life: <span class="add">and</span> his years as many
+  generations.</p>
+id: PSA/61/6
+next:
+  id: PSA/61/7
+  number: '7'
+previous:
+  id: PSA/61/5
+  number: '5'
+reference: 'Psalms 61:6'

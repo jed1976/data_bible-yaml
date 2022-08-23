@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 25:30"
+  class="v">30</span>And if it be not redeemed within the space of a full year,
+  then the house that <span class="add">is</span> in the walled city shall be
+  established for ever to him that bought it throughout his generations: it
+  shall not go out in the jubile. </p>
+id: LEV/25/30
+next:
+  id: LEV/25/31
+  number: '31'
+previous:
+  id: LEV/25/29
+  number: '29'
+reference: 'Leviticus 25:30'

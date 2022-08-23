@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 1:9" class="v">9</span>For
+  her wound <span class="add">is</span> incurable; for it is come unto Judah; he
+  is come unto the gate of my people, <span class="add">even</span> to
+  Jerusalem.</p>
+id: MIC/1/9
+next:
+  id: MIC/1/10
+  number: '10'
+previous:
+  id: MIC/1/8
+  number: '8'
+reference: 'Micah 1:9'

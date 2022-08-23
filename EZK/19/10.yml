@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 19:10" class="v">10</span>¶
+  Thy mother <span class="add">is</span> like a vine in thy blood, planted by
+  the waters: she was fruitful and full of branches by reason of many waters.
+  </p>
+id: EZK/19/10
+next:
+  id: EZK/19/11
+  number: '11'
+previous:
+  id: EZK/19/9
+  number: '9'
+reference: 'Ezekiel 19:10'

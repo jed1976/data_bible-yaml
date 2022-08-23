@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PHP 3:13"
+  class="v">13</span>Brethren, I count not myself to have apprehended: but <span
+  class="add">this</span> one thing <span class="add">I do</span>, forgetting
+  those things which are behind, and reaching forth unto those things which are
+  before, </p>
+id: PHP/3/13
+next:
+  id: PHP/3/14
+  number: '14'
+previous:
+  id: PHP/3/12
+  number: '12'
+reference: 'Philippians 3:13'

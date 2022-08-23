@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 26:10"
+  class="v">10</span>And the earth opened her mouth, and swallowed them up
+  together with Korah, when that company died, what time the fire devoured two
+  hundred and fifty men: and they became a sign. </p>
+id: NUM/26/10
+next:
+  id: NUM/26/11
+  number: '11'
+previous:
+  id: NUM/26/9
+  number: '9'
+reference: 'Numbers 26:10'

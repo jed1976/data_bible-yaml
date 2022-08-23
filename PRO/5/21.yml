@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 5:21" class="v">21</span>For
+  the ways of man <span class="add">are</span> before the eyes of the <span
+  class="nd">LORD</span>, and he pondereth all his goings.</p>
+id: PRO/5/21
+next:
+  id: PRO/5/22
+  number: '22'
+previous:
+  id: PRO/5/20
+  number: '20'
+reference: 'Proverbs 5:21'

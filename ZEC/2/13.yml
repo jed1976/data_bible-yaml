@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEC 2:13" class="v">13</span>Be
+  silent, O all flesh, before the <span class="nd">LORD</span>: for he is raised
+  up out of his holy habitation.</p>
+id: ZEC/2/13
+next:
+  id: ZEC/3/1
+  number: '1'
+previous:
+  id: ZEC/2/12
+  number: '12'
+reference: 'Zechariah 2:13'

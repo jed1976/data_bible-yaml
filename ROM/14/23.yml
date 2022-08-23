@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 14:23"
+  class="v">23</span>And he that doubteth is damned if he eat, because <span
+  class="add">he eateth</span> not of faith: for whatsoever <span
+  class="add">is</span> not of faith is sin.</p>
+id: ROM/14/23
+next:
+  id: ROM/15/1
+  number: '1'
+previous:
+  id: ROM/14/22
+  number: '22'
+reference: 'Romans 14:23'

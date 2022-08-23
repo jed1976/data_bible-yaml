@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 15:1" class="v">1</span><span class="nd">LORD</span>, who shall
+  abide in thy tabernacle? who shall dwell in thy holy hill?</p>
+id: PSA/15/1
+next:
+  id: PSA/15/2
+  number: '2'
+previous:
+  id: PSA/14/7
+  number: '7'
+reference: 'Psalms 15:1'

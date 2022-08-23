@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 135:2" class="v">2</span>Ye
+  that stand in the house of the <span class="nd">LORD</span>, in the courts of
+  the house of our God,</p>
+id: PSA/135/2
+next:
+  id: PSA/135/3
+  number: '3'
+previous:
+  id: PSA/135/1
+  number: '1'
+reference: 'Psalms 135:2'

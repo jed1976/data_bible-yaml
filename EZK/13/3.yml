@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 13:3" class="v">3</span>Thus
+  saith the Lord <span class="nd">GOD</span>; Woe unto the foolish prophets,
+  that follow their own spirit, and have seen nothing! </p>
+id: EZK/13/3
+next:
+  id: EZK/13/4
+  number: '4'
+previous:
+  id: EZK/13/2
+  number: '2'
+reference: 'Ezekiel 13:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="61" data-sid="LAM 3:61"
+  class="v">61</span>Thou hast heard their reproach, O <span
+  class="nd">LORD</span>, <span class="add">and</span> all their imaginations
+  against me; </p>
+id: LAM/3/61
+next:
+  id: LAM/3/62
+  number: '62'
+previous:
+  id: LAM/3/60
+  number: '60'
+reference: 'Lamentations 3:61'

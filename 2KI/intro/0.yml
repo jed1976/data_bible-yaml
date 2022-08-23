@@ -1,0 +1,11 @@
+content: >-
+  <p class="mt1">The Second Book of the Kings</p><p class="mt2">Commonly Called
+  the Fourth Book of the Kings</p>
+id: 2KI/intro/0
+next:
+  id: 2KI/1/1
+  number: '1'
+previous:
+  id: 1KI/22/53
+  number: '53'
+reference: 2 Kings

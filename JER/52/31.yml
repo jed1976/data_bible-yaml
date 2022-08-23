@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JER 52:31" class="v">31</span>¶
+  And it came to pass in the seven and thirtieth year of the captivity of
+  Jehoiachin king of Judah, in the twelfth month, in the five and twentieth
+  <span class="add">day</span> of the month, <span class="add">that</span>
+  Evil-merodach king of Babylon in the <span class="add">first</span> year of
+  his reign lifted up the head of Jehoiachin king of Judah, and brought him
+  forth out of prison, </p>
+id: JER/52/31
+next:
+  id: JER/52/32
+  number: '32'
+previous:
+  id: JER/52/30
+  number: '30'
+reference: 'Jeremiah 52:31'

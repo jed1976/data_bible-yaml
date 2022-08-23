@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZR 2:20" class="v">20</span>The
+  children of Gibbar, ninety and five. </p>
+id: EZR/2/20
+next:
+  id: EZR/2/21
+  number: '21'
+previous:
+  id: EZR/2/19
+  number: '19'
+reference: 'Ezra 2:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 17:20"
+  class="v">20</span>And say unto them, Hear ye the word of the <span
+  class="nd">LORD</span>, ye kings of Judah, and all Judah, and all the
+  inhabitants of Jerusalem, that enter in by these gates: </p>
+id: JER/17/20
+next:
+  id: JER/17/21
+  number: '21'
+previous:
+  id: JER/17/19
+  number: '19'
+reference: 'Jeremiah 17:20'

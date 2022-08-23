@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 30:5" class="v">5</span>And
+  thou shalt make the staves <span class="add">of</span> shittim wood, and
+  overlay them with gold. </p>
+id: EXO/30/5
+next:
+  id: EXO/30/6
+  number: '6'
+previous:
+  id: EXO/30/4
+  number: '4'
+reference: 'Exodus 30:5'

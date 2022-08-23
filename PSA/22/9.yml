@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 22:9" class="v">9</span>But
+  thou <span class="add">art</span> he that took me out of the womb: thou didst
+  make me hope <span class="add">when I was</span> upon my mother’s breasts.</p>
+id: PSA/22/9
+next:
+  id: PSA/22/10
+  number: '10'
+previous:
+  id: PSA/22/8
+  number: '8'
+reference: 'Psalms 22:9'

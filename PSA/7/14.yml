@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 7:14"
+  class="v">14</span>Behold, he travaileth with iniquity, and hath conceived
+  mischief, and brought forth falsehood.</p>
+id: PSA/7/14
+next:
+  id: PSA/7/15
+  number: '15'
+previous:
+  id: PSA/7/13
+  number: '13'
+reference: 'Psalms 7:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 21:6" class="v">6</span>Even
+  when I remember I am afraid, and trembling taketh hold on my flesh.</p>
+id: JOB/21/6
+next:
+  id: JOB/21/7
+  number: '7'
+previous:
+  id: JOB/21/5
+  number: '5'
+reference: 'Job 21:6'

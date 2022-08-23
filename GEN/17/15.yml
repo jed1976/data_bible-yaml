@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 17:15" class="v">15</span>¶
+  And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name
+  Sarai, but Sarah <span class="add">shall</span> her name <span
+  class="add">be</span>. </p>
+id: GEN/17/15
+next:
+  id: GEN/17/16
+  number: '16'
+previous:
+  id: GEN/17/14
+  number: '14'
+reference: 'Genesis 17:15'

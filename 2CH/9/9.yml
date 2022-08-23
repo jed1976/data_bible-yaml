@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 9:9" class="v">9</span>And
+  she gave the king an hundred and twenty talents of gold, and of spices great
+  abundance, and precious stones: neither was there any such spice as the queen
+  of Sheba gave king Solomon. </p>
+id: 2CH/9/9
+next:
+  id: 2CH/9/10
+  number: '10'
+previous:
+  id: 2CH/9/8
+  number: '8'
+reference: '2 Chronicles 9:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 25:24"
+  class="v">24</span>And thou shalt overlay it with pure gold, and make thereto
+  a crown of gold round about. </p>
+id: EXO/25/24
+next:
+  id: EXO/25/25
+  number: '25'
+previous:
+  id: EXO/25/23
+  number: '23'
+reference: 'Exodus 25:24'

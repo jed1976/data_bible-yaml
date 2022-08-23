@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 17:11"
+  class="v">11</span>They have now compassed us in our steps: they have set
+  their eyes bowing down to the earth;</p>
+id: PSA/17/11
+next:
+  id: PSA/17/12
+  number: '12'
+previous:
+  id: PSA/17/10
+  number: '10'
+reference: 'Psalms 17:11'

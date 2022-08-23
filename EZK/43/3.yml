@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 43:3" class="v">3</span>And
+  <span class="add">it was</span> according to the appearance of the vision
+  which I saw, <span class="add">even</span> according to the vision that I saw
+  when I came to destroy the city: and the visions <span class="add">were</span>
+  like the vision that I saw by the river Chebar; and I fell upon my face. </p>
+id: EZK/43/3
+next:
+  id: EZK/43/4
+  number: '4'
+previous:
+  id: EZK/43/2
+  number: '2'
+reference: 'Ezekiel 43:3'

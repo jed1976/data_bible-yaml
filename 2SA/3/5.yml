@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 3:5" class="v">5</span>And
+  the sixth, Ithream, by Eglah David’s wife. These were born to David in
+  Hebron.</p>
+id: 2SA/3/5
+next:
+  id: 2SA/3/6
+  number: '6'
+previous:
+  id: 2SA/3/4
+  number: '4'
+reference: '2 Samuel 3:5'

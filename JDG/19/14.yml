@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JDG 19:14"
+  class="v">14</span>And they passed on and went their way; and the sun went
+  down upon them <span class="add">when they were</span> by Gibeah, which <span
+  class="add">belongeth</span> to Benjamin. </p>
+id: JDG/19/14
+next:
+  id: JDG/19/15
+  number: '15'
+previous:
+  id: JDG/19/13
+  number: '13'
+reference: 'Judges 19:14'

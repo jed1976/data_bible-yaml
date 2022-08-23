@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 19:12"
+  class="v">12</span>His eyes <span class="add">were</span> as a flame of fire,
+  and on his head <span class="add">were</span> many crowns; and he had a name
+  written, that no man knew, but he himself. </p>
+id: REV/19/12
+next:
+  id: REV/19/13
+  number: '13'
+previous:
+  id: REV/19/11
+  number: '11'
+reference: 'Revelation 19:12'

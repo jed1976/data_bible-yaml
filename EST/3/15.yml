@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 3:15" class="v">15</span>The
+  posts went out, being hastened by the king’s commandment, and the decree was
+  given in Shushan the palace. And the king and Haman sat down to drink; but the
+  city Shushan was perplexed.</p>
+id: EST/3/15
+next:
+  id: EST/4/1
+  number: '1'
+previous:
+  id: EST/3/14
+  number: '14'
+reference: 'Esther 3:15'

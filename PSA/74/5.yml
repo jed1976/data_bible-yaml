@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 74:5"
+  class="v">5</span><span class="add">A man</span> was famous according as he
+  had lifted up axes upon the thick trees.</p>
+id: PSA/74/5
+next:
+  id: PSA/74/6
+  number: '6'
+previous:
+  id: PSA/74/4
+  number: '4'
+reference: 'Psalms 74:5'

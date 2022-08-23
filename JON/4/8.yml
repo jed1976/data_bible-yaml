@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JON 4:8" class="v">8</span>And it
+  came to pass, when the sun did arise, that God prepared a vehement east wind;
+  and the sun beat upon the head of Jonah, that he fainted, and wished in
+  himself to die, and said, <span class="add">It is</span> better for me to die
+  than to live. </p>
+id: JON/4/8
+next:
+  id: JON/4/9
+  number: '9'
+previous:
+  id: JON/4/7
+  number: '7'
+reference: 'Jonah 4:8'

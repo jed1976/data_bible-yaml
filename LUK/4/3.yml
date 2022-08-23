@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 4:3" class="v">3</span>And
+  the devil said unto him, If thou be the Son of God, command this stone that it
+  be made bread. </p>
+id: LUK/4/3
+next:
+  id: LUK/4/4
+  number: '4'
+previous:
+  id: LUK/4/2
+  number: '2'
+reference: 'Luke 4:3'

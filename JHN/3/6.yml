@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 3:6" class="v">6</span><span
+  class="wj">That which is born of the flesh is flesh; and that which is born of
+  the Spirit is spirit.</span> </p>
+id: JHN/3/6
+next:
+  id: JHN/3/7
+  number: '7'
+previous:
+  id: JHN/3/5
+  number: '5'
+reference: 'John 3:6'

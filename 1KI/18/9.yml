@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1KI 18:9" class="v">9</span>And
+  he said, What have I sinned, that thou wouldest deliver thy servant into the
+  hand of Ahab, to slay me? </p>
+id: 1KI/18/9
+next:
+  id: 1KI/18/10
+  number: '10'
+previous:
+  id: 1KI/18/8
+  number: '8'
+reference: '1 Kings 18:9'

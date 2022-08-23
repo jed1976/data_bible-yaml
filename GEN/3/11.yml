@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 3:11" class="v">11</span>And
+  he said, Who told thee that thou <span class="add">wast</span> naked? Hast
+  thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
+  </p>
+id: GEN/3/11
+next:
+  id: GEN/3/12
+  number: '12'
+previous:
+  id: GEN/3/10
+  number: '10'
+reference: 'Genesis 3:11'

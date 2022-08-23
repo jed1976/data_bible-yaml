@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JDG 20:44"
+  class="v">44</span>And there fell of Benjamin eighteen thousand men; all these
+  <span class="add">were</span> men of valour. </p>
+id: JDG/20/44
+next:
+  id: JDG/20/45
+  number: '45'
+previous:
+  id: JDG/20/43
+  number: '43'
+reference: 'Judges 20:44'

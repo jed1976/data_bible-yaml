@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 9:23" class="v">23</span>¶
+  And he said to <span class="add">them</span> all, <span class="wj">If any
+  <span class="add">man</span> will come after me, let him deny himself, and
+  take up his cross daily, and follow me.</span> </p>
+id: LUK/9/23
+next:
+  id: LUK/9/24
+  number: '24'
+previous:
+  id: LUK/9/22
+  number: '22'
+reference: 'Luke 9:23'

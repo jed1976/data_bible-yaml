@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 28:23"
+  class="v">23</span>God understandeth the way thereof, and he knoweth the place
+  thereof. </p>
+id: JOB/28/23
+next:
+  id: JOB/28/24
+  number: '24'
+previous:
+  id: JOB/28/22
+  number: '22'
+reference: 'Job 28:23'

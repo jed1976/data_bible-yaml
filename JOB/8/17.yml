@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 8:17" class="v">17</span>His
+  roots are wrapped about the heap, <span class="add">and</span> seeth the place
+  of stones. </p>
+id: JOB/8/17
+next:
+  id: JOB/8/18
+  number: '18'
+previous:
+  id: JOB/8/16
+  number: '16'
+reference: 'Job 8:17'

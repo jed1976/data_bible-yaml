@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 11:21"
+  class="v">21</span>And the hand of the Lord was with them: and a great number
+  believed, and turned unto the Lord.</p>
+id: ACT/11/21
+next:
+  id: ACT/11/22
+  number: '22'
+previous:
+  id: ACT/11/20
+  number: '20'
+reference: 'Acts 11:21'

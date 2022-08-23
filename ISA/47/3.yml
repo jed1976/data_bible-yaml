@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 47:3" class="v">3</span>Thy
+  nakedness shall be uncovered, yea, thy shame shall be seen: I will take
+  vengeance, and I will not meet <span class="add">thee as</span> a man. </p>
+id: ISA/47/3
+next:
+  id: ISA/47/4
+  number: '4'
+previous:
+  id: ISA/47/2
+  number: '2'
+reference: 'Isaiah 47:3'

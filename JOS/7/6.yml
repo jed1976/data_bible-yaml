@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 7:6" class="v">6</span>¶ And
+  Joshua rent his clothes, and fell to the earth upon his face before the ark of
+  the <span class="nd">LORD</span> until the eventide, he and the elders of
+  Israel, and put dust upon their heads. </p>
+id: JOS/7/6
+next:
+  id: JOS/7/7
+  number: '7'
+previous:
+  id: JOS/7/5
+  number: '5'
+reference: 'Joshua 7:6'

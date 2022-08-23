@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 104:3" class="v">3</span>Who
+  layeth the beams of his chambers in the waters: who maketh the clouds his
+  chariot: who walketh upon the wings of the wind:</p>
+id: PSA/104/3
+next:
+  id: PSA/104/4
+  number: '4'
+previous:
+  id: PSA/104/2
+  number: '2'
+reference: 'Psalms 104:3'

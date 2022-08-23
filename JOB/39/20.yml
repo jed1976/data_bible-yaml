@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 39:20"
+  class="v">20</span>Canst thou make him afraid as a grasshopper? the glory of
+  his nostrils <span class="add">is</span> terrible. </p>
+id: JOB/39/20
+next:
+  id: JOB/39/21
+  number: '21'
+previous:
+  id: JOB/39/19
+  number: '19'
+reference: 'Job 39:20'

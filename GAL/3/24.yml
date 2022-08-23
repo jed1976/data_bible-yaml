@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GAL 3:24"
+  class="v">24</span>Wherefore the law was our schoolmaster <span class="add">to
+  bring us</span> unto Christ, that we might be justified by faith. </p>
+id: GAL/3/24
+next:
+  id: GAL/3/25
+  number: '25'
+previous:
+  id: GAL/3/23
+  number: '23'
+reference: 'Galatians 3:24'

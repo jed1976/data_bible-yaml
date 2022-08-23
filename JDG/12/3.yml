@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 12:3" class="v">3</span>And
+  when I saw that ye delivered <span class="add">me</span> not, I put my life in
+  my hands, and passed over against the children of Ammon, and the <span
+  class="nd">LORD</span> delivered them into my hand: wherefore then are ye come
+  up unto me this day, to fight against me? </p>
+id: JDG/12/3
+next:
+  id: JDG/12/4
+  number: '4'
+previous:
+  id: JDG/12/2
+  number: '2'
+reference: 'Judges 12:3'

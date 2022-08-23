@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 8:7" class="v">7</span>Now
+  therefore, behold, the Lord bringeth up upon them the waters of the river,
+  strong and many, <span class="add">even</span> the king of Assyria, and all
+  his glory: and he shall come up over all his channels, and go over all his
+  banks: </p>
+id: ISA/8/7
+next:
+  id: ISA/8/8
+  number: '8'
+previous:
+  id: ISA/8/6
+  number: '6'
+reference: 'Isaiah 8:7'

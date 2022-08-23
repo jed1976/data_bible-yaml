@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GAL 2:5" class="v">5</span>To
+  whom we gave place by subjection, no, not for an hour; that the truth of the
+  gospel might continue with you. </p>
+id: GAL/2/5
+next:
+  id: GAL/2/6
+  number: '6'
+previous:
+  id: GAL/2/4
+  number: '4'
+reference: 'Galatians 2:5'

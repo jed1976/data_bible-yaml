@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="2KI 23:36" class="v">36</span>¶
+  Jehoiakim <span class="add">was</span> twenty and five years old when he began
+  to reign; and he reigned eleven years in Jerusalem. And his mother’s name
+  <span class="add">was</span> Zebudah, the daughter of Pedaiah of Rumah. </p>
+id: 2KI/23/36
+next:
+  id: 2KI/23/37
+  number: '37'
+previous:
+  id: 2KI/23/35
+  number: '35'
+reference: '2 Kings 23:36'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 24:20" class="v">20</span>If
+  ye forsake the <span class="nd">LORD</span>, and serve strange gods, then he
+  will turn and do you hurt, and consume you, after that he hath done you good.
+  </p>
+id: JOS/24/20
+next:
+  id: JOS/24/21
+  number: '21'
+previous:
+  id: JOS/24/19
+  number: '19'
+reference: 'Joshua 24:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 19:11"
+  class="v">11</span>And I saw heaven opened, and behold a white horse; and he
+  that sat upon him <span class="add">was</span> called Faithful and True, and
+  in righteousness he doth judge and make war. </p>
+id: REV/19/11
+next:
+  id: REV/19/12
+  number: '12'
+previous:
+  id: REV/19/10
+  number: '10'
+reference: 'Revelation 19:11'

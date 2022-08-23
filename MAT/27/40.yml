@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 27:40"
+  class="v">40</span>And saying, Thou that destroyest the temple, and buildest
+  <span class="add">it</span> in three days, save thyself. If thou be the Son of
+  God, come down from the cross. </p>
+id: MAT/27/40
+next:
+  id: MAT/27/41
+  number: '41'
+previous:
+  id: MAT/27/39
+  number: '39'
+reference: 'Matthew 27:40'

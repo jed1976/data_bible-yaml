@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 17:10"
+  class="v">10</span>Because thou hast forgotten the God of thy salvation, and
+  hast not been mindful of the rock of thy strength, therefore shalt thou plant
+  pleasant plants, and shalt set it with strange slips: </p>
+id: ISA/17/10
+next:
+  id: ISA/17/11
+  number: '11'
+previous:
+  id: ISA/17/9
+  number: '9'
+reference: 'Isaiah 17:10'

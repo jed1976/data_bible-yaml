@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 8:3" class="v">3</span>And
+  Solomon went to Hamath-zobah, and prevailed against it. </p>
+id: 2CH/8/3
+next:
+  id: 2CH/8/4
+  number: '4'
+previous:
+  id: 2CH/8/2
+  number: '2'
+reference: '2 Chronicles 8:3'

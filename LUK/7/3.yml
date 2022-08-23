@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 7:3" class="v">3</span>And
+  when he heard of Jesus, he sent unto him the elders of the Jews, beseeching
+  him that he would come and heal his servant. </p>
+id: LUK/7/3
+next:
+  id: LUK/7/4
+  number: '4'
+previous:
+  id: LUK/7/2
+  number: '2'
+reference: 'Luke 7:3'

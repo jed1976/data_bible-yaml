@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 10:13"
+  class="v">13</span>And Joab drew nigh, and the people that <span
+  class="add">were</span> with him, unto the battle against the Syrians: and
+  they fled before him. </p>
+id: 2SA/10/13
+next:
+  id: 2SA/10/14
+  number: '14'
+previous:
+  id: 2SA/10/12
+  number: '12'
+reference: '2 Samuel 10:13'

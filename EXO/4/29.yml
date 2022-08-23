@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 4:29" class="v">29</span>¶
+  And Moses and Aaron went and gathered together all the elders of the children
+  of Israel: </p>
+id: EXO/4/29
+next:
+  id: EXO/4/30
+  number: '30'
+previous:
+  id: EXO/4/28
+  number: '28'
+reference: 'Exodus 4:29'

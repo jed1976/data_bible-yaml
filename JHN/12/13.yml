@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 12:13"
+  class="v">13</span>Took branches of palm trees, and went forth to meet him,
+  and cried, Hosanna: Blessed <span class="add">is</span> the King of Israel
+  that cometh in the name of the Lord. </p>
+id: JHN/12/13
+next:
+  id: JHN/12/14
+  number: '14'
+previous:
+  id: JHN/12/12
+  number: '12'
+reference: 'John 12:13'

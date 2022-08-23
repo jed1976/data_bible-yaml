@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 22:5" class="v">5</span>For
+  <span class="add">it is</span> a day of trouble, and of treading down, and of
+  perplexity by the Lord <span class="nd">GOD</span> of hosts in the valley of
+  vision, breaking down the walls, and of crying to the mountains. </p>
+id: ISA/22/5
+next:
+  id: ISA/22/6
+  number: '6'
+previous:
+  id: ISA/22/4
+  number: '4'
+reference: 'Isaiah 22:5'

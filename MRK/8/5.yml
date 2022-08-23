@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 8:5" class="v">5</span>And he
+  asked them, <span class="wj">How many loaves have ye?</span> And they said,
+  Seven. </p>
+id: MRK/8/5
+next:
+  id: MRK/8/6
+  number: '6'
+previous:
+  id: MRK/8/4
+  number: '4'
+reference: 'Mark 8:5'

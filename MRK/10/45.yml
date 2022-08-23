@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MRK 10:45"
+  class="v">45</span><span class="wj">For even the Son of man came not to be
+  ministered unto, but to minister, and to give his life a ransom for
+  many.</span></p>
+id: MRK/10/45
+next:
+  id: MRK/10/46
+  number: '46'
+previous:
+  id: MRK/10/44
+  number: '44'
+reference: 'Mark 10:45'

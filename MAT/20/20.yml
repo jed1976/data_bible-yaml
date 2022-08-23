@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 20:20" class="v">20</span>¶
+  Then came to him the mother of Zebedee’s children with her sons, worshipping
+  <span class="add">him</span>, and desiring a certain thing of him. </p>
+id: MAT/20/20
+next:
+  id: MAT/20/21
+  number: '21'
+previous:
+  id: MAT/20/19
+  number: '19'
+reference: 'Matthew 20:20'

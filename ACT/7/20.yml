@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 7:20" class="v">20</span>In
+  which time Moses was born, and was exceeding fair, and nourished up in his
+  father’s house three months: </p>
+id: ACT/7/20
+next:
+  id: ACT/7/21
+  number: '21'
+previous:
+  id: ACT/7/19
+  number: '19'
+reference: 'Acts 7:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 43:1"
+  class="v">1</span>Afterward he brought me to the gate, <span
+  class="add">even</span> the gate that looketh toward the east: </p>
+id: EZK/43/1
+next:
+  id: EZK/43/2
+  number: '2'
+previous:
+  id: EZK/42/20
+  number: '20'
+reference: 'Ezekiel 43:1'

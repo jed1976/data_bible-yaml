@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 8:14"
+  class="v">14</span>Jesus answered and said unto them, <span class="wj">Though
+  I bear record of myself, <span class="add">yet</span> my record is true: for I
+  know whence I came, and whither I go; but ye cannot tell whence I come, and
+  whither I go.</span> </p>
+id: JHN/8/14
+next:
+  id: JHN/8/15
+  number: '15'
+previous:
+  id: JHN/8/13
+  number: '13'
+reference: 'John 8:14'

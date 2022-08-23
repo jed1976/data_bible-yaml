@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 50:23"
+  class="v">23</span>Whoso offereth praise glorifieth me: and to him that
+  ordereth <span class="add">his</span> conversation <span
+  class="add">aright</span> will I shew the salvation of God.</p>
+id: PSA/50/23
+next:
+  id: PSA/51/1
+  number: '1'
+previous:
+  id: PSA/50/22
+  number: '22'
+reference: 'Psalms 50:23'

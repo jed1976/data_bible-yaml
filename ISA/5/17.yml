@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 5:17"
+  class="v">17</span>Then shall the lambs feed after their manner, and the waste
+  places of the fat ones shall strangers eat.</p>
+id: ISA/5/17
+next:
+  id: ISA/5/18
+  number: '18'
+previous:
+  id: ISA/5/16
+  number: '16'
+reference: 'Isaiah 5:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 1:22" class="v">22</span>¶
+  And ye came near unto me every one of you, and said, We will send men before
+  us, and they shall search us out the land, and bring us word again by what way
+  we must go up, and into what cities we shall come. </p>
+id: DEU/1/22
+next:
+  id: DEU/1/23
+  number: '23'
+previous:
+  id: DEU/1/21
+  number: '21'
+reference: 'Deuteronomy 1:22'

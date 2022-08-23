@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 13:29"
+  class="v">29</span>And when they had fulfilled all that was written of him,
+  they took <span class="add">him</span> down from the tree, and laid <span
+  class="add">him</span> in a sepulchre. </p>
+id: ACT/13/29
+next:
+  id: ACT/13/30
+  number: '30'
+previous:
+  id: ACT/13/28
+  number: '28'
+reference: 'Acts 13:29'

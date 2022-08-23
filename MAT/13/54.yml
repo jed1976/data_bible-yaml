@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="MAT 13:54"
+  class="v">54</span>And when he was come into his own country, he taught them
+  in their synagogue, insomuch that they were astonished, and said, Whence hath
+  this <span class="add">man</span> this wisdom, and <span
+  class="add">these</span> mighty works? </p>
+id: MAT/13/54
+next:
+  id: MAT/13/55
+  number: '55'
+previous:
+  id: MAT/13/53
+  number: '53'
+reference: 'Matthew 13:54'

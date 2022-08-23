@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 19:18"
+  class="v">18</span>Yea, young children despised me; I arose, and they spake
+  against me. </p>
+id: JOB/19/18
+next:
+  id: JOB/19/19
+  number: '19'
+previous:
+  id: JOB/19/17
+  number: '17'
+reference: 'Job 19:18'

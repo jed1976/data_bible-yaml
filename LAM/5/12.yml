@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LAM 5:12"
+  class="v">12</span>Princes are hanged up by their hand: the faces of elders
+  were not honoured. </p>
+id: LAM/5/12
+next:
+  id: LAM/5/13
+  number: '13'
+previous:
+  id: LAM/5/11
+  number: '11'
+reference: 'Lamentations 5:12'

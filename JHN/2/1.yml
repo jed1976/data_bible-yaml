@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 2:1" class="v">1</span>And
+  the third day there was a marriage in Cana of Galilee; and the mother of Jesus
+  was there: </p>
+id: JHN/2/1
+next:
+  id: JHN/2/2
+  number: '2'
+previous:
+  id: JHN/1/51
+  number: '51'
+reference: 'John 2:1'

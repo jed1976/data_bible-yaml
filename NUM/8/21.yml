@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 8:21" class="v">21</span>And
+  the Levites were purified, and they washed their clothes; and Aaron offered
+  them <span class="add">as</span> an offering before the <span
+  class="nd">LORD</span>; and Aaron made an atonement for them to cleanse them.
+  </p>
+id: NUM/8/21
+next:
+  id: NUM/8/22
+  number: '22'
+previous:
+  id: NUM/8/20
+  number: '20'
+reference: 'Numbers 8:21'

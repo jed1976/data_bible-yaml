@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 3:4" class="v">4</span>¶ And
+  he said unto me, Son of man, go, get thee unto the house of Israel, and speak
+  with my words unto them. </p>
+id: EZK/3/4
+next:
+  id: EZK/3/5
+  number: '5'
+previous:
+  id: EZK/3/3
+  number: '3'
+reference: 'Ezekiel 3:4'

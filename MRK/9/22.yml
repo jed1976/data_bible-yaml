@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 9:22" class="v">22</span>And
+  ofttimes it hath cast him into the fire, and into the waters, to destroy him:
+  but if thou canst do any thing, have compassion on us, and help us. </p>
+id: MRK/9/22
+next:
+  id: MRK/9/23
+  number: '23'
+previous:
+  id: MRK/9/21
+  number: '21'
+reference: 'Mark 9:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="LUK 3:31"
+  class="v">31</span>Which was <span class="add">the son</span> of Melea, which
+  was <span class="add">the son</span> of Menan, which was <span class="add">the
+  son</span> of Mattatha, which was <span class="add">the son</span> of Nathan,
+  which was <span class="add">the son</span> of David, </p>
+id: LUK/3/31
+next:
+  id: LUK/3/32
+  number: '32'
+previous:
+  id: LUK/3/30
+  number: '30'
+reference: 'Luke 3:31'

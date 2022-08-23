@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 9:8" class="v">8</span>The
+  watchman of Ephraim <span class="add">was</span> with my God: <span
+  class="add">but</span> the prophet <span class="add">is</span> a snare of a
+  fowler in all his ways, <span class="add">and</span> hatred in the house of
+  his God. </p>
+id: HOS/9/8
+next:
+  id: HOS/9/9
+  number: '9'
+previous:
+  id: HOS/9/7
+  number: '7'
+reference: 'Hosea 9:8'

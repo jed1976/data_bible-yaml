@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 13:6" class="v">6</span>And
+  when they had gone through the isle unto Paphos, they found a certain
+  sorcerer, a false prophet, a Jew, whose name <span class="add">was</span>
+  Bar-jesus: </p>
+id: ACT/13/6
+next:
+  id: ACT/13/7
+  number: '7'
+previous:
+  id: ACT/13/5
+  number: '5'
+reference: 'Acts 13:6'

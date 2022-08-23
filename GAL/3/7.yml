@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GAL 3:7" class="v">7</span>Know
+  ye therefore that they which are of faith, the same are the children of
+  Abraham. </p>
+id: GAL/3/7
+next:
+  id: GAL/3/8
+  number: '8'
+previous:
+  id: GAL/3/6
+  number: '6'
+reference: 'Galatians 3:7'

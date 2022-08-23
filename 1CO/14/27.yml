@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1CO 14:27" class="v">27</span>If
+  any man speak in an <span class="add">unknown</span> tongue, <span
+  class="add">let it be</span> by two, or at the most <span
+  class="add">by</span> three, and <span class="add">that</span> by course; and
+  let one interpret. </p>
+id: 1CO/14/27
+next:
+  id: 1CO/14/28
+  number: '28'
+previous:
+  id: 1CO/14/26
+  number: '26'
+reference: '1 Corinthians 14:27'

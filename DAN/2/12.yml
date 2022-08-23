@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 2:12" class="v">12</span>For
+  this cause the king was angry and very furious, and commanded to destroy all
+  the wise <span class="add">men</span> of Babylon. </p>
+id: DAN/2/12
+next:
+  id: DAN/2/13
+  number: '13'
+previous:
+  id: DAN/2/11
+  number: '11'
+reference: 'Daniel 2:12'

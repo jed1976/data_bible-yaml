@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JAS 2:22"
+  class="v">22</span>Seest thou how faith wrought with his works, and by works
+  was faith made perfect? </p>
+id: JAS/2/22
+next:
+  id: JAS/2/23
+  number: '23'
+previous:
+  id: JAS/2/21
+  number: '21'
+reference: 'James 2:22'

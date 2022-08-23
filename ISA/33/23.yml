@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 33:23"
+  class="v">23</span>Thy tacklings are loosed; they could not well strengthen
+  their mast, they could not spread the sail: then is the prey of a great spoil
+  divided; the lame take the prey. </p>
+id: ISA/33/23
+next:
+  id: ISA/33/24
+  number: '24'
+previous:
+  id: ISA/33/22
+  number: '22'
+reference: 'Isaiah 33:23'

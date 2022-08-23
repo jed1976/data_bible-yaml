@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 20:9" class="v">9</span>And
+  it shall be, when the officers have made an end of speaking unto the people,
+  that they shall make captains of the armies to lead the people.</p>
+id: DEU/20/9
+next:
+  id: DEU/20/10
+  number: '10'
+previous:
+  id: DEU/20/8
+  number: '8'
+reference: 'Deuteronomy 20:9'

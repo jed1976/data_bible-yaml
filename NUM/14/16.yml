@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 14:16"
+  class="v">16</span>Because the <span class="nd">LORD</span> was not able to
+  bring this people into the land which he sware unto them, therefore he hath
+  slain them in the wilderness. </p>
+id: NUM/14/16
+next:
+  id: NUM/14/17
+  number: '17'
+previous:
+  id: NUM/14/15
+  number: '15'
+reference: 'Numbers 14:16'

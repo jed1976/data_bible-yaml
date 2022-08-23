@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 22:7" class="v">7</span><span
+  class="add">But</span> thou shalt in any wise let the dam go, and take the
+  young to thee; that it may be well with thee, and <span
+  class="add">that</span> thou mayest prolong <span class="add">thy</span>
+  days.</p>
+id: DEU/22/7
+next:
+  id: DEU/22/8
+  number: '8'
+previous:
+  id: DEU/22/6
+  number: '6'
+reference: 'Deuteronomy 22:7'

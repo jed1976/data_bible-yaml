@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 26:49" class="v">49</span>Of
+  Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.
+  </p>
+id: NUM/26/49
+next:
+  id: NUM/26/50
+  number: '50'
+previous:
+  id: NUM/26/48
+  number: '48'
+reference: 'Numbers 26:49'

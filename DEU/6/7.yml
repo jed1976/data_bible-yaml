@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 6:7" class="v">7</span>And
+  thou shalt teach them diligently unto thy children, and shalt talk of them
+  when thou sittest in thine house, and when thou walkest by the way, and when
+  thou liest down, and when thou risest up. </p>
+id: DEU/6/7
+next:
+  id: DEU/6/8
+  number: '8'
+previous:
+  id: DEU/6/6
+  number: '6'
+reference: 'Deuteronomy 6:7'

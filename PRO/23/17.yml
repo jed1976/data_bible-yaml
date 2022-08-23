@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 23:17"
+  class="v">17</span>Let not thine heart envy sinners: but <span class="add">be
+  thou</span> in the fear of the <span class="nd">LORD</span> all the day long.
+  </p>
+id: PRO/23/17
+next:
+  id: PRO/23/18
+  number: '18'
+previous:
+  id: PRO/23/16
+  number: '16'
+reference: 'Proverbs 23:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 33:35"
+  class="v">35</span>And they departed from Ebronah, and encamped at
+  Ezion-gaber. </p>
+id: NUM/33/35
+next:
+  id: NUM/33/36
+  number: '36'
+previous:
+  id: NUM/33/34
+  number: '34'
+reference: 'Numbers 33:35'

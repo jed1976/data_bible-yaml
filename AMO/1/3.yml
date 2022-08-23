@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 1:3" class="v">3</span>Thus
+  saith the <span class="nd">LORD</span>; For three transgressions of Damascus,
+  and for four, I will not turn away <span class="add">the punishment</span>
+  thereof; because they have threshed Gilead with threshing instruments of iron:
+  </p>
+id: AMO/1/3
+next:
+  id: AMO/1/4
+  number: '4'
+previous:
+  id: AMO/1/2
+  number: '2'
+reference: 'Amos 1:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 26:31"
+  class="v">31</span>Then saith Jesus unto them, <span class="wj">All ye shall
+  be offended because of me this night: for it is written, I will smite the
+  shepherd, and the sheep of the flock shall be scattered abroad.</span> </p>
+id: MAT/26/31
+next:
+  id: MAT/26/32
+  number: '32'
+previous:
+  id: MAT/26/30
+  number: '30'
+reference: 'Matthew 26:31'

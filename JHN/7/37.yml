@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JHN 7:37" class="v">37</span>In
+  the last day, that great <span class="add">day</span> of the feast, Jesus
+  stood and cried, saying, <span class="wj">If any man thirst, let him come unto
+  me, and drink.</span> </p>
+id: JHN/7/37
+next:
+  id: JHN/7/38
+  number: '38'
+previous:
+  id: JHN/7/36
+  number: '36'
+reference: 'John 7:37'

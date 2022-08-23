@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 10:11"
+  class="v">11</span>Thus shall ye say unto them, The gods that have not made
+  the heavens and the earth, <span class="add">even</span> they shall perish
+  from the earth, and from under these heavens. </p>
+id: JER/10/11
+next:
+  id: JER/10/12
+  number: '12'
+previous:
+  id: JER/10/10
+  number: '10'
+reference: 'Jeremiah 10:11'

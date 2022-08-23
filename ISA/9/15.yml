@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 9:15" class="v">15</span>The
+  ancient and honourable, he <span class="add">is</span> the head; and the
+  prophet that teacheth lies, he <span class="add">is</span> the tail. </p>
+id: ISA/9/15
+next:
+  id: ISA/9/16
+  number: '16'
+previous:
+  id: ISA/9/14
+  number: '14'
+reference: 'Isaiah 9:15'

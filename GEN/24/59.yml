@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="GEN 24:59"
+  class="v">59</span>And they sent away Rebekah their sister, and her nurse, and
+  Abraham’s servant, and his men. </p>
+id: GEN/24/59
+next:
+  id: GEN/24/60
+  number: '60'
+previous:
+  id: GEN/24/58
+  number: '58'
+reference: 'Genesis 24:59'

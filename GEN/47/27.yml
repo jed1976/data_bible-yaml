@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 47:27" class="v">27</span>¶
+  And Israel dwelt in the land of Egypt, in the country of Goshen; and they had
+  possessions therein, and grew, and multiplied exceedingly. </p>
+id: GEN/47/27
+next:
+  id: GEN/47/28
+  number: '28'
+previous:
+  id: GEN/47/26
+  number: '26'
+reference: 'Genesis 47:27'

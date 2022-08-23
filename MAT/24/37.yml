@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 24:37"
+  class="v">37</span><span class="wj">But as the days of Noe <span
+  class="add">were</span>, so shall also the coming of the Son of man be.</span>
+  </p>
+id: MAT/24/37
+next:
+  id: MAT/24/38
+  number: '38'
+previous:
+  id: MAT/24/36
+  number: '36'
+reference: 'Matthew 24:37'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 2:1" class="v">1</span>I
+  <span class="add">am</span> the rose of Sharon, <span class="add">and</span>
+  the lily of the valleys. </p>
+id: SNG/2/1
+next:
+  id: SNG/2/2
+  number: '2'
+previous:
+  id: SNG/1/17
+  number: '17'
+reference: 'Song of Solomon 2:1'

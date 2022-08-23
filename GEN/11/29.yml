@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 11:29"
+  class="v">29</span>And Abram and Nahor took them wives: the name of Abram’s
+  wife <span class="add">was</span> Sarai; and the name of Nahor’s wife, Milcah,
+  the daughter of Haran, the father of Milcah, and the father of Iscah. </p>
+id: GEN/11/29
+next:
+  id: GEN/11/30
+  number: '30'
+previous:
+  id: GEN/11/28
+  number: '28'
+reference: 'Genesis 11:29'

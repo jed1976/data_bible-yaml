@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 5:5" class="v">5</span>Her
+  feet go down to death; her steps take hold on hell. </p>
+id: PRO/5/5
+next:
+  id: PRO/5/6
+  number: '6'
+previous:
+  id: PRO/5/4
+  number: '4'
+reference: 'Proverbs 5:5'

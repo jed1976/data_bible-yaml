@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JER 31:24"
+  class="v">24</span>And there shall dwell in Judah itself, and in all the
+  cities thereof together, husbandmen, and they <span class="add">that</span> go
+  forth with flocks. </p>
+id: JER/31/24
+next:
+  id: JER/31/25
+  number: '25'
+previous:
+  id: JER/31/23
+  number: '23'
+reference: 'Jeremiah 31:24'

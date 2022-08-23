@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 8:17" class="v">17</span>I
+  love them that love me; and those that seek me early shall find me. </p>
+id: PRO/8/17
+next:
+  id: PRO/8/18
+  number: '18'
+previous:
+  id: PRO/8/16
+  number: '16'
+reference: 'Proverbs 8:17'

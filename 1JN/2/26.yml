@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1JN 2:26"
+  class="v">26</span>These <span class="add">things</span> have I written unto
+  you concerning them that seduce you. </p>
+id: 1JN/2/26
+next:
+  id: 1JN/2/27
+  number: '27'
+previous:
+  id: 1JN/2/25
+  number: '25'
+reference: '1 John 2:26'

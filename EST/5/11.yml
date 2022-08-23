@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EST 5:11" class="v">11</span>And
+  Haman told them of the glory of his riches, and the multitude of his children,
+  and all <span class="add">the things</span> wherein the king had promoted him,
+  and how he had advanced him above the princes and servants of the king. </p>
+id: EST/5/11
+next:
+  id: EST/5/12
+  number: '12'
+previous:
+  id: EST/5/10
+  number: '10'
+reference: 'Esther 5:11'

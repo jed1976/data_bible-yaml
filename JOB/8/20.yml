@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 8:20"
+  class="v">20</span>Behold, God will not cast away a perfect <span
+  class="add">man</span>, neither will he help the evil doers: </p>
+id: JOB/8/20
+next:
+  id: JOB/8/21
+  number: '21'
+previous:
+  id: JOB/8/19
+  number: '19'
+reference: 'Job 8:20'

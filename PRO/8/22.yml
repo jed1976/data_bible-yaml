@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 8:22" class="v">22</span>The
+  <span class="nd">LORD</span> possessed me in the beginning of his way, before
+  his works of old. </p>
+id: PRO/8/22
+next:
+  id: PRO/8/23
+  number: '23'
+previous:
+  id: PRO/8/21
+  number: '21'
+reference: 'Proverbs 8:22'

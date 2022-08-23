@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 11:1" class="v">1</span>When
+  Israel <span class="add">was</span> a child, then I loved him, and called my
+  son out of Egypt. </p>
+id: HOS/11/1
+next:
+  id: HOS/11/2
+  number: '2'
+previous:
+  id: HOS/10/15
+  number: '15'
+reference: 'Hosea 11:1'

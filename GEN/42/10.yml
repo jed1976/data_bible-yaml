@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 42:10"
+  class="v">10</span>And they said unto him, Nay, my lord, but to buy food are
+  thy servants come. </p>
+id: GEN/42/10
+next:
+  id: GEN/42/11
+  number: '11'
+previous:
+  id: GEN/42/9
+  number: '9'
+reference: 'Genesis 42:10'

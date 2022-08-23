@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOL 2:7" class="v">7</span>They
+  shall run like mighty men; they shall climb the wall like men of war; and they
+  shall march every one on his ways, and they shall not break their ranks: </p>
+id: JOL/2/7
+next:
+  id: JOL/2/8
+  number: '8'
+previous:
+  id: JOL/2/6
+  number: '6'
+reference: 'Joel 2:7'

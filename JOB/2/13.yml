@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 2:13" class="v">13</span>So
+  they sat down with him upon the ground seven days and seven nights, and none
+  spake a word unto him: for they saw that <span class="add">his</span> grief
+  was very great.</p>
+id: JOB/2/13
+next:
+  id: JOB/3/1
+  number: '1'
+previous:
+  id: JOB/2/12
+  number: '12'
+reference: 'Job 2:13'

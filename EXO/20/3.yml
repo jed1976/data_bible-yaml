@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 20:3" class="v">3</span>Thou
+  shalt have no other gods before me. </p>
+id: EXO/20/3
+next:
+  id: EXO/20/4
+  number: '4'
+previous:
+  id: EXO/20/2
+  number: '2'
+reference: 'Exodus 20:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 3:23" class="v">23</span>¶
+  And John also was baptizing in Ænon near to Salim, because there was much
+  water there: and they came, and were baptized. </p>
+id: JHN/3/23
+next:
+  id: JHN/3/24
+  number: '24'
+previous:
+  id: JHN/3/22
+  number: '22'
+reference: 'John 3:23'

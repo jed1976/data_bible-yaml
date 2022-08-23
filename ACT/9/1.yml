@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 9:1" class="v">1</span>And
+  Saul, yet breathing out threatenings and slaughter against the disciples of
+  the Lord, went unto the high priest, </p>
+id: ACT/9/1
+next:
+  id: ACT/9/2
+  number: '2'
+previous:
+  id: ACT/8/40
+  number: '40'
+reference: 'Acts 9:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 7:5" class="v">5</span><span
+  class="add">It is</span> better to hear the rebuke of the wise, than for a man
+  to hear the song of fools. </p>
+id: ECC/7/5
+next:
+  id: ECC/7/6
+  number: '6'
+previous:
+  id: ECC/7/4
+  number: '4'
+reference: 'Ecclesiastes 7:5'

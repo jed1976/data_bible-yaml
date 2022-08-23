@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 4:15" class="v">15</span>The
+  land of Zabulon, and the land of Nephthalim, <span class="add">by</span> the
+  way of the sea, beyond Jordan, Galilee of the Gentiles; </p>
+id: MAT/4/15
+next:
+  id: MAT/4/16
+  number: '16'
+previous:
+  id: MAT/4/14
+  number: '14'
+reference: 'Matthew 4:15'

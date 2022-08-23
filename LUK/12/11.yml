@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 12:11"
+  class="v">11</span><span class="wj">And when they bring you unto the
+  synagogues, and <span class="add">unto</span> magistrates, and powers, take ye
+  no thought how or what thing ye shall answer, or what ye shall say:</span>
+  </p>
+id: LUK/12/11
+next:
+  id: LUK/12/12
+  number: '12'
+previous:
+  id: LUK/12/10
+  number: '10'
+reference: 'Luke 12:11'

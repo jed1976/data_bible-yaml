@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 19:13"
+  class="v">13</span>Keep back thy servant also from presumptuous <span
+  class="add">sins;</span> let them not have dominion over me: then shall I be
+  upright, and I shall be innocent from the great transgression.</p>
+id: PSA/19/13
+next:
+  id: PSA/19/14
+  number: '14'
+previous:
+  id: PSA/19/12
+  number: '12'
+reference: 'Psalms 19:13'

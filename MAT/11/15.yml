@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 11:15"
+  class="v">15</span><span class="wj">He that hath ears to hear, let him
+  hear.</span></p>
+id: MAT/11/15
+next:
+  id: MAT/11/16
+  number: '16'
+previous:
+  id: MAT/11/14
+  number: '14'
+reference: 'Matthew 11:15'

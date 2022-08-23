@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 32:16" class="v">16</span>¶
+  And they came near unto him, and said, We will build sheepfolds here for our
+  cattle, and cities for our little ones: </p>
+id: NUM/32/16
+next:
+  id: NUM/32/17
+  number: '17'
+previous:
+  id: NUM/32/15
+  number: '15'
+reference: 'Numbers 32:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 4:8" class="v">8</span>Again,
+  the devil taketh him up into an exceeding high mountain, and sheweth him all
+  the kingdoms of the world, and the glory of them; </p>
+id: MAT/4/8
+next:
+  id: MAT/4/9
+  number: '9'
+previous:
+  id: MAT/4/7
+  number: '7'
+reference: 'Matthew 4:8'

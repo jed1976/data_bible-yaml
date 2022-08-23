@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 7:7" class="v">7</span>Thus
+  saith the Lord <span class="nd">GOD</span>, It shall not stand, neither shall
+  it come to pass. </p>
+id: ISA/7/7
+next:
+  id: ISA/7/8
+  number: '8'
+previous:
+  id: ISA/7/6
+  number: '6'
+reference: 'Isaiah 7:7'

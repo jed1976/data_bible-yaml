@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 9:26" class="v">26</span>And
+  he said, Blessed <span class="add">be</span> the <span class="nd">LORD</span>
+  God of Shem; and Canaan shall be his servant. </p>
+id: GEN/9/26
+next:
+  id: GEN/9/27
+  number: '27'
+previous:
+  id: GEN/9/25
+  number: '25'
+reference: 'Genesis 9:26'

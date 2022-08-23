@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 5:11"
+  class="v">11</span>Restore, I pray you, to them, even this day, their lands,
+  their vineyards, their oliveyards, and their houses, also the hundredth <span
+  class="add">part</span> of the money, and of the corn, the wine, and the oil,
+  that ye exact of them. </p>
+id: NEH/5/11
+next:
+  id: NEH/5/12
+  number: '12'
+previous:
+  id: NEH/5/10
+  number: '10'
+reference: 'Nehemiah 5:11'

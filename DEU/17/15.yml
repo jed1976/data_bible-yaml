@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 17:15"
+  class="v">15</span>Thou shalt in any wise set <span class="add">him</span>
+  king over thee, whom the <span class="nd">LORD</span> thy God shall choose:
+  <span class="add">one</span> from among thy brethren shalt thou set king over
+  thee: thou mayest not set a stranger over thee, which <span
+  class="add">is</span> not thy brother. </p>
+id: DEU/17/15
+next:
+  id: DEU/17/16
+  number: '16'
+previous:
+  id: DEU/17/14
+  number: '14'
+reference: 'Deuteronomy 17:15'

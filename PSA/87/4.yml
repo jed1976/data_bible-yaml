@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 87:4"
+  class="v">4</span>I will make mention of Rahab and Babylon to them that know
+  me: behold Philistia, and Tyre, with Ethiopia; this <span
+  class="add">man</span> was born there.</p>
+id: PSA/87/4
+next:
+  id: PSA/87/5
+  number: '5'
+previous:
+  id: PSA/87/3
+  number: '3'
+reference: 'Psalms 87:4'

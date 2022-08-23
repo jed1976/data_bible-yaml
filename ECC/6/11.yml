@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 6:11" class="v">11</span>¶
+  Seeing there be many things that increase vanity, what <span
+  class="add">is</span> man the better? </p>
+id: ECC/6/11
+next:
+  id: ECC/6/12
+  number: '12'
+previous:
+  id: ECC/6/10
+  number: '10'
+reference: 'Ecclesiastes 6:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 13:12"
+  class="v">12</span>All the kingdom of Og in Bashan, which reigned in Ashtaroth
+  and in Edrei, who remained of the remnant of the giants: for these did Moses
+  smite, and cast them out. </p>
+id: JOS/13/12
+next:
+  id: JOS/13/13
+  number: '13'
+previous:
+  id: JOS/13/11
+  number: '11'
+reference: 'Joshua 13:12'

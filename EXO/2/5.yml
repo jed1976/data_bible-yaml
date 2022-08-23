@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 2:5" class="v">5</span>¶ And
+  the daughter of Pharaoh came down to wash <span class="add">herself</span> at
+  the river; and her maidens walked along by the river’s side; and when she saw
+  the ark among the flags, she sent her maid to fetch it. </p>
+id: EXO/2/5
+next:
+  id: EXO/2/6
+  number: '6'
+previous:
+  id: EXO/2/4
+  number: '4'
+reference: 'Exodus 2:5'

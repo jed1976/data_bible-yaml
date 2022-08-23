@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 53:3" class="v">3</span>He is
+  despised and rejected of men; a man of sorrows, and acquainted with grief: and
+  we hid as it were <span class="add">our</span> faces from him; he was
+  despised, and we esteemed him not.</p>
+id: ISA/53/3
+next:
+  id: ISA/53/4
+  number: '4'
+previous:
+  id: ISA/53/2
+  number: '2'
+reference: 'Isaiah 53:3'

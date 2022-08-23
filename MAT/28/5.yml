@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 28:5" class="v">5</span>And
+  the angel answered and said unto the women, Fear not ye: for I know that ye
+  seek Jesus, which was crucified. </p>
+id: MAT/28/5
+next:
+  id: MAT/28/6
+  number: '6'
+previous:
+  id: MAT/28/4
+  number: '4'
+reference: 'Matthew 28:5'

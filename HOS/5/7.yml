@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 5:7" class="v">7</span>They
+  have dealt treacherously against the <span class="nd">LORD</span>: for they
+  have begotten strange children: now shall a month devour them with their
+  portions.</p>
+id: HOS/5/7
+next:
+  id: HOS/5/8
+  number: '8'
+previous:
+  id: HOS/5/6
+  number: '6'
+reference: 'Hosea 5:7'

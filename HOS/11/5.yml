@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 11:5" class="v">5</span>¶ He
+  shall not return into the land of Egypt, but the Assyrian shall be his king,
+  because they refused to return. </p>
+id: HOS/11/5
+next:
+  id: HOS/11/6
+  number: '6'
+previous:
+  id: HOS/11/4
+  number: '4'
+reference: 'Hosea 11:5'

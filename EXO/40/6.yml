@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 40:6" class="v">6</span>And
+  thou shalt set the altar of the burnt offering before the door of the
+  tabernacle of the tent of the congregation. </p>
+id: EXO/40/6
+next:
+  id: EXO/40/7
+  number: '7'
+previous:
+  id: EXO/40/5
+  number: '5'
+reference: 'Exodus 40:6'

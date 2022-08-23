@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MRK 15:45"
+  class="v">45</span>And when he knew <span class="add">it</span> of the
+  centurion, he gave the body to Joseph. </p>
+id: MRK/15/45
+next:
+  id: MRK/15/46
+  number: '46'
+previous:
+  id: MRK/15/44
+  number: '44'
+reference: 'Mark 15:45'

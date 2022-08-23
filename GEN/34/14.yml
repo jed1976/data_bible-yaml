@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 34:14"
+  class="v">14</span>And they said unto them, We cannot do this thing, to give
+  our sister to one that is uncircumcised; for that <span
+  class="add">were</span> a reproach unto us: </p>
+id: GEN/34/14
+next:
+  id: GEN/34/15
+  number: '15'
+previous:
+  id: GEN/34/13
+  number: '13'
+reference: 'Genesis 34:14'

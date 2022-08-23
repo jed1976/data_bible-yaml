@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 4:20"
+  class="v">20</span>Destruction upon destruction is cried; for the whole land
+  is spoiled: suddenly are my tents spoiled, <span class="add">and</span> my
+  curtains in a moment. </p>
+id: JER/4/20
+next:
+  id: JER/4/21
+  number: '21'
+previous:
+  id: JER/4/19
+  number: '19'
+reference: 'Jeremiah 4:20'

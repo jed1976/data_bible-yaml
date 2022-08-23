@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 2:2" class="v">2</span>And he
+  shall bring it to Aaron’s sons the priests: and he shall take thereout his
+  handful of the flour thereof, and of the oil thereof, with all the
+  frankincense thereof; and the priest shall burn the memorial of it upon the
+  altar, <span class="add">to be</span> an offering made by fire, of a sweet
+  savour unto the <span class="nd">LORD</span>: </p>
+id: LEV/2/2
+next:
+  id: LEV/2/3
+  number: '3'
+previous:
+  id: LEV/2/1
+  number: '1'
+reference: 'Leviticus 2:2'

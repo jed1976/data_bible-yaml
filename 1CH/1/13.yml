@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 1:13" class="v">13</span>And
+  Canaan begat Zidon his firstborn, and Heth, </p>
+id: 1CH/1/13
+next:
+  id: 1CH/1/14
+  number: '14'
+previous:
+  id: 1CH/1/12
+  number: '12'
+reference: '1 Chronicles 1:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 17:21"
+  class="v">21</span><span class="wj">Neither shall they say, Lo here! or, lo
+  there! for, behold, the kingdom of God is within you.</span> </p>
+id: LUK/17/21
+next:
+  id: LUK/17/22
+  number: '22'
+previous:
+  id: LUK/17/20
+  number: '20'
+reference: 'Luke 17:21'

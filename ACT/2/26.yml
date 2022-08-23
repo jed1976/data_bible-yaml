@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 2:26"
+  class="v">26</span>Therefore did my heart rejoice, and my tongue was glad;
+  moreover also my flesh shall rest in hope: </p>
+id: ACT/2/26
+next:
+  id: ACT/2/27
+  number: '27'
+previous:
+  id: ACT/2/25
+  number: '25'
+reference: 'Acts 2:26'

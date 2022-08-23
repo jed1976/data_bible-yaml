@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 5:16" class="v">16</span>And
+  this also <span class="add">is</span> a sore evil, <span
+  class="add">that</span> in all points as he came, so shall he go: and what
+  profit hath he that hath laboured for the wind? </p>
+id: ECC/5/16
+next:
+  id: ECC/5/17
+  number: '17'
+previous:
+  id: ECC/5/15
+  number: '15'
+reference: 'Ecclesiastes 5:16'

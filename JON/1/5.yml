@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JON 1:5" class="v">5</span>Then
+  the mariners were afraid, and cried every man unto his god, and cast forth the
+  wares that <span class="add">were</span> in the ship into the sea, to lighten
+  <span class="add">it</span> of them. But Jonah was gone down into the sides of
+  the ship; and he lay, and was fast asleep. </p>
+id: JON/1/5
+next:
+  id: JON/1/6
+  number: '6'
+previous:
+  id: JON/1/4
+  number: '4'
+reference: 'Jonah 1:5'

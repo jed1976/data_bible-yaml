@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 42:17" class="v">17</span>¶
+  They shall be turned back, they shall be greatly ashamed, that trust in graven
+  images, that say to the molten images, Ye <span class="add">are</span> our
+  gods.</p>
+id: ISA/42/17
+next:
+  id: ISA/42/18
+  number: '18'
+previous:
+  id: ISA/42/16
+  number: '16'
+reference: 'Isaiah 42:17'

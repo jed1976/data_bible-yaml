@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 3:3" class="v">3</span>And
+  Solomon loved the <span class="nd">LORD</span>, walking in the statutes of
+  David his father: only he sacrificed and burnt incense in high places. </p>
+id: 1KI/3/3
+next:
+  id: 1KI/3/4
+  number: '4'
+previous:
+  id: 1KI/3/2
+  number: '2'
+reference: '1 Kings 3:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 17:3" class="v">3</span>Lay
+  down now, put me in a surety with thee; who <span class="add">is</span> he
+  <span class="add">that</span> will strike hands with me? </p>
+id: JOB/17/3
+next:
+  id: JOB/17/4
+  number: '4'
+previous:
+  id: JOB/17/2
+  number: '2'
+reference: 'Job 17:3'

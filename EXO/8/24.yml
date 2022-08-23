@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 8:24" class="v">24</span>And
+  the <span class="nd">LORD</span> did so; and there came a grievous swarm <span
+  class="add">of flies</span> into the house of Pharaoh, and <span
+  class="add">into</span> his servants’ houses, and into all the land of Egypt:
+  the land was corrupted by reason of the swarm <span class="add">of
+  flies</span>.</p>
+id: EXO/8/24
+next:
+  id: EXO/8/25
+  number: '25'
+previous:
+  id: EXO/8/23
+  number: '23'
+reference: 'Exodus 8:24'

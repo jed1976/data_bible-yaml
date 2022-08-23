@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 5:10"
+  class="v">10</span>Then fell she down straightway at his feet, and yielded up
+  the ghost: and the young men came in, and found her dead, and, carrying <span
+  class="add">her</span> forth, buried <span class="add">her</span> by her
+  husband. </p>
+id: ACT/5/10
+next:
+  id: ACT/5/11
+  number: '11'
+previous:
+  id: ACT/5/9
+  number: '9'
+reference: 'Acts 5:10'

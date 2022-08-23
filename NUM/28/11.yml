@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 28:11" class="v">11</span>¶
+  And in the beginnings of your months ye shall offer a burnt offering unto the
+  <span class="nd">LORD</span>; two young bullocks, and one ram, seven lambs of
+  the first year without spot; </p>
+id: NUM/28/11
+next:
+  id: NUM/28/12
+  number: '12'
+previous:
+  id: NUM/28/10
+  number: '10'
+reference: 'Numbers 28:11'

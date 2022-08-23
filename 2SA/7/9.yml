@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 7:9" class="v">9</span>And I
+  was with thee whithersoever thou wentest, and have cut off all thine enemies
+  out of thy sight, and have made thee a great name, like unto the name of the
+  great <span class="add">men</span> that <span class="add">are</span> in the
+  earth. </p>
+id: 2SA/7/9
+next:
+  id: 2SA/7/10
+  number: '10'
+previous:
+  id: 2SA/7/8
+  number: '8'
+reference: '2 Samuel 7:9'

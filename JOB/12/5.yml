@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 12:5" class="v">5</span>He
+  that is ready to slip with <span class="add">his</span> feet <span
+  class="add">is as</span> a lamp despised in the thought of him that is at
+  ease.</p>
+id: JOB/12/5
+next:
+  id: JOB/12/6
+  number: '6'
+previous:
+  id: JOB/12/4
+  number: '4'
+reference: 'Job 12:5'

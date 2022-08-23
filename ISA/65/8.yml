@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 65:8" class="v">8</span>¶
+  Thus saith the <span class="nd">LORD</span>, As the new wine is found in the
+  cluster, and <span class="add">one</span> saith, Destroy it not; for a
+  blessing <span class="add">is</span> in it: so will I do for my servants’
+  sakes, that I may not destroy them all. </p>
+id: ISA/65/8
+next:
+  id: ISA/65/9
+  number: '9'
+previous:
+  id: ISA/65/7
+  number: '7'
+reference: 'Isaiah 65:8'

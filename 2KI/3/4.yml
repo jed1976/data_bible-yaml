@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 3:4" class="v">4</span>¶ And
+  Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an
+  hundred thousand lambs, and an hundred thousand rams, with the wool. </p>
+id: 2KI/3/4
+next:
+  id: 2KI/3/5
+  number: '5'
+previous:
+  id: 2KI/3/3
+  number: '3'
+reference: '2 Kings 3:4'

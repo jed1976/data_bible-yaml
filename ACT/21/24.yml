@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 21:24"
+  class="v">24</span>Them take, and purify thyself with them, and be at charges
+  with them, that they may shave <span class="add">their</span> heads: and all
+  may know that those things, whereof they were informed concerning thee, are
+  nothing; but <span class="add">that</span> thou thyself also walkest orderly,
+  and keepest the law. </p>
+id: ACT/21/24
+next:
+  id: ACT/21/25
+  number: '25'
+previous:
+  id: ACT/21/23
+  number: '23'
+reference: 'Acts 21:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 11:19"
+  class="v">19</span>There was not a city that made peace with the children of
+  Israel, save the Hivites the inhabitants of Gibeon: all <span
+  class="add">other</span> they took in battle. </p>
+id: JOS/11/19
+next:
+  id: JOS/11/20
+  number: '20'
+previous:
+  id: JOS/11/18
+  number: '18'
+reference: 'Joshua 11:19'

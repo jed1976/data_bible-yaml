@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 13:17" class="v">17</span>¶
+  And it came to pass, when Pharaoh had let the people go, that God led them not
+  <span class="add">through</span> the way of the land of the Philistines,
+  although that <span class="add">was</span> near; for God said, Lest
+  peradventure the people repent when they see war, and they return to Egypt:
+  </p>
+id: EXO/13/17
+next:
+  id: EXO/13/18
+  number: '18'
+previous:
+  id: EXO/13/16
+  number: '16'
+reference: 'Exodus 13:17'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LAM 2:22"
+  class="v">22</span>Thou hast called as in a solemn day my terrors round about,
+  so that in the day of the <span class="nd">LORD’s</span> anger none escaped
+  nor remained: those that I have swaddled and brought up hath mine enemy
+  consumed.</p>
+id: LAM/2/22
+next:
+  id: LAM/3/1
+  number: '1'
+previous:
+  id: LAM/2/21
+  number: '21'
+reference: 'Lamentations 2:22'

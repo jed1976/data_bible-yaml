@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 6:4" class="v">4</span>That
+  lie upon beds of ivory, and stretch themselves upon their couches, and eat the
+  lambs out of the flock, and the calves out of the midst of the stall; </p>
+id: AMO/6/4
+next:
+  id: AMO/6/5
+  number: '5'
+previous:
+  id: AMO/6/3
+  number: '3'
+reference: 'Amos 6:4'

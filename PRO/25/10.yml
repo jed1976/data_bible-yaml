@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 25:10"
+  class="v">10</span>Lest he that heareth <span class="add">it</span> put thee
+  to shame, and thine infamy turn not away.</p>
+id: PRO/25/10
+next:
+  id: PRO/25/11
+  number: '11'
+previous:
+  id: PRO/25/9
+  number: '9'
+reference: 'Proverbs 25:10'

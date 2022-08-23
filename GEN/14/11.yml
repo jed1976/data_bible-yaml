@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 14:11"
+  class="v">11</span>And they took all the goods of Sodom and Gomorrah, and all
+  their victuals, and went their way. </p>
+id: GEN/14/11
+next:
+  id: GEN/14/12
+  number: '12'
+previous:
+  id: GEN/14/10
+  number: '10'
+reference: 'Genesis 14:11'

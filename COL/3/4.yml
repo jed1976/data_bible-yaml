@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="COL 3:4" class="v">4</span>When
+  Christ, <span class="add">who is</span> our life, shall appear, then shall ye
+  also appear with him in glory.</p>
+id: COL/3/4
+next:
+  id: COL/3/5
+  number: '5'
+previous:
+  id: COL/3/3
+  number: '3'
+reference: 'Colossians 3:4'

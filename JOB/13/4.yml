@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 13:4" class="v">4</span>But
+  ye <span class="add">are</span> forgers of lies, ye <span
+  class="add">are</span> all physicians of no value. </p>
+id: JOB/13/4
+next:
+  id: JOB/13/5
+  number: '5'
+previous:
+  id: JOB/13/3
+  number: '3'
+reference: 'Job 13:4'

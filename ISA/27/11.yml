@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 27:11"
+  class="v">11</span>When the boughs thereof are withered, they shall be broken
+  off: the women come, <span class="add">and</span> set them on fire: for it
+  <span class="add">is</span> a people of no understanding: therefore he that
+  made them will not have mercy on them, and he that formed them will shew them
+  no favour.</p>
+id: ISA/27/11
+next:
+  id: ISA/27/12
+  number: '12'
+previous:
+  id: ISA/27/10
+  number: '10'
+reference: 'Isaiah 27:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 5:16"
+  class="v">16</span>There is no straw given unto thy servants, and they say to
+  us, Make brick: and, behold, thy servants <span class="add">are</span> beaten;
+  but the fault <span class="add">is</span> in thine own people. </p>
+id: EXO/5/16
+next:
+  id: EXO/5/17
+  number: '17'
+previous:
+  id: EXO/5/15
+  number: '15'
+reference: 'Exodus 5:16'

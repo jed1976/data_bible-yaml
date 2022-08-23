@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 38:18"
+  class="v">18</span>And he said, What pledge shall I give thee? And she said,
+  Thy signet, and thy bracelets, and thy staff that <span class="add">is</span>
+  in thine hand. And he gave <span class="add">it</span> her, and came in unto
+  her, and she conceived by him. </p>
+id: GEN/38/18
+next:
+  id: GEN/38/19
+  number: '19'
+previous:
+  id: GEN/38/17
+  number: '17'
+reference: 'Genesis 38:18'

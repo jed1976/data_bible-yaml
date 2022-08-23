@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 8:13" class="v">13</span>And
+  he left them, and entering into the ship again departed to the other side.</p>
+id: MRK/8/13
+next:
+  id: MRK/8/14
+  number: '14'
+previous:
+  id: MRK/8/12
+  number: '12'
+reference: 'Mark 8:13'

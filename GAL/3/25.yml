@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GAL 3:25" class="v">25</span>But
+  after that faith is come, we are no longer under a schoolmaster. </p>
+id: GAL/3/25
+next:
+  id: GAL/3/26
+  number: '26'
+previous:
+  id: GAL/3/24
+  number: '24'
+reference: 'Galatians 3:25'

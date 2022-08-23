@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 9:23" class="v">23</span>At
+  the commandment of the <span class="nd">LORD</span> they rested in the tents,
+  and at the commandment of the <span class="nd">LORD</span> they journeyed:
+  they kept the charge of the <span class="nd">LORD</span>, at the commandment
+  of the <span class="nd">LORD</span> by the hand of Moses.</p>
+id: NUM/9/23
+next:
+  id: NUM/10/1
+  number: '1'
+previous:
+  id: NUM/9/22
+  number: '22'
+reference: 'Numbers 9:23'

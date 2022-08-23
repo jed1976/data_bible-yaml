@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 16:12"
+  class="v">12</span><span class="add">It is</span> an abomination to kings to
+  commit wickedness: for the throne is established by righteousness. </p>
+id: PRO/16/12
+next:
+  id: PRO/16/13
+  number: '13'
+previous:
+  id: PRO/16/11
+  number: '11'
+reference: 'Proverbs 16:12'

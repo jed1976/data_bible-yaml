@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MAT 5:47"
+  class="v">47</span><span class="wj">And if ye salute your brethren only, what
+  do ye more <span class="add">than others</span>? do not even the publicans
+  so?</span> </p>
+id: MAT/5/47
+next:
+  id: MAT/5/48
+  number: '48'
+previous:
+  id: MAT/5/46
+  number: '46'
+reference: 'Matthew 5:47'

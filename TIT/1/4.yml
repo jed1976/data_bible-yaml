@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="TIT 1:4" class="v">4</span>To
+  Titus, <span class="add">mine</span> own son after the common faith: Grace,
+  mercy, <span class="add">and</span> peace, from God the Father and the Lord
+  Jesus Christ our Saviour.</p>
+id: TIT/1/4
+next:
+  id: TIT/1/5
+  number: '5'
+previous:
+  id: TIT/1/3
+  number: '3'
+reference: 'Titus 1:4'

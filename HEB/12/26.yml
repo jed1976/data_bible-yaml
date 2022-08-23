@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="HEB 12:26"
+  class="v">26</span>Whose voice then shook the earth: but now he hath promised,
+  saying, Yet once more I shake not the earth only, but also heaven. </p>
+id: HEB/12/26
+next:
+  id: HEB/12/27
+  number: '27'
+previous:
+  id: HEB/12/25
+  number: '25'
+reference: 'Hebrews 12:26'

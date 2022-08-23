@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 28:19"
+  class="v">19</span>Cursed <span class="add">shalt</span> thou <span
+  class="add">be</span> when thou comest in, and cursed <span
+  class="add">shalt</span> thou <span class="add">be</span> when thou goest out.
+  </p>
+id: DEU/28/19
+next:
+  id: DEU/28/20
+  number: '20'
+previous:
+  id: DEU/28/18
+  number: '18'
+reference: 'Deuteronomy 28:19'

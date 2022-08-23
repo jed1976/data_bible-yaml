@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 3:5" class="v">5</span>Jesus
+  answered, <span class="wj">Verily, verily, I say unto thee, Except a man be
+  born of water and <span class="add">of</span> the Spirit, he cannot enter into
+  the kingdom of God.</span> </p>
+id: JHN/3/5
+next:
+  id: JHN/3/6
+  number: '6'
+previous:
+  id: JHN/3/4
+  number: '4'
+reference: 'John 3:5'

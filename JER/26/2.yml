@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 26:2" class="v">2</span>Thus
+  saith the <span class="nd">LORD</span>; Stand in the court of the <span
+  class="nd">LORD’s</span> house, and speak unto all the cities of Judah, which
+  come to worship in the <span class="nd">LORD’s</span> house, all the words
+  that I command thee to speak unto them; diminish not a word: </p>
+id: JER/26/2
+next:
+  id: JER/26/3
+  number: '3'
+previous:
+  id: JER/26/1
+  number: '1'
+reference: 'Jeremiah 26:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1CH 27:32"
+  class="v">32</span>Also Jonathan David’s uncle was a counsellor, a wise man,
+  and a scribe: and Jehiel the son of Hachmoni <span class="add">was</span> with
+  the king’s sons: </p>
+id: 1CH/27/32
+next:
+  id: 1CH/27/33
+  number: '33'
+previous:
+  id: 1CH/27/31
+  number: '31'
+reference: '1 Chronicles 27:32'

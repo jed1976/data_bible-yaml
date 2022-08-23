@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="40" data-sid="PSA 106:40"
+  class="v">40</span>Therefore was the wrath of the <span class="nd">LORD</span>
+  kindled against his people, insomuch that he abhorred his own inheritance.</p>
+id: PSA/106/40
+next:
+  id: PSA/106/41
+  number: '41'
+previous:
+  id: PSA/106/39
+  number: '39'
+reference: 'Psalms 106:40'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 6:8" class="v">8</span>Now, O
+  king, establish the decree, and sign the writing, that it be not changed,
+  according to the law of the Medes and Persians, which altereth not. </p>
+id: DAN/6/8
+next:
+  id: DAN/6/9
+  number: '9'
+previous:
+  id: DAN/6/7
+  number: '7'
+reference: 'Daniel 6:8'

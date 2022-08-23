@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOS 15:29"
+  class="v">29</span>Baalah, and Iim, and Azem, </p>
+id: JOS/15/29
+next:
+  id: JOS/15/30
+  number: '30'
+previous:
+  id: JOS/15/28
+  number: '28'
+reference: 'Joshua 15:29'

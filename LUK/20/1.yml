@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 20:1" class="v">1</span>And
+  it came to pass, <span class="add">that</span> on one of those days, as he
+  taught the people in the temple, and preached the gospel, the chief priests
+  and the scribes came upon <span class="add">him</span> with the elders, </p>
+id: LUK/20/1
+next:
+  id: LUK/20/2
+  number: '2'
+previous:
+  id: LUK/19/48
+  number: '48'
+reference: 'Luke 20:1'

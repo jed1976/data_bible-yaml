@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PHP 4:13" class="v">13</span>I
+  can do all things through Christ which strengtheneth me. </p>
+id: PHP/4/13
+next:
+  id: PHP/4/14
+  number: '14'
+previous:
+  id: PHP/4/12
+  number: '12'
+reference: 'Philippians 4:13'

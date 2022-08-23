@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 11:7" class="v">7</span>Go
+  to, let us go down, and there confound their language, that they may not
+  understand one another’s speech. </p>
+id: GEN/11/7
+next:
+  id: GEN/11/8
+  number: '8'
+previous:
+  id: GEN/11/6
+  number: '6'
+reference: 'Genesis 11:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CO 13:5" class="v">5</span>Doth
+  not behave itself unseemly, seeketh not her own, is not easily provoked,
+  thinketh no evil; </p>
+id: 1CO/13/5
+next:
+  id: 1CO/13/6
+  number: '6'
+previous:
+  id: 1CO/13/4
+  number: '4'
+reference: '1 Corinthians 13:5'

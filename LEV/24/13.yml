@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 24:13"
+  class="v">13</span>And the <span class="nd">LORD</span> spake unto Moses,
+  saying, </p>
+id: LEV/24/13
+next:
+  id: LEV/24/14
+  number: '14'
+previous:
+  id: LEV/24/12
+  number: '12'
+reference: 'Leviticus 24:13'

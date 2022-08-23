@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 16:11"
+  class="v">11</span>Salute Herodion my kinsman. Greet them that be of the <span
+  class="add">household</span> of Narcissus, which are in the Lord. </p>
+id: ROM/16/11
+next:
+  id: ROM/16/12
+  number: '12'
+previous:
+  id: ROM/16/10
+  number: '10'
+reference: 'Romans 16:11'

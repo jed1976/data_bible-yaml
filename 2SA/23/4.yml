@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 23:4" class="v">4</span>And
+  <span class="add">he shall be</span> as the light of the morning, <span
+  class="add">when</span> the sun riseth, <span class="add">even</span> a
+  morning without clouds; <span class="add">as</span> the tender grass <span
+  class="add">springing</span> out of the earth by clear shining after rain.
+  </p>
+id: 2SA/23/4
+next:
+  id: 2SA/23/5
+  number: '5'
+previous:
+  id: 2SA/23/3
+  number: '3'
+reference: '2 Samuel 23:4'

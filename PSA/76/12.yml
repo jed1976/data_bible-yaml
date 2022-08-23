@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 76:12"
+  class="v">12</span>He shall cut off the spirit of princes: <span
+  class="add">he is</span> terrible to the kings of the earth.</p>
+id: PSA/76/12
+next:
+  id: PSA/77/1
+  number: '1'
+previous:
+  id: PSA/76/11
+  number: '11'
+reference: 'Psalms 76:12'

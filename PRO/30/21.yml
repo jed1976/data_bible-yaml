@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 30:21"
+  class="v">21</span>For three <span class="add">things</span> the earth is
+  disquieted, and for four <span class="add">which</span> it cannot bear: </p>
+id: PRO/30/21
+next:
+  id: PRO/30/22
+  number: '22'
+previous:
+  id: PRO/30/20
+  number: '20'
+reference: 'Proverbs 30:21'

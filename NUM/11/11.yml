@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 11:11"
+  class="v">11</span>And Moses said unto the <span class="nd">LORD</span>,
+  Wherefore hast thou afflicted thy servant? and wherefore have I not found
+  favour in thy sight, that thou layest the burden of all this people upon me?
+  </p>
+id: NUM/11/11
+next:
+  id: NUM/11/12
+  number: '12'
+previous:
+  id: NUM/11/10
+  number: '10'
+reference: 'Numbers 11:11'

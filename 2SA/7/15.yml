@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 7:15" class="v">15</span>But
+  my mercy shall not depart away from him, as I took <span class="add">it</span>
+  from Saul, whom I put away before thee. </p>
+id: 2SA/7/15
+next:
+  id: 2SA/7/16
+  number: '16'
+previous:
+  id: 2SA/7/14
+  number: '14'
+reference: '2 Samuel 7:15'

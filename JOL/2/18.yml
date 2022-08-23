@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOL 2:18" class="v">18</span>¶
+  Then will the <span class="nd">LORD</span> be jealous for his land, and pity
+  his people. </p>
+id: JOL/2/18
+next:
+  id: JOL/2/19
+  number: '19'
+previous:
+  id: JOL/2/17
+  number: '17'
+reference: 'Joel 2:18'

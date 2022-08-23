@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 4:1" class="v">1</span>And
+  when Saul’s son heard that Abner was dead in Hebron, his hands were feeble,
+  and all the Israelites were troubled. </p>
+id: 2SA/4/1
+next:
+  id: 2SA/4/2
+  number: '2'
+previous:
+  id: 2SA/3/39
+  number: '39'
+reference: '2 Samuel 4:1'

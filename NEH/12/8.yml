@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 12:8"
+  class="v">8</span>Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah,
+  Judah, <span class="add">and</span> Mattaniah, <span class="add">which
+  was</span> over the thanksgiving, he and his brethren. </p>
+id: NEH/12/8
+next:
+  id: NEH/12/9
+  number: '9'
+previous:
+  id: NEH/12/7
+  number: '7'
+reference: 'Nehemiah 12:8'

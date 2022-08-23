@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 10:3" class="v">3</span><span
+  class="wj">To him the porter openeth; and the sheep hear his voice: and he
+  calleth his own sheep by name, and leadeth them out.</span> </p>
+id: JHN/10/3
+next:
+  id: JHN/10/4
+  number: '4'
+previous:
+  id: JHN/10/2
+  number: '2'
+reference: 'John 10:3'

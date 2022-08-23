@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 19:15"
+  class="v">15</span>They that dwell in mine house, and my maids, count me for a
+  stranger: I am an alien in their sight. </p>
+id: JOB/19/15
+next:
+  id: JOB/19/16
+  number: '16'
+previous:
+  id: JOB/19/14
+  number: '14'
+reference: 'Job 19:15'

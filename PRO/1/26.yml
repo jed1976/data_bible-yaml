@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 1:26" class="v">26</span>I
+  also will laugh at your calamity; I will mock when your fear cometh; </p>
+id: PRO/1/26
+next:
+  id: PRO/1/27
+  number: '27'
+previous:
+  id: PRO/1/25
+  number: '25'
+reference: 'Proverbs 1:26'

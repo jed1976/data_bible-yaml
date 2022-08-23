@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 2:3" class="v">3</span>Israel
+  <span class="add">was</span> holiness unto the <span class="nd">LORD</span>,
+  <span class="add">and</span> the firstfruits of his increase: all that devour
+  him shall offend; evil shall come upon them, saith the <span
+  class="nd">LORD</span>. </p>
+id: JER/2/3
+next:
+  id: JER/2/4
+  number: '4'
+previous:
+  id: JER/2/2
+  number: '2'
+reference: 'Jeremiah 2:3'

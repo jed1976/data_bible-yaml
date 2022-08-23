@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 60:3" class="v">3</span>And
+  the Gentiles shall come to thy light, and kings to the brightness of thy
+  rising. </p>
+id: ISA/60/3
+next:
+  id: ISA/60/4
+  number: '4'
+previous:
+  id: ISA/60/2
+  number: '2'
+reference: 'Isaiah 60:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 58:8" class="v">8</span>As a
+  snail <span class="add">which</span> melteth, let <span class="add">every one
+  of them</span> pass away: <span class="add">like</span> the untimely birth of
+  a woman, <span class="add">that</span> they may not see the sun.</p>
+id: PSA/58/8
+next:
+  id: PSA/58/9
+  number: '9'
+previous:
+  id: PSA/58/7
+  number: '7'
+reference: 'Psalms 58:8'

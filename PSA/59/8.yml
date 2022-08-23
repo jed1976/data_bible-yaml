@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 59:8"
+  class="v">8</span>But thou, O <span class="nd">LORD</span>, shalt laugh at
+  them; thou shalt have all the heathen in derision.</p>
+id: PSA/59/8
+next:
+  id: PSA/59/9
+  number: '9'
+previous:
+  id: PSA/59/7
+  number: '7'
+reference: 'Psalms 59:8'

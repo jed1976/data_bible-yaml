@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 16:22"
+  class="v">22</span>Understanding <span class="add">is</span> a wellspring of
+  life unto him that hath it: but the instruction of fools <span
+  class="add">is</span> folly. </p>
+id: PRO/16/22
+next:
+  id: PRO/16/23
+  number: '23'
+previous:
+  id: PRO/16/21
+  number: '21'
+reference: 'Proverbs 16:22'

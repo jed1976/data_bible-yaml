@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 8:8" class="v">8</span>¶ Then
+  Pharaoh called for Moses and Aaron, and said, Intreat the <span
+  class="nd">LORD</span>, that he may take away the frogs from me, and from my
+  people; and I will let the people go, that they may do sacrifice unto the
+  <span class="nd">LORD</span>. </p>
+id: EXO/8/8
+next:
+  id: EXO/8/9
+  number: '9'
+previous:
+  id: EXO/8/7
+  number: '7'
+reference: 'Exodus 8:8'

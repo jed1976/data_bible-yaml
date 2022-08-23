@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 15:12"
+  class="v">12</span><span class="wj">This is my commandment, That ye love one
+  another, as I have loved you.</span> </p>
+id: JHN/15/12
+next:
+  id: JHN/15/13
+  number: '13'
+previous:
+  id: JHN/15/11
+  number: '11'
+reference: 'John 15:12'

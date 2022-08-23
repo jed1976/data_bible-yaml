@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HEB 12:7" class="v">7</span>If ye
+  endure chastening, God dealeth with you as with sons; for what son is he whom
+  the father chasteneth not? </p>
+id: HEB/12/7
+next:
+  id: HEB/12/8
+  number: '8'
+previous:
+  id: HEB/12/6
+  number: '6'
+reference: 'Hebrews 12:7'

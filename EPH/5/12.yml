@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EPH 5:12" class="v">12</span>For
+  it is a shame even to speak of those things which are done of them in secret.
+  </p>
+id: EPH/5/12
+next:
+  id: EPH/5/13
+  number: '13'
+previous:
+  id: EPH/5/11
+  number: '11'
+reference: 'Ephesians 5:12'

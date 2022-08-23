@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 7:1" class="v">1</span>Then
+  said the high priest, Are these things so? </p>
+id: ACT/7/1
+next:
+  id: ACT/7/2
+  number: '2'
+previous:
+  id: ACT/6/15
+  number: '15'
+reference: 'Acts 7:1'

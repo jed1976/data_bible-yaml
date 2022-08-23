@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 12:35" class="v">35</span>¶
+  And Jesus answered and said, while he taught in the temple, <span
+  class="wj">How say the scribes that Christ is the Son of David?</span> </p>
+id: MRK/12/35
+next:
+  id: MRK/12/36
+  number: '36'
+previous:
+  id: MRK/12/34
+  number: '34'
+reference: 'Mark 12:35'

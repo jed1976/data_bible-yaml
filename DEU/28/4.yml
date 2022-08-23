@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 28:4"
+  class="v">4</span>Blessed <span class="add">shall be</span> the fruit of thy
+  body, and the fruit of thy ground, and the fruit of thy cattle, the increase
+  of thy kine, and the flocks of thy sheep. </p>
+id: DEU/28/4
+next:
+  id: DEU/28/5
+  number: '5'
+previous:
+  id: DEU/28/3
+  number: '3'
+reference: 'Deuteronomy 28:4'

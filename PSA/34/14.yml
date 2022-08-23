@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 34:14"
+  class="v">14</span>Depart from evil, and do good; seek peace, and pursue
+  it.</p>
+id: PSA/34/14
+next:
+  id: PSA/34/15
+  number: '15'
+previous:
+  id: PSA/34/13
+  number: '13'
+reference: 'Psalms 34:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="63" data-sid="NEH 7:63" class="v">63</span>¶
+  And of the priests: the children of Habaiah, the children of Koz, the children
+  of Barzillai, which took <span class="add">one</span> of the daughters of
+  Barzillai the Gileadite to wife, and was called after their name. </p>
+id: NEH/7/63
+next:
+  id: NEH/7/64
+  number: '64'
+previous:
+  id: NEH/7/62
+  number: '62'
+reference: 'Nehemiah 7:63'

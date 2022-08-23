@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 7:27" class="v">27</span>But
+  he that did his neighbour wrong thrust him away, saying, Who made thee a ruler
+  and a judge over us? </p>
+id: ACT/7/27
+next:
+  id: ACT/7/28
+  number: '28'
+previous:
+  id: ACT/7/26
+  number: '26'
+reference: 'Acts 7:27'

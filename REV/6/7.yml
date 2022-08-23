@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 6:7" class="v">7</span>And
+  when he had opened the fourth seal, I heard the voice of the fourth beast say,
+  Come and see. </p>
+id: REV/6/7
+next:
+  id: REV/6/8
+  number: '8'
+previous:
+  id: REV/6/6
+  number: '6'
+reference: 'Revelation 6:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 118:1" class="v">1</span>O
+  give thanks unto the <span class="nd">LORD</span>; for <span class="add">he
+  is</span> good: because his mercy <span class="add">endureth</span> for
+  ever.</p>
+id: PSA/118/1
+next:
+  id: PSA/118/2
+  number: '2'
+previous:
+  id: PSA/117/2
+  number: '2'
+reference: 'Psalms 118:1'

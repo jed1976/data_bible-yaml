@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 5:19" class="v">19</span>It
+  <span class="add">is</span> a trespass offering: he hath certainly trespassed
+  against the <span class="nd">LORD</span>.</p>
+id: LEV/5/19
+next:
+  id: LEV/6/1
+  number: '1'
+previous:
+  id: LEV/5/18
+  number: '18'
+reference: 'Leviticus 5:19'

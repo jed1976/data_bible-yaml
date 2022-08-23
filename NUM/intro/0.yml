@@ -1,0 +1,9 @@
+content: '<p class="mt1">The Fourth Book of Moses, called Numbers</p>'
+id: NUM/intro/0
+next:
+  id: NUM/1/1
+  number: '1'
+previous:
+  id: LEV/27/34
+  number: '34'
+reference: Numbers

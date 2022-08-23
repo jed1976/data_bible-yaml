@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 9:12"
+  class="v">12</span>Though they bring up their children, yet will I bereave
+  them, <span class="add">that there shall</span> not <span
+  class="add">be</span> a man <span class="add">left:</span> yea, woe also to
+  them when I depart from them! </p>
+id: HOS/9/12
+next:
+  id: HOS/9/13
+  number: '13'
+previous:
+  id: HOS/9/11
+  number: '11'
+reference: 'Hosea 9:12'

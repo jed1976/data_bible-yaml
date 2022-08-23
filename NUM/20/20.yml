@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 20:20"
+  class="v">20</span>And he said, Thou shalt not go through. And Edom came out
+  against him with much people, and with a strong hand. </p>
+id: NUM/20/20
+next:
+  id: NUM/20/21
+  number: '21'
+previous:
+  id: NUM/20/19
+  number: '19'
+reference: 'Numbers 20:20'

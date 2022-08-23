@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 18:18"
+  class="v">18</span>Seeing that Abraham shall surely become a great and mighty
+  nation, and all the nations of the earth shall be blessed in him? </p>
+id: GEN/18/18
+next:
+  id: GEN/18/19
+  number: '19'
+previous:
+  id: GEN/18/17
+  number: '17'
+reference: 'Genesis 18:18'

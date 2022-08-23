@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 27:3" class="v">3</span>I the
+  <span class="nd">LORD</span> do keep it; I will water it every moment: lest
+  <span class="add">any</span> hurt it, I will keep it night and day. </p>
+id: ISA/27/3
+next:
+  id: ISA/27/4
+  number: '4'
+previous:
+  id: ISA/27/2
+  number: '2'
+reference: 'Isaiah 27:3'

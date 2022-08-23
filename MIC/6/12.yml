@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 6:12" class="v">12</span>For
+  the rich men thereof are full of violence, and the inhabitants thereof have
+  spoken lies, and their tongue <span class="add">is</span> deceitful in their
+  mouth. </p>
+id: MIC/6/12
+next:
+  id: MIC/6/13
+  number: '13'
+previous:
+  id: MIC/6/11
+  number: '11'
+reference: 'Micah 6:12'

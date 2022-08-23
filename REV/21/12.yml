@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 21:12"
+  class="v">12</span>And had a wall great and high, <span class="add">and</span>
+  had twelve gates, and at the gates twelve angels, and names written thereon,
+  which are <span class="add">the names</span> of the twelve tribes of the
+  children of Israel: </p>
+id: REV/21/12
+next:
+  id: REV/21/13
+  number: '13'
+previous:
+  id: REV/21/11
+  number: '11'
+reference: 'Revelation 21:12'

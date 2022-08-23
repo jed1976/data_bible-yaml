@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 14:4" class="v">4</span>And I
+  will harden Pharaoh’s heart, that he shall follow after them; and I will be
+  honoured upon Pharaoh, and upon all his host; that the Egyptians may know that
+  I <span class="add">am</span> the <span class="nd">LORD</span>. And they did
+  so.</p>
+id: EXO/14/4
+next:
+  id: EXO/14/5
+  number: '5'
+previous:
+  id: EXO/14/3
+  number: '3'
+reference: 'Exodus 14:4'

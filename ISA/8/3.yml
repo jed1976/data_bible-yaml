@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 8:3" class="v">3</span>And I
+  went unto the prophetess; and she conceived, and bare a son. Then said the
+  <span class="nd">LORD</span> to me, Call his name Maher-shalal-hash-baz. </p>
+id: ISA/8/3
+next:
+  id: ISA/8/4
+  number: '4'
+previous:
+  id: ISA/8/2
+  number: '2'
+reference: 'Isaiah 8:3'

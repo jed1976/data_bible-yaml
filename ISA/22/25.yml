@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 22:25" class="v">25</span>In
+  that day, saith the <span class="nd">LORD</span> of hosts, shall the nail that
+  is fastened in the sure place be removed, and be cut down, and fall; and the
+  burden that <span class="add">was</span> upon it shall be cut off: for the
+  <span class="nd">LORD</span> hath spoken <span class="add">it</span>.</p>
+id: ISA/22/25
+next:
+  id: ISA/23/1
+  number: '1'
+previous:
+  id: ISA/22/24
+  number: '24'
+reference: 'Isaiah 22:25'

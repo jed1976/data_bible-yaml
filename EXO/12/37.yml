@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="EXO 12:37" class="v">37</span>¶
+  And the children of Israel journeyed from Rameses to Succoth, about six
+  hundred thousand on foot <span class="add">that were</span> men, beside
+  children. </p>
+id: EXO/12/37
+next:
+  id: EXO/12/38
+  number: '38'
+previous:
+  id: EXO/12/36
+  number: '36'
+reference: 'Exodus 12:37'

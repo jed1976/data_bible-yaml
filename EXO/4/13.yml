@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 4:13" class="v">13</span>And
+  he said, O my Lord, send, I pray thee, by the hand <span class="add">of him
+  whom</span> thou wilt send. </p>
+id: EXO/4/13
+next:
+  id: EXO/4/14
+  number: '14'
+previous:
+  id: EXO/4/12
+  number: '12'
+reference: 'Exodus 4:13'

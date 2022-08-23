@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EPH 5:25"
+  class="v">25</span>Husbands, love your wives, even as Christ also loved the
+  church, and gave himself for it; </p>
+id: EPH/5/25
+next:
+  id: EPH/5/26
+  number: '26'
+previous:
+  id: EPH/5/24
+  number: '24'
+reference: 'Ephesians 5:25'

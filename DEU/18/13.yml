@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 18:13"
+  class="v">13</span>Thou shalt be perfect with the <span class="nd">LORD</span>
+  thy God. </p>
+id: DEU/18/13
+next:
+  id: DEU/18/14
+  number: '14'
+previous:
+  id: DEU/18/12
+  number: '12'
+reference: 'Deuteronomy 18:13'

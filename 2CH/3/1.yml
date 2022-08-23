@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 3:1" class="v">1</span>Then
+  Solomon began to build the house of the <span class="nd">LORD</span> at
+  Jerusalem in mount Moriah, where <span class="add">the <span
+  class="nd">Lord</span></span> appeared unto David his father, in the place
+  that David had prepared in the threshingfloor of Ornan the Jebusite. </p>
+id: 2CH/3/1
+next:
+  id: 2CH/3/2
+  number: '2'
+previous:
+  id: 2CH/2/18
+  number: '18'
+reference: '2 Chronicles 3:1'

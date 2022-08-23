@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 32:9" class="v">9</span>¶ And
+  Jacob said, O God of my father Abraham, and God of my father Isaac, the <span
+  class="nd">LORD</span> which saidst unto me, Return unto thy country, and to
+  thy kindred, and I will deal well with thee: </p>
+id: GEN/32/9
+next:
+  id: GEN/32/10
+  number: '10'
+previous:
+  id: GEN/32/8
+  number: '8'
+reference: 'Genesis 32:9'

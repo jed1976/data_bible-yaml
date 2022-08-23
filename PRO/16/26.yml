@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 16:26" class="v">26</span>He
+  that laboureth laboureth for himself; for his mouth craveth it of him.</p>
+id: PRO/16/26
+next:
+  id: PRO/16/27
+  number: '27'
+previous:
+  id: PRO/16/25
+  number: '25'
+reference: 'Proverbs 16:26'

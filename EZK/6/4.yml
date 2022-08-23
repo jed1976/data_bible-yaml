@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 6:4" class="v">4</span>And
+  your altars shall be desolate, and your images shall be broken: and I will
+  cast down your slain <span class="add">men</span> before your idols. </p>
+id: EZK/6/4
+next:
+  id: EZK/6/5
+  number: '5'
+previous:
+  id: EZK/6/3
+  number: '3'
+reference: 'Ezekiel 6:4'

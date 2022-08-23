@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 11:24"
+  class="v">24</span>Martha saith unto him, I know that he shall rise again in
+  the resurrection at the last day. </p>
+id: JHN/11/24
+next:
+  id: JHN/11/25
+  number: '25'
+previous:
+  id: JHN/11/23
+  number: '23'
+reference: 'John 11:24'

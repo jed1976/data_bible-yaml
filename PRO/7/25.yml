@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 7:25" class="v">25</span>Let
+  not thine heart decline to her ways, go not astray in her paths. </p>
+id: PRO/7/25
+next:
+  id: PRO/7/26
+  number: '26'
+previous:
+  id: PRO/7/24
+  number: '24'
+reference: 'Proverbs 7:25'

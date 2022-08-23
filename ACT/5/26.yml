@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 5:26"
+  class="v">26</span>Then went the captain with the officers, and brought them
+  without violence: for they feared the people, lest they should have been
+  stoned. </p>
+id: ACT/5/26
+next:
+  id: ACT/5/27
+  number: '27'
+previous:
+  id: ACT/5/25
+  number: '25'
+reference: 'Acts 5:26'

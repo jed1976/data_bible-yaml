@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 42:1"
+  class="v">1</span>Behold my servant, whom I uphold; mine elect, <span
+  class="add">in whom</span> my soul delighteth; I have put my spirit upon him:
+  he shall bring forth judgment to the Gentiles. </p>
+id: ISA/42/1
+next:
+  id: ISA/42/2
+  number: '2'
+previous:
+  id: ISA/41/29
+  number: '29'
+reference: 'Isaiah 42:1'

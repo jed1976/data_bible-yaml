@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 3:8" class="v">8</span>And
+  thou shalt command the priests that bear the ark of the covenant, saying, When
+  ye are come to the brink of the water of Jordan, ye shall stand still in
+  Jordan.</p>
+id: JOS/3/8
+next:
+  id: JOS/3/9
+  number: '9'
+previous:
+  id: JOS/3/7
+  number: '7'
+reference: 'Joshua 3:8'

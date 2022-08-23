@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 22:4" class="v">4</span>Will
+  he reprove thee for fear of thee? will he enter with thee into judgment?</p>
+id: JOB/22/4
+next:
+  id: JOB/22/5
+  number: '5'
+previous:
+  id: JOB/22/3
+  number: '3'
+reference: 'Job 22:4'

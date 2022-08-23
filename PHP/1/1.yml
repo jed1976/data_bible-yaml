@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PHP 1:1" class="v">1</span>Paul
+  and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus
+  which are at Philippi, with the bishops and deacons: </p>
+id: PHP/1/1
+next:
+  id: PHP/1/2
+  number: '2'
+previous:
+  id: PHP/intro/0
+  number: '0'
+reference: 'Philippians 1:1'

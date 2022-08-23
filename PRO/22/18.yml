@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 22:18"
+  class="v">18</span>For <span class="add">it is</span> a pleasant thing if thou
+  keep them within thee; they shall withal be fitted in thy lips. </p>
+id: PRO/22/18
+next:
+  id: PRO/22/19
+  number: '19'
+previous:
+  id: PRO/22/17
+  number: '17'
+reference: 'Proverbs 22:18'

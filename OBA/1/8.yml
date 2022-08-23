@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="OBA 1:8" class="v">8</span>Shall
+  I not in that day, saith the <span class="nd">LORD</span>, even destroy the
+  wise <span class="add">men</span> out of Edom, and understanding out of the
+  mount of Esau? </p>
+id: OBA/1/8
+next:
+  id: OBA/1/9
+  number: '9'
+previous:
+  id: OBA/1/7
+  number: '7'
+reference: 'Obadiah 1:8'

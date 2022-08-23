@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 17:24"
+  class="v">24</span>And Abraham <span class="add">was</span> ninety years old
+  and nine, when he was circumcised in the flesh of his foreskin. </p>
+id: GEN/17/24
+next:
+  id: GEN/17/25
+  number: '25'
+previous:
+  id: GEN/17/23
+  number: '23'
+reference: 'Genesis 17:24'

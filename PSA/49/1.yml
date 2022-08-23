@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm for the sons of Korah.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 49:1" class="v">1</span>Hear
+  this, all <span class="add">ye</span> people; give ear, all <span
+  class="add">ye</span> inhabitants of the world:</p>
+id: PSA/49/1
+next:
+  id: PSA/49/2
+  number: '2'
+previous:
+  id: PSA/48/14
+  number: '14'
+reference: 'Psalms 49:1'

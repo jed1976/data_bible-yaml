@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 7:3" class="v">3</span>And
+  they returned to Joshua, and said unto him, Let not all the people go up; but
+  let about two or three thousand men go up and smite Ai; <span
+  class="add">and</span> make not all the people to labour thither; for they
+  <span class="add">are but</span> few. </p>
+id: JOS/7/3
+next:
+  id: JOS/7/4
+  number: '4'
+previous:
+  id: JOS/7/2
+  number: '2'
+reference: 'Joshua 7:3'

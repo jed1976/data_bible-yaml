@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ZEC 1:15" class="v">15</span>And
+  I am very sore displeased with the heathen <span class="add">that are</span>
+  at ease: for I was but a little displeased, and they helped forward the
+  affliction. </p>
+id: ZEC/1/15
+next:
+  id: ZEC/1/16
+  number: '16'
+previous:
+  id: ZEC/1/14
+  number: '14'
+reference: 'Zechariah 1:15'

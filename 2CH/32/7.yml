@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 32:7" class="v">7</span>Be
+  strong and courageous, be not afraid nor dismayed for the king of Assyria, nor
+  for all the multitude that <span class="add">is</span> with him: for <span
+  class="add">there be</span> more with us than with him: </p>
+id: 2CH/32/7
+next:
+  id: 2CH/32/8
+  number: '8'
+previous:
+  id: 2CH/32/6
+  number: '6'
+reference: '2 Chronicles 32:7'

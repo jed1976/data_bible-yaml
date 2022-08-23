@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 24:5" class="v">5</span>¶ Now
+  the rest of the acts of Jehoiakim, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Judah? </p>
+id: 2KI/24/5
+next:
+  id: 2KI/24/6
+  number: '6'
+previous:
+  id: 2KI/24/4
+  number: '4'
+reference: '2 Kings 24:5'

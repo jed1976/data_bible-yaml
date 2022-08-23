@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 16:32"
+  class="v">32</span>And the earth opened her mouth, and swallowed them up, and
+  their houses, and all the men that <span class="add">appertained</span> unto
+  Korah, and all <span class="add">their</span> goods. </p>
+id: NUM/16/32
+next:
+  id: NUM/16/33
+  number: '33'
+previous:
+  id: NUM/16/31
+  number: '31'
+reference: 'Numbers 16:32'

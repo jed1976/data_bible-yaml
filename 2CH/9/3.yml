@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 9:3" class="v">3</span>And
+  when the queen of Sheba had seen the wisdom of Solomon, and the house that he
+  had built, </p>
+id: 2CH/9/3
+next:
+  id: 2CH/9/4
+  number: '4'
+previous:
+  id: 2CH/9/2
+  number: '2'
+reference: '2 Chronicles 9:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 16:3" class="v">3</span>And
+  goeth down westward to the coast of Japhleti, unto the coast of Beth-horon the
+  nether, and to Gezer: and the goings out thereof are at the sea. </p>
+id: JOS/16/3
+next:
+  id: JOS/16/4
+  number: '4'
+previous:
+  id: JOS/16/2
+  number: '2'
+reference: 'Joshua 16:3'

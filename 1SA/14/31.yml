@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="1SA 14:31"
+  class="v">31</span>And they smote the Philistines that day from Michmash to
+  Aijalon: and the people were very faint. </p>
+id: 1SA/14/31
+next:
+  id: 1SA/14/32
+  number: '32'
+previous:
+  id: 1SA/14/30
+  number: '30'
+reference: '1 Samuel 14:31'

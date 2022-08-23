@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 23:11"
+  class="v">11</span>Nay, my lord, hear me: the field give I thee, and the cave
+  that <span class="add">is</span> therein, I give it thee; in the presence of
+  the sons of my people give I it thee: bury thy dead. </p>
+id: GEN/23/11
+next:
+  id: GEN/23/12
+  number: '12'
+previous:
+  id: GEN/23/10
+  number: '10'
+reference: 'Genesis 23:11'

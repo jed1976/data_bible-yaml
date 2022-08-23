@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 7:3" class="v">3</span>And
+  Nathan said to the king, Go, do all that <span class="add">is</span> in thine
+  heart; for the <span class="nd">LORD</span> <span class="add">is</span> with
+  thee.</p>
+id: 2SA/7/3
+next:
+  id: 2SA/7/4
+  number: '4'
+previous:
+  id: 2SA/7/2
+  number: '2'
+reference: '2 Samuel 7:3'

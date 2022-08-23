@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 2:13" class="v">13</span>And
+  the name of the second river <span class="add">is</span> Gihon: the same <span
+  class="add">is</span> it that compasseth the whole land of Ethiopia. </p>
+id: GEN/2/13
+next:
+  id: GEN/2/14
+  number: '14'
+previous:
+  id: GEN/2/12
+  number: '12'
+reference: 'Genesis 2:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CH 27:33"
+  class="v">33</span>And Ahithophel <span class="add">was</span> the king’s
+  counsellor: and Hushai the Archite <span class="add">was</span> the king’s
+  companion: </p>
+id: 1CH/27/33
+next:
+  id: 1CH/27/34
+  number: '34'
+previous:
+  id: 1CH/27/32
+  number: '32'
+reference: '1 Chronicles 27:33'

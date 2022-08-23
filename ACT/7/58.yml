@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="ACT 7:58" class="v">58</span>And
+  cast <span class="add">him</span> out of the city, and stoned <span
+  class="add">him</span>: and the witnesses laid down their clothes at a young
+  man’s feet, whose name was Saul. </p>
+id: ACT/7/58
+next:
+  id: ACT/7/59
+  number: '59'
+previous:
+  id: ACT/7/57
+  number: '57'
+reference: 'Acts 7:58'

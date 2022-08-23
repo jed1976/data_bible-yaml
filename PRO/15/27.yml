@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 15:27" class="v">27</span>He
+  that is greedy of gain troubleth his own house; but he that hateth gifts shall
+  live. </p>
+id: PRO/15/27
+next:
+  id: PRO/15/28
+  number: '28'
+previous:
+  id: PRO/15/26
+  number: '26'
+reference: 'Proverbs 15:27'

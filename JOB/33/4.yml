@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 33:4" class="v">4</span>The
+  Spirit of God hath made me, and the breath of the Almighty hath given me life.
+  </p>
+id: JOB/33/4
+next:
+  id: JOB/33/5
+  number: '5'
+previous:
+  id: JOB/33/3
+  number: '3'
+reference: 'Job 33:4'

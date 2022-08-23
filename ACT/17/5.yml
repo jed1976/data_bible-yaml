@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 17:5" class="v">5</span>¶ But
+  the Jews which believed not, moved with envy, took unto them certain lewd
+  fellows of the baser sort, and gathered a company, and set all the city on an
+  uproar, and assaulted the house of Jason, and sought to bring them out to the
+  people. </p>
+id: ACT/17/5
+next:
+  id: ACT/17/6
+  number: '6'
+previous:
+  id: ACT/17/4
+  number: '4'
+reference: 'Acts 17:5'

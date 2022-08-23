@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 35:13"
+  class="v">13</span>And of these cities which ye shall give six cities shall ye
+  have for refuge. </p>
+id: NUM/35/13
+next:
+  id: NUM/35/14
+  number: '14'
+previous:
+  id: NUM/35/12
+  number: '12'
+reference: 'Numbers 35:13'

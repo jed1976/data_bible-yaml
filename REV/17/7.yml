@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 17:7" class="v">7</span>And
+  the angel said unto me, Wherefore didst thou marvel? I will tell thee the
+  mystery of the woman, and of the beast that carrieth her, which hath the seven
+  heads and ten horns. </p>
+id: REV/17/7
+next:
+  id: REV/17/8
+  number: '8'
+previous:
+  id: REV/17/6
+  number: '6'
+reference: 'Revelation 17:7'

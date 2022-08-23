@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 23:21"
+  class="v">21</span>But they cried, saying, Crucify <span
+  class="add">him</span>, crucify him. </p>
+id: LUK/23/21
+next:
+  id: LUK/23/22
+  number: '22'
+previous:
+  id: LUK/23/20
+  number: '20'
+reference: 'Luke 23:21'

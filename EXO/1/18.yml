@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 1:18" class="v">18</span>And
+  the king of Egypt called for the midwives, and said unto them, Why have ye
+  done this thing, and have saved the men children alive? </p>
+id: EXO/1/18
+next:
+  id: EXO/1/19
+  number: '19'
+previous:
+  id: EXO/1/17
+  number: '17'
+reference: 'Exodus 1:18'

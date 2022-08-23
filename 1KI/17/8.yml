@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 17:8" class="v">8</span>¶ And
+  the word of the <span class="nd">LORD</span> came unto him, saying, </p>
+id: 1KI/17/8
+next:
+  id: 1KI/17/9
+  number: '9'
+previous:
+  id: 1KI/17/7
+  number: '7'
+reference: '1 Kings 17:8'

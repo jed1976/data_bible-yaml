@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 51:18"
+  class="v">18</span>Do good in thy good pleasure unto Zion: build thou the
+  walls of Jerusalem.</p>
+id: PSA/51/18
+next:
+  id: PSA/51/19
+  number: '19'
+previous:
+  id: PSA/51/17
+  number: '17'
+reference: 'Psalms 51:18'

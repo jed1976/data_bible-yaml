@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JAS 3:17" class="v">17</span>But
+  the wisdom that is from above is first pure, then peaceable, gentle, <span
+  class="add">and</span> easy to be intreated, full of mercy and good fruits,
+  without partiality, and without hypocrisy. </p>
+id: JAS/3/17
+next:
+  id: JAS/3/18
+  number: '18'
+previous:
+  id: JAS/3/16
+  number: '16'
+reference: 'James 3:17'

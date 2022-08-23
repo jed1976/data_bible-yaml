@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 20:6" class="v">6</span>And
+  shewing mercy unto thousands of them that love me, and keep my commandments.
+  </p>
+id: EXO/20/6
+next:
+  id: EXO/20/7
+  number: '7'
+previous:
+  id: EXO/20/5
+  number: '5'
+reference: 'Exodus 20:6'

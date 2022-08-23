@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 6:2" class="v">2</span>If a
+  soul sin, and commit a trespass against the <span class="nd">LORD</span>, and
+  lie unto his neighbour in that which was delivered him to keep, or in
+  fellowship, or in a thing taken away by violence, or hath deceived his
+  neighbour; </p>
+id: LEV/6/2
+next:
+  id: LEV/6/3
+  number: '3'
+previous:
+  id: LEV/6/1
+  number: '1'
+reference: 'Leviticus 6:2'

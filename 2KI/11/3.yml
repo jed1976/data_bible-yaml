@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 11:3" class="v">3</span>And
+  he was with her hid in the house of the <span class="nd">LORD</span> six
+  years. And Athaliah did reign over the land.</p>
+id: 2KI/11/3
+next:
+  id: 2KI/11/4
+  number: '4'
+previous:
+  id: 2KI/11/2
+  number: '2'
+reference: '2 Kings 11:3'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 7:13" class="v">13</span>And
+  one of his servants answered and said, Let <span class="add">some</span> take,
+  I pray thee, five of the horses that remain, which are left in the city,
+  (behold, they <span class="add">are</span> as all the multitude of Israel that
+  are left in it: behold, <span class="add">I say</span>, they <span
+  class="add">are</span> even as all the multitude of the Israelites that are
+  consumed:) and let us send and see. </p>
+id: 2KI/7/13
+next:
+  id: 2KI/7/14
+  number: '14'
+previous:
+  id: 2KI/7/12
+  number: '12'
+reference: '2 Kings 7:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="EXO 8:31" class="v">31</span>And
+  the <span class="nd">LORD</span> did according to the word of Moses; and he
+  removed the swarms <span class="add">of flies</span> from Pharaoh, from his
+  servants, and from his people; there remained not one. </p>
+id: EXO/8/31
+next:
+  id: EXO/8/32
+  number: '32'
+previous:
+  id: EXO/8/30
+  number: '30'
+reference: 'Exodus 8:31'

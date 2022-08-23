@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 7:15" class="v">15</span>So
+  Jacob went down into Egypt, and died, he, and our fathers, </p>
+id: ACT/7/15
+next:
+  id: ACT/7/16
+  number: '16'
+previous:
+  id: ACT/7/14
+  number: '14'
+reference: 'Acts 7:15'

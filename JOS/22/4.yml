@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 22:4" class="v">4</span>And
+  now the <span class="nd">LORD</span> your God hath given rest unto your
+  brethren, as he promised them: therefore now return ye, and get you unto your
+  tents, <span class="add">and</span> unto the land of your possession, which
+  Moses the servant of the <span class="nd">LORD</span> gave you on the other
+  side Jordan. </p>
+id: JOS/22/4
+next:
+  id: JOS/22/5
+  number: '5'
+previous:
+  id: JOS/22/3
+  number: '3'
+reference: 'Joshua 22:4'

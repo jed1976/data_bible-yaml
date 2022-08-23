@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 27:25"
+  class="v">25</span>Wherefore, sirs, be of good cheer: for I believe God, that
+  it shall be even as it was told me. </p>
+id: ACT/27/25
+next:
+  id: ACT/27/26
+  number: '26'
+previous:
+  id: ACT/27/24
+  number: '24'
+reference: 'Acts 27:25'

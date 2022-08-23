@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 15:24"
+  class="v">24</span>And when they had crucified him, they parted his garments,
+  casting lots upon them, what every man should take. </p>
+id: MRK/15/24
+next:
+  id: MRK/15/25
+  number: '25'
+previous:
+  id: MRK/15/23
+  number: '23'
+reference: 'Mark 15:24'

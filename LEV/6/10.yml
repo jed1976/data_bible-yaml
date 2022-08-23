@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 6:10" class="v">10</span>And
+  the priest shall put on his linen garment, and his linen breeches shall he put
+  upon his flesh, and take up the ashes which the fire hath consumed with the
+  burnt offering on the altar, and he shall put them beside the altar. </p>
+id: LEV/6/10
+next:
+  id: LEV/6/11
+  number: '11'
+previous:
+  id: LEV/6/9
+  number: '9'
+reference: 'Leviticus 6:10'

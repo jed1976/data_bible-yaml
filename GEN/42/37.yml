@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="GEN 42:37"
+  class="v">37</span>And Reuben spake unto his father, saying, Slay my two sons,
+  if I bring him not to thee: deliver him into my hand, and I will bring him to
+  thee again. </p>
+id: GEN/42/37
+next:
+  id: GEN/42/38
+  number: '38'
+previous:
+  id: GEN/42/36
+  number: '36'
+reference: 'Genesis 42:37'

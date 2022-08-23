@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 20:1" class="v">1</span>Then
+  came the children of Israel, <span class="add">even</span> the whole
+  congregation, into the desert of Zin in the first month: and the people abode
+  in Kadesh; and Miriam died there, and was buried there. </p>
+id: NUM/20/1
+next:
+  id: NUM/20/2
+  number: '2'
+previous:
+  id: NUM/19/22
+  number: '22'
+reference: 'Numbers 20:1'

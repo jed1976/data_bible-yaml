@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 36:18"
+  class="v">18</span>Because <span class="add">there is</span> wrath, <span
+  class="add">beware</span> lest he take thee away with <span
+  class="add">his</span> stroke: then a great ransom cannot deliver thee. </p>
+id: JOB/36/18
+next:
+  id: JOB/36/19
+  number: '19'
+previous:
+  id: JOB/36/17
+  number: '17'
+reference: 'Job 36:18'

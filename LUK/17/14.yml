@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 17:14"
+  class="v">14</span>And when he saw <span class="add">them</span>, he said unto
+  them, <span class="wj">Go shew yourselves unto the priests.</span> And it came
+  to pass, that, as they went, they were cleansed. </p>
+id: LUK/17/14
+next:
+  id: LUK/17/15
+  number: '15'
+previous:
+  id: LUK/17/13
+  number: '13'
+reference: 'Luke 17:14'

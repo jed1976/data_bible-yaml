@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 4:13" class="v">13</span>¶
+  Better <span class="add">is</span> a poor and a wise child than an old and
+  foolish king, who will no more be admonished. </p>
+id: ECC/4/13
+next:
+  id: ECC/4/14
+  number: '14'
+previous:
+  id: ECC/4/12
+  number: '12'
+reference: 'Ecclesiastes 4:13'

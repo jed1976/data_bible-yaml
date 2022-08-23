@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 11:12"
+  class="v">12</span>And ye shall know that I <span class="add">am</span> the
+  <span class="nd">LORD</span>: for ye have not walked in my statutes, neither
+  executed my judgments, but have done after the manners of the heathen that
+  <span class="add">are</span> round about you.</p>
+id: EZK/11/12
+next:
+  id: EZK/11/13
+  number: '13'
+previous:
+  id: EZK/11/11
+  number: '11'
+reference: 'Ezekiel 11:12'

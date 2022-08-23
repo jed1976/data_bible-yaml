@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 2:1" class="v">1</span>And in
+  the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams,
+  wherewith his spirit was troubled, and his sleep brake from him. </p>
+id: DAN/2/1
+next:
+  id: DAN/2/2
+  number: '2'
+previous:
+  id: DAN/1/21
+  number: '21'
+reference: 'Daniel 2:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 5:11" class="v">11</span>And
+  not only <span class="add">so</span>, but we also joy in God through our Lord
+  Jesus Christ, by whom we have now received the atonement.</p>
+id: ROM/5/11
+next:
+  id: ROM/5/12
+  number: '12'
+previous:
+  id: ROM/5/10
+  number: '10'
+reference: 'Romans 5:11'

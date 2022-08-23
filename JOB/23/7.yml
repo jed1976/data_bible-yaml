@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 23:7" class="v">7</span>There
+  the righteous might dispute with him; so should I be delivered for ever from
+  my judge.</p>
+id: JOB/23/7
+next:
+  id: JOB/23/8
+  number: '8'
+previous:
+  id: JOB/23/6
+  number: '6'
+reference: 'Job 23:7'

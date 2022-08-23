@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 4:12" class="v">12</span>And
+  I answered again, and said unto him, What <span class="add">be these</span>
+  two olive branches which through the two golden pipes empty the golden <span
+  class="add">oil</span> out of themselves? </p>
+id: ZEC/4/12
+next:
+  id: ZEC/4/13
+  number: '13'
+previous:
+  id: ZEC/4/11
+  number: '11'
+reference: 'Zechariah 4:12'

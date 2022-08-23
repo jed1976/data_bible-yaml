@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ISA 10:34"
+  class="v">34</span>And he shall cut down the thickets of the forest with iron,
+  and Lebanon shall fall by a mighty one.</p>
+id: ISA/10/34
+next:
+  id: ISA/11/1
+  number: '1'
+previous:
+  id: ISA/10/33
+  number: '33'
+reference: 'Isaiah 10:34'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 2:12" class="v">12</span>And
+  they forsook the <span class="nd">LORD</span> God of their fathers, which
+  brought them out of the land of Egypt, and followed other gods, of the gods of
+  the people that <span class="add">were</span> round about them, and bowed
+  themselves unto them, and provoked the <span class="nd">LORD</span> to anger.
+  </p>
+id: JDG/2/12
+next:
+  id: JDG/2/13
+  number: '13'
+previous:
+  id: JDG/2/11
+  number: '11'
+reference: 'Judges 2:12'

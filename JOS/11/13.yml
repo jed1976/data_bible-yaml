@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 11:13"
+  class="v">13</span>But <span class="add">as for</span> the cities that stood
+  still in their strength, Israel burned none of them, save Hazor only; <span
+  class="add">that</span> did Joshua burn. </p>
+id: JOS/11/13
+next:
+  id: JOS/11/14
+  number: '14'
+previous:
+  id: JOS/11/12
+  number: '12'
+reference: 'Joshua 11:13'

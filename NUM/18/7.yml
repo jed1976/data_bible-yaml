@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 18:7"
+  class="v">7</span>Therefore thou and thy sons with thee shall keep your
+  priest’s office for every thing of the altar, and within the vail; and ye
+  shall serve: I have given your priest’s office <span class="add">unto
+  you</span> as a service of gift: and the stranger that cometh nigh shall be
+  put to death.</p>
+id: NUM/18/7
+next:
+  id: NUM/18/8
+  number: '8'
+previous:
+  id: NUM/18/6
+  number: '6'
+reference: 'Numbers 18:7'

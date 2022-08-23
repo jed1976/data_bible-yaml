@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 9:17" class="v">17</span>And
+  God said unto Noah, This <span class="add">is</span> the token of the
+  covenant, which I have established between me and all flesh that <span
+  class="add">is</span> upon the earth.</p>
+id: GEN/9/17
+next:
+  id: GEN/9/18
+  number: '18'
+previous:
+  id: GEN/9/16
+  number: '16'
+reference: 'Genesis 9:17'

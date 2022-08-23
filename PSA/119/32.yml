@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 119:32"
+  class="v">32</span>I will run the way of thy commandments, when thou shalt
+  enlarge my heart.</p>
+id: PSA/119/32
+next:
+  id: PSA/119/33
+  number: '33'
+previous:
+  id: PSA/119/31
+  number: '31'
+reference: 'Psalms 119:32'

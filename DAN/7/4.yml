@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 7:4" class="v">4</span>The
+  first <span class="add">was</span> like a lion, and had eagle’s wings: I
+  beheld till the wings thereof were plucked, and it was lifted up from the
+  earth, and made stand upon the feet as a man, and a man’s heart was given to
+  it. </p>
+id: DAN/7/4
+next:
+  id: DAN/7/5
+  number: '5'
+previous:
+  id: DAN/7/3
+  number: '3'
+reference: 'Daniel 7:4'

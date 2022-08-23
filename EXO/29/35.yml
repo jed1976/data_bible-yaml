@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 29:35"
+  class="v">35</span>And thus shalt thou do unto Aaron, and to his sons,
+  according to all <span class="add">things</span> which I have commanded thee:
+  seven days shalt thou consecrate them. </p>
+id: EXO/29/35
+next:
+  id: EXO/29/36
+  number: '36'
+previous:
+  id: EXO/29/34
+  number: '34'
+reference: 'Exodus 29:35'

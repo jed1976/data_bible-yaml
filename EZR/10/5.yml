@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZR 10:5" class="v">5</span>Then
+  arose Ezra, and made the chief priests, the Levites, and all Israel, to swear
+  that they should do according to this word. And they sware.</p>
+id: EZR/10/5
+next:
+  id: EZR/10/6
+  number: '6'
+previous:
+  id: EZR/10/4
+  number: '4'
+reference: 'Ezra 10:5'

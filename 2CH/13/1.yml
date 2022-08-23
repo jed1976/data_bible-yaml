@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 13:1" class="v">1</span>Now
+  in the eighteenth year of king Jeroboam began Abijah to reign over Judah. </p>
+id: 2CH/13/1
+next:
+  id: 2CH/13/2
+  number: '2'
+previous:
+  id: 2CH/12/16
+  number: '16'
+reference: '2 Chronicles 13:1'

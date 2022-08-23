@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 21:21"
+  class="v">21</span>Jesus answered and said unto them, <span class="wj">Verily
+  I say unto you, If ye have faith, and doubt not, ye shall not only do this
+  <span class="add">which is done</span> to the fig tree, but also if ye shall
+  say unto this mountain, Be thou removed, and be thou cast into the sea; it
+  shall be done.</span> </p>
+id: MAT/21/21
+next:
+  id: MAT/21/22
+  number: '22'
+previous:
+  id: MAT/21/20
+  number: '20'
+reference: 'Matthew 21:21'

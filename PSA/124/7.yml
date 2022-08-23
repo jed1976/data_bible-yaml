@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 124:7" class="v">7</span>Our
+  soul is escaped as a bird out of the snare of the fowlers: the snare is
+  broken, and we are escaped.</p>
+id: PSA/124/7
+next:
+  id: PSA/124/8
+  number: '8'
+previous:
+  id: PSA/124/6
+  number: '6'
+reference: 'Psalms 124:7'

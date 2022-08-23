@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 29:7" class="v">7</span>And
+  he said, Lo, <span class="add">it is</span> yet high day, neither <span
+  class="add">is it</span> time that the cattle should be gathered together:
+  water ye the sheep, and go <span class="add">and</span> feed <span
+  class="add">them</span>. </p>
+id: GEN/29/7
+next:
+  id: GEN/29/8
+  number: '8'
+previous:
+  id: GEN/29/6
+  number: '6'
+reference: 'Genesis 29:7'

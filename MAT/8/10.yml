@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 8:10"
+  class="v">10</span>When Jesus heard <span class="add">it</span>, he marvelled,
+  and said to them that followed, <span class="wj">Verily I say unto you, I have
+  not found so great faith, no, not in Israel.</span> </p>
+id: MAT/8/10
+next:
+  id: MAT/8/11
+  number: '11'
+previous:
+  id: MAT/8/9
+  number: '9'
+reference: 'Matthew 8:10'

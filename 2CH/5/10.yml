@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 5:10"
+  class="v">10</span><span class="add">There was</span> nothing in the ark save
+  the two tables which Moses put <span class="add">therein</span> at Horeb, when
+  the <span class="nd">LORD</span> made <span class="add">a covenant</span> with
+  the children of Israel, when they came out of Egypt.</p>
+id: 2CH/5/10
+next:
+  id: 2CH/5/11
+  number: '11'
+previous:
+  id: 2CH/5/9
+  number: '9'
+reference: '2 Chronicles 5:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1JN 3:3" class="v">3</span>And
+  every man that hath this hope in him purifieth himself, even as he is pure.
+  </p>
+id: 1JN/3/3
+next:
+  id: 1JN/3/4
+  number: '4'
+previous:
+  id: 1JN/3/2
+  number: '2'
+reference: '1 John 3:3'

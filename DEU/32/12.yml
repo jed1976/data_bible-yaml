@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 32:12"
+  class="v">12</span><span class="add">So</span> the <span
+  class="nd">LORD</span> alone did lead him, and <span class="add">there
+  was</span> no strange god with him. </p>
+id: DEU/32/12
+next:
+  id: DEU/32/13
+  number: '13'
+previous:
+  id: DEU/32/11
+  number: '11'
+reference: 'Deuteronomy 32:12'

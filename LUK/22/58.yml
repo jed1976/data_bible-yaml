@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="LUK 22:58"
+  class="v">58</span>And after a little while another saw him, and said, Thou
+  art also of them. And Peter said, Man, I am not. </p>
+id: LUK/22/58
+next:
+  id: LUK/22/59
+  number: '59'
+previous:
+  id: LUK/22/57
+  number: '57'
+reference: 'Luke 22:58'

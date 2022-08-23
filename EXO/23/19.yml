@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 23:19"
+  class="v">19</span>The first of the firstfruits of thy land thou shalt bring
+  into the house of the <span class="nd">LORD</span> thy God. Thou shalt not
+  seethe a kid in his mother’s milk.</p>
+id: EXO/23/19
+next:
+  id: EXO/23/20
+  number: '20'
+previous:
+  id: EXO/23/18
+  number: '18'
+reference: 'Exodus 23:19'

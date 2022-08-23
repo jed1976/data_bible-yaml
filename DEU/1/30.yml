@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 1:30" class="v">30</span>The
+  <span class="nd">LORD</span> your God which goeth before you, he shall fight
+  for you, according to all that he did for you in Egypt before your eyes; </p>
+id: DEU/1/30
+next:
+  id: DEU/1/31
+  number: '31'
+previous:
+  id: DEU/1/29
+  number: '29'
+reference: 'Deuteronomy 1:30'

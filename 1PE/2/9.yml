@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1PE 2:9" class="v">9</span>But ye
+  <span class="add">are</span> a chosen generation, a royal priesthood, an holy
+  nation, a peculiar people; that ye should shew forth the praises of him who
+  hath called you out of darkness into his marvellous light: </p>
+id: 1PE/2/9
+next:
+  id: 1PE/2/10
+  number: '10'
+previous:
+  id: 1PE/2/8
+  number: '8'
+reference: '1 Peter 2:9'

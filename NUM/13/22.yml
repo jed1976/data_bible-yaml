@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 13:22"
+  class="v">22</span>And they ascended by the south, and came unto Hebron; where
+  Ahiman, Sheshai, and Talmai, the children of Anak, <span
+  class="add">were</span>. (Now Hebron was built seven years before Zoan in
+  Egypt.) </p>
+id: NUM/13/22
+next:
+  id: NUM/13/23
+  number: '23'
+previous:
+  id: NUM/13/21
+  number: '21'
+reference: 'Numbers 13:22'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 1:11"
+  class="v">11</span>Saying, <span class="wj">I am Alpha and Omega, the first
+  and the last:</span> and, <span class="wj">What thou seest, write in a book,
+  and send <span class="add">it</span> unto the seven churches which are in
+  Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and
+  unto Sardis, and unto Philadelphia, and unto Laodicea.</span> </p>
+id: REV/1/11
+next:
+  id: REV/1/12
+  number: '12'
+previous:
+  id: REV/1/10
+  number: '10'
+reference: 'Revelation 1:11'

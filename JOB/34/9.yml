@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 34:9" class="v">9</span>For
+  he hath said, It profiteth a man nothing that he should delight himself with
+  God.</p>
+id: JOB/34/9
+next:
+  id: JOB/34/10
+  number: '10'
+previous:
+  id: JOB/34/8
+  number: '8'
+reference: 'Job 34:9'

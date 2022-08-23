@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 107:8" class="v">8</span>Oh
+  that <span class="add">men</span> would praise the <span
+  class="nd">LORD</span> <span class="add">for</span> his goodness, and <span
+  class="add">for</span> his wonderful works to the children of men!</p>
+id: PSA/107/8
+next:
+  id: PSA/107/9
+  number: '9'
+previous:
+  id: PSA/107/7
+  number: '7'
+reference: 'Psalms 107:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 19:7" class="v">7</span>And
+  when they saw <span class="add">it</span>, they all murmured, saying, That he
+  was gone to be guest with a man that is a sinner. </p>
+id: LUK/19/7
+next:
+  id: LUK/19/8
+  number: '8'
+previous:
+  id: LUK/19/6
+  number: '6'
+reference: 'Luke 19:7'

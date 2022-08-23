@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 23:12"
+  class="v">12</span>And he said, Thou shalt no more rejoice, O thou oppressed
+  virgin, daughter of Zidon: arise, pass over to Chittim; there also shalt thou
+  have no rest. </p>
+id: ISA/23/12
+next:
+  id: ISA/23/13
+  number: '13'
+previous:
+  id: ISA/23/11
+  number: '11'
+reference: 'Isaiah 23:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 27:22"
+  class="v">22</span>And Jacob went near unto Isaac his father; and he felt him,
+  and said, The voice <span class="add">is</span> Jacob’s voice, but the hands
+  <span class="add">are</span> the hands of Esau. </p>
+id: GEN/27/22
+next:
+  id: GEN/27/23
+  number: '23'
+previous:
+  id: GEN/27/21
+  number: '21'
+reference: 'Genesis 27:22'

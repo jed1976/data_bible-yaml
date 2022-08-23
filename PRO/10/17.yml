@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 10:17" class="v">17</span>He
+  <span class="add">is in</span> the way of life that keepeth instruction: but
+  he that refuseth reproof erreth. </p>
+id: PRO/10/17
+next:
+  id: PRO/10/18
+  number: '18'
+previous:
+  id: PRO/10/16
+  number: '16'
+reference: 'Proverbs 10:17'

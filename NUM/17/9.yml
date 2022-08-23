@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 17:9" class="v">9</span>And
+  Moses brought out all the rods from before the <span class="nd">LORD</span>
+  unto all the children of Israel: and they looked, and took every man his
+  rod.</p>
+id: NUM/17/9
+next:
+  id: NUM/17/10
+  number: '10'
+previous:
+  id: NUM/17/8
+  number: '8'
+reference: 'Numbers 17:9'

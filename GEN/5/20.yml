@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 5:20" class="v">20</span>And
+  all the days of Jared were nine hundred sixty and two years: and he died.</p>
+id: GEN/5/20
+next:
+  id: GEN/5/21
+  number: '21'
+previous:
+  id: GEN/5/19
+  number: '19'
+reference: 'Genesis 5:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MAT 13:31" class="v">31</span>¶
+  Another parable put he forth unto them, saying, <span class="wj">The kingdom
+  of heaven is like to a grain of mustard seed, which a man took, and sowed in
+  his field:</span> </p>
+id: MAT/13/31
+next:
+  id: MAT/13/32
+  number: '32'
+previous:
+  id: MAT/13/30
+  number: '30'
+reference: 'Matthew 13:31'

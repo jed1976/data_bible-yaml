@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 11:41"
+  class="v">41</span>Then they took away the stone <span class="add">from the
+  place</span> where the dead was laid. And Jesus lifted up <span
+  class="add">his</span> eyes, and said, <span class="wj">Father, I thank thee
+  that thou hast heard me.</span> </p>
+id: JHN/11/41
+next:
+  id: JHN/11/42
+  number: '42'
+previous:
+  id: JHN/11/40
+  number: '40'
+reference: 'John 11:41'

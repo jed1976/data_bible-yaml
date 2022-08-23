@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 51:8" class="v">8</span>Make
+  me to hear joy and gladness; <span class="add">that</span> the bones <span
+  class="add">which</span> thou hast broken may rejoice.</p>
+id: PSA/51/8
+next:
+  id: PSA/51/9
+  number: '9'
+previous:
+  id: PSA/51/7
+  number: '7'
+reference: 'Psalms 51:8'

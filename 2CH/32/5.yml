@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 32:5" class="v">5</span>Also
+  he strengthened himself, and built up all the wall that was broken, and raised
+  <span class="add">it</span> up to the towers, and another wall without, and
+  repaired Millo <span class="add">in</span> the city of David, and made darts
+  and shields in abundance. </p>
+id: 2CH/32/5
+next:
+  id: 2CH/32/6
+  number: '6'
+previous:
+  id: 2CH/32/4
+  number: '4'
+reference: '2 Chronicles 32:5'

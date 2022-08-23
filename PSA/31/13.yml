@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 31:13"
+  class="v">13</span>For I have heard the slander of many: fear <span
+  class="add">was</span> on every side: while they took counsel together against
+  me, they devised to take away my life.</p>
+id: PSA/31/13
+next:
+  id: PSA/31/14
+  number: '14'
+previous:
+  id: PSA/31/12
+  number: '12'
+reference: 'Psalms 31:13'

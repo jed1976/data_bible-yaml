@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 81:16"
+  class="v">16</span>He should have fed them also with the finest of the wheat:
+  and with honey out of the rock should I have satisfied thee.</p>
+id: PSA/81/16
+next:
+  id: PSA/82/1
+  number: '1'
+previous:
+  id: PSA/81/15
+  number: '15'
+reference: 'Psalms 81:16'

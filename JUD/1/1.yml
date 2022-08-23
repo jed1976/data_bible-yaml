@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JUD 1:1" class="v">1</span>Jude,
+  the servant of Jesus Christ, and brother of James, to them that are sanctified
+  by God the Father, and preserved in Jesus Christ, <span class="add">and</span>
+  called: </p>
+id: JUD/1/1
+next:
+  id: JUD/1/2
+  number: '2'
+previous:
+  id: JUD/intro/0
+  number: '0'
+reference: 'Jude 1:1'

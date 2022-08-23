@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ACT 27:36"
+  class="v">36</span>Then were they all of good cheer, and they also took <span
+  class="add">some</span> meat. </p>
+id: ACT/27/36
+next:
+  id: ACT/27/37
+  number: '37'
+previous:
+  id: ACT/27/35
+  number: '35'
+reference: 'Acts 27:36'

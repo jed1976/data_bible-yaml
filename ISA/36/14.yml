@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 36:14"
+  class="v">14</span>Thus saith the king, Let not Hezekiah deceive you: for he
+  shall not be able to deliver you. </p>
+id: ISA/36/14
+next:
+  id: ISA/36/15
+  number: '15'
+previous:
+  id: ISA/36/13
+  number: '13'
+reference: 'Isaiah 36:14'

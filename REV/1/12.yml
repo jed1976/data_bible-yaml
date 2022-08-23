@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 1:12" class="v">12</span>And
+  I turned to see the voice that spake with me. And being turned, I saw seven
+  golden candlesticks; </p>
+id: REV/1/12
+next:
+  id: REV/1/13
+  number: '13'
+previous:
+  id: REV/1/11
+  number: '11'
+reference: 'Revelation 1:12'

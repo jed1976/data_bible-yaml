@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 32:5" class="v">5</span>The
+  vile person shall be no more called liberal, nor the churl said <span
+  class="add">to be</span> bountiful. </p>
+id: ISA/32/5
+next:
+  id: ISA/32/6
+  number: '6'
+previous:
+  id: ISA/32/4
+  number: '4'
+reference: 'Isaiah 32:5'

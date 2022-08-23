@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PHM 1:16" class="v">16</span>Not
+  now as a servant, but above a servant, a brother beloved, specially to me, but
+  how much more unto thee, both in the flesh, and in the Lord? </p>
+id: PHM/1/16
+next:
+  id: PHM/1/17
+  number: '17'
+previous:
+  id: PHM/1/15
+  number: '15'
+reference: 'Philemon 1:16'

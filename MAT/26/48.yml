@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MAT 26:48"
+  class="v">48</span>Now he that betrayed him gave them a sign, saying,
+  Whomsoever I shall kiss, that same is he: hold him fast. </p>
+id: MAT/26/48
+next:
+  id: MAT/26/49
+  number: '49'
+previous:
+  id: MAT/26/47
+  number: '47'
+reference: 'Matthew 26:48'

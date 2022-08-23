@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 10:15"
+  class="v">15</span>Break thou the arm of the wicked and the evil <span
+  class="add">man:</span> seek out his wickedness <span class="add">till</span>
+  thou find none.</p>
+id: PSA/10/15
+next:
+  id: PSA/10/16
+  number: '16'
+previous:
+  id: PSA/10/14
+  number: '14'
+reference: 'Psalms 10:15'

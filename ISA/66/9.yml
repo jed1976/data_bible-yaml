@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 66:9" class="v">9</span>Shall
+  I bring to the birth, and not cause to bring forth? saith the <span
+  class="nd">LORD</span>: shall I cause to bring forth, and shut <span
+  class="add">the womb</span>? saith thy God. </p>
+id: ISA/66/9
+next:
+  id: ISA/66/10
+  number: '10'
+previous:
+  id: ISA/66/8
+  number: '8'
+reference: 'Isaiah 66:9'

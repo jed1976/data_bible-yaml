@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 15:14"
+  class="v">14</span>And I myself also am persuaded of you, my brethren, that ye
+  also are full of goodness, filled with all knowledge, able also to admonish
+  one another. </p>
+id: ROM/15/14
+next:
+  id: ROM/15/15
+  number: '15'
+previous:
+  id: ROM/15/13
+  number: '13'
+reference: 'Romans 15:14'

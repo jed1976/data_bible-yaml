@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 16:12"
+  class="v">12</span>And Asa in the thirty and ninth year of his reign was
+  diseased in his feet, until his disease <span class="add">was</span> exceeding
+  <span class="add">great:</span> yet in his disease he sought not to the <span
+  class="nd">LORD</span>, but to the physicians.</p>
+id: 2CH/16/12
+next:
+  id: 2CH/16/13
+  number: '13'
+previous:
+  id: 2CH/16/11
+  number: '11'
+reference: '2 Chronicles 16:12'

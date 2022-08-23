@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 5:7" class="v">7</span><span
+  class="wj">Blessed <span class="add">are</span> the merciful: for they shall
+  obtain mercy.</span> </p>
+id: MAT/5/7
+next:
+  id: MAT/5/8
+  number: '8'
+previous:
+  id: MAT/5/6
+  number: '6'
+reference: 'Matthew 5:7'

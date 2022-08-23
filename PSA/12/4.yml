@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 12:4" class="v">4</span>Who
+  have said, With our tongue will we prevail; our lips <span
+  class="add">are</span> our own: who <span class="add">is</span> lord over
+  us?</p>
+id: PSA/12/4
+next:
+  id: PSA/12/5
+  number: '5'
+previous:
+  id: PSA/12/3
+  number: '3'
+reference: 'Psalms 12:4'

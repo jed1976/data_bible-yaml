@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="COL 1:6" class="v">6</span>Which
+  is come unto you, as <span class="add">it is</span> in all the world; and
+  bringeth forth fruit, as <span class="add">it doth</span> also in you, since
+  the day ye heard <span class="add">of it</span>, and knew the grace of God in
+  truth: </p>
+id: COL/1/6
+next:
+  id: COL/1/7
+  number: '7'
+previous:
+  id: COL/1/5
+  number: '5'
+reference: 'Colossians 1:6'

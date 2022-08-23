@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 22:22"
+  class="v">22</span>And they gave him audience unto this word, and <span
+  class="add">then</span> lifted up their voices, and said, Away with such a
+  <span class="add">fellow</span> from the earth: for it is not fit that he
+  should live. </p>
+id: ACT/22/22
+next:
+  id: ACT/22/23
+  number: '23'
+previous:
+  id: ACT/22/21
+  number: '21'
+reference: 'Acts 22:22'

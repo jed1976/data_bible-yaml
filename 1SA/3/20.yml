@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 3:20" class="v">20</span>And
+  all Israel from Dan even to Beer-sheba knew that Samuel <span
+  class="add">was</span> established <span class="add">to be</span> a prophet of
+  the <span class="nd">LORD</span>. </p>
+id: 1SA/3/20
+next:
+  id: 1SA/3/21
+  number: '21'
+previous:
+  id: 1SA/3/19
+  number: '19'
+reference: '1 Samuel 3:20'

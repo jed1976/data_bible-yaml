@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 6:4" class="v">4</span>And he
+  said, Blessed <span class="add">be</span> the <span class="nd">LORD</span> God
+  of Israel, who hath with his hands fulfilled <span class="add">that</span>
+  which he spake with his mouth to my father David, saying, </p>
+id: 2CH/6/4
+next:
+  id: 2CH/6/5
+  number: '5'
+previous:
+  id: 2CH/6/3
+  number: '3'
+reference: '2 Chronicles 6:4'

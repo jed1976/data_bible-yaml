@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 5:7" class="v">7</span>And he
+  came and took the book out of the right hand of him that sat upon the throne.
+  </p>
+id: REV/5/7
+next:
+  id: REV/5/8
+  number: '8'
+previous:
+  id: REV/5/6
+  number: '6'
+reference: 'Revelation 5:7'

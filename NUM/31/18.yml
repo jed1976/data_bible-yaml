@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 31:18"
+  class="v">18</span>But all the women children, that have not known a man by
+  lying with him, keep alive for yourselves. </p>
+id: NUM/31/18
+next:
+  id: NUM/31/19
+  number: '19'
+previous:
+  id: NUM/31/17
+  number: '17'
+reference: 'Numbers 31:18'

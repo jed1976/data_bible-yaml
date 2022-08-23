@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 10:21"
+  class="v">21</span>Others said, These are not the words of him that hath a
+  devil. Can a devil open the eyes of the blind?</p>
+id: JHN/10/21
+next:
+  id: JHN/10/22
+  number: '22'
+previous:
+  id: JHN/10/20
+  number: '20'
+reference: 'John 10:21'

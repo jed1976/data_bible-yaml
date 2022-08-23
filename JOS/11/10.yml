@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 11:10" class="v">10</span>¶
+  And Joshua at that time turned back, and took Hazor, and smote the king
+  thereof with the sword: for Hazor beforetime was the head of all those
+  kingdoms. </p>
+id: JOS/11/10
+next:
+  id: JOS/11/11
+  number: '11'
+previous:
+  id: JOS/11/9
+  number: '9'
+reference: 'Joshua 11:10'

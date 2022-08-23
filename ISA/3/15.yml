@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 3:15"
+  class="v">15</span>What mean ye <span class="add">that</span> ye beat my
+  people to pieces, and grind the faces of the poor? saith the Lord <span
+  class="nd">GOD</span> of hosts.</p>
+id: ISA/3/15
+next:
+  id: ISA/3/16
+  number: '16'
+previous:
+  id: ISA/3/14
+  number: '14'
+reference: 'Isaiah 3:15'

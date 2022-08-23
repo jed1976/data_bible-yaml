@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 6:1" class="v">1</span>And it
+  came to pass, when men began to multiply on the face of the earth, and
+  daughters were born unto them, </p>
+id: GEN/6/1
+next:
+  id: GEN/6/2
+  number: '2'
+previous:
+  id: GEN/5/32
+  number: '32'
+reference: 'Genesis 6:1'

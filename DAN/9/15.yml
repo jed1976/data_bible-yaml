@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 9:15" class="v">15</span>And
+  now, O Lord our God, that hast brought thy people forth out of the land of
+  Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have
+  sinned, we have done wickedly.</p>
+id: DAN/9/15
+next:
+  id: DAN/9/16
+  number: '16'
+previous:
+  id: DAN/9/14
+  number: '14'
+reference: 'Daniel 9:15'

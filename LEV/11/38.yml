@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LEV 11:38"
+  class="v">38</span>But if <span class="add">any</span> water be put upon the
+  seed, and <span class="add">any part</span> of their carcase fall thereon, it
+  <span class="add">shall be</span> unclean unto you. </p>
+id: LEV/11/38
+next:
+  id: LEV/11/39
+  number: '39'
+previous:
+  id: LEV/11/37
+  number: '37'
+reference: 'Leviticus 11:38'

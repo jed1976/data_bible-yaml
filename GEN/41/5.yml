@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 41:5" class="v">5</span>And
+  he slept and dreamed the second time: and, behold, seven ears of corn came up
+  upon one stalk, rank and good. </p>
+id: GEN/41/5
+next:
+  id: GEN/41/6
+  number: '6'
+previous:
+  id: GEN/41/4
+  number: '4'
+reference: 'Genesis 41:5'

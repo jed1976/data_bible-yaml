@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1PE 2:21" class="v">21</span>For
+  even hereunto were ye called: because Christ also suffered for us, leaving us
+  an example, that ye should follow his steps: </p>
+id: 1PE/2/21
+next:
+  id: 1PE/2/22
+  number: '22'
+previous:
+  id: 1PE/2/20
+  number: '20'
+reference: '1 Peter 2:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 18:29"
+  class="v">29</span>For whosoever shall commit any of these abominations, even
+  the souls that commit <span class="add">them</span> shall be cut off from
+  among their people. </p>
+id: LEV/18/29
+next:
+  id: LEV/18/30
+  number: '30'
+previous:
+  id: LEV/18/28
+  number: '28'
+reference: 'Leviticus 18:29'

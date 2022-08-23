@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 51:9" class="v">9</span>Hide
+  thy face from my sins, and blot out all mine iniquities.</p>
+id: PSA/51/9
+next:
+  id: PSA/51/10
+  number: '10'
+previous:
+  id: PSA/51/8
+  number: '8'
+reference: 'Psalms 51:9'

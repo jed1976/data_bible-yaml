@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 26:22" class="v">22</span>I
+  will also send wild beasts among you, which shall rob you of your children,
+  and destroy your cattle, and make you few in number; and your <span
+  class="add">high</span> ways shall be desolate. </p>
+id: LEV/26/22
+next:
+  id: LEV/26/23
+  number: '23'
+previous:
+  id: LEV/26/21
+  number: '21'
+reference: 'Leviticus 26:22'

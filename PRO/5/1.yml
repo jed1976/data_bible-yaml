@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 5:1" class="v">1</span>My
+  son, attend unto my wisdom, <span class="add">and</span> bow thine ear to my
+  understanding: </p>
+id: PRO/5/1
+next:
+  id: PRO/5/2
+  number: '2'
+previous:
+  id: PRO/4/27
+  number: '27'
+reference: 'Proverbs 5:1'

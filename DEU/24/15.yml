@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 24:15" class="v">15</span>At
+  his day thou shalt give <span class="add">him</span> his hire, neither shall
+  the sun go down upon it; for he <span class="add">is</span> poor, and setteth
+  his heart upon it: lest he cry against thee unto the <span
+  class="nd">LORD</span>, and it be sin unto thee. </p>
+id: DEU/24/15
+next:
+  id: DEU/24/16
+  number: '16'
+previous:
+  id: DEU/24/14
+  number: '14'
+reference: 'Deuteronomy 24:15'

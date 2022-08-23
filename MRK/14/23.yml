@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 14:23"
+  class="v">23</span>And he took the cup, and when he had given thanks, he gave
+  <span class="add">it</span> to them: and they all drank of it. </p>
+id: MRK/14/23
+next:
+  id: MRK/14/24
+  number: '24'
+previous:
+  id: MRK/14/22
+  number: '22'
+reference: 'Mark 14:23'

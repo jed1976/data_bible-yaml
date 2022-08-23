@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 45:16" class="v">16</span>¶
+  And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren
+  are come: and it pleased Pharaoh well, and his servants. </p>
+id: GEN/45/16
+next:
+  id: GEN/45/17
+  number: '17'
+previous:
+  id: GEN/45/15
+  number: '15'
+reference: 'Genesis 45:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 55:6" class="v">6</span>¶
+  Seek ye the <span class="nd">LORD</span> while he may be found, call ye upon
+  him while he is near: </p>
+id: ISA/55/6
+next:
+  id: ISA/55/7
+  number: '7'
+previous:
+  id: ISA/55/5
+  number: '5'
+reference: 'Isaiah 55:6'

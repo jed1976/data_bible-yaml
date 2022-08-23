@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 18:3" class="v">3</span>And
+  said, My Lord, if now I have found favour in thy sight, pass not away, I pray
+  thee, from thy servant: </p>
+id: GEN/18/3
+next:
+  id: GEN/18/4
+  number: '4'
+previous:
+  id: GEN/18/2
+  number: '2'
+reference: 'Genesis 18:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 5:7" class="v">7</span>And
+  the priests brought in the ark of the covenant of the <span
+  class="nd">LORD</span> unto his place, to the oracle of the house, into the
+  most holy <span class="add">place, even</span> under the wings of the
+  cherubims: </p>
+id: 2CH/5/7
+next:
+  id: 2CH/5/8
+  number: '8'
+previous:
+  id: 2CH/5/6
+  number: '6'
+reference: '2 Chronicles 5:7'

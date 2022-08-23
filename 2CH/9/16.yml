@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 9:16" class="v">16</span>And
+  three hundred shields <span class="add">made he of</span> beaten gold: three
+  hundred <span class="add">shekels</span> of gold went to one shield. And the
+  king put them in the house of the forest of Lebanon. </p>
+id: 2CH/9/16
+next:
+  id: 2CH/9/17
+  number: '17'
+previous:
+  id: 2CH/9/15
+  number: '15'
+reference: '2 Chronicles 9:16'

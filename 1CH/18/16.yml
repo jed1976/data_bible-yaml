@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CH 18:16"
+  class="v">16</span>And Zadok the son of Ahitub, and Abimelech the son of
+  Abiathar, <span class="add">were</span> the priests; and Shavsha was scribe;
+  </p>
+id: 1CH/18/16
+next:
+  id: 1CH/18/17
+  number: '17'
+previous:
+  id: 1CH/18/15
+  number: '15'
+reference: '1 Chronicles 18:16'

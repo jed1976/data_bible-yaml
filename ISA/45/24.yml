@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 45:24"
+  class="v">24</span>Surely, shall <span class="add">one</span> say, in the
+  <span class="nd">LORD</span> have I righteousness and strength: <span
+  class="add">even</span> to him shall <span class="add">men</span> come; and
+  all that are incensed against him shall be ashamed. </p>
+id: ISA/45/24
+next:
+  id: ISA/45/25
+  number: '25'
+previous:
+  id: ISA/45/23
+  number: '23'
+reference: 'Isaiah 45:24'

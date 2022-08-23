@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 29:4" class="v">4</span>Thus
+  saith the <span class="nd">LORD</span> of hosts, the God of Israel, unto all
+  that are carried away captives, whom I have caused to be carried away from
+  Jerusalem unto Babylon; </p>
+id: JER/29/4
+next:
+  id: JER/29/5
+  number: '5'
+previous:
+  id: JER/29/3
+  number: '3'
+reference: 'Jeremiah 29:4'

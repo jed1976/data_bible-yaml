@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 18:3" class="v">3</span>¶ And
+  David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his
+  dominion by the river Euphrates. </p>
+id: 1CH/18/3
+next:
+  id: 1CH/18/4
+  number: '4'
+previous:
+  id: 1CH/18/2
+  number: '2'
+reference: '1 Chronicles 18:3'

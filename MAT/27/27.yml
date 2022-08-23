@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 27:27"
+  class="v">27</span>Then the soldiers of the governor took Jesus into the
+  common hall, and gathered unto him the whole band <span class="add">of
+  soldiers</span>. </p>
+id: MAT/27/27
+next:
+  id: MAT/27/28
+  number: '28'
+previous:
+  id: MAT/27/26
+  number: '26'
+reference: 'Matthew 27:27'

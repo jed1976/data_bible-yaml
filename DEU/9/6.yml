@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 9:6"
+  class="v">6</span>Understand therefore, that the <span class="nd">LORD</span>
+  thy God giveth thee not this good land to possess it for thy righteousness;
+  for thou <span class="add">art</span> a stiffnecked people.</p>
+id: DEU/9/6
+next:
+  id: DEU/9/7
+  number: '7'
+previous:
+  id: DEU/9/5
+  number: '5'
+reference: 'Deuteronomy 9:6'

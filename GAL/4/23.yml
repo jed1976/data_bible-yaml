@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GAL 4:23" class="v">23</span>But
+  he <span class="add">who was</span> of the bondwoman was born after the flesh;
+  but he of the freewoman <span class="add">was</span> by promise. </p>
+id: GAL/4/23
+next:
+  id: GAL/4/24
+  number: '24'
+previous:
+  id: GAL/4/22
+  number: '22'
+reference: 'Galatians 4:23'

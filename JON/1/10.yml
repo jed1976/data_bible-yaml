@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JON 1:10"
+  class="v">10</span>Then were the men exceedingly afraid, and said unto him,
+  Why hast thou done this? For the men knew that he fled from the presence of
+  the <span class="nd">LORD</span>, because he had told them.</p>
+id: JON/1/10
+next:
+  id: JON/1/11
+  number: '11'
+previous:
+  id: JON/1/9
+  number: '9'
+reference: 'Jonah 1:10'

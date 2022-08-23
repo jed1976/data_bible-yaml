@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 2:8" class="v">8</span>And,
+  behold, <span class="add">thou hast</span> with thee Shimei the son of Gera, a
+  Benjamite of Bahurim, which cursed me with a grievous curse in the day when I
+  went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by
+  the <span class="nd">LORD</span>, saying, I will not put thee to death with
+  the sword. </p>
+id: 1KI/2/8
+next:
+  id: 1KI/2/9
+  number: '9'
+previous:
+  id: 1KI/2/7
+  number: '7'
+reference: '1 Kings 2:8'

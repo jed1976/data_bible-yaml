@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 21:7" class="v">7</span>And
+  they asked him, saying, Master, but when shall these things be? and what sign
+  <span class="add">will there be</span> when these things shall come to pass?
+  </p>
+id: LUK/21/7
+next:
+  id: LUK/21/8
+  number: '8'
+previous:
+  id: LUK/21/6
+  number: '6'
+reference: 'Luke 21:7'

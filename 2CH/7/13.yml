@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 7:13" class="v">13</span>If
+  I shut up heaven that there be no rain, or if I command the locusts to devour
+  the land, or if I send pestilence among my people; </p>
+id: 2CH/7/13
+next:
+  id: 2CH/7/14
+  number: '14'
+previous:
+  id: 2CH/7/12
+  number: '12'
+reference: '2 Chronicles 7:13'

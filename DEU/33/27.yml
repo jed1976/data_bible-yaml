@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 33:27"
+  class="v">27</span>The eternal God <span class="add">is thy</span> refuge, and
+  underneath <span class="add">are</span> the everlasting arms: and he shall
+  thrust out the enemy from before thee; and shall say, Destroy <span
+  class="add">them</span>. </p>
+id: DEU/33/27
+next:
+  id: DEU/33/28
+  number: '28'
+previous:
+  id: DEU/33/26
+  number: '26'
+reference: 'Deuteronomy 33:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 110:1" class="v">1</span>The <span class="nd">LORD</span> said
+  unto my Lord, Sit thou at my right hand, until I make thine enemies thy
+  footstool.</p>
+id: PSA/110/1
+next:
+  id: PSA/110/2
+  number: '2'
+previous:
+  id: PSA/109/31
+  number: '31'
+reference: 'Psalms 110:1'

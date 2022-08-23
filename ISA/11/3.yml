@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 11:3" class="v">3</span>And
+  shall make him of quick understanding in the fear of the <span
+  class="nd">LORD</span>: and he shall not judge after the sight of his eyes,
+  neither reprove after the hearing of his ears: </p>
+id: ISA/11/3
+next:
+  id: ISA/11/4
+  number: '4'
+previous:
+  id: ISA/11/2
+  number: '2'
+reference: 'Isaiah 11:3'

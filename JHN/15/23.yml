@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 15:23"
+  class="v">23</span><span class="wj">He that hateth me hateth my Father
+  also.</span> </p>
+id: JHN/15/23
+next:
+  id: JHN/15/24
+  number: '24'
+previous:
+  id: JHN/15/22
+  number: '22'
+reference: 'John 15:23'

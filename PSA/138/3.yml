@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 138:3" class="v">3</span>In
+  the day when I cried thou answeredst me, <span class="add">and</span>
+  strengthenedst me <span class="add">with</span> strength in my soul.</p>
+id: PSA/138/3
+next:
+  id: PSA/138/4
+  number: '4'
+previous:
+  id: PSA/138/2
+  number: '2'
+reference: 'Psalms 138:3'

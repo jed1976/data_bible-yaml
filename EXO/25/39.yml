@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="EXO 25:39"
+  class="v">39</span><span class="add">Of</span> a talent of pure gold shall he
+  make it, with all these vessels. </p>
+id: EXO/25/39
+next:
+  id: EXO/25/40
+  number: '40'
+previous:
+  id: EXO/25/38
+  number: '38'
+reference: 'Exodus 25:39'

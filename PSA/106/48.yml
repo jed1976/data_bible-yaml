@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="48" data-sid="PSA 106:48"
+  class="v">48</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span> God of Israel from everlasting to everlasting: and let
+  all the people say, Amen. Praise ye the <span class="nd">LORD</span>.</p>
+id: PSA/106/48
+next:
+  id: PSA/107/1
+  number: '1'
+previous:
+  id: PSA/106/47
+  number: '47'
+reference: 'Psalms 106:48'

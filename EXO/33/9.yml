@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 33:9" class="v">9</span>And
+  it came to pass, as Moses entered into the tabernacle, the cloudy pillar
+  descended, and stood <span class="add">at</span> the door of the tabernacle,
+  and <span class="add">the <span class="nd">LORD</span></span> talked with
+  Moses. </p>
+id: EXO/33/9
+next:
+  id: EXO/33/10
+  number: '10'
+previous:
+  id: EXO/33/8
+  number: '8'
+reference: 'Exodus 33:9'

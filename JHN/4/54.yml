@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="JHN 4:54"
+  class="v">54</span>This <span class="add">is</span> again the second miracle
+  <span class="add">that</span> Jesus did, when he was come out of Judæa into
+  Galilee.</p>
+id: JHN/4/54
+next:
+  id: JHN/5/1
+  number: '1'
+previous:
+  id: JHN/4/53
+  number: '53'
+reference: 'John 4:54'

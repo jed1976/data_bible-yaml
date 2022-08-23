@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 18:4" class="v">4</span>For
+  so the <span class="nd">LORD</span> said unto me, I will take my rest, and I
+  will consider in my dwelling place like a clear heat upon herbs, <span
+  class="add">and</span> like a cloud of dew in the heat of harvest. </p>
+id: ISA/18/4
+next:
+  id: ISA/18/5
+  number: '5'
+previous:
+  id: ISA/18/3
+  number: '3'
+reference: 'Isaiah 18:4'

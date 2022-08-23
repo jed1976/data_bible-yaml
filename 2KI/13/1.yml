@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 13:1" class="v">1</span>In
+  the three and twentieth year of Joash the son of Ahaziah king of Judah
+  Jehoahaz the son of Jehu began to reign over Israel in Samaria, <span
+  class="add">and reigned</span> seventeen years. </p>
+id: 2KI/13/1
+next:
+  id: 2KI/13/2
+  number: '2'
+previous:
+  id: 2KI/12/21
+  number: '21'
+reference: '2 Kings 13:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 38:27" class="v">27</span>¶
+  And it came to pass in the time of her travail, that, behold, twins <span
+  class="add">were</span> in her womb. </p>
+id: GEN/38/27
+next:
+  id: GEN/38/28
+  number: '28'
+previous:
+  id: GEN/38/26
+  number: '26'
+reference: 'Genesis 38:27'

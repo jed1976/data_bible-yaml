@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 30:7" class="v">7</span>Two
+  <span class="add">things</span> have I required of thee; deny me <span
+  class="add">them</span> not before I die: </p>
+id: PRO/30/7
+next:
+  id: PRO/30/8
+  number: '8'
+previous:
+  id: PRO/30/6
+  number: '6'
+reference: 'Proverbs 30:7'

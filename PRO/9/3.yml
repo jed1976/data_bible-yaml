@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 9:3" class="v">3</span>She
+  hath sent forth her maidens: she crieth upon the highest places of the city,
+  </p>
+id: PRO/9/3
+next:
+  id: PRO/9/4
+  number: '4'
+previous:
+  id: PRO/9/2
+  number: '2'
+reference: 'Proverbs 9:3'

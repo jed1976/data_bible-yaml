@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 9:10"
+  class="v">10</span><span class="add">Which stood</span> only in meats and
+  drinks, and divers washings, and carnal ordinances, imposed <span
+  class="add">on them</span> until the time of reformation. </p>
+id: HEB/9/10
+next:
+  id: HEB/9/11
+  number: '11'
+previous:
+  id: HEB/9/9
+  number: '9'
+reference: 'Hebrews 9:10'

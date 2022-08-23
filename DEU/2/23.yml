@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 2:23" class="v">23</span>And
+  the Avims which dwelt in Hazerim, <span class="add">even</span> unto Azzah,
+  the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in
+  their stead.)</p>
+id: DEU/2/23
+next:
+  id: DEU/2/24
+  number: '24'
+previous:
+  id: DEU/2/22
+  number: '22'
+reference: 'Deuteronomy 2:23'

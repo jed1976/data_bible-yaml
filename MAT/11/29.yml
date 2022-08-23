@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 11:29"
+  class="v">29</span><span class="wj">Take my yoke upon you, and learn of me;
+  for I am meek and lowly in heart: and ye shall find rest unto your
+  souls.</span> </p>
+id: MAT/11/29
+next:
+  id: MAT/11/30
+  number: '30'
+previous:
+  id: MAT/11/28
+  number: '28'
+reference: 'Matthew 11:29'

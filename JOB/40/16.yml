@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 40:16" class="v">16</span>Lo
+  now, his strength <span class="add">is</span> in his loins, and his force
+  <span class="add">is</span> in the navel of his belly. </p>
+id: JOB/40/16
+next:
+  id: JOB/40/17
+  number: '17'
+previous:
+  id: JOB/40/15
+  number: '15'
+reference: 'Job 40:16'

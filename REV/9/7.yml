@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 9:7" class="v">7</span>And
+  the shapes of the locusts <span class="add">were</span> like unto horses
+  prepared unto battle; and on their heads <span class="add">were</span> as it
+  were crowns like gold, and their faces <span class="add">were</span> as the
+  faces of men. </p>
+id: REV/9/7
+next:
+  id: REV/9/8
+  number: '8'
+previous:
+  id: REV/9/6
+  number: '6'
+reference: 'Revelation 9:7'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2TH 1:11"
+  class="v">11</span>Wherefore also we pray always for you, that our God would
+  count you worthy of <span class="add">this</span> calling, and fulfil all the
+  good pleasure of <span class="add">his</span> goodness, and the work of faith
+  with power: </p>
+id: 2TH/1/11
+next:
+  id: 2TH/1/12
+  number: '12'
+previous:
+  id: 2TH/1/10
+  number: '10'
+reference: '2 Thessalonians 1:11'

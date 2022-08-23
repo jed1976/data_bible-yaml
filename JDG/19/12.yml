@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 19:12"
+  class="v">12</span>And his master said unto him, We will not turn aside hither
+  into the city of a stranger, that <span class="add">is</span> not of the
+  children of Israel; we will pass over to Gibeah. </p>
+id: JDG/19/12
+next:
+  id: JDG/19/13
+  number: '13'
+previous:
+  id: JDG/19/11
+  number: '11'
+reference: 'Judges 19:12'

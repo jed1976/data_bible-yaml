@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 3:8" class="v">8</span>And
+  not <span class="add">rather</span>, (as we be slanderously reported, and as
+  some affirm that we say,) Let us do evil, that good may come? whose damnation
+  is just.</p>
+id: ROM/3/8
+next:
+  id: ROM/3/9
+  number: '9'
+previous:
+  id: ROM/3/7
+  number: '7'
+reference: 'Romans 3:8'

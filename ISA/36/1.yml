@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 36:1" class="v">1</span>Now
+  it came to pass in the fourteenth year of king Hezekiah, <span
+  class="add">that</span> Sennacherib king of Assyria came up against all the
+  defenced cities of Judah, and took them. </p>
+id: ISA/36/1
+next:
+  id: ISA/36/2
+  number: '2'
+previous:
+  id: ISA/35/10
+  number: '10'
+reference: 'Isaiah 36:1'

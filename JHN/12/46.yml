@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="JHN 12:46"
+  class="v">46</span><span class="wj">I am come a light into the world, that
+  whosoever believeth on me should not abide in darkness.</span> </p>
+id: JHN/12/46
+next:
+  id: JHN/12/47
+  number: '47'
+previous:
+  id: JHN/12/45
+  number: '45'
+reference: 'John 12:46'

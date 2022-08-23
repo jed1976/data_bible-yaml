@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 8:27"
+  class="v">27</span>When he prepared the heavens, I <span
+  class="add">was</span> there: when he set a compass upon the face of the
+  depth: </p>
+id: PRO/8/27
+next:
+  id: PRO/8/28
+  number: '28'
+previous:
+  id: PRO/8/26
+  number: '26'
+reference: 'Proverbs 8:27'

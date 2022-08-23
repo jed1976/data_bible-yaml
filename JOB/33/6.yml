@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 33:6"
+  class="v">6</span>Behold, I <span class="add">am</span> according to thy wish
+  in God’s stead: I also am formed out of the clay. </p>
+id: JOB/33/6
+next:
+  id: JOB/33/7
+  number: '7'
+previous:
+  id: JOB/33/5
+  number: '5'
+reference: 'Job 33:6'

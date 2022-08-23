@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 18:21" class="v">21</span>I
+  will go down now, and see whether they have done altogether according to the
+  cry of it, which is come unto me; and if not, I will know. </p>
+id: GEN/18/21
+next:
+  id: GEN/18/22
+  number: '22'
+previous:
+  id: GEN/18/20
+  number: '20'
+reference: 'Genesis 18:21'

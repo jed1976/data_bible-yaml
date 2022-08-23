@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HAG 1:11" class="v">11</span>And
+  I called for a drought upon the land, and upon the mountains, and upon the
+  corn, and upon the new wine, and upon the oil, and upon <span
+  class="add">that</span> which the ground bringeth forth, and upon men, and
+  upon cattle, and upon all the labour of the hands.</p>
+id: HAG/1/11
+next:
+  id: HAG/1/12
+  number: '12'
+previous:
+  id: HAG/1/10
+  number: '10'
+reference: 'Haggai 1:11'

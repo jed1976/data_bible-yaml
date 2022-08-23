@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 14:35"
+  class="v">35</span><span class="wj">It is neither fit for the land, nor yet
+  for the dunghill; <span class="add">but</span> men cast it out. He that hath
+  ears to hear, let him hear.</span></p>
+id: LUK/14/35
+next:
+  id: LUK/15/1
+  number: '1'
+previous:
+  id: LUK/14/34
+  number: '34'
+reference: 'Luke 14:35'

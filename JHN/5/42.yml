@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 5:42"
+  class="v">42</span><span class="wj">But I know you, that ye have not the love
+  of God in you.</span> </p>
+id: JHN/5/42
+next:
+  id: JHN/5/43
+  number: '43'
+previous:
+  id: JHN/5/41
+  number: '41'
+reference: 'John 5:42'

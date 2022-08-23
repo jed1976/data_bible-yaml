@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PHP 4:3" class="v">3</span>And I
+  intreat thee also, true yokefellow, help those women which laboured with me in
+  the gospel, with Clement also, and <span class="add">with</span> other my
+  fellowlabourers, whose names <span class="add">are</span> in the book of life.
+  </p>
+id: PHP/4/3
+next:
+  id: PHP/4/4
+  number: '4'
+previous:
+  id: PHP/4/2
+  number: '2'
+reference: 'Philippians 4:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 28:11"
+  class="v">11</span>And the <span class="nd">LORD</span> shall make thee
+  plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle,
+  and in the fruit of thy ground, in the land which the <span
+  class="nd">LORD</span> sware unto thy fathers to give thee. </p>
+id: DEU/28/11
+next:
+  id: DEU/28/12
+  number: '12'
+previous:
+  id: DEU/28/10
+  number: '10'
+reference: 'Deuteronomy 28:11'

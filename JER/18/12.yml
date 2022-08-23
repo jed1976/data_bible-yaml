@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 18:12"
+  class="v">12</span>And they said, There is no hope: but we will walk after our
+  own devices, and we will every one do the imagination of his evil heart. </p>
+id: JER/18/12
+next:
+  id: JER/18/13
+  number: '13'
+previous:
+  id: JER/18/11
+  number: '11'
+reference: 'Jeremiah 18:12'

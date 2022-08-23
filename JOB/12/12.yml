@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 12:12"
+  class="v">12</span>With the ancient <span class="add">is</span> wisdom; and in
+  length of days understanding. </p>
+id: JOB/12/12
+next:
+  id: JOB/12/13
+  number: '13'
+previous:
+  id: JOB/12/11
+  number: '11'
+reference: 'Job 12:12'

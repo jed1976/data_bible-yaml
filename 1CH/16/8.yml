@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 16:8" class="v">8</span>Give
+  thanks unto the <span class="nd">LORD</span>, call upon his name, make known
+  his deeds among the people. </p>
+id: 1CH/16/8
+next:
+  id: 1CH/16/9
+  number: '9'
+previous:
+  id: 1CH/16/7
+  number: '7'
+reference: '1 Chronicles 16:8'

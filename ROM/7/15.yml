@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 7:15" class="v">15</span>For
+  that which I do I allow not: for what I would, that do I not; but what I hate,
+  that do I. </p>
+id: ROM/7/15
+next:
+  id: ROM/7/16
+  number: '16'
+previous:
+  id: ROM/7/14
+  number: '14'
+reference: 'Romans 7:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 10:3" class="v">3</span>For
+  they being ignorant of God’s righteousness, and going about to establish their
+  own righteousness, have not submitted themselves unto the righteousness of
+  God. </p>
+id: ROM/10/3
+next:
+  id: ROM/10/4
+  number: '4'
+previous:
+  id: ROM/10/2
+  number: '2'
+reference: 'Romans 10:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 15:11"
+  class="v">11</span><span class="wj">Not that which goeth into the mouth
+  defileth a man; but that which cometh out of the mouth, this defileth a
+  man.</span> </p>
+id: MAT/15/11
+next:
+  id: MAT/15/12
+  number: '12'
+previous:
+  id: MAT/15/10
+  number: '10'
+reference: 'Matthew 15:11'

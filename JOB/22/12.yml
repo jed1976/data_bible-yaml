@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 22:12"
+  class="v">12</span><span class="add">Is</span> not God in the height of
+  heaven? and behold the height of the stars, how high they are! </p>
+id: JOB/22/12
+next:
+  id: JOB/22/13
+  number: '13'
+previous:
+  id: JOB/22/11
+  number: '11'
+reference: 'Job 22:12'

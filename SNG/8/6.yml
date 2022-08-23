@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 8:6" class="v">6</span>¶ Set
+  me as a seal upon thine heart, as a seal upon thine arm: for love <span
+  class="add">is</span> strong as death; jealousy <span class="add">is</span>
+  cruel as the grave: the coals thereof <span class="add">are</span> coals of
+  fire, <span class="add">which hath a</span> most vehement flame. </p>
+id: SNG/8/6
+next:
+  id: SNG/8/7
+  number: '7'
+previous:
+  id: SNG/8/5
+  number: '5'
+reference: 'Song of Solomon 8:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 147:8" class="v">8</span>Who
+  covereth the heaven with clouds, who prepareth rain for the earth, who maketh
+  grass to grow upon the mountains.</p>
+id: PSA/147/8
+next:
+  id: PSA/147/9
+  number: '9'
+previous:
+  id: PSA/147/7
+  number: '7'
+reference: 'Psalms 147:8'

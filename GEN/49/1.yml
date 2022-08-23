@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 49:1" class="v">1</span>And
+  Jacob called unto his sons, and said, Gather yourselves together, that I may
+  tell you <span class="add">that</span> which shall befall you in the last
+  days. </p>
+id: GEN/49/1
+next:
+  id: GEN/49/2
+  number: '2'
+previous:
+  id: GEN/48/22
+  number: '22'
+reference: 'Genesis 49:1'

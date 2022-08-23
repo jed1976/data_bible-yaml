@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 17:16"
+  class="v">16</span>But if he wash <span class="add">them</span> not, nor bathe
+  his flesh; then he shall bear his iniquity.</p>
+id: LEV/17/16
+next:
+  id: LEV/18/1
+  number: '1'
+previous:
+  id: LEV/17/15
+  number: '15'
+reference: 'Leviticus 17:16'

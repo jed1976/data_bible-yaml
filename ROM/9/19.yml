@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 9:19"
+  class="v">19</span>Thou wilt say then unto me, Why doth he yet find fault? For
+  who hath resisted his will? </p>
+id: ROM/9/19
+next:
+  id: ROM/9/20
+  number: '20'
+previous:
+  id: ROM/9/18
+  number: '18'
+reference: 'Romans 9:19'

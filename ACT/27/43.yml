@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="ACT 27:43"
+  class="v">43</span>But the centurion, willing to save Paul, kept them from
+  <span class="add">their</span> purpose; and commanded that they which could
+  swim should cast <span class="add">themselves</span> first <span
+  class="add">into the sea</span>, and get to land: </p>
+id: ACT/27/43
+next:
+  id: ACT/27/44
+  number: '44'
+previous:
+  id: ACT/27/42
+  number: '42'
+reference: 'Acts 27:43'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JAS 4:5" class="v">5</span>Do ye
+  think that the scripture saith in vain, The spirit that dwelleth in us lusteth
+  to envy? </p>
+id: JAS/4/5
+next:
+  id: JAS/4/6
+  number: '6'
+previous:
+  id: JAS/4/4
+  number: '4'
+reference: 'James 4:5'

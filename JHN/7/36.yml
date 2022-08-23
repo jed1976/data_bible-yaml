@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JHN 7:36"
+  class="v">36</span>What <span class="add">manner of</span> saying is this that
+  he said, Ye shall seek me, and shall not find <span class="add">me</span>: and
+  where I am, <span class="add">thither</span> ye cannot come? </p>
+id: JHN/7/36
+next:
+  id: JHN/7/37
+  number: '37'
+previous:
+  id: JHN/7/35
+  number: '35'
+reference: 'John 7:36'

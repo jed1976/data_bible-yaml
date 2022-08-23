@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 19:25"
+  class="v">25</span>Smite a scorner, and the simple will beware: and reprove
+  one that hath understanding, <span class="add">and</span> he will understand
+  knowledge. </p>
+id: PRO/19/25
+next:
+  id: PRO/19/26
+  number: '26'
+previous:
+  id: PRO/19/24
+  number: '24'
+reference: 'Proverbs 19:25'

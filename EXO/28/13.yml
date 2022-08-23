@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 28:13" class="v">13</span>¶
+  And thou shalt make ouches <span class="add">of</span> gold; </p>
+id: EXO/28/13
+next:
+  id: EXO/28/14
+  number: '14'
+previous:
+  id: EXO/28/12
+  number: '12'
+reference: 'Exodus 28:13'

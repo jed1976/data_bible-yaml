@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 12:3" class="v">3</span><span
+  class="wj">And they caught <span class="add">him</span>, and beat him, and
+  sent <span class="add">him</span> away empty.</span> </p>
+id: MRK/12/3
+next:
+  id: MRK/12/4
+  number: '4'
+previous:
+  id: MRK/12/2
+  number: '2'
+reference: 'Mark 12:3'

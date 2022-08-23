@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 13:2" class="v">2</span>And
+  the sign or the wonder come to pass, whereof he spake unto thee, saying, Let
+  us go after other gods, which thou hast not known, and let us serve them; </p>
+id: DEU/13/2
+next:
+  id: DEU/13/3
+  number: '3'
+previous:
+  id: DEU/13/1
+  number: '1'
+reference: 'Deuteronomy 13:2'

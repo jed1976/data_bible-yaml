@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 18:12"
+  class="v">12</span>Therefore Sarah laughed within herself, saying, After I am
+  waxed old shall I have pleasure, my lord being old also? </p>
+id: GEN/18/12
+next:
+  id: GEN/18/13
+  number: '13'
+previous:
+  id: GEN/18/11
+  number: '11'
+reference: 'Genesis 18:12'

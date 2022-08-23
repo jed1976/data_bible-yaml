@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ACT 9:36" class="v">36</span>¶
+  Now there was at Joppa a certain disciple named Tabitha, which by
+  interpretation is called Dorcas: this woman was full of good works and
+  almsdeeds which she did. </p>
+id: ACT/9/36
+next:
+  id: ACT/9/37
+  number: '37'
+previous:
+  id: ACT/9/35
+  number: '35'
+reference: 'Acts 9:36'

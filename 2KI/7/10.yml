@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 7:10" class="v">10</span>So
+  they came and called unto the porter of the city: and they told them, saying,
+  We came to the camp of the Syrians, and, behold, <span class="add">there
+  was</span> no man there, neither voice of man, but horses tied, and asses
+  tied, and the tents as they <span class="add">were</span>. </p>
+id: 2KI/7/10
+next:
+  id: 2KI/7/11
+  number: '11'
+previous:
+  id: 2KI/7/9
+  number: '9'
+reference: '2 Kings 7:10'

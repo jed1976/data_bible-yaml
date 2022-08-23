@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 13:21"
+  class="v">21</span><span class="wj">And then if any man shall say to you, Lo,
+  here <span class="add">is</span> Christ; or, lo, <span class="add">he
+  is</span> there; believe <span class="add">him</span> not:</span> </p>
+id: MRK/13/21
+next:
+  id: MRK/13/22
+  number: '22'
+previous:
+  id: MRK/13/20
+  number: '20'
+reference: 'Mark 13:21'

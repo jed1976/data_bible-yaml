@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 19:37"
+  class="v">37</span>For ye have brought hither these men, which are neither
+  robbers of churches, nor yet blasphemers of your goddess. </p>
+id: ACT/19/37
+next:
+  id: ACT/19/38
+  number: '38'
+previous:
+  id: ACT/19/36
+  number: '36'
+reference: 'Acts 19:37'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NUM 31:36"
+  class="v">36</span>And the half, <span class="add">which was</span> the
+  portion of them that went out to war, was in number three hundred thousand and
+  seven and thirty thousand and five hundred sheep: </p>
+id: NUM/31/36
+next:
+  id: NUM/31/37
+  number: '37'
+previous:
+  id: NUM/31/35
+  number: '35'
+reference: 'Numbers 31:36'

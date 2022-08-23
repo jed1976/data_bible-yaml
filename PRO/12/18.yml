@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 12:18"
+  class="v">18</span>There is that speaketh like the piercings of a sword: but
+  the tongue of the wise <span class="add">is</span> health. </p>
+id: PRO/12/18
+next:
+  id: PRO/12/19
+  number: '19'
+previous:
+  id: PRO/12/17
+  number: '17'
+reference: 'Proverbs 12:18'

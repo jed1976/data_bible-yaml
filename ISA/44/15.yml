@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 44:15"
+  class="v">15</span>Then shall it be for a man to burn: for he will take
+  thereof, and warm himself; yea, he kindleth <span class="add">it</span>, and
+  baketh bread; yea, he maketh a god, and worshippeth <span
+  class="add">it;</span> he maketh it a graven image, and falleth down thereto.
+  </p>
+id: ISA/44/15
+next:
+  id: ISA/44/16
+  number: '16'
+previous:
+  id: ISA/44/14
+  number: '14'
+reference: 'Isaiah 44:15'

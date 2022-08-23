@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EPH 4:1" class="v">1</span>I
+  therefore, the prisoner of the Lord, beseech you that ye walk worthy of the
+  vocation wherewith ye are called, </p>
+id: EPH/4/1
+next:
+  id: EPH/4/2
+  number: '2'
+previous:
+  id: EPH/3/21
+  number: '21'
+reference: 'Ephesians 4:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 3:7" class="v">7</span>And
+  Saul had a concubine, whose name <span class="add">was</span> Rizpah, the
+  daughter of Aiah: and <span class="add">Ish-bosheth</span> said to Abner,
+  Wherefore hast thou gone in unto my father’s concubine? </p>
+id: 2SA/3/7
+next:
+  id: 2SA/3/8
+  number: '8'
+previous:
+  id: 2SA/3/6
+  number: '6'
+reference: '2 Samuel 3:7'

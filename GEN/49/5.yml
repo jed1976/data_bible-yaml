@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 49:5" class="v">5</span>¶
+  Simeon and Levi <span class="add">are</span> brethren; instruments of cruelty
+  <span class="add">are in</span> their habitations. </p>
+id: GEN/49/5
+next:
+  id: GEN/49/6
+  number: '6'
+previous:
+  id: GEN/49/4
+  number: '4'
+reference: 'Genesis 49:5'

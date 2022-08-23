@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 3:10"
+  class="v">10</span>Wherefore I was grieved with that generation, and said,
+  They do alway err in <span class="add">their</span> heart; and they have not
+  known my ways. </p>
+id: HEB/3/10
+next:
+  id: HEB/3/11
+  number: '11'
+previous:
+  id: HEB/3/9
+  number: '9'
+reference: 'Hebrews 3:10'

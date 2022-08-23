@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 34:1" class="v">1</span>And
+  the <span class="nd">LORD</span> said unto Moses, Hew thee two tables of stone
+  like unto the first: and I will write upon <span class="add">these</span>
+  tables the words that were in the first tables, which thou brakest. </p>
+id: EXO/34/1
+next:
+  id: EXO/34/2
+  number: '2'
+previous:
+  id: EXO/33/23
+  number: '23'
+reference: 'Exodus 34:1'

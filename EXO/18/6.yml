@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 18:6" class="v">6</span>And
+  he said unto Moses, I thy father in law Jethro am come unto thee, and thy
+  wife, and her two sons with her.</p>
+id: EXO/18/6
+next:
+  id: EXO/18/7
+  number: '7'
+previous:
+  id: EXO/18/5
+  number: '5'
+reference: 'Exodus 18:6'

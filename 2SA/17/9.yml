@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 17:9"
+  class="v">9</span>Behold, he is hid now in some pit, or in some <span
+  class="add">other</span> place: and it will come to pass, when some of them be
+  overthrown at the first, that whosoever heareth it will say, There is a
+  slaughter among the people that follow Absalom. </p>
+id: 2SA/17/9
+next:
+  id: 2SA/17/10
+  number: '10'
+previous:
+  id: 2SA/17/8
+  number: '8'
+reference: '2 Samuel 17:9'

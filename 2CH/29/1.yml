@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 29:1"
+  class="v">1</span>Hezekiah began to reign <span class="add">when he was</span>
+  five and twenty years old, and he reigned nine and twenty years in Jerusalem.
+  And his mother’s name <span class="add">was</span> Abijah, the daughter of
+  Zechariah. </p>
+id: 2CH/29/1
+next:
+  id: 2CH/29/2
+  number: '2'
+previous:
+  id: 2CH/28/27
+  number: '27'
+reference: '2 Chronicles 29:1'

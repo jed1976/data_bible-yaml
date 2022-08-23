@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 2:9" class="v">9</span>And
+  she said unto the men, I know that the <span class="nd">LORD</span> hath given
+  you the land, and that your terror is fallen upon us, and that all the
+  inhabitants of the land faint because of you. </p>
+id: JOS/2/9
+next:
+  id: JOS/2/10
+  number: '10'
+previous:
+  id: JOS/2/8
+  number: '8'
+reference: 'Joshua 2:9'

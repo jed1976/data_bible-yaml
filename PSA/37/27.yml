@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 37:27"
+  class="v">27</span>Depart from evil, and do good; and dwell for evermore.</p>
+id: PSA/37/27
+next:
+  id: PSA/37/28
+  number: '28'
+previous:
+  id: PSA/37/26
+  number: '26'
+reference: 'Psalms 37:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="122" data-sid="PSA 119:122"
+  class="v">122</span>Be surety for thy servant for good: let not the proud
+  oppress me.</p>
+id: PSA/119/122
+next:
+  id: PSA/119/123
+  number: '123'
+previous:
+  id: PSA/119/121
+  number: '121'
+reference: 'Psalms 119:122'

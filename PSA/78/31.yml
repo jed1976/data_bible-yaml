@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="31" data-sid="PSA 78:31"
+  class="v">31</span>The wrath of God came upon them, and slew the fattest of
+  them, and smote down the chosen <span class="add">men</span> of Israel.</p>
+id: PSA/78/31
+next:
+  id: PSA/78/32
+  number: '32'
+previous:
+  id: PSA/78/30
+  number: '30'
+reference: 'Psalms 78:31'

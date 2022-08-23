@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 14:6" class="v">6</span>¶ And
+  Joshua the son of Nun, and Caleb the son of Jephunneh, <span class="add">which
+  were</span> of them that searched the land, rent their clothes: </p>
+id: NUM/14/6
+next:
+  id: NUM/14/7
+  number: '7'
+previous:
+  id: NUM/14/5
+  number: '5'
+reference: 'Numbers 14:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 41:29"
+  class="v">29</span>Darts are counted as stubble: he laugheth at the shaking of
+  a spear. </p>
+id: JOB/41/29
+next:
+  id: JOB/41/30
+  number: '30'
+previous:
+  id: JOB/41/28
+  number: '28'
+reference: 'Job 41:29'

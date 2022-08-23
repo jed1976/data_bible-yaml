@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 9:10" class="v">10</span>And
+  all that he did to the two kings of the Amorites, that <span
+  class="add">were</span> beyond Jordan, to Sihon king of Heshbon, and to Og
+  king of Bashan, which <span class="add">was</span> at Ashtaroth. </p>
+id: JOS/9/10
+next:
+  id: JOS/9/11
+  number: '11'
+previous:
+  id: JOS/9/9
+  number: '9'
+reference: 'Joshua 9:10'

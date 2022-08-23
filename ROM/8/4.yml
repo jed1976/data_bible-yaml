@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 8:4" class="v">4</span>That
+  the righteousness of the law might be fulfilled in us, who walk not after the
+  flesh, but after the Spirit. </p>
+id: ROM/8/4
+next:
+  id: ROM/8/5
+  number: '5'
+previous:
+  id: ROM/8/3
+  number: '3'
+reference: 'Romans 8:4'

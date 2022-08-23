@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 27:4" class="v">4</span>And
+  if it <span class="add">be</span> a female, then thy estimation shall be
+  thirty shekels. </p>
+id: LEV/27/4
+next:
+  id: LEV/27/5
+  number: '5'
+previous:
+  id: LEV/27/3
+  number: '3'
+reference: 'Leviticus 27:4'

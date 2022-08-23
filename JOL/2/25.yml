@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOL 2:25" class="v">25</span>And
+  I will restore to you the years that the locust hath eaten, the cankerworm,
+  and the caterpiller, and the palmerworm, my great army which I sent among you.
+  </p>
+id: JOL/2/25
+next:
+  id: JOL/2/26
+  number: '26'
+previous:
+  id: JOL/2/24
+  number: '24'
+reference: 'Joel 2:25'

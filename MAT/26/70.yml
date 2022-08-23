@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="70" data-sid="MAT 26:70"
+  class="v">70</span>But he denied before <span class="add">them</span> all,
+  saying, I know not what thou sayest. </p>
+id: MAT/26/70
+next:
+  id: MAT/26/71
+  number: '71'
+previous:
+  id: MAT/26/69
+  number: '69'
+reference: 'Matthew 26:70'

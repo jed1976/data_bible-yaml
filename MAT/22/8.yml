@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 22:8" class="v">8</span><span
+  class="wj">Then saith he to his servants, The wedding is ready, but they which
+  were bidden were not worthy.</span> </p>
+id: MAT/22/8
+next:
+  id: MAT/22/9
+  number: '9'
+previous:
+  id: MAT/22/7
+  number: '7'
+reference: 'Matthew 22:8'

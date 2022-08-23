@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 9:17" class="v">17</span>And
+  when the cloud was taken up from the tabernacle, then after that the children
+  of Israel journeyed: and in the place where the cloud abode, there the
+  children of Israel pitched their tents. </p>
+id: NUM/9/17
+next:
+  id: NUM/9/18
+  number: '18'
+previous:
+  id: NUM/9/16
+  number: '16'
+reference: 'Numbers 9:17'

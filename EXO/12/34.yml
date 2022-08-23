@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 12:34"
+  class="v">34</span>And the people took their dough before it was leavened,
+  their kneadingtroughs being bound up in their clothes upon their shoulders.
+  </p>
+id: EXO/12/34
+next:
+  id: EXO/12/35
+  number: '35'
+previous:
+  id: EXO/12/33
+  number: '33'
+reference: 'Exodus 12:34'

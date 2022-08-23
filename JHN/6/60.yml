@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="JHN 6:60"
+  class="v">60</span>Many therefore of his disciples, when they had heard <span
+  class="add">this</span>, said, This is an hard saying; who can hear it? </p>
+id: JHN/6/60
+next:
+  id: JHN/6/61
+  number: '61'
+previous:
+  id: JHN/6/59
+  number: '59'
+reference: 'John 6:60'

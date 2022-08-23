@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 29:8" class="v">8</span>And
+  they said, We cannot, until all the flocks be gathered together, and <span
+  class="add">till</span> they roll the stone from the well’s mouth; then we
+  water the sheep.</p>
+id: GEN/29/8
+next:
+  id: GEN/29/9
+  number: '9'
+previous:
+  id: GEN/29/7
+  number: '7'
+reference: 'Genesis 29:8'

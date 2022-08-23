@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 3:2" class="v">2</span>And he
+  shall lay his hand upon the head of his offering, and kill it <span
+  class="add">at</span> the door of the tabernacle of the congregation: and
+  Aaron’s sons the priests shall sprinkle the blood upon the altar round about.
+  </p>
+id: LEV/3/2
+next:
+  id: LEV/3/3
+  number: '3'
+previous:
+  id: LEV/3/1
+  number: '1'
+reference: 'Leviticus 3:2'

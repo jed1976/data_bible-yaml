@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 24:4" class="v">4</span>¶ And
+  it came to pass after this, <span class="add">that</span> Joash was minded to
+  repair the house of the <span class="nd">LORD</span>. </p>
+id: 2CH/24/4
+next:
+  id: 2CH/24/5
+  number: '5'
+previous:
+  id: 2CH/24/3
+  number: '3'
+reference: '2 Chronicles 24:4'

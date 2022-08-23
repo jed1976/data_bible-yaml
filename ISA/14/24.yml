@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 14:24" class="v">24</span>¶
+  The <span class="nd">LORD</span> of hosts hath sworn, saying, Surely as I have
+  thought, so shall it come to pass; and as I have purposed, <span
+  class="add">so</span> shall it stand: </p>
+id: ISA/14/24
+next:
+  id: ISA/14/25
+  number: '25'
+previous:
+  id: ISA/14/23
+  number: '23'
+reference: 'Isaiah 14:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="ACT 27:39"
+  class="v">39</span>And when it was day, they knew not the land: but they
+  discovered a certain creek with a shore, into the which they were minded, if
+  it were possible, to thrust in the ship. </p>
+id: ACT/27/39
+next:
+  id: ACT/27/40
+  number: '40'
+previous:
+  id: ACT/27/38
+  number: '38'
+reference: 'Acts 27:39'

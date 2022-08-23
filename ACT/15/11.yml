@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 15:11"
+  class="v">11</span>But we believe that through the grace of the Lord Jesus
+  Christ we shall be saved, even as they.</p>
+id: ACT/15/11
+next:
+  id: ACT/15/12
+  number: '12'
+previous:
+  id: ACT/15/10
+  number: '10'
+reference: 'Acts 15:11'

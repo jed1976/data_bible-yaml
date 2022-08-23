@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 49:25"
+  class="v">25</span>But thus saith the <span class="nd">LORD</span>, Even the
+  captives of the mighty shall be taken away, and the prey of the terrible shall
+  be delivered: for I will contend with him that contendeth with thee, and I
+  will save thy children. </p>
+id: ISA/49/25
+next:
+  id: ISA/49/26
+  number: '26'
+previous:
+  id: ISA/49/24
+  number: '24'
+reference: 'Isaiah 49:25'

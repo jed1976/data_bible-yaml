@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 27:8" class="v">8</span>And
+  thou shalt speak unto the children of Israel, saying, If a man die, and have
+  no son, then ye shall cause his inheritance to pass unto his daughter. </p>
+id: NUM/27/8
+next:
+  id: NUM/27/9
+  number: '9'
+previous:
+  id: NUM/27/7
+  number: '7'
+reference: 'Numbers 27:8'

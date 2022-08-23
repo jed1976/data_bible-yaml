@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 12:12"
+  class="v">12</span>The spoilers are come upon all high places through the
+  wilderness: for the sword of the <span class="nd">LORD</span> shall devour
+  from the <span class="add">one</span> end of the land even to the <span
+  class="add">other</span> end of the land: no flesh shall have peace. </p>
+id: JER/12/12
+next:
+  id: JER/12/13
+  number: '13'
+previous:
+  id: JER/12/11
+  number: '11'
+reference: 'Jeremiah 12:12'

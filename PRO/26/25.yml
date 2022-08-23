@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 26:25"
+  class="v">25</span>When he speaketh fair, believe him not: for <span
+  class="add">there are</span> seven abominations in his heart. </p>
+id: PRO/26/25
+next:
+  id: PRO/26/26
+  number: '26'
+previous:
+  id: PRO/26/24
+  number: '24'
+reference: 'Proverbs 26:25'

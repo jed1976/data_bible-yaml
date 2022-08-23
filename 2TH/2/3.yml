@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2TH 2:3" class="v">3</span>Let no
+  man deceive you by any means: for <span class="add">that day shall not
+  come</span>, except there come a falling away first, and that man of sin be
+  revealed, the son of perdition; </p>
+id: 2TH/2/3
+next:
+  id: 2TH/2/4
+  number: '4'
+previous:
+  id: 2TH/2/2
+  number: '2'
+reference: '2 Thessalonians 2:3'

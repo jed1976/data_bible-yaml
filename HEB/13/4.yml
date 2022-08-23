@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 13:4"
+  class="v">4</span>Marriage <span class="add">is</span> honourable in all, and
+  the bed undefiled: but whoremongers and adulterers God will judge. </p>
+id: HEB/13/4
+next:
+  id: HEB/13/5
+  number: '5'
+previous:
+  id: HEB/13/3
+  number: '3'
+reference: 'Hebrews 13:4'

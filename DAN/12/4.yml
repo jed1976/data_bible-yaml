@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 12:4" class="v">4</span>But
+  thou, O Daniel, shut up the words, and seal the book, <span
+  class="add">even</span> to the time of the end: many shall run to and fro, and
+  knowledge shall be increased.</p>
+id: DAN/12/4
+next:
+  id: DAN/12/5
+  number: '5'
+previous:
+  id: DAN/12/3
+  number: '3'
+reference: 'Daniel 12:4'

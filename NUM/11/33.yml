@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 11:33"
+  class="v">33</span>And while the flesh <span class="add">was</span> yet
+  between their teeth, ere it was chewed, the wrath of the <span
+  class="nd">LORD</span> was kindled against the people, and the <span
+  class="nd">LORD</span> smote the people with a very great plague. </p>
+id: NUM/11/33
+next:
+  id: NUM/11/34
+  number: '34'
+previous:
+  id: NUM/11/32
+  number: '32'
+reference: 'Numbers 11:33'

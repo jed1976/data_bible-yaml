@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 10:18"
+  class="v">18</span>Then there came again and touched me <span
+  class="add">one</span> like the appearance of a man, and he strengthened me,
+  </p>
+id: DAN/10/18
+next:
+  id: DAN/10/19
+  number: '19'
+previous:
+  id: DAN/10/17
+  number: '17'
+reference: 'Daniel 10:18'

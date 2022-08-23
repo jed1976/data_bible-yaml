@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 71:3" class="v">3</span>Be
+  thou my strong habitation, whereunto I may continually resort: thou hast given
+  commandment to save me; for thou <span class="add">art</span> my rock and my
+  fortress.</p>
+id: PSA/71/3
+next:
+  id: PSA/71/4
+  number: '4'
+previous:
+  id: PSA/71/2
+  number: '2'
+reference: 'Psalms 71:3'

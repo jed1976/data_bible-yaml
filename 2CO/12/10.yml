@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CO 12:10"
+  class="v">10</span>Therefore I take pleasure in infirmities, in reproaches, in
+  necessities, in persecutions, in distresses for Christ’s sake: for when I am
+  weak, then am I strong.</p>
+id: 2CO/12/10
+next:
+  id: 2CO/12/11
+  number: '11'
+previous:
+  id: 2CO/12/9
+  number: '9'
+reference: '2 Corinthians 12:10'

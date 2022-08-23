@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 42:30"
+  class="v">30</span>The man, <span class="add">who is</span> the lord of the
+  land, spake roughly to us, and took us for spies of the country. </p>
+id: GEN/42/30
+next:
+  id: GEN/42/31
+  number: '31'
+previous:
+  id: GEN/42/29
+  number: '29'
+reference: 'Genesis 42:30'

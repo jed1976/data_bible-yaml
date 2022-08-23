@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1SA 23:21"
+  class="v">21</span>And Saul said, Blessed <span class="add">be</span> ye of
+  the <span class="nd">LORD</span>; for ye have compassion on me. </p>
+id: 1SA/23/21
+next:
+  id: 1SA/23/22
+  number: '22'
+previous:
+  id: 1SA/23/20
+  number: '20'
+reference: '1 Samuel 23:21'

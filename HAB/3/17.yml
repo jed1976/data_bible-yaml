@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="HAB 3:17" class="v">17</span>¶
+  Although the fig tree shall not blossom, neither <span
+  class="add">shall</span> fruit <span class="add">be</span> in the vines; the
+  labour of the olive shall fail, and the fields shall yield no meat; the flock
+  shall be cut off from the fold, and <span class="add">there shall be</span> no
+  herd in the stalls: </p>
+id: HAB/3/17
+next:
+  id: HAB/3/18
+  number: '18'
+previous:
+  id: HAB/3/16
+  number: '16'
+reference: 'Habakkuk 3:17'

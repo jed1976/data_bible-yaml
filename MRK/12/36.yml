@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MRK 12:36"
+  class="v">36</span><span class="wj">For David himself said by the Holy Ghost,
+  The <span class="nd">LORD</span> said to my Lord, Sit thou on my right hand,
+  till I make thine enemies thy footstool.</span> </p>
+id: MRK/12/36
+next:
+  id: MRK/12/37
+  number: '37'
+previous:
+  id: MRK/12/35
+  number: '35'
+reference: 'Mark 12:36'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 11:10" class="v">10</span>¶
+  For the land, whither thou goest in to possess it, <span class="add">is</span>
+  not as the land of Egypt, from whence ye came out, where thou sowedst thy
+  seed, and wateredst <span class="add">it</span> with thy foot, as a garden of
+  herbs: </p>
+id: DEU/11/10
+next:
+  id: DEU/11/11
+  number: '11'
+previous:
+  id: DEU/11/9
+  number: '9'
+reference: 'Deuteronomy 11:10'

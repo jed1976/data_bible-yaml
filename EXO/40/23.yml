@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 40:23"
+  class="v">23</span>And he set the bread in order upon it before the <span
+  class="nd">LORD</span>; as the <span class="nd">LORD</span> had commanded
+  Moses.</p>
+id: EXO/40/23
+next:
+  id: EXO/40/24
+  number: '24'
+previous:
+  id: EXO/40/22
+  number: '22'
+reference: 'Exodus 40:23'

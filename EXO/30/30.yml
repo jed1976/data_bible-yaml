@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 30:30"
+  class="v">30</span>And thou shalt anoint Aaron and his sons, and consecrate
+  them, that <span class="add">they</span> may minister unto me in the priest’s
+  office. </p>
+id: EXO/30/30
+next:
+  id: EXO/30/31
+  number: '31'
+previous:
+  id: EXO/30/29
+  number: '29'
+reference: 'Exodus 30:30'

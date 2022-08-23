@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MIC 3:2" class="v">2</span>Who
+  hate the good, and love the evil; who pluck off their skin from off them, and
+  their flesh from off their bones; </p>
+id: MIC/3/2
+next:
+  id: MIC/3/3
+  number: '3'
+previous:
+  id: MIC/3/1
+  number: '1'
+reference: 'Micah 3:2'

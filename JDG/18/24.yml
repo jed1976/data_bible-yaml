@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 18:24"
+  class="v">24</span>And he said, Ye have taken away my gods which I made, and
+  the priest, and ye are gone away: and what have I more? and what <span
+  class="add">is</span> this <span class="add">that</span> ye say unto me, What
+  aileth thee? </p>
+id: JDG/18/24
+next:
+  id: JDG/18/25
+  number: '25'
+previous:
+  id: JDG/18/23
+  number: '23'
+reference: 'Judges 18:24'

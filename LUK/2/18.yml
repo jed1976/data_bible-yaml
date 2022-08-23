@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 2:18" class="v">18</span>And
+  all they that heard <span class="add">it</span> wondered at those things which
+  were told them by the shepherds. </p>
+id: LUK/2/18
+next:
+  id: LUK/2/19
+  number: '19'
+previous:
+  id: LUK/2/17
+  number: '17'
+reference: 'Luke 2:18'

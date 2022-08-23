@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 10:14"
+  class="v">14</span><span class="wj">And whosoever shall not receive you, nor
+  hear your words, when ye depart out of that house or city, shake off the dust
+  of your feet.</span> </p>
+id: MAT/10/14
+next:
+  id: MAT/10/15
+  number: '15'
+previous:
+  id: MAT/10/13
+  number: '13'
+reference: 'Matthew 10:14'

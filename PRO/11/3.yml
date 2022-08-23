@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 11:3" class="v">3</span>The
+  integrity of the upright shall guide them: but the perverseness of
+  transgressors shall destroy them. </p>
+id: PRO/11/3
+next:
+  id: PRO/11/4
+  number: '4'
+previous:
+  id: PRO/11/2
+  number: '2'
+reference: 'Proverbs 11:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="LUK 1:66" class="v">66</span>And
+  all they that heard <span class="add">them</span> laid <span
+  class="add">them</span> up in their hearts, saying, What manner of child shall
+  this be! And the hand of the Lord was with him. </p>
+id: LUK/1/66
+next:
+  id: LUK/1/67
+  number: '67'
+previous:
+  id: LUK/1/65
+  number: '65'
+reference: 'Luke 1:66'

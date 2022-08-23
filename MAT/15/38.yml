@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 15:38"
+  class="v">38</span>And they that did eat were four thousand men, beside women
+  and children. </p>
+id: MAT/15/38
+next:
+  id: MAT/15/39
+  number: '39'
+previous:
+  id: MAT/15/37
+  number: '37'
+reference: 'Matthew 15:38'

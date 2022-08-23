@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 12:22"
+  class="v">22</span>Even as the roebuck and the hart is eaten, so thou shalt
+  eat them: the unclean and the clean shall eat <span class="add">of</span> them
+  alike. </p>
+id: DEU/12/22
+next:
+  id: DEU/12/23
+  number: '23'
+previous:
+  id: DEU/12/21
+  number: '21'
+reference: 'Deuteronomy 12:22'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 34:24"
+  class="v">24</span>For I will cast out the nations before thee, and enlarge
+  thy borders: neither shall any man desire thy land, when thou shalt go up to
+  appear before the <span class="nd">LORD</span> thy God thrice in the year.
+  </p>
+id: EXO/34/24
+next:
+  id: EXO/34/25
+  number: '25'
+previous:
+  id: EXO/34/23
+  number: '23'
+reference: 'Exodus 34:24'

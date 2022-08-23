@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 17:6" class="v">6</span>¶ And
+  Moses spake unto the children of Israel, and every one of their princes gave
+  him a rod apiece, for each prince one, according to their fathers’ houses,
+  <span class="add">even</span> twelve rods: and the rod of Aaron <span
+  class="add">was</span> among their rods. </p>
+id: NUM/17/6
+next:
+  id: NUM/17/7
+  number: '7'
+previous:
+  id: NUM/17/5
+  number: '5'
+reference: 'Numbers 17:6'

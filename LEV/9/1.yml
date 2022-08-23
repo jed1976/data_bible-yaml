@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 9:1" class="v">1</span>And it
+  came to pass on the eighth day, <span class="add">that</span> Moses called
+  Aaron and his sons, and the elders of Israel; </p>
+id: LEV/9/1
+next:
+  id: LEV/9/2
+  number: '2'
+previous:
+  id: LEV/8/36
+  number: '36'
+reference: 'Leviticus 9:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 7:19" class="v">19</span>How
+  long wilt thou not depart from me, nor let me alone till I swallow down my
+  spittle? </p>
+id: JOB/7/19
+next:
+  id: JOB/7/20
+  number: '20'
+previous:
+  id: JOB/7/18
+  number: '18'
+reference: 'Job 7:19'

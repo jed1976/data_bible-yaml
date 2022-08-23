@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 6:6" class="v">6</span>The
+  nethermost chamber <span class="add">was</span> five cubits broad, and the
+  middle <span class="add">was</span> six cubits broad, and the third <span
+  class="add">was</span> seven cubits broad: for without <span class="add">in
+  the wall</span> of the house he made narrowed rests round about, that <span
+  class="add">the beams</span> should not be fastened in the walls of the house.
+  </p>
+id: 1KI/6/6
+next:
+  id: 1KI/6/7
+  number: '7'
+previous:
+  id: 1KI/6/5
+  number: '5'
+reference: '1 Kings 6:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CO 9:22" class="v">22</span>To
+  the weak became I as weak, that I might gain the weak: I am made all things to
+  all <span class="add">men</span>, that I might by all means save some. </p>
+id: 1CO/9/22
+next:
+  id: 1CO/9/23
+  number: '23'
+previous:
+  id: 1CO/9/21
+  number: '21'
+reference: '1 Corinthians 9:22'

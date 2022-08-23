@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EPH 4:3"
+  class="v">3</span>Endeavouring to keep the unity of the Spirit in the bond of
+  peace. </p>
+id: EPH/4/3
+next:
+  id: EPH/4/4
+  number: '4'
+previous:
+  id: EPH/4/2
+  number: '2'
+reference: 'Ephesians 4:3'

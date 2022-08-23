@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 16:24"
+  class="v">24</span>Who, having received such a charge, thrust them into the
+  inner prison, and made their feet fast in the stocks.</p>
+id: ACT/16/24
+next:
+  id: ACT/16/25
+  number: '25'
+previous:
+  id: ACT/16/23
+  number: '23'
+reference: 'Acts 16:24'

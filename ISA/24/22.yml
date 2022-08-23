@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 24:22"
+  class="v">22</span>And they shall be gathered together, <span
+  class="add">as</span> prisoners are gathered in the pit, and shall be shut up
+  in the prison, and after many days shall they be visited. </p>
+id: ISA/24/22
+next:
+  id: ISA/24/23
+  number: '23'
+previous:
+  id: ISA/24/21
+  number: '21'
+reference: 'Isaiah 24:22'

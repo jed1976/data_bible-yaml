@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 3:7" class="v">7</span>A time
+  to rend, and a time to sew; a time to keep silence, and a time to speak; </p>
+id: ECC/3/7
+next:
+  id: ECC/3/8
+  number: '8'
+previous:
+  id: ECC/3/6
+  number: '6'
+reference: 'Ecclesiastes 3:7'

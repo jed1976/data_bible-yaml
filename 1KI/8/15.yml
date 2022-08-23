@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1KI 8:15" class="v">15</span>And
+  he said, Blessed <span class="add">be</span> the <span class="nd">LORD</span>
+  God of Israel, which spake with his mouth unto David my father, and hath with
+  his hand fulfilled <span class="add">it</span>, saying, </p>
+id: 1KI/8/15
+next:
+  id: 1KI/8/16
+  number: '16'
+previous:
+  id: 1KI/8/14
+  number: '14'
+reference: '1 Kings 8:15'

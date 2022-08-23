@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 12:38"
+  class="v">38</span><span class="wj">And if he shall come in the second watch,
+  or come in the third watch, and find <span class="add">them</span> so, blessed
+  are those servants.</span> </p>
+id: LUK/12/38
+next:
+  id: LUK/12/39
+  number: '39'
+previous:
+  id: LUK/12/37
+  number: '37'
+reference: 'Luke 12:38'

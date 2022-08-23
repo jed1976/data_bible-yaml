@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 26:12" class="v">12</span>He
+  divideth the sea with his power, and by his understanding he smiteth through
+  the proud. </p>
+id: JOB/26/12
+next:
+  id: JOB/26/13
+  number: '13'
+previous:
+  id: JOB/26/11
+  number: '11'
+reference: 'Job 26:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 11:9" class="v">9</span>And
+  Jephthah said unto the elders of Gilead, If ye bring me home again to fight
+  against the children of Ammon, and the <span class="nd">LORD</span> deliver
+  them before me, shall I be your head? </p>
+id: JDG/11/9
+next:
+  id: JDG/11/10
+  number: '10'
+previous:
+  id: JDG/11/8
+  number: '8'
+reference: 'Judges 11:9'

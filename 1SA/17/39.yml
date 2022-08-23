@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="1SA 17:39"
+  class="v">39</span>And David girded his sword upon his armour, and he assayed
+  to go; for he had not proved <span class="add">it</span>. And David said unto
+  Saul, I cannot go with these; for I have not proved <span
+  class="add">them</span>. And David put them off him.</p>
+id: 1SA/17/39
+next:
+  id: 1SA/17/40
+  number: '40'
+previous:
+  id: 1SA/17/38
+  number: '38'
+reference: '1 Samuel 17:39'

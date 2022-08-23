@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 10:1" class="v">1</span>At
+  that time the <span class="nd">LORD</span> said unto me, Hew thee two tables
+  of stone like unto the first, and come up unto me into the mount, and make
+  thee an ark of wood. </p>
+id: DEU/10/1
+next:
+  id: DEU/10/2
+  number: '2'
+previous:
+  id: DEU/9/29
+  number: '29'
+reference: 'Deuteronomy 10:1'

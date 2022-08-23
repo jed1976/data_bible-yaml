@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 38:11"
+  class="v">11</span>Then said Judah to Tamar his daughter in law, Remain a
+  widow at thy father’s house, till Shelah my son be grown: for he said, Lest
+  peradventure he die also, as his brethren <span class="add">did</span>. And
+  Tamar went and dwelt in her father’s house.</p>
+id: GEN/38/11
+next:
+  id: GEN/38/12
+  number: '12'
+previous:
+  id: GEN/38/10
+  number: '10'
+reference: 'Genesis 38:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 20:30" class="v">30</span>¶
+  And many other signs truly did Jesus in the presence of his disciples, which
+  are not written in this book: </p>
+id: JHN/20/30
+next:
+  id: JHN/20/31
+  number: '31'
+previous:
+  id: JHN/20/29
+  number: '29'
+reference: 'John 20:30'

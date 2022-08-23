@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 44:31" class="v">31</span>It
+  shall come to pass, when he seeth that the lad <span class="add">is</span> not
+  <span class="add">with us</span>, that he will die: and thy servants shall
+  bring down the gray hairs of thy servant our father with sorrow to the grave.
+  </p>
+id: GEN/44/31
+next:
+  id: GEN/44/32
+  number: '32'
+previous:
+  id: GEN/44/30
+  number: '30'
+reference: 'Genesis 44:31'

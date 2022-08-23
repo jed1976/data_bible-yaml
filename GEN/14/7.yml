@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 14:7" class="v">7</span>And
+  they returned, and came to En-mishpat, which <span class="add">is</span>
+  Kadesh, and smote all the country of the Amalekites, and also the Amorites,
+  that dwelt in Hazezon-tamar. </p>
+id: GEN/14/7
+next:
+  id: GEN/14/8
+  number: '8'
+previous:
+  id: GEN/14/6
+  number: '6'
+reference: 'Genesis 14:7'

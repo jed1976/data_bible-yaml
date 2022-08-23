@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 21:13"
+  class="v">13</span>And said unto them, <span class="wj">It is written, My
+  house shall be called the house of prayer; but ye have made it a den of
+  thieves.</span> </p>
+id: MAT/21/13
+next:
+  id: MAT/21/14
+  number: '14'
+previous:
+  id: MAT/21/12
+  number: '12'
+reference: 'Matthew 21:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 11:13"
+  class="v">13</span>For the king of the north shall return, and shall set forth
+  a multitude greater than the former, and shall certainly come after certain
+  years with a great army and with much riches. </p>
+id: DAN/11/13
+next:
+  id: DAN/11/14
+  number: '14'
+previous:
+  id: DAN/11/12
+  number: '12'
+reference: 'Daniel 11:13'

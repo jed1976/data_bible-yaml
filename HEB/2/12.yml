@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 2:12"
+  class="v">12</span>Saying, I will declare thy name unto my brethren, in the
+  midst of the church will I sing praise unto thee. </p>
+id: HEB/2/12
+next:
+  id: HEB/2/13
+  number: '13'
+previous:
+  id: HEB/2/11
+  number: '11'
+reference: 'Hebrews 2:12'

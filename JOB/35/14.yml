@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 35:14"
+  class="v">14</span>Although thou sayest thou shalt not see him, <span
+  class="add">yet</span> judgment <span class="add">is</span> before him;
+  therefore trust thou in him. </p>
+id: JOB/35/14
+next:
+  id: JOB/35/15
+  number: '15'
+previous:
+  id: JOB/35/13
+  number: '13'
+reference: 'Job 35:14'

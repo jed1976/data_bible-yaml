@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 3:21" class="v">21</span>And
+  when his friends heard <span class="add">of it</span>, they went out to lay
+  hold on him: for they said, He is beside himself.</p>
+id: MRK/3/21
+next:
+  id: MRK/3/22
+  number: '22'
+previous:
+  id: MRK/3/20
+  number: '20'
+reference: 'Mark 3:21'

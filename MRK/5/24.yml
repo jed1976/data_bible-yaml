@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 5:24" class="v">24</span>And
+  <span class="add">Jesus</span> went with him; and much people followed him,
+  and thronged him. </p>
+id: MRK/5/24
+next:
+  id: MRK/5/25
+  number: '25'
+previous:
+  id: MRK/5/23
+  number: '23'
+reference: 'Mark 5:24'

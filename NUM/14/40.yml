@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 14:40" class="v">40</span>¶
+  And they rose up early in the morning, and gat them up into the top of the
+  mountain, saying, Lo, we <span class="add">be here</span>, and will go up unto
+  the place which the <span class="nd">LORD</span> hath promised: for we have
+  sinned. </p>
+id: NUM/14/40
+next:
+  id: NUM/14/41
+  number: '41'
+previous:
+  id: NUM/14/39
+  number: '39'
+reference: 'Numbers 14:40'

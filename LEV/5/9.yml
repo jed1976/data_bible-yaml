@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 5:9" class="v">9</span>And he
+  shall sprinkle of the blood of the sin offering upon the side of the altar;
+  and the rest of the blood shall be wrung out at the bottom of the altar: it
+  <span class="add">is</span> a sin offering. </p>
+id: LEV/5/9
+next:
+  id: LEV/5/10
+  number: '10'
+previous:
+  id: LEV/5/8
+  number: '8'
+reference: 'Leviticus 5:9'

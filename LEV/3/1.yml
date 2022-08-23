@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 3:1" class="v">1</span>And if
+  his oblation <span class="add">be</span> a sacrifice of peace offering, if he
+  offer <span class="add">it</span> of the herd; whether <span class="add">it
+  be</span> a male or female, he shall offer it without blemish before the <span
+  class="nd">LORD</span>. </p>
+id: LEV/3/1
+next:
+  id: LEV/3/2
+  number: '2'
+previous:
+  id: LEV/2/16
+  number: '16'
+reference: 'Leviticus 3:1'

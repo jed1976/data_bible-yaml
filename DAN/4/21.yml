@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 4:21"
+  class="v">21</span>Whose leaves <span class="add">were</span> fair, and the
+  fruit thereof much, and in it <span class="add">was</span> meat for all; under
+  which the beasts of the field dwelt, and upon whose branches the fowls of the
+  heaven had their habitation: </p>
+id: DAN/4/21
+next:
+  id: DAN/4/22
+  number: '22'
+previous:
+  id: DAN/4/20
+  number: '20'
+reference: 'Daniel 4:21'

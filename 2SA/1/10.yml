@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 1:10" class="v">10</span>So
+  I stood upon him, and slew him, because I was sure that he could not live
+  after that he was fallen: and I took the crown that <span
+  class="add">was</span> upon his head, and the bracelet that <span
+  class="add">was</span> on his arm, and have brought them hither unto my
+  lord.</p>
+id: 2SA/1/10
+next:
+  id: 2SA/1/11
+  number: '11'
+previous:
+  id: 2SA/1/9
+  number: '9'
+reference: '2 Samuel 1:10'

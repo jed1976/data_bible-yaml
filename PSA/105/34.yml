@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="34" data-sid="PSA 105:34"
+  class="v">34</span>He spake, and the locusts came, and caterpillers, and that
+  without number,</p>
+id: PSA/105/34
+next:
+  id: PSA/105/35
+  number: '35'
+previous:
+  id: PSA/105/33
+  number: '33'
+reference: 'Psalms 105:34'

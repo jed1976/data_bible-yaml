@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 7:24" class="v">24</span>O
+  wretched man that I am! who shall deliver me from the body of this death? </p>
+id: ROM/7/24
+next:
+  id: ROM/7/25
+  number: '25'
+previous:
+  id: ROM/7/23
+  number: '23'
+reference: 'Romans 7:24'

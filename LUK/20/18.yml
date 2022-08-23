@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 20:18"
+  class="v">18</span><span class="wj">Whosoever shall fall upon that stone shall
+  be broken; but on whomsoever it shall fall, it will grind him to
+  powder.</span></p>
+id: LUK/20/18
+next:
+  id: LUK/20/19
+  number: '19'
+previous:
+  id: LUK/20/17
+  number: '17'
+reference: 'Luke 20:18'

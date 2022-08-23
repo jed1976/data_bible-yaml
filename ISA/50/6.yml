@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 50:6" class="v">6</span>I
+  gave my back to the smiters, and my cheeks to them that plucked off the hair:
+  I hid not my face from shame and spitting.</p>
+id: ISA/50/6
+next:
+  id: ISA/50/7
+  number: '7'
+previous:
+  id: ISA/50/5
+  number: '5'
+reference: 'Isaiah 50:6'

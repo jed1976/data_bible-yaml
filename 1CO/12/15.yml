@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CO 12:15" class="v">15</span>If
+  the foot shall say, Because I am not the hand, I am not of the body; is it
+  therefore not of the body? </p>
+id: 1CO/12/15
+next:
+  id: 1CO/12/16
+  number: '16'
+previous:
+  id: 1CO/12/14
+  number: '14'
+reference: '1 Corinthians 12:15'

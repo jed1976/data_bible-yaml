@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 10:12"
+  class="v">12</span>Hatred stirreth up strifes: but love covereth all sins.
+  </p>
+id: PRO/10/12
+next:
+  id: PRO/10/13
+  number: '13'
+previous:
+  id: PRO/10/11
+  number: '11'
+reference: 'Proverbs 10:12'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 8:5" class="v">5</span>¶ The
+  <span class="nd">LORD</span> spake also unto me again, saying, </p>
+id: ISA/8/5
+next:
+  id: ISA/8/6
+  number: '6'
+previous:
+  id: ISA/8/4
+  number: '4'
+reference: 'Isaiah 8:5'

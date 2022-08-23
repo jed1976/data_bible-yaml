@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 9:4" class="v">4</span>For
+  Mordecai <span class="add">was</span> great in the king’s house, and his fame
+  went out throughout all the provinces: for this man Mordecai waxed greater and
+  greater. </p>
+id: EST/9/4
+next:
+  id: EST/9/5
+  number: '5'
+previous:
+  id: EST/9/3
+  number: '3'
+reference: 'Esther 9:4'

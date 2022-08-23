@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 15:30" class="v">30</span>So
+  when they were dismissed, they came to Antioch: and when they had gathered the
+  multitude together, they delivered the epistle: </p>
+id: ACT/15/30
+next:
+  id: ACT/15/31
+  number: '31'
+previous:
+  id: ACT/15/29
+  number: '29'
+reference: 'Acts 15:30'

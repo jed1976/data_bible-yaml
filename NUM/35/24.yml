@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 35:24"
+  class="v">24</span>Then the congregation shall judge between the slayer and
+  the revenger of blood according to these judgments: </p>
+id: NUM/35/24
+next:
+  id: NUM/35/25
+  number: '25'
+previous:
+  id: NUM/35/23
+  number: '23'
+reference: 'Numbers 35:24'

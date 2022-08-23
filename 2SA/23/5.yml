@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 23:5"
+  class="v">5</span>Although my house <span class="add">be</span> not so with
+  God; yet he hath made with me an everlasting covenant, ordered in all <span
+  class="add">things</span>, and sure: for <span class="add">this is</span> all
+  my salvation, and all <span class="add">my</span> desire, although he make
+  <span class="add">it</span> not to grow.</p>
+id: 2SA/23/5
+next:
+  id: 2SA/23/6
+  number: '6'
+previous:
+  id: 2SA/23/4
+  number: '4'
+reference: '2 Samuel 23:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 6:7" class="v">7</span>He
+  shall not make himself unclean for his father, or for his mother, for his
+  brother, or for his sister, when they die: because the consecration of his God
+  <span class="add">is</span> upon his head. </p>
+id: NUM/6/7
+next:
+  id: NUM/6/8
+  number: '8'
+previous:
+  id: NUM/6/6
+  number: '6'
+reference: 'Numbers 6:7'

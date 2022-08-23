@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 49:17"
+  class="v">17</span>Dan shall be a serpent by the way, an adder in the path,
+  that biteth the horse heels, so that his rider shall fall backward. </p>
+id: GEN/49/17
+next:
+  id: GEN/49/18
+  number: '18'
+previous:
+  id: GEN/49/16
+  number: '16'
+reference: 'Genesis 49:17'

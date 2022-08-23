@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 16:7" class="v">7</span>And
+  he shall take the two goats, and present them before the <span
+  class="nd">LORD</span> <span class="add">at</span> the door of the tabernacle
+  of the congregation. </p>
+id: LEV/16/7
+next:
+  id: LEV/16/8
+  number: '8'
+previous:
+  id: LEV/16/6
+  number: '6'
+reference: 'Leviticus 16:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 4:11" class="v">11</span>And
+  ye came near and stood under the mountain; and the mountain burned with fire
+  unto the midst of heaven, with darkness, clouds, and thick darkness. </p>
+id: DEU/4/11
+next:
+  id: DEU/4/12
+  number: '12'
+previous:
+  id: DEU/4/10
+  number: '10'
+reference: 'Deuteronomy 4:11'

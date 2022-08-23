@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 109:3"
+  class="v">3</span>They compassed me about also with words of hatred; and
+  fought against me without a cause.</p>
+id: PSA/109/3
+next:
+  id: PSA/109/4
+  number: '4'
+previous:
+  id: PSA/109/2
+  number: '2'
+reference: 'Psalms 109:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 23:7" class="v">7</span>In
+  the first day ye shall have an holy convocation: ye shall do no servile work
+  therein. </p>
+id: LEV/23/7
+next:
+  id: LEV/23/8
+  number: '8'
+previous:
+  id: LEV/23/6
+  number: '6'
+reference: 'Leviticus 23:7'

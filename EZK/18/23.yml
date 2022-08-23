@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 18:23"
+  class="v">23</span>Have I any pleasure at all that the wicked should die?
+  saith the Lord <span class="nd">GOD</span>: <span class="add">and</span> not
+  that he should return from his ways, and live?</p>
+id: EZK/18/23
+next:
+  id: EZK/18/24
+  number: '24'
+previous:
+  id: EZK/18/22
+  number: '22'
+reference: 'Ezekiel 18:23'

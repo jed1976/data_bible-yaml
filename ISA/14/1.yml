@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 14:1" class="v">1</span>For
+  the <span class="nd">LORD</span> will have mercy on Jacob, and will yet choose
+  Israel, and set them in their own land: and the strangers shall be joined with
+  them, and they shall cleave to the house of Jacob. </p>
+id: ISA/14/1
+next:
+  id: ISA/14/2
+  number: '2'
+previous:
+  id: ISA/13/22
+  number: '22'
+reference: 'Isaiah 14:1'

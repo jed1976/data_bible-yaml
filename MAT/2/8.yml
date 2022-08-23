@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 2:8" class="v">8</span>And he
+  sent them to Bethlehem, and said, Go and search diligently for the young
+  child; and when ye have found <span class="add">him</span>, bring me word
+  again, that I may come and worship him also. </p>
+id: MAT/2/8
+next:
+  id: MAT/2/9
+  number: '9'
+previous:
+  id: MAT/2/7
+  number: '7'
+reference: 'Matthew 2:8'

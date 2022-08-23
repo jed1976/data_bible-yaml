@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 14:10"
+  class="v">10</span><span class="wj">Believest thou not that I am in the
+  Father, and the Father in me? the words that I speak unto you I speak not of
+  myself: but the Father that dwelleth in me, he doeth the works.</span> </p>
+id: JHN/14/10
+next:
+  id: JHN/14/11
+  number: '11'
+previous:
+  id: JHN/14/9
+  number: '9'
+reference: 'John 14:10'

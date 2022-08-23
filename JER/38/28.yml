@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="JER 38:28" class="v">28</span>So
+  Jeremiah abode in the court of the prison until the day that Jerusalem was
+  taken: and he was <span class="add">there</span> when Jerusalem was taken.</p>
+id: JER/38/28
+next:
+  id: JER/39/1
+  number: '1'
+previous:
+  id: JER/38/27
+  number: '27'
+reference: 'Jeremiah 38:28'

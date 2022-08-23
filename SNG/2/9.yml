@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="SNG 2:9" class="v">9</span>My
+  beloved is like a roe or a young hart: behold, he standeth behind our wall, he
+  looketh forth at the windows, shewing himself through the lattice. </p>
+id: SNG/2/9
+next:
+  id: SNG/2/10
+  number: '10'
+previous:
+  id: SNG/2/8
+  number: '8'
+reference: 'Song of Solomon 2:9'

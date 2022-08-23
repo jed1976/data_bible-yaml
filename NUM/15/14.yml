@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 15:14"
+  class="v">14</span>And if a stranger sojourn with you, or whosoever <span
+  class="add">be</span> among you in your generations, and will offer an
+  offering made by fire, of a sweet savour unto the <span
+  class="nd">LORD</span>; as ye do, so he shall do. </p>
+id: NUM/15/14
+next:
+  id: NUM/15/15
+  number: '15'
+previous:
+  id: NUM/15/13
+  number: '13'
+reference: 'Numbers 15:14'

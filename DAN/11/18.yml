@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 11:18"
+  class="v">18</span>After this shall he turn his face unto the isles, and shall
+  take many: but a prince for his own behalf shall cause the reproach offered by
+  him to cease; without his own reproach he shall cause <span
+  class="add">it</span> to turn upon him. </p>
+id: DAN/11/18
+next:
+  id: DAN/11/19
+  number: '19'
+previous:
+  id: DAN/11/17
+  number: '17'
+reference: 'Daniel 11:18'

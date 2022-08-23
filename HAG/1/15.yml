@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HAG 1:15" class="v">15</span>In
+  the four and twentieth day of the sixth month, in the second year of Darius
+  the king.</p>
+id: HAG/1/15
+next:
+  id: HAG/2/1
+  number: '1'
+previous:
+  id: HAG/1/14
+  number: '14'
+reference: 'Haggai 1:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 10:20"
+  class="v">20</span><span class="wj">For it is not ye that speak, but the
+  Spirit of your Father which speaketh in you.</span> </p>
+id: MAT/10/20
+next:
+  id: MAT/10/21
+  number: '21'
+previous:
+  id: MAT/10/19
+  number: '19'
+reference: 'Matthew 10:20'

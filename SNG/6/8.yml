@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 6:8" class="v">8</span>There
+  are threescore queens, and fourscore concubines, and virgins without number.
+  </p>
+id: SNG/6/8
+next:
+  id: SNG/6/9
+  number: '9'
+previous:
+  id: SNG/6/7
+  number: '7'
+reference: 'Song of Solomon 6:8'

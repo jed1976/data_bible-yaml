@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 11:29" class="v">29</span>As
+  soon as she heard <span class="add">that</span>, she arose quickly, and came
+  unto him. </p>
+id: JHN/11/29
+next:
+  id: JHN/11/30
+  number: '30'
+previous:
+  id: JHN/11/28
+  number: '28'
+reference: 'John 11:29'

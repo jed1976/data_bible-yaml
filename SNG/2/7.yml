@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 2:7" class="v">7</span>I
+  charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the
+  field, that ye stir not up, nor awake <span class="add">my</span> love, till
+  he please.</p>
+id: SNG/2/7
+next:
+  id: SNG/2/8
+  number: '8'
+previous:
+  id: SNG/2/6
+  number: '6'
+reference: 'Song of Solomon 2:7'

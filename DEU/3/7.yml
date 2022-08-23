@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 3:7" class="v">7</span>But
+  all the cattle, and the spoil of the cities, we took for a prey to ourselves.
+  </p>
+id: DEU/3/7
+next:
+  id: DEU/3/8
+  number: '8'
+previous:
+  id: DEU/3/6
+  number: '6'
+reference: 'Deuteronomy 3:7'

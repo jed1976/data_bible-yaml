@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 22:27"
+  class="v">27</span>For he found her in the field, <span class="add">and</span>
+  the betrothed damsel cried, and <span class="add">there was</span> none to
+  save her.</p>
+id: DEU/22/27
+next:
+  id: DEU/22/28
+  number: '28'
+previous:
+  id: DEU/22/26
+  number: '26'
+reference: 'Deuteronomy 22:27'

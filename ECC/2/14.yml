@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 2:14" class="v">14</span>The
+  wise man’s eyes <span class="add">are</span> in his head; but the fool walketh
+  in darkness: and I myself perceived also that one event happeneth to them all.
+  </p>
+id: ECC/2/14
+next:
+  id: ECC/2/15
+  number: '15'
+previous:
+  id: ECC/2/13
+  number: '13'
+reference: 'Ecclesiastes 2:14'

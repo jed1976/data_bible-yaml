@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 5:37" class="v">37</span>And
+  he suffered no man to follow him, save Peter, and James, and John the brother
+  of James. </p>
+id: MRK/5/37
+next:
+  id: MRK/5/38
+  number: '38'
+previous:
+  id: MRK/5/36
+  number: '36'
+reference: 'Mark 5:37'

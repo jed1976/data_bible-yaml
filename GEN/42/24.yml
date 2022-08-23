@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 42:24"
+  class="v">24</span>And he turned himself about from them, and wept; and
+  returned to them again, and communed with them, and took from them Simeon, and
+  bound him before their eyes.</p>
+id: GEN/42/24
+next:
+  id: GEN/42/25
+  number: '25'
+previous:
+  id: GEN/42/23
+  number: '23'
+reference: 'Genesis 42:24'

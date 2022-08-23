@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOL 2:23" class="v">23</span>Be
+  glad then, ye children of Zion, and rejoice in the <span
+  class="nd">LORD</span> your God: for he hath given you the former rain
+  moderately, and he will cause to come down for you the rain, the former rain,
+  and the latter rain in the first <span class="add">month</span>. </p>
+id: JOL/2/23
+next:
+  id: JOL/2/24
+  number: '24'
+previous:
+  id: JOL/2/22
+  number: '22'
+reference: 'Joel 2:23'

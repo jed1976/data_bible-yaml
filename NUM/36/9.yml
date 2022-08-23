@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 36:9"
+  class="v">9</span>Neither shall the inheritance remove from <span
+  class="add">one</span> tribe to another tribe; but every one of the tribes of
+  the children of Israel shall keep himself to his own inheritance. </p>
+id: NUM/36/9
+next:
+  id: NUM/36/10
+  number: '10'
+previous:
+  id: NUM/36/8
+  number: '8'
+reference: 'Numbers 36:9'

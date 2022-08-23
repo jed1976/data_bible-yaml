@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 28:18" class="v">18</span>No
+  mention shall be made of coral, or of pearls: for the price of wisdom <span
+  class="add">is</span> above rubies. </p>
+id: JOB/28/18
+next:
+  id: JOB/28/19
+  number: '19'
+previous:
+  id: JOB/28/17
+  number: '17'
+reference: 'Job 28:18'

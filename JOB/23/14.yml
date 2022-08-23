@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 23:14"
+  class="v">14</span>For he performeth <span class="add">the thing that
+  is</span> appointed for me: and many such <span class="add">things are</span>
+  with him. </p>
+id: JOB/23/14
+next:
+  id: JOB/23/15
+  number: '15'
+previous:
+  id: JOB/23/13
+  number: '13'
+reference: 'Job 23:14'

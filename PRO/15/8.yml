@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 15:8" class="v">8</span>The
+  sacrifice of the wicked <span class="add">is</span> an abomination to the
+  <span class="nd">LORD</span>: but the prayer of the upright <span
+  class="add">is</span> his delight. </p>
+id: PRO/15/8
+next:
+  id: PRO/15/9
+  number: '9'
+previous:
+  id: PRO/15/7
+  number: '7'
+reference: 'Proverbs 15:8'

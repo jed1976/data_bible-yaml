@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 28:9" class="v">9</span>He
+  that turneth away his ear from hearing the law, even his prayer <span
+  class="add">shall be</span> abomination. </p>
+id: PRO/28/9
+next:
+  id: PRO/28/10
+  number: '10'
+previous:
+  id: PRO/28/8
+  number: '8'
+reference: 'Proverbs 28:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 14:41"
+  class="v">41</span>And Moses said, Wherefore now do ye transgress the
+  commandment of the <span class="nd">LORD</span>? but it shall not prosper.
+  </p>
+id: NUM/14/41
+next:
+  id: NUM/14/42
+  number: '42'
+previous:
+  id: NUM/14/40
+  number: '40'
+reference: 'Numbers 14:41'

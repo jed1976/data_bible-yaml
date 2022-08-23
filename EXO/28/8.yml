@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 28:8" class="v">8</span>And
+  the curious girdle of the ephod, which <span class="add">is</span> upon it,
+  shall be of the same, according to the work thereof; <span class="add">even
+  of</span> gold, <span class="add">of</span> blue, and purple, and scarlet, and
+  fine twined linen. </p>
+id: EXO/28/8
+next:
+  id: EXO/28/9
+  number: '9'
+previous:
+  id: EXO/28/7
+  number: '7'
+reference: 'Exodus 28:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 4:5" class="v">5</span>And
+  she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount
+  Ephraim: and the children of Israel came up to her for judgment. </p>
+id: JDG/4/5
+next:
+  id: JDG/4/6
+  number: '6'
+previous:
+  id: JDG/4/4
+  number: '4'
+reference: 'Judges 4:5'

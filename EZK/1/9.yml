@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZK 1:9" class="v">9</span>Their
+  wings <span class="add">were</span> joined one to another; they turned not
+  when they went; they went every one straight forward. </p>
+id: EZK/1/9
+next:
+  id: EZK/1/10
+  number: '10'
+previous:
+  id: EZK/1/8
+  number: '8'
+reference: 'Ezekiel 1:9'

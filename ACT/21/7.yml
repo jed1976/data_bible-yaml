@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 21:7" class="v">7</span>And
+  when we had finished <span class="add">our</span> course from Tyre, we came to
+  Ptolemais, and saluted the brethren, and abode with them one day. </p>
+id: ACT/21/7
+next:
+  id: ACT/21/8
+  number: '8'
+previous:
+  id: ACT/21/6
+  number: '6'
+reference: 'Acts 21:7'

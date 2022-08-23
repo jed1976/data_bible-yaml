@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 6:41"
+  class="v">41</span><span class="wj">And why beholdest thou the mote that is in
+  thy brother’s eye, but perceivest not the beam that is in thine own
+  eye?</span> </p>
+id: LUK/6/41
+next:
+  id: LUK/6/42
+  number: '42'
+previous:
+  id: LUK/6/40
+  number: '40'
+reference: 'Luke 6:41'

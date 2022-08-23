@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 48:7" class="v">7</span>And
+  as for me, when I came from Padan, Rachel died by me in the land of Canaan in
+  the way, when yet <span class="add">there was</span> but a little way to come
+  unto Ephrath: and I buried her there in the way of Ephrath; the same <span
+  class="add">is</span> Beth-lehem.</p>
+id: GEN/48/7
+next:
+  id: GEN/48/8
+  number: '8'
+previous:
+  id: GEN/48/6
+  number: '6'
+reference: 'Genesis 48:7'

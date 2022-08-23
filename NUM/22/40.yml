@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 22:40"
+  class="v">40</span>And Balak offered oxen and sheep, and sent to Balaam, and
+  to the princes that <span class="add">were</span> with him. </p>
+id: NUM/22/40
+next:
+  id: NUM/22/41
+  number: '41'
+previous:
+  id: NUM/22/39
+  number: '39'
+reference: 'Numbers 22:40'

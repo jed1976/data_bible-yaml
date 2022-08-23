@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 3:5" class="v">5</span>All
+  these cities <span class="add">were</span> fenced with high walls, gates, and
+  bars; beside unwalled towns a great many. </p>
+id: DEU/3/5
+next:
+  id: DEU/3/6
+  number: '6'
+previous:
+  id: DEU/3/4
+  number: '4'
+reference: 'Deuteronomy 3:5'

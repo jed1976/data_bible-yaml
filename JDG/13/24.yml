@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 13:24" class="v">24</span>¶
+  And the woman bare a son, and called his name Samson: and the child grew, and
+  the <span class="nd">LORD</span> blessed him. </p>
+id: JDG/13/24
+next:
+  id: JDG/13/25
+  number: '25'
+previous:
+  id: JDG/13/23
+  number: '23'
+reference: 'Judges 13:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 9:12" class="v">12</span>¶
+  Turn you to the strong hold, ye prisoners of hope: even to day do I declare
+  <span class="add">that</span> I will render double unto thee; </p>
+id: ZEC/9/12
+next:
+  id: ZEC/9/13
+  number: '13'
+previous:
+  id: ZEC/9/11
+  number: '11'
+reference: 'Zechariah 9:12'

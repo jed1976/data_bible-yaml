@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MIC 1:8"
+  class="v">8</span>Therefore I will wail and howl, I will go stripped and
+  naked: I will make a wailing like the dragons, and mourning as the owls. </p>
+id: MIC/1/8
+next:
+  id: MIC/1/9
+  number: '9'
+previous:
+  id: MIC/1/7
+  number: '7'
+reference: 'Micah 1:8'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 5:9" class="v">9</span>¶ And
+  Enos lived ninety years, and begat Cainan: </p>
+id: GEN/5/9
+next:
+  id: GEN/5/10
+  number: '10'
+previous:
+  id: GEN/5/8
+  number: '8'
+reference: 'Genesis 5:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 11:21"
+  class="v">21</span>And Peter calling to remembrance saith unto him, Master,
+  behold, the fig tree which thou cursedst is withered away. </p>
+id: MRK/11/21
+next:
+  id: MRK/11/22
+  number: '22'
+previous:
+  id: MRK/11/20
+  number: '20'
+reference: 'Mark 11:21'

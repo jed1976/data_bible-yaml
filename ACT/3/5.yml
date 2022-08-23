@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 3:5" class="v">5</span>And he
+  gave heed unto them, expecting to receive something of them. </p>
+id: ACT/3/5
+next:
+  id: ACT/3/6
+  number: '6'
+previous:
+  id: ACT/3/4
+  number: '4'
+reference: 'Acts 3:5'

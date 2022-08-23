@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 6:11" class="v">11</span>I
+  went down into the garden of nuts to see the fruits of the valley, <span
+  class="add">and</span> to see whether the vine flourished, <span
+  class="add">and</span> the pomegranates budded. </p>
+id: SNG/6/11
+next:
+  id: SNG/6/12
+  number: '12'
+previous:
+  id: SNG/6/10
+  number: '10'
+reference: 'Song of Solomon 6:11'

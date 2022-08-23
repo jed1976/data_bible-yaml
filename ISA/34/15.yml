@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 34:15"
+  class="v">15</span>There shall the great owl make her nest, and lay, and
+  hatch, and gather under her shadow: there shall the vultures also be gathered,
+  every one with her mate.</p>
+id: ISA/34/15
+next:
+  id: ISA/34/16
+  number: '16'
+previous:
+  id: ISA/34/14
+  number: '14'
+reference: 'Isaiah 34:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 5:5" class="v">5</span>And
+  Ananias hearing these words fell down, and gave up the ghost: and great fear
+  came on all them that heard these things. </p>
+id: ACT/5/5
+next:
+  id: ACT/5/6
+  number: '6'
+previous:
+  id: ACT/5/4
+  number: '4'
+reference: 'Acts 5:5'

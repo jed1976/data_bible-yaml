@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 9:15" class="v">15</span>And
+  straightway all the people, when they beheld him, were greatly amazed, and
+  running to <span class="add">him</span> saluted him. </p>
+id: MRK/9/15
+next:
+  id: MRK/9/16
+  number: '16'
+previous:
+  id: MRK/9/14
+  number: '14'
+reference: 'Mark 9:15'

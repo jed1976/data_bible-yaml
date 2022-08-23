@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LUK 9:55" class="v">55</span>But
+  he turned, and rebuked them, and said, <span class="wj">Ye know not what
+  manner of spirit ye are of.</span> </p>
+id: LUK/9/55
+next:
+  id: LUK/9/56
+  number: '56'
+previous:
+  id: LUK/9/54
+  number: '54'
+reference: 'Luke 9:55'

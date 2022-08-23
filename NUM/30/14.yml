@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 30:14"
+  class="v">14</span>But if her husband altogether hold his peace at her from
+  day to day; then he establisheth all her vows, or all her bonds, which <span
+  class="add">are</span> upon her: he confirmeth them, because he held his peace
+  at her in the day that he heard <span class="add">them</span>. </p>
+id: NUM/30/14
+next:
+  id: NUM/30/15
+  number: '15'
+previous:
+  id: NUM/30/13
+  number: '13'
+reference: 'Numbers 30:14'

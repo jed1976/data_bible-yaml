@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 1:20"
+  class="v">20</span>Then Job arose, and rent his mantle, and shaved his head,
+  and fell down upon the ground, and worshipped, </p>
+id: JOB/1/20
+next:
+  id: JOB/1/21
+  number: '21'
+previous:
+  id: JOB/1/19
+  number: '19'
+reference: 'Job 1:20'

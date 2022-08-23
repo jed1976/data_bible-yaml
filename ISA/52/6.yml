@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 52:6"
+  class="v">6</span>Therefore my people shall know my name: therefore <span
+  class="add">they shall know</span> in that day that I <span
+  class="add">am</span> he that doth speak: behold, <span class="add">it
+  is</span> I.</p>
+id: ISA/52/6
+next:
+  id: ISA/52/7
+  number: '7'
+previous:
+  id: ISA/52/5
+  number: '5'
+reference: 'Isaiah 52:6'

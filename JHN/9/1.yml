@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 9:1" class="v">1</span>And as
+  <span class="add">Jesus</span> passed by, he saw a man which was blind from
+  <span class="add">his</span> birth. </p>
+id: JHN/9/1
+next:
+  id: JHN/9/2
+  number: '2'
+previous:
+  id: JHN/8/59
+  number: '59'
+reference: 'John 9:1'

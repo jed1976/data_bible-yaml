@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="PRO 11:31"
+  class="v">31</span>Behold, the righteous shall be recompensed in the earth:
+  much more the wicked and the sinner.</p>
+id: PRO/11/31
+next:
+  id: PRO/12/1
+  number: '1'
+previous:
+  id: PRO/11/30
+  number: '30'
+reference: 'Proverbs 11:31'

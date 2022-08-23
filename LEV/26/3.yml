@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 26:3" class="v">3</span>¶ If
+  ye walk in my statutes, and keep my commandments, and do them; </p>
+id: LEV/26/3
+next:
+  id: LEV/26/4
+  number: '4'
+previous:
+  id: LEV/26/2
+  number: '2'
+reference: 'Leviticus 26:3'

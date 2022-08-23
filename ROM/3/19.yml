@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 3:19" class="v">19</span>Now
+  we know that what things soever the law saith, it saith to them who are under
+  the law: that every mouth may be stopped, and all the world may become guilty
+  before God. </p>
+id: ROM/3/19
+next:
+  id: ROM/3/20
+  number: '20'
+previous:
+  id: ROM/3/18
+  number: '18'
+reference: 'Romans 3:19'

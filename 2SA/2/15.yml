@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 2:15"
+  class="v">15</span>Then there arose and went over by number twelve of
+  Benjamin, which <span class="add">pertained</span> to Ish-bosheth the son of
+  Saul, and twelve of the servants of David. </p>
+id: 2SA/2/15
+next:
+  id: 2SA/2/16
+  number: '16'
+previous:
+  id: 2SA/2/14
+  number: '14'
+reference: '2 Samuel 2:15'

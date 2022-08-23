@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 16:8" class="v">8</span>And
+  Aaron shall cast lots upon the two goats; one lot for the <span
+  class="nd">LORD</span>, and the other lot for the scapegoat. </p>
+id: LEV/16/8
+next:
+  id: LEV/16/9
+  number: '9'
+previous:
+  id: LEV/16/7
+  number: '7'
+reference: 'Leviticus 16:8'

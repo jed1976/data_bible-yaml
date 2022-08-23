@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PHM 1:1" class="v">1</span>Paul,
+  a prisoner of Jesus Christ, and Timothy <span class="add">our</span> brother,
+  unto Philemon our dearly beloved, and fellowlabourer, </p>
+id: PHM/1/1
+next:
+  id: PHM/1/2
+  number: '2'
+previous:
+  id: PHM/intro/0
+  number: '0'
+reference: 'Philemon 1:1'

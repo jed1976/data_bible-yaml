@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 9:6" class="v">6</span>Whoso
+  sheddeth man’s blood, by man shall his blood be shed: for in the image of God
+  made he man. </p>
+id: GEN/9/6
+next:
+  id: GEN/9/7
+  number: '7'
+previous:
+  id: GEN/9/5
+  number: '5'
+reference: 'Genesis 9:6'

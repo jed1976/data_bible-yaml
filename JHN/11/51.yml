@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JHN 11:51"
+  class="v">51</span>And this spake he not of himself: but being high priest
+  that year, he prophesied that Jesus should die for that nation; </p>
+id: JHN/11/51
+next:
+  id: JHN/11/52
+  number: '52'
+previous:
+  id: JHN/11/50
+  number: '50'
+reference: 'John 11:51'

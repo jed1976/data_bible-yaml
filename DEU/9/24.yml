@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 9:24" class="v">24</span>Ye
+  have been rebellious against the <span class="nd">LORD</span> from the day
+  that I knew you. </p>
+id: DEU/9/24
+next:
+  id: DEU/9/25
+  number: '25'
+previous:
+  id: DEU/9/23
+  number: '23'
+reference: 'Deuteronomy 9:24'

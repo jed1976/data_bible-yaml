@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 26:16"
+  class="v">16</span>And Abimelech said unto Isaac, Go from us; for thou art
+  much mightier than we.</p>
+id: GEN/26/16
+next:
+  id: GEN/26/17
+  number: '17'
+previous:
+  id: GEN/26/15
+  number: '15'
+reference: 'Genesis 26:16'

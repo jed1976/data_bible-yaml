@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 3:14" class="v">14</span>I
+  know that, whatsoever God doeth, it shall be for ever: nothing can be put to
+  it, nor any thing taken from it: and God doeth <span class="add">it</span>,
+  that <span class="add">men</span> should fear before him. </p>
+id: ECC/3/14
+next:
+  id: ECC/3/15
+  number: '15'
+previous:
+  id: ECC/3/13
+  number: '13'
+reference: 'Ecclesiastes 3:14'

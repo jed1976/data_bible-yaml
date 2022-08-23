@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 22:3" class="v">3</span>The
+  God of my rock; in him will I trust: <span class="add">he is</span> my shield,
+  and the horn of my salvation, my high tower, and my refuge, my saviour; thou
+  savest me from violence. </p>
+id: 2SA/22/3
+next:
+  id: 2SA/22/4
+  number: '4'
+previous:
+  id: 2SA/22/2
+  number: '2'
+reference: '2 Samuel 22:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 40:20" class="v">20</span>¶
+  And it came to pass the third day, <span class="add">which was</span>
+  Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted
+  up the head of the chief butler and of the chief baker among his servants.
+  </p>
+id: GEN/40/20
+next:
+  id: GEN/40/21
+  number: '21'
+previous:
+  id: GEN/40/19
+  number: '19'
+reference: 'Genesis 40:20'

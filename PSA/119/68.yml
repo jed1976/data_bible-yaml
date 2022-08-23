@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="68" data-sid="PSA 119:68"
+  class="v">68</span>Thou <span class="add">art</span> good, and doest good;
+  teach me thy statutes.</p>
+id: PSA/119/68
+next:
+  id: PSA/119/69
+  number: '69'
+previous:
+  id: PSA/119/67
+  number: '67'
+reference: 'Psalms 119:68'

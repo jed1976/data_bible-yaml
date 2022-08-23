@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 77:8" class="v">8</span>Is
+  his mercy clean gone for ever? doth <span class="add">his</span> promise fail
+  for evermore?</p>
+id: PSA/77/8
+next:
+  id: PSA/77/9
+  number: '9'
+previous:
+  id: PSA/77/7
+  number: '7'
+reference: 'Psalms 77:8'

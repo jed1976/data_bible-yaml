@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOL 2:11" class="v">11</span>And
+  the <span class="nd">LORD</span> shall utter his voice before his army: for
+  his camp <span class="add">is</span> very great: for <span class="add">he
+  is</span> strong that executeth his word: for the day of the <span
+  class="nd">LORD</span> <span class="add">is</span> great and very terrible;
+  and who can abide it?</p>
+id: JOL/2/11
+next:
+  id: JOL/2/12
+  number: '12'
+previous:
+  id: JOL/2/10
+  number: '10'
+reference: 'Joel 2:11'

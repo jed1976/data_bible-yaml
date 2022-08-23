@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 12:21"
+  class="v">21</span>The same came therefore to Philip, which was of Bethsaida
+  of Galilee, and desired him, saying, Sir, we would see Jesus. </p>
+id: JHN/12/21
+next:
+  id: JHN/12/22
+  number: '22'
+previous:
+  id: JHN/12/20
+  number: '20'
+reference: 'John 12:21'

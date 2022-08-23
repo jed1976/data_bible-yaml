@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1JN 5:12" class="v">12</span>He
+  that hath the Son hath life; <span class="add">and</span> he that hath not the
+  Son of God hath not life. </p>
+id: 1JN/5/12
+next:
+  id: 1JN/5/13
+  number: '13'
+previous:
+  id: 1JN/5/11
+  number: '11'
+reference: '1 John 5:12'

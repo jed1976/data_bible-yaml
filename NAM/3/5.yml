@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NAM 3:5"
+  class="v">5</span>Behold, I <span class="add">am</span> against thee, saith
+  the <span class="nd">LORD</span> of hosts; and I will discover thy skirts upon
+  thy face, and I will shew the nations thy nakedness, and the kingdoms thy
+  shame. </p>
+id: NAM/3/5
+next:
+  id: NAM/3/6
+  number: '6'
+previous:
+  id: NAM/3/4
+  number: '4'
+reference: 'Nahum 3:5'

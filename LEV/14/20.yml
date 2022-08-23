@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 14:20"
+  class="v">20</span>And the priest shall offer the burnt offering and the meat
+  offering upon the altar: and the priest shall make an atonement for him, and
+  he shall be clean.</p>
+id: LEV/14/20
+next:
+  id: LEV/14/21
+  number: '21'
+previous:
+  id: LEV/14/19
+  number: '19'
+reference: 'Leviticus 14:20'

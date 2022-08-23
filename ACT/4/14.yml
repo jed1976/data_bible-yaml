@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 4:14" class="v">14</span>And
+  beholding the man which was healed standing with them, they could say nothing
+  against it. </p>
+id: ACT/4/14
+next:
+  id: ACT/4/15
+  number: '15'
+previous:
+  id: ACT/4/13
+  number: '13'
+reference: 'Acts 4:14'

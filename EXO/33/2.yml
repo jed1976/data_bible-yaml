@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 33:2" class="v">2</span>And I
+  will send an angel before thee; and I will drive out the Canaanite, the
+  Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
+  </p>
+id: EXO/33/2
+next:
+  id: EXO/33/3
+  number: '3'
+previous:
+  id: EXO/33/1
+  number: '1'
+reference: 'Exodus 33:2'

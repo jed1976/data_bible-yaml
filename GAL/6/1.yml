@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GAL 6:1"
+  class="v">1</span>Brethren, if a man be overtaken in a fault, ye which are
+  spiritual, restore such an one in the spirit of meekness; considering thyself,
+  lest thou also be tempted. </p>
+id: GAL/6/1
+next:
+  id: GAL/6/2
+  number: '2'
+previous:
+  id: GAL/5/26
+  number: '26'
+reference: 'Galatians 6:1'

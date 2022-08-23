@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 9:33"
+  class="v">33</span>Neither is there any daysman betwixt us, <span
+  class="add">that</span> might lay his hand upon us both. </p>
+id: JOB/9/33
+next:
+  id: JOB/9/34
+  number: '34'
+previous:
+  id: JOB/9/32
+  number: '32'
+reference: 'Job 9:33'

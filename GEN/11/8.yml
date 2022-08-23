@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 11:8" class="v">8</span>So
+  the <span class="nd">LORD</span> scattered them abroad from thence upon the
+  face of all the earth: and they left off to build the city. </p>
+id: GEN/11/8
+next:
+  id: GEN/11/9
+  number: '9'
+previous:
+  id: GEN/11/7
+  number: '7'
+reference: 'Genesis 11:8'

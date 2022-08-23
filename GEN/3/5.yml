@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 3:5" class="v">5</span>For
+  God doth know that in the day ye eat thereof, then your eyes shall be opened,
+  and ye shall be as gods, knowing good and evil.</p>
+id: GEN/3/5
+next:
+  id: GEN/3/6
+  number: '6'
+previous:
+  id: GEN/3/4
+  number: '4'
+reference: 'Genesis 3:5'

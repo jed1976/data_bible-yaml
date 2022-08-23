@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 19:22" class="v">22</span>¶
+  <span class="add">Now</span> as they were making their hearts merry, behold,
+  the men of the city, certain sons of Belial, beset the house round about,
+  <span class="add">and</span> beat at the door, and spake to the master of the
+  house, the old man, saying, Bring forth the man that came into thine house,
+  that we may know him. </p>
+id: JDG/19/22
+next:
+  id: JDG/19/23
+  number: '23'
+previous:
+  id: JDG/19/21
+  number: '21'
+reference: 'Judges 19:22'

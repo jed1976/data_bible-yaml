@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 10:19"
+  class="v">19</span>And the <span class="nd">LORD</span> turned a mighty strong
+  west wind, which took away the locusts, and cast them into the Red sea; there
+  remained not one locust in all the coasts of Egypt. </p>
+id: EXO/10/19
+next:
+  id: EXO/10/20
+  number: '20'
+previous:
+  id: EXO/10/18
+  number: '18'
+reference: 'Exodus 10:19'

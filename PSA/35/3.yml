@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 35:3" class="v">3</span>Draw
+  out also the spear, and stop <span class="add">the way</span> against them
+  that persecute me: say unto my soul, I <span class="add">am</span> thy
+  salvation.</p>
+id: PSA/35/3
+next:
+  id: PSA/35/4
+  number: '4'
+previous:
+  id: PSA/35/2
+  number: '2'
+reference: 'Psalms 35:3'

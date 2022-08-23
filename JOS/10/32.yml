@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 10:32"
+  class="v">32</span>And the <span class="nd">LORD</span> delivered Lachish into
+  the hand of Israel, which took it on the second day, and smote it with the
+  edge of the sword, and all the souls that <span class="add">were</span>
+  therein, according to all that he had done to Libnah.</p>
+id: JOS/10/32
+next:
+  id: JOS/10/33
+  number: '33'
+previous:
+  id: JOS/10/31
+  number: '31'
+reference: 'Joshua 10:32'

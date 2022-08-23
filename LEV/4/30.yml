@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 4:30" class="v">30</span>And
+  the priest shall take of the blood thereof with his finger, and put <span
+  class="add">it</span> upon the horns of the altar of burnt offering, and shall
+  pour out all the blood thereof at the bottom of the altar. </p>
+id: LEV/4/30
+next:
+  id: LEV/4/31
+  number: '31'
+previous:
+  id: LEV/4/29
+  number: '29'
+reference: 'Leviticus 4:30'

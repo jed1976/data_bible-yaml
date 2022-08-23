@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 9:16" class="v">16</span>And
+  in very deed for this <span class="add">cause</span> have I raised thee up,
+  for to shew <span class="add">in</span> thee my power; and that my name may be
+  declared throughout all the earth. </p>
+id: EXO/9/16
+next:
+  id: EXO/9/17
+  number: '17'
+previous:
+  id: EXO/9/15
+  number: '15'
+reference: 'Exodus 9:16'

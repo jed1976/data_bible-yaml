@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth, A Psalm <span
+  class="add">or</span> Song.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 67:1" class="v">1</span>God be merciful unto us, and bless us;
+  <span class="add">and</span> cause his face to shine upon us; Selah.</p>
+id: PSA/67/1
+next:
+  id: PSA/67/2
+  number: '2'
+previous:
+  id: PSA/66/20
+  number: '20'
+reference: 'Psalms 67:1'

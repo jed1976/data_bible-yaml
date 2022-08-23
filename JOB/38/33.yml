@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 38:33"
+  class="v">33</span>Knowest thou the ordinances of heaven? canst thou set the
+  dominion thereof in the earth? </p>
+id: JOB/38/33
+next:
+  id: JOB/38/34
+  number: '34'
+previous:
+  id: JOB/38/32
+  number: '32'
+reference: 'Job 38:33'

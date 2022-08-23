@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LEV 25:40"
+  class="v">40</span><span class="add">But</span> as an hired servant, <span
+  class="add">and</span> as a sojourner, he shall be with thee, <span
+  class="add">and</span> shall serve thee unto the year of jubile: </p>
+id: LEV/25/40
+next:
+  id: LEV/25/41
+  number: '41'
+previous:
+  id: LEV/25/39
+  number: '39'
+reference: 'Leviticus 25:40'

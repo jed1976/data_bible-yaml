@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 19:19" class="v">19</span>In
+  that day shall there be an altar to the <span class="nd">LORD</span> in the
+  midst of the land of Egypt, and a pillar at the border thereof to the <span
+  class="nd">LORD</span>. </p>
+id: ISA/19/19
+next:
+  id: ISA/19/20
+  number: '20'
+previous:
+  id: ISA/19/18
+  number: '18'
+reference: 'Isaiah 19:19'

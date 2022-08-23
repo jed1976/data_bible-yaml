@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 12:24"
+  class="v">24</span>Thou shalt not eat it; thou shalt pour it upon the earth as
+  water. </p>
+id: DEU/12/24
+next:
+  id: DEU/12/25
+  number: '25'
+previous:
+  id: DEU/12/23
+  number: '23'
+reference: 'Deuteronomy 12:24'

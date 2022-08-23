@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 25:33"
+  class="v">33</span>Three bowls made like unto almonds, <span
+  class="add">with</span> a knop and a flower in one branch; and three bowls
+  made like almonds in the other branch, <span class="add">with</span> a knop
+  and a flower: so in the six branches that come out of the candlestick. </p>
+id: EXO/25/33
+next:
+  id: EXO/25/34
+  number: '34'
+previous:
+  id: EXO/25/32
+  number: '32'
+reference: 'Exodus 25:33'

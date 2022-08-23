@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 20:13"
+  class="v">13</span>And when the <span class="nd">LORD</span> thy God hath
+  delivered it into thine hands, thou shalt smite every male thereof with the
+  edge of the sword: </p>
+id: DEU/20/13
+next:
+  id: DEU/20/14
+  number: '14'
+previous:
+  id: DEU/20/12
+  number: '12'
+reference: 'Deuteronomy 20:13'

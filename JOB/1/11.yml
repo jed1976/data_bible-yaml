@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 1:11" class="v">11</span>But
+  put forth thine hand now, and touch all that he hath, and he will curse thee
+  to thy face. </p>
+id: JOB/1/11
+next:
+  id: JOB/1/12
+  number: '12'
+previous:
+  id: JOB/1/10
+  number: '10'
+reference: 'Job 1:11'

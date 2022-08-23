@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 20:16"
+  class="v">16</span>Among all this people <span class="add">there were</span>
+  seven hundred chosen men lefthanded; every one could sling stones at an hair
+  <span class="add">breadth</span>, and not miss. </p>
+id: JDG/20/16
+next:
+  id: JDG/20/17
+  number: '17'
+previous:
+  id: JDG/20/15
+  number: '15'
+reference: 'Judges 20:16'

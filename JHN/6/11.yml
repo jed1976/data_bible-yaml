@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 6:11" class="v">11</span>And
+  Jesus took the loaves; and when he had given thanks, he distributed to the
+  disciples, and the disciples to them that were set down; and likewise of the
+  fishes as much as they would. </p>
+id: JHN/6/11
+next:
+  id: JHN/6/12
+  number: '12'
+previous:
+  id: JHN/6/10
+  number: '10'
+reference: 'John 6:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 39:27"
+  class="v">27</span>Doth the eagle mount up at thy command, and make her nest
+  on high? </p>
+id: JOB/39/27
+next:
+  id: JOB/39/28
+  number: '28'
+previous:
+  id: JOB/39/26
+  number: '26'
+reference: 'Job 39:27'

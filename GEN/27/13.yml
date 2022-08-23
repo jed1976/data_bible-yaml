@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 27:13"
+  class="v">13</span>And his mother said unto him, Upon me <span
+  class="add">be</span> thy curse, my son: only obey my voice, and go fetch me
+  <span class="add">them</span>. </p>
+id: GEN/27/13
+next:
+  id: GEN/27/14
+  number: '14'
+previous:
+  id: GEN/27/12
+  number: '12'
+reference: 'Genesis 27:13'

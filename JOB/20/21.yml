@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 20:21"
+  class="v">21</span>There shall none of his meat be left; therefore shall no
+  man look for his goods. </p>
+id: JOB/20/21
+next:
+  id: JOB/20/22
+  number: '22'
+previous:
+  id: JOB/20/20
+  number: '20'
+reference: 'Job 20:21'

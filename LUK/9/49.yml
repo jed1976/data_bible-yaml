@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LUK 9:49" class="v">49</span>¶
+  And John answered and said, Master, we saw one casting out devils in thy name;
+  and we forbad him, because he followeth not with us. </p>
+id: LUK/9/49
+next:
+  id: LUK/9/50
+  number: '50'
+previous:
+  id: LUK/9/48
+  number: '48'
+reference: 'Luke 9:49'

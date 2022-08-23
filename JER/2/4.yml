@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 2:4" class="v">4</span>Hear
+  ye the word of the <span class="nd">LORD</span>, O house of Jacob, and all the
+  families of the house of Israel:</p>
+id: JER/2/4
+next:
+  id: JER/2/5
+  number: '5'
+previous:
+  id: JER/2/3
+  number: '3'
+reference: 'Jeremiah 2:4'

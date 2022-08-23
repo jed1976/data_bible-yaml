@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 5:1" class="v">1</span>Run ye
+  to and fro through the streets of Jerusalem, and see now, and know, and seek
+  in the broad places thereof, if ye can find a man, if there be <span
+  class="add">any</span> that executeth judgment, that seeketh the truth; and I
+  will pardon it. </p>
+id: JER/5/1
+next:
+  id: JER/5/2
+  number: '2'
+previous:
+  id: JER/4/31
+  number: '31'
+reference: 'Jeremiah 5:1'

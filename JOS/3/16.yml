@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 3:16"
+  class="v">16</span>That the waters which came down from above stood <span
+  class="add">and</span> rose up upon an heap very far from the city Adam, that
+  <span class="add">is</span> beside Zaretan: and those that came down toward
+  the sea of the plain, <span class="add">even</span> the salt sea, failed,
+  <span class="add">and</span> were cut off: and the people passed over right
+  against Jericho. </p>
+id: JOS/3/16
+next:
+  id: JOS/3/17
+  number: '17'
+previous:
+  id: JOS/3/15
+  number: '15'
+reference: 'Joshua 3:16'

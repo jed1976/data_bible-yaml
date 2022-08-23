@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 7:10" class="v">10</span>And
+  the commandment, which <span class="add">was ordained</span> to life, I found
+  <span class="add">to be</span> unto death. </p>
+id: ROM/7/10
+next:
+  id: ROM/7/11
+  number: '11'
+previous:
+  id: ROM/7/9
+  number: '9'
+reference: 'Romans 7:10'

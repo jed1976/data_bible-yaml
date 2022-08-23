@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JAS 1:15"
+  class="v">15</span>Then when lust hath conceived, it bringeth forth sin: and
+  sin, when it is finished, bringeth forth death. </p>
+id: JAS/1/15
+next:
+  id: JAS/1/16
+  number: '16'
+previous:
+  id: JAS/1/14
+  number: '14'
+reference: 'James 1:15'

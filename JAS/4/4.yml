@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JAS 4:4" class="v">4</span>Ye
+  adulterers and adulteresses, know ye not that the friendship of the world is
+  enmity with God? whosoever therefore will be a friend of the world is the
+  enemy of God. </p>
+id: JAS/4/4
+next:
+  id: JAS/4/5
+  number: '5'
+previous:
+  id: JAS/4/3
+  number: '3'
+reference: 'James 4:4'

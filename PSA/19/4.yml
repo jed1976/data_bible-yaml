@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 19:4"
+  class="v">4</span>Their line is gone out through all the earth, and their
+  words to the end of the world. In them hath he set a tabernacle for the
+  sun,</p>
+id: PSA/19/4
+next:
+  id: PSA/19/5
+  number: '5'
+previous:
+  id: PSA/19/3
+  number: '3'
+reference: 'Psalms 19:4'

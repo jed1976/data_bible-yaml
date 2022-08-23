@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 43:1"
+  class="v">1</span>Judge me, O God, and plead my cause against an ungodly
+  nation: O deliver me from the deceitful and unjust man.</p>
+id: PSA/43/1
+next:
+  id: PSA/43/2
+  number: '2'
+previous:
+  id: PSA/42/11
+  number: '11'
+reference: 'Psalms 43:1'

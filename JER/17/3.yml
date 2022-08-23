@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 17:3" class="v">3</span>O my
+  mountain in the field, I will give thy substance <span class="add">and</span>
+  all thy treasures to the spoil, <span class="add">and</span> thy high places
+  for sin, throughout all thy borders. </p>
+id: JER/17/3
+next:
+  id: JER/17/4
+  number: '4'
+previous:
+  id: JER/17/2
+  number: '2'
+reference: 'Jeremiah 17:3'

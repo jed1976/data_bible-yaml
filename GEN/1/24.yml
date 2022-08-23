@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 1:24" class="v">24</span>¶
+  And God said, Let the earth bring forth the living creature after his kind,
+  cattle, and creeping thing, and beast of the earth after his kind: and it was
+  so. </p>
+id: GEN/1/24
+next:
+  id: GEN/1/25
+  number: '25'
+previous:
+  id: GEN/1/23
+  number: '23'
+reference: 'Genesis 1:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 18:11"
+  class="v">11</span>And Joab said unto the man that told him, And, behold, thou
+  sawest <span class="add">him</span>, and why didst thou not smite him there to
+  the ground? and I would have given thee ten <span class="add">shekels</span>
+  of silver, and a girdle. </p>
+id: 2SA/18/11
+next:
+  id: 2SA/18/12
+  number: '12'
+previous:
+  id: 2SA/18/10
+  number: '10'
+reference: '2 Samuel 18:11'

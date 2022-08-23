@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="1SA 14:43"
+  class="v">43</span>Then Saul said to Jonathan, Tell me what thou hast done.
+  And Jonathan told him, and said, I did but taste a little honey with the end
+  of the rod that <span class="add">was</span> in mine hand, <span
+  class="add">and</span>, lo, I must die. </p>
+id: 1SA/14/43
+next:
+  id: 1SA/14/44
+  number: '44'
+previous:
+  id: 1SA/14/42
+  number: '42'
+reference: '1 Samuel 14:43'

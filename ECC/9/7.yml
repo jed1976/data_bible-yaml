@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 9:7" class="v">7</span>¶ Go
+  thy way, eat thy bread with joy, and drink thy wine with a merry heart; for
+  God now accepteth thy works. </p>
+id: ECC/9/7
+next:
+  id: ECC/9/8
+  number: '8'
+previous:
+  id: ECC/9/6
+  number: '6'
+reference: 'Ecclesiastes 9:7'

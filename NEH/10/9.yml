@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 10:9" class="v">9</span>And
+  the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad,
+  Kadmiel; </p>
+id: NEH/10/9
+next:
+  id: NEH/10/10
+  number: '10'
+previous:
+  id: NEH/10/8
+  number: '8'
+reference: 'Nehemiah 10:9'

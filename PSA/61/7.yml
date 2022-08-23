@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 61:7" class="v">7</span>He
+  shall abide before God for ever: O prepare mercy and truth, <span
+  class="add">which</span> may preserve him.</p>
+id: PSA/61/7
+next:
+  id: PSA/61/8
+  number: '8'
+previous:
+  id: PSA/61/6
+  number: '6'
+reference: 'Psalms 61:7'

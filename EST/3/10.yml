@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EST 3:10" class="v">10</span>And
+  the king took his ring from his hand, and gave it unto Haman the son of
+  Hammedatha the Agagite, the Jews’ enemy. </p>
+id: EST/3/10
+next:
+  id: EST/3/11
+  number: '11'
+previous:
+  id: EST/3/9
+  number: '9'
+reference: 'Esther 3:10'

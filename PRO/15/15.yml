@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 15:15"
+  class="v">15</span>All the days of the afflicted <span class="add">are</span>
+  evil: but he that is of a merry heart <span class="add">hath</span> a
+  continual feast.</p>
+id: PRO/15/15
+next:
+  id: PRO/15/16
+  number: '16'
+previous:
+  id: PRO/15/14
+  number: '14'
+reference: 'Proverbs 15:15'

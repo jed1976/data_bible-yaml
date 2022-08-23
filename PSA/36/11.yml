@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 36:11"
+  class="v">11</span>Let not the foot of pride come against me, and let not the
+  hand of the wicked remove me.</p>
+id: PSA/36/11
+next:
+  id: PSA/36/12
+  number: '12'
+previous:
+  id: PSA/36/10
+  number: '10'
+reference: 'Psalms 36:11'

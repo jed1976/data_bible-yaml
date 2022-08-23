@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 19:30"
+  class="v">30</span>And when Paul would have entered in unto the people, the
+  disciples suffered him not. </p>
+id: ACT/19/30
+next:
+  id: ACT/19/31
+  number: '31'
+previous:
+  id: ACT/19/29
+  number: '29'
+reference: 'Acts 19:30'

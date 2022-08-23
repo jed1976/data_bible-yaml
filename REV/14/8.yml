@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="REV 14:8" class="v">8</span>And
+  there followed another angel, saying, Babylon is fallen, is fallen, that great
+  city, because she made all nations drink of the wine of the wrath of her
+  fornication. </p>
+id: REV/14/8
+next:
+  id: REV/14/9
+  number: '9'
+previous:
+  id: REV/14/7
+  number: '7'
+reference: 'Revelation 14:8'

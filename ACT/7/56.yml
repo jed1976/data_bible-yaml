@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="ACT 7:56" class="v">56</span>And
+  said, Behold, I see the heavens opened, and the Son of man standing on the
+  right hand of God. </p>
+id: ACT/7/56
+next:
+  id: ACT/7/57
+  number: '57'
+previous:
+  id: ACT/7/55
+  number: '55'
+reference: 'Acts 7:56'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="HEB 9:22" class="v">22</span>And
+  almost all things are by the law purged with blood; and without shedding of
+  blood is no remission. </p>
+id: HEB/9/22
+next:
+  id: HEB/9/23
+  number: '23'
+previous:
+  id: HEB/9/21
+  number: '21'
+reference: 'Hebrews 9:22'

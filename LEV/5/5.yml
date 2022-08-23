@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 5:5" class="v">5</span>And it
+  shall be, when he shall be guilty in one of these <span
+  class="add">things</span>, that he shall confess that he hath sinned in that
+  <span class="add">thing:</span> </p>
+id: LEV/5/5
+next:
+  id: LEV/5/6
+  number: '6'
+previous:
+  id: LEV/5/4
+  number: '4'
+reference: 'Leviticus 5:5'

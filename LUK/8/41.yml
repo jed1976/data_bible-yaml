@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 8:41" class="v">41</span>¶
+  And, behold, there came a man named Jairus, and he was a ruler of the
+  synagogue: and he fell down at Jesus’ feet, and besought him that he would
+  come into his house: </p>
+id: LUK/8/41
+next:
+  id: LUK/8/42
+  number: '42'
+previous:
+  id: LUK/8/40
+  number: '40'
+reference: 'Luke 8:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 19:16"
+  class="v">16</span>And whosoever toucheth one that is slain with a sword in
+  the open fields, or a dead body, or a bone of a man, or a grave, shall be
+  unclean seven days. </p>
+id: NUM/19/16
+next:
+  id: NUM/19/17
+  number: '17'
+previous:
+  id: NUM/19/15
+  number: '15'
+reference: 'Numbers 19:16'

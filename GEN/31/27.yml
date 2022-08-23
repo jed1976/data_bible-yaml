@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 31:27"
+  class="v">27</span>Wherefore didst thou flee away secretly, and steal away
+  from me; and didst not tell me, that I might have sent thee away with mirth,
+  and with songs, with tabret, and with harp? </p>
+id: GEN/31/27
+next:
+  id: GEN/31/28
+  number: '28'
+previous:
+  id: GEN/31/26
+  number: '26'
+reference: 'Genesis 31:27'

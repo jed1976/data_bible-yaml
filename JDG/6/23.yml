@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 6:23" class="v">23</span>And
+  the <span class="nd">LORD</span> said unto him, Peace <span
+  class="add">be</span> unto thee; fear not: thou shalt not die. </p>
+id: JDG/6/23
+next:
+  id: JDG/6/24
+  number: '24'
+previous:
+  id: JDG/6/22
+  number: '22'
+reference: 'Judges 6:23'

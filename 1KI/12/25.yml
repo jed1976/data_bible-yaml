@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 12:25" class="v">25</span>¶
+  Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out
+  from thence, and built Penuel. </p>
+id: 1KI/12/25
+next:
+  id: 1KI/12/26
+  number: '26'
+previous:
+  id: 1KI/12/24
+  number: '24'
+reference: '1 Kings 12:25'

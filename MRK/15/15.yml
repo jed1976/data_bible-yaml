@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 15:15" class="v">15</span>¶
+  And <span class="add">so</span> Pilate, willing to content the people,
+  released Barabbas unto them, and delivered Jesus, when he had scourged <span
+  class="add">him</span>, to be crucified. </p>
+id: MRK/15/15
+next:
+  id: MRK/15/16
+  number: '16'
+previous:
+  id: MRK/15/14
+  number: '14'
+reference: 'Mark 15:15'

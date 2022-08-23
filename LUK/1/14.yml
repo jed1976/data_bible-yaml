@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 1:14" class="v">14</span>And
+  thou shalt have joy and gladness; and many shall rejoice at his birth. </p>
+id: LUK/1/14
+next:
+  id: LUK/1/15
+  number: '15'
+previous:
+  id: LUK/1/13
+  number: '13'
+reference: 'Luke 1:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 9:10" class="v">10</span>The
+  bricks are fallen down, but we will build with hewn stones: the sycomores are
+  cut down, but we will change <span class="add">them into</span> cedars. </p>
+id: ISA/9/10
+next:
+  id: ISA/9/11
+  number: '11'
+previous:
+  id: ISA/9/9
+  number: '9'
+reference: 'Isaiah 9:10'

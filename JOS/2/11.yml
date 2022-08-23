@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 2:11" class="v">11</span>And
+  as soon as we had heard <span class="add">these things</span>, our hearts did
+  melt, neither did there remain any more courage in any man, because of you:
+  for the <span class="nd">LORD</span> your God, he <span class="add">is</span>
+  God in heaven above, and in earth beneath. </p>
+id: JOS/2/11
+next:
+  id: JOS/2/12
+  number: '12'
+previous:
+  id: JOS/2/10
+  number: '10'
+reference: 'Joshua 2:11'

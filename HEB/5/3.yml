@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 5:3" class="v">3</span>And by
+  reason hereof he ought, as for the people, so also for himself, to offer for
+  sins. </p>
+id: HEB/5/3
+next:
+  id: HEB/5/4
+  number: '4'
+previous:
+  id: HEB/5/2
+  number: '2'
+reference: 'Hebrews 5:3'

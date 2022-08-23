@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 6:20"
+  class="v">20</span>This <span class="add">is</span> the offering of Aaron and
+  of his sons, which they shall offer unto the <span class="nd">LORD</span> in
+  the day when he is anointed; the tenth part of an ephah of fine flour for a
+  meat offering perpetual, half of it in the morning, and half thereof at night.
+  </p>
+id: LEV/6/20
+next:
+  id: LEV/6/21
+  number: '21'
+previous:
+  id: LEV/6/19
+  number: '19'
+reference: 'Leviticus 6:20'

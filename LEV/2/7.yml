@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 2:7" class="v">7</span>¶ And
+  if thy oblation <span class="add">be</span> a meat offering <span
+  class="add">baken</span> in the fryingpan, it shall be made <span
+  class="add">of</span> fine flour with oil. </p>
+id: LEV/2/7
+next:
+  id: LEV/2/8
+  number: '8'
+previous:
+  id: LEV/2/6
+  number: '6'
+reference: 'Leviticus 2:7'

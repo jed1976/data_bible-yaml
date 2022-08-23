@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 21:24"
+  class="v">24</span>And Jesus answered and said unto them, <span class="wj">I
+  also will ask you one thing, which if ye tell me, I in like wise will tell you
+  by what authority I do these things.</span> </p>
+id: MAT/21/24
+next:
+  id: MAT/21/25
+  number: '25'
+previous:
+  id: MAT/21/23
+  number: '23'
+reference: 'Matthew 21:24'

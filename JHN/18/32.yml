@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 18:32"
+  class="v">32</span>That the saying of Jesus might be fulfilled, which he
+  spake, signifying what death he should die. </p>
+id: JHN/18/32
+next:
+  id: JHN/18/33
+  number: '33'
+previous:
+  id: JHN/18/31
+  number: '31'
+reference: 'John 18:32'

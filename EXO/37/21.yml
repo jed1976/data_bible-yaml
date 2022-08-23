@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 37:21"
+  class="v">21</span>And a knop under two branches of the same, and a knop under
+  two branches of the same, and a knop under two branches of the same, according
+  to the six branches going out of it. </p>
+id: EXO/37/21
+next:
+  id: EXO/37/22
+  number: '22'
+previous:
+  id: EXO/37/20
+  number: '20'
+reference: 'Exodus 37:21'

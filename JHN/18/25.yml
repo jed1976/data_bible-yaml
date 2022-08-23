@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 18:25"
+  class="v">25</span>And Simon Peter stood and warmed himself. They said
+  therefore unto him, Art not thou also <span class="add">one</span> of his
+  disciples? He denied <span class="add">it</span>, and said, I am not. </p>
+id: JHN/18/25
+next:
+  id: JHN/18/26
+  number: '26'
+previous:
+  id: JHN/18/24
+  number: '24'
+reference: 'John 18:25'

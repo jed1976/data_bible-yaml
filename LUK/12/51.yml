@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="LUK 12:51"
+  class="v">51</span><span class="wj">Suppose ye that I am come to give peace on
+  earth? I tell you, Nay; but rather division:</span> </p>
+id: LUK/12/51
+next:
+  id: LUK/12/52
+  number: '52'
+previous:
+  id: LUK/12/50
+  number: '50'
+reference: 'Luke 12:51'

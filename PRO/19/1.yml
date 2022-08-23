@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 19:1"
+  class="v">1</span>Better <span class="add">is</span> the poor that walketh in
+  his integrity, than <span class="add">he that is</span> perverse in his lips,
+  and is a fool. </p>
+id: PRO/19/1
+next:
+  id: PRO/19/2
+  number: '2'
+previous:
+  id: PRO/18/24
+  number: '24'
+reference: 'Proverbs 19:1'

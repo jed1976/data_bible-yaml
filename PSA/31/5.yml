@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 31:5" class="v">5</span>Into
+  thine hand I commit my spirit: thou hast redeemed me, O <span
+  class="nd">LORD</span> God of truth.</p>
+id: PSA/31/5
+next:
+  id: PSA/31/6
+  number: '6'
+previous:
+  id: PSA/31/4
+  number: '4'
+reference: 'Psalms 31:5'

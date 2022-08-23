@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 34:15"
+  class="v">15</span>The two tribes and the half tribe have received their
+  inheritance on this side Jordan <span class="add">near</span> Jericho
+  eastward, toward the sunrising.</p>
+id: NUM/34/15
+next:
+  id: NUM/34/16
+  number: '16'
+previous:
+  id: NUM/34/14
+  number: '14'
+reference: 'Numbers 34:15'

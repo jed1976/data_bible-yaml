@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 36:8" class="v">8</span>¶ And
+  every wise hearted man among them that wrought the work of the tabernacle made
+  ten curtains <span class="add">of</span> fine twined linen, and blue, and
+  purple, and scarlet: <span class="add">with</span> cherubims of cunning work
+  made he them. </p>
+id: EXO/36/8
+next:
+  id: EXO/36/9
+  number: '9'
+previous:
+  id: EXO/36/7
+  number: '7'
+reference: 'Exodus 36:8'

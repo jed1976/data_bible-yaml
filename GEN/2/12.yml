@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 2:12" class="v">12</span>And
+  the gold of that land <span class="add">is</span> good: there <span
+  class="add">is</span> bdellium and the onyx stone. </p>
+id: GEN/2/12
+next:
+  id: GEN/2/13
+  number: '13'
+previous:
+  id: GEN/2/11
+  number: '11'
+reference: 'Genesis 2:12'

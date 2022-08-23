@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EZR 4:14" class="v">14</span>Now
+  because we have maintenance from <span class="add">the king’s</span> palace,
+  and it was not meet for us to see the king’s dishonour, therefore have we sent
+  and certified the king; </p>
+id: EZR/4/14
+next:
+  id: EZR/4/15
+  number: '15'
+previous:
+  id: EZR/4/13
+  number: '13'
+reference: 'Ezra 4:14'

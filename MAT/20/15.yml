@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 20:15"
+  class="v">15</span><span class="wj">Is it not lawful for me to do what I will
+  with mine own? Is thine eye evil, because I am good?</span> </p>
+id: MAT/20/15
+next:
+  id: MAT/20/16
+  number: '16'
+previous:
+  id: MAT/20/14
+  number: '14'
+reference: 'Matthew 20:15'

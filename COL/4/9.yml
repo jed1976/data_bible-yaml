@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="COL 4:9" class="v">9</span>With
+  Onesimus, a faithful and beloved brother, who is <span class="add">one</span>
+  of you. They shall make known unto you all things which <span class="add">are
+  done</span> here.</p>
+id: COL/4/9
+next:
+  id: COL/4/10
+  number: '10'
+previous:
+  id: COL/4/8
+  number: '8'
+reference: 'Colossians 4:9'

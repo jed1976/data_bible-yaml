@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 4:8" class="v">8</span>For if
+  Jesus had given them rest, then would he not afterward have spoken of another
+  day. </p>
+id: HEB/4/8
+next:
+  id: HEB/4/9
+  number: '9'
+previous:
+  id: HEB/4/7
+  number: '7'
+reference: 'Hebrews 4:8'

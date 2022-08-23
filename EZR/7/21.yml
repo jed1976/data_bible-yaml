@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZR 7:21" class="v">21</span>And
+  I, <span class="add">even</span> I Artaxerxes the king, do make a decree to
+  all the treasurers which <span class="add">are</span> beyond the river, that
+  whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall
+  require of you, it be done speedily, </p>
+id: EZR/7/21
+next:
+  id: EZR/7/22
+  number: '22'
+previous:
+  id: EZR/7/20
+  number: '20'
+reference: 'Ezra 7:21'

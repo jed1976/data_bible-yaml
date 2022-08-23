@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CH 12:33" class="v">33</span>Of
+  Zebulun, such as went forth to battle, expert in war, with all instruments of
+  war, fifty thousand, which could keep rank: <span class="add">they were</span>
+  not of double heart. </p>
+id: 1CH/12/33
+next:
+  id: 1CH/12/34
+  number: '34'
+previous:
+  id: 1CH/12/32
+  number: '32'
+reference: '1 Chronicles 12:33'

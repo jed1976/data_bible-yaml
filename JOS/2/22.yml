@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOS 2:22" class="v">22</span>And
+  they went, and came unto the mountain, and abode there three days, until the
+  pursuers were returned: and the pursuers sought <span class="add">them</span>
+  throughout all the way, but found <span class="add">them</span> not.</p>
+id: JOS/2/22
+next:
+  id: JOS/2/23
+  number: '23'
+previous:
+  id: JOS/2/21
+  number: '21'
+reference: 'Joshua 2:22'

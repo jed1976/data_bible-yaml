@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 17:20" class="v">20</span>¶
+  And when he was demanded of the Pharisees, when the kingdom of God should
+  come, he answered them and said, <span class="wj">The kingdom of God cometh
+  not with observation:</span> </p>
+id: LUK/17/20
+next:
+  id: LUK/17/21
+  number: '21'
+previous:
+  id: LUK/17/19
+  number: '19'
+reference: 'Luke 17:20'

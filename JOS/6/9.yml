@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 6:9" class="v">9</span>¶ And
+  the armed men went before the priests that blew with the trumpets, and the
+  rereward came after the ark, <span class="add">the priests</span> going on,
+  and blowing with the trumpets. </p>
+id: JOS/6/9
+next:
+  id: JOS/6/10
+  number: '10'
+previous:
+  id: JOS/6/8
+  number: '8'
+reference: 'Joshua 6:9'

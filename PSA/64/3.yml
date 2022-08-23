@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 64:3" class="v">3</span>Who
+  whet their tongue like a sword, <span class="add">and</span> bend <span
+  class="add">their bows to shoot</span> their arrows, <span
+  class="add">even</span> bitter words:</p>
+id: PSA/64/3
+next:
+  id: PSA/64/4
+  number: '4'
+previous:
+  id: PSA/64/2
+  number: '2'
+reference: 'Psalms 64:3'

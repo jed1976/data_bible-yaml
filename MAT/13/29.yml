@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 13:29"
+  class="v">29</span><span class="wj">But he said, Nay; lest while ye gather up
+  the tares, ye root up also the wheat with them.</span> </p>
+id: MAT/13/29
+next:
+  id: MAT/13/30
+  number: '30'
+previous:
+  id: MAT/13/28
+  number: '28'
+reference: 'Matthew 13:29'

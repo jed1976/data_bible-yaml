@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 2:12" class="v">12</span>¶
+  And Abner the son of Ner, and the servants of Ish-bosheth the son of Saul,
+  went out from Mahanaim to Gibeon. </p>
+id: 2SA/2/12
+next:
+  id: 2SA/2/13
+  number: '13'
+previous:
+  id: 2SA/2/11
+  number: '11'
+reference: '2 Samuel 2:12'

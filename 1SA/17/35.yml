@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="1SA 17:35"
+  class="v">35</span>And I went out after him, and smote him, and delivered
+  <span class="add">it</span> out of his mouth: and when he arose against me, I
+  caught <span class="add">him</span> by his beard, and smote him, and slew him.
+  </p>
+id: 1SA/17/35
+next:
+  id: 1SA/17/36
+  number: '36'
+previous:
+  id: 1SA/17/34
+  number: '34'
+reference: '1 Samuel 17:35'

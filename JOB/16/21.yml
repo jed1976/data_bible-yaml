@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 16:21" class="v">21</span>O
+  that one might plead for a man with God, as a man <span
+  class="add">pleadeth</span> for his neighbour! </p>
+id: JOB/16/21
+next:
+  id: JOB/16/22
+  number: '22'
+previous:
+  id: JOB/16/20
+  number: '20'
+reference: 'Job 16:21'

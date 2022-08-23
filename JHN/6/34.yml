@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 6:34"
+  class="v">34</span>Then said they unto him, Lord, evermore give us this bread.
+  </p>
+id: JHN/6/34
+next:
+  id: JHN/6/35
+  number: '35'
+previous:
+  id: JHN/6/33
+  number: '33'
+reference: 'John 6:34'

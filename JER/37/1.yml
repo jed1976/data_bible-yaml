@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 37:1" class="v">1</span>And
+  king Zedekiah the son of Josiah reigned instead of Coniah the son of
+  Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.
+  </p>
+id: JER/37/1
+next:
+  id: JER/37/2
+  number: '2'
+previous:
+  id: JER/36/32
+  number: '32'
+reference: 'Jeremiah 37:1'

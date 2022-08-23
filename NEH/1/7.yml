@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 1:7" class="v">7</span>We
+  have dealt very corruptly against thee, and have not kept the commandments,
+  nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
+  </p>
+id: NEH/1/7
+next:
+  id: NEH/1/8
+  number: '8'
+previous:
+  id: NEH/1/6
+  number: '6'
+reference: 'Nehemiah 1:7'

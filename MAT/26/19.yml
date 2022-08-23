@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 26:19"
+  class="v">19</span>And the disciples did as Jesus had appointed them; and they
+  made ready the passover. </p>
+id: MAT/26/19
+next:
+  id: MAT/26/20
+  number: '20'
+previous:
+  id: MAT/26/18
+  number: '18'
+reference: 'Matthew 26:19'

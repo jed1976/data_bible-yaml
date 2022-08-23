@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 11:1" class="v">1</span>Now a
+  certain <span class="add">man</span> was sick, <span class="add">named</span>
+  Lazarus, of Bethany, the town of Mary and her sister Martha. </p>
+id: JHN/11/1
+next:
+  id: JHN/11/2
+  number: '2'
+previous:
+  id: JHN/10/42
+  number: '42'
+reference: 'John 11:1'

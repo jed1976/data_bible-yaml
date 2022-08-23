@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 102:10"
+  class="v">10</span>Because of thine indignation and thy wrath: for thou hast
+  lifted me up, and cast me down.</p>
+id: PSA/102/10
+next:
+  id: PSA/102/11
+  number: '11'
+previous:
+  id: PSA/102/9
+  number: '9'
+reference: 'Psalms 102:10'

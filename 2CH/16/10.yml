@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 16:10"
+  class="v">10</span>Then Asa was wroth with the seer, and put him in a prison
+  house; for <span class="add">he was</span> in a rage with him because of this
+  <span class="add">thing</span>. And Asa oppressed <span
+  class="add">some</span> of the people the same time.</p>
+id: 2CH/16/10
+next:
+  id: 2CH/16/11
+  number: '11'
+previous:
+  id: 2CH/16/9
+  number: '9'
+reference: '2 Chronicles 16:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 10:7" class="v">7</span>And
+  when all the men of Israel that <span class="add">were</span> in the valley
+  saw that they fled, and that Saul and his sons were dead, then they forsook
+  their cities, and fled: and the Philistines came and dwelt in them.</p>
+id: 1CH/10/7
+next:
+  id: 1CH/10/8
+  number: '8'
+previous:
+  id: 1CH/10/6
+  number: '6'
+reference: '1 Chronicles 10:7'

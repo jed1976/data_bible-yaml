@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 9:10" class="v">10</span>And
+  shewedst signs and wonders upon Pharaoh, and on all his servants, and on all
+  the people of his land: for thou knewest that they dealt proudly against them.
+  So didst thou get thee a name, as <span class="add">it is</span> this day.
+  </p>
+id: NEH/9/10
+next:
+  id: NEH/9/11
+  number: '11'
+previous:
+  id: NEH/9/9
+  number: '9'
+reference: 'Nehemiah 9:10'

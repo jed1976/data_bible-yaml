@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PHP 2:1" class="v">1</span>If
+  <span class="add">there be</span> therefore any consolation in Christ, if any
+  comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
+  </p>
+id: PHP/2/1
+next:
+  id: PHP/2/2
+  number: '2'
+previous:
+  id: PHP/1/30
+  number: '30'
+reference: 'Philippians 2:1'

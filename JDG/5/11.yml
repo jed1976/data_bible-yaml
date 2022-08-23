@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 5:11"
+  class="v">11</span><span class="add">They that are delivered</span> from the
+  noise of archers in the places of drawing water, there shall they rehearse the
+  righteous acts of the <span class="nd">LORD</span>, <span
+  class="add">even</span> the righteous acts <span class="add">toward the
+  inhabitants</span> of his villages in Israel: then shall the people of the
+  <span class="nd">LORD</span> go down to the gates.</p>
+id: JDG/5/11
+next:
+  id: JDG/5/12
+  number: '12'
+previous:
+  id: JDG/5/10
+  number: '10'
+reference: 'Judges 5:11'

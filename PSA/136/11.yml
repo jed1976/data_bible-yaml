@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 136:11"
+  class="v">11</span>And brought out Israel from among them: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/11
+next:
+  id: PSA/136/12
+  number: '12'
+previous:
+  id: PSA/136/10
+  number: '10'
+reference: 'Psalms 136:11'

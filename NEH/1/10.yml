@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 1:10" class="v">10</span>Now
+  these <span class="add">are</span> thy servants and thy people, whom thou hast
+  redeemed by thy great power, and by thy strong hand. </p>
+id: NEH/1/10
+next:
+  id: NEH/1/11
+  number: '11'
+previous:
+  id: NEH/1/9
+  number: '9'
+reference: 'Nehemiah 1:10'

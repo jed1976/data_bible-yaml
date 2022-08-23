@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EZK 8:8" class="v">8</span>Then
+  said he unto me, Son of man, dig now in the wall: and when I had digged in the
+  wall, behold a door. </p>
+id: EZK/8/8
+next:
+  id: EZK/8/9
+  number: '9'
+previous:
+  id: EZK/8/7
+  number: '7'
+reference: 'Ezekiel 8:8'

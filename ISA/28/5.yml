@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 28:5" class="v">5</span>¶ In
+  that day shall the <span class="nd">LORD</span> of hosts be for a crown of
+  glory, and for a diadem of beauty, unto the residue of his people, </p>
+id: ISA/28/5
+next:
+  id: ISA/28/6
+  number: '6'
+previous:
+  id: ISA/28/4
+  number: '4'
+reference: 'Isaiah 28:5'

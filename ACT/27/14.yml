@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 27:14"
+  class="v">14</span>But not long after there arose against it a tempestuous
+  wind, called Euroclydon. </p>
+id: ACT/27/14
+next:
+  id: ACT/27/15
+  number: '15'
+previous:
+  id: ACT/27/13
+  number: '13'
+reference: 'Acts 27:14'

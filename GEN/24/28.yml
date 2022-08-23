@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 24:28"
+  class="v">28</span>And the damsel ran, and told <span class="add">them
+  of</span> her mother’s house these things.</p>
+id: GEN/24/28
+next:
+  id: GEN/24/29
+  number: '29'
+previous:
+  id: GEN/24/27
+  number: '27'
+reference: 'Genesis 24:28'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 33:5" class="v">5</span>The
+  <span class="nd">LORD</span> is exalted; for he dwelleth on high: he hath
+  filled Zion with judgment and righteousness. </p>
+id: ISA/33/5
+next:
+  id: ISA/33/6
+  number: '6'
+previous:
+  id: ISA/33/4
+  number: '4'
+reference: 'Isaiah 33:5'

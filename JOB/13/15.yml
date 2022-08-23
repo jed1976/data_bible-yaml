@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 13:15"
+  class="v">15</span>Though he slay me, yet will I trust in him: but I will
+  maintain mine own ways before him. </p>
+id: JOB/13/15
+next:
+  id: JOB/13/16
+  number: '16'
+previous:
+  id: JOB/13/14
+  number: '14'
+reference: 'Job 13:15'

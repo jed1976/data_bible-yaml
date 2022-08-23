@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HAG 2:3" class="v">3</span>Who
+  <span class="add">is</span> left among you that saw this house in her first
+  glory? and how do ye see it now? <span class="add">is it</span> not in your
+  eyes in comparison of it as nothing? </p>
+id: HAG/2/3
+next:
+  id: HAG/2/4
+  number: '4'
+previous:
+  id: HAG/2/2
+  number: '2'
+reference: 'Haggai 2:3'

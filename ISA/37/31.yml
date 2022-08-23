@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ISA 37:31"
+  class="v">31</span>And the remnant that is escaped of the house of Judah shall
+  again take root downward, and bear fruit upward: </p>
+id: ISA/37/31
+next:
+  id: ISA/37/32
+  number: '32'
+previous:
+  id: ISA/37/30
+  number: '30'
+reference: 'Isaiah 37:31'

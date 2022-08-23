@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 41:20"
+  class="v">20</span>Out of his nostrils goeth smoke, as <span
+  class="add">out</span> of a seething pot or caldron. </p>
+id: JOB/41/20
+next:
+  id: JOB/41/21
+  number: '21'
+previous:
+  id: JOB/41/19
+  number: '19'
+reference: 'Job 41:20'

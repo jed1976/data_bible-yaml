@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="SNG 5:15" class="v">15</span>His
+  legs <span class="add">are as</span> pillars of marble, set upon sockets of
+  fine gold: his countenance <span class="add">is</span> as Lebanon, excellent
+  as the cedars. </p>
+id: SNG/5/15
+next:
+  id: SNG/5/16
+  number: '16'
+previous:
+  id: SNG/5/14
+  number: '14'
+reference: 'Song of Solomon 5:15'

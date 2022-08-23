@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 9:18"
+  class="v">18</span>Therefore hath he mercy on whom he will <span
+  class="add">have mercy</span>, and whom he will he hardeneth. </p>
+id: ROM/9/18
+next:
+  id: ROM/9/19
+  number: '19'
+previous:
+  id: ROM/9/17
+  number: '17'
+reference: 'Romans 9:18'

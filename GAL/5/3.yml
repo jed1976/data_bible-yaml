@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GAL 5:3" class="v">3</span>For I
+  testify again to every man that is circumcised, that he is a debtor to do the
+  whole law. </p>
+id: GAL/5/3
+next:
+  id: GAL/5/4
+  number: '4'
+previous:
+  id: GAL/5/2
+  number: '2'
+reference: 'Galatians 5:3'

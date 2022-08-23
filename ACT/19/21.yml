@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 19:21" class="v">21</span>¶
+  After these things were ended, Paul purposed in the spirit, when he had passed
+  through Macedonia and Achaia, to go to Jerusalem, saying, After I have been
+  there, I must also see Rome. </p>
+id: ACT/19/21
+next:
+  id: ACT/19/22
+  number: '22'
+previous:
+  id: ACT/19/20
+  number: '20'
+reference: 'Acts 19:21'

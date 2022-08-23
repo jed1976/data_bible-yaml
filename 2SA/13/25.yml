@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2SA 13:25"
+  class="v">25</span>And the king said to Absalom, Nay, my son, let us not all
+  now go, lest we be chargeable unto thee. And he pressed him: howbeit he would
+  not go, but blessed him. </p>
+id: 2SA/13/25
+next:
+  id: 2SA/13/26
+  number: '26'
+previous:
+  id: 2SA/13/24
+  number: '24'
+reference: '2 Samuel 13:25'

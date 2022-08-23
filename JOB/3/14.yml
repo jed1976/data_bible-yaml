@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 3:14"
+  class="v">14</span>With kings and counsellors of the earth, which built
+  desolate places for themselves; </p>
+id: JOB/3/14
+next:
+  id: JOB/3/15
+  number: '15'
+previous:
+  id: JOB/3/13
+  number: '13'
+reference: 'Job 3:14'

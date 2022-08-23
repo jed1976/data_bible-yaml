@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 9:27" class="v">27</span>¶
+  And when Jesus departed thence, two blind men followed him, crying, and
+  saying, <span class="add">Thou</span> Son of David, have mercy on us. </p>
+id: MAT/9/27
+next:
+  id: MAT/9/28
+  number: '28'
+previous:
+  id: MAT/9/26
+  number: '26'
+reference: 'Matthew 9:27'

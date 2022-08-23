@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 10:29"
+  class="v">29</span><span class="wj">My Father, which gave <span
+  class="add">them</span> me, is greater than all; and no <span
+  class="add">man</span> is able to pluck <span class="add">them</span> out of
+  my Father’s hand.</span> </p>
+id: JHN/10/29
+next:
+  id: JHN/10/30
+  number: '30'
+previous:
+  id: JHN/10/28
+  number: '28'
+reference: 'John 10:29'

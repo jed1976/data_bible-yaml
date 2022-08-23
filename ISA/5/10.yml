@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 5:10"
+  class="v">10</span>Yea, ten acres of vineyard shall yield one bath, and the
+  seed of an homer shall yield an ephah.</p>
+id: ISA/5/10
+next:
+  id: ISA/5/11
+  number: '11'
+previous:
+  id: ISA/5/9
+  number: '9'
+reference: 'Isaiah 5:10'

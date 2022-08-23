@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 11:26"
+  class="v">26</span><span class="wj">But if ye do not forgive, neither will
+  your Father which is in heaven forgive your trespasses.</span></p>
+id: MRK/11/26
+next:
+  id: MRK/11/27
+  number: '27'
+previous:
+  id: MRK/11/25
+  number: '25'
+reference: 'Mark 11:26'

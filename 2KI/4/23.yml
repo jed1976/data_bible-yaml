@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 4:23" class="v">23</span>And
+  he said, Wherefore wilt thou go to him to day? <span class="add">it is</span>
+  neither new moon, nor sabbath. And she said, <span class="add">It shall
+  be</span> well. </p>
+id: 2KI/4/23
+next:
+  id: 2KI/4/24
+  number: '24'
+previous:
+  id: 2KI/4/22
+  number: '22'
+reference: '2 Kings 4:23'

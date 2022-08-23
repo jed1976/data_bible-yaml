@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 30:26"
+  class="v">26</span>The conies <span class="add">are but</span> a feeble folk,
+  yet make they their houses in the rocks; </p>
+id: PRO/30/26
+next:
+  id: PRO/30/27
+  number: '27'
+previous:
+  id: PRO/30/25
+  number: '25'
+reference: 'Proverbs 30:26'

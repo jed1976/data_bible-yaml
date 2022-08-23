@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 21:13" class="v">13</span>¶
+  Thus they gave to the children of Aaron the priest Hebron with her suburbs,
+  <span class="add">to be</span> a city of refuge for the slayer; and Libnah
+  with her suburbs, </p>
+id: JOS/21/13
+next:
+  id: JOS/21/14
+  number: '14'
+previous:
+  id: JOS/21/12
+  number: '12'
+reference: 'Joshua 21:13'

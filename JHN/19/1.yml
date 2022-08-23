@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 19:1" class="v">1</span>Then
+  Pilate therefore took Jesus, and scourged <span class="add">him</span>. </p>
+id: JHN/19/1
+next:
+  id: JHN/19/2
+  number: '2'
+previous:
+  id: JHN/18/40
+  number: '40'
+reference: 'John 19:1'

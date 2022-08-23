@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="69" data-sid="MAT 26:69" class="v">69</span>¶
+  Now Peter sat without in the palace: and a damsel came unto him, saying, Thou
+  also wast with Jesus of Galilee. </p>
+id: MAT/26/69
+next:
+  id: MAT/26/70
+  number: '70'
+previous:
+  id: MAT/26/68
+  number: '68'
+reference: 'Matthew 26:69'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 10:24" class="v">24</span>¶
+  And Pharaoh called unto Moses, and said, Go ye, serve the <span
+  class="nd">LORD</span>; only let your flocks and your herds be stayed: let
+  your little ones also go with you. </p>
+id: EXO/10/24
+next:
+  id: EXO/10/25
+  number: '25'
+previous:
+  id: EXO/10/23
+  number: '23'
+reference: 'Exodus 10:24'

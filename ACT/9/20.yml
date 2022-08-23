@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 9:20" class="v">20</span>And
+  straightway he preached Christ in the synagogues, that he is the Son of God.
+  </p>
+id: ACT/9/20
+next:
+  id: ACT/9/21
+  number: '21'
+previous:
+  id: ACT/9/19
+  number: '19'
+reference: 'Acts 9:20'

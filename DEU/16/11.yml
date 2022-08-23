@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 16:11"
+  class="v">11</span>And thou shalt rejoice before the <span
+  class="nd">LORD</span> thy God, thou, and thy son, and thy daughter, and thy
+  manservant, and thy maidservant, and the Levite that <span
+  class="add">is</span> within thy gates, and the stranger, and the fatherless,
+  and the widow, that <span class="add">are</span> among you, in the place which
+  the <span class="nd">LORD</span> thy God hath chosen to place his name there.
+  </p>
+id: DEU/16/11
+next:
+  id: DEU/16/12
+  number: '12'
+previous:
+  id: DEU/16/10
+  number: '10'
+reference: 'Deuteronomy 16:11'

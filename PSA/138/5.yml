@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 138:5"
+  class="v">5</span>Yea, they shall sing in the ways of the <span
+  class="nd">LORD</span>: for great <span class="add">is</span> the glory of the
+  <span class="nd">LORD</span>.</p>
+id: PSA/138/5
+next:
+  id: PSA/138/6
+  number: '6'
+previous:
+  id: PSA/138/4
+  number: '4'
+reference: 'Psalms 138:5'

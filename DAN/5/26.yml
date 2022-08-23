@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DAN 5:26"
+  class="v">26</span>This <span class="add">is</span> the interpretation of the
+  thing: MENE; God hath numbered thy kingdom, and finished it. </p>
+id: DAN/5/26
+next:
+  id: DAN/5/27
+  number: '27'
+previous:
+  id: DAN/5/25
+  number: '25'
+reference: 'Daniel 5:26'

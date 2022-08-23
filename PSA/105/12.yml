@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 105:12"
+  class="v">12</span>When they were <span class="add">but</span> a few men in
+  number; yea, very few, and strangers in it.</p>
+id: PSA/105/12
+next:
+  id: PSA/105/13
+  number: '13'
+previous:
+  id: PSA/105/11
+  number: '11'
+reference: 'Psalms 105:12'

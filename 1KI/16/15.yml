@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1KI 16:15" class="v">15</span>¶
+  In the twenty and seventh year of Asa king of Judah did Zimri reign seven days
+  in Tirzah. And the people <span class="add">were</span> encamped against
+  Gibbethon, which <span class="add">belonged</span> to the Philistines. </p>
+id: 1KI/16/15
+next:
+  id: 1KI/16/16
+  number: '16'
+previous:
+  id: 1KI/16/14
+  number: '14'
+reference: '1 Kings 16:15'

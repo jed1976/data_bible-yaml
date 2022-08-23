@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 9:12"
+  class="v">12</span>Then said they unto him, Where is he? He said, I know
+  not.</p>
+id: JHN/9/12
+next:
+  id: JHN/9/13
+  number: '13'
+previous:
+  id: JHN/9/11
+  number: '11'
+reference: 'John 9:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 13:4" class="v">4</span>And
+  they worshipped the dragon which gave power unto the beast: and they
+  worshipped the beast, saying, Who <span class="add">is</span> like unto the
+  beast? who is able to make war with him? </p>
+id: REV/13/4
+next:
+  id: REV/13/5
+  number: '5'
+previous:
+  id: REV/13/3
+  number: '3'
+reference: 'Revelation 13:4'

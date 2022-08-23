@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 19:4" class="v">4</span>And
+  be it indeed <span class="add">that</span> I have erred, mine error remaineth
+  with myself. </p>
+id: JOB/19/4
+next:
+  id: JOB/19/5
+  number: '5'
+previous:
+  id: JOB/19/3
+  number: '3'
+reference: 'Job 19:4'

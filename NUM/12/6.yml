@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 12:6" class="v">6</span>And
+  he said, Hear now my words: If there be a prophet among you, <span
+  class="add">I</span> the <span class="nd">LORD</span> will make myself known
+  unto him in a vision, <span class="add">and</span> will speak unto him in a
+  dream. </p>
+id: NUM/12/6
+next:
+  id: NUM/12/7
+  number: '7'
+previous:
+  id: NUM/12/5
+  number: '5'
+reference: 'Numbers 12:6'

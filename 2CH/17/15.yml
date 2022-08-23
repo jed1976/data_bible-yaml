@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 17:15"
+  class="v">15</span>And next to him <span class="add">was</span> Jehohanan the
+  captain, and with him two hundred and fourscore thousand. </p>
+id: 2CH/17/15
+next:
+  id: 2CH/17/16
+  number: '16'
+previous:
+  id: 2CH/17/14
+  number: '14'
+reference: '2 Chronicles 17:15'

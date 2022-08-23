@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 18:31"
+  class="v">31</span>And ye shall eat it in every place, ye and your households:
+  for it <span class="add">is</span> your reward for your service in the
+  tabernacle of the congregation. </p>
+id: NUM/18/31
+next:
+  id: NUM/18/32
+  number: '32'
+previous:
+  id: NUM/18/30
+  number: '30'
+reference: 'Numbers 18:31'

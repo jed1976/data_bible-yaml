@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 5:12"
+  class="v">12</span>Wherefore, as by one man sin entered into the world, and
+  death by sin; and so death passed upon all men, for that all have sinned: </p>
+id: ROM/5/12
+next:
+  id: ROM/5/13
+  number: '13'
+previous:
+  id: ROM/5/11
+  number: '11'
+reference: 'Romans 5:12'

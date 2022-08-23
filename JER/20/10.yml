@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 20:10" class="v">10</span>¶
+  For I heard the defaming of many, fear on every side. Report, <span
+  class="add">say they</span>, and we will report it. All my familiars watched
+  for my halting, <span class="add">saying</span>, Peradventure he will be
+  enticed, and we shall prevail against him, and we shall take our revenge on
+  him. </p>
+id: JER/20/10
+next:
+  id: JER/20/11
+  number: '11'
+previous:
+  id: JER/20/9
+  number: '9'
+reference: 'Jeremiah 20:10'

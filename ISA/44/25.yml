@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ISA 44:25"
+  class="v">25</span>That frustrateth the tokens of the liars, and maketh
+  diviners mad; that turneth wise <span class="add">men</span> backward, and
+  maketh their knowledge foolish; </p>
+id: ISA/44/25
+next:
+  id: ISA/44/26
+  number: '26'
+previous:
+  id: ISA/44/24
+  number: '24'
+reference: 'Isaiah 44:25'

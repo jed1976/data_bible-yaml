@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 15:11"
+  class="v">11</span>And again, Praise the Lord, all ye Gentiles; and laud him,
+  all ye people. </p>
+id: ROM/15/11
+next:
+  id: ROM/15/12
+  number: '12'
+previous:
+  id: ROM/15/10
+  number: '10'
+reference: 'Romans 15:11'

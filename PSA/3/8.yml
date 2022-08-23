@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 3:8"
+  class="v">8</span>Salvation <span class="add">belongeth</span> unto the <span
+  class="nd">LORD</span>: thy blessing <span class="add">is</span> upon thy
+  people. Selah.</p>
+id: PSA/3/8
+next:
+  id: PSA/4/1
+  number: '1'
+previous:
+  id: PSA/3/7
+  number: '7'
+reference: 'Psalms 3:8'

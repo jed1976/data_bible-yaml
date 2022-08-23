@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David, when he fled from Absalom his son.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 3:1" class="v">1</span><span
+  class="nd">LORD</span>, how are they increased that trouble me! many <span
+  class="add">are</span> they that rise up against me.</p>
+id: PSA/3/1
+next:
+  id: PSA/3/2
+  number: '2'
+previous:
+  id: PSA/2/12
+  number: '12'
+reference: 'Psalms 3:1'

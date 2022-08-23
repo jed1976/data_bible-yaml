@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EST 1:22" class="v">22</span>For
+  he sent letters into all the king’s provinces, into every province according
+  to the writing thereof, and to every people after their language, that every
+  man should bear rule in his own house, and that <span class="add">it</span>
+  should be published according to the language of every people.</p>
+id: EST/1/22
+next:
+  id: EST/2/1
+  number: '1'
+previous:
+  id: EST/1/21
+  number: '21'
+reference: 'Esther 1:22'

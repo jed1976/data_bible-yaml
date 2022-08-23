@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 5:12" class="v">12</span>He
+  disappointeth the devices of the crafty, so that their hands cannot perform
+  <span class="add">their</span> enterprise. </p>
+id: JOB/5/12
+next:
+  id: JOB/5/13
+  number: '13'
+previous:
+  id: JOB/5/11
+  number: '11'
+reference: 'Job 5:12'

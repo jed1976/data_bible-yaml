@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GAL 1:19" class="v">19</span>But
+  other of the apostles saw I none, save James the Lord’s brother. </p>
+id: GAL/1/19
+next:
+  id: GAL/1/20
+  number: '20'
+previous:
+  id: GAL/1/18
+  number: '18'
+reference: 'Galatians 1:19'

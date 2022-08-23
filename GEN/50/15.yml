@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 50:15" class="v">15</span>¶
+  And when Joseph’s brethren saw that their father was dead, they said, Joseph
+  will peradventure hate us, and will certainly requite us all the evil which we
+  did unto him. </p>
+id: GEN/50/15
+next:
+  id: GEN/50/16
+  number: '16'
+previous:
+  id: GEN/50/14
+  number: '14'
+reference: 'Genesis 50:15'

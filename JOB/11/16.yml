@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 11:16"
+  class="v">16</span>Because thou shalt forget <span class="add">thy</span>
+  misery, <span class="add">and</span> remember <span class="add">it</span> as
+  waters <span class="add">that</span> pass away: </p>
+id: JOB/11/16
+next:
+  id: JOB/11/17
+  number: '17'
+previous:
+  id: JOB/11/15
+  number: '15'
+reference: 'Job 11:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="70" data-sid="PSA 78:70"
+  class="v">70</span>He chose David also his servant, and took him from the
+  sheepfolds:</p>
+id: PSA/78/70
+next:
+  id: PSA/78/71
+  number: '71'
+previous:
+  id: PSA/78/69
+  number: '69'
+reference: 'Psalms 78:70'

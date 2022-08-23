@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 3:20" class="v">20</span>And
+  he shall send Jesus Christ, which before was preached unto you: </p>
+id: ACT/3/20
+next:
+  id: ACT/3/21
+  number: '21'
+previous:
+  id: ACT/3/19
+  number: '19'
+reference: 'Acts 3:20'

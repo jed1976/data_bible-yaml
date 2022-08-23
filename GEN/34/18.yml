@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 34:18"
+  class="v">18</span>And their words pleased Hamor, and Shechem Hamor’s son.
+  </p>
+id: GEN/34/18
+next:
+  id: GEN/34/19
+  number: '19'
+previous:
+  id: GEN/34/17
+  number: '17'
+reference: 'Genesis 34:18'

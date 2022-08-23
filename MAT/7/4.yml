@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 7:4" class="v">4</span><span
+  class="wj">Or how wilt thou say to thy brother, Let me pull out the mote out
+  of thine eye; and, behold, a beam <span class="add">is</span> in thine own
+  eye?</span> </p>
+id: MAT/7/4
+next:
+  id: MAT/7/5
+  number: '5'
+previous:
+  id: MAT/7/3
+  number: '3'
+reference: 'Matthew 7:4'

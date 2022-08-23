@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 2:13"
+  class="v">13</span>Behold, I am pressed under you, as a cart is pressed <span
+  class="add">that is</span> full of sheaves. </p>
+id: AMO/2/13
+next:
+  id: AMO/2/14
+  number: '14'
+previous:
+  id: AMO/2/12
+  number: '12'
+reference: 'Amos 2:13'

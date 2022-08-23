@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 23:17" class="v">17</span>¶
+  And the field of Ephron, which <span class="add">was</span> in Machpelah,
+  which <span class="add">was</span> before Mamre, the field, and the cave which
+  <span class="add">was</span> therein, and all the trees that <span
+  class="add">were</span> in the field, that <span class="add">were</span> in
+  all the borders round about, were made sure </p>
+id: GEN/23/17
+next:
+  id: GEN/23/18
+  number: '18'
+previous:
+  id: GEN/23/16
+  number: '16'
+reference: 'Genesis 23:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="NEH 7:64"
+  class="v">64</span>These sought their register <span class="add">among</span>
+  those that were reckoned by genealogy, but it was not found: therefore were
+  they, as polluted, put from the priesthood. </p>
+id: NEH/7/64
+next:
+  id: NEH/7/65
+  number: '65'
+previous:
+  id: NEH/7/63
+  number: '63'
+reference: 'Nehemiah 7:64'

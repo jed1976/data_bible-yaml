@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 12:11"
+  class="v">11</span>The words of the wise <span class="add">are</span> as
+  goads, and as nails fastened <span class="add">by</span> the masters of
+  assemblies, <span class="add">which</span> are given from one shepherd. </p>
+id: ECC/12/11
+next:
+  id: ECC/12/12
+  number: '12'
+previous:
+  id: ECC/12/10
+  number: '10'
+reference: 'Ecclesiastes 12:11'

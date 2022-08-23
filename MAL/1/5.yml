@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAL 1:5" class="v">5</span>And
+  your eyes shall see, and ye shall say, The <span class="nd">LORD</span> will
+  be magnified from the border of Israel.</p>
+id: MAL/1/5
+next:
+  id: MAL/1/6
+  number: '6'
+previous:
+  id: MAL/1/4
+  number: '4'
+reference: 'Malachi 1:5'

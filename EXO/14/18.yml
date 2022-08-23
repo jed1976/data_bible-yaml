@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 14:18"
+  class="v">18</span>And the Egyptians shall know that I <span
+  class="add">am</span> the <span class="nd">LORD</span>, when I have gotten me
+  honour upon Pharaoh, upon his chariots, and upon his horsemen.</p>
+id: EXO/14/18
+next:
+  id: EXO/14/19
+  number: '19'
+previous:
+  id: EXO/14/17
+  number: '17'
+reference: 'Exodus 14:18'

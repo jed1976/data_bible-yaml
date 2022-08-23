@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="15" data-sid="PSA 135:15"
+  class="v">15</span>The idols of the heathen <span class="add">are</span>
+  silver and gold, the work of men’s hands.</p>
+id: PSA/135/15
+next:
+  id: PSA/135/16
+  number: '16'
+previous:
+  id: PSA/135/14
+  number: '14'
+reference: 'Psalms 135:15'

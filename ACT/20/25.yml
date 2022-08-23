@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 20:25"
+  class="v">25</span>And now, behold, I know that ye all, among whom I have gone
+  preaching the kingdom of God, shall see my face no more. </p>
+id: ACT/20/25
+next:
+  id: ACT/20/26
+  number: '26'
+previous:
+  id: ACT/20/24
+  number: '24'
+reference: 'Acts 20:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="MRK 9:49"
+  class="v">49</span><span class="wj">For every one shall be salted with fire,
+  and every sacrifice shall be salted with salt.</span> </p>
+id: MRK/9/49
+next:
+  id: MRK/9/50
+  number: '50'
+previous:
+  id: MRK/9/48
+  number: '48'
+reference: 'Mark 9:49'

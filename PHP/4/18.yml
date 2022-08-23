@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PHP 4:18" class="v">18</span>But
+  I have all, and abound: I am full, having received of Epaphroditus the things
+  <span class="add">which were sent</span> from you, an odour of a sweet smell,
+  a sacrifice acceptable, wellpleasing to God. </p>
+id: PHP/4/18
+next:
+  id: PHP/4/19
+  number: '19'
+previous:
+  id: PHP/4/17
+  number: '17'
+reference: 'Philippians 4:18'

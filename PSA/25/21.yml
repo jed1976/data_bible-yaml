@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 25:21"
+  class="v">21</span>Let integrity and uprightness preserve me; for I wait on
+  thee.</p>
+id: PSA/25/21
+next:
+  id: PSA/25/22
+  number: '22'
+previous:
+  id: PSA/25/20
+  number: '20'
+reference: 'Psalms 25:21'

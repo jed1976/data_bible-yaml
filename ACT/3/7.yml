@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 3:7" class="v">7</span>And he
+  took him by the right hand, and lifted <span class="add">him</span> up: and
+  immediately his feet and ankle bones received strength. </p>
+id: ACT/3/7
+next:
+  id: ACT/3/8
+  number: '8'
+previous:
+  id: ACT/3/6
+  number: '6'
+reference: 'Acts 3:7'

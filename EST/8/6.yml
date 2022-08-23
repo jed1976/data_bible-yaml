@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 8:6" class="v">6</span>For
+  how can I endure to see the evil that shall come unto my people? or how can I
+  endure to see the destruction of my kindred?</p>
+id: EST/8/6
+next:
+  id: EST/8/7
+  number: '7'
+previous:
+  id: EST/8/5
+  number: '5'
+reference: 'Esther 8:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 41:4" class="v">4</span>Will
+  he make a covenant with thee? wilt thou take him for a servant for ever? </p>
+id: JOB/41/4
+next:
+  id: JOB/41/5
+  number: '5'
+previous:
+  id: JOB/41/3
+  number: '3'
+reference: 'Job 41:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 8:21"
+  class="v">21</span>Till he fill thy mouth with laughing, and thy lips with
+  rejoicing. </p>
+id: JOB/8/21
+next:
+  id: JOB/8/22
+  number: '22'
+previous:
+  id: JOB/8/20
+  number: '20'
+reference: 'Job 8:21'

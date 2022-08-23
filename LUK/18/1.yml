@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 18:1" class="v">1</span>And
+  he spake a parable unto them <span class="add">to this end</span>, that men
+  ought always to pray, and not to faint; </p>
+id: LUK/18/1
+next:
+  id: LUK/18/2
+  number: '2'
+previous:
+  id: LUK/17/37
+  number: '37'
+reference: 'Luke 18:1'

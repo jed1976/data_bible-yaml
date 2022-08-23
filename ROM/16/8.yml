@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 16:8" class="v">8</span>Greet
+  Amplias my beloved in the Lord. </p>
+id: ROM/16/8
+next:
+  id: ROM/16/9
+  number: '9'
+previous:
+  id: ROM/16/7
+  number: '7'
+reference: 'Romans 16:8'

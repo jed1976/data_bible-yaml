@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 4:4" class="v">4</span>But ye
+  that did cleave unto the <span class="nd">LORD</span> your God <span
+  class="add">are</span> alive every one of you this day. </p>
+id: DEU/4/4
+next:
+  id: DEU/4/5
+  number: '5'
+previous:
+  id: DEU/4/3
+  number: '3'
+reference: 'Deuteronomy 4:4'

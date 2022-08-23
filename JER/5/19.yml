@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JER 5:19" class="v">19</span>¶
+  And it shall come to pass, when ye shall say, Wherefore doeth the <span
+  class="nd">LORD</span> our God all these <span class="add">things</span> unto
+  us? then shalt thou answer them, Like as ye have forsaken me, and served
+  strange gods in your land, so shall ye serve strangers in a land <span
+  class="add">that is</span> not yours.</p>
+id: JER/5/19
+next:
+  id: JER/5/20
+  number: '20'
+previous:
+  id: JER/5/18
+  number: '18'
+reference: 'Jeremiah 5:19'

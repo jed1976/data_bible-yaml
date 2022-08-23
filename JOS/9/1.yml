@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 9:1" class="v">1</span>And it
+  came to pass, when all the kings which <span class="add">were</span> on this
+  side Jordan, in the hills, and in the valleys, and in all the coasts of the
+  great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite,
+  the Perizzite, the Hivite, and the Jebusite, heard <span
+  class="add">thereof;</span> </p>
+id: JOS/9/1
+next:
+  id: JOS/9/2
+  number: '2'
+previous:
+  id: JOS/8/35
+  number: '35'
+reference: 'Joshua 9:1'

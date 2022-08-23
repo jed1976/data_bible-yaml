@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 14:10"
+  class="v">10</span>And now, behold, the <span class="nd">LORD</span> hath kept
+  me alive, as he said, these forty and five years, even since the <span
+  class="nd">LORD</span> spake this word unto Moses, while <span class="add">the
+  children of</span> Israel wandered in the wilderness: and now, lo, I <span
+  class="add">am</span> this day fourscore and five years old. </p>
+id: JOS/14/10
+next:
+  id: JOS/14/11
+  number: '11'
+previous:
+  id: JOS/14/9
+  number: '9'
+reference: 'Joshua 14:10'

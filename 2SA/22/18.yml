@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 22:18" class="v">18</span>He
+  delivered me from my strong enemy, <span class="add">and</span> from them that
+  hated me: for they were too strong for me. </p>
+id: 2SA/22/18
+next:
+  id: 2SA/22/19
+  number: '19'
+previous:
+  id: 2SA/22/17
+  number: '17'
+reference: '2 Samuel 22:18'

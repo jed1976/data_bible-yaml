@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 10:3" class="v">3</span><span
+  class="add">Is it</span> good unto thee that thou shouldest oppress, that thou
+  shouldest despise the work of thine hands, and shine upon the counsel of the
+  wicked? </p>
+id: JOB/10/3
+next:
+  id: JOB/10/4
+  number: '4'
+previous:
+  id: JOB/10/2
+  number: '2'
+reference: 'Job 10:3'

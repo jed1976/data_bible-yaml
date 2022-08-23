@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 15:21"
+  class="v">21</span>And if there be <span class="add">any</span> blemish
+  therein, <span class="add">as if it be</span> lame, or blind, <span
+  class="add">or have</span> any ill blemish, thou shalt not sacrifice it unto
+  the <span class="nd">LORD</span> thy God. </p>
+id: DEU/15/21
+next:
+  id: DEU/15/22
+  number: '22'
+previous:
+  id: DEU/15/20
+  number: '20'
+reference: 'Deuteronomy 15:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 114:8"
+  class="v">8</span>Which turned the rock <span class="add">into</span> a
+  standing water, the flint into a fountain of waters.</p>
+id: PSA/114/8
+next:
+  id: PSA/115/1
+  number: '1'
+previous:
+  id: PSA/114/7
+  number: '7'
+reference: 'Psalms 114:8'

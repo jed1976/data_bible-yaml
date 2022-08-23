@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 1:21"
+  class="v">21</span>Wherefore of these men which have companied with us all the
+  time that the Lord Jesus went in and out among us, </p>
+id: ACT/1/21
+next:
+  id: ACT/1/22
+  number: '22'
+previous:
+  id: ACT/1/20
+  number: '20'
+reference: 'Acts 1:21'

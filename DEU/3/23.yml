@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 3:23" class="v">23</span>And
+  I besought the <span class="nd">LORD</span> at that time, saying, </p>
+id: DEU/3/23
+next:
+  id: DEU/3/24
+  number: '24'
+previous:
+  id: DEU/3/22
+  number: '22'
+reference: 'Deuteronomy 3:23'

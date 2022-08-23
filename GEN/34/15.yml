@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 34:15"
+  class="v">15</span>But in this will we consent unto you: If ye will be as we
+  <span class="add">be</span>, that every male of you be circumcised; </p>
+id: GEN/34/15
+next:
+  id: GEN/34/16
+  number: '16'
+previous:
+  id: GEN/34/14
+  number: '14'
+reference: 'Genesis 34:15'

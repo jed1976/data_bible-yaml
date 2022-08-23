@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 9:17"
+  class="v">17</span>The wicked shall be turned into hell, <span
+  class="add">and</span> all the nations that forget God.</p>
+id: PSA/9/17
+next:
+  id: PSA/9/18
+  number: '18'
+previous:
+  id: PSA/9/16
+  number: '16'
+reference: 'Psalms 9:17'

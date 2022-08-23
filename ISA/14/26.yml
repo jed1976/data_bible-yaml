@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ISA 14:26"
+  class="v">26</span>This <span class="add">is</span> the purpose that is
+  purposed upon the whole earth: and this <span class="add">is</span> the hand
+  that is stretched out upon all the nations. </p>
+id: ISA/14/26
+next:
+  id: ISA/14/27
+  number: '27'
+previous:
+  id: ISA/14/25
+  number: '25'
+reference: 'Isaiah 14:26'

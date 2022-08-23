@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CO 3:13" class="v">13</span>And
+  not as Moses, <span class="add">which</span> put a vail over his face, that
+  the children of Israel could not stedfastly look to the end of that which is
+  abolished: </p>
+id: 2CO/3/13
+next:
+  id: 2CO/3/14
+  number: '14'
+previous:
+  id: 2CO/3/12
+  number: '12'
+reference: '2 Corinthians 3:13'

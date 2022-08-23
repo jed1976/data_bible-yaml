@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 15:10"
+  class="v">10</span>And whosoever toucheth any thing that was under him shall
+  be unclean until the even: and he that beareth <span class="add">any of</span>
+  those things shall wash his clothes, and bathe <span
+  class="add">himself</span> in water, and be unclean until the even. </p>
+id: LEV/15/10
+next:
+  id: LEV/15/11
+  number: '11'
+previous:
+  id: LEV/15/9
+  number: '9'
+reference: 'Leviticus 15:10'

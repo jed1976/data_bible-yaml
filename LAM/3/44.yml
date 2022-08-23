@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LAM 3:44"
+  class="v">44</span>Thou hast covered thyself with a cloud, that <span
+  class="add">our</span> prayer should not pass through. </p>
+id: LAM/3/44
+next:
+  id: LAM/3/45
+  number: '45'
+previous:
+  id: LAM/3/43
+  number: '43'
+reference: 'Lamentations 3:44'

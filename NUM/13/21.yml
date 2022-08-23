@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 13:21" class="v">21</span>¶
+  So they went up, and searched the land from the wilderness of Zin unto Rehob,
+  as men come to Hamath. </p>
+id: NUM/13/21
+next:
+  id: NUM/13/22
+  number: '22'
+previous:
+  id: NUM/13/20
+  number: '20'
+reference: 'Numbers 13:21'

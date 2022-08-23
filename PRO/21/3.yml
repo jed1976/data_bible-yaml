@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 21:3" class="v">3</span>To do
+  justice and judgment <span class="add">is</span> more acceptable to the <span
+  class="nd">LORD</span> than sacrifice. </p>
+id: PRO/21/3
+next:
+  id: PRO/21/4
+  number: '4'
+previous:
+  id: PRO/21/2
+  number: '2'
+reference: 'Proverbs 21:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 23:15" class="v">15</span>¶
+  Thou shalt not deliver unto his master the servant which is escaped from his
+  master unto thee: </p>
+id: DEU/23/15
+next:
+  id: DEU/23/16
+  number: '16'
+previous:
+  id: DEU/23/14
+  number: '14'
+reference: 'Deuteronomy 23:15'

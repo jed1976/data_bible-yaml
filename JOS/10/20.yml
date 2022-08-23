@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 10:20"
+  class="v">20</span>And it came to pass, when Joshua and the children of Israel
+  had made an end of slaying them with a very great slaughter, till they were
+  consumed, that the rest <span class="add">which</span> remained of them
+  entered into fenced cities. </p>
+id: JOS/10/20
+next:
+  id: JOS/10/21
+  number: '21'
+previous:
+  id: JOS/10/19
+  number: '19'
+reference: 'Joshua 10:20'

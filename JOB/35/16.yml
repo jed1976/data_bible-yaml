@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 35:16"
+  class="v">16</span>Therefore doth Job open his mouth in vain; he multiplieth
+  words without knowledge.</p>
+id: JOB/35/16
+next:
+  id: JOB/36/1
+  number: '1'
+previous:
+  id: JOB/35/15
+  number: '15'
+reference: 'Job 35:16'

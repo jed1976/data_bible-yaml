@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEP 1:5" class="v">5</span>And
+  them that worship the host of heaven upon the housetops; and them that worship
+  <span class="add">and</span> that swear by the <span class="nd">LORD</span>,
+  and that swear by Malcham; </p>
+id: ZEP/1/5
+next:
+  id: ZEP/1/6
+  number: '6'
+previous:
+  id: ZEP/1/4
+  number: '4'
+reference: 'Zephaniah 1:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="COL 3:17" class="v">17</span>And
+  whatsoever ye do in word or deed, <span class="add">do</span> all in the name
+  of the Lord Jesus, giving thanks to God and the Father by him.</p>
+id: COL/3/17
+next:
+  id: COL/3/18
+  number: '18'
+previous:
+  id: COL/3/16
+  number: '16'
+reference: 'Colossians 3:17'

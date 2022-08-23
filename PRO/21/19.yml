@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 21:19"
+  class="v">19</span><span class="add">It is</span> better to dwell in the
+  wilderness, than with a contentious and an angry woman. </p>
+id: PRO/21/19
+next:
+  id: PRO/21/20
+  number: '20'
+previous:
+  id: PRO/21/18
+  number: '18'
+reference: 'Proverbs 21:19'

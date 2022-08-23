@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 5:9" class="v">9</span>And
+  immediately the man was made whole, and took up his bed, and walked: and on
+  the same day was the sabbath.</p>
+id: JHN/5/9
+next:
+  id: JHN/5/10
+  number: '10'
+previous:
+  id: JHN/5/8
+  number: '8'
+reference: 'John 5:9'

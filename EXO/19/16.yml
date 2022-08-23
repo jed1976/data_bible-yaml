@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 19:16" class="v">16</span>¶
+  And it came to pass on the third day in the morning, that there were thunders
+  and lightnings, and a thick cloud upon the mount, and the voice of the trumpet
+  exceeding loud; so that all the people that <span class="add">was</span> in
+  the camp trembled. </p>
+id: EXO/19/16
+next:
+  id: EXO/19/17
+  number: '17'
+previous:
+  id: EXO/19/15
+  number: '15'
+reference: 'Exodus 19:16'

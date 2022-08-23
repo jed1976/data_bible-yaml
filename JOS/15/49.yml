@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="JOS 15:49"
+  class="v">49</span>And Dannah, and Kirjath-sannah, which <span
+  class="add">is</span> Debir, </p>
+id: JOS/15/49
+next:
+  id: JOS/15/50
+  number: '50'
+previous:
+  id: JOS/15/48
+  number: '48'
+reference: 'Joshua 15:49'

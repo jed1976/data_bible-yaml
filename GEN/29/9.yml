@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 29:9" class="v">9</span>¶ And
+  while he yet spake with them, Rachel came with her father’s sheep: for she
+  kept them. </p>
+id: GEN/29/9
+next:
+  id: GEN/29/10
+  number: '10'
+previous:
+  id: GEN/29/8
+  number: '8'
+reference: 'Genesis 29:9'

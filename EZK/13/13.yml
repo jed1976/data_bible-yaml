@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 13:13"
+  class="v">13</span>Therefore thus saith the Lord <span class="nd">GOD</span>;
+  I will even rend <span class="add">it</span> with a stormy wind in my fury;
+  and there shall be an overflowing shower in mine anger, and great hailstones
+  in <span class="add">my</span> fury to consume <span class="add">it</span>.
+  </p>
+id: EZK/13/13
+next:
+  id: EZK/13/14
+  number: '14'
+previous:
+  id: EZK/13/12
+  number: '12'
+reference: 'Ezekiel 13:13'

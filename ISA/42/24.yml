@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 42:24"
+  class="v">24</span>Who gave Jacob for a spoil, and Israel to the robbers? did
+  not the <span class="nd">LORD</span>, he against whom we have sinned? for they
+  would not walk in his ways, neither were they obedient unto his law. </p>
+id: ISA/42/24
+next:
+  id: ISA/42/25
+  number: '25'
+previous:
+  id: ISA/42/23
+  number: '23'
+reference: 'Isaiah 42:24'

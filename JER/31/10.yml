@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 31:10" class="v">10</span>¶
+  Hear the word of the <span class="nd">LORD</span>, O ye nations, and declare
+  <span class="add">it</span> in the isles afar off, and say, He that scattered
+  Israel will gather him, and keep him, as a shepherd <span
+  class="add">doth</span> his flock. </p>
+id: JER/31/10
+next:
+  id: JER/31/11
+  number: '11'
+previous:
+  id: JER/31/9
+  number: '9'
+reference: 'Jeremiah 31:10'

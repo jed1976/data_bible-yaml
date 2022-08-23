@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 34:10"
+  class="v">10</span>Therefore hearken unto me, ye men of understanding: far be
+  it from God, <span class="add">that he should do</span> wickedness; and <span
+  class="add">from</span> the Almighty, <span class="add">that he should
+  commit</span> iniquity. </p>
+id: JOB/34/10
+next:
+  id: JOB/34/11
+  number: '11'
+previous:
+  id: JOB/34/9
+  number: '9'
+reference: 'Job 34:10'

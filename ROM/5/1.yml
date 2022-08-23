@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 5:1"
+  class="v">1</span>Therefore being justified by faith, we have peace with God
+  through our Lord Jesus Christ: </p>
+id: ROM/5/1
+next:
+  id: ROM/5/2
+  number: '2'
+previous:
+  id: ROM/4/25
+  number: '25'
+reference: 'Romans 5:1'

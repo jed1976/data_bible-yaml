@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 1:16" class="v">16</span>I
+  communed with mine own heart, saying, Lo, I am come to great estate, and have
+  gotten more wisdom than all <span class="add">they</span> that have been
+  before me in Jerusalem: yea, my heart had great experience of wisdom and
+  knowledge. </p>
+id: ECC/1/16
+next:
+  id: ECC/1/17
+  number: '17'
+previous:
+  id: ECC/1/15
+  number: '15'
+reference: 'Ecclesiastes 1:16'

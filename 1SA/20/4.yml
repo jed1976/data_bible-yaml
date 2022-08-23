@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 20:4" class="v">4</span>Then
+  said Jonathan unto David, Whatsoever thy soul desireth, I will even do <span
+  class="add">it</span> for thee. </p>
+id: 1SA/20/4
+next:
+  id: 1SA/20/5
+  number: '5'
+previous:
+  id: 1SA/20/3
+  number: '3'
+reference: '1 Samuel 20:4'

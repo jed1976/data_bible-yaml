@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 11:5" class="v">5</span>And
+  when all these kings were met together, they came and pitched together at the
+  waters of Merom, to fight against Israel.</p>
+id: JOS/11/5
+next:
+  id: JOS/11/6
+  number: '6'
+previous:
+  id: JOS/11/4
+  number: '4'
+reference: 'Joshua 11:5'

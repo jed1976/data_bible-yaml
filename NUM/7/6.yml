@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 7:6" class="v">6</span>And
+  Moses took the wagons and the oxen, and gave them unto the Levites. </p>
+id: NUM/7/6
+next:
+  id: NUM/7/7
+  number: '7'
+previous:
+  id: NUM/7/5
+  number: '5'
+reference: 'Numbers 7:6'

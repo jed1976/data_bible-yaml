@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZK 7:15" class="v">15</span>The
+  sword <span class="add">is</span> without, and the pestilence and the famine
+  within: he that <span class="add">is</span> in the field shall die with the
+  sword; and he that <span class="add">is</span> in the city, famine and
+  pestilence shall devour him.</p>
+id: EZK/7/15
+next:
+  id: EZK/7/16
+  number: '16'
+previous:
+  id: EZK/7/14
+  number: '14'
+reference: 'Ezekiel 7:15'

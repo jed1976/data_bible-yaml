@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 9:4" class="v">4</span><span
+  class="wj">And whatsoever house ye enter into, there abide, and thence
+  depart.</span> </p>
+id: LUK/9/4
+next:
+  id: LUK/9/5
+  number: '5'
+previous:
+  id: LUK/9/3
+  number: '3'
+reference: 'Luke 9:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 2:10"
+  class="v">10</span>Also I brought you up from the land of Egypt, and led you
+  forty years through the wilderness, to possess the land of the Amorite. </p>
+id: AMO/2/10
+next:
+  id: AMO/2/11
+  number: '11'
+previous:
+  id: AMO/2/9
+  number: '9'
+reference: 'Amos 2:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 6:24" class="v">24</span>The
+  <span class="nd">LORD</span> bless thee, and keep thee: </p>
+id: NUM/6/24
+next:
+  id: NUM/6/25
+  number: '25'
+previous:
+  id: NUM/6/23
+  number: '23'
+reference: 'Numbers 6:24'

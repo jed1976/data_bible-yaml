@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 6:29"
+  class="v">29</span><span class="wj">And yet I say unto you, That even Solomon
+  in all his glory was not arrayed like one of these.</span> </p>
+id: MAT/6/29
+next:
+  id: MAT/6/30
+  number: '30'
+previous:
+  id: MAT/6/28
+  number: '28'
+reference: 'Matthew 6:29'

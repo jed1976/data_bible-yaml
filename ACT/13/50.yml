@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="ACT 13:50"
+  class="v">50</span>But the Jews stirred up the devout and honourable women,
+  and the chief men of the city, and raised persecution against Paul and
+  Barnabas, and expelled them out of their coasts. </p>
+id: ACT/13/50
+next:
+  id: ACT/13/51
+  number: '51'
+previous:
+  id: ACT/13/49
+  number: '49'
+reference: 'Acts 13:50'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 4:4" class="v">4</span>Then
+  Joshua called the twelve men, whom he had prepared of the children of Israel,
+  out of every tribe a man: </p>
+id: JOS/4/4
+next:
+  id: JOS/4/5
+  number: '5'
+previous:
+  id: JOS/4/3
+  number: '3'
+reference: 'Joshua 4:4'

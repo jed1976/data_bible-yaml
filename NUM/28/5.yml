@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 28:5" class="v">5</span>And a
+  tenth <span class="add">part</span> of an ephah of flour for a meat offering,
+  mingled with the fourth <span class="add">part</span> of an hin of beaten oil.
+  </p>
+id: NUM/28/5
+next:
+  id: NUM/28/6
+  number: '6'
+previous:
+  id: NUM/28/4
+  number: '4'
+reference: 'Numbers 28:5'

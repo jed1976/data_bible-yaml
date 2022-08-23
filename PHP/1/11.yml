@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PHP 1:11"
+  class="v">11</span>Being filled with the fruits of righteousness, which are by
+  Jesus Christ, unto the glory and praise of God.</p>
+id: PHP/1/11
+next:
+  id: PHP/1/12
+  number: '12'
+previous:
+  id: PHP/1/10
+  number: '10'
+reference: 'Philippians 1:11'

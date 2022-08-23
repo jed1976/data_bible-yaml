@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 18:11"
+  class="v">11</span><span class="wj">For the Son of man is come to save that
+  which was lost.</span> </p>
+id: MAT/18/11
+next:
+  id: MAT/18/12
+  number: '12'
+previous:
+  id: MAT/18/10
+  number: '10'
+reference: 'Matthew 18:11'

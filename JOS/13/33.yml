@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOS 13:33"
+  class="v">33</span>But unto the tribe of Levi Moses gave not <span
+  class="add">any</span> inheritance: the <span class="nd">LORD</span> God of
+  Israel <span class="add">was</span> their inheritance, as he said unto
+  them.</p>
+id: JOS/13/33
+next:
+  id: JOS/14/1
+  number: '1'
+previous:
+  id: JOS/13/32
+  number: '32'
+reference: 'Joshua 13:33'

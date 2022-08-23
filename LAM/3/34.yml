@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LAM 3:34" class="v">34</span>To
+  crush under his feet all the prisoners of the earth, </p>
+id: LAM/3/34
+next:
+  id: LAM/3/35
+  number: '35'
+previous:
+  id: LAM/3/33
+  number: '33'
+reference: 'Lamentations 3:34'

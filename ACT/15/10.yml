@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 15:10"
+  class="v">10</span>Now therefore why tempt ye God, to put a yoke upon the neck
+  of the disciples, which neither our fathers nor we were able to bear? </p>
+id: ACT/15/10
+next:
+  id: ACT/15/11
+  number: '11'
+previous:
+  id: ACT/15/9
+  number: '9'
+reference: 'Acts 15:10'

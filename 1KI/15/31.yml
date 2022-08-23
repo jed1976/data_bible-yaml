@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="1KI 15:31" class="v">31</span>¶
+  Now the rest of the acts of Nadab, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Israel? </p>
+id: 1KI/15/31
+next:
+  id: 1KI/15/32
+  number: '32'
+previous:
+  id: 1KI/15/30
+  number: '30'
+reference: '1 Kings 15:31'

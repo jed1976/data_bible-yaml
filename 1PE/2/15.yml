@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1PE 2:15" class="v">15</span>For
+  so is the will of God, that with well doing ye may put to silence the
+  ignorance of foolish men: </p>
+id: 1PE/2/15
+next:
+  id: 1PE/2/16
+  number: '16'
+previous:
+  id: 1PE/2/14
+  number: '14'
+reference: '1 Peter 2:15'

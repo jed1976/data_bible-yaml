@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="ISA 44:28"
+  class="v">28</span>That saith of Cyrus, <span class="add">He is</span> my
+  shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou
+  shalt be built; and to the temple, Thy foundation shall be laid.</p>
+id: ISA/44/28
+next:
+  id: ISA/45/1
+  number: '1'
+previous:
+  id: ISA/44/27
+  number: '27'
+reference: 'Isaiah 44:28'

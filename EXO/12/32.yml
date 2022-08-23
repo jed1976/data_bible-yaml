@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EXO 12:32"
+  class="v">32</span>Also take your flocks and your herds, as ye have said, and
+  be gone; and bless me also. </p>
+id: EXO/12/32
+next:
+  id: EXO/12/33
+  number: '33'
+previous:
+  id: EXO/12/31
+  number: '31'
+reference: 'Exodus 12:32'

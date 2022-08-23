@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NEH 6:17" class="v">17</span>¶
+  Moreover in those days the nobles of Judah sent many letters unto Tobiah, and
+  <span class="add">the letters</span> of Tobiah came unto them. </p>
+id: NEH/6/17
+next:
+  id: NEH/6/18
+  number: '18'
+previous:
+  id: NEH/6/16
+  number: '16'
+reference: 'Nehemiah 6:17'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 24:3" class="v">3</span>And
+  Joab said unto the king, Now the <span class="nd">LORD</span> thy God add unto
+  the people, how many soever they be, an hundredfold, and that the eyes of my
+  lord the king may see <span class="add">it:</span> but why doth my lord the
+  king delight in this thing? </p>
+id: 2SA/24/3
+next:
+  id: 2SA/24/4
+  number: '4'
+previous:
+  id: 2SA/24/2
+  number: '2'
+reference: '2 Samuel 24:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 52:7" class="v">7</span>Then
+  the city was broken up, and all the men of war fled, and went forth out of the
+  city by night by the way of the gate between the two walls, which <span
+  class="add">was</span> by the king’s garden; (now the Chaldeans <span
+  class="add">were</span> by the city round about:) and they went by the way of
+  the plain.</p>
+id: JER/52/7
+next:
+  id: JER/52/8
+  number: '8'
+previous:
+  id: JER/52/6
+  number: '6'
+reference: 'Jeremiah 52:7'

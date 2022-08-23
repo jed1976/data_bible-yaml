@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="RUT 1:20" class="v">20</span>And
+  she said unto them, Call me not Naomi, call me Mara: for the Almighty hath
+  dealt very bitterly with me. </p>
+id: RUT/1/20
+next:
+  id: RUT/1/21
+  number: '21'
+previous:
+  id: RUT/1/19
+  number: '19'
+reference: 'Ruth 1:20'

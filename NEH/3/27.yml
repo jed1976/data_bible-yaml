@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NEH 3:27"
+  class="v">27</span>After them the Tekoites repaired another piece, over
+  against the great tower that lieth out, even unto the wall of Ophel. </p>
+id: NEH/3/27
+next:
+  id: NEH/3/28
+  number: '28'
+previous:
+  id: NEH/3/26
+  number: '26'
+reference: 'Nehemiah 3:27'

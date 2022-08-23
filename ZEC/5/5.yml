@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 5:5" class="v">5</span>¶ Then
+  the angel that talked with me went forth, and said unto me, Lift up now thine
+  eyes, and see what <span class="add">is</span> this that goeth forth. </p>
+id: ZEC/5/5
+next:
+  id: ZEC/5/6
+  number: '6'
+previous:
+  id: ZEC/5/4
+  number: '4'
+reference: 'Zechariah 5:5'

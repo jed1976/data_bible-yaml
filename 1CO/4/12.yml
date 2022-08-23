@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 4:12" class="v">12</span>And
+  labour, working with our own hands: being reviled, we bless; being persecuted,
+  we suffer it: </p>
+id: 1CO/4/12
+next:
+  id: 1CO/4/13
+  number: '13'
+previous:
+  id: 1CO/4/11
+  number: '11'
+reference: '1 Corinthians 4:12'

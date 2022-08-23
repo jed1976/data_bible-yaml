@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 5:40" class="v">40</span>And
+  to him they agreed: and when they had called the apostles, and beaten <span
+  class="add">them</span>, they commanded that they should not speak in the name
+  of Jesus, and let them go.</p>
+id: ACT/5/40
+next:
+  id: ACT/5/41
+  number: '41'
+previous:
+  id: ACT/5/39
+  number: '39'
+reference: 'Acts 5:40'

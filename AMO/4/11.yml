@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 4:11" class="v">11</span>I
+  have overthrown <span class="add">some</span> of you, as God overthrew Sodom
+  and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have
+  ye not returned unto me, saith the <span class="nd">LORD</span>. </p>
+id: AMO/4/11
+next:
+  id: AMO/4/12
+  number: '12'
+previous:
+  id: AMO/4/10
+  number: '10'
+reference: 'Amos 4:11'

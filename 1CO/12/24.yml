@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CO 12:24"
+  class="v">24</span>For our comely <span class="add">parts</span> have no need:
+  but God hath tempered the body together, having given more abundant honour to
+  that <span class="add">part</span> which lacked: </p>
+id: 1CO/12/24
+next:
+  id: 1CO/12/25
+  number: '25'
+previous:
+  id: 1CO/12/23
+  number: '23'
+reference: '1 Corinthians 12:24'

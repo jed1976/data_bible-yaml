@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 21:5" class="v">5</span>Then
+  Jesus saith unto them, <span class="wj">Children, have ye any meat?</span>
+  They answered him, No. </p>
+id: JHN/21/5
+next:
+  id: JHN/21/6
+  number: '6'
+previous:
+  id: JHN/21/4
+  number: '4'
+reference: 'John 21:5'

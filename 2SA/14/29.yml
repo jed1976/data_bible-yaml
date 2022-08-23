@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="2SA 14:29"
+  class="v">29</span>Therefore Absalom sent for Joab, to have sent him to the
+  king; but he would not come to him: and when he sent again the second time, he
+  would not come. </p>
+id: 2SA/14/29
+next:
+  id: 2SA/14/30
+  number: '30'
+previous:
+  id: 2SA/14/28
+  number: '28'
+reference: '2 Samuel 14:29'

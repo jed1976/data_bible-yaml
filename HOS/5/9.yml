@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 5:9"
+  class="v">9</span>Ephraim shall be desolate in the day of rebuke: among the
+  tribes of Israel have I made known that which shall surely be. </p>
+id: HOS/5/9
+next:
+  id: HOS/5/10
+  number: '10'
+previous:
+  id: HOS/5/8
+  number: '8'
+reference: 'Hosea 5:9'

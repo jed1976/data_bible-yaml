@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 49:9" class="v">9</span>That
+  thou mayest say to the prisoners, Go forth; to them that <span
+  class="add">are</span> in darkness, Shew yourselves. They shall feed in the
+  ways, and their pastures <span class="add">shall be</span> in all high places.
+  </p>
+id: ISA/49/9
+next:
+  id: ISA/49/10
+  number: '10'
+previous:
+  id: ISA/49/8
+  number: '8'
+reference: 'Isaiah 49:9'

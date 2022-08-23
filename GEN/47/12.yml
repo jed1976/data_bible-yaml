@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 47:12"
+  class="v">12</span>And Joseph nourished his father, and his brethren, and all
+  his father’s household, with bread, according to <span
+  class="add">their</span> families.</p>
+id: GEN/47/12
+next:
+  id: GEN/47/13
+  number: '13'
+previous:
+  id: GEN/47/11
+  number: '11'
+reference: 'Genesis 47:12'

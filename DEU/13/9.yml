@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 13:9" class="v">9</span>But
+  thou shalt surely kill him; thine hand shall be first upon him to put him to
+  death, and afterwards the hand of all the people. </p>
+id: DEU/13/9
+next:
+  id: DEU/13/10
+  number: '10'
+previous:
+  id: DEU/13/8
+  number: '8'
+reference: 'Deuteronomy 13:9'

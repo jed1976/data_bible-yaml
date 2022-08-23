@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 1:13" class="v">13</span>But
+  to which of the angels said he at any time, Sit on my right hand, until I make
+  thine enemies thy footstool? </p>
+id: HEB/1/13
+next:
+  id: HEB/1/14
+  number: '14'
+previous:
+  id: HEB/1/12
+  number: '12'
+reference: 'Hebrews 1:13'

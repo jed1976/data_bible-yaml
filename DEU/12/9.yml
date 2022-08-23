@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 12:9" class="v">9</span>For
+  ye are not as yet come to the rest and to the inheritance, which the <span
+  class="nd">LORD</span> your God giveth you. </p>
+id: DEU/12/9
+next:
+  id: DEU/12/10
+  number: '10'
+previous:
+  id: DEU/12/8
+  number: '8'
+reference: 'Deuteronomy 12:9'

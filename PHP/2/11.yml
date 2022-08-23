@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PHP 2:11" class="v">11</span>And
+  <span class="add">that</span> every tongue should confess that Jesus Christ
+  <span class="add">is</span> Lord, to the glory of God the Father.</p>
+id: PHP/2/11
+next:
+  id: PHP/2/12
+  number: '12'
+previous:
+  id: PHP/2/10
+  number: '10'
+reference: 'Philippians 2:11'

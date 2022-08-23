@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 6:4"
+  class="v">4</span>Return, O <span class="nd">LORD</span>, deliver my soul: oh
+  save me for thy mercies’ sake.</p>
+id: PSA/6/4
+next:
+  id: PSA/6/5
+  number: '5'
+previous:
+  id: PSA/6/3
+  number: '3'
+reference: 'Psalms 6:4'

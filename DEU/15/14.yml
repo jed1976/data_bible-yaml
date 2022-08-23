@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 15:14"
+  class="v">14</span>Thou shalt furnish him liberally out of thy flock, and out
+  of thy floor, and out of thy winepress: <span class="add">of that</span>
+  wherewith the <span class="nd">LORD</span> thy God hath blessed thee thou
+  shalt give unto him. </p>
+id: DEU/15/14
+next:
+  id: DEU/15/15
+  number: '15'
+previous:
+  id: DEU/15/13
+  number: '13'
+reference: 'Deuteronomy 15:14'

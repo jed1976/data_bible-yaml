@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JER 50:32"
+  class="v">32</span>And the most proud shall stumble and fall, and none shall
+  raise him up: and I will kindle a fire in his cities, and it shall devour all
+  round about him.</p>
+id: JER/50/32
+next:
+  id: JER/50/33
+  number: '33'
+previous:
+  id: JER/50/31
+  number: '31'
+reference: 'Jeremiah 50:32'

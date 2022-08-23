@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 5:1" class="v">1</span>I am
+  come into my garden, my sister, <span class="add">my</span> spouse: I have
+  gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I
+  have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly,
+  O beloved.</p>
+id: SNG/5/1
+next:
+  id: SNG/5/2
+  number: '2'
+previous:
+  id: SNG/4/16
+  number: '16'
+reference: 'Song of Solomon 5:1'

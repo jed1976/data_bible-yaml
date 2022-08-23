@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 8:7" class="v">7</span>For my
+  mouth shall speak truth; and wickedness <span class="add">is</span> an
+  abomination to my lips. </p>
+id: PRO/8/7
+next:
+  id: PRO/8/8
+  number: '8'
+previous:
+  id: PRO/8/6
+  number: '6'
+reference: 'Proverbs 8:7'

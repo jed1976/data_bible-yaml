@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 14:23"
+  class="v">23</span>And when he had sent the multitudes away, he went up into a
+  mountain apart to pray: and when the evening was come, he was there alone.
+  </p>
+id: MAT/14/23
+next:
+  id: MAT/14/24
+  number: '24'
+previous:
+  id: MAT/14/22
+  number: '22'
+reference: 'Matthew 14:23'

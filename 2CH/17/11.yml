@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 17:11"
+  class="v">11</span>Also <span class="add">some</span> of the Philistines
+  brought Jehoshaphat presents, and tribute silver; and the Arabians brought him
+  flocks, seven thousand and seven hundred rams, and seven thousand and seven
+  hundred he goats.</p>
+id: 2CH/17/11
+next:
+  id: 2CH/17/12
+  number: '12'
+previous:
+  id: 2CH/17/10
+  number: '10'
+reference: '2 Chronicles 17:11'

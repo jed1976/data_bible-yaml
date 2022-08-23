@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAL 4:5" class="v">5</span>¶
+  Behold, I will send you Elijah the prophet before the coming of the great and
+  dreadful day of the <span class="nd">LORD</span>: </p>
+id: MAL/4/5
+next:
+  id: MAL/4/6
+  number: '6'
+previous:
+  id: MAL/4/4
+  number: '4'
+reference: 'Malachi 4:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 106:29"
+  class="v">29</span>Thus they provoked <span class="add">him</span> to anger
+  with their inventions: and the plague brake in upon them.</p>
+id: PSA/106/29
+next:
+  id: PSA/106/30
+  number: '30'
+previous:
+  id: PSA/106/28
+  number: '28'
+reference: 'Psalms 106:29'

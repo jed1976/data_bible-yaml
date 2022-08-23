@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PHP 2:24" class="v">24</span>But
+  I trust in the Lord that I also myself shall come shortly. </p>
+id: PHP/2/24
+next:
+  id: PHP/2/25
+  number: '25'
+previous:
+  id: PHP/2/23
+  number: '23'
+reference: 'Philippians 2:24'

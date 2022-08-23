@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="143" data-sid="PSA 119:143"
+  class="v">143</span>Trouble and anguish have taken hold on me: <span
+  class="add">yet</span> thy commandments <span class="add">are</span> my
+  delights.</p>
+id: PSA/119/143
+next:
+  id: PSA/119/144
+  number: '144'
+previous:
+  id: PSA/119/142
+  number: '142'
+reference: 'Psalms 119:143'

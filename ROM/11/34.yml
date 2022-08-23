@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ROM 11:34"
+  class="v">34</span>For who hath known the mind of the Lord? or who hath been
+  his counsellor? </p>
+id: ROM/11/34
+next:
+  id: ROM/11/35
+  number: '35'
+previous:
+  id: ROM/11/33
+  number: '33'
+reference: 'Romans 11:34'

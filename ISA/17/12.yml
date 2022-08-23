@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 17:12" class="v">12</span>¶
+  Woe to the multitude of many people, <span class="add">which</span> make a
+  noise like the noise of the seas; and to the rushing of nations, <span
+  class="add">that</span> make a rushing like the rushing of mighty waters! </p>
+id: ISA/17/12
+next:
+  id: ISA/17/13
+  number: '13'
+previous:
+  id: ISA/17/11
+  number: '11'
+reference: 'Isaiah 17:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 13:8" class="v">8</span>And
+  they shall be afraid: pangs and sorrows shall take hold of them; they shall be
+  in pain as a woman that travaileth: they shall be amazed one at another; their
+  faces <span class="add">shall be as</span> flames. </p>
+id: ISA/13/8
+next:
+  id: ISA/13/9
+  number: '9'
+previous:
+  id: ISA/13/7
+  number: '7'
+reference: 'Isaiah 13:8'

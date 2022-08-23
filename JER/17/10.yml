@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 17:10" class="v">10</span>I
+  the <span class="nd">LORD</span> search the heart, <span class="add">I</span>
+  try the reins, even to give every man according to his ways, <span
+  class="add">and</span> according to the fruit of his doings. </p>
+id: JER/17/10
+next:
+  id: JER/17/11
+  number: '11'
+previous:
+  id: JER/17/9
+  number: '9'
+reference: 'Jeremiah 17:10'

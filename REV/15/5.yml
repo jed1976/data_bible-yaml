@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 15:5" class="v">5</span>And
+  after that I looked, and, behold, the temple of the tabernacle of the
+  testimony in heaven was opened: </p>
+id: REV/15/5
+next:
+  id: REV/15/6
+  number: '6'
+previous:
+  id: REV/15/4
+  number: '4'
+reference: 'Revelation 15:5'

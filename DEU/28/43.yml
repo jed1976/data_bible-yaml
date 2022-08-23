@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DEU 28:43"
+  class="v">43</span>The stranger that <span class="add">is</span> within thee
+  shall get up above thee very high; and thou shalt come down very low. </p>
+id: DEU/28/43
+next:
+  id: DEU/28/44
+  number: '44'
+previous:
+  id: DEU/28/42
+  number: '42'
+reference: 'Deuteronomy 28:43'

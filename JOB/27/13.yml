@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 27:13"
+  class="v">13</span>This <span class="add">is</span> the portion of a wicked
+  man with God, and the heritage of oppressors, <span class="add">which</span>
+  they shall receive of the Almighty. </p>
+id: JOB/27/13
+next:
+  id: JOB/27/14
+  number: '14'
+previous:
+  id: JOB/27/12
+  number: '12'
+reference: 'Job 27:13'

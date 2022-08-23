@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 18:8" class="v">8</span>And
+  the king of Israel called for one <span class="add">of his</span> officers,
+  and said, Fetch quickly Micaiah the son of Imla. </p>
+id: 2CH/18/8
+next:
+  id: 2CH/18/9
+  number: '9'
+previous:
+  id: 2CH/18/7
+  number: '7'
+reference: '2 Chronicles 18:8'

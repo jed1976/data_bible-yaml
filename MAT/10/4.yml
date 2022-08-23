@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 10:4" class="v">4</span>Simon
+  the Canaanite, and Judas Iscariot, who also betrayed him. </p>
+id: MAT/10/4
+next:
+  id: MAT/10/5
+  number: '5'
+previous:
+  id: MAT/10/3
+  number: '3'
+reference: 'Matthew 10:4'

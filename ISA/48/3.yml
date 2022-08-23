@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 48:3" class="v">3</span>I
+  have declared the former things from the beginning; and they went forth out of
+  my mouth, and I shewed them; I did <span class="add">them</span> suddenly, and
+  they came to pass. </p>
+id: ISA/48/3
+next:
+  id: ISA/48/4
+  number: '4'
+previous:
+  id: ISA/48/2
+  number: '2'
+reference: 'Isaiah 48:3'

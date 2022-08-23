@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DAN 2:42" class="v">42</span>And
+  <span class="add">as</span> the toes of the feet <span class="add">were</span>
+  part of iron, and part of clay, <span class="add">so</span> the kingdom shall
+  be partly strong, and partly broken. </p>
+id: DAN/2/42
+next:
+  id: DAN/2/43
+  number: '43'
+previous:
+  id: DAN/2/41
+  number: '41'
+reference: 'Daniel 2:42'

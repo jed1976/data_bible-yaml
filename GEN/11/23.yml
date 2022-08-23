@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 11:23"
+  class="v">23</span>And Serug lived after he begat Nahor two hundred years, and
+  begat sons and daughters. </p>
+id: GEN/11/23
+next:
+  id: GEN/11/24
+  number: '24'
+previous:
+  id: GEN/11/22
+  number: '22'
+reference: 'Genesis 11:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MAT 27:44"
+  class="v">44</span>The thieves also, which were crucified with him, cast the
+  same in his teeth. </p>
+id: MAT/27/44
+next:
+  id: MAT/27/45
+  number: '45'
+previous:
+  id: MAT/27/43
+  number: '43'
+reference: 'Matthew 27:44'

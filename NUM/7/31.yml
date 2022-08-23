@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 7:31" class="v">31</span>His
+  offering <span class="add">was</span> one silver charger of the weight of an
+  hundred and thirty <span class="add">shekels</span>, one silver bowl of
+  seventy shekels, after the shekel of the sanctuary; both of them full of fine
+  flour mingled with oil for a meat offering: </p>
+id: NUM/7/31
+next:
+  id: NUM/7/32
+  number: '32'
+previous:
+  id: NUM/7/30
+  number: '30'
+reference: 'Numbers 7:31'

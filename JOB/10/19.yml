@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 10:19" class="v">19</span>I
+  should have been as though I had not been; I should have been carried from the
+  womb to the grave. </p>
+id: JOB/10/19
+next:
+  id: JOB/10/20
+  number: '20'
+previous:
+  id: JOB/10/18
+  number: '18'
+reference: 'Job 10:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="REV 16:18"
+  class="v">18</span>And there were voices, and thunders, and lightnings; and
+  there was a great earthquake, such as was not since men were upon the earth,
+  so mighty an earthquake, <span class="add">and</span> so great. </p>
+id: REV/16/18
+next:
+  id: REV/16/19
+  number: '19'
+previous:
+  id: REV/16/17
+  number: '17'
+reference: 'Revelation 16:18'

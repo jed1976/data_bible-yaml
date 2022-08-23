@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 24:4" class="v">4</span>The
+  earth mourneth <span class="add">and</span> fadeth away, the world languisheth
+  <span class="add">and</span> fadeth away, the haughty people of the earth do
+  languish. </p>
+id: ISA/24/4
+next:
+  id: ISA/24/5
+  number: '5'
+previous:
+  id: ISA/24/3
+  number: '3'
+reference: 'Isaiah 24:4'

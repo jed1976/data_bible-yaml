@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 16:3" class="v">3</span>And
+  Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten
+  years in the land of Canaan, and gave her to her husband Abram to be his
+  wife.</p>
+id: GEN/16/3
+next:
+  id: GEN/16/4
+  number: '4'
+previous:
+  id: GEN/16/2
+  number: '2'
+reference: 'Genesis 16:3'

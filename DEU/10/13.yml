@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 10:13" class="v">13</span>To
+  keep the commandments of the <span class="nd">LORD</span>, and his statutes,
+  which I command thee this day for thy good? </p>
+id: DEU/10/13
+next:
+  id: DEU/10/14
+  number: '14'
+previous:
+  id: DEU/10/12
+  number: '12'
+reference: 'Deuteronomy 10:13'

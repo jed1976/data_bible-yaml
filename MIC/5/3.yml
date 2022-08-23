@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MIC 5:3"
+  class="v">3</span>Therefore will he give them up, until the time <span
+  class="add">that</span> she which travaileth hath brought forth: then the
+  remnant of his brethren shall return unto the children of Israel.</p>
+id: MIC/5/3
+next:
+  id: MIC/5/4
+  number: '4'
+previous:
+  id: MIC/5/2
+  number: '2'
+reference: 'Micah 5:3'

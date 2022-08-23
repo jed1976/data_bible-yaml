@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 55:13"
+  class="v">13</span>Instead of the thorn shall come up the fir tree, and
+  instead of the brier shall come up the myrtle tree: and it shall be to the
+  <span class="nd">LORD</span> for a name, for an everlasting sign <span
+  class="add">that</span> shall not be cut off.</p>
+id: ISA/55/13
+next:
+  id: ISA/56/1
+  number: '1'
+previous:
+  id: ISA/55/12
+  number: '12'
+reference: 'Isaiah 55:13'

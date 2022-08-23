@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LEV 13:56"
+  class="v">56</span>And if the priest look, and, behold, the plague <span
+  class="add">be</span> somewhat dark after the washing of it; then he shall
+  rend it out of the garment, or out of the skin, or out of the warp, or out of
+  the woof: </p>
+id: LEV/13/56
+next:
+  id: LEV/13/57
+  number: '57'
+previous:
+  id: LEV/13/55
+  number: '55'
+reference: 'Leviticus 13:56'

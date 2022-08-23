@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">Michtam of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 16:1" class="v">1</span>Preserve me, O God: for in thee do I put
+  my trust.</p>
+id: PSA/16/1
+next:
+  id: PSA/16/2
+  number: '2'
+previous:
+  id: PSA/15/5
+  number: '5'
+reference: 'Psalms 16:1'

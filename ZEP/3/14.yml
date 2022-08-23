@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ZEP 3:14" class="v">14</span>¶
+  Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the
+  heart, O daughter of Jerusalem. </p>
+id: ZEP/3/14
+next:
+  id: ZEP/3/15
+  number: '15'
+previous:
+  id: ZEP/3/13
+  number: '13'
+reference: 'Zephaniah 3:14'

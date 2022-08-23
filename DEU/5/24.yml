@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 5:24" class="v">24</span>And
+  ye said, Behold, the <span class="nd">LORD</span> our God hath shewed us his
+  glory and his greatness, and we have heard his voice out of the midst of the
+  fire: we have seen this day that God doth talk with man, and he liveth. </p>
+id: DEU/5/24
+next:
+  id: DEU/5/25
+  number: '25'
+previous:
+  id: DEU/5/23
+  number: '23'
+reference: 'Deuteronomy 5:24'

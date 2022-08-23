@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 17:12"
+  class="v">12</span>Therefore many of them believed; also of honourable women
+  which were Greeks, and of men, not a few. </p>
+id: ACT/17/12
+next:
+  id: ACT/17/13
+  number: '13'
+previous:
+  id: ACT/17/11
+  number: '11'
+reference: 'Acts 17:12'

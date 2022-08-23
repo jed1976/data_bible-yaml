@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 77:14"
+  class="v">14</span>Thou <span class="add">art</span> the God that doest
+  wonders: thou hast declared thy strength among the people.</p>
+id: PSA/77/14
+next:
+  id: PSA/77/15
+  number: '15'
+previous:
+  id: PSA/77/13
+  number: '13'
+reference: 'Psalms 77:14'

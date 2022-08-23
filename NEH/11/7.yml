@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 11:7" class="v">7</span>And
+  these <span class="add">are</span> the sons of Benjamin; Sallu the son of
+  Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of
+  Maaseiah, the son of Ithiel, the son of Jesaiah. </p>
+id: NEH/11/7
+next:
+  id: NEH/11/8
+  number: '8'
+previous:
+  id: NEH/11/6
+  number: '6'
+reference: 'Nehemiah 11:7'

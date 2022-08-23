@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 1:13"
+  class="v">13</span>Then let our countenances be looked upon before thee, and
+  the countenance of the children that eat of the portion of the king’s meat:
+  and as thou seest, deal with thy servants. </p>
+id: DAN/1/13
+next:
+  id: DAN/1/14
+  number: '14'
+previous:
+  id: DAN/1/12
+  number: '12'
+reference: 'Daniel 1:13'

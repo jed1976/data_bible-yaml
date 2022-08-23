@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 12:9" class="v">9</span><span
+  class="add">Let</span> love be without dissimulation. Abhor that which is
+  evil; cleave to that which is good. </p>
+id: ROM/12/9
+next:
+  id: ROM/12/10
+  number: '10'
+previous:
+  id: ROM/12/8
+  number: '8'
+reference: 'Romans 12:9'

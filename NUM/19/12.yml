@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 19:12" class="v">12</span>He
+  shall purify himself with it on the third day, and on the seventh day he shall
+  be clean: but if he purify not himself the third day, then the seventh day he
+  shall not be clean. </p>
+id: NUM/19/12
+next:
+  id: NUM/19/13
+  number: '13'
+previous:
+  id: NUM/19/11
+  number: '11'
+reference: 'Numbers 19:12'

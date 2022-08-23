@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 16:10"
+  class="v">10</span>And Delilah said unto Samson, Behold, thou hast mocked me,
+  and told me lies: now tell me, I pray thee, wherewith thou mightest be bound.
+  </p>
+id: JDG/16/10
+next:
+  id: JDG/16/11
+  number: '11'
+previous:
+  id: JDG/16/9
+  number: '9'
+reference: 'Judges 16:10'

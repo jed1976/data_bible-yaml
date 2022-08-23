@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 3:4" class="v">4</span>And
+  Nadab and Abihu died before the <span class="nd">LORD</span>, when they
+  offered strange fire before the <span class="nd">LORD</span>, in the
+  wilderness of Sinai, and they had no children: and Eleazar and Ithamar
+  ministered in the priest’s office in the sight of Aaron their father.</p>
+id: NUM/3/4
+next:
+  id: NUM/3/5
+  number: '5'
+previous:
+  id: NUM/3/3
+  number: '3'
+reference: 'Numbers 3:4'

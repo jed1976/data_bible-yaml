@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 59:7" class="v">7</span>Their
+  feet run to evil, and they make haste to shed innocent blood: their thoughts
+  <span class="add">are</span> thoughts of iniquity; wasting and destruction
+  <span class="add">are</span> in their paths. </p>
+id: ISA/59/7
+next:
+  id: ISA/59/8
+  number: '8'
+previous:
+  id: ISA/59/6
+  number: '6'
+reference: 'Isaiah 59:7'

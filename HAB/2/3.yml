@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HAB 2:3" class="v">3</span>For
+  the vision <span class="add">is</span> yet for an appointed time, but at the
+  end it shall speak, and not lie: though it tarry, wait for it; because it will
+  surely come, it will not tarry. </p>
+id: HAB/2/3
+next:
+  id: HAB/2/4
+  number: '4'
+previous:
+  id: HAB/2/2
+  number: '2'
+reference: 'Habakkuk 2:3'

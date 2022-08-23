@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 11:15"
+  class="v">15</span>And as I began to speak, the Holy Ghost fell on them, as on
+  us at the beginning. </p>
+id: ACT/11/15
+next:
+  id: ACT/11/16
+  number: '16'
+previous:
+  id: ACT/11/14
+  number: '14'
+reference: 'Acts 11:15'

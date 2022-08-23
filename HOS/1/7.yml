@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 1:7" class="v">7</span>But I
+  will have mercy upon the house of Judah, and will save them by the <span
+  class="nd">LORD</span> their God, and will not save them by bow, nor by sword,
+  nor by battle, by horses, nor by horsemen.</p>
+id: HOS/1/7
+next:
+  id: HOS/1/8
+  number: '8'
+previous:
+  id: HOS/1/6
+  number: '6'
+reference: 'Hosea 1:7'

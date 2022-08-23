@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 57:2" class="v">2</span>I
+  will cry unto God most high; unto God that performeth <span class="add">all
+  things</span> for me.</p>
+id: PSA/57/2
+next:
+  id: PSA/57/3
+  number: '3'
+previous:
+  id: PSA/57/1
+  number: '1'
+reference: 'Psalms 57:2'

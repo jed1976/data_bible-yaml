@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 18:1" class="v">1</span>And
+  it came to pass <span class="add">after</span> many days, that the word of the
+  <span class="nd">LORD</span> came to Elijah in the third year, saying, Go,
+  shew thyself unto Ahab; and I will send rain upon the earth. </p>
+id: 1KI/18/1
+next:
+  id: 1KI/18/2
+  number: '2'
+previous:
+  id: 1KI/17/24
+  number: '24'
+reference: '1 Kings 18:1'

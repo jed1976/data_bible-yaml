@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 12:5" class="v">5</span>And
+  the <span class="nd">LORD</span> came down in the pillar of the cloud, and
+  stood <span class="add">in</span> the door of the tabernacle, and called Aaron
+  and Miriam: and they both came forth. </p>
+id: NUM/12/5
+next:
+  id: NUM/12/6
+  number: '6'
+previous:
+  id: NUM/12/4
+  number: '4'
+reference: 'Numbers 12:5'

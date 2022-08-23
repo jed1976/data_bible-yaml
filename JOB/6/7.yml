@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 6:7" class="v">7</span>The
+  things <span class="add">that</span> my soul refused to touch <span
+  class="add">are</span> as my sorrowful meat.</p>
+id: JOB/6/7
+next:
+  id: JOB/6/8
+  number: '8'
+previous:
+  id: JOB/6/6
+  number: '6'
+reference: 'Job 6:7'

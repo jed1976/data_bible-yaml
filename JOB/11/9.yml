@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 11:9" class="v">9</span>The
+  measure thereof <span class="add">is</span> longer than the earth, and broader
+  than the sea. </p>
+id: JOB/11/9
+next:
+  id: JOB/11/10
+  number: '10'
+previous:
+  id: JOB/11/8
+  number: '8'
+reference: 'Job 11:9'

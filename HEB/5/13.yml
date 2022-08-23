@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 5:13" class="v">13</span>For
+  every one that useth milk <span class="add">is</span> unskilful in the word of
+  righteousness: for he is a babe. </p>
+id: HEB/5/13
+next:
+  id: HEB/5/14
+  number: '14'
+previous:
+  id: HEB/5/12
+  number: '12'
+reference: 'Hebrews 5:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ROM 9:17" class="v">17</span>For
+  the scripture saith unto Pharaoh, Even for this same purpose have I raised
+  thee up, that I might shew my power in thee, and that my name might be
+  declared throughout all the earth. </p>
+id: ROM/9/17
+next:
+  id: ROM/9/18
+  number: '18'
+previous:
+  id: ROM/9/16
+  number: '16'
+reference: 'Romans 9:17'

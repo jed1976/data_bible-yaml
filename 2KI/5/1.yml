@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 5:1" class="v">1</span>Now
+  Naaman, captain of the host of the king of Syria, was a great man with his
+  master, and honourable, because by him the <span class="nd">LORD</span> had
+  given deliverance unto Syria: he was also a mighty man in valour, <span
+  class="add">but he was</span> a leper. </p>
+id: 2KI/5/1
+next:
+  id: 2KI/5/2
+  number: '2'
+previous:
+  id: 2KI/4/44
+  number: '44'
+reference: '2 Kings 5:1'

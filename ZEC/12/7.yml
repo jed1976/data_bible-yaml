@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 12:7" class="v">7</span>The
+  <span class="nd">LORD</span> also shall save the tents of Judah first, that
+  the glory of the house of David and the glory of the inhabitants of Jerusalem
+  do not magnify <span class="add">themselves</span> against Judah. </p>
+id: ZEC/12/7
+next:
+  id: ZEC/12/8
+  number: '8'
+previous:
+  id: ZEC/12/6
+  number: '6'
+reference: 'Zechariah 12:7'

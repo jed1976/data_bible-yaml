@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 65:5" class="v">5</span>Which
+  say, Stand by thyself, come not near to me; for I am holier than thou. These
+  <span class="add">are</span> a smoke in my nose, a fire that burneth all the
+  day. </p>
+id: ISA/65/5
+next:
+  id: ISA/65/6
+  number: '6'
+previous:
+  id: ISA/65/4
+  number: '4'
+reference: 'Isaiah 65:5'

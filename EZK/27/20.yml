@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 27:20"
+  class="v">20</span>Dedan <span class="add">was</span> thy merchant in precious
+  clothes for chariots. </p>
+id: EZK/27/20
+next:
+  id: EZK/27/21
+  number: '21'
+previous:
+  id: EZK/27/19
+  number: '19'
+reference: 'Ezekiel 27:20'

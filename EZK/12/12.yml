@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 12:12"
+  class="v">12</span>And the prince that <span class="add">is</span> among them
+  shall bear upon <span class="add">his</span> shoulder in the twilight, and
+  shall go forth: they shall dig through the wall to carry out thereby: he shall
+  cover his face, that he see not the ground with <span class="add">his</span>
+  eyes. </p>
+id: EZK/12/12
+next:
+  id: EZK/12/13
+  number: '13'
+previous:
+  id: EZK/12/11
+  number: '11'
+reference: 'Ezekiel 12:12'

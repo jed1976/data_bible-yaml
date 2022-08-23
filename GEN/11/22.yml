@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 11:22"
+  class="v">22</span>And Serug lived thirty years, and begat Nahor: </p>
+id: GEN/11/22
+next:
+  id: GEN/11/23
+  number: '23'
+previous:
+  id: GEN/11/21
+  number: '21'
+reference: 'Genesis 11:22'

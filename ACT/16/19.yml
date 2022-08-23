@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 16:19" class="v">19</span>¶
+  And when her masters saw that the hope of their gains was gone, they caught
+  Paul and Silas, and drew <span class="add">them</span> into the marketplace
+  unto the rulers, </p>
+id: ACT/16/19
+next:
+  id: ACT/16/20
+  number: '20'
+previous:
+  id: ACT/16/18
+  number: '18'
+reference: 'Acts 16:19'

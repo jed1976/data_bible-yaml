@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 8:16" class="v">16</span>And
+  all the people that <span class="add">were</span> in Ai were called together
+  to pursue after them: and they pursued after Joshua, and were drawn away from
+  the city. </p>
+id: JOS/8/16
+next:
+  id: JOS/8/17
+  number: '17'
+previous:
+  id: JOS/8/15
+  number: '15'
+reference: 'Joshua 8:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="EZR 2:66"
+  class="v">66</span>Their horses <span class="add">were</span> seven hundred
+  thirty and six; their mules, two hundred forty and five; </p>
+id: EZR/2/66
+next:
+  id: EZR/2/67
+  number: '67'
+previous:
+  id: EZR/2/65
+  number: '65'
+reference: 'Ezra 2:66'

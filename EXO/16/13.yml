@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 16:13"
+  class="v">13</span>And it came to pass, that at even the quails came up, and
+  covered the camp: and in the morning the dew lay round about the host. </p>
+id: EXO/16/13
+next:
+  id: EXO/16/14
+  number: '14'
+previous:
+  id: EXO/16/12
+  number: '12'
+reference: 'Exodus 16:13'

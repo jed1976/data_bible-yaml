@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 26:27"
+  class="v">27</span>And Isaac said unto them, Wherefore come ye to me, seeing
+  ye hate me, and have sent me away from you? </p>
+id: GEN/26/27
+next:
+  id: GEN/26/28
+  number: '28'
+previous:
+  id: GEN/26/26
+  number: '26'
+reference: 'Genesis 26:27'

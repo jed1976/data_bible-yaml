@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 16:9" class="v">9</span>And
+  Aaron shall bring the goat upon which the <span class="nd">LORD’s</span> lot
+  fell, and offer him <span class="add">for</span> a sin offering. </p>
+id: LEV/16/9
+next:
+  id: LEV/16/10
+  number: '10'
+previous:
+  id: LEV/16/8
+  number: '8'
+reference: 'Leviticus 16:9'

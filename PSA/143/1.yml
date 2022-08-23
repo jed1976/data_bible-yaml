@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 143:1" class="v">1</span>Hear my prayer, O <span
+  class="nd">LORD</span>, give ear to my supplications: in thy faithfulness
+  answer me, <span class="add">and</span> in thy righteousness.</p>
+id: PSA/143/1
+next:
+  id: PSA/143/2
+  number: '2'
+previous:
+  id: PSA/142/7
+  number: '7'
+reference: 'Psalms 143:1'

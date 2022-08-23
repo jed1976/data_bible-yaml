@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 7:22" class="v">22</span>And
+  it shall come to pass, for the abundance of milk <span class="add">that</span>
+  they shall give he shall eat butter: for butter and honey shall every one eat
+  that is left in the land. </p>
+id: ISA/7/22
+next:
+  id: ISA/7/23
+  number: '23'
+previous:
+  id: ISA/7/21
+  number: '21'
+reference: 'Isaiah 7:22'

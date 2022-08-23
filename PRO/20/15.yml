@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 20:15"
+  class="v">15</span>There is gold, and a multitude of rubies: but the lips of
+  knowledge <span class="add">are</span> a precious jewel. </p>
+id: PRO/20/15
+next:
+  id: PRO/20/16
+  number: '16'
+previous:
+  id: PRO/20/14
+  number: '14'
+reference: 'Proverbs 20:15'

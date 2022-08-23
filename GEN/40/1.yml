@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 40:1" class="v">1</span>And
+  it came to pass after these things, <span class="add">that</span> the butler
+  of the king of Egypt and <span class="add">his</span> baker had offended their
+  lord the king of Egypt. </p>
+id: GEN/40/1
+next:
+  id: GEN/40/2
+  number: '2'
+previous:
+  id: GEN/39/23
+  number: '23'
+reference: 'Genesis 40:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 44:19"
+  class="v">19</span>Though thou hast sore broken us in the place of dragons,
+  and covered us with the shadow of death.</p>
+id: PSA/44/19
+next:
+  id: PSA/44/20
+  number: '20'
+previous:
+  id: PSA/44/18
+  number: '18'
+reference: 'Psalms 44:19'

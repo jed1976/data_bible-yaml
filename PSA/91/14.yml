@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 91:14"
+  class="v">14</span>Because he hath set his love upon me, therefore will I
+  deliver him: I will set him on high, because he hath known my name.</p>
+id: PSA/91/14
+next:
+  id: PSA/91/15
+  number: '15'
+previous:
+  id: PSA/91/13
+  number: '13'
+reference: 'Psalms 91:14'

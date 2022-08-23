@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 24:3" class="v">3</span>¶ And
+  as he sat upon the mount of Olives, the disciples came unto him privately,
+  saying, Tell us, when shall these things be? and what <span class="add">shall
+  be</span> the sign of thy coming, and of the end of the world? </p>
+id: MAT/24/3
+next:
+  id: MAT/24/4
+  number: '4'
+previous:
+  id: MAT/24/2
+  number: '2'
+reference: 'Matthew 24:3'

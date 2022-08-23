@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 11:20"
+  class="v">20</span>Then Martha, as soon as she heard that Jesus was coming,
+  went and met him: but Mary sat <span class="add">still</span> in the house.
+  </p>
+id: JHN/11/20
+next:
+  id: JHN/11/21
+  number: '21'
+previous:
+  id: JHN/11/19
+  number: '19'
+reference: 'John 11:20'

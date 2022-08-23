@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DAN 3:17" class="v">17</span>If
+  it be <span class="add">so</span>, our God whom we serve is able to deliver us
+  from the burning fiery furnace, and he will deliver <span
+  class="add">us</span> out of thine hand, O king. </p>
+id: DAN/3/17
+next:
+  id: DAN/3/18
+  number: '18'
+previous:
+  id: DAN/3/16
+  number: '16'
+reference: 'Daniel 3:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CH 18:15"
+  class="v">15</span>And Joab the son of Zeruiah <span class="add">was</span>
+  over the host; and Jehoshaphat the son of Ahilud, recorder. </p>
+id: 1CH/18/15
+next:
+  id: 1CH/18/16
+  number: '16'
+previous:
+  id: 1CH/18/14
+  number: '14'
+reference: '1 Chronicles 18:15'

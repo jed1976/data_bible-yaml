@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="NUM 1:50" class="v">50</span>But
+  thou shalt appoint the Levites over the tabernacle of testimony, and over all
+  the vessels thereof, and over all things that <span class="add">belong</span>
+  to it: they shall bear the tabernacle, and all the vessels thereof; and they
+  shall minister unto it, and shall encamp round about the tabernacle. </p>
+id: NUM/1/50
+next:
+  id: NUM/1/51
+  number: '51'
+previous:
+  id: NUM/1/49
+  number: '49'
+reference: 'Numbers 1:50'

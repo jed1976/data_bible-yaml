@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 45:17"
+  class="v">17</span>And Pharaoh said unto Joseph, Say unto thy brethren, This
+  do ye; lade your beasts, and go, get you unto the land of Canaan; </p>
+id: GEN/45/17
+next:
+  id: GEN/45/18
+  number: '18'
+previous:
+  id: GEN/45/16
+  number: '16'
+reference: 'Genesis 45:17'

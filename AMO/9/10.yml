@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 9:10" class="v">10</span>All
+  the sinners of my people shall die by the sword, which say, The evil shall not
+  overtake nor prevent us.</p>
+id: AMO/9/10
+next:
+  id: AMO/9/11
+  number: '11'
+previous:
+  id: AMO/9/9
+  number: '9'
+reference: 'Amos 9:10'

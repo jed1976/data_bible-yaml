@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 38:20"
+  class="v">20</span>That thou shouldest take it to the bound thereof, and that
+  thou shouldest know the paths <span class="add">to</span> the house thereof?
+  </p>
+id: JOB/38/20
+next:
+  id: JOB/38/21
+  number: '21'
+previous:
+  id: JOB/38/19
+  number: '19'
+reference: 'Job 38:20'

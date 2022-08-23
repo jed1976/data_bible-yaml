@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 22:14"
+  class="v">14</span>Thick clouds <span class="add">are</span> a covering to
+  him, that he seeth not; and he walketh in the circuit of heaven.</p>
+id: JOB/22/14
+next:
+  id: JOB/22/15
+  number: '15'
+previous:
+  id: JOB/22/13
+  number: '13'
+reference: 'Job 22:14'

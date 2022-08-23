@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 4:19" class="v">19</span>The
+  way of the wicked <span class="add">is</span> as darkness: they know not at
+  what they stumble.</p>
+id: PRO/4/19
+next:
+  id: PRO/4/20
+  number: '20'
+previous:
+  id: PRO/4/18
+  number: '18'
+reference: 'Proverbs 4:19'

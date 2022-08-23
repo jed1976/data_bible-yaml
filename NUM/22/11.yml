@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 22:11"
+  class="v">11</span>Behold, <span class="add">there is</span> a people come out
+  of Egypt, which covereth the face of the earth: come now, curse me them;
+  peradventure I shall be able to overcome them, and drive them out. </p>
+id: NUM/22/11
+next:
+  id: NUM/22/12
+  number: '12'
+previous:
+  id: NUM/22/10
+  number: '10'
+reference: 'Numbers 22:11'

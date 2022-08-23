@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 28:6"
+  class="v">6</span>Blessed <span class="add">shalt</span> thou <span
+  class="add">be</span> when thou comest in, and blessed <span
+  class="add">shalt</span> thou <span class="add">be</span> when thou goest out.
+  </p>
+id: DEU/28/6
+next:
+  id: DEU/28/7
+  number: '7'
+previous:
+  id: DEU/28/5
+  number: '5'
+reference: 'Deuteronomy 28:6'

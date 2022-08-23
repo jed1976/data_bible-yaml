@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 13:21"
+  class="v">21</span>But if the priest look on it, and, behold, <span
+  class="add">there be</span> no white hairs therein, and <span
+  class="add">if</span> it <span class="add">be</span> not lower than the skin,
+  but <span class="add">be</span> somewhat dark; then the priest shall shut him
+  up seven days: </p>
+id: LEV/13/21
+next:
+  id: LEV/13/22
+  number: '22'
+previous:
+  id: LEV/13/20
+  number: '20'
+reference: 'Leviticus 13:21'

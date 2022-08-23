@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CO 13:8"
+  class="v">8</span>Charity never faileth: but whether <span class="add">there
+  be</span> prophecies, they shall fail; whether <span class="add">there
+  be</span> tongues, they shall cease; whether <span class="add">there be</span>
+  knowledge, it shall vanish away. </p>
+id: 1CO/13/8
+next:
+  id: 1CO/13/9
+  number: '9'
+previous:
+  id: 1CO/13/7
+  number: '7'
+reference: '1 Corinthians 13:8'

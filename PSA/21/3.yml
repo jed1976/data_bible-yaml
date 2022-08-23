@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 21:3" class="v">3</span>For
+  thou preventest him with the blessings of goodness: thou settest a crown of
+  pure gold on his head.</p>
+id: PSA/21/3
+next:
+  id: PSA/21/4
+  number: '4'
+previous:
+  id: PSA/21/2
+  number: '2'
+reference: 'Psalms 21:3'

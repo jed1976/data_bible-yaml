@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 5:26"
+  class="v">26</span><span class="wj">Verily I say unto thee, Thou shalt by no
+  means come out thence, till thou hast paid the uttermost farthing.</span></p>
+id: MAT/5/26
+next:
+  id: MAT/5/27
+  number: '27'
+previous:
+  id: MAT/5/25
+  number: '25'
+reference: 'Matthew 5:26'

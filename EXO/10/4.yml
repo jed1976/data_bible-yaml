@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 10:4" class="v">4</span>Else,
+  if thou refuse to let my people go, behold, to morrow will I bring the locusts
+  into thy coast: </p>
+id: EXO/10/4
+next:
+  id: EXO/10/5
+  number: '5'
+previous:
+  id: EXO/10/3
+  number: '3'
+reference: 'Exodus 10:4'

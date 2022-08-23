@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 87:5" class="v">5</span>And
+  of Zion it shall be said, This and that man was born in her: and the highest
+  himself shall establish her.</p>
+id: PSA/87/5
+next:
+  id: PSA/87/6
+  number: '6'
+previous:
+  id: PSA/87/4
+  number: '4'
+reference: 'Psalms 87:5'

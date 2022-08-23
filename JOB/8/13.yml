@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 8:13" class="v">13</span>So
+  <span class="add">are</span> the paths of all that forget God; and the
+  hypocrite’s hope shall perish: </p>
+id: JOB/8/13
+next:
+  id: JOB/8/14
+  number: '14'
+previous:
+  id: JOB/8/12
+  number: '12'
+reference: 'Job 8:13'

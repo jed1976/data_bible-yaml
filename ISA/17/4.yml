@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 17:4" class="v">4</span>And
+  in that day it shall come to pass, <span class="add">that</span> the glory of
+  Jacob shall be made thin, and the fatness of his flesh shall wax lean. </p>
+id: ISA/17/4
+next:
+  id: ISA/17/5
+  number: '5'
+previous:
+  id: ISA/17/3
+  number: '3'
+reference: 'Isaiah 17:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 3:4" class="v">4</span>Will a
+  lion roar in the forest, when he hath no prey? will a young lion cry out of
+  his den, if he have taken nothing? </p>
+id: AMO/3/4
+next:
+  id: AMO/3/5
+  number: '5'
+previous:
+  id: AMO/3/3
+  number: '3'
+reference: 'Amos 3:4'

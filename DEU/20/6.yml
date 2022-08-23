@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 20:6" class="v">6</span>And
+  what man <span class="add">is he</span> that hath planted a vineyard, and hath
+  not <span class="add">yet</span> eaten of it? let him <span
+  class="add">also</span> go and return unto his house, lest he die in the
+  battle, and another man eat of it. </p>
+id: DEU/20/6
+next:
+  id: DEU/20/7
+  number: '7'
+previous:
+  id: DEU/20/5
+  number: '5'
+reference: 'Deuteronomy 20:6'

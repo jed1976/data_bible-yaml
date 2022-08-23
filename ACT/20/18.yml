@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 20:18"
+  class="v">18</span>And when they were come to him, he said unto them, Ye know,
+  from the first day that I came into Asia, after what manner I have been with
+  you at all seasons, </p>
+id: ACT/20/18
+next:
+  id: ACT/20/19
+  number: '19'
+previous:
+  id: ACT/20/17
+  number: '17'
+reference: 'Acts 20:18'

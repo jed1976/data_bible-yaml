@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="ACT 13:51"
+  class="v">51</span>But they shook off the dust of their feet against them, and
+  came unto Iconium. </p>
+id: ACT/13/51
+next:
+  id: ACT/13/52
+  number: '52'
+previous:
+  id: ACT/13/50
+  number: '50'
+reference: 'Acts 13:51'

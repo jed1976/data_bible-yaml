@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="COL 3:6" class="v">6</span>For
+  which things’ sake the wrath of God cometh on the children of disobedience:
+  </p>
+id: COL/3/6
+next:
+  id: COL/3/7
+  number: '7'
+previous:
+  id: COL/3/5
+  number: '5'
+reference: 'Colossians 3:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1KI 13:33" class="v">33</span>¶
+  After this thing Jeroboam returned not from his evil way, but made again of
+  the lowest of the people priests of the high places: whosoever would, he
+  consecrated him, and he became <span class="add">one</span> of the priests of
+  the high places. </p>
+id: 1KI/13/33
+next:
+  id: 1KI/13/34
+  number: '34'
+previous:
+  id: 1KI/13/32
+  number: '32'
+reference: '1 Kings 13:33'

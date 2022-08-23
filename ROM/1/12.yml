@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 1:12"
+  class="v">12</span>That is, that I may be comforted together with you by the
+  mutual faith both of you and me. </p>
+id: ROM/1/12
+next:
+  id: ROM/1/13
+  number: '13'
+previous:
+  id: ROM/1/11
+  number: '11'
+reference: 'Romans 1:12'

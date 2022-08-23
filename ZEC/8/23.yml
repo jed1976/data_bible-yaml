@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ZEC 8:23"
+  class="v">23</span>Thus saith the <span class="nd">LORD</span> of hosts; In
+  those days <span class="add">it shall come to pass</span>, that ten men shall
+  take hold out of all languages of the nations, even shall take hold of the
+  skirt of him that is a Jew, saying, We will go with you: for we have heard
+  <span class="add">that</span> God <span class="add">is</span> with you.</p>
+id: ZEC/8/23
+next:
+  id: ZEC/9/1
+  number: '1'
+previous:
+  id: ZEC/8/22
+  number: '22'
+reference: 'Zechariah 8:23'

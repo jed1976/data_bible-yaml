@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 7:1" class="v">1</span>Now
+  after these things, in the reign of Artaxerxes king of Persia, Ezra the son of
+  Seraiah, the son of Azariah, the son of Hilkiah, </p>
+id: EZR/7/1
+next:
+  id: EZR/7/2
+  number: '2'
+previous:
+  id: EZR/6/22
+  number: '22'
+reference: 'Ezra 7:1'

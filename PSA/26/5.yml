@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 26:5" class="v">5</span>I
+  have hated the congregation of evil doers; and will not sit with the
+  wicked.</p>
+id: PSA/26/5
+next:
+  id: PSA/26/6
+  number: '6'
+previous:
+  id: PSA/26/4
+  number: '4'
+reference: 'Psalms 26:5'

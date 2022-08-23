@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 40:13"
+  class="v">13</span>Yet within three days shall Pharaoh lift up thine head, and
+  restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his
+  hand, after the former manner when thou wast his butler. </p>
+id: GEN/40/13
+next:
+  id: GEN/40/14
+  number: '14'
+previous:
+  id: GEN/40/12
+  number: '12'
+reference: 'Genesis 40:13'

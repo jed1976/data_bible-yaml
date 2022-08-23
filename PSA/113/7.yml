@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 113:7" class="v">7</span>He
+  raiseth up the poor out of the dust, <span class="add">and</span> lifteth the
+  needy out of the dunghill;</p>
+id: PSA/113/7
+next:
+  id: PSA/113/8
+  number: '8'
+previous:
+  id: PSA/113/6
+  number: '6'
+reference: 'Psalms 113:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 75:6"
+  class="v">6</span>For promotion <span class="add">cometh</span> neither from
+  the east, nor from the west, nor from the south.</p>
+id: PSA/75/6
+next:
+  id: PSA/75/7
+  number: '7'
+previous:
+  id: PSA/75/5
+  number: '5'
+reference: 'Psalms 75:6'

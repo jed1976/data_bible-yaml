@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 11:21"
+  class="v">21</span>That your days may be multiplied, and the days of your
+  children, in the land which the <span class="nd">LORD</span> sware unto your
+  fathers to give them, as the days of heaven upon the earth.</p>
+id: DEU/11/21
+next:
+  id: DEU/11/22
+  number: '22'
+previous:
+  id: DEU/11/20
+  number: '20'
+reference: 'Deuteronomy 11:21'

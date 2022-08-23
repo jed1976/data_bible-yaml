@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JOB 38:36"
+  class="v">36</span>Who hath put wisdom in the inward parts? or who hath given
+  understanding to the heart? </p>
+id: JOB/38/36
+next:
+  id: JOB/38/37
+  number: '37'
+previous:
+  id: JOB/38/35
+  number: '35'
+reference: 'Job 38:36'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 6:12" class="v">12</span>And
+  it came to pass in those days, that he went out into a mountain to pray, and
+  continued all night in prayer to God.</p>
+id: LUK/6/12
+next:
+  id: LUK/6/13
+  number: '13'
+previous:
+  id: LUK/6/11
+  number: '11'
+reference: 'Luke 6:12'

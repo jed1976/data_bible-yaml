@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 45:10"
+  class="v">10</span>And thou shalt dwell in the land of Goshen, and thou shalt
+  be near unto me, thou, and thy children, and thy children’s children, and thy
+  flocks, and thy herds, and all that thou hast: </p>
+id: GEN/45/10
+next:
+  id: GEN/45/11
+  number: '11'
+previous:
+  id: GEN/45/9
+  number: '9'
+reference: 'Genesis 45:10'

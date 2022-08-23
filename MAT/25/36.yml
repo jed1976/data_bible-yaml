@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 25:36"
+  class="v">36</span><span class="wj">Naked, and ye clothed me: I was sick, and
+  ye visited me: I was in prison, and ye came unto me.</span> </p>
+id: MAT/25/36
+next:
+  id: MAT/25/37
+  number: '37'
+previous:
+  id: MAT/25/35
+  number: '35'
+reference: 'Matthew 25:36'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 41:5" class="v">5</span>After
+  he measured the wall of the house, six cubits; and the breadth of <span
+  class="add">every</span> side chamber, four cubits, round about the house on
+  every side. </p>
+id: EZK/41/5
+next:
+  id: EZK/41/6
+  number: '6'
+previous:
+  id: EZK/41/4
+  number: '4'
+reference: 'Ezekiel 41:5'

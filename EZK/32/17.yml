@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EZK 32:17" class="v">17</span>¶
+  It came to pass also in the twelfth year, in the fifteenth <span
+  class="add">day</span> of the month, <span class="add">that</span> the word of
+  the <span class="nd">LORD</span> came unto me, saying, </p>
+id: EZK/32/17
+next:
+  id: EZK/32/18
+  number: '18'
+previous:
+  id: EZK/32/16
+  number: '16'
+reference: 'Ezekiel 32:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="LUK 1:64" class="v">64</span>And
+  his mouth was opened immediately, and his tongue <span
+  class="add">loosed</span>, and he spake, and praised God. </p>
+id: LUK/1/64
+next:
+  id: LUK/1/65
+  number: '65'
+previous:
+  id: LUK/1/63
+  number: '63'
+reference: 'Luke 1:64'

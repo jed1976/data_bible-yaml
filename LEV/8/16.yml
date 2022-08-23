@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 8:16" class="v">16</span>And
+  he took all the fat that <span class="add">was</span> upon the inwards, and
+  the caul <span class="add">above</span> the liver, and the two kidneys, and
+  their fat, and Moses burned <span class="add">it</span> upon the altar. </p>
+id: LEV/8/16
+next:
+  id: LEV/8/17
+  number: '17'
+previous:
+  id: LEV/8/15
+  number: '15'
+reference: 'Leviticus 8:16'

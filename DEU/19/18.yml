@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 19:18"
+  class="v">18</span>And the judges shall make diligent inquisition: and,
+  behold, <span class="add">if</span> the witness <span class="add">be</span> a
+  false witness, <span class="add">and</span> hath testified falsely against his
+  brother; </p>
+id: DEU/19/18
+next:
+  id: DEU/19/19
+  number: '19'
+previous:
+  id: DEU/19/17
+  number: '17'
+reference: 'Deuteronomy 19:18'

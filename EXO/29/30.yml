@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 29:30"
+  class="v">30</span><span class="add">And</span> that son that is priest in his
+  stead shall put them on seven days, when he cometh into the tabernacle of the
+  congregation to minister in the holy <span class="add">place</span>.</p>
+id: EXO/29/30
+next:
+  id: EXO/29/31
+  number: '31'
+previous:
+  id: EXO/29/29
+  number: '29'
+reference: 'Exodus 29:30'

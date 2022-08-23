@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1TH 5:8" class="v">8</span>But
+  let us, who are of the day, be sober, putting on the breastplate of faith and
+  love; and for an helmet, the hope of salvation. </p>
+id: 1TH/5/8
+next:
+  id: 1TH/5/9
+  number: '9'
+previous:
+  id: 1TH/5/7
+  number: '7'
+reference: '1 Thessalonians 5:8'

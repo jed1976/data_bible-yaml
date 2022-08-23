@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 1:6" class="v">6</span>But
+  Adoni-bezek fled; and they pursued after him, and caught him, and cut off his
+  thumbs and his great toes. </p>
+id: JDG/1/6
+next:
+  id: JDG/1/7
+  number: '7'
+previous:
+  id: JDG/1/5
+  number: '5'
+reference: 'Judges 1:6'

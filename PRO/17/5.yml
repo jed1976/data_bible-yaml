@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 17:5" class="v">5</span>Whoso
+  mocketh the poor reproacheth his Maker: <span class="add">and</span> he that
+  is glad at calamities shall not be unpunished. </p>
+id: PRO/17/5
+next:
+  id: PRO/17/6
+  number: '6'
+previous:
+  id: PRO/17/4
+  number: '4'
+reference: 'Proverbs 17:5'

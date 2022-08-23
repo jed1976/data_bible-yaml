@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 7:22" class="v">22</span>He
+  goeth after her straightway, as an ox goeth to the slaughter, or as a fool to
+  the correction of the stocks; </p>
+id: PRO/7/22
+next:
+  id: PRO/7/23
+  number: '23'
+previous:
+  id: PRO/7/21
+  number: '21'
+reference: 'Proverbs 7:22'

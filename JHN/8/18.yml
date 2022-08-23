@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 8:18"
+  class="v">18</span><span class="wj">I am one that bear witness of myself, and
+  the Father that sent me beareth witness of me.</span> </p>
+id: JHN/8/18
+next:
+  id: JHN/8/19
+  number: '19'
+previous:
+  id: JHN/8/17
+  number: '17'
+reference: 'John 8:18'

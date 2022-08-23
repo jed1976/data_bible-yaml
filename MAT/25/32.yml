@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 25:32"
+  class="v">32</span><span class="wj">And before him shall be gathered all
+  nations: and he shall separate them one from another, as a shepherd divideth
+  <span class="add">his</span> sheep from the goats:</span> </p>
+id: MAT/25/32
+next:
+  id: MAT/25/33
+  number: '33'
+previous:
+  id: MAT/25/31
+  number: '31'
+reference: 'Matthew 25:32'

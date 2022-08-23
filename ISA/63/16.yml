@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 63:16"
+  class="v">16</span>Doubtless thou <span class="add">art</span> our father,
+  though Abraham be ignorant of us, and Israel acknowledge us not: thou, O <span
+  class="nd">LORD</span>, <span class="add">art</span> our father, our redeemer;
+  thy name <span class="add">is</span> from everlasting.</p>
+id: ISA/63/16
+next:
+  id: ISA/63/17
+  number: '17'
+previous:
+  id: ISA/63/15
+  number: '15'
+reference: 'Isaiah 63:16'

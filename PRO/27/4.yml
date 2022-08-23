@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 27:4" class="v">4</span>Wrath
+  <span class="add">is</span> cruel, and anger <span class="add">is</span>
+  outrageous; but who <span class="add">is</span> able to stand before envy?</p>
+id: PRO/27/4
+next:
+  id: PRO/27/5
+  number: '5'
+previous:
+  id: PRO/27/3
+  number: '3'
+reference: 'Proverbs 27:4'

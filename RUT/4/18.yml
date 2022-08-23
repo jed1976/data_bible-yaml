@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="RUT 4:18" class="v">18</span>¶
+  Now these <span class="add">are</span> the generations of Pharez: Pharez begat
+  Hezron, </p>
+id: RUT/4/18
+next:
+  id: RUT/4/19
+  number: '19'
+previous:
+  id: RUT/4/17
+  number: '17'
+reference: 'Ruth 4:18'

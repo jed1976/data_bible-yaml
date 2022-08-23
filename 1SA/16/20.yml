@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 16:20"
+  class="v">20</span>And Jesse took an ass <span class="add">laden</span> with
+  bread, and a bottle of wine, and a kid, and sent <span class="add">them</span>
+  by David his son unto Saul. </p>
+id: 1SA/16/20
+next:
+  id: 1SA/16/21
+  number: '21'
+previous:
+  id: 1SA/16/19
+  number: '19'
+reference: '1 Samuel 16:20'

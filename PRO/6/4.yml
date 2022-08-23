@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 6:4" class="v">4</span>Give
+  not sleep to thine eyes, nor slumber to thine eyelids. </p>
+id: PRO/6/4
+next:
+  id: PRO/6/5
+  number: '5'
+previous:
+  id: PRO/6/3
+  number: '3'
+reference: 'Proverbs 6:4'

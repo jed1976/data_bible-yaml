@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 14:16"
+  class="v">16</span>The little owl, and the great owl, and the swan, </p>
+id: DEU/14/16
+next:
+  id: DEU/14/17
+  number: '17'
+previous:
+  id: DEU/14/15
+  number: '15'
+reference: 'Deuteronomy 14:16'

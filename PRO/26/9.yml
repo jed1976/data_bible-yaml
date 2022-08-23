@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 26:9" class="v">9</span><span
+  class="add">As</span> a thorn goeth up into the hand of a drunkard, so <span
+  class="add">is</span> a parable in the mouth of fools. </p>
+id: PRO/26/9
+next:
+  id: PRO/26/10
+  number: '10'
+previous:
+  id: PRO/26/8
+  number: '8'
+reference: 'Proverbs 26:9'

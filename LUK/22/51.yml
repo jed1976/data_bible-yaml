@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="LUK 22:51"
+  class="v">51</span>And Jesus answered and said, <span class="wj">Suffer ye
+  thus far.</span> And he touched his ear, and healed him. </p>
+id: LUK/22/51
+next:
+  id: LUK/22/52
+  number: '52'
+previous:
+  id: LUK/22/50
+  number: '50'
+reference: 'Luke 22:51'

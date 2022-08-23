@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 8:9" class="v">9</span>But
+  there was a certain man, called Simon, which beforetime in the same city used
+  sorcery, and bewitched the people of Samaria, giving out that himself was some
+  great one: </p>
+id: ACT/8/9
+next:
+  id: ACT/8/10
+  number: '10'
+previous:
+  id: ACT/8/8
+  number: '8'
+reference: 'Acts 8:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="MRK 11:28"
+  class="v">28</span>And say unto him, By what authority doest thou these
+  things? and who gave thee this authority to do these things? </p>
+id: MRK/11/28
+next:
+  id: MRK/11/29
+  number: '29'
+previous:
+  id: MRK/11/27
+  number: '27'
+reference: 'Mark 11:28'

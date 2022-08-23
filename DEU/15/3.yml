@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 15:3" class="v">3</span>Of a
+  foreigner thou mayest exact <span class="add">it again:</span> but <span
+  class="add">that</span> which is thine with thy brother thine hand shall
+  release; </p>
+id: DEU/15/3
+next:
+  id: DEU/15/4
+  number: '4'
+previous:
+  id: DEU/15/2
+  number: '2'
+reference: 'Deuteronomy 15:3'

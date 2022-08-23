@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CO 4:8" class="v">8</span><span
+  class="add">We are</span> troubled on every side, yet not distressed; <span
+  class="add">we are</span> perplexed, but not in despair; </p>
+id: 2CO/4/8
+next:
+  id: 2CO/4/9
+  number: '9'
+previous:
+  id: 2CO/4/7
+  number: '7'
+reference: '2 Corinthians 4:8'

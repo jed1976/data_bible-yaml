@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 4:11" class="v">11</span>And
+  upon the golden altar they shall spread a cloth of blue, and cover it with a
+  covering of badgers’ skins, and shall put to the staves thereof: </p>
+id: NUM/4/11
+next:
+  id: NUM/4/12
+  number: '12'
+previous:
+  id: NUM/4/10
+  number: '10'
+reference: 'Numbers 4:11'

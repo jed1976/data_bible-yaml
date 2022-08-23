@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 4:11"
+  class="v">11</span>Then the devil leaveth him, and, behold, angels came and
+  ministered unto him.</p>
+id: MAT/4/11
+next:
+  id: MAT/4/12
+  number: '12'
+previous:
+  id: MAT/4/10
+  number: '10'
+reference: 'Matthew 4:11'

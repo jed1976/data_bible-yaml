@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 77:10"
+  class="v">10</span>And I said, This <span class="add">is</span> my infirmity:
+  <span class="add">but I will remember</span> the years of the right hand of
+  the most High.</p>
+id: PSA/77/10
+next:
+  id: PSA/77/11
+  number: '11'
+previous:
+  id: PSA/77/9
+  number: '9'
+reference: 'Psalms 77:10'

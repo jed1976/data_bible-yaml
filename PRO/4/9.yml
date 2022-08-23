@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 4:9" class="v">9</span>She
+  shall give to thine head an ornament of grace: a crown of glory shall she
+  deliver to thee. </p>
+id: PRO/4/9
+next:
+  id: PRO/4/10
+  number: '10'
+previous:
+  id: PRO/4/8
+  number: '8'
+reference: 'Proverbs 4:9'

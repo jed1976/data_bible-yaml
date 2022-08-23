@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2SA 19:1" class="v">1</span>And
+  it was told Joab, Behold, the king weepeth and mourneth for Absalom. </p>
+id: 2SA/19/1
+next:
+  id: 2SA/19/2
+  number: '2'
+previous:
+  id: 2SA/18/33
+  number: '33'
+reference: '2 Samuel 19:1'

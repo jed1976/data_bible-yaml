@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 47:13"
+  class="v">13</span>Thou art wearied in the multitude of thy counsels. Let now
+  the astrologers, the stargazers, the monthly prognosticators, stand up, and
+  save thee from <span class="add">these things</span> that shall come upon
+  thee. </p>
+id: ISA/47/13
+next:
+  id: ISA/47/14
+  number: '14'
+previous:
+  id: ISA/47/12
+  number: '12'
+reference: 'Isaiah 47:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GAL 4:4" class="v">4</span>But
+  when the fulness of the time was come, God sent forth his Son, made of a
+  woman, made under the law, </p>
+id: GAL/4/4
+next:
+  id: GAL/4/5
+  number: '5'
+previous:
+  id: GAL/4/3
+  number: '3'
+reference: 'Galatians 4:4'

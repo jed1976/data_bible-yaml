@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 33:24" class="v">24</span>¶
+  And of Asher he said, <span class="add">Let</span> Asher <span
+  class="add">be</span> blessed with children; let him be acceptable to his
+  brethren, and let him dip his foot in oil. </p>
+id: DEU/33/24
+next:
+  id: DEU/33/25
+  number: '25'
+previous:
+  id: DEU/33/23
+  number: '23'
+reference: 'Deuteronomy 33:24'

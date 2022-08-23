@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 12:9" class="v">9</span>And
+  moreover, because the preacher was wise, he still taught the people knowledge;
+  yea, he gave good heed, and sought out, <span class="add">and</span> set in
+  order many proverbs. </p>
+id: ECC/12/9
+next:
+  id: ECC/12/10
+  number: '10'
+previous:
+  id: ECC/12/8
+  number: '8'
+reference: 'Ecclesiastes 12:9'

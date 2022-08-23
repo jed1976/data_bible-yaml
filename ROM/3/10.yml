@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 3:10" class="v">10</span>As
+  it is written, There is none righteous, no, not one: </p>
+id: ROM/3/10
+next:
+  id: ROM/3/11
+  number: '11'
+previous:
+  id: ROM/3/9
+  number: '9'
+reference: 'Romans 3:10'

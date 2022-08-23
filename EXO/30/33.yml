@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 30:33"
+  class="v">33</span>Whosoever compoundeth <span class="add">any</span> like it,
+  or whosoever putteth <span class="add">any</span> of it upon a stranger, shall
+  even be cut off from his people.</p>
+id: EXO/30/33
+next:
+  id: EXO/30/34
+  number: '34'
+previous:
+  id: EXO/30/32
+  number: '32'
+reference: 'Exodus 30:33'

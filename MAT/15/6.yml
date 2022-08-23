@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 15:6" class="v">6</span><span
+  class="wj">And honour not his father or his mother, <span class="add">he shall
+  be free</span>. Thus have ye made the commandment of God of none effect by
+  your tradition.</span> </p>
+id: MAT/15/6
+next:
+  id: MAT/15/7
+  number: '7'
+previous:
+  id: MAT/15/5
+  number: '5'
+reference: 'Matthew 15:6'

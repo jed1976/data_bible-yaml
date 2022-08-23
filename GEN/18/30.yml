@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 18:30"
+  class="v">30</span>And he said <span class="add">unto him</span>, Oh let not
+  the Lord be angry, and I will speak: Peradventure there shall thirty be found
+  there. And he said, I will not do <span class="add">it</span>, if I find
+  thirty there. </p>
+id: GEN/18/30
+next:
+  id: GEN/18/31
+  number: '31'
+previous:
+  id: GEN/18/29
+  number: '29'
+reference: 'Genesis 18:30'

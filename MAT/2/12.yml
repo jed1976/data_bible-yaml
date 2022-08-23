@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 2:12" class="v">12</span>And
+  being warned of God in a dream that they should not return to Herod, they
+  departed into their own country another way. </p>
+id: MAT/2/12
+next:
+  id: MAT/2/13
+  number: '13'
+previous:
+  id: MAT/2/11
+  number: '11'
+reference: 'Matthew 2:12'

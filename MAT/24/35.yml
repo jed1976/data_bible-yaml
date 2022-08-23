@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 24:35"
+  class="v">35</span><span class="wj">Heaven and earth shall pass away, but my
+  words shall not pass away.</span></p>
+id: MAT/24/35
+next:
+  id: MAT/24/36
+  number: '36'
+previous:
+  id: MAT/24/34
+  number: '34'
+reference: 'Matthew 24:35'

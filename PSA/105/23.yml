@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 105:23"
+  class="v">23</span>Israel also came into Egypt; and Jacob sojourned in the
+  land of Ham.</p>
+id: PSA/105/23
+next:
+  id: PSA/105/24
+  number: '24'
+previous:
+  id: PSA/105/22
+  number: '22'
+reference: 'Psalms 105:23'

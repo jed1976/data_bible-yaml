@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 11:30"
+  class="v">30</span>And Moses gat him into the camp, he and the elders of
+  Israel.</p>
+id: NUM/11/30
+next:
+  id: NUM/11/31
+  number: '31'
+previous:
+  id: NUM/11/29
+  number: '29'
+reference: 'Numbers 11:30'

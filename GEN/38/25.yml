@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 38:25"
+  class="v">25</span>When she <span class="add">was</span> brought forth, she
+  sent to her father in law, saying, By the man, whose these <span
+  class="add">are, am</span> I with child: and she said, Discern, I pray thee,
+  whose <span class="add">are</span> these, the signet, and bracelets, and
+  staff. </p>
+id: GEN/38/25
+next:
+  id: GEN/38/26
+  number: '26'
+previous:
+  id: GEN/38/24
+  number: '24'
+reference: 'Genesis 38:25'

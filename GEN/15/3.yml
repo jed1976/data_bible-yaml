@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 15:3" class="v">3</span>And
+  Abram said, Behold, to me thou hast given no seed: and, lo, one born in my
+  house is mine heir. </p>
+id: GEN/15/3
+next:
+  id: GEN/15/4
+  number: '4'
+previous:
+  id: GEN/15/2
+  number: '2'
+reference: 'Genesis 15:3'

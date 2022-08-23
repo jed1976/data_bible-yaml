@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 9:11" class="v">11</span>And
+  thou didst divide the sea before them, so that they went through the midst of
+  the sea on the dry land; and their persecutors thou threwest into the deeps,
+  as a stone into the mighty waters. </p>
+id: NEH/9/11
+next:
+  id: NEH/9/12
+  number: '12'
+previous:
+  id: NEH/9/10
+  number: '10'
+reference: 'Nehemiah 9:11'

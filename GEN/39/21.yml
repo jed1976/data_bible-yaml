@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 39:21" class="v">21</span>¶
+  But the <span class="nd">LORD</span> was with Joseph, and shewed him mercy,
+  and gave him favour in the sight of the keeper of the prison. </p>
+id: GEN/39/21
+next:
+  id: GEN/39/22
+  number: '22'
+previous:
+  id: GEN/39/20
+  number: '20'
+reference: 'Genesis 39:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 28:24"
+  class="v">24</span>For he looketh to the ends of the earth, <span
+  class="add">and</span> seeth under the whole heaven; </p>
+id: JOB/28/24
+next:
+  id: JOB/28/25
+  number: '25'
+previous:
+  id: JOB/28/23
+  number: '23'
+reference: 'Job 28:24'

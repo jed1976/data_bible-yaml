@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 8:13" class="v">13</span>And
+  Jesus said unto the centurion, <span class="wj">Go thy way; and as thou hast
+  believed, <span class="add">so</span> be it done unto thee. And his servant
+  was healed in the selfsame hour.</span></p>
+id: MAT/8/13
+next:
+  id: MAT/8/14
+  number: '14'
+previous:
+  id: MAT/8/12
+  number: '12'
+reference: 'Matthew 8:13'

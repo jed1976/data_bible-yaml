@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 4:5" class="v">5</span>¶ And
+  when the camp setteth forward, Aaron shall come, and his sons, and they shall
+  take down the covering vail, and cover the ark of testimony with it: </p>
+id: NUM/4/5
+next:
+  id: NUM/4/6
+  number: '6'
+previous:
+  id: NUM/4/4
+  number: '4'
+reference: 'Numbers 4:5'

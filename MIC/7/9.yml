@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 7:9" class="v">9</span>I will
+  bear the indignation of the <span class="nd">LORD</span>, because I have
+  sinned against him, until he plead my cause, and execute judgment for me: he
+  will bring me forth to the light, <span class="add">and</span> I shall behold
+  his righteousness. </p>
+id: MIC/7/9
+next:
+  id: MIC/7/10
+  number: '10'
+previous:
+  id: MIC/7/8
+  number: '8'
+reference: 'Micah 7:9'

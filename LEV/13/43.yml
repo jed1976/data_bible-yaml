@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LEV 13:43"
+  class="v">43</span>Then the priest shall look upon it: and, behold, <span
+  class="add">if</span> the rising of the sore <span class="add">be</span> white
+  reddish in his bald head, or in his bald forehead, as the leprosy appeareth in
+  the skin of the flesh; </p>
+id: LEV/13/43
+next:
+  id: LEV/13/44
+  number: '44'
+previous:
+  id: LEV/13/42
+  number: '42'
+reference: 'Leviticus 13:43'

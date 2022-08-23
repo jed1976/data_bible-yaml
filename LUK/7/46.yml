@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 7:46"
+  class="v">46</span><span class="wj">My head with oil thou didst not anoint:
+  but this woman hath anointed my feet with ointment.</span> </p>
+id: LUK/7/46
+next:
+  id: LUK/7/47
+  number: '47'
+previous:
+  id: LUK/7/45
+  number: '45'
+reference: 'Luke 7:46'

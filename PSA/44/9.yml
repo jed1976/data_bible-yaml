@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="9" data-sid="PSA 44:9"
+  class="v">9</span>But thou hast cast off, and put us to shame; and goest not
+  forth with our armies.</p>
+id: PSA/44/9
+next:
+  id: PSA/44/10
+  number: '10'
+previous:
+  id: PSA/44/8
+  number: '8'
+reference: 'Psalms 44:9'

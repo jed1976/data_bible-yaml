@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 3:25" class="v">25</span>Ye
+  are the children of the prophets, and of the covenant which God made with our
+  fathers, saying unto Abraham, And in thy seed shall all the kindreds of the
+  earth be blessed. </p>
+id: ACT/3/25
+next:
+  id: ACT/3/26
+  number: '26'
+previous:
+  id: ACT/3/24
+  number: '24'
+reference: 'Acts 3:25'

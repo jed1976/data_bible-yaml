@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 29:15"
+  class="v">15</span>And a several tenth deal to each lamb of the fourteen
+  lambs: </p>
+id: NUM/29/15
+next:
+  id: NUM/29/16
+  number: '16'
+previous:
+  id: NUM/29/14
+  number: '14'
+reference: 'Numbers 29:15'

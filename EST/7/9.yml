@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 7:9" class="v">9</span>And
+  Harbonah, one of the chamberlains, said before the king, Behold also, the
+  gallows fifty cubits high, which Haman had made for Mordecai, who had spoken
+  good for the king, standeth in the house of Haman. Then the king said, Hang
+  him thereon. </p>
+id: EST/7/9
+next:
+  id: EST/7/10
+  number: '10'
+previous:
+  id: EST/7/8
+  number: '8'
+reference: 'Esther 7:9'

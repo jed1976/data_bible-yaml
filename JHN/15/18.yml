@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 15:18"
+  class="v">18</span><span class="wj">If the world hate you, ye know that it
+  hated me before <span class="add">it hated</span> you.</span> </p>
+id: JHN/15/18
+next:
+  id: JHN/15/19
+  number: '19'
+previous:
+  id: JHN/15/17
+  number: '17'
+reference: 'John 15:18'

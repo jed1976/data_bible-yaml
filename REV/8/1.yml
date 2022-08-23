@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 8:1" class="v">1</span>And
+  when he had opened the seventh seal, there was silence in heaven about the
+  space of half an hour. </p>
+id: REV/8/1
+next:
+  id: REV/8/2
+  number: '2'
+previous:
+  id: REV/7/17
+  number: '17'
+reference: 'Revelation 8:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 71:5" class="v">5</span>For
+  thou <span class="add">art</span> my hope, O Lord <span class="nd">GOD</span>:
+  <span class="add">thou art</span> my trust from my youth.</p>
+id: PSA/71/5
+next:
+  id: PSA/71/6
+  number: '6'
+previous:
+  id: PSA/71/4
+  number: '4'
+reference: 'Psalms 71:5'

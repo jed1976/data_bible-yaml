@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 25:4" class="v">4</span>How
+  then can man be justified with God? or how can he be clean <span
+  class="add">that is</span> born of a woman? </p>
+id: JOB/25/4
+next:
+  id: JOB/25/5
+  number: '5'
+previous:
+  id: JOB/25/3
+  number: '3'
+reference: 'Job 25:4'

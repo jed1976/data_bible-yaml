@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 92:6" class="v">6</span>A
+  brutish man knoweth not; neither doth a fool understand this.</p>
+id: PSA/92/6
+next:
+  id: PSA/92/7
+  number: '7'
+previous:
+  id: PSA/92/5
+  number: '5'
+reference: 'Psalms 92:6'

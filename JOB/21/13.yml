@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 21:13"
+  class="v">13</span>They spend their days in wealth, and in a moment go down to
+  the grave. </p>
+id: JOB/21/13
+next:
+  id: JOB/21/14
+  number: '14'
+previous:
+  id: JOB/21/12
+  number: '12'
+reference: 'Job 21:13'

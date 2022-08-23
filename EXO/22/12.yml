@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 22:12"
+  class="v">12</span>And if it be stolen from him, he shall make restitution
+  unto the owner thereof. </p>
+id: EXO/22/12
+next:
+  id: EXO/22/13
+  number: '13'
+previous:
+  id: EXO/22/11
+  number: '11'
+reference: 'Exodus 22:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 107:11"
+  class="v">11</span>Because they rebelled against the words of God, and
+  contemned the counsel of the most High:</p>
+id: PSA/107/11
+next:
+  id: PSA/107/12
+  number: '12'
+previous:
+  id: PSA/107/10
+  number: '10'
+reference: 'Psalms 107:11'

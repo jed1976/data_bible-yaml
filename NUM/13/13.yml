@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 13:13" class="v">13</span>Of
+  the tribe of Asher, Sethur the son of Michael. </p>
+id: NUM/13/13
+next:
+  id: NUM/13/14
+  number: '14'
+previous:
+  id: NUM/13/12
+  number: '12'
+reference: 'Numbers 13:13'

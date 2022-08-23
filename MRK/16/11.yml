@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 16:11"
+  class="v">11</span>And they, when they had heard that he was alive, and had
+  been seen of her, believed not.</p>
+id: MRK/16/11
+next:
+  id: MRK/16/12
+  number: '12'
+previous:
+  id: MRK/16/10
+  number: '10'
+reference: 'Mark 16:11'

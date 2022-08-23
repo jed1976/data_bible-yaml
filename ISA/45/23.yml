@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 45:23" class="v">23</span>I
+  have sworn by myself, the word is gone out of my mouth <span
+  class="add">in</span> righteousness, and shall not return, That unto me every
+  knee shall bow, every tongue shall swear. </p>
+id: ISA/45/23
+next:
+  id: ISA/45/24
+  number: '24'
+previous:
+  id: ISA/45/22
+  number: '22'
+reference: 'Isaiah 45:23'

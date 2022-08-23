@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 5:21" class="v">21</span>And
+  the scribes and the Pharisees began to reason, saying, Who is this which
+  speaketh blasphemies? Who can forgive sins, but God alone? </p>
+id: LUK/5/21
+next:
+  id: LUK/5/22
+  number: '22'
+previous:
+  id: LUK/5/20
+  number: '20'
+reference: 'Luke 5:21'

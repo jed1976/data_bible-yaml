@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MIC 7:16" class="v">16</span>¶
+  The nations shall see and be confounded at all their might: they shall lay
+  <span class="add">their</span> hand upon <span class="add">their</span> mouth,
+  their ears shall be deaf. </p>
+id: MIC/7/16
+next:
+  id: MIC/7/17
+  number: '17'
+previous:
+  id: MIC/7/15
+  number: '15'
+reference: 'Micah 7:16'

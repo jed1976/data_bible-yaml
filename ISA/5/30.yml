@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 5:30" class="v">30</span>And
+  in that day they shall roar against them like the roaring of the sea: and if
+  <span class="add">one</span> look unto the land, behold darkness <span
+  class="add">and</span> sorrow, and the light is darkened in the heavens
+  thereof.</p>
+id: ISA/5/30
+next:
+  id: ISA/6/1
+  number: '1'
+previous:
+  id: ISA/5/29
+  number: '29'
+reference: 'Isaiah 5:30'

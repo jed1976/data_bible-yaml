@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="86" data-sid="PSA 119:86"
+  class="v">86</span>All thy commandments <span class="add">are</span> faithful:
+  they persecute me wrongfully; help thou me.</p>
+id: PSA/119/86
+next:
+  id: PSA/119/87
+  number: '87'
+previous:
+  id: PSA/119/85
+  number: '85'
+reference: 'Psalms 119:86'

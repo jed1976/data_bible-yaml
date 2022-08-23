@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 12:9" class="v">9</span>Also
+  Bakbukiah and Unni, their brethren, <span class="add">were</span> over against
+  them in the watches.</p>
+id: NEH/12/9
+next:
+  id: NEH/12/10
+  number: '10'
+previous:
+  id: NEH/12/8
+  number: '8'
+reference: 'Nehemiah 12:9'

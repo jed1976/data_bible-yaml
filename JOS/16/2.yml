@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOS 16:2" class="v">2</span>And
+  goeth out from Beth-el to Luz, and passeth along unto the borders of Archi to
+  Ataroth, </p>
+id: JOS/16/2
+next:
+  id: JOS/16/3
+  number: '3'
+previous:
+  id: JOS/16/1
+  number: '1'
+reference: 'Joshua 16:2'

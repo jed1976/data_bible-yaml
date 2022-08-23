@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="DEU 4:42"
+  class="v">42</span>That the slayer might flee thither, which should kill his
+  neighbour unawares, and hated him not in times past; and that fleeing unto one
+  of these cities he might live: </p>
+id: DEU/4/42
+next:
+  id: DEU/4/43
+  number: '43'
+previous:
+  id: DEU/4/41
+  number: '41'
+reference: 'Deuteronomy 4:42'

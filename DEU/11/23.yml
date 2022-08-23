@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 11:23"
+  class="v">23</span>Then will the <span class="nd">LORD</span> drive out all
+  these nations from before you, and ye shall possess greater nations and
+  mightier than yourselves. </p>
+id: DEU/11/23
+next:
+  id: DEU/11/24
+  number: '24'
+previous:
+  id: DEU/11/22
+  number: '22'
+reference: 'Deuteronomy 11:23'

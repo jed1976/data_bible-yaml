@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 22:40"
+  class="v">40</span><span class="wj">On these two commandments hang all the law
+  and the prophets.</span></p>
+id: MAT/22/40
+next:
+  id: MAT/22/41
+  number: '41'
+previous:
+  id: MAT/22/39
+  number: '39'
+reference: 'Matthew 22:40'

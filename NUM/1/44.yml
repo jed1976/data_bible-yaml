@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="NUM 1:44"
+  class="v">44</span>These <span class="add">are</span> those that were
+  numbered, which Moses and Aaron numbered, and the princes of Israel, <span
+  class="add">being</span> twelve men: each one was for the house of his
+  fathers. </p>
+id: NUM/1/44
+next:
+  id: NUM/1/45
+  number: '45'
+previous:
+  id: NUM/1/43
+  number: '43'
+reference: 'Numbers 1:44'

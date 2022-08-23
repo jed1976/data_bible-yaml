@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 135:13"
+  class="v">13</span>Thy name, O <span class="nd">LORD</span>, <span
+  class="add">endureth</span> for ever; <span class="add">and</span> thy
+  memorial, O <span class="nd">LORD</span>, throughout all generations.</p>
+id: PSA/135/13
+next:
+  id: PSA/135/14
+  number: '14'
+previous:
+  id: PSA/135/12
+  number: '12'
+reference: 'Psalms 135:13'

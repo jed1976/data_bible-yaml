@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 7:17"
+  class="v">17</span>Thus saith the <span class="nd">LORD</span>, In this thou
+  shalt know that I <span class="add">am</span> the <span
+  class="nd">LORD</span>: behold, I will smite with the rod that <span
+  class="add">is</span> in mine hand upon the waters which <span
+  class="add">are</span> in the river, and they shall be turned to blood. </p>
+id: EXO/7/17
+next:
+  id: EXO/7/18
+  number: '18'
+previous:
+  id: EXO/7/16
+  number: '16'
+reference: 'Exodus 7:17'

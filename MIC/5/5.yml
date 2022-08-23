@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 5:5" class="v">5</span>And
+  this <span class="add">man</span> shall be the peace, when the Assyrian shall
+  come into our land: and when he shall tread in our palaces, then shall we
+  raise against him seven shepherds, and eight principal men. </p>
+id: MIC/5/5
+next:
+  id: MIC/5/6
+  number: '6'
+previous:
+  id: MIC/5/4
+  number: '4'
+reference: 'Micah 5:5'

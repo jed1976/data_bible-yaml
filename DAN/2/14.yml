@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DAN 2:14" class="v">14</span>¶
+  Then Daniel answered with counsel and wisdom to Arioch the captain of the
+  king’s guard, which was gone forth to slay the wise <span
+  class="add">men</span> of Babylon: </p>
+id: DAN/2/14
+next:
+  id: DAN/2/15
+  number: '15'
+previous:
+  id: DAN/2/13
+  number: '13'
+reference: 'Daniel 2:14'

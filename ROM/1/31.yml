@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ROM 1:31"
+  class="v">31</span>Without understanding, covenantbreakers, without natural
+  affection, implacable, unmerciful: </p>
+id: ROM/1/31
+next:
+  id: ROM/1/32
+  number: '32'
+previous:
+  id: ROM/1/30
+  number: '30'
+reference: 'Romans 1:31'

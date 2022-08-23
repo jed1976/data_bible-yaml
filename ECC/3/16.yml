@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 3:16" class="v">16</span>¶
+  And moreover I saw under the sun the place of judgment, <span
+  class="add">that</span> wickedness <span class="add">was</span> there; and the
+  place of righteousness, <span class="add">that</span> iniquity <span
+  class="add">was</span> there. </p>
+id: ECC/3/16
+next:
+  id: ECC/3/17
+  number: '17'
+previous:
+  id: ECC/3/15
+  number: '15'
+reference: 'Ecclesiastes 3:16'

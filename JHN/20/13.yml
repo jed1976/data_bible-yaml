@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 20:13"
+  class="v">13</span>And they say unto her, Woman, why weepest thou? She saith
+  unto them, Because they have taken away my Lord, and I know not where they
+  have laid him. </p>
+id: JHN/20/13
+next:
+  id: JHN/20/14
+  number: '14'
+previous:
+  id: JHN/20/12
+  number: '12'
+reference: 'John 20:13'

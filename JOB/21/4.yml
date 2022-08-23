@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 21:4" class="v">4</span>As
+  for me, <span class="add">is</span> my complaint to man? and if <span
+  class="add">it were so</span>, why should not my spirit be troubled? </p>
+id: JOB/21/4
+next:
+  id: JOB/21/5
+  number: '5'
+previous:
+  id: JOB/21/3
+  number: '3'
+reference: 'Job 21:4'

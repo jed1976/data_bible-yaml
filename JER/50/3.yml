@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 50:3" class="v">3</span>For
+  out of the north there cometh up a nation against her, which shall make her
+  land desolate, and none shall dwell therein: they shall remove, they shall
+  depart, both man and beast.</p>
+id: JER/50/3
+next:
+  id: JER/50/4
+  number: '4'
+previous:
+  id: JER/50/2
+  number: '2'
+reference: 'Jeremiah 50:3'

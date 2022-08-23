@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 20:6" class="v">6</span><span
+  class="wj">And about the eleventh hour he went out, and found others standing
+  idle, and saith unto them, Why stand ye here all the day idle?</span> </p>
+id: MAT/20/6
+next:
+  id: MAT/20/7
+  number: '7'
+previous:
+  id: MAT/20/5
+  number: '5'
+reference: 'Matthew 20:6'

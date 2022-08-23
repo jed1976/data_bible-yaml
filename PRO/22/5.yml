@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 22:5"
+  class="v">5</span>Thorns <span class="add">and</span> snares <span
+  class="add">are</span> in the way of the froward: he that doth keep his soul
+  shall be far from them. </p>
+id: PRO/22/5
+next:
+  id: PRO/22/6
+  number: '6'
+previous:
+  id: PRO/22/4
+  number: '4'
+reference: 'Proverbs 22:5'

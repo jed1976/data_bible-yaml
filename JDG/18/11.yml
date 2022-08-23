@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 18:11" class="v">11</span>¶
+  And there went from thence of the family of the Danites, out of Zorah and out
+  of Eshtaol, six hundred men appointed with weapons of war. </p>
+id: JDG/18/11
+next:
+  id: JDG/18/12
+  number: '12'
+previous:
+  id: JDG/18/10
+  number: '10'
+reference: 'Judges 18:11'

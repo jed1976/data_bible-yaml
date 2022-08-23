@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 9:16"
+  class="v">16</span>Then he took the five loaves and the two fishes, and
+  looking up to heaven, he blessed them, and brake, and gave to the disciples to
+  set before the multitude. </p>
+id: LUK/9/16
+next:
+  id: LUK/9/17
+  number: '17'
+previous:
+  id: LUK/9/15
+  number: '15'
+reference: 'Luke 9:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 13:7" class="v">7</span>There
+  is that maketh himself rich, yet <span class="add">hath</span> nothing: <span
+  class="add">there is</span> that maketh himself poor, yet <span
+  class="add">hath</span> great riches. </p>
+id: PRO/13/7
+next:
+  id: PRO/13/8
+  number: '8'
+previous:
+  id: PRO/13/6
+  number: '6'
+reference: 'Proverbs 13:7'

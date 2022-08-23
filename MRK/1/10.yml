@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 1:10" class="v">10</span>And
+  straightway coming up out of the water, he saw the heavens opened, and the
+  Spirit like a dove descending upon him: </p>
+id: MRK/1/10
+next:
+  id: MRK/1/11
+  number: '11'
+previous:
+  id: MRK/1/9
+  number: '9'
+reference: 'Mark 1:10'

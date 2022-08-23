@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 5:8" class="v">8</span>And
+  Hiram sent to Solomon, saying, I have considered the things which thou sentest
+  to me for: <span class="add">and</span> I will do all thy desire concerning
+  timber of cedar, and concerning timber of fir. </p>
+id: 1KI/5/8
+next:
+  id: 1KI/5/9
+  number: '9'
+previous:
+  id: 1KI/5/7
+  number: '7'
+reference: '1 Kings 5:8'

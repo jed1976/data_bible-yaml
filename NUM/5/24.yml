@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 5:24" class="v">24</span>And
+  he shall cause the woman to drink the bitter water that causeth the curse: and
+  the water that causeth the curse shall enter into her, <span class="add">and
+  become</span> bitter. </p>
+id: NUM/5/24
+next:
+  id: NUM/5/25
+  number: '25'
+previous:
+  id: NUM/5/23
+  number: '23'
+reference: 'Numbers 5:24'

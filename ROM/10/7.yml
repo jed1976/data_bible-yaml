@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 10:7" class="v">7</span>Or,
+  Who shall descend into the deep? (that is, to bring up Christ again from the
+  dead.) </p>
+id: ROM/10/7
+next:
+  id: ROM/10/8
+  number: '8'
+previous:
+  id: ROM/10/6
+  number: '6'
+reference: 'Romans 10:7'

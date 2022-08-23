@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 32:16"
+  class="v">16</span>And his servants spake yet <span class="add">more</span>
+  against the <span class="nd">LORD</span> God, and against his servant
+  Hezekiah. </p>
+id: 2CH/32/16
+next:
+  id: 2CH/32/17
+  number: '17'
+previous:
+  id: 2CH/32/15
+  number: '15'
+reference: '2 Chronicles 32:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 1:15"
+  class="v">15</span>What shall we do unto the queen Vashti according to law,
+  because she hath not performed the commandment of the king Ahasuerus by the
+  chamberlains? </p>
+id: EST/1/15
+next:
+  id: EST/1/16
+  number: '16'
+previous:
+  id: EST/1/14
+  number: '14'
+reference: 'Esther 1:15'

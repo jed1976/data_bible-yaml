@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 1:25" class="v">25</span>And
+  God made the beast of the earth after his kind, and cattle after their kind,
+  and every thing that creepeth upon the earth after his kind: and God saw that
+  <span class="add">it was</span> good.</p>
+id: GEN/1/25
+next:
+  id: GEN/1/26
+  number: '26'
+previous:
+  id: GEN/1/24
+  number: '24'
+reference: 'Genesis 1:25'

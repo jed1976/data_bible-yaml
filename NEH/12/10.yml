@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 12:10" class="v">10</span>¶
+  And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat
+  Joiada, </p>
+id: NEH/12/10
+next:
+  id: NEH/12/11
+  number: '11'
+previous:
+  id: NEH/12/9
+  number: '9'
+reference: 'Nehemiah 12:10'

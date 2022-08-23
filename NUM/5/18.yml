@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 5:18" class="v">18</span>And
+  the priest shall set the woman before the <span class="nd">LORD</span>, and
+  uncover the woman’s head, and put the offering of memorial in her hands, which
+  <span class="add">is</span> the jealousy offering: and the priest shall have
+  in his hand the bitter water that causeth the curse: </p>
+id: NUM/5/18
+next:
+  id: NUM/5/19
+  number: '19'
+previous:
+  id: NUM/5/17
+  number: '17'
+reference: 'Numbers 5:18'

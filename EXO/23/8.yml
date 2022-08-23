@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 23:8" class="v">8</span>¶ And
+  thou shalt take no gift: for the gift blindeth the wise, and perverteth the
+  words of the righteous.</p>
+id: EXO/23/8
+next:
+  id: EXO/23/9
+  number: '9'
+previous:
+  id: EXO/23/7
+  number: '7'
+reference: 'Exodus 23:8'

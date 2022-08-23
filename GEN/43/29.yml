@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 43:29"
+  class="v">29</span>And he lifted up his eyes, and saw his brother Benjamin,
+  his mother’s son, and said, <span class="add">Is</span> this your younger
+  brother, of whom ye spake unto me? And he said, God be gracious unto thee, my
+  son. </p>
+id: GEN/43/29
+next:
+  id: GEN/43/30
+  number: '30'
+previous:
+  id: GEN/43/28
+  number: '28'
+reference: 'Genesis 43:29'

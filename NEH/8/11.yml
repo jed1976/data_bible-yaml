@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 8:11" class="v">11</span>So
+  the Levites stilled all the people, saying, Hold your peace, for the day <span
+  class="add">is</span> holy; neither be ye grieved. </p>
+id: NEH/8/11
+next:
+  id: NEH/8/12
+  number: '12'
+previous:
+  id: NEH/8/10
+  number: '10'
+reference: 'Nehemiah 8:11'

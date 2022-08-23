@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 13:6" class="v">6</span>Seven
+  days thou shalt eat unleavened bread, and in the seventh day <span
+  class="add">shall be</span> a feast to the <span class="nd">LORD</span>. </p>
+id: EXO/13/6
+next:
+  id: EXO/13/7
+  number: '7'
+previous:
+  id: EXO/13/5
+  number: '5'
+reference: 'Exodus 13:6'

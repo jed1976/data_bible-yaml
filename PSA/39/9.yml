@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 39:9" class="v">9</span>I
+  was dumb, I opened not my mouth; because thou didst <span
+  class="add">it</span>.</p>
+id: PSA/39/9
+next:
+  id: PSA/39/10
+  number: '10'
+previous:
+  id: PSA/39/8
+  number: '8'
+reference: 'Psalms 39:9'

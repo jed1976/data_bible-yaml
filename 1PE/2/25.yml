@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1PE 2:25" class="v">25</span>For
+  ye were as sheep going astray; but are now returned unto the Shepherd and
+  Bishop of your souls.</p>
+id: 1PE/2/25
+next:
+  id: 1PE/3/1
+  number: '1'
+previous:
+  id: 1PE/2/24
+  number: '24'
+reference: '1 Peter 2:25'

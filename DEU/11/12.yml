@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 11:12" class="v">12</span>A
+  land which the <span class="nd">LORD</span> thy God careth for: the eyes of
+  the <span class="nd">LORD</span> thy God <span class="add">are</span> always
+  upon it, from the beginning of the year even unto the end of the year.</p>
+id: DEU/11/12
+next:
+  id: DEU/11/13
+  number: '13'
+previous:
+  id: DEU/11/11
+  number: '11'
+reference: 'Deuteronomy 11:12'

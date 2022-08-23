@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 39:16"
+  class="v">16</span>And they made two ouches <span class="add">of</span> gold,
+  and two gold rings; and put the two rings in the two ends of the breastplate.
+  </p>
+id: EXO/39/16
+next:
+  id: EXO/39/17
+  number: '17'
+previous:
+  id: EXO/39/15
+  number: '15'
+reference: 'Exodus 39:16'

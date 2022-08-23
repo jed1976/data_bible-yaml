@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 21:25"
+  class="v">25</span><span class="wj">The baptism of John, whence was it? from
+  heaven, or of men?</span> And they reasoned with themselves, saying, If we
+  shall say, From heaven; he will say unto us, Why did ye not then believe him?
+  </p>
+id: MAT/21/25
+next:
+  id: MAT/21/26
+  number: '26'
+previous:
+  id: MAT/21/24
+  number: '24'
+reference: 'Matthew 21:25'

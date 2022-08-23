@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 50:3" class="v">3</span>I
+  clothe the heavens with blackness, and I make sackcloth their covering.</p>
+id: ISA/50/3
+next:
+  id: ISA/50/4
+  number: '4'
+previous:
+  id: ISA/50/2
+  number: '2'
+reference: 'Isaiah 50:3'

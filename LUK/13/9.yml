@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 13:9" class="v">9</span><span
+  class="wj">And if it bear fruit, <span class="add">well</span>: and if not,
+  <span class="add">then</span> after that thou shalt cut it down.</span> </p>
+id: LUK/13/9
+next:
+  id: LUK/13/10
+  number: '10'
+previous:
+  id: LUK/13/8
+  number: '8'
+reference: 'Luke 13:9'

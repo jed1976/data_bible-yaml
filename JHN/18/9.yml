@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 18:9" class="v">9</span>That
+  the saying might be fulfilled, which he spake, Of them which thou gavest me
+  have I lost none. </p>
+id: JHN/18/9
+next:
+  id: JHN/18/10
+  number: '10'
+previous:
+  id: JHN/18/8
+  number: '8'
+reference: 'John 18:9'

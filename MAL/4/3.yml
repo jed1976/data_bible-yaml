@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAL 4:3" class="v">3</span>And ye
+  shall tread down the wicked; for they shall be ashes under the soles of your
+  feet in the day that I shall do <span class="add">this</span>, saith the <span
+  class="nd">LORD</span> of hosts.</p>
+id: MAL/4/3
+next:
+  id: MAL/4/4
+  number: '4'
+previous:
+  id: MAL/4/2
+  number: '2'
+reference: 'Malachi 4:3'

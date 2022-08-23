@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GAL 3:8" class="v">8</span>And
+  the scripture, foreseeing that God would justify the heathen through faith,
+  preached before the gospel unto Abraham, <span class="add">saying</span>, In
+  thee shall all nations be blessed. </p>
+id: GAL/3/8
+next:
+  id: GAL/3/9
+  number: '9'
+previous:
+  id: GAL/3/7
+  number: '7'
+reference: 'Galatians 3:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 20:20"
+  class="v">20</span>And the men of Israel went out to battle against Benjamin;
+  and the men of Israel put themselves in array to fight against them at Gibeah.
+  </p>
+id: JDG/20/20
+next:
+  id: JDG/20/21
+  number: '21'
+previous:
+  id: JDG/20/19
+  number: '19'
+reference: 'Judges 20:20'

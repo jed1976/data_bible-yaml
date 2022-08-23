@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 27:12" class="v">12</span>¶
+  And it shall come to pass in that day, <span class="add">that</span> the <span
+  class="nd">LORD</span> shall beat off from the channel of the river unto the
+  stream of Egypt, and ye shall be gathered one by one, O ye children of Israel.
+  </p>
+id: ISA/27/12
+next:
+  id: ISA/27/13
+  number: '13'
+previous:
+  id: ISA/27/11
+  number: '11'
+reference: 'Isaiah 27:12'

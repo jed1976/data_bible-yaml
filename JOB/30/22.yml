@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 30:22"
+  class="v">22</span>Thou liftest me up to the wind; thou causest me to ride
+  <span class="add">upon it</span>, and dissolvest my substance. </p>
+id: JOB/30/22
+next:
+  id: JOB/30/23
+  number: '23'
+previous:
+  id: JOB/30/21
+  number: '21'
+reference: 'Job 30:22'

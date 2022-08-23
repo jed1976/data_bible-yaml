@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1JN 3:11" class="v">11</span>For
+  this is the message that ye heard from the beginning, that we should love one
+  another. </p>
+id: 1JN/3/11
+next:
+  id: 1JN/3/12
+  number: '12'
+previous:
+  id: 1JN/3/10
+  number: '10'
+reference: '1 John 3:11'

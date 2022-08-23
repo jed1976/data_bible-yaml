@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 101:6"
+  class="v">6</span>Mine eyes <span class="add">shall be</span> upon the
+  faithful of the land, that they may dwell with me: he that walketh in a
+  perfect way, he shall serve me.</p>
+id: PSA/101/6
+next:
+  id: PSA/101/7
+  number: '7'
+previous:
+  id: PSA/101/5
+  number: '5'
+reference: 'Psalms 101:6'

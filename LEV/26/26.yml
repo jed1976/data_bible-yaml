@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 26:26"
+  class="v">26</span><span class="add">And</span> when I have broken the staff
+  of your bread, ten women shall bake your bread in one oven, and they shall
+  deliver <span class="add">you</span> your bread again by weight: and ye shall
+  eat, and not be satisfied. </p>
+id: LEV/26/26
+next:
+  id: LEV/26/27
+  number: '27'
+previous:
+  id: LEV/26/25
+  number: '25'
+reference: 'Leviticus 26:26'

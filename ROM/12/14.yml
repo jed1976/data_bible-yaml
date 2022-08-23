@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 12:14"
+  class="v">14</span>Bless them which persecute you: bless, and curse not. </p>
+id: ROM/12/14
+next:
+  id: ROM/12/15
+  number: '15'
+previous:
+  id: ROM/12/13
+  number: '13'
+reference: 'Romans 12:14'

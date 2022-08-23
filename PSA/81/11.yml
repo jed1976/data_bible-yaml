@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 81:11"
+  class="v">11</span>But my people would not hearken to my voice; and Israel
+  would none of me.</p>
+id: PSA/81/11
+next:
+  id: PSA/81/12
+  number: '12'
+previous:
+  id: PSA/81/10
+  number: '10'
+reference: 'Psalms 81:11'

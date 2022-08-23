@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOB 9:35"
+  class="v">35</span><span class="add">Then</span> would I speak, and not fear
+  him; but <span class="add">it is</span> not so with me.</p>
+id: JOB/9/35
+next:
+  id: JOB/10/1
+  number: '1'
+previous:
+  id: JOB/9/34
+  number: '34'
+reference: 'Job 9:35'

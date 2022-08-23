@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 59:20" class="v">20</span>¶
+  And the Redeemer shall come to Zion, and unto them that turn from
+  transgression in Jacob, saith the <span class="nd">LORD</span>. </p>
+id: ISA/59/20
+next:
+  id: ISA/59/21
+  number: '21'
+previous:
+  id: ISA/59/19
+  number: '19'
+reference: 'Isaiah 59:20'

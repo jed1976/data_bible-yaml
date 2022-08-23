@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 18:20"
+  class="v">20</span>They that come after <span class="add">him</span> shall be
+  astonied at his day, as they that went before were affrighted. </p>
+id: JOB/18/20
+next:
+  id: JOB/18/21
+  number: '21'
+previous:
+  id: JOB/18/19
+  number: '19'
+reference: 'Job 18:20'

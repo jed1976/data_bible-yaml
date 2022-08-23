@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 22:20"
+  class="v">20</span>Did not Achan the son of Zerah commit a trespass in the
+  accursed thing, and wrath fell on all the congregation of Israel? and that man
+  perished not alone in his iniquity.</p>
+id: JOS/22/20
+next:
+  id: JOS/22/21
+  number: '21'
+previous:
+  id: JOS/22/19
+  number: '19'
+reference: 'Joshua 22:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 7:3" class="v">3</span><span
+  class="add">And</span> to speak unto the priests which <span
+  class="add">were</span> in the house of the <span class="nd">LORD</span> of
+  hosts, and to the prophets, saying, Should I weep in the fifth month,
+  separating myself, as I have done these so many years?</p>
+id: ZEC/7/3
+next:
+  id: ZEC/7/4
+  number: '4'
+previous:
+  id: ZEC/7/2
+  number: '2'
+reference: 'Zechariah 7:3'

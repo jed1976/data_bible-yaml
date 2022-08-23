@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="LEV 13:45"
+  class="v">45</span>And the leper in whom the plague <span
+  class="add">is</span>, his clothes shall be rent, and his head bare, and he
+  shall put a covering upon his upper lip, and shall cry, Unclean, unclean. </p>
+id: LEV/13/45
+next:
+  id: LEV/13/46
+  number: '46'
+previous:
+  id: LEV/13/44
+  number: '44'
+reference: 'Leviticus 13:45'

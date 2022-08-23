@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 13:13"
+  class="v">13</span><span class="add">Certain</span> men, the children of
+  Belial, are gone out from among you, and have withdrawn the inhabitants of
+  their city, saying, Let us go and serve other gods, which ye have not known;
+  </p>
+id: DEU/13/13
+next:
+  id: DEU/13/14
+  number: '14'
+previous:
+  id: DEU/13/12
+  number: '12'
+reference: 'Deuteronomy 13:13'

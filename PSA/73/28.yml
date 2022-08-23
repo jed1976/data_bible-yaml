@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="28" data-sid="PSA 73:28"
+  class="v">28</span>But <span class="add">it is</span> good for me to draw near
+  to God: I have put my trust in the Lord <span class="nd">GOD</span>, that I
+  may declare all thy works.</p>
+id: PSA/73/28
+next:
+  id: PSA/74/1
+  number: '1'
+previous:
+  id: PSA/73/27
+  number: '27'
+reference: 'Psalms 73:28'

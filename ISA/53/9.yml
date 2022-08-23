@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 53:9" class="v">9</span>And
+  he made his grave with the wicked, and with the rich in his death; because he
+  had done no violence, neither <span class="add">was any</span> deceit in his
+  mouth.</p>
+id: ISA/53/9
+next:
+  id: ISA/53/10
+  number: '10'
+previous:
+  id: ISA/53/8
+  number: '8'
+reference: 'Isaiah 53:9'

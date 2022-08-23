@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 31:15"
+  class="v">15</span>And Moses said unto them, Have ye saved all the women
+  alive? </p>
+id: NUM/31/15
+next:
+  id: NUM/31/16
+  number: '16'
+previous:
+  id: NUM/31/14
+  number: '14'
+reference: 'Numbers 31:15'

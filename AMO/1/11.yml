@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 1:11" class="v">11</span>¶
+  Thus saith the <span class="nd">LORD</span>; For three transgressions of Edom,
+  and for four, I will not turn away <span class="add">the punishment</span>
+  thereof; because he did pursue his brother with the sword, and did cast off
+  all pity, and his anger did tear perpetually, and he kept his wrath for ever:
+  </p>
+id: AMO/1/11
+next:
+  id: AMO/1/12
+  number: '12'
+previous:
+  id: AMO/1/10
+  number: '10'
+reference: 'Amos 1:11'

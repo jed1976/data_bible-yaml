@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2CH 23:21"
+  class="v">21</span>And all the people of the land rejoiced: and the city was
+  quiet, after that they had slain Athaliah with the sword.</p>
+id: 2CH/23/21
+next:
+  id: 2CH/24/1
+  number: '1'
+previous:
+  id: 2CH/23/20
+  number: '20'
+reference: '2 Chronicles 23:21'

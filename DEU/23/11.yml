@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 23:11"
+  class="v">11</span>But it shall be, when evening cometh on, he shall wash
+  <span class="add">himself</span> with water: and when the sun is down, he
+  shall come into the camp <span class="add">again</span>.</p>
+id: DEU/23/11
+next:
+  id: DEU/23/12
+  number: '12'
+previous:
+  id: DEU/23/10
+  number: '10'
+reference: 'Deuteronomy 23:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 2:1" class="v">1</span>Now
+  the days of David drew nigh that he should die; and he charged Solomon his
+  son, saying, </p>
+id: 1KI/2/1
+next:
+  id: 1KI/2/2
+  number: '2'
+previous:
+  id: 1KI/1/53
+  number: '53'
+reference: '1 Kings 2:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CH 29:20" class="v">20</span>¶
+  Then Hezekiah the king rose early, and gathered the rulers of the city, and
+  went up to the house of the <span class="nd">LORD</span>. </p>
+id: 2CH/29/20
+next:
+  id: 2CH/29/21
+  number: '21'
+previous:
+  id: 2CH/29/19
+  number: '19'
+reference: '2 Chronicles 29:20'

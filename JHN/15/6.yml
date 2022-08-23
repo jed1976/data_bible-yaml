@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 15:6" class="v">6</span><span
+  class="wj">If a man abide not in me, he is cast forth as a branch, and is
+  withered; and men gather them, and cast <span class="add">them</span> into the
+  fire, and they are burned.</span> </p>
+id: JHN/15/6
+next:
+  id: JHN/15/7
+  number: '7'
+previous:
+  id: JHN/15/5
+  number: '5'
+reference: 'John 15:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 8:19" class="v">19</span>And
+  he said, They <span class="add">were</span> my brethren, <span
+  class="add">even</span> the sons of my mother: <span class="add">as</span> the
+  <span class="nd">LORD</span> liveth, if ye had saved them alive, I would not
+  slay you. </p>
+id: JDG/8/19
+next:
+  id: JDG/8/20
+  number: '20'
+previous:
+  id: JDG/8/18
+  number: '18'
+reference: 'Judges 8:19'

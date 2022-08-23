@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 26:7" class="v">7</span>The
+  legs of the lame are not equal: so <span class="add">is</span> a parable in
+  the mouth of fools. </p>
+id: PRO/26/7
+next:
+  id: PRO/26/8
+  number: '8'
+previous:
+  id: PRO/26/6
+  number: '6'
+reference: 'Proverbs 26:7'

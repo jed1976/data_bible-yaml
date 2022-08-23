@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 9:3" class="v">3</span>And
+  Tyrus did build herself a strong hold, and heaped up silver as the dust, and
+  fine gold as the mire of the streets. </p>
+id: ZEC/9/3
+next:
+  id: ZEC/9/4
+  number: '4'
+previous:
+  id: ZEC/9/2
+  number: '2'
+reference: 'Zechariah 9:3'

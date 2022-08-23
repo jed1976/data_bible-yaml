@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LAM 3:1" class="v">1</span>I
+  <span class="add">am</span> the man <span class="add">that</span> hath seen
+  affliction by the rod of his wrath. </p>
+id: LAM/3/1
+next:
+  id: LAM/3/2
+  number: '2'
+previous:
+  id: LAM/2/22
+  number: '22'
+reference: 'Lamentations 3:1'

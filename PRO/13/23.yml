@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 13:23"
+  class="v">23</span>Much food <span class="add">is in</span> the tillage of the
+  poor: but there is <span class="add">that is</span> destroyed for want of
+  judgment. </p>
+id: PRO/13/23
+next:
+  id: PRO/13/24
+  number: '24'
+previous:
+  id: PRO/13/22
+  number: '22'
+reference: 'Proverbs 13:23'

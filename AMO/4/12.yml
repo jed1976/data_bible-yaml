@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 4:12"
+  class="v">12</span>Therefore thus will I do unto thee, O Israel: <span
+  class="add">and</span> because I will do this unto thee, prepare to meet thy
+  God, O Israel. </p>
+id: AMO/4/12
+next:
+  id: AMO/4/13
+  number: '13'
+previous:
+  id: AMO/4/11
+  number: '11'
+reference: 'Amos 4:12'

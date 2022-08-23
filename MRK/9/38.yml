@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 9:38" class="v">38</span>¶
+  And John answered him, saying, Master, we saw one casting out devils in thy
+  name, and he followeth not us: and we forbad him, because he followeth not us.
+  </p>
+id: MRK/9/38
+next:
+  id: MRK/9/39
+  number: '39'
+previous:
+  id: MRK/9/37
+  number: '37'
+reference: 'Mark 9:38'

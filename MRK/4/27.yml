@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 4:27"
+  class="v">27</span><span class="wj">And should sleep, and rise night and day,
+  and the seed should spring and grow up, he knoweth not how.</span> </p>
+id: MRK/4/27
+next:
+  id: MRK/4/28
+  number: '28'
+previous:
+  id: MRK/4/26
+  number: '26'
+reference: 'Mark 4:27'

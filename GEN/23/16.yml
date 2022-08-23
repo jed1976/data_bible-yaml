@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 23:16"
+  class="v">16</span>And Abraham hearkened unto Ephron; and Abraham weighed to
+  Ephron the silver, which he had named in the audience of the sons of Heth,
+  four hundred shekels of silver, current <span class="add">money</span> with
+  the merchant.</p>
+id: GEN/23/16
+next:
+  id: GEN/23/17
+  number: '17'
+previous:
+  id: GEN/23/15
+  number: '15'
+reference: 'Genesis 23:16'

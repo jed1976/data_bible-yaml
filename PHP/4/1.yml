@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PHP 4:1"
+  class="v">1</span>Therefore, my brethren dearly beloved and longed for, my joy
+  and crown, so stand fast in the Lord, <span class="add">my</span> dearly
+  beloved. </p>
+id: PHP/4/1
+next:
+  id: PHP/4/2
+  number: '2'
+previous:
+  id: PHP/3/21
+  number: '21'
+reference: 'Philippians 4:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 8:7" class="v">7</span>Many
+  waters cannot quench love, neither can the floods drown it: if <span
+  class="add">a</span> man would give all the substance of his house for love,
+  it would utterly be contemned.</p>
+id: SNG/8/7
+next:
+  id: SNG/8/8
+  number: '8'
+previous:
+  id: SNG/8/6
+  number: '6'
+reference: 'Song of Solomon 8:7'

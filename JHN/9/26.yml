@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 9:26"
+  class="v">26</span>Then said they to him again, What did he to thee? how
+  opened he thine eyes? </p>
+id: JHN/9/26
+next:
+  id: JHN/9/27
+  number: '27'
+previous:
+  id: JHN/9/25
+  number: '25'
+reference: 'John 9:26'

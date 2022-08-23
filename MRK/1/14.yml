@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 1:14" class="v">14</span>Now
+  after that John was put in prison, Jesus came into Galilee, preaching the
+  gospel of the kingdom of God, </p>
+id: MRK/1/14
+next:
+  id: MRK/1/15
+  number: '15'
+previous:
+  id: MRK/1/13
+  number: '13'
+reference: 'Mark 1:14'

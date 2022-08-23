@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 5:13"
+  class="v">13</span><span class="wj">¶ Ye are the salt of the earth: but if the
+  salt have lost his savour, wherewith shall it be salted? it is thenceforth
+  good for nothing, but to be cast out, and to be trodden under foot of
+  men.</span> </p>
+id: MAT/5/13
+next:
+  id: MAT/5/14
+  number: '14'
+previous:
+  id: MAT/5/12
+  number: '12'
+reference: 'Matthew 5:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 26:5" class="v">5</span>¶ For
+  he bringeth down them that dwell on high; the lofty city, he layeth it low; he
+  layeth it low, <span class="add">even</span> to the ground; he bringeth it
+  <span class="add">even</span> to the dust. </p>
+id: ISA/26/5
+next:
+  id: ISA/26/6
+  number: '6'
+previous:
+  id: ISA/26/4
+  number: '4'
+reference: 'Isaiah 26:5'

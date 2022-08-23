@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 71:17" class="v">17</span>O
+  God, thou hast taught me from my youth: and hitherto have I declared thy
+  wondrous works.</p>
+id: PSA/71/17
+next:
+  id: PSA/71/18
+  number: '18'
+previous:
+  id: PSA/71/16
+  number: '16'
+reference: 'Psalms 71:17'

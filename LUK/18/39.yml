@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="LUK 18:39"
+  class="v">39</span>And they which went before rebuked him, that he should hold
+  his peace: but he cried so much the more, <span class="add">Thou</span> Son of
+  David, have mercy on me. </p>
+id: LUK/18/39
+next:
+  id: LUK/18/40
+  number: '40'
+previous:
+  id: LUK/18/38
+  number: '38'
+reference: 'Luke 18:39'

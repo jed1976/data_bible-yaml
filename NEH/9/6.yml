@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 9:6" class="v">6</span>Thou,
+  <span class="add">even</span> thou, <span class="add">art</span> <span
+  class="nd">LORD</span> alone; thou hast made heaven, the heaven of heavens,
+  with all their host, the earth, and all <span class="add">things</span> that
+  <span class="add">are</span> therein, the seas, and all that <span
+  class="add">is</span> therein, and thou preservest them all; and the host of
+  heaven worshippeth thee. </p>
+id: NEH/9/6
+next:
+  id: NEH/9/7
+  number: '7'
+previous:
+  id: NEH/9/5
+  number: '5'
+reference: 'Nehemiah 9:6'

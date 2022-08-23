@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 16:1" class="v">1</span>Now
+  concerning the collection for the saints, as I have given order to the
+  churches of Galatia, even so do ye. </p>
+id: 1CO/16/1
+next:
+  id: 1CO/16/2
+  number: '2'
+previous:
+  id: 1CO/15/58
+  number: '58'
+reference: '1 Corinthians 16:1'

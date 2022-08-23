@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 20:7" class="v">7</span>And
+  the napkin, that was about his head, not lying with the linen clothes, but
+  wrapped together in a place by itself. </p>
+id: JHN/20/7
+next:
+  id: JHN/20/8
+  number: '8'
+previous:
+  id: JHN/20/6
+  number: '6'
+reference: 'John 20:7'

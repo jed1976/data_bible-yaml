@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GAL 5:8" class="v">8</span>This
+  persuasion <span class="add">cometh</span> not of him that calleth you. </p>
+id: GAL/5/8
+next:
+  id: GAL/5/9
+  number: '9'
+previous:
+  id: GAL/5/7
+  number: '7'
+reference: 'Galatians 5:8'

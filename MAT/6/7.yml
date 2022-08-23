@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 6:7" class="v">7</span><span
+  class="wj">But when ye pray, use not vain repetitions, as the heathen <span
+  class="add">do</span>: for they think that they shall be heard for their much
+  speaking.</span> </p>
+id: MAT/6/7
+next:
+  id: MAT/6/8
+  number: '8'
+previous:
+  id: MAT/6/6
+  number: '6'
+reference: 'Matthew 6:7'

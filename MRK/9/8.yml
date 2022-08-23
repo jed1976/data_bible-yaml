@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 9:8" class="v">8</span>And
+  suddenly, when they had looked round about, they saw no man any more, save
+  Jesus only with themselves. </p>
+id: MRK/9/8
+next:
+  id: MRK/9/9
+  number: '9'
+previous:
+  id: MRK/9/7
+  number: '7'
+reference: 'Mark 9:8'

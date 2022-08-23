@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 30:24"
+  class="v">24</span>There be four <span class="add">things which are</span>
+  little upon the earth, but they <span class="add">are</span> exceeding wise:
+  </p>
+id: PRO/30/24
+next:
+  id: PRO/30/25
+  number: '25'
+previous:
+  id: PRO/30/23
+  number: '23'
+reference: 'Proverbs 30:24'

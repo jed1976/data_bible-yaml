@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 20:29"
+  class="v">29</span>And when all the congregation saw that Aaron was dead, they
+  mourned for Aaron thirty days, <span class="add">even</span> all the house of
+  Israel.</p>
+id: NUM/20/29
+next:
+  id: NUM/21/1
+  number: '1'
+previous:
+  id: NUM/20/28
+  number: '28'
+reference: 'Numbers 20:29'

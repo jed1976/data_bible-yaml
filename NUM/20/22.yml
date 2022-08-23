@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 20:22" class="v">22</span>¶
+  And the children of Israel, <span class="add">even</span> the whole
+  congregation, journeyed from Kadesh, and came unto mount Hor. </p>
+id: NUM/20/22
+next:
+  id: NUM/20/23
+  number: '23'
+previous:
+  id: NUM/20/21
+  number: '21'
+reference: 'Numbers 20:22'

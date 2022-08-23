@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="MAT 26:52"
+  class="v">52</span>Then said Jesus unto him, <span class="wj">Put up again thy
+  sword into his place: for all they that take the sword shall perish with the
+  sword.</span> </p>
+id: MAT/26/52
+next:
+  id: MAT/26/53
+  number: '53'
+previous:
+  id: MAT/26/51
+  number: '51'
+reference: 'Matthew 26:52'

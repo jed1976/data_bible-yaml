@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 28:27"
+  class="v">27</span>And two <span class="add">other</span> rings of gold thou
+  shalt make, and shalt put them on the two sides of the ephod underneath,
+  toward the forepart thereof, over against the <span class="add">other</span>
+  coupling thereof, above the curious girdle of the ephod. </p>
+id: EXO/28/27
+next:
+  id: EXO/28/28
+  number: '28'
+previous:
+  id: EXO/28/26
+  number: '26'
+reference: 'Exodus 28:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 60:9" class="v">9</span>Who
+  will bring me <span class="add">into</span> the strong city? who will lead me
+  into Edom?</p>
+id: PSA/60/9
+next:
+  id: PSA/60/10
+  number: '10'
+previous:
+  id: PSA/60/8
+  number: '8'
+reference: 'Psalms 60:9'

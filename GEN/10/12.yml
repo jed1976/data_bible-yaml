@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 10:12"
+  class="v">12</span>And Resen between Nineveh and Calah: the same <span
+  class="add">is</span> a great city. </p>
+id: GEN/10/12
+next:
+  id: GEN/10/13
+  number: '13'
+previous:
+  id: GEN/10/11
+  number: '11'
+reference: 'Genesis 10:12'

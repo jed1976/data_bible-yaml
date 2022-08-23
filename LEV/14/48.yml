@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="LEV 14:48"
+  class="v">48</span>And if the priest shall come in, and look <span
+  class="add">upon it</span>, and, behold, the plague hath not spread in the
+  house, after the house was plaistered: then the priest shall pronounce the
+  house clean, because the plague is healed. </p>
+id: LEV/14/48
+next:
+  id: LEV/14/49
+  number: '49'
+previous:
+  id: LEV/14/47
+  number: '47'
+reference: 'Leviticus 14:48'

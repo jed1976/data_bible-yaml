@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 42:17"
+  class="v">17</span>And he put them all together into ward three days. </p>
+id: GEN/42/17
+next:
+  id: GEN/42/18
+  number: '18'
+previous:
+  id: GEN/42/16
+  number: '16'
+reference: 'Genesis 42:17'

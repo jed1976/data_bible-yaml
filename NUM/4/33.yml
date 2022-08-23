@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 4:33"
+  class="v">33</span>This <span class="add">is</span> the service of the
+  families of the sons of Merari, according to all their service, in the
+  tabernacle of the congregation, under the hand of Ithamar the son of Aaron the
+  priest.</p>
+id: NUM/4/33
+next:
+  id: NUM/4/34
+  number: '34'
+previous:
+  id: NUM/4/32
+  number: '32'
+reference: 'Numbers 4:33'

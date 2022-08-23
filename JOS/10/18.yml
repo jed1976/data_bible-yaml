@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 10:18"
+  class="v">18</span>And Joshua said, Roll great stones upon the mouth of the
+  cave, and set men by it for to keep them: </p>
+id: JOS/10/18
+next:
+  id: JOS/10/19
+  number: '19'
+previous:
+  id: JOS/10/17
+  number: '17'
+reference: 'Joshua 10:18'

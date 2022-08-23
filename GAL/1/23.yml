@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GAL 1:23" class="v">23</span>But
+  they had heard only, That he which persecuted us in times past now preacheth
+  the faith which once he destroyed. </p>
+id: GAL/1/23
+next:
+  id: GAL/1/24
+  number: '24'
+previous:
+  id: GAL/1/22
+  number: '22'
+reference: 'Galatians 1:23'

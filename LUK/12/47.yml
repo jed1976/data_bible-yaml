@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="LUK 12:47"
+  class="v">47</span><span class="wj">And that servant, which knew his lord’s
+  will, and prepared not <span class="add">himself</span>, neither did according
+  to his will, shall be beaten with many <span
+  class="add">stripes</span>.</span> </p>
+id: LUK/12/47
+next:
+  id: LUK/12/48
+  number: '48'
+previous:
+  id: LUK/12/46
+  number: '46'
+reference: 'Luke 12:47'

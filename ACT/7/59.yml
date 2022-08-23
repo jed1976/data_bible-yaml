@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="ACT 7:59" class="v">59</span>And
+  they stoned Stephen, calling upon <span class="add">God</span>, and saying,
+  Lord Jesus, receive my spirit. </p>
+id: ACT/7/59
+next:
+  id: ACT/7/60
+  number: '60'
+previous:
+  id: ACT/7/58
+  number: '58'
+reference: 'Acts 7:59'

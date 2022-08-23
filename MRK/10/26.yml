@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 10:26"
+  class="v">26</span>And they were astonished out of measure, saying among
+  themselves, Who then can be saved? </p>
+id: MRK/10/26
+next:
+  id: MRK/10/27
+  number: '27'
+previous:
+  id: MRK/10/25
+  number: '25'
+reference: 'Mark 10:26'

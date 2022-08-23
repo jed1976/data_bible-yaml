@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 19:12" class="v">12</span>¶
+  And ye shall not swear by my name falsely, neither shalt thou profane the name
+  of thy God: I <span class="add">am</span> the <span
+  class="nd">LORD</span>.</p>
+id: LEV/19/12
+next:
+  id: LEV/19/13
+  number: '13'
+previous:
+  id: LEV/19/11
+  number: '11'
+reference: 'Leviticus 19:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JHN 5:2" class="v">2</span>Now
+  there is at Jerusalem by the sheep <span class="add">market</span> a pool,
+  which is called in the Hebrew tongue Bethesda, having five porches. </p>
+id: JHN/5/2
+next:
+  id: JHN/5/3
+  number: '3'
+previous:
+  id: JHN/5/1
+  number: '1'
+reference: 'John 5:2'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 9:11" class="v">11</span>And
+  the king made <span class="add">of</span> the algum trees terraces to the
+  house of the <span class="nd">LORD</span>, and to the king’s palace, and harps
+  and psalteries for singers: and there were none such seen before in the land
+  of Judah. </p>
+id: 2CH/9/11
+next:
+  id: 2CH/9/12
+  number: '12'
+previous:
+  id: 2CH/9/10
+  number: '10'
+reference: '2 Chronicles 9:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 24:32"
+  class="v">32</span>Then I saw, <span class="add">and</span> considered <span
+  class="add">it</span> well: I looked upon <span class="add">it, and</span>
+  received instruction. </p>
+id: PRO/24/32
+next:
+  id: PRO/24/33
+  number: '33'
+previous:
+  id: PRO/24/31
+  number: '31'
+reference: 'Proverbs 24:32'

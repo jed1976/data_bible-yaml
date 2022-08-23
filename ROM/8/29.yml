@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ROM 8:29" class="v">29</span>For
+  whom he did foreknow, he also did predestinate <span class="add">to be</span>
+  conformed to the image of his Son, that he might be the firstborn among many
+  brethren. </p>
+id: ROM/8/29
+next:
+  id: ROM/8/30
+  number: '30'
+previous:
+  id: ROM/8/28
+  number: '28'
+reference: 'Romans 8:29'

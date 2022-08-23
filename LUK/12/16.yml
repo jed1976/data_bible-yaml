@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 12:16"
+  class="v">16</span>And he spake a parable unto them, saying, <span
+  class="wj">The ground of a certain rich man brought forth plentifully:</span>
+  </p>
+id: LUK/12/16
+next:
+  id: LUK/12/17
+  number: '17'
+previous:
+  id: LUK/12/15
+  number: '15'
+reference: 'Luke 12:16'

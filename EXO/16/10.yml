@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 16:10"
+  class="v">10</span>And it came to pass, as Aaron spake unto the whole
+  congregation of the children of Israel, that they looked toward the
+  wilderness, and, behold, the glory of the <span class="nd">LORD</span>
+  appeared in the cloud.</p>
+id: EXO/16/10
+next:
+  id: EXO/16/11
+  number: '11'
+previous:
+  id: EXO/16/9
+  number: '9'
+reference: 'Exodus 16:10'

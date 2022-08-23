@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 66:12"
+  class="v">12</span>For thus saith the <span class="nd">LORD</span>, Behold, I
+  will extend peace to her like a river, and the glory of the Gentiles like a
+  flowing stream: then shall ye suck, ye shall be borne upon <span
+  class="add">her</span> sides, and be dandled upon <span class="add">her</span>
+  knees. </p>
+id: ISA/66/12
+next:
+  id: ISA/66/13
+  number: '13'
+previous:
+  id: ISA/66/11
+  number: '11'
+reference: 'Isaiah 66:12'

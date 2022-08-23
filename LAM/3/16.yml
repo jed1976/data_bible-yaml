@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LAM 3:16" class="v">16</span>He
+  hath also broken my teeth with gravel stones, he hath covered me with ashes.
+  </p>
+id: LAM/3/16
+next:
+  id: LAM/3/17
+  number: '17'
+previous:
+  id: LAM/3/15
+  number: '15'
+reference: 'Lamentations 3:16'

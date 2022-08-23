@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 8:20"
+  class="v">20</span>These words spake Jesus in the treasury, as he taught in
+  the temple: and no man laid hands on him; for his hour was not yet come. </p>
+id: JHN/8/20
+next:
+  id: JHN/8/21
+  number: '21'
+previous:
+  id: JHN/8/19
+  number: '19'
+reference: 'John 8:20'

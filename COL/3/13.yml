@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="COL 3:13"
+  class="v">13</span>Forbearing one another, and forgiving one another, if any
+  man have a quarrel against any: even as Christ forgave you, so also <span
+  class="add">do</span> ye. </p>
+id: COL/3/13
+next:
+  id: COL/3/14
+  number: '14'
+previous:
+  id: COL/3/12
+  number: '12'
+reference: 'Colossians 3:13'

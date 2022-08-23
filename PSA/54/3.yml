@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 54:3" class="v">3</span>For
+  strangers are risen up against me, and oppressors seek after my soul: they
+  have not set God before them. Selah.</p>
+id: PSA/54/3
+next:
+  id: PSA/54/4
+  number: '4'
+previous:
+  id: PSA/54/2
+  number: '2'
+reference: 'Psalms 54:3'

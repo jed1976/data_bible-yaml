@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 10:8" class="v">8</span>And
+  the sons of Aaron, the priests, shall blow with the trumpets; and they shall
+  be to you for an ordinance for ever throughout your generations. </p>
+id: NUM/10/8
+next:
+  id: NUM/10/9
+  number: '9'
+previous:
+  id: NUM/10/7
+  number: '7'
+reference: 'Numbers 10:8'

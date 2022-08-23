@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 24:12" class="v">12</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Come up to me into the
+  mount, and be there: and I will give thee tables of stone, and a law, and
+  commandments which I have written; that thou mayest teach them. </p>
+id: EXO/24/12
+next:
+  id: EXO/24/13
+  number: '13'
+previous:
+  id: EXO/24/11
+  number: '11'
+reference: 'Exodus 24:12'

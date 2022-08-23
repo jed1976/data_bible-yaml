@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 39:6" class="v">6</span>And
+  he left all that he had in Joseph’s hand; and he knew not ought he had, save
+  the bread which he did eat. And Joseph was <span class="add">a</span> goodly
+  <span class="add">person</span>, and well favoured.</p>
+id: GEN/39/6
+next:
+  id: GEN/39/7
+  number: '7'
+previous:
+  id: GEN/39/5
+  number: '5'
+reference: 'Genesis 39:6'

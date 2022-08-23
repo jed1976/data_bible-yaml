@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EZK 24:2" class="v">2</span>Son
+  of man, write thee the name of the day, <span class="add">even</span> of this
+  same day: the king of Babylon set himself against Jerusalem this same day.
+  </p>
+id: EZK/24/2
+next:
+  id: EZK/24/3
+  number: '3'
+previous:
+  id: EZK/24/1
+  number: '1'
+reference: 'Ezekiel 24:2'

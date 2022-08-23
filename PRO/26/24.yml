@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 26:24" class="v">24</span>He
+  that hateth dissembleth with his lips, and layeth up deceit within him; </p>
+id: PRO/26/24
+next:
+  id: PRO/26/25
+  number: '25'
+previous:
+  id: PRO/26/23
+  number: '23'
+reference: 'Proverbs 26:24'

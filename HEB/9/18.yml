@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="HEB 9:18"
+  class="v">18</span>Whereupon neither the first <span
+  class="add">testament</span> was dedicated without blood. </p>
+id: HEB/9/18
+next:
+  id: HEB/9/19
+  number: '19'
+previous:
+  id: HEB/9/17
+  number: '17'
+reference: 'Hebrews 9:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 10:6" class="v">6</span>And
+  she said to the king, It was a true report that I heard in mine own land of
+  thy acts and of thy wisdom. </p>
+id: 1KI/10/6
+next:
+  id: 1KI/10/7
+  number: '7'
+previous:
+  id: 1KI/10/5
+  number: '5'
+reference: '1 Kings 10:6'

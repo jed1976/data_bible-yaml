@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 29:8" class="v">8</span>The
+  voice of the <span class="nd">LORD</span> shaketh the wilderness; the <span
+  class="nd">LORD</span> shaketh the wilderness of Kadesh.</p>
+id: PSA/29/8
+next:
+  id: PSA/29/9
+  number: '9'
+previous:
+  id: PSA/29/7
+  number: '7'
+reference: 'Psalms 29:8'

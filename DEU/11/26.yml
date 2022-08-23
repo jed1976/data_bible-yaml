@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 11:26" class="v">26</span>¶
+  Behold, I set before you this day a blessing and a curse; </p>
+id: DEU/11/26
+next:
+  id: DEU/11/27
+  number: '27'
+previous:
+  id: DEU/11/25
+  number: '25'
+reference: 'Deuteronomy 11:26'

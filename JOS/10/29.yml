@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOS 10:29"
+  class="v">29</span>Then Joshua passed from Makkedah, and all Israel with him,
+  unto Libnah, and fought against Libnah: </p>
+id: JOS/10/29
+next:
+  id: JOS/10/30
+  number: '30'
+previous:
+  id: JOS/10/28
+  number: '28'
+reference: 'Joshua 10:29'

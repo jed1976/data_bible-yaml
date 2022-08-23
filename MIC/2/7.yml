@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MIC 2:7" class="v">7</span>¶ O
+  <span class="add">thou that art</span> named the house of Jacob, is the spirit
+  of the <span class="nd">LORD</span> straitened? <span class="add">are</span>
+  these his doings? do not my words do good to him that walketh uprightly? </p>
+id: MIC/2/7
+next:
+  id: MIC/2/8
+  number: '8'
+previous:
+  id: MIC/2/6
+  number: '6'
+reference: 'Micah 2:7'

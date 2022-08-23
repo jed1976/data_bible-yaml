@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 13:19"
+  class="v">19</span>Who <span class="add">is</span> he <span
+  class="add">that</span> will plead with me? for now, if I hold my tongue, I
+  shall give up the ghost. </p>
+id: JOB/13/19
+next:
+  id: JOB/13/20
+  number: '20'
+previous:
+  id: JOB/13/18
+  number: '18'
+reference: 'Job 13:19'

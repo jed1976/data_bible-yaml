@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 10:11"
+  class="v">11</span>And Ephraim <span class="add">is as</span> an heifer <span
+  class="add">that is</span> taught, <span class="add">and</span> loveth to
+  tread out <span class="add">the corn;</span> but I passed over upon her fair
+  neck: I will make Ephraim to ride; Judah shall plow, <span
+  class="add">and</span> Jacob shall break his clods. </p>
+id: HOS/10/11
+next:
+  id: HOS/10/12
+  number: '12'
+previous:
+  id: HOS/10/10
+  number: '10'
+reference: 'Hosea 10:11'

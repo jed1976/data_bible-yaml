@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 29:8" class="v">8</span>And
+  thou shalt bring his sons, and put coats upon them. </p>
+id: EXO/29/8
+next:
+  id: EXO/29/9
+  number: '9'
+previous:
+  id: EXO/29/7
+  number: '7'
+reference: 'Exodus 29:8'

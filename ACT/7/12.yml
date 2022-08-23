@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 7:12" class="v">12</span>But
+  when Jacob heard that there was corn in Egypt, he sent out our fathers first.
+  </p>
+id: ACT/7/12
+next:
+  id: ACT/7/13
+  number: '13'
+previous:
+  id: ACT/7/11
+  number: '11'
+reference: 'Acts 7:12'

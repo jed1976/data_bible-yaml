@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 20:9" class="v">9</span>For
+  as yet they knew not the scripture, that he must rise again from the dead.
+  </p>
+id: JHN/20/9
+next:
+  id: JHN/20/10
+  number: '10'
+previous:
+  id: JHN/20/8
+  number: '8'
+reference: 'John 20:9'

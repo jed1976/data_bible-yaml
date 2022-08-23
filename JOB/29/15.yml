@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 29:15" class="v">15</span>I
+  was eyes to the blind, and feet <span class="add">was</span> I to the lame.
+  </p>
+id: JOB/29/15
+next:
+  id: JOB/29/16
+  number: '16'
+previous:
+  id: JOB/29/14
+  number: '14'
+reference: 'Job 29:15'

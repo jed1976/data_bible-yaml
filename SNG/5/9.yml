@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="SNG 5:9" class="v">9</span>¶ What
+  <span class="add">is</span> thy beloved more than <span
+  class="add">another</span> beloved, O thou fairest among women? what <span
+  class="add">is</span> thy beloved more than <span class="add">another</span>
+  beloved, that thou dost so charge us? </p>
+id: SNG/5/9
+next:
+  id: SNG/5/10
+  number: '10'
+previous:
+  id: SNG/5/8
+  number: '8'
+reference: 'Song of Solomon 5:9'

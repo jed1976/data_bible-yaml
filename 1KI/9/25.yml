@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 9:25" class="v">25</span>¶
+  And three times in a year did Solomon offer burnt offerings and peace
+  offerings upon the altar which he built unto the <span class="nd">LORD</span>,
+  and he burnt incense upon the altar that <span class="add">was</span> before
+  the <span class="nd">LORD</span>. So he finished the house.</p>
+id: 1KI/9/25
+next:
+  id: 1KI/9/26
+  number: '26'
+previous:
+  id: 1KI/9/24
+  number: '24'
+reference: '1 Kings 9:25'

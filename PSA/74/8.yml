@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 74:8" class="v">8</span>They
+  said in their hearts, Let us destroy them together: they have burned up all
+  the synagogues of God in the land.</p>
+id: PSA/74/8
+next:
+  id: PSA/74/9
+  number: '9'
+previous:
+  id: PSA/74/7
+  number: '7'
+reference: 'Psalms 74:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 16:17"
+  class="v">17</span>The highway of the upright <span class="add">is</span> to
+  depart from evil: he that keepeth his way preserveth his soul. </p>
+id: PRO/16/17
+next:
+  id: PRO/16/18
+  number: '18'
+previous:
+  id: PRO/16/16
+  number: '16'
+reference: 'Proverbs 16:17'

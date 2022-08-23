@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 21:32"
+  class="v">32</span>Who immediately took soldiers and centurions, and ran down
+  unto them: and when they saw the chief captain and the soldiers, they left
+  beating of Paul. </p>
+id: ACT/21/32
+next:
+  id: ACT/21/33
+  number: '33'
+previous:
+  id: ACT/21/31
+  number: '31'
+reference: 'Acts 21:32'

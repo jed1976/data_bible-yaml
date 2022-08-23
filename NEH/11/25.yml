@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NEH 11:25"
+  class="v">25</span>And for the villages, with their fields, <span
+  class="add">some</span> of the children of Judah dwelt at Kirjath-arba, and
+  <span class="add">in</span> the villages thereof, and at Dibon, and <span
+  class="add">in</span> the villages thereof, and at Jekabzeel, and <span
+  class="add">in</span> the villages thereof, </p>
+id: NEH/11/25
+next:
+  id: NEH/11/26
+  number: '26'
+previous:
+  id: NEH/11/24
+  number: '24'
+reference: 'Nehemiah 11:25'

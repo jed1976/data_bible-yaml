@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 58:10"
+  class="v">10</span>The righteous shall rejoice when he seeth the vengeance: he
+  shall wash his feet in the blood of the wicked.</p>
+id: PSA/58/10
+next:
+  id: PSA/58/11
+  number: '11'
+previous:
+  id: PSA/58/9
+  number: '9'
+reference: 'Psalms 58:10'

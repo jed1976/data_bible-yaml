@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="JOS 15:55"
+  class="v">55</span>Maon, Carmel, and Ziph, and Juttah, </p>
+id: JOS/15/55
+next:
+  id: JOS/15/56
+  number: '56'
+previous:
+  id: JOS/15/54
+  number: '54'
+reference: 'Joshua 15:55'

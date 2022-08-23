@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 32:6" class="v">6</span>¶ And
+  Jeremiah said, The word of the <span class="nd">LORD</span> came unto me,
+  saying, </p>
+id: JER/32/6
+next:
+  id: JER/32/7
+  number: '7'
+previous:
+  id: JER/32/5
+  number: '5'
+reference: 'Jeremiah 32:6'

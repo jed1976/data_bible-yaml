@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="RUT 4:16" class="v">16</span>And
+  Naomi took the child, and laid it in her bosom, and became nurse unto it. </p>
+id: RUT/4/16
+next:
+  id: RUT/4/17
+  number: '17'
+previous:
+  id: RUT/4/15
+  number: '15'
+reference: 'Ruth 4:16'

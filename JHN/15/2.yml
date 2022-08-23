@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JHN 15:2" class="v">2</span><span
+  class="wj">Every branch in me that beareth not fruit he taketh away: and every
+  <span class="add">branch</span> that beareth fruit, he purgeth it, that it may
+  bring forth more fruit.</span> </p>
+id: JHN/15/2
+next:
+  id: JHN/15/3
+  number: '3'
+previous:
+  id: JHN/15/1
+  number: '1'
+reference: 'John 15:2'

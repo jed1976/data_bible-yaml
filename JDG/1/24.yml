@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 1:24" class="v">24</span>And
+  the spies saw a man come forth out of the city, and they said unto him, Shew
+  us, we pray thee, the entrance into the city, and we will shew thee mercy.
+  </p>
+id: JDG/1/24
+next:
+  id: JDG/1/25
+  number: '25'
+previous:
+  id: JDG/1/23
+  number: '23'
+reference: 'Judges 1:24'

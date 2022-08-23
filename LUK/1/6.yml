@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 1:6" class="v">6</span>And
+  they were both righteous before God, walking in all the commandments and
+  ordinances of the Lord blameless. </p>
+id: LUK/1/6
+next:
+  id: LUK/1/7
+  number: '7'
+previous:
+  id: LUK/1/5
+  number: '5'
+reference: 'Luke 1:6'

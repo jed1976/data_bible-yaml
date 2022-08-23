@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 1:17" class="v">17</span>And
+  Jesus said unto them, <span class="wj">Come ye after me, and I will make you
+  to become fishers of men.</span> </p>
+id: MRK/1/17
+next:
+  id: MRK/1/18
+  number: '18'
+previous:
+  id: MRK/1/16
+  number: '16'
+reference: 'Mark 1:17'

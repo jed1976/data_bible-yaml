@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 2:9"
+  class="v">9</span>Therefore will I return, and take away my corn in the time
+  thereof, and my wine in the season thereof, and will recover my wool and my
+  flax <span class="add">given</span> to cover her nakedness. </p>
+id: HOS/2/9
+next:
+  id: HOS/2/10
+  number: '10'
+previous:
+  id: HOS/2/8
+  number: '8'
+reference: 'Hosea 2:9'

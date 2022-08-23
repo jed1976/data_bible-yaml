@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 5:41"
+  class="v">41</span><span class="wj">And whosoever shall compel thee to go a
+  mile, go with him twain.</span> </p>
+id: MAT/5/41
+next:
+  id: MAT/5/42
+  number: '42'
+previous:
+  id: MAT/5/40
+  number: '40'
+reference: 'Matthew 5:41'

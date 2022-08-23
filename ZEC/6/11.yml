@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 6:11"
+  class="v">11</span>Then take silver and gold, and make crowns, and set <span
+  class="add">them</span> upon the head of Joshua the son of Josedech, the high
+  priest; </p>
+id: ZEC/6/11
+next:
+  id: ZEC/6/12
+  number: '12'
+previous:
+  id: ZEC/6/10
+  number: '10'
+reference: 'Zechariah 6:11'

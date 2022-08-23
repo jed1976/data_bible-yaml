@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 21:11"
+  class="v">11</span>And the thing was very grievous in Abraham’s sight because
+  of his son.</p>
+id: GEN/21/11
+next:
+  id: GEN/21/12
+  number: '12'
+previous:
+  id: GEN/21/10
+  number: '10'
+reference: 'Genesis 21:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 32:10"
+  class="v">10</span>Many days and years shall ye be troubled, ye careless
+  women: for the vintage shall fail, the gathering shall not come. </p>
+id: ISA/32/10
+next:
+  id: ISA/32/11
+  number: '11'
+previous:
+  id: ISA/32/9
+  number: '9'
+reference: 'Isaiah 32:10'

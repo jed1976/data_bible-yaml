@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 8:15" class="v">15</span>Who
+  led thee through that great and terrible wilderness, <span class="add">wherein
+  were</span> fiery serpents, and scorpions, and drought, where <span
+  class="add">there was</span> no water; who brought thee forth water out of the
+  rock of flint; </p>
+id: DEU/8/15
+next:
+  id: DEU/8/16
+  number: '16'
+previous:
+  id: DEU/8/14
+  number: '14'
+reference: 'Deuteronomy 8:15'

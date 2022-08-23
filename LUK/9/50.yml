@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 9:50" class="v">50</span>And
+  Jesus said unto him, <span class="wj">Forbid <span class="add">him</span> not:
+  for he that is not against us is for us.</span></p>
+id: LUK/9/50
+next:
+  id: LUK/9/51
+  number: '51'
+previous:
+  id: LUK/9/49
+  number: '49'
+reference: 'Luke 9:50'

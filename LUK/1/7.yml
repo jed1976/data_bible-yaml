@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 1:7" class="v">7</span>And
+  they had no child, because that Elisabeth was barren, and they both were <span
+  class="add">now</span> well stricken in years. </p>
+id: LUK/1/7
+next:
+  id: LUK/1/8
+  number: '8'
+previous:
+  id: LUK/1/6
+  number: '6'
+reference: 'Luke 1:7'

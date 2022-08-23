@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAL 1:13" class="v">13</span>Ye
+  said also, Behold, what a weariness <span class="add">is it!</span> and ye
+  have snuffed at it, saith the <span class="nd">LORD</span> of hosts; and ye
+  brought <span class="add">that which was</span> torn, and the lame, and the
+  sick; thus ye brought an offering: should I accept this of your hand? saith
+  the <span class="nd">LORD</span>. </p>
+id: MAL/1/13
+next:
+  id: MAL/1/14
+  number: '14'
+previous:
+  id: MAL/1/12
+  number: '12'
+reference: 'Malachi 1:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 21:23"
+  class="v">23</span>Then went this saying abroad among the brethren, that that
+  disciple should not die: yet Jesus said not unto him, He shall not die; but,
+  If I will that he tarry till I come, what <span class="add">is that</span> to
+  thee? </p>
+id: JHN/21/23
+next:
+  id: JHN/21/24
+  number: '24'
+previous:
+  id: JHN/21/22
+  number: '22'
+reference: 'John 21:23'

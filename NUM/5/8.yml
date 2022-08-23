@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 5:8" class="v">8</span>But if
+  the man have no kinsman to recompense the trespass unto, let the trespass be
+  recompensed unto the <span class="nd">LORD</span>, <span
+  class="add">even</span> to the priest; beside the ram of the atonement,
+  whereby an atonement shall be made for him. </p>
+id: NUM/5/8
+next:
+  id: NUM/5/9
+  number: '9'
+previous:
+  id: NUM/5/7
+  number: '7'
+reference: 'Numbers 5:8'

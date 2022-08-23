@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 24:3" class="v">3</span>We
+  accept <span class="add">it</span> always, and in all places, most noble
+  Felix, with all thankfulness. </p>
+id: ACT/24/3
+next:
+  id: ACT/24/4
+  number: '4'
+previous:
+  id: ACT/24/2
+  number: '2'
+reference: 'Acts 24:3'

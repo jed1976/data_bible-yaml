@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 8:4" class="v">4</span>And,
+  behold, the glory of the God of Israel <span class="add">was</span> there,
+  according to the vision that I saw in the plain.</p>
+id: EZK/8/4
+next:
+  id: EZK/8/5
+  number: '5'
+previous:
+  id: EZK/8/3
+  number: '3'
+reference: 'Ezekiel 8:4'

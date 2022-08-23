@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 3:24" class="v">24</span>For
+  John was not yet cast into prison.</p>
+id: JHN/3/24
+next:
+  id: JHN/3/25
+  number: '25'
+previous:
+  id: JHN/3/23
+  number: '23'
+reference: 'John 3:24'

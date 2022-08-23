@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 36:25"
+  class="v">25</span>And the children of Anah <span class="add">were</span>
+  these; Dishon, and Aholibamah the daughter of Anah. </p>
+id: GEN/36/25
+next:
+  id: GEN/36/26
+  number: '26'
+previous:
+  id: GEN/36/24
+  number: '24'
+reference: 'Genesis 36:25'

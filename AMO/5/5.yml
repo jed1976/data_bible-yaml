@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 5:5" class="v">5</span>But
+  seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for
+  Gilgal shall surely go into captivity, and Beth-el shall come to nought. </p>
+id: AMO/5/5
+next:
+  id: AMO/5/6
+  number: '6'
+previous:
+  id: AMO/5/4
+  number: '4'
+reference: 'Amos 5:5'

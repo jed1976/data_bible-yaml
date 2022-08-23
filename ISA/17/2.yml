@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 17:2" class="v">2</span>The
+  cities of Aroer <span class="add">are</span> forsaken: they shall be for
+  flocks, which shall lie down, and none shall make <span
+  class="add">them</span> afraid. </p>
+id: ISA/17/2
+next:
+  id: ISA/17/3
+  number: '3'
+previous:
+  id: ISA/17/1
+  number: '1'
+reference: 'Isaiah 17:2'

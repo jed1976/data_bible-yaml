@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 12:10"
+  class="v">10</span>When they were past the first and the second ward, they
+  came unto the iron gate that leadeth unto the city; which opened to them of
+  his own accord: and they went out, and passed on through one street; and
+  forthwith the angel departed from him. </p>
+id: ACT/12/10
+next:
+  id: ACT/12/11
+  number: '11'
+previous:
+  id: ACT/12/9
+  number: '9'
+reference: 'Acts 12:10'

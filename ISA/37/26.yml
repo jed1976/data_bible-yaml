@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ISA 37:26"
+  class="v">26</span>Hast thou not heard long ago, <span class="add">how</span>
+  I have done it; <span class="add">and</span> of ancient times, that I have
+  formed it? now have I brought it to pass, that thou shouldest be to lay waste
+  defenced cities <span class="add">into</span> ruinous heaps. </p>
+id: ISA/37/26
+next:
+  id: ISA/37/27
+  number: '27'
+previous:
+  id: ISA/37/25
+  number: '25'
+reference: 'Isaiah 37:26'

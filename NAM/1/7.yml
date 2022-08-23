@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NAM 1:7" class="v">7</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> good, a strong hold
+  in the day of trouble; and he knoweth them that trust in him. </p>
+id: NAM/1/7
+next:
+  id: NAM/1/8
+  number: '8'
+previous:
+  id: NAM/1/6
+  number: '6'
+reference: 'Nahum 1:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="COL 2:7" class="v">7</span>Rooted
+  and built up in him, and stablished in the faith, as ye have been taught,
+  abounding therein with thanksgiving. </p>
+id: COL/2/7
+next:
+  id: COL/2/8
+  number: '8'
+previous:
+  id: COL/2/6
+  number: '6'
+reference: 'Colossians 2:7'

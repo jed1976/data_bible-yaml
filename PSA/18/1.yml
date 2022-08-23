@@ -1,0 +1,16 @@
+content: >-
+  <p class="d">To the chief Musician, <span class="add">A Psalm</span> of David,
+  the servant of the <span class="nd">LORD</span>, who spake unto the <span
+  class="nd">LORD</span> the words of this song in the day <span
+  class="add">that</span> the <span class="nd">LORD</span> delivered him from
+  the hand of all his enemies, and from the hand of Saul: And he said,</p><p
+  class="q1"><span data-number="1" data-sid="PSA 18:1" class="v">1</span>I will
+  love thee, O <span class="nd">LORD</span>, my strength.</p>
+id: PSA/18/1
+next:
+  id: PSA/18/2
+  number: '2'
+previous:
+  id: PSA/17/15
+  number: '15'
+reference: 'Psalms 18:1'

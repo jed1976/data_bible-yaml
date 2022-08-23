@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="COL 2:20"
+  class="v">20</span>Wherefore if ye be dead with Christ from the rudiments of
+  the world, why, as though living in the world, are ye subject to ordinances,
+  </p>
+id: COL/2/20
+next:
+  id: COL/2/21
+  number: '21'
+previous:
+  id: COL/2/19
+  number: '19'
+reference: 'Colossians 2:20'

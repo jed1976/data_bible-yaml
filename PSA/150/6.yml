@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 150:6" class="v">6</span>Let
+  every thing that hath breath praise the <span class="nd">LORD</span>. Praise
+  ye the <span class="nd">LORD</span>.</p>
+id: PSA/150/6
+next:
+  id: PRO/intro/0
+  number: '0'
+previous:
+  id: PSA/150/5
+  number: '5'
+reference: 'Psalms 150:6'

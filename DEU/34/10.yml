@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 34:10" class="v">10</span>¶
+  And there arose not a prophet since in Israel like unto Moses, whom the <span
+  class="nd">LORD</span> knew face to face, </p>
+id: DEU/34/10
+next:
+  id: DEU/34/11
+  number: '11'
+previous:
+  id: DEU/34/9
+  number: '9'
+reference: 'Deuteronomy 34:10'

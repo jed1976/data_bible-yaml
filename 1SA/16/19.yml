@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1SA 16:19" class="v">19</span>¶
+  Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son,
+  which <span class="add">is</span> with the sheep. </p>
+id: 1SA/16/19
+next:
+  id: 1SA/16/20
+  number: '20'
+previous:
+  id: 1SA/16/18
+  number: '18'
+reference: '1 Samuel 16:19'

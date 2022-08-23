@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 24:25"
+  class="v">25</span>But to them that rebuke <span class="add">him</span> shall
+  be delight, and a good blessing shall come upon them. </p>
+id: PRO/24/25
+next:
+  id: PRO/24/26
+  number: '26'
+previous:
+  id: PRO/24/24
+  number: '24'
+reference: 'Proverbs 24:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 43:5" class="v">5</span>But
+  if thou wilt not send <span class="add">him</span>, we will not go down: for
+  the man said unto us, Ye shall not see my face, except your brother <span
+  class="add">be</span> with you. </p>
+id: GEN/43/5
+next:
+  id: GEN/43/6
+  number: '6'
+previous:
+  id: GEN/43/4
+  number: '4'
+reference: 'Genesis 43:5'

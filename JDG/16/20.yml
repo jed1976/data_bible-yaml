@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 16:20"
+  class="v">20</span>And she said, The Philistines <span class="add">be</span>
+  upon thee, Samson. And he awoke out of his sleep, and said, I will go out as
+  at other times before, and shake myself. And he wist not that the <span
+  class="nd">LORD</span> was departed from him.</p>
+id: JDG/16/20
+next:
+  id: JDG/16/21
+  number: '21'
+previous:
+  id: JDG/16/19
+  number: '19'
+reference: 'Judges 16:20'

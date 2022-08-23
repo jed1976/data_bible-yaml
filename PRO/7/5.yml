@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 7:5" class="v">5</span>That
+  they may keep thee from the strange woman, from the stranger <span
+  class="add">which</span> flattereth with her words.</p>
+id: PRO/7/5
+next:
+  id: PRO/7/6
+  number: '6'
+previous:
+  id: PRO/7/4
+  number: '4'
+reference: 'Proverbs 7:5'

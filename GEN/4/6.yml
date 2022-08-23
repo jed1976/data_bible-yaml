@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 4:6" class="v">6</span>And
+  the <span class="nd">LORD</span> said unto Cain, Why art thou wroth? and why
+  is thy countenance fallen? </p>
+id: GEN/4/6
+next:
+  id: GEN/4/7
+  number: '7'
+previous:
+  id: GEN/4/5
+  number: '5'
+reference: 'Genesis 4:6'

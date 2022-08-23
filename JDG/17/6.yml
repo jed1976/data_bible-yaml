@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 17:6" class="v">6</span>In
+  those days <span class="add">there was</span> no king in Israel, <span
+  class="add">but</span> every man did <span class="add">that which was</span>
+  right in his own eyes.</p>
+id: JDG/17/6
+next:
+  id: JDG/17/7
+  number: '7'
+previous:
+  id: JDG/17/5
+  number: '5'
+reference: 'Judges 17:6'

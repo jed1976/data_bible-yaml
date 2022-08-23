@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 7:15" class="v">15</span>And
+  the <span class="nd">LORD</span> will take away from thee all sickness, and
+  will put none of the evil diseases of Egypt, which thou knowest, upon thee;
+  but will lay them upon all <span class="add">them</span> that hate thee. </p>
+id: DEU/7/15
+next:
+  id: DEU/7/16
+  number: '16'
+previous:
+  id: DEU/7/14
+  number: '14'
+reference: 'Deuteronomy 7:15'

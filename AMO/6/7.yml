@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 6:7" class="v">7</span>¶
+  Therefore now shall they go captive with the first that go captive, and the
+  banquet of them that stretched themselves shall be removed.</p>
+id: AMO/6/7
+next:
+  id: AMO/6/8
+  number: '8'
+previous:
+  id: AMO/6/6
+  number: '6'
+reference: 'Amos 6:7'

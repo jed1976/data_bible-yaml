@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 1:13" class="v">13</span>And
+  in the midst of the seven candlesticks <span class="add">one</span> like unto
+  the Son of man, clothed with a garment down to the foot, and girt about the
+  paps with a golden girdle. </p>
+id: REV/1/13
+next:
+  id: REV/1/14
+  number: '14'
+previous:
+  id: REV/1/12
+  number: '12'
+reference: 'Revelation 1:13'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 47:6" class="v">6</span>Sing
+  praises to God, sing praises: sing praises unto our King, sing praises.</p>
+id: PSA/47/6
+next:
+  id: PSA/47/7
+  number: '7'
+previous:
+  id: PSA/47/5
+  number: '5'
+reference: 'Psalms 47:6'

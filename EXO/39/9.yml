@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 39:9" class="v">9</span>It
+  was foursquare; they made the breastplate double: a span <span
+  class="add">was</span> the length thereof, and a span the breadth thereof,
+  <span class="add">being</span> doubled. </p>
+id: EXO/39/9
+next:
+  id: EXO/39/10
+  number: '10'
+previous:
+  id: EXO/39/8
+  number: '8'
+reference: 'Exodus 39:9'

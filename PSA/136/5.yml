@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 136:5" class="v">5</span>To
+  him that by wisdom made the heavens: for his mercy <span
+  class="add">endureth</span> for ever.</p>
+id: PSA/136/5
+next:
+  id: PSA/136/6
+  number: '6'
+previous:
+  id: PSA/136/4
+  number: '4'
+reference: 'Psalms 136:5'

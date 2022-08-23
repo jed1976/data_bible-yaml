@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 32:6" class="v">6</span>¶ And
+  the messengers returned to Jacob, saying, We came to thy brother Esau, and
+  also he cometh to meet thee, and four hundred men with him. </p>
+id: GEN/32/6
+next:
+  id: GEN/32/7
+  number: '7'
+previous:
+  id: GEN/32/5
+  number: '5'
+reference: 'Genesis 32:6'

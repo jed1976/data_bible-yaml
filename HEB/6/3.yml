@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 6:3" class="v">3</span>And
+  this will we do, if God permit. </p>
+id: HEB/6/3
+next:
+  id: HEB/6/4
+  number: '4'
+previous:
+  id: HEB/6/2
+  number: '2'
+reference: 'Hebrews 6:3'

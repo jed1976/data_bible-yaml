@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 106:12"
+  class="v">12</span>Then believed they his words; they sang his praise.</p>
+id: PSA/106/12
+next:
+  id: PSA/106/13
+  number: '13'
+previous:
+  id: PSA/106/11
+  number: '11'
+reference: 'Psalms 106:12'

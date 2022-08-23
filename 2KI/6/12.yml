@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 6:12" class="v">12</span>And
+  one of his servants said, None, my lord, O king: but Elisha, the prophet that
+  <span class="add">is</span> in Israel, telleth the king of Israel the words
+  that thou speakest in thy bedchamber.</p>
+id: 2KI/6/12
+next:
+  id: 2KI/6/13
+  number: '13'
+previous:
+  id: 2KI/6/11
+  number: '11'
+reference: '2 Kings 6:12'

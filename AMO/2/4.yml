@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 2:4" class="v">4</span>¶ Thus
+  saith the <span class="nd">LORD</span>; For three transgressions of Judah, and
+  for four, I will not turn away <span class="add">the punishment</span>
+  thereof; because they have despised the law of the <span
+  class="nd">LORD</span>, and have not kept his commandments, and their lies
+  caused them to err, after the which their fathers have walked: </p>
+id: AMO/2/4
+next:
+  id: AMO/2/5
+  number: '5'
+previous:
+  id: AMO/2/3
+  number: '3'
+reference: 'Amos 2:4'

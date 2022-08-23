@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 44:15"
+  class="v">15</span>And Joseph said unto them, What deed <span
+  class="add">is</span> this that ye have done? wot ye not that such a man as I
+  can certainly divine? </p>
+id: GEN/44/15
+next:
+  id: GEN/44/16
+  number: '16'
+previous:
+  id: GEN/44/14
+  number: '14'
+reference: 'Genesis 44:15'

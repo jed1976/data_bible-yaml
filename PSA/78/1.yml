@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">Maschil of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 78:1" class="v">1</span>Give ear, O my people, <span
+  class="add">to</span> my law: incline your ears to the words of my mouth.</p>
+id: PSA/78/1
+next:
+  id: PSA/78/2
+  number: '2'
+previous:
+  id: PSA/77/20
+  number: '20'
+reference: 'Psalms 78:1'

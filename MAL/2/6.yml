@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAL 2:6" class="v">6</span>The
+  law of truth was in his mouth, and iniquity was not found in his lips: he
+  walked with me in peace and equity, and did turn many away from iniquity. </p>
+id: MAL/2/6
+next:
+  id: MAL/2/7
+  number: '7'
+previous:
+  id: MAL/2/5
+  number: '5'
+reference: 'Malachi 2:6'

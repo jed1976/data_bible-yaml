@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 33:23"
+  class="v">23</span>Then the word of the <span class="nd">LORD</span> came unto
+  me, saying, </p>
+id: EZK/33/23
+next:
+  id: EZK/33/24
+  number: '24'
+previous:
+  id: EZK/33/22
+  number: '22'
+reference: 'Ezekiel 33:23'

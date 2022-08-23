@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DAN 2:27"
+  class="v">27</span>Daniel answered in the presence of the king, and said, The
+  secret which the king hath demanded cannot the wise <span
+  class="add">men</span>, the astrologers, the magicians, the soothsayers, shew
+  unto the king; </p>
+id: DAN/2/27
+next:
+  id: DAN/2/28
+  number: '28'
+previous:
+  id: DAN/2/26
+  number: '26'
+reference: 'Daniel 2:27'

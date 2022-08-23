@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 1:5" class="v">5</span>By
+  whom we have received grace and apostleship, for obedience to the faith among
+  all nations, for his name: </p>
+id: ROM/1/5
+next:
+  id: ROM/1/6
+  number: '6'
+previous:
+  id: ROM/1/4
+  number: '4'
+reference: 'Romans 1:5'

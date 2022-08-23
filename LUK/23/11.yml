@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 23:11"
+  class="v">11</span>And Herod with his men of war set him at nought, and mocked
+  <span class="add">him</span>, and arrayed him in a gorgeous robe, and sent him
+  again to Pilate.</p>
+id: LUK/23/11
+next:
+  id: LUK/23/12
+  number: '12'
+previous:
+  id: LUK/23/10
+  number: '10'
+reference: 'Luke 23:11'

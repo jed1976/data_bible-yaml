@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 14:14"
+  class="v">14</span>The <span class="nd">LORD</span> shall fight for you, and
+  ye shall hold your peace.</p>
+id: EXO/14/14
+next:
+  id: EXO/14/15
+  number: '15'
+previous:
+  id: EXO/14/13
+  number: '13'
+reference: 'Exodus 14:14'

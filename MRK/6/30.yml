@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 6:30" class="v">30</span>And
+  the apostles gathered themselves together unto Jesus, and told him all things,
+  both what they had done, and what they had taught. </p>
+id: MRK/6/30
+next:
+  id: MRK/6/31
+  number: '31'
+previous:
+  id: MRK/6/29
+  number: '29'
+reference: 'Mark 6:30'

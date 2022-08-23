@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 11:4" class="v">4</span><span
+  class="wj">And forgive us our sins; for we also forgive every one that is
+  indebted to us. And lead us not into temptation; but deliver us from
+  evil.</span> </p>
+id: LUK/11/4
+next:
+  id: LUK/11/5
+  number: '5'
+previous:
+  id: LUK/11/3
+  number: '3'
+reference: 'Luke 11:4'

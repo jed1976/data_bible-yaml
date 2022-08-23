@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="PRO 14:35"
+  class="v">35</span>The king’s favour <span class="add">is</span> toward a wise
+  servant: but his wrath is <span class="add">against</span> him that causeth
+  shame.</p>
+id: PRO/14/35
+next:
+  id: PRO/15/1
+  number: '1'
+previous:
+  id: PRO/14/34
+  number: '34'
+reference: 'Proverbs 14:35'

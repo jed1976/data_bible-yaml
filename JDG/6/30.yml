@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 6:30"
+  class="v">30</span>Then the men of the city said unto Joash, Bring out thy
+  son, that he may die: because he hath cast down the altar of Baal, and because
+  he hath cut down the grove that <span class="add">was</span> by it. </p>
+id: JDG/6/30
+next:
+  id: JDG/6/31
+  number: '31'
+previous:
+  id: JDG/6/29
+  number: '29'
+reference: 'Judges 6:30'

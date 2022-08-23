@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 7:30" class="v">30</span>And
+  when forty years were expired, there appeared to him in the wilderness of
+  mount Sina an angel of the Lord in a flame of fire in a bush. </p>
+id: ACT/7/30
+next:
+  id: ACT/7/31
+  number: '31'
+previous:
+  id: ACT/7/29
+  number: '29'
+reference: 'Acts 7:30'

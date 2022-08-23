@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JHN 10:37"
+  class="v">37</span><span class="wj">If I do not the works of my Father,
+  believe me not.</span> </p>
+id: JHN/10/37
+next:
+  id: JHN/10/38
+  number: '38'
+previous:
+  id: JHN/10/36
+  number: '36'
+reference: 'John 10:37'

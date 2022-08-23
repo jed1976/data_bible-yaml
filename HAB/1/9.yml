@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HAB 1:9" class="v">9</span>They
+  shall come all for violence: their faces shall sup up <span
+  class="add">as</span> the east wind, and they shall gather the captivity as
+  the sand. </p>
+id: HAB/1/9
+next:
+  id: HAB/1/10
+  number: '10'
+previous:
+  id: HAB/1/8
+  number: '8'
+reference: 'Habakkuk 1:9'

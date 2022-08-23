@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 6:9"
+  class="v">9</span>Command Aaron and his sons, saying, This <span
+  class="add">is</span> the law of the burnt offering: It <span
+  class="add">is</span> the burnt offering, because of the burning upon the
+  altar all night unto the morning, and the fire of the altar shall be burning
+  in it. </p>
+id: LEV/6/9
+next:
+  id: LEV/6/10
+  number: '10'
+previous:
+  id: LEV/6/8
+  number: '8'
+reference: 'Leviticus 6:9'

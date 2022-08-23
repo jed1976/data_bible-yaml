@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 19:17" class="v">17</span>My
+  breath is strange to my wife, though I intreated for the children’s <span
+  class="add">sake</span> of mine own body. </p>
+id: JOB/19/17
+next:
+  id: JOB/19/18
+  number: '18'
+previous:
+  id: JOB/19/16
+  number: '16'
+reference: 'Job 19:17'

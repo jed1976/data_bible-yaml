@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 38:15"
+  class="v">15</span>When Judah saw her, he thought her <span class="add">to
+  be</span> an harlot; because she had covered her face. </p>
+id: GEN/38/15
+next:
+  id: GEN/38/16
+  number: '16'
+previous:
+  id: GEN/38/14
+  number: '14'
+reference: 'Genesis 38:15'

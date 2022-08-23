@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 124:8" class="v">8</span>Our
+  help <span class="add">is</span> in the name of the <span
+  class="nd">LORD</span>, who made heaven and earth.</p>
+id: PSA/124/8
+next:
+  id: PSA/125/1
+  number: '1'
+previous:
+  id: PSA/124/7
+  number: '7'
+reference: 'Psalms 124:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 11:18"
+  class="v">18</span>Now Bethany was nigh unto Jerusalem, about fifteen furlongs
+  off: </p>
+id: JHN/11/18
+next:
+  id: JHN/11/19
+  number: '19'
+previous:
+  id: JHN/11/17
+  number: '17'
+reference: 'John 11:18'

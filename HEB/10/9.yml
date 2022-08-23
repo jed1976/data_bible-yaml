@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HEB 10:9" class="v">9</span>Then
+  said he, Lo, I come to do thy will, O God. He taketh away the first, that he
+  may establish the second. </p>
+id: HEB/10/9
+next:
+  id: HEB/10/10
+  number: '10'
+previous:
+  id: HEB/10/8
+  number: '8'
+reference: 'Hebrews 10:9'

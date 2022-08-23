@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 25:16" class="v">16</span>To
+  whom I answered, It is not the manner of the Romans to deliver any man to die,
+  before that he which is accused have the accusers face to face, and have
+  licence to answer for himself concerning the crime laid against him. </p>
+id: ACT/25/16
+next:
+  id: ACT/25/17
+  number: '17'
+previous:
+  id: ACT/25/15
+  number: '15'
+reference: 'Acts 25:16'

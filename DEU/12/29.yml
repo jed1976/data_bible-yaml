@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 12:29" class="v">29</span>¶
+  When the <span class="nd">LORD</span> thy God shall cut off the nations from
+  before thee, whither thou goest to possess them, and thou succeedest them, and
+  dwellest in their land; </p>
+id: DEU/12/29
+next:
+  id: DEU/12/30
+  number: '30'
+previous:
+  id: DEU/12/28
+  number: '28'
+reference: 'Deuteronomy 12:29'

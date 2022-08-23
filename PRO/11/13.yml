@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 11:13" class="v">13</span>A
+  talebearer revealeth secrets: but he that is of a faithful spirit concealeth
+  the matter. </p>
+id: PRO/11/13
+next:
+  id: PRO/11/14
+  number: '14'
+previous:
+  id: PRO/11/12
+  number: '12'
+reference: 'Proverbs 11:13'

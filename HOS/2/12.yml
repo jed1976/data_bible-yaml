@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 2:12" class="v">12</span>And
+  I will destroy her vines and her fig trees, whereof she hath said, These <span
+  class="add">are</span> my rewards that my lovers have given me: and I will
+  make them a forest, and the beasts of the field shall eat them. </p>
+id: HOS/2/12
+next:
+  id: HOS/2/13
+  number: '13'
+previous:
+  id: HOS/2/11
+  number: '11'
+reference: 'Hosea 2:12'

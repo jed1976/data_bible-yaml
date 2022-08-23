@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PHP 1:19" class="v">19</span>For
+  I know that this shall turn to my salvation through your prayer, and the
+  supply of the Spirit of Jesus Christ, </p>
+id: PHP/1/19
+next:
+  id: PHP/1/20
+  number: '20'
+previous:
+  id: PHP/1/18
+  number: '18'
+reference: 'Philippians 1:19'

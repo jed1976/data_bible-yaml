@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LAM 3:10" class="v">10</span>He
+  <span class="add">was</span> unto me <span class="add">as</span> a bear lying
+  in wait, <span class="add">and as</span> a lion in secret places. </p>
+id: LAM/3/10
+next:
+  id: LAM/3/11
+  number: '11'
+previous:
+  id: LAM/3/9
+  number: '9'
+reference: 'Lamentations 3:10'

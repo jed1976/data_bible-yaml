@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 24:30"
+  class="v">30</span>And they buried him in the border of his inheritance in
+  Timnath-serah, which <span class="add">is</span> in mount Ephraim, on the
+  north side of the hill of Gaash. </p>
+id: JOS/24/30
+next:
+  id: JOS/24/31
+  number: '31'
+previous:
+  id: JOS/24/29
+  number: '29'
+reference: 'Joshua 24:30'

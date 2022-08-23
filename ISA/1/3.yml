@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 1:3" class="v">3</span>The ox
+  knoweth his owner, and the ass his master’s crib: <span class="add">but</span>
+  Israel doth not know, my people doth not consider. </p>
+id: ISA/1/3
+next:
+  id: ISA/1/4
+  number: '4'
+previous:
+  id: ISA/1/2
+  number: '2'
+reference: 'Isaiah 1:3'

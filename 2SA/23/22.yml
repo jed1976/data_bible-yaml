@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 23:22"
+  class="v">22</span>These <span class="add">things</span> did Benaiah the son
+  of Jehoiada, and had the name among three mighty men. </p>
+id: 2SA/23/22
+next:
+  id: 2SA/23/23
+  number: '23'
+previous:
+  id: 2SA/23/21
+  number: '21'
+reference: '2 Samuel 23:22'

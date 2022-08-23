@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 16:13" class="v">13</span>¶
+  Thou shalt observe the feast of tabernacles seven days, after that thou hast
+  gathered in thy corn and thy wine: </p>
+id: DEU/16/13
+next:
+  id: DEU/16/14
+  number: '14'
+previous:
+  id: DEU/16/12
+  number: '12'
+reference: 'Deuteronomy 16:13'

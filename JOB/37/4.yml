@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 37:4" class="v">4</span>After
+  it a voice roareth: he thundereth with the voice of his excellency; and he
+  will not stay them when his voice is heard. </p>
+id: JOB/37/4
+next:
+  id: JOB/37/5
+  number: '5'
+previous:
+  id: JOB/37/3
+  number: '3'
+reference: 'Job 37:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 89:24"
+  class="v">24</span>But my faithfulness and my mercy <span class="add">shall
+  be</span> with him: and in my name shall his horn be exalted.</p>
+id: PSA/89/24
+next:
+  id: PSA/89/25
+  number: '25'
+previous:
+  id: PSA/89/23
+  number: '23'
+reference: 'Psalms 89:24'

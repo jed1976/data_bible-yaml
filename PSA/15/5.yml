@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 15:5"
+  class="v">5</span><span class="add">He that</span> putteth not out his money
+  to usury, nor taketh reward against the innocent. He that doeth these <span
+  class="add">things</span> shall never be moved.</p>
+id: PSA/15/5
+next:
+  id: PSA/16/1
+  number: '1'
+previous:
+  id: PSA/15/4
+  number: '4'
+reference: 'Psalms 15:5'

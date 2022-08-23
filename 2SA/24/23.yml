@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 24:23"
+  class="v">23</span>All these <span class="add">things</span> did Araunah,
+  <span class="add">as</span> a king, give unto the king. And Araunah said unto
+  the king, The <span class="nd">LORD</span> thy God accept thee. </p>
+id: 2SA/24/23
+next:
+  id: 2SA/24/24
+  number: '24'
+previous:
+  id: 2SA/24/22
+  number: '22'
+reference: '2 Samuel 24:23'

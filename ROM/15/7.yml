@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 15:7"
+  class="v">7</span>Wherefore receive ye one another, as Christ also received us
+  to the glory of God. </p>
+id: ROM/15/7
+next:
+  id: ROM/15/8
+  number: '8'
+previous:
+  id: ROM/15/6
+  number: '6'
+reference: 'Romans 15:7'

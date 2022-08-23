@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 62:7" class="v">7</span>In
+  God <span class="add">is</span> my salvation and my glory: the rock of my
+  strength, <span class="add">and</span> my refuge, <span class="add">is</span>
+  in God.</p>
+id: PSA/62/7
+next:
+  id: PSA/62/8
+  number: '8'
+previous:
+  id: PSA/62/6
+  number: '6'
+reference: 'Psalms 62:7'

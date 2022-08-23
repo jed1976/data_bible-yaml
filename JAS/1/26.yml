@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JAS 1:26" class="v">26</span>If
+  any man among you seem to be religious, and bridleth not his tongue, but
+  deceiveth his own heart, this man’s religion <span class="add">is</span> vain.
+  </p>
+id: JAS/1/26
+next:
+  id: JAS/1/27
+  number: '27'
+previous:
+  id: JAS/1/25
+  number: '25'
+reference: 'James 1:26'

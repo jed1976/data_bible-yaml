@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 21:45"
+  class="v">45</span>And when the chief priests and Pharisees had heard his
+  parables, they perceived that he spake of them. </p>
+id: MAT/21/45
+next:
+  id: MAT/21/46
+  number: '46'
+previous:
+  id: MAT/21/44
+  number: '44'
+reference: 'Matthew 21:45'

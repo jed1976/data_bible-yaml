@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="60" data-sid="PSA 119:60"
+  class="v">60</span>I made haste, and delayed not to keep thy commandments.</p>
+id: PSA/119/60
+next:
+  id: PSA/119/61
+  number: '61'
+previous:
+  id: PSA/119/59
+  number: '59'
+reference: 'Psalms 119:60'

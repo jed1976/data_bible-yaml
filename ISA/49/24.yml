@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 49:24" class="v">24</span>¶
+  Shall the prey be taken from the mighty, or the lawful captive delivered? </p>
+id: ISA/49/24
+next:
+  id: ISA/49/25
+  number: '25'
+previous:
+  id: ISA/49/23
+  number: '23'
+reference: 'Isaiah 49:24'

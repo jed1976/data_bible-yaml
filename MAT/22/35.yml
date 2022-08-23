@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 22:35"
+  class="v">35</span>Then one of them, <span class="add">which was</span> a
+  lawyer, asked <span class="add">him a question</span>, tempting him, and
+  saying, </p>
+id: MAT/22/35
+next:
+  id: MAT/22/36
+  number: '36'
+previous:
+  id: MAT/22/34
+  number: '34'
+reference: 'Matthew 22:35'

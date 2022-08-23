@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 10:30"
+  class="v">30</span><span class="wj">But the very hairs of your head are all
+  numbered.</span> </p>
+id: MAT/10/30
+next:
+  id: MAT/10/31
+  number: '31'
+previous:
+  id: MAT/10/29
+  number: '29'
+reference: 'Matthew 10:30'

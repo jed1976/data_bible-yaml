@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 22:7" class="v">7</span>Thou
+  hast not given water to the weary to drink, and thou hast withholden bread
+  from the hungry. </p>
+id: JOB/22/7
+next:
+  id: JOB/22/8
+  number: '8'
+previous:
+  id: JOB/22/6
+  number: '6'
+reference: 'Job 22:7'

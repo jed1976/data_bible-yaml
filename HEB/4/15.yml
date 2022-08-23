@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HEB 4:15" class="v">15</span>For
+  we have not an high priest which cannot be touched with the feeling of our
+  infirmities; but was in all points tempted like as <span class="add">we are,
+  yet</span> without sin. </p>
+id: HEB/4/15
+next:
+  id: HEB/4/16
+  number: '16'
+previous:
+  id: HEB/4/14
+  number: '14'
+reference: 'Hebrews 4:15'

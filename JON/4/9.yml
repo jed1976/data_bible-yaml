@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JON 4:9" class="v">9</span>And
+  God said to Jonah, Doest thou well to be angry for the gourd? And he said, I
+  do well to be angry, <span class="add">even</span> unto death. </p>
+id: JON/4/9
+next:
+  id: JON/4/10
+  number: '10'
+previous:
+  id: JON/4/8
+  number: '8'
+reference: 'Jonah 4:9'

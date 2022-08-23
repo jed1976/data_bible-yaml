@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2KI 3:18" class="v">18</span>And
+  this is <span class="add">but</span> a light thing in the sight of the <span
+  class="nd">LORD</span>: he will deliver the Moabites also into your hand. </p>
+id: 2KI/3/18
+next:
+  id: 2KI/3/19
+  number: '19'
+previous:
+  id: 2KI/3/17
+  number: '17'
+reference: '2 Kings 3:18'

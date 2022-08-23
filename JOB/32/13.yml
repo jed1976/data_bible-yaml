@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 32:13"
+  class="v">13</span>Lest ye should say, We have found out wisdom: God thrusteth
+  him down, not man. </p>
+id: JOB/32/13
+next:
+  id: JOB/32/14
+  number: '14'
+previous:
+  id: JOB/32/12
+  number: '12'
+reference: 'Job 32:13'

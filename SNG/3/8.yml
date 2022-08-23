@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 3:8" class="v">8</span>They
+  all hold swords, <span class="add">being</span> expert in war: every man <span
+  class="add">hath</span> his sword upon his thigh because of fear in the night.
+  </p>
+id: SNG/3/8
+next:
+  id: SNG/3/9
+  number: '9'
+previous:
+  id: SNG/3/7
+  number: '7'
+reference: 'Song of Solomon 3:8'

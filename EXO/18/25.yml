@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 18:25"
+  class="v">25</span>And Moses chose able men out of all Israel, and made them
+  heads over the people, rulers of thousands, rulers of hundreds, rulers of
+  fifties, and rulers of tens. </p>
+id: EXO/18/25
+next:
+  id: EXO/18/26
+  number: '26'
+previous:
+  id: EXO/18/24
+  number: '24'
+reference: 'Exodus 18:25'

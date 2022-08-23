@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 6:22" class="v">22</span>And
+  when the daughter of the said Herodias came in, and danced, and pleased Herod
+  and them that sat with him, the king said unto the damsel, Ask of me
+  whatsoever thou wilt, and I will give <span class="add">it</span> thee. </p>
+id: MRK/6/22
+next:
+  id: MRK/6/23
+  number: '23'
+previous:
+  id: MRK/6/21
+  number: '21'
+reference: 'Mark 6:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 115:12"
+  class="v">12</span>The <span class="nd">LORD</span> hath been mindful of us:
+  he will bless <span class="add">us;</span> he will bless the house of Israel;
+  he will bless the house of Aaron.</p>
+id: PSA/115/12
+next:
+  id: PSA/115/13
+  number: '13'
+previous:
+  id: PSA/115/11
+  number: '11'
+reference: 'Psalms 115:12'

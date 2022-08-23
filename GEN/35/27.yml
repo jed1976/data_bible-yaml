@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 35:27" class="v">27</span>¶
+  And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which
+  <span class="add">is</span> Hebron, where Abraham and Isaac sojourned. </p>
+id: GEN/35/27
+next:
+  id: GEN/35/28
+  number: '28'
+previous:
+  id: GEN/35/26
+  number: '26'
+reference: 'Genesis 35:27'

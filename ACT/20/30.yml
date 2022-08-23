@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 20:30"
+  class="v">30</span>Also of your own selves shall men arise, speaking perverse
+  things, to draw away disciples after them. </p>
+id: ACT/20/30
+next:
+  id: ACT/20/31
+  number: '31'
+previous:
+  id: ACT/20/29
+  number: '29'
+reference: 'Acts 20:30'

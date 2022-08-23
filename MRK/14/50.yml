@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MRK 14:50"
+  class="v">50</span>And they all forsook him, and fled. </p>
+id: MRK/14/50
+next:
+  id: MRK/14/51
+  number: '51'
+previous:
+  id: MRK/14/49
+  number: '49'
+reference: 'Mark 14:50'

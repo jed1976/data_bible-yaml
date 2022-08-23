@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="LEV 14:39"
+  class="v">39</span>And the priest shall come again the seventh day, and shall
+  look: and, behold, <span class="add">if</span> the plague be spread in the
+  walls of the house; </p>
+id: LEV/14/39
+next:
+  id: LEV/14/40
+  number: '40'
+previous:
+  id: LEV/14/38
+  number: '38'
+reference: 'Leviticus 14:39'

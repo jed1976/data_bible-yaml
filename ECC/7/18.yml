@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ECC 7:18"
+  class="v">18</span><span class="add">It is</span> good that thou shouldest
+  take hold of this; yea, also from this withdraw not thine hand: for he that
+  feareth God shall come forth of them all. </p>
+id: ECC/7/18
+next:
+  id: ECC/7/19
+  number: '19'
+previous:
+  id: ECC/7/17
+  number: '17'
+reference: 'Ecclesiastes 7:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 6:5" class="v">5</span>And I
+  have also heard the groaning of the children of Israel, whom the Egyptians
+  keep in bondage; and I have remembered my covenant. </p>
+id: EXO/6/5
+next:
+  id: EXO/6/6
+  number: '6'
+previous:
+  id: EXO/6/4
+  number: '4'
+reference: 'Exodus 6:5'

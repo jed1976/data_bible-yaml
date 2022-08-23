@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 17:22"
+  class="v">22</span>And he left off talking with him, and God went up from
+  Abraham.</p>
+id: GEN/17/22
+next:
+  id: GEN/17/23
+  number: '23'
+previous:
+  id: GEN/17/21
+  number: '21'
+reference: 'Genesis 17:22'

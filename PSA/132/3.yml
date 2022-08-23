@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 132:3"
+  class="v">3</span>Surely I will not come into the tabernacle of my house, nor
+  go up into my bed;</p>
+id: PSA/132/3
+next:
+  id: PSA/132/4
+  number: '4'
+previous:
+  id: PSA/132/2
+  number: '2'
+reference: 'Psalms 132:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CH 19:9" class="v">9</span>And
+  the children of Ammon came out, and put the battle in array before the gate of
+  the city: and the kings that were come <span class="add">were</span> by
+  themselves in the field. </p>
+id: 1CH/19/9
+next:
+  id: 1CH/19/10
+  number: '10'
+previous:
+  id: 1CH/19/8
+  number: '8'
+reference: '1 Chronicles 19:9'

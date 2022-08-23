@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 56:11"
+  class="v">11</span>Yea, <span class="add">they are</span> greedy dogs <span
+  class="add">which</span> can never have enough, and they <span
+  class="add">are</span> shepherds <span class="add">that</span> cannot
+  understand: they all look to their own way, every one for his gain, from his
+  quarter. </p>
+id: ISA/56/11
+next:
+  id: ISA/56/12
+  number: '12'
+previous:
+  id: ISA/56/10
+  number: '10'
+reference: 'Isaiah 56:11'

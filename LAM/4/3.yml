@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LAM 4:3" class="v">3</span>Even
+  the sea monsters draw out the breast, they give suck to their young ones: the
+  daughter of my people <span class="add">is become</span> cruel, like the
+  ostriches in the wilderness. </p>
+id: LAM/4/3
+next:
+  id: LAM/4/4
+  number: '4'
+previous:
+  id: LAM/4/2
+  number: '2'
+reference: 'Lamentations 4:3'

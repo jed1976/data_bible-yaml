@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="JHN 6:59"
+  class="v">59</span>These things said he in the synagogue, as he taught in
+  Capernaum. </p>
+id: JHN/6/59
+next:
+  id: JHN/6/60
+  number: '60'
+previous:
+  id: JHN/6/58
+  number: '58'
+reference: 'John 6:59'

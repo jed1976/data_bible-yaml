@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 8:6" class="v">6</span>Thou
+  madest him to have dominion over the works of thy hands; thou hast put all
+  <span class="add">things</span> under his feet:</p>
+id: PSA/8/6
+next:
+  id: PSA/8/7
+  number: '7'
+previous:
+  id: PSA/8/5
+  number: '5'
+reference: 'Psalms 8:6'

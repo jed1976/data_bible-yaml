@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 26:15"
+  class="v">15</span>And said <span class="add">unto them</span>, What will ye
+  give me, and I will deliver him unto you? And they covenanted with him for
+  thirty pieces of silver. </p>
+id: MAT/26/15
+next:
+  id: MAT/26/16
+  number: '16'
+previous:
+  id: MAT/26/14
+  number: '14'
+reference: 'Matthew 26:15'

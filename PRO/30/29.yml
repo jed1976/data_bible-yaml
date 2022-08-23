@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 30:29"
+  class="v">29</span>There be three <span class="add">things</span> which go
+  well, yea, four are comely in going: </p>
+id: PRO/30/29
+next:
+  id: PRO/30/30
+  number: '30'
+previous:
+  id: PRO/30/28
+  number: '28'
+reference: 'Proverbs 30:29'

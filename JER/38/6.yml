@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 38:6" class="v">6</span>Then
+  took they Jeremiah, and cast him into the dungeon of Malchiah the son of
+  Hammelech, that <span class="add">was</span> in the court of the prison: and
+  they let down Jeremiah with cords. And in the dungeon <span class="add">there
+  was</span> no water, but mire: so Jeremiah sunk in the mire.</p>
+id: JER/38/6
+next:
+  id: JER/38/7
+  number: '7'
+previous:
+  id: JER/38/5
+  number: '5'
+reference: 'Jeremiah 38:6'

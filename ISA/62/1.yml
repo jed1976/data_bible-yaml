@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 62:1" class="v">1</span>For
+  Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not
+  rest, until the righteousness thereof go forth as brightness, and the
+  salvation thereof as a lamp <span class="add">that</span> burneth. </p>
+id: ISA/62/1
+next:
+  id: ISA/62/2
+  number: '2'
+previous:
+  id: ISA/61/11
+  number: '11'
+reference: 'Isaiah 62:1'

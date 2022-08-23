@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 6:10" class="v">10</span>And
+  Jesus said, <span class="wj">Make the men sit down.</span> Now there was much
+  grass in the place. So the men sat down, in number about five thousand. </p>
+id: JHN/6/10
+next:
+  id: JHN/6/11
+  number: '11'
+previous:
+  id: JHN/6/9
+  number: '9'
+reference: 'John 6:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 148:3"
+  class="v">3</span>Praise ye him, sun and moon: praise him, all ye stars of
+  light.</p>
+id: PSA/148/3
+next:
+  id: PSA/148/4
+  number: '4'
+previous:
+  id: PSA/148/2
+  number: '2'
+reference: 'Psalms 148:3'

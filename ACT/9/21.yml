@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 9:21" class="v">21</span>But
+  all that heard <span class="add">him</span> were amazed, and said; Is not this
+  he that destroyed them which called on this name in Jerusalem, and came hither
+  for that intent, that he might bring them bound unto the chief priests? </p>
+id: ACT/9/21
+next:
+  id: ACT/9/22
+  number: '22'
+previous:
+  id: ACT/9/20
+  number: '20'
+reference: 'Acts 9:21'

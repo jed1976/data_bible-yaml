@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="COL 1:20"
+  class="v">20</span>And, having made peace through the blood of his cross, by
+  him to reconcile all things unto himself; by him, <span class="add">I
+  say</span>, whether <span class="add">they be</span> things in earth, or
+  things in heaven. </p>
+id: COL/1/20
+next:
+  id: COL/1/21
+  number: '21'
+previous:
+  id: COL/1/19
+  number: '19'
+reference: 'Colossians 1:20'

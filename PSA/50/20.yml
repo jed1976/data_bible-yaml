@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 50:20"
+  class="v">20</span>Thou sittest <span class="add">and</span> speakest against
+  thy brother; thou slanderest thine own mother’s son.</p>
+id: PSA/50/20
+next:
+  id: PSA/50/21
+  number: '21'
+previous:
+  id: PSA/50/19
+  number: '19'
+reference: 'Psalms 50:20'

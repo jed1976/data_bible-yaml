@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 24:24"
+  class="v">24</span>And ships <span class="add">shall come</span> from the
+  coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he
+  also shall perish for ever. </p>
+id: NUM/24/24
+next:
+  id: NUM/24/25
+  number: '25'
+previous:
+  id: NUM/24/23
+  number: '23'
+reference: 'Numbers 24:24'

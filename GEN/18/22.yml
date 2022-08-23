@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 18:22"
+  class="v">22</span>And the men turned their faces from thence, and went toward
+  Sodom: but Abraham stood yet before the <span class="nd">LORD</span>.</p>
+id: GEN/18/22
+next:
+  id: GEN/18/23
+  number: '23'
+previous:
+  id: GEN/18/21
+  number: '21'
+reference: 'Genesis 18:22'

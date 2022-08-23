@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOS 15:34"
+  class="v">34</span>And Zanoah, and En-gannim, Tappuah, and Enam, </p>
+id: JOS/15/34
+next:
+  id: JOS/15/35
+  number: '35'
+previous:
+  id: JOS/15/33
+  number: '33'
+reference: 'Joshua 15:34'

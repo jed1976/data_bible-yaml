@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 45:12"
+  class="v">12</span>And the shekel <span class="add">shall be</span> twenty
+  gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be
+  your maneh.</p>
+id: EZK/45/12
+next:
+  id: EZK/45/13
+  number: '13'
+previous:
+  id: EZK/45/11
+  number: '11'
+reference: 'Ezekiel 45:12'

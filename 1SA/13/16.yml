@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 13:16"
+  class="v">16</span>And Saul, and Jonathan his son, and the people <span
+  class="add">that were</span> present with them, abode in Gibeah of Benjamin:
+  but the Philistines encamped in Michmash.</p>
+id: 1SA/13/16
+next:
+  id: 1SA/13/17
+  number: '17'
+previous:
+  id: 1SA/13/15
+  number: '15'
+reference: '1 Samuel 13:16'

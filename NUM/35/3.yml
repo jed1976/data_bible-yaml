@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 35:3" class="v">3</span>And
+  the cities shall they have to dwell in; and the suburbs of them shall be for
+  their cattle, and for their goods, and for all their beasts. </p>
+id: NUM/35/3
+next:
+  id: NUM/35/4
+  number: '4'
+previous:
+  id: NUM/35/2
+  number: '2'
+reference: 'Numbers 35:3'

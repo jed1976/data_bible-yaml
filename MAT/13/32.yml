@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 13:32"
+  class="v">32</span><span class="wj">Which indeed is the least of all seeds:
+  but when it is grown, it is the greatest among herbs, and becometh a tree, so
+  that the birds of the air come and lodge in the branches thereof.</span></p>
+id: MAT/13/32
+next:
+  id: MAT/13/33
+  number: '33'
+previous:
+  id: MAT/13/31
+  number: '31'
+reference: 'Matthew 13:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 24:17"
+  class="v">17</span>For the morning <span class="add">is</span> to them even as
+  the shadow of death: if <span class="add">one</span> know <span
+  class="add">them, they are in</span> the terrors of the shadow of death.</p>
+id: JOB/24/17
+next:
+  id: JOB/24/18
+  number: '18'
+previous:
+  id: JOB/24/16
+  number: '16'
+reference: 'Job 24:17'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 1:11" class="v">11</span>And
+  God said, Let the earth bring forth grass, the herb yielding seed, <span
+  class="add">and</span> the fruit tree yielding fruit after his kind, whose
+  seed <span class="add">is</span> in itself, upon the earth: and it was so.
+  </p>
+id: GEN/1/11
+next:
+  id: GEN/1/12
+  number: '12'
+previous:
+  id: GEN/1/10
+  number: '10'
+reference: 'Genesis 1:11'

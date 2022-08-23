@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 9:6" class="v">6</span>For he
+  wist not what to say; for they were sore afraid. </p>
+id: MRK/9/6
+next:
+  id: MRK/9/7
+  number: '7'
+previous:
+  id: MRK/9/5
+  number: '5'
+reference: 'Mark 9:6'

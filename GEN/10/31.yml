@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 10:31"
+  class="v">31</span>These <span class="add">are</span> the sons of Shem, after
+  their families, after their tongues, in their lands, after their nations. </p>
+id: GEN/10/31
+next:
+  id: GEN/10/32
+  number: '32'
+previous:
+  id: GEN/10/30
+  number: '30'
+reference: 'Genesis 10:31'

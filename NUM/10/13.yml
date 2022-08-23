@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 10:13"
+  class="v">13</span>And they first took their journey according to the
+  commandment of the <span class="nd">LORD</span> by the hand of Moses.</p>
+id: NUM/10/13
+next:
+  id: NUM/10/14
+  number: '14'
+previous:
+  id: NUM/10/12
+  number: '12'
+reference: 'Numbers 10:13'

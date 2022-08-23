@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 147:18"
+  class="v">18</span>He sendeth out his word, and melteth them: he causeth his
+  wind to blow, <span class="add">and</span> the waters flow.</p>
+id: PSA/147/18
+next:
+  id: PSA/147/19
+  number: '19'
+previous:
+  id: PSA/147/17
+  number: '17'
+reference: 'Psalms 147:18'

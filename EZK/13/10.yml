@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 13:10" class="v">10</span>¶
+  Because, even because they have seduced my people, saying, Peace; and <span
+  class="add">there was</span> no peace; and one built up a wall, and, lo,
+  others daubed it with untempered <span class="add">morter:</span> </p>
+id: EZK/13/10
+next:
+  id: EZK/13/11
+  number: '11'
+previous:
+  id: EZK/13/9
+  number: '9'
+reference: 'Ezekiel 13:10'

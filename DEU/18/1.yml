@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 18:1" class="v">1</span>The
+  priests the Levites, <span class="add">and</span> all the tribe of Levi, shall
+  have no part nor inheritance with Israel: they shall eat the offerings of the
+  <span class="nd">LORD</span> made by fire, and his inheritance. </p>
+id: DEU/18/1
+next:
+  id: DEU/18/2
+  number: '2'
+previous:
+  id: DEU/17/20
+  number: '20'
+reference: 'Deuteronomy 18:1'

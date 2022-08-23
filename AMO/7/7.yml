@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 7:7" class="v">7</span>¶ Thus
+  he shewed me: and, behold, the Lord stood upon a wall <span
+  class="add">made</span> by a plumbline, with a plumbline in his hand. </p>
+id: AMO/7/7
+next:
+  id: AMO/7/8
+  number: '8'
+previous:
+  id: AMO/7/6
+  number: '6'
+reference: 'Amos 7:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 22:29"
+  class="v">29</span>All <span class="add">they that be</span> fat upon earth
+  shall eat and worship: all they that go down to the dust shall bow before him:
+  and none can keep alive his own soul.</p>
+id: PSA/22/29
+next:
+  id: PSA/22/30
+  number: '30'
+previous:
+  id: PSA/22/28
+  number: '28'
+reference: 'Psalms 22:29'

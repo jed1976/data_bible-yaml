@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 2:4" class="v">4</span>Then
+  the king said unto me, For what dost thou make request? So I prayed to the God
+  of heaven. </p>
+id: NEH/2/4
+next:
+  id: NEH/2/5
+  number: '5'
+previous:
+  id: NEH/2/3
+  number: '3'
+reference: 'Nehemiah 2:4'

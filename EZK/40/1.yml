@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 40:1" class="v">1</span>In
+  the five and twentieth year of our captivity, in the beginning of the year, in
+  the tenth <span class="add">day</span> of the month, in the fourteenth year
+  after that the city was smitten, in the selfsame day the hand of the <span
+  class="nd">LORD</span> was upon me, and brought me thither. </p>
+id: EZK/40/1
+next:
+  id: EZK/40/2
+  number: '2'
+previous:
+  id: EZK/39/29
+  number: '29'
+reference: 'Ezekiel 40:1'

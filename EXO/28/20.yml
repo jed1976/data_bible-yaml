@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 28:20"
+  class="v">20</span>And the fourth row a beryl, and an onyx, and a jasper: they
+  shall be set in gold in their inclosings. </p>
+id: EXO/28/20
+next:
+  id: EXO/28/21
+  number: '21'
+previous:
+  id: EXO/28/19
+  number: '19'
+reference: 'Exodus 28:20'

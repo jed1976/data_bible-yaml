@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 25:24" class="v">24</span>¶
+  And when her days to be delivered were fulfilled, behold, <span
+  class="add">there were</span> twins in her womb. </p>
+id: GEN/25/24
+next:
+  id: GEN/25/25
+  number: '25'
+previous:
+  id: GEN/25/23
+  number: '23'
+reference: 'Genesis 25:24'

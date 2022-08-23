@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 18:17"
+  class="v">17</span>And Moses’ father in law said unto him, The thing that thou
+  doest <span class="add">is</span> not good. </p>
+id: EXO/18/17
+next:
+  id: EXO/18/18
+  number: '18'
+previous:
+  id: EXO/18/16
+  number: '16'
+reference: 'Exodus 18:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 12:19"
+  class="v">19</span>The lip of truth shall be established for ever: but a lying
+  tongue <span class="add">is</span> but for a moment. </p>
+id: PRO/12/19
+next:
+  id: PRO/12/20
+  number: '20'
+previous:
+  id: PRO/12/18
+  number: '18'
+reference: 'Proverbs 12:19'

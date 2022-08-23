@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 31:33" class="v">33</span>If
+  I covered my transgressions as Adam, by hiding mine iniquity in my bosom: </p>
+id: JOB/31/33
+next:
+  id: JOB/31/34
+  number: '34'
+previous:
+  id: JOB/31/32
+  number: '32'
+reference: 'Job 31:33'

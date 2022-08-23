@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 18:11"
+  class="v">11</span>And now thou sayest, Go, tell thy lord, Behold, Elijah
+  <span class="add">is here</span>. </p>
+id: 1KI/18/11
+next:
+  id: 1KI/18/12
+  number: '12'
+previous:
+  id: 1KI/18/10
+  number: '10'
+reference: '1 Kings 18:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 5:6" class="v">6</span>Thou
+  shalt destroy them that speak leasing: the <span class="nd">LORD</span> will
+  abhor the bloody and deceitful man.</p>
+id: PSA/5/6
+next:
+  id: PSA/5/7
+  number: '7'
+previous:
+  id: PSA/5/5
+  number: '5'
+reference: 'Psalms 5:6'

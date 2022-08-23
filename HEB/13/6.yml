@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 13:6" class="v">6</span>So
+  that we may boldly say, The Lord <span class="add">is</span> my helper, and I
+  will not fear what man shall do unto me.</p>
+id: HEB/13/6
+next:
+  id: HEB/13/7
+  number: '7'
+previous:
+  id: HEB/13/5
+  number: '5'
+reference: 'Hebrews 13:6'

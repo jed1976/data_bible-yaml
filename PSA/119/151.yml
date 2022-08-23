@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="151" data-sid="PSA 119:151"
+  class="v">151</span>Thou <span class="add">art</span> near, O <span
+  class="nd">LORD</span>; and all thy commandments <span class="add">are</span>
+  truth.</p>
+id: PSA/119/151
+next:
+  id: PSA/119/152
+  number: '152'
+previous:
+  id: PSA/119/150
+  number: '150'
+reference: 'Psalms 119:151'

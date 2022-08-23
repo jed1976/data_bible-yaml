@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 29:23"
+  class="v">23</span><span class="add">And that</span> the whole land thereof
+  <span class="add">is</span> brimstone, and salt, <span class="add">and</span>
+  burning, <span class="add">that</span> it is not sown, nor beareth, nor any
+  grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and
+  Zeboim, which the <span class="nd">LORD</span> overthrew in his anger, and in
+  his wrath: </p>
+id: DEU/29/23
+next:
+  id: DEU/29/24
+  number: '24'
+previous:
+  id: DEU/29/22
+  number: '22'
+reference: 'Deuteronomy 29:23'

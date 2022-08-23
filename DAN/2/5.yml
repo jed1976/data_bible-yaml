@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 2:5" class="v">5</span>The
+  king answered and said to the Chaldeans, The thing is gone from me: if ye will
+  not make known unto me the dream, with the interpretation thereof, ye shall be
+  cut in pieces, and your houses shall be made a dunghill. </p>
+id: DAN/2/5
+next:
+  id: DAN/2/6
+  number: '6'
+previous:
+  id: DAN/2/4
+  number: '4'
+reference: 'Daniel 2:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 13:12" class="v">12</span>I
+  will make a man more precious than fine gold; even a man than the golden wedge
+  of Ophir. </p>
+id: ISA/13/12
+next:
+  id: ISA/13/13
+  number: '13'
+previous:
+  id: ISA/13/11
+  number: '11'
+reference: 'Isaiah 13:12'

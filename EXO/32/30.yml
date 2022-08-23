@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 32:30" class="v">30</span>¶
+  And it came to pass on the morrow, that Moses said unto the people, Ye have
+  sinned a great sin: and now I will go up unto the <span
+  class="nd">LORD</span>; peradventure I shall make an atonement for your sin.
+  </p>
+id: EXO/32/30
+next:
+  id: EXO/32/31
+  number: '31'
+previous:
+  id: EXO/32/29
+  number: '29'
+reference: 'Exodus 32:30'

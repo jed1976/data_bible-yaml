@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 4:21" class="v">21</span>And
+  being fully persuaded that, what he had promised, he was able also to perform.
+  </p>
+id: ROM/4/21
+next:
+  id: ROM/4/22
+  number: '22'
+previous:
+  id: ROM/4/20
+  number: '20'
+reference: 'Romans 4:21'

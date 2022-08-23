@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 5:3" class="v">3</span>And
+  not only <span class="add">so</span>, but we glory in tribulations also:
+  knowing that tribulation worketh patience; </p>
+id: ROM/5/3
+next:
+  id: ROM/5/4
+  number: '4'
+previous:
+  id: ROM/5/2
+  number: '2'
+reference: 'Romans 5:3'

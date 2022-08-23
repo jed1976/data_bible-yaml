@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 11:8" class="v">8</span><span
+  class="wj">But what went ye out for to see? A man clothed in soft raiment?
+  behold, they that wear soft <span class="add">clothing</span> are in kings’
+  houses.</span> </p>
+id: MAT/11/8
+next:
+  id: MAT/11/9
+  number: '9'
+previous:
+  id: MAT/11/7
+  number: '7'
+reference: 'Matthew 11:8'

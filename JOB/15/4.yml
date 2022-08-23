@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 15:4" class="v">4</span>Yea,
+  thou castest off fear, and restrainest prayer before God. </p>
+id: JOB/15/4
+next:
+  id: JOB/15/5
+  number: '5'
+previous:
+  id: JOB/15/3
+  number: '3'
+reference: 'Job 15:4'

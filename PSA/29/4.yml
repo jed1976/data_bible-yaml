@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 29:4" class="v">4</span>The
+  voice of the <span class="nd">LORD</span> <span class="add">is</span>
+  powerful; the voice of the <span class="nd">LORD</span> <span
+  class="add">is</span> full of majesty.</p>
+id: PSA/29/4
+next:
+  id: PSA/29/5
+  number: '5'
+previous:
+  id: PSA/29/3
+  number: '3'
+reference: 'Psalms 29:4'

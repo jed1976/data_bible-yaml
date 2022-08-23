@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 14:11" class="v">11</span>As
+  yet I <span class="add">am as</span> strong this day as <span class="add">I
+  was</span> in the day that Moses sent me: as my strength <span
+  class="add">was</span> then, even so <span class="add">is</span> my strength
+  now, for war, both to go out, and to come in. </p>
+id: JOS/14/11
+next:
+  id: JOS/14/12
+  number: '12'
+previous:
+  id: JOS/14/10
+  number: '10'
+reference: 'Joshua 14:11'

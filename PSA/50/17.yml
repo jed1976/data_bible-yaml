@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 50:17"
+  class="v">17</span>Seeing thou hatest instruction, and castest my words behind
+  thee.</p>
+id: PSA/50/17
+next:
+  id: PSA/50/18
+  number: '18'
+previous:
+  id: PSA/50/16
+  number: '16'
+reference: 'Psalms 50:17'

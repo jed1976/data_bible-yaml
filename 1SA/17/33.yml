@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1SA 17:33"
+  class="v">33</span>And Saul said to David, Thou art not able to go against
+  this Philistine to fight with him: for thou <span class="add">art but</span> a
+  youth, and he a man of war from his youth. </p>
+id: 1SA/17/33
+next:
+  id: 1SA/17/34
+  number: '34'
+previous:
+  id: 1SA/17/32
+  number: '32'
+reference: '1 Samuel 17:33'

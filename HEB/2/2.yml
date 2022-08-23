@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HEB 2:2" class="v">2</span>For if
+  the word spoken by angels was stedfast, and every transgression and
+  disobedience received a just recompence of reward; </p>
+id: HEB/2/2
+next:
+  id: HEB/2/3
+  number: '3'
+previous:
+  id: HEB/2/1
+  number: '1'
+reference: 'Hebrews 2:2'

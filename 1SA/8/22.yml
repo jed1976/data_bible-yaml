@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1SA 8:22" class="v">22</span>And
+  the <span class="nd">LORD</span> said to Samuel, Hearken unto their voice, and
+  make them a king. And Samuel said unto the men of Israel, Go ye every man unto
+  his city.</p>
+id: 1SA/8/22
+next:
+  id: 1SA/9/1
+  number: '1'
+previous:
+  id: 1SA/8/21
+  number: '21'
+reference: '1 Samuel 8:22'

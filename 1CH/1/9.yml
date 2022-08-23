@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CH 1:9" class="v">9</span>And
+  the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And
+  the sons of Raamah; Sheba, and Dedan. </p>
+id: 1CH/1/9
+next:
+  id: 1CH/1/10
+  number: '10'
+previous:
+  id: 1CH/1/8
+  number: '8'
+reference: '1 Chronicles 1:9'

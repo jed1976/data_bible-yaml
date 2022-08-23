@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 1:4" class="v">4</span>And
+  Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
+  </p>
+id: MAT/1/4
+next:
+  id: MAT/1/5
+  number: '5'
+previous:
+  id: MAT/1/3
+  number: '3'
+reference: 'Matthew 1:4'

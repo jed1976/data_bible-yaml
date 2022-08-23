@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 22:7" class="v">7</span>And I
+  will prepare destroyers against thee, every one with his weapons: and they
+  shall cut down thy choice cedars, and cast <span class="add">them</span> into
+  the fire. </p>
+id: JER/22/7
+next:
+  id: JER/22/8
+  number: '8'
+previous:
+  id: JER/22/6
+  number: '6'
+reference: 'Jeremiah 22:7'

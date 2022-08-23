@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 15:10" class="v">10</span>¶
+  And he called the multitude, and said unto them, <span class="wj">Hear, and
+  understand:</span> </p>
+id: MAT/15/10
+next:
+  id: MAT/15/11
+  number: '11'
+previous:
+  id: MAT/15/9
+  number: '9'
+reference: 'Matthew 15:10'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 27:30"
+  class="v">30</span>And all the tithe of the land, <span
+  class="add">whether</span> of the seed of the land, <span
+  class="add">or</span> of the fruit of the tree, <span class="add">is</span>
+  the <span class="nd">LORD’s</span>: <span class="add">it is</span> holy unto
+  the <span class="nd">LORD</span>. </p>
+id: LEV/27/30
+next:
+  id: LEV/27/31
+  number: '31'
+previous:
+  id: LEV/27/29
+  number: '29'
+reference: 'Leviticus 27:30'

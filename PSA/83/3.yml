@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 83:3" class="v">3</span>They
+  have taken crafty counsel against thy people, and consulted against thy hidden
+  ones.</p>
+id: PSA/83/3
+next:
+  id: PSA/83/4
+  number: '4'
+previous:
+  id: PSA/83/2
+  number: '2'
+reference: 'Psalms 83:3'

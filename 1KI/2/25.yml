@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 2:25" class="v">25</span>And
+  king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon
+  him that he died.</p>
+id: 1KI/2/25
+next:
+  id: 1KI/2/26
+  number: '26'
+previous:
+  id: 1KI/2/24
+  number: '24'
+reference: '1 Kings 2:25'

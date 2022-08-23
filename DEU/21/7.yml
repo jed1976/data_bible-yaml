@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 21:7" class="v">7</span>And
+  they shall answer and say, Our hands have not shed this blood, neither have
+  our eyes seen <span class="add">it</span>. </p>
+id: DEU/21/7
+next:
+  id: DEU/21/8
+  number: '8'
+previous:
+  id: DEU/21/6
+  number: '6'
+reference: 'Deuteronomy 21:7'

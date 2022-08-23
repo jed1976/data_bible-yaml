@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 18:9" class="v">9</span>And
+  he spake this parable unto certain which trusted in themselves that they were
+  righteous, and despised others: </p>
+id: LUK/18/9
+next:
+  id: LUK/18/10
+  number: '10'
+previous:
+  id: LUK/18/8
+  number: '8'
+reference: 'Luke 18:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 5:21"
+  class="v">21</span>Thou shalt be hid from the scourge of the tongue: neither
+  shalt thou be afraid of destruction when it cometh. </p>
+id: JOB/5/21
+next:
+  id: JOB/5/22
+  number: '22'
+previous:
+  id: JOB/5/20
+  number: '20'
+reference: 'Job 5:21'

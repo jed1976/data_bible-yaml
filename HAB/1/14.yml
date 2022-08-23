@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="HAB 1:14" class="v">14</span>And
+  makest men as the fishes of the sea, as the creeping things, <span
+  class="add">that have</span> no ruler over them? </p>
+id: HAB/1/14
+next:
+  id: HAB/1/15
+  number: '15'
+previous:
+  id: HAB/1/13
+  number: '13'
+reference: 'Habakkuk 1:14'

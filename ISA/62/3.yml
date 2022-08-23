@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 62:3" class="v">3</span>Thou
+  shalt also be a crown of glory in the hand of the <span
+  class="nd">LORD</span>, and a royal diadem in the hand of thy God. </p>
+id: ISA/62/3
+next:
+  id: ISA/62/4
+  number: '4'
+previous:
+  id: ISA/62/2
+  number: '2'
+reference: 'Isaiah 62:3'

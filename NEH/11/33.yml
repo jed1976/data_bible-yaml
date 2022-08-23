@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NEH 11:33"
+  class="v">33</span>Hazor, Ramah, Gittaim, </p>
+id: NEH/11/33
+next:
+  id: NEH/11/34
+  number: '34'
+previous:
+  id: NEH/11/32
+  number: '32'
+reference: 'Nehemiah 11:33'

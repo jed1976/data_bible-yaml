@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 47:11" class="v">11</span>¶
+  Therefore shall evil come upon thee; thou shalt not know from whence it
+  riseth: and mischief shall fall upon thee; thou shalt not be able to put it
+  off: and desolation shall come upon thee suddenly, <span
+  class="add">which</span> thou shalt not know. </p>
+id: ISA/47/11
+next:
+  id: ISA/47/12
+  number: '12'
+previous:
+  id: ISA/47/10
+  number: '10'
+reference: 'Isaiah 47:11'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JHN 18:36"
+  class="v">36</span>Jesus answered, <span class="wj">My kingdom is not of this
+  world: if my kingdom were of this world, then would my servants fight, that I
+  should not be delivered to the Jews: but now is my kingdom not from
+  hence.</span> </p>
+id: JHN/18/36
+next:
+  id: JHN/18/37
+  number: '37'
+previous:
+  id: JHN/18/35
+  number: '35'
+reference: 'John 18:36'

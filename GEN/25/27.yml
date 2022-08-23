@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 25:27"
+  class="v">27</span>And the boys grew: and Esau was a cunning hunter, a man of
+  the field; and Jacob <span class="add">was</span> a plain man, dwelling in
+  tents. </p>
+id: GEN/25/27
+next:
+  id: GEN/25/28
+  number: '28'
+previous:
+  id: GEN/25/26
+  number: '26'
+reference: 'Genesis 25:27'

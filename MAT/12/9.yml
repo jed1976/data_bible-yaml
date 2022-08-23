@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 12:9" class="v">9</span>And
+  when he was departed thence, he went into their synagogue:</p>
+id: MAT/12/9
+next:
+  id: MAT/12/10
+  number: '10'
+previous:
+  id: MAT/12/8
+  number: '8'
+reference: 'Matthew 12:9'

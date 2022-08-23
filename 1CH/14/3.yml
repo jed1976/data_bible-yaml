@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 14:3" class="v">3</span>¶ And
+  David took more wives at Jerusalem: and David begat more sons and daughters.
+  </p>
+id: 1CH/14/3
+next:
+  id: 1CH/14/4
+  number: '4'
+previous:
+  id: 1CH/14/2
+  number: '2'
+reference: '1 Chronicles 14:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 24:16"
+  class="v">16</span>And the damsel <span class="add">was</span> very fair to
+  look upon, a virgin, neither had any man known her: and she went down to the
+  well, and filled her pitcher, and came up. </p>
+id: GEN/24/16
+next:
+  id: GEN/24/17
+  number: '17'
+previous:
+  id: GEN/24/15
+  number: '15'
+reference: 'Genesis 24:16'

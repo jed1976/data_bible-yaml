@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 18:22"
+  class="v">22</span>And let them judge the people at all seasons: and it shall
+  be, <span class="add">that</span> every great matter they shall bring unto
+  thee, but every small matter they shall judge: so shall it be easier for
+  thyself, and they shall bear <span class="add">the burden</span> with thee.
+  </p>
+id: EXO/18/22
+next:
+  id: EXO/18/23
+  number: '23'
+previous:
+  id: EXO/18/21
+  number: '21'
+reference: 'Exodus 18:22'

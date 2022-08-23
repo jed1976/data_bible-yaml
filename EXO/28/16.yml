@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 28:16"
+  class="v">16</span>Foursquare it shall be <span class="add">being</span>
+  doubled; a span <span class="add">shall be</span> the length thereof, and a
+  span <span class="add">shall be</span> the breadth thereof. </p>
+id: EXO/28/16
+next:
+  id: EXO/28/17
+  number: '17'
+previous:
+  id: EXO/28/15
+  number: '15'
+reference: 'Exodus 28:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 12:13" class="v">13</span>¶
+  And they send unto him certain of the Pharisees and of the Herodians, to catch
+  him in <span class="add">his</span> words. </p>
+id: MRK/12/13
+next:
+  id: MRK/12/14
+  number: '14'
+previous:
+  id: MRK/12/12
+  number: '12'
+reference: 'Mark 12:13'

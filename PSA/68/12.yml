@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 68:12"
+  class="v">12</span>Kings of armies did flee apace: and she that tarried at
+  home divided the spoil.</p>
+id: PSA/68/12
+next:
+  id: PSA/68/13
+  number: '13'
+previous:
+  id: PSA/68/11
+  number: '11'
+reference: 'Psalms 68:12'

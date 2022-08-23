@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOL 2:22" class="v">22</span>Be
+  not afraid, ye beasts of the field: for the pastures of the wilderness do
+  spring, for the tree beareth her fruit, the fig tree and the vine do yield
+  their strength. </p>
+id: JOL/2/22
+next:
+  id: JOL/2/23
+  number: '23'
+previous:
+  id: JOL/2/21
+  number: '21'
+reference: 'Joel 2:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 17:3" class="v">3</span>Thou
+  hast proved mine heart; thou hast visited <span class="add">me</span> in the
+  night; thou hast tried me, <span class="add">and</span> shalt find nothing; I
+  am purposed <span class="add">that</span> my mouth shall not transgress.</p>
+id: PSA/17/3
+next:
+  id: PSA/17/4
+  number: '4'
+previous:
+  id: PSA/17/2
+  number: '2'
+reference: 'Psalms 17:3'

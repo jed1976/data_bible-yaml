@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 6:5" class="v">5</span>¶ When
+  Jesus then lifted up <span class="add">his</span> eyes, and saw a great
+  company come unto him, he saith unto Philip, <span class="wj">Whence shall we
+  buy bread, that these may eat?</span> </p>
+id: JHN/6/5
+next:
+  id: JHN/6/6
+  number: '6'
+previous:
+  id: JHN/6/4
+  number: '4'
+reference: 'John 6:5'

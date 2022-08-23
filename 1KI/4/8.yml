@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 4:8" class="v">8</span>And
+  these <span class="add">are</span> their names: The son of Hur, in mount
+  Ephraim: </p>
+id: 1KI/4/8
+next:
+  id: 1KI/4/9
+  number: '9'
+previous:
+  id: 1KI/4/7
+  number: '7'
+reference: '1 Kings 4:8'

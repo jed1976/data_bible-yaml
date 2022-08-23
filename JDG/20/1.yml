@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 20:1" class="v">1</span>Then
+  all the children of Israel went out, and the congregation was gathered
+  together as one man, from Dan even to Beer-sheba, with the land of Gilead,
+  unto the <span class="nd">LORD</span> in Mizpeh. </p>
+id: JDG/20/1
+next:
+  id: JDG/20/2
+  number: '2'
+previous:
+  id: JDG/19/30
+  number: '30'
+reference: 'Judges 20:1'

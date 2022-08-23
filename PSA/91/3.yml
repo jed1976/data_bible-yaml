@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 91:3"
+  class="v">3</span>Surely he shall deliver thee from the snare of the fowler,
+  <span class="add">and</span> from the noisome pestilence.</p>
+id: PSA/91/3
+next:
+  id: PSA/91/4
+  number: '4'
+previous:
+  id: PSA/91/2
+  number: '2'
+reference: 'Psalms 91:3'

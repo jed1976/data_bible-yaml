@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 21:5" class="v">5</span>Mark
+  me, and be astonished, and lay <span class="add">your</span> hand upon <span
+  class="add">your</span> mouth. </p>
+id: JOB/21/5
+next:
+  id: JOB/21/6
+  number: '6'
+previous:
+  id: JOB/21/4
+  number: '4'
+reference: 'Job 21:5'

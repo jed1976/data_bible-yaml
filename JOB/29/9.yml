@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 29:9" class="v">9</span>The
+  princes refrained talking, and laid <span class="add">their</span> hand on
+  their mouth. </p>
+id: JOB/29/9
+next:
+  id: JOB/29/10
+  number: '10'
+previous:
+  id: JOB/29/8
+  number: '8'
+reference: 'Job 29:9'

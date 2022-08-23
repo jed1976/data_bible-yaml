@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 5:9" class="v">9</span>That
+  strengtheneth the spoiled against the strong, so that the spoiled shall come
+  against the fortress. </p>
+id: AMO/5/9
+next:
+  id: AMO/5/10
+  number: '10'
+previous:
+  id: AMO/5/8
+  number: '8'
+reference: 'Amos 5:9'

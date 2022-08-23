@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 3:17" class="v">17</span>And
+  he said, What <span class="add">is</span> the thing that <span class="add">the
+  <span class="nd">Lord</span></span> hath said unto thee? I pray thee hide
+  <span class="add">it</span> not from me: God do so to thee, and more also, if
+  thou hide <span class="add">any</span> thing from me of all the things that he
+  said unto thee. </p>
+id: 1SA/3/17
+next:
+  id: 1SA/3/18
+  number: '18'
+previous:
+  id: 1SA/3/16
+  number: '16'
+reference: '1 Samuel 3:17'

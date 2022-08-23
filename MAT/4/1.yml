@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 4:1" class="v">1</span>Then
+  was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
+  </p>
+id: MAT/4/1
+next:
+  id: MAT/4/2
+  number: '2'
+previous:
+  id: MAT/3/17
+  number: '17'
+reference: 'Matthew 4:1'

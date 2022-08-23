@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 33:12" class="v">12</span>¶
+  And Moses said unto the <span class="nd">LORD</span>, See, thou sayest unto
+  me, Bring up this people: and thou hast not let me know whom thou wilt send
+  with me. Yet thou hast said, I know thee by name, and thou hast also found
+  grace in my sight. </p>
+id: EXO/33/12
+next:
+  id: EXO/33/13
+  number: '13'
+previous:
+  id: EXO/33/11
+  number: '11'
+reference: 'Exodus 33:12'

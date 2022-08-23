@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 23:5" class="v">5</span>And
+  the <span class="nd">LORD</span> put a word in Balaam’s mouth, and said,
+  Return unto Balak, and thus thou shalt speak. </p>
+id: NUM/23/5
+next:
+  id: NUM/23/6
+  number: '6'
+previous:
+  id: NUM/23/4
+  number: '4'
+reference: 'Numbers 23:5'

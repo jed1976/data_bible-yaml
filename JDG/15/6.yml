@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 15:6" class="v">6</span>¶
+  Then the Philistines said, Who hath done this? And they answered, Samson, the
+  son in law of the Timnite, because he had taken his wife, and given her to his
+  companion. And the Philistines came up, and burnt her and her father with
+  fire.</p>
+id: JDG/15/6
+next:
+  id: JDG/15/7
+  number: '7'
+previous:
+  id: JDG/15/5
+  number: '5'
+reference: 'Judges 15:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 4:23" class="v">23</span>Now
+  it was not written for his sake alone, that it was imputed to him; </p>
+id: ROM/4/23
+next:
+  id: ROM/4/24
+  number: '24'
+previous:
+  id: ROM/4/22
+  number: '22'
+reference: 'Romans 4:23'

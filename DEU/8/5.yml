@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 8:5" class="v">5</span>Thou
+  shalt also consider in thine heart, that, as a man chasteneth his son, <span
+  class="add">so</span> the <span class="nd">LORD</span> thy God chasteneth
+  thee. </p>
+id: DEU/8/5
+next:
+  id: DEU/8/6
+  number: '6'
+previous:
+  id: DEU/8/4
+  number: '4'
+reference: 'Deuteronomy 8:5'

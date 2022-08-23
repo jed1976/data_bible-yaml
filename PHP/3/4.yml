@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PHP 3:4" class="v">4</span>Though
+  I might also have confidence in the flesh. If any other man thinketh that he
+  hath whereof he might trust in the flesh, I more: </p>
+id: PHP/3/4
+next:
+  id: PHP/3/5
+  number: '5'
+previous:
+  id: PHP/3/3
+  number: '3'
+reference: 'Philippians 3:4'

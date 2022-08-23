@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 31:12"
+  class="v">12</span>She will do him good and not evil all the days of her life.
+  </p>
+id: PRO/31/12
+next:
+  id: PRO/31/13
+  number: '13'
+previous:
+  id: PRO/31/11
+  number: '11'
+reference: 'Proverbs 31:12'

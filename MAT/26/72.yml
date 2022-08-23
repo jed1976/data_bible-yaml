@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="72" data-sid="MAT 26:72"
+  class="v">72</span>And again he denied with an oath, I do not know the man.
+  </p>
+id: MAT/26/72
+next:
+  id: MAT/26/73
+  number: '73'
+previous:
+  id: MAT/26/71
+  number: '71'
+reference: 'Matthew 26:72'

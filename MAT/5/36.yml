@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 5:36"
+  class="v">36</span><span class="wj">Neither shalt thou swear by thy head,
+  because thou canst not make one hair white or black.</span> </p>
+id: MAT/5/36
+next:
+  id: MAT/5/37
+  number: '37'
+previous:
+  id: MAT/5/35
+  number: '35'
+reference: 'Matthew 5:36'

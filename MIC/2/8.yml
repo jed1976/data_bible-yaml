@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MIC 2:8" class="v">8</span>Even
+  of late my people is risen up as an enemy: ye pull off the robe with the
+  garment from them that pass by securely as men averse from war. </p>
+id: MIC/2/8
+next:
+  id: MIC/2/9
+  number: '9'
+previous:
+  id: MIC/2/7
+  number: '7'
+reference: 'Micah 2:8'

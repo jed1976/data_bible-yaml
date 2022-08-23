@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 33:20"
+  class="v">20</span>And he said, Thou canst not see my face: for there shall no
+  man see me, and live. </p>
+id: EXO/33/20
+next:
+  id: EXO/33/21
+  number: '21'
+previous:
+  id: EXO/33/19
+  number: '19'
+reference: 'Exodus 33:20'

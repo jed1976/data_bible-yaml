@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="GEN 27:41" class="v">41</span>¶
+  And Esau hated Jacob because of the blessing wherewith his father blessed him:
+  and Esau said in his heart, The days of mourning for my father are at hand;
+  then will I slay my brother Jacob. </p>
+id: GEN/27/41
+next:
+  id: GEN/27/42
+  number: '42'
+previous:
+  id: GEN/27/40
+  number: '40'
+reference: 'Genesis 27:41'

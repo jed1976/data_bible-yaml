@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 42:3" class="v">3</span>¶ And
+  Joseph’s ten brethren went down to buy corn in Egypt. </p>
+id: GEN/42/3
+next:
+  id: GEN/42/4
+  number: '4'
+previous:
+  id: GEN/42/2
+  number: '2'
+reference: 'Genesis 42:3'

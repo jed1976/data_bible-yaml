@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JUD 1:13"
+  class="v">13</span>Raging waves of the sea, foaming out their own shame;
+  wandering stars, to whom is reserved the blackness of darkness for ever. </p>
+id: JUD/1/13
+next:
+  id: JUD/1/14
+  number: '14'
+previous:
+  id: JUD/1/12
+  number: '12'
+reference: 'Jude 1:13'

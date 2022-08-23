@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 10:7" class="v">7</span>Who
+  would not fear thee, O King of nations? for to thee doth it appertain:
+  forasmuch as among all the wise <span class="add">men</span> of the nations,
+  and in all their kingdoms, <span class="add">there is</span> none like unto
+  thee. </p>
+id: JER/10/7
+next:
+  id: JER/10/8
+  number: '8'
+previous:
+  id: JER/10/6
+  number: '6'
+reference: 'Jeremiah 10:7'

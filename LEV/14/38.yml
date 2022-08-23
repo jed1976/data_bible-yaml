@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LEV 14:38"
+  class="v">38</span>Then the priest shall go out of the house to the door of
+  the house, and shut up the house seven days: </p>
+id: LEV/14/38
+next:
+  id: LEV/14/39
+  number: '39'
+previous:
+  id: LEV/14/37
+  number: '37'
+reference: 'Leviticus 14:38'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 94:8"
+  class="v">8</span>Understand, ye brutish among the people: and <span
+  class="add">ye</span> fools, when will ye be wise?</p>
+id: PSA/94/8
+next:
+  id: PSA/94/9
+  number: '9'
+previous:
+  id: PSA/94/7
+  number: '7'
+reference: 'Psalms 94:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 30:13"
+  class="v">13</span>Every vow, and every binding oath to afflict the soul, her
+  husband may establish it, or her husband may make it void. </p>
+id: NUM/30/13
+next:
+  id: NUM/30/14
+  number: '14'
+previous:
+  id: NUM/30/12
+  number: '12'
+reference: 'Numbers 30:13'

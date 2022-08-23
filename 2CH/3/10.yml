@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 3:10" class="v">10</span>And
+  in the most holy house he made two cherubims of image work, and overlaid them
+  with gold.</p>
+id: 2CH/3/10
+next:
+  id: 2CH/3/11
+  number: '11'
+previous:
+  id: 2CH/3/9
+  number: '9'
+reference: '2 Chronicles 3:10'

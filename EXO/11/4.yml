@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 11:4" class="v">4</span>And
+  Moses said, Thus saith the <span class="nd">LORD</span>, About midnight will I
+  go out into the midst of Egypt: </p>
+id: EXO/11/4
+next:
+  id: EXO/11/5
+  number: '5'
+previous:
+  id: EXO/11/3
+  number: '3'
+reference: 'Exodus 11:4'

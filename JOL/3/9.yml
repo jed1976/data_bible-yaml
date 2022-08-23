@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOL 3:9" class="v">9</span>¶
+  Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let
+  all the men of war draw near; let them come up: </p>
+id: JOL/3/9
+next:
+  id: JOL/3/10
+  number: '10'
+previous:
+  id: JOL/3/8
+  number: '8'
+reference: 'Joel 3:9'

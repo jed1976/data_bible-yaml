@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 18:17"
+  class="v">17</span><span class="wj">Verily I say unto you, Whosoever shall not
+  receive the kingdom of God as a little child shall in no wise enter
+  therein.</span> </p>
+id: LUK/18/17
+next:
+  id: LUK/18/18
+  number: '18'
+previous:
+  id: LUK/18/16
+  number: '16'
+reference: 'Luke 18:17'

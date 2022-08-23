@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="TIT 1:15"
+  class="v">15</span>Unto the pure all things <span class="add">are</span> pure:
+  but unto them that are defiled and unbelieving <span class="add">is</span>
+  nothing pure; but even their mind and conscience is defiled. </p>
+id: TIT/1/15
+next:
+  id: TIT/1/16
+  number: '16'
+previous:
+  id: TIT/1/14
+  number: '14'
+reference: 'Titus 1:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="SNG 2:16" class="v">16</span>¶
+  My beloved <span class="add">is</span> mine, and I <span class="add">am</span>
+  his: he feedeth among the lilies. </p>
+id: SNG/2/16
+next:
+  id: SNG/2/17
+  number: '17'
+previous:
+  id: SNG/2/15
+  number: '15'
+reference: 'Song of Solomon 2:16'

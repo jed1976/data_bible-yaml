@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="LAM 3:60"
+  class="v">60</span>Thou hast seen all their vengeance <span
+  class="add">and</span> all their imaginations against me. </p>
+id: LAM/3/60
+next:
+  id: LAM/3/61
+  number: '61'
+previous:
+  id: LAM/3/59
+  number: '59'
+reference: 'Lamentations 3:60'

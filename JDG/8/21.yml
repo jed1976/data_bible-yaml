@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 8:21"
+  class="v">21</span>Then Zebah and Zalmunna said, Rise thou, and fall upon us:
+  for as the man <span class="add">is, so is</span> his strength. And Gideon
+  arose, and slew Zebah and Zalmunna, and took away the ornaments that <span
+  class="add">were</span> on their camels’ necks.</p>
+id: JDG/8/21
+next:
+  id: JDG/8/22
+  number: '22'
+previous:
+  id: JDG/8/20
+  number: '20'
+reference: 'Judges 8:21'

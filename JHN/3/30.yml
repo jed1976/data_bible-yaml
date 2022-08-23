@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 3:30" class="v">30</span>He
+  must increase, but I <span class="add">must</span> decrease. </p>
+id: JHN/3/30
+next:
+  id: JHN/3/31
+  number: '31'
+previous:
+  id: JHN/3/29
+  number: '29'
+reference: 'John 3:30'

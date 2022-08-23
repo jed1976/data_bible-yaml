@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="OBA 1:15" class="v">15</span>For
+  the day of the <span class="nd">LORD</span> <span class="add">is</span> near
+  upon all the heathen: as thou hast done, it shall be done unto thee: thy
+  reward shall return upon thine own head. </p>
+id: OBA/1/15
+next:
+  id: OBA/1/16
+  number: '16'
+previous:
+  id: OBA/1/14
+  number: '14'
+reference: 'Obadiah 1:15'

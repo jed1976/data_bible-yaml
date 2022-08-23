@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 19:21"
+  class="v">21</span><span class="add">There are</span> many devices in a man’s
+  heart; nevertheless the counsel of the <span class="nd">LORD</span>, that
+  shall stand. </p>
+id: PRO/19/21
+next:
+  id: PRO/19/22
+  number: '22'
+previous:
+  id: PRO/19/20
+  number: '20'
+reference: 'Proverbs 19:21'

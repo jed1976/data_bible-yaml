@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 1:9" class="v">9</span>Now
+  God had brought Daniel into favour and tender love with the prince of the
+  eunuchs. </p>
+id: DAN/1/9
+next:
+  id: DAN/1/10
+  number: '10'
+previous:
+  id: DAN/1/8
+  number: '8'
+reference: 'Daniel 1:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EST 2:22" class="v">22</span>And
+  the thing was known to Mordecai, who told <span class="add">it</span> unto
+  Esther the queen; and Esther certified the king <span
+  class="add">thereof</span> in Mordecai’s name. </p>
+id: EST/2/22
+next:
+  id: EST/2/23
+  number: '23'
+previous:
+  id: EST/2/21
+  number: '21'
+reference: 'Esther 2:22'

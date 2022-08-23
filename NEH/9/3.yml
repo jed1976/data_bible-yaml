@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 9:3" class="v">3</span>And
+  they stood up in their place, and read in the book of the law of the <span
+  class="nd">LORD</span> their God <span class="add">one</span> fourth part of
+  the day; and <span class="add">another</span> fourth part they confessed, and
+  worshipped the <span class="nd">LORD</span> their God.</p>
+id: NEH/9/3
+next:
+  id: NEH/9/4
+  number: '4'
+previous:
+  id: NEH/9/2
+  number: '2'
+reference: 'Nehemiah 9:3'

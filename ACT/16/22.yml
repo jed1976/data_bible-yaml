@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 16:22"
+  class="v">22</span>And the multitude rose up together against them: and the
+  magistrates rent off their clothes, and commanded to beat <span
+  class="add">them</span>. </p>
+id: ACT/16/22
+next:
+  id: ACT/16/23
+  number: '23'
+previous:
+  id: ACT/16/21
+  number: '21'
+reference: 'Acts 16:22'

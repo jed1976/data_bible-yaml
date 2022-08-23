@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 14:7" class="v">7</span>¶ And
+  he put forth a parable to those which were bidden, when he marked how they
+  chose out the chief rooms; saying unto them, </p>
+id: LUK/14/7
+next:
+  id: LUK/14/8
+  number: '8'
+previous:
+  id: LUK/14/6
+  number: '6'
+reference: 'Luke 14:7'

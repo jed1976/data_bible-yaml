@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 10:35" class="v">35</span>¶
+  And James and John, the sons of Zebedee, come unto him, saying, Master, we
+  would that thou shouldest do for us whatsoever we shall desire. </p>
+id: MRK/10/35
+next:
+  id: MRK/10/36
+  number: '36'
+previous:
+  id: MRK/10/34
+  number: '34'
+reference: 'Mark 10:35'

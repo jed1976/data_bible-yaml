@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 28:26"
+  class="v">26</span>Saying, Go unto this people, and say, Hearing ye shall
+  hear, and shall not understand; and seeing ye shall see, and not perceive:
+  </p>
+id: ACT/28/26
+next:
+  id: ACT/28/27
+  number: '27'
+previous:
+  id: ACT/28/25
+  number: '25'
+reference: 'Acts 28:26'

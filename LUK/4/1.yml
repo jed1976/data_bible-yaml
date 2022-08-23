@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 4:1" class="v">1</span>And
+  Jesus being full of the Holy Ghost returned from Jordan, and was led by the
+  Spirit into the wilderness, </p>
+id: LUK/4/1
+next:
+  id: LUK/4/2
+  number: '2'
+previous:
+  id: LUK/3/38
+  number: '38'
+reference: 'Luke 4:1'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 40:15"
+  class="v">15</span>Then Johanan the son of Kareah spake to Gedaliah in Mizpah
+  secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of
+  Nethaniah, and no man shall know <span class="add">it:</span> wherefore should
+  he slay thee, that all the Jews which are gathered unto thee should be
+  scattered, and the remnant in Judah perish? </p>
+id: JER/40/15
+next:
+  id: JER/40/16
+  number: '16'
+previous:
+  id: JER/40/14
+  number: '14'
+reference: 'Jeremiah 40:15'

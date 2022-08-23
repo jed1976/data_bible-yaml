@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 10:4"
+  class="v">4</span>Wherefore Hanun took David’s servants, and shaved off the
+  one half of their beards, and cut off their garments in the middle, <span
+  class="add">even</span> to their buttocks, and sent them away. </p>
+id: 2SA/10/4
+next:
+  id: 2SA/10/5
+  number: '5'
+previous:
+  id: 2SA/10/3
+  number: '3'
+reference: '2 Samuel 10:4'

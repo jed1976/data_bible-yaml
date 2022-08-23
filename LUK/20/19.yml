@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LUK 20:19" class="v">19</span>¶
+  And the chief priests and the scribes the same hour sought to lay hands on
+  him; and they feared the people: for they perceived that he had spoken this
+  parable against them. </p>
+id: LUK/20/19
+next:
+  id: LUK/20/20
+  number: '20'
+previous:
+  id: LUK/20/18
+  number: '18'
+reference: 'Luke 20:19'

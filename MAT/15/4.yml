@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 15:4" class="v">4</span><span
+  class="wj">For God commanded, saying, Honour thy father and mother: and, He
+  that curseth father or mother, let him die the death.</span> </p>
+id: MAT/15/4
+next:
+  id: MAT/15/5
+  number: '5'
+previous:
+  id: MAT/15/3
+  number: '3'
+reference: 'Matthew 15:4'

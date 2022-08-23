@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ACT 10:2" class="v">2</span><span
+  class="add">A</span> devout <span class="add">man</span>, and one that feared
+  God with all his house, which gave much alms to the people, and prayed to God
+  alway. </p>
+id: ACT/10/2
+next:
+  id: ACT/10/3
+  number: '3'
+previous:
+  id: ACT/10/1
+  number: '1'
+reference: 'Acts 10:2'

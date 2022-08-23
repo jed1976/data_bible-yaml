@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 3:3" class="v">3</span>And
+  Moses said, I will now turn aside, and see this great sight, why the bush is
+  not burnt. </p>
+id: EXO/3/3
+next:
+  id: EXO/3/4
+  number: '4'
+previous:
+  id: EXO/3/2
+  number: '2'
+reference: 'Exodus 3:3'

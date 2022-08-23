@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 12:19"
+  class="v">19</span>Dearly beloved, avenge not yourselves, but <span
+  class="add">rather</span> give place unto wrath: for it is written, Vengeance
+  <span class="add">is</span> mine; I will repay, saith the Lord. </p>
+id: ROM/12/19
+next:
+  id: ROM/12/20
+  number: '20'
+previous:
+  id: ROM/12/18
+  number: '18'
+reference: 'Romans 12:19'

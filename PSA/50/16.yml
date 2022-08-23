@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="16" data-sid="PSA 50:16"
+  class="v">16</span>But unto the wicked God saith, What hast thou to do to
+  declare my statutes, or <span class="add">that</span> thou shouldest take my
+  covenant in thy mouth?</p>
+id: PSA/50/16
+next:
+  id: PSA/50/17
+  number: '17'
+previous:
+  id: PSA/50/15
+  number: '15'
+reference: 'Psalms 50:16'

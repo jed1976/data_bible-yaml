@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 50:2" class="v">2</span>And
+  Joseph commanded his servants the physicians to embalm his father: and the
+  physicians embalmed Israel. </p>
+id: GEN/50/2
+next:
+  id: GEN/50/3
+  number: '3'
+previous:
+  id: GEN/50/1
+  number: '1'
+reference: 'Genesis 50:2'

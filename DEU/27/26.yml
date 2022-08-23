@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 27:26"
+  class="v">26</span>Cursed <span class="add">be</span> he that confirmeth not
+  <span class="add">all</span> the words of this law to do them. And all the
+  people shall say, Amen.</p>
+id: DEU/27/26
+next:
+  id: DEU/28/1
+  number: '1'
+previous:
+  id: DEU/27/25
+  number: '25'
+reference: 'Deuteronomy 27:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 101:5"
+  class="v">5</span>Whoso privily slandereth his neighbour, him will I cut off:
+  him that hath an high look and a proud heart will not I suffer.</p>
+id: PSA/101/5
+next:
+  id: PSA/101/6
+  number: '6'
+previous:
+  id: PSA/101/4
+  number: '4'
+reference: 'Psalms 101:5'

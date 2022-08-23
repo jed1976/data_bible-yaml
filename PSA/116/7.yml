@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 116:7"
+  class="v">7</span>Return unto thy rest, O my soul; for the <span
+  class="nd">LORD</span> hath dealt bountifully with thee.</p>
+id: PSA/116/7
+next:
+  id: PSA/116/8
+  number: '8'
+previous:
+  id: PSA/116/6
+  number: '6'
+reference: 'Psalms 116:7'

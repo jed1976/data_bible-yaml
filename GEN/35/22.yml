@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 35:22"
+  class="v">22</span>And it came to pass, when Israel dwelt in that land, that
+  Reuben went and lay with Bilhah his father’s concubine: and Israel heard <span
+  class="add">it</span>. Now the sons of Jacob were twelve: </p>
+id: GEN/35/22
+next:
+  id: GEN/35/23
+  number: '23'
+previous:
+  id: GEN/35/21
+  number: '21'
+reference: 'Genesis 35:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 89:32"
+  class="v">32</span>Then will I visit their transgression with the rod, and
+  their iniquity with stripes.</p>
+id: PSA/89/32
+next:
+  id: PSA/89/33
+  number: '33'
+previous:
+  id: PSA/89/31
+  number: '31'
+reference: 'Psalms 89:32'

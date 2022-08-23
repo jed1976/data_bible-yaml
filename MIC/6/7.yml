@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MIC 6:7" class="v">7</span>Will
+  the <span class="nd">LORD</span> be pleased with thousands of rams, <span
+  class="add">or</span> with ten thousands of rivers of oil? shall I give my
+  firstborn <span class="add">for</span> my transgression, the fruit of my body
+  <span class="add">for</span> the sin of my soul? </p>
+id: MIC/6/7
+next:
+  id: MIC/6/8
+  number: '8'
+previous:
+  id: MIC/6/6
+  number: '6'
+reference: 'Micah 6:7'

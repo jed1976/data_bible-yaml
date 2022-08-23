@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 21:20" class="v">20</span>Or
+  crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or
+  scabbed, or hath his stones broken; </p>
+id: LEV/21/20
+next:
+  id: LEV/21/21
+  number: '21'
+previous:
+  id: LEV/21/19
+  number: '19'
+reference: 'Leviticus 21:20'

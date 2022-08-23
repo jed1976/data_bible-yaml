@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 20:20"
+  class="v">20</span>Whoso curseth his father or his mother, his lamp shall be
+  put out in obscure darkness. </p>
+id: PRO/20/20
+next:
+  id: PRO/20/21
+  number: '21'
+previous:
+  id: PRO/20/19
+  number: '19'
+reference: 'Proverbs 20:20'

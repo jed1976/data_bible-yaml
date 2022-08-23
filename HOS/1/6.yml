@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 1:6" class="v">6</span>¶ And
+  she conceived again, and bare a daughter. And <span class="add">God</span>
+  said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon
+  the house of Israel; but I will utterly take them away. </p>
+id: HOS/1/6
+next:
+  id: HOS/1/7
+  number: '7'
+previous:
+  id: HOS/1/5
+  number: '5'
+reference: 'Hosea 1:6'

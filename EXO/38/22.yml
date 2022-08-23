@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 38:22"
+  class="v">22</span>And Bezaleel the son of Uri, the son of Hur, of the tribe
+  of Judah, made all that the <span class="nd">LORD</span> commanded Moses. </p>
+id: EXO/38/22
+next:
+  id: EXO/38/23
+  number: '23'
+previous:
+  id: EXO/38/21
+  number: '21'
+reference: 'Exodus 38:22'

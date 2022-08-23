@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 5:4" class="v">4</span>¶ For
+  thus saith the <span class="nd">LORD</span> unto the house of Israel, Seek ye
+  me, and ye shall live: </p>
+id: AMO/5/4
+next:
+  id: AMO/5/5
+  number: '5'
+previous:
+  id: AMO/5/3
+  number: '3'
+reference: 'Amos 5:4'

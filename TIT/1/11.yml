@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="TIT 1:11"
+  class="v">11</span>Whose mouths must be stopped, who subvert whole houses,
+  teaching things which they ought not, for filthy lucre’s sake. </p>
+id: TIT/1/11
+next:
+  id: TIT/1/12
+  number: '12'
+previous:
+  id: TIT/1/10
+  number: '10'
+reference: 'Titus 1:11'

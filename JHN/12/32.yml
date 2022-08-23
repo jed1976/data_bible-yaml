@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 12:32"
+  class="v">32</span><span class="wj">And I, if I be lifted up from the earth,
+  will draw all <span class="add">men</span> unto me.</span> </p>
+id: JHN/12/32
+next:
+  id: JHN/12/33
+  number: '33'
+previous:
+  id: JHN/12/31
+  number: '31'
+reference: 'John 12:32'

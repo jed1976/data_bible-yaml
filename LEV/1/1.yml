@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 1:1" class="v">1</span>And
+  the <span class="nd">LORD</span> called unto Moses, and spake unto him out of
+  the tabernacle of the congregation, saying, </p>
+id: LEV/1/1
+next:
+  id: LEV/1/2
+  number: '2'
+previous:
+  id: LEV/intro/0
+  number: '0'
+reference: 'Leviticus 1:1'

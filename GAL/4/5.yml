@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GAL 4:5" class="v">5</span>To
+  redeem them that were under the law, that we might receive the adoption of
+  sons. </p>
+id: GAL/4/5
+next:
+  id: GAL/4/6
+  number: '6'
+previous:
+  id: GAL/4/4
+  number: '4'
+reference: 'Galatians 4:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="TIT 3:1" class="v">1</span>Put
+  them in mind to be subject to principalities and powers, to obey magistrates,
+  to be ready to every good work, </p>
+id: TIT/3/1
+next:
+  id: TIT/3/2
+  number: '2'
+previous:
+  id: TIT/2/15
+  number: '15'
+reference: 'Titus 3:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 4:10" class="v">10</span>For
+  who hath despised the day of small things? for they shall rejoice, and shall
+  see the plummet in the hand of Zerubbabel <span class="add">with</span> those
+  seven; they <span class="add">are</span> the eyes of the <span
+  class="nd">LORD</span>, which run to and fro through the whole earth.</p>
+id: ZEC/4/10
+next:
+  id: ZEC/4/11
+  number: '11'
+previous:
+  id: ZEC/4/9
+  number: '9'
+reference: 'Zechariah 4:10'

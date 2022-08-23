@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 32:32"
+  class="v">32</span>Therefore the children of Israel eat not <span
+  class="add">of</span> the sinew which shrank, which <span
+  class="add">is</span> upon the hollow of the thigh, unto this day: because he
+  touched the hollow of Jacob’s thigh in the sinew that shrank.</p>
+id: GEN/32/32
+next:
+  id: GEN/33/1
+  number: '1'
+previous:
+  id: GEN/32/31
+  number: '31'
+reference: 'Genesis 32:32'

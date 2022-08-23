@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HOS 5:13"
+  class="v">13</span>When Ephraim saw his sickness, and Judah <span
+  class="add">saw</span> his wound, then went Ephraim to the Assyrian, and sent
+  to king Jareb: yet could he not heal you, nor cure you of your wound. </p>
+id: HOS/5/13
+next:
+  id: HOS/5/14
+  number: '14'
+previous:
+  id: HOS/5/12
+  number: '12'
+reference: 'Hosea 5:13'

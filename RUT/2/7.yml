@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="RUT 2:7" class="v">7</span>And
+  she said, I pray you, let me glean and gather after the reapers among the
+  sheaves: so she came, and hath continued even from the morning until now, that
+  she tarried a little in the house. </p>
+id: RUT/2/7
+next:
+  id: RUT/2/8
+  number: '8'
+previous:
+  id: RUT/2/6
+  number: '6'
+reference: 'Ruth 2:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 23:39"
+  class="v">39</span><span class="wj">For I say unto you, Ye shall not see me
+  henceforth, till ye shall say, Blessed <span class="add">is</span> he that
+  cometh in the name of the Lord.</span></p>
+id: MAT/23/39
+next:
+  id: MAT/24/1
+  number: '1'
+previous:
+  id: MAT/23/38
+  number: '38'
+reference: 'Matthew 23:39'

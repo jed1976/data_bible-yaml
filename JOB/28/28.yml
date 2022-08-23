@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="JOB 28:28"
+  class="v">28</span>And unto man he said, Behold, the fear of the Lord, that
+  <span class="add">is</span> wisdom; and to depart from evil <span
+  class="add">is</span> understanding.</p>
+id: JOB/28/28
+next:
+  id: JOB/29/1
+  number: '1'
+previous:
+  id: JOB/28/27
+  number: '27'
+reference: 'Job 28:28'

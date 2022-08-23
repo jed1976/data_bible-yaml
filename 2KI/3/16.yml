@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2KI 3:16" class="v">16</span>And
+  he said, Thus saith the <span class="nd">LORD</span>, Make this valley full of
+  ditches. </p>
+id: 2KI/3/16
+next:
+  id: 2KI/3/17
+  number: '17'
+previous:
+  id: 2KI/3/15
+  number: '15'
+reference: '2 Kings 3:16'

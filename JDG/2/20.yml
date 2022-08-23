@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 2:20" class="v">20</span>¶
+  And the anger of the <span class="nd">LORD</span> was hot against Israel; and
+  he said, Because that this people hath transgressed my covenant which I
+  commanded their fathers, and have not hearkened unto my voice; </p>
+id: JDG/2/20
+next:
+  id: JDG/2/21
+  number: '21'
+previous:
+  id: JDG/2/19
+  number: '19'
+reference: 'Judges 2:20'

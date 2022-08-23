@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MRK 11:31"
+  class="v">31</span>And they reasoned with themselves, saying, If we shall say,
+  From heaven; he will say, Why then did ye not believe him? </p>
+id: MRK/11/31
+next:
+  id: MRK/11/32
+  number: '32'
+previous:
+  id: MRK/11/30
+  number: '30'
+reference: 'Mark 11:31'

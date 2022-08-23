@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 9:7" class="v">7</span>O
+  Lord, righteousness <span class="add">belongeth</span> unto thee, but unto us
+  confusion of faces, as at this day; to the men of Judah, and to the
+  inhabitants of Jerusalem, and unto all Israel, <span class="add">that
+  are</span> near, and <span class="add">that are</span> far off, through all
+  the countries whither thou hast driven them, because of their trespass that
+  they have trespassed against thee. </p>
+id: DAN/9/7
+next:
+  id: DAN/9/8
+  number: '8'
+previous:
+  id: DAN/9/6
+  number: '6'
+reference: 'Daniel 9:7'

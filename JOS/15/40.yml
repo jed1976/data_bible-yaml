@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JOS 15:40"
+  class="v">40</span>And Cabbon, and Lahmam, and Kithlish, </p>
+id: JOS/15/40
+next:
+  id: JOS/15/41
+  number: '41'
+previous:
+  id: JOS/15/39
+  number: '39'
+reference: 'Joshua 15:40'

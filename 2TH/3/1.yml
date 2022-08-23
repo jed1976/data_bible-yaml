@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2TH 3:1"
+  class="v">1</span>Finally, brethren, pray for us, that the word of the Lord
+  may have <span class="add">free</span> course, and be glorified, even as <span
+  class="add">it is</span> with you: </p>
+id: 2TH/3/1
+next:
+  id: 2TH/3/2
+  number: '2'
+previous:
+  id: 2TH/2/17
+  number: '17'
+reference: '2 Thessalonians 3:1'

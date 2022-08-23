@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 1:7" class="v">7</span>Unto
+  whom the prince of the eunuchs gave names: for he gave unto Daniel <span
+  class="add">the name</span> of Belteshazzar; and to Hananiah, of Shadrach; and
+  to Mishael, of Meshach; and to Azariah, of Abed-nego.</p>
+id: DAN/1/7
+next:
+  id: DAN/1/8
+  number: '8'
+previous:
+  id: DAN/1/6
+  number: '6'
+reference: 'Daniel 1:7'

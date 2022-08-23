@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GAL 1:7" class="v">7</span>Which
+  is not another; but there be some that trouble you, and would pervert the
+  gospel of Christ. </p>
+id: GAL/1/7
+next:
+  id: GAL/1/8
+  number: '8'
+previous:
+  id: GAL/1/6
+  number: '6'
+reference: 'Galatians 1:7'

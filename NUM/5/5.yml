@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 5:5" class="v">5</span>¶ And
+  the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: NUM/5/5
+next:
+  id: NUM/5/6
+  number: '6'
+previous:
+  id: NUM/5/4
+  number: '4'
+reference: 'Numbers 5:5'

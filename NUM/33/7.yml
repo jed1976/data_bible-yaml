@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 33:7" class="v">7</span>And
+  they removed from Etham, and turned again unto Pi-hahiroth, which <span
+  class="add">is</span> before Baal-zephon: and they pitched before Migdol. </p>
+id: NUM/33/7
+next:
+  id: NUM/33/8
+  number: '8'
+previous:
+  id: NUM/33/6
+  number: '6'
+reference: 'Numbers 33:7'

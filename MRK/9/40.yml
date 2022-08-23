@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MRK 9:40"
+  class="v">40</span><span class="wj">For he that is not against us is on our
+  part.</span> </p>
+id: MRK/9/40
+next:
+  id: MRK/9/41
+  number: '41'
+previous:
+  id: MRK/9/39
+  number: '39'
+reference: 'Mark 9:40'

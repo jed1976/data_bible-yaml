@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 137:3" class="v">3</span>For
+  there they that carried us away captive required of us a song; and they that
+  wasted us <span class="add">required of us</span> mirth, <span
+  class="add">saying</span>, Sing us <span class="add">one</span> of the songs
+  of Zion.</p>
+id: PSA/137/3
+next:
+  id: PSA/137/4
+  number: '4'
+previous:
+  id: PSA/137/2
+  number: '2'
+reference: 'Psalms 137:3'

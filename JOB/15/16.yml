@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 15:16"
+  class="v">16</span>How much more abominable and filthy <span
+  class="add">is</span> man, which drinketh iniquity like water?</p>
+id: JOB/15/16
+next:
+  id: JOB/15/17
+  number: '17'
+previous:
+  id: JOB/15/15
+  number: '15'
+reference: 'Job 15:16'

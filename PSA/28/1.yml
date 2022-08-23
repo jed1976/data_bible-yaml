@@ -1,0 +1,14 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 28:1" class="v">1</span>Unto thee will I cry, O
+  <span class="nd">LORD</span> my rock; be not silent to me: lest, <span
+  class="add">if</span> thou be silent to me, I become like them that go down
+  into the pit.</p>
+id: PSA/28/1
+next:
+  id: PSA/28/2
+  number: '2'
+previous:
+  id: PSA/27/14
+  number: '14'
+reference: 'Psalms 28:1'

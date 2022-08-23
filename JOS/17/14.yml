@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOS 17:14"
+  class="v">14</span>And the children of Joseph spake unto Joshua, saying, Why
+  hast thou given me <span class="add">but</span> one lot and one portion to
+  inherit, seeing I <span class="add">am</span> a great people, forasmuch as the
+  <span class="nd">LORD</span> hath blessed me hitherto? </p>
+id: JOS/17/14
+next:
+  id: JOS/17/15
+  number: '15'
+previous:
+  id: JOS/17/13
+  number: '13'
+reference: 'Joshua 17:14'

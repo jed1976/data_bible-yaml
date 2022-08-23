@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 11:24"
+  class="v">24</span>And for these ye shall be unclean: whosoever toucheth the
+  carcase of them shall be unclean until the even. </p>
+id: LEV/11/24
+next:
+  id: LEV/11/25
+  number: '25'
+previous:
+  id: LEV/11/23
+  number: '23'
+reference: 'Leviticus 11:24'

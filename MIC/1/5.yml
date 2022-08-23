@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 1:5" class="v">5</span>For
+  the transgression of Jacob <span class="add">is</span> all this, and for the
+  sins of the house of Israel. What <span class="add">is</span> the
+  transgression of Jacob? <span class="add">is it</span> not Samaria? and what
+  <span class="add">are</span> the high places of Judah? <span class="add">are
+  they</span> not Jerusalem? </p>
+id: MIC/1/5
+next:
+  id: MIC/1/6
+  number: '6'
+previous:
+  id: MIC/1/4
+  number: '4'
+reference: 'Micah 1:5'

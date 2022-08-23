@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 15:4" class="v">4</span>Then
+  shall he that offereth his offering unto the <span class="nd">LORD</span>
+  bring a meat offering of a tenth deal of flour mingled with the fourth <span
+  class="add">part</span> of an hin of oil. </p>
+id: NUM/15/4
+next:
+  id: NUM/15/5
+  number: '5'
+previous:
+  id: NUM/15/3
+  number: '3'
+reference: 'Numbers 15:4'

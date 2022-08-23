@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 22:11"
+  class="v">11</span>And it came to pass, when the king had heard the words of
+  the book of the law, that he rent his clothes. </p>
+id: 2KI/22/11
+next:
+  id: 2KI/22/12
+  number: '12'
+previous:
+  id: 2KI/22/10
+  number: '10'
+reference: '2 Kings 22:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CO 8:8" class="v">8</span>But
+  meat commendeth us not to God: for neither, if we eat, are we the better;
+  neither, if we eat not, are we the worse. </p>
+id: 1CO/8/8
+next:
+  id: 1CO/8/9
+  number: '9'
+previous:
+  id: 1CO/8/7
+  number: '7'
+reference: '1 Corinthians 8:8'

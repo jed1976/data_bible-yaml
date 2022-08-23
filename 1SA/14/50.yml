@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="1SA 14:50"
+  class="v">50</span>And the name of Saul’s wife <span class="add">was</span>
+  Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host
+  <span class="add">was</span> Abner, the son of Ner, Saul’s uncle. </p>
+id: 1SA/14/50
+next:
+  id: 1SA/14/51
+  number: '51'
+previous:
+  id: 1SA/14/49
+  number: '49'
+reference: '1 Samuel 14:50'

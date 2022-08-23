@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 15:26" class="v">26</span>He
+  runneth upon him, <span class="add">even</span> on <span
+  class="add">his</span> neck, upon the thick bosses of his bucklers: </p>
+id: JOB/15/26
+next:
+  id: JOB/15/27
+  number: '27'
+previous:
+  id: JOB/15/25
+  number: '25'
+reference: 'Job 15:26'

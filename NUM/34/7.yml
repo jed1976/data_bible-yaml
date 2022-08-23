@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 34:7" class="v">7</span>And
+  this shall be your north border: from the great sea ye shall point out for you
+  mount Hor: </p>
+id: NUM/34/7
+next:
+  id: NUM/34/8
+  number: '8'
+previous:
+  id: NUM/34/6
+  number: '6'
+reference: 'Numbers 34:7'

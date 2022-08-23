@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 15:7" class="v">7</span>And
+  he said unto him, I <span class="add">am</span> the <span
+  class="nd">LORD</span> that brought thee out of Ur of the Chaldees, to give
+  thee this land to inherit it. </p>
+id: GEN/15/7
+next:
+  id: GEN/15/8
+  number: '8'
+previous:
+  id: GEN/15/6
+  number: '6'
+reference: 'Genesis 15:7'

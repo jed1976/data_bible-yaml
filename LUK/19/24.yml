@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 19:24"
+  class="v">24</span><span class="wj">And he said unto them that stood by, Take
+  from him the pound, and give <span class="add">it</span> to him that hath ten
+  pounds.</span> </p>
+id: LUK/19/24
+next:
+  id: LUK/19/25
+  number: '25'
+previous:
+  id: LUK/19/23
+  number: '23'
+reference: 'Luke 19:24'

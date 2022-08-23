@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 8:1" class="v">1</span>Who
+  <span class="add">is</span> as the wise <span class="add">man</span>? and who
+  knoweth the interpretation of a thing? a man’s wisdom maketh his face to
+  shine, and the boldness of his face shall be changed. </p>
+id: ECC/8/1
+next:
+  id: ECC/8/2
+  number: '2'
+previous:
+  id: ECC/7/29
+  number: '29'
+reference: 'Ecclesiastes 8:1'

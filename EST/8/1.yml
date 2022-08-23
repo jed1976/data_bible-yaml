@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 8:1" class="v">1</span>On
+  that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto
+  Esther the queen. And Mordecai came before the king; for Esther had told what
+  he <span class="add">was</span> unto her. </p>
+id: EST/8/1
+next:
+  id: EST/8/2
+  number: '2'
+previous:
+  id: EST/7/10
+  number: '10'
+reference: 'Esther 8:1'

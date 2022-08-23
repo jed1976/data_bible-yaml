@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 36:23"
+  class="v">23</span>Who hath enjoined him his way? or who can say, Thou hast
+  wrought iniquity?</p>
+id: JOB/36/23
+next:
+  id: JOB/36/24
+  number: '24'
+previous:
+  id: JOB/36/22
+  number: '22'
+reference: 'Job 36:23'

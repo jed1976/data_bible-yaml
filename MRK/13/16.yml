@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 13:16"
+  class="v">16</span><span class="wj">And let him that is in the field not turn
+  back again for to take up his garment.</span> </p>
+id: MRK/13/16
+next:
+  id: MRK/13/17
+  number: '17'
+previous:
+  id: MRK/13/15
+  number: '15'
+reference: 'Mark 13:16'

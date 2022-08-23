@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 9:1" class="v">1</span>Then
+  verily the first <span class="add">covenant</span> had also ordinances of
+  divine service, and a worldly sanctuary. </p>
+id: HEB/9/1
+next:
+  id: HEB/9/2
+  number: '2'
+previous:
+  id: HEB/8/13
+  number: '13'
+reference: 'Hebrews 9:1'

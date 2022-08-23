@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="OBA 1:13"
+  class="v">13</span>Thou shouldest not have entered into the gate of my people
+  in the day of their calamity; yea, thou shouldest not have looked on their
+  affliction in the day of their calamity, nor have laid <span
+  class="add">hands</span> on their substance in the day of their calamity; </p>
+id: OBA/1/13
+next:
+  id: OBA/1/14
+  number: '14'
+previous:
+  id: OBA/1/12
+  number: '12'
+reference: 'Obadiah 1:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 32:18"
+  class="v">18</span>Then thou shalt say, <span class="add">They be</span> thy
+  servant Jacob’s; it <span class="add">is</span> a present sent unto my lord
+  Esau: and, behold, also he <span class="add">is</span> behind us. </p>
+id: GEN/32/18
+next:
+  id: GEN/32/19
+  number: '19'
+previous:
+  id: GEN/32/17
+  number: '17'
+reference: 'Genesis 32:18'

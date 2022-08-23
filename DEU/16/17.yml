@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 16:17"
+  class="v">17</span>Every man <span class="add">shall give</span> as he is
+  able, according to the blessing of the <span class="nd">LORD</span> thy God
+  which he hath given thee.</p>
+id: DEU/16/17
+next:
+  id: DEU/16/18
+  number: '18'
+previous:
+  id: DEU/16/16
+  number: '16'
+reference: 'Deuteronomy 16:17'

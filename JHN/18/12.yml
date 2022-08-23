@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 18:12"
+  class="v">12</span>Then the band and the captain and officers of the Jews took
+  Jesus, and bound him, </p>
+id: JHN/18/12
+next:
+  id: JHN/18/13
+  number: '13'
+previous:
+  id: JHN/18/11
+  number: '11'
+reference: 'John 18:12'

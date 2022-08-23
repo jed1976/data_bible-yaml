@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="EZR 2:59" class="v">59</span>And
+  these <span class="add">were</span> they which went up from Tel-melah,
+  Tel-harsa, Cherub, Addan, <span class="add">and</span> Immer: but they could
+  not shew their father’s house, and their seed, whether they <span
+  class="add">were</span> of Israel: </p>
+id: EZR/2/59
+next:
+  id: EZR/2/60
+  number: '60'
+previous:
+  id: EZR/2/58
+  number: '58'
+reference: 'Ezra 2:59'

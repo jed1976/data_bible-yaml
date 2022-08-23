@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 16:11"
+  class="v">11</span><span class="wj">If therefore ye have not been faithful in
+  the unrighteous mammon, who will commit to your trust the true <span
+  class="add">riches</span>?</span> </p>
+id: LUK/16/11
+next:
+  id: LUK/16/12
+  number: '12'
+previous:
+  id: LUK/16/10
+  number: '10'
+reference: 'Luke 16:11'

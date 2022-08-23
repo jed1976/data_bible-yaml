@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOB 15:32" class="v">32</span>It
+  shall be accomplished before his time, and his branch shall not be green. </p>
+id: JOB/15/32
+next:
+  id: JOB/15/33
+  number: '33'
+previous:
+  id: JOB/15/31
+  number: '31'
+reference: 'Job 15:32'

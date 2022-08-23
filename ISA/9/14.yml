@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 9:14"
+  class="v">14</span>Therefore the <span class="nd">LORD</span> will cut off
+  from Israel head and tail, branch and rush, in one day. </p>
+id: ISA/9/14
+next:
+  id: ISA/9/15
+  number: '15'
+previous:
+  id: ISA/9/13
+  number: '13'
+reference: 'Isaiah 9:14'

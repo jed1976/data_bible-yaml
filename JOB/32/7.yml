@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 32:7" class="v">7</span>I
+  said, Days should speak, and multitude of years should teach wisdom. </p>
+id: JOB/32/7
+next:
+  id: JOB/32/8
+  number: '8'
+previous:
+  id: JOB/32/6
+  number: '6'
+reference: 'Job 32:7'

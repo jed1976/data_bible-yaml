@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 11:2" class="v">2</span><span
+  class="add">When</span> pride cometh, then cometh shame: but with the lowly
+  <span class="add">is</span> wisdom. </p>
+id: PRO/11/2
+next:
+  id: PRO/11/3
+  number: '3'
+previous:
+  id: PRO/11/1
+  number: '1'
+reference: 'Proverbs 11:2'

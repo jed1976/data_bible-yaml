@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="44" data-sid="PSA 18:44"
+  class="v">44</span>As soon as they hear of me, they shall obey me: the
+  strangers shall submit themselves unto me.</p>
+id: PSA/18/44
+next:
+  id: PSA/18/45
+  number: '45'
+previous:
+  id: PSA/18/43
+  number: '43'
+reference: 'Psalms 18:44'

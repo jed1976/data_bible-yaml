@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 28:20"
+  class="v">20</span>For the bed is shorter than that <span class="add">a
+  man</span> can stretch himself <span class="add">on it:</span> and the
+  covering narrower than that he can wrap himself <span class="add">in
+  it</span>. </p>
+id: ISA/28/20
+next:
+  id: ISA/28/21
+  number: '21'
+previous:
+  id: ISA/28/19
+  number: '19'
+reference: 'Isaiah 28:20'

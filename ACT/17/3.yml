@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 17:3"
+  class="v">3</span>Opening and alleging, that Christ must needs have suffered,
+  and risen again from the dead; and that this Jesus, whom I preach unto you, is
+  Christ. </p>
+id: ACT/17/3
+next:
+  id: ACT/17/4
+  number: '4'
+previous:
+  id: ACT/17/2
+  number: '2'
+reference: 'Acts 17:3'

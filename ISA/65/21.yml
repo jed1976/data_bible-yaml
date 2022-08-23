@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 65:21"
+  class="v">21</span>And they shall build houses, and inhabit <span
+  class="add">them;</span> and they shall plant vineyards, and eat the fruit of
+  them. </p>
+id: ISA/65/21
+next:
+  id: ISA/65/22
+  number: '22'
+previous:
+  id: ISA/65/20
+  number: '20'
+reference: 'Isaiah 65:21'

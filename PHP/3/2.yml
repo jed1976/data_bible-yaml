@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PHP 3:2" class="v">2</span>Beware
+  of dogs, beware of evil workers, beware of the concision. </p>
+id: PHP/3/2
+next:
+  id: PHP/3/3
+  number: '3'
+previous:
+  id: PHP/3/1
+  number: '1'
+reference: 'Philippians 3:2'

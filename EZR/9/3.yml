@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZR 9:3" class="v">3</span>And
+  when I heard this thing, I rent my garment and my mantle, and plucked off the
+  hair of my head and of my beard, and sat down astonied. </p>
+id: EZR/9/3
+next:
+  id: EZR/9/4
+  number: '4'
+previous:
+  id: EZR/9/2
+  number: '2'
+reference: 'Ezra 9:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LAM 4:22" class="v">22</span>¶
+  The punishment of thine iniquity is accomplished, O daughter of Zion; he will
+  no more carry thee away into captivity: he will visit thine iniquity, O
+  daughter of Edom; he will discover thy sins.</p>
+id: LAM/4/22
+next:
+  id: LAM/5/1
+  number: '1'
+previous:
+  id: LAM/4/21
+  number: '21'
+reference: 'Lamentations 4:22'

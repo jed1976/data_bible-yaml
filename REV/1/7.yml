@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 1:7"
+  class="v">7</span>Behold, he cometh with clouds; and every eye shall see him,
+  and they <span class="add">also</span> which pierced him: and all kindreds of
+  the earth shall wail because of him. Even so, Amen. </p>
+id: REV/1/7
+next:
+  id: REV/1/8
+  number: '8'
+previous:
+  id: REV/1/6
+  number: '6'
+reference: 'Revelation 1:7'

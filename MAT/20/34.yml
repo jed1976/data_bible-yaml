@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MAT 20:34" class="v">34</span>So
+  Jesus had compassion <span class="add">on them</span>, and touched their eyes:
+  and immediately their eyes received sight, and they followed him.</p>
+id: MAT/20/34
+next:
+  id: MAT/21/1
+  number: '1'
+previous:
+  id: MAT/20/33
+  number: '33'
+reference: 'Matthew 20:34'

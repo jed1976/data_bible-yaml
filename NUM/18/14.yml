@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 18:14"
+  class="v">14</span>Every thing devoted in Israel shall be thine. </p>
+id: NUM/18/14
+next:
+  id: NUM/18/15
+  number: '15'
+previous:
+  id: NUM/18/13
+  number: '13'
+reference: 'Numbers 18:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 21:18"
+  class="v">18</span>Now in the morning as he returned into the city, he
+  hungered. </p>
+id: MAT/21/18
+next:
+  id: MAT/21/19
+  number: '19'
+previous:
+  id: MAT/21/17
+  number: '17'
+reference: 'Matthew 21:18'

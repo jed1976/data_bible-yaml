@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 20:9" class="v">9</span>Then
+  began he to speak to the people this parable; <span class="wj">A certain man
+  planted a vineyard, and let it forth to husbandmen, and went into a far
+  country for a long time.</span> </p>
+id: LUK/20/9
+next:
+  id: LUK/20/10
+  number: '10'
+previous:
+  id: LUK/20/8
+  number: '8'
+reference: 'Luke 20:9'

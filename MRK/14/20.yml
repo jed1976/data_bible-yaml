@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 14:20"
+  class="v">20</span>And he answered and said unto them, <span class="wj"><span
+  class="add">It is</span> one of the twelve, that dippeth with me in the
+  dish.</span> </p>
+id: MRK/14/20
+next:
+  id: MRK/14/21
+  number: '21'
+previous:
+  id: MRK/14/19
+  number: '19'
+reference: 'Mark 14:20'

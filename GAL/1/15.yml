@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 1:15" class="v">15</span>But
+  when it pleased God, who separated me from my mother’s womb, and called <span
+  class="add">me</span> by his grace, </p>
+id: GAL/1/15
+next:
+  id: GAL/1/16
+  number: '16'
+previous:
+  id: GAL/1/14
+  number: '14'
+reference: 'Galatians 1:15'

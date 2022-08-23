@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 32:11" class="v">11</span>¶
+  For thus saith the Lord <span class="nd">GOD</span>; The sword of the king of
+  Babylon shall come upon thee. </p>
+id: EZK/32/11
+next:
+  id: EZK/32/12
+  number: '12'
+previous:
+  id: EZK/32/10
+  number: '10'
+reference: 'Ezekiel 32:11'

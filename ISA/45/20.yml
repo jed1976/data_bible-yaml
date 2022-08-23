@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 45:20" class="v">20</span>¶
+  Assemble yourselves and come; draw near together, ye <span class="add">that
+  are</span> escaped of the nations: they have no knowledge that set up the wood
+  of their graven image, and pray unto a god <span class="add">that</span>
+  cannot save. </p>
+id: ISA/45/20
+next:
+  id: ISA/45/21
+  number: '21'
+previous:
+  id: ISA/45/19
+  number: '19'
+reference: 'Isaiah 45:20'

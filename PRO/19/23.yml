@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 19:23"
+  class="v">23</span>The fear of the <span class="nd">LORD</span> <span
+  class="add">tendeth</span> to life: and <span class="add">he that hath
+  it</span> shall abide satisfied; he shall not be visited with evil. </p>
+id: PRO/19/23
+next:
+  id: PRO/19/24
+  number: '24'
+previous:
+  id: PRO/19/22
+  number: '22'
+reference: 'Proverbs 19:23'

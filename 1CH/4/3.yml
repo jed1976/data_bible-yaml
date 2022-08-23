@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 4:3" class="v">3</span>And
+  these <span class="add">were of</span> the father of Etam; Jezreel, and Ishma,
+  and Idbash: and the name of their sister <span class="add">was</span>
+  Hazelelponi: </p>
+id: 1CH/4/3
+next:
+  id: 1CH/4/4
+  number: '4'
+previous:
+  id: 1CH/4/2
+  number: '2'
+reference: '1 Chronicles 4:3'

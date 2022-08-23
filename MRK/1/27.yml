@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 1:27" class="v">27</span>And
+  they were all amazed, insomuch that they questioned among themselves, saying,
+  What thing is this? what new doctrine <span class="add">is</span> this? for
+  with authority commandeth he even the unclean spirits, and they do obey him.
+  </p>
+id: MRK/1/27
+next:
+  id: MRK/1/28
+  number: '28'
+previous:
+  id: MRK/1/26
+  number: '26'
+reference: 'Mark 1:27'

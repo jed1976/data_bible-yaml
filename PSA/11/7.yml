@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 11:7" class="v">7</span>For
+  the righteous <span class="nd">LORD</span> loveth righteousness; his
+  countenance doth behold the upright.</p>
+id: PSA/11/7
+next:
+  id: PSA/12/1
+  number: '1'
+previous:
+  id: PSA/11/6
+  number: '6'
+reference: 'Psalms 11:7'

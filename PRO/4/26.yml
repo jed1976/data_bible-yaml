@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 4:26"
+  class="v">26</span>Ponder the path of thy feet, and let all thy ways be
+  established. </p>
+id: PRO/4/26
+next:
+  id: PRO/4/27
+  number: '27'
+previous:
+  id: PRO/4/25
+  number: '25'
+reference: 'Proverbs 4:26'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 7:12"
+  class="v">12</span>Saying, Amen: Blessing, and glory, and wisdom, and
+  thanksgiving, and honour, and power, and might, <span class="add">be</span>
+  unto our God for ever and ever. Amen. </p>
+id: REV/7/12
+next:
+  id: REV/7/13
+  number: '13'
+previous:
+  id: REV/7/11
+  number: '11'
+reference: 'Revelation 7:12'

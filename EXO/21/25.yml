@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 21:25"
+  class="v">25</span>Burning for burning, wound for wound, stripe for
+  stripe.</p>
+id: EXO/21/25
+next:
+  id: EXO/21/26
+  number: '26'
+previous:
+  id: EXO/21/24
+  number: '24'
+reference: 'Exodus 21:25'

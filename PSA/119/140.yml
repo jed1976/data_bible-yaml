@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="140" data-sid="PSA 119:140"
+  class="v">140</span>Thy word <span class="add">is</span> very pure: therefore
+  thy servant loveth it.</p>
+id: PSA/119/140
+next:
+  id: PSA/119/141
+  number: '141'
+previous:
+  id: PSA/119/139
+  number: '139'
+reference: 'Psalms 119:140'

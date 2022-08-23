@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 4:13"
+  class="v">13</span>For, lo, he that formeth the mountains, and createth the
+  wind, and declareth unto man what <span class="add">is</span> his thought,
+  that maketh the morning darkness, and treadeth upon the high places of the
+  earth, The <span class="nd">LORD</span>, The God of hosts, <span
+  class="add">is</span> his name.</p>
+id: AMO/4/13
+next:
+  id: AMO/5/1
+  number: '1'
+previous:
+  id: AMO/4/12
+  number: '12'
+reference: 'Amos 4:13'

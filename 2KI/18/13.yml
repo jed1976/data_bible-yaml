@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 18:13" class="v">13</span>¶
+  Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria
+  come up against all the fenced cities of Judah, and took them. </p>
+id: 2KI/18/13
+next:
+  id: 2KI/18/14
+  number: '14'
+previous:
+  id: 2KI/18/12
+  number: '12'
+reference: '2 Kings 18:13'

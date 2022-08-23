@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 4:4" class="v">4</span>¶ So
+  Esther’s maids and her chamberlains came and told <span class="add">it</span>
+  her. Then was the queen exceedingly grieved; and she sent raiment to clothe
+  Mordecai, and to take away his sackcloth from him: but he received <span
+  class="add">it</span> not.</p>
+id: EST/4/4
+next:
+  id: EST/4/5
+  number: '5'
+previous:
+  id: EST/4/3
+  number: '3'
+reference: 'Esther 4:4'

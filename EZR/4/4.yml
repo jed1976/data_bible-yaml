@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 4:4" class="v">4</span>Then
+  the people of the land weakened the hands of the people of Judah, and troubled
+  them in building, </p>
+id: EZR/4/4
+next:
+  id: EZR/4/5
+  number: '5'
+previous:
+  id: EZR/4/3
+  number: '3'
+reference: 'Ezra 4:4'

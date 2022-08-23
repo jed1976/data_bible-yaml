@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="HEB 11:21" class="v">21</span>By
+  faith Jacob, when he was a dying, blessed both the sons of Joseph; and
+  worshipped, <span class="add">leaning</span> upon the top of his staff. </p>
+id: HEB/11/21
+next:
+  id: HEB/11/22
+  number: '22'
+previous:
+  id: HEB/11/20
+  number: '20'
+reference: 'Hebrews 11:21'

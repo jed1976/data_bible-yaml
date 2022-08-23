@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 31:12"
+  class="v">12</span>And brought in the offerings and the tithes and the
+  dedicated <span class="add">things</span> faithfully: over which Cononiah the
+  Levite <span class="add">was</span> ruler, and Shimei his brother <span
+  class="add">was</span> the next. </p>
+id: 2CH/31/12
+next:
+  id: 2CH/31/13
+  number: '13'
+previous:
+  id: 2CH/31/11
+  number: '11'
+reference: '2 Chronicles 31:12'

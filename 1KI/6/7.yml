@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1KI 6:7" class="v">7</span>And
+  the house, when it was in building, was built of stone made ready before it
+  was brought thither: so that there was neither hammer nor axe <span
+  class="add">nor</span> any tool of iron heard in the house, while it was in
+  building. </p>
+id: 1KI/6/7
+next:
+  id: 1KI/6/8
+  number: '8'
+previous:
+  id: 1KI/6/6
+  number: '6'
+reference: '1 Kings 6:7'

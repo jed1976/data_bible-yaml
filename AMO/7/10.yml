@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 7:10" class="v">10</span>¶
+  Then Amaziah the priest of Beth-el sent to Jeroboam king of Israel, saying,
+  Amos hath conspired against thee in the midst of the house of Israel: the land
+  is not able to bear all his words. </p>
+id: AMO/7/10
+next:
+  id: AMO/7/11
+  number: '11'
+previous:
+  id: AMO/7/9
+  number: '9'
+reference: 'Amos 7:10'

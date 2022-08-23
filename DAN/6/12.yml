@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 6:12"
+  class="v">12</span>Then they came near, and spake before the king concerning
+  the king’s decree; Hast thou not signed a decree, that every man that shall
+  ask <span class="add">a petition</span> of any God or man within thirty days,
+  save of thee, O king, shall be cast into the den of lions? The king answered
+  and said, The thing <span class="add">is</span> true, according to the law of
+  the Medes and Persians, which altereth not. </p>
+id: DAN/6/12
+next:
+  id: DAN/6/13
+  number: '13'
+previous:
+  id: DAN/6/11
+  number: '11'
+reference: 'Daniel 6:12'

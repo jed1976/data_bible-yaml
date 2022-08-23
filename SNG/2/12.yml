@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 2:12" class="v">12</span>The
+  flowers appear on the earth; the time of the singing <span class="add">of
+  birds</span> is come, and the voice of the turtle is heard in our land; </p>
+id: SNG/2/12
+next:
+  id: SNG/2/13
+  number: '13'
+previous:
+  id: SNG/2/11
+  number: '11'
+reference: 'Song of Solomon 2:12'

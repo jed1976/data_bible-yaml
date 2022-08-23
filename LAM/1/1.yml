@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LAM 1:1" class="v">1</span>How
+  doth the city sit solitary, <span class="add">that was</span> full of people!
+  <span class="add">how</span> is she become as a widow! she <span
+  class="add">that was</span> great among the nations, <span
+  class="add">and</span> princess among the provinces, <span
+  class="add">how</span> is she become tributary! </p>
+id: LAM/1/1
+next:
+  id: LAM/1/2
+  number: '2'
+previous:
+  id: LAM/intro/0
+  number: '0'
+reference: 'Lamentations 1:1'

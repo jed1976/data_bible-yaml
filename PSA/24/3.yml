@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="3" data-sid="PSA 24:3"
+  class="v">3</span>Who shall ascend into the hill of the <span
+  class="nd">LORD</span>? or who shall stand in his holy place?</p>
+id: PSA/24/3
+next:
+  id: PSA/24/4
+  number: '4'
+previous:
+  id: PSA/24/2
+  number: '2'
+reference: 'Psalms 24:3'

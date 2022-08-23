@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 16:15" class="v">15</span>¶
+  And Absalom, and all the people the men of Israel, came to Jerusalem, and
+  Ahithophel with him. </p>
+id: 2SA/16/15
+next:
+  id: 2SA/16/16
+  number: '16'
+previous:
+  id: 2SA/16/14
+  number: '14'
+reference: '2 Samuel 16:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 85:13"
+  class="v">13</span>Righteousness shall go before him; and shall set <span
+  class="add">us</span> in the way of his steps.</p>
+id: PSA/85/13
+next:
+  id: PSA/86/1
+  number: '1'
+previous:
+  id: PSA/85/12
+  number: '12'
+reference: 'Psalms 85:13'

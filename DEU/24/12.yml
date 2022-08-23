@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 24:12"
+  class="v">12</span>And if the man <span class="add">be</span> poor, thou shalt
+  not sleep with his pledge: </p>
+id: DEU/24/12
+next:
+  id: DEU/24/13
+  number: '13'
+previous:
+  id: DEU/24/11
+  number: '11'
+reference: 'Deuteronomy 24:12'

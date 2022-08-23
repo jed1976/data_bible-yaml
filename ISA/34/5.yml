@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 34:5" class="v">5</span>For
+  my sword shall be bathed in heaven: behold, it shall come down upon Idumea,
+  and upon the people of my curse, to judgment. </p>
+id: ISA/34/5
+next:
+  id: ISA/34/6
+  number: '6'
+previous:
+  id: ISA/34/4
+  number: '4'
+reference: 'Isaiah 34:5'

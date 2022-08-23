@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 96:8" class="v">8</span>Give
+  unto the <span class="nd">LORD</span> the glory <span class="add">due
+  unto</span> his name: bring an offering, and come into his courts.</p>
+id: PSA/96/8
+next:
+  id: PSA/96/9
+  number: '9'
+previous:
+  id: PSA/96/7
+  number: '7'
+reference: 'Psalms 96:8'

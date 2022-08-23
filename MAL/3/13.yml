@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAL 3:13" class="v">13</span>¶
+  Your words have been stout against me, saith the <span class="nd">LORD</span>.
+  Yet ye say, What have we spoken <span class="add">so much</span> against thee?
+  </p>
+id: MAL/3/13
+next:
+  id: MAL/3/14
+  number: '14'
+previous:
+  id: MAL/3/12
+  number: '12'
+reference: 'Malachi 3:13'

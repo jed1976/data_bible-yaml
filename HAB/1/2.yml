@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HAB 1:2" class="v">2</span>O
+  <span class="nd">LORD</span>, how long shall I cry, and thou wilt not hear!
+  <span class="add">even</span> cry out unto thee <span class="add">of</span>
+  violence, and thou wilt not save! </p>
+id: HAB/1/2
+next:
+  id: HAB/1/3
+  number: '3'
+previous:
+  id: HAB/1/1
+  number: '1'
+reference: 'Habakkuk 1:2'

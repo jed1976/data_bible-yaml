@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 48:11"
+  class="v">11</span>Let mount Zion rejoice, let the daughters of Judah be glad,
+  because of thy judgments.</p>
+id: PSA/48/11
+next:
+  id: PSA/48/12
+  number: '12'
+previous:
+  id: PSA/48/10
+  number: '10'
+reference: 'Psalms 48:11'

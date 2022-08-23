@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZR 2:16" class="v">16</span>The
+  children of Ater of Hezekiah, ninety and eight. </p>
+id: EZR/2/16
+next:
+  id: EZR/2/17
+  number: '17'
+previous:
+  id: EZR/2/15
+  number: '15'
+reference: 'Ezra 2:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 48:22"
+  class="v">22</span><span class="add">There is</span> no peace, saith the <span
+  class="nd">LORD</span>, unto the wicked.</p>
+id: ISA/48/22
+next:
+  id: ISA/49/1
+  number: '1'
+previous:
+  id: ISA/48/21
+  number: '21'
+reference: 'Isaiah 48:22'

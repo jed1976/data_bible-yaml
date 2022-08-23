@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 45:5" class="v">5</span>¶ I
+  <span class="add">am</span> the <span class="nd">LORD</span>, and <span
+  class="add">there is</span> none else, <span class="add">there is</span> no
+  God beside me: I girded thee, though thou hast not known me: </p>
+id: ISA/45/5
+next:
+  id: ISA/45/6
+  number: '6'
+previous:
+  id: ISA/45/4
+  number: '4'
+reference: 'Isaiah 45:5'

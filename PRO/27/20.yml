@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 27:20"
+  class="v">20</span>Hell and destruction are never full; so the eyes of man are
+  never satisfied. </p>
+id: PRO/27/20
+next:
+  id: PRO/27/21
+  number: '21'
+previous:
+  id: PRO/27/19
+  number: '19'
+reference: 'Proverbs 27:20'

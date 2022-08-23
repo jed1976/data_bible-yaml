@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 2:44" class="v">44</span>But
+  they, supposing him to have been in the company, went a day’s journey; and
+  they sought him among <span class="add">their</span> kinsfolk and
+  acquaintance. </p>
+id: LUK/2/44
+next:
+  id: LUK/2/45
+  number: '45'
+previous:
+  id: LUK/2/43
+  number: '43'
+reference: 'Luke 2:44'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 9:9" class="v">9</span>Which
+  maketh Arcturus, Orion, and Pleiades, and the chambers of the south. </p>
+id: JOB/9/9
+next:
+  id: JOB/9/10
+  number: '10'
+previous:
+  id: JOB/9/8
+  number: '8'
+reference: 'Job 9:9'

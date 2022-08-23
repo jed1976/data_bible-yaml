@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 3:1" class="v">1</span>And he
+  entered again into the synagogue; and there was a man there which had a
+  withered hand. </p>
+id: MRK/3/1
+next:
+  id: MRK/3/2
+  number: '2'
+previous:
+  id: MRK/2/28
+  number: '28'
+reference: 'Mark 3:1'

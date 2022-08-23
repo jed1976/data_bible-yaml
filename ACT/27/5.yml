@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 27:5" class="v">5</span>And
+  when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra,
+  <span class="add">a city</span> of Lycia. </p>
+id: ACT/27/5
+next:
+  id: ACT/27/6
+  number: '6'
+previous:
+  id: ACT/27/4
+  number: '4'
+reference: 'Acts 27:5'

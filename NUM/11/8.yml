@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 11:8" class="v">8</span><span
+  class="add">And</span> the people went about, and gathered <span
+  class="add">it</span>, and ground <span class="add">it</span> in mills, or
+  beat <span class="add">it</span> in a mortar, and baked <span
+  class="add">it</span> in pans, and made cakes of it: and the taste of it was
+  as the taste of fresh oil. </p>
+id: NUM/11/8
+next:
+  id: NUM/11/9
+  number: '9'
+previous:
+  id: NUM/11/7
+  number: '7'
+reference: 'Numbers 11:8'

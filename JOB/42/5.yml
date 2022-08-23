@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 42:5" class="v">5</span>I
+  have heard of thee by the hearing of the ear: but now mine eye seeth thee.
+  </p>
+id: JOB/42/5
+next:
+  id: JOB/42/6
+  number: '6'
+previous:
+  id: JOB/42/4
+  number: '4'
+reference: 'Job 42:5'

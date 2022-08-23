@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 11:10" class="v">10</span>¶
+  These <span class="add">are</span> the generations of Shem: Shem <span
+  class="add">was</span> an hundred years old, and begat Arphaxad two years
+  after the flood: </p>
+id: GEN/11/10
+next:
+  id: GEN/11/11
+  number: '11'
+previous:
+  id: GEN/11/9
+  number: '9'
+reference: 'Genesis 11:10'

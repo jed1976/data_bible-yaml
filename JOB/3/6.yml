@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 3:6" class="v">6</span>As
+  <span class="add">for</span> that night, let darkness seize upon it; let it
+  not be joined unto the days of the year, let it not come into the number of
+  the months. </p>
+id: JOB/3/6
+next:
+  id: JOB/3/7
+  number: '7'
+previous:
+  id: JOB/3/5
+  number: '5'
+reference: 'Job 3:6'

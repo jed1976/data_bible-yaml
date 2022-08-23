@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 7:3" class="v">3</span>Thy
+  two breasts <span class="add">are</span> like two young roes <span
+  class="add">that are</span> twins. </p>
+id: SNG/7/3
+next:
+  id: SNG/7/4
+  number: '4'
+previous:
+  id: SNG/7/2
+  number: '2'
+reference: 'Song of Solomon 7:3'

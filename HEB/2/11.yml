@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HEB 2:11" class="v">11</span>For
+  both he that sanctifieth and they who are sanctified <span
+  class="add">are</span> all of one: for which cause he is not ashamed to call
+  them brethren, </p>
+id: HEB/2/11
+next:
+  id: HEB/2/12
+  number: '12'
+previous:
+  id: HEB/2/10
+  number: '10'
+reference: 'Hebrews 2:11'

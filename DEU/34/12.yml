@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 34:12"
+  class="v">12</span>And in all that mighty hand, and in all the great terror
+  which Moses shewed in the sight of all Israel.</p>
+id: DEU/34/12
+next:
+  id: JOS/intro/0
+  number: '0'
+previous:
+  id: DEU/34/11
+  number: '11'
+reference: 'Deuteronomy 34:12'

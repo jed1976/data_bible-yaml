@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 2:6" class="v">6</span>But
+  one in a certain place testified, saying, What is man, that thou art mindful
+  of him? or the son of man, that thou visitest him? </p>
+id: HEB/2/6
+next:
+  id: HEB/2/7
+  number: '7'
+previous:
+  id: HEB/2/5
+  number: '5'
+reference: 'Hebrews 2:6'

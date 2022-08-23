@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TI 1:1" class="v">1</span>Paul,
+  an apostle of Jesus Christ by the commandment of God our Saviour, and Lord
+  Jesus Christ, <span class="add">which is</span> our hope; </p>
+id: 1TI/1/1
+next:
+  id: 1TI/1/2
+  number: '2'
+previous:
+  id: 1TI/intro/0
+  number: '0'
+reference: '1 Timothy 1:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 7:25" class="v">25</span>And
+  Joshua said, Why hast thou troubled us? the <span class="nd">LORD</span> shall
+  trouble thee this day. And all Israel stoned him with stones, and burned them
+  with fire, after they had stoned them with stones. </p>
+id: JOS/7/25
+next:
+  id: JOS/7/26
+  number: '26'
+previous:
+  id: JOS/7/24
+  number: '24'
+reference: 'Joshua 7:25'

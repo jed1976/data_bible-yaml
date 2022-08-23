@@ -1,0 +1,18 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 19:11"
+  class="v">11</span>And he said, Go forth, and stand upon the mount before the
+  <span class="nd">LORD</span>. And, behold, the <span class="nd">LORD</span>
+  passed by, and a great and strong wind rent the mountains, and brake in pieces
+  the rocks before the <span class="nd">LORD</span>; <span
+  class="add">but</span> the <span class="nd">LORD</span> <span
+  class="add">was</span> not in the wind: and after the wind an earthquake;
+  <span class="add">but</span> the <span class="nd">LORD</span> <span
+  class="add">was</span> not in the earthquake: </p>
+id: 1KI/19/11
+next:
+  id: 1KI/19/12
+  number: '12'
+previous:
+  id: 1KI/19/10
+  number: '10'
+reference: '1 Kings 19:11'

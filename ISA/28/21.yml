@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 28:21"
+  class="v">21</span>For the <span class="nd">LORD</span> shall rise up as <span
+  class="add">in</span> mount Perazim, he shall be wroth as <span
+  class="add">in</span> the valley of Gibeon, that he may do his work, his
+  strange work; and bring to pass his act, his strange act. </p>
+id: ISA/28/21
+next:
+  id: ISA/28/22
+  number: '22'
+previous:
+  id: ISA/28/20
+  number: '20'
+reference: 'Isaiah 28:21'

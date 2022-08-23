@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 49:7" class="v">7</span>Thus
+  saith the <span class="nd">LORD</span>, the Redeemer of Israel, <span
+  class="add">and</span> his Holy One, to him whom man despiseth, to him whom
+  the nation abhorreth, to a servant of rulers, Kings shall see and arise,
+  princes also shall worship, because of the <span class="nd">LORD</span> that
+  is faithful, <span class="add">and</span> the Holy One of Israel, and he shall
+  choose thee. </p>
+id: ISA/49/7
+next:
+  id: ISA/49/8
+  number: '8'
+previous:
+  id: ISA/49/6
+  number: '6'
+reference: 'Isaiah 49:7'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 9:11" class="v">11</span>And
+  the flesh and the hide he burnt with fire without the camp. </p>
+id: LEV/9/11
+next:
+  id: LEV/9/12
+  number: '12'
+previous:
+  id: LEV/9/10
+  number: '10'
+reference: 'Leviticus 9:11'

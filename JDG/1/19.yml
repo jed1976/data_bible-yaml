@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 1:19" class="v">19</span>And
+  the <span class="nd">LORD</span> was with Judah; and he drave out <span
+  class="add">the inhabitants of</span> the mountain; but could not drive out
+  the inhabitants of the valley, because they had chariots of iron. </p>
+id: JDG/1/19
+next:
+  id: JDG/1/20
+  number: '20'
+previous:
+  id: JDG/1/18
+  number: '18'
+reference: 'Judges 1:19'

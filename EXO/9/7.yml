@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 9:7" class="v">7</span>And
+  Pharaoh sent, and, behold, there was not one of the cattle of the Israelites
+  dead. And the heart of Pharaoh was hardened, and he did not let the people
+  go.</p>
+id: EXO/9/7
+next:
+  id: EXO/9/8
+  number: '8'
+previous:
+  id: EXO/9/6
+  number: '6'
+reference: 'Exodus 9:7'

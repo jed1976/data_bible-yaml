@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 31:4" class="v">4</span>For
+  thus hath the <span class="nd">LORD</span> spoken unto me, Like as the lion
+  and the young lion roaring on his prey, when a multitude of shepherds is
+  called forth against him, <span class="add">he</span> will not be afraid of
+  their voice, nor abase himself for the noise of them: so shall the <span
+  class="nd">LORD</span> of hosts come down to fight for mount Zion, and for the
+  hill thereof. </p>
+id: ISA/31/4
+next:
+  id: ISA/31/5
+  number: '5'
+previous:
+  id: ISA/31/3
+  number: '3'
+reference: 'Isaiah 31:4'

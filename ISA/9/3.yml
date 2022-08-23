@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 9:3" class="v">3</span>Thou
+  hast multiplied the nation, <span class="add">and</span> not increased the
+  joy: they joy before thee according to the joy in harvest, <span
+  class="add">and</span> as <span class="add">men</span> rejoice when they
+  divide the spoil. </p>
+id: ISA/9/3
+next:
+  id: ISA/9/4
+  number: '4'
+previous:
+  id: ISA/9/2
+  number: '2'
+reference: 'Isaiah 9:3'

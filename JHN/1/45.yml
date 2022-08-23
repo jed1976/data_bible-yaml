@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JHN 1:45"
+  class="v">45</span>Philip findeth Nathanael, and saith unto him, We have found
+  him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth,
+  the son of Joseph. </p>
+id: JHN/1/45
+next:
+  id: JHN/1/46
+  number: '46'
+previous:
+  id: JHN/1/44
+  number: '44'
+reference: 'John 1:45'

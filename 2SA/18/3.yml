@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 18:3" class="v">3</span>But
+  the people answered, Thou shalt not go forth: for if we flee away, they will
+  not care for us; neither if half of us die, will they care for us: but now
+  <span class="add">thou art</span> worth ten thousand of us: therefore now
+  <span class="add">it is</span> better that thou succour us out of the city.
+  </p>
+id: 2SA/18/3
+next:
+  id: 2SA/18/4
+  number: '4'
+previous:
+  id: 2SA/18/2
+  number: '2'
+reference: '2 Samuel 18:3'

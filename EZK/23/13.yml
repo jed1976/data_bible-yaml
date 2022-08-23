@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 23:13"
+  class="v">13</span>Then I saw that she was defiled, <span
+  class="add">that</span> they <span class="add">took</span> both one way, </p>
+id: EZK/23/13
+next:
+  id: EZK/23/14
+  number: '14'
+previous:
+  id: EZK/23/12
+  number: '12'
+reference: 'Ezekiel 23:13'

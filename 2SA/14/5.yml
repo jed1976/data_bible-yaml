@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 14:5" class="v">5</span>And
+  the king said unto her, What aileth thee? And she answered, I <span
+  class="add">am</span> indeed a widow woman, and mine husband is dead. </p>
+id: 2SA/14/5
+next:
+  id: 2SA/14/6
+  number: '6'
+previous:
+  id: 2SA/14/4
+  number: '4'
+reference: '2 Samuel 14:5'

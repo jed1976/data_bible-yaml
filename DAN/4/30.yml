@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DAN 4:30" class="v">30</span>The
+  king spake, and said, Is not this great Babylon, that I have built for the
+  house of the kingdom by the might of my power, and for the honour of my
+  majesty? </p>
+id: DAN/4/30
+next:
+  id: DAN/4/31
+  number: '31'
+previous:
+  id: DAN/4/29
+  number: '29'
+reference: 'Daniel 4:30'

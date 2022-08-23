@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ECC 9:11" class="v">11</span>¶ I
+  returned, and saw under the sun, that the race <span class="add">is</span> not
+  to the swift, nor the battle to the strong, neither yet bread to the wise, nor
+  yet riches to men of understanding, nor yet favour to men of skill; but time
+  and chance happeneth to them all. </p>
+id: ECC/9/11
+next:
+  id: ECC/9/12
+  number: '12'
+previous:
+  id: ECC/9/10
+  number: '10'
+reference: 'Ecclesiastes 9:11'

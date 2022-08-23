@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 10:1"
+  class="v">1</span>Moreover, brethren, I would not that ye should be ignorant,
+  how that all our fathers were under the cloud, and all passed through the sea;
+  </p>
+id: 1CO/10/1
+next:
+  id: 1CO/10/2
+  number: '2'
+previous:
+  id: 1CO/9/27
+  number: '27'
+reference: '1 Corinthians 10:1'

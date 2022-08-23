@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GAL 5:1" class="v">1</span>Stand
+  fast therefore in the liberty wherewith Christ hath made us free, and be not
+  entangled again with the yoke of bondage.</p>
+id: GAL/5/1
+next:
+  id: GAL/5/2
+  number: '2'
+previous:
+  id: GAL/4/31
+  number: '31'
+reference: 'Galatians 5:1'

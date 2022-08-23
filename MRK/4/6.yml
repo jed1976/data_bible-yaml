@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 4:6" class="v">6</span><span
+  class="wj">But when the sun was up, it was scorched; and because it had no
+  root, it withered away.</span> </p>
+id: MRK/4/6
+next:
+  id: MRK/4/7
+  number: '7'
+previous:
+  id: MRK/4/5
+  number: '5'
+reference: 'Mark 4:6'

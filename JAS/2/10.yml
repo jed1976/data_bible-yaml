@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JAS 2:10" class="v">10</span>For
+  whosoever shall keep the whole law, and yet offend in one <span
+  class="add">point</span>, he is guilty of all. </p>
+id: JAS/2/10
+next:
+  id: JAS/2/11
+  number: '11'
+previous:
+  id: JAS/2/9
+  number: '9'
+reference: 'James 2:10'

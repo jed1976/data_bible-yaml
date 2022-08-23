@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="13" data-sid="PSA 119:13"
+  class="v">13</span>With my lips have I declared all the judgments of thy
+  mouth.</p>
+id: PSA/119/13
+next:
+  id: PSA/119/14
+  number: '14'
+previous:
+  id: PSA/119/12
+  number: '12'
+reference: 'Psalms 119:13'

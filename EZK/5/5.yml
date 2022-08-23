@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 5:5" class="v">5</span>¶ Thus
+  saith the Lord <span class="nd">GOD</span>; This <span class="add">is</span>
+  Jerusalem: I have set it in the midst of the nations and countries <span
+  class="add">that are</span> round about her. </p>
+id: EZK/5/5
+next:
+  id: EZK/5/6
+  number: '6'
+previous:
+  id: EZK/5/4
+  number: '4'
+reference: 'Ezekiel 5:5'

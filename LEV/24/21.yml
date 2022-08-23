@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 24:21"
+  class="v">21</span>And he that killeth a beast, he shall restore it: and he
+  that killeth a man, he shall be put to death. </p>
+id: LEV/24/21
+next:
+  id: LEV/24/22
+  number: '22'
+previous:
+  id: LEV/24/20
+  number: '20'
+reference: 'Leviticus 24:21'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 11:9" class="v">9</span>And
+  when the dew fell upon the camp in the night, the manna fell upon it.</p>
+id: NUM/11/9
+next:
+  id: NUM/11/10
+  number: '10'
+previous:
+  id: NUM/11/8
+  number: '8'
+reference: 'Numbers 11:9'

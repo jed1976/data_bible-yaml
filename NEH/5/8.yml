@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 5:8" class="v">8</span>And I
+  said unto them, We after our ability have redeemed our brethren the Jews,
+  which were sold unto the heathen; and will ye even sell your brethren? or
+  shall they be sold unto us? Then held they their peace, and found nothing
+  <span class="add">to answer</span>. </p>
+id: NEH/5/8
+next:
+  id: NEH/5/9
+  number: '9'
+previous:
+  id: NEH/5/7
+  number: '7'
+reference: 'Nehemiah 5:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 21:13"
+  class="v">13</span>Whoso stoppeth his ears at the cry of the poor, he also
+  shall cry himself, but shall not be heard. </p>
+id: PRO/21/13
+next:
+  id: PRO/21/14
+  number: '14'
+previous:
+  id: PRO/21/12
+  number: '12'
+reference: 'Proverbs 21:13'

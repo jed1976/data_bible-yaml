@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 13:10"
+  class="v">10</span>And the priest shall see <span class="add">him:</span> and,
+  behold, <span class="add">if</span> the rising <span class="add">be</span>
+  white in the skin, and it have turned the hair white, and <span
+  class="add">there be</span> quick raw flesh in the rising; </p>
+id: LEV/13/10
+next:
+  id: LEV/13/11
+  number: '11'
+previous:
+  id: LEV/13/9
+  number: '9'
+reference: 'Leviticus 13:10'

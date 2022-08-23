@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 17:7" class="v">7</span>And
+  Jesus came and touched them, and said, <span class="wj">Arise, and be not
+  afraid.</span> </p>
+id: MAT/17/7
+next:
+  id: MAT/17/8
+  number: '8'
+previous:
+  id: MAT/17/6
+  number: '6'
+reference: 'Matthew 17:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 11:20"
+  class="v">20</span>And all the people of the land rejoiced, and the city was
+  in quiet: and they slew Athaliah with the sword <span
+  class="add">beside</span> the king’s house. </p>
+id: 2KI/11/20
+next:
+  id: 2KI/11/21
+  number: '21'
+previous:
+  id: 2KI/11/19
+  number: '19'
+reference: '2 Kings 11:20'

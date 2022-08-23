@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 21:4" class="v">4</span>An
+  high look, and a proud heart, <span class="add">and</span> the plowing of the
+  wicked, <span class="add">is</span> sin. </p>
+id: PRO/21/4
+next:
+  id: PRO/21/5
+  number: '5'
+previous:
+  id: PRO/21/3
+  number: '3'
+reference: 'Proverbs 21:4'

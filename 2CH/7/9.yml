@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 7:9" class="v">9</span>And in
+  the eighth day they made a solemn assembly: for they kept the dedication of
+  the altar seven days, and the feast seven days. </p>
+id: 2CH/7/9
+next:
+  id: 2CH/7/10
+  number: '10'
+previous:
+  id: 2CH/7/8
+  number: '8'
+reference: '2 Chronicles 7:9'

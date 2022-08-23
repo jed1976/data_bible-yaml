@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 12:37"
+  class="v">37</span><span class="wj">For by thy words thou shalt be justified,
+  and by thy words thou shalt be condemned.</span></p>
+id: MAT/12/37
+next:
+  id: MAT/12/38
+  number: '38'
+previous:
+  id: MAT/12/36
+  number: '36'
+reference: 'Matthew 12:37'

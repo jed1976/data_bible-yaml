@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 8:15"
+  class="v">15</span>Then I commended mirth, because a man hath no better thing
+  under the sun, than to eat, and to drink, and to be merry: for that shall
+  abide with him of his labour the days of his life, which God giveth him under
+  the sun.</p>
+id: ECC/8/15
+next:
+  id: ECC/8/16
+  number: '16'
+previous:
+  id: ECC/8/14
+  number: '14'
+reference: 'Ecclesiastes 8:15'

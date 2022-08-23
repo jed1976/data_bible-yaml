@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 24:16"
+  class="v">16</span>And the glory of the <span class="nd">LORD</span> abode
+  upon mount Sinai, and the cloud covered it six days: and the seventh day he
+  called unto Moses out of the midst of the cloud. </p>
+id: EXO/24/16
+next:
+  id: EXO/24/17
+  number: '17'
+previous:
+  id: EXO/24/15
+  number: '15'
+reference: 'Exodus 24:16'

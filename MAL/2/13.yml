@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAL 2:13" class="v">13</span>And
+  this have ye done again, covering the altar of the <span
+  class="nd">LORD</span> with tears, with weeping, and with crying out, insomuch
+  that he regardeth not the offering any more, or receiveth <span
+  class="add">it</span> with good will at your hand.</p>
+id: MAL/2/13
+next:
+  id: MAL/2/14
+  number: '14'
+previous:
+  id: MAL/2/12
+  number: '12'
+reference: 'Malachi 2:13'

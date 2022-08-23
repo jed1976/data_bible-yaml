@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 2:24" class="v">24</span>And
+  to offer a sacrifice according to that which is said in the law of the Lord, A
+  pair of turtledoves, or two young pigeons. </p>
+id: LUK/2/24
+next:
+  id: LUK/2/25
+  number: '25'
+previous:
+  id: LUK/2/23
+  number: '23'
+reference: 'Luke 2:24'

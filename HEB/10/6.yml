@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HEB 10:6" class="v">6</span>In
+  burnt offerings and <span class="add">sacrifices</span> for sin thou hast had
+  no pleasure. </p>
+id: HEB/10/6
+next:
+  id: HEB/10/7
+  number: '7'
+previous:
+  id: HEB/10/5
+  number: '5'
+reference: 'Hebrews 10:6'

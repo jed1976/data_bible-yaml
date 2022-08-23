@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 16:3" class="v">3</span>And
+  the second angel poured out his vial upon the sea; and it became as the blood
+  of a dead <span class="add">man</span>: and every living soul died in the sea.
+  </p>
+id: REV/16/3
+next:
+  id: REV/16/4
+  number: '4'
+previous:
+  id: REV/16/2
+  number: '2'
+reference: 'Revelation 16:3'

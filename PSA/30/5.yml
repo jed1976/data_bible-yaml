@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 30:5" class="v">5</span>For
+  his anger <span class="add">endureth but</span> a moment; in his favour <span
+  class="add">is</span> life: weeping may endure for a night, but joy <span
+  class="add">cometh</span> in the morning.</p>
+id: PSA/30/5
+next:
+  id: PSA/30/6
+  number: '6'
+previous:
+  id: PSA/30/4
+  number: '4'
+reference: 'Psalms 30:5'

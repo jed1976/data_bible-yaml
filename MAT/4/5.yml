@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 4:5" class="v">5</span>Then
+  the devil taketh him up into the holy city, and setteth him on a pinnacle of
+  the temple, </p>
+id: MAT/4/5
+next:
+  id: MAT/4/6
+  number: '6'
+previous:
+  id: MAT/4/4
+  number: '4'
+reference: 'Matthew 4:5'

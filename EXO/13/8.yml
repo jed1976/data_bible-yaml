@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 13:8" class="v">8</span>¶ And
+  thou shalt shew thy son in that day, saying, <span class="add">This is
+  done</span> because of that <span class="add">which</span> the <span
+  class="nd">LORD</span> did unto me when I came forth out of Egypt. </p>
+id: EXO/13/8
+next:
+  id: EXO/13/9
+  number: '9'
+previous:
+  id: EXO/13/7
+  number: '7'
+reference: 'Exodus 13:8'

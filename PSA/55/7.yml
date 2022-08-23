@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 55:7" class="v">7</span>Lo,
+  <span class="add">then</span> would I wander far off, <span
+  class="add">and</span> remain in the wilderness. Selah.</p>
+id: PSA/55/7
+next:
+  id: PSA/55/8
+  number: '8'
+previous:
+  id: PSA/55/6
+  number: '6'
+reference: 'Psalms 55:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 8:2" class="v">2</span>And if
+  thou refuse to let <span class="add">them</span> go, behold, I will smite all
+  thy borders with frogs: </p>
+id: EXO/8/2
+next:
+  id: EXO/8/3
+  number: '3'
+previous:
+  id: EXO/8/1
+  number: '1'
+reference: 'Exodus 8:2'

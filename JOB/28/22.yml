@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 28:22"
+  class="v">22</span>Destruction and death say, We have heard the fame thereof
+  with our ears. </p>
+id: JOB/28/22
+next:
+  id: JOB/28/23
+  number: '23'
+previous:
+  id: JOB/28/21
+  number: '21'
+reference: 'Job 28:22'

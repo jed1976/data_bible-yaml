@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 19:21"
+  class="v">21</span>And the <span class="nd">LORD</span> said unto Moses, Go
+  down, charge the people, lest they break through unto the <span
+  class="nd">LORD</span> to gaze, and many of them perish. </p>
+id: EXO/19/21
+next:
+  id: EXO/19/22
+  number: '22'
+previous:
+  id: EXO/19/20
+  number: '20'
+reference: 'Exodus 19:21'

@@ -1,0 +1,9 @@
+content: <p class="mt1">Haggai</p>
+id: HAG/intro/0
+next:
+  id: HAG/1/1
+  number: '1'
+previous:
+  id: ZEP/3/20
+  number: '20'
+reference: Haggai

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 30:20"
+  class="v">20</span>And Leah said, God hath endued me <span
+  class="add">with</span> a good dowry; now will my husband dwell with me,
+  because I have born him six sons: and she called his name Zebulun. </p>
+id: GEN/30/20
+next:
+  id: GEN/30/21
+  number: '21'
+previous:
+  id: GEN/30/19
+  number: '19'
+reference: 'Genesis 30:20'

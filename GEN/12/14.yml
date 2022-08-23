@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 12:14" class="v">14</span>¶
+  And it came to pass, that, when Abram was come into Egypt, the Egyptians
+  beheld the woman that she <span class="add">was</span> very fair. </p>
+id: GEN/12/14
+next:
+  id: GEN/12/15
+  number: '15'
+previous:
+  id: GEN/12/13
+  number: '13'
+reference: 'Genesis 12:14'

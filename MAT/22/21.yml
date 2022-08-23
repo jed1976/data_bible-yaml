@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 22:21"
+  class="v">21</span>They say unto him, Cæsar’s. Then saith he unto them, <span
+  class="wj">Render therefore unto Cæsar the things which are Cæsar’s; and unto
+  God the things that are God’s.</span> </p>
+id: MAT/22/21
+next:
+  id: MAT/22/22
+  number: '22'
+previous:
+  id: MAT/22/20
+  number: '20'
+reference: 'Matthew 22:21'

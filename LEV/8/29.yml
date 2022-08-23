@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 8:29" class="v">29</span>And
+  Moses took the breast, and waved it <span class="add">for</span> a wave
+  offering before the <span class="nd">LORD</span>: <span class="add">for</span>
+  of the ram of consecration it was Moses’ part; as the <span
+  class="nd">LORD</span> commanded Moses. </p>
+id: LEV/8/29
+next:
+  id: LEV/8/30
+  number: '30'
+previous:
+  id: LEV/8/28
+  number: '28'
+reference: 'Leviticus 8:29'

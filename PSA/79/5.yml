@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 79:5" class="v">5</span>How
+  long, <span class="nd">LORD</span>? wilt thou be angry for ever? shall thy
+  jealousy burn like fire?</p>
+id: PSA/79/5
+next:
+  id: PSA/79/6
+  number: '6'
+previous:
+  id: PSA/79/4
+  number: '4'
+reference: 'Psalms 79:5'

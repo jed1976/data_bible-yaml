@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="JHN 8:58"
+  class="v">58</span>Jesus said unto them, <span class="wj">Verily, verily, I
+  say unto you, Before Abraham was, I am.</span> </p>
+id: JHN/8/58
+next:
+  id: JHN/8/59
+  number: '59'
+previous:
+  id: JHN/8/57
+  number: '57'
+reference: 'John 8:58'

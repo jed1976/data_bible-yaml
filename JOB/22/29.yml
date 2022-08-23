@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 22:29"
+  class="v">29</span>When <span class="add">men</span> are cast down, then thou
+  shalt say, <span class="add">There is</span> lifting up; and he shall save the
+  humble person. </p>
+id: JOB/22/29
+next:
+  id: JOB/22/30
+  number: '30'
+previous:
+  id: JOB/22/28
+  number: '28'
+reference: 'Job 22:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 6:24" class="v">24</span>And
+  the sons of Korah; Assir, and Elkanah, and Abiasaph: these <span
+  class="add">are</span> the families of the Korhites. </p>
+id: EXO/6/24
+next:
+  id: EXO/6/25
+  number: '25'
+previous:
+  id: EXO/6/23
+  number: '23'
+reference: 'Exodus 6:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 48:10"
+  class="v">10</span>According to thy name, O God, so <span
+  class="add">is</span> thy praise unto the ends of the earth: thy right hand is
+  full of righteousness.</p>
+id: PSA/48/10
+next:
+  id: PSA/48/11
+  number: '11'
+previous:
+  id: PSA/48/9
+  number: '9'
+reference: 'Psalms 48:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 24:11"
+  class="v">11</span>And upon the nobles of the children of Israel he laid not
+  his hand: also they saw God, and did eat and drink.</p>
+id: EXO/24/11
+next:
+  id: EXO/24/12
+  number: '12'
+previous:
+  id: EXO/24/10
+  number: '10'
+reference: 'Exodus 24:11'

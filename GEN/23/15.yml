@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 23:15" class="v">15</span>My
+  lord, hearken unto me: the land <span class="add">is worth</span> four hundred
+  shekels of silver; what <span class="add">is</span> that betwixt me and thee?
+  bury therefore thy dead.</p>
+id: GEN/23/15
+next:
+  id: GEN/23/16
+  number: '16'
+previous:
+  id: GEN/23/14
+  number: '14'
+reference: 'Genesis 23:15'

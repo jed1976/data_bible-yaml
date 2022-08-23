@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="SNG 7:2" class="v">2</span>Thy
+  navel <span class="add">is like</span> a round goblet, <span
+  class="add">which</span> wanteth not liquor: thy belly <span class="add">is
+  like</span> an heap of wheat set about with lilies. </p>
+id: SNG/7/2
+next:
+  id: SNG/7/3
+  number: '3'
+previous:
+  id: SNG/7/1
+  number: '1'
+reference: 'Song of Solomon 7:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 10:7" class="v">7</span>Then
+  said Jesus unto them again, <span class="wj">Verily, verily, I say unto you, I
+  am the door of the sheep.</span> </p>
+id: JHN/10/7
+next:
+  id: JHN/10/8
+  number: '8'
+previous:
+  id: JHN/10/6
+  number: '6'
+reference: 'John 10:7'

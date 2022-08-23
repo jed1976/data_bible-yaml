@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="36" data-sid="PSA 37:36"
+  class="v">36</span>Yet he passed away, and, lo, he <span
+  class="add">was</span> not: yea, I sought him, but he could not be found.</p>
+id: PSA/37/36
+next:
+  id: PSA/37/37
+  number: '37'
+previous:
+  id: PSA/37/35
+  number: '35'
+reference: 'Psalms 37:36'

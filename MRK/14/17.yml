@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 14:17"
+  class="v">17</span>And in the evening he cometh with the twelve. </p>
+id: MRK/14/17
+next:
+  id: MRK/14/18
+  number: '18'
+previous:
+  id: MRK/14/16
+  number: '16'
+reference: 'Mark 14:17'

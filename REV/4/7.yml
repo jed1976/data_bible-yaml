@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 4:7" class="v">7</span>And
+  the first beast <span class="add">was</span> like a lion, and the second beast
+  like a calf, and the third beast had a face as a man, and the fourth beast
+  <span class="add">was</span> like a flying eagle. </p>
+id: REV/4/7
+next:
+  id: REV/4/8
+  number: '8'
+previous:
+  id: REV/4/6
+  number: '6'
+reference: 'Revelation 4:7'

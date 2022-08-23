@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 18:8" class="v">8</span>For
+  he is cast into a net by his own feet, and he walketh upon a snare. </p>
+id: JOB/18/8
+next:
+  id: JOB/18/9
+  number: '9'
+previous:
+  id: JOB/18/7
+  number: '7'
+reference: 'Job 18:8'

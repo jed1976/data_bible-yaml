@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 89:20" class="v">20</span>I
+  have found David my servant; with my holy oil have I anointed him:</p>
+id: PSA/89/20
+next:
+  id: PSA/89/21
+  number: '21'
+previous:
+  id: PSA/89/19
+  number: '19'
+reference: 'Psalms 89:20'

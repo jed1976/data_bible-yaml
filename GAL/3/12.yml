@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GAL 3:12" class="v">12</span>And
+  the law is not of faith: but, The man that doeth them shall live in them. </p>
+id: GAL/3/12
+next:
+  id: GAL/3/13
+  number: '13'
+previous:
+  id: GAL/3/11
+  number: '11'
+reference: 'Galatians 3:12'

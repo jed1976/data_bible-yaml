@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JUD 1:6" class="v">6</span>And
+  the angels which kept not their first estate, but left their own habitation,
+  he hath reserved in everlasting chains under darkness unto the judgment of the
+  great day. </p>
+id: JUD/1/6
+next:
+  id: JUD/1/7
+  number: '7'
+previous:
+  id: JUD/1/5
+  number: '5'
+reference: 'Jude 1:6'

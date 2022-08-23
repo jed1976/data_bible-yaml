@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 28:13"
+  class="v">13</span>But the word of the <span class="nd">LORD</span> was unto
+  them precept upon precept, precept upon precept; line upon line, line upon
+  line; here a little, <span class="add">and</span> there a little; that they
+  might go, and fall backward, and be broken, and snared, and taken.</p>
+id: ISA/28/13
+next:
+  id: ISA/28/14
+  number: '14'
+previous:
+  id: ISA/28/12
+  number: '12'
+reference: 'Isaiah 28:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1KI 4:16"
+  class="v">16</span>Baanah the son of Hushai <span class="add">was</span> in
+  Asher and in Aloth: </p>
+id: 1KI/4/16
+next:
+  id: 1KI/4/17
+  number: '17'
+previous:
+  id: 1KI/4/15
+  number: '15'
+reference: '1 Kings 4:16'

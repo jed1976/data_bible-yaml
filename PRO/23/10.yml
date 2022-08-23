@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 23:10"
+  class="v">10</span>Remove not the old landmark; and enter not into the fields
+  of the fatherless: </p>
+id: PRO/23/10
+next:
+  id: PRO/23/11
+  number: '11'
+previous:
+  id: PRO/23/9
+  number: '9'
+reference: 'Proverbs 23:10'

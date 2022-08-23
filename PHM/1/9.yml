@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PHM 1:9" class="v">9</span>Yet
+  for love’s sake I rather beseech <span class="add">thee</span>, being such an
+  one as Paul the aged, and now also a prisoner of Jesus Christ. </p>
+id: PHM/1/9
+next:
+  id: PHM/1/10
+  number: '10'
+previous:
+  id: PHM/1/8
+  number: '8'
+reference: 'Philemon 1:9'

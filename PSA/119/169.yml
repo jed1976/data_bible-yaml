@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ת TAU.</span></p><p
+  class="q1"><span data-number="169" data-sid="PSA 119:169"
+  class="v">169</span>Let my cry come near before thee, O <span
+  class="nd">LORD</span>: give me understanding according to thy word.</p>
+id: PSA/119/169
+next:
+  id: PSA/119/170
+  number: '170'
+previous:
+  id: PSA/119/168
+  number: '168'
+reference: 'Psalms 119:169'

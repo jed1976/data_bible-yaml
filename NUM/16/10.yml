@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 16:10"
+  class="v">10</span>And he hath brought thee near <span class="add">to
+  him</span>, and all thy brethren the sons of Levi with thee: and seek ye the
+  priesthood also? </p>
+id: NUM/16/10
+next:
+  id: NUM/16/11
+  number: '11'
+previous:
+  id: NUM/16/9
+  number: '9'
+reference: 'Numbers 16:10'

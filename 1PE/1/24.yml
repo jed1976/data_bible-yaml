@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1PE 1:24" class="v">24</span>For
+  all flesh <span class="add">is</span> as grass, and all the glory of man as
+  the flower of grass. The grass withereth, and the flower thereof falleth away:
+  </p>
+id: 1PE/1/24
+next:
+  id: 1PE/1/25
+  number: '25'
+previous:
+  id: 1PE/1/23
+  number: '23'
+reference: '1 Peter 1:24'

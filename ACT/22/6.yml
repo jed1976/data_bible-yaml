@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 22:6" class="v">6</span>And
+  it came to pass, that, as I made my journey, and was come nigh unto Damascus
+  about noon, suddenly there shone from heaven a great light round about me.
+  </p>
+id: ACT/22/6
+next:
+  id: ACT/22/7
+  number: '7'
+previous:
+  id: ACT/22/5
+  number: '5'
+reference: 'Acts 22:6'

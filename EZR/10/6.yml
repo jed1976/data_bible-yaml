@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZR 10:6" class="v">6</span>¶
+  Then Ezra rose up from before the house of God, and went into the chamber of
+  Johanan the son of Eliashib: and <span class="add">when</span> he came
+  thither, he did eat no bread, nor drink water: for he mourned because of the
+  transgression of them that had been carried away. </p>
+id: EZR/10/6
+next:
+  id: EZR/10/7
+  number: '7'
+previous:
+  id: EZR/10/5
+  number: '5'
+reference: 'Ezra 10:6'

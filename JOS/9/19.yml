@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 9:19" class="v">19</span>But
+  all the princes said unto all the congregation, We have sworn unto them by the
+  <span class="nd">LORD</span> God of Israel: now therefore we may not touch
+  them. </p>
+id: JOS/9/19
+next:
+  id: JOS/9/20
+  number: '20'
+previous:
+  id: JOS/9/18
+  number: '18'
+reference: 'Joshua 9:19'

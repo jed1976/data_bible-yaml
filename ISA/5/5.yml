@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 5:5" class="v">5</span>And
+  now go to; I will tell you what I will do to my vineyard: I will take away the
+  hedge thereof, and it shall be eaten up; <span class="add">and</span> break
+  down the wall thereof, and it shall be trodden down: </p>
+id: ISA/5/5
+next:
+  id: ISA/5/6
+  number: '6'
+previous:
+  id: ISA/5/4
+  number: '4'
+reference: 'Isaiah 5:5'

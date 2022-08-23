@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JAS 5:14" class="v">14</span>Is
+  any sick among you? let him call for the elders of the church; and let them
+  pray over him, anointing him with oil in the name of the Lord: </p>
+id: JAS/5/14
+next:
+  id: JAS/5/15
+  number: '15'
+previous:
+  id: JAS/5/13
+  number: '13'
+reference: 'James 5:14'

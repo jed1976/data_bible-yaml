@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 8:18" class="v">18</span>Now
+  as he was speaking with me, I was in a deep sleep on my face toward the
+  ground: but he touched me, and set me upright. </p>
+id: DAN/8/18
+next:
+  id: DAN/8/19
+  number: '19'
+previous:
+  id: DAN/8/17
+  number: '17'
+reference: 'Daniel 8:18'

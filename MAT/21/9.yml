@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 21:9" class="v">9</span>And
+  the multitudes that went before, and that followed, cried, saying, Hosanna to
+  the Son of David: Blessed <span class="add">is</span> he that cometh in the
+  name of the Lord; Hosanna in the highest. </p>
+id: MAT/21/9
+next:
+  id: MAT/21/10
+  number: '10'
+previous:
+  id: MAT/21/8
+  number: '8'
+reference: 'Matthew 21:9'

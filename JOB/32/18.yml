@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 32:18"
+  class="v">18</span>For I am full of matter, the spirit within me constraineth
+  me. </p>
+id: JOB/32/18
+next:
+  id: JOB/32/19
+  number: '19'
+previous:
+  id: JOB/32/17
+  number: '17'
+reference: 'Job 32:18'

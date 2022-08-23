@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 20:24"
+  class="v">24</span>Aaron shall be gathered unto his people: for he shall not
+  enter into the land which I have given unto the children of Israel, because ye
+  rebelled against my word at the water of Meribah. </p>
+id: NUM/20/24
+next:
+  id: NUM/20/25
+  number: '25'
+previous:
+  id: NUM/20/23
+  number: '23'
+reference: 'Numbers 20:24'

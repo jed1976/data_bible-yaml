@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 33:20"
+  class="v">20</span>Thus saith the <span class="nd">LORD</span>; If ye can
+  break my covenant of the day, and my covenant of the night, and that there
+  should not be day and night in their season; </p>
+id: JER/33/20
+next:
+  id: JER/33/21
+  number: '21'
+previous:
+  id: JER/33/19
+  number: '19'
+reference: 'Jeremiah 33:20'

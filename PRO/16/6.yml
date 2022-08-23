@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 16:6" class="v">6</span>By
+  mercy and truth iniquity is purged: and by the fear of the <span
+  class="nd">LORD</span> <span class="add">men</span> depart from evil. </p>
+id: PRO/16/6
+next:
+  id: PRO/16/7
+  number: '7'
+previous:
+  id: PRO/16/5
+  number: '5'
+reference: 'Proverbs 16:6'

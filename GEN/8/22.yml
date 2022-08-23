@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 8:22"
+  class="v">22</span>While the earth remaineth, seedtime and harvest, and cold
+  and heat, and summer and winter, and day and night shall not cease.</p>
+id: GEN/8/22
+next:
+  id: GEN/9/1
+  number: '1'
+previous:
+  id: GEN/8/21
+  number: '21'
+reference: 'Genesis 8:22'

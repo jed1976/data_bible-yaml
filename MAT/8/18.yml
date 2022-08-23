@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 8:18" class="v">18</span>¶
+  Now when Jesus saw great multitudes about him, he gave commandment to depart
+  unto the other side. </p>
+id: MAT/8/18
+next:
+  id: MAT/8/19
+  number: '19'
+previous:
+  id: MAT/8/17
+  number: '17'
+reference: 'Matthew 8:18'

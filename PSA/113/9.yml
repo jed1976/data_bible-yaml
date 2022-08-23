@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 113:9" class="v">9</span>He
+  maketh the barren woman to keep house, <span class="add">and to be</span> a
+  joyful mother of children. Praise ye the <span class="nd">LORD</span>.</p>
+id: PSA/113/9
+next:
+  id: PSA/114/1
+  number: '1'
+previous:
+  id: PSA/113/8
+  number: '8'
+reference: 'Psalms 113:9'

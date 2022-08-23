@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EZR 8:24" class="v">24</span>¶
+  Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and
+  ten of their brethren with them, </p>
+id: EZR/8/24
+next:
+  id: EZR/8/25
+  number: '25'
+previous:
+  id: EZR/8/23
+  number: '23'
+reference: 'Ezra 8:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 16:33"
+  class="v">33</span><span class="wj">These things I have spoken unto you, that
+  in me ye might have peace. In the world ye shall have tribulation: but be of
+  good cheer; I have overcome the world.</span></p>
+id: JHN/16/33
+next:
+  id: JHN/17/1
+  number: '1'
+previous:
+  id: JHN/16/32
+  number: '32'
+reference: 'John 16:33'

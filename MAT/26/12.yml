@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 26:12"
+  class="v">12</span><span class="wj">For in that she hath poured this ointment
+  on my body, she did <span class="add">it</span> for my burial.</span> </p>
+id: MAT/26/12
+next:
+  id: MAT/26/13
+  number: '13'
+previous:
+  id: MAT/26/11
+  number: '11'
+reference: 'Matthew 26:12'

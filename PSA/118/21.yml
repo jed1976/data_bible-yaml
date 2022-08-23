@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 118:21"
+  class="v">21</span>I will praise thee: for thou hast heard me, and art become
+  my salvation.</p>
+id: PSA/118/21
+next:
+  id: PSA/118/22
+  number: '22'
+previous:
+  id: PSA/118/20
+  number: '20'
+reference: 'Psalms 118:21'

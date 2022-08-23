@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LEV 1:17" class="v">17</span>And
+  he shall cleave it with the wings thereof, <span class="add">but</span> shall
+  not divide <span class="add">it</span> asunder: and the priest shall burn it
+  upon the altar, upon the wood that <span class="add">is</span> upon the fire:
+  it <span class="add">is</span> a burnt sacrifice, an offering made by fire, of
+  a sweet savour unto the <span class="nd">LORD</span>.</p>
+id: LEV/1/17
+next:
+  id: LEV/2/1
+  number: '1'
+previous:
+  id: LEV/1/16
+  number: '16'
+reference: 'Leviticus 1:17'

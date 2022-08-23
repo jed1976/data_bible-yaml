@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 3:16"
+  class="v">16</span>After him repaired Nehemiah the son of Azbuk, the ruler of
+  the half part of Beth-zur, unto <span class="add">the place</span> over
+  against the sepulchres of David, and to the pool that was made, and unto the
+  house of the mighty. </p>
+id: NEH/3/16
+next:
+  id: NEH/3/17
+  number: '17'
+previous:
+  id: NEH/3/15
+  number: '15'
+reference: 'Nehemiah 3:16'

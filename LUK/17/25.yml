@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LUK 17:25"
+  class="v">25</span><span class="wj">But first must he suffer many things, and
+  be rejected of this generation.</span> </p>
+id: LUK/17/25
+next:
+  id: LUK/17/26
+  number: '26'
+previous:
+  id: LUK/17/24
+  number: '24'
+reference: 'Luke 17:25'

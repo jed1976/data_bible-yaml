@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 28:4" class="v">4</span>They
+  that forsake the law praise the wicked: but such as keep the law contend with
+  them. </p>
+id: PRO/28/4
+next:
+  id: PRO/28/5
+  number: '5'
+previous:
+  id: PRO/28/3
+  number: '3'
+reference: 'Proverbs 28:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 34:1"
+  class="v">1</span>Josiah <span class="add">was</span> eight years old when he
+  began to reign, and he reigned in Jerusalem one and thirty years. </p>
+id: 2CH/34/1
+next:
+  id: 2CH/34/2
+  number: '2'
+previous:
+  id: 2CH/33/25
+  number: '25'
+reference: '2 Chronicles 34:1'

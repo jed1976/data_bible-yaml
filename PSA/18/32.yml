@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 18:32"
+  class="v">32</span><span class="add">It is</span> God that girdeth me with
+  strength, and maketh my way perfect.</p>
+id: PSA/18/32
+next:
+  id: PSA/18/33
+  number: '33'
+previous:
+  id: PSA/18/31
+  number: '31'
+reference: 'Psalms 18:32'

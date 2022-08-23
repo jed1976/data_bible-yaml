@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 12:18"
+  class="v">18</span>For this cause the people also met him, for that they heard
+  that he had done this miracle. </p>
+id: JHN/12/18
+next:
+  id: JHN/12/19
+  number: '19'
+previous:
+  id: JHN/12/17
+  number: '17'
+reference: 'John 12:18'

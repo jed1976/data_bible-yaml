@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 2:20" class="v">20</span>And
+  he said, Bring me a new cruse, and put salt therein. And they brought <span
+  class="add">it</span> to him. </p>
+id: 2KI/2/20
+next:
+  id: 2KI/2/21
+  number: '21'
+previous:
+  id: 2KI/2/19
+  number: '19'
+reference: '2 Kings 2:20'

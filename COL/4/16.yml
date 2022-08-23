@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="COL 4:16" class="v">16</span>And
+  when this epistle is read among you, cause that it be read also in the church
+  of the Laodiceans; and that ye likewise read the <span
+  class="add">epistle</span> from Laodicea. </p>
+id: COL/4/16
+next:
+  id: COL/4/17
+  number: '17'
+previous:
+  id: COL/4/15
+  number: '15'
+reference: 'Colossians 4:16'

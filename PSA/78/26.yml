@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 78:26"
+  class="v">26</span>He caused an east wind to blow in the heaven: and by his
+  power he brought in the south wind.</p>
+id: PSA/78/26
+next:
+  id: PSA/78/27
+  number: '27'
+previous:
+  id: PSA/78/25
+  number: '25'
+reference: 'Psalms 78:26'

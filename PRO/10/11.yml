@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 10:11"
+  class="v">11</span>The mouth of a righteous <span class="add">man is</span> a
+  well of life: but violence covereth the mouth of the wicked. </p>
+id: PRO/10/11
+next:
+  id: PRO/10/12
+  number: '12'
+previous:
+  id: PRO/10/10
+  number: '10'
+reference: 'Proverbs 10:11'

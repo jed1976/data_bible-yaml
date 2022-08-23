@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 17:22" class="v">22</span>A
+  merry heart doeth good <span class="add">like</span> a medicine: but a broken
+  spirit drieth the bones. </p>
+id: PRO/17/22
+next:
+  id: PRO/17/23
+  number: '23'
+previous:
+  id: PRO/17/21
+  number: '21'
+reference: 'Proverbs 17:22'

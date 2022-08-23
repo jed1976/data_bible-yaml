@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 29:5" class="v">5</span>A man
+  that flattereth his neighbour spreadeth a net for his feet. </p>
+id: PRO/29/5
+next:
+  id: PRO/29/6
+  number: '6'
+previous:
+  id: PRO/29/4
+  number: '4'
+reference: 'Proverbs 29:5'

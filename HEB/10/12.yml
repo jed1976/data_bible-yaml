@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 10:12"
+  class="v">12</span>But this man, after he had offered one sacrifice for sins
+  for ever, sat down on the right hand of God; </p>
+id: HEB/10/12
+next:
+  id: HEB/10/13
+  number: '13'
+previous:
+  id: HEB/10/11
+  number: '11'
+reference: 'Hebrews 10:12'

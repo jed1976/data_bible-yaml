@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 6:29" class="v">29</span>All
+  the males among the priests shall eat thereof: it <span class="add">is</span>
+  most holy. </p>
+id: LEV/6/29
+next:
+  id: LEV/6/30
+  number: '30'
+previous:
+  id: LEV/6/28
+  number: '28'
+reference: 'Leviticus 6:29'

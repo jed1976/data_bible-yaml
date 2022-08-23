@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 21:21"
+  class="v">21</span><span class="wj">Then let them which are in Judæa flee to
+  the mountains; and let them which are in the midst of it depart out; and let
+  not them that are in the countries enter thereinto.</span> </p>
+id: LUK/21/21
+next:
+  id: LUK/21/22
+  number: '22'
+previous:
+  id: LUK/21/20
+  number: '20'
+reference: 'Luke 21:21'

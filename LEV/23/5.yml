@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 23:5" class="v">5</span>In
+  the fourteenth <span class="add">day</span> of the first month at even <span
+  class="add">is</span> the <span class="nd">LORD’s</span> passover. </p>
+id: LEV/23/5
+next:
+  id: LEV/23/6
+  number: '6'
+previous:
+  id: LEV/23/4
+  number: '4'
+reference: 'Leviticus 23:5'

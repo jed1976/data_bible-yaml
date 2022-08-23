@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="1CH 1:49" class="v">49</span>And
+  when Shaul was dead, Baal-hanan the son of Achbor reigned in his stead. </p>
+id: 1CH/1/49
+next:
+  id: 1CH/1/50
+  number: '50'
+previous:
+  id: 1CH/1/48
+  number: '48'
+reference: '1 Chronicles 1:49'

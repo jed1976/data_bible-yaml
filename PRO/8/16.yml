@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 8:16" class="v">16</span>By
+  me princes rule, and nobles, <span class="add">even</span> all the judges of
+  the earth. </p>
+id: PRO/8/16
+next:
+  id: PRO/8/17
+  number: '17'
+previous:
+  id: PRO/8/15
+  number: '15'
+reference: 'Proverbs 8:16'

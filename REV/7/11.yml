@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 7:11" class="v">11</span>And
+  all the angels stood round about the throne, and <span
+  class="add">about</span> the elders and the four beasts, and fell before the
+  throne on their faces, and worshipped God, </p>
+id: REV/7/11
+next:
+  id: REV/7/12
+  number: '12'
+previous:
+  id: REV/7/10
+  number: '10'
+reference: 'Revelation 7:11'

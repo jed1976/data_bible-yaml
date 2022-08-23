@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 21:18" class="v">18</span>¶
+  And if men strive together, and one smite another with a stone, or with <span
+  class="add">his</span> fist, and he die not, but keepeth <span
+  class="add">his</span> bed: </p>
+id: EXO/21/18
+next:
+  id: EXO/21/19
+  number: '19'
+previous:
+  id: EXO/21/17
+  number: '17'
+reference: 'Exodus 21:18'

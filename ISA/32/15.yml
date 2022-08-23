@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 32:15"
+  class="v">15</span>Until the spirit be poured upon us from on high, and the
+  wilderness be a fruitful field, and the fruitful field be counted for a
+  forest. </p>
+id: ISA/32/15
+next:
+  id: ISA/32/16
+  number: '16'
+previous:
+  id: ISA/32/14
+  number: '14'
+reference: 'Isaiah 32:15'

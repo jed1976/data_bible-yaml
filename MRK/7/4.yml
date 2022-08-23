@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 7:4" class="v">4</span>And
+  <span class="add">when they come</span> from the market, except they wash,
+  they eat not. And many other things there be, which they have received to
+  hold, <span class="add">as</span> the washing of cups, and pots, brasen
+  vessels, and of tables. </p>
+id: MRK/7/4
+next:
+  id: MRK/7/5
+  number: '5'
+previous:
+  id: MRK/7/3
+  number: '3'
+reference: 'Mark 7:4'

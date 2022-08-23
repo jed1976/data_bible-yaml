@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 27:5" class="v">5</span>And
+  there shalt thou build an altar unto the <span class="nd">LORD</span> thy God,
+  an altar of stones: thou shalt not lift up <span class="add">any</span> iron
+  <span class="add">tool</span> upon them. </p>
+id: DEU/27/5
+next:
+  id: DEU/27/6
+  number: '6'
+previous:
+  id: DEU/27/4
+  number: '4'
+reference: 'Deuteronomy 27:5'

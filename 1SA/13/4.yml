@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 13:4" class="v">4</span>And
+  all Israel heard say <span class="add">that</span> Saul had smitten a garrison
+  of the Philistines, and <span class="add">that</span> Israel also was had in
+  abomination with the Philistines. And the people were called together after
+  Saul to Gilgal.</p>
+id: 1SA/13/4
+next:
+  id: 1SA/13/5
+  number: '5'
+previous:
+  id: 1SA/13/3
+  number: '3'
+reference: '1 Samuel 13:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 20:13"
+  class="v">13</span>This <span class="add">is</span> the water of Meribah;
+  because the children of Israel strove with the <span class="nd">LORD</span>,
+  and he was sanctified in them.</p>
+id: NUM/20/13
+next:
+  id: NUM/20/14
+  number: '14'
+previous:
+  id: NUM/20/12
+  number: '12'
+reference: 'Numbers 20:13'

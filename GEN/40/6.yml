@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 40:6" class="v">6</span>And
+  Joseph came in unto them in the morning, and looked upon them, and, behold,
+  they <span class="add">were</span> sad. </p>
+id: GEN/40/6
+next:
+  id: GEN/40/7
+  number: '7'
+previous:
+  id: GEN/40/5
+  number: '5'
+reference: 'Genesis 40:6'

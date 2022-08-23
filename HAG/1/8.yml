@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HAG 1:8" class="v">8</span>Go up
+  to the mountain, and bring wood, and build the house; and I will take pleasure
+  in it, and I will be glorified, saith the <span class="nd">LORD</span>. </p>
+id: HAG/1/8
+next:
+  id: HAG/1/9
+  number: '9'
+previous:
+  id: HAG/1/7
+  number: '7'
+reference: 'Haggai 1:8'

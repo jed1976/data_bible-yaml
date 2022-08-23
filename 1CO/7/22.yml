@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CO 7:22" class="v">22</span>For
+  he that is called in the Lord, <span class="add">being</span> a servant, is
+  the Lord’s freeman: likewise also he that is called, <span
+  class="add">being</span> free, is Christ’s servant. </p>
+id: 1CO/7/22
+next:
+  id: 1CO/7/23
+  number: '23'
+previous:
+  id: 1CO/7/21
+  number: '21'
+reference: '1 Corinthians 7:22'

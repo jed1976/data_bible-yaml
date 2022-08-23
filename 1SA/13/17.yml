@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 13:17" class="v">17</span>¶
+  And the spoilers came out of the camp of the Philistines in three companies:
+  one company turned unto the way <span class="add">that leadeth to</span>
+  Ophrah, unto the land of Shual: </p>
+id: 1SA/13/17
+next:
+  id: 1SA/13/18
+  number: '18'
+previous:
+  id: 1SA/13/16
+  number: '16'
+reference: '1 Samuel 13:17'

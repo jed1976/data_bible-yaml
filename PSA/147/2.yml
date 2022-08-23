@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 147:2" class="v">2</span>The
+  <span class="nd">LORD</span> doth build up Jerusalem: he gathereth together
+  the outcasts of Israel.</p>
+id: PSA/147/2
+next:
+  id: PSA/147/3
+  number: '3'
+previous:
+  id: PSA/147/1
+  number: '1'
+reference: 'Psalms 147:2'

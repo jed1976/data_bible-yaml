@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 9:18" class="v">18</span>¶
+  For wickedness burneth as the fire: it shall devour the briers and thorns, and
+  shall kindle in the thickets of the forest, and they shall mount up <span
+  class="add">like</span> the lifting up of smoke. </p>
+id: ISA/9/18
+next:
+  id: ISA/9/19
+  number: '19'
+previous:
+  id: ISA/9/17
+  number: '17'
+reference: 'Isaiah 9:18'

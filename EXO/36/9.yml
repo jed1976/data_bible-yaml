@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 36:9" class="v">9</span>The
+  length of one curtain <span class="add">was</span> twenty and eight cubits,
+  and the breadth of one curtain four cubits: the curtains <span
+  class="add">were</span> all of one size. </p>
+id: EXO/36/9
+next:
+  id: EXO/36/10
+  number: '10'
+previous:
+  id: EXO/36/8
+  number: '8'
+reference: 'Exodus 36:9'

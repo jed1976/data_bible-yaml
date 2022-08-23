@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 17:1" class="v">1</span>Now
+  when they had passed through Amphipolis and Apollonia, they came to
+  Thessalonica, where was a synagogue of the Jews: </p>
+id: ACT/17/1
+next:
+  id: ACT/17/2
+  number: '2'
+previous:
+  id: ACT/16/40
+  number: '40'
+reference: 'Acts 17:1'

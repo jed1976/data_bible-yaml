@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 7:13"
+  class="v">13</span>Besides the cakes, he shall offer <span
+  class="add">for</span> his offering leavened bread with the sacrifice of
+  thanksgiving of his peace offerings. </p>
+id: LEV/7/13
+next:
+  id: LEV/7/14
+  number: '14'
+previous:
+  id: LEV/7/12
+  number: '12'
+reference: 'Leviticus 7:13'

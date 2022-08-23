@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 51:3" class="v">3</span>For
+  I acknowledge my transgressions: and my sin <span class="add">is</span> ever
+  before me.</p>
+id: PSA/51/3
+next:
+  id: PSA/51/4
+  number: '4'
+previous:
+  id: PSA/51/2
+  number: '2'
+reference: 'Psalms 51:3'

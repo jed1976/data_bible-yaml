@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 18:8" class="v">8</span>The
+  words of a talebearer <span class="add">are</span> as wounds, and they go down
+  into the innermost parts of the belly. </p>
+id: PRO/18/8
+next:
+  id: PRO/18/9
+  number: '9'
+previous:
+  id: PRO/18/7
+  number: '7'
+reference: 'Proverbs 18:8'

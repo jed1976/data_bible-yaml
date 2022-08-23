@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 15:3" class="v">3</span>And
+  Absalom said unto him, See, thy matters <span class="add">are</span> good and
+  right; but <span class="add">there is</span> no man <span
+  class="add">deputed</span> of the king to hear thee. </p>
+id: 2SA/15/3
+next:
+  id: 2SA/15/4
+  number: '4'
+previous:
+  id: 2SA/15/2
+  number: '2'
+reference: '2 Samuel 15:3'

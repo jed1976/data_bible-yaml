@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 17:23" class="v">23</span>¶
+  And when Ahithophel saw that his counsel was not followed, he saddled <span
+  class="add">his</span> ass, and arose, and gat him home to his house, to his
+  city, and put his household in order, and hanged himself, and died, and was
+  buried in the sepulchre of his father. </p>
+id: 2SA/17/23
+next:
+  id: 2SA/17/24
+  number: '24'
+previous:
+  id: 2SA/17/22
+  number: '22'
+reference: '2 Samuel 17:23'

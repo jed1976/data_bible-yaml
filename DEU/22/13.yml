@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 22:13" class="v">13</span>¶
+  If any man take a wife, and go in unto her, and hate her, </p>
+id: DEU/22/13
+next:
+  id: DEU/22/14
+  number: '14'
+previous:
+  id: DEU/22/12
+  number: '12'
+reference: 'Deuteronomy 22:13'

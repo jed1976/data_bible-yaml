@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 8:16" class="v">16</span>And
+  they reasoned among themselves, saying, <span class="add">It is</span> because
+  we have no bread. </p>
+id: MRK/8/16
+next:
+  id: MRK/8/17
+  number: '17'
+previous:
+  id: MRK/8/15
+  number: '15'
+reference: 'Mark 8:16'

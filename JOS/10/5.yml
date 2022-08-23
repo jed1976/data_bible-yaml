@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 10:5"
+  class="v">5</span>Therefore the five kings of the Amorites, the king of
+  Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the
+  king of Eglon, gathered themselves together, and went up, they and all their
+  hosts, and encamped before Gibeon, and made war against it.</p>
+id: JOS/10/5
+next:
+  id: JOS/10/6
+  number: '6'
+previous:
+  id: JOS/10/4
+  number: '4'
+reference: 'Joshua 10:5'

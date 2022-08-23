@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 22:12"
+  class="v">12</span>And one Ananias, a devout man according to the law, having
+  a good report of all the Jews which dwelt <span class="add">there</span>, </p>
+id: ACT/22/12
+next:
+  id: ACT/22/13
+  number: '13'
+previous:
+  id: ACT/22/11
+  number: '11'
+reference: 'Acts 22:12'

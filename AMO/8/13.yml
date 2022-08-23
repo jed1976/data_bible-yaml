@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 8:13" class="v">13</span>In
+  that day shall the fair virgins and young men faint for thirst. </p>
+id: AMO/8/13
+next:
+  id: AMO/8/14
+  number: '14'
+previous:
+  id: AMO/8/12
+  number: '12'
+reference: 'Amos 8:13'

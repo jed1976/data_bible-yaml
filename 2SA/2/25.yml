@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2SA 2:25" class="v">25</span>¶
+  And the children of Benjamin gathered themselves together after Abner, and
+  became one troop, and stood on the top of an hill. </p>
+id: 2SA/2/25
+next:
+  id: 2SA/2/26
+  number: '26'
+previous:
+  id: 2SA/2/24
+  number: '24'
+reference: '2 Samuel 2:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 136:14"
+  class="v">14</span>And made Israel to pass through the midst of it: for his
+  mercy <span class="add">endureth</span> for ever:</p>
+id: PSA/136/14
+next:
+  id: PSA/136/15
+  number: '15'
+previous:
+  id: PSA/136/13
+  number: '13'
+reference: 'Psalms 136:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1KI 20:42"
+  class="v">42</span>And he said unto him, Thus saith the <span
+  class="nd">LORD</span>, Because thou hast let go out of <span
+  class="add">thy</span> hand a man whom I appointed to utter destruction,
+  therefore thy life shall go for his life, and thy people for his people. </p>
+id: 1KI/20/42
+next:
+  id: 1KI/20/43
+  number: '43'
+previous:
+  id: 1KI/20/41
+  number: '41'
+reference: '1 Kings 20:42'

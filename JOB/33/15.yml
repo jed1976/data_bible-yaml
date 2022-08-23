@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 33:15" class="v">15</span>In
+  a dream, in a vision of the night, when deep sleep falleth upon men, in
+  slumberings upon the bed; </p>
+id: JOB/33/15
+next:
+  id: JOB/33/16
+  number: '16'
+previous:
+  id: JOB/33/14
+  number: '14'
+reference: 'Job 33:15'

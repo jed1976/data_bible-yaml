@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 13:5" class="v">5</span>They
+  come from a far country, from the end of heaven, <span class="add">even</span>
+  the <span class="nd">LORD</span>, and the weapons of his indignation, to
+  destroy the whole land.</p>
+id: ISA/13/5
+next:
+  id: ISA/13/6
+  number: '6'
+previous:
+  id: ISA/13/4
+  number: '4'
+reference: 'Isaiah 13:5'

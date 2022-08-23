@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 136:7" class="v">7</span>To
+  him that made great lights: for his mercy <span class="add">endureth</span>
+  for ever:</p>
+id: PSA/136/7
+next:
+  id: PSA/136/8
+  number: '8'
+previous:
+  id: PSA/136/6
+  number: '6'
+reference: 'Psalms 136:7'

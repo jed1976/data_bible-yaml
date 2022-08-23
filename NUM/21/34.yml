@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="NUM 21:34"
+  class="v">34</span>And the <span class="nd">LORD</span> said unto Moses, Fear
+  him not: for I have delivered him into thy hand, and all his people, and his
+  land; and thou shalt do to him as thou didst unto Sihon king of the Amorites,
+  which dwelt at Heshbon. </p>
+id: NUM/21/34
+next:
+  id: NUM/21/35
+  number: '35'
+previous:
+  id: NUM/21/33
+  number: '33'
+reference: 'Numbers 21:34'

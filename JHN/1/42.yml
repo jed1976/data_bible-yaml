@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 1:42" class="v">42</span>And
+  he brought him to Jesus. And when Jesus beheld him, he said, <span
+  class="wj">Thou art Simon the son of Jona: thou shalt be called Cephas,</span>
+  which is by interpretation, A stone.</p>
+id: JHN/1/42
+next:
+  id: JHN/1/43
+  number: '43'
+previous:
+  id: JHN/1/41
+  number: '41'
+reference: 'John 1:42'

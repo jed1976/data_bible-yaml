@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 8:3" class="v">3</span>And
+  gather thou all the congregation together unto the door of the tabernacle of
+  the congregation. </p>
+id: LEV/8/3
+next:
+  id: LEV/8/4
+  number: '4'
+previous:
+  id: LEV/8/2
+  number: '2'
+reference: 'Leviticus 8:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 16:16"
+  class="v">16</span>And Moses said unto Korah, Be thou and all thy company
+  before the <span class="nd">LORD</span>, thou, and they, and Aaron, to morrow:
+  </p>
+id: NUM/16/16
+next:
+  id: NUM/16/17
+  number: '17'
+previous:
+  id: NUM/16/15
+  number: '15'
+reference: 'Numbers 16:16'

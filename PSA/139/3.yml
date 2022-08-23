@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 139:3"
+  class="v">3</span>Thou compassest my path and my lying down, and art
+  acquainted <span class="add">with</span> all my ways.</p>
+id: PSA/139/3
+next:
+  id: PSA/139/4
+  number: '4'
+previous:
+  id: PSA/139/2
+  number: '2'
+reference: 'Psalms 139:3'

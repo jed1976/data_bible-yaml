@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 13:20" class="v">20</span>He
+  that walketh with wise <span class="add">men</span> shall be wise: but a
+  companion of fools shall be destroyed. </p>
+id: PRO/13/20
+next:
+  id: PRO/13/21
+  number: '21'
+previous:
+  id: PRO/13/19
+  number: '19'
+reference: 'Proverbs 13:20'

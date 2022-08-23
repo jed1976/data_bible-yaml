@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 14:14"
+  class="v">14</span>And they will tell <span class="add">it</span> to the
+  inhabitants of this land: <span class="add">for</span> they have heard that
+  thou <span class="nd">LORD</span> <span class="add">art</span> among this
+  people, that thou <span class="nd">LORD</span> art seen face to face, and
+  <span class="add">that</span> thy cloud standeth over them, and <span
+  class="add">that</span> thou goest before them, by day time in a pillar of a
+  cloud, and in a pillar of fire by night.</p>
+id: NUM/14/14
+next:
+  id: NUM/14/15
+  number: '15'
+previous:
+  id: NUM/14/13
+  number: '13'
+reference: 'Numbers 14:14'

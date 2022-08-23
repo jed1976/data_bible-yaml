@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 1:13" class="v">13</span>And
+  I gave my heart to seek and search out by wisdom concerning all <span
+  class="add">things</span> that are done under heaven: this sore travail hath
+  God given to the sons of man to be exercised therewith. </p>
+id: ECC/1/13
+next:
+  id: ECC/1/14
+  number: '14'
+previous:
+  id: ECC/1/12
+  number: '12'
+reference: 'Ecclesiastes 1:13'

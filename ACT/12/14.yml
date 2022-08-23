@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 12:14"
+  class="v">14</span>And when she knew Peter’s voice, she opened not the gate
+  for gladness, but ran in, and told how Peter stood before the gate. </p>
+id: ACT/12/14
+next:
+  id: ACT/12/15
+  number: '15'
+previous:
+  id: ACT/12/13
+  number: '13'
+reference: 'Acts 12:14'

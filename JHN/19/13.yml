@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 19:13" class="v">13</span>¶
+  When Pilate therefore heard that saying, he brought Jesus forth, and sat down
+  in the judgment seat in a place that is called the Pavement, but in the
+  Hebrew, Gabbatha. </p>
+id: JHN/19/13
+next:
+  id: JHN/19/14
+  number: '14'
+previous:
+  id: JHN/19/12
+  number: '12'
+reference: 'John 19:13'

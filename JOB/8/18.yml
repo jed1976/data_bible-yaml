@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 8:18" class="v">18</span>If
+  he destroy him from his place, then <span class="add">it</span> shall deny
+  him, <span class="add">saying</span>, I have not seen thee. </p>
+id: JOB/8/18
+next:
+  id: JOB/8/19
+  number: '19'
+previous:
+  id: JOB/8/17
+  number: '17'
+reference: 'Job 8:18'

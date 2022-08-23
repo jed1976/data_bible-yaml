@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 3:8" class="v">8</span>And he
+  made the most holy house, the length whereof <span class="add">was</span>
+  according to the breadth of the house, twenty cubits, and the breadth thereof
+  twenty cubits: and he overlaid it with fine gold, <span
+  class="add">amounting</span> to six hundred talents. </p>
+id: 2CH/3/8
+next:
+  id: 2CH/3/9
+  number: '9'
+previous:
+  id: 2CH/3/7
+  number: '7'
+reference: '2 Chronicles 3:8'

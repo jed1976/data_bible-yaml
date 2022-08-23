@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 3:13" class="v">13</span>And
+  Moses said unto God, Behold, <span class="add">when</span> I come unto the
+  children of Israel, and shall say unto them, The God of your fathers hath sent
+  me unto you; and they shall say to me, What <span class="add">is</span> his
+  name? what shall I say unto them? </p>
+id: EXO/3/13
+next:
+  id: EXO/3/14
+  number: '14'
+previous:
+  id: EXO/3/12
+  number: '12'
+reference: 'Exodus 3:13'

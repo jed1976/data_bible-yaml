@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 3:7" class="v">7</span>Behold
+  his bed, which <span class="add">is</span> Solomon’s; threescore valiant men
+  <span class="add">are</span> about it, of the valiant of Israel. </p>
+id: SNG/3/7
+next:
+  id: SNG/3/8
+  number: '8'
+previous:
+  id: SNG/3/6
+  number: '6'
+reference: 'Song of Solomon 3:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 19:1" class="v">1</span>And
+  Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.
+  </p>
+id: 2CH/19/1
+next:
+  id: 2CH/19/2
+  number: '2'
+previous:
+  id: 2CH/18/34
+  number: '34'
+reference: '2 Chronicles 19:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 4:16" class="v">16</span>For
+  they sleep not, except they have done mischief; and their sleep is taken away,
+  unless they cause <span class="add">some</span> to fall. </p>
+id: PRO/4/16
+next:
+  id: PRO/4/17
+  number: '17'
+previous:
+  id: PRO/4/15
+  number: '15'
+reference: 'Proverbs 4:16'

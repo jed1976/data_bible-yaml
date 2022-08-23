@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LUK 9:43" class="v">43</span>¶
+  And they were all amazed at the mighty power of God. But while they wondered
+  every one at all things which Jesus did, he said unto his disciples, </p>
+id: LUK/9/43
+next:
+  id: LUK/9/44
+  number: '44'
+previous:
+  id: LUK/9/42
+  number: '42'
+reference: 'Luke 9:43'

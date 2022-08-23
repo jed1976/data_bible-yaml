@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 4:6" class="v">6</span>And
+  before the throne <span class="add">there was</span> a sea of glass like unto
+  crystal: and in the midst of the throne, and round about the throne, <span
+  class="add">were</span> four beasts full of eyes before and behind. </p>
+id: REV/4/6
+next:
+  id: REV/4/7
+  number: '7'
+previous:
+  id: REV/4/5
+  number: '5'
+reference: 'Revelation 4:6'

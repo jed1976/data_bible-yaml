@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 18:12"
+  class="v">12</span>At the brightness <span class="add">that was</span> before
+  him his thick clouds passed, hail <span class="add">stones</span> and coals of
+  fire.</p>
+id: PSA/18/12
+next:
+  id: PSA/18/13
+  number: '13'
+previous:
+  id: PSA/18/11
+  number: '11'
+reference: 'Psalms 18:12'

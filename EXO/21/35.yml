@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 21:35" class="v">35</span>¶
+  And if one man’s ox hurt another’s, that he die; then they shall sell the live
+  ox, and divide the money of it; and the dead <span class="add">ox</span> also
+  they shall divide. </p>
+id: EXO/21/35
+next:
+  id: EXO/21/36
+  number: '36'
+previous:
+  id: EXO/21/34
+  number: '34'
+reference: 'Exodus 21:35'

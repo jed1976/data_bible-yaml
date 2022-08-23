@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 18:11"
+  class="v">11</span>And the king of Assyria did carry away Israel unto Assyria,
+  and put them in Halah and in Habor <span class="add">by</span> the river of
+  Gozan, and in the cities of the Medes: </p>
+id: 2KI/18/11
+next:
+  id: 2KI/18/12
+  number: '12'
+previous:
+  id: 2KI/18/10
+  number: '10'
+reference: '2 Kings 18:11'

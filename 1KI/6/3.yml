@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 6:3" class="v">3</span>And
+  the porch before the temple of the house, twenty cubits <span
+  class="add">was</span> the length thereof, according to the breadth of the
+  house; <span class="add">and</span> ten cubits <span class="add">was</span>
+  the breadth thereof before the house. </p>
+id: 1KI/6/3
+next:
+  id: 1KI/6/4
+  number: '4'
+previous:
+  id: 1KI/6/2
+  number: '2'
+reference: '1 Kings 6:3'

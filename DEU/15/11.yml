@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 15:11"
+  class="v">11</span>For the poor shall never cease out of the land: therefore I
+  command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy
+  poor, and to thy needy, in thy land.</p>
+id: DEU/15/11
+next:
+  id: DEU/15/12
+  number: '12'
+previous:
+  id: DEU/15/10
+  number: '10'
+reference: 'Deuteronomy 15:11'

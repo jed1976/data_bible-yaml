@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 21:26"
+  class="v">26</span>And Abimelech said, I wot not who hath done this thing:
+  neither didst thou tell me, neither yet heard I <span class="add">of
+  it</span>, but to day. </p>
+id: GEN/21/26
+next:
+  id: GEN/21/27
+  number: '27'
+previous:
+  id: GEN/21/25
+  number: '25'
+reference: 'Genesis 21:26'

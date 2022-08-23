@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 12:1"
+  class="v">1</span>Ephraim feedeth on wind, and followeth after the east wind:
+  he daily increaseth lies and desolation; and they do make a covenant with the
+  Assyrians, and oil is carried into Egypt. </p>
+id: HOS/12/1
+next:
+  id: HOS/12/2
+  number: '2'
+previous:
+  id: HOS/11/12
+  number: '12'
+reference: 'Hosea 12:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 25:7"
+  class="v">7</span>Remember not the sins of my youth, nor my transgressions:
+  according to thy mercy remember thou me for thy goodness’ sake, O <span
+  class="nd">LORD</span>.</p>
+id: PSA/25/7
+next:
+  id: PSA/25/8
+  number: '8'
+previous:
+  id: PSA/25/6
+  number: '6'
+reference: 'Psalms 25:7'

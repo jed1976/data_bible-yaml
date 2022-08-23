@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 12:11" class="v">11</span>¶
+  And thus shall ye eat it; <span class="add">with</span> your loins girded,
+  your shoes on your feet, and your staff in your hand; and ye shall eat it in
+  haste: it <span class="add">is</span> the <span class="nd">LORD’s</span>
+  passover. </p>
+id: EXO/12/11
+next:
+  id: EXO/12/12
+  number: '12'
+previous:
+  id: EXO/12/10
+  number: '10'
+reference: 'Exodus 12:11'

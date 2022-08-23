@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 17:14" class="v">14</span>I
+  have said to corruption, Thou <span class="add">art</span> my father: to the
+  worm, <span class="add">Thou art</span> my mother, and my sister. </p>
+id: JOB/17/14
+next:
+  id: JOB/17/15
+  number: '15'
+previous:
+  id: JOB/17/13
+  number: '13'
+reference: 'Job 17:14'

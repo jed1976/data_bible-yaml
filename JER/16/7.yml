@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 16:7"
+  class="v">7</span>Neither shall <span class="add">men</span> tear <span
+  class="add">themselves</span> for them in mourning, to comfort them for the
+  dead; neither shall <span class="add">men</span> give them the cup of
+  consolation to drink for their father or for their mother. </p>
+id: JER/16/7
+next:
+  id: JER/16/8
+  number: '8'
+previous:
+  id: JER/16/6
+  number: '6'
+reference: 'Jeremiah 16:7'

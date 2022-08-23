@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 107:3" class="v">3</span>And
+  gathered them out of the lands, from the east, and from the west, from the
+  north, and from the south.</p>
+id: PSA/107/3
+next:
+  id: PSA/107/4
+  number: '4'
+previous:
+  id: PSA/107/2
+  number: '2'
+reference: 'Psalms 107:3'

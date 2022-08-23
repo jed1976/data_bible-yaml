@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 5:17" class="v">17</span>And
+  all the days of Mahalaleel were eight hundred ninety and five years: and he
+  died.</p>
+id: GEN/5/17
+next:
+  id: GEN/5/18
+  number: '18'
+previous:
+  id: GEN/5/16
+  number: '16'
+reference: 'Genesis 5:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 10:17"
+  class="v">17</span>For the <span class="nd">LORD</span> your God <span
+  class="add">is</span> God of gods, and Lord of lords, a great God, a mighty,
+  and a terrible, which regardeth not persons, nor taketh reward: </p>
+id: DEU/10/17
+next:
+  id: DEU/10/18
+  number: '18'
+previous:
+  id: DEU/10/16
+  number: '16'
+reference: 'Deuteronomy 10:17'

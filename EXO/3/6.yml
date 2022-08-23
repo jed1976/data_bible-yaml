@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 3:6"
+  class="v">6</span>Moreover he said, I <span class="add">am</span> the God of
+  thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And
+  Moses hid his face; for he was afraid to look upon God.</p>
+id: EXO/3/6
+next:
+  id: EXO/3/7
+  number: '7'
+previous:
+  id: EXO/3/5
+  number: '5'
+reference: 'Exodus 3:6'

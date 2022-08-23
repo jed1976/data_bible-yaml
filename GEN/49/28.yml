@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 49:28" class="v">28</span>¶
+  All these <span class="add">are</span> the twelve tribes of Israel: and this
+  <span class="add">is it</span> that their father spake unto them, and blessed
+  them; every one according to his blessing he blessed them. </p>
+id: GEN/49/28
+next:
+  id: GEN/49/29
+  number: '29'
+previous:
+  id: GEN/49/27
+  number: '27'
+reference: 'Genesis 49:28'

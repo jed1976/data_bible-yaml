@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 13:4" class="v">4</span>Lest
+  mine enemy say, I have prevailed against him; <span class="add">and</span>
+  those that trouble me rejoice when I am moved.</p>
+id: PSA/13/4
+next:
+  id: PSA/13/5
+  number: '5'
+previous:
+  id: PSA/13/3
+  number: '3'
+reference: 'Psalms 13:4'

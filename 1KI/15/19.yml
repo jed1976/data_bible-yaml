@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1KI 15:19"
+  class="v">19</span><span class="add">There is</span> a league between me and
+  thee, <span class="add">and</span> between my father and thy father: behold, I
+  have sent unto thee a present of silver and gold; come and break thy league
+  with Baasha king of Israel, that he may depart from me. </p>
+id: 1KI/15/19
+next:
+  id: 1KI/15/20
+  number: '20'
+previous:
+  id: 1KI/15/18
+  number: '18'
+reference: '1 Kings 15:19'

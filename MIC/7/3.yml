@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MIC 7:3" class="v">3</span>¶ That
+  they may do evil with both hands earnestly, the prince asketh, and the judge
+  <span class="add">asketh</span> for a reward; and the great <span
+  class="add">man</span>, he uttereth his mischievous desire: so they wrap it
+  up. </p>
+id: MIC/7/3
+next:
+  id: MIC/7/4
+  number: '4'
+previous:
+  id: MIC/7/2
+  number: '2'
+reference: 'Micah 7:3'

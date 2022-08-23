@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 26:27"
+  class="v">27</span>King Agrippa, believest thou the prophets? I know that thou
+  believest. </p>
+id: ACT/26/27
+next:
+  id: ACT/26/28
+  number: '28'
+previous:
+  id: ACT/26/26
+  number: '26'
+reference: 'Acts 26:27'

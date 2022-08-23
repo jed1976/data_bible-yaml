@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 18:1" class="v">1</span>And
+  the <span class="nd">LORD</span> said unto Aaron, Thou and thy sons and thy
+  father’s house with thee shall bear the iniquity of the sanctuary: and thou
+  and thy sons with thee shall bear the iniquity of your priesthood. </p>
+id: NUM/18/1
+next:
+  id: NUM/18/2
+  number: '2'
+previous:
+  id: NUM/17/13
+  number: '13'
+reference: 'Numbers 18:1'

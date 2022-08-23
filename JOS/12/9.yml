@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 12:9" class="v">9</span>¶ The
+  king of Jericho, one; the king of Ai, which <span class="add">is</span> beside
+  Beth-el, one; </p>
+id: JOS/12/9
+next:
+  id: JOS/12/10
+  number: '10'
+previous:
+  id: JOS/12/8
+  number: '8'
+reference: 'Joshua 12:9'

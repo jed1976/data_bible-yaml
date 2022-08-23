@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 17:12"
+  class="v">12</span>And the children of Israel spake unto Moses, saying,
+  Behold, we die, we perish, we all perish. </p>
+id: NUM/17/12
+next:
+  id: NUM/17/13
+  number: '13'
+previous:
+  id: NUM/17/11
+  number: '11'
+reference: 'Numbers 17:12'

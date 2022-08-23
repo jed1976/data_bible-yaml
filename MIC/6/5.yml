@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 6:5" class="v">5</span>O my
+  people, remember now what Balak king of Moab consulted, and what Balaam the
+  son of Beor answered him from Shittim unto Gilgal; that ye may know the
+  righteousness of the <span class="nd">LORD</span>.</p>
+id: MIC/6/5
+next:
+  id: MIC/6/6
+  number: '6'
+previous:
+  id: MIC/6/4
+  number: '4'
+reference: 'Micah 6:5'

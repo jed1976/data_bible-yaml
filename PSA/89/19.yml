@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="19" data-sid="PSA 89:19"
+  class="v">19</span>Then thou spakest in vision to thy holy one, and saidst, I
+  have laid help upon <span class="add">one that is</span> mighty; I have
+  exalted <span class="add">one</span> chosen out of the people.</p>
+id: PSA/89/19
+next:
+  id: PSA/89/20
+  number: '20'
+previous:
+  id: PSA/89/18
+  number: '18'
+reference: 'Psalms 89:19'

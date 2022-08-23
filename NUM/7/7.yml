@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 7:7" class="v">7</span>Two
+  wagons and four oxen he gave unto the sons of Gershon, according to their
+  service: </p>
+id: NUM/7/7
+next:
+  id: NUM/7/8
+  number: '8'
+previous:
+  id: NUM/7/6
+  number: '6'
+reference: 'Numbers 7:7'

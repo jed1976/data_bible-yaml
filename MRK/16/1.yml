@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 16:1" class="v">1</span>And
+  when the sabbath was past, Mary Magdalene, and Mary the <span
+  class="add">mother</span> of James, and Salome, had bought sweet spices, that
+  they might come and anoint him. </p>
+id: MRK/16/1
+next:
+  id: MRK/16/2
+  number: '2'
+previous:
+  id: MRK/15/47
+  number: '47'
+reference: 'Mark 16:1'

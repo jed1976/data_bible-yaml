@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 34:14"
+  class="v">14</span>For the tribe of the children of Reuben according to the
+  house of their fathers, and the tribe of the children of Gad according to the
+  house of their fathers, have received <span class="add">their
+  inheritance;</span> and half the tribe of Manasseh have received their
+  inheritance: </p>
+id: NUM/34/14
+next:
+  id: NUM/34/15
+  number: '15'
+previous:
+  id: NUM/34/13
+  number: '13'
+reference: 'Numbers 34:14'

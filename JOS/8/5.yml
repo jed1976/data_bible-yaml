@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 8:5" class="v">5</span>And I,
+  and all the people that <span class="add">are</span> with me, will approach
+  unto the city: and it shall come to pass, when they come out against us, as at
+  the first, that we will flee before them, </p>
+id: JOS/8/5
+next:
+  id: JOS/8/6
+  number: '6'
+previous:
+  id: JOS/8/4
+  number: '4'
+reference: 'Joshua 8:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOB 34:33"
+  class="v">33</span><span class="add">Should it be</span> according to thy
+  mind? he will recompense it, whether thou refuse, or whether thou choose; and
+  not I: therefore speak what thou knowest. </p>
+id: JOB/34/33
+next:
+  id: JOB/34/34
+  number: '34'
+previous:
+  id: JOB/34/32
+  number: '32'
+reference: 'Job 34:33'

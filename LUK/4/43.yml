@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LUK 4:43" class="v">43</span>And
+  he said unto them, <span class="wj">I must preach the kingdom of God to other
+  cities also: for therefore am I sent.</span> </p>
+id: LUK/4/43
+next:
+  id: LUK/4/44
+  number: '44'
+previous:
+  id: LUK/4/42
+  number: '42'
+reference: 'Luke 4:43'

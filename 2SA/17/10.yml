@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 17:10"
+  class="v">10</span>And he also <span class="add">that is</span> valiant, whose
+  heart <span class="add">is</span> as the heart of a lion, shall utterly melt:
+  for all Israel knoweth that thy father <span class="add">is</span> a mighty
+  man, and <span class="add">they</span> which <span class="add">be</span> with
+  him <span class="add">are</span> valiant men. </p>
+id: 2SA/17/10
+next:
+  id: 2SA/17/11
+  number: '11'
+previous:
+  id: 2SA/17/9
+  number: '9'
+reference: '2 Samuel 17:10'

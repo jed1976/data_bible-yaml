@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 29:7" class="v">7</span>When
+  I went out to the gate through the city, <span class="add">when</span> I
+  prepared my seat in the street! </p>
+id: JOB/29/7
+next:
+  id: JOB/29/8
+  number: '8'
+previous:
+  id: JOB/29/6
+  number: '6'
+reference: 'Job 29:7'

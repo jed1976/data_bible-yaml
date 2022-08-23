@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 6:22" class="v">22</span>Did
+  I say, Bring unto me? or, Give a reward for me of your substance? </p>
+id: JOB/6/22
+next:
+  id: JOB/6/23
+  number: '23'
+previous:
+  id: JOB/6/21
+  number: '21'
+reference: 'Job 6:22'

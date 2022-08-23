@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 14:3" class="v">3</span>And
+  dost thou open thine eyes upon such an one, and bringest me into judgment with
+  thee? </p>
+id: JOB/14/3
+next:
+  id: JOB/14/4
+  number: '4'
+previous:
+  id: JOB/14/2
+  number: '2'
+reference: 'Job 14:3'

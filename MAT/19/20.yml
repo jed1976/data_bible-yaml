@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 19:20"
+  class="v">20</span>The young man saith unto him, All these things have I kept
+  from my youth up: what lack I yet? </p>
+id: MAT/19/20
+next:
+  id: MAT/19/21
+  number: '21'
+previous:
+  id: MAT/19/19
+  number: '19'
+reference: 'Matthew 19:20'

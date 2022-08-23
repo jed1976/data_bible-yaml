@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 6:11" class="v">11</span>So
+  shall thy poverty come as one that travelleth, and thy want as an armed
+  man.</p>
+id: PRO/6/11
+next:
+  id: PRO/6/12
+  number: '12'
+previous:
+  id: PRO/6/10
+  number: '10'
+reference: 'Proverbs 6:11'

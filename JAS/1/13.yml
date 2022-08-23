@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JAS 1:13" class="v">13</span>Let
+  no man say when he is tempted, I am tempted of God: for God cannot be tempted
+  with evil, neither tempteth he any man: </p>
+id: JAS/1/13
+next:
+  id: JAS/1/14
+  number: '14'
+previous:
+  id: JAS/1/12
+  number: '12'
+reference: 'James 1:13'

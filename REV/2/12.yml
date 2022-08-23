@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="REV 2:12"
+  class="v">12</span><span class="wj">And to the angel of the church in Pergamos
+  write; These things saith he which hath the sharp sword with two edges;</span>
+  </p>
+id: REV/2/12
+next:
+  id: REV/2/13
+  number: '13'
+previous:
+  id: REV/2/11
+  number: '11'
+reference: 'Revelation 2:12'

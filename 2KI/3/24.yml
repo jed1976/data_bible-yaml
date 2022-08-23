@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2KI 3:24" class="v">24</span>And
+  when they came to the camp of Israel, the Israelites rose up and smote the
+  Moabites, so that they fled before them: but they went forward smiting the
+  Moabites, even in <span class="add">their</span> country. </p>
+id: 2KI/3/24
+next:
+  id: 2KI/3/25
+  number: '25'
+previous:
+  id: 2KI/3/23
+  number: '23'
+reference: '2 Kings 3:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 29:32" class="v">32</span>¶
+  And on the seventh day seven bullocks, two rams, <span class="add">and</span>
+  fourteen lambs of the first year without blemish: </p>
+id: NUM/29/32
+next:
+  id: NUM/29/33
+  number: '33'
+previous:
+  id: NUM/29/31
+  number: '31'
+reference: 'Numbers 29:32'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 46:23"
+  class="v">23</span>And <span class="add">there was</span> a row <span
+  class="add">of building</span> round about in them, round about them four, and
+  <span class="add">it was</span> made with boiling places under the rows round
+  about. </p>
+id: EZK/46/23
+next:
+  id: EZK/46/24
+  number: '24'
+previous:
+  id: EZK/46/22
+  number: '22'
+reference: 'Ezekiel 46:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 13:3" class="v">3</span>And
+  the angel of the <span class="nd">LORD</span> appeared unto the woman, and
+  said unto her, Behold now, thou <span class="add">art</span> barren, and
+  bearest not: but thou shalt conceive, and bear a son. </p>
+id: JDG/13/3
+next:
+  id: JDG/13/4
+  number: '4'
+previous:
+  id: JDG/13/2
+  number: '2'
+reference: 'Judges 13:3'

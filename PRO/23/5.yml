@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 23:5" class="v">5</span>Wilt
+  thou set thine eyes upon that which is not? for <span
+  class="add">riches</span> certainly make themselves wings; they fly away as an
+  eagle toward heaven.</p>
+id: PRO/23/5
+next:
+  id: PRO/23/6
+  number: '6'
+previous:
+  id: PRO/23/4
+  number: '4'
+reference: 'Proverbs 23:5'

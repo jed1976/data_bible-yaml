@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="2SA 3:34" class="v">34</span>Thy
+  hands <span class="add">were</span> not bound, nor thy feet put into fetters:
+  as a man falleth before wicked men, <span class="add">so</span> fellest thou.
+  And all the people wept again over him. </p>
+id: 2SA/3/34
+next:
+  id: 2SA/3/35
+  number: '35'
+previous:
+  id: 2SA/3/33
+  number: '33'
+reference: '2 Samuel 3:34'

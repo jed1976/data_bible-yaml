@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 6:15"
+  class="v">15</span>Therefore shall his calamity come suddenly; suddenly shall
+  he be broken without remedy.</p>
+id: PRO/6/15
+next:
+  id: PRO/6/16
+  number: '16'
+previous:
+  id: PRO/6/14
+  number: '14'
+reference: 'Proverbs 6:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 9:5" class="v">5</span>And
+  they kept the passover on the fourteenth day of the first month at even in the
+  wilderness of Sinai: according to all that the <span class="nd">LORD</span>
+  commanded Moses, so did the children of Israel.</p>
+id: NUM/9/5
+next:
+  id: NUM/9/6
+  number: '6'
+previous:
+  id: NUM/9/4
+  number: '4'
+reference: 'Numbers 9:5'

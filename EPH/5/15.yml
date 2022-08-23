@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EPH 5:15" class="v">15</span>See
+  then that ye walk circumspectly, not as fools, but as wise, </p>
+id: EPH/5/15
+next:
+  id: EPH/5/16
+  number: '16'
+previous:
+  id: EPH/5/14
+  number: '14'
+reference: 'Ephesians 5:15'

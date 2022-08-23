@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 14:21" class="v">21</span>¶
+  Ye shall not eat <span class="add">of</span> any thing that dieth of itself:
+  thou shalt give it unto the stranger that <span class="add">is</span> in thy
+  gates, that he may eat it; or thou mayest sell it unto an alien: for thou
+  <span class="add">art</span> an holy people unto the <span
+  class="nd">LORD</span> thy God. Thou shalt not seethe a kid in his mother’s
+  milk.</p>
+id: DEU/14/21
+next:
+  id: DEU/14/22
+  number: '22'
+previous:
+  id: DEU/14/20
+  number: '20'
+reference: 'Deuteronomy 14:21'

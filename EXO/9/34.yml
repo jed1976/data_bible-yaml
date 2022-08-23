@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 9:34" class="v">34</span>And
+  when Pharaoh saw that the rain and the hail and the thunders were ceased, he
+  sinned yet more, and hardened his heart, he and his servants. </p>
+id: EXO/9/34
+next:
+  id: EXO/9/35
+  number: '35'
+previous:
+  id: EXO/9/33
+  number: '33'
+reference: 'Exodus 9:34'

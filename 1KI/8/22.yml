@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 8:22" class="v">22</span>¶
+  And Solomon stood before the altar of the <span class="nd">LORD</span> in the
+  presence of all the congregation of Israel, and spread forth his hands toward
+  heaven: </p>
+id: 1KI/8/22
+next:
+  id: 1KI/8/23
+  number: '23'
+previous:
+  id: 1KI/8/21
+  number: '21'
+reference: '1 Kings 8:22'

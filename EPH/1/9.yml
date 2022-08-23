@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EPH 1:9" class="v">9</span>Having
+  made known unto us the mystery of his will, according to his good pleasure
+  which he hath purposed in himself: </p>
+id: EPH/1/9
+next:
+  id: EPH/1/10
+  number: '10'
+previous:
+  id: EPH/1/8
+  number: '8'
+reference: 'Ephesians 1:9'

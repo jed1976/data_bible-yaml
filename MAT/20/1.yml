@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 20:1" class="v">1</span><span
+  class="wj">For the kingdom of heaven is like unto a man <span class="add">that
+  is</span> an householder, which went out early in the morning to hire
+  labourers into his vineyard.</span> </p>
+id: MAT/20/1
+next:
+  id: MAT/20/2
+  number: '2'
+previous:
+  id: MAT/19/30
+  number: '30'
+reference: 'Matthew 20:1'

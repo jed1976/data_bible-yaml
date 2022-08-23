@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 17:7" class="v">7</span>Whom
+  Jason hath received: and these all do contrary to the decrees of Cæsar, saying
+  that there is another king, <span class="add">one</span> Jesus. </p>
+id: ACT/17/7
+next:
+  id: ACT/17/8
+  number: '8'
+previous:
+  id: ACT/17/6
+  number: '6'
+reference: 'Acts 17:7'

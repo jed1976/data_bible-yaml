@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 57:3" class="v">3</span>¶ But
+  draw near hither, ye sons of the sorceress, the seed of the adulterer and the
+  whore. </p>
+id: ISA/57/3
+next:
+  id: ISA/57/4
+  number: '4'
+previous:
+  id: ISA/57/2
+  number: '2'
+reference: 'Isaiah 57:3'

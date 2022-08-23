@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JDG 7:6" class="v">6</span>And
+  the number of them that lapped, <span class="add">putting</span> their hand to
+  their mouth, were three hundred men: but all the rest of the people bowed down
+  upon their knees to drink water. </p>
+id: JDG/7/6
+next:
+  id: JDG/7/7
+  number: '7'
+previous:
+  id: JDG/7/5
+  number: '5'
+reference: 'Judges 7:6'

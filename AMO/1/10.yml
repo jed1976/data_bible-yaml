@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 1:10" class="v">10</span>But
+  I will send a fire on the wall of Tyrus, which shall devour the palaces
+  thereof.</p>
+id: AMO/1/10
+next:
+  id: AMO/1/11
+  number: '11'
+previous:
+  id: AMO/1/9
+  number: '9'
+reference: 'Amos 1:10'

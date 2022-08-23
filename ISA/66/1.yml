@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 66:1" class="v">1</span>Thus
+  saith the <span class="nd">LORD</span>, The heaven <span class="add">is</span>
+  my throne, and the earth <span class="add">is</span> my footstool: where <span
+  class="add">is</span> the house that ye build unto me? and where <span
+  class="add">is</span> the place of my rest? </p>
+id: ISA/66/1
+next:
+  id: ISA/66/2
+  number: '2'
+previous:
+  id: ISA/65/25
+  number: '25'
+reference: 'Isaiah 66:1'

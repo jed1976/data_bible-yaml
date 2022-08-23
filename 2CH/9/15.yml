@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 9:15" class="v">15</span>¶
+  And king Solomon made two hundred targets <span class="add">of</span> beaten
+  gold: six hundred <span class="add">shekels</span> of beaten gold went to one
+  target. </p>
+id: 2CH/9/15
+next:
+  id: 2CH/9/16
+  number: '16'
+previous:
+  id: 2CH/9/14
+  number: '14'
+reference: '2 Chronicles 9:15'

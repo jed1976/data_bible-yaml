@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 36:22"
+  class="v">22</span>Now the king sat in the winterhouse in the ninth month: and
+  <span class="add">there was a fire</span> on the hearth burning before him.
+  </p>
+id: JER/36/22
+next:
+  id: JER/36/23
+  number: '23'
+previous:
+  id: JER/36/21
+  number: '21'
+reference: 'Jeremiah 36:22'

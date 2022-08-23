@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 18:23"
+  class="v">23</span>And after he had spent some time <span
+  class="add">there</span>, he departed, and went over <span
+  class="add">all</span> the country of Galatia and Phrygia in order,
+  strengthening all the disciples.</p>
+id: ACT/18/23
+next:
+  id: ACT/18/24
+  number: '24'
+previous:
+  id: ACT/18/22
+  number: '22'
+reference: 'Acts 18:23'

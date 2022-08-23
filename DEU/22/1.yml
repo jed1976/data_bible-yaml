@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 22:1" class="v">1</span>Thou
+  shalt not see thy brother’s ox or his sheep go astray, and hide thyself from
+  them: thou shalt in any case bring them again unto thy brother. </p>
+id: DEU/22/1
+next:
+  id: DEU/22/2
+  number: '2'
+previous:
+  id: DEU/21/23
+  number: '23'
+reference: 'Deuteronomy 22:1'

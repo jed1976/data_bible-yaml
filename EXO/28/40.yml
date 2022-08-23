@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="EXO 28:40" class="v">40</span>¶
+  And for Aaron’s sons thou shalt make coats, and thou shalt make for them
+  girdles, and bonnets shalt thou make for them, for glory and for beauty. </p>
+id: EXO/28/40
+next:
+  id: EXO/28/41
+  number: '41'
+previous:
+  id: EXO/28/39
+  number: '39'
+reference: 'Exodus 28:40'

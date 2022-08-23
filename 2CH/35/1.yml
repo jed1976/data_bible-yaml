@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 35:1"
+  class="v">1</span>Moreover Josiah kept a passover unto the <span
+  class="nd">LORD</span> in Jerusalem: and they killed the passover on the
+  fourteenth <span class="add">day</span> of the first month. </p>
+id: 2CH/35/1
+next:
+  id: 2CH/35/2
+  number: '2'
+previous:
+  id: 2CH/34/33
+  number: '33'
+reference: '2 Chronicles 35:1'

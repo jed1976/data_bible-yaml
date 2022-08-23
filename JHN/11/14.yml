@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 11:14"
+  class="v">14</span>Then said Jesus unto them plainly, <span class="wj">Lazarus
+  is dead.</span> </p>
+id: JHN/11/14
+next:
+  id: JHN/11/15
+  number: '15'
+previous:
+  id: JHN/11/13
+  number: '13'
+reference: 'John 11:14'

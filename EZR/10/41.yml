@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="EZR 10:41"
+  class="v">41</span>Azareel, and Shelemiah, Shemariah, </p>
+id: EZR/10/41
+next:
+  id: EZR/10/42
+  number: '42'
+previous:
+  id: EZR/10/40
+  number: '40'
+reference: 'Ezra 10:41'

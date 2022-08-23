@@ -1,0 +1,9 @@
+content: <p class="mt1">Zephaniah</p>
+id: ZEP/intro/0
+next:
+  id: ZEP/1/1
+  number: '1'
+previous:
+  id: HAB/3/19
+  number: '19'
+reference: Zephaniah

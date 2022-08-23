@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 10:4" class="v">4</span>And
+  if they blow <span class="add">but</span> with one <span
+  class="add">trumpet</span>, then the princes, <span class="add">which
+  are</span> heads of the thousands of Israel, shall gather themselves unto
+  thee. </p>
+id: NUM/10/4
+next:
+  id: NUM/10/5
+  number: '5'
+previous:
+  id: NUM/10/3
+  number: '3'
+reference: 'Numbers 10:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HAB 1:11"
+  class="v">11</span>Then shall <span class="add">his</span> mind change, and he
+  shall pass over, and offend, <span class="add">imputing</span> this his power
+  unto his god.</p>
+id: HAB/1/11
+next:
+  id: HAB/1/12
+  number: '12'
+previous:
+  id: HAB/1/10
+  number: '10'
+reference: 'Habakkuk 1:11'

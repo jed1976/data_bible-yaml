@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="HOS 2:18" class="v">18</span>And
+  in that day will I make a covenant for them with the beasts of the field, and
+  with the fowls of heaven, and <span class="add">with</span> the creeping
+  things of the ground: and I will break the bow and the sword and the battle
+  out of the earth, and will make them to lie down safely. </p>
+id: HOS/2/18
+next:
+  id: HOS/2/19
+  number: '19'
+previous:
+  id: HOS/2/17
+  number: '17'
+reference: 'Hosea 2:18'

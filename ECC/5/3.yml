@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 5:3" class="v">3</span>For a
+  dream cometh through the multitude of business; and a fool’s voice <span
+  class="add">is known</span> by multitude of words.</p>
+id: ECC/5/3
+next:
+  id: ECC/5/4
+  number: '4'
+previous:
+  id: ECC/5/2
+  number: '2'
+reference: 'Ecclesiastes 5:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 1:21" class="v">21</span>And
+  the people waited for Zacharias, and marvelled that he tarried so long in the
+  temple. </p>
+id: LUK/1/21
+next:
+  id: LUK/1/22
+  number: '22'
+previous:
+  id: LUK/1/20
+  number: '20'
+reference: 'Luke 1:21'

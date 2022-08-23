@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1TH 4:3" class="v">3</span>For
+  this is the will of God, <span class="add">even</span> your sanctification,
+  that ye should abstain from fornication: </p>
+id: 1TH/4/3
+next:
+  id: 1TH/4/4
+  number: '4'
+previous:
+  id: 1TH/4/2
+  number: '2'
+reference: '1 Thessalonians 4:3'

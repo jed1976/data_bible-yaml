@@ -1,0 +1,12 @@
+content: >-
+  <p class="s1"><span class="tl">נ NUN.</span></p><p class="q1"><span
+  data-number="105" data-sid="PSA 119:105" class="v">105</span>Thy word <span
+  class="add">is</span> a lamp unto my feet, and a light unto my path.</p>
+id: PSA/119/105
+next:
+  id: PSA/119/106
+  number: '106'
+previous:
+  id: PSA/119/104
+  number: '104'
+reference: 'Psalms 119:105'

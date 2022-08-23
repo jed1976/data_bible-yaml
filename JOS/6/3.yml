@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 6:3" class="v">3</span>And ye
+  shall compass the city, all <span class="add">ye</span> men of war, <span
+  class="add">and</span> go round about the city once. Thus shalt thou do six
+  days. </p>
+id: JOS/6/3
+next:
+  id: JOS/6/4
+  number: '4'
+previous:
+  id: JOS/6/2
+  number: '2'
+reference: 'Joshua 6:3'

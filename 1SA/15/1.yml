@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 15:1"
+  class="v">1</span>Samuel also said unto Saul, The <span class="nd">LORD</span>
+  sent me to anoint thee <span class="add">to be</span> king over his people,
+  over Israel: now therefore hearken thou unto the voice of the words of the
+  <span class="nd">LORD</span>. </p>
+id: 1SA/15/1
+next:
+  id: 1SA/15/2
+  number: '2'
+previous:
+  id: 1SA/14/52
+  number: '52'
+reference: '1 Samuel 15:1'

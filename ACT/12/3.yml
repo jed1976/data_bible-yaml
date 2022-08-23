@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 12:3" class="v">3</span>And
+  because he saw it pleased the Jews, he proceeded further to take Peter also.
+  (Then were the days of unleavened bread.) </p>
+id: ACT/12/3
+next:
+  id: ACT/12/4
+  number: '4'
+previous:
+  id: ACT/12/2
+  number: '2'
+reference: 'Acts 12:3'

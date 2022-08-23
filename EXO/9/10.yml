@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 9:10" class="v">10</span>And
+  they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled
+  it up toward heaven; and it became a boil breaking forth <span
+  class="add">with</span> blains upon man, and upon beast. </p>
+id: EXO/9/10
+next:
+  id: EXO/9/11
+  number: '11'
+previous:
+  id: EXO/9/9
+  number: '9'
+reference: 'Exodus 9:10'

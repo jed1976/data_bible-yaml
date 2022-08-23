@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 29:11"
+  class="v">11</span>And Jacob kissed Rachel, and lifted up his voice, and wept.
+  </p>
+id: GEN/29/11
+next:
+  id: GEN/29/12
+  number: '12'
+previous:
+  id: GEN/29/10
+  number: '10'
+reference: 'Genesis 29:11'

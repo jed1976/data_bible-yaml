@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 28:1" class="v">1</span>And
+  take thou unto thee Aaron thy brother, and his sons with him, from among the
+  children of Israel, that he may minister unto me in the priest’s office, <span
+  class="add">even</span> Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s
+  sons. </p>
+id: EXO/28/1
+next:
+  id: EXO/28/2
+  number: '2'
+previous:
+  id: EXO/27/21
+  number: '21'
+reference: 'Exodus 28:1'

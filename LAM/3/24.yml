@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LAM 3:24" class="v">24</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> my portion, saith my
+  soul; therefore will I hope in him. </p>
+id: LAM/3/24
+next:
+  id: LAM/3/25
+  number: '25'
+previous:
+  id: LAM/3/23
+  number: '23'
+reference: 'Lamentations 3:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOL 1:1" class="v">1</span>The
+  word of the <span class="nd">LORD</span> that came to Joel the son of Pethuel.
+  </p>
+id: JOL/1/1
+next:
+  id: JOL/1/2
+  number: '2'
+previous:
+  id: JOL/intro/0
+  number: '0'
+reference: 'Joel 1:1'

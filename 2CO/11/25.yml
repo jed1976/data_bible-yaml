@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2CO 11:25"
+  class="v">25</span>Thrice was I beaten with rods, once was I stoned, thrice I
+  suffered shipwreck, a night and a day I have been in the deep; </p>
+id: 2CO/11/25
+next:
+  id: 2CO/11/26
+  number: '26'
+previous:
+  id: 2CO/11/24
+  number: '24'
+reference: '2 Corinthians 11:25'

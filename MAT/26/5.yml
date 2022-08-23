@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 26:5" class="v">5</span>But
+  they said, Not on the feast <span class="add">day</span>, lest there be an
+  uproar among the people.</p>
+id: MAT/26/5
+next:
+  id: MAT/26/6
+  number: '6'
+previous:
+  id: MAT/26/4
+  number: '4'
+reference: 'Matthew 26:5'

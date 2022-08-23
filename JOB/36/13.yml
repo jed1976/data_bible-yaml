@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 36:13"
+  class="v">13</span>But the hypocrites in heart heap up wrath: they cry not
+  when he bindeth them. </p>
+id: JOB/36/13
+next:
+  id: JOB/36/14
+  number: '14'
+previous:
+  id: JOB/36/12
+  number: '12'
+reference: 'Job 36:13'

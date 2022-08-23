@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="NUM 32:37"
+  class="v">37</span>And the children of Reuben built Heshbon, and Elealeh, and
+  Kirjathaim, </p>
+id: NUM/32/37
+next:
+  id: NUM/32/38
+  number: '38'
+previous:
+  id: NUM/32/36
+  number: '36'
+reference: 'Numbers 32:37'

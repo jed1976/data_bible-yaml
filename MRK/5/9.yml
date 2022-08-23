@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 5:9" class="v">9</span>And he
+  asked him, <span class="wj">What <span class="add">is</span> thy name?</span>
+  And he answered, saying, My name <span class="add">is</span> Legion: for we
+  are many. </p>
+id: MRK/5/9
+next:
+  id: MRK/5/10
+  number: '10'
+previous:
+  id: MRK/5/8
+  number: '8'
+reference: 'Mark 5:9'

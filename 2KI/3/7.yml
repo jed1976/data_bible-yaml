@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2KI 3:7" class="v">7</span>And he
+  went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath
+  rebelled against me: wilt thou go with me against Moab to battle? And he said,
+  I will go up: I <span class="add">am</span> as thou <span
+  class="add">art</span>, my people as thy people, <span class="add">and</span>
+  my horses as thy horses. </p>
+id: 2KI/3/7
+next:
+  id: 2KI/3/8
+  number: '8'
+previous:
+  id: 2KI/3/6
+  number: '6'
+reference: '2 Kings 3:7'

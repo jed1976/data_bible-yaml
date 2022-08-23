@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 9:12" class="v">12</span>And
+  the <span class="nd">LORD</span> hardened the heart of Pharaoh, and he
+  hearkened not unto them; as the <span class="nd">LORD</span> had spoken unto
+  Moses.</p>
+id: EXO/9/12
+next:
+  id: EXO/9/13
+  number: '13'
+previous:
+  id: EXO/9/11
+  number: '11'
+reference: 'Exodus 9:12'

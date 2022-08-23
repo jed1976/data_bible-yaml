@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 26:12"
+  class="v">12</span>Then Isaac sowed in that land, and received in the same
+  year an hundredfold: and the <span class="nd">LORD</span> blessed him. </p>
+id: GEN/26/12
+next:
+  id: GEN/26/13
+  number: '13'
+previous:
+  id: GEN/26/11
+  number: '11'
+reference: 'Genesis 26:12'

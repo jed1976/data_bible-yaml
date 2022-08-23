@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PHP 2:7" class="v">7</span>But
+  made himself of no reputation, and took upon him the form of a servant, and
+  was made in the likeness of men: </p>
+id: PHP/2/7
+next:
+  id: PHP/2/8
+  number: '8'
+previous:
+  id: PHP/2/6
+  number: '6'
+reference: 'Philippians 2:7'

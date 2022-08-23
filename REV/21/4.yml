@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 21:4" class="v">4</span>And
+  God shall wipe away all tears from their eyes; and there shall be no more
+  death, neither sorrow, nor crying, neither shall there be any more pain: for
+  the former things are passed away. </p>
+id: REV/21/4
+next:
+  id: REV/21/5
+  number: '5'
+previous:
+  id: REV/21/3
+  number: '3'
+reference: 'Revelation 21:4'

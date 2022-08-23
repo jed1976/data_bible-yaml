@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JON 1:8" class="v">8</span>Then
+  said they unto him, Tell us, we pray thee, for whose cause this evil <span
+  class="add">is</span> upon us; What <span class="add">is</span> thine
+  occupation? and whence comest thou? what <span class="add">is</span> thy
+  country? and of what people <span class="add">art</span> thou? </p>
+id: JON/1/8
+next:
+  id: JON/1/9
+  number: '9'
+previous:
+  id: JON/1/7
+  number: '7'
+reference: 'Jonah 1:8'

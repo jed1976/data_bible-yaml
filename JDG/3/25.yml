@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JDG 3:25" class="v">25</span>And
+  they tarried till they were ashamed: and, behold, he opened not the doors of
+  the parlour; therefore they took a key, and opened <span
+  class="add">them:</span> and, behold, their lord <span class="add">was</span>
+  fallen down dead on the earth. </p>
+id: JDG/3/25
+next:
+  id: JDG/3/26
+  number: '26'
+previous:
+  id: JDG/3/24
+  number: '24'
+reference: 'Judges 3:25'

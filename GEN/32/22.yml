@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 32:22"
+  class="v">22</span>And he rose up that night, and took his two wives, and his
+  two womenservants, and his eleven sons, and passed over the ford Jabbok. </p>
+id: GEN/32/22
+next:
+  id: GEN/32/23
+  number: '23'
+previous:
+  id: GEN/32/21
+  number: '21'
+reference: 'Genesis 32:22'

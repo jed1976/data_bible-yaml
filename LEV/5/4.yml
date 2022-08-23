@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 5:4" class="v">4</span>Or if
+  a soul swear, pronouncing with <span class="add">his</span> lips to do evil,
+  or to do good, whatsoever <span class="add">it be</span> that a man shall
+  pronounce with an oath, and it be hid from him; when he knoweth <span
+  class="add">of it</span>, then he shall be guilty in one of these. </p>
+id: LEV/5/4
+next:
+  id: LEV/5/5
+  number: '5'
+previous:
+  id: LEV/5/3
+  number: '3'
+reference: 'Leviticus 5:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 20:13"
+  class="v">13</span>Now therefore deliver <span class="add">us</span> the men,
+  the children of Belial, which <span class="add">are</span> in Gibeah, that we
+  may put them to death, and put away evil from Israel. But the children of
+  Benjamin would not hearken to the voice of their brethren the children of
+  Israel: </p>
+id: JDG/20/13
+next:
+  id: JDG/20/14
+  number: '14'
+previous:
+  id: JDG/20/12
+  number: '12'
+reference: 'Judges 20:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 3:9" class="v">9</span>¶ The
+  shew of their countenance doth witness against them; and they declare their
+  sin as Sodom, they hide <span class="add">it</span> not. Woe unto their soul!
+  for they have rewarded evil unto themselves. </p>
+id: ISA/3/9
+next:
+  id: ISA/3/10
+  number: '10'
+previous:
+  id: ISA/3/8
+  number: '8'
+reference: 'Isaiah 3:9'

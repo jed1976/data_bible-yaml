@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 14:5" class="v">5</span>For
+  it might have been sold for more than three hundred pence, and have been given
+  to the poor. And they murmured against her. </p>
+id: MRK/14/5
+next:
+  id: MRK/14/6
+  number: '6'
+previous:
+  id: MRK/14/4
+  number: '4'
+reference: 'Mark 14:5'

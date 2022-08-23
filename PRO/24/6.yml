@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 24:6" class="v">6</span>For
+  by wise counsel thou shalt make thy war: and in multitude of counsellors <span
+  class="add">there is</span> safety.</p>
+id: PRO/24/6
+next:
+  id: PRO/24/7
+  number: '7'
+previous:
+  id: PRO/24/5
+  number: '5'
+reference: 'Proverbs 24:6'

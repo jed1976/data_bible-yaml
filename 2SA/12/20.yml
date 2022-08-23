@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 12:20"
+  class="v">20</span>Then David arose from the earth, and washed, and anointed
+  <span class="add">himself</span>, and changed his apparel, and came into the
+  house of the <span class="nd">LORD</span>, and worshipped: then he came to his
+  own house; and when he required, they set bread before him, and he did eat.
+  </p>
+id: 2SA/12/20
+next:
+  id: 2SA/12/21
+  number: '21'
+previous:
+  id: 2SA/12/19
+  number: '19'
+reference: '2 Samuel 12:20'

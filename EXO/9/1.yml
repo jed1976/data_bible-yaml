@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 9:1" class="v">1</span>Then
+  the <span class="nd">LORD</span> said unto Moses, Go in unto Pharaoh, and tell
+  him, Thus saith the <span class="nd">LORD</span> God of the Hebrews, Let my
+  people go, that they may serve me. </p>
+id: EXO/9/1
+next:
+  id: EXO/9/2
+  number: '2'
+previous:
+  id: EXO/8/32
+  number: '32'
+reference: 'Exodus 9:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="COL 3:5"
+  class="v">5</span>Mortify therefore your members which are upon the earth;
+  fornication, uncleanness, inordinate affection, evil concupiscence, and
+  covetousness, which is idolatry: </p>
+id: COL/3/5
+next:
+  id: COL/3/6
+  number: '6'
+previous:
+  id: COL/3/4
+  number: '4'
+reference: 'Colossians 3:5'

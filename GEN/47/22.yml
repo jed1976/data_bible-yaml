@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 47:22"
+  class="v">22</span>Only the land of the priests bought he not; for the priests
+  had a portion <span class="add">assigned them</span> of Pharaoh, and did eat
+  their portion which Pharaoh gave them: wherefore they sold not their lands.
+  </p>
+id: GEN/47/22
+next:
+  id: GEN/47/23
+  number: '23'
+previous:
+  id: GEN/47/21
+  number: '21'
+reference: 'Genesis 47:22'

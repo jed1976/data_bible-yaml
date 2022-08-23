@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2CH 17:19"
+  class="v">19</span>These waited on the king, beside <span
+  class="add">those</span> whom the king put in the fenced cities throughout all
+  Judah.</p>
+id: 2CH/17/19
+next:
+  id: 2CH/18/1
+  number: '1'
+previous:
+  id: 2CH/17/18
+  number: '18'
+reference: '2 Chronicles 17:19'

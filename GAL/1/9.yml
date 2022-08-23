@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GAL 1:9" class="v">9</span>As we
+  said before, so say I now again, If any <span class="add">man</span> preach
+  any other gospel unto you than that ye have received, let him be accursed.</p>
+id: GAL/1/9
+next:
+  id: GAL/1/10
+  number: '10'
+previous:
+  id: GAL/1/8
+  number: '8'
+reference: 'Galatians 1:9'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 5:10" class="v">10</span>And
+  he besought him much that he would not send them away out of the country. </p>
+id: MRK/5/10
+next:
+  id: MRK/5/11
+  number: '11'
+previous:
+  id: MRK/5/9
+  number: '9'
+reference: 'Mark 5:10'

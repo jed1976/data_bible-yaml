@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 24:19"
+  class="v">19</span>Fret not thyself because of evil <span
+  class="add">men</span>, neither be thou envious at the wicked; </p>
+id: PRO/24/19
+next:
+  id: PRO/24/20
+  number: '20'
+previous:
+  id: PRO/24/18
+  number: '18'
+reference: 'Proverbs 24:19'

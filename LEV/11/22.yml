@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 11:22"
+  class="v">22</span><span class="add">Even</span> these of them ye may eat; the
+  locust after his kind, and the bald locust after his kind, and the beetle
+  after his kind, and the grasshopper after his kind. </p>
+id: LEV/11/22
+next:
+  id: LEV/11/23
+  number: '23'
+previous:
+  id: LEV/11/21
+  number: '21'
+reference: 'Leviticus 11:22'

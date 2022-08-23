@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 42:9"
+  class="v">9</span>Behold, the former things are come to pass, and new things
+  do I declare: before they spring forth I tell you of them. </p>
+id: ISA/42/9
+next:
+  id: ISA/42/10
+  number: '10'
+previous:
+  id: ISA/42/8
+  number: '8'
+reference: 'Isaiah 42:9'

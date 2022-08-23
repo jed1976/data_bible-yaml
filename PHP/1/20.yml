@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PHP 1:20"
+  class="v">20</span>According to my earnest expectation and <span
+  class="add">my</span> hope, that in nothing I shall be ashamed, but <span
+  class="add">that</span> with all boldness, as always, <span
+  class="add">so</span> now also Christ shall be magnified in my body, whether
+  <span class="add">it be</span> by life, or by death. </p>
+id: PHP/1/20
+next:
+  id: PHP/1/21
+  number: '21'
+previous:
+  id: PHP/1/19
+  number: '19'
+reference: 'Philippians 1:20'

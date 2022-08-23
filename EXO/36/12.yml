@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 36:12"
+  class="v">12</span>Fifty loops made he in one curtain, and fifty loops made he
+  in the edge of the curtain which <span class="add">was</span> in the coupling
+  of the second: the loops held one <span class="add">curtain</span> to another.
+  </p>
+id: EXO/36/12
+next:
+  id: EXO/36/13
+  number: '13'
+previous:
+  id: EXO/36/11
+  number: '11'
+reference: 'Exodus 36:12'

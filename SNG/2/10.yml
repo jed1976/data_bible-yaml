@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 2:10" class="v">10</span>My
+  beloved spake, and said unto me, Rise up, my love, my fair one, and come away.
+  </p>
+id: SNG/2/10
+next:
+  id: SNG/2/11
+  number: '11'
+previous:
+  id: SNG/2/9
+  number: '9'
+reference: 'Song of Solomon 2:10'

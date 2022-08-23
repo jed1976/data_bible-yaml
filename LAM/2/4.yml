@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LAM 2:4" class="v">4</span>He
+  hath bent his bow like an enemy: he stood with his right hand as an adversary,
+  and slew all <span class="add">that were</span> pleasant to the eye in the
+  tabernacle of the daughter of Zion: he poured out his fury like fire. </p>
+id: LAM/2/4
+next:
+  id: LAM/2/5
+  number: '5'
+previous:
+  id: LAM/2/3
+  number: '3'
+reference: 'Lamentations 2:4'

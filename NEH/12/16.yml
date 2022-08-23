@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 12:16" class="v">16</span>Of
+  Iddo, Zechariah; of Ginnethon, Meshullam; </p>
+id: NEH/12/16
+next:
+  id: NEH/12/17
+  number: '17'
+previous:
+  id: NEH/12/15
+  number: '15'
+reference: 'Nehemiah 12:16'

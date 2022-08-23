@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 47:24"
+  class="v">24</span>And it shall come to pass in the increase, that ye shall
+  give the fifth <span class="add">part</span> unto Pharaoh, and four parts
+  shall be your own, for seed of the field, and for your food, and for them of
+  your households, and for food for your little ones. </p>
+id: GEN/47/24
+next:
+  id: GEN/47/25
+  number: '25'
+previous:
+  id: GEN/47/23
+  number: '23'
+reference: 'Genesis 47:24'

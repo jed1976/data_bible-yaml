@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 41:11"
+  class="v">11</span>Behold, all they that were incensed against thee shall be
+  ashamed and confounded: they shall be as nothing; and they that strive with
+  thee shall perish. </p>
+id: ISA/41/11
+next:
+  id: ISA/41/12
+  number: '12'
+previous:
+  id: ISA/41/10
+  number: '10'
+reference: 'Isaiah 41:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 6:13" class="v">13</span>¶
+  And this <span class="add">is</span> the law of the Nazarite, when the days of
+  his separation are fulfilled: he shall be brought unto the door of the
+  tabernacle of the congregation: </p>
+id: NUM/6/13
+next:
+  id: NUM/6/14
+  number: '14'
+previous:
+  id: NUM/6/12
+  number: '12'
+reference: 'Numbers 6:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 17:6"
+  class="v">6</span>Children’s children <span class="add">are</span> the crown
+  of old men; and the glory of children <span class="add">are</span> their
+  fathers. </p>
+id: PRO/17/6
+next:
+  id: PRO/17/7
+  number: '7'
+previous:
+  id: PRO/17/5
+  number: '5'
+reference: 'Proverbs 17:6'

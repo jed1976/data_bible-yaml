@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 18:15"
+  class="v">15</span>And ten young men that bare Joab’s armour compassed about
+  and smote Absalom, and slew him. </p>
+id: 2SA/18/15
+next:
+  id: 2SA/18/16
+  number: '16'
+previous:
+  id: 2SA/18/14
+  number: '14'
+reference: '2 Samuel 18:15'

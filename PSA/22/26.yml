@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 22:26"
+  class="v">26</span>The meek shall eat and be satisfied: they shall praise the
+  <span class="nd">LORD</span> that seek him: your heart shall live for
+  ever.</p>
+id: PSA/22/26
+next:
+  id: PSA/22/27
+  number: '27'
+previous:
+  id: PSA/22/25
+  number: '25'
+reference: 'Psalms 22:26'

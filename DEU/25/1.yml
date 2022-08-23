@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 25:1" class="v">1</span>If
+  there be a controversy between men, and they come unto judgment, that <span
+  class="add">the judges</span> may judge them; then they shall justify the
+  righteous, and condemn the wicked. </p>
+id: DEU/25/1
+next:
+  id: DEU/25/2
+  number: '2'
+previous:
+  id: DEU/24/22
+  number: '22'
+reference: 'Deuteronomy 25:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 19:15" class="v">15</span>So
+  the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet
+  the king, to conduct the king over Jordan.</p>
+id: 2SA/19/15
+next:
+  id: 2SA/19/16
+  number: '16'
+previous:
+  id: 2SA/19/14
+  number: '14'
+reference: '2 Samuel 19:15'

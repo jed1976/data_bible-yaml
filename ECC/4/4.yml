@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 4:4" class="v">4</span>¶
+  Again, I considered all travail, and every right work, that for this a man is
+  envied of his neighbour. This <span class="add">is</span> also vanity and
+  vexation of spirit. </p>
+id: ECC/4/4
+next:
+  id: ECC/4/5
+  number: '5'
+previous:
+  id: ECC/4/3
+  number: '3'
+reference: 'Ecclesiastes 4:4'

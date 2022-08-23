@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 17:26"
+  class="v">26</span><span class="wj">And I have declared unto them thy name,
+  and will declare <span class="add">it</span>: that the love wherewith thou
+  hast loved me may be in them, and I in them.</span></p>
+id: JHN/17/26
+next:
+  id: JHN/18/1
+  number: '1'
+previous:
+  id: JHN/17/25
+  number: '25'
+reference: 'John 17:26'

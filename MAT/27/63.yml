@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="63" data-sid="MAT 27:63"
+  class="v">63</span>Saying, Sir, we remember that that deceiver said, while he
+  was yet alive, After three days I will rise again. </p>
+id: MAT/27/63
+next:
+  id: MAT/27/64
+  number: '64'
+previous:
+  id: MAT/27/62
+  number: '62'
+reference: 'Matthew 27:63'

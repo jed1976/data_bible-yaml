@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="DAN 11:35"
+  class="v">35</span>And <span class="add">some</span> of them of understanding
+  shall fall, to try them, and to purge, and to make <span
+  class="add">them</span> white, <span class="add">even</span> to the time of
+  the end: because <span class="add">it is</span> yet for a time appointed. </p>
+id: DAN/11/35
+next:
+  id: DAN/11/36
+  number: '36'
+previous:
+  id: DAN/11/34
+  number: '34'
+reference: 'Daniel 11:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 22:10"
+  class="v">10</span>Therefore snares <span class="add">are</span> round about
+  thee, and sudden fear troubleth thee; </p>
+id: JOB/22/10
+next:
+  id: JOB/22/11
+  number: '11'
+previous:
+  id: JOB/22/9
+  number: '9'
+reference: 'Job 22:10'

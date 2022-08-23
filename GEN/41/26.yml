@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 41:26"
+  class="v">26</span>The seven good kine <span class="add">are</span> seven
+  years; and the seven good ears <span class="add">are</span> seven years: the
+  dream <span class="add">is</span> one. </p>
+id: GEN/41/26
+next:
+  id: GEN/41/27
+  number: '27'
+previous:
+  id: GEN/41/25
+  number: '25'
+reference: 'Genesis 41:26'

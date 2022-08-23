@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 8:9" class="v">9</span>¶ And
+  Nehemiah, which <span class="add">is</span> the Tirshatha, and Ezra the priest
+  the scribe, and the Levites that taught the people, said unto all the people,
+  This day <span class="add">is</span> holy unto the <span
+  class="nd">LORD</span> your God; mourn not, nor weep. For all the people wept,
+  when they heard the words of the law. </p>
+id: NEH/8/9
+next:
+  id: NEH/8/10
+  number: '10'
+previous:
+  id: NEH/8/8
+  number: '8'
+reference: 'Nehemiah 8:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 23:46" class="v">46</span>¶
+  And when Jesus had cried with a loud voice, he said, <span class="wj">Father,
+  into thy hands I commend my spirit:</span> and having said thus, he gave up
+  the ghost. </p>
+id: LUK/23/46
+next:
+  id: LUK/23/47
+  number: '47'
+previous:
+  id: LUK/23/45
+  number: '45'
+reference: 'Luke 23:46'

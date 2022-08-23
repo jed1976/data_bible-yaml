@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 7:21" class="v">21</span>And
+  in that same hour he cured many of <span class="add">their</span> infirmities
+  and plagues, and of evil spirits; and unto many <span class="add">that
+  were</span> blind he gave sight. </p>
+id: LUK/7/21
+next:
+  id: LUK/7/22
+  number: '22'
+previous:
+  id: LUK/7/20
+  number: '20'
+reference: 'Luke 7:21'

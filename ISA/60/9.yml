@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 60:9"
+  class="v">9</span>Surely the isles shall wait for me, and the ships of
+  Tarshish first, to bring thy sons from far, their silver and their gold with
+  them, unto the name of the <span class="nd">LORD</span> thy God, and to the
+  Holy One of Israel, because he hath glorified thee. </p>
+id: ISA/60/9
+next:
+  id: ISA/60/10
+  number: '10'
+previous:
+  id: ISA/60/8
+  number: '8'
+reference: 'Isaiah 60:9'

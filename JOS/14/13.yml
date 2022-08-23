@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 14:13"
+  class="v">13</span>And Joshua blessed him, and gave unto Caleb the son of
+  Jephunneh Hebron for an inheritance. </p>
+id: JOS/14/13
+next:
+  id: JOS/14/14
+  number: '14'
+previous:
+  id: JOS/14/12
+  number: '12'
+reference: 'Joshua 14:13'

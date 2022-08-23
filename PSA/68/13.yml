@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 68:13"
+  class="v">13</span>Though ye have lien among the pots, <span class="add">yet
+  shall ye be as</span> the wings of a dove covered with silver, and her
+  feathers with yellow gold.</p>
+id: PSA/68/13
+next:
+  id: PSA/68/14
+  number: '14'
+previous:
+  id: PSA/68/12
+  number: '12'
+reference: 'Psalms 68:13'

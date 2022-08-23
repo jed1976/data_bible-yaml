@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="COL 4:7" class="v">7</span>All my
+  state shall Tychicus declare unto you, <span class="add">who is</span> a
+  beloved brother, and a faithful minister and fellowservant in the Lord: </p>
+id: COL/4/7
+next:
+  id: COL/4/8
+  number: '8'
+previous:
+  id: COL/4/6
+  number: '6'
+reference: 'Colossians 4:7'

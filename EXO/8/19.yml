@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 8:19"
+  class="v">19</span>Then the magicians said unto Pharaoh, This <span
+  class="add">is</span> the finger of God: and Pharaoh’s heart was hardened, and
+  he hearkened not unto them; as the <span class="nd">LORD</span> had said.</p>
+id: EXO/8/19
+next:
+  id: EXO/8/20
+  number: '20'
+previous:
+  id: EXO/8/18
+  number: '18'
+reference: 'Exodus 8:19'

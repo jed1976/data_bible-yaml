@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 70:5" class="v">5</span>But
+  I <span class="add">am</span> poor and needy: make haste unto me, O God: thou
+  <span class="add">art</span> my help and my deliverer; O <span
+  class="nd">LORD</span>, make no tarrying.</p>
+id: PSA/70/5
+next:
+  id: PSA/71/1
+  number: '1'
+previous:
+  id: PSA/70/4
+  number: '4'
+reference: 'Psalms 70:5'

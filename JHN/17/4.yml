@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 17:4" class="v">4</span><span
+  class="wj">I have glorified thee on the earth: I have finished the work which
+  thou gavest me to do.</span> </p>
+id: JHN/17/4
+next:
+  id: JHN/17/5
+  number: '5'
+previous:
+  id: JHN/17/3
+  number: '3'
+reference: 'John 17:4'

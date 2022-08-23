@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 64:7"
+  class="v">7</span>But God shall shoot at them <span class="add">with</span> an
+  arrow; suddenly shall they be wounded.</p>
+id: PSA/64/7
+next:
+  id: PSA/64/8
+  number: '8'
+previous:
+  id: PSA/64/6
+  number: '6'
+reference: 'Psalms 64:7'

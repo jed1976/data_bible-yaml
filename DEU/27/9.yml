@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 27:9" class="v">9</span>¶ And
+  Moses and the priests the Levites spake unto all Israel, saying, Take heed,
+  and hearken, O Israel; this day thou art become the people of the <span
+  class="nd">LORD</span> thy God. </p>
+id: DEU/27/9
+next:
+  id: DEU/27/10
+  number: '10'
+previous:
+  id: DEU/27/8
+  number: '8'
+reference: 'Deuteronomy 27:9'

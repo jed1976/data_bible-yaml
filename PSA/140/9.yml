@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 140:9"
+  class="v">9</span><span class="add">As for</span> the head of those that
+  compass me about, let the mischief of their own lips cover them.</p>
+id: PSA/140/9
+next:
+  id: PSA/140/10
+  number: '10'
+previous:
+  id: PSA/140/8
+  number: '8'
+reference: 'Psalms 140:9'

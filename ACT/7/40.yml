@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 7:40"
+  class="v">40</span>Saying unto Aaron, Make us gods to go before us: for <span
+  class="add">as for</span> this Moses, which brought us out of the land of
+  Egypt, we wot not what is become of him. </p>
+id: ACT/7/40
+next:
+  id: ACT/7/41
+  number: '41'
+previous:
+  id: ACT/7/39
+  number: '39'
+reference: 'Acts 7:40'

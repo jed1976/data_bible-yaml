@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 24:21"
+  class="v">21</span>And he looked on the Kenites, and took up his parable, and
+  said, Strong is thy dwellingplace, and thou puttest thy nest in a rock. </p>
+id: NUM/24/21
+next:
+  id: NUM/24/22
+  number: '22'
+previous:
+  id: NUM/24/20
+  number: '20'
+reference: 'Numbers 24:21'

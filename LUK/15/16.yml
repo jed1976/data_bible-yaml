@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 15:16"
+  class="v">16</span><span class="wj">And he would fain have filled his belly
+  with the husks that the swine did eat: and no man gave unto him.</span> </p>
+id: LUK/15/16
+next:
+  id: LUK/15/17
+  number: '17'
+previous:
+  id: LUK/15/15
+  number: '15'
+reference: 'Luke 15:16'

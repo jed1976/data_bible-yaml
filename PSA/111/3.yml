@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 111:3" class="v">3</span>His
+  work <span class="add">is</span> honourable and glorious: and his
+  righteousness endureth for ever.</p>
+id: PSA/111/3
+next:
+  id: PSA/111/4
+  number: '4'
+previous:
+  id: PSA/111/2
+  number: '2'
+reference: 'Psalms 111:3'

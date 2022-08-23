@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 1:20" class="v">20</span>And
+  thou, my lord, O king, the eyes of all Israel <span class="add">are</span>
+  upon thee, that thou shouldest tell them who shall sit on the throne of my
+  lord the king after him. </p>
+id: 1KI/1/20
+next:
+  id: 1KI/1/21
+  number: '21'
+previous:
+  id: 1KI/1/19
+  number: '19'
+reference: '1 Kings 1:20'

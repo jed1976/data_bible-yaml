@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 12:8" class="v">8</span><span
+  class="wj">For the Son of man is Lord even of the sabbath day.</span> </p>
+id: MAT/12/8
+next:
+  id: MAT/12/9
+  number: '9'
+previous:
+  id: MAT/12/7
+  number: '7'
+reference: 'Matthew 12:8'

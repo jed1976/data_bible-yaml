@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 16:1" class="v">1</span>And
+  they took their journey from Elim, and all the congregation of the children of
+  Israel came unto the wilderness of Sin, which <span class="add">is</span>
+  between Elim and Sinai, on the fifteenth day of the second month after their
+  departing out of the land of Egypt. </p>
+id: EXO/16/1
+next:
+  id: EXO/16/2
+  number: '2'
+previous:
+  id: EXO/15/27
+  number: '27'
+reference: 'Exodus 16:1'

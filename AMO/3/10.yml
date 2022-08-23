@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 3:10" class="v">10</span>For
+  they know not to do right, saith the <span class="nd">LORD</span>, who store
+  up violence and robbery in their palaces. </p>
+id: AMO/3/10
+next:
+  id: AMO/3/11
+  number: '11'
+previous:
+  id: AMO/3/9
+  number: '9'
+reference: 'Amos 3:10'

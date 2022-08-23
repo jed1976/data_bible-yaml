@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 20:32"
+  class="v">32</span>And Jesus stood still, and called them, and said, <span
+  class="wj">What will ye that I shall do unto you?</span> </p>
+id: MAT/20/32
+next:
+  id: MAT/20/33
+  number: '33'
+previous:
+  id: MAT/20/31
+  number: '31'
+reference: 'Matthew 20:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 17:14" class="v">14</span>¶
+  And when they were come to the multitude, there came to him a <span
+  class="add">certain</span> man, kneeling down to him, and saying, </p>
+id: MAT/17/14
+next:
+  id: MAT/17/15
+  number: '15'
+previous:
+  id: MAT/17/13
+  number: '13'
+reference: 'Matthew 17:14'

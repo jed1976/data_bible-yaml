@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 20:11"
+  class="v">11</span>And I saw a great white throne, and him that sat on it,
+  from whose face the earth and the heaven fled away; and there was found no
+  place for them. </p>
+id: REV/20/11
+next:
+  id: REV/20/12
+  number: '12'
+previous:
+  id: REV/20/10
+  number: '10'
+reference: 'Revelation 20:11'

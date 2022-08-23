@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 2:4" class="v">4</span>And
+  Satan answered the <span class="nd">LORD</span>, and said, Skin for skin, yea,
+  all that a man hath will he give for his life. </p>
+id: JOB/2/4
+next:
+  id: JOB/2/5
+  number: '5'
+previous:
+  id: JOB/2/3
+  number: '3'
+reference: 'Job 2:4'

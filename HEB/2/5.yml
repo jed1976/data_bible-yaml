@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 2:5" class="v">5</span>For
+  unto the angels hath he not put in subjection the world to come, whereof we
+  speak. </p>
+id: HEB/2/5
+next:
+  id: HEB/2/6
+  number: '6'
+previous:
+  id: HEB/2/4
+  number: '4'
+reference: 'Hebrews 2:5'

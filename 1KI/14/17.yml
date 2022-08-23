@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1KI 14:17" class="v">17</span>¶
+  And Jeroboam’s wife arose, and departed, and came to Tirzah: <span
+  class="add">and</span> when she came to the threshold of the door, the child
+  died; </p>
+id: 1KI/14/17
+next:
+  id: 1KI/14/18
+  number: '18'
+previous:
+  id: 1KI/14/16
+  number: '16'
+reference: '1 Kings 14:17'

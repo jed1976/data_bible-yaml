@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="SNG 1:16"
+  class="v">16</span>Behold, thou <span class="add">art</span> fair, my beloved,
+  yea, pleasant: also our bed <span class="add">is</span> green. </p>
+id: SNG/1/16
+next:
+  id: SNG/1/17
+  number: '17'
+previous:
+  id: SNG/1/15
+  number: '15'
+reference: 'Song of Solomon 1:16'

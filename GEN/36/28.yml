@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 36:28"
+  class="v">28</span>The children of Dishan <span class="add">are</span> these;
+  Uz, and Aran. </p>
+id: GEN/36/28
+next:
+  id: GEN/36/29
+  number: '29'
+previous:
+  id: GEN/36/27
+  number: '27'
+reference: 'Genesis 36:28'

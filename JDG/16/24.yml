@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 16:24"
+  class="v">24</span>And when the people saw him, they praised their god: for
+  they said, Our god hath delivered into our hands our enemy, and the destroyer
+  of our country, which slew many of us. </p>
+id: JDG/16/24
+next:
+  id: JDG/16/25
+  number: '25'
+previous:
+  id: JDG/16/23
+  number: '23'
+reference: 'Judges 16:24'

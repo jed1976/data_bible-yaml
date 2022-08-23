@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LUK 2:19" class="v">19</span>But
+  Mary kept all these things, and pondered <span class="add">them</span> in her
+  heart. </p>
+id: LUK/2/19
+next:
+  id: LUK/2/20
+  number: '20'
+previous:
+  id: LUK/2/18
+  number: '18'
+reference: 'Luke 2:19'

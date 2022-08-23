@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LEV 13:50"
+  class="v">50</span>And the priest shall look upon the plague, and shut up
+  <span class="add">it that hath</span> the plague seven days: </p>
+id: LEV/13/50
+next:
+  id: LEV/13/51
+  number: '51'
+previous:
+  id: LEV/13/49
+  number: '49'
+reference: 'Leviticus 13:50'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1SA 25:6" class="v">6</span>And
+  thus shall ye say to him that liveth <span class="add">in prosperity</span>,
+  Peace <span class="add">be</span> both to thee, and peace <span
+  class="add">be</span> to thine house, and peace <span class="add">be</span>
+  unto all that thou hast. </p>
+id: 1SA/25/6
+next:
+  id: 1SA/25/7
+  number: '7'
+previous:
+  id: 1SA/25/5
+  number: '5'
+reference: '1 Samuel 25:6'

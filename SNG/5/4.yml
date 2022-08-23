@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="SNG 5:4" class="v">4</span>My
+  beloved put in his hand by the hole <span class="add">of the door</span>, and
+  my bowels were moved for him. </p>
+id: SNG/5/4
+next:
+  id: SNG/5/5
+  number: '5'
+previous:
+  id: SNG/5/3
+  number: '3'
+reference: 'Song of Solomon 5:4'

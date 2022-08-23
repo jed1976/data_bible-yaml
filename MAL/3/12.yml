@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAL 3:12" class="v">12</span>And
+  all nations shall call you blessed: for ye shall be a delightsome land, saith
+  the <span class="nd">LORD</span> of hosts.</p>
+id: MAL/3/12
+next:
+  id: MAL/3/13
+  number: '13'
+previous:
+  id: MAL/3/11
+  number: '11'
+reference: 'Malachi 3:12'

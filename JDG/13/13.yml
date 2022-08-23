@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 13:13"
+  class="v">13</span>And the angel of the <span class="nd">LORD</span> said unto
+  Manoah, Of all that I said unto the woman let her beware. </p>
+id: JDG/13/13
+next:
+  id: JDG/13/14
+  number: '14'
+previous:
+  id: JDG/13/12
+  number: '12'
+reference: 'Judges 13:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="ACT 10:48"
+  class="v">48</span>And he commanded them to be baptized in the name of the
+  Lord. Then prayed they him to tarry certain days.</p>
+id: ACT/10/48
+next:
+  id: ACT/11/1
+  number: '1'
+previous:
+  id: ACT/10/47
+  number: '47'
+reference: 'Acts 10:48'

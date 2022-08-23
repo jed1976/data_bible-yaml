@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 33:7"
+  class="v">7</span>Behold, my terror shall not make thee afraid, neither shall
+  my hand be heavy upon thee.</p>
+id: JOB/33/7
+next:
+  id: JOB/33/8
+  number: '8'
+previous:
+  id: JOB/33/6
+  number: '6'
+reference: 'Job 33:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 12:20"
+  class="v">20</span>But now <span class="add">are they</span> many members, yet
+  but one body. </p>
+id: 1CO/12/20
+next:
+  id: 1CO/12/21
+  number: '21'
+previous:
+  id: 1CO/12/19
+  number: '19'
+reference: '1 Corinthians 12:20'

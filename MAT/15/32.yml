@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 15:32" class="v">32</span>¶
+  Then Jesus called his disciples <span class="add">unto him</span>, and said,
+  <span class="wj">I have compassion on the multitude, because they continue
+  with me now three days, and have nothing to eat: and I will not send them away
+  fasting, lest they faint in the way.</span> </p>
+id: MAT/15/32
+next:
+  id: MAT/15/33
+  number: '33'
+previous:
+  id: MAT/15/31
+  number: '31'
+reference: 'Matthew 15:32'

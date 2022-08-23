@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="1CO 15:36"
+  class="v">36</span><span class="add">Thou</span> fool, that which thou sowest
+  is not quickened, except it die: </p>
+id: 1CO/15/36
+next:
+  id: 1CO/15/37
+  number: '37'
+previous:
+  id: 1CO/15/35
+  number: '35'
+reference: '1 Corinthians 15:36'

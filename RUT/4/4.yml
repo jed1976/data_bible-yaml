@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="RUT 4:4" class="v">4</span>And I
+  thought to advertise thee, saying, Buy <span class="add">it</span> before the
+  inhabitants, and before the elders of my people. If thou wilt redeem <span
+  class="add">it</span>, redeem <span class="add">it:</span> but if thou wilt
+  not redeem <span class="add">it, then</span> tell me, that I may know: for
+  <span class="add">there is</span> none to redeem <span class="add">it</span>
+  beside thee; and I <span class="add">am</span> after thee. And he said, I will
+  redeem <span class="add">it</span>. </p>
+id: RUT/4/4
+next:
+  id: RUT/4/5
+  number: '5'
+previous:
+  id: RUT/4/3
+  number: '3'
+reference: 'Ruth 4:4'

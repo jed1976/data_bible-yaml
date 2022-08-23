@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JON 2:8" class="v">8</span>They
+  that observe lying vanities forsake their own mercy. </p>
+id: JON/2/8
+next:
+  id: JON/2/9
+  number: '9'
+previous:
+  id: JON/2/7
+  number: '7'
+reference: 'Jonah 2:8'

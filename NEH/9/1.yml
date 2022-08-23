@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 9:1" class="v">1</span>Now in
+  the twenty and fourth day of this month the children of Israel were assembled
+  with fasting, and with sackclothes, and earth upon them. </p>
+id: NEH/9/1
+next:
+  id: NEH/9/2
+  number: '2'
+previous:
+  id: NEH/8/18
+  number: '18'
+reference: 'Nehemiah 9:1'

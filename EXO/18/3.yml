@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 18:3" class="v">3</span>And
+  her two sons; of which the name of the one <span class="add">was</span>
+  Gershom; for he said, I have been an alien in a strange land: </p>
+id: EXO/18/3
+next:
+  id: EXO/18/4
+  number: '4'
+previous:
+  id: EXO/18/2
+  number: '2'
+reference: 'Exodus 18:3'

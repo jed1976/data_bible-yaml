@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 109:4" class="v">4</span>For
+  my love they are my adversaries: but I <span class="add">give myself
+  unto</span> prayer.</p>
+id: PSA/109/4
+next:
+  id: PSA/109/5
+  number: '5'
+previous:
+  id: PSA/109/3
+  number: '3'
+reference: 'Psalms 109:4'

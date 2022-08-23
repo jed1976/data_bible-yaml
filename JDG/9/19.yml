@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 9:19" class="v">19</span>If
+  ye then have dealt truly and sincerely with Jerubbaal and with his house this
+  day, <span class="add">then</span> rejoice ye in Abimelech, and let him also
+  rejoice in you: </p>
+id: JDG/9/19
+next:
+  id: JDG/9/20
+  number: '20'
+previous:
+  id: JDG/9/18
+  number: '18'
+reference: 'Judges 9:19'

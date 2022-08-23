@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 2:31" class="v">31</span>All
+  they that were numbered in the camp of Dan <span class="add">were</span> an
+  hundred thousand and fifty and seven thousand and six hundred. They shall go
+  hindmost with their standards.</p>
+id: NUM/2/31
+next:
+  id: NUM/2/32
+  number: '32'
+previous:
+  id: NUM/2/30
+  number: '30'
+reference: 'Numbers 2:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 12:1"
+  class="v">1</span>Remember now thy Creator in the days of thy youth, while the
+  evil days come not, nor the years draw nigh, when thou shalt say, I have no
+  pleasure in them; </p>
+id: ECC/12/1
+next:
+  id: ECC/12/2
+  number: '2'
+previous:
+  id: ECC/11/10
+  number: '10'
+reference: 'Ecclesiastes 12:1'

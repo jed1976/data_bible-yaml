@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 35:15"
+  class="v">15</span>These six cities shall be a refuge, <span
+  class="add">both</span> for the children of Israel, and for the stranger, and
+  for the sojourner among them: that every one that killeth any person unawares
+  may flee thither. </p>
+id: NUM/35/15
+next:
+  id: NUM/35/16
+  number: '16'
+previous:
+  id: NUM/35/14
+  number: '14'
+reference: 'Numbers 35:15'

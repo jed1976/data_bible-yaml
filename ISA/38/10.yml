@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 38:10" class="v">10</span>I
+  said in the cutting off of my days, I shall go to the gates of the grave: I am
+  deprived of the residue of my years. </p>
+id: ISA/38/10
+next:
+  id: ISA/38/11
+  number: '11'
+previous:
+  id: ISA/38/9
+  number: '9'
+reference: 'Isaiah 38:10'

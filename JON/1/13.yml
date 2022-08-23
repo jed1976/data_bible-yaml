@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JON 1:13"
+  class="v">13</span>Nevertheless the men rowed hard to bring <span
+  class="add">it</span> to the land; but they could not: for the sea wrought,
+  and was tempestuous against them. </p>
+id: JON/1/13
+next:
+  id: JON/1/14
+  number: '14'
+previous:
+  id: JON/1/12
+  number: '12'
+reference: 'Jonah 1:13'

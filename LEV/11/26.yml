@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 11:26"
+  class="v">26</span><span class="add">The carcases</span> of every beast which
+  divideth the hoof, and <span class="add">is</span> not clovenfooted, nor
+  cheweth the cud, <span class="add">are</span> unclean unto you: every one that
+  toucheth them shall be unclean. </p>
+id: LEV/11/26
+next:
+  id: LEV/11/27
+  number: '27'
+previous:
+  id: LEV/11/25
+  number: '25'
+reference: 'Leviticus 11:26'

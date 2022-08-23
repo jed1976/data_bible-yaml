@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 24:10" class="v">10</span>¶
+  And Balak’s anger was kindled against Balaam, and he smote his hands together:
+  and Balak said unto Balaam, I called thee to curse mine enemies, and, behold,
+  thou hast altogether blessed <span class="add">them</span> these three times.
+  </p>
+id: NUM/24/10
+next:
+  id: NUM/24/11
+  number: '11'
+previous:
+  id: NUM/24/9
+  number: '9'
+reference: 'Numbers 24:10'

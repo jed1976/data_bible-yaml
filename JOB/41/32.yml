@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOB 41:32" class="v">32</span>He
+  maketh a path to shine after him; <span class="add">one</span> would think the
+  deep <span class="add">to be</span> hoary. </p>
+id: JOB/41/32
+next:
+  id: JOB/41/33
+  number: '33'
+previous:
+  id: JOB/41/31
+  number: '31'
+reference: 'Job 41:32'

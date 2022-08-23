@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 25:15"
+  class="v">15</span><span class="wj">And unto one he gave five talents, to
+  another two, and to another one; to every man according to his several
+  ability; and straightway took his journey.</span> </p>
+id: MAT/25/15
+next:
+  id: MAT/25/16
+  number: '16'
+previous:
+  id: MAT/25/14
+  number: '14'
+reference: 'Matthew 25:15'

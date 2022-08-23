@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 13:23"
+  class="v">23</span><span class="wj">But he that received seed into the good
+  ground is he that heareth the word, and understandeth <span
+  class="add">it</span>; which also beareth fruit, and bringeth forth, some an
+  hundredfold, some sixty, some thirty.</span></p>
+id: MAT/13/23
+next:
+  id: MAT/13/24
+  number: '24'
+previous:
+  id: MAT/13/22
+  number: '22'
+reference: 'Matthew 13:23'

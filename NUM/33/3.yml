@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 33:3" class="v">3</span>And
+  they departed from Rameses in the first month, on the fifteenth day of the
+  first month; on the morrow after the passover the children of Israel went out
+  with an high hand in the sight of all the Egyptians. </p>
+id: NUM/33/3
+next:
+  id: NUM/33/4
+  number: '4'
+previous:
+  id: NUM/33/2
+  number: '2'
+reference: 'Numbers 33:3'

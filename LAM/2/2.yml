@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LAM 2:2" class="v">2</span>The
+  Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he
+  hath thrown down in his wrath the strong holds of the daughter of Judah; he
+  hath brought <span class="add">them</span> down to the ground: he hath
+  polluted the kingdom and the princes thereof. </p>
+id: LAM/2/2
+next:
+  id: LAM/2/3
+  number: '3'
+previous:
+  id: LAM/2/1
+  number: '1'
+reference: 'Lamentations 2:2'

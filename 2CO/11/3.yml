@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CO 11:3" class="v">3</span>But I
+  fear, lest by any means, as the serpent beguiled Eve through his subtilty, so
+  your minds should be corrupted from the simplicity that is in Christ. </p>
+id: 2CO/11/3
+next:
+  id: 2CO/11/4
+  number: '4'
+previous:
+  id: 2CO/11/2
+  number: '2'
+reference: '2 Corinthians 11:3'

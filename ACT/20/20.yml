@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 20:20"
+  class="v">20</span><span class="add">And</span> how I kept back nothing that
+  was profitable <span class="add">unto you</span>, but have shewed you, and
+  have taught you publickly, and from house to house, </p>
+id: ACT/20/20
+next:
+  id: ACT/20/21
+  number: '21'
+previous:
+  id: ACT/20/19
+  number: '19'
+reference: 'Acts 20:20'

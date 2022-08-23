@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 25:3" class="v">3</span>And
+  on the ninth <span class="add">day</span> of the <span
+  class="add">fourth</span> month the famine prevailed in the city, and there
+  was no bread for the people of the land.</p>
+id: 2KI/25/3
+next:
+  id: 2KI/25/4
+  number: '4'
+previous:
+  id: 2KI/25/2
+  number: '2'
+reference: '2 Kings 25:3'

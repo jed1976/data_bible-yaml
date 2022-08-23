@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 35:5" class="v">5</span>Then
+  the eyes of the blind shall be opened, and the ears of the deaf shall be
+  unstopped. </p>
+id: ISA/35/5
+next:
+  id: ISA/35/6
+  number: '6'
+previous:
+  id: ISA/35/4
+  number: '4'
+reference: 'Isaiah 35:5'

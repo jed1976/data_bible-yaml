@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 2:7"
+  class="v">7</span>Moreover I said unto the king, If it please the king, let
+  letters be given me to the governors beyond the river, that they may convey me
+  over till I come into Judah; </p>
+id: NEH/2/7
+next:
+  id: NEH/2/8
+  number: '8'
+previous:
+  id: NEH/2/6
+  number: '6'
+reference: 'Nehemiah 2:7'

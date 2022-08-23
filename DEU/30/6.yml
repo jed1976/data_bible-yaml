@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 30:6" class="v">6</span>And
+  the <span class="nd">LORD</span> thy God will circumcise thine heart, and the
+  heart of thy seed, to love the <span class="nd">LORD</span> thy God with all
+  thine heart, and with all thy soul, that thou mayest live. </p>
+id: DEU/30/6
+next:
+  id: DEU/30/7
+  number: '7'
+previous:
+  id: DEU/30/5
+  number: '5'
+reference: 'Deuteronomy 30:6'

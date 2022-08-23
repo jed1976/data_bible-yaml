@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MIC 2:6"
+  class="v">6</span>Prophesy ye not, <span class="add">say they to them
+  that</span> prophesy: they shall not prophesy to them, <span
+  class="add">that</span> they shall not take shame.</p>
+id: MIC/2/6
+next:
+  id: MIC/2/7
+  number: '7'
+previous:
+  id: MIC/2/5
+  number: '5'
+reference: 'Micah 2:6'

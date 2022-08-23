@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 3:35" class="v">35</span>And
+  the chief of the house of the father of the families of Merari <span
+  class="add">was</span> Zuriel the son of Abihail: <span
+  class="add">these</span> shall pitch on the side of the tabernacle northward.
+  </p>
+id: NUM/3/35
+next:
+  id: NUM/3/36
+  number: '36'
+previous:
+  id: NUM/3/34
+  number: '34'
+reference: 'Numbers 3:35'

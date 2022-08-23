@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="NUM 7:66" class="v">66</span>¶
+  On the tenth day Ahiezer the son of Ammishaddai, prince of the children of
+  Dan, <span class="add">offered:</span> </p>
+id: NUM/7/66
+next:
+  id: NUM/7/67
+  number: '67'
+previous:
+  id: NUM/7/65
+  number: '65'
+reference: 'Numbers 7:66'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 12:8" class="v">8</span><span
+  class="wj">Also I say unto you, Whosoever shall confess me before men, him
+  shall the Son of man also confess before the angels of God:</span> </p>
+id: LUK/12/8
+next:
+  id: LUK/12/9
+  number: '9'
+previous:
+  id: LUK/12/7
+  number: '7'
+reference: 'Luke 12:8'

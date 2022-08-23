@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 22:14"
+  class="v">14</span>And Abraham called the name of that place Jehovah-jireh: as
+  it is said <span class="add">to</span> this day, In the mount of the <span
+  class="nd">LORD</span> it shall be seen.</p>
+id: GEN/22/14
+next:
+  id: GEN/22/15
+  number: '15'
+previous:
+  id: GEN/22/13
+  number: '13'
+reference: 'Genesis 22:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EST 9:21" class="v">21</span>To
+  stablish <span class="add">this</span> among them, that they should keep the
+  fourteenth day of the month Adar, and the fifteenth day of the same, yearly,
+  </p>
+id: EST/9/21
+next:
+  id: EST/9/22
+  number: '22'
+previous:
+  id: EST/9/20
+  number: '20'
+reference: 'Esther 9:21'

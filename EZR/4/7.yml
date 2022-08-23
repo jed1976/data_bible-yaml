@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZR 4:7" class="v">7</span>¶ And
+  in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of
+  their companions, unto Artaxerxes king of Persia; and the writing of the
+  letter <span class="add">was</span> written in the Syrian tongue, and
+  interpreted in the Syrian tongue. </p>
+id: EZR/4/7
+next:
+  id: EZR/4/8
+  number: '8'
+previous:
+  id: EZR/4/6
+  number: '6'
+reference: 'Ezra 4:7'

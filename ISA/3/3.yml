@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 3:3" class="v">3</span>The
+  captain of fifty, and the honourable man, and the counsellor, and the cunning
+  artificer, and the eloquent orator. </p>
+id: ISA/3/3
+next:
+  id: ISA/3/4
+  number: '4'
+previous:
+  id: ISA/3/2
+  number: '2'
+reference: 'Isaiah 3:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 1:9" class="v">9</span>I
+  John, who also am your brother, and companion in tribulation, and in the
+  kingdom and patience of Jesus Christ, was in the isle that is called Patmos,
+  for the word of God, and for the testimony of Jesus Christ. </p>
+id: REV/1/9
+next:
+  id: REV/1/10
+  number: '10'
+previous:
+  id: REV/1/8
+  number: '8'
+reference: 'Revelation 1:9'

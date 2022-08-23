@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MRK 14:19"
+  class="v">19</span>And they began to be sorrowful, and to say unto him one by
+  one, <span class="add">Is</span> it I? and another <span class="add">said,
+  Is</span> it I? </p>
+id: MRK/14/19
+next:
+  id: MRK/14/20
+  number: '20'
+previous:
+  id: MRK/14/18
+  number: '18'
+reference: 'Mark 14:19'

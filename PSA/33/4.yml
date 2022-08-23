@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 33:4" class="v">4</span>For
+  the word of the <span class="nd">LORD</span> <span class="add">is</span>
+  right; and all his works <span class="add">are done</span> in truth.</p>
+id: PSA/33/4
+next:
+  id: PSA/33/5
+  number: '5'
+previous:
+  id: PSA/33/3
+  number: '3'
+reference: 'Psalms 33:4'

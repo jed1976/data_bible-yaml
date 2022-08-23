@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 8:8" class="v">8</span>Write
+  ye also for the Jews, as it liketh you, in the king’s name, and seal <span
+  class="add">it</span> with the king’s ring: for the writing which is written
+  in the king’s name, and sealed with the king’s ring, may no man reverse. </p>
+id: EST/8/8
+next:
+  id: EST/8/9
+  number: '9'
+previous:
+  id: EST/8/7
+  number: '7'
+reference: 'Esther 8:8'

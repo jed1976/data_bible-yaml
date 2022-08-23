@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 1:4" class="v">4</span>And
+  the mountains shall be molten under him, and the valleys shall be cleft, as
+  wax before the fire, <span class="add">and</span> as the waters <span
+  class="add">that are</span> poured down a steep place. </p>
+id: MIC/1/4
+next:
+  id: MIC/1/5
+  number: '5'
+previous:
+  id: MIC/1/3
+  number: '3'
+reference: 'Micah 1:4'

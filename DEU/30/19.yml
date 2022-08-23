@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 30:19" class="v">19</span>I
+  call heaven and earth to record this day against you, <span
+  class="add">that</span> I have set before you life and death, blessing and
+  cursing: therefore choose life, that both thou and thy seed may live: </p>
+id: DEU/30/19
+next:
+  id: DEU/30/20
+  number: '20'
+previous:
+  id: DEU/30/18
+  number: '18'
+reference: 'Deuteronomy 30:19'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 12:4" class="v">4</span>And
+  if the household be too little for the lamb, let him and his neighbour next
+  unto his house take <span class="add">it</span> according to the number of the
+  souls; every man according to his eating shall make your count for the lamb.
+  </p>
+id: EXO/12/4
+next:
+  id: EXO/12/5
+  number: '5'
+previous:
+  id: EXO/12/3
+  number: '3'
+reference: 'Exodus 12:4'

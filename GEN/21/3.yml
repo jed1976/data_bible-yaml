@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 21:3" class="v">3</span>And
+  Abraham called the name of his son that was born unto him, whom Sarah bare to
+  him, Isaac. </p>
+id: GEN/21/3
+next:
+  id: GEN/21/4
+  number: '4'
+previous:
+  id: GEN/21/2
+  number: '2'
+reference: 'Genesis 21:3'

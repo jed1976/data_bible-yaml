@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 1:12" class="v">12</span>¶
+  While the king <span class="add">sitteth</span> at his table, my spikenard
+  sendeth forth the smell thereof. </p>
+id: SNG/1/12
+next:
+  id: SNG/1/13
+  number: '13'
+previous:
+  id: SNG/1/11
+  number: '11'
+reference: 'Song of Solomon 1:12'

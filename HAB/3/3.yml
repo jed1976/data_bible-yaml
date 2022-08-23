@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HAB 3:3" class="v">3</span>God
+  came from Teman, and the Holy One from mount Paran. Selah. His glory covered
+  the heavens, and the earth was full of his praise. </p>
+id: HAB/3/3
+next:
+  id: HAB/3/4
+  number: '4'
+previous:
+  id: HAB/3/2
+  number: '2'
+reference: 'Habakkuk 3:3'

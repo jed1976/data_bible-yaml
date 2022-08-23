@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 26:3" class="v">3</span>For
+  thy lovingkindness <span class="add">is</span> before mine eyes: and I have
+  walked in thy truth.</p>
+id: PSA/26/3
+next:
+  id: PSA/26/4
+  number: '4'
+previous:
+  id: PSA/26/2
+  number: '2'
+reference: 'Psalms 26:3'

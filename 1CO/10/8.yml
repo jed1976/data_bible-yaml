@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CO 10:8"
+  class="v">8</span>Neither let us commit fornication, as some of them
+  committed, and fell in one day three and twenty thousand. </p>
+id: 1CO/10/8
+next:
+  id: 1CO/10/9
+  number: '9'
+previous:
+  id: 1CO/10/7
+  number: '7'
+reference: '1 Corinthians 10:8'

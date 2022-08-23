@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 34:12"
+  class="v">12</span>What man <span class="add">is he that</span> desireth life,
+  <span class="add">and</span> loveth <span class="add">many</span> days, that
+  he may see good?</p>
+id: PSA/34/12
+next:
+  id: PSA/34/13
+  number: '13'
+previous:
+  id: PSA/34/11
+  number: '11'
+reference: 'Psalms 34:12'

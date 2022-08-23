@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 21:8" class="v">8</span>The
+  way of man <span class="add">is</span> froward and strange: but <span
+  class="add">as for</span> the pure, his work <span class="add">is</span>
+  right. </p>
+id: PRO/21/8
+next:
+  id: PRO/21/9
+  number: '9'
+previous:
+  id: PRO/21/7
+  number: '7'
+reference: 'Proverbs 21:8'

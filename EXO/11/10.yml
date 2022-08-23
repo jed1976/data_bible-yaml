@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 11:10"
+  class="v">10</span>And Moses and Aaron did all these wonders before Pharaoh:
+  and the <span class="nd">LORD</span> hardened Pharaoh’s heart, so that he
+  would not let the children of Israel go out of his land.</p>
+id: EXO/11/10
+next:
+  id: EXO/12/1
+  number: '1'
+previous:
+  id: EXO/11/9
+  number: '9'
+reference: 'Exodus 11:10'

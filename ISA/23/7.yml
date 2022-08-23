@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 23:7" class="v">7</span><span
+  class="add">Is</span> this your joyous <span class="add">city</span>, whose
+  antiquity <span class="add">is</span> of ancient days? her own feet shall
+  carry her afar off to sojourn. </p>
+id: ISA/23/7
+next:
+  id: ISA/23/8
+  number: '8'
+previous:
+  id: ISA/23/6
+  number: '6'
+reference: 'Isaiah 23:7'

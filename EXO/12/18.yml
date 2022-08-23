@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 12:18" class="v">18</span>¶
+  In the first <span class="add">month</span>, on the fourteenth day of the
+  month at even, ye shall eat unleavened bread, until the one and twentieth day
+  of the month at even. </p>
+id: EXO/12/18
+next:
+  id: EXO/12/19
+  number: '19'
+previous:
+  id: EXO/12/17
+  number: '17'
+reference: 'Exodus 12:18'

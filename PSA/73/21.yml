@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="21" data-sid="PSA 73:21"
+  class="v">21</span>Thus my heart was grieved, and I was pricked in my
+  reins.</p>
+id: PSA/73/21
+next:
+  id: PSA/73/22
+  number: '22'
+previous:
+  id: PSA/73/20
+  number: '20'
+reference: 'Psalms 73:21'

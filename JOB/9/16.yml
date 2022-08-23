@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 9:16" class="v">16</span>If
+  I had called, and he had answered me; <span class="add">yet</span> would I not
+  believe that he had hearkened unto my voice. </p>
+id: JOB/9/16
+next:
+  id: JOB/9/17
+  number: '17'
+previous:
+  id: JOB/9/15
+  number: '15'
+reference: 'Job 9:16'

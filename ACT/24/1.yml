@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 24:1" class="v">1</span>And
+  after five days Ananias the high priest descended with the elders, and <span
+  class="add">with</span> a certain orator <span class="add">named</span>
+  Tertullus, who informed the governor against Paul. </p>
+id: ACT/24/1
+next:
+  id: ACT/24/2
+  number: '2'
+previous:
+  id: ACT/23/35
+  number: '35'
+reference: 'Acts 24:1'

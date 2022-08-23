@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 135:10"
+  class="v">10</span>Who smote great nations, and slew mighty kings;</p>
+id: PSA/135/10
+next:
+  id: PSA/135/11
+  number: '11'
+previous:
+  id: PSA/135/9
+  number: '9'
+reference: 'Psalms 135:10'

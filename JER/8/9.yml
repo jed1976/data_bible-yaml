@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 8:9" class="v">9</span>The
+  wise <span class="add">men</span> are ashamed, they are dismayed and taken:
+  lo, they have rejected the word of the <span class="nd">LORD</span>; and what
+  wisdom <span class="add">is</span> in them? </p>
+id: JER/8/9
+next:
+  id: JER/8/10
+  number: '10'
+previous:
+  id: JER/8/8
+  number: '8'
+reference: 'Jeremiah 8:9'

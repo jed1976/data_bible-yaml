@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 16:35"
+  class="v">35</span>And there came out a fire from the <span
+  class="nd">LORD</span>, and consumed the two hundred and fifty men that
+  offered incense.</p>
+id: NUM/16/35
+next:
+  id: NUM/16/36
+  number: '36'
+previous:
+  id: NUM/16/34
+  number: '34'
+reference: 'Numbers 16:35'

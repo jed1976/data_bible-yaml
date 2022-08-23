@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JER 4:24" class="v">24</span>I
+  beheld the mountains, and, lo, they trembled, and all the hills moved lightly.
+  </p>
+id: JER/4/24
+next:
+  id: JER/4/25
+  number: '25'
+previous:
+  id: JER/4/23
+  number: '23'
+reference: 'Jeremiah 4:24'

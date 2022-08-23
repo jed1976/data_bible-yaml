@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 28:21"
+  class="v">21</span>And the stones shall be with the names of the children of
+  Israel, twelve, according to their names, <span class="add">like</span> the
+  engravings of a signet; every one with his name shall they be according to the
+  twelve tribes.</p>
+id: EXO/28/21
+next:
+  id: EXO/28/22
+  number: '22'
+previous:
+  id: EXO/28/20
+  number: '20'
+reference: 'Exodus 28:21'

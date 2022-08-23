@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 16:10"
+  class="v">10</span>And thou shalt keep the feast of weeks unto the <span
+  class="nd">LORD</span> thy God with a tribute of a freewill offering of thine
+  hand, which thou shalt give <span class="add">unto the <span
+  class="nd">Lord</span> thy God</span>, according as the <span
+  class="nd">LORD</span> thy God hath blessed thee: </p>
+id: DEU/16/10
+next:
+  id: DEU/16/11
+  number: '11'
+previous:
+  id: DEU/16/9
+  number: '9'
+reference: 'Deuteronomy 16:10'

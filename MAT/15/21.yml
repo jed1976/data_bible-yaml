@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 15:21" class="v">21</span>¶
+  Then Jesus went thence, and departed into the coasts of Tyre and Sidon. </p>
+id: MAT/15/21
+next:
+  id: MAT/15/22
+  number: '22'
+previous:
+  id: MAT/15/20
+  number: '20'
+reference: 'Matthew 15:21'

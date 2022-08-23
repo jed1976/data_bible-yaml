@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 25:21"
+  class="v">21</span>And thou shalt put the mercy seat above upon the ark; and
+  in the ark thou shalt put the testimony that I shall give thee. </p>
+id: EXO/25/21
+next:
+  id: EXO/25/22
+  number: '22'
+previous:
+  id: EXO/25/20
+  number: '20'
+reference: 'Exodus 25:21'

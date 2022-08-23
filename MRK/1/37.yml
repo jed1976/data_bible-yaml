@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MRK 1:37" class="v">37</span>And
+  when they had found him, they said unto him, All <span class="add">men</span>
+  seek for thee. </p>
+id: MRK/1/37
+next:
+  id: MRK/1/38
+  number: '38'
+previous:
+  id: MRK/1/36
+  number: '36'
+reference: 'Mark 1:37'

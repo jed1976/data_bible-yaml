@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="EZK 16:44" class="v">44</span>¶
+  Behold, every one that useth proverbs shall use <span class="add">this</span>
+  proverb against thee, saying, As <span class="add">is</span> the mother, <span
+  class="add">so is</span> her daughter. </p>
+id: EZK/16/44
+next:
+  id: EZK/16/45
+  number: '45'
+previous:
+  id: EZK/16/43
+  number: '43'
+reference: 'Ezekiel 16:44'

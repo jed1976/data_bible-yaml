@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 1:22" class="v">22</span>And
+  they were astonished at his doctrine: for he taught them as one that had
+  authority, and not as the scribes. </p>
+id: MRK/1/22
+next:
+  id: MRK/1/23
+  number: '23'
+previous:
+  id: MRK/1/21
+  number: '21'
+reference: 'Mark 1:22'

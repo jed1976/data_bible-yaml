@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 1:33" class="v">33</span>And
+  all the city was gathered together at the door. </p>
+id: MRK/1/33
+next:
+  id: MRK/1/34
+  number: '34'
+previous:
+  id: MRK/1/32
+  number: '32'
+reference: 'Mark 1:33'

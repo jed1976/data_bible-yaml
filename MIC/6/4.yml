@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 6:4" class="v">4</span>For I
+  brought thee up out of the land of Egypt, and redeemed thee out of the house
+  of servants; and I sent before thee Moses, Aaron, and Miriam. </p>
+id: MIC/6/4
+next:
+  id: MIC/6/5
+  number: '5'
+previous:
+  id: MIC/6/3
+  number: '3'
+reference: 'Micah 6:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="RUT 3:11" class="v">11</span>And
+  now, my daughter, fear not; I will do to thee all that thou requirest: for all
+  the city of my people doth know that thou <span class="add">art</span> a
+  virtuous woman. </p>
+id: RUT/3/11
+next:
+  id: RUT/3/12
+  number: '12'
+previous:
+  id: RUT/3/10
+  number: '10'
+reference: 'Ruth 3:11'

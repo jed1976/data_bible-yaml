@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ECC 3:20" class="v">20</span>All
+  go unto one place; all are of the dust, and all turn to dust again. </p>
+id: ECC/3/20
+next:
+  id: ECC/3/21
+  number: '21'
+previous:
+  id: ECC/3/19
+  number: '19'
+reference: 'Ecclesiastes 3:20'

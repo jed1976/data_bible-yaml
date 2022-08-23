@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 46:10"
+  class="v">10</span>For this <span class="add">is</span> the day of the Lord
+  <span class="nd">GOD</span> of hosts, a day of vengeance, that he may avenge
+  him of his adversaries: and the sword shall devour, and it shall be satiate
+  and made drunk with their blood: for the Lord <span class="nd">GOD</span> of
+  hosts hath a sacrifice in the north country by the river Euphrates. </p>
+id: JER/46/10
+next:
+  id: JER/46/11
+  number: '11'
+previous:
+  id: JER/46/9
+  number: '9'
+reference: 'Jeremiah 46:10'

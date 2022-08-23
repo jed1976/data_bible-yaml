@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 17:14"
+  class="v">14</span>And then immediately the brethren sent away Paul to go as
+  it were to the sea: but Silas and Timotheus abode there still. </p>
+id: ACT/17/14
+next:
+  id: ACT/17/15
+  number: '15'
+previous:
+  id: ACT/17/13
+  number: '13'
+reference: 'Acts 17:14'

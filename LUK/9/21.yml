@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 9:21" class="v">21</span>And
+  he straitly charged them, and commanded <span class="add">them</span> to tell
+  no man that thing; </p>
+id: LUK/9/21
+next:
+  id: LUK/9/22
+  number: '22'
+previous:
+  id: LUK/9/20
+  number: '20'
+reference: 'Luke 9:21'

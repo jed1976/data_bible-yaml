@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 19:3"
+  class="v">3</span><span class="add">There is</span> no speech nor language,
+  <span class="add">where</span> their voice is not heard.</p>
+id: PSA/19/3
+next:
+  id: PSA/19/4
+  number: '4'
+previous:
+  id: PSA/19/2
+  number: '2'
+reference: 'Psalms 19:3'

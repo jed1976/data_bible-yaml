@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 3:22" class="v">22</span>For
+  Moses truly said unto the fathers, A prophet shall the Lord your God raise up
+  unto you of your brethren, like unto me; him shall ye hear in all things
+  whatsoever he shall say unto you. </p>
+id: ACT/3/22
+next:
+  id: ACT/3/23
+  number: '23'
+previous:
+  id: ACT/3/21
+  number: '21'
+reference: 'Acts 3:22'

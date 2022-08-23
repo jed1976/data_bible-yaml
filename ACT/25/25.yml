@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 25:25"
+  class="v">25</span>But when I found that he had committed nothing worthy of
+  death, and that he himself hath appealed to Augustus, I have determined to
+  send him. </p>
+id: ACT/25/25
+next:
+  id: ACT/25/26
+  number: '26'
+previous:
+  id: ACT/25/24
+  number: '24'
+reference: 'Acts 25:25'

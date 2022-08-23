@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 128:4"
+  class="v">4</span>Behold, that thus shall the man be blessed that feareth the
+  <span class="nd">LORD</span>.</p>
+id: PSA/128/4
+next:
+  id: PSA/128/5
+  number: '5'
+previous:
+  id: PSA/128/3
+  number: '3'
+reference: 'Psalms 128:4'

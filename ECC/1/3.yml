@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 1:3" class="v">3</span>What
+  profit hath a man of all his labour which he taketh under the sun?</p>
+id: ECC/1/3
+next:
+  id: ECC/1/4
+  number: '4'
+previous:
+  id: ECC/1/2
+  number: '2'
+reference: 'Ecclesiastes 1:3'

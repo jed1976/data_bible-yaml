@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="LUK 22:47" class="v">47</span>¶
+  And while he yet spake, behold a multitude, and he that was called Judas, one
+  of the twelve, went before them, and drew near unto Jesus to kiss him. </p>
+id: LUK/22/47
+next:
+  id: LUK/22/48
+  number: '48'
+previous:
+  id: LUK/22/46
+  number: '46'
+reference: 'Luke 22:47'

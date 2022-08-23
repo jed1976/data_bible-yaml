@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 48:9" class="v">9</span>And
+  Joseph said unto his father, They <span class="add">are</span> my sons, whom
+  God hath given me in this <span class="add">place</span>. And he said, Bring
+  them, I pray thee, unto me, and I will bless them. </p>
+id: GEN/48/9
+next:
+  id: GEN/48/10
+  number: '10'
+previous:
+  id: GEN/48/8
+  number: '8'
+reference: 'Genesis 48:9'

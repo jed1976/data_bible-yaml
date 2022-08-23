@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 2:6" class="v">6</span>Yet
+  have I set my king upon my holy hill of Zion.</p>
+id: PSA/2/6
+next:
+  id: PSA/2/7
+  number: '7'
+previous:
+  id: PSA/2/5
+  number: '5'
+reference: 'Psalms 2:6'

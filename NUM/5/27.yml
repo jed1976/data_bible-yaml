@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 5:27" class="v">27</span>And
+  when he hath made her to drink the water, then it shall come to pass, <span
+  class="add">that</span>, if she be defiled, and have done trespass against her
+  husband, that the water that causeth the curse shall enter into her, <span
+  class="add">and become</span> bitter, and her belly shall swell, and her thigh
+  shall rot: and the woman shall be a curse among her people. </p>
+id: NUM/5/27
+next:
+  id: NUM/5/28
+  number: '28'
+previous:
+  id: NUM/5/26
+  number: '26'
+reference: 'Numbers 5:27'

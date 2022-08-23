@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 33:3" class="v">3</span>And
+  he passed over before them, and bowed himself to the ground seven times, until
+  he came near to his brother. </p>
+id: GEN/33/3
+next:
+  id: GEN/33/4
+  number: '4'
+previous:
+  id: GEN/33/2
+  number: '2'
+reference: 'Genesis 33:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CH 1:33" class="v">33</span>And
+  the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All
+  these <span class="add">are</span> the sons of Keturah. </p>
+id: 1CH/1/33
+next:
+  id: 1CH/1/34
+  number: '34'
+previous:
+  id: 1CH/1/32
+  number: '32'
+reference: '1 Chronicles 1:33'

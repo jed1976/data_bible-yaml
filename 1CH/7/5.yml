@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 7:5" class="v">5</span>And
+  their brethren among all the families of Issachar <span
+  class="add">were</span> valiant men of might, reckoned in all by their
+  genealogies fourscore and seven thousand.</p>
+id: 1CH/7/5
+next:
+  id: 1CH/7/6
+  number: '6'
+previous:
+  id: 1CH/7/4
+  number: '4'
+reference: '1 Chronicles 7:5'

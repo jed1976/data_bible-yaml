@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 4:10" class="v">10</span>How
+  fair is thy love, my sister, <span class="add">my</span> spouse! how much
+  better is thy love than wine! and the smell of thine ointments than all
+  spices! </p>
+id: SNG/4/10
+next:
+  id: SNG/4/11
+  number: '11'
+previous:
+  id: SNG/4/9
+  number: '9'
+reference: 'Song of Solomon 4:10'

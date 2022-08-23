@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 4:7" class="v">7</span>Jesus
+  said unto him, <span class="wj">It is written again, Thou shalt not tempt the
+  Lord thy God.</span> </p>
+id: MAT/4/7
+next:
+  id: MAT/4/8
+  number: '8'
+previous:
+  id: MAT/4/6
+  number: '6'
+reference: 'Matthew 4:7'

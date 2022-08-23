@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 21:3" class="v">3</span>And
+  the <span class="nd">LORD</span> hearkened to the voice of Israel, and
+  delivered up the Canaanites; and they utterly destroyed them and their cities:
+  and he called the name of the place Hormah.</p>
+id: NUM/21/3
+next:
+  id: NUM/21/4
+  number: '4'
+previous:
+  id: NUM/21/2
+  number: '2'
+reference: 'Numbers 21:3'

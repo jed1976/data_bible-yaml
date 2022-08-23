@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 7:9" class="v">9</span>But
+  unto the sons of Kohath he gave none: because the service of the sanctuary
+  belonging unto them <span class="add">was that</span> they should bear upon
+  their shoulders.</p>
+id: NUM/7/9
+next:
+  id: NUM/7/10
+  number: '10'
+previous:
+  id: NUM/7/8
+  number: '8'
+reference: 'Numbers 7:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 9:12" class="v">12</span>And
+  God said, This <span class="add">is</span> the token of the covenant which I
+  make between me and you and every living creature that <span
+  class="add">is</span> with you, for perpetual generations: </p>
+id: GEN/9/12
+next:
+  id: GEN/9/13
+  number: '13'
+previous:
+  id: GEN/9/11
+  number: '11'
+reference: 'Genesis 9:12'

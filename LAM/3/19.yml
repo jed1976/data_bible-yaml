@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LAM 3:19"
+  class="v">19</span>Remembering mine affliction and my misery, the wormwood and
+  the gall. </p>
+id: LAM/3/19
+next:
+  id: LAM/3/20
+  number: '20'
+previous:
+  id: LAM/3/18
+  number: '18'
+reference: 'Lamentations 3:19'

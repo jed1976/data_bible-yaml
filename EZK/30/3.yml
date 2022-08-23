@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 30:3" class="v">3</span>For
+  the day <span class="add">is</span> near, even the day of the <span
+  class="nd">LORD</span> <span class="add">is</span> near, a cloudy day; it
+  shall be the time of the heathen. </p>
+id: EZK/30/3
+next:
+  id: EZK/30/4
+  number: '4'
+previous:
+  id: EZK/30/2
+  number: '2'
+reference: 'Ezekiel 30:3'

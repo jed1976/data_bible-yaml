@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 38:21"
+  class="v">21</span>Then he asked the men of that place, saying, Where <span
+  class="add">is</span> the harlot, that <span class="add">was</span> openly by
+  the way side? And they said, There was no harlot in this <span
+  class="add">place</span>. </p>
+id: GEN/38/21
+next:
+  id: GEN/38/22
+  number: '22'
+previous:
+  id: GEN/38/20
+  number: '20'
+reference: 'Genesis 38:21'

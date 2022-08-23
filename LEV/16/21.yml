@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 16:21"
+  class="v">21</span>And Aaron shall lay both his hands upon the head of the
+  live goat, and confess over him all the iniquities of the children of Israel,
+  and all their transgressions in all their sins, putting them upon the head of
+  the goat, and shall send <span class="add">him</span> away by the hand of a
+  fit man into the wilderness: </p>
+id: LEV/16/21
+next:
+  id: LEV/16/22
+  number: '22'
+previous:
+  id: LEV/16/20
+  number: '20'
+reference: 'Leviticus 16:21'

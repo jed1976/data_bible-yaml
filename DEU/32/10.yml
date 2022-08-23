@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 32:10" class="v">10</span>He
+  found him in a desert land, and in the waste howling wilderness; he led him
+  about, he instructed him, he kept him as the apple of his eye. </p>
+id: DEU/32/10
+next:
+  id: DEU/32/11
+  number: '11'
+previous:
+  id: DEU/32/9
+  number: '9'
+reference: 'Deuteronomy 32:10'

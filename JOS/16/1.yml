@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 16:1" class="v">1</span>And
+  the lot of the children of Joseph fell from Jordan by Jericho, unto the water
+  of Jericho on the east, to the wilderness that goeth up from Jericho
+  throughout mount Beth-el, </p>
+id: JOS/16/1
+next:
+  id: JOS/16/2
+  number: '2'
+previous:
+  id: JOS/15/63
+  number: '63'
+reference: 'Joshua 16:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 51:16"
+  class="v">16</span>For thou desirest not sacrifice; else would I give <span
+  class="add">it:</span> thou delightest not in burnt offering.</p>
+id: PSA/51/16
+next:
+  id: PSA/51/17
+  number: '17'
+previous:
+  id: PSA/51/15
+  number: '15'
+reference: 'Psalms 51:16'

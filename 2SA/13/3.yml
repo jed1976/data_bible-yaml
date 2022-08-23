@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 13:3" class="v">3</span>But
+  Amnon had a friend, whose name <span class="add">was</span> Jonadab, the son
+  of Shimeah David’s brother: and Jonadab <span class="add">was</span> a very
+  subtil man. </p>
+id: 2SA/13/3
+next:
+  id: 2SA/13/4
+  number: '4'
+previous:
+  id: 2SA/13/2
+  number: '2'
+reference: '2 Samuel 13:3'

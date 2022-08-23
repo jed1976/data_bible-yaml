@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 29:10" class="v">10</span>¶
+  For thus saith the <span class="nd">LORD</span>, That after seventy years be
+  accomplished at Babylon I will visit you, and perform my good word toward you,
+  in causing you to return to this place. </p>
+id: JER/29/10
+next:
+  id: JER/29/11
+  number: '11'
+previous:
+  id: JER/29/9
+  number: '9'
+reference: 'Jeremiah 29:10'

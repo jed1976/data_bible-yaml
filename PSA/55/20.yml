@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 55:20"
+  class="v">20</span>He hath put forth his hands against such as be at peace
+  with him: he hath broken his covenant.</p>
+id: PSA/55/20
+next:
+  id: PSA/55/21
+  number: '21'
+previous:
+  id: PSA/55/19
+  number: '19'
+reference: 'Psalms 55:20'

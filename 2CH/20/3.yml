@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 20:3" class="v">3</span>And
+  Jehoshaphat feared, and set himself to seek the <span class="nd">LORD</span>,
+  and proclaimed a fast throughout all Judah. </p>
+id: 2CH/20/3
+next:
+  id: 2CH/20/4
+  number: '4'
+previous:
+  id: 2CH/20/2
+  number: '2'
+reference: '2 Chronicles 20:3'

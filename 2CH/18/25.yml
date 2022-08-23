@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2CH 18:25"
+  class="v">25</span>Then the king of Israel said, Take ye Micaiah, and carry
+  him back to Amon the governor of the city, and to Joash the king’s son; </p>
+id: 2CH/18/25
+next:
+  id: 2CH/18/26
+  number: '26'
+previous:
+  id: 2CH/18/24
+  number: '24'
+reference: '2 Chronicles 18:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 26:4" class="v">4</span>Then
+  I will give you rain in due season, and the land shall yield her increase, and
+  the trees of the field shall yield their fruit. </p>
+id: LEV/26/4
+next:
+  id: LEV/26/5
+  number: '5'
+previous:
+  id: LEV/26/3
+  number: '3'
+reference: 'Leviticus 26:4'

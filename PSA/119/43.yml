@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="43" data-sid="PSA 119:43"
+  class="v">43</span>And take not the word of truth utterly out of my mouth; for
+  I have hoped in thy judgments.</p>
+id: PSA/119/43
+next:
+  id: PSA/119/44
+  number: '44'
+previous:
+  id: PSA/119/42
+  number: '42'
+reference: 'Psalms 119:43'

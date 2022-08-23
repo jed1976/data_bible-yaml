@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="NUM 11:34"
+  class="v">34</span>And he called the name of that place Kibroth-hattaavah:
+  because there they buried the people that lusted. </p>
+id: NUM/11/34
+next:
+  id: NUM/11/35
+  number: '35'
+previous:
+  id: NUM/11/33
+  number: '33'
+reference: 'Numbers 11:34'

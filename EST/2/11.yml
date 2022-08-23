@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EST 2:11" class="v">11</span>And
+  Mordecai walked every day before the court of the women’s house, to know how
+  Esther did, and what should become of her.</p>
+id: EST/2/11
+next:
+  id: EST/2/12
+  number: '12'
+previous:
+  id: EST/2/10
+  number: '10'
+reference: 'Esther 2:11'

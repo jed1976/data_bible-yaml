@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 2:3" class="v">3</span>And,
+  behold, the angel that talked with me went forth, and another angel went out
+  to meet him, </p>
+id: ZEC/2/3
+next:
+  id: ZEC/2/4
+  number: '4'
+previous:
+  id: ZEC/2/2
+  number: '2'
+reference: 'Zechariah 2:3'

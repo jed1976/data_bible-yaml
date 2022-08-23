@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 16:3" class="v">3</span>For
+  thus saith the <span class="nd">LORD</span> concerning the sons and concerning
+  the daughters that are born in this place, and concerning their mothers that
+  bare them, and concerning their fathers that begat them in this land; </p>
+id: JER/16/3
+next:
+  id: JER/16/4
+  number: '4'
+previous:
+  id: JER/16/2
+  number: '2'
+reference: 'Jeremiah 16:3'

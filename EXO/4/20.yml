@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 4:20" class="v">20</span>And
+  Moses took his wife and his sons, and set them upon an ass, and he returned to
+  the land of Egypt: and Moses took the rod of God in his hand. </p>
+id: EXO/4/20
+next:
+  id: EXO/4/21
+  number: '21'
+previous:
+  id: EXO/4/19
+  number: '19'
+reference: 'Exodus 4:20'

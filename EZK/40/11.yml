@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 40:11"
+  class="v">11</span>And he measured the breadth of the entry of the gate, ten
+  cubits; <span class="add">and</span> the length of the gate, thirteen cubits.
+  </p>
+id: EZK/40/11
+next:
+  id: EZK/40/12
+  number: '12'
+previous:
+  id: EZK/40/10
+  number: '10'
+reference: 'Ezekiel 40:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 82:8"
+  class="v">8</span>Arise, O God, judge the earth: for thou shalt inherit all
+  nations.</p>
+id: PSA/82/8
+next:
+  id: PSA/83/1
+  number: '1'
+previous:
+  id: PSA/82/7
+  number: '7'
+reference: 'Psalms 82:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="COL 3:22"
+  class="v">22</span>Servants, obey in all things <span class="add">your</span>
+  masters according to the flesh; not with eyeservice, as menpleasers; but in
+  singleness of heart, fearing God: </p>
+id: COL/3/22
+next:
+  id: COL/3/23
+  number: '23'
+previous:
+  id: COL/3/21
+  number: '21'
+reference: 'Colossians 3:22'

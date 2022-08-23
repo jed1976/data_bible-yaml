@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NEH 7:32" class="v">32</span>The
+  men of Beth-el and Ai, an hundred twenty and three. </p>
+id: NEH/7/32
+next:
+  id: NEH/7/33
+  number: '33'
+previous:
+  id: NEH/7/31
+  number: '31'
+reference: 'Nehemiah 7:32'

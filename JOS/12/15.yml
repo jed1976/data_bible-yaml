@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 12:15"
+  class="v">15</span>The king of Libnah, one; the king of Adullam, one; </p>
+id: JOS/12/15
+next:
+  id: JOS/12/16
+  number: '16'
+previous:
+  id: JOS/12/14
+  number: '14'
+reference: 'Joshua 12:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 4:7" class="v">7</span>And he
+  said, Put thine hand into thy bosom again. And he put his hand into his bosom
+  again; and plucked it out of his bosom, and, behold, it was turned again as
+  his <span class="add">other</span> flesh. </p>
+id: EXO/4/7
+next:
+  id: EXO/4/8
+  number: '8'
+previous:
+  id: EXO/4/6
+  number: '6'
+reference: 'Exodus 4:7'

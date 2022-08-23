@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 23:4" class="v">4</span><span
+  class="wj">For they bind heavy burdens and grievous to be borne, and lay <span
+  class="add">them</span> on men’s shoulders; but they themselves will not move
+  them with one of their fingers.</span> </p>
+id: MAT/23/4
+next:
+  id: MAT/23/5
+  number: '5'
+previous:
+  id: MAT/23/3
+  number: '3'
+reference: 'Matthew 23:4'

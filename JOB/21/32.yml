@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOB 21:32"
+  class="v">32</span>Yet shall he be brought to the grave, and shall remain in
+  the tomb. </p>
+id: JOB/21/32
+next:
+  id: JOB/21/33
+  number: '33'
+previous:
+  id: JOB/21/31
+  number: '31'
+reference: 'Job 21:32'

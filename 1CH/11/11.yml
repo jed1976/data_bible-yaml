@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 11:11"
+  class="v">11</span>And this <span class="add">is</span> the number of the
+  mighty men whom David had; Jashobeam, an Hachmonite, the chief of the
+  captains: he lifted up his spear against three hundred slain <span
+  class="add">by him</span> at one time. </p>
+id: 1CH/11/11
+next:
+  id: 1CH/11/12
+  number: '12'
+previous:
+  id: 1CH/11/10
+  number: '10'
+reference: '1 Chronicles 11:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 3:9" class="v">9</span>What
+  then? are we better <span class="add">than they</span>? No, in no wise: for we
+  have before proved both Jews and Gentiles, that they are all under sin; </p>
+id: ROM/3/9
+next:
+  id: ROM/3/10
+  number: '10'
+previous:
+  id: ROM/3/8
+  number: '8'
+reference: 'Romans 3:9'

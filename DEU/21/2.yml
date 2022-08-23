@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 21:2" class="v">2</span>Then
+  thy elders and thy judges shall come forth, and they shall measure unto the
+  cities which <span class="add">are</span> round about him that is slain: </p>
+id: DEU/21/2
+next:
+  id: DEU/21/3
+  number: '3'
+previous:
+  id: DEU/21/1
+  number: '1'
+reference: 'Deuteronomy 21:2'

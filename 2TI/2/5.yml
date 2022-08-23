@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2TI 2:5" class="v">5</span>And if
+  a man also strive for masteries, <span class="add">yet</span> is he not
+  crowned, except he strive lawfully. </p>
+id: 2TI/2/5
+next:
+  id: 2TI/2/6
+  number: '6'
+previous:
+  id: 2TI/2/4
+  number: '4'
+reference: '2 Timothy 2:5'

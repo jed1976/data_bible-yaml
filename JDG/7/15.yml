@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 7:15" class="v">15</span>¶
+  And it was <span class="add">so</span>, when Gideon heard the telling of the
+  dream, and the interpretation thereof, that he worshipped, and returned into
+  the host of Israel, and said, Arise; for the <span class="nd">LORD</span> hath
+  delivered into your hand the host of Midian.</p>
+id: JDG/7/15
+next:
+  id: JDG/7/16
+  number: '16'
+previous:
+  id: JDG/7/14
+  number: '14'
+reference: 'Judges 7:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 123:4" class="v">4</span>Our
+  soul is exceedingly filled with the scorning of those that are at ease, <span
+  class="add">and</span> with the contempt of the proud.</p>
+id: PSA/123/4
+next:
+  id: PSA/124/1
+  number: '1'
+previous:
+  id: PSA/123/3
+  number: '3'
+reference: 'Psalms 123:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 32:27"
+  class="v">27</span>And he said unto them, Thus saith the <span
+  class="nd">LORD</span> God of Israel, Put every man his sword by his side,
+  <span class="add">and</span> go in and out from gate to gate throughout the
+  camp, and slay every man his brother, and every man his companion, and every
+  man his neighbour. </p>
+id: EXO/32/27
+next:
+  id: EXO/32/28
+  number: '28'
+previous:
+  id: EXO/32/26
+  number: '26'
+reference: 'Exodus 32:27'

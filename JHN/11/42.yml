@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 11:42"
+  class="v">42</span><span class="wj">And I knew that thou hearest me always:
+  but because of the people which stand by I said <span class="add">it</span>,
+  that they may believe that thou hast sent me.</span> </p>
+id: JHN/11/42
+next:
+  id: JHN/11/43
+  number: '43'
+previous:
+  id: JHN/11/41
+  number: '41'
+reference: 'John 11:42'

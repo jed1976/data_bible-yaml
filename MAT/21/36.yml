@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 21:36"
+  class="v">36</span><span class="wj">Again, he sent other servants more than
+  the first: and they did unto them likewise.</span> </p>
+id: MAT/21/36
+next:
+  id: MAT/21/37
+  number: '37'
+previous:
+  id: MAT/21/35
+  number: '35'
+reference: 'Matthew 21:36'

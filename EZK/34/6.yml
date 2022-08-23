@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 34:6" class="v">6</span>My
+  sheep wandered through all the mountains, and upon every high hill: yea, my
+  flock was scattered upon all the face of the earth, and none did search or
+  seek <span class="add">after them</span>.</p>
+id: EZK/34/6
+next:
+  id: EZK/34/7
+  number: '7'
+previous:
+  id: EZK/34/5
+  number: '5'
+reference: 'Ezekiel 34:6'

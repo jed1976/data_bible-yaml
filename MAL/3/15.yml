@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAL 3:15" class="v">15</span>And
+  now we call the proud happy; yea, they that work wickedness are set up; yea,
+  <span class="add">they that</span> tempt God are even delivered.</p>
+id: MAL/3/15
+next:
+  id: MAL/3/16
+  number: '16'
+previous:
+  id: MAL/3/14
+  number: '14'
+reference: 'Malachi 3:15'

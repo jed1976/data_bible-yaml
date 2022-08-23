@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 7:5" class="v">5</span>And
+  the priest shall burn them upon the altar <span class="add">for</span> an
+  offering made by fire unto the <span class="nd">LORD</span>: it <span
+  class="add">is</span> a trespass offering. </p>
+id: LEV/7/5
+next:
+  id: LEV/7/6
+  number: '6'
+previous:
+  id: LEV/7/4
+  number: '4'
+reference: 'Leviticus 7:5'

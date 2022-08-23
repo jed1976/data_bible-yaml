@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZK 12:7" class="v">7</span>And I
+  did so as I was commanded: I brought forth my stuff by day, as stuff for
+  captivity, and in the even I digged through the wall with mine hand; I brought
+  <span class="add">it</span> forth in the twilight, <span
+  class="add">and</span> I bare <span class="add">it</span> upon <span
+  class="add">my</span> shoulder in their sight.</p>
+id: EZK/12/7
+next:
+  id: EZK/12/8
+  number: '8'
+previous:
+  id: EZK/12/6
+  number: '6'
+reference: 'Ezekiel 12:7'

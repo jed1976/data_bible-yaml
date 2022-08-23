@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 30:1" class="v">1</span>And
+  it came to pass, when David and his men were come to Ziklag on the third day,
+  that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and
+  burned it with fire; </p>
+id: 1SA/30/1
+next:
+  id: 1SA/30/2
+  number: '2'
+previous:
+  id: 1SA/29/11
+  number: '11'
+reference: '1 Samuel 30:1'

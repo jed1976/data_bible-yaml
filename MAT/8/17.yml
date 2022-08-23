@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 8:17"
+  class="v">17</span>That it might be fulfilled which was spoken by Esaias the
+  prophet, saying, Himself took our infirmities, and bare <span
+  class="add">our</span> sicknesses.</p>
+id: MAT/8/17
+next:
+  id: MAT/8/18
+  number: '18'
+previous:
+  id: MAT/8/16
+  number: '16'
+reference: 'Matthew 8:17'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 7:23" class="v">23</span>And
+  what one nation in the earth <span class="add">is</span> like thy people,
+  <span class="add">even</span> like Israel, whom God went to redeem for a
+  people to himself, and to make him a name, and to do for you great things and
+  terrible, for thy land, before thy people, which thou redeemedst to thee from
+  Egypt, <span class="add">from</span> the nations and their gods? </p>
+id: 2SA/7/23
+next:
+  id: 2SA/7/24
+  number: '24'
+previous:
+  id: 2SA/7/22
+  number: '22'
+reference: '2 Samuel 7:23'

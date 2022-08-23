@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 6:11" class="v">11</span>The
+  earth also was corrupt before God, and the earth was filled with violence.
+  </p>
+id: GEN/6/11
+next:
+  id: GEN/6/12
+  number: '12'
+previous:
+  id: GEN/6/10
+  number: '10'
+reference: 'Genesis 6:11'

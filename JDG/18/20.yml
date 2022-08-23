@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 18:20"
+  class="v">20</span>And the priest’s heart was glad, and he took the ephod, and
+  the teraphim, and the graven image, and went in the midst of the people. </p>
+id: JDG/18/20
+next:
+  id: JDG/18/21
+  number: '21'
+previous:
+  id: JDG/18/19
+  number: '19'
+reference: 'Judges 18:20'

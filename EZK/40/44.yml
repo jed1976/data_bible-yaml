@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="EZK 40:44" class="v">44</span>¶
+  And without the inner gate <span class="add">were</span> the chambers of the
+  singers in the inner court, which <span class="add">was</span> at the side of
+  the north gate; and their prospect <span class="add">was</span> toward the
+  south: one at the side of the east gate <span class="add">having</span> the
+  prospect toward the north. </p>
+id: EZK/40/44
+next:
+  id: EZK/40/45
+  number: '45'
+previous:
+  id: EZK/40/43
+  number: '43'
+reference: 'Ezekiel 40:44'

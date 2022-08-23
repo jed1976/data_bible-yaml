@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MRK 1:45" class="v">45</span>But
+  he went out, and began to publish <span class="add">it</span> much, and to
+  blaze abroad the matter, insomuch that Jesus could no more openly enter into
+  the city, but was without in desert places: and they came to him from every
+  quarter.</p>
+id: MRK/1/45
+next:
+  id: MRK/2/1
+  number: '1'
+previous:
+  id: MRK/1/44
+  number: '44'
+reference: 'Mark 1:45'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 25:7" class="v">7</span>And
+  when Phinehas, the son of Eleazar, the son of Aaron the priest, saw <span
+  class="add">it</span>, he rose up from among the congregation, and took a
+  javelin in his hand; </p>
+id: NUM/25/7
+next:
+  id: NUM/25/8
+  number: '8'
+previous:
+  id: NUM/25/6
+  number: '6'
+reference: 'Numbers 25:7'

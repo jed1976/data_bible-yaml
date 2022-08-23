@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="GEN 24:46"
+  class="v">46</span>And she made haste, and let down her pitcher from her <span
+  class="add">shoulder</span>, and said, Drink, and I will give thy camels drink
+  also: so I drank, and she made the camels drink also. </p>
+id: GEN/24/46
+next:
+  id: GEN/24/47
+  number: '47'
+previous:
+  id: GEN/24/45
+  number: '45'
+reference: 'Genesis 24:46'

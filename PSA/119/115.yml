@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="115" data-sid="PSA 119:115"
+  class="v">115</span>Depart from me, ye evildoers: for I will keep the
+  commandments of my God.</p>
+id: PSA/119/115
+next:
+  id: PSA/119/116
+  number: '116'
+previous:
+  id: PSA/119/114
+  number: '114'
+reference: 'Psalms 119:115'

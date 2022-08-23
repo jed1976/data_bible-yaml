@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 16:6" class="v">6</span>And
+  Moses and Aaron said unto all the children of Israel, At even, then ye shall
+  know that the <span class="nd">LORD</span> hath brought you out from the land
+  of Egypt: </p>
+id: EXO/16/6
+next:
+  id: EXO/16/7
+  number: '7'
+previous:
+  id: EXO/16/5
+  number: '5'
+reference: 'Exodus 16:6'

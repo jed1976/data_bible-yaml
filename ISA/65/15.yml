@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 65:15"
+  class="v">15</span>And ye shall leave your name for a curse unto my chosen:
+  for the Lord <span class="nd">GOD</span> shall slay thee, and call his
+  servants by another name: </p>
+id: ISA/65/15
+next:
+  id: ISA/65/16
+  number: '16'
+previous:
+  id: ISA/65/14
+  number: '14'
+reference: 'Isaiah 65:15'

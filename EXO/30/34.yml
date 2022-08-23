@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 30:34" class="v">34</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Take unto thee sweet
+  spices, stacte, and onycha, and galbanum; <span class="add">these</span> sweet
+  spices with pure frankincense: of each shall there be a like <span
+  class="add">weight:</span> </p>
+id: EXO/30/34
+next:
+  id: EXO/30/35
+  number: '35'
+previous:
+  id: EXO/30/33
+  number: '33'
+reference: 'Exodus 30:34'

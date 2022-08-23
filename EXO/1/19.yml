@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 1:19" class="v">19</span>And
+  the midwives said unto Pharaoh, Because the Hebrew women <span
+  class="add">are</span> not as the Egyptian women; for they <span
+  class="add">are</span> lively, and are delivered ere the midwives come in unto
+  them. </p>
+id: EXO/1/19
+next:
+  id: EXO/1/20
+  number: '20'
+previous:
+  id: EXO/1/18
+  number: '18'
+reference: 'Exodus 1:19'

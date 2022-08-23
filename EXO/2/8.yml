@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 2:8" class="v">8</span>And
+  Pharaoh’s daughter said to her, Go. And the maid went and called the child’s
+  mother. </p>
+id: EXO/2/8
+next:
+  id: EXO/2/9
+  number: '9'
+previous:
+  id: EXO/2/7
+  number: '7'
+reference: 'Exodus 2:8'

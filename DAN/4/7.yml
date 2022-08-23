@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 4:7" class="v">7</span>Then
+  came in the magicians, the astrologers, the Chaldeans, and the soothsayers:
+  and I told the dream before them; but they did not make known unto me the
+  interpretation thereof.</p>
+id: DAN/4/7
+next:
+  id: DAN/4/8
+  number: '8'
+previous:
+  id: DAN/4/6
+  number: '6'
+reference: 'Daniel 4:7'

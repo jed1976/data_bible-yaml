@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 34:13"
+  class="v">13</span>And thorns shall come up in her palaces, nettles and
+  brambles in the fortresses thereof: and it shall be an habitation of dragons,
+  <span class="add">and</span> a court for owls. </p>
+id: ISA/34/13
+next:
+  id: ISA/34/14
+  number: '14'
+previous:
+  id: ISA/34/12
+  number: '12'
+reference: 'Isaiah 34:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 2:3" class="v">3</span>And
+  his men that <span class="add">were</span> with him did David bring up, every
+  man with his household: and they dwelt in the cities of Hebron. </p>
+id: 2SA/2/3
+next:
+  id: 2SA/2/4
+  number: '4'
+previous:
+  id: 2SA/2/2
+  number: '2'
+reference: '2 Samuel 2:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 19:23" class="v">23</span>Oh
+  that my words were now written! oh that they were printed in a book! </p>
+id: JOB/19/23
+next:
+  id: JOB/19/24
+  number: '24'
+previous:
+  id: JOB/19/22
+  number: '22'
+reference: 'Job 19:23'

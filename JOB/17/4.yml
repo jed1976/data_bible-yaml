@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 17:4" class="v">4</span>For
+  thou hast hid their heart from understanding: therefore shalt thou not exalt
+  <span class="add">them</span>. </p>
+id: JOB/17/4
+next:
+  id: JOB/17/5
+  number: '5'
+previous:
+  id: JOB/17/3
+  number: '3'
+reference: 'Job 17:4'

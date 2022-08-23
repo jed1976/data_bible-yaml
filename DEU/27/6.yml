@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 27:6" class="v">6</span>Thou
+  shalt build the altar of the <span class="nd">LORD</span> thy God of whole
+  stones: and thou shalt offer burnt offerings thereon unto the <span
+  class="nd">LORD</span> thy God: </p>
+id: DEU/27/6
+next:
+  id: DEU/27/7
+  number: '7'
+previous:
+  id: DEU/27/5
+  number: '5'
+reference: 'Deuteronomy 27:6'

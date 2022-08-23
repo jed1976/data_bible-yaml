@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NEH 12:33"
+  class="v">33</span>And Azariah, Ezra, and Meshullam, </p>
+id: NEH/12/33
+next:
+  id: NEH/12/34
+  number: '34'
+previous:
+  id: NEH/12/32
+  number: '32'
+reference: 'Nehemiah 12:33'

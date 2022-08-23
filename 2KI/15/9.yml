@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 15:9" class="v">9</span>And
+  he did <span class="add">that which was</span> evil in the sight of the <span
+  class="nd">LORD</span>, as his fathers had done: he departed not from the sins
+  of Jeroboam the son of Nebat, who made Israel to sin. </p>
+id: 2KI/15/9
+next:
+  id: 2KI/15/10
+  number: '10'
+previous:
+  id: 2KI/15/8
+  number: '8'
+reference: '2 Kings 15:9'

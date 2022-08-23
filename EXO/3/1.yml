@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 3:1" class="v">1</span>Now
+  Moses kept the flock of Jethro his father in law, the priest of Midian: and he
+  led the flock to the backside of the desert, and came to the mountain of God,
+  <span class="add">even</span> to Horeb. </p>
+id: EXO/3/1
+next:
+  id: EXO/3/2
+  number: '2'
+previous:
+  id: EXO/2/25
+  number: '25'
+reference: 'Exodus 3:1'

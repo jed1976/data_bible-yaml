@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 4:13" class="v">13</span>I
+  saw in the visions of my head upon my bed, and, behold, a watcher and an holy
+  one came down from heaven; </p>
+id: DAN/4/13
+next:
+  id: DAN/4/14
+  number: '14'
+previous:
+  id: DAN/4/12
+  number: '12'
+reference: 'Daniel 4:13'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 6:20" class="v">20</span>For
+  when ye were the servants of sin, ye were free from righteousness. </p>
+id: ROM/6/20
+next:
+  id: ROM/6/21
+  number: '21'
+previous:
+  id: ROM/6/19
+  number: '19'
+reference: 'Romans 6:20'

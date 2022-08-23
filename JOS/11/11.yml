@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 11:11"
+  class="v">11</span>And they smote all the souls that <span
+  class="add">were</span> therein with the edge of the sword, utterly destroying
+  <span class="add">them:</span> there was not any left to breathe: and he burnt
+  Hazor with fire. </p>
+id: JOS/11/11
+next:
+  id: JOS/11/12
+  number: '12'
+previous:
+  id: JOS/11/10
+  number: '10'
+reference: 'Joshua 11:11'

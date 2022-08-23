@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 23:1" class="v">1</span>And
+  it came to pass a long time after that the <span class="nd">LORD</span> had
+  given rest unto Israel from all their enemies round about, that Joshua waxed
+  old <span class="add">and</span> stricken in age. </p>
+id: JOS/23/1
+next:
+  id: JOS/23/2
+  number: '2'
+previous:
+  id: JOS/22/34
+  number: '34'
+reference: 'Joshua 23:1'

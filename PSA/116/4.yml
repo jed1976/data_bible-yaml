@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 116:4"
+  class="v">4</span>Then called I upon the name of the <span
+  class="nd">LORD</span>; O <span class="nd">LORD</span>, I beseech thee,
+  deliver my soul.</p>
+id: PSA/116/4
+next:
+  id: PSA/116/5
+  number: '5'
+previous:
+  id: PSA/116/3
+  number: '3'
+reference: 'Psalms 116:4'

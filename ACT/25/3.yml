@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 25:3" class="v">3</span>And
+  desired favour against him, that he would send for him to Jerusalem, laying
+  wait in the way to kill him. </p>
+id: ACT/25/3
+next:
+  id: ACT/25/4
+  number: '4'
+previous:
+  id: ACT/25/2
+  number: '2'
+reference: 'Acts 25:3'

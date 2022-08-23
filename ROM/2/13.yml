@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 2:13"
+  class="v">13</span>(For not the hearers of the law <span
+  class="add">are</span> just before God, but the doers of the law shall be
+  justified. </p>
+id: ROM/2/13
+next:
+  id: ROM/2/14
+  number: '14'
+previous:
+  id: ROM/2/12
+  number: '12'
+reference: 'Romans 2:13'

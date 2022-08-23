@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 20:5"
+  class="v">5</span>Counsel in the heart of man <span class="add">is like</span>
+  deep water; but a man of understanding will draw it out. </p>
+id: PRO/20/5
+next:
+  id: PRO/20/6
+  number: '6'
+previous:
+  id: PRO/20/4
+  number: '4'
+reference: 'Proverbs 20:5'

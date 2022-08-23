@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 4:13" class="v">13</span>And
+  they shall take away the ashes from the altar, and spread a purple cloth
+  thereon: </p>
+id: NUM/4/13
+next:
+  id: NUM/4/14
+  number: '14'
+previous:
+  id: NUM/4/12
+  number: '12'
+reference: 'Numbers 4:13'

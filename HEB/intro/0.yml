@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS</p>
+id: HEB/intro/0
+next:
+  id: HEB/1/1
+  number: '1'
+previous:
+  id: PHM/1/25
+  number: '25'
+reference: Hebrews

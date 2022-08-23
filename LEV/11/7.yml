@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 11:7" class="v">7</span>And
+  the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not
+  the cud; he <span class="add">is</span> unclean to you. </p>
+id: LEV/11/7
+next:
+  id: LEV/11/8
+  number: '8'
+previous:
+  id: LEV/11/6
+  number: '6'
+reference: 'Leviticus 11:7'

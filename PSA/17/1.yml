@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Prayer of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 17:1" class="v">1</span>Hear the right, O <span
+  class="nd">LORD</span>, attend unto my cry, give ear unto my prayer, <span
+  class="add">that goeth</span> not out of feigned lips.</p>
+id: PSA/17/1
+next:
+  id: PSA/17/2
+  number: '2'
+previous:
+  id: PSA/16/11
+  number: '11'
+reference: 'Psalms 17:1'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 2:9" class="v">9</span>The
+  children of Zaccai, seven hundred and threescore. </p>
+id: EZR/2/9
+next:
+  id: EZR/2/10
+  number: '10'
+previous:
+  id: EZR/2/8
+  number: '8'
+reference: 'Ezra 2:9'

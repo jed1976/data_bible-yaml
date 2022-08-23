@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 14:2" class="v">2</span>For
+  thou <span class="add">art</span> an holy people unto the <span
+  class="nd">LORD</span> thy God, and the <span class="nd">LORD</span> hath
+  chosen thee to be a peculiar people unto himself, above all the nations that
+  <span class="add">are</span> upon the earth.</p>
+id: DEU/14/2
+next:
+  id: DEU/14/3
+  number: '3'
+previous:
+  id: DEU/14/1
+  number: '1'
+reference: 'Deuteronomy 14:2'

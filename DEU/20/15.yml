@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 20:15"
+  class="v">15</span>Thus shalt thou do unto all the cities <span
+  class="add">which are</span> very far off from thee, which <span
+  class="add">are</span> not of the cities of these nations. </p>
+id: DEU/20/15
+next:
+  id: DEU/20/16
+  number: '16'
+previous:
+  id: DEU/20/14
+  number: '14'
+reference: 'Deuteronomy 20:15'

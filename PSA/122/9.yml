@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 122:9"
+  class="v">9</span>Because of the house of the <span class="nd">LORD</span> our
+  God I will seek thy good.</p>
+id: PSA/122/9
+next:
+  id: PSA/123/1
+  number: '1'
+previous:
+  id: PSA/122/8
+  number: '8'
+reference: 'Psalms 122:9'

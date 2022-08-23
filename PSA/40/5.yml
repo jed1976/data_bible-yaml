@@ -1,0 +1,16 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 40:5"
+  class="v">5</span>Many, O <span class="nd">LORD</span> my God, <span
+  class="add">are</span> thy wonderful works <span class="add">which</span> thou
+  hast done, and thy thoughts <span class="add">which are</span> to us-ward:
+  they cannot be reckoned up in order unto thee: <span class="add">if</span> I
+  would declare and speak <span class="add">of them</span>, they are more than
+  can be numbered.</p>
+id: PSA/40/5
+next:
+  id: PSA/40/6
+  number: '6'
+previous:
+  id: PSA/40/4
+  number: '4'
+reference: 'Psalms 40:5'

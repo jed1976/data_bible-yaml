@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LUK 1:49" class="v">49</span>For
+  he that is mighty hath done to me great things; and holy <span
+  class="add">is</span> his name. </p>
+id: LUK/1/49
+next:
+  id: LUK/1/50
+  number: '50'
+previous:
+  id: LUK/1/48
+  number: '48'
+reference: 'Luke 1:49'

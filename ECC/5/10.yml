@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 5:10" class="v">10</span>He
+  that loveth silver shall not be satisfied with silver; nor he that loveth
+  abundance with increase: this <span class="add">is</span> also vanity. </p>
+id: ECC/5/10
+next:
+  id: ECC/5/11
+  number: '11'
+previous:
+  id: ECC/5/9
+  number: '9'
+reference: 'Ecclesiastes 5:10'

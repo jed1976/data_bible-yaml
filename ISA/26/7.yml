@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 26:7" class="v">7</span>The
+  way of the just <span class="add">is</span> uprightness: thou, most upright,
+  dost weigh the path of the just. </p>
+id: ISA/26/7
+next:
+  id: ISA/26/8
+  number: '8'
+previous:
+  id: ISA/26/6
+  number: '6'
+reference: 'Isaiah 26:7'

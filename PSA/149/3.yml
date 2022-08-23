@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 149:3" class="v">3</span>Let
+  them praise his name in the dance: let them sing praises unto him with the
+  timbrel and harp.</p>
+id: PSA/149/3
+next:
+  id: PSA/149/4
+  number: '4'
+previous:
+  id: PSA/149/2
+  number: '2'
+reference: 'Psalms 149:3'

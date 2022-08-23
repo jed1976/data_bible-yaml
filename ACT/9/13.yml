@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 9:13"
+  class="v">13</span>Then Ananias answered, Lord, I have heard by many of this
+  man, how much evil he hath done to thy saints at Jerusalem: </p>
+id: ACT/9/13
+next:
+  id: ACT/9/14
+  number: '14'
+previous:
+  id: ACT/9/12
+  number: '12'
+reference: 'Acts 9:13'

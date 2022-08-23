@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 3:9" class="v">9</span>And
+  next unto them repaired Rephaiah the son of Hur, the ruler of the half part of
+  Jerusalem. </p>
+id: NEH/3/9
+next:
+  id: NEH/3/10
+  number: '10'
+previous:
+  id: NEH/3/8
+  number: '8'
+reference: 'Nehemiah 3:9'

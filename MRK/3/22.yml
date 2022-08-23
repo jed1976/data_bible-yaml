@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 3:22" class="v">22</span>¶
+  And the scribes which came down from Jerusalem said, He hath Beelzebub, and by
+  the prince of the devils casteth he out devils. </p>
+id: MRK/3/22
+next:
+  id: MRK/3/23
+  number: '23'
+previous:
+  id: MRK/3/21
+  number: '21'
+reference: 'Mark 3:22'

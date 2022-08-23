@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="NUM 7:65" class="v">65</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Abidan the son of Gideoni.</p>
+id: NUM/7/65
+next:
+  id: NUM/7/66
+  number: '66'
+previous:
+  id: NUM/7/64
+  number: '64'
+reference: 'Numbers 7:65'

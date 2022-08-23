@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="DEU 4:40"
+  class="v">40</span>Thou shalt keep therefore his statutes, and his
+  commandments, which I command thee this day, that it may go well with thee,
+  and with thy children after thee, and that thou mayest prolong <span
+  class="add">thy</span> days upon the earth, which the <span
+  class="nd">LORD</span> thy God giveth thee, for ever.</p>
+id: DEU/4/40
+next:
+  id: DEU/4/41
+  number: '41'
+previous:
+  id: DEU/4/39
+  number: '39'
+reference: 'Deuteronomy 4:40'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 2:11" class="v">11</span>And
+  the days that David reigned over Israel <span class="add">were</span> forty
+  years: seven years reigned he in Hebron, and thirty and three years reigned he
+  in Jerusalem.</p>
+id: 1KI/2/11
+next:
+  id: 1KI/2/12
+  number: '12'
+previous:
+  id: 1KI/2/10
+  number: '10'
+reference: '1 Kings 2:11'

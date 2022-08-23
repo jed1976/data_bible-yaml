@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LAM 4:1" class="v">1</span>How is
+  the gold become dim! <span class="add">how</span> is the most fine gold
+  changed! the stones of the sanctuary are poured out in the top of every
+  street. </p>
+id: LAM/4/1
+next:
+  id: LAM/4/2
+  number: '2'
+previous:
+  id: LAM/3/66
+  number: '66'
+reference: 'Lamentations 4:1'

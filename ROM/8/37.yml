@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ROM 8:37"
+  class="v">37</span>Nay, in all these things we are more than conquerors
+  through him that loved us. </p>
+id: ROM/8/37
+next:
+  id: ROM/8/38
+  number: '38'
+previous:
+  id: ROM/8/36
+  number: '36'
+reference: 'Romans 8:37'

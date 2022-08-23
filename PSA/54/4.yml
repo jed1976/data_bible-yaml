@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 54:4"
+  class="v">4</span>Behold, God <span class="add">is</span> mine helper: the
+  Lord <span class="add">is</span> with them that uphold my soul.</p>
+id: PSA/54/4
+next:
+  id: PSA/54/5
+  number: '5'
+previous:
+  id: PSA/54/3
+  number: '3'
+reference: 'Psalms 54:4'

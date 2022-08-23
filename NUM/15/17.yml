@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 15:17" class="v">17</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: NUM/15/17
+next:
+  id: NUM/15/18
+  number: '18'
+previous:
+  id: NUM/15/16
+  number: '16'
+reference: 'Numbers 15:17'

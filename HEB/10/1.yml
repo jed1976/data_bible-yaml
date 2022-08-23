@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 10:1" class="v">1</span>For
+  the law having a shadow of good things to come, <span class="add">and</span>
+  not the very image of the things, can never with those sacrifices which they
+  offered year by year continually make the comers thereunto perfect. </p>
+id: HEB/10/1
+next:
+  id: HEB/10/2
+  number: '2'
+previous:
+  id: HEB/9/28
+  number: '28'
+reference: 'Hebrews 10:1'

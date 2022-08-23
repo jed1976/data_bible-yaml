@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 20:13"
+  class="v">13</span>And it came to pass, when God caused me to wander from my
+  father’s house, that I said unto her, This <span class="add">is</span> thy
+  kindness which thou shalt shew unto me; at every place whither we shall come,
+  say of me, He <span class="add">is</span> my brother.</p>
+id: GEN/20/13
+next:
+  id: GEN/20/14
+  number: '14'
+previous:
+  id: GEN/20/12
+  number: '12'
+reference: 'Genesis 20:13'

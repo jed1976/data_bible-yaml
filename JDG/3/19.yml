@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 3:19" class="v">19</span>But
+  he himself turned again from the quarries that <span class="add">were</span>
+  by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep
+  silence. And all that stood by him went out from him. </p>
+id: JDG/3/19
+next:
+  id: JDG/3/20
+  number: '20'
+previous:
+  id: JDG/3/18
+  number: '18'
+reference: 'Judges 3:19'

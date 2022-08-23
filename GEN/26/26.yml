@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 26:26" class="v">26</span>¶
+  Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and
+  Phichol the chief captain of his army. </p>
+id: GEN/26/26
+next:
+  id: GEN/26/27
+  number: '27'
+previous:
+  id: GEN/26/25
+  number: '25'
+reference: 'Genesis 26:26'

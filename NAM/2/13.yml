@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NAM 2:13"
+  class="v">13</span>Behold, I <span class="add">am</span> against thee, saith
+  the <span class="nd">LORD</span> of hosts, and I will burn her chariots in the
+  smoke, and the sword shall devour thy young lions: and I will cut off thy prey
+  from the earth, and the voice of thy messengers shall no more be heard.</p>
+id: NAM/2/13
+next:
+  id: NAM/3/1
+  number: '1'
+previous:
+  id: NAM/2/12
+  number: '12'
+reference: 'Nahum 2:13'

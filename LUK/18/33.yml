@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 18:33"
+  class="v">33</span><span class="wj">And they shall scourge <span
+  class="add">him</span>, and put him to death: and the third day he shall rise
+  again.</span> </p>
+id: LUK/18/33
+next:
+  id: LUK/18/34
+  number: '34'
+previous:
+  id: LUK/18/32
+  number: '32'
+reference: 'Luke 18:33'

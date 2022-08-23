@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 11:23"
+  class="v">23</span>Jesus saith unto her, <span class="wj">Thy brother shall
+  rise again.</span> </p>
+id: JHN/11/23
+next:
+  id: JHN/11/24
+  number: '24'
+previous:
+  id: JHN/11/22
+  number: '22'
+reference: 'John 11:23'

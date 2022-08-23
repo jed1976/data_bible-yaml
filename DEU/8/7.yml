@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 8:7" class="v">7</span>For
+  the <span class="nd">LORD</span> thy God bringeth thee into a good land, a
+  land of brooks of water, of fountains and depths that spring out of valleys
+  and hills; </p>
+id: DEU/8/7
+next:
+  id: DEU/8/8
+  number: '8'
+previous:
+  id: DEU/8/6
+  number: '6'
+reference: 'Deuteronomy 8:7'

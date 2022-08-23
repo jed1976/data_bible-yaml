@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="36" data-sid="PSA 18:36"
+  class="v">36</span>Thou hast enlarged my steps under me, that my feet did not
+  slip.</p>
+id: PSA/18/36
+next:
+  id: PSA/18/37
+  number: '37'
+previous:
+  id: PSA/18/35
+  number: '35'
+reference: 'Psalms 18:36'

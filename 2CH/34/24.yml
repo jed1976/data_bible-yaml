@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2CH 34:24"
+  class="v">24</span>Thus saith the <span class="nd">LORD</span>, Behold, I will
+  bring evil upon this place, and upon the inhabitants thereof, <span
+  class="add">even</span> all the curses that are written in the book which they
+  have read before the king of Judah: </p>
+id: 2CH/34/24
+next:
+  id: 2CH/34/25
+  number: '25'
+previous:
+  id: 2CH/34/23
+  number: '23'
+reference: '2 Chronicles 34:24'

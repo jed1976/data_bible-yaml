@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CH 11:23"
+  class="v">23</span>And he slew an Egyptian, a man of <span
+  class="add">great</span> stature, five cubits high; and in the Egyptian’s hand
+  <span class="add">was</span> a spear like a weaver’s beam; and he went down to
+  him with a staff, and plucked the spear out of the Egyptian’s hand, and slew
+  him with his own spear. </p>
+id: 1CH/11/23
+next:
+  id: 1CH/11/24
+  number: '24'
+previous:
+  id: 1CH/11/22
+  number: '22'
+reference: '1 Chronicles 11:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 19:1" class="v">1</span>And
+  Ahab told Jezebel all that Elijah had done, and withal how he had slain all
+  the prophets with the sword. </p>
+id: 1KI/19/1
+next:
+  id: 1KI/19/2
+  number: '2'
+previous:
+  id: 1KI/18/46
+  number: '46'
+reference: '1 Kings 19:1'

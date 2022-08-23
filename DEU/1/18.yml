@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 1:18" class="v">18</span>And
+  I commanded you at that time all the things which ye should do.</p>
+id: DEU/1/18
+next:
+  id: DEU/1/19
+  number: '19'
+previous:
+  id: DEU/1/17
+  number: '17'
+reference: 'Deuteronomy 1:18'

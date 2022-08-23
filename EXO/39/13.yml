@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 39:13"
+  class="v">13</span>And the fourth row, a beryl, an onyx, and a jasper: <span
+  class="add">they were</span> inclosed in ouches of gold in their inclosings.
+  </p>
+id: EXO/39/13
+next:
+  id: EXO/39/14
+  number: '14'
+previous:
+  id: EXO/39/12
+  number: '12'
+reference: 'Exodus 39:13'

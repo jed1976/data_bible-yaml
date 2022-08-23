@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 10:7" class="v">7</span>His
+  mouth is full of cursing and deceit and fraud: under his tongue <span
+  class="add">is</span> mischief and vanity.</p>
+id: PSA/10/7
+next:
+  id: PSA/10/8
+  number: '8'
+previous:
+  id: PSA/10/6
+  number: '6'
+reference: 'Psalms 10:7'

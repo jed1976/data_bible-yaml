@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 8:7" class="v">7</span>And
+  David took the shields of gold that were on the servants of Hadadezer, and
+  brought them to Jerusalem. </p>
+id: 2SA/8/7
+next:
+  id: 2SA/8/8
+  number: '8'
+previous:
+  id: 2SA/8/6
+  number: '6'
+reference: '2 Samuel 8:7'

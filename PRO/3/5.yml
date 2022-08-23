@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 3:5" class="v">5</span>¶
+  Trust in the <span class="nd">LORD</span> with all thine heart; and lean not
+  unto thine own understanding. </p>
+id: PRO/3/5
+next:
+  id: PRO/3/6
+  number: '6'
+previous:
+  id: PRO/3/4
+  number: '4'
+reference: 'Proverbs 3:5'

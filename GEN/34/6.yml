@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 34:6" class="v">6</span>¶ And
+  Hamor the father of Shechem went out unto Jacob to commune with him. </p>
+id: GEN/34/6
+next:
+  id: GEN/34/7
+  number: '7'
+previous:
+  id: GEN/34/5
+  number: '5'
+reference: 'Genesis 34:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 25:10"
+  class="v">10</span>And all the army of the Chaldees, that <span
+  class="add">were with</span> the captain of the guard, brake down the walls of
+  Jerusalem round about. </p>
+id: 2KI/25/10
+next:
+  id: 2KI/25/11
+  number: '11'
+previous:
+  id: 2KI/25/9
+  number: '9'
+reference: '2 Kings 25:10'

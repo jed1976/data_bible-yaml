@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 7:1" class="v">1</span>Thus
+  hath the Lord <span class="nd">GOD</span> shewed unto me; and, behold, he
+  formed grasshoppers in the beginning of the shooting up of the latter growth;
+  and, lo, <span class="add">it was</span> the latter growth after the king’s
+  mowings. </p>
+id: AMO/7/1
+next:
+  id: AMO/7/2
+  number: '2'
+previous:
+  id: AMO/6/14
+  number: '14'
+reference: 'Amos 7:1'

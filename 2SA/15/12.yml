@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 15:12"
+  class="v">12</span>And Absalom sent for Ahithophel the Gilonite, David’s
+  counsellor, from his city, <span class="add">even</span> from Giloh, while he
+  offered sacrifices. And the conspiracy was strong; for the people increased
+  continually with Absalom.</p>
+id: 2SA/15/12
+next:
+  id: 2SA/15/13
+  number: '13'
+previous:
+  id: 2SA/15/11
+  number: '11'
+reference: '2 Samuel 15:12'

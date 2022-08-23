@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HAB 1:13"
+  class="v">13</span><span class="add">Thou art</span> of purer eyes than to
+  behold evil, and canst not look on iniquity: wherefore lookest thou upon them
+  that deal treacherously, <span class="add">and</span> holdest thy tongue when
+  the wicked devoureth <span class="add">the man that is</span> more righteous
+  than he? </p>
+id: HAB/1/13
+next:
+  id: HAB/1/14
+  number: '14'
+previous:
+  id: HAB/1/12
+  number: '12'
+reference: 'Habakkuk 1:13'

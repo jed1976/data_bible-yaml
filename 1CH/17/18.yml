@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1CH 17:18"
+  class="v">18</span>What can David <span class="add">speak</span> more to thee
+  for the honour of thy servant? for thou knowest thy servant. </p>
+id: 1CH/17/18
+next:
+  id: 1CH/17/19
+  number: '19'
+previous:
+  id: 1CH/17/17
+  number: '17'
+reference: '1 Chronicles 17:18'

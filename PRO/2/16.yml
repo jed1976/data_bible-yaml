@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 2:16" class="v">16</span>To
+  deliver thee from the strange woman, <span class="add">even</span> from the
+  stranger <span class="add">which</span> flattereth with her words; </p>
+id: PRO/2/16
+next:
+  id: PRO/2/17
+  number: '17'
+previous:
+  id: PRO/2/15
+  number: '15'
+reference: 'Proverbs 2:16'

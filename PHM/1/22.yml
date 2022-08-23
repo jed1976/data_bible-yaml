@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PHM 1:22" class="v">22</span>But
+  withal prepare me also a lodging: for I trust that through your prayers I
+  shall be given unto you.</p>
+id: PHM/1/22
+next:
+  id: PHM/1/23
+  number: '23'
+previous:
+  id: PHM/1/21
+  number: '21'
+reference: 'Philemon 1:22'

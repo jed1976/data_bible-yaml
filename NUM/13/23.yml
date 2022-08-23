@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 13:23"
+  class="v">23</span>And they came unto the brook of Eshcol, and cut down from
+  thence a branch with one cluster of grapes, and they bare it between two upon
+  a staff; and <span class="add">they brought</span> of the pomegranates, and of
+  the figs. </p>
+id: NUM/13/23
+next:
+  id: NUM/13/24
+  number: '24'
+previous:
+  id: NUM/13/22
+  number: '22'
+reference: 'Numbers 13:23'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CH 20:20" class="v">20</span>¶
+  And they rose early in the morning, and went forth into the wilderness of
+  Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah,
+  and ye inhabitants of Jerusalem; Believe in the <span class="nd">LORD</span>
+  your God, so shall ye be established; believe his prophets, so shall ye
+  prosper. </p>
+id: 2CH/20/20
+next:
+  id: 2CH/20/21
+  number: '21'
+previous:
+  id: 2CH/20/19
+  number: '19'
+reference: '2 Chronicles 20:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 41:9" class="v">9</span>Yea,
+  mine own familiar friend, in whom I trusted, which did eat of my bread, hath
+  lifted up <span class="add">his</span> heel against me.</p>
+id: PSA/41/9
+next:
+  id: PSA/41/10
+  number: '10'
+previous:
+  id: PSA/41/8
+  number: '8'
+reference: 'Psalms 41:9'

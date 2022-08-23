@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MRK 1:39" class="v">39</span>And
+  he preached in their synagogues throughout all Galilee, and cast out devils.
+  </p>
+id: MRK/1/39
+next:
+  id: MRK/1/40
+  number: '40'
+previous:
+  id: MRK/1/38
+  number: '38'
+reference: 'Mark 1:39'

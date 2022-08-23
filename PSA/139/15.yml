@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 139:15"
+  class="v">15</span>My substance was not hid from thee, when I was made in
+  secret, <span class="add">and</span> curiously wrought in the lowest parts of
+  the earth.</p>
+id: PSA/139/15
+next:
+  id: PSA/139/16
+  number: '16'
+previous:
+  id: PSA/139/14
+  number: '14'
+reference: 'Psalms 139:15'

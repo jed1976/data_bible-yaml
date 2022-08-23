@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 9:35" class="v">35</span>And
+  the heart of Pharaoh was hardened, neither would he let the children of Israel
+  go; as the <span class="nd">LORD</span> had spoken by Moses.</p>
+id: EXO/9/35
+next:
+  id: EXO/10/1
+  number: '1'
+previous:
+  id: EXO/9/34
+  number: '34'
+reference: 'Exodus 9:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 11:19"
+  class="v">19</span>And many of the Jews came to Martha and Mary, to comfort
+  them concerning their brother. </p>
+id: JHN/11/19
+next:
+  id: JHN/11/20
+  number: '20'
+previous:
+  id: JHN/11/18
+  number: '18'
+reference: 'John 11:19'

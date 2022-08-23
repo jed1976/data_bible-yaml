@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 32:24"
+  class="v">24</span>And I said unto them, Whosoever hath any gold, let them
+  break <span class="add">it</span> off. So they gave <span
+  class="add">it</span> me: then I cast it into the fire, and there came out
+  this calf.</p>
+id: EXO/32/24
+next:
+  id: EXO/32/25
+  number: '25'
+previous:
+  id: EXO/32/23
+  number: '23'
+reference: 'Exodus 32:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 17:15" class="v">15</span>¶
+  Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did
+  Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I
+  counselled. </p>
+id: 2SA/17/15
+next:
+  id: 2SA/17/16
+  number: '16'
+previous:
+  id: 2SA/17/14
+  number: '14'
+reference: '2 Samuel 17:15'

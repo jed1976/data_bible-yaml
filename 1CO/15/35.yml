@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="1CO 15:35"
+  class="v">35</span>But some <span class="add">man</span> will say, How are the
+  dead raised up? and with what body do they come? </p>
+id: 1CO/15/35
+next:
+  id: 1CO/15/36
+  number: '36'
+previous:
+  id: 1CO/15/34
+  number: '34'
+reference: '1 Corinthians 15:35'

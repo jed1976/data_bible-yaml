@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 6:6" class="v">6</span>And
+  this he said to prove him: for he himself knew what he would do. </p>
+id: JHN/6/6
+next:
+  id: JHN/6/7
+  number: '7'
+previous:
+  id: JHN/6/5
+  number: '5'
+reference: 'John 6:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 22:1" class="v">1</span>If a
+  man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore
+  five oxen for an ox, and four sheep for a sheep.</p>
+id: EXO/22/1
+next:
+  id: EXO/22/2
+  number: '2'
+previous:
+  id: EXO/21/36
+  number: '36'
+reference: 'Exodus 22:1'

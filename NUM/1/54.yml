@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="NUM 1:54" class="v">54</span>And
+  the children of Israel did according to all that the <span
+  class="nd">LORD</span> commanded Moses, so did they.</p>
+id: NUM/1/54
+next:
+  id: NUM/2/1
+  number: '1'
+previous:
+  id: NUM/1/53
+  number: '53'
+reference: 'Numbers 1:54'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 10:20"
+  class="v">20</span><span class="add">Are</span> not my days few? cease <span
+  class="add">then, and</span> let me alone, that I may take comfort a little,
+  </p>
+id: JOB/10/20
+next:
+  id: JOB/10/21
+  number: '21'
+previous:
+  id: JOB/10/19
+  number: '19'
+reference: 'Job 10:20'

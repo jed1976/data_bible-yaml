@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 24:18"
+  class="v">18</span>Lest the <span class="nd">LORD</span> see <span
+  class="add">it</span>, and it displease him, and he turn away his wrath from
+  him.</p>
+id: PRO/24/18
+next:
+  id: PRO/24/19
+  number: '19'
+previous:
+  id: PRO/24/17
+  number: '17'
+reference: 'Proverbs 24:18'

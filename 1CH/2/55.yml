@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="1CH 2:55" class="v">55</span>And
+  the families of the scribes which dwelt at Jabez; the Tirathites, the
+  Shimeathites, <span class="add">and</span> Suchathites. These <span
+  class="add">are</span> the Kenites that came of Hemath, the father of the
+  house of Rechab.</p>
+id: 1CH/2/55
+next:
+  id: 1CH/3/1
+  number: '1'
+previous:
+  id: 1CH/2/54
+  number: '54'
+reference: '1 Chronicles 2:55'

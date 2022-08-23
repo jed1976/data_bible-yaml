@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 58:3" class="v">3</span>The
+  wicked are estranged from the womb: they go astray as soon as they be born,
+  speaking lies.</p>
+id: PSA/58/3
+next:
+  id: PSA/58/4
+  number: '4'
+previous:
+  id: PSA/58/2
+  number: '2'
+reference: 'Psalms 58:3'

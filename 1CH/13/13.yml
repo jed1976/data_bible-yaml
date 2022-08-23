@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 13:13" class="v">13</span>So
+  David brought not the ark <span class="add">home</span> to himself to the city
+  of David, but carried it aside into the house of Obed-edom the Gittite. </p>
+id: 1CH/13/13
+next:
+  id: 1CH/13/14
+  number: '14'
+previous:
+  id: 1CH/13/12
+  number: '12'
+reference: '1 Chronicles 13:13'

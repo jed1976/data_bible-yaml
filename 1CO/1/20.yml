@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 1:20"
+  class="v">20</span>Where <span class="add">is</span> the wise? where <span
+  class="add">is</span> the scribe? where <span class="add">is</span> the
+  disputer of this world? hath not God made foolish the wisdom of this world?
+  </p>
+id: 1CO/1/20
+next:
+  id: 1CO/1/21
+  number: '21'
+previous:
+  id: 1CO/1/19
+  number: '19'
+reference: '1 Corinthians 1:20'

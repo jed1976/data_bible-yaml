@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 4:13" class="v">13</span>Thy
+  plants <span class="add">are</span> an orchard of pomegranates, with pleasant
+  fruits; camphire, with spikenard, </p>
+id: SNG/4/13
+next:
+  id: SNG/4/14
+  number: '14'
+previous:
+  id: SNG/4/12
+  number: '12'
+reference: 'Song of Solomon 4:13'

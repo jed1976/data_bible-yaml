@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HOS 4:15" class="v">15</span>¶
+  Though thou, Israel, play the harlot, <span class="add">yet</span> let not
+  Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor
+  swear, The <span class="nd">LORD</span> liveth. </p>
+id: HOS/4/15
+next:
+  id: HOS/4/16
+  number: '16'
+previous:
+  id: HOS/4/14
+  number: '14'
+reference: 'Hosea 4:15'

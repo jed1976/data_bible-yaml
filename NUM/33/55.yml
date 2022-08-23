@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="NUM 33:55"
+  class="v">55</span>But if ye will not drive out the inhabitants of the land
+  from before you; then it shall come to pass, that those which ye let remain of
+  them <span class="add">shall be</span> pricks in your eyes, and thorns in your
+  sides, and shall vex you in the land wherein ye dwell. </p>
+id: NUM/33/55
+next:
+  id: NUM/33/56
+  number: '56'
+previous:
+  id: NUM/33/54
+  number: '54'
+reference: 'Numbers 33:55'

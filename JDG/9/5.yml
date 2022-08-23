@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 9:5" class="v">5</span>And he
+  went unto his father’s house at Ophrah, and slew his brethren the sons of
+  Jerubbaal, <span class="add">being</span> threescore and ten persons, upon one
+  stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for
+  he hid himself. </p>
+id: JDG/9/5
+next:
+  id: JDG/9/6
+  number: '6'
+previous:
+  id: JDG/9/4
+  number: '4'
+reference: 'Judges 9:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 25:26" class="v">26</span>A
+  righteous man falling down before the wicked <span class="add">is as</span> a
+  troubled fountain, and a corrupt spring. </p>
+id: PRO/25/26
+next:
+  id: PRO/25/27
+  number: '27'
+previous:
+  id: PRO/25/25
+  number: '25'
+reference: 'Proverbs 25:26'

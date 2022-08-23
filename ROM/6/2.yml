@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ROM 6:2" class="v">2</span>God
+  forbid. How shall we, that are dead to sin, live any longer therein? </p>
+id: ROM/6/2
+next:
+  id: ROM/6/3
+  number: '3'
+previous:
+  id: ROM/6/1
+  number: '1'
+reference: 'Romans 6:2'

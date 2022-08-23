@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 16:7" class="v">7</span>And
+  Samson said unto her, If they bind me with seven green withs that were never
+  dried, then shall I be weak, and be as another man. </p>
+id: JDG/16/7
+next:
+  id: JDG/16/8
+  number: '8'
+previous:
+  id: JDG/16/6
+  number: '6'
+reference: 'Judges 16:7'

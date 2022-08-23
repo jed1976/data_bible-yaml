@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 16:10" class="v">10</span>¶
+  And king Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and
+  saw an altar that <span class="add">was</span> at Damascus: and king Ahaz sent
+  to Urijah the priest the fashion of the altar, and the pattern of it,
+  according to all the workmanship thereof. </p>
+id: 2KI/16/10
+next:
+  id: 2KI/16/11
+  number: '11'
+previous:
+  id: 2KI/16/9
+  number: '9'
+reference: '2 Kings 16:10'

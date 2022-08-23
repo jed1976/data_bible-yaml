@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ROM 7:2" class="v">2</span>For
+  the woman which hath an husband is bound by the law to <span
+  class="add">her</span> husband so long as he liveth; but if the husband be
+  dead, she is loosed from the law of <span class="add">her</span> husband. </p>
+id: ROM/7/2
+next:
+  id: ROM/7/3
+  number: '3'
+previous:
+  id: ROM/7/1
+  number: '1'
+reference: 'Romans 7:2'

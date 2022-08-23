@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 7:11"
+  class="v">11</span>God judgeth the righteous, and God is angry <span
+  class="add">with the wicked</span> every day.</p>
+id: PSA/7/11
+next:
+  id: PSA/7/12
+  number: '12'
+previous:
+  id: PSA/7/10
+  number: '10'
+reference: 'Psalms 7:11'

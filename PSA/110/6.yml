@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 110:6" class="v">6</span>He
+  shall judge among the heathen, he shall fill <span class="add">the
+  places</span> with the dead bodies; he shall wound the heads over many
+  countries.</p>
+id: PSA/110/6
+next:
+  id: PSA/110/7
+  number: '7'
+previous:
+  id: PSA/110/5
+  number: '5'
+reference: 'Psalms 110:6'

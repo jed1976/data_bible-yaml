@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 139:8" class="v">8</span>If
+  I ascend up into heaven, thou <span class="add">art</span> there: if I make my
+  bed in hell, behold, thou <span class="add">art there</span>.</p>
+id: PSA/139/8
+next:
+  id: PSA/139/9
+  number: '9'
+previous:
+  id: PSA/139/7
+  number: '7'
+reference: 'Psalms 139:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 31:4" class="v">4</span>Again
+  I will build thee, and thou shalt be built, O virgin of Israel: thou shalt
+  again be adorned with thy tabrets, and shalt go forth in the dances of them
+  that make merry. </p>
+id: JER/31/4
+next:
+  id: JER/31/5
+  number: '5'
+previous:
+  id: JER/31/3
+  number: '3'
+reference: 'Jeremiah 31:4'

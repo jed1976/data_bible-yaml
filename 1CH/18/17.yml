@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1CH 18:17"
+  class="v">17</span>And Benaiah the son of Jehoiada <span
+  class="add">was</span> over the Cherethites and the Pelethites; and the sons
+  of David <span class="add">were</span> chief about the king.</p>
+id: 1CH/18/17
+next:
+  id: 1CH/19/1
+  number: '1'
+previous:
+  id: 1CH/18/16
+  number: '16'
+reference: '1 Chronicles 18:17'

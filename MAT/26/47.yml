@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MAT 26:47" class="v">47</span>¶
+  And while he yet spake, lo, Judas, one of the twelve, came, and with him a
+  great multitude with swords and staves, from the chief priests and elders of
+  the people. </p>
+id: MAT/26/47
+next:
+  id: MAT/26/48
+  number: '48'
+previous:
+  id: MAT/26/46
+  number: '46'
+reference: 'Matthew 26:47'

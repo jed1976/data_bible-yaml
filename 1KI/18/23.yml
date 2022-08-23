@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 18:23"
+  class="v">23</span>Let them therefore give us two bullocks; and let them
+  choose one bullock for themselves, and cut it in pieces, and lay <span
+  class="add">it</span> on wood, and put no fire <span class="add">under:</span>
+  and I will dress the other bullock, and lay <span class="add">it</span> on
+  wood, and put no fire <span class="add">under:</span> </p>
+id: 1KI/18/23
+next:
+  id: 1KI/18/24
+  number: '24'
+previous:
+  id: 1KI/18/22
+  number: '22'
+reference: '1 Kings 18:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 24:16"
+  class="v">16</span>And herein do I exercise myself, to have always a
+  conscience void of offence toward God, and <span class="add">toward</span>
+  men. </p>
+id: ACT/24/16
+next:
+  id: ACT/24/17
+  number: '17'
+previous:
+  id: ACT/24/15
+  number: '15'
+reference: 'Acts 24:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 2:17" class="v">17</span>But
+  of the tree of the knowledge of good and evil, thou shalt not eat of it: for
+  in the day that thou eatest thereof thou shalt surely die.</p>
+id: GEN/2/17
+next:
+  id: GEN/2/18
+  number: '18'
+previous:
+  id: GEN/2/16
+  number: '16'
+reference: 'Genesis 2:17'

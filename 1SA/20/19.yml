@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1SA 20:19"
+  class="v">19</span>And <span class="add">when</span> thou hast stayed three
+  days, <span class="add">then</span> thou shalt go down quickly, and come to
+  the place where thou didst hide thyself when the business was <span
+  class="add">in hand</span>, and shalt remain by the stone Ezel. </p>
+id: 1SA/20/19
+next:
+  id: 1SA/20/20
+  number: '20'
+previous:
+  id: 1SA/20/18
+  number: '18'
+reference: '1 Samuel 20:19'

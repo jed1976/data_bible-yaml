@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 32:27"
+  class="v">27</span>And he said unto him, What <span class="add">is</span> thy
+  name? And he said, Jacob. </p>
+id: GEN/32/27
+next:
+  id: GEN/32/28
+  number: '28'
+previous:
+  id: GEN/32/26
+  number: '26'
+reference: 'Genesis 32:27'

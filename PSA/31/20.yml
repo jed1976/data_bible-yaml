@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 31:20"
+  class="v">20</span>Thou shalt hide them in the secret of thy presence from the
+  pride of man: thou shalt keep them secretly in a pavilion from the strife of
+  tongues.</p>
+id: PSA/31/20
+next:
+  id: PSA/31/21
+  number: '21'
+previous:
+  id: PSA/31/19
+  number: '19'
+reference: 'Psalms 31:20'

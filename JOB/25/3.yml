@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 25:3" class="v">3</span>Is
+  there any number of his armies? and upon whom doth not his light arise? </p>
+id: JOB/25/3
+next:
+  id: JOB/25/4
+  number: '4'
+previous:
+  id: JOB/25/2
+  number: '2'
+reference: 'Job 25:3'

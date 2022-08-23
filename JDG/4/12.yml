@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 4:12" class="v">12</span>And
+  they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.
+  </p>
+id: JDG/4/12
+next:
+  id: JDG/4/13
+  number: '13'
+previous:
+  id: JDG/4/11
+  number: '11'
+reference: 'Judges 4:12'

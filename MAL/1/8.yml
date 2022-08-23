@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAL 1:8" class="v">8</span>And if
+  ye offer the blind for sacrifice, <span class="add">is it</span> not evil? and
+  if ye offer the lame and sick, <span class="add">is it</span> not evil? offer
+  it now unto thy governor; will he be pleased with thee, or accept thy person?
+  saith the <span class="nd">LORD</span> of hosts. </p>
+id: MAL/1/8
+next:
+  id: MAL/1/9
+  number: '9'
+previous:
+  id: MAL/1/7
+  number: '7'
+reference: 'Malachi 1:8'

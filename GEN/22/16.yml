@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 22:16"
+  class="v">16</span>And said, By myself have I sworn, saith the <span
+  class="nd">LORD</span>, for because thou hast done this thing, and hast not
+  withheld thy son, thine only <span class="add">son:</span> </p>
+id: GEN/22/16
+next:
+  id: GEN/22/17
+  number: '17'
+previous:
+  id: GEN/22/15
+  number: '15'
+reference: 'Genesis 22:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 40:11" class="v">11</span>He
+  shall feed his flock like a shepherd: he shall gather the lambs with his arm,
+  and carry <span class="add">them</span> in his bosom, <span
+  class="add">and</span> shall gently lead those that are with young.</p>
+id: ISA/40/11
+next:
+  id: ISA/40/12
+  number: '12'
+previous:
+  id: ISA/40/10
+  number: '10'
+reference: 'Isaiah 40:11'

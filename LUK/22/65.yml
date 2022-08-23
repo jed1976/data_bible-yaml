@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="LUK 22:65"
+  class="v">65</span>And many other things blasphemously spake they against
+  him.</p>
+id: LUK/22/65
+next:
+  id: LUK/22/66
+  number: '66'
+previous:
+  id: LUK/22/64
+  number: '64'
+reference: 'Luke 22:65'

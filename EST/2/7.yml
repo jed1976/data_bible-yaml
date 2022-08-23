@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EST 2:7" class="v">7</span>And he
+  brought up Hadassah, that <span class="add">is</span>, Esther, his uncle’s
+  daughter: for she had neither father nor mother, and the maid <span
+  class="add">was</span> fair and beautiful; whom Mordecai, when her father and
+  mother were dead, took for his own daughter.</p>
+id: EST/2/7
+next:
+  id: EST/2/8
+  number: '8'
+previous:
+  id: EST/2/6
+  number: '6'
+reference: 'Esther 2:7'

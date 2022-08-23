@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 10:11"
+  class="v">11</span>And saw heaven opened, and a certain vessel descending unto
+  him, as it had been a great sheet knit at the four corners, and let down to
+  the earth: </p>
+id: ACT/10/11
+next:
+  id: ACT/10/12
+  number: '12'
+previous:
+  id: ACT/10/10
+  number: '10'
+reference: 'Acts 10:11'

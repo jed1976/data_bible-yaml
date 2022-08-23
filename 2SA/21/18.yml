@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 21:18"
+  class="v">18</span>And it came to pass after this, that there was again a
+  battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph,
+  which <span class="add">was</span> of the sons of the giant. </p>
+id: 2SA/21/18
+next:
+  id: 2SA/21/19
+  number: '19'
+previous:
+  id: 2SA/21/17
+  number: '17'
+reference: '2 Samuel 21:18'

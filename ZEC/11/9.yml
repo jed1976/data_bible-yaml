@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 11:9" class="v">9</span>Then
+  said I, I will not feed you: that that dieth, let it die; and that that is to
+  be cut off, let it be cut off; and let the rest eat every one the flesh of
+  another.</p>
+id: ZEC/11/9
+next:
+  id: ZEC/11/10
+  number: '10'
+previous:
+  id: ZEC/11/8
+  number: '8'
+reference: 'Zechariah 11:9'

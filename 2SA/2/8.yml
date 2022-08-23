@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2SA 2:8" class="v">8</span>¶ But
+  Abner the son of Ner, captain of Saul’s host, took Ish-bosheth the son of
+  Saul, and brought him over to Mahanaim; </p>
+id: 2SA/2/8
+next:
+  id: 2SA/2/9
+  number: '9'
+previous:
+  id: 2SA/2/7
+  number: '7'
+reference: '2 Samuel 2:8'

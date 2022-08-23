@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GAL 5:14" class="v">14</span>For
+  all the law is fulfilled in one word, <span class="add">even</span> in this;
+  Thou shalt love thy neighbour as thyself. </p>
+id: GAL/5/14
+next:
+  id: GAL/5/15
+  number: '15'
+previous:
+  id: GAL/5/13
+  number: '13'
+reference: 'Galatians 5:14'

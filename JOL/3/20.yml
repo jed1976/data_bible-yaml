@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOL 3:20" class="v">20</span>But
+  Judah shall dwell for ever, and Jerusalem from generation to generation. </p>
+id: JOL/3/20
+next:
+  id: JOL/3/21
+  number: '21'
+previous:
+  id: JOL/3/19
+  number: '19'
+reference: 'Joel 3:20'

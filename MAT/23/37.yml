@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 23:37"
+  class="v">37</span><span class="wj">O Jerusalem, Jerusalem, <span
+  class="add">thou</span> that killest the prophets, and stonest them which are
+  sent unto thee, how often would I have gathered thy children together, even as
+  a hen gathereth her chickens under <span class="add">her</span> wings, and ye
+  would not!</span> </p>
+id: MAT/23/37
+next:
+  id: MAT/23/38
+  number: '38'
+previous:
+  id: MAT/23/36
+  number: '36'
+reference: 'Matthew 23:37'

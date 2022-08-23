@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 4:4" class="v">4</span><span
+  class="wj">And it came to pass, as he sowed, some fell by the way side, and
+  the fowls of the air came and devoured it up.</span> </p>
+id: MRK/4/4
+next:
+  id: MRK/4/5
+  number: '5'
+previous:
+  id: MRK/4/3
+  number: '3'
+reference: 'Mark 4:4'

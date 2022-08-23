@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 11:4"
+  class="v">4</span>Riches profit not in the day of wrath: but righteousness
+  delivereth from death.</p>
+id: PRO/11/4
+next:
+  id: PRO/11/5
+  number: '5'
+previous:
+  id: PRO/11/3
+  number: '3'
+reference: 'Proverbs 11:4'

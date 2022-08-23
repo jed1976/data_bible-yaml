@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 15:41" class="v">41</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span> your God, which
+  brought you out of the land of Egypt, to be your God: I <span
+  class="add">am</span> the <span class="nd">LORD</span> your God.</p>
+id: NUM/15/41
+next:
+  id: NUM/16/1
+  number: '1'
+previous:
+  id: NUM/15/40
+  number: '40'
+reference: 'Numbers 15:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 104:8"
+  class="v">8</span>They go up by the mountains; they go down by the valleys
+  unto the place which thou hast founded for them.</p>
+id: PSA/104/8
+next:
+  id: PSA/104/9
+  number: '9'
+previous:
+  id: PSA/104/7
+  number: '7'
+reference: 'Psalms 104:8'

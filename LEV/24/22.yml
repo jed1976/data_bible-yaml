@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 24:22" class="v">22</span>Ye
+  shall have one manner of law, as well for the stranger, as for one of your own
+  country: for I <span class="add">am</span> the <span class="nd">LORD</span>
+  your God.</p>
+id: LEV/24/22
+next:
+  id: LEV/24/23
+  number: '23'
+previous:
+  id: LEV/24/21
+  number: '21'
+reference: 'Leviticus 24:22'

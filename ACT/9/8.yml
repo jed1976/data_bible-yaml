@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 9:8" class="v">8</span>And
+  Saul arose from the earth; and when his eyes were opened, he saw no man: but
+  they led him by the hand, and brought <span class="add">him</span> into
+  Damascus. </p>
+id: ACT/9/8
+next:
+  id: ACT/9/9
+  number: '9'
+previous:
+  id: ACT/9/7
+  number: '7'
+reference: 'Acts 9:8'

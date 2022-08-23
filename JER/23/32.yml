@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JER 23:32"
+  class="v">32</span>Behold, I <span class="add">am</span> against them that
+  prophesy false dreams, saith the <span class="nd">LORD</span>, and do tell
+  them, and cause my people to err by their lies, and by their lightness; yet I
+  sent them not, nor commanded them: therefore they shall not profit this people
+  at all, saith the <span class="nd">LORD</span>.</p>
+id: JER/23/32
+next:
+  id: JER/23/33
+  number: '33'
+previous:
+  id: JER/23/31
+  number: '31'
+reference: 'Jeremiah 23:32'

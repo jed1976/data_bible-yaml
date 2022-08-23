@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="AMO 7:15" class="v">15</span>And
+  the <span class="nd">LORD</span> took me as I followed the flock, and the
+  <span class="nd">LORD</span> said unto me, Go, prophesy unto my people
+  Israel.</p>
+id: AMO/7/15
+next:
+  id: AMO/7/16
+  number: '16'
+previous:
+  id: AMO/7/14
+  number: '14'
+reference: 'Amos 7:15'

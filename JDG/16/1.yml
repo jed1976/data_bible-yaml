@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 16:1" class="v">1</span>Then
+  went Samson to Gaza, and saw there an harlot, and went in unto her. </p>
+id: JDG/16/1
+next:
+  id: JDG/16/2
+  number: '2'
+previous:
+  id: JDG/15/20
+  number: '20'
+reference: 'Judges 16:1'

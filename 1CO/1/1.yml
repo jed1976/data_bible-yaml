@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 1:1" class="v">1</span>Paul,
+  called <span class="add">to be</span> an apostle of Jesus Christ through the
+  will of God, and Sosthenes <span class="add">our</span> brother, </p>
+id: 1CO/1/1
+next:
+  id: 1CO/1/2
+  number: '2'
+previous:
+  id: 1CO/intro/0
+  number: '0'
+reference: '1 Corinthians 1:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 29:10"
+  class="v">10</span>And it came to pass, when Jacob saw Rachel the daughter of
+  Laban his mother’s brother, and the sheep of Laban his mother’s brother, that
+  Jacob went near, and rolled the stone from the well’s mouth, and watered the
+  flock of Laban his mother’s brother. </p>
+id: GEN/29/10
+next:
+  id: GEN/29/11
+  number: '11'
+previous:
+  id: GEN/29/9
+  number: '9'
+reference: 'Genesis 29:10'

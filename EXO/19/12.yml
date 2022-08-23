@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 19:12"
+  class="v">12</span>And thou shalt set bounds unto the people round about,
+  saying, Take heed to yourselves, <span class="add">that ye</span> go <span
+  class="add">not</span> up into the mount, or touch the border of it: whosoever
+  toucheth the mount shall be surely put to death: </p>
+id: EXO/19/12
+next:
+  id: EXO/19/13
+  number: '13'
+previous:
+  id: EXO/19/11
+  number: '11'
+reference: 'Exodus 19:12'

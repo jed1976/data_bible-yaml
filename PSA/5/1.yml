@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">To the chief Musician upon Nehiloth, A Psalm of David.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 5:1" class="v">1</span>Give ear
+  to my words, O <span class="nd">LORD</span>, consider my meditation.</p>
+id: PSA/5/1
+next:
+  id: PSA/5/2
+  number: '2'
+previous:
+  id: PSA/4/8
+  number: '8'
+reference: 'Psalms 5:1'

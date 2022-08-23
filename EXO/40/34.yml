@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 40:34" class="v">34</span>¶
+  Then a cloud covered the tent of the congregation, and the glory of the <span
+  class="nd">LORD</span> filled the tabernacle. </p>
+id: EXO/40/34
+next:
+  id: EXO/40/35
+  number: '35'
+previous:
+  id: EXO/40/33
+  number: '33'
+reference: 'Exodus 40:34'

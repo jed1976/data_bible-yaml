@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 41:7" class="v">7</span>And
+  the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke,
+  and, behold, <span class="add">it was</span> a dream. </p>
+id: GEN/41/7
+next:
+  id: GEN/41/8
+  number: '8'
+previous:
+  id: GEN/41/6
+  number: '6'
+reference: 'Genesis 41:7'

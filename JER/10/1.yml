@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 10:1" class="v">1</span>Hear
+  ye the word which the <span class="nd">LORD</span> speaketh unto you, O house
+  of Israel: </p>
+id: JER/10/1
+next:
+  id: JER/10/2
+  number: '2'
+previous:
+  id: JER/9/26
+  number: '26'
+reference: 'Jeremiah 10:1'

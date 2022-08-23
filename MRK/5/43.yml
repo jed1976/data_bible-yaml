@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MRK 5:43" class="v">43</span>And
+  he charged them straitly that no man should know it; and commanded that
+  something should be given her to eat.</p>
+id: MRK/5/43
+next:
+  id: MRK/6/1
+  number: '1'
+previous:
+  id: MRK/5/42
+  number: '42'
+reference: 'Mark 5:43'

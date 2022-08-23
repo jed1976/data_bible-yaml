@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 4:8" class="v">8</span>He
+  made also ten tables, and placed <span class="add">them</span> in the temple,
+  five on the right side, and five on the left. And he made an hundred basons of
+  gold.</p>
+id: 2CH/4/8
+next:
+  id: 2CH/4/9
+  number: '9'
+previous:
+  id: 2CH/4/7
+  number: '7'
+reference: '2 Chronicles 4:8'

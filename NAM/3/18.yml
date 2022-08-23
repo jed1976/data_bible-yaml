@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NAM 3:18" class="v">18</span>Thy
+  shepherds slumber, O king of Assyria: thy nobles shall dwell <span
+  class="add">in the dust:</span> thy people is scattered upon the mountains,
+  and no man gathereth <span class="add">them</span>. </p>
+id: NAM/3/18
+next:
+  id: NAM/3/19
+  number: '19'
+previous:
+  id: NAM/3/17
+  number: '17'
+reference: 'Nahum 3:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 6:20" class="v">20</span>¶
+  My son, keep thy father’s commandment, and forsake not the law of thy mother:
+  </p>
+id: PRO/6/20
+next:
+  id: PRO/6/21
+  number: '21'
+previous:
+  id: PRO/6/19
+  number: '19'
+reference: 'Proverbs 6:20'

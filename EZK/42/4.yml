@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 42:4" class="v">4</span>And
+  before the chambers <span class="add">was</span> a walk of ten cubits breadth
+  inward, a way of one cubit; and their doors toward the north. </p>
+id: EZK/42/4
+next:
+  id: EZK/42/5
+  number: '5'
+previous:
+  id: EZK/42/3
+  number: '3'
+reference: 'Ezekiel 42:4'

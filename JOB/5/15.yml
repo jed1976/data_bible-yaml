@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 5:15" class="v">15</span>But
+  he saveth the poor from the sword, from their mouth, and from the hand of the
+  mighty. </p>
+id: JOB/5/15
+next:
+  id: JOB/5/16
+  number: '16'
+previous:
+  id: JOB/5/14
+  number: '14'
+reference: 'Job 5:15'

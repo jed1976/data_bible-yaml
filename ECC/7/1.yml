@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 7:1" class="v">1</span>A good
+  name <span class="add">is</span> better than precious ointment; and the day of
+  death than the day of one’s birth.</p>
+id: ECC/7/1
+next:
+  id: ECC/7/2
+  number: '2'
+previous:
+  id: ECC/6/12
+  number: '12'
+reference: 'Ecclesiastes 7:1'

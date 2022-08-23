@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician upon Shoshannim-eduth, A Psalm of
+  Asaph.</p><p class="q1"><span data-number="1" data-sid="PSA 80:1"
+  class="v">1</span>Give ear, O Shepherd of Israel, thou that leadest Joseph
+  like a flock; thou that dwellest <span class="add">between</span> the
+  cherubims, shine forth.</p>
+id: PSA/80/1
+next:
+  id: PSA/80/2
+  number: '2'
+previous:
+  id: PSA/79/13
+  number: '13'
+reference: 'Psalms 80:1'

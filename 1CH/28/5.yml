@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 28:5" class="v">5</span>And
+  of all my sons, (for the <span class="nd">LORD</span> hath given me many
+  sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of
+  the <span class="nd">LORD</span> over Israel. </p>
+id: 1CH/28/5
+next:
+  id: 1CH/28/6
+  number: '6'
+previous:
+  id: 1CH/28/4
+  number: '4'
+reference: '1 Chronicles 28:5'

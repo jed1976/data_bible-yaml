@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 11:23" class="v">23</span>¶
+  And God stirred him up <span class="add">another</span> adversary, Rezon the
+  son of Eliadah, which fled from his lord Hadadezer king of Zobah: </p>
+id: 1KI/11/23
+next:
+  id: 1KI/11/24
+  number: '24'
+previous:
+  id: 1KI/11/22
+  number: '22'
+reference: '1 Kings 11:23'

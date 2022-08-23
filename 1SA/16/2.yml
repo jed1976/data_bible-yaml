@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 16:2" class="v">2</span>And
+  Samuel said, How can I go? if Saul hear <span class="add">it</span>, he will
+  kill me. And the <span class="nd">LORD</span> said, Take an heifer with thee,
+  and say, I am come to sacrifice to the <span class="nd">LORD</span>. </p>
+id: 1SA/16/2
+next:
+  id: 1SA/16/3
+  number: '3'
+previous:
+  id: 1SA/16/1
+  number: '1'
+reference: '1 Samuel 16:2'

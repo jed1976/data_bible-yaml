@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 3:1" class="v">1</span>And he
+  shewed me Joshua the high priest standing before the angel of the <span
+  class="nd">LORD</span>, and Satan standing at his right hand to resist him.
+  </p>
+id: ZEC/3/1
+next:
+  id: ZEC/3/2
+  number: '2'
+previous:
+  id: ZEC/2/13
+  number: '13'
+reference: 'Zechariah 3:1'

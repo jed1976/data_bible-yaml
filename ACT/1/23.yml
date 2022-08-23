@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 1:23" class="v">23</span>And
+  they appointed two, Joseph called Barsabas, who was surnamed Justus, and
+  Matthias. </p>
+id: ACT/1/23
+next:
+  id: ACT/1/24
+  number: '24'
+previous:
+  id: ACT/1/22
+  number: '22'
+reference: 'Acts 1:23'

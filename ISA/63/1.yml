@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 63:1" class="v">1</span>Who
+  <span class="add">is</span> this that cometh from Edom, with dyed garments
+  from Bozrah? this <span class="add">that is</span> glorious in his apparel,
+  travelling in the greatness of his strength? I that speak in righteousness,
+  mighty to save. </p>
+id: ISA/63/1
+next:
+  id: ISA/63/2
+  number: '2'
+previous:
+  id: ISA/62/12
+  number: '12'
+reference: 'Isaiah 63:1'

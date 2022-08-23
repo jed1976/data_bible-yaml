@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 10:6"
+  class="v">6</span>Daniel, Ginnethon, Baruch, </p>
+id: NEH/10/6
+next:
+  id: NEH/10/7
+  number: '7'
+previous:
+  id: NEH/10/5
+  number: '5'
+reference: 'Nehemiah 10:6'

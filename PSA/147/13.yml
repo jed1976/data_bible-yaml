@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 147:13"
+  class="v">13</span>For he hath strengthened the bars of thy gates; he hath
+  blessed thy children within thee.</p>
+id: PSA/147/13
+next:
+  id: PSA/147/14
+  number: '14'
+previous:
+  id: PSA/147/12
+  number: '12'
+reference: 'Psalms 147:13'

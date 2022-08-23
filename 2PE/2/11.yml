@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2PE 2:11"
+  class="v">11</span>Whereas angels, which are greater in power and might, bring
+  not railing accusation against them before the Lord. </p>
+id: 2PE/2/11
+next:
+  id: 2PE/2/12
+  number: '12'
+previous:
+  id: 2PE/2/10
+  number: '10'
+reference: '2 Peter 2:11'

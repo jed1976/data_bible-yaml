@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GAL 4:3" class="v">3</span>Even
+  so we, when we were children, were in bondage under the elements of the world:
+  </p>
+id: GAL/4/3
+next:
+  id: GAL/4/4
+  number: '4'
+previous:
+  id: GAL/4/2
+  number: '2'
+reference: 'Galatians 4:3'

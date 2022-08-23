@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1KI 22:42"
+  class="v">42</span>Jehoshaphat <span class="add">was</span> thirty and five
+  years old when he began to reign; and he reigned twenty and five years in
+  Jerusalem. And his mother’s name <span class="add">was</span> Azubah the
+  daughter of Shilhi. </p>
+id: 1KI/22/42
+next:
+  id: 1KI/22/43
+  number: '43'
+previous:
+  id: 1KI/22/41
+  number: '41'
+reference: '1 Kings 22:42'

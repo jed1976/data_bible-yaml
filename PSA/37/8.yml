@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 37:8"
+  class="v">8</span>Cease from anger, and forsake wrath: fret not thyself in any
+  wise to do evil.</p>
+id: PSA/37/8
+next:
+  id: PSA/37/9
+  number: '9'
+previous:
+  id: PSA/37/7
+  number: '7'
+reference: 'Psalms 37:8'

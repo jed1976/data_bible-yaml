@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 18:1" class="v">1</span>After
+  these things Paul departed from Athens, and came to Corinth; </p>
+id: ACT/18/1
+next:
+  id: ACT/18/2
+  number: '2'
+previous:
+  id: ACT/17/34
+  number: '34'
+reference: 'Acts 18:1'

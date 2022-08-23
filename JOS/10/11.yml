@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 10:11"
+  class="v">11</span>And it came to pass, as they fled from before Israel, <span
+  class="add">and</span> were in the going down to Beth-horon, that the <span
+  class="nd">LORD</span> cast down great stones from heaven upon them unto
+  Azekah, and they died: <span class="add">they were</span> more which died with
+  hailstones than <span class="add">they</span> whom the children of Israel slew
+  with the sword.</p>
+id: JOS/10/11
+next:
+  id: JOS/10/12
+  number: '12'
+previous:
+  id: JOS/10/10
+  number: '10'
+reference: 'Joshua 10:11'

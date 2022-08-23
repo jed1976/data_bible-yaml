@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 4:8" class="v">8</span>And he
+  shall take off from it all the fat of the bullock for the sin offering; the
+  fat that covereth the inwards, and all the fat that <span
+  class="add">is</span> upon the inwards, </p>
+id: LEV/4/8
+next:
+  id: LEV/4/9
+  number: '9'
+previous:
+  id: LEV/4/7
+  number: '7'
+reference: 'Leviticus 4:8'

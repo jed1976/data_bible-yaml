@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 25:20"
+  class="v">20</span>And because I doubted of such manner of questions, I asked
+  <span class="add">him</span> whether he would go to Jerusalem, and there be
+  judged of these matters. </p>
+id: ACT/25/20
+next:
+  id: ACT/25/21
+  number: '21'
+previous:
+  id: ACT/25/19
+  number: '19'
+reference: 'Acts 25:20'

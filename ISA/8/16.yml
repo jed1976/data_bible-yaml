@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 8:16"
+  class="v">16</span>Bind up the testimony, seal the law among my disciples.
+  </p>
+id: ISA/8/16
+next:
+  id: ISA/8/17
+  number: '17'
+previous:
+  id: ISA/8/15
+  number: '15'
+reference: 'Isaiah 8:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 72:6" class="v">6</span>He
+  shall come down like rain upon the mown grass: as showers <span
+  class="add">that</span> water the earth.</p>
+id: PSA/72/6
+next:
+  id: PSA/72/7
+  number: '7'
+previous:
+  id: PSA/72/5
+  number: '5'
+reference: 'Psalms 72:6'

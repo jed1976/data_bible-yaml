@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 20:17"
+  class="v">17</span>Let us pass, I pray thee, through thy country: we will not
+  pass through the fields, or through the vineyards, neither will we drink <span
+  class="add">of</span> the water of the wells: we will go by the king’s <span
+  class="add">high</span> way, we will not turn to the right hand nor to the
+  left, until we have passed thy borders. </p>
+id: NUM/20/17
+next:
+  id: NUM/20/18
+  number: '18'
+previous:
+  id: NUM/20/16
+  number: '16'
+reference: 'Numbers 20:17'

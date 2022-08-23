@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 1:16"
+  class="v">16</span>Thus Melzar took away the portion of their meat, and the
+  wine that they should drink; and gave them pulse.</p>
+id: DAN/1/16
+next:
+  id: DAN/1/17
+  number: '17'
+previous:
+  id: DAN/1/15
+  number: '15'
+reference: 'Daniel 1:16'

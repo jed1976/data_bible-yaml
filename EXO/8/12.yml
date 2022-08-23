@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 8:12" class="v">12</span>And
+  Moses and Aaron went out from Pharaoh: and Moses cried unto the <span
+  class="nd">LORD</span> because of the frogs which he had brought against
+  Pharaoh. </p>
+id: EXO/8/12
+next:
+  id: EXO/8/13
+  number: '13'
+previous:
+  id: EXO/8/11
+  number: '11'
+reference: 'Exodus 8:12'

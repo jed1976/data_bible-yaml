@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 10:9" class="v">9</span><span
+  class="wj">And heal the sick that are therein, and say unto them, The kingdom
+  of God is come nigh unto you.</span> </p>
+id: LUK/10/9
+next:
+  id: LUK/10/10
+  number: '10'
+previous:
+  id: LUK/10/8
+  number: '8'
+reference: 'Luke 10:9'

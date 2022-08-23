@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 12:11"
+  class="v">11</span>And they overcame him by the blood of the Lamb, and by the
+  word of their testimony; and they loved not their lives unto the death. </p>
+id: REV/12/11
+next:
+  id: REV/12/12
+  number: '12'
+previous:
+  id: REV/12/10
+  number: '10'
+reference: 'Revelation 12:11'

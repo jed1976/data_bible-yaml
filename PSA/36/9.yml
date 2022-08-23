@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 36:9" class="v">9</span>For
+  with thee <span class="add">is</span> the fountain of life: in thy light shall
+  we see light.</p>
+id: PSA/36/9
+next:
+  id: PSA/36/10
+  number: '10'
+previous:
+  id: PSA/36/8
+  number: '8'
+reference: 'Psalms 36:9'

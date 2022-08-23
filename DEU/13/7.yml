@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 13:7" class="v">7</span><span
+  class="add">Namely</span>, of the gods of the people which <span
+  class="add">are</span> round about you, nigh unto thee, or far off from thee,
+  from the <span class="add">one</span> end of the earth even unto the <span
+  class="add">other</span> end of the earth; </p>
+id: DEU/13/7
+next:
+  id: DEU/13/8
+  number: '8'
+previous:
+  id: DEU/13/6
+  number: '6'
+reference: 'Deuteronomy 13:7'

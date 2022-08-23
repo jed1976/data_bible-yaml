@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 17:11" class="v">11</span>An
+  evil <span class="add">man</span> seeketh only rebellion: therefore a cruel
+  messenger shall be sent against him. </p>
+id: PRO/17/11
+next:
+  id: PRO/17/12
+  number: '12'
+previous:
+  id: PRO/17/10
+  number: '10'
+reference: 'Proverbs 17:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 18:20"
+  class="v">20</span>And Joab said unto him, Thou shalt not bear tidings this
+  day, but thou shalt bear tidings another day: but this day thou shalt bear no
+  tidings, because the king’s son is dead. </p>
+id: 2SA/18/20
+next:
+  id: 2SA/18/21
+  number: '21'
+previous:
+  id: 2SA/18/19
+  number: '19'
+reference: '2 Samuel 18:20'

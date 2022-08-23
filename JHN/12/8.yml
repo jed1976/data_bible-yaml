@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 12:8" class="v">8</span><span
+  class="wj">For the poor always ye have with you; but me ye have not
+  always.</span> </p>
+id: JHN/12/8
+next:
+  id: JHN/12/9
+  number: '9'
+previous:
+  id: JHN/12/7
+  number: '7'
+reference: 'John 12:8'

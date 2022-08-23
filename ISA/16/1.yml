@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 16:1" class="v">1</span>Send
+  ye the lamb to the ruler of the land from Sela to the wilderness, unto the
+  mount of the daughter of Zion. </p>
+id: ISA/16/1
+next:
+  id: ISA/16/2
+  number: '2'
+previous:
+  id: ISA/15/9
+  number: '9'
+reference: 'Isaiah 16:1'

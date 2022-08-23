@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2CH 25:21" class="v">21</span>So
+  Joash the king of Israel went up; and they saw one another in the face, <span
+  class="add">both</span> he and Amaziah king of Judah, at Beth-shemesh, which
+  <span class="add">belongeth</span> to Judah. </p>
+id: 2CH/25/21
+next:
+  id: 2CH/25/22
+  number: '22'
+previous:
+  id: 2CH/25/20
+  number: '20'
+reference: '2 Chronicles 25:21'

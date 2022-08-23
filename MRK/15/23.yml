@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 15:23"
+  class="v">23</span>And they gave him to drink wine mingled with myrrh: but he
+  received <span class="add">it</span> not. </p>
+id: MRK/15/23
+next:
+  id: MRK/15/24
+  number: '24'
+previous:
+  id: MRK/15/22
+  number: '22'
+reference: 'Mark 15:23'

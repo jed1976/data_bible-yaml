@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 8:29"
+  class="v">29</span>Then the Spirit said unto Philip, Go near, and join thyself
+  to this chariot. </p>
+id: ACT/8/29
+next:
+  id: ACT/8/30
+  number: '30'
+previous:
+  id: ACT/8/28
+  number: '28'
+reference: 'Acts 8:29'

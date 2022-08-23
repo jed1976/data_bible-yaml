@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MIC 4:10" class="v">10</span>Be
+  in pain, and labour to bring forth, O daughter of Zion, like a woman in
+  travail: for now shalt thou go forth out of the city, and thou shalt dwell in
+  the field, and thou shalt go <span class="add">even</span> to Babylon; there
+  shalt thou be delivered; there the <span class="nd">LORD</span> shall redeem
+  thee from the hand of thine enemies.</p>
+id: MIC/4/10
+next:
+  id: MIC/4/11
+  number: '11'
+previous:
+  id: MIC/4/9
+  number: '9'
+reference: 'Micah 4:10'

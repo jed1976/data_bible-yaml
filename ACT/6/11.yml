@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 6:11"
+  class="v">11</span>Then they suborned men, which said, We have heard him speak
+  blasphemous words against Moses, and <span class="add">against</span> God.
+  </p>
+id: ACT/6/11
+next:
+  id: ACT/6/12
+  number: '12'
+previous:
+  id: ACT/6/10
+  number: '10'
+reference: 'Acts 6:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EPH 4:4" class="v">4</span><span
+  class="add">There is</span> one body, and one Spirit, even as ye are called in
+  one hope of your calling; </p>
+id: EPH/4/4
+next:
+  id: EPH/4/5
+  number: '5'
+previous:
+  id: EPH/4/3
+  number: '3'
+reference: 'Ephesians 4:4'

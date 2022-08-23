@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 5:7" class="v">7</span>The
+  impotent man answered him, Sir, I have no man, when the water is troubled, to
+  put me into the pool: but while I am coming, another steppeth down before me.
+  </p>
+id: JHN/5/7
+next:
+  id: JHN/5/8
+  number: '8'
+previous:
+  id: JHN/5/6
+  number: '6'
+reference: 'John 5:7'

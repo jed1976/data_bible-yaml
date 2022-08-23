@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LAM 1:12" class="v">12</span>¶
+  <span class="add">Is it</span> nothing to you, all ye that pass by? behold,
+  and see if there be any sorrow like unto my sorrow, which is done unto me,
+  wherewith the <span class="nd">LORD</span> hath afflicted <span
+  class="add">me</span> in the day of his fierce anger. </p>
+id: LAM/1/12
+next:
+  id: LAM/1/13
+  number: '13'
+previous:
+  id: LAM/1/11
+  number: '11'
+reference: 'Lamentations 1:12'

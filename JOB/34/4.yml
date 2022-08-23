@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 34:4" class="v">4</span>Let
+  us choose to us judgment: let us know among ourselves what <span
+  class="add">is</span> good. </p>
+id: JOB/34/4
+next:
+  id: JOB/34/5
+  number: '5'
+previous:
+  id: JOB/34/3
+  number: '3'
+reference: 'Job 34:4'

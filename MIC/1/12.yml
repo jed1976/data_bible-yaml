@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 1:12" class="v">12</span>For
+  the inhabitant of Maroth waited carefully for good: but evil came down from
+  the <span class="nd">LORD</span> unto the gate of Jerusalem. </p>
+id: MIC/1/12
+next:
+  id: MIC/1/13
+  number: '13'
+previous:
+  id: MIC/1/11
+  number: '11'
+reference: 'Micah 1:12'

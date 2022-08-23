@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DAN 6:23"
+  class="v">23</span>Then was the king exceeding glad for him, and commanded
+  that they should take Daniel up out of the den. So Daniel was taken up out of
+  the den, and no manner of hurt was found upon him, because he believed in his
+  God.</p>
+id: DAN/6/23
+next:
+  id: DAN/6/24
+  number: '24'
+previous:
+  id: DAN/6/22
+  number: '22'
+reference: 'Daniel 6:23'

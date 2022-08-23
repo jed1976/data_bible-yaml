@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 25:8"
+  class="v">8</span>Good and upright <span class="add">is</span> the <span
+  class="nd">LORD</span>: therefore will he teach sinners in the way.</p>
+id: PSA/25/8
+next:
+  id: PSA/25/9
+  number: '9'
+previous:
+  id: PSA/25/7
+  number: '7'
+reference: 'Psalms 25:8'

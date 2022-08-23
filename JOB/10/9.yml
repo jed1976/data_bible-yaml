@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 10:9"
+  class="v">9</span>Remember, I beseech thee, that thou hast made me as the
+  clay; and wilt thou bring me into dust again? </p>
+id: JOB/10/9
+next:
+  id: JOB/10/10
+  number: '10'
+previous:
+  id: JOB/10/8
+  number: '8'
+reference: 'Job 10:9'

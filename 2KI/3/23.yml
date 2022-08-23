@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 3:23" class="v">23</span>And
+  they said, This <span class="add">is</span> blood: the kings are surely slain,
+  and they have smitten one another: now therefore, Moab, to the spoil. </p>
+id: 2KI/3/23
+next:
+  id: 2KI/3/24
+  number: '24'
+previous:
+  id: 2KI/3/22
+  number: '22'
+reference: '2 Kings 3:23'

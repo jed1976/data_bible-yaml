@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 39:19"
+  class="v">19</span>And they made two rings of gold, and put <span
+  class="add">them</span> on the two ends of the breastplate, upon the border of
+  it, which <span class="add">was</span> on the side of the ephod inward. </p>
+id: EXO/39/19
+next:
+  id: EXO/39/20
+  number: '20'
+previous:
+  id: EXO/39/18
+  number: '18'
+reference: 'Exodus 39:19'

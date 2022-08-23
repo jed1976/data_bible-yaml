@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 14:5" class="v">5</span>And
+  in the fourteenth year came Chedorlaomer, and the kings that <span
+  class="add">were</span> with him, and smote the Rephaims in Ashteroth Karnaim,
+  and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim, </p>
+id: GEN/14/5
+next:
+  id: GEN/14/6
+  number: '6'
+previous:
+  id: GEN/14/4
+  number: '4'
+reference: 'Genesis 14:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 34:20"
+  class="v">20</span>He keepeth all his bones: not one of them is broken.</p>
+id: PSA/34/20
+next:
+  id: PSA/34/21
+  number: '21'
+previous:
+  id: PSA/34/19
+  number: '19'
+reference: 'Psalms 34:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 25:3" class="v">3</span>¶ Now
+  it came to pass, when the kingdom was established to him, that he slew his
+  servants that had killed the king his father. </p>
+id: 2CH/25/3
+next:
+  id: 2CH/25/4
+  number: '4'
+previous:
+  id: 2CH/25/2
+  number: '2'
+reference: '2 Chronicles 25:3'

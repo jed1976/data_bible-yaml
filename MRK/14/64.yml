@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="MRK 14:64" class="v">64</span>Ye
+  have heard the blasphemy: what think ye? And they all condemned him to be
+  guilty of death. </p>
+id: MRK/14/64
+next:
+  id: MRK/14/65
+  number: '65'
+previous:
+  id: MRK/14/63
+  number: '63'
+reference: 'Mark 14:64'

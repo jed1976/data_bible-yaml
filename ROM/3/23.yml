@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 3:23" class="v">23</span>For
+  all have sinned, and come short of the glory of God; </p>
+id: ROM/3/23
+next:
+  id: ROM/3/24
+  number: '24'
+previous:
+  id: ROM/3/22
+  number: '22'
+reference: 'Romans 3:23'

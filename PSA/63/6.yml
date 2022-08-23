@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 63:6" class="v">6</span>When
+  I remember thee upon my bed, <span class="add">and</span> meditate on thee in
+  the <span class="add">night</span> watches.</p>
+id: PSA/63/6
+next:
+  id: PSA/63/7
+  number: '7'
+previous:
+  id: PSA/63/5
+  number: '5'
+reference: 'Psalms 63:6'

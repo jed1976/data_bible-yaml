@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 2:12" class="v">12</span>But
+  ye gave the Nazarites wine to drink; and commanded the prophets, saying,
+  Prophesy not. </p>
+id: AMO/2/12
+next:
+  id: AMO/2/13
+  number: '13'
+previous:
+  id: AMO/2/11
+  number: '11'
+reference: 'Amos 2:12'

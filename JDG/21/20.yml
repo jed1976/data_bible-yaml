@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 21:20"
+  class="v">20</span>Therefore they commanded the children of Benjamin, saying,
+  Go and lie in wait in the vineyards; </p>
+id: JDG/21/20
+next:
+  id: JDG/21/21
+  number: '21'
+previous:
+  id: JDG/21/19
+  number: '19'
+reference: 'Judges 21:20'

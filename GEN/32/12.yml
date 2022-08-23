@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 32:12"
+  class="v">12</span>And thou saidst, I will surely do thee good, and make thy
+  seed as the sand of the sea, which cannot be numbered for multitude.</p>
+id: GEN/32/12
+next:
+  id: GEN/32/13
+  number: '13'
+previous:
+  id: GEN/32/11
+  number: '11'
+reference: 'Genesis 32:12'

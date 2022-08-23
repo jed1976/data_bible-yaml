@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 29:20" class="v">20</span>¶
+  And on the third day eleven bullocks, two rams, fourteen lambs of the first
+  year without blemish; </p>
+id: NUM/29/20
+next:
+  id: NUM/29/21
+  number: '21'
+previous:
+  id: NUM/29/19
+  number: '19'
+reference: 'Numbers 29:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 11:17"
+  class="v">17</span>And Eber lived after he begat Peleg four hundred and thirty
+  years, and begat sons and daughters. </p>
+id: GEN/11/17
+next:
+  id: GEN/11/18
+  number: '18'
+previous:
+  id: GEN/11/16
+  number: '16'
+reference: 'Genesis 11:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 10:3" class="v">3</span>And
+  Solomon told her all her questions: there was not <span class="add">any</span>
+  thing hid from the king, which he told her not. </p>
+id: 1KI/10/3
+next:
+  id: 1KI/10/4
+  number: '4'
+previous:
+  id: 1KI/10/2
+  number: '2'
+reference: '1 Kings 10:3'

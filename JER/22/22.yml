@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 22:22"
+  class="v">22</span>The wind shall eat up all thy pastors, and thy lovers shall
+  go into captivity: surely then shalt thou be ashamed and confounded for all
+  thy wickedness. </p>
+id: JER/22/22
+next:
+  id: JER/22/23
+  number: '23'
+previous:
+  id: JER/22/21
+  number: '21'
+reference: 'Jeremiah 22:22'

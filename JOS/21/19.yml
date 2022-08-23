@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 21:19"
+  class="v">19</span>All the cities of the children of Aaron, the priests, <span
+  class="add">were</span> thirteen cities with their suburbs.</p>
+id: JOS/21/19
+next:
+  id: JOS/21/20
+  number: '20'
+previous:
+  id: JOS/21/18
+  number: '18'
+reference: 'Joshua 21:19'

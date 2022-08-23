@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 32:22"
+  class="v">22</span>For I know not to give flattering titles; <span
+  class="add">in so doing</span> my maker would soon take me away.</p>
+id: JOB/32/22
+next:
+  id: JOB/33/1
+  number: '1'
+previous:
+  id: JOB/32/21
+  number: '21'
+reference: 'Job 32:22'

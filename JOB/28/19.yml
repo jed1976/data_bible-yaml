@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 28:19"
+  class="v">19</span>The topaz of Ethiopia shall not equal it, neither shall it
+  be valued with pure gold.</p>
+id: JOB/28/19
+next:
+  id: JOB/28/20
+  number: '20'
+previous:
+  id: JOB/28/18
+  number: '18'
+reference: 'Job 28:19'

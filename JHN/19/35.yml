@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 19:35"
+  class="v">35</span>And he that saw <span class="add">it</span> bare record,
+  and his record is true: and he knoweth that he saith true, that ye might
+  believe. </p>
+id: JHN/19/35
+next:
+  id: JHN/19/36
+  number: '36'
+previous:
+  id: JHN/19/34
+  number: '34'
+reference: 'John 19:35'

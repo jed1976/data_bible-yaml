@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JER 34:8" class="v">8</span>¶
+  <span class="add">This is</span> the word that came unto Jeremiah from the
+  <span class="nd">LORD</span>, after that the king Zedekiah had made a covenant
+  with all the people which <span class="add">were</span> at Jerusalem, to
+  proclaim liberty unto them; </p>
+id: JER/34/8
+next:
+  id: JER/34/9
+  number: '9'
+previous:
+  id: JER/34/7
+  number: '7'
+reference: 'Jeremiah 34:8'

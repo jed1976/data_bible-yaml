@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 23:13"
+  class="v">13</span>And I have seen folly in the prophets of Samaria; they
+  prophesied in Baal, and caused my people Israel to err. </p>
+id: JER/23/13
+next:
+  id: JER/23/14
+  number: '14'
+previous:
+  id: JER/23/12
+  number: '12'
+reference: 'Jeremiah 23:13'

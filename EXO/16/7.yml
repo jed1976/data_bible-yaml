@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 16:7" class="v">7</span>And
+  in the morning, then ye shall see the glory of the <span
+  class="nd">LORD</span>; for that he heareth your murmurings against the <span
+  class="nd">LORD</span>: and what <span class="add">are</span> we, that ye
+  murmur against us? </p>
+id: EXO/16/7
+next:
+  id: EXO/16/8
+  number: '8'
+previous:
+  id: EXO/16/6
+  number: '6'
+reference: 'Exodus 16:7'

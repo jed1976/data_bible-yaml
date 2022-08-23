@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 8:19" class="v">19</span>For
+  the earnest expectation of the creature waiteth for the manifestation of the
+  sons of God. </p>
+id: ROM/8/19
+next:
+  id: ROM/8/20
+  number: '20'
+previous:
+  id: ROM/8/18
+  number: '18'
+reference: 'Romans 8:19'

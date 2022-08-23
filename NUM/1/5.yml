@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 1:5" class="v">5</span>¶ And
+  these <span class="add">are</span> the names of the men that shall stand with
+  you: of <span class="add">the tribe of</span> Reuben; Elizur the son of
+  Shedeur. </p>
+id: NUM/1/5
+next:
+  id: NUM/1/6
+  number: '6'
+previous:
+  id: NUM/1/4
+  number: '4'
+reference: 'Numbers 1:5'

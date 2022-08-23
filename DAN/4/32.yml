@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DAN 4:32" class="v">32</span>And
+  they shall drive thee from men, and thy dwelling <span class="add">shall
+  be</span> with the beasts of the field: they shall make thee to eat grass as
+  oxen, and seven times shall pass over thee, until thou know that the most High
+  ruleth in the kingdom of men, and giveth it to whomsoever he will. </p>
+id: DAN/4/32
+next:
+  id: DAN/4/33
+  number: '33'
+previous:
+  id: DAN/4/31
+  number: '31'
+reference: 'Daniel 4:32'

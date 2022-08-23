@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 16:4" class="v">4</span>So
+  the children of Joseph, Manasseh and Ephraim, took their inheritance.</p>
+id: JOS/16/4
+next:
+  id: JOS/16/5
+  number: '5'
+previous:
+  id: JOS/16/3
+  number: '3'
+reference: 'Joshua 16:4'

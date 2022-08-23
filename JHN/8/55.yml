@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="JHN 8:55"
+  class="v">55</span><span class="wj">Yet ye have not known him; but I know him:
+  and if I should say, I know him not, I shall be a liar like unto you: but I
+  know him, and keep his saying.</span> </p>
+id: JHN/8/55
+next:
+  id: JHN/8/56
+  number: '56'
+previous:
+  id: JHN/8/54
+  number: '54'
+reference: 'John 8:55'

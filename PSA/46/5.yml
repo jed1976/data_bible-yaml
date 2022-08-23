@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 46:5" class="v">5</span>God
+  <span class="add">is</span> in the midst of her; she shall not be moved: God
+  shall help her, <span class="add">and that</span> right early.</p>
+id: PSA/46/5
+next:
+  id: PSA/46/6
+  number: '6'
+previous:
+  id: PSA/46/4
+  number: '4'
+reference: 'Psalms 46:5'

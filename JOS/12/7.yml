@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 12:7" class="v">7</span>¶ And
+  these <span class="add">are</span> the kings of the country which Joshua and
+  the children of Israel smote on this side Jordan on the west, from Baal-gad in
+  the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which
+  Joshua gave unto the tribes of Israel <span class="add">for</span> a
+  possession according to their divisions; </p>
+id: JOS/12/7
+next:
+  id: JOS/12/8
+  number: '8'
+previous:
+  id: JOS/12/6
+  number: '6'
+reference: 'Joshua 12:7'

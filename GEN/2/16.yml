@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 2:16" class="v">16</span>And
+  the <span class="nd">LORD</span> God commanded the man, saying, Of every tree
+  of the garden thou mayest freely eat: </p>
+id: GEN/2/16
+next:
+  id: GEN/2/17
+  number: '17'
+previous:
+  id: GEN/2/15
+  number: '15'
+reference: 'Genesis 2:16'

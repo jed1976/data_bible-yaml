@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 20:9" class="v">9</span>And
+  Joab said to Amasa, <span class="add">Art</span> thou in health, my brother?
+  And Joab took Amasa by the beard with the right hand to kiss him. </p>
+id: 2SA/20/9
+next:
+  id: 2SA/20/10
+  number: '10'
+previous:
+  id: 2SA/20/8
+  number: '8'
+reference: '2 Samuel 20:9'

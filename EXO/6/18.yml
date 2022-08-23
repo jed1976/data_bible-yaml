@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 6:18" class="v">18</span>And
+  the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of
+  the life of Kohath <span class="add">were</span> an hundred thirty and three
+  years. </p>
+id: EXO/6/18
+next:
+  id: EXO/6/19
+  number: '19'
+previous:
+  id: EXO/6/17
+  number: '17'
+reference: 'Exodus 6:18'

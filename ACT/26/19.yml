@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 26:19"
+  class="v">19</span>Whereupon, O king Agrippa, I was not disobedient unto the
+  heavenly vision: </p>
+id: ACT/26/19
+next:
+  id: ACT/26/20
+  number: '20'
+previous:
+  id: ACT/26/18
+  number: '18'
+reference: 'Acts 26:19'

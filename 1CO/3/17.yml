@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1CO 3:17" class="v">17</span>If
+  any man defile the temple of God, him shall God destroy; for the temple of God
+  is holy, which <span class="add">temple</span> ye are.</p>
+id: 1CO/3/17
+next:
+  id: 1CO/3/18
+  number: '18'
+previous:
+  id: 1CO/3/16
+  number: '16'
+reference: '1 Corinthians 3:17'

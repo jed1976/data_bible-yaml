@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DAN 5:14" class="v">14</span>I
+  have even heard of thee, that the spirit of the gods <span
+  class="add">is</span> in thee, and <span class="add">that</span> light and
+  understanding and excellent wisdom is found in thee. </p>
+id: DAN/5/14
+next:
+  id: DAN/5/15
+  number: '15'
+previous:
+  id: DAN/5/13
+  number: '13'
+reference: 'Daniel 5:14'

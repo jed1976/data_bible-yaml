@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 65:6"
+  class="v">6</span>Behold, <span class="add">it is</span> written before me: I
+  will not keep silence, but will recompense, even recompense into their bosom,
+  </p>
+id: ISA/65/6
+next:
+  id: ISA/65/7
+  number: '7'
+previous:
+  id: ISA/65/5
+  number: '5'
+reference: 'Isaiah 65:6'

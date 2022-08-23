@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JHN 8:31"
+  class="v">31</span>Then said Jesus to those Jews which believed on him, <span
+  class="wj">If ye continue in my word, <span class="add">then</span> are ye my
+  disciples indeed;</span> </p>
+id: JHN/8/31
+next:
+  id: JHN/8/32
+  number: '32'
+previous:
+  id: JHN/8/30
+  number: '30'
+reference: 'John 8:31'

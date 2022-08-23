@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 5:10" class="v">10</span>I
+  likewise, <span class="add">and</span> my brethren, and my servants, might
+  exact of them money and corn: I pray you, let us leave off this usury. </p>
+id: NEH/5/10
+next:
+  id: NEH/5/11
+  number: '11'
+previous:
+  id: NEH/5/9
+  number: '9'
+reference: 'Nehemiah 5:10'

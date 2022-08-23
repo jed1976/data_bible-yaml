@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 10:40"
+  class="v">40</span><span class="wj">¶ He that receiveth you receiveth me, and
+  he that receiveth me receiveth him that sent me.</span> </p>
+id: MAT/10/40
+next:
+  id: MAT/10/41
+  number: '41'
+previous:
+  id: MAT/10/39
+  number: '39'
+reference: 'Matthew 10:40'

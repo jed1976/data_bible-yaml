@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 21:1" class="v">1</span>The
+  burden of the desert of the sea. As whirlwinds in the south pass through;
+  <span class="add">so</span> it cometh from the desert, from a terrible land.
+  </p>
+id: ISA/21/1
+next:
+  id: ISA/21/2
+  number: '2'
+previous:
+  id: ISA/20/6
+  number: '6'
+reference: 'Isaiah 21:1'

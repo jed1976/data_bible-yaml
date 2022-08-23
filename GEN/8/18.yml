@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 8:18" class="v">18</span>And
+  Noah went forth, and his sons, and his wife, and his sons’ wives with him:
+  </p>
+id: GEN/8/18
+next:
+  id: GEN/8/19
+  number: '19'
+previous:
+  id: GEN/8/17
+  number: '17'
+reference: 'Genesis 8:18'

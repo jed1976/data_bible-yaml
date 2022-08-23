@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 22:16"
+  class="v">16</span><span class="wj">For I say unto you, I will not any more
+  eat thereof, until it be fulfilled in the kingdom of God.</span> </p>
+id: LUK/22/16
+next:
+  id: LUK/22/17
+  number: '17'
+previous:
+  id: LUK/22/15
+  number: '15'
+reference: 'Luke 22:16'

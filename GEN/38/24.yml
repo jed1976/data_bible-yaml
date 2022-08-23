@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 38:24" class="v">24</span>¶
+  And it came to pass about three months after, that it was told Judah, saying,
+  Tamar thy daughter in law hath played the harlot; and also, behold, she <span
+  class="add">is</span> with child by whoredom. And Judah said, Bring her forth,
+  and let her be burnt. </p>
+id: GEN/38/24
+next:
+  id: GEN/38/25
+  number: '25'
+previous:
+  id: GEN/38/23
+  number: '23'
+reference: 'Genesis 38:24'

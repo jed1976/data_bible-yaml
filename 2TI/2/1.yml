@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2TI 2:1" class="v">1</span>Thou
+  therefore, my son, be strong in the grace that is in Christ Jesus. </p>
+id: 2TI/2/1
+next:
+  id: 2TI/2/2
+  number: '2'
+previous:
+  id: 2TI/1/18
+  number: '18'
+reference: '2 Timothy 2:1'

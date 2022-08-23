@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 17:7" class="v">7</span>Shew
+  thy marvellous lovingkindness, O thou that savest by thy right hand them which
+  put their trust <span class="add">in thee</span> from those that rise up <span
+  class="add">against them</span>.</p>
+id: PSA/17/7
+next:
+  id: PSA/17/8
+  number: '8'
+previous:
+  id: PSA/17/6
+  number: '6'
+reference: 'Psalms 17:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 19:6" class="v">6</span>And
+  they shall turn the rivers far away; <span class="add">and</span> the brooks
+  of defence shall be emptied and dried up: the reeds and flags shall wither.
+  </p>
+id: ISA/19/6
+next:
+  id: ISA/19/7
+  number: '7'
+previous:
+  id: ISA/19/5
+  number: '5'
+reference: 'Isaiah 19:6'

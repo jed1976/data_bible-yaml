@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 31:29"
+  class="v">29</span>Many daughters have done virtuously, but thou excellest
+  them all. </p>
+id: PRO/31/29
+next:
+  id: PRO/31/30
+  number: '30'
+previous:
+  id: PRO/31/28
+  number: '28'
+reference: 'Proverbs 31:29'

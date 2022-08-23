@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 34:14"
+  class="v">14</span>For thou shalt worship no other god: for the <span
+  class="nd">LORD</span>, whose name <span class="add">is</span> Jealous, <span
+  class="add">is</span> a jealous God: </p>
+id: EXO/34/14
+next:
+  id: EXO/34/15
+  number: '15'
+previous:
+  id: EXO/34/13
+  number: '13'
+reference: 'Exodus 34:14'

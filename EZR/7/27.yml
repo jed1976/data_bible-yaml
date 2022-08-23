@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EZR 7:27" class="v">27</span>¶
+  Blessed <span class="add">be</span> the <span class="nd">LORD</span> God of
+  our fathers, which hath put <span class="add">such a thing</span> as this in
+  the king’s heart, to beautify the house of the <span class="nd">LORD</span>
+  which <span class="add">is</span> in Jerusalem: </p>
+id: EZR/7/27
+next:
+  id: EZR/7/28
+  number: '28'
+previous:
+  id: EZR/7/26
+  number: '26'
+reference: 'Ezra 7:27'

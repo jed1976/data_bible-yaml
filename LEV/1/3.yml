@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 1:3" class="v">3</span>If his
+  offering <span class="add">be</span> a burnt sacrifice of the herd, let him
+  offer a male without blemish: he shall offer it of his own voluntary will at
+  the door of the tabernacle of the congregation before the <span
+  class="nd">LORD</span>. </p>
+id: LEV/1/3
+next:
+  id: LEV/1/4
+  number: '4'
+previous:
+  id: LEV/1/2
+  number: '2'
+reference: 'Leviticus 1:3'

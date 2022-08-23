@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 24:6" class="v">6</span>And
+  Abraham said unto him, Beware thou that thou bring not my son thither
+  again.</p>
+id: GEN/24/6
+next:
+  id: GEN/24/7
+  number: '7'
+previous:
+  id: GEN/24/5
+  number: '5'
+reference: 'Genesis 24:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 10:22"
+  class="v">22</span>And Moses stretched forth his hand toward heaven; and there
+  was a thick darkness in all the land of Egypt three days: </p>
+id: EXO/10/22
+next:
+  id: EXO/10/23
+  number: '23'
+previous:
+  id: EXO/10/21
+  number: '21'
+reference: 'Exodus 10:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 13:11"
+  class="v">11</span>For he knew who should betray him; therefore said he, Ye
+  are not all clean. </p>
+id: JHN/13/11
+next:
+  id: JHN/13/12
+  number: '12'
+previous:
+  id: JHN/13/10
+  number: '10'
+reference: 'John 13:11'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 42:9" class="v">9</span>So
+  Eliphaz the Temanite and Bildad the Shuhite <span class="add">and</span>
+  Zophar the Naamathite went, and did according as the <span
+  class="nd">LORD</span> commanded them: the <span class="nd">LORD</span> also
+  accepted Job.</p>
+id: JOB/42/9
+next:
+  id: JOB/42/10
+  number: '10'
+previous:
+  id: JOB/42/8
+  number: '8'
+reference: 'Job 42:9'

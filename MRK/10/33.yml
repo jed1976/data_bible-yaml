@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MRK 10:33"
+  class="v">33</span><span class="add">Saying</span>, <span class="wj">Behold,
+  we go up to Jerusalem; and the Son of man shall be delivered unto the chief
+  priests, and unto the scribes; and they shall condemn him to death, and shall
+  deliver him to the Gentiles:</span> </p>
+id: MRK/10/33
+next:
+  id: MRK/10/34
+  number: '34'
+previous:
+  id: MRK/10/32
+  number: '32'
+reference: 'Mark 10:33'

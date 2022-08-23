@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ZEC 11:2" class="v">2</span>Howl,
+  fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye
+  oaks of Bashan; for the forest of the vintage is come down.</p>
+id: ZEC/11/2
+next:
+  id: ZEC/11/3
+  number: '3'
+previous:
+  id: ZEC/11/1
+  number: '1'
+reference: 'Zechariah 11:2'

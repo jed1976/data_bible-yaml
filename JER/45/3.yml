@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 45:3" class="v">3</span>Thou
+  didst say, Woe is me now! for the <span class="nd">LORD</span> hath added
+  grief to my sorrow; I fainted in my sighing, and I find no rest.</p>
+id: JER/45/3
+next:
+  id: JER/45/4
+  number: '4'
+previous:
+  id: JER/45/2
+  number: '2'
+reference: 'Jeremiah 45:3'

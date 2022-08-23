@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 19:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: LEV/19/1
+next:
+  id: LEV/19/2
+  number: '2'
+previous:
+  id: LEV/18/30
+  number: '30'
+reference: 'Leviticus 19:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 105:3"
+  class="v">3</span>Glory ye in his holy name: let the heart of them rejoice
+  that seek the <span class="nd">LORD</span>.</p>
+id: PSA/105/3
+next:
+  id: PSA/105/4
+  number: '4'
+previous:
+  id: PSA/105/2
+  number: '2'
+reference: 'Psalms 105:3'

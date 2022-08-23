@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 8:4" class="v">4</span>For
+  before the child shall have knowledge to cry, My father, and my mother, the
+  riches of Damascus and the spoil of Samaria shall be taken away before the
+  king of Assyria.</p>
+id: ISA/8/4
+next:
+  id: ISA/8/5
+  number: '5'
+previous:
+  id: ISA/8/3
+  number: '3'
+reference: 'Isaiah 8:4'

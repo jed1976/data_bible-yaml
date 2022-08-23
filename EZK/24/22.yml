@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 24:22"
+  class="v">22</span>And ye shall do as I have done: ye shall not cover <span
+  class="add">your</span> lips, nor eat the bread of men. </p>
+id: EZK/24/22
+next:
+  id: EZK/24/23
+  number: '23'
+previous:
+  id: EZK/24/21
+  number: '21'
+reference: 'Ezekiel 24:22'

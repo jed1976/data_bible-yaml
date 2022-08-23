@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EZK 21:25" class="v">25</span>¶
+  And thou, profane wicked prince of Israel, whose day is come, when iniquity
+  <span class="add">shall have</span> an end, </p>
+id: EZK/21/25
+next:
+  id: EZK/21/26
+  number: '26'
+previous:
+  id: EZK/21/24
+  number: '24'
+reference: 'Ezekiel 21:25'

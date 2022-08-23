@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 38:5" class="v">5</span>And
+  she yet again conceived, and bare a son; and called his name Shelah: and he
+  was at Chezib, when she bare him. </p>
+id: GEN/38/5
+next:
+  id: GEN/38/6
+  number: '6'
+previous:
+  id: GEN/38/4
+  number: '4'
+reference: 'Genesis 38:5'

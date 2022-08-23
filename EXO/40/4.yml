@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 40:4" class="v">4</span>And
+  thou shalt bring in the table, and set in order the things that are to be set
+  in order upon it; and thou shalt bring in the candlestick, and light the lamps
+  thereof. </p>
+id: EXO/40/4
+next:
+  id: EXO/40/5
+  number: '5'
+previous:
+  id: EXO/40/3
+  number: '3'
+reference: 'Exodus 40:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 34:9" class="v">9</span>O
+  fear the <span class="nd">LORD</span>, ye his saints: for <span
+  class="add">there is</span> no want to them that fear him.</p>
+id: PSA/34/9
+next:
+  id: PSA/34/10
+  number: '10'
+previous:
+  id: PSA/34/8
+  number: '8'
+reference: 'Psalms 34:9'

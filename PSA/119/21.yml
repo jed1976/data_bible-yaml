@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 119:21"
+  class="v">21</span>Thou hast rebuked the proud <span class="add">that
+  are</span> cursed, which do err from thy commandments.</p>
+id: PSA/119/21
+next:
+  id: PSA/119/22
+  number: '22'
+previous:
+  id: PSA/119/20
+  number: '20'
+reference: 'Psalms 119:21'

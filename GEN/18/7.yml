@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 18:7" class="v">7</span>And
+  Abraham ran unto the herd, and fetcht a calf tender and good, and gave <span
+  class="add">it</span> unto a young man; and he hasted to dress it. </p>
+id: GEN/18/7
+next:
+  id: GEN/18/8
+  number: '8'
+previous:
+  id: GEN/18/6
+  number: '6'
+reference: 'Genesis 18:7'

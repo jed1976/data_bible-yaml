@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1PE 3:1"
+  class="v">1</span>Likewise, ye wives, <span class="add">be</span> in
+  subjection to your own husbands; that, if any obey not the word, they also may
+  without the word be won by the conversation of the wives; </p>
+id: 1PE/3/1
+next:
+  id: 1PE/3/2
+  number: '2'
+previous:
+  id: 1PE/2/25
+  number: '25'
+reference: '1 Peter 3:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEP 1:13"
+  class="v">13</span>Therefore their goods shall become a booty, and their
+  houses a desolation: they shall also build houses, but not inhabit <span
+  class="add">them;</span> and they shall plant vineyards, but not drink the
+  wine thereof.</p>
+id: ZEP/1/13
+next:
+  id: ZEP/1/14
+  number: '14'
+previous:
+  id: ZEP/1/12
+  number: '12'
+reference: 'Zephaniah 1:13'

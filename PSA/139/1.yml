@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 139:1" class="v">1</span>O <span
+  class="nd">LORD</span>, thou hast searched me, and known <span
+  class="add">me</span>.</p>
+id: PSA/139/1
+next:
+  id: PSA/139/2
+  number: '2'
+previous:
+  id: PSA/138/8
+  number: '8'
+reference: 'Psalms 139:1'

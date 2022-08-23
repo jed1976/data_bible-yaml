@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 17:3" class="v">3</span><span
+  class="wj">¶ Take heed to yourselves: If thy brother trespass against thee,
+  rebuke him; and if he repent, forgive him.</span> </p>
+id: LUK/17/3
+next:
+  id: LUK/17/4
+  number: '4'
+previous:
+  id: LUK/17/2
+  number: '2'
+reference: 'Luke 17:3'

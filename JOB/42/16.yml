@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 42:16"
+  class="v">16</span>After this lived Job an hundred and forty years, and saw
+  his sons, and his sons’ sons, <span class="add">even</span> four generations.
+  </p>
+id: JOB/42/16
+next:
+  id: JOB/42/17
+  number: '17'
+previous:
+  id: JOB/42/15
+  number: '15'
+reference: 'Job 42:16'

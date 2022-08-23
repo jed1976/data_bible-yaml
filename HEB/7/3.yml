@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 7:3"
+  class="v">3</span>Without father, without mother, without descent, having
+  neither beginning of days, nor end of life; but made like unto the Son of God;
+  abideth a priest continually. </p>
+id: HEB/7/3
+next:
+  id: HEB/7/4
+  number: '4'
+previous:
+  id: HEB/7/2
+  number: '2'
+reference: 'Hebrews 7:3'

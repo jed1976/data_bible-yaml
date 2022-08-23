@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 10:27"
+  class="v">27</span>And as he talked with him, he went in, and found many that
+  were come together. </p>
+id: ACT/10/27
+next:
+  id: ACT/10/28
+  number: '28'
+previous:
+  id: ACT/10/26
+  number: '26'
+reference: 'Acts 10:27'

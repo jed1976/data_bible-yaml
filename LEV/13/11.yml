@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 13:11" class="v">11</span>It
+  <span class="add">is</span> an old leprosy in the skin of his flesh, and the
+  priest shall pronounce him unclean, and shall not shut him up: for he <span
+  class="add">is</span> unclean. </p>
+id: LEV/13/11
+next:
+  id: LEV/13/12
+  number: '12'
+previous:
+  id: LEV/13/10
+  number: '10'
+reference: 'Leviticus 13:11'

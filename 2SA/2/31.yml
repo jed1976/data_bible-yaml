@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="2SA 2:31" class="v">31</span>But
+  the servants of David had smitten of Benjamin, and of Abner’s men, <span
+  class="add">so that</span> three hundred and threescore men died.</p>
+id: 2SA/2/31
+next:
+  id: 2SA/2/32
+  number: '32'
+previous:
+  id: 2SA/2/30
+  number: '30'
+reference: '2 Samuel 2:31'

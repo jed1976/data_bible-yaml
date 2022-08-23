@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 36:14" class="v">14</span>¶
+  And he made curtains <span class="add">of</span> goats’ <span
+  class="add">hair</span> for the tent over the tabernacle: eleven curtains he
+  made them. </p>
+id: EXO/36/14
+next:
+  id: EXO/36/15
+  number: '15'
+previous:
+  id: EXO/36/13
+  number: '13'
+reference: 'Exodus 36:14'

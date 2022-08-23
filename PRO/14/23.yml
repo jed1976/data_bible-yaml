@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 14:23" class="v">23</span>In
+  all labour there is profit: but the talk of the lips <span
+  class="add">tendeth</span> only to penury. </p>
+id: PRO/14/23
+next:
+  id: PRO/14/24
+  number: '24'
+previous:
+  id: PRO/14/22
+  number: '22'
+reference: 'Proverbs 14:23'

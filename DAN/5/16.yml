@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 5:16" class="v">16</span>And
+  I have heard of thee, that thou canst make interpretations, and dissolve
+  doubts: now if thou canst read the writing, and make known to me the
+  interpretation thereof, thou shalt be clothed with scarlet, and <span
+  class="add">have</span> a chain of gold about thy neck, and shalt be the third
+  ruler in the kingdom.</p>
+id: DAN/5/16
+next:
+  id: DAN/5/17
+  number: '17'
+previous:
+  id: DAN/5/15
+  number: '15'
+reference: 'Daniel 5:16'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 129:3" class="v">3</span>The
+  plowers plowed upon my back: they made long their furrows.</p>
+id: PSA/129/3
+next:
+  id: PSA/129/4
+  number: '4'
+previous:
+  id: PSA/129/2
+  number: '2'
+reference: 'Psalms 129:3'

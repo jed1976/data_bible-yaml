@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 1:1" class="v">1</span>Now
+  there was a certain man of Ramathaim-zophim, of mount Ephraim, and his name
+  <span class="add">was</span> Elkanah, the son of Jeroham, the son of Elihu,
+  the son of Tohu, the son of Zuph, an Ephrathite: </p>
+id: 1SA/1/1
+next:
+  id: 1SA/1/2
+  number: '2'
+previous:
+  id: 1SA/intro/0
+  number: '0'
+reference: '1 Samuel 1:1'

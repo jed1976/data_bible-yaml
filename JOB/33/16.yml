@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 33:16"
+  class="v">16</span>Then he openeth the ears of men, and sealeth their
+  instruction, </p>
+id: JOB/33/16
+next:
+  id: JOB/33/17
+  number: '17'
+previous:
+  id: JOB/33/15
+  number: '15'
+reference: 'Job 33:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 36:13"
+  class="v">13</span>These <span class="add">are</span> the commandments and the
+  judgments, which the <span class="nd">LORD</span> commanded by the hand of
+  Moses unto the children of Israel in the plains of Moab by Jordan <span
+  class="add">near</span> Jericho.</p>
+id: NUM/36/13
+next:
+  id: DEU/intro/0
+  number: '0'
+previous:
+  id: NUM/36/12
+  number: '12'
+reference: 'Numbers 36:13'

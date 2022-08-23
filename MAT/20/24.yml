@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 20:24"
+  class="v">24</span>And when the ten heard <span class="add">it</span>, they
+  were moved with indignation against the two brethren. </p>
+id: MAT/20/24
+next:
+  id: MAT/20/25
+  number: '25'
+previous:
+  id: MAT/20/23
+  number: '23'
+reference: 'Matthew 20:24'

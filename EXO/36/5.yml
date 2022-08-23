@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 36:5" class="v">5</span>¶ And
+  they spake unto Moses, saying, The people bring much more than enough for the
+  service of the work, which the <span class="nd">LORD</span> commanded to make.
+  </p>
+id: EXO/36/5
+next:
+  id: EXO/36/6
+  number: '6'
+previous:
+  id: EXO/36/4
+  number: '4'
+reference: 'Exodus 36:5'

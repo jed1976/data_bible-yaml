@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 9:4" class="v">4</span>And
+  Jesus knowing their thoughts said, <span class="wj">Wherefore think ye evil in
+  your hearts?</span> </p>
+id: MAT/9/4
+next:
+  id: MAT/9/5
+  number: '5'
+previous:
+  id: MAT/9/3
+  number: '3'
+reference: 'Matthew 9:4'

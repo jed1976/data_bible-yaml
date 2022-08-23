@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 20:4" class="v">4</span>And
+  there accompanied him into Asia Sopater of Berea; and of the Thessalonians,
+  Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia,
+  Tychicus and Trophimus. </p>
+id: ACT/20/4
+next:
+  id: ACT/20/5
+  number: '5'
+previous:
+  id: ACT/20/3
+  number: '3'
+reference: 'Acts 20:4'

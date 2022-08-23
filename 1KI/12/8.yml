@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 12:8" class="v">8</span>But
+  he forsook the counsel of the old men, which they had given him, and consulted
+  with the young men that were grown up with him, <span class="add">and</span>
+  which stood before him: </p>
+id: 1KI/12/8
+next:
+  id: 1KI/12/9
+  number: '9'
+previous:
+  id: 1KI/12/7
+  number: '7'
+reference: '1 Kings 12:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 55:14"
+  class="v">14</span>We took sweet counsel together, <span
+  class="add">and</span> walked unto the house of God in company.</p>
+id: PSA/55/14
+next:
+  id: PSA/55/15
+  number: '15'
+previous:
+  id: PSA/55/13
+  number: '13'
+reference: 'Psalms 55:14'

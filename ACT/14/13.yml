@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 14:13"
+  class="v">13</span>Then the priest of Jupiter, which was before their city,
+  brought oxen and garlands unto the gates, and would have done sacrifice with
+  the people. </p>
+id: ACT/14/13
+next:
+  id: ACT/14/14
+  number: '14'
+previous:
+  id: ACT/14/12
+  number: '12'
+reference: 'Acts 14:13'

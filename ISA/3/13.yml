@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 3:13" class="v">13</span>The
+  <span class="nd">LORD</span> standeth up to plead, and standeth to judge the
+  people. </p>
+id: ISA/3/13
+next:
+  id: ISA/3/14
+  number: '14'
+previous:
+  id: ISA/3/12
+  number: '12'
+reference: 'Isaiah 3:13'

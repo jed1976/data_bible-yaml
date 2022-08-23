@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 28:8" class="v">8</span>And
+  it came to pass, that the father of Publius lay sick of a fever and of a
+  bloody flux: to whom Paul entered in, and prayed, and laid his hands on him,
+  and healed him. </p>
+id: ACT/28/8
+next:
+  id: ACT/28/9
+  number: '9'
+previous:
+  id: ACT/28/7
+  number: '7'
+reference: 'Acts 28:8'

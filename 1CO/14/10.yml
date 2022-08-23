@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CO 14:10"
+  class="v">10</span>There are, it may be, so many kinds of voices in the world,
+  and none of them <span class="add">is</span> without signification. </p>
+id: 1CO/14/10
+next:
+  id: 1CO/14/11
+  number: '11'
+previous:
+  id: 1CO/14/9
+  number: '9'
+reference: '1 Corinthians 14:10'

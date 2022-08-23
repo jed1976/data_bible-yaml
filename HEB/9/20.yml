@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HEB 9:20"
+  class="v">20</span>Saying, This <span class="add">is</span> the blood of the
+  testament which God hath enjoined unto you. </p>
+id: HEB/9/20
+next:
+  id: HEB/9/21
+  number: '21'
+previous:
+  id: HEB/9/19
+  number: '19'
+reference: 'Hebrews 9:20'

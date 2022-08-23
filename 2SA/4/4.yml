@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2SA 4:4" class="v">4</span>And
+  Jonathan, Saul’s son, had a son <span class="add">that was</span> lame of
+  <span class="add">his</span> feet. He was five years old when the tidings came
+  of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and
+  it came to pass, as she made haste to flee, that he fell, and became lame. And
+  his name <span class="add">was</span> Mephibosheth. </p>
+id: 2SA/4/4
+next:
+  id: 2SA/4/5
+  number: '5'
+previous:
+  id: 2SA/4/3
+  number: '3'
+reference: '2 Samuel 4:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 55:8" class="v">8</span>¶ For
+  my thoughts <span class="add">are</span> not your thoughts, neither <span
+  class="add">are</span> your ways my ways, saith the <span
+  class="nd">LORD</span>. </p>
+id: ISA/55/8
+next:
+  id: ISA/55/9
+  number: '9'
+previous:
+  id: ISA/55/7
+  number: '7'
+reference: 'Isaiah 55:8'

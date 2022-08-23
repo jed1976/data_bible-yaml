@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZK 5:16"
+  class="v">16</span>When I shall send upon them the evil arrows of famine,
+  which shall be for <span class="add">their</span> destruction, <span
+  class="add">and</span> which I will send to destroy you: and I will increase
+  the famine upon you, and will break your staff of bread: </p>
+id: EZK/5/16
+next:
+  id: EZK/5/17
+  number: '17'
+previous:
+  id: EZK/5/15
+  number: '15'
+reference: 'Ezekiel 5:16'

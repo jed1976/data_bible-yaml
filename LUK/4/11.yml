@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 4:11" class="v">11</span>And
+  in <span class="add">their</span> hands they shall bear thee up, lest at any
+  time thou dash thy foot against a stone. </p>
+id: LUK/4/11
+next:
+  id: LUK/4/12
+  number: '12'
+previous:
+  id: LUK/4/10
+  number: '10'
+reference: 'Luke 4:11'

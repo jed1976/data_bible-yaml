@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NUM 4:36" class="v">36</span>And
+  those that were numbered of them by their families were two thousand seven
+  hundred and fifty. </p>
+id: NUM/4/36
+next:
+  id: NUM/4/37
+  number: '37'
+previous:
+  id: NUM/4/35
+  number: '35'
+reference: 'Numbers 4:36'

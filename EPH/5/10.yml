@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EPH 5:10"
+  class="v">10</span>Proving what is acceptable unto the Lord. </p>
+id: EPH/5/10
+next:
+  id: EPH/5/11
+  number: '11'
+previous:
+  id: EPH/5/9
+  number: '9'
+reference: 'Ephesians 5:10'

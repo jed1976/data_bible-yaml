@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="JHN 8:57"
+  class="v">57</span>Then said the Jews unto him, Thou art not yet fifty years
+  old, and hast thou seen Abraham? </p>
+id: JHN/8/57
+next:
+  id: JHN/8/58
+  number: '58'
+previous:
+  id: JHN/8/56
+  number: '56'
+reference: 'John 8:57'

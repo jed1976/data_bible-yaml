@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 26:1" class="v">1</span>And
+  it came to pass, when Jesus had finished all these sayings, he said unto his
+  disciples, </p>
+id: MAT/26/1
+next:
+  id: MAT/26/2
+  number: '2'
+previous:
+  id: MAT/25/46
+  number: '46'
+reference: 'Matthew 26:1'

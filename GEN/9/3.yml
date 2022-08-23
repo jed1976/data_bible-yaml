@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 9:3" class="v">3</span>Every
+  moving thing that liveth shall be meat for you; even as the green herb have I
+  given you all things. </p>
+id: GEN/9/3
+next:
+  id: GEN/9/4
+  number: '4'
+previous:
+  id: GEN/9/2
+  number: '2'
+reference: 'Genesis 9:3'

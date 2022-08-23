@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 10:10" class="v">10</span>I
+  will bring them again also out of the land of Egypt, and gather them out of
+  Assyria; and I will bring them into the land of Gilead and Lebanon; and <span
+  class="add">place</span> shall not be found for them. </p>
+id: ZEC/10/10
+next:
+  id: ZEC/10/11
+  number: '11'
+previous:
+  id: ZEC/10/9
+  number: '9'
+reference: 'Zechariah 10:10'

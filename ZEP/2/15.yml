@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ZEP 2:15"
+  class="v">15</span>This <span class="add">is</span> the rejoicing city that
+  dwelt carelessly, that said in her heart, I <span class="add">am</span>, and
+  <span class="add">there is</span> none beside me: how is she become a
+  desolation, a place for beasts to lie down in! every one that passeth by her
+  shall hiss, <span class="add">and</span> wag his hand.</p>
+id: ZEP/2/15
+next:
+  id: ZEP/3/1
+  number: '1'
+previous:
+  id: ZEP/2/14
+  number: '14'
+reference: 'Zephaniah 2:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 10:15"
+  class="v">15</span>The rich man’s wealth <span class="add">is</span> his
+  strong city: the destruction of the poor <span class="add">is</span> their
+  poverty. </p>
+id: PRO/10/15
+next:
+  id: PRO/10/16
+  number: '16'
+previous:
+  id: PRO/10/14
+  number: '14'
+reference: 'Proverbs 10:15'

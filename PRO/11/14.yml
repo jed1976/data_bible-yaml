@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 11:14"
+  class="v">14</span>Where no counsel <span class="add">is</span>, the people
+  fall: but in the multitude of counsellors <span class="add">there is</span>
+  safety. </p>
+id: PRO/11/14
+next:
+  id: PRO/11/15
+  number: '15'
+previous:
+  id: PRO/11/13
+  number: '13'
+reference: 'Proverbs 11:14'

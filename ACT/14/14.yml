@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 14:14"
+  class="v">14</span><span class="add">Which</span> when the apostles, Barnabas
+  and Paul, heard <span class="add">of</span>, they rent their clothes, and ran
+  in among the people, crying out, </p>
+id: ACT/14/14
+next:
+  id: ACT/14/15
+  number: '15'
+previous:
+  id: ACT/14/13
+  number: '13'
+reference: 'Acts 14:14'

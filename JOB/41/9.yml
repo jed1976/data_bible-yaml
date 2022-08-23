@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 41:9"
+  class="v">9</span>Behold, the hope of him is in vain: shall not <span
+  class="add">one</span> be cast down even at the sight of him? </p>
+id: JOB/41/9
+next:
+  id: JOB/41/10
+  number: '10'
+previous:
+  id: JOB/41/8
+  number: '8'
+reference: 'Job 41:9'

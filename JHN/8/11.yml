@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 8:11" class="v">11</span>She
+  said, No man, Lord. And Jesus said unto her, <span class="wj">Neither do I
+  condemn thee: go, and sin no more.</span></p>
+id: JHN/8/11
+next:
+  id: JHN/8/12
+  number: '12'
+previous:
+  id: JHN/8/10
+  number: '10'
+reference: 'John 8:11'

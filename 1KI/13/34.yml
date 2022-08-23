@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="1KI 13:34"
+  class="v">34</span>And this thing became sin unto the house of Jeroboam, even
+  to cut <span class="add">it</span> off, and to destroy <span
+  class="add">it</span> from off the face of the earth.</p>
+id: 1KI/13/34
+next:
+  id: 1KI/14/1
+  number: '1'
+previous:
+  id: 1KI/13/33
+  number: '33'
+reference: '1 Kings 13:34'

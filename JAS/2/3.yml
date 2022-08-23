@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JAS 2:3" class="v">3</span>And ye
+  have respect to him that weareth the gay clothing, and say unto him, Sit thou
+  here in a good place; and say to the poor, Stand thou there, or sit here under
+  my footstool: </p>
+id: JAS/2/3
+next:
+  id: JAS/2/4
+  number: '4'
+previous:
+  id: JAS/2/2
+  number: '2'
+reference: 'James 2:3'

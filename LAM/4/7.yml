@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LAM 4:7" class="v">7</span>Her
+  Nazarites were purer than snow, they were whiter than milk, they were more
+  ruddy in body than rubies, their polishing <span class="add">was</span> of
+  sapphire: </p>
+id: LAM/4/7
+next:
+  id: LAM/4/8
+  number: '8'
+previous:
+  id: LAM/4/6
+  number: '6'
+reference: 'Lamentations 4:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 15:3" class="v">3</span>And
+  it went out to the south side to Maaleh-acrabbim, and passed along to Zin, and
+  ascended up on the south side unto Kadesh-barnea, and passed along to Hezron,
+  and went up to Adar, and fetched a compass to Karkaa: </p>
+id: JOS/15/3
+next:
+  id: JOS/15/4
+  number: '4'
+previous:
+  id: JOS/15/2
+  number: '2'
+reference: 'Joshua 15:3'

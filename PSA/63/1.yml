@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">A Psalm of David, when he was in the wilderness of Judah.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 63:1" class="v">1</span>O God,
+  thou <span class="add">art</span> my God; early will I seek thee: my soul
+  thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where
+  no water is;</p>
+id: PSA/63/1
+next:
+  id: PSA/63/2
+  number: '2'
+previous:
+  id: PSA/62/12
+  number: '12'
+reference: 'Psalms 63:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 68:25"
+  class="v">25</span>The singers went before, the players on instruments <span
+  class="add">followed</span> after; among <span class="add">them were</span>
+  the damsels playing with timbrels.</p>
+id: PSA/68/25
+next:
+  id: PSA/68/26
+  number: '26'
+previous:
+  id: PSA/68/24
+  number: '24'
+reference: 'Psalms 68:25'

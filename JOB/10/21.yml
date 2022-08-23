@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 10:21"
+  class="v">21</span>Before I go <span class="add">whence</span> I shall not
+  return, <span class="add">even</span> to the land of darkness and the shadow
+  of death; </p>
+id: JOB/10/21
+next:
+  id: JOB/10/22
+  number: '22'
+previous:
+  id: JOB/10/20
+  number: '20'
+reference: 'Job 10:21'

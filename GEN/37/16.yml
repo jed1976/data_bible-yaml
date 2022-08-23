@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 37:16"
+  class="v">16</span>And he said, I seek my brethren: tell me, I pray thee,
+  where they feed <span class="add">their flocks</span>. </p>
+id: GEN/37/16
+next:
+  id: GEN/37/17
+  number: '17'
+previous:
+  id: GEN/37/15
+  number: '15'
+reference: 'Genesis 37:16'

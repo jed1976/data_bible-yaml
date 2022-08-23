@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 39:27" class="v">27</span>¶
+  And they made coats <span class="add">of</span> fine linen <span
+  class="add">of</span> woven work for Aaron, and for his sons, </p>
+id: EXO/39/27
+next:
+  id: EXO/39/28
+  number: '28'
+previous:
+  id: EXO/39/26
+  number: '26'
+reference: 'Exodus 39:27'

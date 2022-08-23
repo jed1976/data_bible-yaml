@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 13:13"
+  class="v">13</span><span class="wj">Ye call me Master and Lord: and ye say
+  well; for <span class="add">so</span> I am.</span> </p>
+id: JHN/13/13
+next:
+  id: JHN/13/14
+  number: '14'
+previous:
+  id: JHN/13/12
+  number: '12'
+reference: 'John 13:13'

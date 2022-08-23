@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 40:7" class="v">7</span>And
+  thou shalt set the laver between the tent of the congregation and the altar,
+  and shalt put water therein. </p>
+id: EXO/40/7
+next:
+  id: EXO/40/8
+  number: '8'
+previous:
+  id: EXO/40/6
+  number: '6'
+reference: 'Exodus 40:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 18:9" class="v">9</span>And
+  <span class="add">at what</span> instant I shall speak concerning a nation,
+  and concerning a kingdom, to build and to plant <span class="add">it;</span>
+  </p>
+id: JER/18/9
+next:
+  id: JER/18/10
+  number: '10'
+previous:
+  id: JER/18/8
+  number: '8'
+reference: 'Jeremiah 18:9'

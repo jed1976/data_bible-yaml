@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 5:3" class="v">3</span>I have
+  put off my coat; how shall I put it on? I have washed my feet; how shall I
+  defile them? </p>
+id: SNG/5/3
+next:
+  id: SNG/5/4
+  number: '4'
+previous:
+  id: SNG/5/2
+  number: '2'
+reference: 'Song of Solomon 5:3'

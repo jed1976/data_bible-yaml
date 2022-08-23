@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 35:19"
+  class="v">19</span>And Rachel died, and was buried in the way to Ephrath,
+  which <span class="add">is</span> Beth-lehem. </p>
+id: GEN/35/19
+next:
+  id: GEN/35/20
+  number: '20'
+previous:
+  id: GEN/35/18
+  number: '18'
+reference: 'Genesis 35:19'

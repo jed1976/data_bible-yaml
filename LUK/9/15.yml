@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 9:15" class="v">15</span>And
+  they did so, and made them all sit down. </p>
+id: LUK/9/15
+next:
+  id: LUK/9/16
+  number: '16'
+previous:
+  id: LUK/9/14
+  number: '14'
+reference: 'Luke 9:15'

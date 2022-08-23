@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 8:22" class="v">22</span>¶
+  Now it came to pass on a certain day, that he went into a ship with his
+  disciples: and he said unto them, <span class="wj">Let us go over unto the
+  other side of the lake.</span> And they launched forth. </p>
+id: LUK/8/22
+next:
+  id: LUK/8/23
+  number: '23'
+previous:
+  id: LUK/8/21
+  number: '21'
+reference: 'Luke 8:22'
