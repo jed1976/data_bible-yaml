@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 1:1" class="v">1</span>The
+  Revelation of Jesus Christ, which God gave unto him, to shew unto his servants
+  things which must shortly come to pass; and he sent and signified <span
+  class="add">it</span> by his angel unto his servant John: </p>
+id: REV/1/1
+next:
+  id: REV/1/2
+  number: '2'
+previous:
+  id: REV/intro/0
+  number: '0'
+reference: 'Revelation 1:1'

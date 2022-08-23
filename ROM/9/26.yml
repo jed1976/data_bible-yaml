@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ROM 9:26" class="v">26</span>And
+  it shall come to pass, <span class="add">that</span> in the place where it was
+  said unto them, Ye <span class="add">are</span> not my people; there shall
+  they be called the children of the living God. </p>
+id: ROM/9/26
+next:
+  id: ROM/9/27
+  number: '27'
+previous:
+  id: ROM/9/25
+  number: '25'
+reference: 'Romans 9:26'

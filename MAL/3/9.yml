@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAL 3:9" class="v">9</span>Ye
+  <span class="add">are</span> cursed with a curse: for ye have robbed me, <span
+  class="add">even</span> this whole nation. </p>
+id: MAL/3/9
+next:
+  id: MAL/3/10
+  number: '10'
+previous:
+  id: MAL/3/8
+  number: '8'
+reference: 'Malachi 3:9'

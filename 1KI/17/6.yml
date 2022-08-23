@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 17:6" class="v">6</span>And
+  the ravens brought him bread and flesh in the morning, and bread and flesh in
+  the evening; and he drank of the brook. </p>
+id: 1KI/17/6
+next:
+  id: 1KI/17/7
+  number: '7'
+previous:
+  id: 1KI/17/5
+  number: '5'
+reference: '1 Kings 17:6'

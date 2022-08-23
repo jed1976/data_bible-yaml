@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="2SA 3:31" class="v">31</span>¶
+  And David said to Joab, and to all the people that <span
+  class="add">were</span> with him, Rend your clothes, and gird you with
+  sackcloth, and mourn before Abner. And king David <span
+  class="add">himself</span> followed the bier. </p>
+id: 2SA/3/31
+next:
+  id: 2SA/3/32
+  number: '32'
+previous:
+  id: 2SA/3/30
+  number: '30'
+reference: '2 Samuel 3:31'

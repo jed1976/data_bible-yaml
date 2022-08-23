@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PHP 1:9" class="v">9</span>And
+  this I pray, that your love may abound yet more and more in knowledge and
+  <span class="add">in</span> all judgment; </p>
+id: PHP/1/9
+next:
+  id: PHP/1/10
+  number: '10'
+previous:
+  id: PHP/1/8
+  number: '8'
+reference: 'Philippians 1:9'

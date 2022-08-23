@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="DEU 2:35"
+  class="v">35</span>Only the cattle we took for a prey unto ourselves, and the
+  spoil of the cities which we took. </p>
+id: DEU/2/35
+next:
+  id: DEU/2/36
+  number: '36'
+previous:
+  id: DEU/2/34
+  number: '34'
+reference: 'Deuteronomy 2:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">Maschil of David; A Prayer when he was in the cave.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 142:1" class="v">1</span>I
+  cried unto the <span class="nd">LORD</span> with my voice; with my voice unto
+  the <span class="nd">LORD</span> did I make my supplication.</p>
+id: PSA/142/1
+next:
+  id: PSA/142/2
+  number: '2'
+previous:
+  id: PSA/141/10
+  number: '10'
+reference: 'Psalms 142:1'

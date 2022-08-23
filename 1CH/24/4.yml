@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 24:4" class="v">4</span>And
+  there were more chief men found of the sons of Eleazar than of the sons of
+  Ithamar; and <span class="add">thus</span> were they divided. Among the sons
+  of Eleazar <span class="add">there were</span> sixteen chief men of the house
+  of <span class="add">their</span> fathers, and eight among the sons of Ithamar
+  according to the house of their fathers. </p>
+id: 1CH/24/4
+next:
+  id: 1CH/24/5
+  number: '5'
+previous:
+  id: 1CH/24/3
+  number: '3'
+reference: '1 Chronicles 24:4'

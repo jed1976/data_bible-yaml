@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 7:21"
+  class="v">21</span>When I saw among the spoils a goodly Babylonish garment,
+  and two hundred shekels of silver, and a wedge of gold of fifty shekels
+  weight, then I coveted them, and took them; and, behold, they <span
+  class="add">are</span> hid in the earth in the midst of my tent, and the
+  silver under it.</p>
+id: JOS/7/21
+next:
+  id: JOS/7/22
+  number: '22'
+previous:
+  id: JOS/7/20
+  number: '20'
+reference: 'Joshua 7:21'

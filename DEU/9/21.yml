@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 9:21" class="v">21</span>And
+  I took your sin, the calf which ye had made, and burnt it with fire, and
+  stamped it, <span class="add">and</span> ground <span class="add">it</span>
+  very small, <span class="add">even</span> until it was as small as dust: and I
+  cast the dust thereof into the brook that descended out of the mount. </p>
+id: DEU/9/21
+next:
+  id: DEU/9/22
+  number: '22'
+previous:
+  id: DEU/9/20
+  number: '20'
+reference: 'Deuteronomy 9:21'

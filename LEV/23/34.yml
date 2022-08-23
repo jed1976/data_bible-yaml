@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LEV 23:34"
+  class="v">34</span>Speak unto the children of Israel, saying, The fifteenth
+  day of this seventh month <span class="add">shall be</span> the feast of
+  tabernacles <span class="add">for</span> seven days unto the <span
+  class="nd">LORD</span>. </p>
+id: LEV/23/34
+next:
+  id: LEV/23/35
+  number: '35'
+previous:
+  id: LEV/23/33
+  number: '33'
+reference: 'Leviticus 23:34'

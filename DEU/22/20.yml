@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 22:20"
+  class="v">20</span>But if this thing be true, <span class="add">and the tokens
+  of</span> virginity be not found for the damsel: </p>
+id: DEU/22/20
+next:
+  id: DEU/22/21
+  number: '21'
+previous:
+  id: DEU/22/19
+  number: '19'
+reference: 'Deuteronomy 22:20'

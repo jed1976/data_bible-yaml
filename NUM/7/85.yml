@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="85" data-sid="NUM 7:85"
+  class="v">85</span>Each charger of silver <span class="add">weighing</span> an
+  hundred and thirty <span class="add">shekels</span>, each bowl seventy: all
+  the silver vessels <span class="add">weighed</span> two thousand and four
+  hundred <span class="add">shekels</span>, after the shekel of the sanctuary:
+  </p>
+id: NUM/7/85
+next:
+  id: NUM/7/86
+  number: '86'
+previous:
+  id: NUM/7/84
+  number: '84'
+reference: 'Numbers 7:85'

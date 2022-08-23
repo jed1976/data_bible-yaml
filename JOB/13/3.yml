@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 13:3"
+  class="v">3</span>Surely I would speak to the Almighty, and I desire to reason
+  with God. </p>
+id: JOB/13/3
+next:
+  id: JOB/13/4
+  number: '4'
+previous:
+  id: JOB/13/2
+  number: '2'
+reference: 'Job 13:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 44:5" class="v">5</span>One
+  shall say, I <span class="add">am</span> the <span class="nd">LORD’s</span>;
+  and another shall call <span class="add">himself</span> by the name of Jacob;
+  and another shall subscribe <span class="add">with</span> his hand unto the
+  <span class="nd">LORD</span>, and surname <span class="add">himself</span> by
+  the name of Israel. </p>
+id: ISA/44/5
+next:
+  id: ISA/44/6
+  number: '6'
+previous:
+  id: ISA/44/4
+  number: '4'
+reference: 'Isaiah 44:5'

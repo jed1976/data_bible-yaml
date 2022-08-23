@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 10:21"
+  class="v">21</span>The lips of the righteous feed many: but fools die for want
+  of wisdom. </p>
+id: PRO/10/21
+next:
+  id: PRO/10/22
+  number: '22'
+previous:
+  id: PRO/10/20
+  number: '20'
+reference: 'Proverbs 10:21'

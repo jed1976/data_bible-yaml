@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 34:12"
+  class="v">12</span>Ask me never so much dowry and gift, and I will give
+  according as ye shall say unto me: but give me the damsel to wife. </p>
+id: GEN/34/12
+next:
+  id: GEN/34/13
+  number: '13'
+previous:
+  id: GEN/34/11
+  number: '11'
+reference: 'Genesis 34:12'

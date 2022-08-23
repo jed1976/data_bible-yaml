@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1SA 4:13" class="v">13</span>And
+  when he came, lo, Eli sat upon a seat by the wayside watching: for his heart
+  trembled for the ark of God. And when the man came into the city, and told
+  <span class="add">it</span>, all the city cried out. </p>
+id: 1SA/4/13
+next:
+  id: 1SA/4/14
+  number: '14'
+previous:
+  id: 1SA/4/12
+  number: '12'
+reference: '1 Samuel 4:13'

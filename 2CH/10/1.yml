@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 10:1" class="v">1</span>And
+  Rehoboam went to Shechem: for to Shechem were all Israel come to make him
+  king. </p>
+id: 2CH/10/1
+next:
+  id: 2CH/10/2
+  number: '2'
+previous:
+  id: 2CH/9/31
+  number: '31'
+reference: '2 Chronicles 10:1'

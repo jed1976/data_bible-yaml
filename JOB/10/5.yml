@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 10:5" class="v">5</span><span
+  class="add">Are</span> thy days as the days of man? <span
+  class="add">are</span> thy years as man’s days, </p>
+id: JOB/10/5
+next:
+  id: JOB/10/6
+  number: '6'
+previous:
+  id: JOB/10/4
+  number: '4'
+reference: 'Job 10:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 3:8" class="v">8</span>¶
+  Wherefore at that time certain Chaldeans came near, and accused the Jews. </p>
+id: DAN/3/8
+next:
+  id: DAN/3/9
+  number: '9'
+previous:
+  id: DAN/3/7
+  number: '7'
+reference: 'Daniel 3:8'

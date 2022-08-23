@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 5:18" class="v">18</span>Go
+  therefore now, <span class="add">and</span> work; for there shall no straw be
+  given you, yet shall ye deliver the tale of bricks. </p>
+id: EXO/5/18
+next:
+  id: EXO/5/19
+  number: '19'
+previous:
+  id: EXO/5/17
+  number: '17'
+reference: 'Exodus 5:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 20:8"
+  class="v">8</span>Therefore Abimelech rose early in the morning, and called
+  all his servants, and told all these things in their ears: and the men were
+  sore afraid. </p>
+id: GEN/20/8
+next:
+  id: GEN/20/9
+  number: '9'
+previous:
+  id: GEN/20/7
+  number: '7'
+reference: 'Genesis 20:8'

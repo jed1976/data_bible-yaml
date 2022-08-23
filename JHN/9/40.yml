@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JHN 9:40" class="v">40</span>And
+  <span class="add">some</span> of the Pharisees which were with him heard these
+  words, and said unto him, Are we blind also? </p>
+id: JHN/9/40
+next:
+  id: JHN/9/41
+  number: '41'
+previous:
+  id: JHN/9/39
+  number: '39'
+reference: 'John 9:40'

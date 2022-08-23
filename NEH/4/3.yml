@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 4:3" class="v">3</span>Now
+  Tobiah the Ammonite <span class="add">was</span> by him, and he said, Even
+  that which they build, if a fox go up, he shall even break down their stone
+  wall. </p>
+id: NEH/4/3
+next:
+  id: NEH/4/4
+  number: '4'
+previous:
+  id: NEH/4/2
+  number: '2'
+reference: 'Nehemiah 4:3'

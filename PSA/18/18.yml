@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 18:18"
+  class="v">18</span>They prevented me in the day of my calamity: but the <span
+  class="nd">LORD</span> was my stay.</p>
+id: PSA/18/18
+next:
+  id: PSA/18/19
+  number: '19'
+previous:
+  id: PSA/18/17
+  number: '17'
+reference: 'Psalms 18:18'

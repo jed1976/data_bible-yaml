@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="EST 9:31" class="v">31</span>To
+  confirm these days of Purim in their times <span class="add">appointed</span>,
+  according as Mordecai the Jew and Esther the queen had enjoined them, and as
+  they had decreed for themselves and for their seed, the matters of the
+  fastings and their cry. </p>
+id: EST/9/31
+next:
+  id: EST/9/32
+  number: '32'
+previous:
+  id: EST/9/30
+  number: '30'
+reference: 'Esther 9:31'

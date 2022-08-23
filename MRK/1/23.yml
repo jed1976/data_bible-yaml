@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 1:23" class="v">23</span>And
+  there was in their synagogue a man with an unclean spirit; and he cried out,
+  </p>
+id: MRK/1/23
+next:
+  id: MRK/1/24
+  number: '24'
+previous:
+  id: MRK/1/22
+  number: '22'
+reference: 'Mark 1:23'

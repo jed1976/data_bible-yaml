@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 26:8" class="v">8</span>And
+  five of you shall chase an hundred, and an hundred of you shall put ten
+  thousand to flight: and your enemies shall fall before you by the sword. </p>
+id: LEV/26/8
+next:
+  id: LEV/26/9
+  number: '9'
+previous:
+  id: LEV/26/7
+  number: '7'
+reference: 'Leviticus 26:8'

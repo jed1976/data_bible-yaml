@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 15:1" class="v">1</span>After
+  these things the word of the <span class="nd">LORD</span> came unto Abram in a
+  vision, saying, Fear not, Abram: I <span class="add">am</span> thy shield,
+  <span class="add">and</span> thy exceeding great reward.</p>
+id: GEN/15/1
+next:
+  id: GEN/15/2
+  number: '2'
+previous:
+  id: GEN/14/24
+  number: '24'
+reference: 'Genesis 15:1'

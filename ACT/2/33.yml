@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 2:33"
+  class="v">33</span>Therefore being by the right hand of God exalted, and
+  having received of the Father the promise of the Holy Ghost, he hath shed
+  forth this, which ye now see and hear. </p>
+id: ACT/2/33
+next:
+  id: ACT/2/34
+  number: '34'
+previous:
+  id: ACT/2/32
+  number: '32'
+reference: 'Acts 2:33'

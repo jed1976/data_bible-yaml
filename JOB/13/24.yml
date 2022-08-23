@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 13:24"
+  class="v">24</span>Wherefore hidest thou thy face, and holdest me for thine
+  enemy? </p>
+id: JOB/13/24
+next:
+  id: JOB/13/25
+  number: '25'
+previous:
+  id: JOB/13/23
+  number: '23'
+reference: 'Job 13:24'

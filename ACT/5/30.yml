@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 5:30" class="v">30</span>The
+  God of our fathers raised up Jesus, whom ye slew and hanged on a tree. </p>
+id: ACT/5/30
+next:
+  id: ACT/5/31
+  number: '31'
+previous:
+  id: ACT/5/29
+  number: '29'
+reference: 'Acts 5:30'

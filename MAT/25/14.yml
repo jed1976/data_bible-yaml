@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 25:14"
+  class="v">14</span><span class="wj">¶ For <span class="add">the kingdom of
+  heaven is</span> as a man travelling into a far country, <span
+  class="add">who</span> called his own servants, and delivered unto them his
+  goods.</span> </p>
+id: MAT/25/14
+next:
+  id: MAT/25/15
+  number: '15'
+previous:
+  id: MAT/25/13
+  number: '13'
+reference: 'Matthew 25:14'

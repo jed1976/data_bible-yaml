@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 31:14" class="v">14</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Behold, thy days
+  approach that thou must die: call Joshua, and present yourselves in the
+  tabernacle of the congregation, that I may give him a charge. And Moses and
+  Joshua went, and presented themselves in the tabernacle of the congregation.
+  </p>
+id: DEU/31/14
+next:
+  id: DEU/31/15
+  number: '15'
+previous:
+  id: DEU/31/13
+  number: '13'
+reference: 'Deuteronomy 31:14'

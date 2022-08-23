@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 1:15" class="v">15</span>¶
+  And the king of Egypt spake to the Hebrew midwives, of which the name of the
+  one <span class="add">was</span> Shiphrah, and the name of the other Puah:
+  </p>
+id: EXO/1/15
+next:
+  id: EXO/1/16
+  number: '16'
+previous:
+  id: EXO/1/14
+  number: '14'
+reference: 'Exodus 1:15'

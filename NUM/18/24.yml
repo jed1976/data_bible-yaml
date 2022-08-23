@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 18:24"
+  class="v">24</span>But the tithes of the children of Israel, which they offer
+  <span class="add">as</span> an heave offering unto the <span
+  class="nd">LORD</span>, I have given to the Levites to inherit: therefore I
+  have said unto them, Among the children of Israel they shall have no
+  inheritance.</p>
+id: NUM/18/24
+next:
+  id: NUM/18/25
+  number: '25'
+previous:
+  id: NUM/18/23
+  number: '23'
+reference: 'Numbers 18:24'

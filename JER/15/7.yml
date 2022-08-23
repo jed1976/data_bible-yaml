@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 15:7" class="v">7</span>And I
+  will fan them with a fan in the gates of the land; I will bereave <span
+  class="add">them</span> of children, I will destroy my people, <span
+  class="add">since</span> they return not from their ways. </p>
+id: JER/15/7
+next:
+  id: JER/15/8
+  number: '8'
+previous:
+  id: JER/15/6
+  number: '6'
+reference: 'Jeremiah 15:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 5:9" class="v">9</span>And
+  every offering of all the holy things of the children of Israel, which they
+  bring unto the priest, shall be his. </p>
+id: NUM/5/9
+next:
+  id: NUM/5/10
+  number: '10'
+previous:
+  id: NUM/5/8
+  number: '8'
+reference: 'Numbers 5:9'

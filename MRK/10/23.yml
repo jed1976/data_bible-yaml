@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 10:23" class="v">23</span>¶
+  And Jesus looked round about, and saith unto his disciples, <span
+  class="wj">How hardly shall they that have riches enter into the kingdom of
+  God!</span> </p>
+id: MRK/10/23
+next:
+  id: MRK/10/24
+  number: '24'
+previous:
+  id: MRK/10/22
+  number: '22'
+reference: 'Mark 10:23'

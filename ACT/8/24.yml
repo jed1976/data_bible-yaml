@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 8:24"
+  class="v">24</span>Then answered Simon, and said, Pray ye to the Lord for me,
+  that none of these things which ye have spoken come upon me. </p>
+id: ACT/8/24
+next:
+  id: ACT/8/25
+  number: '25'
+previous:
+  id: ACT/8/23
+  number: '23'
+reference: 'Acts 8:24'

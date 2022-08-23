@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ACT 7:2" class="v">2</span>And he
+  said, Men, brethren, and fathers, hearken; The God of glory appeared unto our
+  father Abraham, when he was in Mesopotamia, before he dwelt in Charran, </p>
+id: ACT/7/2
+next:
+  id: ACT/7/3
+  number: '3'
+previous:
+  id: ACT/7/1
+  number: '1'
+reference: 'Acts 7:2'

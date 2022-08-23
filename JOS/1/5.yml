@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 1:5" class="v">5</span>There
+  shall not any man be able to stand before thee all the days of thy life: as I
+  was with Moses, <span class="add">so</span> I will be with thee: I will not
+  fail thee, nor forsake thee. </p>
+id: JOS/1/5
+next:
+  id: JOS/1/6
+  number: '6'
+previous:
+  id: JOS/1/4
+  number: '4'
+reference: 'Joshua 1:5'

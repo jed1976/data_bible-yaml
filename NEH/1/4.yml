@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 1:4" class="v">4</span>¶ And
+  it came to pass, when I heard these words, that I sat down and wept, and
+  mourned <span class="add">certain</span> days, and fasted, and prayed before
+  the God of heaven,</p>
+id: NEH/1/4
+next:
+  id: NEH/1/5
+  number: '5'
+previous:
+  id: NEH/1/3
+  number: '3'
+reference: 'Nehemiah 1:4'

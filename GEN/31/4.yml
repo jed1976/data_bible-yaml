@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 31:4" class="v">4</span>And
+  Jacob sent and called Rachel and Leah to the field unto his flock, </p>
+id: GEN/31/4
+next:
+  id: GEN/31/5
+  number: '5'
+previous:
+  id: GEN/31/3
+  number: '3'
+reference: 'Genesis 31:4'

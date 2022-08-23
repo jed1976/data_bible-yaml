@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 15:3" class="v">3</span>But
+  he answered and said unto them, <span class="wj">Why do ye also transgress the
+  commandment of God by your tradition?</span> </p>
+id: MAT/15/3
+next:
+  id: MAT/15/4
+  number: '4'
+previous:
+  id: MAT/15/2
+  number: '2'
+reference: 'Matthew 15:3'

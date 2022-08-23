@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 6:6" class="v">6</span>Whom
+  they set before the apostles: and when they had prayed, they laid <span
+  class="add">their</span> hands on them. </p>
+id: ACT/6/6
+next:
+  id: ACT/6/7
+  number: '7'
+previous:
+  id: ACT/6/5
+  number: '5'
+reference: 'Acts 6:6'

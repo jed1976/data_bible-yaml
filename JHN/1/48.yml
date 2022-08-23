@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="JHN 1:48"
+  class="v">48</span>Nathanael saith unto him, Whence knowest thou me? Jesus
+  answered and said unto him, <span class="wj">Before that Philip called thee,
+  when thou wast under the fig tree, I saw thee.</span> </p>
+id: JHN/1/48
+next:
+  id: JHN/1/49
+  number: '49'
+previous:
+  id: JHN/1/47
+  number: '47'
+reference: 'John 1:48'

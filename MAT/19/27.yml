@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 19:27" class="v">27</span>¶
+  Then answered Peter and said unto him, Behold, we have forsaken all, and
+  followed thee; what shall we have therefore? </p>
+id: MAT/19/27
+next:
+  id: MAT/19/28
+  number: '28'
+previous:
+  id: MAT/19/26
+  number: '26'
+reference: 'Matthew 19:27'

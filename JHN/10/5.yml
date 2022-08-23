@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 10:5" class="v">5</span><span
+  class="wj">And a stranger will they not follow, but will flee from him: for
+  they know not the voice of strangers.</span> </p>
+id: JHN/10/5
+next:
+  id: JHN/10/6
+  number: '6'
+previous:
+  id: JHN/10/4
+  number: '4'
+reference: 'John 10:5'

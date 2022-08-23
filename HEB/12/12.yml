@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 12:12"
+  class="v">12</span>Wherefore lift up the hands which hang down, and the feeble
+  knees; </p>
+id: HEB/12/12
+next:
+  id: HEB/12/13
+  number: '13'
+previous:
+  id: HEB/12/11
+  number: '11'
+reference: 'Hebrews 12:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 83:5" class="v">5</span>For
+  they have consulted together with one consent: they are confederate against
+  thee:</p>
+id: PSA/83/5
+next:
+  id: PSA/83/6
+  number: '6'
+previous:
+  id: PSA/83/4
+  number: '4'
+reference: 'Psalms 83:5'

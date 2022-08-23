@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 24:5" class="v">5</span>He
+  shall receive the blessing from the <span class="nd">LORD</span>, and
+  righteousness from the God of his salvation.</p>
+id: PSA/24/5
+next:
+  id: PSA/24/6
+  number: '6'
+previous:
+  id: PSA/24/4
+  number: '4'
+reference: 'Psalms 24:5'

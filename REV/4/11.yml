@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="REV 4:11"
+  class="v">11</span>Thou art worthy, O Lord, to receive glory and honour and
+  power: for thou hast created all things, and for thy pleasure they are and
+  were created.</p>
+id: REV/4/11
+next:
+  id: REV/5/1
+  number: '1'
+previous:
+  id: REV/4/10
+  number: '10'
+reference: 'Revelation 4:11'

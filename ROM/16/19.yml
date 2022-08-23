@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 16:19"
+  class="v">19</span>For your obedience is come abroad unto all <span
+  class="add">men</span>. I am glad therefore on your behalf: but yet I would
+  have you wise unto that which is good, and simple concerning evil. </p>
+id: ROM/16/19
+next:
+  id: ROM/16/20
+  number: '20'
+previous:
+  id: ROM/16/18
+  number: '18'
+reference: 'Romans 16:19'

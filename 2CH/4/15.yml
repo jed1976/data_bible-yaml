@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 4:15" class="v">15</span>One
+  sea, and twelve oxen under it. </p>
+id: 2CH/4/15
+next:
+  id: 2CH/4/16
+  number: '16'
+previous:
+  id: 2CH/4/14
+  number: '14'
+reference: '2 Chronicles 4:15'

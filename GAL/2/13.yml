@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GAL 2:13" class="v">13</span>And
+  the other Jews dissembled likewise with him; insomuch that Barnabas also was
+  carried away with their dissimulation. </p>
+id: GAL/2/13
+next:
+  id: GAL/2/14
+  number: '14'
+previous:
+  id: GAL/2/12
+  number: '12'
+reference: 'Galatians 2:13'

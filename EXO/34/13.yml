@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 34:13"
+  class="v">13</span>But ye shall destroy their altars, break their images, and
+  cut down their groves: </p>
+id: EXO/34/13
+next:
+  id: EXO/34/14
+  number: '14'
+previous:
+  id: EXO/34/12
+  number: '12'
+reference: 'Exodus 34:13'

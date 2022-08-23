@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 9:13"
+  class="v">13</span>Then they hasted, and took every man his garment, and put
+  <span class="add">it</span> under him on the top of the stairs, and blew with
+  trumpets, saying, Jehu is king. </p>
+id: 2KI/9/13
+next:
+  id: 2KI/9/14
+  number: '14'
+previous:
+  id: 2KI/9/12
+  number: '12'
+reference: '2 Kings 9:13'

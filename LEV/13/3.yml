@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 13:3" class="v">3</span>And
+  the priest shall look on the plague in the skin of the flesh: and <span
+  class="add">when</span> the hair in the plague is turned white, and the plague
+  in sight <span class="add">be</span> deeper than the skin of his flesh, it
+  <span class="add">is</span> a plague of leprosy: and the priest shall look on
+  him, and pronounce him unclean. </p>
+id: LEV/13/3
+next:
+  id: LEV/13/4
+  number: '4'
+previous:
+  id: LEV/13/2
+  number: '2'
+reference: 'Leviticus 13:3'

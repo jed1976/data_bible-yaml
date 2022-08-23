@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 149:4" class="v">4</span>For
+  the <span class="nd">LORD</span> taketh pleasure in his people: he will
+  beautify the meek with salvation.</p>
+id: PSA/149/4
+next:
+  id: PSA/149/5
+  number: '5'
+previous:
+  id: PSA/149/3
+  number: '3'
+reference: 'Psalms 149:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 1:13" class="v">13</span>And
+  when they were come in, they went up into an upper room, where abode both
+  Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and
+  Matthew, James <span class="add">the son</span> of Alphaeus, and Simon
+  Zelotes, and Judas <span class="add">the brother</span> of James. </p>
+id: ACT/1/13
+next:
+  id: ACT/1/14
+  number: '14'
+previous:
+  id: ACT/1/12
+  number: '12'
+reference: 'Acts 1:13'

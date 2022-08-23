@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="63" data-sid="NUM 26:63" class="v">63</span>¶
+  These <span class="add">are</span> they that were numbered by Moses and
+  Eleazar the priest, who numbered the children of Israel in the plains of Moab
+  by Jordan <span class="add">near</span> Jericho. </p>
+id: NUM/26/63
+next:
+  id: NUM/26/64
+  number: '64'
+previous:
+  id: NUM/26/62
+  number: '62'
+reference: 'Numbers 26:63'

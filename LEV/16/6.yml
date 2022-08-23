@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 16:6" class="v">6</span>And
+  Aaron shall offer his bullock of the sin offering, which <span
+  class="add">is</span> for himself, and make an atonement for himself, and for
+  his house. </p>
+id: LEV/16/6
+next:
+  id: LEV/16/7
+  number: '7'
+previous:
+  id: LEV/16/5
+  number: '5'
+reference: 'Leviticus 16:6'

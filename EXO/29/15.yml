@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 29:15" class="v">15</span>¶
+  Thou shalt also take one ram; and Aaron and his sons shall put their hands
+  upon the head of the ram. </p>
+id: EXO/29/15
+next:
+  id: EXO/29/16
+  number: '16'
+previous:
+  id: EXO/29/14
+  number: '14'
+reference: 'Exodus 29:15'

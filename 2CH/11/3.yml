@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 11:3" class="v">3</span>Speak
+  unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah
+  and Benjamin, saying, </p>
+id: 2CH/11/3
+next:
+  id: 2CH/11/4
+  number: '4'
+previous:
+  id: 2CH/11/2
+  number: '2'
+reference: '2 Chronicles 11:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NEH 9:36"
+  class="v">36</span>Behold, we <span class="add">are</span> servants this day,
+  and <span class="add">for</span> the land that thou gavest unto our fathers to
+  eat the fruit thereof and the good thereof, behold, we <span
+  class="add">are</span> servants in it: </p>
+id: NEH/9/36
+next:
+  id: NEH/9/37
+  number: '37'
+previous:
+  id: NEH/9/35
+  number: '35'
+reference: 'Nehemiah 9:36'

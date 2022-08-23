@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="JHN 4:46" class="v">46</span>So
+  Jesus came again into Cana of Galilee, where he made the water wine. And there
+  was a certain nobleman, whose son was sick at Capernaum. </p>
+id: JHN/4/46
+next:
+  id: JHN/4/47
+  number: '47'
+previous:
+  id: JHN/4/45
+  number: '45'
+reference: 'John 4:46'

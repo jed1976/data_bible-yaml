@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="JHN 11:45"
+  class="v">45</span>Then many of the Jews which came to Mary, and had seen the
+  things which Jesus did, believed on him. </p>
+id: JHN/11/45
+next:
+  id: JHN/11/46
+  number: '46'
+previous:
+  id: JHN/11/44
+  number: '44'
+reference: 'John 11:45'

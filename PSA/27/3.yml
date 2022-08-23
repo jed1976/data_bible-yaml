@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 27:3"
+  class="v">3</span>Though an host should encamp against me, my heart shall not
+  fear: though war should rise against me, in this <span class="add">will</span>
+  I <span class="add">be</span> confident.</p>
+id: PSA/27/3
+next:
+  id: PSA/27/4
+  number: '4'
+previous:
+  id: PSA/27/2
+  number: '2'
+reference: 'Psalms 27:3'

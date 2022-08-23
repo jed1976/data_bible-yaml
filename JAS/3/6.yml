@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JAS 3:6" class="v">6</span>And
+  the tongue <span class="add">is</span> a fire, a world of iniquity: so is the
+  tongue among our members, that it defileth the whole body, and setteth on fire
+  the course of nature; and it is set on fire of hell. </p>
+id: JAS/3/6
+next:
+  id: JAS/3/7
+  number: '7'
+previous:
+  id: JAS/3/5
+  number: '5'
+reference: 'James 3:6'

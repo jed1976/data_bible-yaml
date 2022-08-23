@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="LEV 13:59"
+  class="v">59</span>This <span class="add">is</span> the law of the plague of
+  leprosy in a garment of woollen or linen, either in the warp, or woof, or any
+  thing of skins, to pronounce it clean, or to pronounce it unclean.</p>
+id: LEV/13/59
+next:
+  id: LEV/14/1
+  number: '1'
+previous:
+  id: LEV/13/58
+  number: '58'
+reference: 'Leviticus 13:59'

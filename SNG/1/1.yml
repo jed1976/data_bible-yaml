@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 1:1" class="v">1</span>The
+  song of songs, which <span class="add">is</span> Solomon’s.</p>
+id: SNG/1/1
+next:
+  id: SNG/1/2
+  number: '2'
+previous:
+  id: SNG/intro/0
+  number: '0'
+reference: 'Song of Solomon 1:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="NUM 1:53" class="v">53</span>But
+  the Levites shall pitch round about the tabernacle of testimony, that there be
+  no wrath upon the congregation of the children of Israel: and the Levites
+  shall keep the charge of the tabernacle of testimony. </p>
+id: NUM/1/53
+next:
+  id: NUM/1/54
+  number: '54'
+previous:
+  id: NUM/1/52
+  number: '52'
+reference: 'Numbers 1:53'

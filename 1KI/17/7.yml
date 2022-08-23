@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1KI 17:7" class="v">7</span>And
+  it came to pass after a while, that the brook dried up, because there had been
+  no rain in the land.</p>
+id: 1KI/17/7
+next:
+  id: 1KI/17/8
+  number: '8'
+previous:
+  id: 1KI/17/6
+  number: '6'
+reference: '1 Kings 17:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 46:13" class="v">13</span>¶
+  The word that the <span class="nd">LORD</span> spake to Jeremiah the prophet,
+  how Nebuchadrezzar king of Babylon should come <span class="add">and</span>
+  smite the land of Egypt. </p>
+id: JER/46/13
+next:
+  id: JER/46/14
+  number: '14'
+previous:
+  id: JER/46/12
+  number: '12'
+reference: 'Jeremiah 46:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 19:13"
+  class="v">13</span><span class="wj">And he called his ten servants, and
+  delivered them ten pounds, and said unto them, Occupy till I come.</span> </p>
+id: LUK/19/13
+next:
+  id: LUK/19/14
+  number: '14'
+previous:
+  id: LUK/19/12
+  number: '12'
+reference: 'Luke 19:13'

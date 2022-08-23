@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 21:7"
+  class="v">7</span>Therefore that disciple whom Jesus loved saith unto Peter,
+  It is the Lord. Now when Simon Peter heard that it was the Lord, he girt <span
+  class="add">his</span> fisher’s coat <span class="add">unto him</span>, (for
+  he was naked,) and did cast himself into the sea. </p>
+id: JHN/21/7
+next:
+  id: JHN/21/8
+  number: '8'
+previous:
+  id: JHN/21/6
+  number: '6'
+reference: 'John 21:7'

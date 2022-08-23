@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAL 1:6" class="v">6</span>¶ A
+  son honoureth <span class="add">his</span> father, and a servant his master:
+  if then I <span class="add">be</span> a father, where <span
+  class="add">is</span> mine honour? and if I <span class="add">be</span> a
+  master, where <span class="add">is</span> my fear? saith the <span
+  class="nd">LORD</span> of hosts unto you, O priests, that despise my name. And
+  ye say, Wherein have we despised thy name? </p>
+id: MAL/1/6
+next:
+  id: MAL/1/7
+  number: '7'
+previous:
+  id: MAL/1/5
+  number: '5'
+reference: 'Malachi 1:6'

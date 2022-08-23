@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 25:18"
+  class="v">18</span><span class="wj">But he that had received one went and
+  digged in the earth, and hid his lord’s money.</span> </p>
+id: MAT/25/18
+next:
+  id: MAT/25/19
+  number: '19'
+previous:
+  id: MAT/25/17
+  number: '17'
+reference: 'Matthew 25:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2CH 15:19"
+  class="v">19</span>And there was no <span class="add">more</span> war unto the
+  five and thirtieth year of the reign of Asa.</p>
+id: 2CH/15/19
+next:
+  id: 2CH/16/1
+  number: '1'
+previous:
+  id: 2CH/15/18
+  number: '18'
+reference: '2 Chronicles 15:19'

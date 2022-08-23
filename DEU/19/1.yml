@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 19:1" class="v">1</span>When
+  the <span class="nd">LORD</span> thy God hath cut off the nations, whose land
+  the <span class="nd">LORD</span> thy God giveth thee, and thou succeedest
+  them, and dwellest in their cities, and in their houses; </p>
+id: DEU/19/1
+next:
+  id: DEU/19/2
+  number: '2'
+previous:
+  id: DEU/18/22
+  number: '22'
+reference: 'Deuteronomy 19:1'

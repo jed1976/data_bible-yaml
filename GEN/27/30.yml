@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 27:30" class="v">30</span>¶
+  And it came to pass, as soon as Isaac had made an end of blessing Jacob, and
+  Jacob was yet scarce gone out from the presence of Isaac his father, that Esau
+  his brother came in from his hunting. </p>
+id: GEN/27/30
+next:
+  id: GEN/27/31
+  number: '31'
+previous:
+  id: GEN/27/29
+  number: '29'
+reference: 'Genesis 27:30'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 2:14" class="v">14</span>¶
+  But Peter, standing up with the eleven, lifted up his voice, and said unto
+  them, Ye men of Judæa, and all <span class="add">ye</span> that dwell at
+  Jerusalem, be this known unto you, and hearken to my words: </p>
+id: ACT/2/14
+next:
+  id: ACT/2/15
+  number: '15'
+previous:
+  id: ACT/2/13
+  number: '13'
+reference: 'Acts 2:14'

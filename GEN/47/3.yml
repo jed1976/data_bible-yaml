@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 47:3" class="v">3</span>And
+  Pharaoh said unto his brethren, What <span class="add">is</span> your
+  occupation? And they said unto Pharaoh, Thy servants <span
+  class="add">are</span> shepherds, both we, <span class="add">and</span> also
+  our fathers. </p>
+id: GEN/47/3
+next:
+  id: GEN/47/4
+  number: '4'
+previous:
+  id: GEN/47/2
+  number: '2'
+reference: 'Genesis 47:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 1:22" class="v">22</span>And
+  the likeness of the firmament upon the heads of the living creature <span
+  class="add">was</span> as the colour of the terrible crystal, stretched forth
+  over their heads above. </p>
+id: EZK/1/22
+next:
+  id: EZK/1/23
+  number: '23'
+previous:
+  id: EZK/1/21
+  number: '21'
+reference: 'Ezekiel 1:22'

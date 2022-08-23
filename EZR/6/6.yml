@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZR 6:6" class="v">6</span>Now
+  <span class="add">therefore</span>, Tatnai, governor beyond the river,
+  Shethar-boznai, and your companions the Apharsachites, which <span
+  class="add">are</span> beyond the river, be ye far from thence: </p>
+id: EZR/6/6
+next:
+  id: EZR/6/7
+  number: '7'
+previous:
+  id: EZR/6/5
+  number: '5'
+reference: 'Ezra 6:6'

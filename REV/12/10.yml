@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 12:10"
+  class="v">10</span>And I heard a loud voice saying in heaven, Now is come
+  salvation, and strength, and the kingdom of our God, and the power of his
+  Christ: for the accuser of our brethren is cast down, which accused them
+  before our God day and night. </p>
+id: REV/12/10
+next:
+  id: REV/12/11
+  number: '11'
+previous:
+  id: REV/12/9
+  number: '9'
+reference: 'Revelation 12:10'

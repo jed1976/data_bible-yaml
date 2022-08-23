@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 3:22" class="v">22</span>So
+  shall they be life unto thy soul, and grace to thy neck. </p>
+id: PRO/3/22
+next:
+  id: PRO/3/23
+  number: '23'
+previous:
+  id: PRO/3/21
+  number: '21'
+reference: 'Proverbs 3:22'

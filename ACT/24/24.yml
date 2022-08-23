@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 24:24"
+  class="v">24</span>And after certain days, when Felix came with his wife
+  Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the
+  faith in Christ. </p>
+id: ACT/24/24
+next:
+  id: ACT/24/25
+  number: '25'
+previous:
+  id: ACT/24/23
+  number: '23'
+reference: 'Acts 24:24'

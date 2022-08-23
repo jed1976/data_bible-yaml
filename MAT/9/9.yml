@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 9:9" class="v">9</span>¶ And
+  as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the
+  receipt of custom: and he saith unto him, <span class="wj">Follow me.</span>
+  And he arose, and followed him.</p>
+id: MAT/9/9
+next:
+  id: MAT/9/10
+  number: '10'
+previous:
+  id: MAT/9/8
+  number: '8'
+reference: 'Matthew 9:9'

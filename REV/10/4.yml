@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 10:4" class="v">4</span>And
+  when the seven thunders had uttered their voices, I was about to write: and I
+  heard a voice from heaven saying unto me, Seal up those things which the seven
+  thunders uttered, and write them not. </p>
+id: REV/10/4
+next:
+  id: REV/10/5
+  number: '5'
+previous:
+  id: REV/10/3
+  number: '3'
+reference: 'Revelation 10:4'

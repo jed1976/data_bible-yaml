@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 20:29"
+  class="v">29</span>For I know this, that after my departing shall grievous
+  wolves enter in among you, not sparing the flock. </p>
+id: ACT/20/29
+next:
+  id: ACT/20/30
+  number: '30'
+previous:
+  id: ACT/20/28
+  number: '28'
+reference: 'Acts 20:29'

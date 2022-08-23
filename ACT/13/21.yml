@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 13:21"
+  class="v">21</span>And afterward they desired a king: and God gave unto them
+  Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty
+  years. </p>
+id: ACT/13/21
+next:
+  id: ACT/13/22
+  number: '22'
+previous:
+  id: ACT/13/20
+  number: '20'
+reference: 'Acts 13:21'

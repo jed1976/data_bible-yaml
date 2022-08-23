@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 16:4" class="v">4</span>¶
+  Then said the <span class="nd">LORD</span> unto Moses, Behold, I will rain
+  bread from heaven for you; and the people shall go out and gather a certain
+  rate every day, that I may prove them, whether they will walk in my law, or
+  no. </p>
+id: EXO/16/4
+next:
+  id: EXO/16/5
+  number: '5'
+previous:
+  id: EXO/16/3
+  number: '3'
+reference: 'Exodus 16:4'

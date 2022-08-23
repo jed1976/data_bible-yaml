@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 39:11"
+  class="v">11</span>And it came to pass about this time, that <span
+  class="add">Joseph</span> went into the house to do his business; and <span
+  class="add">there was</span> none of the men of the house there within. </p>
+id: GEN/39/11
+next:
+  id: GEN/39/12
+  number: '12'
+previous:
+  id: GEN/39/10
+  number: '10'
+reference: 'Genesis 39:11'

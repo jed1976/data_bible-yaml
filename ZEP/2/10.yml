@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEP 2:10"
+  class="v">10</span>This shall they have for their pride, because they have
+  reproached and magnified <span class="add">themselves</span> against the
+  people of the <span class="nd">LORD</span> of hosts. </p>
+id: ZEP/2/10
+next:
+  id: ZEP/2/11
+  number: '11'
+previous:
+  id: ZEP/2/9
+  number: '9'
+reference: 'Zephaniah 2:10'

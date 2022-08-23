@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1KI 1:42" class="v">42</span>And
+  while he yet spake, behold, Jonathan the son of Abiathar the priest came: and
+  Adonijah said unto him, Come in; for thou <span class="add">art</span> a
+  valiant man, and bringest good tidings. </p>
+id: 1KI/1/42
+next:
+  id: 1KI/1/43
+  number: '43'
+previous:
+  id: 1KI/1/41
+  number: '41'
+reference: '1 Kings 1:42'

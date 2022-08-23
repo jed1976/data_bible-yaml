@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ROM 7:22" class="v">22</span>For
+  I delight in the law of God after the inward man: </p>
+id: ROM/7/22
+next:
+  id: ROM/7/23
+  number: '23'
+previous:
+  id: ROM/7/21
+  number: '21'
+reference: 'Romans 7:22'

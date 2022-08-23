@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 10:1" class="v">1</span>Dead
+  flies cause the ointment of the apothecary to send forth a stinking savour:
+  <span class="add">so doth</span> a little folly him that is in reputation for
+  wisdom <span class="add">and</span> honour. </p>
+id: ECC/10/1
+next:
+  id: ECC/10/2
+  number: '2'
+previous:
+  id: ECC/9/18
+  number: '18'
+reference: 'Ecclesiastes 10:1'

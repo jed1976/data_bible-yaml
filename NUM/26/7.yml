@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 26:7" class="v">7</span>These
+  <span class="add">are</span> the families of the Reubenites: and they that
+  were numbered of them were forty and three thousand and seven hundred and
+  thirty. </p>
+id: NUM/26/7
+next:
+  id: NUM/26/8
+  number: '8'
+previous:
+  id: NUM/26/6
+  number: '6'
+reference: 'Numbers 26:7'

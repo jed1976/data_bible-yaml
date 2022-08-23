@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1CH 27:26"
+  class="v">26</span>And over them that did the work of the field for tillage of
+  the ground <span class="add">was</span> Ezri the son of Chelub: </p>
+id: 1CH/27/26
+next:
+  id: 1CH/27/27
+  number: '27'
+previous:
+  id: 1CH/27/25
+  number: '25'
+reference: '1 Chronicles 27:26'

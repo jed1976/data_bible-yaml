@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 3:4" class="v">4</span>Wilt
+  thou not from this time cry unto me, My father, thou <span
+  class="add">art</span> the guide of my youth? </p>
+id: JER/3/4
+next:
+  id: JER/3/5
+  number: '5'
+previous:
+  id: JER/3/3
+  number: '3'
+reference: 'Jeremiah 3:4'

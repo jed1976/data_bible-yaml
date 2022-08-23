@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NEH 11:14"
+  class="v">14</span>And their brethren, mighty men of valour, an hundred twenty
+  and eight: and their overseer <span class="add">was</span> Zabdiel, the son of
+  <span class="add">one of</span> the great men. </p>
+id: NEH/11/14
+next:
+  id: NEH/11/15
+  number: '15'
+previous:
+  id: NEH/11/13
+  number: '13'
+reference: 'Nehemiah 11:14'

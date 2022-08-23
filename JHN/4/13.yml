@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 4:13"
+  class="v">13</span>Jesus answered and said unto her, <span
+  class="wj">Whosoever drinketh of this water shall thirst again:</span> </p>
+id: JHN/4/13
+next:
+  id: JHN/4/14
+  number: '14'
+previous:
+  id: JHN/4/12
+  number: '12'
+reference: 'John 4:13'

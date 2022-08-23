@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 4:26" class="v">26</span>And
+  to Seth, to him also there was born a son; and he called his name Enos: then
+  began men to call upon the name of the <span class="nd">LORD</span>.</p>
+id: GEN/4/26
+next:
+  id: GEN/5/1
+  number: '1'
+previous:
+  id: GEN/4/25
+  number: '25'
+reference: 'Genesis 4:26'

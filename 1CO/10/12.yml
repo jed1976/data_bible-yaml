@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 10:12"
+  class="v">12</span>Wherefore let him that thinketh he standeth take heed lest
+  he fall. </p>
+id: 1CO/10/12
+next:
+  id: 1CO/10/13
+  number: '13'
+previous:
+  id: 1CO/10/11
+  number: '11'
+reference: '1 Corinthians 10:12'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 26:20"
+  class="v">20</span>But shewed first unto them of Damascus, and at Jerusalem,
+  and throughout all the coasts of Judæa, and <span class="add">then</span> to
+  the Gentiles, that they should repent and turn to God, and do works meet for
+  repentance. </p>
+id: ACT/26/20
+next:
+  id: ACT/26/21
+  number: '21'
+previous:
+  id: ACT/26/19
+  number: '19'
+reference: 'Acts 26:20'

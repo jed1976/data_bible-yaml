@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 100:3"
+  class="v">3</span>Know ye that the <span class="nd">LORD</span> he <span
+  class="add">is</span> God: <span class="add">it is</span> he <span
+  class="add">that</span> hath made us, and not we ourselves; <span
+  class="add">we are</span> his people, and the sheep of his pasture.</p>
+id: PSA/100/3
+next:
+  id: PSA/100/4
+  number: '4'
+previous:
+  id: PSA/100/2
+  number: '2'
+reference: 'Psalms 100:3'

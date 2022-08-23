@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 9:5" class="v">5</span>Thus
+  the Jews smote all their enemies with the stroke of the sword, and slaughter,
+  and destruction, and did what they would unto those that hated them. </p>
+id: EST/9/5
+next:
+  id: EST/9/6
+  number: '6'
+previous:
+  id: EST/9/4
+  number: '4'
+reference: 'Esther 9:5'

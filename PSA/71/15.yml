@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 71:15"
+  class="v">15</span>My mouth shall shew forth thy righteousness <span
+  class="add">and</span> thy salvation all the day; for I know not the numbers
+  <span class="add">thereof</span>.</p>
+id: PSA/71/15
+next:
+  id: PSA/71/16
+  number: '16'
+previous:
+  id: PSA/71/14
+  number: '14'
+reference: 'Psalms 71:15'

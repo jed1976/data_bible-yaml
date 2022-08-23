@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 22:3" class="v">3</span>A
+  prudent <span class="add">man</span> foreseeth the evil, and hideth himself:
+  but the simple pass on, and are punished. </p>
+id: PRO/22/3
+next:
+  id: PRO/22/4
+  number: '4'
+previous:
+  id: PRO/22/2
+  number: '2'
+reference: 'Proverbs 22:3'

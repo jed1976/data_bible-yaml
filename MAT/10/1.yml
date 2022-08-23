@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 10:1" class="v">1</span>And
+  when he had called unto <span class="add">him</span> his twelve disciples, he
+  gave them power <span class="add">against</span> unclean spirits, to cast them
+  out, and to heal all manner of sickness and all manner of disease. </p>
+id: MAT/10/1
+next:
+  id: MAT/10/2
+  number: '2'
+previous:
+  id: MAT/9/38
+  number: '38'
+reference: 'Matthew 10:1'

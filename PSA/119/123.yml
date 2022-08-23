@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="123" data-sid="PSA 119:123"
+  class="v">123</span>Mine eyes fail for thy salvation, and for the word of thy
+  righteousness.</p>
+id: PSA/119/123
+next:
+  id: PSA/119/124
+  number: '124'
+previous:
+  id: PSA/119/122
+  number: '122'
+reference: 'Psalms 119:123'

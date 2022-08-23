@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 38:3" class="v">3</span>And
+  say, Thus saith the Lord <span class="nd">GOD</span>; Behold, I <span
+  class="add">am</span> against thee, O Gog, the chief prince of Meshech and
+  Tubal: </p>
+id: EZK/38/3
+next:
+  id: EZK/38/4
+  number: '4'
+previous:
+  id: EZK/38/2
+  number: '2'
+reference: 'Ezekiel 38:3'

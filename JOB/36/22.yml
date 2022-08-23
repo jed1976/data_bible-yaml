@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 36:22"
+  class="v">22</span>Behold, God exalteth by his power: who teacheth like him?
+  </p>
+id: JOB/36/22
+next:
+  id: JOB/36/23
+  number: '23'
+previous:
+  id: JOB/36/21
+  number: '21'
+reference: 'Job 36:22'

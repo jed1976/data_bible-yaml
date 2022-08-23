@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 63:4" class="v">4</span>For
+  the day of vengeance <span class="add">is</span> in mine heart, and the year
+  of my redeemed is come. </p>
+id: ISA/63/4
+next:
+  id: ISA/63/5
+  number: '5'
+previous:
+  id: ISA/63/3
+  number: '3'
+reference: 'Isaiah 63:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="HAG 1:14" class="v">14</span>And
+  the <span class="nd">LORD</span> stirred up the spirit of Zerubbabel the son
+  of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech,
+  the high priest, and the spirit of all the remnant of the people; and they
+  came and did work in the house of the <span class="nd">LORD</span> of hosts,
+  their God, </p>
+id: HAG/1/14
+next:
+  id: HAG/1/15
+  number: '15'
+previous:
+  id: HAG/1/13
+  number: '13'
+reference: 'Haggai 1:14'

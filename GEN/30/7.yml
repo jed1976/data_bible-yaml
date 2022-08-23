@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 30:7" class="v">7</span>And
+  Bilhah Rachel’s maid conceived again, and bare Jacob a second son. </p>
+id: GEN/30/7
+next:
+  id: GEN/30/8
+  number: '8'
+previous:
+  id: GEN/30/6
+  number: '6'
+reference: 'Genesis 30:7'

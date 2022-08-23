@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 18:1" class="v">1</span>Then
+  answered Bildad the Shuhite, and said, </p>
+id: JOB/18/1
+next:
+  id: JOB/18/2
+  number: '2'
+previous:
+  id: JOB/17/16
+  number: '16'
+reference: 'Job 18:1'

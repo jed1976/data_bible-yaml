@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 37:4" class="v">4</span>And
+  when his brethren saw that their father loved him more than all his brethren,
+  they hated him, and could not speak peaceably unto him.</p>
+id: GEN/37/4
+next:
+  id: GEN/37/5
+  number: '5'
+previous:
+  id: GEN/37/3
+  number: '3'
+reference: 'Genesis 37:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="134" data-sid="PSA 119:134"
+  class="v">134</span>Deliver me from the oppression of man: so will I keep thy
+  precepts.</p>
+id: PSA/119/134
+next:
+  id: PSA/119/135
+  number: '135'
+previous:
+  id: PSA/119/133
+  number: '133'
+reference: 'Psalms 119:134'

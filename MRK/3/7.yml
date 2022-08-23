@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 3:7" class="v">7</span>But
+  Jesus withdrew himself with his disciples to the sea: and a great multitude
+  from Galilee followed him, and from Judæa, </p>
+id: MRK/3/7
+next:
+  id: MRK/3/8
+  number: '8'
+previous:
+  id: MRK/3/6
+  number: '6'
+reference: 'Mark 3:7'

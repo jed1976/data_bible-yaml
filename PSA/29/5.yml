@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 29:5" class="v">5</span>The
+  voice of the <span class="nd">LORD</span> breaketh the cedars; yea, the <span
+  class="nd">LORD</span> breaketh the cedars of Lebanon.</p>
+id: PSA/29/5
+next:
+  id: PSA/29/6
+  number: '6'
+previous:
+  id: PSA/29/4
+  number: '4'
+reference: 'Psalms 29:5'

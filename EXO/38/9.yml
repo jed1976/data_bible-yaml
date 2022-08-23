@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 38:9" class="v">9</span>¶ And
+  he made the court: on the south side southward the hangings of the court <span
+  class="add">were of</span> fine twined linen, an hundred cubits: </p>
+id: EXO/38/9
+next:
+  id: EXO/38/10
+  number: '10'
+previous:
+  id: EXO/38/8
+  number: '8'
+reference: 'Exodus 38:9'

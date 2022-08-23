@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DAN 9:11"
+  class="v">11</span>Yea, all Israel have transgressed thy law, even by
+  departing, that they might not obey thy voice; therefore the curse is poured
+  upon us, and the oath that <span class="add">is</span> written in the law of
+  Moses the servant of God, because we have sinned against him. </p>
+id: DAN/9/11
+next:
+  id: DAN/9/12
+  number: '12'
+previous:
+  id: DAN/9/10
+  number: '10'
+reference: 'Daniel 9:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ZEC 8:20"
+  class="v">20</span>Thus saith the <span class="nd">LORD</span> of hosts; <span
+  class="add">It shall</span> yet <span class="add">come to pass</span>, that
+  there shall come people, and the inhabitants of many cities: </p>
+id: ZEC/8/20
+next:
+  id: ZEC/8/21
+  number: '21'
+previous:
+  id: ZEC/8/19
+  number: '19'
+reference: 'Zechariah 8:20'

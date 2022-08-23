@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 13:9" class="v">9</span>Is it
+  good that he should search you out? or as one man mocketh another, do ye <span
+  class="add">so</span> mock him? </p>
+id: JOB/13/9
+next:
+  id: JOB/13/10
+  number: '10'
+previous:
+  id: JOB/13/8
+  number: '8'
+reference: 'Job 13:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 3:17" class="v">17</span>And
+  now, brethren, I wot that through ignorance ye did <span
+  class="add">it</span>, as <span class="add">did</span> also your rulers. </p>
+id: ACT/3/17
+next:
+  id: ACT/3/18
+  number: '18'
+previous:
+  id: ACT/3/16
+  number: '16'
+reference: 'Acts 3:17'

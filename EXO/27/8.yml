@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 27:8"
+  class="v">8</span>Hollow with boards shalt thou make it: as it was shewed thee
+  in the mount, so shall they make <span class="add">it</span>.</p>
+id: EXO/27/8
+next:
+  id: EXO/27/9
+  number: '9'
+previous:
+  id: EXO/27/7
+  number: '7'
+reference: 'Exodus 27:8'

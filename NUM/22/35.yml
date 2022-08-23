@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 22:35"
+  class="v">35</span>And the angel of the <span class="nd">LORD</span> said unto
+  Balaam, Go with the men: but only the word that I shall speak unto thee, that
+  thou shalt speak. So Balaam went with the princes of Balak.</p>
+id: NUM/22/35
+next:
+  id: NUM/22/36
+  number: '36'
+previous:
+  id: NUM/22/34
+  number: '34'
+reference: 'Numbers 22:35'

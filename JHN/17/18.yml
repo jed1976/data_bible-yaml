@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 17:18"
+  class="v">18</span><span class="wj">As thou hast sent me into the world, even
+  so have I also sent them into the world.</span> </p>
+id: JHN/17/18
+next:
+  id: JHN/17/19
+  number: '19'
+previous:
+  id: JHN/17/17
+  number: '17'
+reference: 'John 17:18'

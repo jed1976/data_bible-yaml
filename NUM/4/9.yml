@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 4:9" class="v">9</span>And
+  they shall take a cloth of blue, and cover the candlestick of the light, and
+  his lamps, and his tongs, and his snuffdishes, and all the oil vessels
+  thereof, wherewith they minister unto it: </p>
+id: NUM/4/9
+next:
+  id: NUM/4/10
+  number: '10'
+previous:
+  id: NUM/4/8
+  number: '8'
+reference: 'Numbers 4:9'

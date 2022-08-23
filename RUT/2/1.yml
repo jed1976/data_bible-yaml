@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="RUT 2:1" class="v">1</span>And
+  Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of
+  Elimelech; and his name <span class="add">was</span> Boaz. </p>
+id: RUT/2/1
+next:
+  id: RUT/2/2
+  number: '2'
+previous:
+  id: RUT/1/22
+  number: '22'
+reference: 'Ruth 2:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEC 13:4" class="v">4</span>And
+  it shall come to pass in that day, <span class="add">that</span> the prophets
+  shall be ashamed every one of his vision, when he hath prophesied; neither
+  shall they wear a rough garment to deceive: </p>
+id: ZEC/13/4
+next:
+  id: ZEC/13/5
+  number: '5'
+previous:
+  id: ZEC/13/3
+  number: '3'
+reference: 'Zechariah 13:4'

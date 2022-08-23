@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 32:5" class="v">5</span>And I
+  will lay thy flesh upon the mountains, and fill the valleys with thy height.
+  </p>
+id: EZK/32/5
+next:
+  id: EZK/32/6
+  number: '6'
+previous:
+  id: EZK/32/4
+  number: '4'
+reference: 'Ezekiel 32:5'

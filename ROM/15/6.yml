@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 15:6" class="v">6</span>That
+  ye may with one mind <span class="add">and</span> one mouth glorify God, even
+  the Father of our Lord Jesus Christ.</p>
+id: ROM/15/6
+next:
+  id: ROM/15/7
+  number: '7'
+previous:
+  id: ROM/15/5
+  number: '5'
+reference: 'Romans 15:6'

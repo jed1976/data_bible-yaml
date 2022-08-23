@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JDG 3:17" class="v">17</span>And
+  he brought the present unto Eglon king of Moab: and Eglon <span
+  class="add">was</span> a very fat man. </p>
+id: JDG/3/17
+next:
+  id: JDG/3/18
+  number: '18'
+previous:
+  id: JDG/3/16
+  number: '16'
+reference: 'Judges 3:17'

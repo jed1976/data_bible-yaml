@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LAM 1:18" class="v">18</span>¶
+  The <span class="nd">LORD</span> is righteous; for I have rebelled against his
+  commandment: hear, I pray you, all people, and behold my sorrow: my virgins
+  and my young men are gone into captivity. </p>
+id: LAM/1/18
+next:
+  id: LAM/1/19
+  number: '19'
+previous:
+  id: LAM/1/17
+  number: '17'
+reference: 'Lamentations 1:18'

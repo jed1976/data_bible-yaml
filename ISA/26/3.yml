@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 26:3" class="v">3</span>Thou
+  wilt keep <span class="add">him</span> in perfect peace, <span
+  class="add">whose</span> mind <span class="add">is</span> stayed <span
+  class="add">on thee:</span> because he trusteth in thee. </p>
+id: ISA/26/3
+next:
+  id: ISA/26/4
+  number: '4'
+previous:
+  id: ISA/26/2
+  number: '2'
+reference: 'Isaiah 26:3'

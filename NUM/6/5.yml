@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 6:5" class="v">5</span>All
+  the days of the vow of his separation there shall no razor come upon his head:
+  until the days be fulfilled, in the which he separateth <span
+  class="add">himself</span> unto the <span class="nd">LORD</span>, he shall be
+  holy, <span class="add">and</span> shall let the locks of the hair of his head
+  grow. </p>
+id: NUM/6/5
+next:
+  id: NUM/6/6
+  number: '6'
+previous:
+  id: NUM/6/4
+  number: '4'
+reference: 'Numbers 6:5'

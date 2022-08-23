@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 80:18"
+  class="v">18</span>So will not we go back from thee: quicken us, and we will
+  call upon thy name.</p>
+id: PSA/80/18
+next:
+  id: PSA/80/19
+  number: '19'
+previous:
+  id: PSA/80/17
+  number: '17'
+reference: 'Psalms 80:18'

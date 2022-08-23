@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 130:6" class="v">6</span>My
+  soul <span class="add">waiteth</span> for the Lord more than they that watch
+  for the morning: <span class="add">I say, more than</span> they that watch for
+  the morning.</p>
+id: PSA/130/6
+next:
+  id: PSA/130/7
+  number: '7'
+previous:
+  id: PSA/130/5
+  number: '5'
+reference: 'Psalms 130:6'

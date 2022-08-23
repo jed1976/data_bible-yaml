@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 13:25" class="v">25</span>He
+  then lying on Jesus’ breast saith unto him, Lord, who is it? </p>
+id: JHN/13/25
+next:
+  id: JHN/13/26
+  number: '26'
+previous:
+  id: JHN/13/24
+  number: '24'
+reference: 'John 13:25'

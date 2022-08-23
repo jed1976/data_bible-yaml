@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 4:13" class="v">13</span>And
+  Cain said unto the <span class="nd">LORD</span>, My punishment <span
+  class="add">is</span> greater than I can bear. </p>
+id: GEN/4/13
+next:
+  id: GEN/4/14
+  number: '14'
+previous:
+  id: GEN/4/12
+  number: '12'
+reference: 'Genesis 4:13'

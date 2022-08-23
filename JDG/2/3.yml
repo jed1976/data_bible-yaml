@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 2:3"
+  class="v">3</span>Wherefore I also said, I will not drive them out from before
+  you; but they shall be <span class="add">as thorns</span> in your sides, and
+  their gods shall be a snare unto you. </p>
+id: JDG/2/3
+next:
+  id: JDG/2/4
+  number: '4'
+previous:
+  id: JDG/2/2
+  number: '2'
+reference: 'Judges 2:3'

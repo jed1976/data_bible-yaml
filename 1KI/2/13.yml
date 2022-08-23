@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1KI 2:13" class="v">13</span>¶
+  And Adonijah the son of Haggith came to Bath-sheba the mother of Solomon. And
+  she said, Comest thou peaceably? And he said, Peaceably. </p>
+id: 1KI/2/13
+next:
+  id: 1KI/2/14
+  number: '14'
+previous:
+  id: 1KI/2/12
+  number: '12'
+reference: '1 Kings 2:13'

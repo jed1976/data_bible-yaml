@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 8:5" class="v">5</span>Now
+  Moses in the law commanded us, that such should be stoned: but what sayest
+  thou? </p>
+id: JHN/8/5
+next:
+  id: JHN/8/6
+  number: '6'
+previous:
+  id: JHN/8/4
+  number: '4'
+reference: 'John 8:5'

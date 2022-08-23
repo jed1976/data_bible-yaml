@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 119:20"
+  class="v">20</span>My soul breaketh for the longing <span class="add">that it
+  hath</span> unto thy judgments at all times.</p>
+id: PSA/119/20
+next:
+  id: PSA/119/21
+  number: '21'
+previous:
+  id: PSA/119/19
+  number: '19'
+reference: 'Psalms 119:20'

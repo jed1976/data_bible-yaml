@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 57:11"
+  class="v">11</span>And of whom hast thou been afraid or feared, that thou hast
+  lied, and hast not remembered me, nor laid <span class="add">it</span> to thy
+  heart? have not I held my peace even of old, and thou fearest me not? </p>
+id: ISA/57/11
+next:
+  id: ISA/57/12
+  number: '12'
+previous:
+  id: ISA/57/10
+  number: '10'
+reference: 'Isaiah 57:11'

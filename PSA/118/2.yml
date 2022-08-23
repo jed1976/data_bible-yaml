@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 118:2" class="v">2</span>Let
+  Israel now say, that his mercy <span class="add">endureth</span> for ever.</p>
+id: PSA/118/2
+next:
+  id: PSA/118/3
+  number: '3'
+previous:
+  id: PSA/118/1
+  number: '1'
+reference: 'Psalms 118:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 7:19" class="v">19</span>The
+  same dealt subtilly with our kindred, and evil entreated our fathers, so that
+  they cast out their young children, to the end they might not live. </p>
+id: ACT/7/19
+next:
+  id: ACT/7/20
+  number: '20'
+previous:
+  id: ACT/7/18
+  number: '18'
+reference: 'Acts 7:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 2:22" class="v">22</span>And
+  the rib, which the <span class="nd">LORD</span> God had taken from man, made
+  he a woman, and brought her unto the man. </p>
+id: GEN/2/22
+next:
+  id: GEN/2/23
+  number: '23'
+previous:
+  id: GEN/2/21
+  number: '21'
+reference: 'Genesis 2:22'

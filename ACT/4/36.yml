@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ACT 4:36" class="v">36</span>And
+  Joses, who by the apostles was surnamed Barnabas, (which is, being
+  interpreted, The son of consolation,) a Levite, <span class="add">and</span>
+  of the country of Cyprus, </p>
+id: ACT/4/36
+next:
+  id: ACT/4/37
+  number: '37'
+previous:
+  id: ACT/4/35
+  number: '35'
+reference: 'Acts 4:36'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 6:15" class="v">15</span>And
+  this <span class="add">is the fashion</span> which thou shalt make it <span
+  class="add">of:</span> The length of the ark <span class="add">shall be</span>
+  three hundred cubits, the breadth of it fifty cubits, and the height of it
+  thirty cubits. </p>
+id: GEN/6/15
+next:
+  id: GEN/6/16
+  number: '16'
+previous:
+  id: GEN/6/14
+  number: '14'
+reference: 'Genesis 6:15'

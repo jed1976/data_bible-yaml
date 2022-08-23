@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2SA 1:21" class="v">21</span>Ye
+  mountains of Gilboa, <span class="add">let there be</span> no dew, neither
+  <span class="add">let there be</span> rain, upon you, nor fields of offerings:
+  for there the shield of the mighty is vilely cast away, the shield of Saul,
+  <span class="add">as though he had</span> not <span class="add">been</span>
+  anointed with oil. </p>
+id: 2SA/1/21
+next:
+  id: 2SA/1/22
+  number: '22'
+previous:
+  id: 2SA/1/20
+  number: '20'
+reference: '2 Samuel 1:21'

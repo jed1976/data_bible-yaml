@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 7:20"
+  class="v">20</span>Fifteen cubits upward did the waters prevail; and the
+  mountains were covered.</p>
+id: GEN/7/20
+next:
+  id: GEN/7/21
+  number: '21'
+previous:
+  id: GEN/7/19
+  number: '19'
+reference: 'Genesis 7:20'

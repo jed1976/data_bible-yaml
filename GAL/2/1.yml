@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GAL 2:1" class="v">1</span>Then
+  fourteen years after I went up again to Jerusalem with Barnabas, and took
+  Titus with <span class="add">me</span> also. </p>
+id: GAL/2/1
+next:
+  id: GAL/2/2
+  number: '2'
+previous:
+  id: GAL/1/24
+  number: '24'
+reference: 'Galatians 2:1'

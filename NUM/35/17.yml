@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 35:17"
+  class="v">17</span>And if he smite him with throwing a stone, wherewith he may
+  die, and he die, he <span class="add">is</span> a murderer: the murderer shall
+  surely be put to death. </p>
+id: NUM/35/17
+next:
+  id: NUM/35/18
+  number: '18'
+previous:
+  id: NUM/35/16
+  number: '16'
+reference: 'Numbers 35:17'

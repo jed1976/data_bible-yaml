@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 15:3" class="v">3</span>And
+  this shall be his uncleanness in his issue: whether his flesh run with his
+  issue, or his flesh be stopped from his issue, it <span class="add">is</span>
+  his uncleanness. </p>
+id: LEV/15/3
+next:
+  id: LEV/15/4
+  number: '4'
+previous:
+  id: LEV/15/2
+  number: '2'
+reference: 'Leviticus 15:3'

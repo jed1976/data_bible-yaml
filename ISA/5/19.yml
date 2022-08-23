@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 5:19"
+  class="v">19</span>That say, Let him make speed, <span class="add">and</span>
+  hasten his work, that we may see <span class="add">it:</span> and let the
+  counsel of the Holy One of Israel draw nigh and come, that we may know <span
+  class="add">it</span>!</p>
+id: ISA/5/19
+next:
+  id: ISA/5/20
+  number: '20'
+previous:
+  id: ISA/5/18
+  number: '18'
+reference: 'Isaiah 5:19'

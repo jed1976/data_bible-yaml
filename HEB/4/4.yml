@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 4:4" class="v">4</span>For he
+  spake in a certain place of the seventh <span class="add">day</span> on this
+  wise, And God did rest the seventh day from all his works. </p>
+id: HEB/4/4
+next:
+  id: HEB/4/5
+  number: '5'
+previous:
+  id: HEB/4/3
+  number: '3'
+reference: 'Hebrews 4:4'

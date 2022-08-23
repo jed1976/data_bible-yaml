@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 42:14"
+  class="v">14</span>And he called the name of the first, Jemima; and the name
+  of the second, Kezia; and the name of the third, Keren-happuch. </p>
+id: JOB/42/14
+next:
+  id: JOB/42/15
+  number: '15'
+previous:
+  id: JOB/42/13
+  number: '13'
+reference: 'Job 42:14'

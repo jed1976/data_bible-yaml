@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 5:6" class="v">6</span>¶ And
+  the king said unto Esther at the banquet of wine, What <span
+  class="add">is</span> thy petition? and it shall be granted thee: and what
+  <span class="add">is</span> thy request? even to the half of the kingdom it
+  shall be performed. </p>
+id: EST/5/6
+next:
+  id: EST/5/7
+  number: '7'
+previous:
+  id: EST/5/5
+  number: '5'
+reference: 'Esther 5:6'

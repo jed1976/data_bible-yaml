@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 9:11" class="v">11</span>He
+  answered and said, A man that is called Jesus made clay, and anointed mine
+  eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and
+  washed, and I received sight. </p>
+id: JHN/9/11
+next:
+  id: JHN/9/12
+  number: '12'
+previous:
+  id: JHN/9/10
+  number: '10'
+reference: 'John 9:11'

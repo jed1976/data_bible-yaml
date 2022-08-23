@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1CH 1:30"
+  class="v">30</span>Mishma, and Dumah, Massa, Hadad, and Tema, </p>
+id: 1CH/1/30
+next:
+  id: 1CH/1/31
+  number: '31'
+previous:
+  id: 1CH/1/29
+  number: '29'
+reference: '1 Chronicles 1:30'

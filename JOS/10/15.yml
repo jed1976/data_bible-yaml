@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 10:15" class="v">15</span>¶
+  And Joshua returned, and all Israel with him, unto the camp to Gilgal. </p>
+id: JOS/10/15
+next:
+  id: JOS/10/16
+  number: '16'
+previous:
+  id: JOS/10/14
+  number: '14'
+reference: 'Joshua 10:15'

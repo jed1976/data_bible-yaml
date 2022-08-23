@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 5:3" class="v">3</span>And no
+  man in heaven, nor in earth, neither under the earth, was able to open the
+  book, neither to look thereon. </p>
+id: REV/5/3
+next:
+  id: REV/5/4
+  number: '4'
+previous:
+  id: REV/5/2
+  number: '2'
+reference: 'Revelation 5:3'

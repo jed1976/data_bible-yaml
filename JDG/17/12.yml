@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 17:12"
+  class="v">12</span>And Micah consecrated the Levite; and the young man became
+  his priest, and was in the house of Micah. </p>
+id: JDG/17/12
+next:
+  id: JDG/17/13
+  number: '13'
+previous:
+  id: JDG/17/11
+  number: '11'
+reference: 'Judges 17:12'

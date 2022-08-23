@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 14:3" class="v">3</span>And
+  it shall come to pass in the day that the <span class="nd">LORD</span> shall
+  give thee rest from thy sorrow, and from thy fear, and from the hard bondage
+  wherein thou wast made to serve,</p>
+id: ISA/14/3
+next:
+  id: ISA/14/4
+  number: '4'
+previous:
+  id: ISA/14/2
+  number: '2'
+reference: 'Isaiah 14:3'

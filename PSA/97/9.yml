@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 97:9" class="v">9</span>For
+  thou, <span class="nd">LORD</span>, <span class="add">art</span> high above
+  all the earth: thou art exalted far above all gods.</p>
+id: PSA/97/9
+next:
+  id: PSA/97/10
+  number: '10'
+previous:
+  id: PSA/97/8
+  number: '8'
+reference: 'Psalms 97:9'

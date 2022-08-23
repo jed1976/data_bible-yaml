@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="LAM 3:52"
+  class="v">52</span>Mine enemies chased me sore, like a bird, without cause.
+  </p>
+id: LAM/3/52
+next:
+  id: LAM/3/53
+  number: '53'
+previous:
+  id: LAM/3/51
+  number: '51'
+reference: 'Lamentations 3:52'

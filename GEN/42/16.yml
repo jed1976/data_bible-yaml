@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 42:16"
+  class="v">16</span>Send one of you, and let him fetch your brother, and ye
+  shall be kept in prison, that your words may be proved, whether <span
+  class="add">there be any</span> truth in you: or else by the life of Pharaoh
+  surely ye <span class="add">are</span> spies. </p>
+id: GEN/42/16
+next:
+  id: GEN/42/17
+  number: '17'
+previous:
+  id: GEN/42/15
+  number: '15'
+reference: 'Genesis 42:16'

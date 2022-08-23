@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HEB 9:3" class="v">3</span>And
+  after the second veil, the tabernacle which is called the Holiest of all; </p>
+id: HEB/9/3
+next:
+  id: HEB/9/4
+  number: '4'
+previous:
+  id: HEB/9/2
+  number: '2'
+reference: 'Hebrews 9:3'

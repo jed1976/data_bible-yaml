@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JON 4:6" class="v">6</span>And
+  the <span class="nd">LORD</span> God prepared a gourd, and made <span
+  class="add">it</span> to come up over Jonah, that it might be a shadow over
+  his head, to deliver him from his grief. So Jonah was exceeding glad of the
+  gourd. </p>
+id: JON/4/6
+next:
+  id: JON/4/7
+  number: '7'
+previous:
+  id: JON/4/5
+  number: '5'
+reference: 'Jonah 4:6'

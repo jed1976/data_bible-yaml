@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EXO 29:42"
+  class="v">42</span><span class="add">This shall be</span> a continual burnt
+  offering throughout your generations <span class="add">at</span> the door of
+  the tabernacle of the congregation before the <span class="nd">LORD</span>:
+  where I will meet you, to speak there unto thee. </p>
+id: EXO/29/42
+next:
+  id: EXO/29/43
+  number: '43'
+previous:
+  id: EXO/29/41
+  number: '41'
+reference: 'Exodus 29:42'

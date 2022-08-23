@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 14:15"
+  class="v">15</span>The simple believeth every word: but the prudent <span
+  class="add">man</span> looketh well to his going. </p>
+id: PRO/14/15
+next:
+  id: PRO/14/16
+  number: '16'
+previous:
+  id: PRO/14/14
+  number: '14'
+reference: 'Proverbs 14:15'

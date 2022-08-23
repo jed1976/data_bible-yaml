@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 49:1"
+  class="v">1</span>Listen, O isles, unto me; and hearken, ye people, from far;
+  The <span class="nd">LORD</span> hath called me from the womb; from the bowels
+  of my mother hath he made mention of my name. </p>
+id: ISA/49/1
+next:
+  id: ISA/49/2
+  number: '2'
+previous:
+  id: ISA/48/22
+  number: '22'
+reference: 'Isaiah 49:1'

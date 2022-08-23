@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 23:24" class="v">24</span>¶
+  When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes
+  thy fill at thine own pleasure; but thou shalt not put <span
+  class="add">any</span> in thy vessel. </p>
+id: DEU/23/24
+next:
+  id: DEU/23/25
+  number: '25'
+previous:
+  id: DEU/23/23
+  number: '23'
+reference: 'Deuteronomy 23:24'

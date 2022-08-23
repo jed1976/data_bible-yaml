@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 24:10"
+  class="v">10</span>They cause <span class="add">him</span> to go naked without
+  clothing, and they take away the sheaf <span class="add">from</span> the
+  hungry; </p>
+id: JOB/24/10
+next:
+  id: JOB/24/11
+  number: '11'
+previous:
+  id: JOB/24/9
+  number: '9'
+reference: 'Job 24:10'

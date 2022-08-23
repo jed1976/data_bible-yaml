@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 10:16"
+  class="v">16</span>The labour of the righteous <span
+  class="add">tendeth</span> to life: the fruit of the wicked to sin. </p>
+id: PRO/10/16
+next:
+  id: PRO/10/17
+  number: '17'
+previous:
+  id: PRO/10/15
+  number: '15'
+reference: 'Proverbs 10:16'

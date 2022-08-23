@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 12:20" class="v">20</span>Ye
+  shall eat nothing leavened; in all your habitations shall ye eat unleavened
+  bread.</p>
+id: EXO/12/20
+next:
+  id: EXO/12/21
+  number: '21'
+previous:
+  id: EXO/12/19
+  number: '19'
+reference: 'Exodus 12:20'

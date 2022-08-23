@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 122:5" class="v">5</span>For
+  there are set thrones of judgment, the thrones of the house of David.</p>
+id: PSA/122/5
+next:
+  id: PSA/122/6
+  number: '6'
+previous:
+  id: PSA/122/4
+  number: '4'
+reference: 'Psalms 122:5'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 15:6" class="v">6</span>¶ And
+  the apostles and elders came together for to consider of this matter. </p>
+id: ACT/15/6
+next:
+  id: ACT/15/7
+  number: '7'
+previous:
+  id: ACT/15/5
+  number: '5'
+reference: 'Acts 15:6'

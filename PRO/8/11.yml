@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 8:11" class="v">11</span>For
+  wisdom <span class="add">is</span> better than rubies; and all the things that
+  may be desired are not to be compared to it.</p>
+id: PRO/8/11
+next:
+  id: PRO/8/12
+  number: '12'
+previous:
+  id: PRO/8/10
+  number: '10'
+reference: 'Proverbs 8:11'

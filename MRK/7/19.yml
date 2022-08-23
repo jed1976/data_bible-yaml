@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MRK 7:19"
+  class="v">19</span><span class="wj">Because it entereth not into his heart,
+  but into the belly, and goeth out into the draught, purging all meats?</span>
+  </p>
+id: MRK/7/19
+next:
+  id: MRK/7/20
+  number: '20'
+previous:
+  id: MRK/7/18
+  number: '18'
+reference: 'Mark 7:19'

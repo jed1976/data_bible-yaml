@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 20:5" class="v">5</span>That
+  the triumphing of the wicked <span class="add">is</span> short, and the joy of
+  the hypocrite <span class="add">but</span> for a moment? </p>
+id: JOB/20/5
+next:
+  id: JOB/20/6
+  number: '6'
+previous:
+  id: JOB/20/4
+  number: '4'
+reference: 'Job 20:5'

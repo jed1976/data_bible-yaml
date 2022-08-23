@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 23:13"
+  class="v">13</span>And thou shalt have a paddle upon thy weapon; and it shall
+  be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt
+  turn back and cover that which cometh from thee: </p>
+id: DEU/23/13
+next:
+  id: DEU/23/14
+  number: '14'
+previous:
+  id: DEU/23/12
+  number: '12'
+reference: 'Deuteronomy 23:13'

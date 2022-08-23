@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 135:6"
+  class="v">6</span>Whatsoever the <span class="nd">LORD</span> pleased, <span
+  class="add">that</span> did he in heaven, and in earth, in the seas, and all
+  deep places.</p>
+id: PSA/135/6
+next:
+  id: PSA/135/7
+  number: '7'
+previous:
+  id: PSA/135/5
+  number: '5'
+reference: 'Psalms 135:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LAM 5:6" class="v">6</span>We
+  have given the hand <span class="add">to</span> the Egyptians, <span
+  class="add">and to</span> the Assyrians, to be satisfied with bread. </p>
+id: LAM/5/6
+next:
+  id: LAM/5/7
+  number: '7'
+previous:
+  id: LAM/5/5
+  number: '5'
+reference: 'Lamentations 5:6'

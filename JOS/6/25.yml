@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 6:25" class="v">25</span>And
+  Joshua saved Rahab the harlot alive, and her father’s household, and all that
+  she had; and she dwelleth in Israel <span class="add">even</span> unto this
+  day; because she hid the messengers, which Joshua sent to spy out Jericho.</p>
+id: JOS/6/25
+next:
+  id: JOS/6/26
+  number: '26'
+previous:
+  id: JOS/6/24
+  number: '24'
+reference: 'Joshua 6:25'

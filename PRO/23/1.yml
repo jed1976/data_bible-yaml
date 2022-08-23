@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 23:1" class="v">1</span>When
+  thou sittest to eat with a ruler, consider diligently what <span
+  class="add">is</span> before thee: </p>
+id: PRO/23/1
+next:
+  id: PRO/23/2
+  number: '2'
+previous:
+  id: PRO/22/29
+  number: '29'
+reference: 'Proverbs 23:1'

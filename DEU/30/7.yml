@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 30:7" class="v">7</span>And
+  the <span class="nd">LORD</span> thy God will put all these curses upon thine
+  enemies, and on them that hate thee, which persecuted thee. </p>
+id: DEU/30/7
+next:
+  id: DEU/30/8
+  number: '8'
+previous:
+  id: DEU/30/6
+  number: '6'
+reference: 'Deuteronomy 30:7'

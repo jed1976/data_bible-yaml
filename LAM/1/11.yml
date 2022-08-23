@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LAM 1:11" class="v">11</span>All
+  her people sigh, they seek bread; they have given their pleasant things for
+  meat to relieve the soul: see, O <span class="nd">LORD</span>, and consider;
+  for I am become vile.</p>
+id: LAM/1/11
+next:
+  id: LAM/1/12
+  number: '12'
+previous:
+  id: LAM/1/10
+  number: '10'
+reference: 'Lamentations 1:11'

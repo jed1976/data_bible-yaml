@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 18:13"
+  class="v">13</span>Thou shalt not uncover the nakedness of thy mother’s
+  sister: for she <span class="add">is</span> thy mother’s near kinswoman. </p>
+id: LEV/18/13
+next:
+  id: LEV/18/14
+  number: '14'
+previous:
+  id: LEV/18/12
+  number: '12'
+reference: 'Leviticus 18:13'

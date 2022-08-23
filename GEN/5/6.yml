@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 5:6" class="v">6</span>And
+  Seth lived an hundred and five years, and begat Enos: </p>
+id: GEN/5/6
+next:
+  id: GEN/5/7
+  number: '7'
+previous:
+  id: GEN/5/5
+  number: '5'
+reference: 'Genesis 5:6'

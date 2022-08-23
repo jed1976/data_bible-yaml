@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HAG 2:10" class="v">10</span>¶
+  In the four and twentieth <span class="add">day</span> of the ninth <span
+  class="add">month</span>, in the second year of Darius, came the word of the
+  <span class="nd">LORD</span> by Haggai the prophet, saying, </p>
+id: HAG/2/10
+next:
+  id: HAG/2/11
+  number: '11'
+previous:
+  id: HAG/2/9
+  number: '9'
+reference: 'Haggai 2:10'

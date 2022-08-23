@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 16:12" class="v">12</span>I
+  have heard the murmurings of the children of Israel: speak unto them, saying,
+  At even ye shall eat flesh, and in the morning ye shall be filled with bread;
+  and ye shall know that I <span class="add">am</span> the <span
+  class="nd">LORD</span> your God.</p>
+id: EXO/16/12
+next:
+  id: EXO/16/13
+  number: '13'
+previous:
+  id: EXO/16/11
+  number: '11'
+reference: 'Exodus 16:12'

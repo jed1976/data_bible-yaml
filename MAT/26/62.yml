@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="62" data-sid="MAT 26:62"
+  class="v">62</span>And the high priest arose, and said unto him, Answerest
+  thou nothing? what <span class="add">is it which</span> these witness against
+  thee? </p>
+id: MAT/26/62
+next:
+  id: MAT/26/63
+  number: '63'
+previous:
+  id: MAT/26/61
+  number: '61'
+reference: 'Matthew 26:62'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 8:15" class="v">15</span>And
+  after that shall the Levites go in to do the service of the tabernacle of the
+  congregation: and thou shalt cleanse them, and offer them <span
+  class="add">for</span> an offering. </p>
+id: NUM/8/15
+next:
+  id: NUM/8/16
+  number: '16'
+previous:
+  id: NUM/8/14
+  number: '14'
+reference: 'Numbers 8:15'

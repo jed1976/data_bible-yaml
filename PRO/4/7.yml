@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 4:7" class="v">7</span>Wisdom
+  <span class="add">is</span> the principal thing; <span
+  class="add">therefore</span> get wisdom: and with all thy getting get
+  understanding. </p>
+id: PRO/4/7
+next:
+  id: PRO/4/8
+  number: '8'
+previous:
+  id: PRO/4/6
+  number: '6'
+reference: 'Proverbs 4:7'

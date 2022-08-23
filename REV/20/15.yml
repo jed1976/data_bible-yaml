@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 20:15"
+  class="v">15</span>And whosoever was not found written in the book of life was
+  cast into the lake of fire.</p>
+id: REV/20/15
+next:
+  id: REV/21/1
+  number: '1'
+previous:
+  id: REV/20/14
+  number: '14'
+reference: 'Revelation 20:15'

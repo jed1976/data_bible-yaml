@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 6:1" class="v">1</span>And it
+  came to pass on the second sabbath after the first, that he went through the
+  corn fields; and his disciples plucked the ears of corn, and did eat, rubbing
+  <span class="add">them</span> in <span class="add">their</span> hands. </p>
+id: LUK/6/1
+next:
+  id: LUK/6/2
+  number: '2'
+previous:
+  id: LUK/5/39
+  number: '39'
+reference: 'Luke 6:1'

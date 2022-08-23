@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 14:16"
+  class="v">16</span>And his disciples went forth, and came into the city, and
+  found as he had said unto them: and they made ready the passover. </p>
+id: MRK/14/16
+next:
+  id: MRK/14/17
+  number: '17'
+previous:
+  id: MRK/14/15
+  number: '15'
+reference: 'Mark 14:16'

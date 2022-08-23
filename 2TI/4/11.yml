@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2TI 4:11"
+  class="v">11</span>Only Luke is with me. Take Mark, and bring him with thee:
+  for he is profitable to me for the ministry. </p>
+id: 2TI/4/11
+next:
+  id: 2TI/4/12
+  number: '12'
+previous:
+  id: 2TI/4/10
+  number: '10'
+reference: '2 Timothy 4:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 13:22"
+  class="v">22</span>And if it spread much abroad in the skin, then the priest
+  shall pronounce him unclean: it <span class="add">is</span> a plague. </p>
+id: LEV/13/22
+next:
+  id: LEV/13/23
+  number: '23'
+previous:
+  id: LEV/13/21
+  number: '21'
+reference: 'Leviticus 13:22'

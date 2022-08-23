@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 20:2" class="v">2</span>At
+  the same time spake the <span class="nd">LORD</span> by Isaiah the son of
+  Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy
+  shoe from thy foot. And he did so, walking naked and barefoot. </p>
+id: ISA/20/2
+next:
+  id: ISA/20/3
+  number: '3'
+previous:
+  id: ISA/20/1
+  number: '1'
+reference: 'Isaiah 20:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 2:3" class="v">3</span>And
+  when they wanted wine, the mother of Jesus saith unto him, They have no wine.
+  </p>
+id: JHN/2/3
+next:
+  id: JHN/2/4
+  number: '4'
+previous:
+  id: JHN/2/2
+  number: '2'
+reference: 'John 2:3'

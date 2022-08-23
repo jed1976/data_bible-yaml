@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 1:9" class="v">9</span>For
+  God is my witness, whom I serve with my spirit in the gospel of his Son, that
+  without ceasing I make mention of you always in my prayers; </p>
+id: ROM/1/9
+next:
+  id: ROM/1/10
+  number: '10'
+previous:
+  id: ROM/1/8
+  number: '8'
+reference: 'Romans 1:9'

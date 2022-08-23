@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 1:11" class="v">11</span>To
+  what purpose <span class="add">is</span> the multitude of your sacrifices unto
+  me? saith the <span class="nd">LORD</span>: I am full of the burnt offerings
+  of rams, and the fat of fed beasts; and I delight not in the blood of
+  bullocks, or of lambs, or of he goats. </p>
+id: ISA/1/11
+next:
+  id: ISA/1/12
+  number: '12'
+previous:
+  id: ISA/1/10
+  number: '10'
+reference: 'Isaiah 1:11'

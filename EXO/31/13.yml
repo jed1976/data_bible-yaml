@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 31:13"
+  class="v">13</span>Speak thou also unto the children of Israel, saying, Verily
+  my sabbaths ye shall keep: for it <span class="add">is</span> a sign between
+  me and you throughout your generations; that <span class="add">ye</span> may
+  know that I <span class="add">am</span> the <span class="nd">LORD</span> that
+  doth sanctify you. </p>
+id: EXO/31/13
+next:
+  id: EXO/31/14
+  number: '14'
+previous:
+  id: EXO/31/12
+  number: '12'
+reference: 'Exodus 31:13'

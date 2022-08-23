@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 43:22"
+  class="v">22</span>And other money have we brought down in our hands to buy
+  food: we cannot tell who put our money in our sacks. </p>
+id: GEN/43/22
+next:
+  id: GEN/43/23
+  number: '23'
+previous:
+  id: GEN/43/21
+  number: '21'
+reference: 'Genesis 43:22'

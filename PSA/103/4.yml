@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 103:4" class="v">4</span>Who
+  redeemeth thy life from destruction; who crowneth thee with lovingkindness and
+  tender mercies;</p>
+id: PSA/103/4
+next:
+  id: PSA/103/5
+  number: '5'
+previous:
+  id: PSA/103/3
+  number: '3'
+reference: 'Psalms 103:4'

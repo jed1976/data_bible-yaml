@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 3:3" class="v">3</span>But
+  thou, O <span class="nd">LORD</span>, <span class="add">art</span> a shield
+  for me; my glory, and the lifter up of mine head.</p>
+id: PSA/3/3
+next:
+  id: PSA/3/4
+  number: '4'
+previous:
+  id: PSA/3/2
+  number: '2'
+reference: 'Psalms 3:3'

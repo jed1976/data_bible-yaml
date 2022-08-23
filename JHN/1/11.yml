@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JHN 1:11" class="v">11</span>He
+  came unto his own, and his own received him not. </p>
+id: JHN/1/11
+next:
+  id: JHN/1/12
+  number: '12'
+previous:
+  id: JHN/1/10
+  number: '10'
+reference: 'John 1:11'

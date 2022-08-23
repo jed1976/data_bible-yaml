@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DEU 2:32"
+  class="v">32</span>Then Sihon came out against us, he and all his people, to
+  fight at Jahaz. </p>
+id: DEU/2/32
+next:
+  id: DEU/2/33
+  number: '33'
+previous:
+  id: DEU/2/31
+  number: '31'
+reference: 'Deuteronomy 2:32'

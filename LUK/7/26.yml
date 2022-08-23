@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 7:26"
+  class="v">26</span><span class="wj">But what went ye out for to see? A
+  prophet? Yea, I say unto you, and much more than a prophet.</span> </p>
+id: LUK/7/26
+next:
+  id: LUK/7/27
+  number: '27'
+previous:
+  id: LUK/7/25
+  number: '25'
+reference: 'Luke 7:26'

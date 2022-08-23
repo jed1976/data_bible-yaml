@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="HEB 9:24" class="v">24</span>For
+  Christ is not entered into the holy places made with hands, <span
+  class="add">which are</span> the figures of the true; but into heaven itself,
+  now to appear in the presence of God for us: </p>
+id: HEB/9/24
+next:
+  id: HEB/9/25
+  number: '25'
+previous:
+  id: HEB/9/23
+  number: '23'
+reference: 'Hebrews 9:24'

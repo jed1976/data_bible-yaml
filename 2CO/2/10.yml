@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CO 2:10" class="v">10</span>To
+  whom ye forgive any thing, I <span class="add">forgive</span> also: for if I
+  forgave any thing, to whom I forgave <span class="add">it</span>, for your
+  sakes <span class="add">forgave I it</span> in the person of Christ; </p>
+id: 2CO/2/10
+next:
+  id: 2CO/2/11
+  number: '11'
+previous:
+  id: 2CO/2/9
+  number: '9'
+reference: '2 Corinthians 2:10'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 11:3" class="v">3</span><span
+  class="add">And to</span> the Canaanite on the east and on the west, and <span
+  class="add">to</span> the Amorite, and the Hittite, and the Perizzite, and the
+  Jebusite in the mountains, and <span class="add">to</span> the Hivite under
+  Hermon in the land of Mizpeh. </p>
+id: JOS/11/3
+next:
+  id: JOS/11/4
+  number: '4'
+previous:
+  id: JOS/11/2
+  number: '2'
+reference: 'Joshua 11:3'

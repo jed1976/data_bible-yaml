@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 15:25"
+  class="v">25</span>And Hazor, Hadattah, and Kerioth, <span
+  class="add">and</span> Hezron, which <span class="add">is</span> Hazor, </p>
+id: JOS/15/25
+next:
+  id: JOS/15/26
+  number: '26'
+previous:
+  id: JOS/15/24
+  number: '24'
+reference: 'Joshua 15:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 22:9" class="v">9</span>And
+  they that were with me saw indeed the light, and were afraid; but they heard
+  not the voice of him that spake to me. </p>
+id: ACT/22/9
+next:
+  id: ACT/22/10
+  number: '10'
+previous:
+  id: ACT/22/8
+  number: '8'
+reference: 'Acts 22:9'

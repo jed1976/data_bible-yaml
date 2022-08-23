@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 4:5" class="v">5</span>I saw
+  a dream which made me afraid, and the thoughts upon my bed and the visions of
+  my head troubled me. </p>
+id: DAN/4/5
+next:
+  id: DAN/4/6
+  number: '6'
+previous:
+  id: DAN/4/4
+  number: '4'
+reference: 'Daniel 4:5'

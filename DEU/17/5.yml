@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 17:5" class="v">5</span>Then
+  shalt thou bring forth that man or that woman, which have committed that
+  wicked thing, unto thy gates, <span class="add">even</span> that man or that
+  woman, and shalt stone them with stones, till they die. </p>
+id: DEU/17/5
+next:
+  id: DEU/17/6
+  number: '6'
+previous:
+  id: DEU/17/4
+  number: '4'
+reference: 'Deuteronomy 17:5'

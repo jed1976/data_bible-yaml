@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 7:15" class="v">15</span>He
+  made a pit, and digged it, and is fallen into the ditch <span
+  class="add">which</span> he made.</p>
+id: PSA/7/15
+next:
+  id: PSA/7/16
+  number: '16'
+previous:
+  id: PSA/7/14
+  number: '14'
+reference: 'Psalms 7:15'

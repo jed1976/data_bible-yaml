@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 13:16"
+  class="v">16</span>Then Paul stood up, and beckoning with <span
+  class="add">his</span> hand said, Men of Israel, and ye that fear God, give
+  audience. </p>
+id: ACT/13/16
+next:
+  id: ACT/13/17
+  number: '17'
+previous:
+  id: ACT/13/15
+  number: '15'
+reference: 'Acts 13:16'

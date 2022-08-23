@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 15:29"
+  class="v">29</span>That ye abstain from meats offered to idols, and from
+  blood, and from things strangled, and from fornication: from which if ye keep
+  yourselves, ye shall do well. Fare ye well. </p>
+id: ACT/15/29
+next:
+  id: ACT/15/30
+  number: '30'
+previous:
+  id: ACT/15/28
+  number: '28'
+reference: 'Acts 15:29'

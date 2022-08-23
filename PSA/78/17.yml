@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 78:17"
+  class="v">17</span>And they sinned yet more against him by provoking the most
+  High in the wilderness.</p>
+id: PSA/78/17
+next:
+  id: PSA/78/18
+  number: '18'
+previous:
+  id: PSA/78/16
+  number: '16'
+reference: 'Psalms 78:17'

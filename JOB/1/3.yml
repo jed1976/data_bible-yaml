@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 1:3" class="v">3</span>His
+  substance also was seven thousand sheep, and three thousand camels, and five
+  hundred yoke of oxen, and five hundred she asses, and a very great household;
+  so that this man was the greatest of all the men of the east.</p>
+id: JOB/1/3
+next:
+  id: JOB/1/4
+  number: '4'
+previous:
+  id: JOB/1/2
+  number: '2'
+reference: 'Job 1:3'

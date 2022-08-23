@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1SA 25:11"
+  class="v">11</span>Shall I then take my bread, and my water, and my flesh that
+  I have killed for my shearers, and give <span class="add">it</span> unto men,
+  whom I know not whence they <span class="add">be</span>?</p>
+id: 1SA/25/11
+next:
+  id: 1SA/25/12
+  number: '12'
+previous:
+  id: 1SA/25/10
+  number: '10'
+reference: '1 Samuel 25:11'

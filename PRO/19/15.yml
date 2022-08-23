@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 19:15"
+  class="v">15</span>Slothfulness casteth into a deep sleep; and an idle soul
+  shall suffer hunger. </p>
+id: PRO/19/15
+next:
+  id: PRO/19/16
+  number: '16'
+previous:
+  id: PRO/19/14
+  number: '14'
+reference: 'Proverbs 19:15'

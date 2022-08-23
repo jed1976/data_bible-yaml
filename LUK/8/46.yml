@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="LUK 8:46" class="v">46</span>And
+  Jesus said, <span class="wj">Somebody hath touched me: for I perceive that
+  virtue is gone out of me.</span> </p>
+id: LUK/8/46
+next:
+  id: LUK/8/47
+  number: '47'
+previous:
+  id: LUK/8/45
+  number: '45'
+reference: 'Luke 8:46'

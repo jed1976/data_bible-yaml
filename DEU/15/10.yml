@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 15:10"
+  class="v">10</span>Thou shalt surely give him, and thine heart shall not be
+  grieved when thou givest unto him: because that for this thing the <span
+  class="nd">LORD</span> thy God shall bless thee in all thy works, and in all
+  that thou puttest thine hand unto. </p>
+id: DEU/15/10
+next:
+  id: DEU/15/11
+  number: '11'
+previous:
+  id: DEU/15/9
+  number: '9'
+reference: 'Deuteronomy 15:10'

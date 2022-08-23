@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 41:8" class="v">8</span>An
+  evil disease, <span class="add">say they</span>, cleaveth fast unto him: and
+  <span class="add">now</span> that he lieth he shall rise up no more.</p>
+id: PSA/41/8
+next:
+  id: PSA/41/9
+  number: '9'
+previous:
+  id: PSA/41/7
+  number: '7'
+reference: 'Psalms 41:8'

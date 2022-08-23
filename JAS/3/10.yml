@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JAS 3:10" class="v">10</span>Out
+  of the same mouth proceedeth blessing and cursing. My brethren, these things
+  ought not so to be. </p>
+id: JAS/3/10
+next:
+  id: JAS/3/11
+  number: '11'
+previous:
+  id: JAS/3/9
+  number: '9'
+reference: 'James 3:10'

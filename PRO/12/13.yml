@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="PRO 12:13"
+  class="v">13</span>The wicked is snared by the transgression of <span
+  class="add">his</span> lips: but the just shall come out of trouble. </p>
+id: PRO/12/13
+next:
+  id: PRO/12/14
+  number: '14'
+previous:
+  id: PRO/12/12
+  number: '12'
+reference: 'Proverbs 12:13'

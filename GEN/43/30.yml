@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 43:30"
+  class="v">30</span>And Joseph made haste; for his bowels did yearn upon his
+  brother: and he sought <span class="add">where</span> to weep; and he entered
+  into <span class="add">his</span> chamber, and wept there. </p>
+id: GEN/43/30
+next:
+  id: GEN/43/31
+  number: '31'
+previous:
+  id: GEN/43/29
+  number: '29'
+reference: 'Genesis 43:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 22:17"
+  class="v">17</span>And it came to pass, that, when I was come again to
+  Jerusalem, even while I prayed in the temple, I was in a trance; </p>
+id: ACT/22/17
+next:
+  id: ACT/22/18
+  number: '18'
+previous:
+  id: ACT/22/16
+  number: '16'
+reference: 'Acts 22:17'

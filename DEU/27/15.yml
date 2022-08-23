@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 27:15"
+  class="v">15</span>Cursed <span class="add">be</span> the man that maketh
+  <span class="add">any</span> graven or molten image, an abomination unto the
+  <span class="nd">LORD</span>, the work of the hands of the craftsman, and
+  putteth <span class="add">it</span> in <span class="add">a</span> secret <span
+  class="add">place</span>. And all the people shall answer and say, Amen. </p>
+id: DEU/27/15
+next:
+  id: DEU/27/16
+  number: '16'
+previous:
+  id: DEU/27/14
+  number: '14'
+reference: 'Deuteronomy 27:15'

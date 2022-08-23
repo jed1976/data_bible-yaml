@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 42:22"
+  class="v">22</span>And Reuben answered them, saying, Spake I not unto you,
+  saying, Do not sin against the child; and ye would not hear? therefore,
+  behold, also his blood is required. </p>
+id: GEN/42/22
+next:
+  id: GEN/42/23
+  number: '23'
+previous:
+  id: GEN/42/21
+  number: '21'
+reference: 'Genesis 42:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 7:4" class="v">4</span>The
+  wife hath not power of her own body, but the husband: and likewise also the
+  husband hath not power of his own body, but the wife. </p>
+id: 1CO/7/4
+next:
+  id: 1CO/7/5
+  number: '5'
+previous:
+  id: 1CO/7/3
+  number: '3'
+reference: '1 Corinthians 7:4'

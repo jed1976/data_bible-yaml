@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 28:13"
+  class="v">13</span>And from thence we fetched a compass, and came to Rhegium:
+  and after one day the south wind blew, and we came the next day to Puteoli:
+  </p>
+id: ACT/28/13
+next:
+  id: ACT/28/14
+  number: '14'
+previous:
+  id: ACT/28/12
+  number: '12'
+reference: 'Acts 28:13'

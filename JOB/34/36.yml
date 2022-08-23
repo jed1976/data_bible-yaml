@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JOB 34:36" class="v">36</span>My
+  desire <span class="add">is that</span> Job may be tried unto the end because
+  of <span class="add">his</span> answers for wicked men. </p>
+id: JOB/34/36
+next:
+  id: JOB/34/37
+  number: '37'
+previous:
+  id: JOB/34/35
+  number: '35'
+reference: 'Job 34:36'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JUD 1:25" class="v">25</span>To
+  the only wise God our Saviour, <span class="add">be</span> glory and majesty,
+  dominion and power, both now and ever. Amen.</p>
+id: JUD/1/25
+next:
+  id: REV/intro/0
+  number: '0'
+previous:
+  id: JUD/1/24
+  number: '24'
+reference: 'Jude 1:25'

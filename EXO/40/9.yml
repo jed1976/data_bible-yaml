@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 40:9" class="v">9</span>And
+  thou shalt take the anointing oil, and anoint the tabernacle, and all that
+  <span class="add">is</span> therein, and shalt hallow it, and all the vessels
+  thereof: and it shall be holy. </p>
+id: EXO/40/9
+next:
+  id: EXO/40/10
+  number: '10'
+previous:
+  id: EXO/40/8
+  number: '8'
+reference: 'Exodus 40:9'

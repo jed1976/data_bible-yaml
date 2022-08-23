@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 3:25" class="v">25</span>And
+  the king said, Divide the living child in two, and give half to the one, and
+  half to the other. </p>
+id: 1KI/3/25
+next:
+  id: 1KI/3/26
+  number: '26'
+previous:
+  id: 1KI/3/24
+  number: '24'
+reference: '1 Kings 3:25'

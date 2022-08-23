@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 71:10"
+  class="v">10</span>For mine enemies speak against me; and they that lay wait
+  for my soul take counsel together,</p>
+id: PSA/71/10
+next:
+  id: PSA/71/11
+  number: '11'
+previous:
+  id: PSA/71/9
+  number: '9'
+reference: 'Psalms 71:10'

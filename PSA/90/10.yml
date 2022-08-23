@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 90:10"
+  class="v">10</span>The days of our years <span class="add">are</span>
+  threescore years and ten; and if by reason of strength <span class="add">they
+  be</span> fourscore years, yet <span class="add">is</span> their strength
+  labour and sorrow; for it is soon cut off, and we fly away.</p>
+id: PSA/90/10
+next:
+  id: PSA/90/11
+  number: '11'
+previous:
+  id: PSA/90/9
+  number: '9'
+reference: 'Psalms 90:10'

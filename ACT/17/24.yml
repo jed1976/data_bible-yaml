@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 17:24"
+  class="v">24</span>God that made the world and all things therein, seeing that
+  he is Lord of heaven and earth, dwelleth not in temples made with hands; </p>
+id: ACT/17/24
+next:
+  id: ACT/17/25
+  number: '25'
+previous:
+  id: ACT/17/23
+  number: '23'
+reference: 'Acts 17:24'

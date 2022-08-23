@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="MAT 13:51"
+  class="v">51</span>Jesus saith unto them, <span class="wj">Have ye understood
+  all these things?</span> They say unto him, Yea, Lord. </p>
+id: MAT/13/51
+next:
+  id: MAT/13/52
+  number: '52'
+previous:
+  id: MAT/13/50
+  number: '50'
+reference: 'Matthew 13:51'

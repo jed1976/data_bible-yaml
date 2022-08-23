@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Song of degrees of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 133:1" class="v">1</span>Behold, how good and
+  how pleasant <span class="add">it is</span> for brethren to dwell together in
+  unity!</p>
+id: PSA/133/1
+next:
+  id: PSA/133/2
+  number: '2'
+previous:
+  id: PSA/132/18
+  number: '18'
+reference: 'Psalms 133:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZR 10:15" class="v">15</span>¶
+  Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed
+  about this <span class="add">matter:</span> and Meshullam and Shabbethai the
+  Levite helped them. </p>
+id: EZR/10/15
+next:
+  id: EZR/10/16
+  number: '16'
+previous:
+  id: EZR/10/14
+  number: '14'
+reference: 'Ezra 10:15'

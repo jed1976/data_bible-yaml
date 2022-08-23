@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 1:25" class="v">25</span>But
+  ye have set at nought all my counsel, and would none of my reproof: </p>
+id: PRO/1/25
+next:
+  id: PRO/1/26
+  number: '26'
+previous:
+  id: PRO/1/24
+  number: '24'
+reference: 'Proverbs 1:25'

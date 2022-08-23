@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 3:4" class="v">4</span>And
+  the two kidneys, and the fat that <span class="add">is</span> on them, which
+  <span class="add">is</span> by the flanks, and the caul above the liver, with
+  the kidneys, it shall he take away. </p>
+id: LEV/3/4
+next:
+  id: LEV/3/5
+  number: '5'
+previous:
+  id: LEV/3/3
+  number: '3'
+reference: 'Leviticus 3:4'

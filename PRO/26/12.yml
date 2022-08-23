@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 26:12"
+  class="v">12</span>Seest thou a man wise in his own conceit? <span
+  class="add">there is</span> more hope of a fool than of him. </p>
+id: PRO/26/12
+next:
+  id: PRO/26/13
+  number: '13'
+previous:
+  id: PRO/26/11
+  number: '11'
+reference: 'Proverbs 26:12'

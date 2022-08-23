@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 33:9" class="v">9</span>Who
+  said unto his father and to his mother, I have not seen him; neither did he
+  acknowledge his brethren, nor knew his own children: for they have observed
+  thy word, and kept thy covenant. </p>
+id: DEU/33/9
+next:
+  id: DEU/33/10
+  number: '10'
+previous:
+  id: DEU/33/8
+  number: '8'
+reference: 'Deuteronomy 33:9'

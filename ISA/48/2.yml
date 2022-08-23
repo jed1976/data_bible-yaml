@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 48:2" class="v">2</span>For
+  they call themselves of the holy city, and stay themselves upon the God of
+  Israel; The <span class="nd">LORD</span> of hosts <span class="add">is</span>
+  his name. </p>
+id: ISA/48/2
+next:
+  id: ISA/48/3
+  number: '3'
+previous:
+  id: ISA/48/1
+  number: '1'
+reference: 'Isaiah 48:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 18:29"
+  class="v">29</span>Pilate then went out unto them, and said, What accusation
+  bring ye against this man? </p>
+id: JHN/18/29
+next:
+  id: JHN/18/30
+  number: '30'
+previous:
+  id: JHN/18/28
+  number: '28'
+reference: 'John 18:29'

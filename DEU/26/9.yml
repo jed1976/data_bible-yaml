@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 26:9" class="v">9</span>And
+  he hath brought us into this place, and hath given us this land, <span
+  class="add">even</span> a land that floweth with milk and honey. </p>
+id: DEU/26/9
+next:
+  id: DEU/26/10
+  number: '10'
+previous:
+  id: DEU/26/8
+  number: '8'
+reference: 'Deuteronomy 26:9'

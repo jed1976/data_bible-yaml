@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 32:34"
+  class="v">34</span>Therefore now go, lead the people unto <span
+  class="add">the place</span> of which I have spoken unto thee: behold, mine
+  Angel shall go before thee: nevertheless in the day when I visit I will visit
+  their sin upon them. </p>
+id: EXO/32/34
+next:
+  id: EXO/32/35
+  number: '35'
+previous:
+  id: EXO/32/33
+  number: '33'
+reference: 'Exodus 32:34'

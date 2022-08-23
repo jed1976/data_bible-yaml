@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 37:30"
+  class="v">30</span>And he returned unto his brethren, and said, The child
+  <span class="add">is</span> not; and I, whither shall I go?</p>
+id: GEN/37/30
+next:
+  id: GEN/37/31
+  number: '31'
+previous:
+  id: GEN/37/29
+  number: '29'
+reference: 'Genesis 37:30'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 2:2" class="v">2</span>And it
+  shall come to pass in the last days, <span class="add">that</span> the
+  mountain of the <span class="nd">LORD’s</span> house shall be established in
+  the top of the mountains, and shall be exalted above the hills; and all
+  nations shall flow unto it. </p>
+id: ISA/2/2
+next:
+  id: ISA/2/3
+  number: '3'
+previous:
+  id: ISA/2/1
+  number: '1'
+reference: 'Isaiah 2:2'

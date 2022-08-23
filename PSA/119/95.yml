@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="95" data-sid="PSA 119:95"
+  class="v">95</span>The wicked have waited for me to destroy me: <span
+  class="add">but</span> I will consider thy testimonies.</p>
+id: PSA/119/95
+next:
+  id: PSA/119/96
+  number: '96'
+previous:
+  id: PSA/119/94
+  number: '94'
+reference: 'Psalms 119:95'

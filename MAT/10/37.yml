@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 10:37"
+  class="v">37</span><span class="wj">He that loveth father or mother more than
+  me is not worthy of me: and he that loveth son or daughter more than me is not
+  worthy of me.</span> </p>
+id: MAT/10/37
+next:
+  id: MAT/10/38
+  number: '38'
+previous:
+  id: MAT/10/36
+  number: '36'
+reference: 'Matthew 10:37'

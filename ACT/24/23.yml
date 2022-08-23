@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 24:23"
+  class="v">23</span>And he commanded a centurion to keep Paul, and to let <span
+  class="add">him</span> have liberty, and that he should forbid none of his
+  acquaintance to minister or come unto him.</p>
+id: ACT/24/23
+next:
+  id: ACT/24/24
+  number: '24'
+previous:
+  id: ACT/24/22
+  number: '22'
+reference: 'Acts 24:23'

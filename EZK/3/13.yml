@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 3:13"
+  class="v">13</span><span class="add">I heard</span> also the noise of the
+  wings of the living creatures that touched one another, and the noise of the
+  wheels over against them, and a noise of a great rushing. </p>
+id: EZK/3/13
+next:
+  id: EZK/3/14
+  number: '14'
+previous:
+  id: EZK/3/12
+  number: '12'
+reference: 'Ezekiel 3:13'

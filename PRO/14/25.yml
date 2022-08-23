@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 14:25" class="v">25</span>A
+  true witness delivereth souls: but a deceitful <span
+  class="add">witness</span> speaketh lies.</p>
+id: PRO/14/25
+next:
+  id: PRO/14/26
+  number: '26'
+previous:
+  id: PRO/14/24
+  number: '24'
+reference: 'Proverbs 14:25'

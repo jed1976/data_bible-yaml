@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 8:12" class="v">12</span>And
+  they shall wander from sea to sea, and from the north even to the east, they
+  shall run to and fro to seek the word of the <span class="nd">LORD</span>, and
+  shall not find <span class="add">it</span>. </p>
+id: AMO/8/12
+next:
+  id: AMO/8/13
+  number: '13'
+previous:
+  id: AMO/8/11
+  number: '11'
+reference: 'Amos 8:12'

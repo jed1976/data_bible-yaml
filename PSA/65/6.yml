@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 65:6"
+  class="v">6</span>Which by his strength setteth fast the mountains; <span
+  class="add">being</span> girded with power:</p>
+id: PSA/65/6
+next:
+  id: PSA/65/7
+  number: '7'
+previous:
+  id: PSA/65/5
+  number: '5'
+reference: 'Psalms 65:6'

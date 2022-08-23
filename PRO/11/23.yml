@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 11:23"
+  class="v">23</span>The desire of the righteous <span class="add">is</span>
+  only good: <span class="add">but</span> the expectation of the wicked <span
+  class="add">is</span> wrath. </p>
+id: PRO/11/23
+next:
+  id: PRO/11/24
+  number: '24'
+previous:
+  id: PRO/11/22
+  number: '22'
+reference: 'Proverbs 11:23'

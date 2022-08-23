@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 42:15"
+  class="v">15</span>Hereby ye shall be proved: By the life of Pharaoh ye shall
+  not go forth hence, except your youngest brother come hither. </p>
+id: GEN/42/15
+next:
+  id: GEN/42/16
+  number: '16'
+previous:
+  id: GEN/42/14
+  number: '14'
+reference: 'Genesis 42:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 6:16" class="v">16</span>But
+  when Herod heard <span class="add">thereof</span>, he said, It is John, whom I
+  beheaded: he is risen from the dead. </p>
+id: MRK/6/16
+next:
+  id: MRK/6/17
+  number: '17'
+previous:
+  id: MRK/6/15
+  number: '15'
+reference: 'Mark 6:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 16:4" class="v">4</span><span
+  class="wj">But these things have I told you, that when the time shall come, ye
+  may remember that I told you of them. And these things I said not unto you at
+  the beginning, because I was with you.</span> </p>
+id: JHN/16/4
+next:
+  id: JHN/16/5
+  number: '5'
+previous:
+  id: JHN/16/3
+  number: '3'
+reference: 'John 16:4'

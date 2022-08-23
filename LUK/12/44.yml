@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 12:44"
+  class="v">44</span><span class="wj">Of a truth I say unto you, that he will
+  make him ruler over all that he hath.</span> </p>
+id: LUK/12/44
+next:
+  id: LUK/12/45
+  number: '45'
+previous:
+  id: LUK/12/43
+  number: '43'
+reference: 'Luke 12:44'

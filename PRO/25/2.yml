@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="PRO 25:2" class="v">2</span><span
+  class="add">It is</span> the glory of God to conceal a thing: but the honour
+  of kings <span class="add">is</span> to search out a matter. </p>
+id: PRO/25/2
+next:
+  id: PRO/25/3
+  number: '3'
+previous:
+  id: PRO/25/1
+  number: '1'
+reference: 'Proverbs 25:2'

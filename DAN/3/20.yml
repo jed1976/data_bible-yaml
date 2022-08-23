@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 3:20" class="v">20</span>And
+  he commanded the most mighty men that <span class="add">were</span> in his
+  army to bind Shadrach, Meshach, and Abed-nego, <span class="add">and</span> to
+  cast <span class="add">them</span> into the burning fiery furnace. </p>
+id: DAN/3/20
+next:
+  id: DAN/3/21
+  number: '21'
+previous:
+  id: DAN/3/19
+  number: '19'
+reference: 'Daniel 3:20'

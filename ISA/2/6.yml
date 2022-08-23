@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 2:6" class="v">6</span>¶
+  Therefore thou hast forsaken thy people the house of Jacob, because they be
+  replenished from the east, and <span class="add">are</span> soothsayers like
+  the Philistines, and they please themselves in the children of strangers. </p>
+id: ISA/2/6
+next:
+  id: ISA/2/7
+  number: '7'
+previous:
+  id: ISA/2/5
+  number: '5'
+reference: 'Isaiah 2:6'

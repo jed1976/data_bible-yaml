@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 40:22"
+  class="v">22</span><span class="add">It is</span> he that sitteth upon the
+  circle of the earth, and the inhabitants thereof <span class="add">are</span>
+  as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth
+  them out as a tent to dwell in: </p>
+id: ISA/40/22
+next:
+  id: ISA/40/23
+  number: '23'
+previous:
+  id: ISA/40/21
+  number: '21'
+reference: 'Isaiah 40:22'

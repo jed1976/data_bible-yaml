@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 86:4"
+  class="v">4</span>Rejoice the soul of thy servant: for unto thee, O Lord, do I
+  lift up my soul.</p>
+id: PSA/86/4
+next:
+  id: PSA/86/5
+  number: '5'
+previous:
+  id: PSA/86/3
+  number: '3'
+reference: 'Psalms 86:4'

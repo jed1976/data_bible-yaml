@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CH 17:12" class="v">12</span>He
+  shall build me an house, and I will stablish his throne for ever. </p>
+id: 1CH/17/12
+next:
+  id: 1CH/17/13
+  number: '13'
+previous:
+  id: 1CH/17/11
+  number: '11'
+reference: '1 Chronicles 17:12'

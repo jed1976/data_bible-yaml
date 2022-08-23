@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 15:13"
+  class="v">13</span>And when he that hath an issue is cleansed of his issue;
+  then he shall number to himself seven days for his cleansing, and wash his
+  clothes, and bathe his flesh in running water, and shall be clean. </p>
+id: LEV/15/13
+next:
+  id: LEV/15/14
+  number: '14'
+previous:
+  id: LEV/15/12
+  number: '12'
+reference: 'Leviticus 15:13'

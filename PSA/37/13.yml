@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 37:13"
+  class="v">13</span>The Lord shall laugh at him: for he seeth that his day is
+  coming.</p>
+id: PSA/37/13
+next:
+  id: PSA/37/14
+  number: '14'
+previous:
+  id: PSA/37/12
+  number: '12'
+reference: 'Psalms 37:13'

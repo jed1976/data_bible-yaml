@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 1:9" class="v">9</span>The
+  thing that hath been, it <span class="add">is that</span> which shall be; and
+  that which is done <span class="add">is</span> that which shall be done: and
+  <span class="add">there is</span> no new <span class="add">thing</span> under
+  the sun. </p>
+id: ECC/1/9
+next:
+  id: ECC/1/10
+  number: '10'
+previous:
+  id: ECC/1/8
+  number: '8'
+reference: 'Ecclesiastes 1:9'

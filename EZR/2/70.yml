@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="70" data-sid="EZR 2:70" class="v">70</span>So
+  the priests, and the Levites, and <span class="add">some</span> of the people,
+  and the singers, and the porters, and the Nethinims, dwelt in their cities,
+  and all Israel in their cities.</p>
+id: EZR/2/70
+next:
+  id: EZR/3/1
+  number: '1'
+previous:
+  id: EZR/2/69
+  number: '69'
+reference: 'Ezra 2:70'

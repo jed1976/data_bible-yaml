@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 105:20"
+  class="v">20</span>The king sent and loosed him; <span class="add">even</span>
+  the ruler of the people, and let him go free.</p>
+id: PSA/105/20
+next:
+  id: PSA/105/21
+  number: '21'
+previous:
+  id: PSA/105/19
+  number: '19'
+reference: 'Psalms 105:20'

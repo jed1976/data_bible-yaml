@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 3:6" class="v">6</span>In all
+  thy ways acknowledge him, and he shall direct thy paths.</p>
+id: PRO/3/6
+next:
+  id: PRO/3/7
+  number: '7'
+previous:
+  id: PRO/3/5
+  number: '5'
+reference: 'Proverbs 3:6'

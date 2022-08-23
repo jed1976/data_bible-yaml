@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 17:18"
+  class="v">18</span>And Jesus rebuked the devil; and he departed out of him:
+  and the child was cured from that very hour. </p>
+id: MAT/17/18
+next:
+  id: MAT/17/19
+  number: '19'
+previous:
+  id: MAT/17/17
+  number: '17'
+reference: 'Matthew 17:18'

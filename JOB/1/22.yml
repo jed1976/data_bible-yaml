@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 1:22" class="v">22</span>In
+  all this Job sinned not, nor charged God foolishly.</p>
+id: JOB/1/22
+next:
+  id: JOB/2/1
+  number: '1'
+previous:
+  id: JOB/1/21
+  number: '21'
+reference: 'Job 1:22'

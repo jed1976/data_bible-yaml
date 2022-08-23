@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="DEU 4:48"
+  class="v">48</span>From Aroer, which <span class="add">is</span> by the bank
+  of the river Arnon, even unto mount Sion, which <span class="add">is</span>
+  Hermon, </p>
+id: DEU/4/48
+next:
+  id: DEU/4/49
+  number: '49'
+previous:
+  id: DEU/4/47
+  number: '47'
+reference: 'Deuteronomy 4:48'

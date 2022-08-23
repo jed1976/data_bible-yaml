@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 18:35" class="v">35</span>¶
+  And it came to pass, that as he was come nigh unto Jericho, a certain blind
+  man sat by the way side begging: </p>
+id: LUK/18/35
+next:
+  id: LUK/18/36
+  number: '36'
+previous:
+  id: LUK/18/34
+  number: '34'
+reference: 'Luke 18:35'

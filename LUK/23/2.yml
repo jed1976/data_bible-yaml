@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LUK 23:2" class="v">2</span>And
+  they began to accuse him, saying, We found this <span
+  class="add">fellow</span> perverting the nation, and forbidding to give
+  tribute to Cæsar, saying that he himself is Christ a King. </p>
+id: LUK/23/2
+next:
+  id: LUK/23/3
+  number: '3'
+previous:
+  id: LUK/23/1
+  number: '1'
+reference: 'Luke 23:2'

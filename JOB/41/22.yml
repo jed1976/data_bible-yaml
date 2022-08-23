@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 41:22" class="v">22</span>In
+  his neck remaineth strength, and sorrow is turned into joy before him. </p>
+id: JOB/41/22
+next:
+  id: JOB/41/23
+  number: '23'
+previous:
+  id: JOB/41/21
+  number: '21'
+reference: 'Job 41:22'

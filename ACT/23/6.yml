@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 23:6" class="v">6</span>But
+  when Paul perceived that the one part were Sadducees, and the other Pharisees,
+  he cried out in the council, Men <span class="add">and</span> brethren, I am a
+  Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am
+  called in question. </p>
+id: ACT/23/6
+next:
+  id: ACT/23/7
+  number: '7'
+previous:
+  id: ACT/23/5
+  number: '5'
+reference: 'Acts 23:6'

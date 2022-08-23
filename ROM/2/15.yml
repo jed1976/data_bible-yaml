@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 2:15"
+  class="v">15</span>Which shew the work of the law written in their hearts,
+  their conscience also bearing witness, and <span class="add">their</span>
+  thoughts the mean while accusing or else excusing one another;) </p>
+id: ROM/2/15
+next:
+  id: ROM/2/16
+  number: '16'
+previous:
+  id: ROM/2/14
+  number: '14'
+reference: 'Romans 2:15'

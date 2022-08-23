@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 9:21" class="v">21</span>For
+  she said within herself, If I may but touch his garment, I shall be whole.
+  </p>
+id: MAT/9/21
+next:
+  id: MAT/9/22
+  number: '22'
+previous:
+  id: MAT/9/20
+  number: '20'
+reference: 'Matthew 9:21'

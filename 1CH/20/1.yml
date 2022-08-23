@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 20:1" class="v">1</span>And
+  it came to pass, that after the year was expired, at the time that kings go
+  out <span class="add">to battle</span>, Joab led forth the power of the army,
+  and wasted the country of the children of Ammon, and came and besieged Rabbah.
+  But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it. </p>
+id: 1CH/20/1
+next:
+  id: 1CH/20/2
+  number: '2'
+previous:
+  id: 1CH/19/19
+  number: '19'
+reference: '1 Chronicles 20:1'

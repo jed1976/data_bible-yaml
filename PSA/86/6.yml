@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 86:6" class="v">6</span>Give
+  ear, O <span class="nd">LORD</span>, unto my prayer; and attend to the voice
+  of my supplications.</p>
+id: PSA/86/6
+next:
+  id: PSA/86/7
+  number: '7'
+previous:
+  id: PSA/86/5
+  number: '5'
+reference: 'Psalms 86:6'

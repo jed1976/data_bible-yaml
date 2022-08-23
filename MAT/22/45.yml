@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="MAT 22:45"
+  class="v">45</span><span class="wj">If David then call him Lord, how is he his
+  son?</span> </p>
+id: MAT/22/45
+next:
+  id: MAT/22/46
+  number: '46'
+previous:
+  id: MAT/22/44
+  number: '44'
+reference: 'Matthew 22:45'

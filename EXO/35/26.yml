@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 35:26"
+  class="v">26</span>And all the women whose heart stirred them up in wisdom
+  spun goats’ <span class="add">hair</span>. </p>
+id: EXO/35/26
+next:
+  id: EXO/35/27
+  number: '27'
+previous:
+  id: EXO/35/25
+  number: '25'
+reference: 'Exodus 35:26'

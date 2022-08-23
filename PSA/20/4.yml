@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 20:4"
+  class="v">4</span>Grant thee according to thine own heart, and fulfil all thy
+  counsel.</p>
+id: PSA/20/4
+next:
+  id: PSA/20/5
+  number: '5'
+previous:
+  id: PSA/20/3
+  number: '3'
+reference: 'Psalms 20:4'

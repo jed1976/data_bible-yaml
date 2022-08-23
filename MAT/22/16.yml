@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 22:16"
+  class="v">16</span>And they sent out unto him their disciples with the
+  Herodians, saying, Master, we know that thou art true, and teachest the way of
+  God in truth, neither carest thou for any <span class="add">man</span>: for
+  thou regardest not the person of men. </p>
+id: MAT/22/16
+next:
+  id: MAT/22/17
+  number: '17'
+previous:
+  id: MAT/22/15
+  number: '15'
+reference: 'Matthew 22:16'

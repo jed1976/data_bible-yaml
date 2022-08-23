@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 2:4" class="v">4</span>¶
+  These <span class="add">are</span> the generations of the heavens and of the
+  earth when they were created, in the day that the <span class="nd">LORD</span>
+  God made the earth and the heavens, </p>
+id: GEN/2/4
+next:
+  id: GEN/2/5
+  number: '5'
+previous:
+  id: GEN/2/3
+  number: '3'
+reference: 'Genesis 2:4'

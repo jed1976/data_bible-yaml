@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician upon Gittith, A Psalm for the sons of
+  Korah.</p><p class="q1"><span data-number="1" data-sid="PSA 84:1"
+  class="v">1</span>How amiable <span class="add">are</span> thy tabernacles, O
+  <span class="nd">LORD</span> of hosts!</p>
+id: PSA/84/1
+next:
+  id: PSA/84/2
+  number: '2'
+previous:
+  id: PSA/83/18
+  number: '18'
+reference: 'Psalms 84:1'

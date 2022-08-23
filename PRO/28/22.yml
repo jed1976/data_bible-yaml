@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 28:22" class="v">22</span>He
+  that hasteth to be rich <span class="add">hath</span> an evil eye, and
+  considereth not that poverty shall come upon him. </p>
+id: PRO/28/22
+next:
+  id: PRO/28/23
+  number: '23'
+previous:
+  id: PRO/28/21
+  number: '21'
+reference: 'Proverbs 28:22'

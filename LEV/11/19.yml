@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="LEV 11:19"
+  class="v">19</span>And the stork, the heron after her kind, and the lapwing,
+  and the bat.</p>
+id: LEV/11/19
+next:
+  id: LEV/11/20
+  number: '20'
+previous:
+  id: LEV/11/18
+  number: '18'
+reference: 'Leviticus 11:19'

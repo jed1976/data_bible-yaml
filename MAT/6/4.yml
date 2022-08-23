@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 6:4" class="v">4</span><span
+  class="wj">That thine alms may be in secret: and thy Father which seeth in
+  secret himself shall reward thee openly.</span></p>
+id: MAT/6/4
+next:
+  id: MAT/6/5
+  number: '5'
+previous:
+  id: MAT/6/3
+  number: '3'
+reference: 'Matthew 6:4'

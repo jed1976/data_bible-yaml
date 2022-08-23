@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZR 1:5" class="v">5</span>¶ Then
+  rose up the chief of the fathers of Judah and Benjamin, and the priests, and
+  the Levites, with all <span class="add">them</span> whose spirit God had
+  raised, to go up to build the house of the <span class="nd">LORD</span> which
+  <span class="add">is</span> in Jerusalem. </p>
+id: EZR/1/5
+next:
+  id: EZR/1/6
+  number: '6'
+previous:
+  id: EZR/1/4
+  number: '4'
+reference: 'Ezra 1:5'

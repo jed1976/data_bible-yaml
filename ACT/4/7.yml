@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 4:7" class="v">7</span>And
+  when they had set them in the midst, they asked, By what power, or by what
+  name, have ye done this? </p>
+id: ACT/4/7
+next:
+  id: ACT/4/8
+  number: '8'
+previous:
+  id: ACT/4/6
+  number: '6'
+reference: 'Acts 4:7'

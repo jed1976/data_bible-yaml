@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MAT 6:34"
+  class="v">34</span><span class="wj">Take therefore no thought for the morrow:
+  for the morrow shall take thought for the things of itself. Sufficient unto
+  the day <span class="add">is</span> the evil thereof.</span></p>
+id: MAT/6/34
+next:
+  id: MAT/7/1
+  number: '1'
+previous:
+  id: MAT/6/33
+  number: '33'
+reference: 'Matthew 6:34'

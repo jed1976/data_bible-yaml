@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 3:7" class="v">7</span>Surely
+  the Lord <span class="nd">GOD</span> will do nothing, but he revealeth his
+  secret unto his servants the prophets. </p>
+id: AMO/3/7
+next:
+  id: AMO/3/8
+  number: '8'
+previous:
+  id: AMO/3/6
+  number: '6'
+reference: 'Amos 3:7'

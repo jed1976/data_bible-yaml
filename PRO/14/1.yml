@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 14:1" class="v">1</span>Every
+  wise woman buildeth her house: but the foolish plucketh it down with her
+  hands. </p>
+id: PRO/14/1
+next:
+  id: PRO/14/2
+  number: '2'
+previous:
+  id: PRO/13/25
+  number: '25'
+reference: 'Proverbs 14:1'

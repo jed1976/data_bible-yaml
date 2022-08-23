@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="1CO 15:50"
+  class="v">50</span>Now this I say, brethren, that flesh and blood cannot
+  inherit the kingdom of God; neither doth corruption inherit incorruption. </p>
+id: 1CO/15/50
+next:
+  id: 1CO/15/51
+  number: '51'
+previous:
+  id: 1CO/15/49
+  number: '49'
+reference: '1 Corinthians 15:50'

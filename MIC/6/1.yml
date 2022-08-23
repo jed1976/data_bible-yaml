@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 6:1" class="v">1</span>Hear
+  ye now what the <span class="nd">LORD</span> saith; Arise, contend thou before
+  the mountains, and let the hills hear thy voice. </p>
+id: MIC/6/1
+next:
+  id: MIC/6/2
+  number: '2'
+previous:
+  id: MIC/5/15
+  number: '15'
+reference: 'Micah 6:1'

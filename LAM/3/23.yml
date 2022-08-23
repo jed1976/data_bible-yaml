@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LAM 3:23"
+  class="v">23</span><span class="add">They are</span> new every morning: great
+  <span class="add">is</span> thy faithfulness. </p>
+id: LAM/3/23
+next:
+  id: LAM/3/24
+  number: '24'
+previous:
+  id: LAM/3/22
+  number: '22'
+reference: 'Lamentations 3:23'

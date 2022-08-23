@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 5:6" class="v">6</span>And I
+  said, What <span class="add">is</span> it? And he said, This <span
+  class="add">is</span> an ephah that goeth forth. He said moreover, This <span
+  class="add">is</span> their resemblance through all the earth. </p>
+id: ZEC/5/6
+next:
+  id: ZEC/5/7
+  number: '7'
+previous:
+  id: ZEC/5/5
+  number: '5'
+reference: 'Zechariah 5:6'

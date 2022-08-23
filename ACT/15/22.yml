@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 15:22"
+  class="v">22</span>Then pleased it the apostles and elders, with the whole
+  church, to send chosen men of their own company to Antioch with Paul and
+  Barnabas; <span class="add">namely</span>, Judas surnamed Barsabas, and Silas,
+  chief men among the brethren: </p>
+id: ACT/15/22
+next:
+  id: ACT/15/23
+  number: '23'
+previous:
+  id: ACT/15/21
+  number: '21'
+reference: 'Acts 15:22'

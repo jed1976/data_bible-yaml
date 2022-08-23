@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 1:16" class="v">16</span>¶
+  And the children of the Kenite, Moses’ father in law, went up out of the city
+  of palm trees with the children of Judah into the wilderness of Judah, which
+  <span class="add">lieth</span> in the south of Arad; and they went and dwelt
+  among the people. </p>
+id: JDG/1/16
+next:
+  id: JDG/1/17
+  number: '17'
+previous:
+  id: JDG/1/15
+  number: '15'
+reference: 'Judges 1:16'

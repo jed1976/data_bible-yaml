@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 35:10"
+  class="v">10</span>Speak unto the children of Israel, and say unto them, When
+  ye be come over Jordan into the land of Canaan; </p>
+id: NUM/35/10
+next:
+  id: NUM/35/11
+  number: '11'
+previous:
+  id: NUM/35/9
+  number: '9'
+reference: 'Numbers 35:10'

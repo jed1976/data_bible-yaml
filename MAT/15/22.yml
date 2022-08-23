@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 15:22"
+  class="v">22</span>And, behold, a woman of Canaan came out of the same coasts,
+  and cried unto him, saying, Have mercy on me, O Lord, <span
+  class="add">thou</span> Son of David; my daughter is grievously vexed with a
+  devil. </p>
+id: MAT/15/22
+next:
+  id: MAT/15/23
+  number: '23'
+previous:
+  id: MAT/15/21
+  number: '21'
+reference: 'Matthew 15:22'

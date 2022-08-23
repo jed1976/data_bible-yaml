@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JAS 4:11"
+  class="v">11</span>Speak not evil one of another, brethren. He that speaketh
+  evil of <span class="add">his</span> brother, and judgeth his brother,
+  speaketh evil of the law, and judgeth the law: but if thou judge the law, thou
+  art not a doer of the law, but a judge. </p>
+id: JAS/4/11
+next:
+  id: JAS/4/12
+  number: '12'
+previous:
+  id: JAS/4/10
+  number: '10'
+reference: 'James 4:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 36:3" class="v">3</span>I
+  will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
+  </p>
+id: JOB/36/3
+next:
+  id: JOB/36/4
+  number: '4'
+previous:
+  id: JOB/36/2
+  number: '2'
+reference: 'Job 36:3'

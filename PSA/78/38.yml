@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="38" data-sid="PSA 78:38"
+  class="v">38</span>But he, <span class="add">being</span> full of compassion,
+  forgave <span class="add">their</span> iniquity, and destroyed <span
+  class="add">them</span> not: yea, many a time turned he his anger away, and
+  did not stir up all his wrath.</p>
+id: PSA/78/38
+next:
+  id: PSA/78/39
+  number: '39'
+previous:
+  id: PSA/78/37
+  number: '37'
+reference: 'Psalms 78:38'

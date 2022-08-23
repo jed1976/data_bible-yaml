@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 20:30" class="v">30</span>¶
+  And, behold, two blind men sitting by the way side, when they heard that Jesus
+  passed by, cried out, saying, Have mercy on us, O Lord, <span
+  class="add">thou</span> Son of David. </p>
+id: MAT/20/30
+next:
+  id: MAT/20/31
+  number: '31'
+previous:
+  id: MAT/20/29
+  number: '29'
+reference: 'Matthew 20:30'

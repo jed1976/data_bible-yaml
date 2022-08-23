@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 3:3" class="v">3</span><span
+  class="add">Namely</span>, five lords of the Philistines, and all the
+  Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon,
+  from mount Baal-hermon unto the entering in of Hamath. </p>
+id: JDG/3/3
+next:
+  id: JDG/3/4
+  number: '4'
+previous:
+  id: JDG/3/2
+  number: '2'
+reference: 'Judges 3:3'

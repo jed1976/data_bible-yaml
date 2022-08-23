@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 4:16" class="v">16</span>And
+  it came to pass from that time forth, <span class="add">that</span> the half
+  of my servants wrought in the work, and the other half of them held both the
+  spears, the shields, and the bows, and the habergeons; and the rulers <span
+  class="add">were</span> behind all the house of Judah. </p>
+id: NEH/4/16
+next:
+  id: NEH/4/17
+  number: '17'
+previous:
+  id: NEH/4/15
+  number: '15'
+reference: 'Nehemiah 4:16'

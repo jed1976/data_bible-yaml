@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 11:1"
+  class="v">1</span>Therefore thou shalt love the <span class="nd">LORD</span>
+  thy God, and keep his charge, and his statutes, and his judgments, and his
+  commandments, alway. </p>
+id: DEU/11/1
+next:
+  id: DEU/11/2
+  number: '2'
+previous:
+  id: DEU/10/22
+  number: '22'
+reference: 'Deuteronomy 11:1'

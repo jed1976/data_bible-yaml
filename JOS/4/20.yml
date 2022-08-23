@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOS 4:20" class="v">20</span>And
+  those twelve stones, which they took out of Jordan, did Joshua pitch in
+  Gilgal. </p>
+id: JOS/4/20
+next:
+  id: JOS/4/21
+  number: '21'
+previous:
+  id: JOS/4/19
+  number: '19'
+reference: 'Joshua 4:20'

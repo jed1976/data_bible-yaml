@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 12:25"
+  class="v">25</span><span class="wj">For when they shall rise from the dead,
+  they neither marry, nor are given in marriage; but are as the angels which are
+  in heaven.</span> </p>
+id: MRK/12/25
+next:
+  id: MRK/12/26
+  number: '26'
+previous:
+  id: MRK/12/24
+  number: '24'
+reference: 'Mark 12:25'

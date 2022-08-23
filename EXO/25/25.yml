@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 25:25"
+  class="v">25</span>And thou shalt make unto it a border of an hand breadth
+  round about, and thou shalt make a golden crown to the border thereof round
+  about. </p>
+id: EXO/25/25
+next:
+  id: EXO/25/26
+  number: '26'
+previous:
+  id: EXO/25/24
+  number: '24'
+reference: 'Exodus 25:25'

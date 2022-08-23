@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 13:6" class="v">6</span>For
+  for this cause pay ye tribute also: for they are God’s ministers, attending
+  continually upon this very thing. </p>
+id: ROM/13/6
+next:
+  id: ROM/13/7
+  number: '7'
+previous:
+  id: ROM/13/5
+  number: '5'
+reference: 'Romans 13:6'

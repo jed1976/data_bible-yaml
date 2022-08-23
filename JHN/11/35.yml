@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 11:35"
+  class="v">35</span>Jesus wept. </p>
+id: JHN/11/35
+next:
+  id: JHN/11/36
+  number: '36'
+previous:
+  id: JHN/11/34
+  number: '34'
+reference: 'John 11:35'

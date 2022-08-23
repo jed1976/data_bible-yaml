@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 2:12" class="v">12</span>For
+  the day of the <span class="nd">LORD</span> of hosts <span class="add">shall
+  be</span> upon every <span class="add">one that is</span> proud and lofty, and
+  upon every <span class="add">one that is</span> lifted up; and he shall be
+  brought low: </p>
+id: ISA/2/12
+next:
+  id: ISA/2/13
+  number: '13'
+previous:
+  id: ISA/2/11
+  number: '11'
+reference: 'Isaiah 2:12'

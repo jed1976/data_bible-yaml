@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CO 8:10" class="v">10</span>And
+  herein I give <span class="add">my</span> advice: for this is expedient for
+  you, who have begun before, not only to do, but also to be forward a year ago.
+  </p>
+id: 2CO/8/10
+next:
+  id: 2CO/8/11
+  number: '11'
+previous:
+  id: 2CO/8/9
+  number: '9'
+reference: '2 Corinthians 8:10'

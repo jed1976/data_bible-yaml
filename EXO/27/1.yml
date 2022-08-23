@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 27:1" class="v">1</span>And
+  thou shalt make an altar <span class="add">of</span> shittim wood, five cubits
+  long, and five cubits broad; the altar shall be foursquare: and the height
+  thereof <span class="add">shall be</span> three cubits. </p>
+id: EXO/27/1
+next:
+  id: EXO/27/2
+  number: '2'
+previous:
+  id: EXO/26/37
+  number: '37'
+reference: 'Exodus 27:1'

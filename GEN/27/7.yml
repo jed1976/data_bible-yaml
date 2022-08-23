@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 27:7" class="v">7</span>Bring
+  me venison, and make me savoury meat, that I may eat, and bless thee before
+  the <span class="nd">LORD</span> before my death. </p>
+id: GEN/27/7
+next:
+  id: GEN/27/8
+  number: '8'
+previous:
+  id: GEN/27/6
+  number: '6'
+reference: 'Genesis 27:7'

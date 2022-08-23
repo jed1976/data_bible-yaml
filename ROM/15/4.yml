@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 15:4" class="v">4</span>For
+  whatsoever things were written aforetime were written for our learning, that
+  we through patience and comfort of the scriptures might have hope. </p>
+id: ROM/15/4
+next:
+  id: ROM/15/5
+  number: '5'
+previous:
+  id: ROM/15/3
+  number: '3'
+reference: 'Romans 15:4'

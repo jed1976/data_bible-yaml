@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 2:11"
+  class="v">11</span>Hath a nation changed <span class="add">their</span> gods,
+  which <span class="add">are</span> yet no gods? but my people have changed
+  their glory for <span class="add">that which</span> doth not profit. </p>
+id: JER/2/11
+next:
+  id: JER/2/12
+  number: '12'
+previous:
+  id: JER/2/10
+  number: '10'
+reference: 'Jeremiah 2:11'

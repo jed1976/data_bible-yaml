@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 3:3" class="v">3</span>So the
+  <span class="nd">LORD</span> our God delivered into our hands Og also, the
+  king of Bashan, and all his people: and we smote him until none was left to
+  him remaining. </p>
+id: DEU/3/3
+next:
+  id: DEU/3/4
+  number: '4'
+previous:
+  id: DEU/3/2
+  number: '2'
+reference: 'Deuteronomy 3:3'

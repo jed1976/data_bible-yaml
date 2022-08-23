@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 31:7" class="v">7</span>The
+  tabernacle of the congregation, and the ark of the testimony, and the mercy
+  seat that <span class="add">is</span> thereupon, and all the furniture of the
+  tabernacle, </p>
+id: EXO/31/7
+next:
+  id: EXO/31/8
+  number: '8'
+previous:
+  id: EXO/31/6
+  number: '6'
+reference: 'Exodus 31:7'

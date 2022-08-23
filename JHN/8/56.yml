@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="JHN 8:56"
+  class="v">56</span><span class="wj">Your father Abraham rejoiced to see my
+  day: and he saw <span class="add">it</span>, and was glad.</span> </p>
+id: JHN/8/56
+next:
+  id: JHN/8/57
+  number: '57'
+previous:
+  id: JHN/8/55
+  number: '55'
+reference: 'John 8:56'

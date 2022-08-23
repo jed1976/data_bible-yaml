@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 24:7" class="v">7</span>He
+  shall pour the water out of his buckets, and his seed <span class="add">shall
+  be</span> in many waters, and his king shall be higher than Agag, and his
+  kingdom shall be exalted. </p>
+id: NUM/24/7
+next:
+  id: NUM/24/8
+  number: '8'
+previous:
+  id: NUM/24/6
+  number: '6'
+reference: 'Numbers 24:7'

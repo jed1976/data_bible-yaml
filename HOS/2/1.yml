@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 2:1" class="v">1</span>Say ye
+  unto your brethren, Ammi; and to your sisters, Ru-hamah.  </p>
+id: HOS/2/1
+next:
+  id: HOS/2/2
+  number: '2'
+previous:
+  id: HOS/1/11
+  number: '11'
+reference: 'Hosea 2:1'

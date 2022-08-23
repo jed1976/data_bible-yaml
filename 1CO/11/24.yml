@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CO 11:24"
+  class="v">24</span>And when he had given thanks, he brake <span
+  class="add">it</span>, and said, <span class="wj">Take, eat: this is my body,
+  which is broken for you: this do in remembrance of me.</span> </p>
+id: 1CO/11/24
+next:
+  id: 1CO/11/25
+  number: '25'
+previous:
+  id: 1CO/11/23
+  number: '23'
+reference: '1 Corinthians 11:24'

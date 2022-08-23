@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 65:3"
+  class="v">3</span>Iniquities prevail against me: <span class="add">as
+  for</span> our transgressions, thou shalt purge them away.</p>
+id: PSA/65/3
+next:
+  id: PSA/65/4
+  number: '4'
+previous:
+  id: PSA/65/2
+  number: '2'
+reference: 'Psalms 65:3'

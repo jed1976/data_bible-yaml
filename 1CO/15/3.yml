@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 15:3" class="v">3</span>For I
+  delivered unto you first of all that which I also received, how that Christ
+  died for our sins according to the scriptures; </p>
+id: 1CO/15/3
+next:
+  id: 1CO/15/4
+  number: '4'
+previous:
+  id: 1CO/15/2
+  number: '2'
+reference: '1 Corinthians 15:3'

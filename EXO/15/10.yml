@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 15:10"
+  class="v">10</span>Thou didst blow with thy wind, the sea covered them: they
+  sank as lead in the mighty waters. </p>
+id: EXO/15/10
+next:
+  id: EXO/15/11
+  number: '11'
+previous:
+  id: EXO/15/9
+  number: '9'
+reference: 'Exodus 15:10'

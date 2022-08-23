@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 7:15" class="v">15</span>One
+  young bullock, one ram, one lamb of the first year, for a burnt offering: </p>
+id: NUM/7/15
+next:
+  id: NUM/7/16
+  number: '16'
+previous:
+  id: NUM/7/14
+  number: '14'
+reference: 'Numbers 7:15'

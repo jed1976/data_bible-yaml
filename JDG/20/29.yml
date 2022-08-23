@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JDG 20:29"
+  class="v">29</span>And Israel set liers in wait round about Gibeah. </p>
+id: JDG/20/29
+next:
+  id: JDG/20/30
+  number: '30'
+previous:
+  id: JDG/20/28
+  number: '28'
+reference: 'Judges 20:29'

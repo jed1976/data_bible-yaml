@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 21:1" class="v">1</span>The
+  king’s heart <span class="add">is</span> in the hand of the <span
+  class="nd">LORD</span>, <span class="add">as</span> the rivers of water: he
+  turneth it whithersoever he will. </p>
+id: PRO/21/1
+next:
+  id: PRO/21/2
+  number: '2'
+previous:
+  id: PRO/20/30
+  number: '30'
+reference: 'Proverbs 21:1'

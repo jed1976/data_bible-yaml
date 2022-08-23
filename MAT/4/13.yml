@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 4:13" class="v">13</span>And
+  leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast,
+  in the borders of Zabulon and Nephthalim: </p>
+id: MAT/4/13
+next:
+  id: MAT/4/14
+  number: '14'
+previous:
+  id: MAT/4/12
+  number: '12'
+reference: 'Matthew 4:13'

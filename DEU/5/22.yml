@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 5:22" class="v">22</span>¶
+  These words the <span class="nd">LORD</span> spake unto all your assembly in
+  the mount out of the midst of the fire, of the cloud, and of the thick
+  darkness, with a great voice: and he added no more. And he wrote them in two
+  tables of stone, and delivered them unto me.</p>
+id: DEU/5/22
+next:
+  id: DEU/5/23
+  number: '23'
+previous:
+  id: DEU/5/21
+  number: '21'
+reference: 'Deuteronomy 5:22'

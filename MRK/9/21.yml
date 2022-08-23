@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 9:21" class="v">21</span>And
+  he asked his father, <span class="wj">How long is it ago since this came unto
+  him?</span> And he said, Of a child. </p>
+id: MRK/9/21
+next:
+  id: MRK/9/22
+  number: '22'
+previous:
+  id: MRK/9/20
+  number: '20'
+reference: 'Mark 9:21'

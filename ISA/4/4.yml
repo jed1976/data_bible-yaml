@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 4:4" class="v">4</span>When
+  the Lord shall have washed away the filth of the daughters of Zion, and shall
+  have purged the blood of Jerusalem from the midst thereof by the spirit of
+  judgment, and by the spirit of burning. </p>
+id: ISA/4/4
+next:
+  id: ISA/4/5
+  number: '5'
+previous:
+  id: ISA/4/3
+  number: '3'
+reference: 'Isaiah 4:4'

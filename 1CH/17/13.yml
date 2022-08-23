@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CH 17:13" class="v">13</span>I
+  will be his father, and he shall be my son: and I will not take my mercy away
+  from him, as I took <span class="add">it</span> from <span
+  class="add">him</span> that was before thee: </p>
+id: 1CH/17/13
+next:
+  id: 1CH/17/14
+  number: '14'
+previous:
+  id: 1CH/17/12
+  number: '12'
+reference: '1 Chronicles 17:13'

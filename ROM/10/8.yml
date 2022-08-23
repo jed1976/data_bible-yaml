@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 10:8" class="v">8</span>But
+  what saith it? The word is nigh thee, <span class="add">even</span> in thy
+  mouth, and in thy heart: that is, the word of faith, which we preach; </p>
+id: ROM/10/8
+next:
+  id: ROM/10/9
+  number: '9'
+previous:
+  id: ROM/10/7
+  number: '7'
+reference: 'Romans 10:8'

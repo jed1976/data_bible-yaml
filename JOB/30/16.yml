@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 30:16"
+  class="v">16</span>And now my soul is poured out upon me; the days of
+  affliction have taken hold upon me. </p>
+id: JOB/30/16
+next:
+  id: JOB/30/17
+  number: '17'
+previous:
+  id: JOB/30/15
+  number: '15'
+reference: 'Job 30:16'

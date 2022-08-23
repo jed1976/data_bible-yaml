@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="JOS 15:59"
+  class="v">59</span>And Maarath, and Beth-anoth, and Eltekon; six cities with
+  their villages: </p>
+id: JOS/15/59
+next:
+  id: JOS/15/60
+  number: '60'
+previous:
+  id: JOS/15/58
+  number: '58'
+reference: 'Joshua 15:59'

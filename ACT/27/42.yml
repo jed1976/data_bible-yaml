@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 27:42"
+  class="v">42</span>And the soldiers’ counsel was to kill the prisoners, lest
+  any of them should swim out, and escape. </p>
+id: ACT/27/42
+next:
+  id: ACT/27/43
+  number: '43'
+previous:
+  id: ACT/27/41
+  number: '41'
+reference: 'Acts 27:42'

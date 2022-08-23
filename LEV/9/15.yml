@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 9:15" class="v">15</span>¶
+  And he brought the people’s offering, and took the goat, which <span
+  class="add">was</span> the sin offering for the people, and slew it, and
+  offered it for sin, as the first. </p>
+id: LEV/9/15
+next:
+  id: LEV/9/16
+  number: '16'
+previous:
+  id: LEV/9/14
+  number: '14'
+reference: 'Leviticus 9:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 25:3" class="v">3</span>Forty
+  stripes he may give him, <span class="add">and</span> not exceed: lest, <span
+  class="add">if</span> he should exceed, and beat him above these with many
+  stripes, then thy brother should seem vile unto thee.</p>
+id: DEU/25/3
+next:
+  id: DEU/25/4
+  number: '4'
+previous:
+  id: DEU/25/2
+  number: '2'
+reference: 'Deuteronomy 25:3'

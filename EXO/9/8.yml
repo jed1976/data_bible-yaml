@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 9:8" class="v">8</span>¶ And
+  the <span class="nd">LORD</span> said unto Moses and unto Aaron, Take to you
+  handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven
+  in the sight of Pharaoh. </p>
+id: EXO/9/8
+next:
+  id: EXO/9/9
+  number: '9'
+previous:
+  id: EXO/9/7
+  number: '7'
+reference: 'Exodus 9:8'

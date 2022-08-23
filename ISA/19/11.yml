@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 19:11" class="v">11</span>¶
+  Surely the princes of Zoan <span class="add">are</span> fools, the counsel of
+  the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I
+  <span class="add">am</span> the son of the wise, the son of ancient kings?
+  </p>
+id: ISA/19/11
+next:
+  id: ISA/19/12
+  number: '12'
+previous:
+  id: ISA/19/10
+  number: '10'
+reference: 'Isaiah 19:11'

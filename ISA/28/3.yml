@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 28:3" class="v">3</span>The
+  crown of pride, the drunkards of Ephraim, shall be trodden under feet: </p>
+id: ISA/28/3
+next:
+  id: ISA/28/4
+  number: '4'
+previous:
+  id: ISA/28/2
+  number: '2'
+reference: 'Isaiah 28:3'

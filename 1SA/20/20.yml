@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1SA 20:20"
+  class="v">20</span>And I will shoot three arrows on the side <span
+  class="add">thereof</span>, as though I shot at a mark. </p>
+id: 1SA/20/20
+next:
+  id: 1SA/20/21
+  number: '21'
+previous:
+  id: 1SA/20/19
+  number: '19'
+reference: '1 Samuel 20:20'

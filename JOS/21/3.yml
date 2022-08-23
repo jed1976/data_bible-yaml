@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 21:3" class="v">3</span>And
+  the children of Israel gave unto the Levites out of their inheritance, at the
+  commandment of the <span class="nd">LORD</span>, these cities and their
+  suburbs. </p>
+id: JOS/21/3
+next:
+  id: JOS/21/4
+  number: '4'
+previous:
+  id: JOS/21/2
+  number: '2'
+reference: 'Joshua 21:3'

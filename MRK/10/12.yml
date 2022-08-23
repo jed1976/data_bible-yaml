@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 10:12"
+  class="v">12</span><span class="wj">And if a woman shall put away her husband,
+  and be married to another, she committeth adultery.</span></p>
+id: MRK/10/12
+next:
+  id: MRK/10/13
+  number: '13'
+previous:
+  id: MRK/10/11
+  number: '11'
+reference: 'Mark 10:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="LUK 10:41"
+  class="v">41</span>And Jesus answered and said unto her, <span
+  class="wj">Martha, Martha, thou art careful and troubled about many
+  things:</span> </p>
+id: LUK/10/41
+next:
+  id: LUK/10/42
+  number: '42'
+previous:
+  id: LUK/10/40
+  number: '40'
+reference: 'Luke 10:41'

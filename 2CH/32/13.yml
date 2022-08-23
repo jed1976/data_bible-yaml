@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 32:13"
+  class="v">13</span>Know ye not what I and my fathers have done unto all the
+  people of <span class="add">other</span> lands? were the gods of the nations
+  of those lands any ways able to deliver their lands out of mine hand? </p>
+id: 2CH/32/13
+next:
+  id: 2CH/32/14
+  number: '14'
+previous:
+  id: 2CH/32/12
+  number: '12'
+reference: '2 Chronicles 32:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 3:6" class="v">6</span>When a
+  man shall take hold of his brother of the house of his father, <span
+  class="add">saying</span>, Thou hast clothing, be thou our ruler, and <span
+  class="add">let</span> this ruin <span class="add">be</span> under thy hand:
+  </p>
+id: ISA/3/6
+next:
+  id: ISA/3/7
+  number: '7'
+previous:
+  id: ISA/3/5
+  number: '5'
+reference: 'Isaiah 3:6'

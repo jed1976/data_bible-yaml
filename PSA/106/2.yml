@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 106:2" class="v">2</span>Who
+  can utter the mighty acts of the <span class="nd">LORD</span>? <span
+  class="add">who</span> can shew forth all his praise?</p>
+id: PSA/106/2
+next:
+  id: PSA/106/3
+  number: '3'
+previous:
+  id: PSA/106/1
+  number: '1'
+reference: 'Psalms 106:2'

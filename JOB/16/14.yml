@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 16:14" class="v">14</span>He
+  breaketh me with breach upon breach, he runneth upon me like a giant. </p>
+id: JOB/16/14
+next:
+  id: JOB/16/15
+  number: '15'
+previous:
+  id: JOB/16/13
+  number: '13'
+reference: 'Job 16:14'

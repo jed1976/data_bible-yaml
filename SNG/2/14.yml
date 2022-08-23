@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="SNG 2:14" class="v">14</span>¶ O
+  my dove, <span class="add">that art</span> in the clefts of the rock, in the
+  secret <span class="add">places</span> of the stairs, let me see thy
+  countenance, let me hear thy voice; for sweet <span class="add">is</span> thy
+  voice, and thy countenance <span class="add">is</span> comely. </p>
+id: SNG/2/14
+next:
+  id: SNG/2/15
+  number: '15'
+previous:
+  id: SNG/2/13
+  number: '13'
+reference: 'Song of Solomon 2:14'

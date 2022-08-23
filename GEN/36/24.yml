@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 36:24"
+  class="v">24</span>And these <span class="add">are</span> the children of
+  Zibeon; both Ajah, and Anah: this <span class="add">was that</span> Anah that
+  found the mules in the wilderness, as he fed the asses of Zibeon his father.
+  </p>
+id: GEN/36/24
+next:
+  id: GEN/36/25
+  number: '25'
+previous:
+  id: GEN/36/23
+  number: '23'
+reference: 'Genesis 36:24'

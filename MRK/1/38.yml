@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 1:38" class="v">38</span>And
+  he said unto them, <span class="wj">Let us go into the next towns, that I may
+  preach there also: for therefore came I forth.</span> </p>
+id: MRK/1/38
+next:
+  id: MRK/1/39
+  number: '39'
+previous:
+  id: MRK/1/37
+  number: '37'
+reference: 'Mark 1:38'

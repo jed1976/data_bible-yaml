@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 9:15" class="v">15</span>For
+  now I will stretch out my hand, that I may smite thee and thy people with
+  pestilence; and thou shalt be cut off from the earth. </p>
+id: EXO/9/15
+next:
+  id: EXO/9/16
+  number: '16'
+previous:
+  id: EXO/9/14
+  number: '14'
+reference: 'Exodus 9:15'

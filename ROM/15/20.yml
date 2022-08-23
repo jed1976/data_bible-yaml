@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 15:20"
+  class="v">20</span>Yea, so have I strived to preach the gospel, not where
+  Christ was named, lest I should build upon another man’s foundation: </p>
+id: ROM/15/20
+next:
+  id: ROM/15/21
+  number: '21'
+previous:
+  id: ROM/15/19
+  number: '19'
+reference: 'Romans 15:20'

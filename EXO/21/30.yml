@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 21:30" class="v">30</span>If
+  there be laid on him a sum of money, then he shall give for the ransom of his
+  life whatsoever is laid upon him. </p>
+id: EXO/21/30
+next:
+  id: EXO/21/31
+  number: '31'
+previous:
+  id: EXO/21/29
+  number: '29'
+reference: 'Exodus 21:30'

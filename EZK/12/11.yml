@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 12:11"
+  class="v">11</span>Say, I <span class="add">am</span> your sign: like as I
+  have done, so shall it be done unto them: they shall remove <span
+  class="add">and</span> go into captivity. </p>
+id: EZK/12/11
+next:
+  id: EZK/12/12
+  number: '12'
+previous:
+  id: EZK/12/10
+  number: '10'
+reference: 'Ezekiel 12:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 29:20"
+  class="v">20</span>Seest thou a man <span class="add">that is</span> hasty in
+  his words? <span class="add">there is</span> more hope of a fool than of him.
+  </p>
+id: PRO/29/20
+next:
+  id: PRO/29/21
+  number: '21'
+previous:
+  id: PRO/29/19
+  number: '19'
+reference: 'Proverbs 29:20'

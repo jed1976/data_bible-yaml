@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 7:13" class="v">13</span>He
+  hath also prepared for him the instruments of death; he ordaineth his arrows
+  against the persecutors.</p>
+id: PSA/7/13
+next:
+  id: PSA/7/14
+  number: '14'
+previous:
+  id: PSA/7/12
+  number: '12'
+reference: 'Psalms 7:13'

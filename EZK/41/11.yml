@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 41:11"
+  class="v">11</span>And the doors of the side chambers <span
+  class="add">were</span> toward <span class="add">the place that was</span>
+  left, one door toward the north, and another door toward the south: and the
+  breadth of the place that was left <span class="add">was</span> five cubits
+  round about.</p>
+id: EZK/41/11
+next:
+  id: EZK/41/12
+  number: '12'
+previous:
+  id: EZK/41/10
+  number: '10'
+reference: 'Ezekiel 41:11'

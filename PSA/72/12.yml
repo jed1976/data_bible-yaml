@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 72:12"
+  class="v">12</span>For he shall deliver the needy when he crieth; the poor
+  also, and <span class="add">him</span> that hath no helper.</p>
+id: PSA/72/12
+next:
+  id: PSA/72/13
+  number: '13'
+previous:
+  id: PSA/72/11
+  number: '11'
+reference: 'Psalms 72:12'

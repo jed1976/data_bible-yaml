@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 24:15" class="v">15</span>¶
+  And he took up his parable, and said, Balaam the son of Beor hath said, and
+  the man whose eyes are open hath said: </p>
+id: NUM/24/15
+next:
+  id: NUM/24/16
+  number: '16'
+previous:
+  id: NUM/24/14
+  number: '14'
+reference: 'Numbers 24:15'

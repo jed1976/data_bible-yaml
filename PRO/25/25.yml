@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 25:25"
+  class="v">25</span><span class="add">As</span> cold waters to a thirsty soul,
+  so <span class="add">is</span> good news from a far country. </p>
+id: PRO/25/25
+next:
+  id: PRO/25/26
+  number: '26'
+previous:
+  id: PRO/25/24
+  number: '24'
+reference: 'Proverbs 25:25'

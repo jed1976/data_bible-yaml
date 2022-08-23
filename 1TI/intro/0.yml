@@ -1,0 +1,9 @@
+content: <p class="mt1">THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</p>
+id: 1TI/intro/0
+next:
+  id: 1TI/1/1
+  number: '1'
+previous:
+  id: 2TH/3/18
+  number: '18'
+reference: 1 Timothy

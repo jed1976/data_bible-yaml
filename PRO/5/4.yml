@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 5:4" class="v">4</span>But
+  her end is bitter as wormwood, sharp as a twoedged sword. </p>
+id: PRO/5/4
+next:
+  id: PRO/5/5
+  number: '5'
+previous:
+  id: PRO/5/3
+  number: '3'
+reference: 'Proverbs 5:4'

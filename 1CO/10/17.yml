@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1CO 10:17"
+  class="v">17</span>For we <span class="add">being</span> many are one bread,
+  <span class="add">and</span> one body: for we are all partakers of that one
+  bread. </p>
+id: 1CO/10/17
+next:
+  id: 1CO/10/18
+  number: '18'
+previous:
+  id: 1CO/10/16
+  number: '16'
+reference: '1 Corinthians 10:17'

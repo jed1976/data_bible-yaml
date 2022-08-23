@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 16:1" class="v">1</span>The
+  word of the <span class="nd">LORD</span> came also unto me, saying, </p>
+id: JER/16/1
+next:
+  id: JER/16/2
+  number: '2'
+previous:
+  id: JER/15/21
+  number: '21'
+reference: 'Jeremiah 16:1'

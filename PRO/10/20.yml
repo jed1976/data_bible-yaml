@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 10:20"
+  class="v">20</span>The tongue of the just <span class="add">is as</span>
+  choice silver: the heart of the wicked <span class="add">is</span> little
+  worth. </p>
+id: PRO/10/20
+next:
+  id: PRO/10/21
+  number: '21'
+previous:
+  id: PRO/10/19
+  number: '19'
+reference: 'Proverbs 10:20'

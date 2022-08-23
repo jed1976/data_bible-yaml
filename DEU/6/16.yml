@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 6:16" class="v">16</span>¶
+  Ye shall not tempt the <span class="nd">LORD</span> your God, as ye tempted
+  <span class="add">him</span> in Massah.</p>
+id: DEU/6/16
+next:
+  id: DEU/6/17
+  number: '17'
+previous:
+  id: DEU/6/15
+  number: '15'
+reference: 'Deuteronomy 6:16'

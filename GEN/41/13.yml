@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 41:13"
+  class="v">13</span>And it came to pass, as he interpreted to us, so it was; me
+  he restored unto mine office, and him he hanged.</p>
+id: GEN/41/13
+next:
+  id: GEN/41/14
+  number: '14'
+previous:
+  id: GEN/41/12
+  number: '12'
+reference: 'Genesis 41:13'

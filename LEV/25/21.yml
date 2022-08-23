@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 25:21"
+  class="v">21</span>Then I will command my blessing upon you in the sixth year,
+  and it shall bring forth fruit for three years. </p>
+id: LEV/25/21
+next:
+  id: LEV/25/22
+  number: '22'
+previous:
+  id: LEV/25/20
+  number: '20'
+reference: 'Leviticus 25:21'

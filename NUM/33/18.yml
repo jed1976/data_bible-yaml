@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 33:18"
+  class="v">18</span>And they departed from Hazeroth, and pitched in Rithmah.
+  </p>
+id: NUM/33/18
+next:
+  id: NUM/33/19
+  number: '19'
+previous:
+  id: NUM/33/17
+  number: '17'
+reference: 'Numbers 33:18'

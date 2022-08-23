@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GAL 4:1" class="v">1</span>Now I
+  say, <span class="add">That</span> the heir, as long as he is a child,
+  differeth nothing from a servant, though he be lord of all; </p>
+id: GAL/4/1
+next:
+  id: GAL/4/2
+  number: '2'
+previous:
+  id: GAL/3/29
+  number: '29'
+reference: 'Galatians 4:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 1:6" class="v">6</span>And
+  hath made us kings and priests unto God and his Father; to him <span
+  class="add">be</span> glory and dominion for ever and ever. Amen. </p>
+id: REV/1/6
+next:
+  id: REV/1/7
+  number: '7'
+previous:
+  id: REV/1/5
+  number: '5'
+reference: 'Revelation 1:6'

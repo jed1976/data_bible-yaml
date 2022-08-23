@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LEV 6:25"
+  class="v">25</span>Speak unto Aaron and to his sons, saying, This <span
+  class="add">is</span> the law of the sin offering: In the place where the
+  burnt offering is killed shall the sin offering be killed before the <span
+  class="nd">LORD</span>: it <span class="add">is</span> most holy. </p>
+id: LEV/6/25
+next:
+  id: LEV/6/26
+  number: '26'
+previous:
+  id: LEV/6/24
+  number: '24'
+reference: 'Leviticus 6:25'

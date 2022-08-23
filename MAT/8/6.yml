@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 8:6" class="v">6</span>And
+  saying, Lord, my servant lieth at home sick of the palsy, grievously
+  tormented. </p>
+id: MAT/8/6
+next:
+  id: MAT/8/7
+  number: '7'
+previous:
+  id: MAT/8/5
+  number: '5'
+reference: 'Matthew 8:6'

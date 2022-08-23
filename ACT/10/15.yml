@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 10:15"
+  class="v">15</span>And the voice <span class="add">spake</span> unto him again
+  the second time, What God hath cleansed, <span class="add">that</span> call
+  not thou common. </p>
+id: ACT/10/15
+next:
+  id: ACT/10/16
+  number: '16'
+previous:
+  id: ACT/10/14
+  number: '14'
+reference: 'Acts 10:15'

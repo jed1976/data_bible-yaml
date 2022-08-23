@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="REV 21:23"
+  class="v">23</span>And the city had no need of the sun, neither of the moon,
+  to shine in it: for the glory of God did lighten it, and the Lamb <span
+  class="add">is</span> the light thereof. </p>
+id: REV/21/23
+next:
+  id: REV/21/24
+  number: '24'
+previous:
+  id: REV/21/22
+  number: '22'
+reference: 'Revelation 21:23'

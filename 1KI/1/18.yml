@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1KI 1:18" class="v">18</span>And
+  now, behold, Adonijah reigneth; and now, my lord the king, thou knowest <span
+  class="add">it</span> not: </p>
+id: 1KI/1/18
+next:
+  id: 1KI/1/19
+  number: '19'
+previous:
+  id: 1KI/1/17
+  number: '17'
+reference: '1 Kings 1:18'

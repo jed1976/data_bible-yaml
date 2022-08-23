@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 111:5" class="v">5</span>He
+  hath given meat unto them that fear him: he will ever be mindful of his
+  covenant.</p>
+id: PSA/111/5
+next:
+  id: PSA/111/6
+  number: '6'
+previous:
+  id: PSA/111/4
+  number: '4'
+reference: 'Psalms 111:5'

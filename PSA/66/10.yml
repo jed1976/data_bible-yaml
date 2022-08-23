@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 66:10"
+  class="v">10</span>For thou, O God, hast proved us: thou hast tried us, as
+  silver is tried.</p>
+id: PSA/66/10
+next:
+  id: PSA/66/11
+  number: '11'
+previous:
+  id: PSA/66/9
+  number: '9'
+reference: 'Psalms 66:10'

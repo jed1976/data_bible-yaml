@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 9:11"
+  class="v">11</span>And, behold, the man clothed with linen, which <span
+  class="add">had</span> the inkhorn by his side, reported the matter, saying, I
+  have done as thou hast commanded me.</p>
+id: EZK/9/11
+next:
+  id: EZK/10/1
+  number: '1'
+previous:
+  id: EZK/9/10
+  number: '10'
+reference: 'Ezekiel 9:11'

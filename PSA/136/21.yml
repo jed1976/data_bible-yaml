@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 136:21"
+  class="v">21</span>And gave their land for an heritage: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/21
+next:
+  id: PSA/136/22
+  number: '22'
+previous:
+  id: PSA/136/20
+  number: '20'
+reference: 'Psalms 136:21'

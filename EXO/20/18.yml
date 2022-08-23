@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 20:18" class="v">18</span>¶
+  And all the people saw the thunderings, and the lightnings, and the noise of
+  the trumpet, and the mountain smoking: and when the people saw <span
+  class="add">it</span>, they removed, and stood afar off. </p>
+id: EXO/20/18
+next:
+  id: EXO/20/19
+  number: '19'
+previous:
+  id: EXO/20/17
+  number: '17'
+reference: 'Exodus 20:18'

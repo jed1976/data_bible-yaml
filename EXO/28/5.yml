@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 28:5" class="v">5</span>And
+  they shall take gold, and blue, and purple, and scarlet, and fine linen.</p>
+id: EXO/28/5
+next:
+  id: EXO/28/6
+  number: '6'
+previous:
+  id: EXO/28/4
+  number: '4'
+reference: 'Exodus 28:5'

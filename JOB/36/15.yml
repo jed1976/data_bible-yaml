@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 36:15" class="v">15</span>He
+  delivereth the poor in his affliction, and openeth their ears in oppression.
+  </p>
+id: JOB/36/15
+next:
+  id: JOB/36/16
+  number: '16'
+previous:
+  id: JOB/36/14
+  number: '14'
+reference: 'Job 36:15'

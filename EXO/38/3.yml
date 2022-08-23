@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 38:3" class="v">3</span>And
+  he made all the vessels of the altar, the pots, and the shovels, and the
+  basons, <span class="add">and</span> the fleshhooks, and the firepans: all the
+  vessels thereof made he <span class="add">of</span> brass. </p>
+id: EXO/38/3
+next:
+  id: EXO/38/4
+  number: '4'
+previous:
+  id: EXO/38/2
+  number: '2'
+reference: 'Exodus 38:3'

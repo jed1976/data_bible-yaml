@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EST 9:25" class="v">25</span>But
+  when <span class="add">Esther</span> came before the king, he commanded by
+  letters that his wicked device, which he devised against the Jews, should
+  return upon his own head, and that he and his sons should be hanged on the
+  gallows. </p>
+id: EST/9/25
+next:
+  id: EST/9/26
+  number: '26'
+previous:
+  id: EST/9/24
+  number: '24'
+reference: 'Esther 9:25'

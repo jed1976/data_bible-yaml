@@ -1,0 +1,11 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="45" data-sid="PSA 119:45"
+  class="v">45</span>And I will walk at liberty: for I seek thy precepts.</p>
+id: PSA/119/45
+next:
+  id: PSA/119/46
+  number: '46'
+previous:
+  id: PSA/119/44
+  number: '44'
+reference: 'Psalms 119:45'

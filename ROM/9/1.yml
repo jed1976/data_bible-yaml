@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 9:1" class="v">1</span>I say
+  the truth in Christ, I lie not, my conscience also bearing me witness in the
+  Holy Ghost, </p>
+id: ROM/9/1
+next:
+  id: ROM/9/2
+  number: '2'
+previous:
+  id: ROM/8/39
+  number: '39'
+reference: 'Romans 9:1'

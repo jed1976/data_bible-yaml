@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NEH 11:4" class="v">4</span>And
+  at Jerusalem dwelt <span class="add">certain</span> of the children of Judah,
+  and of the children of Benjamin. Of the children of Judah; Athaiah the son of
+  Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the
+  son of Mahalaleel, of the children of Perez; </p>
+id: NEH/11/4
+next:
+  id: NEH/11/5
+  number: '5'
+previous:
+  id: NEH/11/3
+  number: '3'
+reference: 'Nehemiah 11:4'

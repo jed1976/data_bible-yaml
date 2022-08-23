@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 15:21" class="v">21</span>A
+  dreadful sound <span class="add">is</span> in his ears: in prosperity the
+  destroyer shall come upon him. </p>
+id: JOB/15/21
+next:
+  id: JOB/15/22
+  number: '22'
+previous:
+  id: JOB/15/20
+  number: '20'
+reference: 'Job 15:21'

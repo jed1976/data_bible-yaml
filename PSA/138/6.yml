@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 138:6"
+  class="v">6</span>Though the <span class="nd">LORD</span> <span
+  class="add">be</span> high, yet hath he respect unto the lowly: but the proud
+  he knoweth afar off.</p>
+id: PSA/138/6
+next:
+  id: PSA/138/7
+  number: '7'
+previous:
+  id: PSA/138/5
+  number: '5'
+reference: 'Psalms 138:6'

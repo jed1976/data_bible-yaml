@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 24:21" class="v">21</span>My
+  son, fear thou the <span class="nd">LORD</span> and the king: <span
+  class="add">and</span> meddle not with them that are given to change: </p>
+id: PRO/24/21
+next:
+  id: PRO/24/22
+  number: '22'
+previous:
+  id: PRO/24/20
+  number: '20'
+reference: 'Proverbs 24:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MIC 4:8" class="v">8</span>¶ And
+  thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee
+  shall it come, even the first dominion; the kingdom shall come to the daughter
+  of Jerusalem. </p>
+id: MIC/4/8
+next:
+  id: MIC/4/9
+  number: '9'
+previous:
+  id: MIC/4/7
+  number: '7'
+reference: 'Micah 4:8'

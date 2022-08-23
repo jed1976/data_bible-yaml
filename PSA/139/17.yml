@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="17" data-sid="PSA 139:17"
+  class="v">17</span>How precious also are thy thoughts unto me, O God! how
+  great is the sum of them!</p>
+id: PSA/139/17
+next:
+  id: PSA/139/18
+  number: '18'
+previous:
+  id: PSA/139/16
+  number: '16'
+reference: 'Psalms 139:17'

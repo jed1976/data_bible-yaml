@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 31:15"
+  class="v">15</span>Six days may work be done; but in the seventh <span
+  class="add">is</span> the sabbath of rest, holy to the <span
+  class="nd">LORD</span>: whosoever doeth <span class="add">any</span> work in
+  the sabbath day, he shall surely be put to death. </p>
+id: EXO/31/15
+next:
+  id: EXO/31/16
+  number: '16'
+previous:
+  id: EXO/31/14
+  number: '14'
+reference: 'Exodus 31:15'

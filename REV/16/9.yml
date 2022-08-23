@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 16:9" class="v">9</span>And
+  men were scorched with great heat, and blasphemed the name of God, which hath
+  power over these plagues: and they repented not to give him glory. </p>
+id: REV/16/9
+next:
+  id: REV/16/10
+  number: '10'
+previous:
+  id: REV/16/8
+  number: '8'
+reference: 'Revelation 16:9'

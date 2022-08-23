@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 38:3"
+  class="v">3</span><span class="add">There is</span> no soundness in my flesh
+  because of thine anger; neither <span class="add">is there any</span> rest in
+  my bones because of my sin.</p>
+id: PSA/38/3
+next:
+  id: PSA/38/4
+  number: '4'
+previous:
+  id: PSA/38/2
+  number: '2'
+reference: 'Psalms 38:3'

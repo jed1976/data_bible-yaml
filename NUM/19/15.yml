@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 19:15"
+  class="v">15</span>And every open vessel, which hath no covering bound upon
+  it, <span class="add">is</span> unclean. </p>
+id: NUM/19/15
+next:
+  id: NUM/19/16
+  number: '16'
+previous:
+  id: NUM/19/14
+  number: '14'
+reference: 'Numbers 19:15'

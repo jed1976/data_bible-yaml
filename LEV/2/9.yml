@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 2:9" class="v">9</span>And
+  the priest shall take from the meat offering a memorial thereof, and shall
+  burn <span class="add">it</span> upon the altar: <span class="add">it
+  is</span> an offering made by fire, of a sweet savour unto the <span
+  class="nd">LORD</span>. </p>
+id: LEV/2/9
+next:
+  id: LEV/2/10
+  number: '10'
+previous:
+  id: LEV/2/8
+  number: '8'
+reference: 'Leviticus 2:9'

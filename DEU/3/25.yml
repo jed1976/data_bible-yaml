@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 3:25" class="v">25</span>I
+  pray thee, let me go over, and see the good land that <span
+  class="add">is</span> beyond Jordan, that goodly mountain, and Lebanon. </p>
+id: DEU/3/25
+next:
+  id: DEU/3/26
+  number: '26'
+previous:
+  id: DEU/3/24
+  number: '24'
+reference: 'Deuteronomy 3:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 6:29"
+  class="v">29</span>That the <span class="nd">LORD</span> spake unto Moses,
+  saying, I <span class="add">am</span> the <span class="nd">LORD</span>: speak
+  thou unto Pharaoh king of Egypt all that I say unto thee. </p>
+id: EXO/6/29
+next:
+  id: EXO/6/30
+  number: '30'
+previous:
+  id: EXO/6/28
+  number: '28'
+reference: 'Exodus 6:29'

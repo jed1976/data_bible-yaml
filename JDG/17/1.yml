@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 17:1" class="v">1</span>And
+  there was a man of mount Ephraim, whose name <span class="add">was</span>
+  Micah. </p>
+id: JDG/17/1
+next:
+  id: JDG/17/2
+  number: '2'
+previous:
+  id: JDG/16/31
+  number: '31'
+reference: 'Judges 17:1'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 4:8" class="v">8</span>Also
+  he gave him the copy of the writing of the decree that was given at Shushan to
+  destroy them, to shew <span class="add">it</span> unto Esther, and to declare
+  <span class="add">it</span> unto her, and to charge her that she should go in
+  unto the king, to make supplication unto him, and to make request before him
+  for her people. </p>
+id: EST/4/8
+next:
+  id: EST/4/9
+  number: '9'
+previous:
+  id: EST/4/7
+  number: '7'
+reference: 'Esther 4:8'

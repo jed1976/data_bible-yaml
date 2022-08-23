@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1KI 18:42" class="v">42</span>So
+  Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and
+  he cast himself down upon the earth, and put his face between his knees, </p>
+id: 1KI/18/42
+next:
+  id: 1KI/18/43
+  number: '43'
+previous:
+  id: 1KI/18/41
+  number: '41'
+reference: '1 Kings 18:42'

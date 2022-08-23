@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 24:4" class="v">4</span>He
+  hath said, which heard the words of God, which saw the vision of the Almighty,
+  falling <span class="add">into a trance</span>, but having his eyes open: </p>
+id: NUM/24/4
+next:
+  id: NUM/24/5
+  number: '5'
+previous:
+  id: NUM/24/3
+  number: '3'
+reference: 'Numbers 24:4'

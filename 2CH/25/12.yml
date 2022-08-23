@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 25:12"
+  class="v">12</span>And <span class="add">other</span> ten thousand <span
+  class="add">left</span> alive did the children of Judah carry away captive,
+  and brought them unto the top of the rock, and cast them down from the top of
+  the rock, that they all were broken in pieces.</p>
+id: 2CH/25/12
+next:
+  id: 2CH/25/13
+  number: '13'
+previous:
+  id: 2CH/25/11
+  number: '11'
+reference: '2 Chronicles 25:12'

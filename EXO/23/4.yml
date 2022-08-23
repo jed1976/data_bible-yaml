@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 23:4" class="v">4</span>¶ If
+  thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it
+  back to him again. </p>
+id: EXO/23/4
+next:
+  id: EXO/23/5
+  number: '5'
+previous:
+  id: EXO/23/3
+  number: '3'
+reference: 'Exodus 23:4'

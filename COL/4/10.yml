@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="COL 4:10"
+  class="v">10</span>Aristarchus my fellowprisoner saluteth you, and Marcus,
+  sister’s son to Barnabas, (touching whom ye received commandments: if he come
+  unto you, receive him;) </p>
+id: COL/4/10
+next:
+  id: COL/4/11
+  number: '11'
+previous:
+  id: COL/4/9
+  number: '9'
+reference: 'Colossians 4:10'

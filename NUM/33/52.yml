@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="NUM 33:52"
+  class="v">52</span>Then ye shall drive out all the inhabitants of the land
+  from before you, and destroy all their pictures, and destroy all their molten
+  images, and quite pluck down all their high places: </p>
+id: NUM/33/52
+next:
+  id: NUM/33/53
+  number: '53'
+previous:
+  id: NUM/33/51
+  number: '51'
+reference: 'Numbers 33:52'

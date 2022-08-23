@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 7:10" class="v">10</span>¶
+  Moreover the <span class="nd">LORD</span> spake again unto Ahaz, saying, </p>
+id: ISA/7/10
+next:
+  id: ISA/7/11
+  number: '11'
+previous:
+  id: ISA/7/9
+  number: '9'
+reference: 'Isaiah 7:10'

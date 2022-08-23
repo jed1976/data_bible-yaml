@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 11:14"
+  class="v">14</span>And Jesus answered and said unto it, <span class="wj">No
+  man eat fruit of thee hereafter for ever.</span> And his disciples heard <span
+  class="add">it.</span></p>
+id: MRK/11/14
+next:
+  id: MRK/11/15
+  number: '15'
+previous:
+  id: MRK/11/13
+  number: '13'
+reference: 'Mark 11:14'

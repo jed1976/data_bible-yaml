@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1SA 15:30"
+  class="v">30</span>Then he said, I have sinned: <span class="add">yet</span>
+  honour me now, I pray thee, before the elders of my people, and before Israel,
+  and turn again with me, that I may worship the <span class="nd">LORD</span>
+  thy God. </p>
+id: 1SA/15/30
+next:
+  id: 1SA/15/31
+  number: '31'
+previous:
+  id: 1SA/15/29
+  number: '29'
+reference: '1 Samuel 15:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 34:8" class="v">8</span>And
+  Hamor communed with them, saying, The soul of my son Shechem longeth for your
+  daughter: I pray you give her him to wife. </p>
+id: GEN/34/8
+next:
+  id: GEN/34/9
+  number: '9'
+previous:
+  id: GEN/34/7
+  number: '7'
+reference: 'Genesis 34:8'

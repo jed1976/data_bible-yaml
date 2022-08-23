@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="SNG 8:9" class="v">9</span>If she
+  <span class="add">be</span> a wall, we will build upon her a palace of silver:
+  and if she <span class="add">be</span> a door, we will inclose her with boards
+  of cedar. </p>
+id: SNG/8/9
+next:
+  id: SNG/8/10
+  number: '10'
+previous:
+  id: SNG/8/8
+  number: '8'
+reference: 'Song of Solomon 8:9'

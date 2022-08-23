@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 27:5" class="v">5</span>Or
+  let him take hold of my strength, <span class="add">that</span> he may make
+  peace with me; <span class="add">and</span> he shall make peace with me. </p>
+id: ISA/27/5
+next:
+  id: ISA/27/6
+  number: '6'
+previous:
+  id: ISA/27/4
+  number: '4'
+reference: 'Isaiah 27:5'

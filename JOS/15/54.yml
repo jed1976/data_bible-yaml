@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="JOS 15:54"
+  class="v">54</span>And Humtah, and Kirjath-arba, which <span
+  class="add">is</span> Hebron, and Zior; nine cities with their villages: </p>
+id: JOS/15/54
+next:
+  id: JOS/15/55
+  number: '55'
+previous:
+  id: JOS/15/53
+  number: '53'
+reference: 'Joshua 15:54'

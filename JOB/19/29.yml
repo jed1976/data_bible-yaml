@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 19:29" class="v">29</span>Be
+  ye afraid of the sword: for wrath <span class="add">bringeth</span> the
+  punishments of the sword, that ye may know <span class="add">there is</span> a
+  judgment.</p>
+id: JOB/19/29
+next:
+  id: JOB/20/1
+  number: '1'
+previous:
+  id: JOB/19/28
+  number: '28'
+reference: 'Job 19:29'

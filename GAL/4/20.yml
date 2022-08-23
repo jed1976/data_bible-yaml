@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GAL 4:20" class="v">20</span>I
+  desire to be present with you now, and to change my voice; for I stand in
+  doubt of you.</p>
+id: GAL/4/20
+next:
+  id: GAL/4/21
+  number: '21'
+previous:
+  id: GAL/4/19
+  number: '19'
+reference: 'Galatians 4:20'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="2KI 10:30"
+  class="v">30</span>And the <span class="nd">LORD</span> said unto Jehu,
+  Because thou hast done well in executing <span class="add">that which
+  is</span> right in mine eyes, <span class="add">and</span> hast done unto the
+  house of Ahab according to all that <span class="add">was</span> in mine
+  heart, thy children of the fourth <span class="add">generation</span> shall
+  sit on the throne of Israel. </p>
+id: 2KI/10/30
+next:
+  id: 2KI/10/31
+  number: '31'
+previous:
+  id: 2KI/10/29
+  number: '29'
+reference: '2 Kings 10:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 27:5" class="v">5</span>For
+  in the time of trouble he shall hide me in his pavilion: in the secret of his
+  tabernacle shall he hide me; he shall set me up upon a rock.</p>
+id: PSA/27/5
+next:
+  id: PSA/27/6
+  number: '6'
+previous:
+  id: PSA/27/4
+  number: '4'
+reference: 'Psalms 27:5'

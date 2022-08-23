@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 13:7" class="v">7</span>Jesus
+  answered and said unto him, <span class="wj">What I do thou knowest not now;
+  but thou shalt know hereafter.</span> </p>
+id: JHN/13/7
+next:
+  id: JHN/13/8
+  number: '8'
+previous:
+  id: JHN/13/6
+  number: '6'
+reference: 'John 13:7'

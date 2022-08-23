@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 44:17"
+  class="v">17</span>And he said, God forbid that I should do so: <span
+  class="add">but</span> the man in whose hand the cup is found, he shall be my
+  servant; and as for you, get you up in peace unto your father.</p>
+id: GEN/44/17
+next:
+  id: GEN/44/18
+  number: '18'
+previous:
+  id: GEN/44/16
+  number: '16'
+reference: 'Genesis 44:17'

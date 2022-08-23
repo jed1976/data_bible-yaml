@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EZR 2:14" class="v">14</span>The
+  children of Bigvai, two thousand fifty and six. </p>
+id: EZR/2/14
+next:
+  id: EZR/2/15
+  number: '15'
+previous:
+  id: EZR/2/13
+  number: '13'
+reference: 'Ezra 2:14'

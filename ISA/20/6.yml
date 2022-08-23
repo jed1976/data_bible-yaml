@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 20:6" class="v">6</span>And
+  the inhabitant of this isle shall say in that day, Behold, such <span
+  class="add">is</span> our expectation, whither we flee for help to be
+  delivered from the king of Assyria: and how shall we escape?</p>
+id: ISA/20/6
+next:
+  id: ISA/21/1
+  number: '1'
+previous:
+  id: ISA/20/5
+  number: '5'
+reference: 'Isaiah 20:6'

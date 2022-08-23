@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 19:17"
+  class="v">17</span>And he bearing his cross went forth into a place called
+  <span class="add">the place</span> of a skull, which is called in the Hebrew
+  Golgotha: </p>
+id: JHN/19/17
+next:
+  id: JHN/19/18
+  number: '18'
+previous:
+  id: JHN/19/16
+  number: '16'
+reference: 'John 19:17'

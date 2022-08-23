@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TH 2:1" class="v">1</span>For
+  yourselves, brethren, know our entrance in unto you, that it was not in vain:
+  </p>
+id: 1TH/2/1
+next:
+  id: 1TH/2/2
+  number: '2'
+previous:
+  id: 1TH/1/10
+  number: '10'
+reference: '1 Thessalonians 2:1'

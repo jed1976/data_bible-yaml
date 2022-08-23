@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 8:22" class="v">22</span>¶
+  And he cometh to Bethsaida; and they bring a blind man unto him, and besought
+  him to touch him. </p>
+id: MRK/8/22
+next:
+  id: MRK/8/23
+  number: '23'
+previous:
+  id: MRK/8/21
+  number: '21'
+reference: 'Mark 8:22'

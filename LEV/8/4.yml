@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 8:4" class="v">4</span>And
+  Moses did as the <span class="nd">LORD</span> commanded him; and the assembly
+  was gathered together unto the door of the tabernacle of the congregation.
+  </p>
+id: LEV/8/4
+next:
+  id: LEV/8/5
+  number: '5'
+previous:
+  id: LEV/8/3
+  number: '3'
+reference: 'Leviticus 8:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 15:24"
+  class="v">24</span>Trouble and anguish shall make him afraid; they shall
+  prevail against him, as a king ready to the battle. </p>
+id: JOB/15/24
+next:
+  id: JOB/15/25
+  number: '25'
+previous:
+  id: JOB/15/23
+  number: '23'
+reference: 'Job 15:24'

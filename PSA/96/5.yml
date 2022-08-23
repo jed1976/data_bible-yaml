@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 96:5" class="v">5</span>For
+  all the gods of the nations <span class="add">are</span> idols: but the <span
+  class="nd">LORD</span> made the heavens.</p>
+id: PSA/96/5
+next:
+  id: PSA/96/6
+  number: '6'
+previous:
+  id: PSA/96/4
+  number: '4'
+reference: 'Psalms 96:5'

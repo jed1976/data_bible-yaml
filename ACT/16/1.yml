@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 16:1" class="v">1</span>Then
+  came he to Derbe and Lystra: and, behold, a certain disciple was there, named
+  Timotheus, the son of a certain woman, which was a Jewess, and believed; but
+  his father <span class="add">was</span> a Greek: </p>
+id: ACT/16/1
+next:
+  id: ACT/16/2
+  number: '2'
+previous:
+  id: ACT/15/41
+  number: '41'
+reference: 'Acts 16:1'

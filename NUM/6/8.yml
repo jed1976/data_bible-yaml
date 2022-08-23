@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 6:8" class="v">8</span>All
+  the days of his separation he <span class="add">is</span> holy unto the <span
+  class="nd">LORD</span>. </p>
+id: NUM/6/8
+next:
+  id: NUM/6/9
+  number: '9'
+previous:
+  id: NUM/6/7
+  number: '7'
+reference: 'Numbers 6:8'

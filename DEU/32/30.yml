@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 32:30"
+  class="v">30</span>How should one chase a thousand, and two put ten thousand
+  to flight, except their Rock had sold them, and the <span
+  class="nd">LORD</span> had shut them up? </p>
+id: DEU/32/30
+next:
+  id: DEU/32/31
+  number: '31'
+previous:
+  id: DEU/32/29
+  number: '29'
+reference: 'Deuteronomy 32:30'

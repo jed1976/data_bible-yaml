@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EXO 25:32"
+  class="v">32</span>And six branches shall come out of the sides of it; three
+  branches of the candlestick out of the one side, and three branches of the
+  candlestick out of the other side: </p>
+id: EXO/25/32
+next:
+  id: EXO/25/33
+  number: '33'
+previous:
+  id: EXO/25/31
+  number: '31'
+reference: 'Exodus 25:32'

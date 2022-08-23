@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 1:23" class="v">23</span>And
+  under the firmament <span class="add">were</span> their wings straight, the
+  one toward the other: every one had two, which covered on this side, and every
+  one had two, which covered on that side, their bodies. </p>
+id: EZK/1/23
+next:
+  id: EZK/1/24
+  number: '24'
+previous:
+  id: EZK/1/22
+  number: '22'
+reference: 'Ezekiel 1:23'

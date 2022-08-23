@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 3:25" class="v">25</span>¶
+  Then there arose a question between <span class="add">some</span> of John’s
+  disciples and the Jews about purifying. </p>
+id: JHN/3/25
+next:
+  id: JHN/3/26
+  number: '26'
+previous:
+  id: JHN/3/24
+  number: '24'
+reference: 'John 3:25'

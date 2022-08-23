@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 33:16" class="v">16</span>¶
+  So Esau returned that day on his way unto Seir. </p>
+id: GEN/33/16
+next:
+  id: GEN/33/17
+  number: '17'
+previous:
+  id: GEN/33/15
+  number: '15'
+reference: 'Genesis 33:16'

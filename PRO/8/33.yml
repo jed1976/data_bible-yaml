@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 8:33"
+  class="v">33</span>Hear instruction, and be wise, and refuse it not. </p>
+id: PRO/8/33
+next:
+  id: PRO/8/34
+  number: '34'
+previous:
+  id: PRO/8/32
+  number: '32'
+reference: 'Proverbs 8:33'

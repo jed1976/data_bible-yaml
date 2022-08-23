@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 21:21"
+  class="v">21</span>Peter seeing him saith to Jesus, Lord, and what <span
+  class="add">shall</span> this man <span class="add">do</span>? </p>
+id: JHN/21/21
+next:
+  id: JHN/21/22
+  number: '22'
+previous:
+  id: JHN/21/20
+  number: '20'
+reference: 'John 21:21'

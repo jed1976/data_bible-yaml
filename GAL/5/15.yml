@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 5:15" class="v">15</span>But
+  if ye bite and devour one another, take heed that ye be not consumed one of
+  another. </p>
+id: GAL/5/15
+next:
+  id: GAL/5/16
+  number: '16'
+previous:
+  id: GAL/5/14
+  number: '14'
+reference: 'Galatians 5:15'

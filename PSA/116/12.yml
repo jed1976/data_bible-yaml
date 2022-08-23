@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 116:12"
+  class="v">12</span>What shall I render unto the <span class="nd">LORD</span>
+  <span class="add">for</span> all his benefits toward me?</p>
+id: PSA/116/12
+next:
+  id: PSA/116/13
+  number: '13'
+previous:
+  id: PSA/116/11
+  number: '11'
+reference: 'Psalms 116:12'

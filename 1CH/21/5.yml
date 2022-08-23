@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 21:5" class="v">5</span>¶ And
+  Joab gave the sum of the number of the people unto David. And all <span
+  class="add">they of</span> Israel were a thousand thousand and an hundred
+  thousand men that drew sword: and Judah <span class="add">was</span> four
+  hundred threescore and ten thousand men that drew sword. </p>
+id: 1CH/21/5
+next:
+  id: 1CH/21/6
+  number: '6'
+previous:
+  id: 1CH/21/4
+  number: '4'
+reference: '1 Chronicles 21:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 35:12"
+  class="v">12</span>And they shall be unto you cities for refuge from the
+  avenger; that the manslayer die not, until he stand before the congregation in
+  judgment. </p>
+id: NUM/35/12
+next:
+  id: NUM/35/13
+  number: '13'
+previous:
+  id: NUM/35/11
+  number: '11'
+reference: 'Numbers 35:12'

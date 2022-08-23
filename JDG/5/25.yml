@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JDG 5:25" class="v">25</span>He
+  asked water, <span class="add">and</span> she gave <span
+  class="add">him</span> milk; she brought forth butter in a lordly dish. </p>
+id: JDG/5/25
+next:
+  id: JDG/5/26
+  number: '26'
+previous:
+  id: JDG/5/24
+  number: '24'
+reference: 'Judges 5:25'

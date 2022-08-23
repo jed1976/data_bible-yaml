@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 14:5" class="v">5</span>The
+  <span class="nd">LORD</span> hath broken the staff of the wicked, <span
+  class="add">and</span> the sceptre of the rulers. </p>
+id: ISA/14/5
+next:
+  id: ISA/14/6
+  number: '6'
+previous:
+  id: ISA/14/4
+  number: '4'
+reference: 'Isaiah 14:5'

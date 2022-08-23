@@ -1,0 +1,9 @@
+content: <p class="mt1">Habakkuk</p>
+id: HAB/intro/0
+next:
+  id: HAB/1/1
+  number: '1'
+previous:
+  id: NAM/3/19
+  number: '19'
+reference: Habakkuk

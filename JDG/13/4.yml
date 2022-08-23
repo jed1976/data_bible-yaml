@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 13:4" class="v">4</span>Now
+  therefore beware, I pray thee, and drink not wine nor strong drink, and eat
+  not any unclean <span class="add">thing:</span> </p>
+id: JDG/13/4
+next:
+  id: JDG/13/5
+  number: '5'
+previous:
+  id: JDG/13/3
+  number: '3'
+reference: 'Judges 13:4'

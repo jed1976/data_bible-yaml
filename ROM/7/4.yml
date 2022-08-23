@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 7:4"
+  class="v">4</span>Wherefore, my brethren, ye also are become dead to the law
+  by the body of Christ; that ye should be married to another, <span
+  class="add">even</span> to him who is raised from the dead, that we should
+  bring forth fruit unto God. </p>
+id: ROM/7/4
+next:
+  id: ROM/7/5
+  number: '5'
+previous:
+  id: ROM/7/3
+  number: '3'
+reference: 'Romans 7:4'

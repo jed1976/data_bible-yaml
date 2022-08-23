@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 32:14"
+  class="v">14</span>Butter of kine, and milk of sheep, with fat of lambs, and
+  rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and
+  thou didst drink the pure blood of the grape.</p>
+id: DEU/32/14
+next:
+  id: DEU/32/15
+  number: '15'
+previous:
+  id: DEU/32/13
+  number: '13'
+reference: 'Deuteronomy 32:14'

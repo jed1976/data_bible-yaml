@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 34:3" class="v">3</span>And
+  the south, and the plain of the valley of Jericho, the city of palm trees,
+  unto Zoar. </p>
+id: DEU/34/3
+next:
+  id: DEU/34/4
+  number: '4'
+previous:
+  id: DEU/34/2
+  number: '2'
+reference: 'Deuteronomy 34:3'

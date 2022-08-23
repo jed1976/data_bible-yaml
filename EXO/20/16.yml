@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 20:16"
+  class="v">16</span>Thou shalt not bear false witness against thy neighbour.
+  </p>
+id: EXO/20/16
+next:
+  id: EXO/20/17
+  number: '17'
+previous:
+  id: EXO/20/15
+  number: '15'
+reference: 'Exodus 20:16'

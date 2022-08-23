@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 4:21"
+  class="v">21</span>Doth not their excellency <span class="add">which is</span>
+  in them go away? they die, even without wisdom.</p>
+id: JOB/4/21
+next:
+  id: JOB/5/1
+  number: '1'
+previous:
+  id: JOB/4/20
+  number: '20'
+reference: 'Job 4:21'

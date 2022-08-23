@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 16:6" class="v">6</span><span
+  class="wj">But because I have said these things unto you, sorrow hath filled
+  your heart.</span> </p>
+id: JHN/16/6
+next:
+  id: JHN/16/7
+  number: '7'
+previous:
+  id: JHN/16/5
+  number: '5'
+reference: 'John 16:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 16:13"
+  class="v">13</span>This <span class="add">is</span> the word that the <span
+  class="nd">LORD</span> hath spoken concerning Moab since that time. </p>
+id: ISA/16/13
+next:
+  id: ISA/16/14
+  number: '14'
+previous:
+  id: ISA/16/12
+  number: '12'
+reference: 'Isaiah 16:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 10:14" class="v">14</span>If
+  I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
+  </p>
+id: JOB/10/14
+next:
+  id: JOB/10/15
+  number: '15'
+previous:
+  id: JOB/10/13
+  number: '13'
+reference: 'Job 10:14'

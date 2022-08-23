@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 20:26" class="v">26</span>¶
+  And after eight days again his disciples were within, and Thomas with them:
+  <span class="add">then</span> came Jesus, the doors being shut, and stood in
+  the midst, and said, <span class="wj">Peace <span class="add">be</span> unto
+  you.</span> </p>
+id: JHN/20/26
+next:
+  id: JHN/20/27
+  number: '27'
+previous:
+  id: JHN/20/25
+  number: '25'
+reference: 'John 20:26'

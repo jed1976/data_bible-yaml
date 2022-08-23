@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 7:1" class="v">1</span><span
+  class="add">Is there</span> not an appointed time to man upon earth? <span
+  class="add">are not</span> his days also like the days of an hireling? </p>
+id: JOB/7/1
+next:
+  id: JOB/7/2
+  number: '2'
+previous:
+  id: JOB/6/30
+  number: '30'
+reference: 'Job 7:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HEB 4:11" class="v">11</span>Let
+  us labour therefore to enter into that rest, lest any man fall after the same
+  example of unbelief. </p>
+id: HEB/4/11
+next:
+  id: HEB/4/12
+  number: '12'
+previous:
+  id: HEB/4/10
+  number: '10'
+reference: 'Hebrews 4:11'

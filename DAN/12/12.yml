@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 12:12"
+  class="v">12</span>Blessed <span class="add">is</span> he that waiteth, and
+  cometh to the thousand three hundred and five and thirty days. </p>
+id: DAN/12/12
+next:
+  id: DAN/12/13
+  number: '13'
+previous:
+  id: DAN/12/11
+  number: '11'
+reference: 'Daniel 12:12'

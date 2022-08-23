@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 31:21"
+  class="v">21</span>She is not afraid of the snow for her household: for all
+  her household <span class="add">are</span> clothed with scarlet. </p>
+id: PRO/31/21
+next:
+  id: PRO/31/22
+  number: '22'
+previous:
+  id: PRO/31/20
+  number: '20'
+reference: 'Proverbs 31:21'

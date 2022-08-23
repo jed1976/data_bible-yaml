@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 9:22" class="v">22</span>But
+  Jesus turned him about, and when he saw her, he said, <span
+  class="wj">Daughter, be of good comfort; thy faith hath made thee
+  whole.</span> And the woman was made whole from that hour. </p>
+id: MAT/9/22
+next:
+  id: MAT/9/23
+  number: '23'
+previous:
+  id: MAT/9/21
+  number: '21'
+reference: 'Matthew 9:22'

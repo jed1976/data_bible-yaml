@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 3:7" class="v">7</span><span
+  class="wj">Marvel not that I said unto thee, Ye must be born again.</span>
+  </p>
+id: JHN/3/7
+next:
+  id: JHN/3/8
+  number: '8'
+previous:
+  id: JHN/3/6
+  number: '6'
+reference: 'John 3:7'

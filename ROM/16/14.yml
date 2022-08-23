@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 16:14"
+  class="v">14</span>Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and
+  the brethren which are with them. </p>
+id: ROM/16/14
+next:
+  id: ROM/16/15
+  number: '15'
+previous:
+  id: ROM/16/13
+  number: '13'
+reference: 'Romans 16:14'

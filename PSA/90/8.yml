@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 90:8" class="v">8</span>Thou
+  hast set our iniquities before thee, our secret <span class="add">sins</span>
+  in the light of thy countenance.</p>
+id: PSA/90/8
+next:
+  id: PSA/90/9
+  number: '9'
+previous:
+  id: PSA/90/7
+  number: '7'
+reference: 'Psalms 90:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 13:1" class="v">1</span>When
+  Ephraim spake trembling, he exalted himself in Israel; but when he offended in
+  Baal, he died. </p>
+id: HOS/13/1
+next:
+  id: HOS/13/2
+  number: '2'
+previous:
+  id: HOS/12/14
+  number: '14'
+reference: 'Hosea 13:1'

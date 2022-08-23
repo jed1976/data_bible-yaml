@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="COL 2:8" class="v">8</span>Beware
+  lest any man spoil you through philosophy and vain deceit, after the tradition
+  of men, after the rudiments of the world, and not after Christ. </p>
+id: COL/2/8
+next:
+  id: COL/2/9
+  number: '9'
+previous:
+  id: COL/2/7
+  number: '7'
+reference: 'Colossians 2:8'

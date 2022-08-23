@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1PE 5:3"
+  class="v">3</span>Neither as being lords over <span class="add">God’s</span>
+  heritage, but being ensamples to the flock. </p>
+id: 1PE/5/3
+next:
+  id: 1PE/5/4
+  number: '4'
+previous:
+  id: 1PE/5/2
+  number: '2'
+reference: '1 Peter 5:3'

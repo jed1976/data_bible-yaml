@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 95:9" class="v">9</span>When
+  your fathers tempted me, proved me, and saw my work.</p>
+id: PSA/95/9
+next:
+  id: PSA/95/10
+  number: '10'
+previous:
+  id: PSA/95/8
+  number: '8'
+reference: 'Psalms 95:9'

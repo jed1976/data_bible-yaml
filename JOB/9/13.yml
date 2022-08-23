@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 9:13"
+  class="v">13</span><span class="add">If</span> God will not withdraw his
+  anger, the proud helpers do stoop under him.</p>
+id: JOB/9/13
+next:
+  id: JOB/9/14
+  number: '14'
+previous:
+  id: JOB/9/12
+  number: '12'
+reference: 'Job 9:13'

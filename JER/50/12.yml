@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 50:12"
+  class="v">12</span>Your mother shall be sore confounded; she that bare you
+  shall be ashamed: behold, the hindermost of the nations <span
+  class="add">shall be</span> a wilderness, a dry land, and a desert. </p>
+id: JER/50/12
+next:
+  id: JER/50/13
+  number: '13'
+previous:
+  id: JER/50/11
+  number: '11'
+reference: 'Jeremiah 50:12'

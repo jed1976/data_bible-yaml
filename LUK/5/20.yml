@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 5:20" class="v">20</span>And
+  when he saw their faith, he said unto him, <span class="wj">Man, thy sins are
+  forgiven thee.</span> </p>
+id: LUK/5/20
+next:
+  id: LUK/5/21
+  number: '21'
+previous:
+  id: LUK/5/19
+  number: '19'
+reference: 'Luke 5:20'

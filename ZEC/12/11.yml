@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 12:11" class="v">11</span>In
+  that day shall there be a great mourning in Jerusalem, as the mourning of
+  Hadadrimmon in the valley of Megiddon. </p>
+id: ZEC/12/11
+next:
+  id: ZEC/12/12
+  number: '12'
+previous:
+  id: ZEC/12/10
+  number: '10'
+reference: 'Zechariah 12:11'

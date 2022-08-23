@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 7:7" class="v">7</span>So
+  shall the congregation of the people compass thee about: for their sakes
+  therefore return thou on high.</p>
+id: PSA/7/7
+next:
+  id: PSA/7/8
+  number: '8'
+previous:
+  id: PSA/7/6
+  number: '6'
+reference: 'Psalms 7:7'

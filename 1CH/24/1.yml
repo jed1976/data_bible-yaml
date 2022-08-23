@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 24:1" class="v">1</span>Now
+  <span class="add">these are</span> the divisions of the sons of Aaron. The
+  sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. </p>
+id: 1CH/24/1
+next:
+  id: 1CH/24/2
+  number: '2'
+previous:
+  id: 1CH/23/32
+  number: '32'
+reference: '1 Chronicles 24:1'

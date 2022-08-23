@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 5:35" class="v">35</span>And
+  said unto them, Ye men of Israel, take heed to yourselves what ye intend to do
+  as touching these men. </p>
+id: ACT/5/35
+next:
+  id: ACT/5/36
+  number: '36'
+previous:
+  id: ACT/5/34
+  number: '34'
+reference: 'Acts 5:35'

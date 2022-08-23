@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HEB 11:1" class="v">1</span>Now
+  faith is the substance of things hoped for, the evidence of things not seen.
+  </p>
+id: HEB/11/1
+next:
+  id: HEB/11/2
+  number: '2'
+previous:
+  id: HEB/10/39
+  number: '39'
+reference: 'Hebrews 11:1'

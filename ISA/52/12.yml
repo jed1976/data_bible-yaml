@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 52:12"
+  class="v">12</span>For ye shall not go out with haste, nor go by flight: for
+  the <span class="nd">LORD</span> will go before you; and the God of Israel
+  <span class="add">will be</span> your rereward.</p>
+id: ISA/52/12
+next:
+  id: ISA/52/13
+  number: '13'
+previous:
+  id: ISA/52/11
+  number: '11'
+reference: 'Isaiah 52:12'

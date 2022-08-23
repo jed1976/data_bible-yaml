@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 9:13" class="v">13</span>So
+  Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s
+  table; and was lame on both his feet.</p>
+id: 2SA/9/13
+next:
+  id: 2SA/10/1
+  number: '1'
+previous:
+  id: 2SA/9/12
+  number: '12'
+reference: '2 Samuel 9:13'

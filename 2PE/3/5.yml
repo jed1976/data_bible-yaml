@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2PE 3:5" class="v">5</span>For
+  this they willingly are ignorant of, that by the word of God the heavens were
+  of old, and the earth standing out of the water and in the water: </p>
+id: 2PE/3/5
+next:
+  id: 2PE/3/6
+  number: '6'
+previous:
+  id: 2PE/3/4
+  number: '4'
+reference: '2 Peter 3:5'

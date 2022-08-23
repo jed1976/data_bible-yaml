@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 10:5" class="v">5</span>There
+  is an evil <span class="add">which</span> I have seen under the sun, as an
+  error <span class="add">which</span> proceedeth from the ruler: </p>
+id: ECC/10/5
+next:
+  id: ECC/10/6
+  number: '6'
+previous:
+  id: ECC/10/4
+  number: '4'
+reference: 'Ecclesiastes 10:5'

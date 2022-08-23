@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 20:9" class="v">9</span>The
+  eye also <span class="add">which</span> saw him shall <span class="add">see
+  him</span> no more; neither shall his place any more behold him.</p>
+id: JOB/20/9
+next:
+  id: JOB/20/10
+  number: '10'
+previous:
+  id: JOB/20/8
+  number: '8'
+reference: 'Job 20:9'

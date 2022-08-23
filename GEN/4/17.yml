@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 4:17" class="v">17</span>And
+  Cain knew his wife; and she conceived, and bare Enoch: and he builded a city,
+  and called the name of the city, after the name of his son, Enoch. </p>
+id: GEN/4/17
+next:
+  id: GEN/4/18
+  number: '18'
+previous:
+  id: GEN/4/16
+  number: '16'
+reference: 'Genesis 4:17'

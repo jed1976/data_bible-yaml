@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 14:42"
+  class="v">42</span>And they shall take other stones, and put <span
+  class="add">them</span> in the place of those stones; and he shall take other
+  morter, and shall plaister the house. </p>
+id: LEV/14/42
+next:
+  id: LEV/14/43
+  number: '43'
+previous:
+  id: LEV/14/41
+  number: '41'
+reference: 'Leviticus 14:42'

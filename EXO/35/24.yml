@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 35:24"
+  class="v">24</span>Every one that did offer an offering of silver and brass
+  brought the <span class="nd">LORD’s</span> offering: and every man, with whom
+  was found shittim wood for any work of the service, brought <span
+  class="add">it</span>. </p>
+id: EXO/35/24
+next:
+  id: EXO/35/25
+  number: '25'
+previous:
+  id: EXO/35/23
+  number: '23'
+reference: 'Exodus 35:24'

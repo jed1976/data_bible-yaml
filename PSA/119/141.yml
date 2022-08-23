@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="141" data-sid="PSA 119:141"
+  class="v">141</span>I <span class="add">am</span> small and despised: <span
+  class="add">yet</span> do not I forget thy precepts.</p>
+id: PSA/119/141
+next:
+  id: PSA/119/142
+  number: '142'
+previous:
+  id: PSA/119/140
+  number: '140'
+reference: 'Psalms 119:141'

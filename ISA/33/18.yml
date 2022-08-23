@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 33:18"
+  class="v">18</span>Thine heart shall meditate terror. Where <span
+  class="add">is</span> the scribe? where <span class="add">is</span> the
+  receiver? where <span class="add">is</span> he that counted the towers? </p>
+id: ISA/33/18
+next:
+  id: ISA/33/19
+  number: '19'
+previous:
+  id: ISA/33/17
+  number: '17'
+reference: 'Isaiah 33:18'

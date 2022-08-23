@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 7:4" class="v">4</span>When I
+  lie down, I say, When shall I arise, and the night be gone? and I am full of
+  tossings to and fro unto the dawning of the day. </p>
+id: JOB/7/4
+next:
+  id: JOB/7/5
+  number: '5'
+previous:
+  id: JOB/7/3
+  number: '3'
+reference: 'Job 7:4'

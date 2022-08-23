@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 46:11"
+  class="v">11</span>Calling a ravenous bird from the east, the man that
+  executeth my counsel from a far country: yea, I have spoken <span
+  class="add">it</span>, I will also bring it to pass; I have purposed <span
+  class="add">it</span>, I will also do it.</p>
+id: ISA/46/11
+next:
+  id: ISA/46/12
+  number: '12'
+previous:
+  id: ISA/46/10
+  number: '10'
+reference: 'Isaiah 46:11'

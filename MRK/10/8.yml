@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MRK 10:8" class="v">8</span><span
+  class="wj">And they twain shall be one flesh: so then they are no more twain,
+  but one flesh.</span> </p>
+id: MRK/10/8
+next:
+  id: MRK/10/9
+  number: '9'
+previous:
+  id: MRK/10/7
+  number: '7'
+reference: 'Mark 10:8'

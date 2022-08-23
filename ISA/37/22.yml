@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 37:22"
+  class="v">22</span>This <span class="add">is</span> the word which the <span
+  class="nd">LORD</span> hath spoken concerning him; The virgin, the daughter of
+  Zion, hath despised thee, <span class="add">and</span> laughed thee to scorn;
+  the daughter of Jerusalem hath shaken her head at thee. </p>
+id: ISA/37/22
+next:
+  id: ISA/37/23
+  number: '23'
+previous:
+  id: ISA/37/21
+  number: '21'
+reference: 'Isaiah 37:22'

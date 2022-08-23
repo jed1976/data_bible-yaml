@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EPH 2:20" class="v">20</span>And
+  are built upon the foundation of the apostles and prophets, Jesus Christ
+  himself being the chief corner <span class="add">stone</span>; </p>
+id: EPH/2/20
+next:
+  id: EPH/2/21
+  number: '21'
+previous:
+  id: EPH/2/19
+  number: '19'
+reference: 'Ephesians 2:20'

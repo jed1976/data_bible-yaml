@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 13:1" class="v">1</span>And
+  David consulted with the captains of thousands and hundreds, <span
+  class="add">and</span> with every leader. </p>
+id: 1CH/13/1
+next:
+  id: 1CH/13/2
+  number: '2'
+previous:
+  id: 1CH/12/40
+  number: '40'
+reference: '1 Chronicles 13:1'

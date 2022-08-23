@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 24:32"
+  class="v">32</span><span class="wj">Now learn a parable of the fig tree; When
+  his branch is yet tender, and putteth forth leaves, ye know that summer <span
+  class="add">is</span> nigh:</span> </p>
+id: MAT/24/32
+next:
+  id: MAT/24/33
+  number: '33'
+previous:
+  id: MAT/24/31
+  number: '31'
+reference: 'Matthew 24:32'

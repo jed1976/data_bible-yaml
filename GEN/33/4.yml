@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 33:4" class="v">4</span>And
+  Esau ran to meet him, and embraced him, and fell on his neck, and kissed him:
+  and they wept.</p>
+id: GEN/33/4
+next:
+  id: GEN/33/5
+  number: '5'
+previous:
+  id: GEN/33/3
+  number: '3'
+reference: 'Genesis 33:4'

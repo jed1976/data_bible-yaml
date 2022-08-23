@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 23:16"
+  class="v">16</span><span class="wj">Woe unto you, <span class="add">ye</span>
+  blind guides, which say, Whosoever shall swear by the temple, it is nothing;
+  but whosoever shall swear by the gold of the temple, he is a debtor!</span>
+  </p>
+id: MAT/23/16
+next:
+  id: MAT/23/17
+  number: '17'
+previous:
+  id: MAT/23/15
+  number: '15'
+reference: 'Matthew 23:16'

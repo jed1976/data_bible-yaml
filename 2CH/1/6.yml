@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CH 1:6" class="v">6</span>And
+  Solomon went up thither to the brasen altar before the <span
+  class="nd">LORD</span>, which <span class="add">was</span> at the tabernacle
+  of the congregation, and offered a thousand burnt offerings upon it.</p>
+id: 2CH/1/6
+next:
+  id: 2CH/1/7
+  number: '7'
+previous:
+  id: 2CH/1/5
+  number: '5'
+reference: '2 Chronicles 1:6'

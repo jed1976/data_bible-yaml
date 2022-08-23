@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 1:12" class="v">12</span>And
+  they went every one straight forward: whither the spirit was to go, they went;
+  <span class="add">and</span> they turned not when they went. </p>
+id: EZK/1/12
+next:
+  id: EZK/1/13
+  number: '13'
+previous:
+  id: EZK/1/11
+  number: '11'
+reference: 'Ezekiel 1:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 19:26" class="v">26</span>He
+  that wasteth <span class="add">his</span> father, <span class="add">and</span>
+  chaseth away <span class="add">his</span> mother, <span class="add">is</span>
+  a son that causeth shame, and bringeth reproach. </p>
+id: PRO/19/26
+next:
+  id: PRO/19/27
+  number: '27'
+previous:
+  id: PRO/19/25
+  number: '25'
+reference: 'Proverbs 19:26'

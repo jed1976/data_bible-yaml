@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2KI 25:22" class="v">22</span>¶
+  And <span class="add">as for</span> the people that remained in the land of
+  Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made
+  Gedaliah the son of Ahikam, the son of Shaphan, ruler. </p>
+id: 2KI/25/22
+next:
+  id: 2KI/25/23
+  number: '23'
+previous:
+  id: 2KI/25/21
+  number: '21'
+reference: '2 Kings 25:22'

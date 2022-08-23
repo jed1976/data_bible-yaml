@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 4:14" class="v">14</span>For
+  out of prison he cometh to reign; whereas also <span class="add">he that
+  is</span> born in his kingdom becometh poor. </p>
+id: ECC/4/14
+next:
+  id: ECC/4/15
+  number: '15'
+previous:
+  id: ECC/4/13
+  number: '13'
+reference: 'Ecclesiastes 4:14'

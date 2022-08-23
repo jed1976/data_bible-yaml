@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 44:5"
+  class="v">5</span>Through thee will we push down our enemies: through thy name
+  will we tread them under that rise up against us.</p>
+id: PSA/44/5
+next:
+  id: PSA/44/6
+  number: '6'
+previous:
+  id: PSA/44/4
+  number: '4'
+reference: 'Psalms 44:5'

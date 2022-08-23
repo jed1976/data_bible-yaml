@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 21:4" class="v">4</span>And
+  he built altars in the house of the <span class="nd">LORD</span>, of which the
+  <span class="nd">LORD</span> said, In Jerusalem will I put my name. </p>
+id: 2KI/21/4
+next:
+  id: 2KI/21/5
+  number: '5'
+previous:
+  id: 2KI/21/3
+  number: '3'
+reference: '2 Kings 21:4'

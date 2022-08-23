@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="NUM 33:48"
+  class="v">48</span>And they departed from the mountains of Abarim, and pitched
+  in the plains of Moab by Jordan <span class="add">near</span> Jericho. </p>
+id: NUM/33/48
+next:
+  id: NUM/33/49
+  number: '49'
+previous:
+  id: NUM/33/47
+  number: '47'
+reference: 'Numbers 33:48'

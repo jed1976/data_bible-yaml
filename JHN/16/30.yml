@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 16:30"
+  class="v">30</span>Now are we sure that thou knowest all things, and needest
+  not that any man should ask thee: by this we believe that thou camest forth
+  from God. </p>
+id: JHN/16/30
+next:
+  id: JHN/16/31
+  number: '31'
+previous:
+  id: JHN/16/29
+  number: '29'
+reference: 'John 16:30'

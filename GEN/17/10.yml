@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 17:10"
+  class="v">10</span>This <span class="add">is</span> my covenant, which ye
+  shall keep, between me and you and thy seed after thee; Every man child among
+  you shall be circumcised. </p>
+id: GEN/17/10
+next:
+  id: GEN/17/11
+  number: '11'
+previous:
+  id: GEN/17/9
+  number: '9'
+reference: 'Genesis 17:10'

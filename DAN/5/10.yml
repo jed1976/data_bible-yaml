@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 5:10" class="v">10</span>¶
+  <span class="add">Now</span> the queen, by reason of the words of the king and
+  his lords, came into the banquet house: <span class="add">and</span> the queen
+  spake and said, O king, live for ever: let not thy thoughts trouble thee, nor
+  let thy countenance be changed: </p>
+id: DAN/5/10
+next:
+  id: DAN/5/11
+  number: '11'
+previous:
+  id: DAN/5/9
+  number: '9'
+reference: 'Daniel 5:10'

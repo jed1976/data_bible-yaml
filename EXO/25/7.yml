@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 25:7" class="v">7</span>Onyx
+  stones, and stones to be set in the ephod, and in the breastplate. </p>
+id: EXO/25/7
+next:
+  id: EXO/25/8
+  number: '8'
+previous:
+  id: EXO/25/6
+  number: '6'
+reference: 'Exodus 25:7'

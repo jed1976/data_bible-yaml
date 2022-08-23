@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 7:13"
+  class="v">13</span>Consider the work of God: for who can make <span
+  class="add">that</span> straight, which he hath made crooked? </p>
+id: ECC/7/13
+next:
+  id: ECC/7/14
+  number: '14'
+previous:
+  id: ECC/7/12
+  number: '12'
+reference: 'Ecclesiastes 7:13'

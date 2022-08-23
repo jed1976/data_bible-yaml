@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 88:2" class="v">2</span>Let
+  my prayer come before thee: incline thine ear unto my cry;</p>
+id: PSA/88/2
+next:
+  id: PSA/88/3
+  number: '3'
+previous:
+  id: PSA/88/1
+  number: '1'
+reference: 'Psalms 88:2'

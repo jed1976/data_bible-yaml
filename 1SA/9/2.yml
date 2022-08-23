@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 9:2" class="v">2</span>And he
+  had a son, whose name <span class="add">was</span> Saul, a choice young man,
+  and a goodly: and <span class="add">there was</span> not among the children of
+  Israel a goodlier person than he: from his shoulders and upward <span
+  class="add">he was</span> higher than any of the people.</p>
+id: 1SA/9/2
+next:
+  id: 1SA/9/3
+  number: '3'
+previous:
+  id: 1SA/9/1
+  number: '1'
+reference: '1 Samuel 9:2'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 14:21"
+  class="v">21</span>And if he <span class="add">be</span> poor, and cannot get
+  so much; then he shall take one lamb <span class="add">for</span> a trespass
+  offering to be waved, to make an atonement for him, and one tenth deal of fine
+  flour mingled with oil for a meat offering, and a log of oil; </p>
+id: LEV/14/21
+next:
+  id: LEV/14/22
+  number: '22'
+previous:
+  id: LEV/14/20
+  number: '20'
+reference: 'Leviticus 14:21'

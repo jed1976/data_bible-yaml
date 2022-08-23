@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1CO 15:22"
+  class="v">22</span>For as in Adam all die, even so in Christ shall all be made
+  alive. </p>
+id: 1CO/15/22
+next:
+  id: 1CO/15/23
+  number: '23'
+previous:
+  id: 1CO/15/21
+  number: '21'
+reference: '1 Corinthians 15:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 31:4" class="v">4</span>Pull
+  me out of the net that they have laid privily for me: for thou <span
+  class="add">art</span> my strength.</p>
+id: PSA/31/4
+next:
+  id: PSA/31/5
+  number: '5'
+previous:
+  id: PSA/31/3
+  number: '3'
+reference: 'Psalms 31:4'

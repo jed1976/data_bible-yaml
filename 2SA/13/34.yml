@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="2SA 13:34"
+  class="v">34</span>But Absalom fled. And the young man that kept the watch
+  lifted up his eyes, and looked, and, behold, there came much people by the way
+  of the hill side behind him. </p>
+id: 2SA/13/34
+next:
+  id: 2SA/13/35
+  number: '35'
+previous:
+  id: 2SA/13/33
+  number: '33'
+reference: '2 Samuel 13:34'

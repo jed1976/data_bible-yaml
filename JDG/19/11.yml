@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 19:11"
+  class="v">11</span><span class="add">And</span> when they <span
+  class="add">were</span> by Jebus, the day was far spent; and the servant said
+  unto his master, Come, I pray thee, and let us turn in into this city of the
+  Jebusites, and lodge in it. </p>
+id: JDG/19/11
+next:
+  id: JDG/19/12
+  number: '12'
+previous:
+  id: JDG/19/10
+  number: '10'
+reference: 'Judges 19:11'

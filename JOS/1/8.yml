@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 1:8" class="v">8</span>This
+  book of the law shall not depart out of thy mouth; but thou shalt meditate
+  therein day and night, that thou mayest observe to do according to all that is
+  written therein: for then thou shalt make thy way prosperous, and then thou
+  shalt have good success. </p>
+id: JOS/1/8
+next:
+  id: JOS/1/9
+  number: '9'
+previous:
+  id: JOS/1/7
+  number: '7'
+reference: 'Joshua 1:8'

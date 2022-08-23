@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 26:23" class="v">23</span>¶
+  <span class="add">Of</span> the sons of Issachar after their families: <span
+  class="add">of</span> Tola, the family of the Tolaites: of Pua, the family of
+  the Punites: </p>
+id: NUM/26/23
+next:
+  id: NUM/26/24
+  number: '24'
+previous:
+  id: NUM/26/22
+  number: '22'
+reference: 'Numbers 26:23'

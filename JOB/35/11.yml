@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 35:11"
+  class="v">11</span>Who teacheth us more than the beasts of the earth, and
+  maketh us wiser than the fowls of heaven? </p>
+id: JOB/35/11
+next:
+  id: JOB/35/12
+  number: '12'
+previous:
+  id: JOB/35/10
+  number: '10'
+reference: 'Job 35:11'

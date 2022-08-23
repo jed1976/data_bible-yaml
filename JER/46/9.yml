@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 46:9" class="v">9</span>Come
+  up, ye horses; and rage, ye chariots; and let the mighty men come forth; the
+  Ethiopians and the Libyans, that handle the shield; and the Lydians, that
+  handle <span class="add">and</span> bend the bow. </p>
+id: JER/46/9
+next:
+  id: JER/46/10
+  number: '10'
+previous:
+  id: JER/46/8
+  number: '8'
+reference: 'Jeremiah 46:9'

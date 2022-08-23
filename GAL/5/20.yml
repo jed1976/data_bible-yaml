@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GAL 5:20"
+  class="v">20</span>Idolatry, witchcraft, hatred, variance, emulations, wrath,
+  strife, seditions, heresies, </p>
+id: GAL/5/20
+next:
+  id: GAL/5/21
+  number: '21'
+previous:
+  id: GAL/5/19
+  number: '19'
+reference: 'Galatians 5:20'

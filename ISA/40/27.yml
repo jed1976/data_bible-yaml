@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 40:27"
+  class="v">27</span>Why sayest thou, O Jacob, and speakest, O Israel, My way is
+  hid from the <span class="nd">LORD</span>, and my judgment is passed over from
+  my God?</p>
+id: ISA/40/27
+next:
+  id: ISA/40/28
+  number: '28'
+previous:
+  id: ISA/40/26
+  number: '26'
+reference: 'Isaiah 40:27'

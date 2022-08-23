@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 29:5" class="v">5</span>And
+  he said unto them, Know ye Laban the son of Nahor? And they said, We know
+  <span class="add">him</span>. </p>
+id: GEN/29/5
+next:
+  id: GEN/29/6
+  number: '6'
+previous:
+  id: GEN/29/4
+  number: '4'
+reference: 'Genesis 29:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 16:40"
+  class="v">40</span>And they went out of the prison, and entered into <span
+  class="add">the house of</span> Lydia: and when they had seen the brethren,
+  they comforted them, and departed.</p>
+id: ACT/16/40
+next:
+  id: ACT/17/1
+  number: '1'
+previous:
+  id: ACT/16/39
+  number: '39'
+reference: 'Acts 16:40'

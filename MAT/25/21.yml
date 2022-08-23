@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 25:21"
+  class="v">21</span><span class="wj">His lord said unto him, Well done, <span
+  class="add">thou</span> good and faithful servant: thou hast been faithful
+  over a few things, I will make thee ruler over many things: enter thou into
+  the joy of thy lord.</span> </p>
+id: MAT/25/21
+next:
+  id: MAT/25/22
+  number: '22'
+previous:
+  id: MAT/25/20
+  number: '20'
+reference: 'Matthew 25:21'

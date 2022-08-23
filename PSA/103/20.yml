@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 103:20"
+  class="v">20</span>Bless the <span class="nd">LORD</span>, ye his angels, that
+  excel in strength, that do his commandments, hearkening unto the voice of his
+  word.</p>
+id: PSA/103/20
+next:
+  id: PSA/103/21
+  number: '21'
+previous:
+  id: PSA/103/19
+  number: '19'
+reference: 'Psalms 103:20'

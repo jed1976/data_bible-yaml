@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="NUM 14:45"
+  class="v">45</span>Then the Amalekites came down, and the Canaanites which
+  dwelt in that hill, and smote them, and discomfited them, <span
+  class="add">even</span> unto Hormah.</p>
+id: NUM/14/45
+next:
+  id: NUM/15/1
+  number: '1'
+previous:
+  id: NUM/14/44
+  number: '44'
+reference: 'Numbers 14:45'

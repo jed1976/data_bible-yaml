@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 10:16"
+  class="v">16</span>And the Jebusite, and the Amorite, and the Girgasite, </p>
+id: GEN/10/16
+next:
+  id: GEN/10/17
+  number: '17'
+previous:
+  id: GEN/10/15
+  number: '15'
+reference: 'Genesis 10:16'

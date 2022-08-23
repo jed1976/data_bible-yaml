@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 36:4" class="v">4</span>And
+  the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and
+  turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried
+  him to Egypt.</p>
+id: 2CH/36/4
+next:
+  id: 2CH/36/5
+  number: '5'
+previous:
+  id: 2CH/36/3
+  number: '3'
+reference: '2 Chronicles 36:4'

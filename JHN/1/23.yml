@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 1:23" class="v">23</span>He
+  said, I <span class="add">am</span> the voice of one crying in the wilderness,
+  Make straight the way of the Lord, as said the prophet Esaias. </p>
+id: JHN/1/23
+next:
+  id: JHN/1/24
+  number: '24'
+previous:
+  id: JHN/1/22
+  number: '22'
+reference: 'John 1:23'

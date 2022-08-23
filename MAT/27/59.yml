@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="MAT 27:59"
+  class="v">59</span>And when Joseph had taken the body, he wrapped it in a
+  clean linen cloth, </p>
+id: MAT/27/59
+next:
+  id: MAT/27/60
+  number: '60'
+previous:
+  id: MAT/27/58
+  number: '58'
+reference: 'Matthew 27:59'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 32:33"
+  class="v">33</span>And Moses gave unto them, <span class="add">even</span> to
+  the children of Gad, and to the children of Reuben, and unto half the tribe of
+  Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the
+  kingdom of Og king of Bashan, the land, with the cities thereof in the coasts,
+  <span class="add">even</span> the cities of the country round about.</p>
+id: NUM/32/33
+next:
+  id: NUM/32/34
+  number: '34'
+previous:
+  id: NUM/32/32
+  number: '32'
+reference: 'Numbers 32:33'

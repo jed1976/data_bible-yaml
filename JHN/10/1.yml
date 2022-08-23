@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 10:1" class="v">1</span><span
+  class="wj">Verily, verily, I say unto you, He that entereth not by the door
+  into the sheepfold, but climbeth up some other way, the same is a thief and a
+  robber.</span> </p>
+id: JHN/10/1
+next:
+  id: JHN/10/2
+  number: '2'
+previous:
+  id: JHN/9/41
+  number: '41'
+reference: 'John 10:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EZK 18:16"
+  class="v">16</span>Neither hath oppressed any, hath not withholden the pledge,
+  neither hath spoiled by violence, <span class="add">but</span> hath given his
+  bread to the hungry, and hath covered the naked with a garment, </p>
+id: EZK/18/16
+next:
+  id: EZK/18/17
+  number: '17'
+previous:
+  id: EZK/18/15
+  number: '15'
+reference: 'Ezekiel 18:16'

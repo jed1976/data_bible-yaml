@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EPH 6:8"
+  class="v">8</span>Knowing that whatsoever good thing any man doeth, the same
+  shall he receive of the Lord, whether <span class="add">he be</span> bond or
+  free. </p>
+id: EPH/6/8
+next:
+  id: EPH/6/9
+  number: '9'
+previous:
+  id: EPH/6/7
+  number: '7'
+reference: 'Ephesians 6:8'

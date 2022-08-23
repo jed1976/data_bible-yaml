@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 10:13"
+  class="v">13</span>And there came a voice to him, Rise, Peter; kill, and eat.
+  </p>
+id: ACT/10/13
+next:
+  id: ACT/10/14
+  number: '14'
+previous:
+  id: ACT/10/12
+  number: '12'
+reference: 'Acts 10:13'

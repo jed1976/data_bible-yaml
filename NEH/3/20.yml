@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NEH 3:20"
+  class="v">20</span>After him Baruch the son of Zabbai earnestly repaired the
+  other piece, from the turning <span class="add">of the wall</span> unto the
+  door of the house of Eliashib the high priest. </p>
+id: NEH/3/20
+next:
+  id: NEH/3/21
+  number: '21'
+previous:
+  id: NEH/3/19
+  number: '19'
+reference: 'Nehemiah 3:20'

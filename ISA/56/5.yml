@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 56:5" class="v">5</span>Even
+  unto them will I give in mine house and within my walls a place and a name
+  better than of sons and of daughters: I will give them an everlasting name,
+  that shall not be cut off. </p>
+id: ISA/56/5
+next:
+  id: ISA/56/6
+  number: '6'
+previous:
+  id: ISA/56/4
+  number: '4'
+reference: 'Isaiah 56:5'

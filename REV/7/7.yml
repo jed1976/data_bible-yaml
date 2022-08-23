@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 7:7" class="v">7</span>Of the
+  tribe of Simeon <span class="add">were</span> sealed twelve thousand. Of the
+  tribe of Levi <span class="add">were</span> sealed twelve thousand. Of the
+  tribe of Issachar <span class="add">were</span> sealed twelve thousand. </p>
+id: REV/7/7
+next:
+  id: REV/7/8
+  number: '8'
+previous:
+  id: REV/7/6
+  number: '6'
+reference: 'Revelation 7:7'

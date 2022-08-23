@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 7:3" class="v">3</span>And he
+  shall offer of it all the fat thereof; the rump, and the fat that covereth the
+  inwards, </p>
+id: LEV/7/3
+next:
+  id: LEV/7/4
+  number: '4'
+previous:
+  id: LEV/7/2
+  number: '2'
+reference: 'Leviticus 7:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 14:32"
+  class="v">32</span>And when they were come into the ship, the wind ceased.
+  </p>
+id: MAT/14/32
+next:
+  id: MAT/14/33
+  number: '33'
+previous:
+  id: MAT/14/31
+  number: '31'
+reference: 'Matthew 14:32'

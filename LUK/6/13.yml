@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 6:13" class="v">13</span>¶
+  And when it was day, he called <span class="add">unto him</span> his
+  disciples: and of them he chose twelve, whom also he named apostles; </p>
+id: LUK/6/13
+next:
+  id: LUK/6/14
+  number: '14'
+previous:
+  id: LUK/6/12
+  number: '12'
+reference: 'Luke 6:13'

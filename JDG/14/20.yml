@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 14:20"
+  class="v">20</span>But Samson’s wife was <span class="add">given</span> to his
+  companion, whom he had used as his friend.</p>
+id: JDG/14/20
+next:
+  id: JDG/15/1
+  number: '1'
+previous:
+  id: JDG/14/19
+  number: '19'
+reference: 'Judges 14:20'

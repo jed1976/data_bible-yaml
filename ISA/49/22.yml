@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 49:22"
+  class="v">22</span>Thus saith the Lord <span class="nd">GOD</span>, Behold, I
+  will lift up mine hand to the Gentiles, and set up my standard to the people:
+  and they shall bring thy sons in <span class="add">their</span> arms, and thy
+  daughters shall be carried upon <span class="add">their</span> shoulders. </p>
+id: ISA/49/22
+next:
+  id: ISA/49/23
+  number: '23'
+previous:
+  id: ISA/49/21
+  number: '21'
+reference: 'Isaiah 49:22'

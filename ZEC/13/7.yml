@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 13:7" class="v">7</span>¶
+  Awake, O sword, against my shepherd, and against the man <span
+  class="add">that is</span> my fellow, saith the <span class="nd">LORD</span>
+  of hosts: smite the shepherd, and the sheep shall be scattered: and I will
+  turn mine hand upon the little ones. </p>
+id: ZEC/13/7
+next:
+  id: ZEC/13/8
+  number: '8'
+previous:
+  id: ZEC/13/6
+  number: '6'
+reference: 'Zechariah 13:7'

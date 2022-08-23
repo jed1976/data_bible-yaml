@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 7:1" class="v">1</span>How
+  beautiful are thy feet with shoes, O prince’s daughter! the joints of thy
+  thighs <span class="add">are</span> like jewels, the work of the hands of a
+  cunning workman. </p>
+id: SNG/7/1
+next:
+  id: SNG/7/2
+  number: '2'
+previous:
+  id: SNG/6/13
+  number: '13'
+reference: 'Song of Solomon 7:1'

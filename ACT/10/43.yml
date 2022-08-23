@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="ACT 10:43" class="v">43</span>To
+  him give all the prophets witness, that through his name whosoever believeth
+  in him shall receive remission of sins.</p>
+id: ACT/10/43
+next:
+  id: ACT/10/44
+  number: '44'
+previous:
+  id: ACT/10/42
+  number: '42'
+reference: 'Acts 10:43'

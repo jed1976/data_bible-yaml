@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician upon Mahalath, Maschil, <span class="add">A
+  Psalm</span> of David.</p><p class="q1"><span data-number="1" data-sid="PSA
+  53:1" class="v">1</span>The fool hath said in his heart, <span
+  class="add">There is</span> no God. Corrupt are they, and have done abominable
+  iniquity: <span class="add">there is</span> none that doeth good.</p>
+id: PSA/53/1
+next:
+  id: PSA/53/2
+  number: '2'
+previous:
+  id: PSA/52/9
+  number: '9'
+reference: 'Psalms 53:1'

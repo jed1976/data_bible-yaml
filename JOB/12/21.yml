@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 12:21" class="v">21</span>He
+  poureth contempt upon princes, and weakeneth the strength of the mighty. </p>
+id: JOB/12/21
+next:
+  id: JOB/12/22
+  number: '22'
+previous:
+  id: JOB/12/20
+  number: '20'
+reference: 'Job 12:21'

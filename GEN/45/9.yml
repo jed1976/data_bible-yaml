@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 45:9" class="v">9</span>Haste
+  ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God
+  hath made me lord of all Egypt: come down unto me, tarry not: </p>
+id: GEN/45/9
+next:
+  id: GEN/45/10
+  number: '10'
+previous:
+  id: GEN/45/8
+  number: '8'
+reference: 'Genesis 45:9'

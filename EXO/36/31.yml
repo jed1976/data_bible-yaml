@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="EXO 36:31" class="v">31</span>¶
+  And he made bars of shittim wood; five for the boards of the one side of the
+  tabernacle, </p>
+id: EXO/36/31
+next:
+  id: EXO/36/32
+  number: '32'
+previous:
+  id: EXO/36/30
+  number: '30'
+reference: 'Exodus 36:31'

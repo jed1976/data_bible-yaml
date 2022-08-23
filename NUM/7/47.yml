@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="NUM 7:47" class="v">47</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Eliasaph the son of Deuel.</p>
+id: NUM/7/47
+next:
+  id: NUM/7/48
+  number: '48'
+previous:
+  id: NUM/7/46
+  number: '46'
+reference: 'Numbers 7:47'

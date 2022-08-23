@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 61:1" class="v">1</span>The
+  Spirit of the Lord <span class="nd">GOD</span> <span class="add">is</span>
+  upon me; because the <span class="nd">LORD</span> hath anointed me to preach
+  good tidings unto the meek; he hath sent me to bind up the brokenhearted, to
+  proclaim liberty to the captives, and the opening of the prison to <span
+  class="add">them that are</span> bound; </p>
+id: ISA/61/1
+next:
+  id: ISA/61/2
+  number: '2'
+previous:
+  id: ISA/60/22
+  number: '22'
+reference: 'Isaiah 61:1'

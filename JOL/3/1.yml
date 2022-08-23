@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOL 3:1" class="v">1</span>For,
+  behold, in those days, and in that time, when I shall bring again the
+  captivity of Judah and Jerusalem, </p>
+id: JOL/3/1
+next:
+  id: JOL/3/2
+  number: '2'
+previous:
+  id: JOL/2/32
+  number: '32'
+reference: 'Joel 3:1'

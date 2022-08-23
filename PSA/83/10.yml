@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 83:10"
+  class="v">10</span><span class="add">Which</span> perished at Endor: they
+  became <span class="add">as</span> dung for the earth.</p>
+id: PSA/83/10
+next:
+  id: PSA/83/11
+  number: '11'
+previous:
+  id: PSA/83/9
+  number: '9'
+reference: 'Psalms 83:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 6:14"
+  class="v">14</span><span class="wj">For if ye forgive men their trespasses,
+  your heavenly Father will also forgive you:</span> </p>
+id: MAT/6/14
+next:
+  id: MAT/6/15
+  number: '15'
+previous:
+  id: MAT/6/13
+  number: '13'
+reference: 'Matthew 6:14'

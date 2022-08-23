@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 2:14" class="v">14</span>And
+  as he passed by, he saw Levi the <span class="add">son</span> of Alphæus
+  sitting at the receipt of custom, and said unto him, <span class="wj">Follow
+  me.</span> And he arose and followed him. </p>
+id: MRK/2/14
+next:
+  id: MRK/2/15
+  number: '15'
+previous:
+  id: MRK/2/13
+  number: '13'
+reference: 'Mark 2:14'

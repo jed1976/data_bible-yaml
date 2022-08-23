@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 29:21"
+  class="v">21</span>Unto me <span class="add">men</span> gave ear, and waited,
+  and kept silence at my counsel. </p>
+id: JOB/29/21
+next:
+  id: JOB/29/22
+  number: '22'
+previous:
+  id: JOB/29/20
+  number: '20'
+reference: 'Job 29:21'

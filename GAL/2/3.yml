@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GAL 2:3" class="v">3</span>But
+  neither Titus, who was with me, being a Greek, was compelled to be
+  circumcised: </p>
+id: GAL/2/3
+next:
+  id: GAL/2/4
+  number: '4'
+previous:
+  id: GAL/2/2
+  number: '2'
+reference: 'Galatians 2:3'

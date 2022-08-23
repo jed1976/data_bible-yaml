@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 91:5" class="v">5</span>Thou
+  shalt not be afraid for the terror by night; <span class="add">nor</span> for
+  the arrow <span class="add">that</span> flieth by day;</p>
+id: PSA/91/5
+next:
+  id: PSA/91/6
+  number: '6'
+previous:
+  id: PSA/91/4
+  number: '4'
+reference: 'Psalms 91:5'

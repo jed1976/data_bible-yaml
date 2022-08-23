@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JON 4:7" class="v">7</span>But
+  God prepared a worm when the morning rose the next day, and it smote the gourd
+  that it withered. </p>
+id: JON/4/7
+next:
+  id: JON/4/8
+  number: '8'
+previous:
+  id: JON/4/6
+  number: '6'
+reference: 'Jonah 4:7'

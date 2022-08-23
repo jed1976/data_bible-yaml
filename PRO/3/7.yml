@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 3:7" class="v">7</span>¶ Be
+  not wise in thine own eyes: fear the <span class="nd">LORD</span>, and depart
+  from evil. </p>
+id: PRO/3/7
+next:
+  id: PRO/3/8
+  number: '8'
+previous:
+  id: PRO/3/6
+  number: '6'
+reference: 'Proverbs 3:7'

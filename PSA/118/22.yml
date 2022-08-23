@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 118:22"
+  class="v">22</span>The stone <span class="add">which</span> the builders
+  refused is become the head <span class="add">stone</span> of the corner.</p>
+id: PSA/118/22
+next:
+  id: PSA/118/23
+  number: '23'
+previous:
+  id: PSA/118/21
+  number: '21'
+reference: 'Psalms 118:22'

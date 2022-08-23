@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EST 9:9" class="v">9</span>And
+  Parmashta, and Arisai, and Aridai, and Vajezatha, </p>
+id: EST/9/9
+next:
+  id: EST/9/10
+  number: '10'
+previous:
+  id: EST/9/8
+  number: '8'
+reference: 'Esther 9:9'

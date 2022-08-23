@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 16:4" class="v">4</span>I
+  also could speak as ye <span class="add">do:</span> if your soul were in my
+  soul’s stead, I could heap up words against you, and shake mine head at you.
+  </p>
+id: JOB/16/4
+next:
+  id: JOB/16/5
+  number: '5'
+previous:
+  id: JOB/16/3
+  number: '3'
+reference: 'Job 16:4'

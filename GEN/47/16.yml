@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 47:16"
+  class="v">16</span>And Joseph said, Give your cattle; and I will give you for
+  your cattle, if money fail. </p>
+id: GEN/47/16
+next:
+  id: GEN/47/17
+  number: '17'
+previous:
+  id: GEN/47/15
+  number: '15'
+reference: 'Genesis 47:16'

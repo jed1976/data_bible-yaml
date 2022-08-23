@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 11:20"
+  class="v">20</span><span class="add">But</span> even a whole month, until it
+  come out at your nostrils, and it be loathsome unto you: because that ye have
+  despised the <span class="nd">LORD</span> which <span class="add">is</span>
+  among you, and have wept before him, saying, Why came we forth out of Egypt?
+  </p>
+id: NUM/11/20
+next:
+  id: NUM/11/21
+  number: '21'
+previous:
+  id: NUM/11/19
+  number: '19'
+reference: 'Numbers 11:20'

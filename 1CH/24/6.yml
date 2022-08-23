@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CH 24:6" class="v">6</span>And
+  Shemaiah the son of Nethaneel the scribe, <span class="add">one</span> of the
+  Levites, wrote them before the king, and the princes, and Zadok the priest,
+  and Ahimelech the son of Abiathar, and <span class="add">before</span> the
+  chief of the fathers of the priests and Levites: one principal household being
+  taken for Eleazar, and <span class="add">one</span> taken for Ithamar. </p>
+id: 1CH/24/6
+next:
+  id: 1CH/24/7
+  number: '7'
+previous:
+  id: 1CH/24/5
+  number: '5'
+reference: '1 Chronicles 24:6'

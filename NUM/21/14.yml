@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 21:14"
+  class="v">14</span>Wherefore it is said in the book of the wars of the <span
+  class="nd">LORD</span>, What he did in the Red sea, and in the brooks of
+  Arnon, </p>
+id: NUM/21/14
+next:
+  id: NUM/21/15
+  number: '15'
+previous:
+  id: NUM/21/13
+  number: '13'
+reference: 'Numbers 21:14'

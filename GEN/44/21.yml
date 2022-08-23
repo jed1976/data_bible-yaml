@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 44:21"
+  class="v">21</span>And thou saidst unto thy servants, Bring him down unto me,
+  that I may set mine eyes upon him. </p>
+id: GEN/44/21
+next:
+  id: GEN/44/22
+  number: '22'
+previous:
+  id: GEN/44/20
+  number: '20'
+reference: 'Genesis 44:21'

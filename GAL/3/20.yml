@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GAL 3:20" class="v">20</span>Now
+  a mediator is not <span class="add">a mediator</span> of one, but God is one.
+  </p>
+id: GAL/3/20
+next:
+  id: GAL/3/21
+  number: '21'
+previous:
+  id: GAL/3/19
+  number: '19'
+reference: 'Galatians 3:20'

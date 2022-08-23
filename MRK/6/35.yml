@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 6:35" class="v">35</span>And
+  when the day was now far spent, his disciples came unto him, and said, This is
+  a desert place, and now the time <span class="add">is</span> far passed: </p>
+id: MRK/6/35
+next:
+  id: MRK/6/36
+  number: '36'
+previous:
+  id: MRK/6/34
+  number: '34'
+reference: 'Mark 6:35'

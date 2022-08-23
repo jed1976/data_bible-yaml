@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 39:9" class="v">9</span>Will
+  the unicorn be willing to serve thee, or abide by thy crib? </p>
+id: JOB/39/9
+next:
+  id: JOB/39/10
+  number: '10'
+previous:
+  id: JOB/39/8
+  number: '8'
+reference: 'Job 39:9'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 13:22"
+  class="v">22</span>But camest back, and hast eaten bread and drunk water in
+  the place, of the which <span class="add">the <span
+  class="nd">Lord</span></span> did say to thee, Eat no bread, and drink no
+  water; thy carcase shall not come unto the sepulchre of thy fathers.</p>
+id: 1KI/13/22
+next:
+  id: 1KI/13/23
+  number: '23'
+previous:
+  id: 1KI/13/21
+  number: '21'
+reference: '1 Kings 13:22'

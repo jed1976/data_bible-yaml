@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JER 25:24"
+  class="v">24</span>And all the kings of Arabia, and all the kings of the
+  mingled people that dwell in the desert, </p>
+id: JER/25/24
+next:
+  id: JER/25/25
+  number: '25'
+previous:
+  id: JER/25/23
+  number: '23'
+reference: 'Jeremiah 25:24'

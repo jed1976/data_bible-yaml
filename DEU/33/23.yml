@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 33:23" class="v">23</span>¶
+  And of Naphtali he said, O Naphtali, satisfied with favour, and full with the
+  blessing of the <span class="nd">LORD</span>: possess thou the west and the
+  south.</p>
+id: DEU/33/23
+next:
+  id: DEU/33/24
+  number: '24'
+previous:
+  id: DEU/33/22
+  number: '22'
+reference: 'Deuteronomy 33:23'

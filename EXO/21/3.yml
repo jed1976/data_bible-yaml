@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 21:3" class="v">3</span>If he
+  came in by himself, he shall go out by himself: if he were married, then his
+  wife shall go out with him. </p>
+id: EXO/21/3
+next:
+  id: EXO/21/4
+  number: '4'
+previous:
+  id: EXO/21/2
+  number: '2'
+reference: 'Exodus 21:3'

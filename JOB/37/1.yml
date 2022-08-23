@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 37:1" class="v">1</span>At
+  this also my heart trembleth, and is moved out of his place. </p>
+id: JOB/37/1
+next:
+  id: JOB/37/2
+  number: '2'
+previous:
+  id: JOB/36/33
+  number: '33'
+reference: 'Job 37:1'

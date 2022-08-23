@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 4:20" class="v">20</span>For
+  the kingdom of God <span class="add">is</span> not in word, but in power. </p>
+id: 1CO/4/20
+next:
+  id: 1CO/4/21
+  number: '21'
+previous:
+  id: 1CO/4/19
+  number: '19'
+reference: '1 Corinthians 4:20'

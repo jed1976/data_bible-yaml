@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 22:3" class="v">3</span>¶ And
+  Abraham rose up early in the morning, and saddled his ass, and took two of his
+  young men with him, and Isaac his son, and clave the wood for the burnt
+  offering, and rose up, and went unto the place of which God had told him. </p>
+id: GEN/22/3
+next:
+  id: GEN/22/4
+  number: '4'
+previous:
+  id: GEN/22/2
+  number: '2'
+reference: 'Genesis 22:3'

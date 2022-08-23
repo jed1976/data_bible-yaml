@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 46:1" class="v">1</span>And
+  Israel took his journey with all that he had, and came to Beer-sheba, and
+  offered sacrifices unto the God of his father Isaac. </p>
+id: GEN/46/1
+next:
+  id: GEN/46/2
+  number: '2'
+previous:
+  id: GEN/45/28
+  number: '28'
+reference: 'Genesis 46:1'

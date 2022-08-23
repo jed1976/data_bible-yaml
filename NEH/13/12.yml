@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 13:12"
+  class="v">12</span>Then brought all Judah the tithe of the corn and the new
+  wine and the oil unto the treasuries. </p>
+id: NEH/13/12
+next:
+  id: NEH/13/13
+  number: '13'
+previous:
+  id: NEH/13/11
+  number: '11'
+reference: 'Nehemiah 13:12'

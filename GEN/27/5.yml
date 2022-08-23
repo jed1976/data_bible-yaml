@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 27:5" class="v">5</span>And
+  Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to
+  hunt <span class="add">for</span> venison, <span class="add">and</span> to
+  bring <span class="add">it</span>.</p>
+id: GEN/27/5
+next:
+  id: GEN/27/6
+  number: '6'
+previous:
+  id: GEN/27/4
+  number: '4'
+reference: 'Genesis 27:5'

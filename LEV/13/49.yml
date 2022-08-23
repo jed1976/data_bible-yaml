@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LEV 13:49"
+  class="v">49</span>And if the plague be greenish or reddish in the garment, or
+  in the skin, either in the warp, or in the woof, or in any thing of skin; it
+  <span class="add">is</span> a plague of leprosy, and shall be shewed unto the
+  priest: </p>
+id: LEV/13/49
+next:
+  id: LEV/13/50
+  number: '50'
+previous:
+  id: LEV/13/48
+  number: '48'
+reference: 'Leviticus 13:49'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 1:4" class="v">4</span>And
+  with you there shall be a man of every tribe; every one head of the house of
+  his fathers.</p>
+id: NUM/1/4
+next:
+  id: NUM/1/5
+  number: '5'
+previous:
+  id: NUM/1/3
+  number: '3'
+reference: 'Numbers 1:4'

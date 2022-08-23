@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 33:21"
+  class="v">21</span>For our heart shall rejoice in him, because we have trusted
+  in his holy name.</p>
+id: PSA/33/21
+next:
+  id: PSA/33/22
+  number: '22'
+previous:
+  id: PSA/33/20
+  number: '20'
+reference: 'Psalms 33:21'

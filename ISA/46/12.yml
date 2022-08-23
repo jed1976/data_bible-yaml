@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 46:12" class="v">12</span>¶
+  Hearken unto me, ye stouthearted, that <span class="add">are</span> far from
+  righteousness: </p>
+id: ISA/46/12
+next:
+  id: ISA/46/13
+  number: '13'
+previous:
+  id: ISA/46/11
+  number: '11'
+reference: 'Isaiah 46:12'

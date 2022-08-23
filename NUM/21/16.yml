@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 21:16"
+  class="v">16</span>And from thence <span class="add">they went</span> to Beer:
+  that <span class="add">is</span> the well whereof the <span
+  class="nd">LORD</span> spake unto Moses, Gather the people together, and I
+  will give them water.</p>
+id: NUM/21/16
+next:
+  id: NUM/21/17
+  number: '17'
+previous:
+  id: NUM/21/15
+  number: '15'
+reference: 'Numbers 21:16'

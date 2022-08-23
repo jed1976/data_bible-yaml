@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 33:19"
+  class="v">19</span>Thou shalt not see a fierce people, a people of a deeper
+  speech than thou canst perceive; of a stammering tongue, <span
+  class="add">that thou canst</span> not understand. </p>
+id: ISA/33/19
+next:
+  id: ISA/33/20
+  number: '20'
+previous:
+  id: ISA/33/18
+  number: '18'
+reference: 'Isaiah 33:19'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 5:12"
+  class="v">12</span>Then shall he bring it to the priest, and the priest shall
+  take his handful of it, <span class="add">even</span> a memorial thereof, and
+  burn <span class="add">it</span> on the altar, according to the offerings made
+  by fire unto the <span class="nd">LORD</span>: it <span class="add">is</span>
+  a sin offering. </p>
+id: LEV/5/12
+next:
+  id: LEV/5/13
+  number: '13'
+previous:
+  id: LEV/5/11
+  number: '11'
+reference: 'Leviticus 5:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 22:26"
+  class="v">26</span>When the centurion heard <span class="add">that</span>, he
+  went and told the chief captain, saying, Take heed what thou doest: for this
+  man is a Roman. </p>
+id: ACT/22/26
+next:
+  id: ACT/22/27
+  number: '27'
+previous:
+  id: ACT/22/25
+  number: '25'
+reference: 'Acts 22:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 139:23"
+  class="v">23</span>Search me, O God, and know my heart: try me, and know my
+  thoughts:</p>
+id: PSA/139/23
+next:
+  id: PSA/139/24
+  number: '24'
+previous:
+  id: PSA/139/22
+  number: '22'
+reference: 'Psalms 139:23'

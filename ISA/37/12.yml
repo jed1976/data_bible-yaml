@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 37:12"
+  class="v">12</span>Have the gods of the nations delivered them which my
+  fathers have destroyed, <span class="add">as</span> Gozan, and Haran, and
+  Rezeph, and the children of Eden which <span class="add">were</span> in
+  Telassar? </p>
+id: ISA/37/12
+next:
+  id: ISA/37/13
+  number: '13'
+previous:
+  id: ISA/37/11
+  number: '11'
+reference: 'Isaiah 37:12'

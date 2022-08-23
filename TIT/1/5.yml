@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="TIT 1:5" class="v">5</span>For
+  this cause left I thee in Crete, that thou shouldest set in order the things
+  that are wanting, and ordain elders in every city, as I had appointed thee:
+  </p>
+id: TIT/1/5
+next:
+  id: TIT/1/6
+  number: '6'
+previous:
+  id: TIT/1/4
+  number: '4'
+reference: 'Titus 1:5'

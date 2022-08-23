@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 31:4" class="v">4</span><span
+  class="add">It is</span> not for kings, O Lemuel, <span class="add">it
+  is</span> not for kings to drink wine; nor for princes strong drink: </p>
+id: PRO/31/4
+next:
+  id: PRO/31/5
+  number: '5'
+previous:
+  id: PRO/31/3
+  number: '3'
+reference: 'Proverbs 31:4'

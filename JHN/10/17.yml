@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 10:17"
+  class="v">17</span><span class="wj">Therefore doth my Father love me, because
+  I lay down my life, that I might take it again.</span> </p>
+id: JHN/10/17
+next:
+  id: JHN/10/18
+  number: '18'
+previous:
+  id: JHN/10/16
+  number: '16'
+reference: 'John 10:17'

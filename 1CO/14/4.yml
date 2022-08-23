@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 14:4" class="v">4</span>He
+  that speaketh in an <span class="add">unknown</span> tongue edifieth himself;
+  but he that prophesieth edifieth the church. </p>
+id: 1CO/14/4
+next:
+  id: 1CO/14/5
+  number: '5'
+previous:
+  id: 1CO/14/3
+  number: '3'
+reference: '1 Corinthians 14:4'

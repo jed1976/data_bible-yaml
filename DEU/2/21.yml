@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 2:21" class="v">21</span>A
+  people great, and many, and tall, as the Anakims; but the <span
+  class="nd">LORD</span> destroyed them before them; and they succeeded them,
+  and dwelt in their stead: </p>
+id: DEU/2/21
+next:
+  id: DEU/2/22
+  number: '22'
+previous:
+  id: DEU/2/20
+  number: '20'
+reference: 'Deuteronomy 2:21'

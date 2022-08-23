@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 1:9" class="v">9</span>And
+  when he had spoken these things, while they beheld, he was taken up; and a
+  cloud received him out of their sight. </p>
+id: ACT/1/9
+next:
+  id: ACT/1/10
+  number: '10'
+previous:
+  id: ACT/1/8
+  number: '8'
+reference: 'Acts 1:9'

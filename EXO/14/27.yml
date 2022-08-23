@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 14:27"
+  class="v">27</span>And Moses stretched forth his hand over the sea, and the
+  sea returned to his strength when the morning appeared; and the Egyptians fled
+  against it; and the <span class="nd">LORD</span> overthrew the Egyptians in
+  the midst of the sea. </p>
+id: EXO/14/27
+next:
+  id: EXO/14/28
+  number: '28'
+previous:
+  id: EXO/14/26
+  number: '26'
+reference: 'Exodus 14:27'

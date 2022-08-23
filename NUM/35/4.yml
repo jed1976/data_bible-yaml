@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 35:4" class="v">4</span>And
+  the suburbs of the cities, which ye shall give unto the Levites, <span
+  class="add">shall reach</span> from the wall of the city and outward a
+  thousand cubits round about. </p>
+id: NUM/35/4
+next:
+  id: NUM/35/5
+  number: '5'
+previous:
+  id: NUM/35/3
+  number: '3'
+reference: 'Numbers 35:4'

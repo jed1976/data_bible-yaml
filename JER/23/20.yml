@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 23:20"
+  class="v">20</span>The anger of the <span class="nd">LORD</span> shall not
+  return, until he have executed, and till he have performed the thoughts of his
+  heart: in the latter days ye shall consider it perfectly. </p>
+id: JER/23/20
+next:
+  id: JER/23/21
+  number: '21'
+previous:
+  id: JER/23/19
+  number: '19'
+reference: 'Jeremiah 23:20'

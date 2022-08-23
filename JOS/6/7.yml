@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 6:7" class="v">7</span>And he
+  said unto the people, Pass on, and compass the city, and let him that is armed
+  pass on before the ark of the <span class="nd">LORD</span>.</p>
+id: JOS/6/7
+next:
+  id: JOS/6/8
+  number: '8'
+previous:
+  id: JOS/6/6
+  number: '6'
+reference: 'Joshua 6:7'

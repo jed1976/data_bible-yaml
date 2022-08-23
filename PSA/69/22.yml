@@ -1,0 +1,14 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="22" data-sid="PSA 69:22"
+  class="v">22</span>Let their table become a snare before them: and <span
+  class="add">that which should have been</span> for <span
+  class="add">their</span> welfare, <span class="add">let it become</span> a
+  trap.</p>
+id: PSA/69/22
+next:
+  id: PSA/69/23
+  number: '23'
+previous:
+  id: PSA/69/21
+  number: '21'
+reference: 'Psalms 69:22'

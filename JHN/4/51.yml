@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JHN 4:51" class="v">51</span>And
+  as he was now going down, his servants met him, and told <span
+  class="add">him</span>, saying, Thy son liveth. </p>
+id: JHN/4/51
+next:
+  id: JHN/4/52
+  number: '52'
+previous:
+  id: JHN/4/50
+  number: '50'
+reference: 'John 4:51'

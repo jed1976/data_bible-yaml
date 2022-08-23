@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 3:7" class="v">7</span>¶ And
+  the <span class="nd">LORD</span> said unto Joshua, This day will I begin to
+  magnify thee in the sight of all Israel, that they may know that, as I was
+  with Moses, <span class="add">so</span> I will be with thee. </p>
+id: JOS/3/7
+next:
+  id: JOS/3/8
+  number: '8'
+previous:
+  id: JOS/3/6
+  number: '6'
+reference: 'Joshua 3:7'

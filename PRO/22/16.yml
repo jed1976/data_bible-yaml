@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 22:16" class="v">16</span>He
+  that oppresseth the poor to increase his <span class="add">riches, and</span>
+  he that giveth to the rich, <span class="add">shall</span> surely <span
+  class="add">come</span> to want.</p>
+id: PRO/22/16
+next:
+  id: PRO/22/17
+  number: '17'
+previous:
+  id: PRO/22/15
+  number: '15'
+reference: 'Proverbs 22:16'

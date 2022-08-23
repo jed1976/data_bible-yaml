@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="NUM 29:39"
+  class="v">39</span>These <span class="add">things</span> ye shall do unto the
+  <span class="nd">LORD</span> in your set feasts, beside your vows, and your
+  freewill offerings, for your burnt offerings, and for your meat offerings, and
+  for your drink offerings, and for your peace offerings. </p>
+id: NUM/29/39
+next:
+  id: NUM/29/40
+  number: '40'
+previous:
+  id: NUM/29/38
+  number: '38'
+reference: 'Numbers 29:39'

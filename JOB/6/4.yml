@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 6:4" class="v">4</span>For
+  the arrows of the Almighty <span class="add">are</span> within me, the poison
+  whereof drinketh up my spirit: the terrors of God do set themselves in array
+  against me. </p>
+id: JOB/6/4
+next:
+  id: JOB/6/5
+  number: '5'
+previous:
+  id: JOB/6/3
+  number: '3'
+reference: 'Job 6:4'

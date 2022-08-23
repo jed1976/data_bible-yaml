@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 18:15" class="v">15</span>¶
+  And Simon Peter followed Jesus, and <span class="add">so did</span> another
+  disciple: that disciple was known unto the high priest, and went in with Jesus
+  into the palace of the high priest. </p>
+id: JHN/18/15
+next:
+  id: JHN/18/16
+  number: '16'
+previous:
+  id: JHN/18/14
+  number: '14'
+reference: 'John 18:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 7:23" class="v">23</span>And
+  Pharaoh turned and went into his house, neither did he set his heart to this
+  also. </p>
+id: EXO/7/23
+next:
+  id: EXO/7/24
+  number: '24'
+previous:
+  id: EXO/7/22
+  number: '22'
+reference: 'Exodus 7:23'

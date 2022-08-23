@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 17:5" class="v">5</span>Then
+  said Absalom, Call now Hushai the Archite also, and let us hear likewise what
+  he saith. </p>
+id: 2SA/17/5
+next:
+  id: 2SA/17/6
+  number: '6'
+previous:
+  id: 2SA/17/4
+  number: '4'
+reference: '2 Samuel 17:5'

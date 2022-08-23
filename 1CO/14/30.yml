@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1CO 14:30" class="v">30</span>If
+  <span class="add">any thing</span> be revealed to another that sitteth by, let
+  the first hold his peace. </p>
+id: 1CO/14/30
+next:
+  id: 1CO/14/31
+  number: '31'
+previous:
+  id: 1CO/14/29
+  number: '29'
+reference: '1 Corinthians 14:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="98" data-sid="PSA 119:98"
+  class="v">98</span>Thou through thy commandments hast made me wiser than mine
+  enemies: for they <span class="add">are</span> ever with me.</p>
+id: PSA/119/98
+next:
+  id: PSA/119/99
+  number: '99'
+previous:
+  id: PSA/119/97
+  number: '97'
+reference: 'Psalms 119:98'

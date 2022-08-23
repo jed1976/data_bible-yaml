@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 20:20"
+  class="v">20</span>And Moses said unto the people, Fear not: for God is come
+  to prove you, and that his fear may be before your faces, that ye sin not.
+  </p>
+id: EXO/20/20
+next:
+  id: EXO/20/21
+  number: '21'
+previous:
+  id: EXO/20/19
+  number: '19'
+reference: 'Exodus 20:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 40:16"
+  class="v">16</span>When the chief baker saw that the interpretation was good,
+  he said unto Joseph, I also <span class="add">was</span> in my dream, and,
+  behold, <span class="add">I had</span> three white baskets on my head: </p>
+id: GEN/40/16
+next:
+  id: GEN/40/17
+  number: '17'
+previous:
+  id: GEN/40/15
+  number: '15'
+reference: 'Genesis 40:16'

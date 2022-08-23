@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 55:11" class="v">11</span>So
+  shall my word be that goeth forth out of my mouth: it shall not return unto me
+  void, but it shall accomplish that which I please, and it shall prosper <span
+  class="add">in the thing</span> whereto I sent it. </p>
+id: ISA/55/11
+next:
+  id: ISA/55/12
+  number: '12'
+previous:
+  id: ISA/55/10
+  number: '10'
+reference: 'Isaiah 55:11'

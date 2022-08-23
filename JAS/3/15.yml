@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JAS 3:15"
+  class="v">15</span>This wisdom descendeth not from above, but <span
+  class="add">is</span> earthly, sensual, devilish. </p>
+id: JAS/3/15
+next:
+  id: JAS/3/16
+  number: '16'
+previous:
+  id: JAS/3/14
+  number: '14'
+reference: 'James 3:15'

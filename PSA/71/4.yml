@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 71:4"
+  class="v">4</span>Deliver me, O my God, out of the hand of the wicked, out of
+  the hand of the unrighteous and cruel man.</p>
+id: PSA/71/4
+next:
+  id: PSA/71/5
+  number: '5'
+previous:
+  id: PSA/71/3
+  number: '3'
+reference: 'Psalms 71:4'

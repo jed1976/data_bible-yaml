@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 9:15" class="v">15</span>For
+  the Jews that <span class="add">were</span> in Shushan gathered themselves
+  together on the fourteenth day also of the month Adar, and slew three hundred
+  men at Shushan; but on the prey they laid not their hand. </p>
+id: EST/9/15
+next:
+  id: EST/9/16
+  number: '16'
+previous:
+  id: EST/9/14
+  number: '14'
+reference: 'Esther 9:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1KI 1:27" class="v">27</span>Is
+  this thing done by my lord the king, and thou hast not shewed <span
+  class="add">it</span> unto thy servant, who should sit on the throne of my
+  lord the king after him?</p>
+id: 1KI/1/27
+next:
+  id: 1KI/1/28
+  number: '28'
+previous:
+  id: 1KI/1/26
+  number: '26'
+reference: '1 Kings 1:27'

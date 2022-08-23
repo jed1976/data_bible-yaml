@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 8:26" class="v">26</span>And
+  out of the basket of unleavened bread, that <span class="add">was</span>
+  before the <span class="nd">LORD</span>, he took one unleavened cake, and a
+  cake of oiled bread, and one wafer, and put <span class="add">them</span> on
+  the fat, and upon the right shoulder: </p>
+id: LEV/8/26
+next:
+  id: LEV/8/27
+  number: '27'
+previous:
+  id: LEV/8/25
+  number: '25'
+reference: 'Leviticus 8:26'

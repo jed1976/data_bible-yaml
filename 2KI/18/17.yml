@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2KI 18:17" class="v">17</span>¶
+  And the king of Assyria sent Tartan and Rabsaris and Rab-shakeh from Lachish
+  to king Hezekiah with a great host against Jerusalem. And they went up and
+  came to Jerusalem. And when they were come up, they came and stood by the
+  conduit of the upper pool, which <span class="add">is</span> in the highway of
+  the fuller’s field. </p>
+id: 2KI/18/17
+next:
+  id: 2KI/18/18
+  number: '18'
+previous:
+  id: 2KI/18/16
+  number: '16'
+reference: '2 Kings 18:17'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EZR 2:8" class="v">8</span>The
+  children of Zattu, nine hundred forty and five. </p>
+id: EZR/2/8
+next:
+  id: EZR/2/9
+  number: '9'
+previous:
+  id: EZR/2/7
+  number: '7'
+reference: 'Ezra 2:8'

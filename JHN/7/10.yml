@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 7:10" class="v">10</span>¶
+  But when his brethren were gone up, then went he also up unto the feast, not
+  openly, but as it were in secret. </p>
+id: JHN/7/10
+next:
+  id: JHN/7/11
+  number: '11'
+previous:
+  id: JHN/7/9
+  number: '9'
+reference: 'John 7:10'

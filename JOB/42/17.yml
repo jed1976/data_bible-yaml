@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 42:17" class="v">17</span>So
+  Job died, <span class="add">being</span> old and full of days.</p>
+id: JOB/42/17
+next:
+  id: PSA/intro/0
+  number: '0'
+previous:
+  id: JOB/42/16
+  number: '16'
+reference: 'Job 42:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="REV 2:25"
+  class="v">25</span><span class="wj">But that which ye have <span
+  class="add">already</span> hold fast till I come.</span> </p>
+id: REV/2/25
+next:
+  id: REV/2/26
+  number: '26'
+previous:
+  id: REV/2/24
+  number: '24'
+reference: 'Revelation 2:25'

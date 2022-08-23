@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ROM 9:31" class="v">31</span>But
+  Israel, which followed after the law of righteousness, hath not attained to
+  the law of righteousness. </p>
+id: ROM/9/31
+next:
+  id: ROM/9/32
+  number: '32'
+previous:
+  id: ROM/9/30
+  number: '30'
+reference: 'Romans 9:31'

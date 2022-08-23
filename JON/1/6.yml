@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JON 1:6" class="v">6</span>So the
+  shipmaster came to him, and said unto him, What meanest thou, O sleeper?
+  arise, call upon thy God, if so be that God will think upon us, that we perish
+  not. </p>
+id: JON/1/6
+next:
+  id: JON/1/7
+  number: '7'
+previous:
+  id: JON/1/5
+  number: '5'
+reference: 'Jonah 1:6'

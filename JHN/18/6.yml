@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 18:6" class="v">6</span>As
+  soon then as he had said unto them, I am <span class="add">he</span>, they
+  went backward, and fell to the ground. </p>
+id: JHN/18/6
+next:
+  id: JHN/18/7
+  number: '7'
+previous:
+  id: JHN/18/5
+  number: '5'
+reference: 'John 18:6'

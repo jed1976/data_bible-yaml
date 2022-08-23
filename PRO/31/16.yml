@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 31:16"
+  class="v">16</span>She considereth a field, and buyeth it: with the fruit of
+  her hands she planteth a vineyard. </p>
+id: PRO/31/16
+next:
+  id: PRO/31/17
+  number: '17'
+previous:
+  id: PRO/31/15
+  number: '15'
+reference: 'Proverbs 31:16'

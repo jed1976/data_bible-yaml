@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 26:11"
+  class="v">11</span>And thou shalt rejoice in every good <span
+  class="add">thing</span> which the <span class="nd">LORD</span> thy God hath
+  given unto thee, and unto thine house, thou, and the Levite, and the stranger
+  that <span class="add">is</span> among you.</p>
+id: DEU/26/11
+next:
+  id: DEU/26/12
+  number: '12'
+previous:
+  id: DEU/26/10
+  number: '10'
+reference: 'Deuteronomy 26:11'

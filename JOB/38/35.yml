@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOB 38:35"
+  class="v">35</span>Canst thou send lightnings, that they may go, and say unto
+  thee, Here we <span class="add">are</span>? </p>
+id: JOB/38/35
+next:
+  id: JOB/38/36
+  number: '36'
+previous:
+  id: JOB/38/34
+  number: '34'
+reference: 'Job 38:35'

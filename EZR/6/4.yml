@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 6:4" class="v">4</span><span
+  class="add">With</span> three rows of great stones, and a row of new timber:
+  and let the expenses be given out of the king’s house: </p>
+id: EZR/6/4
+next:
+  id: EZR/6/5
+  number: '5'
+previous:
+  id: EZR/6/3
+  number: '3'
+reference: 'Ezra 6:4'

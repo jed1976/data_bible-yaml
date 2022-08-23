@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 16:7"
+  class="v">7</span>Salute Andronicus and Junia, my kinsmen, and my
+  fellowprisoners, who are of note among the apostles, who also were in Christ
+  before me. </p>
+id: ROM/16/7
+next:
+  id: ROM/16/8
+  number: '8'
+previous:
+  id: ROM/16/6
+  number: '6'
+reference: 'Romans 16:7'

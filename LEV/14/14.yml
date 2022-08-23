@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 14:14"
+  class="v">14</span>And the priest shall take <span class="add">some</span> of
+  the blood of the trespass offering, and the priest shall put <span
+  class="add">it</span> upon the tip of the right ear of him that is to be
+  cleansed, and upon the thumb of his right hand, and upon the great toe of his
+  right foot: </p>
+id: LEV/14/14
+next:
+  id: LEV/14/15
+  number: '15'
+previous:
+  id: LEV/14/13
+  number: '13'
+reference: 'Leviticus 14:14'

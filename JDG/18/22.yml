@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 18:22" class="v">22</span>¶
+  <span class="add">And</span> when they were a good way from the house of
+  Micah, the men that <span class="add">were</span> in the houses near to
+  Micah’s house were gathered together, and overtook the children of Dan. </p>
+id: JDG/18/22
+next:
+  id: JDG/18/23
+  number: '23'
+previous:
+  id: JDG/18/21
+  number: '21'
+reference: 'Judges 18:22'

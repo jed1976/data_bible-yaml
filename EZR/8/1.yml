@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 8:1" class="v">1</span>These
+  <span class="add">are</span> now the chief of their fathers, and <span
+  class="add">this is</span> the genealogy of them that went up with me from
+  Babylon, in the reign of Artaxerxes the king. </p>
+id: EZR/8/1
+next:
+  id: EZR/8/2
+  number: '2'
+previous:
+  id: EZR/7/28
+  number: '28'
+reference: 'Ezra 8:1'

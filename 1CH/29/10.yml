@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CH 29:10" class="v">10</span>¶
+  Wherefore David blessed the <span class="nd">LORD</span> before all the
+  congregation: and David said, Blessed <span class="add">be</span> thou, <span
+  class="nd">LORD</span> God of Israel our father, for ever and ever. </p>
+id: 1CH/29/10
+next:
+  id: 1CH/29/11
+  number: '11'
+previous:
+  id: 1CH/29/9
+  number: '9'
+reference: '1 Chronicles 29:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 31:15"
+  class="v">15</span>And the <span class="nd">LORD</span> appeared in the
+  tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the
+  door of the tabernacle.</p>
+id: DEU/31/15
+next:
+  id: DEU/31/16
+  number: '16'
+previous:
+  id: DEU/31/14
+  number: '14'
+reference: 'Deuteronomy 31:15'

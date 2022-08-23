@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEP 1:10" class="v">10</span>And
+  it shall come to pass in that day, saith the <span class="nd">LORD</span>,
+  <span class="add">that there shall be</span> the noise of a cry from the fish
+  gate, and an howling from the second, and a great crashing from the hills.
+  </p>
+id: ZEP/1/10
+next:
+  id: ZEP/1/11
+  number: '11'
+previous:
+  id: ZEP/1/9
+  number: '9'
+reference: 'Zephaniah 1:10'

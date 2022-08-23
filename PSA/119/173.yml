@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="173" data-sid="PSA 119:173"
+  class="v">173</span>Let thine hand help me; for I have chosen thy
+  precepts.</p>
+id: PSA/119/173
+next:
+  id: PSA/119/174
+  number: '174'
+previous:
+  id: PSA/119/172
+  number: '172'
+reference: 'Psalms 119:173'

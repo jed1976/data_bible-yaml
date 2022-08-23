@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 9:24" class="v">24</span>And
+  they answered Joshua, and said, Because it was certainly told thy servants,
+  how that the <span class="nd">LORD</span> thy God commanded his servant Moses
+  to give you all the land, and to destroy all the inhabitants of the land from
+  before you, therefore we were sore afraid of our lives because of you, and
+  have done this thing. </p>
+id: JOS/9/24
+next:
+  id: JOS/9/25
+  number: '25'
+previous:
+  id: JOS/9/23
+  number: '23'
+reference: 'Joshua 9:24'

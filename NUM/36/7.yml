@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 36:7" class="v">7</span>So
+  shall not the inheritance of the children of Israel remove from tribe to
+  tribe: for every one of the children of Israel shall keep himself to the
+  inheritance of the tribe of his fathers. </p>
+id: NUM/36/7
+next:
+  id: NUM/36/8
+  number: '8'
+previous:
+  id: NUM/36/6
+  number: '6'
+reference: 'Numbers 36:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="14" data-sid="PSA 51:14"
+  class="v">14</span>Deliver me from bloodguiltiness, O God, thou God of my
+  salvation: <span class="add">and</span> my tongue shall sing aloud of thy
+  righteousness.</p>
+id: PSA/51/14
+next:
+  id: PSA/51/15
+  number: '15'
+previous:
+  id: PSA/51/13
+  number: '13'
+reference: 'Psalms 51:14'

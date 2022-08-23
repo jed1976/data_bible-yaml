@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 16:4" class="v">4</span>He
+  shall put on the holy linen coat, and he shall have the linen breeches upon
+  his flesh, and shall be girded with a linen girdle, and with the linen mitre
+  shall he be attired: these <span class="add">are</span> holy garments;
+  therefore shall he wash his flesh in water, and <span class="add">so</span>
+  put them on.</p>
+id: LEV/16/4
+next:
+  id: LEV/16/5
+  number: '5'
+previous:
+  id: LEV/16/3
+  number: '3'
+reference: 'Leviticus 16:4'

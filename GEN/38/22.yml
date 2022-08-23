@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 38:22"
+  class="v">22</span>And he returned to Judah, and said, I cannot find her; and
+  also the men of the place said, <span class="add">that</span> there was no
+  harlot in this <span class="add">place</span>. </p>
+id: GEN/38/22
+next:
+  id: GEN/38/23
+  number: '23'
+previous:
+  id: GEN/38/21
+  number: '21'
+reference: 'Genesis 38:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1TH 5:3" class="v">3</span>For
+  when they shall say, Peace and safety; then sudden destruction cometh upon
+  them, as travail upon a woman with child; and they shall not escape. </p>
+id: 1TH/5/3
+next:
+  id: 1TH/5/4
+  number: '4'
+previous:
+  id: 1TH/5/2
+  number: '2'
+reference: '1 Thessalonians 5:3'

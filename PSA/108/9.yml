@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 108:9"
+  class="v">9</span>Moab <span class="add">is</span> my washpot; over Edom will
+  I cast out my shoe; over Philistia will I triumph.</p>
+id: PSA/108/9
+next:
+  id: PSA/108/10
+  number: '10'
+previous:
+  id: PSA/108/8
+  number: '8'
+reference: 'Psalms 108:9'

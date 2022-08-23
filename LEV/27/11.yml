@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 27:11"
+  class="v">11</span>And if <span class="add">it be</span> any unclean beast, of
+  which they do not offer a sacrifice unto the <span class="nd">LORD</span>,
+  then he shall present the beast before the priest: </p>
+id: LEV/27/11
+next:
+  id: LEV/27/12
+  number: '12'
+previous:
+  id: LEV/27/10
+  number: '10'
+reference: 'Leviticus 27:11'

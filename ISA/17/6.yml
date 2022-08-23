@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 17:6" class="v">6</span>¶ Yet
+  gleaning grapes shall be left in it, as the shaking of an olive tree, two
+  <span class="add">or</span> three berries in the top of the uppermost bough,
+  four <span class="add">or</span> five in the outmost fruitful branches
+  thereof, saith the <span class="nd">LORD</span> God of Israel. </p>
+id: ISA/17/6
+next:
+  id: ISA/17/7
+  number: '7'
+previous:
+  id: ISA/17/5
+  number: '5'
+reference: 'Isaiah 17:6'

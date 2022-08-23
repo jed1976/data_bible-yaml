@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 30:1" class="v">1</span>And
+  thou shalt make an altar to burn incense upon: <span class="add">of</span>
+  shittim wood shalt thou make it. </p>
+id: EXO/30/1
+next:
+  id: EXO/30/2
+  number: '2'
+previous:
+  id: EXO/29/46
+  number: '46'
+reference: 'Exodus 30:1'

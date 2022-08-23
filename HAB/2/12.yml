@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HAB 2:12" class="v">12</span>¶
+  Woe to him that buildeth a town with blood, and stablisheth a city by
+  iniquity! </p>
+id: HAB/2/12
+next:
+  id: HAB/2/13
+  number: '13'
+previous:
+  id: HAB/2/11
+  number: '11'
+reference: 'Habakkuk 2:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 73:4" class="v">4</span>For
+  <span class="add">there are</span> no bands in their death: but their strength
+  <span class="add">is</span> firm.</p>
+id: PSA/73/4
+next:
+  id: PSA/73/5
+  number: '5'
+previous:
+  id: PSA/73/3
+  number: '3'
+reference: 'Psalms 73:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 93:4" class="v">4</span>The
+  <span class="nd">LORD</span> on high <span class="add">is</span> mightier than
+  the noise of many waters, <span class="add">yea, than</span> the mighty waves
+  of the sea.</p>
+id: PSA/93/4
+next:
+  id: PSA/93/5
+  number: '5'
+previous:
+  id: PSA/93/3
+  number: '3'
+reference: 'Psalms 93:4'

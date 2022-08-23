@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EST 5:4" class="v">4</span>And
+  Esther answered, If <span class="add">it seem</span> good unto the king, let
+  the king and Haman come this day unto the banquet that I have prepared for
+  him. </p>
+id: EST/5/4
+next:
+  id: EST/5/5
+  number: '5'
+previous:
+  id: EST/5/3
+  number: '3'
+reference: 'Esther 5:4'

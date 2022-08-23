@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 9:8" class="v">8</span>And
+  Moses said unto them, Stand still, and I will hear what the <span
+  class="nd">LORD</span> will command concerning you.</p>
+id: NUM/9/8
+next:
+  id: NUM/9/9
+  number: '9'
+previous:
+  id: NUM/9/7
+  number: '7'
+reference: 'Numbers 9:8'

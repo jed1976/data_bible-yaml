@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="NEH 7:66" class="v">66</span>¶
+  The whole congregation together <span class="add">was</span> forty and two
+  thousand three hundred and threescore, </p>
+id: NEH/7/66
+next:
+  id: NEH/7/67
+  number: '67'
+previous:
+  id: NEH/7/65
+  number: '65'
+reference: 'Nehemiah 7:66'

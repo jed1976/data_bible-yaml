@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 20:4" class="v">4</span>So
+  they ran both together: and the other disciple did outrun Peter, and came
+  first to the sepulchre. </p>
+id: JHN/20/4
+next:
+  id: JHN/20/5
+  number: '5'
+previous:
+  id: JHN/20/3
+  number: '3'
+reference: 'John 20:4'

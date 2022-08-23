@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 11:12"
+  class="v">12</span>Now if the fall of them <span class="add">be</span> the
+  riches of the world, and the diminishing of them the riches of the Gentiles;
+  how much more their fulness?</p>
+id: ROM/11/12
+next:
+  id: ROM/11/13
+  number: '13'
+previous:
+  id: ROM/11/11
+  number: '11'
+reference: 'Romans 11:12'

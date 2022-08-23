@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 5:20"
+  class="v">20</span>Neither shalt thou bear false witness against thy
+  neighbour. </p>
+id: DEU/5/20
+next:
+  id: DEU/5/21
+  number: '21'
+previous:
+  id: DEU/5/19
+  number: '19'
+reference: 'Deuteronomy 5:20'

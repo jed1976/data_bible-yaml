@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 25:27"
+  class="v">27</span><span class="add">It is</span> not good to eat much honey:
+  so <span class="add">for men</span> to search their own glory <span
+  class="add">is not</span> glory. </p>
+id: PRO/25/27
+next:
+  id: PRO/25/28
+  number: '28'
+previous:
+  id: PRO/25/26
+  number: '26'
+reference: 'Proverbs 25:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 10:8" class="v">8</span>And
+  Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go,
+  serve the <span class="nd">LORD</span> your God: <span class="add">but</span>
+  who <span class="add">are</span> they that shall go? </p>
+id: EXO/10/8
+next:
+  id: EXO/10/9
+  number: '9'
+previous:
+  id: EXO/10/7
+  number: '7'
+reference: 'Exodus 10:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 27:13"
+  class="v">13</span>And when thou hast seen it, thou also shalt be gathered
+  unto thy people, as Aaron thy brother was gathered. </p>
+id: NUM/27/13
+next:
+  id: NUM/27/14
+  number: '14'
+previous:
+  id: NUM/27/12
+  number: '12'
+reference: 'Numbers 27:13'

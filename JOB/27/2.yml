@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 27:2" class="v">2</span><span
+  class="add">As</span> God liveth, <span class="add">who</span> hath taken away
+  my judgment; and the Almighty, <span class="add">who</span> hath vexed my
+  soul; </p>
+id: JOB/27/2
+next:
+  id: JOB/27/3
+  number: '3'
+previous:
+  id: JOB/27/1
+  number: '1'
+reference: 'Job 27:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="GEN 41:46" class="v">46</span>¶
+  And Joseph <span class="add">was</span> thirty years old when he stood before
+  Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and
+  went throughout all the land of Egypt. </p>
+id: GEN/41/46
+next:
+  id: GEN/41/47
+  number: '47'
+previous:
+  id: GEN/41/45
+  number: '45'
+reference: 'Genesis 41:46'

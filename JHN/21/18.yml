@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 21:18"
+  class="v">18</span><span class="wj">Verily, verily, I say unto thee, When thou
+  wast young, thou girdedst thyself, and walkedst whither thou wouldest: but
+  when thou shalt be old, thou shalt stretch forth thy hands, and another shall
+  gird thee, and carry <span class="add">thee</span> whither thou wouldest
+  not.</span> </p>
+id: JHN/21/18
+next:
+  id: JHN/21/19
+  number: '19'
+previous:
+  id: JHN/21/17
+  number: '17'
+reference: 'John 21:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 12:9" class="v">9</span><span
+  class="add">He that is</span> despised, and hath a servant, <span
+  class="add">is</span> better than he that honoureth himself, and lacketh
+  bread. </p>
+id: PRO/12/9
+next:
+  id: PRO/12/10
+  number: '10'
+previous:
+  id: PRO/12/8
+  number: '8'
+reference: 'Proverbs 12:9'

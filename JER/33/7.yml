@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 33:7" class="v">7</span>And I
+  will cause the captivity of Judah and the captivity of Israel to return, and
+  will build them, as at the first. </p>
+id: JER/33/7
+next:
+  id: JER/33/8
+  number: '8'
+previous:
+  id: JER/33/6
+  number: '6'
+reference: 'Jeremiah 33:7'

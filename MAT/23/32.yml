@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 23:32"
+  class="v">32</span><span class="wj">Fill ye up then the measure of your
+  fathers.</span> </p>
+id: MAT/23/32
+next:
+  id: MAT/23/33
+  number: '33'
+previous:
+  id: MAT/23/31
+  number: '31'
+reference: 'Matthew 23:32'

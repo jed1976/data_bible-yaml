@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 1:1" class="v">1</span>In the
+  third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of
+  Babylon unto Jerusalem, and besieged it. </p>
+id: DAN/1/1
+next:
+  id: DAN/1/2
+  number: '2'
+previous:
+  id: DAN/intro/0
+  number: '0'
+reference: 'Daniel 1:1'

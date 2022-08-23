@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 39:13" class="v">13</span>O
+  spare me, that I may recover strength, before I go hence, and be no more.</p>
+id: PSA/39/13
+next:
+  id: PSA/40/1
+  number: '1'
+previous:
+  id: PSA/39/12
+  number: '12'
+reference: 'Psalms 39:13'

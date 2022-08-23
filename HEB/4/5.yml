@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 4:5" class="v">5</span>And in
+  this <span class="add">place</span> again, If they shall enter into my rest.
+  </p>
+id: HEB/4/5
+next:
+  id: HEB/4/6
+  number: '6'
+previous:
+  id: HEB/4/4
+  number: '4'
+reference: 'Hebrews 4:5'

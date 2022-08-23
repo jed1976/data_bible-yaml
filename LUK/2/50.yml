@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 2:50" class="v">50</span>And
+  they understood not the saying which he spake unto them. </p>
+id: LUK/2/50
+next:
+  id: LUK/2/51
+  number: '51'
+previous:
+  id: LUK/2/49
+  number: '49'
+reference: 'Luke 2:50'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 26:12"
+  class="v">12</span>My foot standeth in an even place: in the congregations
+  will I bless the <span class="nd">LORD</span>.</p>
+id: PSA/26/12
+next:
+  id: PSA/27/1
+  number: '1'
+previous:
+  id: PSA/26/11
+  number: '11'
+reference: 'Psalms 26:12'

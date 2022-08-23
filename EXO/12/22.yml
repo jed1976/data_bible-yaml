@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 12:22"
+  class="v">22</span>And ye shall take a bunch of hyssop, and dip <span
+  class="add">it</span> in the blood that <span class="add">is</span> in the
+  bason, and strike the lintel and the two side posts with the blood that <span
+  class="add">is</span> in the bason; and none of you shall go out at the door
+  of his house until the morning. </p>
+id: EXO/12/22
+next:
+  id: EXO/12/23
+  number: '23'
+previous:
+  id: EXO/12/21
+  number: '21'
+reference: 'Exodus 12:22'

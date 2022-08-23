@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 10:4" class="v">4</span>And
+  when the queen of Sheba had seen all Solomon’s wisdom, and the house that he
+  had built, </p>
+id: 1KI/10/4
+next:
+  id: 1KI/10/5
+  number: '5'
+previous:
+  id: 1KI/10/3
+  number: '3'
+reference: '1 Kings 10:4'

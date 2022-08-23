@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 27:38"
+  class="v">38</span>Then were there two thieves crucified with him, one on the
+  right hand, and another on the left.</p>
+id: MAT/27/38
+next:
+  id: MAT/27/39
+  number: '39'
+previous:
+  id: MAT/27/37
+  number: '37'
+reference: 'Matthew 27:38'

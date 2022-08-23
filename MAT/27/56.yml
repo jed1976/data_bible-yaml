@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="MAT 27:56"
+  class="v">56</span>Among which was Mary Magdalene, and Mary the mother of
+  James and Joses, and the mother of Zebedee’s children. </p>
+id: MAT/27/56
+next:
+  id: MAT/27/57
+  number: '57'
+previous:
+  id: MAT/27/55
+  number: '55'
+reference: 'Matthew 27:56'

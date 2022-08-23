@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="MAT 27:51"
+  class="v">51</span>And, behold, the veil of the temple was rent in twain from
+  the top to the bottom; and the earth did quake, and the rocks rent; </p>
+id: MAT/27/51
+next:
+  id: MAT/27/52
+  number: '52'
+previous:
+  id: MAT/27/50
+  number: '50'
+reference: 'Matthew 27:51'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 9:13" class="v">13</span>I
+  do set my bow in the cloud, and it shall be for a token of a covenant between
+  me and the earth. </p>
+id: GEN/9/13
+next:
+  id: GEN/9/14
+  number: '14'
+previous:
+  id: GEN/9/12
+  number: '12'
+reference: 'Genesis 9:13'

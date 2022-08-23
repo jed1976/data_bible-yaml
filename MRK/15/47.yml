@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MRK 15:47"
+  class="v">47</span>And Mary Magdalene and Mary <span class="add">the
+  mother</span> of Joses beheld where he was laid.</p>
+id: MRK/15/47
+next:
+  id: MRK/16/1
+  number: '1'
+previous:
+  id: MRK/15/46
+  number: '46'
+reference: 'Mark 15:47'

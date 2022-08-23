@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 3:20" class="v">20</span>¶
+  Surely <span class="add">as</span> a wife treacherously departeth from her
+  husband, so have ye dealt treacherously with me, O house of Israel, saith the
+  <span class="nd">LORD</span>. </p>
+id: JER/3/20
+next:
+  id: JER/3/21
+  number: '21'
+previous:
+  id: JER/3/19
+  number: '19'
+reference: 'Jeremiah 3:20'

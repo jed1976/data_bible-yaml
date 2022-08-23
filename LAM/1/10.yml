@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LAM 1:10" class="v">10</span>The
+  adversary hath spread out his hand upon all her pleasant things: for she hath
+  seen <span class="add">that</span> the heathen entered into her sanctuary,
+  whom thou didst command <span class="add">that</span> they should not enter
+  into thy congregation. </p>
+id: LAM/1/10
+next:
+  id: LAM/1/11
+  number: '11'
+previous:
+  id: LAM/1/9
+  number: '9'
+reference: 'Lamentations 1:10'

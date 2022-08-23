@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 12:22"
+  class="v">22</span>Lying lips <span class="add">are</span> abomination to the
+  <span class="nd">LORD</span>: but they that deal truly <span
+  class="add">are</span> his delight. </p>
+id: PRO/12/22
+next:
+  id: PRO/12/23
+  number: '23'
+previous:
+  id: PRO/12/21
+  number: '21'
+reference: 'Proverbs 12:22'

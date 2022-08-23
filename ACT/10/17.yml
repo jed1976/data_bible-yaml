@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 10:17"
+  class="v">17</span>Now while Peter doubted in himself what this vision which
+  he had seen should mean, behold, the men which were sent from Cornelius had
+  made enquiry for Simon’s house, and stood before the gate, </p>
+id: ACT/10/17
+next:
+  id: ACT/10/18
+  number: '18'
+previous:
+  id: ACT/10/16
+  number: '16'
+reference: 'Acts 10:17'

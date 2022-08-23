@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 48:9" class="v">9</span>We
+  have thought of thy lovingkindness, O God, in the midst of thy temple.</p>
+id: PSA/48/9
+next:
+  id: PSA/48/10
+  number: '10'
+previous:
+  id: PSA/48/8
+  number: '8'
+reference: 'Psalms 48:9'

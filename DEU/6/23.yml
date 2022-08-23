@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 6:23" class="v">23</span>And
+  he brought us out from thence, that he might bring us in, to give us the land
+  which he sware unto our fathers. </p>
+id: DEU/6/23
+next:
+  id: DEU/6/24
+  number: '24'
+previous:
+  id: DEU/6/22
+  number: '22'
+reference: 'Deuteronomy 6:23'

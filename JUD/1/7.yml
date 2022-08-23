@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JUD 1:7" class="v">7</span>Even
+  as Sodom and Gomorrha, and the cities about them in like manner, giving
+  themselves over to fornication, and going after strange flesh, are set forth
+  for an example, suffering the vengeance of eternal fire. </p>
+id: JUD/1/7
+next:
+  id: JUD/1/8
+  number: '8'
+previous:
+  id: JUD/1/6
+  number: '6'
+reference: 'Jude 1:7'

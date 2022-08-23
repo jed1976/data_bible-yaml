@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 11:6" class="v">6</span>Upon
+  the wicked he shall rain snares, fire and brimstone, and an horrible tempest:
+  <span class="add">this shall be</span> the portion of their cup.</p>
+id: PSA/11/6
+next:
+  id: PSA/11/7
+  number: '7'
+previous:
+  id: PSA/11/5
+  number: '5'
+reference: 'Psalms 11:6'

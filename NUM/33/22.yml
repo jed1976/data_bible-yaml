@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 33:22"
+  class="v">22</span>And they journeyed from Rissah, and pitched in Kehelathah.
+  </p>
+id: NUM/33/22
+next:
+  id: NUM/33/23
+  number: '23'
+previous:
+  id: NUM/33/21
+  number: '21'
+reference: 'Numbers 33:22'

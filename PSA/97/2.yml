@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 97:2"
+  class="v">2</span>Clouds and darkness <span class="add">are</span> round about
+  him: righteousness and judgment <span class="add">are</span> the habitation of
+  his throne.</p>
+id: PSA/97/2
+next:
+  id: PSA/97/3
+  number: '3'
+previous:
+  id: PSA/97/1
+  number: '1'
+reference: 'Psalms 97:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 2:16" class="v">16</span>¶
+  So it came to pass, when all the men of war were consumed and dead from among
+  the people, </p>
+id: DEU/2/16
+next:
+  id: DEU/2/17
+  number: '17'
+previous:
+  id: DEU/2/15
+  number: '15'
+reference: 'Deuteronomy 2:16'

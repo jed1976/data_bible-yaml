@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 8:20" class="v">20</span>I
+  lead in the way of righteousness, in the midst of the paths of judgment: </p>
+id: PRO/8/20
+next:
+  id: PRO/8/21
+  number: '21'
+previous:
+  id: PRO/8/19
+  number: '19'
+reference: 'Proverbs 8:20'

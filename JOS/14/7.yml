@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 14:7" class="v">7</span>Forty
+  years old <span class="add">was</span> I when Moses the servant of the <span
+  class="nd">LORD</span> sent me from Kadesh-barnea to espy out the land; and I
+  brought him word again as <span class="add">it was</span> in mine heart. </p>
+id: JOS/14/7
+next:
+  id: JOS/14/8
+  number: '8'
+previous:
+  id: JOS/14/6
+  number: '6'
+reference: 'Joshua 14:7'

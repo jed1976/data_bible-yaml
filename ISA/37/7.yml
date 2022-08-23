@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 37:7"
+  class="v">7</span>Behold, I will send a blast upon him, and he shall hear a
+  rumour, and return to his own land; and I will cause him to fall by the sword
+  in his own land.</p>
+id: ISA/37/7
+next:
+  id: ISA/37/8
+  number: '8'
+previous:
+  id: ISA/37/6
+  number: '6'
+reference: 'Isaiah 37:7'

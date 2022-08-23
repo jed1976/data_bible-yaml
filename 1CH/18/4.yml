@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 18:4" class="v">4</span>And
+  David took from him a thousand chariots, and seven thousand horsemen, and
+  twenty thousand footmen: David also houghed all the chariot <span
+  class="add">horses</span>, but reserved of them an hundred chariots. </p>
+id: 1CH/18/4
+next:
+  id: 1CH/18/5
+  number: '5'
+previous:
+  id: 1CH/18/3
+  number: '3'
+reference: '1 Chronicles 18:4'

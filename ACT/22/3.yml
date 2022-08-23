@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 22:3" class="v">3</span>I am
+  verily a man <span class="add">which am</span> a Jew, born in Tarsus, <span
+  class="add">a city</span> in Cilicia, yet brought up in this city at the feet
+  of Gamaliel, <span class="add">and</span> taught according to the perfect
+  manner of the law of the fathers, and was zealous toward God, as ye all are
+  this day. </p>
+id: ACT/22/3
+next:
+  id: ACT/22/4
+  number: '4'
+previous:
+  id: ACT/22/2
+  number: '2'
+reference: 'Acts 22:3'

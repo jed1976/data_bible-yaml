@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="DAN 11:41" class="v">41</span>He
+  shall enter also into the glorious land, and many <span
+  class="add">countries</span> shall be overthrown: but these shall escape out
+  of his hand, <span class="add">even</span> Edom, and Moab, and the chief of
+  the children of Ammon. </p>
+id: DAN/11/41
+next:
+  id: DAN/11/42
+  number: '42'
+previous:
+  id: DAN/11/40
+  number: '40'
+reference: 'Daniel 11:41'

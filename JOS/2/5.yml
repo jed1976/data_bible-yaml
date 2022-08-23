@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 2:5" class="v">5</span>And it
+  came to pass <span class="add">about the time</span> of shutting of the gate,
+  when it was dark, that the men went out: whither the men went I wot not:
+  pursue after them quickly; for ye shall overtake them. </p>
+id: JOS/2/5
+next:
+  id: JOS/2/6
+  number: '6'
+previous:
+  id: JOS/2/4
+  number: '4'
+reference: 'Joshua 2:5'

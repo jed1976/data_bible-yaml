@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 32:11"
+  class="v">11</span>Deliver me, I pray thee, from the hand of my brother, from
+  the hand of Esau: for I fear him, lest he will come and smite me, <span
+  class="add">and</span> the mother with the children. </p>
+id: GEN/32/11
+next:
+  id: GEN/32/12
+  number: '12'
+previous:
+  id: GEN/32/10
+  number: '10'
+reference: 'Genesis 32:11'

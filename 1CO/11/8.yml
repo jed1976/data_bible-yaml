@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CO 11:8" class="v">8</span>For
+  the man is not of the woman; but the woman of the man. </p>
+id: 1CO/11/8
+next:
+  id: 1CO/11/9
+  number: '9'
+previous:
+  id: 1CO/11/7
+  number: '7'
+reference: '1 Corinthians 11:8'

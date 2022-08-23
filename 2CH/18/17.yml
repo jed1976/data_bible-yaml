@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2CH 18:17"
+  class="v">17</span>And the king of Israel said to Jehoshaphat, Did I not tell
+  thee <span class="add">that</span> he would not prophesy good unto me, but
+  evil? </p>
+id: 2CH/18/17
+next:
+  id: 2CH/18/18
+  number: '18'
+previous:
+  id: 2CH/18/16
+  number: '16'
+reference: '2 Chronicles 18:17'

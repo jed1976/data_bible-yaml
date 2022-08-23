@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LAM 5:9" class="v">9</span>We gat
+  our bread with <span class="add">the peril of</span> our lives because of the
+  sword of the wilderness. </p>
+id: LAM/5/9
+next:
+  id: LAM/5/10
+  number: '10'
+previous:
+  id: LAM/5/8
+  number: '8'
+reference: 'Lamentations 5:9'

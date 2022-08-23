@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 50:5"
+  class="v">5</span>Gather my saints together unto me; those that have made a
+  covenant with me by sacrifice.</p>
+id: PSA/50/5
+next:
+  id: PSA/50/6
+  number: '6'
+previous:
+  id: PSA/50/4
+  number: '4'
+reference: 'Psalms 50:5'

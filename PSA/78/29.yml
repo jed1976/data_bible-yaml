@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="29" data-sid="PSA 78:29"
+  class="v">29</span>So they did eat, and were well filled: for he gave them
+  their own desire;</p>
+id: PSA/78/29
+next:
+  id: PSA/78/30
+  number: '30'
+previous:
+  id: PSA/78/28
+  number: '28'
+reference: 'Psalms 78:29'

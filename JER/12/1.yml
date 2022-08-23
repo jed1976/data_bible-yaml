@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 12:1"
+  class="v">1</span>Righteous <span class="add">art</span> thou, O <span
+  class="nd">LORD</span>, when I plead with thee: yet let me talk with thee of
+  <span class="add">thy</span> judgments: Wherefore doth the way of the wicked
+  prosper? <span class="add">wherefore</span> are all they happy that deal very
+  treacherously? </p>
+id: JER/12/1
+next:
+  id: JER/12/2
+  number: '2'
+previous:
+  id: JER/11/23
+  number: '23'
+reference: 'Jeremiah 12:1'

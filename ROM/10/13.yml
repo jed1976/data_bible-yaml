@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 10:13"
+  class="v">13</span>For whosoever shall call upon the name of the Lord shall be
+  saved. </p>
+id: ROM/10/13
+next:
+  id: ROM/10/14
+  number: '14'
+previous:
+  id: ROM/10/12
+  number: '12'
+reference: 'Romans 10:13'

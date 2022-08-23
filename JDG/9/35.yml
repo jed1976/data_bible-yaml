@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JDG 9:35" class="v">35</span>And
+  Gaal the son of Ebed went out, and stood in the entering of the gate of the
+  city: and Abimelech rose up, and the people that <span class="add">were</span>
+  with him, from lying in wait. </p>
+id: JDG/9/35
+next:
+  id: JDG/9/36
+  number: '36'
+previous:
+  id: JDG/9/34
+  number: '34'
+reference: 'Judges 9:35'

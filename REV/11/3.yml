@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 11:3" class="v">3</span>And I
+  will give <span class="add">power</span> unto my two witnesses, and they shall
+  prophesy a thousand two hundred <span class="add">and</span> threescore days,
+  clothed in sackcloth. </p>
+id: REV/11/3
+next:
+  id: REV/11/4
+  number: '4'
+previous:
+  id: REV/11/2
+  number: '2'
+reference: 'Revelation 11:3'

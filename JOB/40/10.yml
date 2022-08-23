@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 40:10"
+  class="v">10</span>Deck thyself now <span class="add">with</span> majesty and
+  excellency; and array thyself with glory and beauty. </p>
+id: JOB/40/10
+next:
+  id: JOB/40/11
+  number: '11'
+previous:
+  id: JOB/40/9
+  number: '9'
+reference: 'Job 40:10'

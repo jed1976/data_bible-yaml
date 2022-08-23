@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 2:21" class="v">21</span>And
+  he went forth unto the spring of the waters, and cast the salt in there, and
+  said, Thus saith the <span class="nd">LORD</span>, I have healed these waters;
+  there shall not be from thence any more death or barren <span
+  class="add">land</span>. </p>
+id: 2KI/2/21
+next:
+  id: 2KI/2/22
+  number: '22'
+previous:
+  id: 2KI/2/20
+  number: '20'
+reference: '2 Kings 2:21'

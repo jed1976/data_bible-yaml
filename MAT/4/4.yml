@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 4:4" class="v">4</span>But he
+  answered and said, <span class="wj">It is written, Man shall not live by bread
+  alone, but by every word that proceedeth out of the mouth of God.</span> </p>
+id: MAT/4/4
+next:
+  id: MAT/4/5
+  number: '5'
+previous:
+  id: MAT/4/3
+  number: '3'
+reference: 'Matthew 4:4'

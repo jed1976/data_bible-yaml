@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="LUK 23:47"
+  class="v">47</span>Now when the centurion saw what was done, he glorified God,
+  saying, Certainly this was a righteous man. </p>
+id: LUK/23/47
+next:
+  id: LUK/23/48
+  number: '48'
+previous:
+  id: LUK/23/46
+  number: '46'
+reference: 'Luke 23:47'

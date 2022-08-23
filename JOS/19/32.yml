@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 19:32" class="v">32</span>¶
+  The sixth lot came out to the children of Naphtali, <span
+  class="add">even</span> for the children of Naphtali according to their
+  families. </p>
+id: JOS/19/32
+next:
+  id: JOS/19/33
+  number: '33'
+previous:
+  id: JOS/19/31
+  number: '31'
+reference: 'Joshua 19:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 64:9" class="v">9</span>And
+  all men shall fear, and shall declare the work of God; for they shall wisely
+  consider of his doing.</p>
+id: PSA/64/9
+next:
+  id: PSA/64/10
+  number: '10'
+previous:
+  id: PSA/64/8
+  number: '8'
+reference: 'Psalms 64:9'

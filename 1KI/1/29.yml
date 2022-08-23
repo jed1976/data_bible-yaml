@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1KI 1:29" class="v">29</span>And
+  the king sware, and said, <span class="add">As</span> the <span
+  class="nd">LORD</span> liveth, that hath redeemed my soul out of all distress,
+  </p>
+id: 1KI/1/29
+next:
+  id: 1KI/1/30
+  number: '30'
+previous:
+  id: 1KI/1/28
+  number: '28'
+reference: '1 Kings 1:29'

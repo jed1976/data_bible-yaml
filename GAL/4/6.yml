@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GAL 4:6" class="v">6</span>And
+  because ye are sons, God hath sent forth the Spirit of his Son into your
+  hearts, crying, Abba, Father. </p>
+id: GAL/4/6
+next:
+  id: GAL/4/7
+  number: '7'
+previous:
+  id: GAL/4/5
+  number: '5'
+reference: 'Galatians 4:6'

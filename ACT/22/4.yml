@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 22:4" class="v">4</span>And I
+  persecuted this way unto the death, binding and delivering into prisons both
+  men and women. </p>
+id: ACT/22/4
+next:
+  id: ACT/22/5
+  number: '5'
+previous:
+  id: ACT/22/3
+  number: '3'
+reference: 'Acts 22:4'

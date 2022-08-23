@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 17:22"
+  class="v">22</span><span class="wj">And the glory which thou gavest me I have
+  given them; that they may be one, even as we are one:</span> </p>
+id: JHN/17/22
+next:
+  id: JHN/17/23
+  number: '23'
+previous:
+  id: JHN/17/21
+  number: '21'
+reference: 'John 17:22'

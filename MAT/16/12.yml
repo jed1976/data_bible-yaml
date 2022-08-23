@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 16:12"
+  class="v">12</span>Then understood they how that he bade <span
+  class="add">them</span> not beware of the leaven of bread, but of the doctrine
+  of the Pharisees and of the Sadducees.</p>
+id: MAT/16/12
+next:
+  id: MAT/16/13
+  number: '13'
+previous:
+  id: MAT/16/11
+  number: '11'
+reference: 'Matthew 16:12'

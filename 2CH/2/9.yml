@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 2:9" class="v">9</span>Even
+  to prepare me timber in abundance: for the house which I am about to build
+  <span class="add">shall be</span> wonderful great. </p>
+id: 2CH/2/9
+next:
+  id: 2CH/2/10
+  number: '10'
+previous:
+  id: 2CH/2/8
+  number: '8'
+reference: '2 Chronicles 2:9'

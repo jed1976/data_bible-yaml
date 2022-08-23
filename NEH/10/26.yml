@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NEH 10:26"
+  class="v">26</span>And Ahijah, Hanan, Anan, </p>
+id: NEH/10/26
+next:
+  id: NEH/10/27
+  number: '27'
+previous:
+  id: NEH/10/25
+  number: '25'
+reference: 'Nehemiah 10:26'

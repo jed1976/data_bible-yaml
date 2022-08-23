@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 23:5" class="v">5</span>If
+  thou see the ass of him that hateth thee lying under his burden, and wouldest
+  forbear to help him, thou shalt surely help with him. </p>
+id: EXO/23/5
+next:
+  id: EXO/23/6
+  number: '6'
+previous:
+  id: EXO/23/4
+  number: '4'
+reference: 'Exodus 23:5'

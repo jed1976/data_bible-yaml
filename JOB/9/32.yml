@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOB 9:32" class="v">32</span>For
+  <span class="add">he is</span> not a man, as I <span class="add">am,
+  that</span> I should answer him, <span class="add">and</span> we should come
+  together in judgment. </p>
+id: JOB/9/32
+next:
+  id: JOB/9/33
+  number: '33'
+previous:
+  id: JOB/9/31
+  number: '31'
+reference: 'Job 9:32'

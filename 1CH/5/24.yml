@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 5:24" class="v">24</span>And
+  these <span class="add">were</span> the heads of the house of their fathers,
+  even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and
+  Jahdiel, mighty men of valour, famous men, <span class="add">and</span> heads
+  of the house of their fathers.</p>
+id: 1CH/5/24
+next:
+  id: 1CH/5/25
+  number: '25'
+previous:
+  id: 1CH/5/23
+  number: '23'
+reference: '1 Chronicles 5:24'

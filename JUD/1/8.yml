@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JUD 1:8"
+  class="v">8</span>Likewise also these <span class="add">filthy</span> dreamers
+  defile the flesh, despise dominion, and speak evil of dignities. </p>
+id: JUD/1/8
+next:
+  id: JUD/1/9
+  number: '9'
+previous:
+  id: JUD/1/7
+  number: '7'
+reference: 'Jude 1:8'

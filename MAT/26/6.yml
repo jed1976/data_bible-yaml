@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 26:6" class="v">6</span>¶ Now
+  when Jesus was in Bethany, in the house of Simon the leper, </p>
+id: MAT/26/6
+next:
+  id: MAT/26/7
+  number: '7'
+previous:
+  id: MAT/26/5
+  number: '5'
+reference: 'Matthew 26:6'

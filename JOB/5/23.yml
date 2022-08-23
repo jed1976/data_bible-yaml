@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 5:23" class="v">23</span>For
+  thou shalt be in league with the stones of the field: and the beasts of the
+  field shall be at peace with thee. </p>
+id: JOB/5/23
+next:
+  id: JOB/5/24
+  number: '24'
+previous:
+  id: JOB/5/22
+  number: '22'
+reference: 'Job 5:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EPH 1:10"
+  class="v">10</span>That in the dispensation of the fulness of times he might
+  gather together in one all things in Christ, both which are in heaven, and
+  which are on earth; <span class="add">even</span> in him: </p>
+id: EPH/1/10
+next:
+  id: EPH/1/11
+  number: '11'
+previous:
+  id: EPH/1/9
+  number: '9'
+reference: 'Ephesians 1:10'

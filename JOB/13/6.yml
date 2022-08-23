@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 13:6" class="v">6</span>Hear
+  now my reasoning, and hearken to the pleadings of my lips. </p>
+id: JOB/13/6
+next:
+  id: JOB/13/7
+  number: '7'
+previous:
+  id: JOB/13/5
+  number: '5'
+reference: 'Job 13:6'

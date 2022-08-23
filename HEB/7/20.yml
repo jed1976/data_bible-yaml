@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HEB 7:20" class="v">20</span>And
+  inasmuch as not without an oath <span class="add">he was made priest</span>:
+  </p>
+id: HEB/7/20
+next:
+  id: HEB/7/21
+  number: '21'
+previous:
+  id: HEB/7/19
+  number: '19'
+reference: 'Hebrews 7:20'

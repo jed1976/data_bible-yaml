@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 1:9"
+  class="v">9</span>According to the custom of the priest’s office, his lot was
+  to burn incense when he went into the temple of the Lord. </p>
+id: LUK/1/9
+next:
+  id: LUK/1/10
+  number: '10'
+previous:
+  id: LUK/1/8
+  number: '8'
+reference: 'Luke 1:9'

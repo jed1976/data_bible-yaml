@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 21:23"
+  class="v">23</span>And out of the tribe of Dan, Eltekeh with her suburbs,
+  Gibbethon with her suburbs, </p>
+id: JOS/21/23
+next:
+  id: JOS/21/24
+  number: '24'
+previous:
+  id: JOS/21/22
+  number: '22'
+reference: 'Joshua 21:23'

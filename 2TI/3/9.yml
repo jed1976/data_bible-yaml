@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2TI 3:9" class="v">9</span>But
+  they shall proceed no further: for their folly shall be manifest unto all
+  <span class="add">men</span>, as theirs also was. </p>
+id: 2TI/3/9
+next:
+  id: 2TI/3/10
+  number: '10'
+previous:
+  id: 2TI/3/8
+  number: '8'
+reference: '2 Timothy 3:9'

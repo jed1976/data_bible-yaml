@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 14:3" class="v">3</span>And
+  the priest shall go forth out of the camp; and the priest shall look, and,
+  behold, <span class="add">if</span> the plague of leprosy be healed in the
+  leper; </p>
+id: LEV/14/3
+next:
+  id: LEV/14/4
+  number: '4'
+previous:
+  id: LEV/14/2
+  number: '2'
+reference: 'Leviticus 14:3'

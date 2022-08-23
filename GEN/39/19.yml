@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 39:19"
+  class="v">19</span>And it came to pass, when his master heard the words of his
+  wife, which she spake unto him, saying, After this manner did thy servant to
+  me; that his wrath was kindled. </p>
+id: GEN/39/19
+next:
+  id: GEN/39/20
+  number: '20'
+previous:
+  id: GEN/39/18
+  number: '18'
+reference: 'Genesis 39:19'

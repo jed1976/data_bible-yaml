@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 91:4" class="v">4</span>He
+  shall cover thee with his feathers, and under his wings shalt thou trust: his
+  truth <span class="add">shall be thy</span> shield and buckler.</p>
+id: PSA/91/4
+next:
+  id: PSA/91/5
+  number: '5'
+previous:
+  id: PSA/91/3
+  number: '3'
+reference: 'Psalms 91:4'

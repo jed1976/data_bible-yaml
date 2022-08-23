@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 7:12" class="v">12</span>And
+  the Midianites and the Amalekites and all the children of the east lay along
+  in the valley like grasshoppers for multitude; and their camels <span
+  class="add">were</span> without number, as the sand by the sea side for
+  multitude. </p>
+id: JDG/7/12
+next:
+  id: JDG/7/13
+  number: '13'
+previous:
+  id: JDG/7/11
+  number: '11'
+reference: 'Judges 7:12'

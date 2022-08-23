@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 17:1" class="v">1</span>These
+  words spake Jesus, and lifted up his eyes to heaven, and said, <span
+  class="wj">Father, the hour is come; glorify thy Son, that thy Son also may
+  glorify thee:</span> </p>
+id: JHN/17/1
+next:
+  id: JHN/17/2
+  number: '2'
+previous:
+  id: JHN/16/33
+  number: '33'
+reference: 'John 17:1'

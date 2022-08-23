@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 13:11"
+  class="v">11</span>And David was displeased, because the <span
+  class="nd">LORD</span> had made a breach upon Uzza: wherefore that place is
+  called Perez-uzza to this day. </p>
+id: 1CH/13/11
+next:
+  id: 1CH/13/12
+  number: '12'
+previous:
+  id: 1CH/13/10
+  number: '10'
+reference: '1 Chronicles 13:11'

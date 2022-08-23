@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 24:6" class="v">6</span>And
+  thou shalt set them in two rows, six on a row, upon the pure table before the
+  <span class="nd">LORD</span>. </p>
+id: LEV/24/6
+next:
+  id: LEV/24/7
+  number: '7'
+previous:
+  id: LEV/24/5
+  number: '5'
+reference: 'Leviticus 24:6'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 18:17"
+  class="v">17</span>But the firstling of a cow, or the firstling of a sheep, or
+  the firstling of a goat, thou shalt not redeem; they <span
+  class="add">are</span> holy: thou shalt sprinkle their blood upon the altar,
+  and shalt burn their fat <span class="add">for</span> an offering made by
+  fire, for a sweet savour unto the <span class="nd">LORD</span>. </p>
+id: NUM/18/17
+next:
+  id: NUM/18/18
+  number: '18'
+previous:
+  id: NUM/18/16
+  number: '16'
+reference: 'Numbers 18:17'

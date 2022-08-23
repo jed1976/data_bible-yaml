@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 21:22"
+  class="v">22</span>Jesus saith unto him, <span class="wj">If I will that he
+  tarry till I come, what <span class="add">is that</span> to thee? follow thou
+  me.</span> </p>
+id: JHN/21/22
+next:
+  id: JHN/21/23
+  number: '23'
+previous:
+  id: JHN/21/21
+  number: '21'
+reference: 'John 21:22'

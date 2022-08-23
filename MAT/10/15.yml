@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MAT 10:15"
+  class="v">15</span><span class="wj">Verily I say unto you, It shall be more
+  tolerable for the land of Sodom and Gomorrha in the day of judgment, than for
+  that city.</span></p>
+id: MAT/10/15
+next:
+  id: MAT/10/16
+  number: '16'
+previous:
+  id: MAT/10/14
+  number: '14'
+reference: 'Matthew 10:15'

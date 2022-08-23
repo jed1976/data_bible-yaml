@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 26:21"
+  class="v">21</span>For, behold, the <span class="nd">LORD</span> cometh out of
+  his place to punish the inhabitants of the earth for their iniquity: the earth
+  also shall disclose her blood, and shall no more cover her slain.</p>
+id: ISA/26/21
+next:
+  id: ISA/27/1
+  number: '1'
+previous:
+  id: ISA/26/20
+  number: '20'
+reference: 'Isaiah 26:21'

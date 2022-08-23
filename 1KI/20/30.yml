@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1KI 20:30"
+  class="v">30</span>But the rest fled to Aphek, into the city; and <span
+  class="add">there</span> a wall fell upon twenty and seven thousand of the men
+  <span class="add">that were</span> left. And Ben-hadad fled, and came into the
+  city, into an inner chamber.</p>
+id: 1KI/20/30
+next:
+  id: 1KI/20/31
+  number: '31'
+previous:
+  id: 1KI/20/29
+  number: '29'
+reference: '1 Kings 20:30'

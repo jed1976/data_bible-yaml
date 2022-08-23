@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 13:8" class="v">8</span>But
+  Elymas the sorcerer (for so is his name by interpretation) withstood them,
+  seeking to turn away the deputy from the faith. </p>
+id: ACT/13/8
+next:
+  id: ACT/13/9
+  number: '9'
+previous:
+  id: ACT/13/7
+  number: '7'
+reference: 'Acts 13:8'

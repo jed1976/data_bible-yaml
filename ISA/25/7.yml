@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 25:7" class="v">7</span>And
+  he will destroy in this mountain the face of the covering cast over all
+  people, and the vail that is spread over all nations. </p>
+id: ISA/25/7
+next:
+  id: ISA/25/8
+  number: '8'
+previous:
+  id: ISA/25/6
+  number: '6'
+reference: 'Isaiah 25:7'

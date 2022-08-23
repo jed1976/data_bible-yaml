@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 11:11"
+  class="v">11</span>And Shem lived after he begat Arphaxad five hundred years,
+  and begat sons and daughters. </p>
+id: GEN/11/11
+next:
+  id: GEN/11/12
+  number: '12'
+previous:
+  id: GEN/11/10
+  number: '10'
+reference: 'Genesis 11:11'

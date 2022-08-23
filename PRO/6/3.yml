@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 6:3" class="v">3</span>Do
+  this now, my son, and deliver thyself, when thou art come into the hand of thy
+  friend; go, humble thyself, and make sure thy friend. </p>
+id: PRO/6/3
+next:
+  id: PRO/6/4
+  number: '4'
+previous:
+  id: PRO/6/2
+  number: '2'
+reference: 'Proverbs 6:3'

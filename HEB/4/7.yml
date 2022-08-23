@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HEB 4:7" class="v">7</span>Again,
+  he limiteth a certain day, saying in David, To day, after so long a time; as
+  it is said, To day if ye will hear his voice, harden not your hearts. </p>
+id: HEB/4/7
+next:
+  id: HEB/4/8
+  number: '8'
+previous:
+  id: HEB/4/6
+  number: '6'
+reference: 'Hebrews 4:7'

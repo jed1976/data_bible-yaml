@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 11:16" class="v">16</span>A
+  gracious woman retaineth honour: and strong <span class="add">men</span>
+  retain riches. </p>
+id: PRO/11/16
+next:
+  id: PRO/11/17
+  number: '17'
+previous:
+  id: PRO/11/15
+  number: '15'
+reference: 'Proverbs 11:16'

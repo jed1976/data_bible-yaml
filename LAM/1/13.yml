@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LAM 1:13"
+  class="v">13</span>From above hath he sent fire into my bones, and it
+  prevaileth against them: he hath spread a net for my feet, he hath turned me
+  back: he hath made me desolate <span class="add">and</span> faint all the day.
+  </p>
+id: LAM/1/13
+next:
+  id: LAM/1/14
+  number: '14'
+previous:
+  id: LAM/1/12
+  number: '12'
+reference: 'Lamentations 1:13'

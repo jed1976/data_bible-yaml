@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CO 15:25"
+  class="v">25</span>For he must reign, till he hath put all enemies under his
+  feet. </p>
+id: 1CO/15/25
+next:
+  id: 1CO/15/26
+  number: '26'
+previous:
+  id: 1CO/15/24
+  number: '24'
+reference: '1 Corinthians 15:25'

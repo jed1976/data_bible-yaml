@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JAS 4:8" class="v">8</span>Draw
+  nigh to God, and he will draw nigh to you. Cleanse <span
+  class="add">your</span> hands, <span class="add">ye</span> sinners; and purify
+  <span class="add">your</span> hearts, <span class="add">ye</span> double
+  minded. </p>
+id: JAS/4/8
+next:
+  id: JAS/4/9
+  number: '9'
+previous:
+  id: JAS/4/7
+  number: '7'
+reference: 'James 4:8'

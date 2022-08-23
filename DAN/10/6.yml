@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DAN 10:6" class="v">6</span>His
+  body also <span class="add">was</span> like the beryl, and his face as the
+  appearance of lightning, and his eyes as lamps of fire, and his arms and his
+  feet like in colour to polished brass, and the voice of his words like the
+  voice of a multitude. </p>
+id: DAN/10/6
+next:
+  id: DAN/10/7
+  number: '7'
+previous:
+  id: DAN/10/5
+  number: '5'
+reference: 'Daniel 10:6'

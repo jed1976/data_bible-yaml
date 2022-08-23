@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 1:20" class="v">20</span>And
+  the children of Reuben, Israel’s eldest son, by their generations, after their
+  families, by the house of their fathers, according to the number of the names,
+  by their polls, every male from twenty years old and upward, all that were
+  able to go forth to war; </p>
+id: NUM/1/20
+next:
+  id: NUM/1/21
+  number: '21'
+previous:
+  id: NUM/1/19
+  number: '19'
+reference: 'Numbers 1:20'

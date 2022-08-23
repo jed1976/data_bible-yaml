@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ISA 30:33"
+  class="v">33</span>For Tophet <span class="add">is</span> ordained of old;
+  yea, for the king it is prepared; he hath made <span class="add">it</span>
+  deep <span class="add">and</span> large: the pile thereof <span
+  class="add">is</span> fire and much wood; the breath of the <span
+  class="nd">LORD</span>, like a stream of brimstone, doth kindle it.</p>
+id: ISA/30/33
+next:
+  id: ISA/31/1
+  number: '1'
+previous:
+  id: ISA/30/32
+  number: '32'
+reference: 'Isaiah 30:33'

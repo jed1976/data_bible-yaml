@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 3:21"
+  class="v">21</span>Then these men were bound in their coats, their hosen, and
+  their hats, and their <span class="add">other</span> garments, and were cast
+  into the midst of the burning fiery furnace. </p>
+id: DAN/3/21
+next:
+  id: DAN/3/22
+  number: '22'
+previous:
+  id: DAN/3/20
+  number: '20'
+reference: 'Daniel 3:21'

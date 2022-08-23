@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 15:8" class="v">8</span>And
+  when thou preparest a bullock <span class="add">for</span> a burnt offering,
+  or <span class="add">for</span> a sacrifice in performing a vow, or peace
+  offerings unto the <span class="nd">LORD</span>: </p>
+id: NUM/15/8
+next:
+  id: NUM/15/9
+  number: '9'
+previous:
+  id: NUM/15/7
+  number: '7'
+reference: 'Numbers 15:8'

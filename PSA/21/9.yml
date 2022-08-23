@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 21:9" class="v">9</span>Thou
+  shalt make them as a fiery oven in the time of thine anger: the <span
+  class="nd">LORD</span> shall swallow them up in his wrath, and the fire shall
+  devour them.</p>
+id: PSA/21/9
+next:
+  id: PSA/21/10
+  number: '10'
+previous:
+  id: PSA/21/8
+  number: '8'
+reference: 'Psalms 21:9'

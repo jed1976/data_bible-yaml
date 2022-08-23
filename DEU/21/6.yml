@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 21:6" class="v">6</span>And
+  all the elders of that city, <span class="add">that are</span> next unto the
+  slain <span class="add">man</span>, shall wash their hands over the heifer
+  that is beheaded in the valley: </p>
+id: DEU/21/6
+next:
+  id: DEU/21/7
+  number: '7'
+previous:
+  id: DEU/21/5
+  number: '5'
+reference: 'Deuteronomy 21:6'

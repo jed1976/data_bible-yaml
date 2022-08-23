@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 7:5"
+  class="v">5</span>Because Syria, Ephraim, and the son of Remaliah, have taken
+  evil counsel against thee, saying, </p>
+id: ISA/7/5
+next:
+  id: ISA/7/6
+  number: '6'
+previous:
+  id: ISA/7/4
+  number: '4'
+reference: 'Isaiah 7:5'

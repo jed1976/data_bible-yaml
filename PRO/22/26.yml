@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 22:26" class="v">26</span>Be
+  not thou <span class="add">one</span> of them that strike hands, <span
+  class="add">or</span> of them that are sureties for debts. </p>
+id: PRO/22/26
+next:
+  id: PRO/22/27
+  number: '27'
+previous:
+  id: PRO/22/25
+  number: '25'
+reference: 'Proverbs 22:26'

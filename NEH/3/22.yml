@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 3:22" class="v">22</span>And
+  after him repaired the priests, the men of the plain. </p>
+id: NEH/3/22
+next:
+  id: NEH/3/23
+  number: '23'
+previous:
+  id: NEH/3/21
+  number: '21'
+reference: 'Nehemiah 3:22'

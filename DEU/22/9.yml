@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 22:9" class="v">9</span>¶
+  Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed
+  which thou hast sown, and the fruit of thy vineyard, be defiled.</p>
+id: DEU/22/9
+next:
+  id: DEU/22/10
+  number: '10'
+previous:
+  id: DEU/22/8
+  number: '8'
+reference: 'Deuteronomy 22:9'

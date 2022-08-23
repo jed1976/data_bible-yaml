@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 19:18"
+  class="v">18</span>And Lot said unto them, Oh, not so, my Lord: </p>
+id: GEN/19/18
+next:
+  id: GEN/19/19
+  number: '19'
+previous:
+  id: GEN/19/17
+  number: '17'
+reference: 'Genesis 19:18'

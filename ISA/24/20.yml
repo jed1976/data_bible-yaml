@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 24:20"
+  class="v">20</span>The earth shall reel to and fro like a drunkard, and shall
+  be removed like a cottage; and the transgression thereof shall be heavy upon
+  it; and it shall fall, and not rise again. </p>
+id: ISA/24/20
+next:
+  id: ISA/24/21
+  number: '21'
+previous:
+  id: ISA/24/19
+  number: '19'
+reference: 'Isaiah 24:20'

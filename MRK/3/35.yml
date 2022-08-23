@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 3:35"
+  class="v">35</span><span class="wj">For whosoever shall do the will of God,
+  the same is my brother, and my sister, and mother.</span></p>
+id: MRK/3/35
+next:
+  id: MRK/4/1
+  number: '1'
+previous:
+  id: MRK/3/34
+  number: '34'
+reference: 'Mark 3:35'

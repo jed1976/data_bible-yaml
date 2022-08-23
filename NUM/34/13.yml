@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 34:13"
+  class="v">13</span>And Moses commanded the children of Israel, saying, This
+  <span class="add">is</span> the land which ye shall inherit by lot, which the
+  <span class="nd">LORD</span> commanded to give unto the nine tribes, and to
+  the half tribe: </p>
+id: NUM/34/13
+next:
+  id: NUM/34/14
+  number: '14'
+previous:
+  id: NUM/34/12
+  number: '12'
+reference: 'Numbers 34:13'

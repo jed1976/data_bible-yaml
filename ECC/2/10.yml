@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ECC 2:10" class="v">10</span>And
+  whatsoever mine eyes desired I kept not from them, I withheld not my heart
+  from any joy; for my heart rejoiced in all my labour: and this was my portion
+  of all my labour. </p>
+id: ECC/2/10
+next:
+  id: ECC/2/11
+  number: '11'
+previous:
+  id: ECC/2/9
+  number: '9'
+reference: 'Ecclesiastes 2:10'

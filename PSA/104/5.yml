@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 104:5"
+  class="v">5</span><span class="add">Who</span> laid the foundations of the
+  earth, <span class="add">that</span> it should not be removed for ever.</p>
+id: PSA/104/5
+next:
+  id: PSA/104/6
+  number: '6'
+previous:
+  id: PSA/104/4
+  number: '4'
+reference: 'Psalms 104:5'

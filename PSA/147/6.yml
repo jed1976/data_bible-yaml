@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 147:6" class="v">6</span>The
+  <span class="nd">LORD</span> lifteth up the meek: he casteth the wicked down
+  to the ground.</p>
+id: PSA/147/6
+next:
+  id: PSA/147/7
+  number: '7'
+previous:
+  id: PSA/147/5
+  number: '5'
+reference: 'Psalms 147:6'

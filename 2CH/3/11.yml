@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 3:11" class="v">11</span>¶
+  And the wings of the cherubims <span class="add">were</span> twenty cubits
+  long: one wing <span class="add">of the one cherub was</span> five cubits,
+  reaching to the wall of the house: and the other wing <span class="add">was
+  likewise</span> five cubits, reaching to the wing of the other cherub. </p>
+id: 2CH/3/11
+next:
+  id: 2CH/3/12
+  number: '12'
+previous:
+  id: 2CH/3/10
+  number: '10'
+reference: '2 Chronicles 3:11'

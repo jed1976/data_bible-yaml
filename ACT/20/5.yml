@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 20:5" class="v">5</span>These
+  going before tarried for us at Troas. </p>
+id: ACT/20/5
+next:
+  id: ACT/20/6
+  number: '6'
+previous:
+  id: ACT/20/4
+  number: '4'
+reference: 'Acts 20:5'

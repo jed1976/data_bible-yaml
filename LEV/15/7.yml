@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 15:7" class="v">7</span>And
+  he that toucheth the flesh of him that hath the issue shall wash his clothes,
+  and bathe <span class="add">himself</span> in water, and be unclean until the
+  even. </p>
+id: LEV/15/7
+next:
+  id: LEV/15/8
+  number: '8'
+previous:
+  id: LEV/15/6
+  number: '6'
+reference: 'Leviticus 15:7'

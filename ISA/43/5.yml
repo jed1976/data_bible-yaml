@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 43:5" class="v">5</span>Fear
+  not: for I <span class="add">am</span> with thee: I will bring thy seed from
+  the east, and gather thee from the west; </p>
+id: ISA/43/5
+next:
+  id: ISA/43/6
+  number: '6'
+previous:
+  id: ISA/43/4
+  number: '4'
+reference: 'Isaiah 43:5'

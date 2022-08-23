@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 8:4" class="v">4</span>What
+  is man, that thou art mindful of him? and the son of man, that thou visitest
+  him?</p>
+id: PSA/8/4
+next:
+  id: PSA/8/5
+  number: '5'
+previous:
+  id: PSA/8/3
+  number: '3'
+reference: 'Psalms 8:4'

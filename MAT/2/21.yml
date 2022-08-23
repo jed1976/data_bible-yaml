@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MAT 2:21" class="v">21</span>And
+  he arose, and took the young child and his mother, and came into the land of
+  Israel. </p>
+id: MAT/2/21
+next:
+  id: MAT/2/22
+  number: '22'
+previous:
+  id: MAT/2/20
+  number: '20'
+reference: 'Matthew 2:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 19:5" class="v">5</span>And
+  <span class="add">one</span> shall burn the heifer in his sight; her skin, and
+  her flesh, and her blood, with her dung, shall he burn: </p>
+id: NUM/19/5
+next:
+  id: NUM/19/6
+  number: '6'
+previous:
+  id: NUM/19/4
+  number: '4'
+reference: 'Numbers 19:5'

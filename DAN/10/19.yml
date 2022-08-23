@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 10:19"
+  class="v">19</span>And said, O man greatly beloved, fear not: peace <span
+  class="add">be</span> unto thee, be strong, yea, be strong. And when he had
+  spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast
+  strengthened me. </p>
+id: DAN/10/19
+next:
+  id: DAN/10/20
+  number: '20'
+previous:
+  id: DAN/10/18
+  number: '18'
+reference: 'Daniel 10:19'

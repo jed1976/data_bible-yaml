@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 8:13"
+  class="v">13</span>Thou that dwellest in the gardens, the companions hearken
+  to thy voice: cause me to hear <span class="add">it</span>.</p>
+id: SNG/8/13
+next:
+  id: SNG/8/14
+  number: '14'
+previous:
+  id: SNG/8/12
+  number: '12'
+reference: 'Song of Solomon 8:13'

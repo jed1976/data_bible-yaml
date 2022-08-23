@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 22:4" class="v">4</span>And
+  he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And
+  Jehoshaphat said to the king of Israel, I <span class="add">am</span> as thou
+  <span class="add">art</span>, my people as thy people, my horses as thy
+  horses. </p>
+id: 1KI/22/4
+next:
+  id: 1KI/22/5
+  number: '5'
+previous:
+  id: 1KI/22/3
+  number: '3'
+reference: '1 Kings 22:4'

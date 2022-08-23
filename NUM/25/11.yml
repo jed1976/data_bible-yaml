@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 25:11"
+  class="v">11</span>Phinehas, the son of Eleazar, the son of Aaron the priest,
+  hath turned my wrath away from the children of Israel, while he was zealous
+  for my sake among them, that I consumed not the children of Israel in my
+  jealousy. </p>
+id: NUM/25/11
+next:
+  id: NUM/25/12
+  number: '12'
+previous:
+  id: NUM/25/10
+  number: '10'
+reference: 'Numbers 25:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="HOS 9:2" class="v">2</span>The
+  floor and the winepress shall not feed them, and the new wine shall fail in
+  her. </p>
+id: HOS/9/2
+next:
+  id: HOS/9/3
+  number: '3'
+previous:
+  id: HOS/9/1
+  number: '1'
+reference: 'Hosea 9:2'

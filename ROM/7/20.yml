@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 7:20" class="v">20</span>Now
+  if I do that I would not, it is no more I that do it, but sin that dwelleth in
+  me. </p>
+id: ROM/7/20
+next:
+  id: ROM/7/21
+  number: '21'
+previous:
+  id: ROM/7/19
+  number: '19'
+reference: 'Romans 7:20'

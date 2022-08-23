@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 3:21" class="v">21</span>But
+  now the righteousness of God without the law is manifested, being witnessed by
+  the law and the prophets; </p>
+id: ROM/3/21
+next:
+  id: ROM/3/22
+  number: '22'
+previous:
+  id: ROM/3/20
+  number: '20'
+reference: 'Romans 3:21'

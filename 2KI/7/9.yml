@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2KI 7:9" class="v">9</span>Then
+  they said one to another, We do not well: this day <span class="add">is</span>
+  a day of good tidings, and we hold our peace: if we tarry till the morning
+  light, some mischief will come upon us: now therefore come, that we may go and
+  tell the king’s household. </p>
+id: 2KI/7/9
+next:
+  id: 2KI/7/10
+  number: '10'
+previous:
+  id: 2KI/7/8
+  number: '8'
+reference: '2 Kings 7:9'

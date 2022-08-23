@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 11:4" class="v">4</span>But
+  Peter rehearsed <span class="add">the matter</span> from the beginning, and
+  expounded <span class="add">it</span> by order unto them, saying, </p>
+id: ACT/11/4
+next:
+  id: ACT/11/5
+  number: '5'
+previous:
+  id: ACT/11/3
+  number: '3'
+reference: 'Acts 11:4'

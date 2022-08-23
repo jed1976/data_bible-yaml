@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 20:8" class="v">8</span>And
+  ye shall keep my statutes, and do them: I <span class="add">am</span> the
+  <span class="nd">LORD</span> which sanctify you.</p>
+id: LEV/20/8
+next:
+  id: LEV/20/9
+  number: '9'
+previous:
+  id: LEV/20/7
+  number: '7'
+reference: 'Leviticus 20:8'

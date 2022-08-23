@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 10:4" class="v">4</span>They
+  have spoken words, swearing falsely in making a covenant: thus judgment
+  springeth up as hemlock in the furrows of the field. </p>
+id: HOS/10/4
+next:
+  id: HOS/10/5
+  number: '5'
+previous:
+  id: HOS/10/3
+  number: '3'
+reference: 'Hosea 10:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EST 1:19" class="v">19</span>If
+  it please the king, let there go a royal commandment from him, and let it be
+  written among the laws of the Persians and the Medes, that it be not altered,
+  That Vashti come no more before king Ahasuerus; and let the king give her
+  royal estate unto another that is better than she. </p>
+id: EST/1/19
+next:
+  id: EST/1/20
+  number: '20'
+previous:
+  id: EST/1/18
+  number: '18'
+reference: 'Esther 1:19'

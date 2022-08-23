@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 14:1" class="v">1</span>Now
+  Hiram king of Tyre sent messengers to David, and timber of cedars, with masons
+  and carpenters, to build him an house. </p>
+id: 1CH/14/1
+next:
+  id: 1CH/14/2
+  number: '2'
+previous:
+  id: 1CH/13/14
+  number: '14'
+reference: '1 Chronicles 14:1'

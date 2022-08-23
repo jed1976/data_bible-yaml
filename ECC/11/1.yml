@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 11:1" class="v">1</span>Cast
+  thy bread upon the waters: for thou shalt find it after many days. </p>
+id: ECC/11/1
+next:
+  id: ECC/11/2
+  number: '2'
+previous:
+  id: ECC/10/20
+  number: '20'
+reference: 'Ecclesiastes 11:1'

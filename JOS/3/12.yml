@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 3:12" class="v">12</span>Now
+  therefore take you twelve men out of the tribes of Israel, out of every tribe
+  a man. </p>
+id: JOS/3/12
+next:
+  id: JOS/3/13
+  number: '13'
+previous:
+  id: JOS/3/11
+  number: '11'
+reference: 'Joshua 3:12'

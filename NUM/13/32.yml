@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 13:32"
+  class="v">32</span>And they brought up an evil report of the land which they
+  had searched unto the children of Israel, saying, The land, through which we
+  have gone to search it, <span class="add">is</span> a land that eateth up the
+  inhabitants thereof; and all the people that we saw in it <span
+  class="add">are</span> men of a great stature. </p>
+id: NUM/13/32
+next:
+  id: NUM/13/33
+  number: '33'
+previous:
+  id: NUM/13/31
+  number: '31'
+reference: 'Numbers 13:32'

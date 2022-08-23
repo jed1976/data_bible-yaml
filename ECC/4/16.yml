@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 4:16"
+  class="v">16</span><span class="add">There is</span> no end of all the people,
+  <span class="add">even</span> of all that have been before them: they also
+  that come after shall not rejoice in him. Surely this also <span
+  class="add">is</span> vanity and vexation of spirit.</p>
+id: ECC/4/16
+next:
+  id: ECC/5/1
+  number: '1'
+previous:
+  id: ECC/4/15
+  number: '15'
+reference: 'Ecclesiastes 4:16'

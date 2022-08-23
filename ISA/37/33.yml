@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ISA 37:33"
+  class="v">33</span>Therefore thus saith the <span class="nd">LORD</span>
+  concerning the king of Assyria, He shall not come into this city, nor shoot an
+  arrow there, nor come before it with shields, nor cast a bank against it. </p>
+id: ISA/37/33
+next:
+  id: ISA/37/34
+  number: '34'
+previous:
+  id: ISA/37/32
+  number: '32'
+reference: 'Isaiah 37:33'

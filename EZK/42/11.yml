@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 42:11"
+  class="v">11</span>And the way before them <span class="add">was</span> like
+  the appearance of the chambers which <span class="add">were</span> toward the
+  north, as long as they, <span class="add">and</span> as broad as they: and all
+  their goings out <span class="add">were</span> both according to their
+  fashions, and according to their doors. </p>
+id: EZK/42/11
+next:
+  id: EZK/42/12
+  number: '12'
+previous:
+  id: EZK/42/10
+  number: '10'
+reference: 'Ezekiel 42:11'

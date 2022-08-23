@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 29:1" class="v">1</span>These
+  <span class="add">are</span> the words of the covenant, which the <span
+  class="nd">LORD</span> commanded Moses to make with the children of Israel in
+  the land of Moab, beside the covenant which he made with them in Horeb.</p>
+id: DEU/29/1
+next:
+  id: DEU/29/2
+  number: '2'
+previous:
+  id: DEU/28/68
+  number: '68'
+reference: 'Deuteronomy 29:1'

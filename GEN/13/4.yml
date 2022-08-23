@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 13:4" class="v">4</span>Unto
+  the place of the altar, which he had made there at the first: and there Abram
+  called on the name of the <span class="nd">LORD</span>.</p>
+id: GEN/13/4
+next:
+  id: GEN/13/5
+  number: '5'
+previous:
+  id: GEN/13/3
+  number: '3'
+reference: 'Genesis 13:4'

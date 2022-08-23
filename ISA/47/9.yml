@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 47:9" class="v">9</span>But
+  these two <span class="add">things</span> shall come to thee in a moment in
+  one day, the loss of children, and widowhood: they shall come upon thee in
+  their perfection for the multitude of thy sorceries, <span
+  class="add">and</span> for the great abundance of thine enchantments.</p>
+id: ISA/47/9
+next:
+  id: ISA/47/10
+  number: '10'
+previous:
+  id: ISA/47/8
+  number: '8'
+reference: 'Isaiah 47:9'

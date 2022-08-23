@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 38:20"
+  class="v">20</span>The <span class="nd">LORD</span> <span class="add">was
+  ready</span> to save me: therefore we will sing my songs to the stringed
+  instruments all the days of our life in the house of the <span
+  class="nd">LORD</span>. </p>
+id: ISA/38/20
+next:
+  id: ISA/38/21
+  number: '21'
+previous:
+  id: ISA/38/19
+  number: '19'
+reference: 'Isaiah 38:20'

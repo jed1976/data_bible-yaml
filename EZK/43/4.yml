@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 43:4" class="v">4</span>And
+  the glory of the <span class="nd">LORD</span> came into the house by the way
+  of the gate whose prospect <span class="add">is</span> toward the east. </p>
+id: EZK/43/4
+next:
+  id: EZK/43/5
+  number: '5'
+previous:
+  id: EZK/43/3
+  number: '3'
+reference: 'Ezekiel 43:4'

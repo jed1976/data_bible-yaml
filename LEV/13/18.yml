@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LEV 13:18" class="v">18</span>¶
+  The flesh also, in which, <span class="add">even</span> in the skin thereof,
+  was a boil, and is healed, </p>
+id: LEV/13/18
+next:
+  id: LEV/13/19
+  number: '19'
+previous:
+  id: LEV/13/17
+  number: '17'
+reference: 'Leviticus 13:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 8:19"
+  class="v">19</span>Saying, Give me also this power, that on whomsoever I lay
+  hands, he may receive the Holy Ghost. </p>
+id: ACT/8/19
+next:
+  id: ACT/8/20
+  number: '20'
+previous:
+  id: ACT/8/18
+  number: '18'
+reference: 'Acts 8:19'

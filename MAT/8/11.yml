@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 8:11"
+  class="v">11</span><span class="wj">And I say unto you, That many shall come
+  from the east and west, and shall sit down with Abraham, and Isaac, and Jacob,
+  in the kingdom of heaven.</span> </p>
+id: MAT/8/11
+next:
+  id: MAT/8/12
+  number: '12'
+previous:
+  id: MAT/8/10
+  number: '10'
+reference: 'Matthew 8:11'

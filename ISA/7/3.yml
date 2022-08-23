@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 7:3" class="v">3</span>Then
+  said the <span class="nd">LORD</span> unto Isaiah, Go forth now to meet Ahaz,
+  thou, and Shear-jashub thy son, at the end of the conduit of the upper pool in
+  the highway of the fuller’s field; </p>
+id: ISA/7/3
+next:
+  id: ISA/7/4
+  number: '4'
+previous:
+  id: ISA/7/2
+  number: '2'
+reference: 'Isaiah 7:3'

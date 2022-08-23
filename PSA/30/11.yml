@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 30:11"
+  class="v">11</span>Thou hast turned for me my mourning into dancing: thou hast
+  put off my sackcloth, and girded me with gladness;</p>
+id: PSA/30/11
+next:
+  id: PSA/30/12
+  number: '12'
+previous:
+  id: PSA/30/10
+  number: '10'
+reference: 'Psalms 30:11'

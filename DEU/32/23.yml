@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 32:23" class="v">23</span>I
+  will heap mischiefs upon them; I will spend mine arrows upon them. </p>
+id: DEU/32/23
+next:
+  id: DEU/32/24
+  number: '24'
+previous:
+  id: DEU/32/22
+  number: '22'
+reference: 'Deuteronomy 32:23'

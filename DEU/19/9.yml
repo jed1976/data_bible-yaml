@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 19:9" class="v">9</span>If
+  thou shalt keep all these commandments to do them, which I command thee this
+  day, to love the <span class="nd">LORD</span> thy God, and to walk ever in his
+  ways; then shalt thou add three cities more for thee, beside these three: </p>
+id: DEU/19/9
+next:
+  id: DEU/19/10
+  number: '10'
+previous:
+  id: DEU/19/8
+  number: '8'
+reference: 'Deuteronomy 19:9'

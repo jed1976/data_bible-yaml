@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 104:17"
+  class="v">17</span>Where the birds make their nests: <span class="add">as
+  for</span> the stork, the fir trees <span class="add">are</span> her
+  house.</p>
+id: PSA/104/17
+next:
+  id: PSA/104/18
+  number: '18'
+previous:
+  id: PSA/104/16
+  number: '16'
+reference: 'Psalms 104:17'

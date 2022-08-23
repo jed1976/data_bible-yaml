@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 12:30"
+  class="v">30</span>And Pharaoh rose up in the night, he, and all his servants,
+  and all the Egyptians; and there was a great cry in Egypt; for <span
+  class="add">there was</span> not a house where <span class="add">there
+  was</span> not one dead.</p>
+id: EXO/12/30
+next:
+  id: EXO/12/31
+  number: '31'
+previous:
+  id: EXO/12/29
+  number: '29'
+reference: 'Exodus 12:30'

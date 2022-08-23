@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 13:1" class="v">1</span>Lo,
+  mine eye hath seen all <span class="add">this</span>, mine ear hath heard and
+  understood it. </p>
+id: JOB/13/1
+next:
+  id: JOB/13/2
+  number: '2'
+previous:
+  id: JOB/12/25
+  number: '25'
+reference: 'Job 13:1'

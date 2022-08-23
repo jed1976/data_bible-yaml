@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 63:7" class="v">7</span>¶ I
+  will mention the lovingkindnesses of the <span class="nd">LORD</span>, <span
+  class="add">and</span> the praises of the <span class="nd">LORD</span>,
+  according to all that the <span class="nd">LORD</span> hath bestowed on us,
+  and the great goodness toward the house of Israel, which he hath bestowed on
+  them according to his mercies, and according to the multitude of his
+  lovingkindnesses. </p>
+id: ISA/63/7
+next:
+  id: ISA/63/8
+  number: '8'
+previous:
+  id: ISA/63/6
+  number: '6'
+reference: 'Isaiah 63:7'

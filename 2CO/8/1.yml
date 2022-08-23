@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CO 8:1"
+  class="v">1</span>Moreover, brethren, we do you to wit of the grace of God
+  bestowed on the churches of Macedonia; </p>
+id: 2CO/8/1
+next:
+  id: 2CO/8/2
+  number: '2'
+previous:
+  id: 2CO/7/16
+  number: '16'
+reference: '2 Corinthians 8:1'

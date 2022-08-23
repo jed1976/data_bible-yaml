@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 22:30"
+  class="v">30</span>Likewise shalt thou do with thine oxen, <span
+  class="add">and</span> with thy sheep: seven days it shall be with his dam; on
+  the eighth day thou shalt give it me.</p>
+id: EXO/22/30
+next:
+  id: EXO/22/31
+  number: '31'
+previous:
+  id: EXO/22/29
+  number: '29'
+reference: 'Exodus 22:30'

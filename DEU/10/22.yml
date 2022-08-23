@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 10:22"
+  class="v">22</span>Thy fathers went down into Egypt with threescore and ten
+  persons; and now the <span class="nd">LORD</span> thy God hath made thee as
+  the stars of heaven for multitude.</p>
+id: DEU/10/22
+next:
+  id: DEU/11/1
+  number: '1'
+previous:
+  id: DEU/10/21
+  number: '21'
+reference: 'Deuteronomy 10:22'

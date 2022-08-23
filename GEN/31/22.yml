@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 31:22"
+  class="v">22</span>And it was told Laban on the third day that Jacob was fled.
+  </p>
+id: GEN/31/22
+next:
+  id: GEN/31/23
+  number: '23'
+previous:
+  id: GEN/31/21
+  number: '21'
+reference: 'Genesis 31:22'

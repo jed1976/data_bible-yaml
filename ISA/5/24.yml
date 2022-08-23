@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 5:24"
+  class="v">24</span>Therefore as the fire devoureth the stubble, and the flame
+  consumeth the chaff, <span class="add">so</span> their root shall be as
+  rottenness, and their blossom shall go up as dust: because they have cast away
+  the law of the <span class="nd">LORD</span> of hosts, and despised the word of
+  the Holy One of Israel. </p>
+id: ISA/5/24
+next:
+  id: ISA/5/25
+  number: '25'
+previous:
+  id: ISA/5/23
+  number: '23'
+reference: 'Isaiah 5:24'

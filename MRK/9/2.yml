@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MRK 9:2" class="v">2</span>¶ And
+  after six days Jesus taketh <span class="add">with him</span> Peter, and
+  James, and John, and leadeth them up into an high mountain apart by
+  themselves: and he was transfigured before them. </p>
+id: MRK/9/2
+next:
+  id: MRK/9/3
+  number: '3'
+previous:
+  id: MRK/9/1
+  number: '1'
+reference: 'Mark 9:2'

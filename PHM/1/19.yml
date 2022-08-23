@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PHM 1:19" class="v">19</span>I
+  Paul have written <span class="add">it</span> with mine own hand, I will repay
+  <span class="add">it</span>: albeit I do not say to thee how thou owest unto
+  me even thine own self besides. </p>
+id: PHM/1/19
+next:
+  id: PHM/1/20
+  number: '20'
+previous:
+  id: PHM/1/18
+  number: '18'
+reference: 'Philemon 1:19'

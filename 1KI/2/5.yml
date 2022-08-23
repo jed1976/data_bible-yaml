@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 2:5"
+  class="v">5</span>Moreover thou knowest also what Joab the son of Zeruiah did
+  to me, <span class="add">and</span> what he did to the two captains of the
+  hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether,
+  whom he slew, and shed the blood of war in peace, and put the blood of war
+  upon his girdle that <span class="add">was</span> about his loins, and in his
+  shoes that <span class="add">were</span> on his feet. </p>
+id: 1KI/2/5
+next:
+  id: 1KI/2/6
+  number: '6'
+previous:
+  id: 1KI/2/4
+  number: '4'
+reference: '1 Kings 2:5'

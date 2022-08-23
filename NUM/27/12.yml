@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 27:12" class="v">12</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Get thee up into this
+  mount Abarim, and see the land which I have given unto the children of Israel.
+  </p>
+id: NUM/27/12
+next:
+  id: NUM/27/13
+  number: '13'
+previous:
+  id: NUM/27/11
+  number: '11'
+reference: 'Numbers 27:12'

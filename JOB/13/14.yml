@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 13:14"
+  class="v">14</span>Wherefore do I take my flesh in my teeth, and put my life
+  in mine hand? </p>
+id: JOB/13/14
+next:
+  id: JOB/13/15
+  number: '15'
+previous:
+  id: JOB/13/13
+  number: '13'
+reference: 'Job 13:14'

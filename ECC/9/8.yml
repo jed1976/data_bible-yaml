@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 9:8" class="v">8</span>Let
+  thy garments be always white; and let thy head lack no ointment. </p>
+id: ECC/9/8
+next:
+  id: ECC/9/9
+  number: '9'
+previous:
+  id: ECC/9/7
+  number: '7'
+reference: 'Ecclesiastes 9:8'

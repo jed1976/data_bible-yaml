@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 30:25"
+  class="v">25</span>And thou shalt make it an oil of holy ointment, an ointment
+  compound after the art of the apothecary: it shall be an holy anointing oil.
+  </p>
+id: EXO/30/25
+next:
+  id: EXO/30/26
+  number: '26'
+previous:
+  id: EXO/30/24
+  number: '24'
+reference: 'Exodus 30:25'

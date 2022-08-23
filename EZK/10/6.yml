@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 10:6" class="v">6</span>And
+  it came to pass, <span class="add">that</span> when he had commanded the man
+  clothed with linen, saying, Take fire from between the wheels, from between
+  the cherubims; then he went in, and stood beside the wheels. </p>
+id: EZK/10/6
+next:
+  id: EZK/10/7
+  number: '7'
+previous:
+  id: EZK/10/5
+  number: '5'
+reference: 'Ezekiel 10:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 7:23"
+  class="v">23</span>Till a dart strike through his liver; as a bird hasteth to
+  the snare, and knoweth not that it <span class="add">is</span> for his
+  life.</p>
+id: PRO/7/23
+next:
+  id: PRO/7/24
+  number: '24'
+previous:
+  id: PRO/7/22
+  number: '22'
+reference: 'Proverbs 7:23'

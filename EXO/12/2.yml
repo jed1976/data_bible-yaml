@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 12:2" class="v">2</span>This
+  month <span class="add">shall be</span> unto you the beginning of months: it
+  <span class="add">shall be</span> the first month of the year to you.</p>
+id: EXO/12/2
+next:
+  id: EXO/12/3
+  number: '3'
+previous:
+  id: EXO/12/1
+  number: '1'
+reference: 'Exodus 12:2'

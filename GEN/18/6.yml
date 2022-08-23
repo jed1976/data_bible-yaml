@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 18:6" class="v">6</span>And
+  Abraham hastened into the tent unto Sarah, and said, Make ready quickly three
+  measures of fine meal, knead <span class="add">it</span>, and make cakes upon
+  the hearth. </p>
+id: GEN/18/6
+next:
+  id: GEN/18/7
+  number: '7'
+previous:
+  id: GEN/18/5
+  number: '5'
+reference: 'Genesis 18:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 18:7" class="v">7</span>The
+  steps of his strength shall be straitened, and his own counsel shall cast him
+  down. </p>
+id: JOB/18/7
+next:
+  id: JOB/18/8
+  number: '8'
+previous:
+  id: JOB/18/6
+  number: '6'
+reference: 'Job 18:7'

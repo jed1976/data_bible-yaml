@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 28:19"
+  class="v">19</span>And the third row a ligure, an agate, and an amethyst. </p>
+id: EXO/28/19
+next:
+  id: EXO/28/20
+  number: '20'
+previous:
+  id: EXO/28/18
+  number: '18'
+reference: 'Exodus 28:19'

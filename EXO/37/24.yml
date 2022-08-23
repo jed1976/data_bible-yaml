@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 37:24"
+  class="v">24</span><span class="add">Of</span> a talent of pure gold made he
+  it, and all the vessels thereof.</p>
+id: EXO/37/24
+next:
+  id: EXO/37/25
+  number: '25'
+previous:
+  id: EXO/37/23
+  number: '23'
+reference: 'Exodus 37:24'

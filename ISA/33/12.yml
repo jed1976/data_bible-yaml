@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 33:12"
+  class="v">12</span>And the people shall be <span class="add">as</span> the
+  burnings of lime: <span class="add">as</span> thorns cut up shall they be
+  burned in the fire.</p>
+id: ISA/33/12
+next:
+  id: ISA/33/13
+  number: '13'
+previous:
+  id: ISA/33/11
+  number: '11'
+reference: 'Isaiah 33:12'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 6:12" class="v">12</span>And
+  they went out, and preached that men should repent. </p>
+id: MRK/6/12
+next:
+  id: MRK/6/13
+  number: '13'
+previous:
+  id: MRK/6/11
+  number: '11'
+reference: 'Mark 6:12'

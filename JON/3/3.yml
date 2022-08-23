@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JON 3:3" class="v">3</span>So
+  Jonah arose, and went unto Nineveh, according to the word of the <span
+  class="nd">LORD</span>. Now Nineveh was an exceeding great city of three days’
+  journey. </p>
+id: JON/3/3
+next:
+  id: JON/3/4
+  number: '4'
+previous:
+  id: JON/3/2
+  number: '2'
+reference: 'Jonah 3:3'

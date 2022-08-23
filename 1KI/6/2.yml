@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1KI 6:2" class="v">2</span>And
+  the house which king Solomon built for the <span class="nd">LORD</span>, the
+  length thereof <span class="add">was</span> threescore cubits, and the breadth
+  thereof twenty <span class="add">cubits</span>, and the height thereof thirty
+  cubits. </p>
+id: 1KI/6/2
+next:
+  id: 1KI/6/3
+  number: '3'
+previous:
+  id: 1KI/6/1
+  number: '1'
+reference: '1 Kings 6:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HEB 2:15" class="v">15</span>And
+  deliver them who through fear of death were all their lifetime subject to
+  bondage. </p>
+id: HEB/2/15
+next:
+  id: HEB/2/16
+  number: '16'
+previous:
+  id: HEB/2/14
+  number: '14'
+reference: 'Hebrews 2:15'

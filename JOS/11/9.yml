@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 11:9" class="v">9</span>And
+  Joshua did unto them as the <span class="nd">LORD</span> bade him: he houghed
+  their horses, and burnt their chariots with fire.</p>
+id: JOS/11/9
+next:
+  id: JOS/11/10
+  number: '10'
+previous:
+  id: JOS/11/8
+  number: '8'
+reference: 'Joshua 11:9'

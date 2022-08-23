@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 25:33"
+  class="v">33</span><span class="wj">And he shall set the sheep on his right
+  hand, but the goats on the left.</span> </p>
+id: MAT/25/33
+next:
+  id: MAT/25/34
+  number: '34'
+previous:
+  id: MAT/25/32
+  number: '32'
+reference: 'Matthew 25:33'

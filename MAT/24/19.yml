@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 24:19"
+  class="v">19</span><span class="wj">And woe unto them that are with child, and
+  to them that give suck in those days!</span> </p>
+id: MAT/24/19
+next:
+  id: MAT/24/20
+  number: '20'
+previous:
+  id: MAT/24/18
+  number: '18'
+reference: 'Matthew 24:19'

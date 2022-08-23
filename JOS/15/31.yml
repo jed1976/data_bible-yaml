@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOS 15:31"
+  class="v">31</span>And Ziklag, and Madmannah, and Sansannah, </p>
+id: JOS/15/31
+next:
+  id: JOS/15/32
+  number: '32'
+previous:
+  id: JOS/15/30
+  number: '30'
+reference: 'Joshua 15:31'

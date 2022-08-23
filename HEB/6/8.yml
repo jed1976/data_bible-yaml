@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 6:8" class="v">8</span>But
+  that which beareth thorns and briers <span class="add">is</span> rejected, and
+  <span class="add">is</span> nigh unto cursing; whose end <span
+  class="add">is</span> to be burned. </p>
+id: HEB/6/8
+next:
+  id: HEB/6/9
+  number: '9'
+previous:
+  id: HEB/6/7
+  number: '7'
+reference: 'Hebrews 6:8'

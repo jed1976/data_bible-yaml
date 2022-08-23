@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 10:7" class="v">7</span>The
+  memory of the just <span class="add">is</span> blessed: but the name of the
+  wicked shall rot. </p>
+id: PRO/10/7
+next:
+  id: PRO/10/8
+  number: '8'
+previous:
+  id: PRO/10/6
+  number: '6'
+reference: 'Proverbs 10:7'

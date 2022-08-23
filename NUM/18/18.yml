@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 18:18"
+  class="v">18</span>And the flesh of them shall be thine, as the wave breast
+  and as the right shoulder are thine. </p>
+id: NUM/18/18
+next:
+  id: NUM/18/19
+  number: '19'
+previous:
+  id: NUM/18/17
+  number: '17'
+reference: 'Numbers 18:18'

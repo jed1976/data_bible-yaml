@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="106" data-sid="PSA 119:106"
+  class="v">106</span>I have sworn, and I will perform <span
+  class="add">it</span>, that I will keep thy righteous judgments.</p>
+id: PSA/119/106
+next:
+  id: PSA/119/107
+  number: '107'
+previous:
+  id: PSA/119/105
+  number: '105'
+reference: 'Psalms 119:106'

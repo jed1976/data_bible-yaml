@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 4:3" class="v">3</span>And in
+  process of time it came to pass, that Cain brought of the fruit of the ground
+  an offering unto the <span class="nd">LORD</span>. </p>
+id: GEN/4/3
+next:
+  id: GEN/4/4
+  number: '4'
+previous:
+  id: GEN/4/2
+  number: '2'
+reference: 'Genesis 4:3'

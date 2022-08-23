@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 29:6" class="v">6</span>And
+  he said unto them, <span class="add">Is</span> he well? And they said, <span
+  class="add">He is</span> well: and, behold, Rachel his daughter cometh with
+  the sheep. </p>
+id: GEN/29/6
+next:
+  id: GEN/29/7
+  number: '7'
+previous:
+  id: GEN/29/5
+  number: '5'
+reference: 'Genesis 29:6'

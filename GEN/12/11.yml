@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 12:11"
+  class="v">11</span>And it came to pass, when he was come near to enter into
+  Egypt, that he said unto Sarai his wife, Behold now, I know that thou <span
+  class="add">art</span> a fair woman to look upon: </p>
+id: GEN/12/11
+next:
+  id: GEN/12/12
+  number: '12'
+previous:
+  id: GEN/12/10
+  number: '10'
+reference: 'Genesis 12:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician upon Sheminith, A Psalm of David.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 12:1" class="v">1</span>Help,
+  <span class="nd">LORD</span>; for the godly man ceaseth; for the faithful fail
+  from among the children of men.</p>
+id: PSA/12/1
+next:
+  id: PSA/12/2
+  number: '2'
+previous:
+  id: PSA/11/7
+  number: '7'
+reference: 'Psalms 12:1'

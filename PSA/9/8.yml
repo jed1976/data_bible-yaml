@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 9:8" class="v">8</span>And
+  he shall judge the world in righteousness, he shall minister judgment to the
+  people in uprightness.</p>
+id: PSA/9/8
+next:
+  id: PSA/9/9
+  number: '9'
+previous:
+  id: PSA/9/7
+  number: '7'
+reference: 'Psalms 9:8'

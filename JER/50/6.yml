@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 50:6" class="v">6</span>My
+  people hath been lost sheep: their shepherds have caused them to go astray,
+  they have turned them away <span class="add">on</span> the mountains: they
+  have gone from mountain to hill, they have forgotten their restingplace. </p>
+id: JER/50/6
+next:
+  id: JER/50/7
+  number: '7'
+previous:
+  id: JER/50/5
+  number: '5'
+reference: 'Jeremiah 50:6'

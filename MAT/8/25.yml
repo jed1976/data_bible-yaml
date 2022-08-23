@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 8:25" class="v">25</span>And
+  his disciples came to <span class="add">him</span>, and awoke him, saying,
+  Lord, save us: we perish. </p>
+id: MAT/8/25
+next:
+  id: MAT/8/26
+  number: '26'
+previous:
+  id: MAT/8/24
+  number: '24'
+reference: 'Matthew 8:25'

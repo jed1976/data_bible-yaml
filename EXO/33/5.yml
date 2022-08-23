@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 33:5" class="v">5</span>For
+  the <span class="nd">LORD</span> had said unto Moses, Say unto the children of
+  Israel, Ye <span class="add">are</span> a stiffnecked people: I will come up
+  into the midst of thee in a moment, and consume thee: therefore now put off
+  thy ornaments from thee, that I may know what to do unto thee. </p>
+id: EXO/33/5
+next:
+  id: EXO/33/6
+  number: '6'
+previous:
+  id: EXO/33/4
+  number: '4'
+reference: 'Exodus 33:5'

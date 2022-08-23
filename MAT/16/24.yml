@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 16:24" class="v">24</span>¶
+  Then said Jesus unto his disciples, <span class="wj">If any <span
+  class="add">man</span> will come after me, let him deny himself, and take up
+  his cross, and follow me.</span> </p>
+id: MAT/16/24
+next:
+  id: MAT/16/25
+  number: '25'
+previous:
+  id: MAT/16/23
+  number: '23'
+reference: 'Matthew 16:24'

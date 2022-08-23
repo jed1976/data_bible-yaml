@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 44:21" class="v">21</span>¶
+  Remember these, O Jacob and Israel; for thou <span class="add">art</span> my
+  servant: I have formed thee; thou <span class="add">art</span> my servant: O
+  Israel, thou shalt not be forgotten of me. </p>
+id: ISA/44/21
+next:
+  id: ISA/44/22
+  number: '22'
+previous:
+  id: ISA/44/20
+  number: '20'
+reference: 'Isaiah 44:21'

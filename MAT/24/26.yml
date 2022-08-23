@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 24:26"
+  class="v">26</span><span class="wj">Wherefore if they shall say unto you,
+  Behold, he is in the desert; go not forth: behold, <span class="add">he
+  is</span> in the secret chambers; believe <span class="add">it</span>
+  not.</span> </p>
+id: MAT/24/26
+next:
+  id: MAT/24/27
+  number: '27'
+previous:
+  id: MAT/24/25
+  number: '25'
+reference: 'Matthew 24:26'

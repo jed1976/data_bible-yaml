@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 29:5"
+  class="v">5</span>Moreover the multitude of thy strangers shall be like small
+  dust, and the multitude of the terrible ones <span class="add">shall be</span>
+  as chaff that passeth away: yea, it shall be at an instant suddenly. </p>
+id: ISA/29/5
+next:
+  id: ISA/29/6
+  number: '6'
+previous:
+  id: ISA/29/4
+  number: '4'
+reference: 'Isaiah 29:5'

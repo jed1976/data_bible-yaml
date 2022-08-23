@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 3:8" class="v">8</span>The
+  lion hath roared, who will not fear? the Lord <span class="nd">GOD</span> hath
+  spoken, who can but prophesy?</p>
+id: AMO/3/8
+next:
+  id: AMO/3/9
+  number: '9'
+previous:
+  id: AMO/3/7
+  number: '7'
+reference: 'Amos 3:8'

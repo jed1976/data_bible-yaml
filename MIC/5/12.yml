@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 5:12" class="v">12</span>And
+  I will cut off witchcrafts out of thine hand; and thou shalt have no <span
+  class="add">more</span> soothsayers: </p>
+id: MIC/5/12
+next:
+  id: MIC/5/13
+  number: '13'
+previous:
+  id: MIC/5/11
+  number: '11'
+reference: 'Micah 5:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 3:23" class="v">23</span>And
+  he called them <span class="add">unto him</span>, and said unto them in
+  parables, <span class="wj">How can Satan cast out Satan?</span> </p>
+id: MRK/3/23
+next:
+  id: MRK/3/24
+  number: '24'
+previous:
+  id: MRK/3/22
+  number: '22'
+reference: 'Mark 3:23'

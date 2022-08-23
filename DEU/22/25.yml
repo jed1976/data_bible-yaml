@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 22:25" class="v">25</span>¶
+  But if a man find a betrothed damsel in the field, and the man force her, and
+  lie with her: then the man only that lay with her shall die: </p>
+id: DEU/22/25
+next:
+  id: DEU/22/26
+  number: '26'
+previous:
+  id: DEU/22/24
+  number: '24'
+reference: 'Deuteronomy 22:25'

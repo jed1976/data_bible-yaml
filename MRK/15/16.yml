@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 15:16"
+  class="v">16</span>And the soldiers led him away into the hall, called
+  Prætorium; and they call together the whole band. </p>
+id: MRK/15/16
+next:
+  id: MRK/15/17
+  number: '17'
+previous:
+  id: MRK/15/15
+  number: '15'
+reference: 'Mark 15:16'

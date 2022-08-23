@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 10:4" class="v">4</span>And
+  they said, Moses suffered to write a bill of divorcement, and to put her away.
+  </p>
+id: MRK/10/4
+next:
+  id: MRK/10/5
+  number: '5'
+previous:
+  id: MRK/10/3
+  number: '3'
+reference: 'Mark 10:4'

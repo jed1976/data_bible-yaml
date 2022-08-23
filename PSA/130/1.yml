@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Song of degrees.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 130:1" class="v">1</span>Out of the depths have I cried unto
+  thee, O <span class="nd">LORD</span>.</p>
+id: PSA/130/1
+next:
+  id: PSA/130/2
+  number: '2'
+previous:
+  id: PSA/129/8
+  number: '8'
+reference: 'Psalms 130:1'

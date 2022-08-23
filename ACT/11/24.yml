@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 11:24"
+  class="v">24</span>For he was a good man, and full of the Holy Ghost and of
+  faith: and much people was added unto the Lord. </p>
+id: ACT/11/24
+next:
+  id: ACT/11/25
+  number: '25'
+previous:
+  id: ACT/11/23
+  number: '23'
+reference: 'Acts 11:24'

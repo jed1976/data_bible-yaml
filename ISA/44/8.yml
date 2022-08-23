@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 44:8" class="v">8</span>Fear
+  ye not, neither be afraid: have not I told thee from that time, and have
+  declared <span class="add">it</span>? ye <span class="add">are</span> even my
+  witnesses. Is there a God beside me? yea, <span class="add">there is</span> no
+  God; I know not <span class="add">any</span>.</p>
+id: ISA/44/8
+next:
+  id: ISA/44/9
+  number: '9'
+previous:
+  id: ISA/44/7
+  number: '7'
+reference: 'Isaiah 44:8'

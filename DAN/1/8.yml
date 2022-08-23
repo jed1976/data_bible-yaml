@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 1:8" class="v">8</span>¶ But
+  Daniel purposed in his heart that he would not defile himself with the portion
+  of the king’s meat, nor with the wine which he drank: therefore he requested
+  of the prince of the eunuchs that he might not defile himself. </p>
+id: DAN/1/8
+next:
+  id: DAN/1/9
+  number: '9'
+previous:
+  id: DAN/1/7
+  number: '7'
+reference: 'Daniel 1:8'

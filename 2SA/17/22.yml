@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 17:22"
+  class="v">22</span>Then David arose, and all the people that <span
+  class="add">were</span> with him, and they passed over Jordan: by the morning
+  light there lacked not one of them that was not gone over Jordan.</p>
+id: 2SA/17/22
+next:
+  id: 2SA/17/23
+  number: '23'
+previous:
+  id: 2SA/17/21
+  number: '21'
+reference: '2 Samuel 17:22'

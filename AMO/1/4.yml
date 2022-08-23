@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 1:4" class="v">4</span>But I
+  will send a fire into the house of Hazael, which shall devour the palaces of
+  Ben-hadad. </p>
+id: AMO/1/4
+next:
+  id: AMO/1/5
+  number: '5'
+previous:
+  id: AMO/1/3
+  number: '3'
+reference: 'Amos 1:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 6:20" class="v">20</span>¶
+  And he lifted up his eyes on his disciples, and said, <span class="wj">Blessed
+  <span class="add">be ye</span> poor: for yours is the kingdom of God.</span>
+  </p>
+id: LUK/6/20
+next:
+  id: LUK/6/21
+  number: '21'
+previous:
+  id: LUK/6/19
+  number: '19'
+reference: 'Luke 6:20'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 6:16"
+  class="v">16</span>Thus saith the <span class="nd">LORD</span>, Stand ye in
+  the ways, and see, and ask for the old paths, where <span
+  class="add">is</span> the good way, and walk therein, and ye shall find rest
+  for your souls. But they said, We will not walk <span
+  class="add">therein</span>. </p>
+id: JER/6/16
+next:
+  id: JER/6/17
+  number: '17'
+previous:
+  id: JER/6/15
+  number: '15'
+reference: 'Jeremiah 6:16'

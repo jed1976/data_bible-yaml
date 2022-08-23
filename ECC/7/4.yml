@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 7:4" class="v">4</span>The
+  heart of the wise <span class="add">is</span> in the house of mourning; but
+  the heart of fools <span class="add">is</span> in the house of mirth. </p>
+id: ECC/7/4
+next:
+  id: ECC/7/5
+  number: '5'
+previous:
+  id: ECC/7/3
+  number: '3'
+reference: 'Ecclesiastes 7:4'

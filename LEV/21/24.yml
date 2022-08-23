@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 21:24"
+  class="v">24</span>And Moses told <span class="add">it</span> unto Aaron, and
+  to his sons, and unto all the children of Israel.</p>
+id: LEV/21/24
+next:
+  id: LEV/22/1
+  number: '1'
+previous:
+  id: LEV/21/23
+  number: '23'
+reference: 'Leviticus 21:24'

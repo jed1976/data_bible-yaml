@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 6:20" class="v">20</span>And
+  the oracle in the forepart <span class="add">was</span> twenty cubits in
+  length, and twenty cubits in breadth, and twenty cubits in the height thereof:
+  and he overlaid it with pure gold; and <span class="add">so</span> covered the
+  altar <span class="add">which was of</span> cedar. </p>
+id: 1KI/6/20
+next:
+  id: 1KI/6/21
+  number: '21'
+previous:
+  id: 1KI/6/19
+  number: '19'
+reference: '1 Kings 6:20'

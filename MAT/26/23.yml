@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 26:23"
+  class="v">23</span>And he answered and said, <span class="wj">He that dippeth
+  <span class="add">his</span> hand with me in the dish, the same shall betray
+  me.</span> </p>
+id: MAT/26/23
+next:
+  id: MAT/26/24
+  number: '24'
+previous:
+  id: MAT/26/22
+  number: '22'
+reference: 'Matthew 26:23'

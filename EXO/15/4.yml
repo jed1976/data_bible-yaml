@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 15:4"
+  class="v">4</span>Pharaoh’s chariots and his host hath he cast into the sea:
+  his chosen captains also are drowned in the Red sea. </p>
+id: EXO/15/4
+next:
+  id: EXO/15/5
+  number: '5'
+previous:
+  id: EXO/15/3
+  number: '3'
+reference: 'Exodus 15:4'

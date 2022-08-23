@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PHP 2:9"
+  class="v">9</span>Wherefore God also hath highly exalted him, and given him a
+  name which is above every name: </p>
+id: PHP/2/9
+next:
+  id: PHP/2/10
+  number: '10'
+previous:
+  id: PHP/2/8
+  number: '8'
+reference: 'Philippians 2:9'

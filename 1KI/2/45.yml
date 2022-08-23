@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1KI 2:45" class="v">45</span>And
+  king Solomon <span class="add">shall be</span> blessed, and the throne of
+  David shall be established before the <span class="nd">LORD</span> for ever.
+  </p>
+id: 1KI/2/45
+next:
+  id: 1KI/2/46
+  number: '46'
+previous:
+  id: 1KI/2/44
+  number: '44'
+reference: '1 Kings 2:45'

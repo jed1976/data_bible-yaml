@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 52:6"
+  class="v">6</span>The righteous also shall see, and fear, and shall laugh at
+  him:</p>
+id: PSA/52/6
+next:
+  id: PSA/52/7
+  number: '7'
+previous:
+  id: PSA/52/5
+  number: '5'
+reference: 'Psalms 52:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 11:11"
+  class="v">11</span>But the land, whither ye go to possess it, <span
+  class="add">is</span> a land of hills and valleys, <span
+  class="add">and</span> drinketh water of the rain of heaven: </p>
+id: DEU/11/11
+next:
+  id: DEU/11/12
+  number: '12'
+previous:
+  id: DEU/11/10
+  number: '10'
+reference: 'Deuteronomy 11:11'

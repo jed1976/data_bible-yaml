@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="172" data-sid="PSA 119:172"
+  class="v">172</span>My tongue shall speak of thy word: for all thy
+  commandments <span class="add">are</span> righteousness.</p>
+id: PSA/119/172
+next:
+  id: PSA/119/173
+  number: '173'
+previous:
+  id: PSA/119/171
+  number: '171'
+reference: 'Psalms 119:172'

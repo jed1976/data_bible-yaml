@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 8:23" class="v">23</span>¶
+  And when he was entered into a ship, his disciples followed him. </p>
+id: MAT/8/23
+next:
+  id: MAT/8/24
+  number: '24'
+previous:
+  id: MAT/8/22
+  number: '22'
+reference: 'Matthew 8:23'

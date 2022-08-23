@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 14:9" class="v">9</span><span
+  class="add">Yet</span> through the scent of water it will bud, and bring forth
+  boughs like a plant. </p>
+id: JOB/14/9
+next:
+  id: JOB/14/10
+  number: '10'
+previous:
+  id: JOB/14/8
+  number: '8'
+reference: 'Job 14:9'

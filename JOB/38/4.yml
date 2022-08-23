@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 38:4" class="v">4</span>Where
+  wast thou when I laid the foundations of the earth? declare, if thou hast
+  understanding. </p>
+id: JOB/38/4
+next:
+  id: JOB/38/5
+  number: '5'
+previous:
+  id: JOB/38/3
+  number: '3'
+reference: 'Job 38:4'

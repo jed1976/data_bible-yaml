@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 16:20" class="v">20</span>He
+  that handleth a matter wisely shall find good: and whoso trusteth in the <span
+  class="nd">LORD</span>, happy <span class="add">is</span> he. </p>
+id: PRO/16/20
+next:
+  id: PRO/16/21
+  number: '21'
+previous:
+  id: PRO/16/19
+  number: '19'
+reference: 'Proverbs 16:20'

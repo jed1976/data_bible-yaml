@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 30:13"
+  class="v">13</span>They mar my path, they set forward my calamity, they have
+  no helper. </p>
+id: JOB/30/13
+next:
+  id: JOB/30/14
+  number: '14'
+previous:
+  id: JOB/30/12
+  number: '12'
+reference: 'Job 30:13'

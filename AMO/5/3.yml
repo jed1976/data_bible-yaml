@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 5:3" class="v">3</span>For
+  thus saith the Lord <span class="nd">GOD</span>; The city that went out <span
+  class="add">by</span> a thousand shall leave an hundred, and that which went
+  forth <span class="add">by</span> an hundred shall leave ten, to the house of
+  Israel.</p>
+id: AMO/5/3
+next:
+  id: AMO/5/4
+  number: '4'
+previous:
+  id: AMO/5/2
+  number: '2'
+reference: 'Amos 5:3'

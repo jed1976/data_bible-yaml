@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 28:6" class="v">6</span>Even
+  the prophet Jeremiah said, Amen: the <span class="nd">LORD</span> do so: the
+  <span class="nd">LORD</span> perform thy words which thou hast prophesied, to
+  bring again the vessels of the <span class="nd">LORD’s</span> house, and all
+  that is carried away captive, from Babylon into this place. </p>
+id: JER/28/6
+next:
+  id: JER/28/7
+  number: '7'
+previous:
+  id: JER/28/5
+  number: '5'
+reference: 'Jeremiah 28:6'

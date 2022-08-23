@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 3:21" class="v">21</span>Of
+  Gershon <span class="add">was</span> the family of the Libnites, and the
+  family of the Shimites: these <span class="add">are</span> the families of the
+  Gershonites. </p>
+id: NUM/3/21
+next:
+  id: NUM/3/22
+  number: '22'
+previous:
+  id: NUM/3/20
+  number: '20'
+reference: 'Numbers 3:21'

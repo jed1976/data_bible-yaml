@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 12:8" class="v">8</span>But
+  if ye be without chastisement, whereof all are partakers, then are ye
+  bastards, and not sons. </p>
+id: HEB/12/8
+next:
+  id: HEB/12/9
+  number: '9'
+previous:
+  id: HEB/12/7
+  number: '7'
+reference: 'Hebrews 12:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 11:14" class="v">14</span>If
+  iniquity <span class="add">be</span> in thine hand, put it far away, and let
+  not wickedness dwell in thy tabernacles. </p>
+id: JOB/11/14
+next:
+  id: JOB/11/15
+  number: '15'
+previous:
+  id: JOB/11/13
+  number: '13'
+reference: 'Job 11:14'

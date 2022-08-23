@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 116:14"
+  class="v">14</span>I will pay my vows unto the <span class="nd">LORD</span>
+  now in the presence of all his people.</p>
+id: PSA/116/14
+next:
+  id: PSA/116/15
+  number: '15'
+previous:
+  id: PSA/116/13
+  number: '13'
+reference: 'Psalms 116:14'

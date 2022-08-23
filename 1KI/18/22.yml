@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 18:22"
+  class="v">22</span>Then said Elijah unto the people, I, <span
+  class="add">even</span> I only, remain a prophet of the <span
+  class="nd">LORD</span>; but Baal’s prophets <span class="add">are</span> four
+  hundred and fifty men. </p>
+id: 1KI/18/22
+next:
+  id: 1KI/18/23
+  number: '23'
+previous:
+  id: 1KI/18/21
+  number: '21'
+reference: '1 Kings 18:22'

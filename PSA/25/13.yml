@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 25:13"
+  class="v">13</span>His soul shall dwell at ease; and his seed shall inherit
+  the earth.</p>
+id: PSA/25/13
+next:
+  id: PSA/25/14
+  number: '14'
+previous:
+  id: PSA/25/12
+  number: '12'
+reference: 'Psalms 25:13'

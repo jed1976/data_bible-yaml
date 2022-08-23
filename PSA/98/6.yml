@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 98:6" class="v">6</span>With
+  trumpets and sound of cornet make a joyful noise before the <span
+  class="nd">LORD</span>, the King.</p>
+id: PSA/98/6
+next:
+  id: PSA/98/7
+  number: '7'
+previous:
+  id: PSA/98/5
+  number: '5'
+reference: 'Psalms 98:6'

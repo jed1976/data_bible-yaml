@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 1:2" class="v">2</span>And
+  there were born unto him seven sons and three daughters. </p>
+id: JOB/1/2
+next:
+  id: JOB/1/3
+  number: '3'
+previous:
+  id: JOB/1/1
+  number: '1'
+reference: 'Job 1:2'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 7:5" class="v">5</span>For
+  neither did his brethren believe in him. </p>
+id: JHN/7/5
+next:
+  id: JHN/7/6
+  number: '6'
+previous:
+  id: JHN/7/4
+  number: '4'
+reference: 'John 7:5'

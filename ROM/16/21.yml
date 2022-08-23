@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 16:21"
+  class="v">21</span>Timotheus my workfellow, and Lucius, and Jason, and
+  Sosipater, my kinsmen, salute you. </p>
+id: ROM/16/21
+next:
+  id: ROM/16/22
+  number: '22'
+previous:
+  id: ROM/16/20
+  number: '20'
+reference: 'Romans 16:21'

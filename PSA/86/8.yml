@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 86:8"
+  class="v">8</span>Among the gods <span class="add">there is</span> none like
+  unto thee, O Lord; neither <span class="add">are there any works</span> like
+  unto thy works.</p>
+id: PSA/86/8
+next:
+  id: PSA/86/9
+  number: '9'
+previous:
+  id: PSA/86/7
+  number: '7'
+reference: 'Psalms 86:8'

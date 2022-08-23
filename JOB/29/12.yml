@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 29:12"
+  class="v">12</span>Because I delivered the poor that cried, and the
+  fatherless, and <span class="add">him that had</span> none to help him. </p>
+id: JOB/29/12
+next:
+  id: JOB/29/13
+  number: '13'
+previous:
+  id: JOB/29/11
+  number: '11'
+reference: 'Job 29:12'

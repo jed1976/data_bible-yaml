@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2TI 3:2" class="v">2</span>For
+  men shall be lovers of their own selves, covetous, boasters, proud,
+  blasphemers, disobedient to parents, unthankful, unholy, </p>
+id: 2TI/3/2
+next:
+  id: 2TI/3/3
+  number: '3'
+previous:
+  id: 2TI/3/1
+  number: '1'
+reference: '2 Timothy 3:2'

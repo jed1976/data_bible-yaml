@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 118:8"
+  class="v">8</span><span class="add">It is</span> better to trust in the <span
+  class="nd">LORD</span> than to put confidence in man.</p>
+id: PSA/118/8
+next:
+  id: PSA/118/9
+  number: '9'
+previous:
+  id: PSA/118/7
+  number: '7'
+reference: 'Psalms 118:8'

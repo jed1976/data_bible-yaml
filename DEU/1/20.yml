@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 1:20" class="v">20</span>And
+  I said unto you, Ye are come unto the mountain of the Amorites, which the
+  <span class="nd">LORD</span> our God doth give unto us. </p>
+id: DEU/1/20
+next:
+  id: DEU/1/21
+  number: '21'
+previous:
+  id: DEU/1/19
+  number: '19'
+reference: 'Deuteronomy 1:20'

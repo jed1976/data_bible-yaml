@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 20:19"
+  class="v">19</span>Serving the Lord with all humility of mind, and with many
+  tears, and temptations, which befell me by the lying in wait of the Jews: </p>
+id: ACT/20/19
+next:
+  id: ACT/20/20
+  number: '20'
+previous:
+  id: ACT/20/18
+  number: '18'
+reference: 'Acts 20:19'

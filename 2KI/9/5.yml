@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 9:5" class="v">5</span>And
+  when he came, behold, the captains of the host <span class="add">were</span>
+  sitting; and he said, I have an errand to thee, O captain. And Jehu said, Unto
+  which of all us? And he said, To thee, O captain. </p>
+id: 2KI/9/5
+next:
+  id: 2KI/9/6
+  number: '6'
+previous:
+  id: 2KI/9/4
+  number: '4'
+reference: '2 Kings 9:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 37:13"
+  class="v">13</span>Where <span class="add">is</span> the king of Hamath, and
+  the king of Arphad, and the king of the city of Sepharvaim, Hena, and
+  Ivah?</p>
+id: ISA/37/13
+next:
+  id: ISA/37/14
+  number: '14'
+previous:
+  id: ISA/37/12
+  number: '12'
+reference: 'Isaiah 37:13'

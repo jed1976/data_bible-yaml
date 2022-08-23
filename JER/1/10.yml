@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 1:10"
+  class="v">10</span>See, I have this day set thee over the nations and over the
+  kingdoms, to root out, and to pull down, and to destroy, and to throw down, to
+  build, and to plant.</p>
+id: JER/1/10
+next:
+  id: JER/1/11
+  number: '11'
+previous:
+  id: JER/1/9
+  number: '9'
+reference: 'Jeremiah 1:10'

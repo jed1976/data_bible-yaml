@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 29:4" class="v">4</span>And
+  Aaron and his sons thou shalt bring unto the door of the tabernacle of the
+  congregation, and shalt wash them with water. </p>
+id: EXO/29/4
+next:
+  id: EXO/29/5
+  number: '5'
+previous:
+  id: EXO/29/3
+  number: '3'
+reference: 'Exodus 29:4'

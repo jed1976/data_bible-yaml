@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 33:21"
+  class="v">21</span>But there the glorious <span class="nd">LORD</span> <span
+  class="add">will be</span> unto us a place of broad rivers <span
+  class="add">and</span> streams; wherein shall go no galley with oars, neither
+  shall gallant ship pass thereby. </p>
+id: ISA/33/21
+next:
+  id: ISA/33/22
+  number: '22'
+previous:
+  id: ISA/33/20
+  number: '20'
+reference: 'Isaiah 33:21'

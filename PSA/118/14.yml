@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 118:14"
+  class="v">14</span>The <span class="nd">LORD</span> <span
+  class="add">is</span> my strength and song, and is become my salvation.</p>
+id: PSA/118/14
+next:
+  id: PSA/118/15
+  number: '15'
+previous:
+  id: PSA/118/13
+  number: '13'
+reference: 'Psalms 118:14'

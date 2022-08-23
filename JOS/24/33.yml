@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JOS 24:33"
+  class="v">33</span>And Eleazar the son of Aaron died; and they buried him in a
+  hill <span class="add">that pertained to</span> Phinehas his son, which was
+  given him in mount Ephraim.</p>
+id: JOS/24/33
+next:
+  id: JDG/intro/0
+  number: '0'
+previous:
+  id: JOS/24/32
+  number: '32'
+reference: 'Joshua 24:33'

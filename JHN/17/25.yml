@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 17:25"
+  class="v">25</span><span class="wj">O righteous Father, the world hath not
+  known thee: but I have known thee, and these have known that thou hast sent
+  me.</span> </p>
+id: JHN/17/25
+next:
+  id: JHN/17/26
+  number: '26'
+previous:
+  id: JHN/17/24
+  number: '24'
+reference: 'John 17:25'

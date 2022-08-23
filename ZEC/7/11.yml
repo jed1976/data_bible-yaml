@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ZEC 7:11" class="v">11</span>But
+  they refused to hearken, and pulled away the shoulder, and stopped their ears,
+  that they should not hear. </p>
+id: ZEC/7/11
+next:
+  id: ZEC/7/12
+  number: '12'
+previous:
+  id: ZEC/7/10
+  number: '10'
+reference: 'Zechariah 7:11'

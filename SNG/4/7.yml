@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 4:7" class="v">7</span>Thou
+  <span class="add">art</span> all fair, my love; <span class="add">there
+  is</span> no spot in thee.</p>
+id: SNG/4/7
+next:
+  id: SNG/4/8
+  number: '8'
+previous:
+  id: SNG/4/6
+  number: '6'
+reference: 'Song of Solomon 4:7'

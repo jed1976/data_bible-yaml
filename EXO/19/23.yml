@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 19:23"
+  class="v">23</span>And Moses said unto the <span class="nd">LORD</span>, The
+  people cannot come up to mount Sinai: for thou chargedst us, saying, Set
+  bounds about the mount, and sanctify it. </p>
+id: EXO/19/23
+next:
+  id: EXO/19/24
+  number: '24'
+previous:
+  id: EXO/19/22
+  number: '22'
+reference: 'Exodus 19:23'

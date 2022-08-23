@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 2:4" class="v">4</span>And
+  the woman took the two men, and hid them, and said thus, There came men unto
+  me, but I wist not whence they <span class="add">were:</span> </p>
+id: JOS/2/4
+next:
+  id: JOS/2/5
+  number: '5'
+previous:
+  id: JOS/2/3
+  number: '3'
+reference: 'Joshua 2:4'

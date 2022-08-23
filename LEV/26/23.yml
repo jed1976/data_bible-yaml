@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 26:23"
+  class="v">23</span>And if ye will not be reformed by me by these things, but
+  will walk contrary unto me; </p>
+id: LEV/26/23
+next:
+  id: LEV/26/24
+  number: '24'
+previous:
+  id: LEV/26/22
+  number: '22'
+reference: 'Leviticus 26:23'

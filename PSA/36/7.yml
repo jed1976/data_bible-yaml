@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 36:7" class="v">7</span>How
+  excellent <span class="add">is</span> thy lovingkindness, O God! therefore the
+  children of men put their trust under the shadow of thy wings.</p>
+id: PSA/36/7
+next:
+  id: PSA/36/8
+  number: '8'
+previous:
+  id: PSA/36/6
+  number: '6'
+reference: 'Psalms 36:7'

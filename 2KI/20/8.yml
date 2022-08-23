@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2KI 20:8" class="v">8</span>¶ And
+  Hezekiah said unto Isaiah, What <span class="add">shall be</span> the sign
+  that the <span class="nd">LORD</span> will heal me, and that I shall go up
+  into the house of the <span class="nd">LORD</span> the third day? </p>
+id: 2KI/20/8
+next:
+  id: 2KI/20/9
+  number: '9'
+previous:
+  id: 2KI/20/7
+  number: '7'
+reference: '2 Kings 20:8'

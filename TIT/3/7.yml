@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="TIT 3:7" class="v">7</span>That
+  being justified by his grace, we should be made heirs according to the hope of
+  eternal life. </p>
+id: TIT/3/7
+next:
+  id: TIT/3/8
+  number: '8'
+previous:
+  id: TIT/3/6
+  number: '6'
+reference: 'Titus 3:7'

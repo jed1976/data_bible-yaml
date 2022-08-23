@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 10:24"
+  class="v">24</span>Then came the Jews round about him, and said unto him, How
+  long dost thou make us to doubt? If thou be the Christ, tell us plainly. </p>
+id: JHN/10/24
+next:
+  id: JHN/10/25
+  number: '25'
+previous:
+  id: JHN/10/23
+  number: '23'
+reference: 'John 10:24'

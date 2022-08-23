@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 28:18"
+  class="v">18</span>Cursed <span class="add">shall be</span> the fruit of thy
+  body, and the fruit of thy land, the increase of thy kine, and the flocks of
+  thy sheep. </p>
+id: DEU/28/18
+next:
+  id: DEU/28/19
+  number: '19'
+previous:
+  id: DEU/28/17
+  number: '17'
+reference: 'Deuteronomy 28:18'

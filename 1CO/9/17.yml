@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1CO 9:17" class="v">17</span>For
+  if I do this thing willingly, I have a reward: but if against my will, a
+  dispensation <span class="add">of the gospel</span> is committed unto me. </p>
+id: 1CO/9/17
+next:
+  id: 1CO/9/18
+  number: '18'
+previous:
+  id: 1CO/9/16
+  number: '16'
+reference: '1 Corinthians 9:17'

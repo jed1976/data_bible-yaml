@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 26:26"
+  class="v">26</span><span class="add">Whose</span> hatred is covered by deceit,
+  his wickedness shall be shewed before the <span class="add">whole</span>
+  congregation. </p>
+id: PRO/26/26
+next:
+  id: PRO/26/27
+  number: '27'
+previous:
+  id: PRO/26/25
+  number: '25'
+reference: 'Proverbs 26:26'

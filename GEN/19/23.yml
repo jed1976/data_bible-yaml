@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 19:23" class="v">23</span>¶
+  The sun was risen upon the earth when Lot entered into Zoar.</p>
+id: GEN/19/23
+next:
+  id: GEN/19/24
+  number: '24'
+previous:
+  id: GEN/19/22
+  number: '22'
+reference: 'Genesis 19:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 22:12"
+  class="v">12</span>And all the prophets prophesied so, saying, Go up to
+  Ramoth-gilead, and prosper: for the <span class="nd">LORD</span> shall deliver
+  <span class="add">it</span> into the king’s hand. </p>
+id: 1KI/22/12
+next:
+  id: 1KI/22/13
+  number: '13'
+previous:
+  id: 1KI/22/11
+  number: '11'
+reference: '1 Kings 22:12'

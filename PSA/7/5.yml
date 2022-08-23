@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 7:5" class="v">5</span>Let
+  the enemy persecute my soul, and take <span class="add">it;</span> yea, let
+  him tread down my life upon the earth, and lay mine honour in the dust.
+  Selah.</p>
+id: PSA/7/5
+next:
+  id: PSA/7/6
+  number: '6'
+previous:
+  id: PSA/7/4
+  number: '4'
+reference: 'Psalms 7:5'

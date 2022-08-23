@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 23:19"
+  class="v">19</span>And after this, Abraham buried Sarah his wife in the cave
+  of the field of Machpelah before Mamre: the same <span class="add">is</span>
+  Hebron in the land of Canaan. </p>
+id: GEN/23/19
+next:
+  id: GEN/23/20
+  number: '20'
+previous:
+  id: GEN/23/18
+  number: '18'
+reference: 'Genesis 23:19'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CO 3:23" class="v">23</span>And
+  ye are Christ’s; and Christ <span class="add">is</span> God’s.</p>
+id: 1CO/3/23
+next:
+  id: 1CO/4/1
+  number: '1'
+previous:
+  id: 1CO/3/22
+  number: '22'
+reference: '1 Corinthians 3:23'

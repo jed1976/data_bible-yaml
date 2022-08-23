@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 4:6" class="v">6</span>And
+  Ahishar <span class="add">was</span> over the household: and Adoniram the son
+  of Abda <span class="add">was</span> over the tribute.</p>
+id: 1KI/4/6
+next:
+  id: 1KI/4/7
+  number: '7'
+previous:
+  id: 1KI/4/5
+  number: '5'
+reference: '1 Kings 4:6'

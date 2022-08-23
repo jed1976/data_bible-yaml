@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 25:9" class="v">9</span>And
+  his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field
+  of Ephron the son of Zohar the Hittite, which <span class="add">is</span>
+  before Mamre; </p>
+id: GEN/25/9
+next:
+  id: GEN/25/10
+  number: '10'
+previous:
+  id: GEN/25/8
+  number: '8'
+reference: 'Genesis 25:9'

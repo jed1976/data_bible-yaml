@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 3:32" class="v">32</span>For
+  the froward <span class="add">is</span> abomination to the <span
+  class="nd">LORD</span>: but his secret <span class="add">is</span> with the
+  righteous.</p>
+id: PRO/3/32
+next:
+  id: PRO/3/33
+  number: '33'
+previous:
+  id: PRO/3/31
+  number: '31'
+reference: 'Proverbs 3:32'

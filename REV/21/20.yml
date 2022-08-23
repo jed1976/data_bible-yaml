@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="REV 21:20"
+  class="v">20</span>The fifth, sardonyx; the sixth, sardius; the seventh,
+  chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus;
+  the eleventh, a jacinth; the twelfth, an amethyst. </p>
+id: REV/21/20
+next:
+  id: REV/21/21
+  number: '21'
+previous:
+  id: REV/21/19
+  number: '19'
+reference: 'Revelation 21:20'

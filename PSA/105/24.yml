@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 105:24"
+  class="v">24</span>And he increased his people greatly; and made them stronger
+  than their enemies.</p>
+id: PSA/105/24
+next:
+  id: PSA/105/25
+  number: '25'
+previous:
+  id: PSA/105/23
+  number: '23'
+reference: 'Psalms 105:24'

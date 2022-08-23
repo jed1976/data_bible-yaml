@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 19:3" class="v">3</span>These
+  ten times have ye reproached me: ye are not ashamed <span
+  class="add">that</span> ye make yourselves strange to me. </p>
+id: JOB/19/3
+next:
+  id: JOB/19/4
+  number: '4'
+previous:
+  id: JOB/19/2
+  number: '2'
+reference: 'Job 19:3'

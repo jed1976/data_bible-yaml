@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JHN 2:6" class="v">6</span>And
+  there were set there six waterpots of stone, after the manner of the purifying
+  of the Jews, containing two or three firkins apiece. </p>
+id: JHN/2/6
+next:
+  id: JHN/2/7
+  number: '7'
+previous:
+  id: JHN/2/5
+  number: '5'
+reference: 'John 2:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EST 9:13"
+  class="v">13</span>Then said Esther, If it please the king, let it be granted
+  to the Jews which <span class="add">are</span> in Shushan to do to morrow also
+  according unto this day’s decree, and let Haman’s ten sons be hanged upon the
+  gallows. </p>
+id: EST/9/13
+next:
+  id: EST/9/14
+  number: '14'
+previous:
+  id: EST/9/12
+  number: '12'
+reference: 'Esther 9:13'

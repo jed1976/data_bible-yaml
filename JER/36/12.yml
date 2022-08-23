@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 36:12"
+  class="v">12</span>Then he went down into the king’s house, into the scribe’s
+  chamber: and, lo, all the princes sat there, <span class="add">even</span>
+  Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of
+  Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and
+  all the princes. </p>
+id: JER/36/12
+next:
+  id: JER/36/13
+  number: '13'
+previous:
+  id: JER/36/11
+  number: '11'
+reference: 'Jeremiah 36:12'

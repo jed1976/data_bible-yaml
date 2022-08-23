@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 51:13"
+  class="v">13</span><span class="add">Then</span> will I teach transgressors
+  thy ways; and sinners shall be converted unto thee.</p>
+id: PSA/51/13
+next:
+  id: PSA/51/14
+  number: '14'
+previous:
+  id: PSA/51/12
+  number: '12'
+reference: 'Psalms 51:13'

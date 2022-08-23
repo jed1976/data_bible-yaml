@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="GEN 24:42"
+  class="v">42</span>And I came this day unto the well, and said, O <span
+  class="nd">LORD</span> God of my master Abraham, if now thou do prosper my way
+  which I go: </p>
+id: GEN/24/42
+next:
+  id: GEN/24/43
+  number: '43'
+previous:
+  id: GEN/24/41
+  number: '41'
+reference: 'Genesis 24:42'

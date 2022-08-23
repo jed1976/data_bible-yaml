@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAL 2:2" class="v">2</span>If ye
+  will not hear, and if ye will not lay <span class="add">it</span> to heart, to
+  give glory unto my name, saith the <span class="nd">LORD</span> of hosts, I
+  will even send a curse upon you, and I will curse your blessings: yea, I have
+  cursed them already, because ye do not lay <span class="add">it</span> to
+  heart. </p>
+id: MAL/2/2
+next:
+  id: MAL/2/3
+  number: '3'
+previous:
+  id: MAL/2/1
+  number: '1'
+reference: 'Malachi 2:2'

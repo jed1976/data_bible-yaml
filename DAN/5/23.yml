@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DAN 5:23" class="v">23</span>But
+  hast lifted up thyself against the Lord of heaven; and they have brought the
+  vessels of his house before thee, and thou, and thy lords, thy wives, and thy
+  concubines, have drunk wine in them; and thou hast praised the gods of silver,
+  and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know:
+  and the God in whose hand thy breath <span class="add">is</span>, and whose
+  <span class="add">are</span> all thy ways, hast thou not glorified: </p>
+id: DAN/5/23
+next:
+  id: DAN/5/24
+  number: '24'
+previous:
+  id: DAN/5/22
+  number: '22'
+reference: 'Daniel 5:23'

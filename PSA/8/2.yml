@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 8:2" class="v">2</span>Out
+  of the mouth of babes and sucklings hast thou ordained strength because of
+  thine enemies, that thou mightest still the enemy and the avenger.</p>
+id: PSA/8/2
+next:
+  id: PSA/8/3
+  number: '3'
+previous:
+  id: PSA/8/1
+  number: '1'
+reference: 'Psalms 8:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 11:6" class="v">6</span><span
+  class="wj">And blessed is <span class="add">he</span>, whosoever shall not be
+  offended in me.</span></p>
+id: MAT/11/6
+next:
+  id: MAT/11/7
+  number: '7'
+previous:
+  id: MAT/11/5
+  number: '5'
+reference: 'Matthew 11:6'

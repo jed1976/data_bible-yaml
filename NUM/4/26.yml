@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 4:26" class="v">26</span>And
+  the hangings of the court, and the hanging for the door of the gate of the
+  court, which <span class="add">is</span> by the tabernacle and by the altar
+  round about, and their cords, and all the instruments of their service, and
+  all that is made for them: so shall they serve. </p>
+id: NUM/4/26
+next:
+  id: NUM/4/27
+  number: '27'
+previous:
+  id: NUM/4/25
+  number: '25'
+reference: 'Numbers 4:26'

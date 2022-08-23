@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 12:8" class="v">8</span>Ye
+  shall not do after all <span class="add">the things</span> that we do here
+  this day, every man whatsoever <span class="add">is</span> right in his own
+  eyes. </p>
+id: DEU/12/8
+next:
+  id: DEU/12/9
+  number: '9'
+previous:
+  id: DEU/12/7
+  number: '7'
+reference: 'Deuteronomy 12:8'

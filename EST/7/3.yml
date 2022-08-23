@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EST 7:3" class="v">3</span>Then
+  Esther the queen answered and said, If I have found favour in thy sight, O
+  king, and if it please the king, let my life be given me at my petition, and
+  my people at my request: </p>
+id: EST/7/3
+next:
+  id: EST/7/4
+  number: '4'
+previous:
+  id: EST/7/2
+  number: '2'
+reference: 'Esther 7:3'

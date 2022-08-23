@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 17:3" class="v">3</span>And
+  thou shalt write Aaron’s name upon the rod of Levi: for one rod <span
+  class="add">shall be</span> for the head of the house of their fathers. </p>
+id: NUM/17/3
+next:
+  id: NUM/17/4
+  number: '4'
+previous:
+  id: NUM/17/2
+  number: '2'
+reference: 'Numbers 17:3'

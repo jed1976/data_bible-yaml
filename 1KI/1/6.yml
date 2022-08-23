@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 1:6" class="v">6</span>And
+  his father had not displeased him at any time in saying, Why hast thou done
+  so? and he also <span class="add">was a</span> very goodly <span
+  class="add">man;</span> and <span class="add">his mother</span> bare him after
+  Absalom. </p>
+id: 1KI/1/6
+next:
+  id: 1KI/1/7
+  number: '7'
+previous:
+  id: 1KI/1/5
+  number: '5'
+reference: '1 Kings 1:6'

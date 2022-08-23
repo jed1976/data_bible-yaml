@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 3:19" class="v">19</span>¶
+  Then was Nebuchadnezzar full of fury, and the form of his visage was changed
+  against Shadrach, Meshach, and Abed-nego: <span class="add">therefore</span>
+  he spake, and commanded that they should heat the furnace one seven times more
+  than it was wont to be heated. </p>
+id: DAN/3/19
+next:
+  id: DAN/3/20
+  number: '20'
+previous:
+  id: DAN/3/18
+  number: '18'
+reference: 'Daniel 3:19'

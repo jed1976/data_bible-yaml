@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 24:44"
+  class="v">44</span>And he said unto them, <span class="wj">These <span
+  class="add">are</span> the words which I spake unto you, while I was yet with
+  you, that all things must be fulfilled, which were written in the law of
+  Moses, and <span class="add">in</span> the prophets, and <span
+  class="add">in</span> the psalms, concerning me.</span> </p>
+id: LUK/24/44
+next:
+  id: LUK/24/45
+  number: '45'
+previous:
+  id: LUK/24/43
+  number: '43'
+reference: 'Luke 24:44'

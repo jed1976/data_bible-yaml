@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 41:23"
+  class="v">23</span>And, behold, seven ears, withered, thin, <span
+  class="add">and</span> blasted with the east wind, sprung up after them: </p>
+id: GEN/41/23
+next:
+  id: GEN/41/24
+  number: '24'
+previous:
+  id: GEN/41/22
+  number: '22'
+reference: 'Genesis 41:23'

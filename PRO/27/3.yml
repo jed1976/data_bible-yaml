@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 27:3" class="v">3</span>A
+  stone <span class="add">is</span> heavy, and the sand weighty; but a fool’s
+  wrath <span class="add">is</span> heavier than them both. </p>
+id: PRO/27/3
+next:
+  id: PRO/27/4
+  number: '4'
+previous:
+  id: PRO/27/2
+  number: '2'
+reference: 'Proverbs 27:3'

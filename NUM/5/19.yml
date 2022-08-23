@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 5:19" class="v">19</span>And
+  the priest shall charge her by an oath, and say unto the woman, If no man have
+  lain with thee, and if thou hast not gone aside to uncleanness <span
+  class="add">with another</span> instead of thy husband, be thou free from this
+  bitter water that causeth the curse: </p>
+id: NUM/5/19
+next:
+  id: NUM/5/20
+  number: '20'
+previous:
+  id: NUM/5/18
+  number: '18'
+reference: 'Numbers 5:19'

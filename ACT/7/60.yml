@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="ACT 7:60" class="v">60</span>And
+  he kneeled down, and cried with a loud voice, Lord, lay not this sin to their
+  charge. And when he had said this, he fell asleep.</p>
+id: ACT/7/60
+next:
+  id: ACT/8/1
+  number: '1'
+previous:
+  id: ACT/7/59
+  number: '59'
+reference: 'Acts 7:60'

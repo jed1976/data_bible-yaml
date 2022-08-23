@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 8:10" class="v">10</span>For
+  this <span class="add">is</span> the covenant that I will make with the house
+  of Israel after those days, saith the Lord; I will put my laws into their
+  mind, and write them in their hearts: and I will be to them a God, and they
+  shall be to me a people: </p>
+id: HEB/8/10
+next:
+  id: HEB/8/11
+  number: '11'
+previous:
+  id: HEB/8/9
+  number: '9'
+reference: 'Hebrews 8:10'

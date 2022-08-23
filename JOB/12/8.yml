@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 12:8" class="v">8</span>Or
+  speak to the earth, and it shall teach thee: and the fishes of the sea shall
+  declare unto thee. </p>
+id: JOB/12/8
+next:
+  id: JOB/12/9
+  number: '9'
+previous:
+  id: JOB/12/7
+  number: '7'
+reference: 'Job 12:8'

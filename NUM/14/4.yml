@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 14:4" class="v">4</span>And
+  they said one to another, Let us make a captain, and let us return into
+  Egypt.</p>
+id: NUM/14/4
+next:
+  id: NUM/14/5
+  number: '5'
+previous:
+  id: NUM/14/3
+  number: '3'
+reference: 'Numbers 14:4'

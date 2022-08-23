@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 41:1" class="v">1</span>And
+  it came to pass at the end of two full years, that Pharaoh dreamed: and,
+  behold, he stood by the river. </p>
+id: GEN/41/1
+next:
+  id: GEN/41/2
+  number: '2'
+previous:
+  id: GEN/40/23
+  number: '23'
+reference: 'Genesis 41:1'

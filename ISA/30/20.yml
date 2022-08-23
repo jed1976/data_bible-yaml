@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 30:20"
+  class="v">20</span>And <span class="add">though</span> the Lord give you the
+  bread of adversity, and the water of affliction, yet shall not thy teachers be
+  removed into a corner any more, but thine eyes shall see thy teachers: </p>
+id: ISA/30/20
+next:
+  id: ISA/30/21
+  number: '21'
+previous:
+  id: ISA/30/19
+  number: '19'
+reference: 'Isaiah 30:20'

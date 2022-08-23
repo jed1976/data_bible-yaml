@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 40:5" class="v">5</span>And
+  thou shalt set the altar of gold for the incense before the ark of the
+  testimony, and put the hanging of the door to the tabernacle. </p>
+id: EXO/40/5
+next:
+  id: EXO/40/6
+  number: '6'
+previous:
+  id: EXO/40/4
+  number: '4'
+reference: 'Exodus 40:5'

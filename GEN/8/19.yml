@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 8:19"
+  class="v">19</span>Every beast, every creeping thing, and every fowl, <span
+  class="add">and</span> whatsoever creepeth upon the earth, after their kinds,
+  went forth out of the ark.</p>
+id: GEN/8/19
+next:
+  id: GEN/8/20
+  number: '20'
+previous:
+  id: GEN/8/18
+  number: '18'
+reference: 'Genesis 8:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 3:29" class="v">29</span>The
+  families of the sons of Kohath shall pitch on the side of the tabernacle
+  southward. </p>
+id: NUM/3/29
+next:
+  id: NUM/3/30
+  number: '30'
+previous:
+  id: NUM/3/28
+  number: '28'
+reference: 'Numbers 3:29'

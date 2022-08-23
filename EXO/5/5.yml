@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 5:5" class="v">5</span>And
+  Pharaoh said, Behold, the people of the land now <span class="add">are</span>
+  many, and ye make them rest from their burdens. </p>
+id: EXO/5/5
+next:
+  id: EXO/5/6
+  number: '6'
+previous:
+  id: EXO/5/4
+  number: '4'
+reference: 'Exodus 5:5'

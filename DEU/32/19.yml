@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 32:19"
+  class="v">19</span>And when the <span class="nd">LORD</span> saw <span
+  class="add">it</span>, he abhorred <span class="add">them</span>, because of
+  the provoking of his sons, and of his daughters. </p>
+id: DEU/32/19
+next:
+  id: DEU/32/20
+  number: '20'
+previous:
+  id: DEU/32/18
+  number: '18'
+reference: 'Deuteronomy 32:19'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 16:15" class="v">15</span>¶
+  And she said unto him, How canst thou say, I love thee, when thine heart <span
+  class="add">is</span> not with me? thou hast mocked me these three times, and
+  hast not told me wherein thy great strength <span class="add">lieth</span>.
+  </p>
+id: JDG/16/15
+next:
+  id: JDG/16/16
+  number: '16'
+previous:
+  id: JDG/16/14
+  number: '14'
+reference: 'Judges 16:15'

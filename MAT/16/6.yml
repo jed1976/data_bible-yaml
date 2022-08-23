@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 16:6" class="v">6</span>¶
+  Then Jesus said unto them, <span class="wj">Take heed and beware of the leaven
+  of the Pharisees and of the Sadducees.</span> </p>
+id: MAT/16/6
+next:
+  id: MAT/16/7
+  number: '7'
+previous:
+  id: MAT/16/5
+  number: '5'
+reference: 'Matthew 16:6'

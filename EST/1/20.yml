@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EST 1:20" class="v">20</span>And
+  when the king’s decree which he shall make shall be published throughout all
+  his empire, (for it is great,) all the wives shall give to their husbands
+  honour, both to great and small. </p>
+id: EST/1/20
+next:
+  id: EST/1/21
+  number: '21'
+previous:
+  id: EST/1/19
+  number: '19'
+reference: 'Esther 1:20'

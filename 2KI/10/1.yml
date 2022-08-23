@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 10:1" class="v">1</span>And
+  Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria,
+  unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s
+  <span class="add">children</span>, saying, </p>
+id: 2KI/10/1
+next:
+  id: 2KI/10/2
+  number: '2'
+previous:
+  id: 2KI/9/37
+  number: '37'
+reference: '2 Kings 10:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 8:8" class="v">8</span>For
+  enquire, I pray thee, of the former age, and prepare thyself to the search of
+  their fathers: </p>
+id: JOB/8/8
+next:
+  id: JOB/8/9
+  number: '9'
+previous:
+  id: JOB/8/7
+  number: '7'
+reference: 'Job 8:8'

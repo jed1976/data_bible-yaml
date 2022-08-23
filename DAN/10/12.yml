@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 10:12"
+  class="v">12</span>Then said he unto me, Fear not, Daniel: for from the first
+  day that thou didst set thine heart to understand, and to chasten thyself
+  before thy God, thy words were heard, and I am come for thy words. </p>
+id: DAN/10/12
+next:
+  id: DAN/10/13
+  number: '13'
+previous:
+  id: DAN/10/11
+  number: '11'
+reference: 'Daniel 10:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 33:8" class="v">8</span>The
+  highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he
+  hath despised the cities, he regardeth no man. </p>
+id: ISA/33/8
+next:
+  id: ISA/33/9
+  number: '9'
+previous:
+  id: ISA/33/7
+  number: '7'
+reference: 'Isaiah 33:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 2:15" class="v">15</span>The
+  young lions roared upon him, <span class="add">and</span> yelled, and they
+  made his land waste: his cities are burned without inhabitant. </p>
+id: JER/2/15
+next:
+  id: JER/2/16
+  number: '16'
+previous:
+  id: JER/2/14
+  number: '14'
+reference: 'Jeremiah 2:15'

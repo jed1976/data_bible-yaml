@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 3:22" class="v">22</span>Ye
+  shall not fear them: for the <span class="nd">LORD</span> your God he shall
+  fight for you. </p>
+id: DEU/3/22
+next:
+  id: DEU/3/23
+  number: '23'
+previous:
+  id: DEU/3/21
+  number: '21'
+reference: 'Deuteronomy 3:22'

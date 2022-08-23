@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 8:12"
+  class="v">12</span>Therefore, brethren, we are debtors, not to the flesh, to
+  live after the flesh. </p>
+id: ROM/8/12
+next:
+  id: ROM/8/13
+  number: '13'
+previous:
+  id: ROM/8/11
+  number: '11'
+reference: 'Romans 8:12'

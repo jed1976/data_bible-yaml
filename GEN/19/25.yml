@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 19:25"
+  class="v">25</span>And he overthrew those cities, and all the plain, and all
+  the inhabitants of the cities, and that which grew upon the ground.</p>
+id: GEN/19/25
+next:
+  id: GEN/19/26
+  number: '26'
+previous:
+  id: GEN/19/24
+  number: '24'
+reference: 'Genesis 19:25'

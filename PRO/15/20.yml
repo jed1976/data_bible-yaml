@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 15:20" class="v">20</span>A
+  wise son maketh a glad father: but a foolish man despiseth his mother. </p>
+id: PRO/15/20
+next:
+  id: PRO/15/21
+  number: '21'
+previous:
+  id: PRO/15/19
+  number: '19'
+reference: 'Proverbs 15:20'

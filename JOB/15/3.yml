@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 15:3"
+  class="v">3</span>Should he reason with unprofitable talk? or with speeches
+  wherewith he can do no good? </p>
+id: JOB/15/3
+next:
+  id: JOB/15/4
+  number: '4'
+previous:
+  id: JOB/15/2
+  number: '2'
+reference: 'Job 15:3'

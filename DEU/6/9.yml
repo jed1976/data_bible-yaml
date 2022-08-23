@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 6:9" class="v">9</span>And
+  thou shalt write them upon the posts of thy house, and on thy gates. </p>
+id: DEU/6/9
+next:
+  id: DEU/6/10
+  number: '10'
+previous:
+  id: DEU/6/8
+  number: '8'
+reference: 'Deuteronomy 6:9'

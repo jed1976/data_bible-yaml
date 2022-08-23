@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 1:7" class="v">7</span>And
+  the sons of Aaron the priest shall put fire upon the altar, and lay the wood
+  in order upon the fire: </p>
+id: LEV/1/7
+next:
+  id: LEV/1/8
+  number: '8'
+previous:
+  id: LEV/1/6
+  number: '6'
+reference: 'Leviticus 1:7'

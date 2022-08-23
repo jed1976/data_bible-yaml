@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="40" data-sid="PSA 107:40"
+  class="v">40</span>He poureth contempt upon princes, and causeth them to
+  wander in the wilderness, <span class="add">where there is</span> no way.</p>
+id: PSA/107/40
+next:
+  id: PSA/107/41
+  number: '41'
+previous:
+  id: PSA/107/39
+  number: '39'
+reference: 'Psalms 107:40'

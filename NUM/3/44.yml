@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="NUM 3:44" class="v">44</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: NUM/3/44
+next:
+  id: NUM/3/45
+  number: '45'
+previous:
+  id: NUM/3/43
+  number: '43'
+reference: 'Numbers 3:44'

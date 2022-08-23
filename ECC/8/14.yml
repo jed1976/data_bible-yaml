@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 8:14"
+  class="v">14</span>There is a vanity which is done upon the earth; that there
+  be just <span class="add">men</span>, unto whom it happeneth according to the
+  work of the wicked; again, there be wicked <span class="add">men</span>, to
+  whom it happeneth according to the work of the righteous: I said that this
+  also <span class="add">is</span> vanity. </p>
+id: ECC/8/14
+next:
+  id: ECC/8/15
+  number: '15'
+previous:
+  id: ECC/8/13
+  number: '13'
+reference: 'Ecclesiastes 8:14'

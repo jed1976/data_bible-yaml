@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 15:3" class="v">3</span>In
+  their streets they shall gird themselves with sackcloth: on the tops of their
+  houses, and in their streets, every one shall howl, weeping abundantly. </p>
+id: ISA/15/3
+next:
+  id: ISA/15/4
+  number: '4'
+previous:
+  id: ISA/15/2
+  number: '2'
+reference: 'Isaiah 15:3'

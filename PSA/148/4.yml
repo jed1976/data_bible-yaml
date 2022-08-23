@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 148:4"
+  class="v">4</span>Praise him, ye heavens of heavens, and ye waters that <span
+  class="add">be</span> above the heavens.</p>
+id: PSA/148/4
+next:
+  id: PSA/148/5
+  number: '5'
+previous:
+  id: PSA/148/3
+  number: '3'
+reference: 'Psalms 148:4'

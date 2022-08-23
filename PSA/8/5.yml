@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 8:5" class="v">5</span>For
+  thou hast made him a little lower than the angels, and hast crowned him with
+  glory and honour.</p>
+id: PSA/8/5
+next:
+  id: PSA/8/6
+  number: '6'
+previous:
+  id: PSA/8/4
+  number: '4'
+reference: 'Psalms 8:5'

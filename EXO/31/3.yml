@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 31:3" class="v">3</span>And I
+  have filled him with the spirit of God, in wisdom, and in understanding, and
+  in knowledge, and in all manner of workmanship, </p>
+id: EXO/31/3
+next:
+  id: EXO/31/4
+  number: '4'
+previous:
+  id: EXO/31/2
+  number: '2'
+reference: 'Exodus 31:3'

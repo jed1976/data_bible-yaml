@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="EXO 29:44"
+  class="v">44</span>And I will sanctify the tabernacle of the congregation, and
+  the altar: I will sanctify also both Aaron and his sons, to minister to me in
+  the priest’s office.</p>
+id: EXO/29/44
+next:
+  id: EXO/29/45
+  number: '45'
+previous:
+  id: EXO/29/43
+  number: '43'
+reference: 'Exodus 29:44'

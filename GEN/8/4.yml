@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 8:4" class="v">4</span>And
+  the ark rested in the seventh month, on the seventeenth day of the month, upon
+  the mountains of Ararat. </p>
+id: GEN/8/4
+next:
+  id: GEN/8/5
+  number: '5'
+previous:
+  id: GEN/8/3
+  number: '3'
+reference: 'Genesis 8:4'

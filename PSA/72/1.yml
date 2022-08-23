@@ -1,0 +1,12 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> for Solomon.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 72:1" class="v">1</span>Give
+  the king thy judgments, O God, and thy righteousness unto the king’s son.</p>
+id: PSA/72/1
+next:
+  id: PSA/72/2
+  number: '2'
+previous:
+  id: PSA/71/24
+  number: '24'
+reference: 'Psalms 72:1'

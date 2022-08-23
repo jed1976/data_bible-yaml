@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOS 8:14" class="v">14</span>¶
+  And it came to pass, when the king of Ai saw <span class="add">it</span>, that
+  they hasted and rose up early, and the men of the city went out against Israel
+  to battle, he and all his people, at a time appointed, before the plain; but
+  he wist not that <span class="add">there were</span> liers in ambush against
+  him behind the city. </p>
+id: JOS/8/14
+next:
+  id: JOS/8/15
+  number: '15'
+previous:
+  id: JOS/8/13
+  number: '13'
+reference: 'Joshua 8:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 23:32" class="v">32</span>At
+  the last it biteth like a serpent, and stingeth like an adder. </p>
+id: PRO/23/32
+next:
+  id: PRO/23/33
+  number: '33'
+previous:
+  id: PRO/23/31
+  number: '31'
+reference: 'Proverbs 23:32'

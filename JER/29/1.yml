@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 29:1" class="v">1</span>Now
+  these <span class="add">are</span> the words of the letter that Jeremiah the
+  prophet sent from Jerusalem unto the residue of the elders which were carried
+  away captives, and to the priests, and to the prophets, and to all the people
+  whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon; </p>
+id: JER/29/1
+next:
+  id: JER/29/2
+  number: '2'
+previous:
+  id: JER/28/17
+  number: '17'
+reference: 'Jeremiah 29:1'

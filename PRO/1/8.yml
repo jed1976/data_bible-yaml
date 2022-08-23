@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 1:8" class="v">8</span>My
+  son, hear the instruction of thy father, and forsake not the law of thy
+  mother: </p>
+id: PRO/1/8
+next:
+  id: PRO/1/9
+  number: '9'
+previous:
+  id: PRO/1/7
+  number: '7'
+reference: 'Proverbs 1:8'

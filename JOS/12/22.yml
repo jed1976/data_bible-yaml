@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOS 12:22"
+  class="v">22</span>The king of Kedesh, one; the king of Jokneam of Carmel,
+  one; </p>
+id: JOS/12/22
+next:
+  id: JOS/12/23
+  number: '23'
+previous:
+  id: JOS/12/21
+  number: '21'
+reference: 'Joshua 12:22'

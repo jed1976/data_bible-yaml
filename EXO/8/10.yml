@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 8:10" class="v">10</span>And
+  he said, To morrow. And he said, <span class="add">Be it</span> according to
+  thy word: that thou mayest know that <span class="add">there is</span> none
+  like unto the <span class="nd">LORD</span> our God. </p>
+id: EXO/8/10
+next:
+  id: EXO/8/11
+  number: '11'
+previous:
+  id: EXO/8/9
+  number: '9'
+reference: 'Exodus 8:10'

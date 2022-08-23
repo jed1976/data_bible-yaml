@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 24:33"
+  class="v">33</span>And there was set <span class="add">meat</span> before him
+  to eat: but he said, I will not eat, until I have told mine errand. And he
+  said, Speak on. </p>
+id: GEN/24/33
+next:
+  id: GEN/24/34
+  number: '34'
+previous:
+  id: GEN/24/32
+  number: '32'
+reference: 'Genesis 24:33'

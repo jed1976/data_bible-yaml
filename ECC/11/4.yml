@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ECC 11:4" class="v">4</span>He
+  that observeth the wind shall not sow; and he that regardeth the clouds shall
+  not reap. </p>
+id: ECC/11/4
+next:
+  id: ECC/11/5
+  number: '5'
+previous:
+  id: ECC/11/3
+  number: '3'
+reference: 'Ecclesiastes 11:4'

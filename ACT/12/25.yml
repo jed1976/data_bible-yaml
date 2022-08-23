@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 12:25"
+  class="v">25</span>And Barnabas and Saul returned from Jerusalem, when they
+  had fulfilled <span class="add">their</span> ministry, and took with them
+  John, whose surname was Mark.</p>
+id: ACT/12/25
+next:
+  id: ACT/13/1
+  number: '1'
+previous:
+  id: ACT/12/24
+  number: '24'
+reference: 'Acts 12:25'

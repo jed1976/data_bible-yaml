@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 4:8" class="v">8</span>Then
+  Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people,
+  and elders of Israel, </p>
+id: ACT/4/8
+next:
+  id: ACT/4/9
+  number: '9'
+previous:
+  id: ACT/4/7
+  number: '7'
+reference: 'Acts 4:8'

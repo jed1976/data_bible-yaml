@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ROM 13:2"
+  class="v">2</span>Whosoever therefore resisteth the power, resisteth the
+  ordinance of God: and they that resist shall receive to themselves damnation.
+  </p>
+id: ROM/13/2
+next:
+  id: ROM/13/3
+  number: '3'
+previous:
+  id: ROM/13/1
+  number: '1'
+reference: 'Romans 13:2'

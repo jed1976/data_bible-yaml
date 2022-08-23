@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 36:16"
+  class="v">16</span>Duke Korah, duke Gatam, <span class="add">and</span> duke
+  Amalek: these <span class="add">are</span> the dukes <span class="add">that
+  came</span> of Eliphaz in the land of Edom; these <span
+  class="add">were</span> the sons of Adah.</p>
+id: GEN/36/16
+next:
+  id: GEN/36/17
+  number: '17'
+previous:
+  id: GEN/36/15
+  number: '15'
+reference: 'Genesis 36:16'

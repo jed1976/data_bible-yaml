@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 8:24" class="v">24</span>For
+  we are saved by hope: but hope that is seen is not hope: for what a man seeth,
+  why doth he yet hope for? </p>
+id: ROM/8/24
+next:
+  id: ROM/8/25
+  number: '25'
+previous:
+  id: ROM/8/23
+  number: '23'
+reference: 'Romans 8:24'

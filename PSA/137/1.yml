@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 137:1" class="v">1</span>By
+  the rivers of Babylon, there we sat down, yea, we wept, when we remembered
+  Zion.</p>
+id: PSA/137/1
+next:
+  id: PSA/137/2
+  number: '2'
+previous:
+  id: PSA/136/26
+  number: '26'
+reference: 'Psalms 137:1'

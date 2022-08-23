@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 35:11"
+  class="v">11</span>False witnesses did rise up; they laid to my charge <span
+  class="add">things</span> that I knew not.</p>
+id: PSA/35/11
+next:
+  id: PSA/35/12
+  number: '12'
+previous:
+  id: PSA/35/10
+  number: '10'
+reference: 'Psalms 35:11'

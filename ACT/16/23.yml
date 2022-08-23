@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 16:23"
+  class="v">23</span>And when they had laid many stripes upon them, they cast
+  <span class="add">them</span> into prison, charging the jailor to keep them
+  safely: </p>
+id: ACT/16/23
+next:
+  id: ACT/16/24
+  number: '24'
+previous:
+  id: ACT/16/22
+  number: '22'
+reference: 'Acts 16:23'

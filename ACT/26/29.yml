@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 26:29"
+  class="v">29</span>And Paul said, I would to God, that not only thou, but also
+  all that hear me this day, were both almost, and altogether such as I am,
+  except these bonds. </p>
+id: ACT/26/29
+next:
+  id: ACT/26/30
+  number: '30'
+previous:
+  id: ACT/26/28
+  number: '28'
+reference: 'Acts 26:29'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MIC 7:11"
+  class="v">11</span><span class="add">In</span> the day that thy walls are to
+  be built, <span class="add">in</span> that day shall the decree be far
+  removed. </p>
+id: MIC/7/11
+next:
+  id: MIC/7/12
+  number: '12'
+previous:
+  id: MIC/7/10
+  number: '10'
+reference: 'Micah 7:11'

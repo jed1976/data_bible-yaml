@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 14:9" class="v">9</span>With
+  Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel
+  king of Shinar, and Arioch king of Ellasar; four kings with five. </p>
+id: GEN/14/9
+next:
+  id: GEN/14/10
+  number: '10'
+previous:
+  id: GEN/14/8
+  number: '8'
+reference: 'Genesis 14:9'

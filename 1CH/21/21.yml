@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CH 21:21"
+  class="v">21</span>And as David came to Ornan, Ornan looked and saw David, and
+  went out of the threshingfloor, and bowed himself to David with <span
+  class="add">his</span> face to the ground. </p>
+id: 1CH/21/21
+next:
+  id: 1CH/21/22
+  number: '22'
+previous:
+  id: 1CH/21/20
+  number: '20'
+reference: '1 Chronicles 21:21'

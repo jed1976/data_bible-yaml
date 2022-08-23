@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="GEN 36:41"
+  class="v">41</span>Duke Aholibamah, duke Elah, duke Pinon, </p>
+id: GEN/36/41
+next:
+  id: GEN/36/42
+  number: '42'
+previous:
+  id: GEN/36/40
+  number: '40'
+reference: 'Genesis 36:41'

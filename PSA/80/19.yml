@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 80:19"
+  class="v">19</span>Turn us again, O <span class="nd">LORD</span> God of hosts,
+  cause thy face to shine; and we shall be saved.</p>
+id: PSA/80/19
+next:
+  id: PSA/81/1
+  number: '1'
+previous:
+  id: PSA/80/18
+  number: '18'
+reference: 'Psalms 80:19'

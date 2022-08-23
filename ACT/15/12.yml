@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 15:12" class="v">12</span>¶
+  Then all the multitude kept silence, and gave audience to Barnabas and Paul,
+  declaring what miracles and wonders God had wrought among the Gentiles by
+  them.</p>
+id: ACT/15/12
+next:
+  id: ACT/15/13
+  number: '13'
+previous:
+  id: ACT/15/11
+  number: '11'
+reference: 'Acts 15:12'

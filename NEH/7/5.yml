@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 7:5" class="v">5</span>¶ And
+  my God put into mine heart to gather together the nobles, and the rulers, and
+  the people, that they might be reckoned by genealogy. And I found a register
+  of the genealogy of them which came up at the first, and found written
+  therein, </p>
+id: NEH/7/5
+next:
+  id: NEH/7/6
+  number: '6'
+previous:
+  id: NEH/7/4
+  number: '4'
+reference: 'Nehemiah 7:5'

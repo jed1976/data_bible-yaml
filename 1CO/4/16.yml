@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CO 4:16"
+  class="v">16</span>Wherefore I beseech you, be ye followers of me. </p>
+id: 1CO/4/16
+next:
+  id: 1CO/4/17
+  number: '17'
+previous:
+  id: 1CO/4/15
+  number: '15'
+reference: '1 Corinthians 4:16'

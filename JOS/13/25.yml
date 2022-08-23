@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 13:25"
+  class="v">25</span>And their coast was Jazer, and all the cities of Gilead,
+  and half the land of the children of Ammon, unto Aroer that <span
+  class="add">is</span> before Rabbah; </p>
+id: JOS/13/25
+next:
+  id: JOS/13/26
+  number: '26'
+previous:
+  id: JOS/13/24
+  number: '24'
+reference: 'Joshua 13:25'

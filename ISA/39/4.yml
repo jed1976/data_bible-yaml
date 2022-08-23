@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 39:4" class="v">4</span>Then
+  said he, What have they seen in thine house? And Hezekiah answered, All that
+  <span class="add">is</span> in mine house have they seen: there is nothing
+  among my treasures that I have not shewed them.</p>
+id: ISA/39/4
+next:
+  id: ISA/39/5
+  number: '5'
+previous:
+  id: ISA/39/3
+  number: '3'
+reference: 'Isaiah 39:4'

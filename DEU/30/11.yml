@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 30:11" class="v">11</span>¶
+  For this commandment which I command thee this day, it <span
+  class="add">is</span> not hidden from thee, neither <span
+  class="add">is</span> it far off. </p>
+id: DEU/30/11
+next:
+  id: DEU/30/12
+  number: '12'
+previous:
+  id: DEU/30/10
+  number: '10'
+reference: 'Deuteronomy 30:11'

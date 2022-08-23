@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 81:8"
+  class="v">8</span>Hear, O my people, and I will testify unto thee: O Israel,
+  if thou wilt hearken unto me;</p>
+id: PSA/81/8
+next:
+  id: PSA/81/9
+  number: '9'
+previous:
+  id: PSA/81/7
+  number: '7'
+reference: 'Psalms 81:8'

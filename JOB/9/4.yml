@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 9:4" class="v">4</span><span
+  class="add">He is</span> wise in heart, and mighty in strength: who hath
+  hardened <span class="add">himself</span> against him, and hath prospered?
+  </p>
+id: JOB/9/4
+next:
+  id: JOB/9/5
+  number: '5'
+previous:
+  id: JOB/9/3
+  number: '3'
+reference: 'Job 9:4'

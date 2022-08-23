@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 11:6" class="v">6</span>The
+  righteousness of the upright shall deliver them: but transgressors shall be
+  taken in <span class="add">their own</span> naughtiness. </p>
+id: PRO/11/6
+next:
+  id: PRO/11/7
+  number: '7'
+previous:
+  id: PRO/11/5
+  number: '5'
+reference: 'Proverbs 11:6'

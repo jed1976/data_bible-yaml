@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 50:5" class="v">5</span>My
+  father made me swear, saying, Lo, I die: in my grave which I have digged for
+  me in the land of Canaan, there shalt thou bury me. Now therefore let me go
+  up, I pray thee, and bury my father, and I will come again. </p>
+id: GEN/50/5
+next:
+  id: GEN/50/6
+  number: '6'
+previous:
+  id: GEN/50/4
+  number: '4'
+reference: 'Genesis 50:5'

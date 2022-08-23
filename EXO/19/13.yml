@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 19:13"
+  class="v">13</span>There shall not an hand touch it, but he shall surely be
+  stoned, or shot through; whether <span class="add">it be</span> beast or man,
+  it shall not live: when the trumpet soundeth long, they shall come up to the
+  mount.</p>
+id: EXO/19/13
+next:
+  id: EXO/19/14
+  number: '14'
+previous:
+  id: EXO/19/12
+  number: '12'
+reference: 'Exodus 19:13'

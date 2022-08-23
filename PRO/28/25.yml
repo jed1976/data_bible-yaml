@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 28:25" class="v">25</span>He
+  that is of a proud heart stirreth up strife: but he that putteth his trust in
+  the <span class="nd">LORD</span> shall be made fat. </p>
+id: PRO/28/25
+next:
+  id: PRO/28/26
+  number: '26'
+previous:
+  id: PRO/28/24
+  number: '24'
+reference: 'Proverbs 28:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 26:16"
+  class="v">16</span>Ten cubits <span class="add">shall be</span> the length of
+  a board, and a cubit and a half <span class="add">shall be</span> the breadth
+  of one board. </p>
+id: EXO/26/16
+next:
+  id: EXO/26/17
+  number: '17'
+previous:
+  id: EXO/26/15
+  number: '15'
+reference: 'Exodus 26:16'

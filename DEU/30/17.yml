@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 30:17"
+  class="v">17</span>But if thine heart turn away, so that thou wilt not hear,
+  but shalt be drawn away, and worship other gods, and serve them; </p>
+id: DEU/30/17
+next:
+  id: DEU/30/18
+  number: '18'
+previous:
+  id: DEU/30/16
+  number: '16'
+reference: 'Deuteronomy 30:17'

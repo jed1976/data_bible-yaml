@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 6:1" class="v">1</span>There
+  is an evil which I have seen under the sun, and it <span class="add">is</span>
+  common among men: </p>
+id: ECC/6/1
+next:
+  id: ECC/6/2
+  number: '2'
+previous:
+  id: ECC/5/20
+  number: '20'
+reference: 'Ecclesiastes 6:1'

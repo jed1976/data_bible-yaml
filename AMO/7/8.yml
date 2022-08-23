@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 7:8" class="v">8</span>And
+  the <span class="nd">LORD</span> said unto me, Amos, what seest thou? And I
+  said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the
+  midst of my people Israel: I will not again pass by them any more: </p>
+id: AMO/7/8
+next:
+  id: AMO/7/9
+  number: '9'
+previous:
+  id: AMO/7/7
+  number: '7'
+reference: 'Amos 7:8'

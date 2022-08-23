@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 5:12"
+  class="v">12</span>Then said they, We will restore <span
+  class="add">them</span>, and will require nothing of them; so will we do as
+  thou sayest. Then I called the priests, and took an oath of them, that they
+  should do according to this promise. </p>
+id: NEH/5/12
+next:
+  id: NEH/5/13
+  number: '13'
+previous:
+  id: NEH/5/11
+  number: '11'
+reference: 'Nehemiah 5:12'

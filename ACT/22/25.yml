@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 22:25"
+  class="v">25</span>And as they bound him with thongs, Paul said unto the
+  centurion that stood by, Is it lawful for you to scourge a man that is a
+  Roman, and uncondemned? </p>
+id: ACT/22/25
+next:
+  id: ACT/22/26
+  number: '26'
+previous:
+  id: ACT/22/24
+  number: '24'
+reference: 'Acts 22:25'

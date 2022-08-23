@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 1:4" class="v">4</span>From
+  the wilderness and this Lebanon even unto the great river, the river
+  Euphrates, all the land of the Hittites, and unto the great sea toward the
+  going down of the sun, shall be your coast. </p>
+id: JOS/1/4
+next:
+  id: JOS/1/5
+  number: '5'
+previous:
+  id: JOS/1/3
+  number: '3'
+reference: 'Joshua 1:4'

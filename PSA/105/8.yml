@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 105:8"
+  class="v">8</span>He hath remembered his covenant for ever, the word <span
+  class="add">which</span> he commanded to a thousand generations.</p>
+id: PSA/105/8
+next:
+  id: PSA/105/9
+  number: '9'
+previous:
+  id: PSA/105/7
+  number: '7'
+reference: 'Psalms 105:8'

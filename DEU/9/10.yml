@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 9:10" class="v">10</span>And
+  the <span class="nd">LORD</span> delivered unto me two tables of stone written
+  with the finger of God; and on them <span class="add">was written</span>
+  according to all the words, which the <span class="nd">LORD</span> spake with
+  you in the mount out of the midst of the fire in the day of the assembly. </p>
+id: DEU/9/10
+next:
+  id: DEU/9/11
+  number: '11'
+previous:
+  id: DEU/9/9
+  number: '9'
+reference: 'Deuteronomy 9:10'

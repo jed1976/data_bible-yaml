@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 19:8" class="v">8</span>And
+  when David heard <span class="add">of it</span>, he sent Joab, and all the
+  host of the mighty men. </p>
+id: 1CH/19/8
+next:
+  id: 1CH/19/9
+  number: '9'
+previous:
+  id: 1CH/19/7
+  number: '7'
+reference: '1 Chronicles 19:8'

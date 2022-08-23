@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 25:16"
+  class="v">16</span>These <span class="add">are</span> the sons of Ishmael, and
+  these <span class="add">are</span> their names, by their towns, and by their
+  castles; twelve princes according to their nations. </p>
+id: GEN/25/16
+next:
+  id: GEN/25/17
+  number: '17'
+previous:
+  id: GEN/25/15
+  number: '15'
+reference: 'Genesis 25:16'

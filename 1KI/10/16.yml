@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1KI 10:16" class="v">16</span>¶
+  And king Solomon made two hundred targets <span class="add">of</span> beaten
+  gold: six hundred <span class="add">shekels</span> of gold went to one target.
+  </p>
+id: 1KI/10/16
+next:
+  id: 1KI/10/17
+  number: '17'
+previous:
+  id: 1KI/10/15
+  number: '15'
+reference: '1 Kings 10:16'

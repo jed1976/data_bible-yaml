@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 24:10"
+  class="v">10</span><span class="add">If</span> thou faint in the day of
+  adversity, thy strength <span class="add">is</span> small.</p>
+id: PRO/24/10
+next:
+  id: PRO/24/11
+  number: '11'
+previous:
+  id: PRO/24/9
+  number: '9'
+reference: 'Proverbs 24:10'

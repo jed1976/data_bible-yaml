@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 3:5"
+  class="v">5</span>Afterward shall the children of Israel return, and seek the
+  <span class="nd">LORD</span> their God, and David their king; and shall fear
+  the <span class="nd">LORD</span> and his goodness in the latter days.</p>
+id: HOS/3/5
+next:
+  id: HOS/4/1
+  number: '1'
+previous:
+  id: HOS/3/4
+  number: '4'
+reference: 'Hosea 3:5'

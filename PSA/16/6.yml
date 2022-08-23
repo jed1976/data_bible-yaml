@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 16:6" class="v">6</span>The
+  lines are fallen unto me in pleasant <span class="add">places;</span> yea, I
+  have a goodly heritage.</p>
+id: PSA/16/6
+next:
+  id: PSA/16/7
+  number: '7'
+previous:
+  id: PSA/16/5
+  number: '5'
+reference: 'Psalms 16:6'

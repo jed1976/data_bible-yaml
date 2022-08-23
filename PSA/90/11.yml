@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 90:11"
+  class="v">11</span>Who knoweth the power of thine anger? even according to thy
+  fear, <span class="add">so is</span> thy wrath.</p>
+id: PSA/90/11
+next:
+  id: PSA/90/12
+  number: '12'
+previous:
+  id: PSA/90/10
+  number: '10'
+reference: 'Psalms 90:11'

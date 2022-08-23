@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PHP 1:8" class="v">8</span>For
+  God is my record, how greatly I long after you all in the bowels of Jesus
+  Christ. </p>
+id: PHP/1/8
+next:
+  id: PHP/1/9
+  number: '9'
+previous:
+  id: PHP/1/7
+  number: '7'
+reference: 'Philippians 1:8'

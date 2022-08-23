@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 9:1" class="v">1</span>Now
+  there was a man of Benjamin, whose name <span class="add">was</span> Kish, the
+  son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a
+  Benjamite, a mighty man of power. </p>
+id: 1SA/9/1
+next:
+  id: 1SA/9/2
+  number: '2'
+previous:
+  id: 1SA/8/22
+  number: '22'
+reference: '1 Samuel 9:1'

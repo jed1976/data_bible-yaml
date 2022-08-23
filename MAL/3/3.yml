@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAL 3:3" class="v">3</span>And he
+  shall sit <span class="add">as</span> a refiner and purifier of silver: and he
+  shall purify the sons of Levi, and purge them as gold and silver, that they
+  may offer unto the <span class="nd">LORD</span> an offering in righteousness.
+  </p>
+id: MAL/3/3
+next:
+  id: MAL/3/4
+  number: '4'
+previous:
+  id: MAL/3/2
+  number: '2'
+reference: 'Malachi 3:3'

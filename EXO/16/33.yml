@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 16:33"
+  class="v">33</span>And Moses said unto Aaron, Take a pot, and put an omer full
+  of manna therein, and lay it up before the <span class="nd">LORD</span>, to be
+  kept for your generations. </p>
+id: EXO/16/33
+next:
+  id: EXO/16/34
+  number: '34'
+previous:
+  id: EXO/16/32
+  number: '32'
+reference: 'Exodus 16:33'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 18:1" class="v">1</span>When
+  Jethro, the priest of Midian, Moses’ father in law, heard of all that God had
+  done for Moses, and for Israel his people, <span class="add">and</span> that
+  the <span class="nd">LORD</span> had brought Israel out of Egypt; </p>
+id: EXO/18/1
+next:
+  id: EXO/18/2
+  number: '2'
+previous:
+  id: EXO/17/16
+  number: '16'
+reference: 'Exodus 18:1'

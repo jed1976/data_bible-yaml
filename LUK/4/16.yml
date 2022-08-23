@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 4:16" class="v">16</span>¶
+  And he came to Nazareth, where he had been brought up: and, as his custom was,
+  he went into the synagogue on the sabbath day, and stood up for to read. </p>
+id: LUK/4/16
+next:
+  id: LUK/4/17
+  number: '17'
+previous:
+  id: LUK/4/15
+  number: '15'
+reference: 'Luke 4:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 40:8" class="v">8</span>I
+  delight to do thy will, O my God: yea, thy law <span class="add">is</span>
+  within my heart.</p>
+id: PSA/40/8
+next:
+  id: PSA/40/9
+  number: '9'
+previous:
+  id: PSA/40/7
+  number: '7'
+reference: 'Psalms 40:8'

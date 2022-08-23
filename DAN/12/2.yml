@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DAN 12:2" class="v">2</span>And
+  many of them that sleep in the dust of the earth shall awake, some to
+  everlasting life, and some to shame <span class="add">and</span> everlasting
+  contempt. </p>
+id: DAN/12/2
+next:
+  id: DAN/12/3
+  number: '3'
+previous:
+  id: DAN/12/1
+  number: '1'
+reference: 'Daniel 12:2'

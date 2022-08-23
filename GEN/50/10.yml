@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 50:10"
+  class="v">10</span>And they came to the threshingfloor of Atad, which <span
+  class="add">is</span> beyond Jordan, and there they mourned with a great and
+  very sore lamentation: and he made a mourning for his father seven days. </p>
+id: GEN/50/10
+next:
+  id: GEN/50/11
+  number: '11'
+previous:
+  id: GEN/50/9
+  number: '9'
+reference: 'Genesis 50:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JER 38:24" class="v">24</span>¶
+  Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou
+  shalt not die. </p>
+id: JER/38/24
+next:
+  id: JER/38/25
+  number: '25'
+previous:
+  id: JER/38/23
+  number: '23'
+reference: 'Jeremiah 38:24'

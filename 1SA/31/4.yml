@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 31:4" class="v">4</span>Then
+  said Saul unto his armourbearer, Draw thy sword, and thrust me through
+  therewith; lest these uncircumcised come and thrust me through, and abuse me.
+  But his armourbearer would not; for he was sore afraid. Therefore Saul took a
+  sword, and fell upon it. </p>
+id: 1SA/31/4
+next:
+  id: 1SA/31/5
+  number: '5'
+previous:
+  id: 1SA/31/3
+  number: '3'
+reference: '1 Samuel 31:4'

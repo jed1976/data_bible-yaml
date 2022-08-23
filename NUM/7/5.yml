@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 7:5" class="v">5</span>Take
+  <span class="add">it</span> of them, that they may be to do the service of the
+  tabernacle of the congregation; and thou shalt give them unto the Levites, to
+  every man according to his service. </p>
+id: NUM/7/5
+next:
+  id: NUM/7/6
+  number: '6'
+previous:
+  id: NUM/7/4
+  number: '4'
+reference: 'Numbers 7:5'

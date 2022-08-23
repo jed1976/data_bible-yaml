@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 98:4"
+  class="v">4</span>Make a joyful noise unto the <span class="nd">LORD</span>,
+  all the earth: make a loud noise, and rejoice, and sing praise.</p>
+id: PSA/98/4
+next:
+  id: PSA/98/5
+  number: '5'
+previous:
+  id: PSA/98/3
+  number: '3'
+reference: 'Psalms 98:4'

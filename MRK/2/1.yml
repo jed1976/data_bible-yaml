@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 2:1" class="v">1</span>And
+  again he entered into Capernaum after <span class="add">some</span> days; and
+  it was noised that he was in the house. </p>
+id: MRK/2/1
+next:
+  id: MRK/2/2
+  number: '2'
+previous:
+  id: MRK/1/45
+  number: '45'
+reference: 'Mark 2:1'

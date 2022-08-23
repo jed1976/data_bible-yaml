@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MRK 10:43"
+  class="v">43</span><span class="wj">But so shall it not be among you: but
+  whosoever will be great among you, shall be your minister:</span> </p>
+id: MRK/10/43
+next:
+  id: MRK/10/44
+  number: '44'
+previous:
+  id: MRK/10/42
+  number: '42'
+reference: 'Mark 10:43'

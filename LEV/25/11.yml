@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 25:11" class="v">11</span>A
+  jubile shall that fiftieth year be unto you: ye shall not sow, neither reap
+  that which groweth of itself in it, nor gather <span class="add">the
+  grapes</span> in it of thy vine undressed. </p>
+id: LEV/25/11
+next:
+  id: LEV/25/12
+  number: '12'
+previous:
+  id: LEV/25/10
+  number: '10'
+reference: 'Leviticus 25:11'

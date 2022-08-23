@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 3:4" class="v">4</span>They
+  kept also the feast of tabernacles, as <span class="add">it is</span> written,
+  and <span class="add">offered</span> the daily burnt offerings by number,
+  according to the custom, as the duty of every day required; </p>
+id: EZR/3/4
+next:
+  id: EZR/3/5
+  number: '5'
+previous:
+  id: EZR/3/3
+  number: '3'
+reference: 'Ezra 3:4'

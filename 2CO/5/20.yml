@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CO 5:20" class="v">20</span>Now
+  then we are ambassadors for Christ, as though God did beseech <span
+  class="add">you</span> by us: we pray <span class="add">you</span> in Christ’s
+  stead, be ye reconciled to God. </p>
+id: 2CO/5/20
+next:
+  id: 2CO/5/21
+  number: '21'
+previous:
+  id: 2CO/5/19
+  number: '19'
+reference: '2 Corinthians 5:20'

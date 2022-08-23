@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 44:13"
+  class="v">13</span>The carpenter stretcheth out <span class="add">his</span>
+  rule; he marketh it out with a line; he fitteth it with planes, and he marketh
+  it out with the compass, and maketh it after the figure of a man, according to
+  the beauty of a man; that it may remain in the house. </p>
+id: ISA/44/13
+next:
+  id: ISA/44/14
+  number: '14'
+previous:
+  id: ISA/44/12
+  number: '12'
+reference: 'Isaiah 44:13'

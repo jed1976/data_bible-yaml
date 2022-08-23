@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 10:20"
+  class="v">20</span>And over the host of the tribe of the children of Gad <span
+  class="add">was</span> Eliasaph the son of Deuel. </p>
+id: NUM/10/20
+next:
+  id: NUM/10/21
+  number: '21'
+previous:
+  id: NUM/10/19
+  number: '19'
+reference: 'Numbers 10:20'

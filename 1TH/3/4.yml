@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1TH 3:4" class="v">4</span>For
+  verily, when we were with you, we told you before that we should suffer
+  tribulation; even as it came to pass, and ye know. </p>
+id: 1TH/3/4
+next:
+  id: 1TH/3/5
+  number: '5'
+previous:
+  id: 1TH/3/3
+  number: '3'
+reference: '1 Thessalonians 3:4'

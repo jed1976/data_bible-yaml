@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 42:10" class="v">10</span>If
+  ye will still abide in this land, then will I build you, and not pull <span
+  class="add">you</span> down, and I will plant you, and not pluck <span
+  class="add">you</span> up: for I repent me of the evil that I have done unto
+  you. </p>
+id: JER/42/10
+next:
+  id: JER/42/11
+  number: '11'
+previous:
+  id: JER/42/9
+  number: '9'
+reference: 'Jeremiah 42:10'

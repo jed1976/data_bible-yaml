@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 33:12"
+  class="v">12</span>Thus saith the <span class="nd">LORD</span> of hosts; Again
+  in this place, which is desolate without man and without beast, and in all the
+  cities thereof, shall be an habitation of shepherds causing <span
+  class="add">their</span> flocks to lie down. </p>
+id: JER/33/12
+next:
+  id: JER/33/13
+  number: '13'
+previous:
+  id: JER/33/11
+  number: '11'
+reference: 'Jeremiah 33:12'

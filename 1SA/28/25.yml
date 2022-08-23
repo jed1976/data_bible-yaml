@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1SA 28:25"
+  class="v">25</span>And she brought <span class="add">it</span> before Saul,
+  and before his servants; and they did eat. Then they rose up, and went away
+  that night.</p>
+id: 1SA/28/25
+next:
+  id: 1SA/29/1
+  number: '1'
+previous:
+  id: 1SA/28/24
+  number: '24'
+reference: '1 Samuel 28:25'

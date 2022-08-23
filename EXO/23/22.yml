@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 23:22"
+  class="v">22</span>But if thou shalt indeed obey his voice, and do all that I
+  speak; then I will be an enemy unto thine enemies, and an adversary unto thine
+  adversaries. </p>
+id: EXO/23/22
+next:
+  id: EXO/23/23
+  number: '23'
+previous:
+  id: EXO/23/21
+  number: '21'
+reference: 'Exodus 23:22'

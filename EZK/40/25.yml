@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EZK 40:25"
+  class="v">25</span>And <span class="add">there were</span> windows in it and
+  in the arches thereof round about, like those windows: the length <span
+  class="add">was</span> fifty cubits, and the breadth five and twenty cubits.
+  </p>
+id: EZK/40/25
+next:
+  id: EZK/40/26
+  number: '26'
+previous:
+  id: EZK/40/24
+  number: '24'
+reference: 'Ezekiel 40:25'

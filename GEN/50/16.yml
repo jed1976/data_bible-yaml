@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 50:16"
+  class="v">16</span>And they sent a messenger unto Joseph, saying, Thy father
+  did command before he died, saying, </p>
+id: GEN/50/16
+next:
+  id: GEN/50/17
+  number: '17'
+previous:
+  id: GEN/50/15
+  number: '15'
+reference: 'Genesis 50:16'

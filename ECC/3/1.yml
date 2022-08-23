@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ECC 3:1" class="v">1</span>To
+  every <span class="add">thing there is</span> a season, and a time to every
+  purpose under the heaven: </p>
+id: ECC/3/1
+next:
+  id: ECC/3/2
+  number: '2'
+previous:
+  id: ECC/2/26
+  number: '26'
+reference: 'Ecclesiastes 3:1'

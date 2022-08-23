@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EZK 42:19" class="v">19</span>¶
+  He turned about to the west side, <span class="add">and</span> measured five
+  hundred reeds with the measuring reed. </p>
+id: EZK/42/19
+next:
+  id: EZK/42/20
+  number: '20'
+previous:
+  id: EZK/42/18
+  number: '18'
+reference: 'Ezekiel 42:19'

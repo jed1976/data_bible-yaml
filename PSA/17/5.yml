@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 17:5" class="v">5</span>Hold
+  up my goings in thy paths, <span class="add">that</span> my footsteps slip
+  not.</p>
+id: PSA/17/5
+next:
+  id: PSA/17/6
+  number: '6'
+previous:
+  id: PSA/17/4
+  number: '4'
+reference: 'Psalms 17:5'

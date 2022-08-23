@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1CH 2:18" class="v">18</span>¶
+  And Caleb the son of Hezron begat <span class="add">children</span> of Azubah
+  <span class="add">his</span> wife, and of Jerioth: her sons <span
+  class="add">are</span> these; Jesher, and Shobab, and Ardon. </p>
+id: 1CH/2/18
+next:
+  id: 1CH/2/19
+  number: '19'
+previous:
+  id: 1CH/2/17
+  number: '17'
+reference: '1 Chronicles 2:18'

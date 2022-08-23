@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 47:25"
+  class="v">25</span>And they said, Thou hast saved our lives: let us find grace
+  in the sight of my lord, and we will be Pharaoh’s servants. </p>
+id: GEN/47/25
+next:
+  id: GEN/47/26
+  number: '26'
+previous:
+  id: GEN/47/24
+  number: '24'
+reference: 'Genesis 47:25'

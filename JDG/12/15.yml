@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 12:15"
+  class="v">15</span>And Abdon the son of Hillel the Pirathonite died, and was
+  buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.</p>
+id: JDG/12/15
+next:
+  id: JDG/13/1
+  number: '1'
+previous:
+  id: JDG/12/14
+  number: '14'
+reference: 'Judges 12:15'

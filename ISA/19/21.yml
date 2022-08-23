@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 19:21"
+  class="v">21</span>And the <span class="nd">LORD</span> shall be known to
+  Egypt, and the Egyptians shall know the <span class="nd">LORD</span> in that
+  day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the
+  <span class="nd">LORD</span>, and perform <span class="add">it</span>. </p>
+id: ISA/19/21
+next:
+  id: ISA/19/22
+  number: '22'
+previous:
+  id: ISA/19/20
+  number: '20'
+reference: 'Isaiah 19:21'

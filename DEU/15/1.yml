@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 15:1" class="v">1</span>At
+  the end of <span class="add">every</span> seven years thou shalt make a
+  release. </p>
+id: DEU/15/1
+next:
+  id: DEU/15/2
+  number: '2'
+previous:
+  id: DEU/14/29
+  number: '29'
+reference: 'Deuteronomy 15:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LEV 23:42" class="v">42</span>Ye
+  shall dwell in booths seven days; all that are Israelites born shall dwell in
+  booths: </p>
+id: LEV/23/42
+next:
+  id: LEV/23/43
+  number: '43'
+previous:
+  id: LEV/23/41
+  number: '41'
+reference: 'Leviticus 23:42'

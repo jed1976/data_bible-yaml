@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 48:2"
+  class="v">2</span>Beautiful for situation, the joy of the whole earth, <span
+  class="add">is</span> mount Zion, <span class="add">on</span> the sides of the
+  north, the city of the great King.</p>
+id: PSA/48/2
+next:
+  id: PSA/48/3
+  number: '3'
+previous:
+  id: PSA/48/1
+  number: '1'
+reference: 'Psalms 48:2'

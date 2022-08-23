@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 20:24" class="v">24</span>¶
+  But Thomas, one of the twelve, called Didymus, was not with them when Jesus
+  came. </p>
+id: JHN/20/24
+next:
+  id: JHN/20/25
+  number: '25'
+previous:
+  id: JHN/20/23
+  number: '23'
+reference: 'John 20:24'

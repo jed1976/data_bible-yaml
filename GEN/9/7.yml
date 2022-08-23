@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 9:7" class="v">7</span>And
+  you, be ye fruitful, and multiply; bring forth abundantly in the earth, and
+  multiply therein.</p>
+id: GEN/9/7
+next:
+  id: GEN/9/8
+  number: '8'
+previous:
+  id: GEN/9/6
+  number: '6'
+reference: 'Genesis 9:7'

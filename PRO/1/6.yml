@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 1:6" class="v">6</span>To
+  understand a proverb, and the interpretation; the words of the wise, and their
+  dark sayings.</p>
+id: PRO/1/6
+next:
+  id: PRO/1/7
+  number: '7'
+previous:
+  id: PRO/1/5
+  number: '5'
+reference: 'Proverbs 1:6'

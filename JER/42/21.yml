@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 42:21"
+  class="v">21</span>And <span class="add">now</span> I have this day declared
+  <span class="add">it</span> to you; but ye have not obeyed the voice of the
+  <span class="nd">LORD</span> your God, nor any <span class="add">thing</span>
+  for the which he hath sent me unto you. </p>
+id: JER/42/21
+next:
+  id: JER/42/22
+  number: '22'
+previous:
+  id: JER/42/20
+  number: '20'
+reference: 'Jeremiah 42:21'

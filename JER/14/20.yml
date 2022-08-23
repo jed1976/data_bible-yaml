@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 14:20" class="v">20</span>We
+  acknowledge, O <span class="nd">LORD</span>, our wickedness, <span
+  class="add">and</span> the iniquity of our fathers: for we have sinned against
+  thee. </p>
+id: JER/14/20
+next:
+  id: JER/14/21
+  number: '21'
+previous:
+  id: JER/14/19
+  number: '19'
+reference: 'Jeremiah 14:20'

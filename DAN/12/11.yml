@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DAN 12:11"
+  class="v">11</span>And from the time <span class="add">that</span> the daily
+  <span class="add">sacrifice</span> shall be taken away, and the abomination
+  that maketh desolate set up, <span class="add">there shall be</span> a
+  thousand two hundred and ninety days. </p>
+id: DAN/12/11
+next:
+  id: DAN/12/12
+  number: '12'
+previous:
+  id: DAN/12/10
+  number: '10'
+reference: 'Daniel 12:11'

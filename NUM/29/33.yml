@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 29:33"
+  class="v">33</span>And their meat offering and their drink offerings for the
+  bullocks, for the rams, and for the lambs, <span class="add">shall be</span>
+  according to their number, after the manner: </p>
+id: NUM/29/33
+next:
+  id: NUM/29/34
+  number: '34'
+previous:
+  id: NUM/29/32
+  number: '32'
+reference: 'Numbers 29:33'

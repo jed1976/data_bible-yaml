@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 4:13" class="v">13</span>And
+  he said unto them, <span class="wj">Know ye not this parable? and how then
+  will ye know all parables?</span></p>
+id: MRK/4/13
+next:
+  id: MRK/4/14
+  number: '14'
+previous:
+  id: MRK/4/12
+  number: '12'
+reference: 'Mark 4:13'

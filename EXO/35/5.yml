@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 35:5" class="v">5</span>Take
+  ye from among you an offering unto the <span class="nd">LORD</span>: whosoever
+  <span class="add">is</span> of a willing heart, let him bring it, an offering
+  of the <span class="nd">LORD</span>; gold, and silver, and brass, </p>
+id: EXO/35/5
+next:
+  id: EXO/35/6
+  number: '6'
+previous:
+  id: EXO/35/4
+  number: '4'
+reference: 'Exodus 35:5'

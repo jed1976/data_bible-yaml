@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="31" data-sid="PSA 22:31"
+  class="v">31</span>They shall come, and shall declare his righteousness unto a
+  people that shall be born, that he hath done <span
+  class="add">this</span>.</p>
+id: PSA/22/31
+next:
+  id: PSA/23/1
+  number: '1'
+previous:
+  id: PSA/22/30
+  number: '30'
+reference: 'Psalms 22:31'

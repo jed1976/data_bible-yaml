@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="ROM 8:39" class="v">39</span>Nor
+  height, nor depth, nor any other creature, shall be able to separate us from
+  the love of God, which is in Christ Jesus our Lord.</p>
+id: ROM/8/39
+next:
+  id: ROM/9/1
+  number: '1'
+previous:
+  id: ROM/8/38
+  number: '38'
+reference: 'Romans 8:39'

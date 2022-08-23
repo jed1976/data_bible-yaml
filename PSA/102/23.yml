@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="23" data-sid="PSA 102:23"
+  class="v">23</span>He weakened my strength in the way; he shortened my
+  days.</p>
+id: PSA/102/23
+next:
+  id: PSA/102/24
+  number: '24'
+previous:
+  id: PSA/102/22
+  number: '22'
+reference: 'Psalms 102:23'

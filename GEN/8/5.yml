@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 8:5" class="v">5</span>And
+  the waters decreased continually until the tenth month: in the tenth <span
+  class="add">month</span>, on the first <span class="add">day</span> of the
+  month, were the tops of the mountains seen.</p>
+id: GEN/8/5
+next:
+  id: GEN/8/6
+  number: '6'
+previous:
+  id: GEN/8/4
+  number: '4'
+reference: 'Genesis 8:5'

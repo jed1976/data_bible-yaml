@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EPH 6:9" class="v">9</span>And,
+  ye masters, do the same things unto them, forbearing threatening: knowing that
+  your Master also is in heaven; neither is there respect of persons with
+  him.</p>
+id: EPH/6/9
+next:
+  id: EPH/6/10
+  number: '10'
+previous:
+  id: EPH/6/8
+  number: '8'
+reference: 'Ephesians 6:9'

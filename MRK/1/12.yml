@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 1:12" class="v">12</span>And
+  immediately the Spirit driveth him into the wilderness. </p>
+id: MRK/1/12
+next:
+  id: MRK/1/13
+  number: '13'
+previous:
+  id: MRK/1/11
+  number: '11'
+reference: 'Mark 1:12'

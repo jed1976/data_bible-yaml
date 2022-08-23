@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 11:15"
+  class="v">15</span>And the <span class="nd">LORD</span> shall utterly destroy
+  the tongue of the Egyptian sea; and with his mighty wind shall he shake his
+  hand over the river, and shall smite it in the seven streams, and make <span
+  class="add">men</span> go over dryshod. </p>
+id: ISA/11/15
+next:
+  id: ISA/11/16
+  number: '16'
+previous:
+  id: ISA/11/14
+  number: '14'
+reference: 'Isaiah 11:15'

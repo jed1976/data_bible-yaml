@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 17:13"
+  class="v">13</span>Then the disciples understood that he spake unto them of
+  John the Baptist.</p>
+id: MAT/17/13
+next:
+  id: MAT/17/14
+  number: '14'
+previous:
+  id: MAT/17/12
+  number: '12'
+reference: 'Matthew 17:13'

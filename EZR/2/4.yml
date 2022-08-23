@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 2:4" class="v">4</span>The
+  children of Shephatiah, three hundred seventy and two. </p>
+id: EZR/2/4
+next:
+  id: EZR/2/5
+  number: '5'
+previous:
+  id: EZR/2/3
+  number: '3'
+reference: 'Ezra 2:4'

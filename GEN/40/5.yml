@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 40:5" class="v">5</span>¶ And
+  they dreamed a dream both of them, each man his dream in one night, each man
+  according to the interpretation of his dream, the butler and the baker of the
+  king of Egypt, which <span class="add">were</span> bound in the prison. </p>
+id: GEN/40/5
+next:
+  id: GEN/40/6
+  number: '6'
+previous:
+  id: GEN/40/4
+  number: '4'
+reference: 'Genesis 40:5'

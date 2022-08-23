@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 18:1" class="v">1</span>Woe
+  to the land shadowing with wings, which <span class="add">is</span> beyond the
+  rivers of Ethiopia: </p>
+id: ISA/18/1
+next:
+  id: ISA/18/2
+  number: '2'
+previous:
+  id: ISA/17/14
+  number: '14'
+reference: 'Isaiah 18:1'

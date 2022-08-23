@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 55:9" class="v">9</span>For
+  <span class="add">as</span> the heavens are higher than the earth, so are my
+  ways higher than your ways, and my thoughts than your thoughts. </p>
+id: ISA/55/9
+next:
+  id: ISA/55/10
+  number: '10'
+previous:
+  id: ISA/55/8
+  number: '8'
+reference: 'Isaiah 55:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 41:3" class="v">3</span>And,
+  behold, seven other kine came up after them out of the river, ill favoured and
+  leanfleshed; and stood by the <span class="add">other</span> kine upon the
+  brink of the river. </p>
+id: GEN/41/3
+next:
+  id: GEN/41/4
+  number: '4'
+previous:
+  id: GEN/41/2
+  number: '2'
+reference: 'Genesis 41:3'

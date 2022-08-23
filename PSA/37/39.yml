@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="39" data-sid="PSA 37:39"
+  class="v">39</span>But the salvation of the righteous <span
+  class="add">is</span> of the <span class="nd">LORD</span>: <span
+  class="add">he is</span> their strength in the time of trouble.</p>
+id: PSA/37/39
+next:
+  id: PSA/37/40
+  number: '40'
+previous:
+  id: PSA/37/38
+  number: '38'
+reference: 'Psalms 37:39'

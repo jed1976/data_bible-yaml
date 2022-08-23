@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2SA 20:10"
+  class="v">10</span>But Amasa took no heed to the sword that <span
+  class="add">was</span> in Joab’s hand: so he smote him therewith in the fifth
+  <span class="add">rib</span>, and shed out his bowels to the ground, and
+  struck him not again; and he died. So Joab and Abishai his brother pursued
+  after Sheba the son of Bichri. </p>
+id: 2SA/20/10
+next:
+  id: 2SA/20/11
+  number: '11'
+previous:
+  id: 2SA/20/9
+  number: '9'
+reference: '2 Samuel 20:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1CO 15:13"
+  class="v">13</span>But if there be no resurrection of the dead, then is Christ
+  not risen: </p>
+id: 1CO/15/13
+next:
+  id: 1CO/15/14
+  number: '14'
+previous:
+  id: 1CO/15/12
+  number: '12'
+reference: '1 Corinthians 15:13'

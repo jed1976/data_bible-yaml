@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 14:12" class="v">12</span>I
+  will smite them with the pestilence, and disinherit them, and will make of
+  thee a greater nation and mightier than they.</p>
+id: NUM/14/12
+next:
+  id: NUM/14/13
+  number: '13'
+previous:
+  id: NUM/14/11
+  number: '11'
+reference: 'Numbers 14:12'

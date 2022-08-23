@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 16:32"
+  class="v">32</span>And the priest, whom he shall anoint, and whom he shall
+  consecrate to minister in the priest’s office in his father’s stead, shall
+  make the atonement, and shall put on the linen clothes, <span
+  class="add">even</span> the holy garments: </p>
+id: LEV/16/32
+next:
+  id: LEV/16/33
+  number: '33'
+previous:
+  id: LEV/16/31
+  number: '31'
+reference: 'Leviticus 16:32'

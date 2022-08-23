@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 7:12" class="v">12</span>Now
+  <span class="add">is she</span> without, now in the streets, and lieth in wait
+  at every corner.) </p>
+id: PRO/7/12
+next:
+  id: PRO/7/13
+  number: '13'
+previous:
+  id: PRO/7/11
+  number: '11'
+reference: 'Proverbs 7:12'

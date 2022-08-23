@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 10:30"
+  class="v">30</span>And Cornelius said, Four days ago I was fasting until this
+  hour; and at the ninth hour I prayed in my house, and, behold, a man stood
+  before me in bright clothing, </p>
+id: ACT/10/30
+next:
+  id: ACT/10/31
+  number: '31'
+previous:
+  id: ACT/10/29
+  number: '29'
+reference: 'Acts 10:30'

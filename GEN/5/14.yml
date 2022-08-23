@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 5:14" class="v">14</span>And
+  all the days of Cainan were nine hundred and ten years: and he died.</p>
+id: GEN/5/14
+next:
+  id: GEN/5/15
+  number: '15'
+previous:
+  id: GEN/5/13
+  number: '13'
+reference: 'Genesis 5:14'

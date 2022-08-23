@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 14:7" class="v">7</span>They
+  that dwell under his shadow shall return; they shall revive <span
+  class="add">as</span> the corn, and grow as the vine: the scent thereof <span
+  class="add">shall be</span> as the wine of Lebanon.</p>
+id: HOS/14/7
+next:
+  id: HOS/14/8
+  number: '8'
+previous:
+  id: HOS/14/6
+  number: '6'
+reference: 'Hosea 14:7'

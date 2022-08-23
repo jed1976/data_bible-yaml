@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EPH 2:15"
+  class="v">15</span>Having abolished in his flesh the enmity, <span
+  class="add">even</span> the law of commandments <span
+  class="add">contained</span> in ordinances; for to make in himself of twain
+  one new man, <span class="add">so</span> making peace; </p>
+id: EPH/2/15
+next:
+  id: EPH/2/16
+  number: '16'
+previous:
+  id: EPH/2/14
+  number: '14'
+reference: 'Ephesians 2:15'

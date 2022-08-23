@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 27:25"
+  class="v">25</span>Then answered all the people, and said, His blood <span
+  class="add">be</span> on us, and on our children.</p>
+id: MAT/27/25
+next:
+  id: MAT/27/26
+  number: '26'
+previous:
+  id: MAT/27/24
+  number: '24'
+reference: 'Matthew 27:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="RUT 4:8"
+  class="v">8</span>Therefore the kinsman said unto Boaz, Buy <span
+  class="add">it</span> for thee. So he drew off his shoe.</p>
+id: RUT/4/8
+next:
+  id: RUT/4/9
+  number: '9'
+previous:
+  id: RUT/4/7
+  number: '7'
+reference: 'Ruth 4:8'

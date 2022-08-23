@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 10:4" class="v">4</span>He
+  becometh poor that dealeth <span class="add">with</span> a slack hand: but the
+  hand of the diligent maketh rich. </p>
+id: PRO/10/4
+next:
+  id: PRO/10/5
+  number: '5'
+previous:
+  id: PRO/10/3
+  number: '3'
+reference: 'Proverbs 10:4'

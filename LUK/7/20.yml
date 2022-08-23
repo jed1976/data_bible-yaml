@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 7:20"
+  class="v">20</span>When the men were come unto him, they said, John Baptist
+  hath sent us unto thee, saying, Art thou he that should come? or look we for
+  another? </p>
+id: LUK/7/20
+next:
+  id: LUK/7/21
+  number: '21'
+previous:
+  id: LUK/7/19
+  number: '19'
+reference: 'Luke 7:20'

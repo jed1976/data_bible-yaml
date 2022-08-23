@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JHN 5:36"
+  class="v">36</span><span class="wj">¶ But I have greater witness than that of
+  John: for the works which the Father hath given me to finish, the same works
+  that I do, bear witness of me, that the Father hath sent me.</span> </p>
+id: JHN/5/36
+next:
+  id: JHN/5/37
+  number: '37'
+previous:
+  id: JHN/5/35
+  number: '35'
+reference: 'John 5:36'

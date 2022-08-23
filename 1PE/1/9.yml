@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1PE 1:9"
+  class="v">9</span>Receiving the end of your faith, <span
+  class="add">even</span> the salvation of <span class="add">your</span> souls.
+  </p>
+id: 1PE/1/9
+next:
+  id: 1PE/1/10
+  number: '10'
+previous:
+  id: 1PE/1/8
+  number: '8'
+reference: '1 Peter 1:9'

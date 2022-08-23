@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 12:3" class="v">3</span>And
+  from the plain to the sea of Chinneroth on the east, and unto the sea of the
+  plain, <span class="add">even</span> the salt sea on the east, the way to
+  Beth-jeshimoth; and from the south, under Ashdoth-pisgah:</p>
+id: JOS/12/3
+next:
+  id: JOS/12/4
+  number: '4'
+previous:
+  id: JOS/12/2
+  number: '2'
+reference: 'Joshua 12:3'

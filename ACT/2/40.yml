@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 2:40" class="v">40</span>And
+  with many other words did he testify and exhort, saying, Save yourselves from
+  this untoward generation.</p>
+id: ACT/2/40
+next:
+  id: ACT/2/41
+  number: '41'
+previous:
+  id: ACT/2/39
+  number: '39'
+reference: 'Acts 2:40'

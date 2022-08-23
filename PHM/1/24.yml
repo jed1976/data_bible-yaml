@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PHM 1:24"
+  class="v">24</span>Marcus, Aristarchus, Demas, Lucas, my fellowlabourers. </p>
+id: PHM/1/24
+next:
+  id: PHM/1/25
+  number: '25'
+previous:
+  id: PHM/1/23
+  number: '23'
+reference: 'Philemon 1:24'

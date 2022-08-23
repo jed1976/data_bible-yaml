@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 122:3"
+  class="v">3</span>Jerusalem is builded as a city that is compact together:</p>
+id: PSA/122/3
+next:
+  id: PSA/122/4
+  number: '4'
+previous:
+  id: PSA/122/2
+  number: '2'
+reference: 'Psalms 122:3'

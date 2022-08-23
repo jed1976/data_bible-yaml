@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 14:14"
+  class="v">14</span>And Jesus went forth, and saw a great multitude, and was
+  moved with compassion toward them, and he healed their sick.</p>
+id: MAT/14/14
+next:
+  id: MAT/14/15
+  number: '15'
+previous:
+  id: MAT/14/13
+  number: '13'
+reference: 'Matthew 14:14'

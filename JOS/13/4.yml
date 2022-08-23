@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 13:4" class="v">4</span>From
+  the south, all the land of the Canaanites, and Mearah that <span
+  class="add">is</span> beside the Sidonians, unto Aphek, to the borders of the
+  Amorites: </p>
+id: JOS/13/4
+next:
+  id: JOS/13/5
+  number: '5'
+previous:
+  id: JOS/13/3
+  number: '3'
+reference: 'Joshua 13:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 9:6" class="v">6</span>And he
+  trembling and astonished said, Lord, what wilt thou have me to do? And the
+  Lord <span class="add">said</span> unto him, <span class="wj">Arise, and go
+  into the city, and it shall be told thee what thou must do.</span> </p>
+id: ACT/9/6
+next:
+  id: ACT/9/7
+  number: '7'
+previous:
+  id: ACT/9/5
+  number: '5'
+reference: 'Acts 9:6'

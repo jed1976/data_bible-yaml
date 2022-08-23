@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 30:4" class="v">4</span>Who
+  cut up mallows by the bushes, and juniper roots <span class="add">for</span>
+  their meat. </p>
+id: JOB/30/4
+next:
+  id: JOB/30/5
+  number: '5'
+previous:
+  id: JOB/30/3
+  number: '3'
+reference: 'Job 30:4'

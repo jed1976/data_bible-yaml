@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HAB 3:5" class="v">5</span>Before
+  him went the pestilence, and burning coals went forth at his feet. </p>
+id: HAB/3/5
+next:
+  id: HAB/3/6
+  number: '6'
+previous:
+  id: HAB/3/4
+  number: '4'
+reference: 'Habakkuk 3:5'

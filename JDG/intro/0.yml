@@ -1,0 +1,9 @@
+content: <p class="mt1">The Book of Judges</p>
+id: JDG/intro/0
+next:
+  id: JDG/1/1
+  number: '1'
+previous:
+  id: JOS/24/33
+  number: '33'
+reference: Judges

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 19:13"
+  class="v">13</span>And now she <span class="add">is</span> planted in the
+  wilderness, in a dry and thirsty ground. </p>
+id: EZK/19/13
+next:
+  id: EZK/19/14
+  number: '14'
+previous:
+  id: EZK/19/12
+  number: '12'
+reference: 'Ezekiel 19:13'

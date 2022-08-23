@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 3:8" class="v">8</span>Next
+  unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him
+  also repaired Hananiah the son of <span class="add">one of</span> the
+  apothecaries, and they fortified Jerusalem unto the broad wall. </p>
+id: NEH/3/8
+next:
+  id: NEH/3/9
+  number: '9'
+previous:
+  id: NEH/3/7
+  number: '7'
+reference: 'Nehemiah 3:8'

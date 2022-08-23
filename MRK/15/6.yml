@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 15:6" class="v">6</span>Now
+  at <span class="add">that</span> feast he released unto them one prisoner,
+  whomsoever they desired. </p>
+id: MRK/15/6
+next:
+  id: MRK/15/7
+  number: '7'
+previous:
+  id: MRK/15/5
+  number: '5'
+reference: 'Mark 15:6'

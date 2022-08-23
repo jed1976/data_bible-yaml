@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="GEN 24:36"
+  class="v">36</span>And Sarah my master’s wife bare a son to my master when she
+  was old: and unto him hath he given all that he hath. </p>
+id: GEN/24/36
+next:
+  id: GEN/24/37
+  number: '37'
+previous:
+  id: GEN/24/35
+  number: '35'
+reference: 'Genesis 24:36'

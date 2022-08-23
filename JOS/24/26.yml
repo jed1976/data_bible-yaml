@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOS 24:26" class="v">26</span>¶
+  And Joshua wrote these words in the book of the law of God, and took a great
+  stone, and set it up there under an oak, that <span class="add">was</span> by
+  the sanctuary of the <span class="nd">LORD</span>. </p>
+id: JOS/24/26
+next:
+  id: JOS/24/27
+  number: '27'
+previous:
+  id: JOS/24/25
+  number: '25'
+reference: 'Joshua 24:26'

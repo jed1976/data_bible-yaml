@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 32:4" class="v">4</span>The
+  heart also of the rash shall understand knowledge, and the tongue of the
+  stammerers shall be ready to speak plainly. </p>
+id: ISA/32/4
+next:
+  id: ISA/32/5
+  number: '5'
+previous:
+  id: ISA/32/3
+  number: '3'
+reference: 'Isaiah 32:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 22:3" class="v">3</span>He
+  also walked in the ways of the house of Ahab: for his mother was his
+  counsellor to do wickedly. </p>
+id: 2CH/22/3
+next:
+  id: 2CH/22/4
+  number: '4'
+previous:
+  id: 2CH/22/2
+  number: '2'
+reference: '2 Chronicles 22:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 57:6" class="v">6</span>Among
+  the smooth <span class="add">stones</span> of the stream <span
+  class="add">is</span> thy portion; they, they <span class="add">are</span> thy
+  lot: even to them hast thou poured a drink offering, thou hast offered a meat
+  offering. Should I receive comfort in these? </p>
+id: ISA/57/6
+next:
+  id: ISA/57/7
+  number: '7'
+previous:
+  id: ISA/57/5
+  number: '5'
+reference: 'Isaiah 57:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 25:25"
+  class="v">25</span><span class="wj">And I was afraid, and went and hid thy
+  talent in the earth: lo, <span class="add">there</span> thou hast <span
+  class="add">that is</span> thine.</span> </p>
+id: MAT/25/25
+next:
+  id: MAT/25/26
+  number: '26'
+previous:
+  id: MAT/25/24
+  number: '24'
+reference: 'Matthew 25:25'

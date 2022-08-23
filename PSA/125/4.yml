@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 125:4"
+  class="v">4</span>Do good, O <span class="nd">LORD</span>, unto <span
+  class="add">those that be</span> good, and <span class="add">to them that
+  are</span> upright in their hearts.</p>
+id: PSA/125/4
+next:
+  id: PSA/125/5
+  number: '5'
+previous:
+  id: PSA/125/3
+  number: '3'
+reference: 'Psalms 125:4'

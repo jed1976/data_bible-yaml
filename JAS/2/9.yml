@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JAS 2:9" class="v">9</span>But if
+  ye have respect to persons, ye commit sin, and are convinced of the law as
+  transgressors. </p>
+id: JAS/2/9
+next:
+  id: JAS/2/10
+  number: '10'
+previous:
+  id: JAS/2/8
+  number: '8'
+reference: 'James 2:9'

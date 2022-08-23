@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1CO 10:30"
+  class="v">30</span>For if I by grace be a partaker, why am I evil spoken of
+  for that for which I give thanks? </p>
+id: 1CO/10/30
+next:
+  id: 1CO/10/31
+  number: '31'
+previous:
+  id: 1CO/10/29
+  number: '29'
+reference: '1 Corinthians 10:30'

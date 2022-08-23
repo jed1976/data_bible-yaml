@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 41:18"
+  class="v">18</span>And, behold, there came up out of the river seven kine,
+  fatfleshed and well favoured; and they fed in a meadow: </p>
+id: GEN/41/18
+next:
+  id: GEN/41/19
+  number: '19'
+previous:
+  id: GEN/41/17
+  number: '17'
+reference: 'Genesis 41:18'

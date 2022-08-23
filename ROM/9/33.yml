@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ROM 9:33" class="v">33</span>As
+  it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and
+  whosoever believeth on him shall not be ashamed.</p>
+id: ROM/9/33
+next:
+  id: ROM/10/1
+  number: '1'
+previous:
+  id: ROM/9/32
+  number: '32'
+reference: 'Romans 9:33'

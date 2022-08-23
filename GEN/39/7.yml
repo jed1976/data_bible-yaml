@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 39:7" class="v">7</span>¶ And
+  it came to pass after these things, that his master’s wife cast her eyes upon
+  Joseph; and she said, Lie with me. </p>
+id: GEN/39/7
+next:
+  id: GEN/39/8
+  number: '8'
+previous:
+  id: GEN/39/6
+  number: '6'
+reference: 'Genesis 39:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JON 1:16"
+  class="v">16</span>Then the men feared the <span class="nd">LORD</span>
+  exceedingly, and offered a sacrifice unto the <span class="nd">LORD</span>,
+  and made vows.</p>
+id: JON/1/16
+next:
+  id: JON/1/17
+  number: '17'
+previous:
+  id: JON/1/15
+  number: '15'
+reference: 'Jonah 1:16'

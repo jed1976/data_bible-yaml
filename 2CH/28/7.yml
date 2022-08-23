@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 28:7" class="v">7</span>And
+  Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the
+  governor of the house, and Elkanah <span class="add">that was</span> next to
+  the king. </p>
+id: 2CH/28/7
+next:
+  id: 2CH/28/8
+  number: '8'
+previous:
+  id: 2CH/28/6
+  number: '6'
+reference: '2 Chronicles 28:7'

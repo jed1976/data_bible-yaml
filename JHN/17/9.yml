@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 17:9" class="v">9</span><span
+  class="wj">I pray for them: I pray not for the world, but for them which thou
+  hast given me; for they are thine.</span> </p>
+id: JHN/17/9
+next:
+  id: JHN/17/10
+  number: '10'
+previous:
+  id: JHN/17/8
+  number: '8'
+reference: 'John 17:9'

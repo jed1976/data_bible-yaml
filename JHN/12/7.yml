@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 12:7" class="v">7</span>Then
+  said Jesus, <span class="wj">Let her alone: against the day of my burying hath
+  she kept this.</span> </p>
+id: JHN/12/7
+next:
+  id: JHN/12/8
+  number: '8'
+previous:
+  id: JHN/12/6
+  number: '6'
+reference: 'John 12:7'

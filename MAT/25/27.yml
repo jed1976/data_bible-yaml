@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 25:27"
+  class="v">27</span><span class="wj">Thou oughtest therefore to have put my
+  money to the exchangers, and <span class="add">then</span> at my coming I
+  should have received mine own with usury.</span> </p>
+id: MAT/25/27
+next:
+  id: MAT/25/28
+  number: '28'
+previous:
+  id: MAT/25/26
+  number: '26'
+reference: 'Matthew 25:27'

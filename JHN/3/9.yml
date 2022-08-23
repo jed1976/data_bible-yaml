@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 3:9"
+  class="v">9</span>Nicodemus answered and said unto him, How can these things
+  be? </p>
+id: JHN/3/9
+next:
+  id: JHN/3/10
+  number: '10'
+previous:
+  id: JHN/3/8
+  number: '8'
+reference: 'John 3:9'

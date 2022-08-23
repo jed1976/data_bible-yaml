@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 7:12"
+  class="v">12</span><span class="add">Am</span> I a sea, or a whale, that thou
+  settest a watch over me? </p>
+id: JOB/7/12
+next:
+  id: JOB/7/13
+  number: '13'
+previous:
+  id: JOB/7/11
+  number: '11'
+reference: 'Job 7:12'

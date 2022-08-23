@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 47:6" class="v">6</span>The
+  land of Egypt <span class="add">is</span> before thee; in the best of the land
+  make thy father and brethren to dwell; in the land of Goshen let them dwell:
+  and if thou knowest <span class="add">any</span> men of activity among them,
+  then make them rulers over my cattle. </p>
+id: GEN/47/6
+next:
+  id: GEN/47/7
+  number: '7'
+previous:
+  id: GEN/47/5
+  number: '5'
+reference: 'Genesis 47:6'

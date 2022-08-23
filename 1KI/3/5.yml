@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1KI 3:5" class="v">5</span>¶ In
+  Gibeon the <span class="nd">LORD</span> appeared to Solomon in a dream by
+  night: and God said, Ask what I shall give thee. </p>
+id: 1KI/3/5
+next:
+  id: 1KI/3/6
+  number: '6'
+previous:
+  id: 1KI/3/4
+  number: '4'
+reference: '1 Kings 3:5'

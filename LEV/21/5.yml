@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 21:5" class="v">5</span>They
+  shall not make baldness upon their head, neither shall they shave off the
+  corner of their beard, nor make any cuttings in their flesh. </p>
+id: LEV/21/5
+next:
+  id: LEV/21/6
+  number: '6'
+previous:
+  id: LEV/21/4
+  number: '4'
+reference: 'Leviticus 21:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 5:19" class="v">19</span>He
+  shall deliver thee in six troubles: yea, in seven there shall no evil touch
+  thee. </p>
+id: JOB/5/19
+next:
+  id: JOB/5/20
+  number: '20'
+previous:
+  id: JOB/5/18
+  number: '18'
+reference: 'Job 5:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 7:4" class="v">4</span>For
+  <span class="add">there is</span> no man <span class="add">that</span> doeth
+  any thing in secret, and he himself seeketh to be known openly. If thou do
+  these things, shew thyself to the world. </p>
+id: JHN/7/4
+next:
+  id: JHN/7/5
+  number: '5'
+previous:
+  id: JHN/7/3
+  number: '3'
+reference: 'John 7:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 27:14" class="v">14</span>¶
+  And when a man shall sanctify his house <span class="add">to be</span> holy
+  unto the <span class="nd">LORD</span>, then the priest shall estimate it,
+  whether it be good or bad: as the priest shall estimate it, so shall it stand.
+  </p>
+id: LEV/27/14
+next:
+  id: LEV/27/15
+  number: '15'
+previous:
+  id: LEV/27/13
+  number: '13'
+reference: 'Leviticus 27:14'

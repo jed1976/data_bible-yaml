@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 36:13"
+  class="v">13</span>And he made fifty taches of gold, and coupled the curtains
+  one unto another with the taches: so it became one tabernacle.</p>
+id: EXO/36/13
+next:
+  id: EXO/36/14
+  number: '14'
+previous:
+  id: EXO/36/12
+  number: '12'
+reference: 'Exodus 36:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 18:3" class="v">3</span>And
+  Joshua said unto the children of Israel, How long <span class="add">are</span>
+  ye slack to go to possess the land, which the <span class="nd">LORD</span> God
+  of your fathers hath given you? </p>
+id: JOS/18/3
+next:
+  id: JOS/18/4
+  number: '4'
+previous:
+  id: JOS/18/2
+  number: '2'
+reference: 'Joshua 18:3'

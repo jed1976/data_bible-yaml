@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="12" data-sid="PSA 90:12"
+  class="v">12</span>So teach <span class="add">us</span> to number our days,
+  that we may apply <span class="add">our</span> hearts unto wisdom.</p>
+id: PSA/90/12
+next:
+  id: PSA/90/13
+  number: '13'
+previous:
+  id: PSA/90/11
+  number: '11'
+reference: 'Psalms 90:12'

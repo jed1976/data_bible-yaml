@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 24:23"
+  class="v">23</span><span class="add">Though</span> it be given him <span
+  class="add">to be</span> in safety, whereon he resteth; yet his eyes <span
+  class="add">are</span> upon their ways. </p>
+id: JOB/24/23
+next:
+  id: JOB/24/24
+  number: '24'
+previous:
+  id: JOB/24/22
+  number: '22'
+reference: 'Job 24:23'

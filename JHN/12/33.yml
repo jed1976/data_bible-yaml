@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JHN 12:33"
+  class="v">33</span>This he said, signifying what death he should die. </p>
+id: JHN/12/33
+next:
+  id: JHN/12/34
+  number: '34'
+previous:
+  id: JHN/12/32
+  number: '32'
+reference: 'John 12:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 10:30"
+  class="v">30</span><span class="wj">I and <span class="add">my</span> Father
+  are one.</span> </p>
+id: JHN/10/30
+next:
+  id: JHN/10/31
+  number: '31'
+previous:
+  id: JHN/10/29
+  number: '29'
+reference: 'John 10:30'

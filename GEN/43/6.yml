@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 43:6" class="v">6</span>And
+  Israel said, Wherefore dealt ye <span class="add">so</span> ill with me, <span
+  class="add">as</span> to tell the man whether ye had yet a brother? </p>
+id: GEN/43/6
+next:
+  id: GEN/43/7
+  number: '7'
+previous:
+  id: GEN/43/5
+  number: '5'
+reference: 'Genesis 43:6'

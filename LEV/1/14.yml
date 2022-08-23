@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 1:14" class="v">14</span>¶
+  And if the burnt sacrifice for his offering to the <span
+  class="nd">LORD</span> <span class="add">be</span> of fowls, then he shall
+  bring his offering of turtledoves, or of young pigeons. </p>
+id: LEV/1/14
+next:
+  id: LEV/1/15
+  number: '15'
+previous:
+  id: LEV/1/13
+  number: '13'
+reference: 'Leviticus 1:14'

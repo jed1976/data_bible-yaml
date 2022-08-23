@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="COL 1:18" class="v">18</span>And
+  he is the head of the body, the church: who is the beginning, the firstborn
+  from the dead; that in all <span class="add">things</span> he might have the
+  preeminence. </p>
+id: COL/1/18
+next:
+  id: COL/1/19
+  number: '19'
+previous:
+  id: COL/1/17
+  number: '17'
+reference: 'Colossians 1:18'

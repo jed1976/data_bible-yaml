@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 3:6" class="v">6</span>¶ The
+  <span class="nd">LORD</span> said also unto me in the days of Josiah the king,
+  Hast thou seen <span class="add">that</span> which backsliding Israel hath
+  done? she is gone up upon every high mountain and under every green tree, and
+  there hath played the harlot. </p>
+id: JER/3/6
+next:
+  id: JER/3/7
+  number: '7'
+previous:
+  id: JER/3/5
+  number: '5'
+reference: 'Jeremiah 3:6'

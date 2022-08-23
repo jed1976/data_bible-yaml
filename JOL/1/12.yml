@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOL 1:12" class="v">12</span>The
+  vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm
+  tree also, and the apple tree, <span class="add">even</span> all the trees of
+  the field, are withered: because joy is withered away from the sons of men.
+  </p>
+id: JOL/1/12
+next:
+  id: JOL/1/13
+  number: '13'
+previous:
+  id: JOL/1/11
+  number: '11'
+reference: 'Joel 1:12'

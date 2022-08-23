@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 5:14" class="v">14</span>And
+  the officers of the children of Israel, which Pharaoh’s taskmasters had set
+  over them, were beaten, <span class="add">and</span> demanded, Wherefore have
+  ye not fulfilled your task in making brick both yesterday and to day, as
+  heretofore?</p>
+id: EXO/5/14
+next:
+  id: EXO/5/15
+  number: '15'
+previous:
+  id: EXO/5/13
+  number: '13'
+reference: 'Exodus 5:14'

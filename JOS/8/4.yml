@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 8:4" class="v">4</span>And he
+  commanded them, saying, Behold, ye shall lie in wait against the city, <span
+  class="add">even</span> behind the city: go not very far from the city, but be
+  ye all ready: </p>
+id: JOS/8/4
+next:
+  id: JOS/8/5
+  number: '5'
+previous:
+  id: JOS/8/3
+  number: '3'
+reference: 'Joshua 8:4'

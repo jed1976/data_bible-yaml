@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 5:13" class="v">13</span>And
+  a man lie with her carnally, and it be hid from the eyes of her husband, and
+  be kept close, and she be defiled, and <span class="add">there be</span> no
+  witness against her, neither she be taken <span class="add">with the
+  manner;</span> </p>
+id: NUM/5/13
+next:
+  id: NUM/5/14
+  number: '14'
+previous:
+  id: NUM/5/12
+  number: '12'
+reference: 'Numbers 5:13'

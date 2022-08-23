@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 5:3" class="v">3</span><span
+  class="add">Some</span> also there were that said, We have mortgaged our
+  lands, vineyards, and houses, that we might buy corn, because of the dearth.
+  </p>
+id: NEH/5/3
+next:
+  id: NEH/5/4
+  number: '4'
+previous:
+  id: NEH/5/2
+  number: '2'
+reference: 'Nehemiah 5:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 10:3" class="v">3</span>¶ And
+  after him arose Jair, a Gileadite, and judged Israel twenty and two years.
+  </p>
+id: JDG/10/3
+next:
+  id: JDG/10/4
+  number: '4'
+previous:
+  id: JDG/10/2
+  number: '2'
+reference: 'Judges 10:3'

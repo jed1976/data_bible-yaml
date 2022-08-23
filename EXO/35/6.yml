@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 35:6" class="v">6</span>And
+  blue, and purple, and scarlet, and fine linen, and goats’ <span
+  class="add">hair</span>, </p>
+id: EXO/35/6
+next:
+  id: EXO/35/7
+  number: '7'
+previous:
+  id: EXO/35/5
+  number: '5'
+reference: 'Exodus 35:6'

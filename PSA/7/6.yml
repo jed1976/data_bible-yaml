@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 7:6"
+  class="v">6</span>Arise, O <span class="nd">LORD</span>, in thine anger, lift
+  up thyself because of the rage of mine enemies: and awake for me <span
+  class="add">to</span> the judgment <span class="add">that</span> thou hast
+  commanded.</p>
+id: PSA/7/6
+next:
+  id: PSA/7/7
+  number: '7'
+previous:
+  id: PSA/7/5
+  number: '5'
+reference: 'Psalms 7:6'

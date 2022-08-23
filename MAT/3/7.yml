@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 3:7" class="v">7</span>¶ But
+  when he saw many of the Pharisees and Sadducees come to his baptism, he said
+  unto them, O generation of vipers, who hath warned you to flee from the wrath
+  to come? </p>
+id: MAT/3/7
+next:
+  id: MAT/3/8
+  number: '8'
+previous:
+  id: MAT/3/6
+  number: '6'
+reference: 'Matthew 3:7'

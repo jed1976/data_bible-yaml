@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="HAG 2:16"
+  class="v">16</span>Since those <span class="add">days</span> were, when <span
+  class="add">one</span> came to an heap of twenty <span
+  class="add">measures</span>, there were <span class="add">but</span> ten: when
+  <span class="add">one</span> came to the pressfat for to draw out fifty <span
+  class="add">vessels</span> out of the press, there were <span
+  class="add">but</span> twenty. </p>
+id: HAG/2/16
+next:
+  id: HAG/2/17
+  number: '17'
+previous:
+  id: HAG/2/15
+  number: '15'
+reference: 'Haggai 2:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAL 4:2" class="v">2</span>¶ But
+  unto you that fear my name shall the Sun of righteousness arise with healing
+  in his wings; and ye shall go forth, and grow up as calves of the stall. </p>
+id: MAL/4/2
+next:
+  id: MAL/4/3
+  number: '3'
+previous:
+  id: MAL/4/1
+  number: '1'
+reference: 'Malachi 4:2'

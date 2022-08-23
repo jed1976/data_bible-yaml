@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 56:13"
+  class="v">13</span>For thou hast delivered my soul from death: <span
+  class="add">wilt</span> not <span class="add">thou deliver</span> my feet from
+  falling, that I may walk before God in the light of the living?</p>
+id: PSA/56/13
+next:
+  id: PSA/57/1
+  number: '1'
+previous:
+  id: PSA/56/12
+  number: '12'
+reference: 'Psalms 56:13'

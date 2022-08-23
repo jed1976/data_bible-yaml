@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 3:4" class="v">4</span><span
+  class="wj">Thou hast a few names even in Sardis which have not defiled their
+  garments; and they shall walk with me in white: for they are worthy.</span>
+  </p>
+id: REV/3/4
+next:
+  id: REV/3/5
+  number: '5'
+previous:
+  id: REV/3/3
+  number: '3'
+reference: 'Revelation 3:4'

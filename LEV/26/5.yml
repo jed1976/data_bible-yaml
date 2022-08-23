@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 26:5" class="v">5</span>And
+  your threshing shall reach unto the vintage, and the vintage shall reach unto
+  the sowing time: and ye shall eat your bread to the full, and dwell in your
+  land safely. </p>
+id: LEV/26/5
+next:
+  id: LEV/26/6
+  number: '6'
+previous:
+  id: LEV/26/4
+  number: '4'
+reference: 'Leviticus 26:5'

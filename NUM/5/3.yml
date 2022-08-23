@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 5:3" class="v">3</span>Both
+  male and female shall ye put out, without the camp shall ye put them; that
+  they defile not their camps, in the midst whereof I dwell. </p>
+id: NUM/5/3
+next:
+  id: NUM/5/4
+  number: '4'
+previous:
+  id: NUM/5/2
+  number: '2'
+reference: 'Numbers 5:3'

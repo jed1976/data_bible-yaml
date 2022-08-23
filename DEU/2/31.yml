@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="DEU 2:31" class="v">31</span>And
+  the <span class="nd">LORD</span> said unto me, Behold, I have begun to give
+  Sihon and his land before thee: begin to possess, that thou mayest inherit his
+  land. </p>
+id: DEU/2/31
+next:
+  id: DEU/2/32
+  number: '32'
+previous:
+  id: DEU/2/30
+  number: '30'
+reference: 'Deuteronomy 2:31'

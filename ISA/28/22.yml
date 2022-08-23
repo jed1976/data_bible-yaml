@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 28:22"
+  class="v">22</span>Now therefore be ye not mockers, lest your bands be made
+  strong: for I have heard from the Lord <span class="nd">GOD</span> of hosts a
+  consumption, even determined upon the whole earth.</p>
+id: ISA/28/22
+next:
+  id: ISA/28/23
+  number: '23'
+previous:
+  id: ISA/28/21
+  number: '21'
+reference: 'Isaiah 28:22'

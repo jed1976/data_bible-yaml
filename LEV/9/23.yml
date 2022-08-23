@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 9:23" class="v">23</span>And
+  Moses and Aaron went into the tabernacle of the congregation, and came out,
+  and blessed the people: and the glory of the <span class="nd">LORD</span>
+  appeared unto all the people. </p>
+id: LEV/9/23
+next:
+  id: LEV/9/24
+  number: '24'
+previous:
+  id: LEV/9/22
+  number: '22'
+reference: 'Leviticus 9:23'

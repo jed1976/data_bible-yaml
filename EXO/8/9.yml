@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 8:9" class="v">9</span>And
+  Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for
+  thy servants, and for thy people, to destroy the frogs from thee and thy
+  houses, <span class="add">that</span> they may remain in the river only? </p>
+id: EXO/8/9
+next:
+  id: EXO/8/10
+  number: '10'
+previous:
+  id: EXO/8/8
+  number: '8'
+reference: 'Exodus 8:9'

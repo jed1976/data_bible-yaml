@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 11:13"
+  class="v">13</span>For I speak to you Gentiles, inasmuch as I am the apostle
+  of the Gentiles, I magnify mine office: </p>
+id: ROM/11/13
+next:
+  id: ROM/11/14
+  number: '14'
+previous:
+  id: ROM/11/12
+  number: '12'
+reference: 'Romans 11:13'

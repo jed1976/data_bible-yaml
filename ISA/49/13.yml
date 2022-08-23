@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 49:13" class="v">13</span>¶
+  Sing, O heavens; and be joyful, O earth; and break forth into singing, O
+  mountains: for the <span class="nd">LORD</span> hath comforted his people, and
+  will have mercy upon his afflicted. </p>
+id: ISA/49/13
+next:
+  id: ISA/49/14
+  number: '14'
+previous:
+  id: ISA/49/12
+  number: '12'
+reference: 'Isaiah 49:13'

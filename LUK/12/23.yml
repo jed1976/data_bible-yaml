@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 12:23"
+  class="v">23</span><span class="wj">The life is more than meat, and the body
+  <span class="add">is more</span> than raiment.</span> </p>
+id: LUK/12/23
+next:
+  id: LUK/12/24
+  number: '24'
+previous:
+  id: LUK/12/22
+  number: '22'
+reference: 'Luke 12:23'

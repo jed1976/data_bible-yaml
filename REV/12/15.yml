@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 12:15"
+  class="v">15</span>And the serpent cast out of his mouth water as a flood
+  after the woman, that he might cause her to be carried away of the flood. </p>
+id: REV/12/15
+next:
+  id: REV/12/16
+  number: '16'
+previous:
+  id: REV/12/14
+  number: '14'
+reference: 'Revelation 12:15'

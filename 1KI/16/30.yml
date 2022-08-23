@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="1KI 16:30"
+  class="v">30</span>And Ahab the son of Omri did evil in the sight of the <span
+  class="nd">LORD</span> above all that <span class="add">were</span> before
+  him. </p>
+id: 1KI/16/30
+next:
+  id: 1KI/16/31
+  number: '31'
+previous:
+  id: 1KI/16/29
+  number: '29'
+reference: '1 Kings 16:30'

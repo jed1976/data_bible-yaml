@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 15:9" class="v">9</span>And
+  what saddle soever he rideth upon that hath the issue shall be unclean. </p>
+id: LEV/15/9
+next:
+  id: LEV/15/10
+  number: '10'
+previous:
+  id: LEV/15/8
+  number: '8'
+reference: 'Leviticus 15:9'

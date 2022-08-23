@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 5:4" class="v">4</span>And
+  the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the
+  people from their works? get you unto your burdens. </p>
+id: EXO/5/4
+next:
+  id: EXO/5/5
+  number: '5'
+previous:
+  id: EXO/5/3
+  number: '3'
+reference: 'Exodus 5:4'

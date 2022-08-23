@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="45" data-sid="PSA 18:45"
+  class="v">45</span>The strangers shall fade away, and be afraid out of their
+  close places.</p>
+id: PSA/18/45
+next:
+  id: PSA/18/46
+  number: '46'
+previous:
+  id: PSA/18/44
+  number: '44'
+reference: 'Psalms 18:45'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 11:24"
+  class="v">24</span>These <span class="add">things</span> did Benaiah the son
+  of Jehoiada, and had the name among the three mighties. </p>
+id: 1CH/11/24
+next:
+  id: 1CH/11/25
+  number: '25'
+previous:
+  id: 1CH/11/23
+  number: '23'
+reference: '1 Chronicles 11:24'

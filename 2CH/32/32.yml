@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2CH 32:32" class="v">32</span>¶
+  Now the rest of the acts of Hezekiah, and his goodness, behold, they <span
+  class="add">are</span> written in the vision of Isaiah the prophet, the son of
+  Amoz, <span class="add">and</span> in the book of the kings of Judah and
+  Israel. </p>
+id: 2CH/32/32
+next:
+  id: 2CH/32/33
+  number: '33'
+previous:
+  id: 2CH/32/31
+  number: '31'
+reference: '2 Chronicles 32:32'

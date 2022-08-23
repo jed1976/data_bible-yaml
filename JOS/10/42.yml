@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JOS 10:42"
+  class="v">42</span>And all these kings and their land did Joshua take at one
+  time, because the <span class="nd">LORD</span> God of Israel fought for
+  Israel. </p>
+id: JOS/10/42
+next:
+  id: JOS/10/43
+  number: '43'
+previous:
+  id: JOS/10/41
+  number: '41'
+reference: 'Joshua 10:42'

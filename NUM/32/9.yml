@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 32:9" class="v">9</span>For
+  when they went up unto the valley of Eshcol, and saw the land, they
+  discouraged the heart of the children of Israel, that they should not go into
+  the land which the <span class="nd">LORD</span> had given them. </p>
+id: NUM/32/9
+next:
+  id: NUM/32/10
+  number: '10'
+previous:
+  id: NUM/32/8
+  number: '8'
+reference: 'Numbers 32:9'

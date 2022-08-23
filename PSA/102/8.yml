@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 102:8"
+  class="v">8</span>Mine enemies reproach me all the day; <span
+  class="add">and</span> they that are mad against me are sworn against me.</p>
+id: PSA/102/8
+next:
+  id: PSA/102/9
+  number: '9'
+previous:
+  id: PSA/102/7
+  number: '7'
+reference: 'Psalms 102:8'

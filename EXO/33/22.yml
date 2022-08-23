@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 33:22"
+  class="v">22</span>And it shall come to pass, while my glory passeth by, that
+  I will put thee in a clift of the rock, and will cover thee with my hand while
+  I pass by: </p>
+id: EXO/33/22
+next:
+  id: EXO/33/23
+  number: '23'
+previous:
+  id: EXO/33/21
+  number: '21'
+reference: 'Exodus 33:22'

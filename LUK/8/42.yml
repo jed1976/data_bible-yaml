@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 8:42" class="v">42</span>For
+  he had one only daughter, about twelve years of age, and she lay a dying. But
+  as he went the people thronged him.</p>
+id: LUK/8/42
+next:
+  id: LUK/8/43
+  number: '43'
+previous:
+  id: LUK/8/41
+  number: '41'
+reference: 'Luke 8:42'

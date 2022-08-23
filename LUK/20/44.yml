@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 20:44"
+  class="v">44</span><span class="wj">David therefore calleth him Lord, how is
+  he then his son?</span></p>
+id: LUK/20/44
+next:
+  id: LUK/20/45
+  number: '45'
+previous:
+  id: LUK/20/43
+  number: '43'
+reference: 'Luke 20:44'

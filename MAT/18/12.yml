@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 18:12"
+  class="v">12</span><span class="wj">How think ye? if a man have an hundred
+  sheep, and one of them be gone astray, doth he not leave the ninety and nine,
+  and goeth into the mountains, and seeketh that which is gone astray?</span>
+  </p>
+id: MAT/18/12
+next:
+  id: MAT/18/13
+  number: '13'
+previous:
+  id: MAT/18/11
+  number: '11'
+reference: 'Matthew 18:12'

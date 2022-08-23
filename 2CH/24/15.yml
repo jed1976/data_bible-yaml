@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 24:15" class="v">15</span>¶
+  But Jehoiada waxed old, and was full of days when he died; an hundred and
+  thirty years old <span class="add">was he</span> when he died. </p>
+id: 2CH/24/15
+next:
+  id: 2CH/24/16
+  number: '16'
+previous:
+  id: 2CH/24/14
+  number: '14'
+reference: '2 Chronicles 24:15'

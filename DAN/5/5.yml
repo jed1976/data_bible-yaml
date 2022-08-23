@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 5:5" class="v">5</span>¶ In
+  the same hour came forth fingers of a man’s hand, and wrote over against the
+  candlestick upon the plaister of the wall of the king’s palace: and the king
+  saw the part of the hand that wrote. </p>
+id: DAN/5/5
+next:
+  id: DAN/5/6
+  number: '6'
+previous:
+  id: DAN/5/4
+  number: '4'
+reference: 'Daniel 5:5'

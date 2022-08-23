@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 6:9" class="v">9</span>And
+  when he had opened the fifth seal, I saw under the altar the souls of them
+  that were slain for the word of God, and for the testimony which they held:
+  </p>
+id: REV/6/9
+next:
+  id: REV/6/10
+  number: '10'
+previous:
+  id: REV/6/8
+  number: '8'
+reference: 'Revelation 6:9'

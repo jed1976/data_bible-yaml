@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 11:3" class="v">3</span><span
+  class="wj">And if any man say unto you, Why do ye this? say ye that the Lord
+  hath need of him; and straightway he will send him hither.</span> </p>
+id: MRK/11/3
+next:
+  id: MRK/11/4
+  number: '4'
+previous:
+  id: MRK/11/2
+  number: '2'
+reference: 'Mark 11:3'

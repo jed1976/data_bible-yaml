@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 40:12"
+  class="v">12</span>And Joseph said unto him, This <span class="add">is</span>
+  the interpretation of it: The three branches <span class="add">are</span>
+  three days: </p>
+id: GEN/40/12
+next:
+  id: GEN/40/13
+  number: '13'
+previous:
+  id: GEN/40/11
+  number: '11'
+reference: 'Genesis 40:12'

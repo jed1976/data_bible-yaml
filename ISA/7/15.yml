@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 7:15"
+  class="v">15</span>Butter and honey shall he eat, that he may know to refuse
+  the evil, and choose the good. </p>
+id: ISA/7/15
+next:
+  id: ISA/7/16
+  number: '16'
+previous:
+  id: ISA/7/14
+  number: '14'
+reference: 'Isaiah 7:15'

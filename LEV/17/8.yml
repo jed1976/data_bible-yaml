@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 17:8" class="v">8</span>¶ And
+  thou shalt say unto them, Whatsoever man <span class="add">there be</span> of
+  the house of Israel, or of the strangers which sojourn among you, that
+  offereth a burnt offering or sacrifice, </p>
+id: LEV/17/8
+next:
+  id: LEV/17/9
+  number: '9'
+previous:
+  id: LEV/17/7
+  number: '7'
+reference: 'Leviticus 17:8'

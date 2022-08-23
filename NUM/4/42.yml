@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="NUM 4:42" class="v">42</span>¶
+  And those that were numbered of the families of the sons of Merari, throughout
+  their families, by the house of their fathers, </p>
+id: NUM/4/42
+next:
+  id: NUM/4/43
+  number: '43'
+previous:
+  id: NUM/4/41
+  number: '41'
+reference: 'Numbers 4:42'

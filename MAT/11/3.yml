@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 11:3" class="v">3</span>And
+  said unto him, Art thou he that should come, or do we look for another? </p>
+id: MAT/11/3
+next:
+  id: MAT/11/4
+  number: '4'
+previous:
+  id: MAT/11/2
+  number: '2'
+reference: 'Matthew 11:3'

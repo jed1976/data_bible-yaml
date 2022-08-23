@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DAN 8:6" class="v">6</span>And he
+  came to the ram that had <span class="add">two</span> horns, which I had seen
+  standing before the river, and ran unto him in the fury of his power. </p>
+id: DAN/8/6
+next:
+  id: DAN/8/7
+  number: '7'
+previous:
+  id: DAN/8/5
+  number: '5'
+reference: 'Daniel 8:6'

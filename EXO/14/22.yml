@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 14:22"
+  class="v">22</span>And the children of Israel went into the midst of the sea
+  upon the dry <span class="add">ground:</span> and the waters <span
+  class="add">were</span> a wall unto them on their right hand, and on their
+  left.</p>
+id: EXO/14/22
+next:
+  id: EXO/14/23
+  number: '23'
+previous:
+  id: EXO/14/21
+  number: '21'
+reference: 'Exodus 14:22'

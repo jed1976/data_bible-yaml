@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 15:4" class="v">4</span>And
+  that he was buried, and that he rose again the third day according to the
+  scriptures: </p>
+id: 1CO/15/4
+next:
+  id: 1CO/15/5
+  number: '5'
+previous:
+  id: 1CO/15/3
+  number: '3'
+reference: '1 Corinthians 15:4'

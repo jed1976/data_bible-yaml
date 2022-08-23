@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 8:1" class="v">1</span>O that
+  thou <span class="add">wert</span> as my brother, that sucked the breasts of
+  my mother! <span class="add">when</span> I should find thee without, I would
+  kiss thee; yea, I should not be despised. </p>
+id: SNG/8/1
+next:
+  id: SNG/8/2
+  number: '2'
+previous:
+  id: SNG/7/13
+  number: '13'
+reference: 'Song of Solomon 8:1'

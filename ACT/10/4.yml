@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 10:4" class="v">4</span>And
+  when he looked on him, he was afraid, and said, What is it, Lord? And he said
+  unto him, Thy prayers and thine alms are come up for a memorial before God.
+  </p>
+id: ACT/10/4
+next:
+  id: ACT/10/5
+  number: '5'
+previous:
+  id: ACT/10/3
+  number: '3'
+reference: 'Acts 10:4'

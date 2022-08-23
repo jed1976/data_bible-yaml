@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 14:8" class="v">8</span>¶ And
+  when the Philistines heard that David was anointed king over all Israel, all
+  the Philistines went up to seek David. And David heard <span class="add">of
+  it</span>, and went out against them. </p>
+id: 1CH/14/8
+next:
+  id: 1CH/14/9
+  number: '9'
+previous:
+  id: 1CH/14/7
+  number: '7'
+reference: '1 Chronicles 14:8'

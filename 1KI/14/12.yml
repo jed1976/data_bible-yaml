@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 14:12"
+  class="v">12</span>Arise thou therefore, get thee to thine own house: <span
+  class="add">and</span> when thy feet enter into the city, the child shall die.
+  </p>
+id: 1KI/14/12
+next:
+  id: 1KI/14/13
+  number: '13'
+previous:
+  id: 1KI/14/11
+  number: '11'
+reference: '1 Kings 14:12'

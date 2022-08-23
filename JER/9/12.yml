@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 9:12" class="v">12</span>¶
+  Who <span class="add">is</span> the wise man, that may understand this? and
+  <span class="add">who is he</span> to whom the mouth of the <span
+  class="nd">LORD</span> hath spoken, that he may declare it, for what the land
+  perisheth <span class="add">and</span> is burned up like a wilderness, that
+  none passeth through? </p>
+id: JER/9/12
+next:
+  id: JER/9/13
+  number: '13'
+previous:
+  id: JER/9/11
+  number: '11'
+reference: 'Jeremiah 9:12'

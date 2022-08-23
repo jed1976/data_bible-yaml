@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 3:22" class="v">22</span>¶
+  And the <span class="nd">LORD</span> God said, Behold, the man is become as
+  one of us, to know good and evil: and now, lest he put forth his hand, and
+  take also of the tree of life, and eat, and live for ever: </p>
+id: GEN/3/22
+next:
+  id: GEN/3/23
+  number: '23'
+previous:
+  id: GEN/3/21
+  number: '21'
+reference: 'Genesis 3:22'

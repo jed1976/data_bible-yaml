@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 44:11" class="v">11</span>¶
+  Therefore thus saith the <span class="nd">LORD</span> of hosts, the God of
+  Israel; Behold, I will set my face against you for evil, and to cut off all
+  Judah. </p>
+id: JER/44/11
+next:
+  id: JER/44/12
+  number: '12'
+previous:
+  id: JER/44/10
+  number: '10'
+reference: 'Jeremiah 44:11'

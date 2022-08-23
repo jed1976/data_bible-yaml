@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 147:11"
+  class="v">11</span>The <span class="nd">LORD</span> taketh pleasure in them
+  that fear him, in those that hope in his mercy.</p>
+id: PSA/147/11
+next:
+  id: PSA/147/12
+  number: '12'
+previous:
+  id: PSA/147/10
+  number: '10'
+reference: 'Psalms 147:11'

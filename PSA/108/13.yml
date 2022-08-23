@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 108:13"
+  class="v">13</span>Through God we shall do valiantly: for he <span
+  class="add">it is that</span> shall tread down our enemies.</p>
+id: PSA/108/13
+next:
+  id: PSA/109/1
+  number: '1'
+previous:
+  id: PSA/108/12
+  number: '12'
+reference: 'Psalms 108:13'

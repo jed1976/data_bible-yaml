@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1TH 5:1" class="v">1</span>But of
+  the times and the seasons, brethren, ye have no need that I write unto you.
+  </p>
+id: 1TH/5/1
+next:
+  id: 1TH/5/2
+  number: '2'
+previous:
+  id: 1TH/4/18
+  number: '18'
+reference: '1 Thessalonians 5:1'

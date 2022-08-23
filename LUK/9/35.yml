@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="LUK 9:35" class="v">35</span>And
+  there came a voice out of the cloud, saying, This is my beloved Son: hear him.
+  </p>
+id: LUK/9/35
+next:
+  id: LUK/9/36
+  number: '36'
+previous:
+  id: LUK/9/34
+  number: '34'
+reference: 'Luke 9:35'

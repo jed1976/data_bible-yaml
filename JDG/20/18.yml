@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 20:18" class="v">18</span>¶
+  And the children of Israel arose, and went up to the house of God, and asked
+  counsel of God, and said, Which of us shall go up first to the battle against
+  the children of Benjamin? And the <span class="nd">LORD</span> said, Judah
+  <span class="add">shall go up</span> first. </p>
+id: JDG/20/18
+next:
+  id: JDG/20/19
+  number: '19'
+previous:
+  id: JDG/20/17
+  number: '17'
+reference: 'Judges 20:18'

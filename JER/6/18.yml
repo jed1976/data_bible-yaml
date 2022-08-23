@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 6:18" class="v">18</span>¶
+  Therefore hear, ye nations, and know, O congregation, what <span
+  class="add">is</span> among them. </p>
+id: JER/6/18
+next:
+  id: JER/6/19
+  number: '19'
+previous:
+  id: JER/6/17
+  number: '17'
+reference: 'Jeremiah 6:18'

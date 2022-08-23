@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 1:11"
+  class="v">11</span>Then shall the children of Judah and the children of Israel
+  be gathered together, and appoint themselves one head, and they shall come up
+  out of the land: for great <span class="add">shall be</span> the day of
+  Jezreel.</p>
+id: HOS/1/11
+next:
+  id: HOS/2/1
+  number: '1'
+previous:
+  id: HOS/1/10
+  number: '10'
+reference: 'Hosea 1:11'

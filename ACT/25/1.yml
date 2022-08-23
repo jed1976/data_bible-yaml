@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 25:1" class="v">1</span>Now
+  when Festus was come into the province, after three days he ascended from
+  Cæsarea to Jerusalem. </p>
+id: ACT/25/1
+next:
+  id: ACT/25/2
+  number: '2'
+previous:
+  id: ACT/24/27
+  number: '27'
+reference: 'Acts 25:1'

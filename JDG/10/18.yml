@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 10:18"
+  class="v">18</span>And the people <span class="add">and</span> princes of
+  Gilead said one to another, What man <span class="add">is he</span> that will
+  begin to fight against the children of Ammon? he shall be head over all the
+  inhabitants of Gilead.</p>
+id: JDG/10/18
+next:
+  id: JDG/11/1
+  number: '1'
+previous:
+  id: JDG/10/17
+  number: '17'
+reference: 'Judges 10:18'

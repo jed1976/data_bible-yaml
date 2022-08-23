@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 46:8"
+  class="v">8</span>Remember this, and shew yourselves men: bring <span
+  class="add">it</span> again to mind, O ye transgressors. </p>
+id: ISA/46/8
+next:
+  id: ISA/46/9
+  number: '9'
+previous:
+  id: ISA/46/7
+  number: '7'
+reference: 'Isaiah 46:8'

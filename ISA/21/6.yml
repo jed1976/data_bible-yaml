@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 21:6" class="v">6</span>For
+  thus hath the Lord said unto me, Go, set a watchman, let him declare what he
+  seeth. </p>
+id: ISA/21/6
+next:
+  id: ISA/21/7
+  number: '7'
+previous:
+  id: ISA/21/5
+  number: '5'
+reference: 'Isaiah 21:6'

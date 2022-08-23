@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 18:9" class="v">9</span><span
+  class="wj">And if thine eye offend thee, pluck it out, and cast <span
+  class="add">it</span> from thee: it is better for thee to enter into life with
+  one eye, rather than having two eyes to be cast into hell fire.</span> </p>
+id: MAT/18/9
+next:
+  id: MAT/18/10
+  number: '10'
+previous:
+  id: MAT/18/8
+  number: '8'
+reference: 'Matthew 18:9'

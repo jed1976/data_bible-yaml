@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 8:7" class="v">7</span>Thus
+  saith the <span class="nd">LORD</span> of hosts; Behold, I will save my people
+  from the east country, and from the west country; </p>
+id: ZEC/8/7
+next:
+  id: ZEC/8/8
+  number: '8'
+previous:
+  id: ZEC/8/6
+  number: '6'
+reference: 'Zechariah 8:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HEB 11:23" class="v">23</span>By
+  faith Moses, when he was born, was hid three months of his parents, because
+  they saw <span class="add">he was</span> a proper child; and they were not
+  afraid of the king’s commandment. </p>
+id: HEB/11/23
+next:
+  id: HEB/11/24
+  number: '24'
+previous:
+  id: HEB/11/22
+  number: '22'
+reference: 'Hebrews 11:23'

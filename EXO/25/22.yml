@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 25:22"
+  class="v">22</span>And there I will meet with thee, and I will commune with
+  thee from above the mercy seat, from between the two cherubims which <span
+  class="add">are</span> upon the ark of the testimony, of all <span
+  class="add">things</span> which I will give thee in commandment unto the
+  children of Israel.</p>
+id: EXO/25/22
+next:
+  id: EXO/25/23
+  number: '23'
+previous:
+  id: EXO/25/21
+  number: '21'
+reference: 'Exodus 25:22'

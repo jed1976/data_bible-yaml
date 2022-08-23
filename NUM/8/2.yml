@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NUM 8:2" class="v">2</span>Speak
+  unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps
+  shall give light over against the candlestick. </p>
+id: NUM/8/2
+next:
+  id: NUM/8/3
+  number: '3'
+previous:
+  id: NUM/8/1
+  number: '1'
+reference: 'Numbers 8:2'

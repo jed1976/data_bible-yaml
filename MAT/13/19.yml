@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 13:19"
+  class="v">19</span><span class="wj">When any one heareth the word of the
+  kingdom, and understandeth <span class="add">it</span> not, then cometh the
+  wicked <span class="add">one</span>, and catcheth away that which was sown in
+  his heart. This is he which received seed by the way side.</span> </p>
+id: MAT/13/19
+next:
+  id: MAT/13/20
+  number: '20'
+previous:
+  id: MAT/13/18
+  number: '18'
+reference: 'Matthew 13:19'

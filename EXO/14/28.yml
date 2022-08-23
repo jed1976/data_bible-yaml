@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="EXO 14:28"
+  class="v">28</span>And the waters returned, and covered the chariots, and the
+  horsemen, <span class="add">and</span> all the host of Pharaoh that came into
+  the sea after them; there remained not so much as one of them. </p>
+id: EXO/14/28
+next:
+  id: EXO/14/29
+  number: '29'
+previous:
+  id: EXO/14/27
+  number: '27'
+reference: 'Exodus 14:28'

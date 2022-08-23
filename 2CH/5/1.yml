@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 5:1" class="v">1</span>Thus
+  all the work that Solomon made for the house of the <span
+  class="nd">LORD</span> was finished: and Solomon brought in <span
+  class="add">all</span> the things that David his father had dedicated; and the
+  silver, and the gold, and all the instruments, put he among the treasures of
+  the house of God.</p>
+id: 2CH/5/1
+next:
+  id: 2CH/5/2
+  number: '2'
+previous:
+  id: 2CH/4/22
+  number: '22'
+reference: '2 Chronicles 5:1'

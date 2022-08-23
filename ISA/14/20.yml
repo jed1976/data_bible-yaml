@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 14:20"
+  class="v">20</span>Thou shalt not be joined with them in burial, because thou
+  hast destroyed thy land, <span class="add">and</span> slain thy people: the
+  seed of evildoers shall never be renowned. </p>
+id: ISA/14/20
+next:
+  id: ISA/14/21
+  number: '21'
+previous:
+  id: ISA/14/19
+  number: '19'
+reference: 'Isaiah 14:20'

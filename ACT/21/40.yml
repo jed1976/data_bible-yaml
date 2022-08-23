@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 21:40"
+  class="v">40</span>And when he had given him licence, Paul stood on the
+  stairs, and beckoned with the hand unto the people. And when there was made a
+  great silence, he spake unto <span class="add">them</span> in the Hebrew
+  tongue, saying,</p>
+id: ACT/21/40
+next:
+  id: ACT/22/1
+  number: '1'
+previous:
+  id: ACT/21/39
+  number: '39'
+reference: 'Acts 21:40'

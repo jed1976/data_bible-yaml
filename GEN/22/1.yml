@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 22:1" class="v">1</span>And
+  it came to pass after these things, that God did tempt Abraham, and said unto
+  him, Abraham: and he said, Behold, <span class="add">here</span> I <span
+  class="add">am</span>. </p>
+id: GEN/22/1
+next:
+  id: GEN/22/2
+  number: '2'
+previous:
+  id: GEN/21/34
+  number: '34'
+reference: 'Genesis 22:1'

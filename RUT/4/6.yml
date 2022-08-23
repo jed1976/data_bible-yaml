@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="RUT 4:6" class="v">6</span>¶ And
+  the kinsman said, I cannot redeem <span class="add">it</span> for myself, lest
+  I mar mine own inheritance: redeem thou my right to thyself; for I cannot
+  redeem <span class="add">it</span>. </p>
+id: RUT/4/6
+next:
+  id: RUT/4/7
+  number: '7'
+previous:
+  id: RUT/4/5
+  number: '5'
+reference: 'Ruth 4:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 5:3" class="v">3</span>And
+  now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt
+  me and my vineyard. </p>
+id: ISA/5/3
+next:
+  id: ISA/5/4
+  number: '4'
+previous:
+  id: ISA/5/2
+  number: '2'
+reference: 'Isaiah 5:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 22:4" class="v">4</span>¶
+  Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide
+  thyself from them: thou shalt surely help him to lift <span
+  class="add">them</span> up again.</p>
+id: DEU/22/4
+next:
+  id: DEU/22/5
+  number: '5'
+previous:
+  id: DEU/22/3
+  number: '3'
+reference: 'Deuteronomy 22:4'

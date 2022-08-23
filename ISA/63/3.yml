@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 63:3" class="v">3</span>I
+  have trodden the winepress alone; and of the people <span class="add">there
+  was</span> none with me: for I will tread them in mine anger, and trample them
+  in my fury; and their blood shall be sprinkled upon my garments, and I will
+  stain all my raiment. </p>
+id: ISA/63/3
+next:
+  id: ISA/63/4
+  number: '4'
+previous:
+  id: ISA/63/2
+  number: '2'
+reference: 'Isaiah 63:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 4:6"
+  class="v">6</span>Forsake her not, and she shall preserve thee: love her, and
+  she shall keep thee. </p>
+id: PRO/4/6
+next:
+  id: PRO/4/7
+  number: '7'
+previous:
+  id: PRO/4/5
+  number: '5'
+reference: 'Proverbs 4:6'

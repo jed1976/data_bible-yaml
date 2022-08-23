@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1SA 20:27"
+  class="v">27</span>And it came to pass on the morrow, <span class="add">which
+  was</span> the second <span class="add">day</span> of the month, that David’s
+  place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the
+  son of Jesse to meat, neither yesterday, nor to day? </p>
+id: 1SA/20/27
+next:
+  id: 1SA/20/28
+  number: '28'
+previous:
+  id: 1SA/20/26
+  number: '26'
+reference: '1 Samuel 20:27'

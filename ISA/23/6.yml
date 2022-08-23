@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 23:6" class="v">6</span>Pass
+  ye over to Tarshish; howl, ye inhabitants of the isle. </p>
+id: ISA/23/6
+next:
+  id: ISA/23/7
+  number: '7'
+previous:
+  id: ISA/23/5
+  number: '5'
+reference: 'Isaiah 23:6'

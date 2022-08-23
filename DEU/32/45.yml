@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="DEU 32:45"
+  class="v">45</span>And Moses made an end of speaking all these words to all
+  Israel: </p>
+id: DEU/32/45
+next:
+  id: DEU/32/46
+  number: '46'
+previous:
+  id: DEU/32/44
+  number: '44'
+reference: 'Deuteronomy 32:45'

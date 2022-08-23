@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 29:26"
+  class="v">26</span>For they went and served other gods, and worshipped them,
+  gods whom they knew not, and <span class="add">whom</span> he had not given
+  unto them: </p>
+id: DEU/29/26
+next:
+  id: DEU/29/27
+  number: '27'
+previous:
+  id: DEU/29/25
+  number: '25'
+reference: 'Deuteronomy 29:26'

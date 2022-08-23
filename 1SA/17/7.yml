@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 17:7" class="v">7</span>And
+  the staff of his spear <span class="add">was</span> like a weaver’s beam; and
+  his spear’s head <span class="add">weighed</span> six hundred shekels of iron:
+  and one bearing a shield went before him. </p>
+id: 1SA/17/7
+next:
+  id: 1SA/17/8
+  number: '8'
+previous:
+  id: 1SA/17/6
+  number: '6'
+reference: '1 Samuel 17:7'

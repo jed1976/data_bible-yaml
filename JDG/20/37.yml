@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JDG 20:37"
+  class="v">37</span>And the liers in wait hasted, and rushed upon Gibeah; and
+  the liers in wait drew <span class="add">themselves</span> along, and smote
+  all the city with the edge of the sword. </p>
+id: JDG/20/37
+next:
+  id: JDG/20/38
+  number: '38'
+previous:
+  id: JDG/20/36
+  number: '36'
+reference: 'Judges 20:37'

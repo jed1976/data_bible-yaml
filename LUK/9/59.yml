@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="LUK 9:59" class="v">59</span>And
+  he said unto another, <span class="wj">Follow me.</span> But he said, Lord,
+  suffer me first to go and bury my father. </p>
+id: LUK/9/59
+next:
+  id: LUK/9/60
+  number: '60'
+previous:
+  id: LUK/9/58
+  number: '58'
+reference: 'Luke 9:59'

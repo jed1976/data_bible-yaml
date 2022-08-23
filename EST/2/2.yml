@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EST 2:2" class="v">2</span>Then
+  said the king’s servants that ministered unto him, Let there be fair young
+  virgins sought for the king: </p>
+id: EST/2/2
+next:
+  id: EST/2/3
+  number: '3'
+previous:
+  id: EST/2/1
+  number: '1'
+reference: 'Esther 2:2'

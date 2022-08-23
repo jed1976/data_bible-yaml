@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JAS 2:1" class="v">1</span>My
+  brethren, have not the faith of our Lord Jesus Christ, <span class="add">the
+  Lord</span> of glory, with respect of persons. </p>
+id: JAS/2/1
+next:
+  id: JAS/2/2
+  number: '2'
+previous:
+  id: JAS/1/27
+  number: '27'
+reference: 'James 2:1'

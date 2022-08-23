@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 27:1" class="v">1</span>And
+  it came to pass, that when Isaac was old, and his eyes were dim, so that he
+  could not see, he called Esau his eldest son, and said unto him, My son: and
+  he said unto him, Behold, <span class="add">here am</span> I. </p>
+id: GEN/27/1
+next:
+  id: GEN/27/2
+  number: '2'
+previous:
+  id: GEN/26/35
+  number: '35'
+reference: 'Genesis 27:1'

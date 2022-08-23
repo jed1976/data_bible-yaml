@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 86:5" class="v">5</span>For
+  thou, Lord, <span class="add">art</span> good, and ready to forgive; and
+  plenteous in mercy unto all them that call upon thee.</p>
+id: PSA/86/5
+next:
+  id: PSA/86/6
+  number: '6'
+previous:
+  id: PSA/86/4
+  number: '4'
+reference: 'Psalms 86:5'

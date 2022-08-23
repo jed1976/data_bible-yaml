@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LEV 20:10" class="v">10</span>¶
+  And the man that committeth adultery with <span class="add">another</span>
+  man’s wife, <span class="add">even he</span> that committeth adultery with his
+  neighbour’s wife, the adulterer and the adulteress shall surely be put to
+  death. </p>
+id: LEV/20/10
+next:
+  id: LEV/20/11
+  number: '11'
+previous:
+  id: LEV/20/9
+  number: '9'
+reference: 'Leviticus 20:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 4:21" class="v">21</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: NUM/4/21
+next:
+  id: NUM/4/22
+  number: '22'
+previous:
+  id: NUM/4/20
+  number: '20'
+reference: 'Numbers 4:21'

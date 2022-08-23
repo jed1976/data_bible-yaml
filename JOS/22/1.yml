@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 22:1" class="v">1</span>Then
+  Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
+  </p>
+id: JOS/22/1
+next:
+  id: JOS/22/2
+  number: '2'
+previous:
+  id: JOS/21/45
+  number: '45'
+reference: 'Joshua 22:1'

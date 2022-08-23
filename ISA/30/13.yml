@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 30:13"
+  class="v">13</span>Therefore this iniquity shall be to you as a breach ready
+  to fall, swelling out in a high wall, whose breaking cometh suddenly at an
+  instant. </p>
+id: ISA/30/13
+next:
+  id: ISA/30/14
+  number: '14'
+previous:
+  id: ISA/30/12
+  number: '12'
+reference: 'Isaiah 30:13'

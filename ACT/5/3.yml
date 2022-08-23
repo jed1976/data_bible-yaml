@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 5:3" class="v">3</span>But
+  Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy
+  Ghost, and to keep back <span class="add">part</span> of the price of the
+  land? </p>
+id: ACT/5/3
+next:
+  id: ACT/5/4
+  number: '4'
+previous:
+  id: ACT/5/2
+  number: '2'
+reference: 'Acts 5:3'

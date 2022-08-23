@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="JHN 7:50"
+  class="v">50</span>Nicodemus saith unto them, (he that came to Jesus by night,
+  being one of them,) </p>
+id: JHN/7/50
+next:
+  id: JHN/7/51
+  number: '51'
+previous:
+  id: JHN/7/49
+  number: '49'
+reference: 'John 7:50'

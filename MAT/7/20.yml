@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 7:20"
+  class="v">20</span><span class="wj">Wherefore by their fruits ye shall know
+  them.</span></p>
+id: MAT/7/20
+next:
+  id: MAT/7/21
+  number: '21'
+previous:
+  id: MAT/7/19
+  number: '19'
+reference: 'Matthew 7:20'

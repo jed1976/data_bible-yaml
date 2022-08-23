@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 49:20"
+  class="v">20</span>The children which thou shalt have, after thou hast lost
+  the other, shall say again in thine ears, The place <span
+  class="add">is</span> too strait for me: give place to me that I may dwell.
+  </p>
+id: ISA/49/20
+next:
+  id: ISA/49/21
+  number: '21'
+previous:
+  id: ISA/49/19
+  number: '19'
+reference: 'Isaiah 49:20'

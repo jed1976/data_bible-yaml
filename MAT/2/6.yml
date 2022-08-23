@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 2:6" class="v">6</span>And
+  thou Bethlehem, <span class="add">in</span> the land of Juda, art not the
+  least among the princes of Juda: for out of thee shall come a Governor, that
+  shall rule my people Israel. </p>
+id: MAT/2/6
+next:
+  id: MAT/2/7
+  number: '7'
+previous:
+  id: MAT/2/5
+  number: '5'
+reference: 'Matthew 2:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 49:10"
+  class="v">10</span>For he seeth <span class="add">that</span> wise men die,
+  likewise the fool and the brutish person perish, and leave their wealth to
+  others.</p>
+id: PSA/49/10
+next:
+  id: PSA/49/11
+  number: '11'
+previous:
+  id: PSA/49/9
+  number: '9'
+reference: 'Psalms 49:10'

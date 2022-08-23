@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 18:2"
+  class="v">2</span>Therefore shall they have no inheritance among their
+  brethren: the <span class="nd">LORD</span> <span class="add">is</span> their
+  inheritance, as he hath said unto them.</p>
+id: DEU/18/2
+next:
+  id: DEU/18/3
+  number: '3'
+previous:
+  id: DEU/18/1
+  number: '1'
+reference: 'Deuteronomy 18:2'

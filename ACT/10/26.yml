@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 10:26"
+  class="v">26</span>But Peter took him up, saying, Stand up; I myself also am a
+  man. </p>
+id: ACT/10/26
+next:
+  id: ACT/10/27
+  number: '27'
+previous:
+  id: ACT/10/25
+  number: '25'
+reference: 'Acts 10:26'

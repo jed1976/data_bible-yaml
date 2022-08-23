@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 5:21"
+  class="v">21</span>Hear now this, O foolish people, and without understanding;
+  which have eyes, and see not; which have ears, and hear not: </p>
+id: JER/5/21
+next:
+  id: JER/5/22
+  number: '22'
+previous:
+  id: JER/5/20
+  number: '20'
+reference: 'Jeremiah 5:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 5:7" class="v">7</span>Ye
+  shall no more give the people straw to make brick, as heretofore: let them go
+  and gather straw for themselves. </p>
+id: EXO/5/7
+next:
+  id: EXO/5/8
+  number: '8'
+previous:
+  id: EXO/5/6
+  number: '6'
+reference: 'Exodus 5:7'

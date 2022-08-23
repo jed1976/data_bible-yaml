@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 35:9" class="v">9</span>¶ And
+  God appeared unto Jacob again, when he came out of Padan-aram, and blessed
+  him. </p>
+id: GEN/35/9
+next:
+  id: GEN/35/10
+  number: '10'
+previous:
+  id: GEN/35/8
+  number: '8'
+reference: 'Genesis 35:9'

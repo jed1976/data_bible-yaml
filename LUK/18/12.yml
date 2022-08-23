@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 18:12"
+  class="v">12</span><span class="wj">I fast twice in the week, I give tithes of
+  all that I possess.</span> </p>
+id: LUK/18/12
+next:
+  id: LUK/18/13
+  number: '13'
+previous:
+  id: LUK/18/11
+  number: '11'
+reference: 'Luke 18:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 27:7" class="v">7</span>And
+  when we had sailed slowly many days, and scarce were come over against Cnidus,
+  the wind not suffering us, we sailed under Crete, over against Salmone; </p>
+id: ACT/27/7
+next:
+  id: ACT/27/8
+  number: '8'
+previous:
+  id: ACT/27/6
+  number: '6'
+reference: 'Acts 27:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 136:20"
+  class="v">20</span>And Og the king of Bashan: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/20
+next:
+  id: PSA/136/21
+  number: '21'
+previous:
+  id: PSA/136/19
+  number: '19'
+reference: 'Psalms 136:20'

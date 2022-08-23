@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 31:21" class="v">21</span>¶
+  And Eleazar the priest said unto the men of war which went to the battle, This
+  <span class="add">is</span> the ordinance of the law which the <span
+  class="nd">LORD</span> commanded Moses; </p>
+id: NUM/31/21
+next:
+  id: NUM/31/22
+  number: '22'
+previous:
+  id: NUM/31/20
+  number: '20'
+reference: 'Numbers 31:21'

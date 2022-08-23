@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 1:14"
+  class="v">14</span>Your new moons and your appointed feasts my soul hateth:
+  they are a trouble unto me; I am weary to bear <span class="add">them</span>.
+  </p>
+id: ISA/1/14
+next:
+  id: ISA/1/15
+  number: '15'
+previous:
+  id: ISA/1/13
+  number: '13'
+reference: 'Isaiah 1:14'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 1:15" class="v">15</span>Of
+  Naphtali; Ahira the son of Enan. </p>
+id: NUM/1/15
+next:
+  id: NUM/1/16
+  number: '16'
+previous:
+  id: NUM/1/14
+  number: '14'
+reference: 'Numbers 1:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 14:24"
+  class="v">24</span>And after they had passed throughout Pisidia, they came to
+  Pamphylia. </p>
+id: ACT/14/24
+next:
+  id: ACT/14/25
+  number: '25'
+previous:
+  id: ACT/14/23
+  number: '23'
+reference: 'Acts 14:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 15:4"
+  class="v">4</span>Behold, it is cast into the fire for fuel; the fire
+  devoureth both the ends of it, and the midst of it is burned. Is it meet for
+  <span class="add">any</span> work? </p>
+id: EZK/15/4
+next:
+  id: EZK/15/5
+  number: '5'
+previous:
+  id: EZK/15/3
+  number: '3'
+reference: 'Ezekiel 15:4'

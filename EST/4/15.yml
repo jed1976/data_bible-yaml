@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EST 4:15" class="v">15</span>¶
+  Then Esther bade <span class="add">them</span> return Mordecai <span
+  class="add">this answer</span>, </p>
+id: EST/4/15
+next:
+  id: EST/4/16
+  number: '16'
+previous:
+  id: EST/4/14
+  number: '14'
+reference: 'Esther 4:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 15:7" class="v">7</span>¶ If
+  there be among you a poor man of one of thy brethren within any of thy gates
+  in thy land which the <span class="nd">LORD</span> thy God giveth thee, thou
+  shalt not harden thine heart, nor shut thine hand from thy poor brother: </p>
+id: DEU/15/7
+next:
+  id: DEU/15/8
+  number: '8'
+previous:
+  id: DEU/15/6
+  number: '6'
+reference: 'Deuteronomy 15:7'

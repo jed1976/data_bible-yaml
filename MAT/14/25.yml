@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 14:25"
+  class="v">25</span>And in the fourth watch of the night Jesus went unto them,
+  walking on the sea. </p>
+id: MAT/14/25
+next:
+  id: MAT/14/26
+  number: '26'
+previous:
+  id: MAT/14/24
+  number: '24'
+reference: 'Matthew 14:25'

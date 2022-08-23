@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 38:9" class="v">9</span>¶ The
+  writing of Hezekiah king of Judah, when he had been sick, and was recovered of
+  his sickness: </p>
+id: ISA/38/9
+next:
+  id: ISA/38/10
+  number: '10'
+previous:
+  id: ISA/38/8
+  number: '8'
+reference: 'Isaiah 38:9'

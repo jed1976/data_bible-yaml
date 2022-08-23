@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JHN 8:38"
+  class="v">38</span><span class="wj">I speak that which I have seen with my
+  Father: and ye do that which ye have seen with your father.</span> </p>
+id: JHN/8/38
+next:
+  id: JHN/8/39
+  number: '39'
+previous:
+  id: JHN/8/37
+  number: '37'
+reference: 'John 8:38'

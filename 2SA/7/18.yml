@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2SA 7:18" class="v">18</span>¶
+  Then went king David in, and sat before the <span class="nd">LORD</span>, and
+  he said, Who <span class="add">am</span> I, O Lord <span
+  class="nd">GOD</span>? and what <span class="add">is</span> my house, that
+  thou hast brought me hitherto? </p>
+id: 2SA/7/18
+next:
+  id: 2SA/7/19
+  number: '19'
+previous:
+  id: 2SA/7/17
+  number: '17'
+reference: '2 Samuel 7:18'

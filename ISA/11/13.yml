@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 11:13"
+  class="v">13</span>The envy also of Ephraim shall depart, and the adversaries
+  of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not
+  vex Ephraim. </p>
+id: ISA/11/13
+next:
+  id: ISA/11/14
+  number: '14'
+previous:
+  id: ISA/11/12
+  number: '12'
+reference: 'Isaiah 11:13'

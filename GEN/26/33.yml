@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 26:33"
+  class="v">33</span>And he called it Shebah: therefore the name of the city
+  <span class="add">is</span> Beer-sheba unto this day.</p>
+id: GEN/26/33
+next:
+  id: GEN/26/34
+  number: '34'
+previous:
+  id: GEN/26/32
+  number: '32'
+reference: 'Genesis 26:33'

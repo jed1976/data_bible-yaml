@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 6:15"
+  class="v">15</span>Then these men assembled unto the king, and said unto the
+  king, Know, O king, that the law of the Medes and Persians <span
+  class="add">is</span>, That no decree nor statute which the king establisheth
+  may be changed. </p>
+id: DAN/6/15
+next:
+  id: DAN/6/16
+  number: '16'
+previous:
+  id: DAN/6/14
+  number: '14'
+reference: 'Daniel 6:15'

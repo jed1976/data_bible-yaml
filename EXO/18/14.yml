@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 18:14"
+  class="v">14</span>And when Moses’ father in law saw all that he did to the
+  people, he said, What <span class="add">is</span> this thing that thou doest
+  to the people? why sittest thou thyself alone, and all the people stand by
+  thee from morning unto even? </p>
+id: EXO/18/14
+next:
+  id: EXO/18/15
+  number: '15'
+previous:
+  id: EXO/18/13
+  number: '13'
+reference: 'Exodus 18:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 4:21"
+  class="v">21</span>Jesus saith unto her, <span class="wj">Woman, believe me,
+  the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem,
+  worship the Father.</span> </p>
+id: JHN/4/21
+next:
+  id: JHN/4/22
+  number: '22'
+previous:
+  id: JHN/4/20
+  number: '20'
+reference: 'John 4:21'

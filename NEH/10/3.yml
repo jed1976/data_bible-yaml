@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 10:3"
+  class="v">3</span>Pashur, Amariah, Malchijah, </p>
+id: NEH/10/3
+next:
+  id: NEH/10/4
+  number: '4'
+previous:
+  id: NEH/10/2
+  number: '2'
+reference: 'Nehemiah 10:3'

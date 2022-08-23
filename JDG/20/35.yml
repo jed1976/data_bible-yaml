@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JDG 20:35"
+  class="v">35</span>And the <span class="nd">LORD</span> smote Benjamin before
+  Israel: and the children of Israel destroyed of the Benjamites that day twenty
+  and five thousand and an hundred men: all these drew the sword. </p>
+id: JDG/20/35
+next:
+  id: JDG/20/36
+  number: '36'
+previous:
+  id: JDG/20/34
+  number: '34'
+reference: 'Judges 20:35'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 12:17"
+  class="v">17</span>The people therefore that was with him when he called
+  Lazarus out of his grave, and raised him from the dead, bare record. </p>
+id: JHN/12/17
+next:
+  id: JHN/12/18
+  number: '18'
+previous:
+  id: JHN/12/16
+  number: '16'
+reference: 'John 12:17'

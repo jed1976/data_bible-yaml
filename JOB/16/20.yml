@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 16:20" class="v">20</span>My
+  friends scorn me: <span class="add">but</span> mine eye poureth out <span
+  class="add">tears</span> unto God. </p>
+id: JOB/16/20
+next:
+  id: JOB/16/21
+  number: '21'
+previous:
+  id: JOB/16/19
+  number: '19'
+reference: 'Job 16:20'

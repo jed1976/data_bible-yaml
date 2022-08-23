@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2TH 3:8"
+  class="v">8</span>Neither did we eat any man’s bread for nought; but wrought
+  with labour and travail night and day, that we might not be chargeable to any
+  of you: </p>
+id: 2TH/3/8
+next:
+  id: 2TH/3/9
+  number: '9'
+previous:
+  id: 2TH/3/7
+  number: '7'
+reference: '2 Thessalonians 3:8'

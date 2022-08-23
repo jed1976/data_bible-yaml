@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 40:4" class="v">4</span>And
+  the captain of the guard charged Joseph with them, and he served them: and
+  they continued a season in ward.</p>
+id: GEN/40/4
+next:
+  id: GEN/40/5
+  number: '5'
+previous:
+  id: GEN/40/3
+  number: '3'
+reference: 'Genesis 40:4'

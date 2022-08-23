@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 2:3" class="v">3</span>And
+  the king said unto them, I have dreamed a dream, and my spirit was troubled to
+  know the dream. </p>
+id: DAN/2/3
+next:
+  id: DAN/2/4
+  number: '4'
+previous:
+  id: DAN/2/2
+  number: '2'
+reference: 'Daniel 2:3'

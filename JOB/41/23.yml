@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 41:23"
+  class="v">23</span>The flakes of his flesh are joined together: they are firm
+  in themselves; they cannot be moved. </p>
+id: JOB/41/23
+next:
+  id: JOB/41/24
+  number: '24'
+previous:
+  id: JOB/41/22
+  number: '22'
+reference: 'Job 41:23'

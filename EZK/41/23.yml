@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 41:23"
+  class="v">23</span>And the temple and the sanctuary had two doors. </p>
+id: EZK/41/23
+next:
+  id: EZK/41/24
+  number: '24'
+previous:
+  id: EZK/41/22
+  number: '22'
+reference: 'Ezekiel 41:23'

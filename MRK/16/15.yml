@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 16:15"
+  class="v">15</span>And he said unto them, <span class="wj">Go ye into all the
+  world, and preach the gospel to every creature.</span> </p>
+id: MRK/16/15
+next:
+  id: MRK/16/16
+  number: '16'
+previous:
+  id: MRK/16/14
+  number: '14'
+reference: 'Mark 16:15'

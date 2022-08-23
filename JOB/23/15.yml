@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 23:15"
+  class="v">15</span>Therefore am I troubled at his presence: when I consider, I
+  am afraid of him. </p>
+id: JOB/23/15
+next:
+  id: JOB/23/16
+  number: '16'
+previous:
+  id: JOB/23/14
+  number: '14'
+reference: 'Job 23:15'

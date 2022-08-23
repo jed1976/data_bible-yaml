@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 9:5" class="v">5</span>And
+  surely your blood of your lives will I require; at the hand of every beast
+  will I require it, and at the hand of man; at the hand of every man’s brother
+  will I require the life of man. </p>
+id: GEN/9/5
+next:
+  id: GEN/9/6
+  number: '6'
+previous:
+  id: GEN/9/4
+  number: '4'
+reference: 'Genesis 9:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 11:23" class="v">23</span>So
+  now the <span class="nd">LORD</span> God of Israel hath dispossessed the
+  Amorites from before his people Israel, and shouldest thou possess it? </p>
+id: JDG/11/23
+next:
+  id: JDG/11/24
+  number: '24'
+previous:
+  id: JDG/11/22
+  number: '22'
+reference: 'Judges 11:23'

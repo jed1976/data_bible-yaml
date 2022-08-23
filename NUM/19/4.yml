@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 19:4" class="v">4</span>And
+  Eleazar the priest shall take of her blood with his finger, and sprinkle of
+  her blood directly before the tabernacle of the congregation seven times: </p>
+id: NUM/19/4
+next:
+  id: NUM/19/5
+  number: '5'
+previous:
+  id: NUM/19/3
+  number: '3'
+reference: 'Numbers 19:4'

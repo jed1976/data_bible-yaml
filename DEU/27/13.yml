@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 27:13"
+  class="v">13</span>And these shall stand upon mount Ebal to curse; Reuben,
+  Gad, and Asher, and Zebulun, Dan, and Naphtali.</p>
+id: DEU/27/13
+next:
+  id: DEU/27/14
+  number: '14'
+previous:
+  id: DEU/27/12
+  number: '12'
+reference: 'Deuteronomy 27:13'

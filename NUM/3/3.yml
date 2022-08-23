@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 3:3" class="v">3</span>These
+  <span class="add">are</span> the names of the sons of Aaron, the priests which
+  were anointed, whom he consecrated to minister in the priest’s office. </p>
+id: NUM/3/3
+next:
+  id: NUM/3/4
+  number: '4'
+previous:
+  id: NUM/3/2
+  number: '2'
+reference: 'Numbers 3:3'

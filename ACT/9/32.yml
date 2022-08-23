@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 9:32" class="v">32</span>¶
+  And it came to pass, as Peter passed throughout all <span
+  class="add">quarters</span>, he came down also to the saints which dwelt at
+  Lydda. </p>
+id: ACT/9/32
+next:
+  id: ACT/9/33
+  number: '33'
+previous:
+  id: ACT/9/31
+  number: '31'
+reference: 'Acts 9:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 48:7" class="v">7</span>They
+  are created now, and not from the beginning; even before the day when thou
+  heardest them not; lest thou shouldest say, Behold, I knew them. </p>
+id: ISA/48/7
+next:
+  id: ISA/48/8
+  number: '8'
+previous:
+  id: ISA/48/6
+  number: '6'
+reference: 'Isaiah 48:7'

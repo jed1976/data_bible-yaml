@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 10:20"
+  class="v">20</span>And when Moses heard <span class="add">that</span>, he was
+  content.</p>
+id: LEV/10/20
+next:
+  id: LEV/11/1
+  number: '1'
+previous:
+  id: LEV/10/19
+  number: '19'
+reference: 'Leviticus 10:20'

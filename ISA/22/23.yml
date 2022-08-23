@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 22:23"
+  class="v">23</span>And I will fasten him <span class="add">as</span> a nail in
+  a sure place; and he shall be for a glorious throne to his father’s house.
+  </p>
+id: ISA/22/23
+next:
+  id: ISA/22/24
+  number: '24'
+previous:
+  id: ISA/22/22
+  number: '22'
+reference: 'Isaiah 22:23'

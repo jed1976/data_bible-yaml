@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 21:15" class="v">15</span>¶
+  If a man have two wives, one beloved, and another hated, and they have born
+  him children, <span class="add">both</span> the beloved and the hated; and
+  <span class="add">if</span> the firstborn son be hers that was hated: </p>
+id: DEU/21/15
+next:
+  id: DEU/21/16
+  number: '16'
+previous:
+  id: DEU/21/14
+  number: '14'
+reference: 'Deuteronomy 21:15'

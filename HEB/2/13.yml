@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 2:13" class="v">13</span>And
+  again, I will put my trust in him. And again, Behold I and the children which
+  God hath given me. </p>
+id: HEB/2/13
+next:
+  id: HEB/2/14
+  number: '14'
+previous:
+  id: HEB/2/12
+  number: '12'
+reference: 'Hebrews 2:13'

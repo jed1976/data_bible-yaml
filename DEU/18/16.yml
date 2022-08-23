@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 18:16"
+  class="v">16</span>According to all that thou desiredst of the <span
+  class="nd">LORD</span> thy God in Horeb in the day of the assembly, saying,
+  Let me not hear again the voice of the <span class="nd">LORD</span> my God,
+  neither let me see this great fire any more, that I die not. </p>
+id: DEU/18/16
+next:
+  id: DEU/18/17
+  number: '17'
+previous:
+  id: DEU/18/15
+  number: '15'
+reference: 'Deuteronomy 18:16'

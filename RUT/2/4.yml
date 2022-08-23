@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="RUT 2:4" class="v">4</span>¶ And,
+  behold, Boaz came from Beth-lehem, and said unto the reapers, The <span
+  class="nd">LORD</span> <span class="add">be</span> with you. And they answered
+  him, The <span class="nd">LORD</span> bless thee. </p>
+id: RUT/2/4
+next:
+  id: RUT/2/5
+  number: '5'
+previous:
+  id: RUT/2/3
+  number: '3'
+reference: 'Ruth 2:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 4:3" class="v">3</span>How
+  great <span class="add">are</span> his signs! and how mighty <span
+  class="add">are</span> his wonders! his kingdom <span class="add">is</span> an
+  everlasting kingdom, and his dominion <span class="add">is</span> from
+  generation to generation.</p>
+id: DAN/4/3
+next:
+  id: DAN/4/4
+  number: '4'
+previous:
+  id: DAN/4/2
+  number: '2'
+reference: 'Daniel 4:3'

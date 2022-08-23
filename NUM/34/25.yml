@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 34:25"
+  class="v">25</span>And the prince of the tribe of the children of Zebulun,
+  Elizaphan the son of Parnach. </p>
+id: NUM/34/25
+next:
+  id: NUM/34/26
+  number: '26'
+previous:
+  id: NUM/34/24
+  number: '24'
+reference: 'Numbers 34:25'

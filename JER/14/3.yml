@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 14:3" class="v">3</span>And
+  their nobles have sent their little ones to the waters: they came to the pits,
+  <span class="add">and</span> found no water; they returned with their vessels
+  empty; they were ashamed and confounded, and covered their heads. </p>
+id: JER/14/3
+next:
+  id: JER/14/4
+  number: '4'
+previous:
+  id: JER/14/2
+  number: '2'
+reference: 'Jeremiah 14:3'

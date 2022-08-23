@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 20:4" class="v">4</span>Thou
+  shalt not make unto thee any graven image, or any likeness <span
+  class="add">of any thing</span> that <span class="add">is</span> in heaven
+  above, or that <span class="add">is</span> in the earth beneath, or that <span
+  class="add">is</span> in the water under the earth: </p>
+id: EXO/20/4
+next:
+  id: EXO/20/5
+  number: '5'
+previous:
+  id: EXO/20/3
+  number: '3'
+reference: 'Exodus 20:4'

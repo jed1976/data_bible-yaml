@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="DEU 1:37"
+  class="v">37</span>Also the <span class="nd">LORD</span> was angry with me for
+  your sakes, saying, Thou also shalt not go in thither. </p>
+id: DEU/1/37
+next:
+  id: DEU/1/38
+  number: '38'
+previous:
+  id: DEU/1/36
+  number: '36'
+reference: 'Deuteronomy 1:37'

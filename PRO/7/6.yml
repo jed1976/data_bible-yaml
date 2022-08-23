@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 7:6" class="v">6</span>¶ For
+  at the window of my house I looked through my casement, </p>
+id: PRO/7/6
+next:
+  id: PRO/7/7
+  number: '7'
+previous:
+  id: PRO/7/5
+  number: '5'
+reference: 'Proverbs 7:6'

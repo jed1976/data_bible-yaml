@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 13:3" class="v">3</span>And
+  he spake many things unto them in parables, saying, <span class="wj">Behold, a
+  sower went forth to sow;</span> </p>
+id: MAT/13/3
+next:
+  id: MAT/13/4
+  number: '4'
+previous:
+  id: MAT/13/2
+  number: '2'
+reference: 'Matthew 13:3'

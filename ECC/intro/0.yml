@@ -1,0 +1,9 @@
+content: '<p class="mt1">Ecclesiastes or, the Preacher</p>'
+id: ECC/intro/0
+next:
+  id: ECC/1/1
+  number: '1'
+previous:
+  id: PRO/31/31
+  number: '31'
+reference: Ecclesiastes

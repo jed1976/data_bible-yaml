@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ECC 9:13" class="v">13</span>¶
+  This wisdom have I seen also under the sun, and it <span
+  class="add">seemed</span> great unto me: </p>
+id: ECC/9/13
+next:
+  id: ECC/9/14
+  number: '14'
+previous:
+  id: ECC/9/12
+  number: '12'
+reference: 'Ecclesiastes 9:13'

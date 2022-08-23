@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="NUM 26:55"
+  class="v">55</span>Notwithstanding the land shall be divided by lot: according
+  to the names of the tribes of their fathers they shall inherit. </p>
+id: NUM/26/55
+next:
+  id: NUM/26/56
+  number: '56'
+previous:
+  id: NUM/26/54
+  number: '54'
+reference: 'Numbers 26:55'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 4:30"
+  class="v">30</span>From thirty years old and upward even unto fifty years old
+  shalt thou number them, every one that entereth into the service, to do the
+  work of the tabernacle of the congregation. </p>
+id: NUM/4/30
+next:
+  id: NUM/4/31
+  number: '31'
+previous:
+  id: NUM/4/29
+  number: '29'
+reference: 'Numbers 4:30'

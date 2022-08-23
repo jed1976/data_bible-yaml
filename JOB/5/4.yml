@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 5:4" class="v">4</span>His
+  children are far from safety, and they are crushed in the gate, neither <span
+  class="add">is there</span> any to deliver <span class="add">them</span>. </p>
+id: JOB/5/4
+next:
+  id: JOB/5/5
+  number: '5'
+previous:
+  id: JOB/5/3
+  number: '3'
+reference: 'Job 5:4'

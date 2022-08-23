@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 6:21"
+  class="v">21</span>Then they willingly received him into the ship: and
+  immediately the ship was at the land whither they went.</p>
+id: JHN/6/21
+next:
+  id: JHN/6/22
+  number: '22'
+previous:
+  id: JHN/6/20
+  number: '20'
+reference: 'John 6:21'

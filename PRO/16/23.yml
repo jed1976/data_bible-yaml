@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 16:23"
+  class="v">23</span>The heart of the wise teacheth his mouth, and addeth
+  learning to his lips. </p>
+id: PRO/16/23
+next:
+  id: PRO/16/24
+  number: '24'
+previous:
+  id: PRO/16/22
+  number: '22'
+reference: 'Proverbs 16:23'

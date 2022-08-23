@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 17:7" class="v">7</span>Now
+  therefore thus shalt thou say unto my servant David, Thus saith the <span
+  class="nd">LORD</span> of hosts, I took thee from the sheepcote, <span
+  class="add">even</span> from following the sheep, that thou shouldest be ruler
+  over my people Israel: </p>
+id: 1CH/17/7
+next:
+  id: 1CH/17/8
+  number: '8'
+previous:
+  id: 1CH/17/6
+  number: '6'
+reference: '1 Chronicles 17:7'

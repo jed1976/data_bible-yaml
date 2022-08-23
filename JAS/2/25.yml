@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JAS 2:25"
+  class="v">25</span>Likewise also was not Rahab the harlot justified by works,
+  when she had received the messengers, and had sent <span
+  class="add">them</span> out another way? </p>
+id: JAS/2/25
+next:
+  id: JAS/2/26
+  number: '26'
+previous:
+  id: JAS/2/24
+  number: '24'
+reference: 'James 2:25'

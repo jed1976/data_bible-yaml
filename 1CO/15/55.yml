@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="1CO 15:55" class="v">55</span>O
+  death, where <span class="add">is</span> thy sting? O grave, where <span
+  class="add">is</span> thy victory? </p>
+id: 1CO/15/55
+next:
+  id: 1CO/15/56
+  number: '56'
+previous:
+  id: 1CO/15/54
+  number: '54'
+reference: '1 Corinthians 15:55'

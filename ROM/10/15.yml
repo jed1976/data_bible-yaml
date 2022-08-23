@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 10:15"
+  class="v">15</span>And how shall they preach, except they be sent? as it is
+  written, How beautiful are the feet of them that preach the gospel of peace,
+  and bring glad tidings of good things! </p>
+id: ROM/10/15
+next:
+  id: ROM/10/16
+  number: '16'
+previous:
+  id: ROM/10/14
+  number: '14'
+reference: 'Romans 10:15'

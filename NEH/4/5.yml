@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 4:5" class="v">5</span>And
+  cover not their iniquity, and let not their sin be blotted out from before
+  thee: for they have provoked <span class="add">thee</span> to anger before the
+  builders. </p>
+id: NEH/4/5
+next:
+  id: NEH/4/6
+  number: '6'
+previous:
+  id: NEH/4/4
+  number: '4'
+reference: 'Nehemiah 4:5'

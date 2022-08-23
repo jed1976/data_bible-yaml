@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="RUT 1:12"
+  class="v">12</span>Turn again, my daughters, go <span class="add">your
+  way;</span> for I am too old to have an husband. If I should say, I have hope,
+  <span class="add">if</span> I should have an husband also to night, and should
+  also bear sons; </p>
+id: RUT/1/12
+next:
+  id: RUT/1/13
+  number: '13'
+previous:
+  id: RUT/1/11
+  number: '11'
+reference: 'Ruth 1:12'

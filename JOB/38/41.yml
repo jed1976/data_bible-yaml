@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JOB 38:41"
+  class="v">41</span>Who provideth for the raven his food? when his young ones
+  cry unto God, they wander for lack of meat.</p>
+id: JOB/38/41
+next:
+  id: JOB/39/1
+  number: '1'
+previous:
+  id: JOB/38/40
+  number: '40'
+reference: 'Job 38:41'

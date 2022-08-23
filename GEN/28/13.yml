@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 28:13"
+  class="v">13</span>And, behold, the <span class="nd">LORD</span> stood above
+  it, and said, I <span class="add">am</span> the <span class="nd">LORD</span>
+  God of Abraham thy father, and the God of Isaac: the land whereon thou liest,
+  to thee will I give it, and to thy seed; </p>
+id: GEN/28/13
+next:
+  id: GEN/28/14
+  number: '14'
+previous:
+  id: GEN/28/12
+  number: '12'
+reference: 'Genesis 28:13'

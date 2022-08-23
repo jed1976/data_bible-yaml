@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 15:25"
+  class="v">25</span>Then came she and worshipped him, saying, Lord, help me.
+  </p>
+id: MAT/15/25
+next:
+  id: MAT/15/26
+  number: '26'
+previous:
+  id: MAT/15/24
+  number: '24'
+reference: 'Matthew 15:25'

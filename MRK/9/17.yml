@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 9:17" class="v">17</span>And
+  one of the multitude answered and said, Master, I have brought unto thee my
+  son, which hath a dumb spirit; </p>
+id: MRK/9/17
+next:
+  id: MRK/9/18
+  number: '18'
+previous:
+  id: MRK/9/16
+  number: '16'
+reference: 'Mark 9:17'

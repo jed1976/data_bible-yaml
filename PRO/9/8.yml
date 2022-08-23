@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 9:8"
+  class="v">8</span>Reprove not a scorner, lest he hate thee: rebuke a wise man,
+  and he will love thee. </p>
+id: PRO/9/8
+next:
+  id: PRO/9/9
+  number: '9'
+previous:
+  id: PRO/9/7
+  number: '7'
+reference: 'Proverbs 9:8'

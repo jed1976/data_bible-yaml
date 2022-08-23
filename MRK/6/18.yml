@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 6:18" class="v">18</span>For
+  John had said unto Herod, It is not lawful for thee to have thy brother’s
+  wife. </p>
+id: MRK/6/18
+next:
+  id: MRK/6/19
+  number: '19'
+previous:
+  id: MRK/6/17
+  number: '17'
+reference: 'Mark 6:18'

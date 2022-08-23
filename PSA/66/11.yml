@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 66:11"
+  class="v">11</span>Thou broughtest us into the net; thou laidst affliction
+  upon our loins.</p>
+id: PSA/66/11
+next:
+  id: PSA/66/12
+  number: '12'
+previous:
+  id: PSA/66/10
+  number: '10'
+reference: 'Psalms 66:11'

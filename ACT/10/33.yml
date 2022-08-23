@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 10:33"
+  class="v">33</span>Immediately therefore I sent to thee; and thou hast well
+  done that thou art come. Now therefore are we all here present before God, to
+  hear all things that are commanded thee of God.</p>
+id: ACT/10/33
+next:
+  id: ACT/10/34
+  number: '34'
+previous:
+  id: ACT/10/32
+  number: '32'
+reference: 'Acts 10:33'

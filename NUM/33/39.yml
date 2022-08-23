@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="NUM 33:39"
+  class="v">39</span>And Aaron <span class="add">was</span> an hundred and
+  twenty and three years old when he died in mount Hor. </p>
+id: NUM/33/39
+next:
+  id: NUM/33/40
+  number: '40'
+previous:
+  id: NUM/33/38
+  number: '38'
+reference: 'Numbers 33:39'

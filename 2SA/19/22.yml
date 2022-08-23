@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 19:22"
+  class="v">22</span>And David said, What have I to do with you, ye sons of
+  Zeruiah, that ye should this day be adversaries unto me? shall there any man
+  be put to death this day in Israel? for do not I know that I <span
+  class="add">am</span> this day king over Israel? </p>
+id: 2SA/19/22
+next:
+  id: 2SA/19/23
+  number: '23'
+previous:
+  id: 2SA/19/21
+  number: '21'
+reference: '2 Samuel 19:22'

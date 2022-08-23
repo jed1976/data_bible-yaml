@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 2:5" class="v">5</span>But
+  put forth thine hand now, and touch his bone and his flesh, and he will curse
+  thee to thy face. </p>
+id: JOB/2/5
+next:
+  id: JOB/2/6
+  number: '6'
+previous:
+  id: JOB/2/4
+  number: '4'
+reference: 'Job 2:5'

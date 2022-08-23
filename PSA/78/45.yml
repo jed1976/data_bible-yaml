@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="45" data-sid="PSA 78:45"
+  class="v">45</span>He sent divers sorts of flies among them, which devoured
+  them; and frogs, which destroyed them.</p>
+id: PSA/78/45
+next:
+  id: PSA/78/46
+  number: '46'
+previous:
+  id: PSA/78/44
+  number: '44'
+reference: 'Psalms 78:45'

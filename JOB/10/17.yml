@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 10:17"
+  class="v">17</span>Thou renewest thy witnesses against me, and increasest
+  thine indignation upon me; changes and war <span class="add">are</span>
+  against me. </p>
+id: JOB/10/17
+next:
+  id: JOB/10/18
+  number: '18'
+previous:
+  id: JOB/10/16
+  number: '16'
+reference: 'Job 10:17'

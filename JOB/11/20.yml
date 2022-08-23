@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 11:20"
+  class="v">20</span>But the eyes of the wicked shall fail, and they shall not
+  escape, and their hope <span class="add">shall be as</span> the giving up of
+  the ghost.</p>
+id: JOB/11/20
+next:
+  id: JOB/12/1
+  number: '1'
+previous:
+  id: JOB/11/19
+  number: '19'
+reference: 'Job 11:20'

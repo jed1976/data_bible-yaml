@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NUM 33:49"
+  class="v">49</span>And they pitched by Jordan, from Beth-jesimoth <span
+  class="add">even</span> unto Abel-shittim in the plains of Moab.</p>
+id: NUM/33/49
+next:
+  id: NUM/33/50
+  number: '50'
+previous:
+  id: NUM/33/48
+  number: '48'
+reference: 'Numbers 33:49'

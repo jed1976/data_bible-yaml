@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 80:13"
+  class="v">13</span>The boar out of the wood doth waste it, and the wild beast
+  of the field doth devour it.</p>
+id: PSA/80/13
+next:
+  id: PSA/80/14
+  number: '14'
+previous:
+  id: PSA/80/12
+  number: '12'
+reference: 'Psalms 80:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 2:10" class="v">10</span>And
+  also all that generation were gathered unto their fathers: and there arose
+  another generation after them, which knew not the <span
+  class="nd">LORD</span>, nor yet the works which he had done for Israel.</p>
+id: JDG/2/10
+next:
+  id: JDG/2/11
+  number: '11'
+previous:
+  id: JDG/2/9
+  number: '9'
+reference: 'Judges 2:10'

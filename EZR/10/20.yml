@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZR 10:20"
+  class="v">20</span>And of the sons of Immer; Hanani, and Zebadiah. </p>
+id: EZR/10/20
+next:
+  id: EZR/10/21
+  number: '21'
+previous:
+  id: EZR/10/19
+  number: '19'
+reference: 'Ezra 10:20'

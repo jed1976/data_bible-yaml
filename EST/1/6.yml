@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 1:6" class="v">6</span><span
+  class="add">Where were</span> white, green, and blue, <span
+  class="add">hangings</span>, fastened with cords of fine linen and purple to
+  silver rings and pillars of marble: the beds <span class="add">were of</span>
+  gold and silver, upon a pavement of red, and blue, and white, and black,
+  marble. </p>
+id: EST/1/6
+next:
+  id: EST/1/7
+  number: '7'
+previous:
+  id: EST/1/5
+  number: '5'
+reference: 'Esther 1:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 17:5" class="v">5</span>¶
+  Then the king of Assyria came up throughout all the land, and went up to
+  Samaria, and besieged it three years.</p>
+id: 2KI/17/5
+next:
+  id: 2KI/17/6
+  number: '6'
+previous:
+  id: 2KI/17/4
+  number: '4'
+reference: '2 Kings 17:5'

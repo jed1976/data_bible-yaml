@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 123:3"
+  class="v">3</span>Have mercy upon us, O <span class="nd">LORD</span>, have
+  mercy upon us: for we are exceedingly filled with contempt.</p>
+id: PSA/123/3
+next:
+  id: PSA/123/4
+  number: '4'
+previous:
+  id: PSA/123/2
+  number: '2'
+reference: 'Psalms 123:3'

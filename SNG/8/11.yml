@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 8:11"
+  class="v">11</span>Solomon had a vineyard at Baal-hamon; he let out the
+  vineyard unto keepers; every one for the fruit thereof was to bring a thousand
+  <span class="add">pieces</span> of silver. </p>
+id: SNG/8/11
+next:
+  id: SNG/8/12
+  number: '12'
+previous:
+  id: SNG/8/10
+  number: '10'
+reference: 'Song of Solomon 8:11'

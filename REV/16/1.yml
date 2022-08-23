@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 16:1" class="v">1</span>And I
+  heard a great voice out of the temple saying to the seven angels, Go your
+  ways, and pour out the vials of the wrath of God upon the earth. </p>
+id: REV/16/1
+next:
+  id: REV/16/2
+  number: '2'
+previous:
+  id: REV/15/8
+  number: '8'
+reference: 'Revelation 16:1'

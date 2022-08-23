@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 129:4" class="v">4</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> righteous: he hath
+  cut asunder the cords of the wicked.</p>
+id: PSA/129/4
+next:
+  id: PSA/129/5
+  number: '5'
+previous:
+  id: PSA/129/3
+  number: '3'
+reference: 'Psalms 129:4'

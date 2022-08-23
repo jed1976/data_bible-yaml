@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ECC 5:2" class="v">2</span>Be not
+  rash with thy mouth, and let not thine heart be hasty to utter <span
+  class="add">any</span> thing before God: for God <span class="add">is</span>
+  in heaven, and thou upon earth: therefore let thy words be few. </p>
+id: ECC/5/2
+next:
+  id: ECC/5/3
+  number: '3'
+previous:
+  id: ECC/5/1
+  number: '1'
+reference: 'Ecclesiastes 5:2'

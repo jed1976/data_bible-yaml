@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 6:15" class="v">15</span>For
+  in Christ Jesus neither circumcision availeth any thing, nor uncircumcision,
+  but a new creature. </p>
+id: GAL/6/15
+next:
+  id: GAL/6/16
+  number: '16'
+previous:
+  id: GAL/6/14
+  number: '14'
+reference: 'Galatians 6:15'

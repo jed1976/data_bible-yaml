@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 31:2" class="v">2</span>For
+  what portion of God <span class="add">is there</span> from above? and <span
+  class="add">what</span> inheritance of the Almighty from on high? </p>
+id: JOB/31/2
+next:
+  id: JOB/31/3
+  number: '3'
+previous:
+  id: JOB/31/1
+  number: '1'
+reference: 'Job 31:2'

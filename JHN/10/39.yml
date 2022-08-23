@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="JHN 10:39"
+  class="v">39</span>Therefore they sought again to take him: but he escaped out
+  of their hand, </p>
+id: JHN/10/39
+next:
+  id: JHN/10/40
+  number: '40'
+previous:
+  id: JHN/10/38
+  number: '38'
+reference: 'John 10:39'

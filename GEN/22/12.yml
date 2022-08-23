@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 22:12"
+  class="v">12</span>And he said, Lay not thine hand upon the lad, neither do
+  thou any thing unto him: for now I know that thou fearest God, seeing thou
+  hast not withheld thy son, thine only <span class="add">son</span> from me.
+  </p>
+id: GEN/22/12
+next:
+  id: GEN/22/13
+  number: '13'
+previous:
+  id: GEN/22/11
+  number: '11'
+reference: 'Genesis 22:12'

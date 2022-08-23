@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 17:16"
+  class="v">16</span>Now therefore send quickly, and tell David, saying, Lodge
+  not this night in the plains of the wilderness, but speedily pass over; lest
+  the king be swallowed up, and all the people that <span class="add">are</span>
+  with him. </p>
+id: 2SA/17/16
+next:
+  id: 2SA/17/17
+  number: '17'
+previous:
+  id: 2SA/17/15
+  number: '15'
+reference: '2 Samuel 17:16'

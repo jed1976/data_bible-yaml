@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 14:3" class="v">3</span>¶
+  Thou shalt not eat any abominable thing. </p>
+id: DEU/14/3
+next:
+  id: DEU/14/4
+  number: '4'
+previous:
+  id: DEU/14/2
+  number: '2'
+reference: 'Deuteronomy 14:3'

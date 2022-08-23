@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="JHN 8:54"
+  class="v">54</span>Jesus answered, <span class="wj">If I honour myself, my
+  honour is nothing: it is my Father that honoureth me; of whom ye say, that he
+  is your God:</span> </p>
+id: JHN/8/54
+next:
+  id: JHN/8/55
+  number: '55'
+previous:
+  id: JHN/8/53
+  number: '53'
+reference: 'John 8:54'

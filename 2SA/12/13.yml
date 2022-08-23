@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 12:13"
+  class="v">13</span>And David said unto Nathan, I have sinned against the <span
+  class="nd">LORD</span>. And Nathan said unto David, The <span
+  class="nd">LORD</span> also hath put away thy sin; thou shalt not die. </p>
+id: 2SA/12/13
+next:
+  id: 2SA/12/14
+  number: '14'
+previous:
+  id: 2SA/12/12
+  number: '12'
+reference: '2 Samuel 12:13'

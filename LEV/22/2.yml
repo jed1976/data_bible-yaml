@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 22:2" class="v">2</span>Speak
+  unto Aaron and to his sons, that they separate themselves from the holy things
+  of the children of Israel, and that they profane not my holy name <span
+  class="add">in those things</span> which they hallow unto me: I <span
+  class="add">am</span> the <span class="nd">LORD</span>. </p>
+id: LEV/22/2
+next:
+  id: LEV/22/3
+  number: '3'
+previous:
+  id: LEV/22/1
+  number: '1'
+reference: 'Leviticus 22:2'

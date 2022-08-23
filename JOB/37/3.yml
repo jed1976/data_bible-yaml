@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 37:3" class="v">3</span>He
+  directeth it under the whole heaven, and his lightning unto the ends of the
+  earth. </p>
+id: JOB/37/3
+next:
+  id: JOB/37/4
+  number: '4'
+previous:
+  id: JOB/37/2
+  number: '2'
+reference: 'Job 37:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 13:13"
+  class="v">13</span><span class="wj">And ye shall be hated of all <span
+  class="add">men</span> for my name’s sake: but he that shall endure unto the
+  end, the same shall be saved.</span></p>
+id: MRK/13/13
+next:
+  id: MRK/13/14
+  number: '14'
+previous:
+  id: MRK/13/12
+  number: '12'
+reference: 'Mark 13:13'

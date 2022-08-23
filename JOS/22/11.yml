@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 22:11" class="v">11</span>¶
+  And the children of Israel heard say, Behold, the children of Reuben and the
+  children of Gad and the half tribe of Manasseh have built an altar over
+  against the land of Canaan, in the borders of Jordan, at the passage of the
+  children of Israel. </p>
+id: JOS/22/11
+next:
+  id: JOS/22/12
+  number: '12'
+previous:
+  id: JOS/22/10
+  number: '10'
+reference: 'Joshua 22:11'

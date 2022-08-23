@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 16:1" class="v">1</span>In
+  the six and thirtieth year of the reign of Asa Baasha king of Israel came up
+  against Judah, and built Ramah, to the intent that he might let none go out or
+  come in to Asa king of Judah. </p>
+id: 2CH/16/1
+next:
+  id: 2CH/16/2
+  number: '2'
+previous:
+  id: 2CH/15/19
+  number: '19'
+reference: '2 Chronicles 16:1'

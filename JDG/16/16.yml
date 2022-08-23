@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 16:16"
+  class="v">16</span>And it came to pass, when she pressed him daily with her
+  words, and urged him, <span class="add">so</span> that his soul was vexed unto
+  death; </p>
+id: JDG/16/16
+next:
+  id: JDG/16/17
+  number: '17'
+previous:
+  id: JDG/16/15
+  number: '15'
+reference: 'Judges 16:16'

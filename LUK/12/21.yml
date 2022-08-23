@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 12:21"
+  class="v">21</span><span class="wj">So <span class="add">is</span> he that
+  layeth up treasure for himself, and is not rich toward God.</span></p>
+id: LUK/12/21
+next:
+  id: LUK/12/22
+  number: '22'
+previous:
+  id: LUK/12/20
+  number: '20'
+reference: 'Luke 12:21'

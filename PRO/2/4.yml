@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 2:4" class="v">4</span>If
+  thou seekest her as silver, and searchest for her as <span
+  class="add">for</span> hid treasures; </p>
+id: PRO/2/4
+next:
+  id: PRO/2/5
+  number: '5'
+previous:
+  id: PRO/2/3
+  number: '3'
+reference: 'Proverbs 2:4'

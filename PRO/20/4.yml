@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 20:4" class="v">4</span>The
+  sluggard will not plow by reason of the cold; <span
+  class="add">therefore</span> shall he beg in harvest, and <span
+  class="add">have</span> nothing. </p>
+id: PRO/20/4
+next:
+  id: PRO/20/5
+  number: '5'
+previous:
+  id: PRO/20/3
+  number: '3'
+reference: 'Proverbs 20:4'

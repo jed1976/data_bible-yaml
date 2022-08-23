@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 5:6"
+  class="v">6</span>Wherefore a lion out of the forest shall slay them, <span
+  class="add">and</span> a wolf of the evenings shall spoil them, a leopard
+  shall watch over their cities: every one that goeth out thence shall be torn
+  in pieces: because their transgressions are many, <span class="add">and</span>
+  their backslidings are increased.</p>
+id: JER/5/6
+next:
+  id: JER/5/7
+  number: '7'
+previous:
+  id: JER/5/5
+  number: '5'
+reference: 'Jeremiah 5:6'

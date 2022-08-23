@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2SA 2:32" class="v">32</span>¶
+  And they took up Asahel, and buried him in the sepulchre of his father, which
+  <span class="add">was in</span> Beth-lehem. And Joab and his men went all
+  night, and they came to Hebron at break of day.</p>
+id: 2SA/2/32
+next:
+  id: 2SA/3/1
+  number: '1'
+previous:
+  id: 2SA/2/31
+  number: '31'
+reference: '2 Samuel 2:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 20:12"
+  class="v">12</span>And they brought the young man alive, and were not a little
+  comforted.</p>
+id: ACT/20/12
+next:
+  id: ACT/20/13
+  number: '13'
+previous:
+  id: ACT/20/11
+  number: '11'
+reference: 'Acts 20:12'

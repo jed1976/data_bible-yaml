@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JAS 1:7" class="v">7</span>For
+  let not that man think that he shall receive any thing of the Lord. </p>
+id: JAS/1/7
+next:
+  id: JAS/1/8
+  number: '8'
+previous:
+  id: JAS/1/6
+  number: '6'
+reference: 'James 1:7'

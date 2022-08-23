@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 16:11"
+  class="v">11</span>For which cause <span class="add">both</span> thou and all
+  thy company <span class="add">are</span> gathered together against the <span
+  class="nd">LORD</span>: and what <span class="add">is</span> Aaron, that ye
+  murmur against him?</p>
+id: NUM/16/11
+next:
+  id: NUM/16/12
+  number: '12'
+previous:
+  id: NUM/16/10
+  number: '10'
+reference: 'Numbers 16:11'

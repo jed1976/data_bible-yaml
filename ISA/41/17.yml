@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 41:17"
+  class="v">17</span><span class="add">When</span> the poor and needy seek
+  water, and <span class="add">there is</span> none, <span
+  class="add">and</span> their tongue faileth for thirst, I the <span
+  class="nd">LORD</span> will hear them, I the God of Israel will not forsake
+  them. </p>
+id: ISA/41/17
+next:
+  id: ISA/41/18
+  number: '18'
+previous:
+  id: ISA/41/16
+  number: '16'
+reference: 'Isaiah 41:17'

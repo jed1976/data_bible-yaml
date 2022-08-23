@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 5:29" class="v">29</span>And
+  he called his name Noah, saying, This <span class="add">same</span> shall
+  comfort us concerning our work and toil of our hands, because of the ground
+  which the <span class="nd">LORD</span> hath cursed. </p>
+id: GEN/5/29
+next:
+  id: GEN/5/30
+  number: '30'
+previous:
+  id: GEN/5/28
+  number: '28'
+reference: 'Genesis 5:29'

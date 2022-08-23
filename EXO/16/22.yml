@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 16:22" class="v">22</span>¶
+  And it came to pass, <span class="add">that</span> on the sixth day they
+  gathered twice as much bread, two omers for one <span class="add">man:</span>
+  and all the rulers of the congregation came and told Moses. </p>
+id: EXO/16/22
+next:
+  id: EXO/16/23
+  number: '23'
+previous:
+  id: EXO/16/21
+  number: '21'
+reference: 'Exodus 16:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 37:21"
+  class="v">21</span>And Reuben heard <span class="add">it</span>, and he
+  delivered him out of their hands; and said, Let us not kill him. </p>
+id: GEN/37/21
+next:
+  id: GEN/37/22
+  number: '22'
+previous:
+  id: GEN/37/20
+  number: '20'
+reference: 'Genesis 37:21'

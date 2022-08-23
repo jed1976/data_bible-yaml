@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 10:38"
+  class="v">38</span>But Jesus said unto them, <span class="wj">Ye know not what
+  ye ask: can ye drink of the cup that I drink of? and be baptized with the
+  baptism that I am baptized with?</span> </p>
+id: MRK/10/38
+next:
+  id: MRK/10/39
+  number: '39'
+previous:
+  id: MRK/10/37
+  number: '37'
+reference: 'Mark 10:38'

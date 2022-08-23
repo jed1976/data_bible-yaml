@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 26:14"
+  class="v">14</span>For he had possession of flocks, and possession of herds,
+  and great store of servants: and the Philistines envied him. </p>
+id: GEN/26/14
+next:
+  id: GEN/26/15
+  number: '15'
+previous:
+  id: GEN/26/13
+  number: '13'
+reference: 'Genesis 26:14'

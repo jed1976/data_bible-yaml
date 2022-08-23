@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 11:11"
+  class="v">11</span>Then Jephthah went with the elders of Gilead, and the
+  people made him head and captain over them: and Jephthah uttered all his words
+  before the <span class="nd">LORD</span> in Mizpeh.</p>
+id: JDG/11/11
+next:
+  id: JDG/11/12
+  number: '12'
+previous:
+  id: JDG/11/10
+  number: '10'
+reference: 'Judges 11:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 6:9" class="v">9</span>And it
+  shall come to pass, if there remain ten men in one house, that they shall die.
+  </p>
+id: AMO/6/9
+next:
+  id: AMO/6/10
+  number: '10'
+previous:
+  id: AMO/6/8
+  number: '8'
+reference: 'Amos 6:9'

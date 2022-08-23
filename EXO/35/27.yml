@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 35:27"
+  class="v">27</span>And the rulers brought onyx stones, and stones to be set,
+  for the ephod, and for the breastplate; </p>
+id: EXO/35/27
+next:
+  id: EXO/35/28
+  number: '28'
+previous:
+  id: EXO/35/26
+  number: '26'
+reference: 'Exodus 35:27'

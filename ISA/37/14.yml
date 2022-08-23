@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 37:14" class="v">14</span>¶
+  And Hezekiah received the letter from the hand of the messengers, and read it:
+  and Hezekiah went up unto the house of the <span class="nd">LORD</span>, and
+  spread it before the <span class="nd">LORD</span>. </p>
+id: ISA/37/14
+next:
+  id: ISA/37/15
+  number: '15'
+previous:
+  id: ISA/37/13
+  number: '13'
+reference: 'Isaiah 37:14'

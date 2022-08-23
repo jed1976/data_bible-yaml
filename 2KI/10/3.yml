@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 10:3" class="v">3</span>Look
+  even out the best and meetest of your master’s sons, and set <span
+  class="add">him</span> on his father’s throne, and fight for your master’s
+  house. </p>
+id: 2KI/10/3
+next:
+  id: 2KI/10/4
+  number: '4'
+previous:
+  id: 2KI/10/2
+  number: '2'
+reference: '2 Kings 10:3'

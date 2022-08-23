@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 15:1" class="v">1</span>Then
+  sang Moses and the children of Israel this song unto the <span
+  class="nd">LORD</span>, and spake, saying, I will sing unto the <span
+  class="nd">LORD</span>, for he hath triumphed gloriously: the horse and his
+  rider hath he thrown into the sea. </p>
+id: EXO/15/1
+next:
+  id: EXO/15/2
+  number: '2'
+previous:
+  id: EXO/14/31
+  number: '31'
+reference: 'Exodus 15:1'

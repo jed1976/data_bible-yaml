@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 36:5" class="v">5</span>I
+  say, <span class="add">sayest thou</span>, (but <span class="add">they are
+  but</span> vain words) <span class="add">I have</span> counsel and strength
+  for war: now on whom dost thou trust, that thou rebellest against me? </p>
+id: ISA/36/5
+next:
+  id: ISA/36/6
+  number: '6'
+previous:
+  id: ISA/36/4
+  number: '4'
+reference: 'Isaiah 36:5'

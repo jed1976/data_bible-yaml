@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 18:3" class="v">3</span><span
+  class="add">As</span> I live, saith the Lord <span class="nd">GOD</span>, ye
+  shall not have <span class="add">occasion</span> any more to use this proverb
+  in Israel. </p>
+id: EZK/18/3
+next:
+  id: EZK/18/4
+  number: '4'
+previous:
+  id: EZK/18/2
+  number: '2'
+reference: 'Ezekiel 18:3'

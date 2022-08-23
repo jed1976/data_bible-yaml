@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 6:1" class="v">1</span>Now
+  these <span class="add">are</span> the commandments, the statutes, and the
+  judgments, which the <span class="nd">LORD</span> your God commanded to teach
+  you, that ye might do <span class="add">them</span> in the land whither ye go
+  to possess it: </p>
+id: DEU/6/1
+next:
+  id: DEU/6/2
+  number: '2'
+previous:
+  id: DEU/5/33
+  number: '33'
+reference: 'Deuteronomy 6:1'

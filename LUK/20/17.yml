@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 20:17"
+  class="v">17</span>And he beheld them, and said, <span class="wj">What is this
+  then that is written, The stone which the builders rejected, the same is
+  become the head of the corner?</span> </p>
+id: LUK/20/17
+next:
+  id: LUK/20/18
+  number: '18'
+previous:
+  id: LUK/20/16
+  number: '16'
+reference: 'Luke 20:17'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 4:24" class="v">24</span>If
+  Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.</p>
+id: GEN/4/24
+next:
+  id: GEN/4/25
+  number: '25'
+previous:
+  id: GEN/4/23
+  number: '23'
+reference: 'Genesis 4:24'

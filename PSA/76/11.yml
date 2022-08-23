@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 76:11"
+  class="v">11</span>Vow, and pay unto the <span class="nd">LORD</span> your
+  God: let all that be round about him bring presents unto him that ought to be
+  feared.</p>
+id: PSA/76/11
+next:
+  id: PSA/76/12
+  number: '12'
+previous:
+  id: PSA/76/10
+  number: '10'
+reference: 'Psalms 76:11'

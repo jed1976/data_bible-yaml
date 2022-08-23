@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="2SA 2:30" class="v">30</span>And
+  Joab returned from following Abner: and when he had gathered all the people
+  together, there lacked of David’s servants nineteen men and Asahel. </p>
+id: 2SA/2/30
+next:
+  id: 2SA/2/31
+  number: '31'
+previous:
+  id: 2SA/2/29
+  number: '29'
+reference: '2 Samuel 2:30'

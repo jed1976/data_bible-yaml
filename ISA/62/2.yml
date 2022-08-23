@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 62:2" class="v">2</span>And
+  the Gentiles shall see thy righteousness, and all kings thy glory: and thou
+  shalt be called by a new name, which the mouth of the <span
+  class="nd">LORD</span> shall name. </p>
+id: ISA/62/2
+next:
+  id: ISA/62/3
+  number: '3'
+previous:
+  id: ISA/62/1
+  number: '1'
+reference: 'Isaiah 62:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 39:8" class="v">8</span>But
+  he refused, and said unto his master’s wife, Behold, my master wotteth not
+  what <span class="add">is</span> with me in the house, and he hath committed
+  all that he hath to my hand; </p>
+id: GEN/39/8
+next:
+  id: GEN/39/9
+  number: '9'
+previous:
+  id: GEN/39/7
+  number: '7'
+reference: 'Genesis 39:8'

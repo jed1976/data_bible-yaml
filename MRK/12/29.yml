@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MRK 12:29"
+  class="v">29</span>And Jesus answered him, <span class="wj">The first of all
+  the commandments <span class="add">is</span>, Hear, O Israel; The Lord our God
+  is one Lord:</span> </p>
+id: MRK/12/29
+next:
+  id: MRK/12/30
+  number: '30'
+previous:
+  id: MRK/12/28
+  number: '28'
+reference: 'Mark 12:29'

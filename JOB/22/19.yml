@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 22:19"
+  class="v">19</span>The righteous see <span class="add">it</span>, and are
+  glad: and the innocent laugh them to scorn. </p>
+id: JOB/22/19
+next:
+  id: JOB/22/20
+  number: '20'
+previous:
+  id: JOB/22/18
+  number: '18'
+reference: 'Job 22:19'

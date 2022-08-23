@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 20:4" class="v">4</span>And I
+  saw thrones, and they sat upon them, and judgment was given unto them: and
+  <span class="add">I saw</span> the souls of them that were beheaded for the
+  witness of Jesus, and for the word of God, and which had not worshipped the
+  beast, neither his image, neither had received <span class="add">his</span>
+  mark upon their foreheads, or in their hands; and they lived and reigned with
+  Christ a thousand years. </p>
+id: REV/20/4
+next:
+  id: REV/20/5
+  number: '5'
+previous:
+  id: REV/20/3
+  number: '3'
+reference: 'Revelation 20:4'

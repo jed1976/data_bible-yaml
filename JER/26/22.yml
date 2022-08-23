@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 26:22"
+  class="v">22</span>And Jehoiakim the king sent men into Egypt, <span
+  class="add">namely</span>, Elnathan the son of Achbor, and <span
+  class="add">certain</span> men with him into Egypt. </p>
+id: JER/26/22
+next:
+  id: JER/26/23
+  number: '23'
+previous:
+  id: JER/26/21
+  number: '21'
+reference: 'Jeremiah 26:22'

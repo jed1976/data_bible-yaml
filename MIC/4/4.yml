@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MIC 4:4" class="v">4</span>But
+  they shall sit every man under his vine and under his fig tree; and none shall
+  make <span class="add">them</span> afraid: for the mouth of the <span
+  class="nd">LORD</span> of hosts hath spoken <span class="add">it</span>. </p>
+id: MIC/4/4
+next:
+  id: MIC/4/5
+  number: '5'
+previous:
+  id: MIC/4/3
+  number: '3'
+reference: 'Micah 4:4'

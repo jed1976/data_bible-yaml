@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 32:23"
+  class="v">23</span>For they said unto me, Make us gods, which shall go before
+  us: for <span class="add">as for</span> this Moses, the man that brought us up
+  out of the land of Egypt, we wot not what is become of him. </p>
+id: EXO/32/23
+next:
+  id: EXO/32/24
+  number: '24'
+previous:
+  id: EXO/32/22
+  number: '22'
+reference: 'Exodus 32:23'

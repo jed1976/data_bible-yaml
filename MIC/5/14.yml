@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MIC 5:14" class="v">14</span>And
+  I will pluck up thy groves out of the midst of thee: so will I destroy thy
+  cities. </p>
+id: MIC/5/14
+next:
+  id: MIC/5/15
+  number: '15'
+previous:
+  id: MIC/5/13
+  number: '13'
+reference: 'Micah 5:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 6:11" class="v">11</span>And
+  I said, Should such a man as I flee? and who <span class="add">is
+  there</span>, that, <span class="add">being</span> as I <span
+  class="add">am</span>, would go into the temple to save his life? I will not
+  go in. </p>
+id: NEH/6/11
+next:
+  id: NEH/6/12
+  number: '12'
+previous:
+  id: NEH/6/10
+  number: '10'
+reference: 'Nehemiah 6:11'

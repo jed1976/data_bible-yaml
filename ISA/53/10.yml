@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 53:10" class="v">10</span>¶
+  Yet it pleased the <span class="nd">LORD</span> to bruise him; he hath put
+  <span class="add">him</span> to grief: when thou shalt make his soul an
+  offering for sin, he shall see <span class="add">his</span> seed, he shall
+  prolong <span class="add">his</span> days, and the pleasure of the <span
+  class="nd">LORD</span> shall prosper in his hand. </p>
+id: ISA/53/10
+next:
+  id: ISA/53/11
+  number: '11'
+previous:
+  id: ISA/53/9
+  number: '9'
+reference: 'Isaiah 53:10'

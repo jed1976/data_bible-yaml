@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LEV 13:2" class="v">2</span>When
+  a man shall have in the skin of his flesh a rising, a scab, or bright spot,
+  and it be in the skin of his flesh <span class="add">like</span> the plague of
+  leprosy; then he shall be brought unto Aaron the priest, or unto one of his
+  sons the priests: </p>
+id: LEV/13/2
+next:
+  id: LEV/13/3
+  number: '3'
+previous:
+  id: LEV/13/1
+  number: '1'
+reference: 'Leviticus 13:2'

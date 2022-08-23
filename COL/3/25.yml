@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="COL 3:25" class="v">25</span>But
+  he that doeth wrong shall receive for the wrong which he hath done: and there
+  is no respect of persons.</p>
+id: COL/3/25
+next:
+  id: COL/4/1
+  number: '1'
+previous:
+  id: COL/3/24
+  number: '24'
+reference: 'Colossians 3:25'

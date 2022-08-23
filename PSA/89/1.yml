@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">Maschil of Ethan the Ezrahite.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 89:1" class="v">1</span>I will sing of the
+  mercies of the <span class="nd">LORD</span> for ever: with my mouth will I
+  make known thy faithfulness to all generations.</p>
+id: PSA/89/1
+next:
+  id: PSA/89/2
+  number: '2'
+previous:
+  id: PSA/88/18
+  number: '18'
+reference: 'Psalms 89:1'

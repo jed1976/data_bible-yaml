@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="NEH 7:54" class="v">54</span>The
+  children of Bazlith, the children of Mehida, the children of Harsha, </p>
+id: NEH/7/54
+next:
+  id: NEH/7/55
+  number: '55'
+previous:
+  id: NEH/7/53
+  number: '53'
+reference: 'Nehemiah 7:54'

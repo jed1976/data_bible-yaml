@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 64:1" class="v">1</span>Oh
+  that thou wouldest rend the heavens, that thou wouldest come down, that the
+  mountains might flow down at thy presence, </p>
+id: ISA/64/1
+next:
+  id: ISA/64/2
+  number: '2'
+previous:
+  id: ISA/63/19
+  number: '19'
+reference: 'Isaiah 64:1'

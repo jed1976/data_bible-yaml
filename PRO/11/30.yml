@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 11:30"
+  class="v">30</span>The fruit of the righteous <span class="add">is</span> a
+  tree of life; and he that winneth souls <span class="add">is</span> wise. </p>
+id: PRO/11/30
+next:
+  id: PRO/11/31
+  number: '31'
+previous:
+  id: PRO/11/29
+  number: '29'
+reference: 'Proverbs 11:30'

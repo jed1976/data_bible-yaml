@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 7:25" class="v">25</span>For
+  he supposed his brethren would have understood how that God by his hand would
+  deliver them: but they understood not. </p>
+id: ACT/7/25
+next:
+  id: ACT/7/26
+  number: '26'
+previous:
+  id: ACT/7/24
+  number: '24'
+reference: 'Acts 7:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 22:18"
+  class="v">18</span>And in thy seed shall all the nations of the earth be
+  blessed; because thou hast obeyed my voice. </p>
+id: GEN/22/18
+next:
+  id: GEN/22/19
+  number: '19'
+previous:
+  id: GEN/22/17
+  number: '17'
+reference: 'Genesis 22:18'

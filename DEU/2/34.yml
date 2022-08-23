@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="DEU 2:34" class="v">34</span>And
+  we took all his cities at that time, and utterly destroyed the men, and the
+  women, and the little ones, of every city, we left none to remain: </p>
+id: DEU/2/34
+next:
+  id: DEU/2/35
+  number: '35'
+previous:
+  id: DEU/2/33
+  number: '33'
+reference: 'Deuteronomy 2:34'

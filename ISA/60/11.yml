@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 60:11"
+  class="v">11</span>Therefore thy gates shall be open continually; they shall
+  not be shut day nor night; that <span class="add">men</span> may bring unto
+  thee the forces of the Gentiles, and <span class="add">that</span> their kings
+  <span class="add">may be</span> brought. </p>
+id: ISA/60/11
+next:
+  id: ISA/60/12
+  number: '12'
+previous:
+  id: ISA/60/10
+  number: '10'
+reference: 'Isaiah 60:11'

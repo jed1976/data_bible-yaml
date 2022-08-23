@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 6:16" class="v">16</span>¶
+  These six <span class="add">things</span> doth the <span
+  class="nd">LORD</span> hate: yea, seven <span class="add">are</span> an
+  abomination unto him: </p>
+id: PRO/6/16
+next:
+  id: PRO/6/17
+  number: '17'
+previous:
+  id: PRO/6/15
+  number: '15'
+reference: 'Proverbs 6:16'

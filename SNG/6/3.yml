@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="SNG 6:3" class="v">3</span>I
+  <span class="add">am</span> my beloved’s, and my beloved <span
+  class="add">is</span> mine: he feedeth among the lilies.</p>
+id: SNG/6/3
+next:
+  id: SNG/6/4
+  number: '4'
+previous:
+  id: SNG/6/2
+  number: '2'
+reference: 'Song of Solomon 6:3'

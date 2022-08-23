@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JOS 19:40" class="v">40</span>¶
+  <span class="add">And</span> the seventh lot came out for the tribe of the
+  children of Dan according to their families. </p>
+id: JOS/19/40
+next:
+  id: JOS/19/41
+  number: '41'
+previous:
+  id: JOS/19/39
+  number: '39'
+reference: 'Joshua 19:40'

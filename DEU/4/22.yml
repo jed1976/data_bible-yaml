@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 4:22" class="v">22</span>But
+  I must die in this land, I must not go over Jordan: but ye shall go over, and
+  possess that good land. </p>
+id: DEU/4/22
+next:
+  id: DEU/4/23
+  number: '23'
+previous:
+  id: DEU/4/21
+  number: '21'
+reference: 'Deuteronomy 4:22'

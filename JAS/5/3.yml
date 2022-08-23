@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JAS 5:3" class="v">3</span>Your
+  gold and silver is cankered; and the rust of them shall be a witness against
+  you, and shall eat your flesh as it were fire. Ye have heaped treasure
+  together for the last days. </p>
+id: JAS/5/3
+next:
+  id: JAS/5/4
+  number: '4'
+previous:
+  id: JAS/5/2
+  number: '2'
+reference: 'James 5:3'

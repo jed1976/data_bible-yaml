@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 1:18" class="v">18</span>And
+  to rule over the day and over the night, and to divide the light from the
+  darkness: and God saw that <span class="add">it was</span> good. </p>
+id: GEN/1/18
+next:
+  id: GEN/1/19
+  number: '19'
+previous:
+  id: GEN/1/17
+  number: '17'
+reference: 'Genesis 1:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CO 2:7" class="v">7</span>So
+  that contrariwise ye <span class="add">ought</span> rather to forgive <span
+  class="add">him</span>, and comfort <span class="add">him</span>, lest perhaps
+  such a one should be swallowed up with overmuch sorrow. </p>
+id: 2CO/2/7
+next:
+  id: 2CO/2/8
+  number: '8'
+previous:
+  id: 2CO/2/6
+  number: '6'
+reference: '2 Corinthians 2:7'

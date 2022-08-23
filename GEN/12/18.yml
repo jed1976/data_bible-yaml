@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 12:18"
+  class="v">18</span>And Pharaoh called Abram, and said, What <span
+  class="add">is</span> this <span class="add">that</span> thou hast done unto
+  me? why didst thou not tell me that she <span class="add">was</span> thy wife?
+  </p>
+id: GEN/12/18
+next:
+  id: GEN/12/19
+  number: '19'
+previous:
+  id: GEN/12/17
+  number: '17'
+reference: 'Genesis 12:18'

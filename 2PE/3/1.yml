@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2PE 3:1" class="v">1</span>This
+  second epistle, beloved, I now write unto you; in <span
+  class="add">both</span> which I stir up your pure minds by way of remembrance:
+  </p>
+id: 2PE/3/1
+next:
+  id: 2PE/3/2
+  number: '2'
+previous:
+  id: 2PE/2/22
+  number: '22'
+reference: '2 Peter 3:1'

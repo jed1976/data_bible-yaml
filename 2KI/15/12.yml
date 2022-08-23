@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2KI 15:12"
+  class="v">12</span>This <span class="add">was</span> the word of the <span
+  class="nd">LORD</span> which he spake unto Jehu, saying, Thy sons shall sit on
+  the throne of Israel unto the fourth <span class="add">generation</span>. And
+  so it came to pass.</p>
+id: 2KI/15/12
+next:
+  id: 2KI/15/13
+  number: '13'
+previous:
+  id: 2KI/15/11
+  number: '11'
+reference: '2 Kings 15:12'

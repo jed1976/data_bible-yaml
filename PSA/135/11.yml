@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 135:11"
+  class="v">11</span>Sihon king of the Amorites, and Og king of Bashan, and all
+  the kingdoms of Canaan:</p>
+id: PSA/135/11
+next:
+  id: PSA/135/12
+  number: '12'
+previous:
+  id: PSA/135/10
+  number: '10'
+reference: 'Psalms 135:11'

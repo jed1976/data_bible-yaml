@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2TI 2:11"
+  class="v">11</span><span class="add">It is</span> a faithful saying: For if we
+  be dead with <span class="add">him</span>, we shall also live with <span
+  class="add">him</span>: </p>
+id: 2TI/2/11
+next:
+  id: 2TI/2/12
+  number: '12'
+previous:
+  id: 2TI/2/10
+  number: '10'
+reference: '2 Timothy 2:11'

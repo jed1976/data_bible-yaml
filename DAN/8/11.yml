@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DAN 8:11"
+  class="v">11</span>Yea, he magnified <span class="add">himself</span> even to
+  the prince of the host, and by him the daily <span
+  class="add">sacrifice</span> was taken away, and the place of his sanctuary
+  was cast down. </p>
+id: DAN/8/11
+next:
+  id: DAN/8/12
+  number: '12'
+previous:
+  id: DAN/8/10
+  number: '10'
+reference: 'Daniel 8:11'

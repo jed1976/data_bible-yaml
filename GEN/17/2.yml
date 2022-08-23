@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 17:2" class="v">2</span>And I
+  will make my covenant between me and thee, and will multiply thee exceedingly.
+  </p>
+id: GEN/17/2
+next:
+  id: GEN/17/3
+  number: '3'
+previous:
+  id: GEN/17/1
+  number: '1'
+reference: 'Genesis 17:2'

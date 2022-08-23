@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 38:3" class="v">3</span>Thus
+  saith the <span class="nd">LORD</span>, This city shall surely be given into
+  the hand of the king of Babylon’s army, which shall take it. </p>
+id: JER/38/3
+next:
+  id: JER/38/4
+  number: '4'
+previous:
+  id: JER/38/2
+  number: '2'
+reference: 'Jeremiah 38:3'

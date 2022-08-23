@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 23:33"
+  class="v">33</span><span class="wj"><span class="add">Ye</span> serpents,
+  <span class="add">ye</span> generation of vipers, how can ye escape the
+  damnation of hell?</span></p>
+id: MAT/23/33
+next:
+  id: MAT/23/34
+  number: '34'
+previous:
+  id: MAT/23/32
+  number: '32'
+reference: 'Matthew 23:33'

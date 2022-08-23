@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 53:4" class="v">4</span>¶
+  Surely he hath borne our griefs, and carried our sorrows: yet we did esteem
+  him stricken, smitten of God, and afflicted. </p>
+id: ISA/53/4
+next:
+  id: ISA/53/5
+  number: '5'
+previous:
+  id: ISA/53/3
+  number: '3'
+reference: 'Isaiah 53:4'

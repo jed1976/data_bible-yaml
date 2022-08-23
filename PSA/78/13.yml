@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 78:13"
+  class="v">13</span>He divided the sea, and caused them to pass through; and he
+  made the waters to stand as an heap.</p>
+id: PSA/78/13
+next:
+  id: PSA/78/14
+  number: '14'
+previous:
+  id: PSA/78/12
+  number: '12'
+reference: 'Psalms 78:13'

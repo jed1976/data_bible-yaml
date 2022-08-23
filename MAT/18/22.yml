@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 18:22"
+  class="v">22</span>Jesus saith unto him, <span class="wj">I say not unto thee,
+  Until seven times: but, Until seventy times seven.</span></p>
+id: MAT/18/22
+next:
+  id: MAT/18/23
+  number: '23'
+previous:
+  id: MAT/18/21
+  number: '21'
+reference: 'Matthew 18:22'

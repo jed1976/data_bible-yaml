@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 26:22"
+  class="v">22</span>And they were exceeding sorrowful, and began every one of
+  them to say unto him, Lord, is it I? </p>
+id: MAT/26/22
+next:
+  id: MAT/26/23
+  number: '23'
+previous:
+  id: MAT/26/21
+  number: '21'
+reference: 'Matthew 26:22'

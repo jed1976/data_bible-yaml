@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 9:8"
+  class="v">8</span>Behold, the eyes of the Lord <span class="nd">GOD</span>
+  <span class="add">are</span> upon the sinful kingdom, and I will destroy it
+  from off the face of the earth; saving that I will not utterly destroy the
+  house of Jacob, saith the <span class="nd">LORD</span>. </p>
+id: AMO/9/8
+next:
+  id: AMO/9/9
+  number: '9'
+previous:
+  id: AMO/9/7
+  number: '7'
+reference: 'Amos 9:8'

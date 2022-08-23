@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 24:1" class="v">1</span>Now
+  upon the first <span class="add">day</span> of the week, very early in the
+  morning, they came unto the sepulchre, bringing the spices which they had
+  prepared, and certain <span class="add">others</span> with them. </p>
+id: LUK/24/1
+next:
+  id: LUK/24/2
+  number: '2'
+previous:
+  id: LUK/23/56
+  number: '56'
+reference: 'Luke 24:1'

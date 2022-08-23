@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1KI 18:14"
+  class="v">14</span>And now thou sayest, Go, tell thy lord, Behold, Elijah
+  <span class="add">is here:</span> and he shall slay me. </p>
+id: 1KI/18/14
+next:
+  id: 1KI/18/15
+  number: '15'
+previous:
+  id: 1KI/18/13
+  number: '13'
+reference: '1 Kings 18:14'

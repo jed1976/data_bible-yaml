@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="DEU 1:44" class="v">44</span>And
+  the Amorites, which dwelt in that mountain, came out against you, and chased
+  you, as bees do, and destroyed you in Seir, <span class="add">even</span> unto
+  Hormah. </p>
+id: DEU/1/44
+next:
+  id: DEU/1/45
+  number: '45'
+previous:
+  id: DEU/1/43
+  number: '43'
+reference: 'Deuteronomy 1:44'

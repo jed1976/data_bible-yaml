@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 2:5" class="v">5</span>And
+  they said unto him, In Bethlehem of Judaea: for thus it is written by the
+  prophet, </p>
+id: MAT/2/5
+next:
+  id: MAT/2/6
+  number: '6'
+previous:
+  id: MAT/2/4
+  number: '4'
+reference: 'Matthew 2:5'

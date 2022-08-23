@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 10:18"
+  class="v">18</span><span class="wj">No man taketh it from me, but I lay it
+  down of myself. I have power to lay it down, and I have power to take it
+  again. This commandment have I received of my Father.</span></p>
+id: JHN/10/18
+next:
+  id: JHN/10/19
+  number: '19'
+previous:
+  id: JHN/10/17
+  number: '17'
+reference: 'John 10:18'

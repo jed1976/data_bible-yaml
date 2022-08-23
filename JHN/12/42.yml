@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 12:42" class="v">42</span>¶
+  Nevertheless among the chief rulers also many believed on him; but because of
+  the Pharisees they did not confess <span class="add">him</span>, lest they
+  should be put out of the synagogue: </p>
+id: JHN/12/42
+next:
+  id: JHN/12/43
+  number: '43'
+previous:
+  id: JHN/12/41
+  number: '41'
+reference: 'John 12:42'

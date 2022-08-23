@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="JHN 1:49"
+  class="v">49</span>Nathanael answered and saith unto him, Rabbi, thou art the
+  Son of God; thou art the King of Israel. </p>
+id: JHN/1/49
+next:
+  id: JHN/1/50
+  number: '50'
+previous:
+  id: JHN/1/48
+  number: '48'
+reference: 'John 1:49'

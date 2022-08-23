@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZR 4:23" class="v">23</span>¶
+  Now when the copy of king Artaxerxes’ letter <span class="add">was</span> read
+  before Rehum, and Shimshai the scribe, and their companions, they went up in
+  haste to Jerusalem unto the Jews, and made them to cease by force and power.
+  </p>
+id: EZR/4/23
+next:
+  id: EZR/4/24
+  number: '24'
+previous:
+  id: EZR/4/22
+  number: '22'
+reference: 'Ezra 4:23'

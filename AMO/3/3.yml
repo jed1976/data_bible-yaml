@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 3:3" class="v">3</span>Can
+  two walk together, except they be agreed? </p>
+id: AMO/3/3
+next:
+  id: AMO/3/4
+  number: '4'
+previous:
+  id: AMO/3/2
+  number: '2'
+reference: 'Amos 3:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1KI 1:10" class="v">10</span>But
+  Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother,
+  he called not.</p>
+id: 1KI/1/10
+next:
+  id: 1KI/1/11
+  number: '11'
+previous:
+  id: 1KI/1/9
+  number: '9'
+reference: '1 Kings 1:10'

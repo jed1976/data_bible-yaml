@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 4:24" class="v">24</span>¶
+  And it came to pass by the way in the inn, that the <span
+  class="nd">LORD</span> met him, and sought to kill him. </p>
+id: EXO/4/24
+next:
+  id: EXO/4/25
+  number: '25'
+previous:
+  id: EXO/4/23
+  number: '23'
+reference: 'Exodus 4:24'

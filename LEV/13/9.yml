@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 13:9" class="v">9</span>¶
+  When the plague of leprosy is in a man, then he shall be brought unto the
+  priest; </p>
+id: LEV/13/9
+next:
+  id: LEV/13/10
+  number: '10'
+previous:
+  id: LEV/13/8
+  number: '8'
+reference: 'Leviticus 13:9'

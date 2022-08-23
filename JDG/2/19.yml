@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JDG 2:19" class="v">19</span>And
+  it came to pass, when the judge was dead, <span class="add">that</span> they
+  returned, and corrupted <span class="add">themselves</span> more than their
+  fathers, in following other gods to serve them, and to bow down unto them;
+  they ceased not from their own doings, nor from their stubborn way.</p>
+id: JDG/2/19
+next:
+  id: JDG/2/20
+  number: '20'
+previous:
+  id: JDG/2/18
+  number: '18'
+reference: 'Judges 2:19'

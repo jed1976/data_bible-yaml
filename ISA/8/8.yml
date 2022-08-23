@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 8:8" class="v">8</span>And he
+  shall pass through Judah; he shall overflow and go over, he shall reach <span
+  class="add">even</span> to the neck; and the stretching out of his wings shall
+  fill the breadth of thy land, O Immanuel.</p>
+id: ISA/8/8
+next:
+  id: ISA/8/9
+  number: '9'
+previous:
+  id: ISA/8/7
+  number: '7'
+reference: 'Isaiah 8:8'

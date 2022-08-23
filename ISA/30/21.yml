@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 30:21"
+  class="v">21</span>And thine ears shall hear a word behind thee, saying, This
+  <span class="add">is</span> the way, walk ye in it, when ye turn to the right
+  hand, and when ye turn to the left. </p>
+id: ISA/30/21
+next:
+  id: ISA/30/22
+  number: '22'
+previous:
+  id: ISA/30/20
+  number: '20'
+reference: 'Isaiah 30:21'

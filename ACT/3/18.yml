@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 3:18" class="v">18</span>But
+  those things, which God before had shewed by the mouth of all his prophets,
+  that Christ should suffer, he hath so fulfilled.</p>
+id: ACT/3/18
+next:
+  id: ACT/3/19
+  number: '19'
+previous:
+  id: ACT/3/17
+  number: '17'
+reference: 'Acts 3:18'

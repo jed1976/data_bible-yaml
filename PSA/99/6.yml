@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 99:6"
+  class="v">6</span>Moses and Aaron among his priests, and Samuel among them
+  that call upon his name; they called upon the <span class="nd">LORD</span>,
+  and he answered them.</p>
+id: PSA/99/6
+next:
+  id: PSA/99/7
+  number: '7'
+previous:
+  id: PSA/99/5
+  number: '5'
+reference: 'Psalms 99:6'

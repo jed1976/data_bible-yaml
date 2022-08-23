@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 2:14"
+  class="v">14</span>Then the tribe of Gad: and the captain of the sons of Gad
+  <span class="add">shall be</span> Eliasaph the son of Reuel. </p>
+id: NUM/2/14
+next:
+  id: NUM/2/15
+  number: '15'
+previous:
+  id: NUM/2/13
+  number: '13'
+reference: 'Numbers 2:14'

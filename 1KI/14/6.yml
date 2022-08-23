@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 14:6" class="v">6</span>And
+  it was <span class="add">so</span>, when Ahijah heard the sound of her feet,
+  as she came in at the door, that he said, Come in, thou wife of Jeroboam; why
+  feignest thou thyself <span class="add">to be</span> another? for I <span
+  class="add">am</span> sent to thee <span class="add">with</span> heavy <span
+  class="add">tidings</span>.</p>
+id: 1KI/14/6
+next:
+  id: 1KI/14/7
+  number: '7'
+previous:
+  id: 1KI/14/5
+  number: '5'
+reference: '1 Kings 14:6'

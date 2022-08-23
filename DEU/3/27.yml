@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 3:27" class="v">27</span>Get
+  thee up into the top of Pisgah, and lift up thine eyes westward, and
+  northward, and southward, and eastward, and behold <span class="add">it</span>
+  with thine eyes: for thou shalt not go over this Jordan. </p>
+id: DEU/3/27
+next:
+  id: DEU/3/28
+  number: '28'
+previous:
+  id: DEU/3/26
+  number: '26'
+reference: 'Deuteronomy 3:27'

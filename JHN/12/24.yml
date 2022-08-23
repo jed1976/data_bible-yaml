@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 12:24"
+  class="v">24</span><span class="wj">Verily, verily, I say unto you, Except a
+  corn of wheat fall into the ground and die, it abideth alone: but if it die,
+  it bringeth forth much fruit.</span> </p>
+id: JHN/12/24
+next:
+  id: JHN/12/25
+  number: '25'
+previous:
+  id: JHN/12/23
+  number: '23'
+reference: 'John 12:24'

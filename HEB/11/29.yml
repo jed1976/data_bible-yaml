@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="HEB 11:29" class="v">29</span>By
+  faith they passed through the Red sea as by dry <span class="add">land</span>:
+  which the Egyptians assaying to do were drowned. </p>
+id: HEB/11/29
+next:
+  id: HEB/11/30
+  number: '30'
+previous:
+  id: HEB/11/28
+  number: '28'
+reference: 'Hebrews 11:29'

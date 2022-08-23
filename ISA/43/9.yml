@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 43:9" class="v">9</span>Let
+  all the nations be gathered together, and let the people be assembled: who
+  among them can declare this, and shew us former things? let them bring forth
+  their witnesses, that they may be justified: or let them hear, and say, <span
+  class="add">It is</span> truth. </p>
+id: ISA/43/9
+next:
+  id: ISA/43/10
+  number: '10'
+previous:
+  id: ISA/43/8
+  number: '8'
+reference: 'Isaiah 43:9'

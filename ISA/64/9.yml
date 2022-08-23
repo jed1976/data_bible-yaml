@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 64:9" class="v">9</span>¶ Be
+  not wroth very sore, O <span class="nd">LORD</span>, neither remember iniquity
+  for ever: behold, see, we beseech thee, we <span class="add">are</span> all
+  thy people. </p>
+id: ISA/64/9
+next:
+  id: ISA/64/10
+  number: '10'
+previous:
+  id: ISA/64/8
+  number: '8'
+reference: 'Isaiah 64:9'

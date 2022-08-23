@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 13:13"
+  class="v">13</span>Nevertheless the children of Israel expelled not the
+  Geshurites, nor the Maachathites: but the Geshurites and the Maachathites
+  dwell among the Israelites until this day. </p>
+id: JOS/13/13
+next:
+  id: JOS/13/14
+  number: '14'
+previous:
+  id: JOS/13/12
+  number: '12'
+reference: 'Joshua 13:13'

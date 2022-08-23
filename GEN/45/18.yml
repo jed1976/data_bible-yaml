@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 45:18"
+  class="v">18</span>And take your father and your households, and come unto me:
+  and I will give you the good of the land of Egypt, and ye shall eat the fat of
+  the land. </p>
+id: GEN/45/18
+next:
+  id: GEN/45/19
+  number: '19'
+previous:
+  id: GEN/45/17
+  number: '17'
+reference: 'Genesis 45:18'

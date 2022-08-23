@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 7:7" class="v">7</span>Who
+  came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
+  Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, <span class="add">I
+  say</span>, of the men of the people of Israel <span class="add">was
+  this;</span> </p>
+id: NEH/7/7
+next:
+  id: NEH/7/8
+  number: '8'
+previous:
+  id: NEH/7/6
+  number: '6'
+reference: 'Nehemiah 7:7'

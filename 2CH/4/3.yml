@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 4:3" class="v">3</span>And
+  under it <span class="add">was</span> the similitude of oxen, which did
+  compass it round about: ten in a cubit, compassing the sea round about. Two
+  rows of oxen <span class="add">were</span> cast, when it was cast. </p>
+id: 2CH/4/3
+next:
+  id: 2CH/4/4
+  number: '4'
+previous:
+  id: 2CH/4/2
+  number: '2'
+reference: '2 Chronicles 4:3'

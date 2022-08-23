@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 8:18" class="v">18</span>For
+  I reckon that the sufferings of this present time <span class="add">are</span>
+  not worthy <span class="add">to be compared</span> with the glory which shall
+  be revealed in us. </p>
+id: ROM/8/18
+next:
+  id: ROM/8/19
+  number: '19'
+previous:
+  id: ROM/8/17
+  number: '17'
+reference: 'Romans 8:18'

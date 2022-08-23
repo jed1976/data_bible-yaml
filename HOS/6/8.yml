@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 6:8" class="v">8</span>Gilead
+  <span class="add">is</span> a city of them that work iniquity, <span
+  class="add">and is</span> polluted with blood. </p>
+id: HOS/6/8
+next:
+  id: HOS/6/9
+  number: '9'
+previous:
+  id: HOS/6/7
+  number: '7'
+reference: 'Hosea 6:8'

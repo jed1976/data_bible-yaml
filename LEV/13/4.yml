@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 13:4" class="v">4</span>If
+  the bright spot <span class="add">be</span> white in the skin of his flesh,
+  and in sight <span class="add">be</span> not deeper than the skin, and the
+  hair thereof be not turned white; then the priest shall shut up <span
+  class="add">him that hath</span> the plague seven days: </p>
+id: LEV/13/4
+next:
+  id: LEV/13/5
+  number: '5'
+previous:
+  id: LEV/13/3
+  number: '3'
+reference: 'Leviticus 13:4'

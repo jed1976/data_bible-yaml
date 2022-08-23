@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 1:8" class="v">8</span>He was
+  not that Light, but <span class="add">was sent</span> to bear witness of that
+  Light. </p>
+id: JHN/1/8
+next:
+  id: JHN/1/9
+  number: '9'
+previous:
+  id: JHN/1/7
+  number: '7'
+reference: 'John 1:8'

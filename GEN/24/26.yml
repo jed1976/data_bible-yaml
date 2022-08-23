@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 24:26"
+  class="v">26</span>And the man bowed down his head, and worshipped the <span
+  class="nd">LORD</span>. </p>
+id: GEN/24/26
+next:
+  id: GEN/24/27
+  number: '27'
+previous:
+  id: GEN/24/25
+  number: '25'
+reference: 'Genesis 24:26'

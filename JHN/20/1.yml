@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 20:1" class="v">1</span>The
+  first <span class="add">day</span> of the week cometh Mary Magdalene early,
+  when it was yet dark, unto the sepulchre, and seeth the stone taken away from
+  the sepulchre. </p>
+id: JHN/20/1
+next:
+  id: JHN/20/2
+  number: '2'
+previous:
+  id: JHN/19/42
+  number: '42'
+reference: 'John 20:1'

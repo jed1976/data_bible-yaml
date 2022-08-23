@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MRK 15:34"
+  class="v">34</span>And at the ninth hour Jesus cried with a loud voice,
+  saying, <span class="wj">Eloi, Eloi, lama sabachthani?</span> which is, being
+  interpreted, My God, my God, why hast thou forsaken me? </p>
+id: MRK/15/34
+next:
+  id: MRK/15/35
+  number: '35'
+previous:
+  id: MRK/15/33
+  number: '33'
+reference: 'Mark 15:34'

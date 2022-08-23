@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 6:6"
+  class="v">6</span>Wherein <span class="add">was</span> written, It is reported
+  among the heathen, and Gashmu saith <span class="add">it, that</span> thou and
+  the Jews think to rebel: for which cause thou buildest the wall, that thou
+  mayest be their king, according to these words. </p>
+id: NEH/6/6
+next:
+  id: NEH/6/7
+  number: '7'
+previous:
+  id: NEH/6/5
+  number: '5'
+reference: 'Nehemiah 6:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 3:4" class="v">4</span>And
+  when the <span class="nd">LORD</span> saw that he turned aside to see, God
+  called unto him out of the midst of the bush, and said, Moses, Moses. And he
+  said, Here <span class="add">am</span> I. </p>
+id: EXO/3/4
+next:
+  id: EXO/3/5
+  number: '5'
+previous:
+  id: EXO/3/3
+  number: '3'
+reference: 'Exodus 3:4'

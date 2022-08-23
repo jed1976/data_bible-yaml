@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 10:6" class="v">6</span>¶ And
+  the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not
+  thy hand from thy servants; come up to us quickly, and save us, and help us:
+  for all the kings of the Amorites that dwell in the mountains are gathered
+  together against us.</p>
+id: JOS/10/6
+next:
+  id: JOS/10/7
+  number: '7'
+previous:
+  id: JOS/10/5
+  number: '5'
+reference: 'Joshua 10:6'

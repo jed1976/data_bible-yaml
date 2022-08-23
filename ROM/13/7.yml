@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 13:7"
+  class="v">7</span>Render therefore to all their dues: tribute to whom tribute
+  <span class="add">is due</span>; custom to whom custom; fear to whom fear;
+  honour to whom honour. </p>
+id: ROM/13/7
+next:
+  id: ROM/13/8
+  number: '8'
+previous:
+  id: ROM/13/6
+  number: '6'
+reference: 'Romans 13:7'

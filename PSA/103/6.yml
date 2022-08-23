@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 103:6"
+  class="v">6</span>The <span class="nd">LORD</span> executeth righteousness and
+  judgment for all that are oppressed.</p>
+id: PSA/103/6
+next:
+  id: PSA/103/7
+  number: '7'
+previous:
+  id: PSA/103/5
+  number: '5'
+reference: 'Psalms 103:6'

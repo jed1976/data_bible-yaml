@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 21:16" class="v">16</span>¶
+  Moreover the <span class="nd">LORD</span> stirred up against Jehoram the
+  spirit of the Philistines, and of the Arabians, that <span
+  class="add">were</span> near the Ethiopians: </p>
+id: 2CH/21/16
+next:
+  id: 2CH/21/17
+  number: '17'
+previous:
+  id: 2CH/21/15
+  number: '15'
+reference: '2 Chronicles 21:16'

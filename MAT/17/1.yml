@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 17:1" class="v">1</span>And
+  after six days Jesus taketh Peter, James, and John his brother, and bringeth
+  them up into an high mountain apart, </p>
+id: MAT/17/1
+next:
+  id: MAT/17/2
+  number: '2'
+previous:
+  id: MAT/16/28
+  number: '28'
+reference: 'Matthew 17:1'

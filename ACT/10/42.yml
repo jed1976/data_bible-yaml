@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="ACT 10:42"
+  class="v">42</span>And he commanded us to preach unto the people, and to
+  testify that it is he which was ordained of God <span class="add">to be</span>
+  the Judge of quick and dead. </p>
+id: ACT/10/42
+next:
+  id: ACT/10/43
+  number: '43'
+previous:
+  id: ACT/10/41
+  number: '41'
+reference: 'Acts 10:42'

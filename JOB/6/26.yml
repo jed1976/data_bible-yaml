@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 6:26" class="v">26</span>Do
+  ye imagine to reprove words, and the speeches of one that is desperate, <span
+  class="add">which are</span> as wind? </p>
+id: JOB/6/26
+next:
+  id: JOB/6/27
+  number: '27'
+previous:
+  id: JOB/6/25
+  number: '25'
+reference: 'Job 6:26'

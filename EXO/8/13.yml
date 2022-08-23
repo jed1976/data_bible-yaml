@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 8:13" class="v">13</span>And
+  the <span class="nd">LORD</span> did according to the word of Moses; and the
+  frogs died out of the houses, out of the villages, and out of the fields. </p>
+id: EXO/8/13
+next:
+  id: EXO/8/14
+  number: '14'
+previous:
+  id: EXO/8/12
+  number: '12'
+reference: 'Exodus 8:13'

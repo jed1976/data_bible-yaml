@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 11:20"
+  class="v">20</span>When ye come together therefore into one place, <span
+  class="add">this</span> is not to eat the Lord’s supper. </p>
+id: 1CO/11/20
+next:
+  id: 1CO/11/21
+  number: '21'
+previous:
+  id: 1CO/11/19
+  number: '19'
+reference: '1 Corinthians 11:20'

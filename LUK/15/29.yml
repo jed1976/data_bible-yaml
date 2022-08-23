@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 15:29"
+  class="v">29</span><span class="wj">And he answering said to <span
+  class="add">his</span> father, Lo, these many years do I serve thee, neither
+  transgressed I at any time thy commandment: and yet thou never gavest me a
+  kid, that I might make merry with my friends:</span> </p>
+id: LUK/15/29
+next:
+  id: LUK/15/30
+  number: '30'
+previous:
+  id: LUK/15/28
+  number: '28'
+reference: 'Luke 15:29'

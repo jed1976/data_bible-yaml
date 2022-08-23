@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 29:3" class="v">3</span>When
+  his candle shined upon my head, <span class="add">and when</span> by his light
+  I walked <span class="add">through</span> darkness; </p>
+id: JOB/29/3
+next:
+  id: JOB/29/4
+  number: '4'
+previous:
+  id: JOB/29/2
+  number: '2'
+reference: 'Job 29:3'

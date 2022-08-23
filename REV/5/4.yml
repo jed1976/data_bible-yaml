@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 5:4" class="v">4</span>And I
+  wept much, because no man was found worthy to open and to read the book,
+  neither to look thereon. </p>
+id: REV/5/4
+next:
+  id: REV/5/5
+  number: '5'
+previous:
+  id: REV/5/3
+  number: '3'
+reference: 'Revelation 5:4'

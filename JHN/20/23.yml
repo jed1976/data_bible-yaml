@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 20:23"
+  class="v">23</span><span class="wj">Whose soever sins ye remit, they are
+  remitted unto them; <span class="add">and</span> whose soever <span
+  class="add">sins</span> ye retain, they are retained.</span></p>
+id: JHN/20/23
+next:
+  id: JHN/20/24
+  number: '24'
+previous:
+  id: JHN/20/22
+  number: '22'
+reference: 'John 20:23'

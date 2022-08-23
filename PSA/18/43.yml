@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="43" data-sid="PSA 18:43"
+  class="v">43</span>Thou hast delivered me from the strivings of the people;
+  <span class="add">and</span> thou hast made me the head of the heathen: a
+  people <span class="add">whom</span> I have not known shall serve me.</p>
+id: PSA/18/43
+next:
+  id: PSA/18/44
+  number: '44'
+previous:
+  id: PSA/18/42
+  number: '42'
+reference: 'Psalms 18:43'

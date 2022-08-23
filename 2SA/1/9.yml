@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2SA 1:9" class="v">9</span>He
+  said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is
+  come upon me, because my life <span class="add">is</span> yet whole in me.
+  </p>
+id: 2SA/1/9
+next:
+  id: 2SA/1/10
+  number: '10'
+previous:
+  id: 2SA/1/8
+  number: '8'
+reference: '2 Samuel 1:9'

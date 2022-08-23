@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 119:15"
+  class="v">15</span>I will meditate in thy precepts, and have respect unto thy
+  ways.</p>
+id: PSA/119/15
+next:
+  id: PSA/119/16
+  number: '16'
+previous:
+  id: PSA/119/14
+  number: '14'
+reference: 'Psalms 119:15'

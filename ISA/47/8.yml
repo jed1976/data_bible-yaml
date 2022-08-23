@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 47:8"
+  class="v">8</span>Therefore hear now this, <span class="add">thou that
+  art</span> given to pleasures, that dwellest carelessly, that sayest in thine
+  heart, I <span class="add">am</span>, and none else beside me; I shall not sit
+  <span class="add">as</span> a widow, neither shall I know the loss of
+  children: </p>
+id: ISA/47/8
+next:
+  id: ISA/47/9
+  number: '9'
+previous:
+  id: ISA/47/7
+  number: '7'
+reference: 'Isaiah 47:8'

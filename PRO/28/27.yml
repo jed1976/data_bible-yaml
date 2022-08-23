@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 28:27" class="v">27</span>He
+  that giveth unto the poor shall not lack: but he that hideth his eyes shall
+  have many a curse. </p>
+id: PRO/28/27
+next:
+  id: PRO/28/28
+  number: '28'
+previous:
+  id: PRO/28/26
+  number: '26'
+reference: 'Proverbs 28:27'

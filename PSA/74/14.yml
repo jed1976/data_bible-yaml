@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 74:14"
+  class="v">14</span>Thou brakest the heads of leviathan in pieces, <span
+  class="add">and</span> gavest him <span class="add">to be</span> meat to the
+  people inhabiting the wilderness.</p>
+id: PSA/74/14
+next:
+  id: PSA/74/15
+  number: '15'
+previous:
+  id: PSA/74/13
+  number: '13'
+reference: 'Psalms 74:14'

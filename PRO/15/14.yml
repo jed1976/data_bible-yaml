@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 15:14"
+  class="v">14</span>The heart of him that hath understanding seeketh knowledge:
+  but the mouth of fools feedeth on foolishness. </p>
+id: PRO/15/14
+next:
+  id: PRO/15/15
+  number: '15'
+previous:
+  id: PRO/15/13
+  number: '13'
+reference: 'Proverbs 15:14'

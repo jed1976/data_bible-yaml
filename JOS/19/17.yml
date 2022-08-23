@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 19:17" class="v">17</span>¶
+  <span class="add">And</span> the fourth lot came out to Issachar, for the
+  children of Issachar according to their families. </p>
+id: JOS/19/17
+next:
+  id: JOS/19/18
+  number: '18'
+previous:
+  id: JOS/19/16
+  number: '16'
+reference: 'Joshua 19:17'

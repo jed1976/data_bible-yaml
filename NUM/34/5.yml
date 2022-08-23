@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 34:5" class="v">5</span>And
+  the border shall fetch a compass from Azmon unto the river of Egypt, and the
+  goings out of it shall be at the sea. </p>
+id: NUM/34/5
+next:
+  id: NUM/34/6
+  number: '6'
+previous:
+  id: NUM/34/4
+  number: '4'
+reference: 'Numbers 34:5'

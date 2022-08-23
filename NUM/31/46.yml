@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="NUM 31:46"
+  class="v">46</span>And sixteen thousand persons;) </p>
+id: NUM/31/46
+next:
+  id: NUM/31/47
+  number: '47'
+previous:
+  id: NUM/31/45
+  number: '45'
+reference: 'Numbers 31:46'

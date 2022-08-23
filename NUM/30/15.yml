@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 30:15"
+  class="v">15</span>But if he shall any ways make them void after that he hath
+  heard <span class="add">them;</span> then he shall bear her iniquity. </p>
+id: NUM/30/15
+next:
+  id: NUM/30/16
+  number: '16'
+previous:
+  id: NUM/30/14
+  number: '14'
+reference: 'Numbers 30:15'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="JHN 4:49" class="v">49</span>The
+  nobleman saith unto him, Sir, come down ere my child die. </p>
+id: JHN/4/49
+next:
+  id: JHN/4/50
+  number: '50'
+previous:
+  id: JHN/4/48
+  number: '48'
+reference: 'John 4:49'

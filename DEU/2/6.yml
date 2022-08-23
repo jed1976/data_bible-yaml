@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 2:6" class="v">6</span>Ye
+  shall buy meat of them for money, that ye may eat; and ye shall also buy water
+  of them for money, that ye may drink. </p>
+id: DEU/2/6
+next:
+  id: DEU/2/7
+  number: '7'
+previous:
+  id: DEU/2/5
+  number: '5'
+reference: 'Deuteronomy 2:6'

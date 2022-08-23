@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 2:5" class="v">5</span>¶
+  <span class="add">Now</span> in Shushan the palace there was a certain Jew,
+  whose name <span class="add">was</span> Mordecai, the son of Jair, the son of
+  Shimei, the son of Kish, a Benjamite; </p>
+id: EST/2/5
+next:
+  id: EST/2/6
+  number: '6'
+previous:
+  id: EST/2/4
+  number: '4'
+reference: 'Esther 2:5'

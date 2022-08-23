@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 11:19"
+  class="v">19</span>Then he shall turn his face toward the fort of his own
+  land: but he shall stumble and fall, and not be found. </p>
+id: DAN/11/19
+next:
+  id: DAN/11/20
+  number: '20'
+previous:
+  id: DAN/11/18
+  number: '18'
+reference: 'Daniel 11:19'

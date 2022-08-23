@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 65:10"
+  class="v">10</span>And Sharon shall be a fold of flocks, and the valley of
+  Achor a place for the herds to lie down in, for my people that have sought
+  me.</p>
+id: ISA/65/10
+next:
+  id: ISA/65/11
+  number: '11'
+previous:
+  id: ISA/65/9
+  number: '9'
+reference: 'Isaiah 65:10'

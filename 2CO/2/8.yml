@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CO 2:8"
+  class="v">8</span>Wherefore I beseech you that ye would confirm <span
+  class="add">your</span> love toward him. </p>
+id: 2CO/2/8
+next:
+  id: 2CO/2/9
+  number: '9'
+previous:
+  id: 2CO/2/7
+  number: '7'
+reference: '2 Corinthians 2:8'

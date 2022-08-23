@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 25:1"
+  class="v">1</span>Moreover David and the captains of the host separated to the
+  service of the sons of Asaph, and of Heman, and of Jeduthun, who should
+  prophesy with harps, with psalteries, and with cymbals: and the number of the
+  workmen according to their service was: </p>
+id: 1CH/25/1
+next:
+  id: 1CH/25/2
+  number: '2'
+previous:
+  id: 1CH/24/31
+  number: '31'
+reference: '1 Chronicles 25:1'

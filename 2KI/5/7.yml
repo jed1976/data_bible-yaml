@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2KI 5:7" class="v">7</span>And it
+  came to pass, when the king of Israel had read the letter, that he rent his
+  clothes, and said, <span class="add">Am</span> I God, to kill and to make
+  alive, that this man doth send unto me to recover a man of his leprosy?
+  wherefore consider, I pray you, and see how he seeketh a quarrel against
+  me.</p>
+id: 2KI/5/7
+next:
+  id: 2KI/5/8
+  number: '8'
+previous:
+  id: 2KI/5/6
+  number: '6'
+reference: '2 Kings 5:7'

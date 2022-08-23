@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 57:14"
+  class="v">14</span>And shall say, Cast ye up, cast ye up, prepare the way,
+  take up the stumblingblock out of the way of my people. </p>
+id: ISA/57/14
+next:
+  id: ISA/57/15
+  number: '15'
+previous:
+  id: ISA/57/13
+  number: '13'
+reference: 'Isaiah 57:14'

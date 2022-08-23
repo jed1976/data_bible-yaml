@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 1:7" class="v">7</span>But I
+  will send a fire on the wall of Gaza, which shall devour the palaces thereof:
+  </p>
+id: AMO/1/7
+next:
+  id: AMO/1/8
+  number: '8'
+previous:
+  id: AMO/1/6
+  number: '6'
+reference: 'Amos 1:7'

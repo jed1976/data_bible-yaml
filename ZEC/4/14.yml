@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ZEC 4:14"
+  class="v">14</span>Then said he, These <span class="add">are</span> the two
+  anointed ones, that stand by the Lord of the whole earth.</p>
+id: ZEC/4/14
+next:
+  id: ZEC/5/1
+  number: '1'
+previous:
+  id: ZEC/4/13
+  number: '13'
+reference: 'Zechariah 4:14'

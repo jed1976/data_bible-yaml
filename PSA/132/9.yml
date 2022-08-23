@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 132:9" class="v">9</span>Let
+  thy priests be clothed with righteousness; and let thy saints shout for
+  joy.</p>
+id: PSA/132/9
+next:
+  id: PSA/132/10
+  number: '10'
+previous:
+  id: PSA/132/8
+  number: '8'
+reference: 'Psalms 132:9'

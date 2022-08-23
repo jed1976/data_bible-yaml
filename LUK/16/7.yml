@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 16:7" class="v">7</span><span
+  class="wj">Then said he to another, And how much owest thou? And he said, An
+  hundred measures of wheat. And he said unto him, Take thy bill, and write
+  fourscore.</span> </p>
+id: LUK/16/7
+next:
+  id: LUK/16/8
+  number: '8'
+previous:
+  id: LUK/16/6
+  number: '6'
+reference: 'Luke 16:7'

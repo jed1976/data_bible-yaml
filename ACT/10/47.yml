@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="ACT 10:47"
+  class="v">47</span>Can any man forbid water, that these should not be
+  baptized, which have received the Holy Ghost as well as we? </p>
+id: ACT/10/47
+next:
+  id: ACT/10/48
+  number: '48'
+previous:
+  id: ACT/10/46
+  number: '46'
+reference: 'Acts 10:47'

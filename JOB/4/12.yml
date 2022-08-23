@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 4:12" class="v">12</span>Now
+  a thing was secretly brought to me, and mine ear received a little thereof.
+  </p>
+id: JOB/4/12
+next:
+  id: JOB/4/13
+  number: '13'
+previous:
+  id: JOB/4/11
+  number: '11'
+reference: 'Job 4:12'

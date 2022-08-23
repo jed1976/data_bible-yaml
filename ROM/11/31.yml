@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ROM 11:31"
+  class="v">31</span>Even so have these also now not believed, that through your
+  mercy they also may obtain mercy. </p>
+id: ROM/11/31
+next:
+  id: ROM/11/32
+  number: '32'
+previous:
+  id: ROM/11/30
+  number: '30'
+reference: 'Romans 11:31'

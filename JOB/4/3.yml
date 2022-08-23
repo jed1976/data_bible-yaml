@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 4:3"
+  class="v">3</span>Behold, thou hast instructed many, and thou hast
+  strengthened the weak hands. </p>
+id: JOB/4/3
+next:
+  id: JOB/4/4
+  number: '4'
+previous:
+  id: JOB/4/2
+  number: '2'
+reference: 'Job 4:3'

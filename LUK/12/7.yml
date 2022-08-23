@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 12:7" class="v">7</span><span
+  class="wj">But even the very hairs of your head are all numbered. Fear not
+  therefore: ye are of more value than many sparrows.</span> </p>
+id: LUK/12/7
+next:
+  id: LUK/12/8
+  number: '8'
+previous:
+  id: LUK/12/6
+  number: '6'
+reference: 'Luke 12:7'

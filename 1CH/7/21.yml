@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CH 7:21" class="v">21</span>¶
+  And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of
+  Gath <span class="add">that were</span> born in <span class="add">that</span>
+  land slew, because they came down to take away their cattle. </p>
+id: 1CH/7/21
+next:
+  id: 1CH/7/22
+  number: '22'
+previous:
+  id: 1CH/7/20
+  number: '20'
+reference: '1 Chronicles 7:21'

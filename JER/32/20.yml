@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 32:20"
+  class="v">20</span>Which hast set signs and wonders in the land of Egypt,
+  <span class="add">even</span> unto this day, and in Israel, and among <span
+  class="add">other</span> men; and hast made thee a name, as at this day; </p>
+id: JER/32/20
+next:
+  id: JER/32/21
+  number: '21'
+previous:
+  id: JER/32/19
+  number: '19'
+reference: 'Jeremiah 32:20'

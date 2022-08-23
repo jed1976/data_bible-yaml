@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 5:2" class="v">2</span>Male
+  and female created he them; and blessed them, and called their name Adam, in
+  the day when they were created.</p>
+id: GEN/5/2
+next:
+  id: GEN/5/3
+  number: '3'
+previous:
+  id: GEN/5/1
+  number: '1'
+reference: 'Genesis 5:2'

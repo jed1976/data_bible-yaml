@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 16:8" class="v">8</span><span
+  class="add">Which</span> when Jesus perceived, he said unto them, <span
+  class="wj">O ye of little faith, why reason ye among yourselves, because ye
+  have brought no bread?</span> </p>
+id: MAT/16/8
+next:
+  id: MAT/16/9
+  number: '9'
+previous:
+  id: MAT/16/7
+  number: '7'
+reference: 'Matthew 16:8'

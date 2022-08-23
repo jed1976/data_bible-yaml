@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 57:6" class="v">6</span>They
+  have prepared a net for my steps; my soul is bowed down: they have digged a
+  pit before me, into the midst whereof they are fallen <span
+  class="add">themselves</span>. Selah.</p>
+id: PSA/57/6
+next:
+  id: PSA/57/7
+  number: '7'
+previous:
+  id: PSA/57/5
+  number: '5'
+reference: 'Psalms 57:6'

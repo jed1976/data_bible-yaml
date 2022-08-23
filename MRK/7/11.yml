@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 7:11"
+  class="v">11</span><span class="wj">But ye say, If a man shall say to his
+  father or mother, <span class="add">It is</span> Corban, that is to say, a
+  gift, by whatsoever thou mightest be profited by me; <span class="add">he
+  shall be free</span>.</span> </p>
+id: MRK/7/11
+next:
+  id: MRK/7/12
+  number: '12'
+previous:
+  id: MRK/7/10
+  number: '10'
+reference: 'Mark 7:11'

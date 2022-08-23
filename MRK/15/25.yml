@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 15:25"
+  class="v">25</span>And it was the third hour, and they crucified him. </p>
+id: MRK/15/25
+next:
+  id: MRK/15/26
+  number: '26'
+previous:
+  id: MRK/15/24
+  number: '24'
+reference: 'Mark 15:25'

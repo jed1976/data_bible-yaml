@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 27:6" class="v">6</span>And
+  now shall mine head be lifted up above mine enemies round about me: therefore
+  will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will
+  sing praises unto the <span class="nd">LORD</span>.</p>
+id: PSA/27/6
+next:
+  id: PSA/27/7
+  number: '7'
+previous:
+  id: PSA/27/5
+  number: '5'
+reference: 'Psalms 27:6'

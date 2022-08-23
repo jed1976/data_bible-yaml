@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 17:15"
+  class="v">15</span>And one of them, when he saw that he was healed, turned
+  back, and with a loud voice glorified God, </p>
+id: LUK/17/15
+next:
+  id: LUK/17/16
+  number: '16'
+previous:
+  id: LUK/17/14
+  number: '14'
+reference: 'Luke 17:15'

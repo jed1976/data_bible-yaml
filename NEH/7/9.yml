@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 7:9" class="v">9</span>The
+  children of Shephatiah, three hundred seventy and two. </p>
+id: NEH/7/9
+next:
+  id: NEH/7/10
+  number: '10'
+previous:
+  id: NEH/7/8
+  number: '8'
+reference: 'Nehemiah 7:9'

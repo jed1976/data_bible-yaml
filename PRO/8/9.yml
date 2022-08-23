@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 8:9" class="v">9</span>They
+  <span class="add">are</span> all plain to him that understandeth, and right to
+  them that find knowledge. </p>
+id: PRO/8/9
+next:
+  id: PRO/8/10
+  number: '10'
+previous:
+  id: PRO/8/8
+  number: '8'
+reference: 'Proverbs 8:9'

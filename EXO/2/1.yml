@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 2:1" class="v">1</span>And
+  there went a man of the house of Levi, and took <span class="add">to
+  wife</span> a daughter of Levi. </p>
+id: EXO/2/1
+next:
+  id: EXO/2/2
+  number: '2'
+previous:
+  id: EXO/1/22
+  number: '22'
+reference: 'Exodus 2:1'

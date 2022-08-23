@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 51:1"
+  class="v">1</span>Hearken to me, ye that follow after righteousness, ye that
+  seek the <span class="nd">LORD</span>: look unto the rock <span
+  class="add">whence</span> ye are hewn, and to the hole of the pit <span
+  class="add">whence</span> ye are digged. </p>
+id: ISA/51/1
+next:
+  id: ISA/51/2
+  number: '2'
+previous:
+  id: ISA/50/11
+  number: '11'
+reference: 'Isaiah 51:1'

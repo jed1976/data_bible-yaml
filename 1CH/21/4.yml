@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 21:4"
+  class="v">4</span>Nevertheless the king’s word prevailed against Joab.
+  Wherefore Joab departed, and went throughout all Israel, and came to
+  Jerusalem.</p>
+id: 1CH/21/4
+next:
+  id: 1CH/21/5
+  number: '5'
+previous:
+  id: 1CH/21/3
+  number: '3'
+reference: '1 Chronicles 21:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MAT 25:40"
+  class="v">40</span><span class="wj">And the King shall answer and say unto
+  them, Verily I say unto you, Inasmuch as ye have done <span
+  class="add">it</span> unto one of the least of these my brethren, ye have done
+  <span class="add">it</span> unto me.</span> </p>
+id: MAT/25/40
+next:
+  id: MAT/25/41
+  number: '41'
+previous:
+  id: MAT/25/39
+  number: '39'
+reference: 'Matthew 25:40'

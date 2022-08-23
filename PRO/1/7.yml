@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 1:7" class="v">7</span>¶ The
+  fear of the <span class="nd">LORD</span> <span class="add">is</span> the
+  beginning of knowledge: <span class="add">but</span> fools despise wisdom and
+  instruction. </p>
+id: PRO/1/7
+next:
+  id: PRO/1/8
+  number: '8'
+previous:
+  id: PRO/1/6
+  number: '6'
+reference: 'Proverbs 1:7'

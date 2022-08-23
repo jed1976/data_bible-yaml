@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 103:7" class="v">7</span>He
+  made known his ways unto Moses, his acts unto the children of Israel.</p>
+id: PSA/103/7
+next:
+  id: PSA/103/8
+  number: '8'
+previous:
+  id: PSA/103/6
+  number: '6'
+reference: 'Psalms 103:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 14:24"
+  class="v">24</span>And he said unto them, <span class="wj">This is my blood of
+  the new testament, which is shed for many.</span> </p>
+id: MRK/14/24
+next:
+  id: MRK/14/25
+  number: '25'
+previous:
+  id: MRK/14/23
+  number: '23'
+reference: 'Mark 14:24'

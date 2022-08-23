@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 12:20" class="v">20</span>He
+  removeth away the speech of the trusty, and taketh away the understanding of
+  the aged. </p>
+id: JOB/12/20
+next:
+  id: JOB/12/21
+  number: '21'
+previous:
+  id: JOB/12/19
+  number: '19'
+reference: 'Job 12:20'

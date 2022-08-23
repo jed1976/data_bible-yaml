@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 1:6" class="v">6</span>From
+  the sole of the foot even unto the head <span class="add">there is</span> no
+  soundness in it; <span class="add">but</span> wounds, and bruises, and
+  putrifying sores: they have not been closed, neither bound up, neither
+  mollified with ointment. </p>
+id: ISA/1/6
+next:
+  id: ISA/1/7
+  number: '7'
+previous:
+  id: ISA/1/5
+  number: '5'
+reference: 'Isaiah 1:6'

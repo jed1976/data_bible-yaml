@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 23:4" class="v">4</span>And
+  they that stood by said, Revilest thou God’s high priest? </p>
+id: ACT/23/4
+next:
+  id: ACT/23/5
+  number: '5'
+previous:
+  id: ACT/23/3
+  number: '3'
+reference: 'Acts 23:4'

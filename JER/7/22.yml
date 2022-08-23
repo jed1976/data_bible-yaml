@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 7:22" class="v">22</span>For
+  I spake not unto your fathers, nor commanded them in the day that I brought
+  them out of the land of Egypt, concerning burnt offerings or sacrifices: </p>
+id: JER/7/22
+next:
+  id: JER/7/23
+  number: '23'
+previous:
+  id: JER/7/21
+  number: '21'
+reference: 'Jeremiah 7:22'

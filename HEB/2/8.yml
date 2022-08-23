@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HEB 2:8" class="v">8</span>Thou
+  hast put all things in subjection under his feet. For in that he put all in
+  subjection under him, he left nothing <span class="add">that is</span> not put
+  under him. But now we see not yet all things put under him. </p>
+id: HEB/2/8
+next:
+  id: HEB/2/9
+  number: '9'
+previous:
+  id: HEB/2/7
+  number: '7'
+reference: 'Hebrews 2:8'

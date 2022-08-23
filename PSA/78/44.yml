@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="44" data-sid="PSA 78:44"
+  class="v">44</span>And had turned their rivers into blood; and their floods,
+  that they could not drink.</p>
+id: PSA/78/44
+next:
+  id: PSA/78/45
+  number: '45'
+previous:
+  id: PSA/78/43
+  number: '43'
+reference: 'Psalms 78:44'

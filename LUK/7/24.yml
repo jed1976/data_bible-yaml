@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 7:24" class="v">24</span>¶
+  And when the messengers of John were departed, he began to speak unto the
+  people concerning John, <span class="wj">What went ye out into the wilderness
+  for to see? A reed shaken with the wind?</span> </p>
+id: LUK/7/24
+next:
+  id: LUK/7/25
+  number: '25'
+previous:
+  id: LUK/7/23
+  number: '23'
+reference: 'Luke 7:24'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 3:11" class="v">11</span>For
+  only Og king of Bashan remained of the remnant of giants; behold, his bedstead
+  <span class="add">was</span> a bedstead of iron; <span class="add">is</span>
+  it not in Rabbath of the children of Ammon? nine cubits <span
+  class="add">was</span> the length thereof, and four cubits the breadth of it,
+  after the cubit of a man.</p>
+id: DEU/3/11
+next:
+  id: DEU/3/12
+  number: '12'
+previous:
+  id: DEU/3/10
+  number: '10'
+reference: 'Deuteronomy 3:11'

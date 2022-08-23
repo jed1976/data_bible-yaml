@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 19:26" class="v">26</span>¶
+  Ye shall not eat <span class="add">any thing</span> with the blood: neither
+  shall ye use enchantment, nor observe times. </p>
+id: LEV/19/26
+next:
+  id: LEV/19/27
+  number: '27'
+previous:
+  id: LEV/19/25
+  number: '25'
+reference: 'Leviticus 19:26'

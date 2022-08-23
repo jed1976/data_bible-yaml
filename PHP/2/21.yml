@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PHP 2:21" class="v">21</span>For
+  all seek their own, not the things which are Jesus Christ’s. </p>
+id: PHP/2/21
+next:
+  id: PHP/2/22
+  number: '22'
+previous:
+  id: PHP/2/20
+  number: '20'
+reference: 'Philippians 2:21'

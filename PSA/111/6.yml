@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 111:6"
+  class="v">6</span>He hath shewed his people the power of his works, that he
+  may give them the heritage of the heathen.</p>
+id: PSA/111/6
+next:
+  id: PSA/111/7
+  number: '7'
+previous:
+  id: PSA/111/5
+  number: '5'
+reference: 'Psalms 111:6'

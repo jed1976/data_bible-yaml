@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 12:4" class="v">4</span>For
+  as we have many members in one body, and all members have not the same office:
+  </p>
+id: ROM/12/4
+next:
+  id: ROM/12/5
+  number: '5'
+previous:
+  id: ROM/12/3
+  number: '3'
+reference: 'Romans 12:4'

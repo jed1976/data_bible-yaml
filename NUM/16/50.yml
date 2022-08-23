@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="NUM 16:50"
+  class="v">50</span>And Aaron returned unto Moses unto the door of the
+  tabernacle of the congregation: and the plague was stayed.</p>
+id: NUM/16/50
+next:
+  id: NUM/17/1
+  number: '1'
+previous:
+  id: NUM/16/49
+  number: '49'
+reference: 'Numbers 16:50'

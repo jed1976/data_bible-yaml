@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 10:4"
+  class="v">4</span>Arise; for <span class="add">this</span> matter <span
+  class="add">belongeth</span> unto thee: we also <span class="add">will
+  be</span> with thee: be of good courage, and do <span class="add">it</span>.
+  </p>
+id: EZR/10/4
+next:
+  id: EZR/10/5
+  number: '5'
+previous:
+  id: EZR/10/3
+  number: '3'
+reference: 'Ezra 10:4'

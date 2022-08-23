@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 6:10" class="v">10</span>I
+  have seen an horrible thing in the house of Israel: there <span
+  class="add">is</span> the whoredom of Ephraim, Israel is defiled. </p>
+id: HOS/6/10
+next:
+  id: HOS/6/11
+  number: '11'
+previous:
+  id: HOS/6/9
+  number: '9'
+reference: 'Hosea 6:10'

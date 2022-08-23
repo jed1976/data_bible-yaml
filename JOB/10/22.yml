@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 10:22" class="v">22</span>A
+  land of darkness, as darkness <span class="add">itself; and</span> of the
+  shadow of death, without any order, and <span class="add">where</span> the
+  light <span class="add">is</span> as darkness.</p>
+id: JOB/10/22
+next:
+  id: JOB/11/1
+  number: '1'
+previous:
+  id: JOB/10/21
+  number: '21'
+reference: 'Job 10:22'

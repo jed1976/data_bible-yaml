@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 15:10"
+  class="v">10</span><span class="wj">If ye keep my commandments, ye shall abide
+  in my love; even as I have kept my Father’s commandments, and abide in his
+  love.</span> </p>
+id: JHN/15/10
+next:
+  id: JHN/15/11
+  number: '11'
+previous:
+  id: JHN/15/9
+  number: '9'
+reference: 'John 15:10'

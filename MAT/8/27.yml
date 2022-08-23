@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 8:27" class="v">27</span>But
+  the men marvelled, saying, What manner of man is this, that even the winds and
+  the sea obey him!</p>
+id: MAT/8/27
+next:
+  id: MAT/8/28
+  number: '28'
+previous:
+  id: MAT/8/26
+  number: '26'
+reference: 'Matthew 8:27'

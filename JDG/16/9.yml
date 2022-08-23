@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 16:9" class="v">9</span>Now
+  <span class="add">there were</span> men lying in wait, abiding with her in the
+  chamber. And she said unto him, The Philistines <span class="add">be</span>
+  upon thee, Samson. And he brake the withs, as a thread of tow is broken when
+  it toucheth the fire. So his strength was not known. </p>
+id: JDG/16/9
+next:
+  id: JDG/16/10
+  number: '10'
+previous:
+  id: JDG/16/8
+  number: '8'
+reference: 'Judges 16:9'

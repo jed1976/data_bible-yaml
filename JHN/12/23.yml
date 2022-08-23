@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 12:23" class="v">23</span>¶
+  And Jesus answered them, saying, <span class="wj">The hour is come, that the
+  Son of man should be glorified.</span> </p>
+id: JHN/12/23
+next:
+  id: JHN/12/24
+  number: '24'
+previous:
+  id: JHN/12/22
+  number: '22'
+reference: 'John 12:23'

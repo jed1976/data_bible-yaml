@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ECC 11:8" class="v">8</span>But
+  if a man live many years, <span class="add">and</span> rejoice in them all;
+  yet let him remember the days of darkness; for they shall be many. All that
+  cometh <span class="add">is</span> vanity.</p>
+id: ECC/11/8
+next:
+  id: ECC/11/9
+  number: '9'
+previous:
+  id: ECC/11/7
+  number: '7'
+reference: 'Ecclesiastes 11:8'

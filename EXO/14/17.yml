@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 14:17"
+  class="v">17</span>And I, behold, I will harden the hearts of the Egyptians,
+  and they shall follow them: and I will get me honour upon Pharaoh, and upon
+  all his host, upon his chariots, and upon his horsemen. </p>
+id: EXO/14/17
+next:
+  id: EXO/14/18
+  number: '18'
+previous:
+  id: EXO/14/16
+  number: '16'
+reference: 'Exodus 14:17'

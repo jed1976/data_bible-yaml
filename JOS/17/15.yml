@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 17:15"
+  class="v">15</span>And Joshua answered them, If thou <span
+  class="add">be</span> a great people, <span class="add">then</span> get thee
+  up to the wood <span class="add">country</span>, and cut down for thyself
+  there in the land of the Perizzites and of the giants, if mount Ephraim be too
+  narrow for thee. </p>
+id: JOS/17/15
+next:
+  id: JOS/17/16
+  number: '16'
+previous:
+  id: JOS/17/14
+  number: '14'
+reference: 'Joshua 17:15'

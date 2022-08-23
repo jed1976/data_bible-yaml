@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 22:23"
+  class="v">23</span>And Bethuel begat Rebekah: these eight Milcah did bear to
+  Nahor, Abraham’s brother. </p>
+id: GEN/22/23
+next:
+  id: GEN/22/24
+  number: '24'
+previous:
+  id: GEN/22/22
+  number: '22'
+reference: 'Genesis 22:23'

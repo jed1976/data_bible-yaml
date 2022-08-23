@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 10:16"
+  class="v">16</span><span class="wj">And other sheep I have, which are not of
+  this fold: them also I must bring, and they shall hear my voice; and there
+  shall be one fold, <span class="add">and</span> one shepherd.</span> </p>
+id: JHN/10/16
+next:
+  id: JHN/10/17
+  number: '17'
+previous:
+  id: JHN/10/15
+  number: '15'
+reference: 'John 10:16'

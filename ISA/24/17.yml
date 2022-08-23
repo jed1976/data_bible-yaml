@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 24:17"
+  class="v">17</span>Fear, and the pit, and the snare, <span
+  class="add">are</span> upon thee, O inhabitant of the earth. </p>
+id: ISA/24/17
+next:
+  id: ISA/24/18
+  number: '18'
+previous:
+  id: ISA/24/16
+  number: '16'
+reference: 'Isaiah 24:17'

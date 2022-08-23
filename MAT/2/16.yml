@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 2:16" class="v">16</span>¶
+  Then Herod, when he saw that he was mocked of the wise men, was exceeding
+  wroth, and sent forth, and slew all the children that were in Bethlehem, and
+  in all the coasts thereof, from two years old and under, according to the time
+  which he had diligently enquired of the wise men. </p>
+id: MAT/2/16
+next:
+  id: MAT/2/17
+  number: '17'
+previous:
+  id: MAT/2/15
+  number: '15'
+reference: 'Matthew 2:16'

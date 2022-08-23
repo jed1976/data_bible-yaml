@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 5:19" class="v">19</span>And
+  the officers of the children of Israel did see <span class="add">that</span>
+  they <span class="add">were</span> in evil <span class="add">case</span>,
+  after it was said, Ye shall not minish <span class="add">ought</span> from
+  your bricks of your daily task.</p>
+id: EXO/5/19
+next:
+  id: EXO/5/20
+  number: '20'
+previous:
+  id: EXO/5/18
+  number: '18'
+reference: 'Exodus 5:19'

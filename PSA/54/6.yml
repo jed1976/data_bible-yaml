@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 54:6" class="v">6</span>I
+  will freely sacrifice unto thee: I will praise thy name, O <span
+  class="nd">LORD</span>; for <span class="add">it is</span> good.</p>
+id: PSA/54/6
+next:
+  id: PSA/54/7
+  number: '7'
+previous:
+  id: PSA/54/5
+  number: '5'
+reference: 'Psalms 54:6'

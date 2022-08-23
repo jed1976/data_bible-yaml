@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 139:10"
+  class="v">10</span>Even there shall thy hand lead me, and thy right hand shall
+  hold me.</p>
+id: PSA/139/10
+next:
+  id: PSA/139/11
+  number: '11'
+previous:
+  id: PSA/139/9
+  number: '9'
+reference: 'Psalms 139:10'

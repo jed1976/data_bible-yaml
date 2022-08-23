@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 11:13" class="v">13</span>¶
+  And the priests and the Levites that <span class="add">were</span> in all
+  Israel resorted to him out of all their coasts. </p>
+id: 2CH/11/13
+next:
+  id: 2CH/11/14
+  number: '14'
+previous:
+  id: 2CH/11/12
+  number: '12'
+reference: '2 Chronicles 11:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 9:13" class="v">13</span>As
+  <span class="add">it is</span> written in the law of Moses, all this evil is
+  come upon us: yet made we not our prayer before the <span
+  class="nd">LORD</span> our God, that we might turn from our iniquities, and
+  understand thy truth. </p>
+id: DAN/9/13
+next:
+  id: DAN/9/14
+  number: '14'
+previous:
+  id: DAN/9/12
+  number: '12'
+reference: 'Daniel 9:13'

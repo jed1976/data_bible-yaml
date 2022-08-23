@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 26:24"
+  class="v">24</span>And Shebuel the son of Gershom, the son of Moses, <span
+  class="add">was</span> ruler of the treasures. </p>
+id: 1CH/26/24
+next:
+  id: 1CH/26/25
+  number: '25'
+previous:
+  id: 1CH/26/23
+  number: '23'
+reference: '1 Chronicles 26:24'

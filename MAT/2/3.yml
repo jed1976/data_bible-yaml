@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 2:3" class="v">3</span>When
+  Herod the king had heard <span class="add">these things</span>, he was
+  troubled, and all Jerusalem with him. </p>
+id: MAT/2/3
+next:
+  id: MAT/2/4
+  number: '4'
+previous:
+  id: MAT/2/2
+  number: '2'
+reference: 'Matthew 2:3'

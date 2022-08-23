@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="37" data-sid="PSA 107:37"
+  class="v">37</span>And sow the fields, and plant vineyards, which may yield
+  fruits of increase.</p>
+id: PSA/107/37
+next:
+  id: PSA/107/38
+  number: '38'
+previous:
+  id: PSA/107/36
+  number: '36'
+reference: 'Psalms 107:37'

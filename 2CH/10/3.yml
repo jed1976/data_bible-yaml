@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 10:3" class="v">3</span>And
+  they sent and called him. So Jeroboam and all Israel came and spake to
+  Rehoboam, saying, </p>
+id: 2CH/10/3
+next:
+  id: 2CH/10/4
+  number: '4'
+previous:
+  id: 2CH/10/2
+  number: '2'
+reference: '2 Chronicles 10:3'

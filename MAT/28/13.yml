@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 28:13"
+  class="v">13</span>Saying, Say ye, His disciples came by night, and stole him
+  <span class="add">away</span> while we slept. </p>
+id: MAT/28/13
+next:
+  id: MAT/28/14
+  number: '14'
+previous:
+  id: MAT/28/12
+  number: '12'
+reference: 'Matthew 28:13'

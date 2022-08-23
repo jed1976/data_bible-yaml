@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 80:15"
+  class="v">15</span>And the vineyard which thy right hand hath planted, and the
+  branch <span class="add">that</span> thou madest strong for thyself.</p>
+id: PSA/80/15
+next:
+  id: PSA/80/16
+  number: '16'
+previous:
+  id: PSA/80/14
+  number: '14'
+reference: 'Psalms 80:15'

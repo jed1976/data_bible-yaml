@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="DAN 4:37" class="v">37</span>Now
+  I Nebuchadnezzar praise and extol and honour the King of heaven, all whose
+  works <span class="add">are</span> truth, and his ways judgment: and those
+  that walk in pride he is able to abase.</p>
+id: DAN/4/37
+next:
+  id: DAN/5/1
+  number: '1'
+previous:
+  id: DAN/4/36
+  number: '36'
+reference: 'Daniel 4:37'

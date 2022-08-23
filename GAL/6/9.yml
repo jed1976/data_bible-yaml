@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GAL 6:9" class="v">9</span>And
+  let us not be weary in well doing: for in due season we shall reap, if we
+  faint not. </p>
+id: GAL/6/9
+next:
+  id: GAL/6/10
+  number: '10'
+previous:
+  id: GAL/6/8
+  number: '8'
+reference: 'Galatians 6:9'

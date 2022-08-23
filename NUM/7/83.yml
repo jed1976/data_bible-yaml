@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="83" data-sid="NUM 7:83" class="v">83</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Ahira the son of Enan. </p>
+id: NUM/7/83
+next:
+  id: NUM/7/84
+  number: '84'
+previous:
+  id: NUM/7/82
+  number: '82'
+reference: 'Numbers 7:83'

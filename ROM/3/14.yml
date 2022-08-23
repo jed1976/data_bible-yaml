@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 3:14"
+  class="v">14</span>Whose mouth <span class="add">is</span> full of cursing and
+  bitterness: </p>
+id: ROM/3/14
+next:
+  id: ROM/3/15
+  number: '15'
+previous:
+  id: ROM/3/13
+  number: '13'
+reference: 'Romans 3:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="10" data-sid="PSA 145:10"
+  class="v">10</span>All thy works shall praise thee, O <span
+  class="nd">LORD</span>; and thy saints shall bless thee.</p>
+id: PSA/145/10
+next:
+  id: PSA/145/11
+  number: '11'
+previous:
+  id: PSA/145/9
+  number: '9'
+reference: 'Psalms 145:10'

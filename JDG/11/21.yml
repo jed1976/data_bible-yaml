@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 11:21"
+  class="v">21</span>And the <span class="nd">LORD</span> God of Israel
+  delivered Sihon and all his people into the hand of Israel, and they smote
+  them: so Israel possessed all the land of the Amorites, the inhabitants of
+  that country. </p>
+id: JDG/11/21
+next:
+  id: JDG/11/22
+  number: '22'
+previous:
+  id: JDG/11/20
+  number: '20'
+reference: 'Judges 11:21'

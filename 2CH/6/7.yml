@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2CH 6:7" class="v">7</span>Now it
+  was in the heart of David my father to build an house for the name of the
+  <span class="nd">LORD</span> God of Israel. </p>
+id: 2CH/6/7
+next:
+  id: 2CH/6/8
+  number: '8'
+previous:
+  id: 2CH/6/6
+  number: '6'
+reference: '2 Chronicles 6:7'

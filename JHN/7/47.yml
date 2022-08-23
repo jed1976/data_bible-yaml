@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="JHN 7:47"
+  class="v">47</span>Then answered them the Pharisees, Are ye also deceived?
+  </p>
+id: JHN/7/47
+next:
+  id: JHN/7/48
+  number: '48'
+previous:
+  id: JHN/7/46
+  number: '46'
+reference: 'John 7:47'

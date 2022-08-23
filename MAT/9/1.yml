@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 9:1" class="v">1</span>And he
+  entered into a ship, and passed over, and came into his own city. </p>
+id: MAT/9/1
+next:
+  id: MAT/9/2
+  number: '2'
+previous:
+  id: MAT/8/34
+  number: '34'
+reference: 'Matthew 9:1'

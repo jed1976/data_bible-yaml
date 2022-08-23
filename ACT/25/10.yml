@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 25:10"
+  class="v">10</span>Then said Paul, I stand at Cæsar’s judgment seat, where I
+  ought to be judged: to the Jews have I done no wrong, as thou very well
+  knowest. </p>
+id: ACT/25/10
+next:
+  id: ACT/25/11
+  number: '11'
+previous:
+  id: ACT/25/9
+  number: '9'
+reference: 'Acts 25:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 109:6"
+  class="v">6</span>Set thou a wicked man over him: and let Satan stand at his
+  right hand.</p>
+id: PSA/109/6
+next:
+  id: PSA/109/7
+  number: '7'
+previous:
+  id: PSA/109/5
+  number: '5'
+reference: 'Psalms 109:6'

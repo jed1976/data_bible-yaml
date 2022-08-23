@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2SA 18:21"
+  class="v">21</span>Then said Joab to Cushi, Go tell the king what thou hast
+  seen. And Cushi bowed himself unto Joab, and ran. </p>
+id: 2SA/18/21
+next:
+  id: 2SA/18/22
+  number: '22'
+previous:
+  id: 2SA/18/20
+  number: '20'
+reference: '2 Samuel 18:21'

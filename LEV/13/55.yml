@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LEV 13:55"
+  class="v">55</span>And the priest shall look on the plague, after that it is
+  washed: and, behold, <span class="add">if</span> the plague have not changed
+  his colour, and the plague be not spread; it <span class="add">is</span>
+  unclean; thou shalt burn it in the fire; it <span class="add">is</span> fret
+  inward, <span class="add">whether</span> it <span class="add">be</span> bare
+  within or without. </p>
+id: LEV/13/55
+next:
+  id: LEV/13/56
+  number: '56'
+previous:
+  id: LEV/13/54
+  number: '54'
+reference: 'Leviticus 13:55'

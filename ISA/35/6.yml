@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 35:6" class="v">6</span>Then
+  shall the lame <span class="add">man</span> leap as an hart, and the tongue of
+  the dumb sing: for in the wilderness shall waters break out, and streams in
+  the desert. </p>
+id: ISA/35/6
+next:
+  id: ISA/35/7
+  number: '7'
+previous:
+  id: ISA/35/5
+  number: '5'
+reference: 'Isaiah 35:6'

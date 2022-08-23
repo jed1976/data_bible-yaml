@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 9:13" class="v">13</span>And
+  they presented the burnt offering unto him, with the pieces thereof, and the
+  head: and he burnt <span class="add">them</span> upon the altar. </p>
+id: LEV/9/13
+next:
+  id: LEV/9/14
+  number: '14'
+previous:
+  id: LEV/9/12
+  number: '12'
+reference: 'Leviticus 9:13'

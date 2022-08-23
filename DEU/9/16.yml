@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 9:16" class="v">16</span>And
+  I looked, and, behold, ye had sinned against the <span class="nd">LORD</span>
+  your God, <span class="add">and</span> had made you a molten calf: ye had
+  turned aside quickly out of the way which the <span class="nd">LORD</span> had
+  commanded you. </p>
+id: DEU/9/16
+next:
+  id: DEU/9/17
+  number: '17'
+previous:
+  id: DEU/9/15
+  number: '15'
+reference: 'Deuteronomy 9:16'

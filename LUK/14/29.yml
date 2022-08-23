@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 14:29"
+  class="v">29</span><span class="wj">Lest haply, after he hath laid the
+  foundation, and is not able to finish <span class="add">it</span>, all that
+  behold <span class="add">it</span> begin to mock him,</span> </p>
+id: LUK/14/29
+next:
+  id: LUK/14/30
+  number: '30'
+previous:
+  id: LUK/14/28
+  number: '28'
+reference: 'Luke 14:29'

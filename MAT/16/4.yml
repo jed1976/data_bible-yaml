@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 16:4" class="v">4</span><span
+  class="wj">A wicked and adulterous generation seeketh after a sign; and there
+  shall no sign be given unto it, but the sign of the prophet Jonas.</span> And
+  he left them, and departed. </p>
+id: MAT/16/4
+next:
+  id: MAT/16/5
+  number: '5'
+previous:
+  id: MAT/16/3
+  number: '3'
+reference: 'Matthew 16:4'

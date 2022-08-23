@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JER 8:8" class="v">8</span>How do
+  ye say, We <span class="add">are</span> wise, and the law of the <span
+  class="nd">LORD</span> <span class="add">is</span> with us? Lo, certainly in
+  vain made he <span class="add">it;</span> the pen of the scribes <span
+  class="add">is</span> in vain. </p>
+id: JER/8/8
+next:
+  id: JER/8/9
+  number: '9'
+previous:
+  id: JER/8/7
+  number: '7'
+reference: 'Jeremiah 8:8'

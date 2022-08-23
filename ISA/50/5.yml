@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 50:5" class="v">5</span>¶ The
+  Lord <span class="nd">GOD</span> hath opened mine ear, and I was not
+  rebellious, neither turned away back. </p>
+id: ISA/50/5
+next:
+  id: ISA/50/6
+  number: '6'
+previous:
+  id: ISA/50/4
+  number: '4'
+reference: 'Isaiah 50:5'

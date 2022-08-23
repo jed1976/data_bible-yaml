@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 19:4" class="v">4</span>Then
+  said Paul, John verily baptized with the baptism of repentance, saying unto
+  the people, that they should believe on him which should come after him, that
+  is, on Christ Jesus. </p>
+id: ACT/19/4
+next:
+  id: ACT/19/5
+  number: '5'
+previous:
+  id: ACT/19/3
+  number: '3'
+reference: 'Acts 19:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm for the sons of Korah.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 85:1" class="v">1</span><span
+  class="nd">LORD</span>, thou hast been favourable unto thy land: thou hast
+  brought back the captivity of Jacob.</p>
+id: PSA/85/1
+next:
+  id: PSA/85/2
+  number: '2'
+previous:
+  id: PSA/84/12
+  number: '12'
+reference: 'Psalms 85:1'

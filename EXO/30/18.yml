@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 30:18"
+  class="v">18</span>Thou shalt also make a laver <span class="add">of</span>
+  brass, and his foot <span class="add">also of</span> brass, to wash <span
+  class="add">withal:</span> and thou shalt put it between the tabernacle of the
+  congregation and the altar, and thou shalt put water therein. </p>
+id: EXO/30/18
+next:
+  id: EXO/30/19
+  number: '19'
+previous:
+  id: EXO/30/17
+  number: '17'
+reference: 'Exodus 30:18'

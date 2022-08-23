@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 6:6" class="v">6</span>And
+  these words, which I command thee this day, shall be in thine heart: </p>
+id: DEU/6/6
+next:
+  id: DEU/6/7
+  number: '7'
+previous:
+  id: DEU/6/5
+  number: '5'
+reference: 'Deuteronomy 6:6'

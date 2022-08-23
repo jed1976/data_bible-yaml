@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 25:6" class="v">6</span>Put
+  not forth thyself in the presence of the king, and stand not in the place of
+  great <span class="add">men:</span> </p>
+id: PRO/25/6
+next:
+  id: PRO/25/7
+  number: '7'
+previous:
+  id: PRO/25/5
+  number: '5'
+reference: 'Proverbs 25:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2TI 4:6" class="v">6</span>For I
+  am now ready to be offered, and the time of my departure is at hand. </p>
+id: 2TI/4/6
+next:
+  id: 2TI/4/7
+  number: '7'
+previous:
+  id: 2TI/4/5
+  number: '5'
+reference: '2 Timothy 4:6'

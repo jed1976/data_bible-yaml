@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="41" data-sid="PSA 106:41"
+  class="v">41</span>And he gave them into the hand of the heathen; and they
+  that hated them ruled over them.</p>
+id: PSA/106/41
+next:
+  id: PSA/106/42
+  number: '42'
+previous:
+  id: PSA/106/40
+  number: '40'
+reference: 'Psalms 106:41'

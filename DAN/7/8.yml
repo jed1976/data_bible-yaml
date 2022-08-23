@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 7:8" class="v">8</span>I
+  considered the horns, and, behold, there came up among them another little
+  horn, before whom there were three of the first horns plucked up by the roots:
+  and, behold, in this horn <span class="add">were</span> eyes like the eyes of
+  man, and a mouth speaking great things.</p>
+id: DAN/7/8
+next:
+  id: DAN/7/9
+  number: '9'
+previous:
+  id: DAN/7/7
+  number: '7'
+reference: 'Daniel 7:8'

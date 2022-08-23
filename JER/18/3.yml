@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 18:3" class="v">3</span>Then
+  I went down to the potter’s house, and, behold, he wrought a work on the
+  wheels. </p>
+id: JER/18/3
+next:
+  id: JER/18/4
+  number: '4'
+previous:
+  id: JER/18/2
+  number: '2'
+reference: 'Jeremiah 18:3'

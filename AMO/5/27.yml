@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="AMO 5:27"
+  class="v">27</span>Therefore will I cause you to go into captivity beyond
+  Damascus, saith the <span class="nd">LORD</span>, whose name <span
+  class="add">is</span> The God of hosts.</p>
+id: AMO/5/27
+next:
+  id: AMO/6/1
+  number: '1'
+previous:
+  id: AMO/5/26
+  number: '26'
+reference: 'Amos 5:27'

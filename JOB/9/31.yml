@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOB 9:31" class="v">31</span>Yet
+  shalt thou plunge me in the ditch, and mine own clothes shall abhor me. </p>
+id: JOB/9/31
+next:
+  id: JOB/9/32
+  number: '32'
+previous:
+  id: JOB/9/30
+  number: '30'
+reference: 'Job 9:31'

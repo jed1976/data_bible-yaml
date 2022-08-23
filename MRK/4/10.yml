@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 4:10" class="v">10</span>And
+  when he was alone, they that were about him with the twelve asked of him the
+  parable. </p>
+id: MRK/4/10
+next:
+  id: MRK/4/11
+  number: '11'
+previous:
+  id: MRK/4/9
+  number: '9'
+reference: 'Mark 4:10'

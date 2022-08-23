@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 8:10" class="v">10</span>¶
+  And straightway he entered into a ship with his disciples, and came into the
+  parts of Dalmanutha. </p>
+id: MRK/8/10
+next:
+  id: MRK/8/11
+  number: '11'
+previous:
+  id: MRK/8/9
+  number: '9'
+reference: 'Mark 8:10'

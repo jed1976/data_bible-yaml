@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="1CH 27:34"
+  class="v">34</span>And after Ahithophel <span class="add">was</span> Jehoiada
+  the son of Benaiah, and Abiathar: and the general of the king’s army <span
+  class="add">was</span> Joab.</p>
+id: 1CH/27/34
+next:
+  id: 1CH/28/1
+  number: '1'
+previous:
+  id: 1CH/27/33
+  number: '33'
+reference: '1 Chronicles 27:34'

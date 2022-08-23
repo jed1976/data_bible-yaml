@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="JHN 10:40"
+  class="v">40</span>And went away again beyond Jordan into the place where John
+  at first baptized; and there he abode. </p>
+id: JHN/10/40
+next:
+  id: JHN/10/41
+  number: '41'
+previous:
+  id: JHN/10/39
+  number: '39'
+reference: 'John 10:40'

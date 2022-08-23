@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 26:22" class="v">22</span>¶
+  Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet,
+  the son of Amoz, write. </p>
+id: 2CH/26/22
+next:
+  id: 2CH/26/23
+  number: '23'
+previous:
+  id: 2CH/26/21
+  number: '21'
+reference: '2 Chronicles 26:22'

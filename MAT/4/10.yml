@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 4:10"
+  class="v">10</span>Then saith Jesus unto him, <span class="wj">Get thee hence,
+  Satan: for it is written, Thou shalt worship the Lord thy God, and him only
+  shalt thou serve.</span> </p>
+id: MAT/4/10
+next:
+  id: MAT/4/11
+  number: '11'
+previous:
+  id: MAT/4/9
+  number: '9'
+reference: 'Matthew 4:10'

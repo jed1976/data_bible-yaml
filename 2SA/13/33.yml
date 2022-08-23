@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2SA 13:33"
+  class="v">33</span>Now therefore let not my lord the king take the thing to
+  his heart, to think that all the king’s sons are dead: for Amnon only is dead.
+  </p>
+id: 2SA/13/33
+next:
+  id: 2SA/13/34
+  number: '34'
+previous:
+  id: 2SA/13/32
+  number: '32'
+reference: '2 Samuel 13:33'

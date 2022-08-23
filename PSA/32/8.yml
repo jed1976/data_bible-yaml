@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 32:8" class="v">8</span>I
+  will instruct thee and teach thee in the way which thou shalt go: I will guide
+  thee with mine eye.</p>
+id: PSA/32/8
+next:
+  id: PSA/32/9
+  number: '9'
+previous:
+  id: PSA/32/7
+  number: '7'
+reference: 'Psalms 32:8'

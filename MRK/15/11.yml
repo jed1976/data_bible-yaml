@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MRK 15:11"
+  class="v">11</span>But the chief priests moved the people, that he should
+  rather release Barabbas unto them. </p>
+id: MRK/15/11
+next:
+  id: MRK/15/12
+  number: '12'
+previous:
+  id: MRK/15/10
+  number: '10'
+reference: 'Mark 15:11'

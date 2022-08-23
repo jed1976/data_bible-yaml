@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 32:3" class="v">3</span>For
+  Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy,
+  and say, Thus saith the <span class="nd">LORD</span>, Behold, I will give this
+  city into the hand of the king of Babylon, and he shall take it; </p>
+id: JER/32/3
+next:
+  id: JER/32/4
+  number: '4'
+previous:
+  id: JER/32/2
+  number: '2'
+reference: 'Jeremiah 32:3'

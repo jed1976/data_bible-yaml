@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 18:14"
+  class="v">14</span>The spirit of a man will sustain his infirmity; but a
+  wounded spirit who can bear? </p>
+id: PRO/18/14
+next:
+  id: PRO/18/15
+  number: '15'
+previous:
+  id: PRO/18/13
+  number: '13'
+reference: 'Proverbs 18:14'

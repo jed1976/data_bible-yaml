@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 6:3" class="v">3</span>And in
+  the third chariot white horses; and in the fourth chariot grisled and bay
+  horses. </p>
+id: ZEC/6/3
+next:
+  id: ZEC/6/4
+  number: '4'
+previous:
+  id: ZEC/6/2
+  number: '2'
+reference: 'Zechariah 6:3'

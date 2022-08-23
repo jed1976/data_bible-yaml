@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 3:7" class="v">7</span>And
+  the children of Israel did evil in the sight of the <span
+  class="nd">LORD</span>, and forgat the <span class="nd">LORD</span> their God,
+  and served Baalim and the groves.</p>
+id: JDG/3/7
+next:
+  id: JDG/3/8
+  number: '8'
+previous:
+  id: JDG/3/6
+  number: '6'
+reference: 'Judges 3:7'

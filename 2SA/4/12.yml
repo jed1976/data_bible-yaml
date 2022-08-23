@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2SA 4:12" class="v">12</span>And
+  David commanded his young men, and they slew them, and cut off their hands and
+  their feet, and hanged <span class="add">them</span> up over the pool in
+  Hebron. But they took the head of Ish-bosheth, and buried <span
+  class="add">it</span> in the sepulchre of Abner in Hebron.</p>
+id: 2SA/4/12
+next:
+  id: 2SA/5/1
+  number: '1'
+previous:
+  id: 2SA/4/11
+  number: '11'
+reference: '2 Samuel 4:12'

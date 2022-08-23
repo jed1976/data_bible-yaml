@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 17:6" class="v">6</span>For
+  he shall be like the heath in the desert, and shall not see when good cometh;
+  but shall inhabit the parched places in the wilderness, <span
+  class="add">in</span> a salt land and not inhabited. </p>
+id: JER/17/6
+next:
+  id: JER/17/7
+  number: '7'
+previous:
+  id: JER/17/5
+  number: '5'
+reference: 'Jeremiah 17:6'

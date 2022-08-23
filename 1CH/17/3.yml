@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 17:3" class="v">3</span>¶ And
+  it came to pass the same night, that the word of God came to Nathan, saying,
+  </p>
+id: 1CH/17/3
+next:
+  id: 1CH/17/4
+  number: '4'
+previous:
+  id: 1CH/17/2
+  number: '2'
+reference: '1 Chronicles 17:3'

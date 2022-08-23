@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 19:7" class="v">7</span>And
+  all the men were about twelve. </p>
+id: ACT/19/7
+next:
+  id: ACT/19/8
+  number: '8'
+previous:
+  id: ACT/19/6
+  number: '6'
+reference: 'Acts 19:7'

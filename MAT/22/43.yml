@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 22:43" class="v">43</span>He
+  saith unto them, <span class="wj">How then doth David in spirit call him Lord,
+  saying,</span> </p>
+id: MAT/22/43
+next:
+  id: MAT/22/44
+  number: '44'
+previous:
+  id: MAT/22/42
+  number: '42'
+reference: 'Matthew 22:43'

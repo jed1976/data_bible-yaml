@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 37:3" class="v">3</span>And
+  he cast for it four rings of gold, <span class="add">to be set</span> by the
+  four corners of it; even two rings upon the one side of it, and two rings upon
+  the other side of it. </p>
+id: EXO/37/3
+next:
+  id: EXO/37/4
+  number: '4'
+previous:
+  id: EXO/37/2
+  number: '2'
+reference: 'Exodus 37:3'

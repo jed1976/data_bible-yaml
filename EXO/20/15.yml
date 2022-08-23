@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 20:15"
+  class="v">15</span>Thou shalt not steal. </p>
+id: EXO/20/15
+next:
+  id: EXO/20/16
+  number: '16'
+previous:
+  id: EXO/20/14
+  number: '14'
+reference: 'Exodus 20:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 20:23"
+  class="v">23</span><span class="add">When</span> he is about to fill his
+  belly, <span class="add">God</span> shall cast the fury of his wrath upon him,
+  and shall rain <span class="add">it</span> upon him while he is eating. </p>
+id: JOB/20/23
+next:
+  id: JOB/20/24
+  number: '24'
+previous:
+  id: JOB/20/22
+  number: '22'
+reference: 'Job 20:23'

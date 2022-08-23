@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 118:11"
+  class="v">11</span>They compassed me about; yea, they compassed me about: but
+  in the name of the <span class="nd">LORD</span> I will destroy them.</p>
+id: PSA/118/11
+next:
+  id: PSA/118/12
+  number: '12'
+previous:
+  id: PSA/118/10
+  number: '10'
+reference: 'Psalms 118:11'

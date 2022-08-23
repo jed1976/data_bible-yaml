@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 12:11"
+  class="v">11</span>Not slothful in business; fervent in spirit; serving the
+  Lord; </p>
+id: ROM/12/11
+next:
+  id: ROM/12/12
+  number: '12'
+previous:
+  id: ROM/12/10
+  number: '10'
+reference: 'Romans 12:11'

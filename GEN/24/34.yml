@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 24:34"
+  class="v">34</span>And he said, I <span class="add">am</span> Abraham’s
+  servant. </p>
+id: GEN/24/34
+next:
+  id: GEN/24/35
+  number: '35'
+previous:
+  id: GEN/24/33
+  number: '33'
+reference: 'Genesis 24:34'

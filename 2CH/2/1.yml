@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 2:1" class="v">1</span>And
+  Solomon determined to build an house for the name of the <span
+  class="nd">LORD</span>, and an house for his kingdom. </p>
+id: 2CH/2/1
+next:
+  id: 2CH/2/2
+  number: '2'
+previous:
+  id: 2CH/1/17
+  number: '17'
+reference: '2 Chronicles 2:1'

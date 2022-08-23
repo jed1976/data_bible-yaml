@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 132:17"
+  class="v">17</span>There will I make the horn of David to bud: I have ordained
+  a lamp for mine anointed.</p>
+id: PSA/132/17
+next:
+  id: PSA/132/18
+  number: '18'
+previous:
+  id: PSA/132/16
+  number: '16'
+reference: 'Psalms 132:17'

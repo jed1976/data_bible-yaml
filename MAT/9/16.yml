@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 9:16"
+  class="v">16</span><span class="wj">No man putteth a piece of new cloth unto
+  an old garment, for that which is put in to fill it up taketh from the
+  garment, and the rent is made worse.</span> </p>
+id: MAT/9/16
+next:
+  id: MAT/9/17
+  number: '17'
+previous:
+  id: MAT/9/15
+  number: '15'
+reference: 'Matthew 9:16'

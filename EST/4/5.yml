@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EST 4:5" class="v">5</span>Then
+  called Esther for Hatach, <span class="add">one</span> of the king’s
+  chamberlains, whom he had appointed to attend upon her, and gave him a
+  commandment to Mordecai, to know what it <span class="add">was</span>, and why
+  it <span class="add">was</span>. </p>
+id: EST/4/5
+next:
+  id: EST/4/6
+  number: '6'
+previous:
+  id: EST/4/4
+  number: '4'
+reference: 'Esther 4:5'

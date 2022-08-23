@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 23:3" class="v">3</span>Oh
+  that I knew where I might find him! <span class="add">that</span> I might come
+  <span class="add">even</span> to his seat! </p>
+id: JOB/23/3
+next:
+  id: JOB/23/4
+  number: '4'
+previous:
+  id: JOB/23/2
+  number: '2'
+reference: 'Job 23:3'

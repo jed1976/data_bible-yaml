@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 5:21" class="v">21</span>And
+  when they heard <span class="add">that</span>, they entered into the temple
+  early in the morning, and taught. But the high priest came, and they that were
+  with him, and called the council together, and all the senate of the children
+  of Israel, and sent to the prison to have them brought. </p>
+id: ACT/5/21
+next:
+  id: ACT/5/22
+  number: '22'
+previous:
+  id: ACT/5/20
+  number: '20'
+reference: 'Acts 5:21'

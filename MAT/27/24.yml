@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 27:24" class="v">24</span>¶
+  When Pilate saw that he could prevail nothing, but <span
+  class="add">that</span> rather a tumult was made, he took water, and washed
+  <span class="add">his</span> hands before the multitude, saying, I am innocent
+  of the blood of this just person: see ye <span class="add">to it</span>. </p>
+id: MAT/27/24
+next:
+  id: MAT/27/25
+  number: '25'
+previous:
+  id: MAT/27/23
+  number: '23'
+reference: 'Matthew 27:24'

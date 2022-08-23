@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 39:10"
+  class="v">10</span>Canst thou bind the unicorn with his band in the furrow? or
+  will he harrow the valleys after thee? </p>
+id: JOB/39/10
+next:
+  id: JOB/39/11
+  number: '11'
+previous:
+  id: JOB/39/9
+  number: '9'
+reference: 'Job 39:10'

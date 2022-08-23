@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CO 12:12"
+  class="v">12</span>Truly the signs of an apostle were wrought among you in all
+  patience, in signs, and wonders, and mighty deeds. </p>
+id: 2CO/12/12
+next:
+  id: 2CO/12/13
+  number: '13'
+previous:
+  id: 2CO/12/11
+  number: '11'
+reference: '2 Corinthians 12:12'

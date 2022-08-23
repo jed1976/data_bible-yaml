@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 25:22"
+  class="v">22</span>And the children struggled together within her; and she
+  said, If <span class="add">it be</span> so, why <span class="add">am</span> I
+  thus? And she went to enquire of the <span class="nd">LORD</span>. </p>
+id: GEN/25/22
+next:
+  id: GEN/25/23
+  number: '23'
+previous:
+  id: GEN/25/21
+  number: '21'
+reference: 'Genesis 25:22'

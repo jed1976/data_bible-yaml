@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1SA 5:3" class="v">3</span>¶ And
+  when they of Ashdod arose early on the morrow, behold, Dagon <span
+  class="add">was</span> fallen upon his face to the earth before the ark of the
+  <span class="nd">LORD</span>. And they took Dagon, and set him in his place
+  again. </p>
+id: 1SA/5/3
+next:
+  id: 1SA/5/4
+  number: '4'
+previous:
+  id: 1SA/5/2
+  number: '2'
+reference: '1 Samuel 5:3'

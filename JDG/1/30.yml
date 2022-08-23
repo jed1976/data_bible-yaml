@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 1:30" class="v">30</span>¶
+  Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants
+  of Nahalol; but the Canaanites dwelt among them, and became tributaries.</p>
+id: JDG/1/30
+next:
+  id: JDG/1/31
+  number: '31'
+previous:
+  id: JDG/1/29
+  number: '29'
+reference: 'Judges 1:30'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 7:18" class="v">18</span>And
+  it shall come to pass in that day, <span class="add">that</span> the <span
+  class="nd">LORD</span> shall hiss for the fly that <span class="add">is</span>
+  in the uttermost part of the rivers of Egypt, and for the bee that <span
+  class="add">is</span> in the land of Assyria. </p>
+id: ISA/7/18
+next:
+  id: ISA/7/19
+  number: '19'
+previous:
+  id: ISA/7/17
+  number: '17'
+reference: 'Isaiah 7:18'

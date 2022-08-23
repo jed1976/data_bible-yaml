@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 4:23" class="v">23</span>And
+  Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of
+  Lamech, hearken unto my speech: for I have slain a man to my wounding, and a
+  young man to my hurt. </p>
+id: GEN/4/23
+next:
+  id: GEN/4/24
+  number: '24'
+previous:
+  id: GEN/4/22
+  number: '22'
+reference: 'Genesis 4:23'

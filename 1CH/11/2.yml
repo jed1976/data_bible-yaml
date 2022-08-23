@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CH 11:2" class="v">2</span>And
+  moreover in time past, even when Saul was king, thou <span
+  class="add">wast</span> he that leddest out and broughtest in Israel: and the
+  <span class="nd">LORD</span> thy God said unto thee, Thou shalt feed my people
+  Israel, and thou shalt be ruler over my people Israel. </p>
+id: 1CH/11/2
+next:
+  id: 1CH/11/3
+  number: '3'
+previous:
+  id: 1CH/11/1
+  number: '1'
+reference: '1 Chronicles 11:2'

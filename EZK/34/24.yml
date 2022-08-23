@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EZK 34:24"
+  class="v">24</span>And I the <span class="nd">LORD</span> will be their God,
+  and my servant David a prince among them; I the <span class="nd">LORD</span>
+  have spoken <span class="add">it</span>. </p>
+id: EZK/34/24
+next:
+  id: EZK/34/25
+  number: '25'
+previous:
+  id: EZK/34/23
+  number: '23'
+reference: 'Ezekiel 34:24'

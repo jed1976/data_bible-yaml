@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 16:37"
+  class="v">37</span>But Paul said unto them, They have beaten us openly
+  uncondemned, being Romans, and have cast <span class="add">us</span> into
+  prison; and now do they thrust us out privily? nay verily; but let them come
+  themselves and fetch us out. </p>
+id: ACT/16/37
+next:
+  id: ACT/16/38
+  number: '38'
+previous:
+  id: ACT/16/36
+  number: '36'
+reference: 'Acts 16:37'

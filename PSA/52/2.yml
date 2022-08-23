@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 52:2" class="v">2</span>Thy
+  tongue deviseth mischiefs; like a sharp razor, working deceitfully.</p>
+id: PSA/52/2
+next:
+  id: PSA/52/3
+  number: '3'
+previous:
+  id: PSA/52/1
+  number: '1'
+reference: 'Psalms 52:2'

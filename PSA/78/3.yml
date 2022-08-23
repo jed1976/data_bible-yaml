@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 78:3"
+  class="v">3</span>Which we have heard and known, and our fathers have told
+  us.</p>
+id: PSA/78/3
+next:
+  id: PSA/78/4
+  number: '4'
+previous:
+  id: PSA/78/2
+  number: '2'
+reference: 'Psalms 78:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 25:4" class="v">4</span>¶ And
+  the city was broken up, and all the men of war <span class="add">fled</span>
+  by night by the way of the gate between two walls, which <span
+  class="add">is</span> by the king’s garden: (now the Chaldees <span
+  class="add">were</span> against the city round about:) and <span
+  class="add">the king</span> went the way toward the plain. </p>
+id: 2KI/25/4
+next:
+  id: 2KI/25/5
+  number: '5'
+previous:
+  id: 2KI/25/3
+  number: '3'
+reference: '2 Kings 25:4'

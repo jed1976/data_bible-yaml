@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 12:7" class="v">7</span>The
+  wicked are overthrown, and <span class="add">are</span> not: but the house of
+  the righteous shall stand. </p>
+id: PRO/12/7
+next:
+  id: PRO/12/8
+  number: '8'
+previous:
+  id: PRO/12/6
+  number: '6'
+reference: 'Proverbs 12:7'

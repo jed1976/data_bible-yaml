@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 21:12" class="v">12</span>¶
+  And Jesus went into the temple of God, and cast out all them that sold and
+  bought in the temple, and overthrew the tables of the moneychangers, and the
+  seats of them that sold doves, </p>
+id: MAT/21/12
+next:
+  id: MAT/21/13
+  number: '13'
+previous:
+  id: MAT/21/11
+  number: '11'
+reference: 'Matthew 21:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 44:25"
+  class="v">25</span>For our soul is bowed down to the dust: our belly cleaveth
+  unto the earth.</p>
+id: PSA/44/25
+next:
+  id: PSA/44/26
+  number: '26'
+previous:
+  id: PSA/44/24
+  number: '24'
+reference: 'Psalms 44:25'

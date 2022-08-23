@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 19:3" class="v">3</span>And
+  say, Hear ye the word of the <span class="nd">LORD</span>, O kings of Judah,
+  and inhabitants of Jerusalem; Thus saith the <span class="nd">LORD</span> of
+  hosts, the God of Israel; Behold, I will bring evil upon this place, the which
+  whosoever heareth, his ears shall tingle. </p>
+id: JER/19/3
+next:
+  id: JER/19/4
+  number: '4'
+previous:
+  id: JER/19/2
+  number: '2'
+reference: 'Jeremiah 19:3'

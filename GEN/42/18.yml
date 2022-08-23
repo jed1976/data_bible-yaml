@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 42:18"
+  class="v">18</span>And Joseph said unto them the third day, This do, and live;
+  <span class="add">for</span> I fear God: </p>
+id: GEN/42/18
+next:
+  id: GEN/42/19
+  number: '19'
+previous:
+  id: GEN/42/17
+  number: '17'
+reference: 'Genesis 42:18'

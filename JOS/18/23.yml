@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 18:23"
+  class="v">23</span>And Avim, and Parah, and Ophrah, </p>
+id: JOS/18/23
+next:
+  id: JOS/18/24
+  number: '24'
+previous:
+  id: JOS/18/22
+  number: '22'
+reference: 'Joshua 18:23'

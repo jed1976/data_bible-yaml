@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 22:5" class="v">5</span><span
+  class="add">Is</span> not thy wickedness great? and thine iniquities infinite?
+  </p>
+id: JOB/22/5
+next:
+  id: JOB/22/6
+  number: '6'
+previous:
+  id: JOB/22/4
+  number: '4'
+reference: 'Job 22:5'

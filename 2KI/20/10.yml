@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 20:10"
+  class="v">10</span>And Hezekiah answered, It is a light thing for the shadow
+  to go down ten degrees: nay, but let the shadow return backward ten degrees.
+  </p>
+id: 2KI/20/10
+next:
+  id: 2KI/20/11
+  number: '11'
+previous:
+  id: 2KI/20/9
+  number: '9'
+reference: '2 Kings 20:10'

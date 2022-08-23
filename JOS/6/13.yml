@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 6:13" class="v">13</span>And
+  seven priests bearing seven trumpets of rams’ horns before the ark of the
+  <span class="nd">LORD</span> went on continually, and blew with the trumpets:
+  and the armed men went before them; but the rereward came after the ark of the
+  <span class="nd">LORD</span>, <span class="add">the priests</span> going on,
+  and blowing with the trumpets. </p>
+id: JOS/6/13
+next:
+  id: JOS/6/14
+  number: '14'
+previous:
+  id: JOS/6/12
+  number: '12'
+reference: 'Joshua 6:13'

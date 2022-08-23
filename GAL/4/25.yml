@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GAL 4:25" class="v">25</span>For
+  this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is,
+  and is in bondage with her children. </p>
+id: GAL/4/25
+next:
+  id: GAL/4/26
+  number: '26'
+previous:
+  id: GAL/4/24
+  number: '24'
+reference: 'Galatians 4:25'

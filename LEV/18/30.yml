@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 18:30"
+  class="v">30</span>Therefore shall ye keep mine ordinance, that <span
+  class="add">ye</span> commit not <span class="add">any one</span> of these
+  abominable customs, which were committed before you, and that ye defile not
+  yourselves therein: I <span class="add">am</span> the <span
+  class="nd">LORD</span> your God.</p>
+id: LEV/18/30
+next:
+  id: LEV/19/1
+  number: '1'
+previous:
+  id: LEV/18/29
+  number: '29'
+reference: 'Leviticus 18:30'

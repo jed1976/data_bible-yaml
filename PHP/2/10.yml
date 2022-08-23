@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PHP 2:10"
+  class="v">10</span>That at the name of Jesus every knee should bow, of <span
+  class="add">things</span> in heaven, and <span class="add">things</span> in
+  earth, and <span class="add">things</span> under the earth; </p>
+id: PHP/2/10
+next:
+  id: PHP/2/11
+  number: '11'
+previous:
+  id: PHP/2/9
+  number: '9'
+reference: 'Philippians 2:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ECC 10:19" class="v">19</span>¶
+  A feast is made for laughter, and wine maketh merry: but money answereth all
+  <span class="add">things</span>.</p>
+id: ECC/10/19
+next:
+  id: ECC/10/20
+  number: '20'
+previous:
+  id: ECC/10/18
+  number: '18'
+reference: 'Ecclesiastes 10:19'

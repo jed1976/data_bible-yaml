@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 57:4" class="v">4</span>My
+  soul <span class="add">is</span> among lions: <span class="add">and</span> I
+  lie <span class="add">even among</span> them that are set on fire, <span
+  class="add">even</span> the sons of men, whose teeth <span
+  class="add">are</span> spears and arrows, and their tongue a sharp sword.</p>
+id: PSA/57/4
+next:
+  id: PSA/57/5
+  number: '5'
+previous:
+  id: PSA/57/3
+  number: '3'
+reference: 'Psalms 57:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 10:8" class="v">8</span>¶ And
+  the <span class="nd">LORD</span> said unto Joshua, Fear them not: for I have
+  delivered them into thine hand; there shall not a man of them stand before
+  thee. </p>
+id: JOS/10/8
+next:
+  id: JOS/10/9
+  number: '9'
+previous:
+  id: JOS/10/7
+  number: '7'
+reference: 'Joshua 10:8'

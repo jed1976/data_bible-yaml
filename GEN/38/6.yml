@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 38:6" class="v">6</span>And
+  Judah took a wife for Er his firstborn, whose name <span
+  class="add">was</span> Tamar. </p>
+id: GEN/38/6
+next:
+  id: GEN/38/7
+  number: '7'
+previous:
+  id: GEN/38/5
+  number: '5'
+reference: 'Genesis 38:6'

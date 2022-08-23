@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 25:8" class="v">8</span><span
+  class="wj">And the foolish said unto the wise, Give us of your oil; for our
+  lamps are gone out.</span> </p>
+id: MAT/25/8
+next:
+  id: MAT/25/9
+  number: '9'
+previous:
+  id: MAT/25/7
+  number: '7'
+reference: 'Matthew 25:8'

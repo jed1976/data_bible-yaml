@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 4:4" class="v">4</span>And
+  Abel, he also brought of the firstlings of his flock and of the fat thereof.
+  And the <span class="nd">LORD</span> had respect unto Abel and to his
+  offering: </p>
+id: GEN/4/4
+next:
+  id: GEN/4/5
+  number: '5'
+previous:
+  id: GEN/4/3
+  number: '3'
+reference: 'Genesis 4:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ISA 40:29" class="v">29</span>He
+  giveth power to the faint; and to <span class="add">them that have</span> no
+  might he increaseth strength. </p>
+id: ISA/40/29
+next:
+  id: ISA/40/30
+  number: '30'
+previous:
+  id: ISA/40/28
+  number: '28'
+reference: 'Isaiah 40:29'

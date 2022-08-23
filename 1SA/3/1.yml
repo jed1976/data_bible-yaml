@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 3:1" class="v">1</span>And
+  the child Samuel ministered unto the <span class="nd">LORD</span> before Eli.
+  And the word of the <span class="nd">LORD</span> was precious in those days;
+  <span class="add">there was</span> no open vision. </p>
+id: 1SA/3/1
+next:
+  id: 1SA/3/2
+  number: '2'
+previous:
+  id: 1SA/2/36
+  number: '36'
+reference: '1 Samuel 3:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 31:43"
+  class="v">43</span>(Now the half <span class="add">that pertained unto</span>
+  the congregation was three hundred thousand and thirty thousand <span
+  class="add">and</span> seven thousand and five hundred sheep, </p>
+id: NUM/31/43
+next:
+  id: NUM/31/44
+  number: '44'
+previous:
+  id: NUM/31/42
+  number: '42'
+reference: 'Numbers 31:43'

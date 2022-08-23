@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 19:21"
+  class="v">21</span><span class="wj">For I feared thee, because thou art an
+  austere man: thou takest up that thou layedst not down, and reapest that thou
+  didst not sow.</span> </p>
+id: LUK/19/21
+next:
+  id: LUK/19/22
+  number: '22'
+previous:
+  id: LUK/19/20
+  number: '20'
+reference: 'Luke 19:21'

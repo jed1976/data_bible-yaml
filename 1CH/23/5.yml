@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 23:5"
+  class="v">5</span>Moreover four thousand <span class="add">were</span>
+  porters; and four thousand praised the <span class="nd">LORD</span> with the
+  instruments which I made, <span class="add">said David</span>, to praise <span
+  class="add">therewith</span>. </p>
+id: 1CH/23/5
+next:
+  id: 1CH/23/6
+  number: '6'
+previous:
+  id: 1CH/23/4
+  number: '4'
+reference: '1 Chronicles 23:5'

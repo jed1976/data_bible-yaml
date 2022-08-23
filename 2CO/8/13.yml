@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CO 8:13" class="v">13</span>For
+  <span class="add">I mean</span> not that other men be eased, and ye burdened:
+  </p>
+id: 2CO/8/13
+next:
+  id: 2CO/8/14
+  number: '14'
+previous:
+  id: 2CO/8/12
+  number: '12'
+reference: '2 Corinthians 8:13'

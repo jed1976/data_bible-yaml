@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 7:9" class="v">9</span>There
+  went in two and two unto Noah into the ark, the male and the female, as God
+  had commanded Noah. </p>
+id: GEN/7/9
+next:
+  id: GEN/7/10
+  number: '10'
+previous:
+  id: GEN/7/8
+  number: '8'
+reference: 'Genesis 7:9'

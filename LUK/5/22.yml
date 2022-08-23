@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 5:22" class="v">22</span>But
+  when Jesus perceived their thoughts, he answering said unto them, <span
+  class="wj">What reason ye in your hearts?</span> </p>
+id: LUK/5/22
+next:
+  id: LUK/5/23
+  number: '23'
+previous:
+  id: LUK/5/21
+  number: '21'
+reference: 'Luke 5:22'

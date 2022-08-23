@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 26:1" class="v">1</span>And
+  it came to pass in the eleventh year, in the first <span
+  class="add">day</span> of the month, <span class="add">that</span> the word of
+  the <span class="nd">LORD</span> came unto me, saying, </p>
+id: EZK/26/1
+next:
+  id: EZK/26/2
+  number: '2'
+previous:
+  id: EZK/25/17
+  number: '17'
+reference: 'Ezekiel 26:1'

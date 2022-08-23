@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 22:6" class="v">6</span>And
+  Abraham took the wood of the burnt offering, and laid <span
+  class="add">it</span> upon Isaac his son; and he took the fire in his hand,
+  and a knife; and they went both of them together. </p>
+id: GEN/22/6
+next:
+  id: GEN/22/7
+  number: '7'
+previous:
+  id: GEN/22/5
+  number: '5'
+reference: 'Genesis 22:6'

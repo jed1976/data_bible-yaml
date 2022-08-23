@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 14:35"
+  class="v">35</span>And he went forward a little, and fell on the ground, and
+  prayed that, if it were possible, the hour might pass from him. </p>
+id: MRK/14/35
+next:
+  id: MRK/14/36
+  number: '36'
+previous:
+  id: MRK/14/34
+  number: '34'
+reference: 'Mark 14:35'

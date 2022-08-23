@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 21:17" class="v">17</span>¶
+  And he that curseth his father, or his mother, shall surely be put to
+  death.</p>
+id: EXO/21/17
+next:
+  id: EXO/21/18
+  number: '18'
+previous:
+  id: EXO/21/16
+  number: '16'
+reference: 'Exodus 21:17'

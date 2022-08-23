@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 21:23"
+  class="v">23</span>Whoso keepeth his mouth and his tongue keepeth his soul
+  from troubles. </p>
+id: PRO/21/23
+next:
+  id: PRO/21/24
+  number: '24'
+previous:
+  id: PRO/21/22
+  number: '22'
+reference: 'Proverbs 21:23'

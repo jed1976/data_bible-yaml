@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 4:9" class="v">9</span>Now
+  why dost thou cry out aloud? <span class="add">is there</span> no king in
+  thee? is thy counsellor perished? for pangs have taken thee as a woman in
+  travail. </p>
+id: MIC/4/9
+next:
+  id: MIC/4/10
+  number: '10'
+previous:
+  id: MIC/4/8
+  number: '8'
+reference: 'Micah 4:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 17:11"
+  class="v">11</span>And it came to pass, when Moses held up his hand, that
+  Israel prevailed: and when he let down his hand, Amalek prevailed. </p>
+id: EXO/17/11
+next:
+  id: EXO/17/12
+  number: '12'
+previous:
+  id: EXO/17/10
+  number: '10'
+reference: 'Exodus 17:11'

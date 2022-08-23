@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 27:3" class="v">3</span>All
+  the while my breath <span class="add">is</span> in me, and the spirit of God
+  <span class="add">is</span> in my nostrils; </p>
+id: JOB/27/3
+next:
+  id: JOB/27/4
+  number: '4'
+previous:
+  id: JOB/27/2
+  number: '2'
+reference: 'Job 27:3'

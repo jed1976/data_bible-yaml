@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="AMO 2:16" class="v">16</span>And
+  <span class="add">he that is</span> courageous among the mighty shall flee
+  away naked in that day, saith the <span class="nd">LORD</span>.</p>
+id: AMO/2/16
+next:
+  id: AMO/3/1
+  number: '1'
+previous:
+  id: AMO/2/15
+  number: '15'
+reference: 'Amos 2:16'

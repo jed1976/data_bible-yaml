@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 14:7"
+  class="v">7</span>Nevertheless these ye shall not eat of them that chew the
+  cud, or of them that divide the cloven hoof; <span class="add">as</span> the
+  camel, and the hare, and the coney: for they chew the cud, but divide not the
+  hoof; <span class="add">therefore</span> they <span class="add">are</span>
+  unclean unto you. </p>
+id: DEU/14/7
+next:
+  id: DEU/14/8
+  number: '8'
+previous:
+  id: DEU/14/6
+  number: '6'
+reference: 'Deuteronomy 14:7'

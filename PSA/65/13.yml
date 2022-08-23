@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 65:13"
+  class="v">13</span>The pastures are clothed with flocks; the valleys also are
+  covered over with corn; they shout for joy, they also sing.</p>
+id: PSA/65/13
+next:
+  id: PSA/66/1
+  number: '1'
+previous:
+  id: PSA/65/12
+  number: '12'
+reference: 'Psalms 65:13'

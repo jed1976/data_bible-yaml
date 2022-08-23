@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 103:13"
+  class="v">13</span>Like as a father pitieth <span class="add">his</span>
+  children, <span class="add">so</span> the <span class="nd">LORD</span> pitieth
+  them that fear him.</p>
+id: PSA/103/13
+next:
+  id: PSA/103/14
+  number: '14'
+previous:
+  id: PSA/103/12
+  number: '12'
+reference: 'Psalms 103:13'

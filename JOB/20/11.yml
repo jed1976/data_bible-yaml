@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 20:11"
+  class="v">11</span>His bones are full <span class="add">of the sin</span> of
+  his youth, which shall lie down with him in the dust. </p>
+id: JOB/20/11
+next:
+  id: JOB/20/12
+  number: '12'
+previous:
+  id: JOB/20/10
+  number: '10'
+reference: 'Job 20:11'

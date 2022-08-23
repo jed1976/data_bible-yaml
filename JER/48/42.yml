@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JER 48:42"
+  class="v">42</span>And Moab shall be destroyed from <span
+  class="add">being</span> a people, because he hath magnified <span
+  class="add">himself</span> against the <span class="nd">LORD</span>. </p>
+id: JER/48/42
+next:
+  id: JER/48/43
+  number: '43'
+previous:
+  id: JER/48/41
+  number: '41'
+reference: 'Jeremiah 48:42'

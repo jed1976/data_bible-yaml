@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEP 2:13" class="v">13</span>And
+  he will stretch out his hand against the north, and destroy Assyria; and will
+  make Nineveh a desolation, <span class="add">and</span> dry like a wilderness.
+  </p>
+id: ZEP/2/13
+next:
+  id: ZEP/2/14
+  number: '14'
+previous:
+  id: ZEP/2/12
+  number: '12'
+reference: 'Zephaniah 2:13'

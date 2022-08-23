@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 9:3" class="v">3</span>When
+  mine enemies are turned back, they shall fall and perish at thy presence.</p>
+id: PSA/9/3
+next:
+  id: PSA/9/4
+  number: '4'
+previous:
+  id: PSA/9/2
+  number: '2'
+reference: 'Psalms 9:3'

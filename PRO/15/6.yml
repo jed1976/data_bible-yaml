@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 15:6" class="v">6</span>In
+  the house of the righteous <span class="add">is</span> much treasure: but in
+  the revenues of the wicked is trouble. </p>
+id: PRO/15/6
+next:
+  id: PRO/15/7
+  number: '7'
+previous:
+  id: PRO/15/5
+  number: '5'
+reference: 'Proverbs 15:6'

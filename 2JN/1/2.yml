@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2JN 1:2" class="v">2</span>For
+  the truth’s sake, which dwelleth in us, and shall be with us for ever. </p>
+id: 2JN/1/2
+next:
+  id: 2JN/1/3
+  number: '3'
+previous:
+  id: 2JN/1/1
+  number: '1'
+reference: '2 John 1:2'

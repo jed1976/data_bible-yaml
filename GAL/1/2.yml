@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GAL 1:2" class="v">2</span>And
+  all the brethren which are with me, unto the churches of Galatia: </p>
+id: GAL/1/2
+next:
+  id: GAL/1/3
+  number: '3'
+previous:
+  id: GAL/1/1
+  number: '1'
+reference: 'Galatians 1:2'

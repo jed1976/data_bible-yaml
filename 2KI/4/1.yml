@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 4:1" class="v">1</span>Now
+  there cried a certain woman of the wives of the sons of the prophets unto
+  Elisha, saying, Thy servant my husband is dead; and thou knowest that thy
+  servant did fear the <span class="nd">LORD</span>: and the creditor is come to
+  take unto him my two sons to be bondmen. </p>
+id: 2KI/4/1
+next:
+  id: 2KI/4/2
+  number: '2'
+previous:
+  id: 2KI/3/27
+  number: '27'
+reference: '2 Kings 4:1'

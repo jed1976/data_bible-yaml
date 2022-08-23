@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 15:35"
+  class="v">35</span>And he commanded the multitude to sit down on the ground.
+  </p>
+id: MAT/15/35
+next:
+  id: MAT/15/36
+  number: '36'
+previous:
+  id: MAT/15/34
+  number: '34'
+reference: 'Matthew 15:35'

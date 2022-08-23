@@ -1,0 +1,14 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="19" data-sid="PSA 31:19"
+  class="v">19</span><span class="add">Oh</span> how great <span
+  class="add">is</span> thy goodness, which thou hast laid up for them that fear
+  thee; <span class="add">which</span> thou hast wrought for them that trust in
+  thee before the sons of men!</p>
+id: PSA/31/19
+next:
+  id: PSA/31/20
+  number: '20'
+previous:
+  id: PSA/31/18
+  number: '18'
+reference: 'Psalms 31:19'

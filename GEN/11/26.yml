@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 11:26"
+  class="v">26</span>And Terah lived seventy years, and begat Abram, Nahor, and
+  Haran.</p>
+id: GEN/11/26
+next:
+  id: GEN/11/27
+  number: '27'
+previous:
+  id: GEN/11/25
+  number: '25'
+reference: 'Genesis 11:26'

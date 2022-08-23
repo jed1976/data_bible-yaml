@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 42:5" class="v">5</span>And
+  the sons of Israel came to buy <span class="add">corn</span> among those that
+  came: for the famine was in the land of Canaan. </p>
+id: GEN/42/5
+next:
+  id: GEN/42/6
+  number: '6'
+previous:
+  id: GEN/42/4
+  number: '4'
+reference: 'Genesis 42:5'

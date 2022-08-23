@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 36:26"
+  class="v">26</span>And their forty sockets of silver; two sockets under one
+  board, and two sockets under another board. </p>
+id: EXO/36/26
+next:
+  id: EXO/36/27
+  number: '27'
+previous:
+  id: EXO/36/25
+  number: '25'
+reference: 'Exodus 36:26'

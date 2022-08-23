@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HEB 7:10" class="v">10</span>For
+  he was yet in the loins of his father, when Melchisedec met him. </p>
+id: HEB/7/10
+next:
+  id: HEB/7/11
+  number: '11'
+previous:
+  id: HEB/7/9
+  number: '9'
+reference: 'Hebrews 7:10'

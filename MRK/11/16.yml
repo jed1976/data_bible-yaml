@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 11:16"
+  class="v">16</span>And would not suffer that any man should carry <span
+  class="add">any</span> vessel through the temple. </p>
+id: MRK/11/16
+next:
+  id: MRK/11/17
+  number: '17'
+previous:
+  id: MRK/11/15
+  number: '15'
+reference: 'Mark 11:16'

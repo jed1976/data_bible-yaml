@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 7:12" class="v">12</span>For
+  wisdom <span class="add">is</span> a defence, <span class="add">and</span>
+  money <span class="add">is</span> a defence: but the excellency of knowledge
+  <span class="add">is, that</span> wisdom giveth life to them that have it.
+  </p>
+id: ECC/7/12
+next:
+  id: ECC/7/13
+  number: '13'
+previous:
+  id: ECC/7/11
+  number: '11'
+reference: 'Ecclesiastes 7:12'

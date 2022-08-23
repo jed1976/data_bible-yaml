@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 19:7" class="v">7</span>They
+  say unto him, Why did Moses then command to give a writing of divorcement, and
+  to put her away? </p>
+id: MAT/19/7
+next:
+  id: MAT/19/8
+  number: '8'
+previous:
+  id: MAT/19/6
+  number: '6'
+reference: 'Matthew 19:7'

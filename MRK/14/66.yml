@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="66" data-sid="MRK 14:66" class="v">66</span>¶
+  And as Peter was beneath in the palace, there cometh one of the maids of the
+  high priest: </p>
+id: MRK/14/66
+next:
+  id: MRK/14/67
+  number: '67'
+previous:
+  id: MRK/14/65
+  number: '65'
+reference: 'Mark 14:66'

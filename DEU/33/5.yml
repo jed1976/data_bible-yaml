@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 33:5" class="v">5</span>And
+  he was king in Jeshurun, when the heads of the people <span
+  class="add">and</span> the tribes of Israel were gathered together.</p>
+id: DEU/33/5
+next:
+  id: DEU/33/6
+  number: '6'
+previous:
+  id: DEU/33/4
+  number: '4'
+reference: 'Deuteronomy 33:5'

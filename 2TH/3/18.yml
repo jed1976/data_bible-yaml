@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2TH 3:18" class="v">18</span>The
+  grace of our Lord Jesus Christ <span class="add">be</span> with you all.
+  Amen.</p>
+id: 2TH/3/18
+next:
+  id: 1TI/intro/0
+  number: '0'
+previous:
+  id: 2TH/3/17
+  number: '17'
+reference: '2 Thessalonians 3:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 19:22"
+  class="v">22</span>But when the young man heard that saying, he went away
+  sorrowful: for he had great possessions.</p>
+id: MAT/19/22
+next:
+  id: MAT/19/23
+  number: '23'
+previous:
+  id: MAT/19/21
+  number: '21'
+reference: 'Matthew 19:22'

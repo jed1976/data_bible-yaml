@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 21:37"
+  class="v">37</span><span class="wj">But last of all he sent unto them his son,
+  saying, They will reverence my son.</span> </p>
+id: MAT/21/37
+next:
+  id: MAT/21/38
+  number: '38'
+previous:
+  id: MAT/21/36
+  number: '36'
+reference: 'Matthew 21:37'

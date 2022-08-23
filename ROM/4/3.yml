@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 4:3" class="v">3</span>For
+  what saith the scripture? Abraham believed God, and it was counted unto him
+  for righteousness. </p>
+id: ROM/4/3
+next:
+  id: ROM/4/4
+  number: '4'
+previous:
+  id: ROM/4/2
+  number: '2'
+reference: 'Romans 4:3'

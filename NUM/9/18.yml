@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 9:18" class="v">18</span>At
+  the commandment of the <span class="nd">LORD</span> the children of Israel
+  journeyed, and at the commandment of the <span class="nd">LORD</span> they
+  pitched: as long as the cloud abode upon the tabernacle they rested in their
+  tents. </p>
+id: NUM/9/18
+next:
+  id: NUM/9/19
+  number: '19'
+previous:
+  id: NUM/9/17
+  number: '17'
+reference: 'Numbers 9:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1JN 4:5" class="v">5</span>They
+  are of the world: therefore speak they of the world, and the world heareth
+  them. </p>
+id: 1JN/4/5
+next:
+  id: 1JN/4/6
+  number: '6'
+previous:
+  id: 1JN/4/4
+  number: '4'
+reference: '1 John 4:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 2:20" class="v">20</span>In
+  that day a man shall cast his idols of silver, and his idols of gold, which
+  they made <span class="add">each one</span> for himself to worship, to the
+  moles and to the bats; </p>
+id: ISA/2/20
+next:
+  id: ISA/2/21
+  number: '21'
+previous:
+  id: ISA/2/19
+  number: '19'
+reference: 'Isaiah 2:20'

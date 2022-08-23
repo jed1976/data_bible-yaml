@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="1SA 30:31"
+  class="v">31</span>And to <span class="add">them</span> which <span
+  class="add">were</span> in Hebron, and to all the places where David himself
+  and his men were wont to haunt.</p>
+id: 1SA/30/31
+next:
+  id: 1SA/31/1
+  number: '1'
+previous:
+  id: 1SA/30/30
+  number: '30'
+reference: '1 Samuel 30:31'

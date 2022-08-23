@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 3:15" class="v">15</span>And
+  as the people were in expectation, and all men mused in their hearts of John,
+  whether he were the Christ, or not; </p>
+id: LUK/3/15
+next:
+  id: LUK/3/16
+  number: '16'
+previous:
+  id: LUK/3/14
+  number: '14'
+reference: 'Luke 3:15'

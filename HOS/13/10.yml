@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 13:10" class="v">10</span>I
+  will be thy king: where <span class="add">is any other</span> that may save
+  thee in all thy cities? and thy judges of whom thou saidst, Give me a king and
+  princes? </p>
+id: HOS/13/10
+next:
+  id: HOS/13/11
+  number: '11'
+previous:
+  id: HOS/13/9
+  number: '9'
+reference: 'Hosea 13:10'

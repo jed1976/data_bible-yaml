@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 37:20"
+  class="v">20</span>Shall it be told him that I speak? if a man speak, surely
+  he shall be swallowed up.</p>
+id: JOB/37/20
+next:
+  id: JOB/37/21
+  number: '21'
+previous:
+  id: JOB/37/19
+  number: '19'
+reference: 'Job 37:20'

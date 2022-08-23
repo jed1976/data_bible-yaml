@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 12:9" class="v">9</span>And
+  he had thirty sons, and thirty daughters, <span class="add">whom</span> he
+  sent abroad, and took in thirty daughters from abroad for his sons. And he
+  judged Israel seven years. </p>
+id: JDG/12/9
+next:
+  id: JDG/12/10
+  number: '10'
+previous:
+  id: JDG/12/8
+  number: '8'
+reference: 'Judges 12:9'

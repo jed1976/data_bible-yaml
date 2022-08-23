@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DAN 1:5" class="v">5</span>And
+  the king appointed them a daily provision of the king’s meat, and of the wine
+  which he drank: so nourishing them three years, that at the end thereof they
+  might stand before the king. </p>
+id: DAN/1/5
+next:
+  id: DAN/1/6
+  number: '6'
+previous:
+  id: DAN/1/4
+  number: '4'
+reference: 'Daniel 1:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PHP 2:3" class="v">3</span><span
+  class="add">Let</span> nothing <span class="add">be done</span> through strife
+  or vainglory; but in lowliness of mind let each esteem other better than
+  themselves. </p>
+id: PHP/2/3
+next:
+  id: PHP/2/4
+  number: '4'
+previous:
+  id: PHP/2/2
+  number: '2'
+reference: 'Philippians 2:3'

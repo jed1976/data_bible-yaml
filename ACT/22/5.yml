@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 22:5" class="v">5</span>As
+  also the high priest doth bear me witness, and all the estate of the elders:
+  from whom also I received letters unto the brethren, and went to Damascus, to
+  bring them which were there bound unto Jerusalem, for to be punished. </p>
+id: ACT/22/5
+next:
+  id: ACT/22/6
+  number: '6'
+previous:
+  id: ACT/22/4
+  number: '4'
+reference: 'Acts 22:5'

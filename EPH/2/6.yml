@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EPH 2:6" class="v">6</span>And
+  hath raised <span class="add">us</span> up together, and made <span
+  class="add">us</span> sit together in heavenly <span class="add">places</span>
+  in Christ Jesus: </p>
+id: EPH/2/6
+next:
+  id: EPH/2/7
+  number: '7'
+previous:
+  id: EPH/2/5
+  number: '5'
+reference: 'Ephesians 2:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 2:13" class="v">13</span>Now
+  rise up, <span class="add">said I</span>, and get you over the brook Zered.
+  And we went over the brook Zered. </p>
+id: DEU/2/13
+next:
+  id: DEU/2/14
+  number: '14'
+previous:
+  id: DEU/2/12
+  number: '12'
+reference: 'Deuteronomy 2:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 12:41"
+  class="v">41</span><span class="wj">The men of Nineveh shall rise in judgment
+  with this generation, and shall condemn it: because they repented at the
+  preaching of Jonas; and, behold, a greater than Jonas <span
+  class="add">is</span> here.</span> </p>
+id: MAT/12/41
+next:
+  id: MAT/12/42
+  number: '42'
+previous:
+  id: MAT/12/40
+  number: '40'
+reference: 'Matthew 12:41'

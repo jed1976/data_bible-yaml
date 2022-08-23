@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CH 28:2" class="v">2</span>Then
+  David the king stood up upon his feet, and said, Hear me, my brethren, and my
+  people: <span class="add">As for me</span>, I <span class="add">had</span> in
+  mine heart to build an house of rest for the ark of the covenant of the <span
+  class="nd">LORD</span>, and for the footstool of our God, and had made ready
+  for the building: </p>
+id: 1CH/28/2
+next:
+  id: 1CH/28/3
+  number: '3'
+previous:
+  id: 1CH/28/1
+  number: '1'
+reference: '1 Chronicles 28:2'

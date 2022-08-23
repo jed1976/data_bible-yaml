@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 9:5" class="v">5</span>Thou
+  hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out
+  their name for ever and ever.</p>
+id: PSA/9/5
+next:
+  id: PSA/9/6
+  number: '6'
+previous:
+  id: PSA/9/4
+  number: '4'
+reference: 'Psalms 9:5'

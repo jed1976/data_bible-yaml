@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 21:20"
+  class="v">20</span>And when the disciples saw <span class="add">it</span>,
+  they marvelled, saying, How soon is the fig tree withered away! </p>
+id: MAT/21/20
+next:
+  id: MAT/21/21
+  number: '21'
+previous:
+  id: MAT/21/19
+  number: '19'
+reference: 'Matthew 21:20'

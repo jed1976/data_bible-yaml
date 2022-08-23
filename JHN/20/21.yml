@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 20:21"
+  class="v">21</span>Then said Jesus to them again, <span class="wj">Peace <span
+  class="add">be</span> unto you: as <span class="add">my</span> Father hath
+  sent me, even so send I you.</span> </p>
+id: JHN/20/21
+next:
+  id: JHN/20/22
+  number: '22'
+previous:
+  id: JHN/20/20
+  number: '20'
+reference: 'John 20:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 19:3" class="v">3</span>And
+  he sought to see Jesus who he was; and could not for the press, because he was
+  little of stature. </p>
+id: LUK/19/3
+next:
+  id: LUK/19/4
+  number: '4'
+previous:
+  id: LUK/19/2
+  number: '2'
+reference: 'Luke 19:3'

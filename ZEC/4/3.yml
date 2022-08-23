@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 4:3" class="v">3</span>And
+  two olive trees by it, one upon the right <span class="add">side</span> of the
+  bowl, and the other upon the left <span class="add">side</span> thereof. </p>
+id: ZEC/4/3
+next:
+  id: ZEC/4/4
+  number: '4'
+previous:
+  id: ZEC/4/2
+  number: '2'
+reference: 'Zechariah 4:3'

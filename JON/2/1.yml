@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JON 2:1" class="v">1</span>Then
+  Jonah prayed unto the <span class="nd">LORD</span> his God out of the fish’s
+  belly, </p>
+id: JON/2/1
+next:
+  id: JON/2/2
+  number: '2'
+previous:
+  id: JON/1/17
+  number: '17'
+reference: 'Jonah 2:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 19:12" class="v">12</span>¶
+  And the men said unto Lot, Hast thou here any besides? son in law, and thy
+  sons, and thy daughters, and whatsoever thou hast in the city, bring <span
+  class="add">them</span> out of this place: </p>
+id: GEN/19/12
+next:
+  id: GEN/19/13
+  number: '13'
+previous:
+  id: GEN/19/11
+  number: '11'
+reference: 'Genesis 19:12'

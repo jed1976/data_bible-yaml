@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 13:24" class="v">24</span>¶
+  Another parable put he forth unto them, saying, <span class="wj">The kingdom
+  of heaven is likened unto a man which sowed good seed in his field:</span>
+  </p>
+id: MAT/13/24
+next:
+  id: MAT/13/25
+  number: '25'
+previous:
+  id: MAT/13/23
+  number: '23'
+reference: 'Matthew 13:24'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LAM 3:38" class="v">38</span>Out
+  of the mouth of the most High proceedeth not evil and good? </p>
+id: LAM/3/38
+next:
+  id: LAM/3/39
+  number: '39'
+previous:
+  id: LAM/3/37
+  number: '37'
+reference: 'Lamentations 3:38'

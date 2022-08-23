@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 145:14"
+  class="v">14</span>The <span class="nd">LORD</span> upholdeth all that fall,
+  and raiseth up all <span class="add">those that be</span> bowed down.</p>
+id: PSA/145/14
+next:
+  id: PSA/145/15
+  number: '15'
+previous:
+  id: PSA/145/13
+  number: '13'
+reference: 'Psalms 145:14'

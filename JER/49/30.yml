@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JER 49:30" class="v">30</span>¶
+  Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the <span
+  class="nd">LORD</span>; for Nebuchadrezzar king of Babylon hath taken counsel
+  against you, and hath conceived a purpose against you. </p>
+id: JER/49/30
+next:
+  id: JER/49/31
+  number: '31'
+previous:
+  id: JER/49/29
+  number: '29'
+reference: 'Jeremiah 49:30'

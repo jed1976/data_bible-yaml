@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 5:9" class="v">9</span>Then
+  was king Belshazzar greatly troubled, and his countenance was changed in him,
+  and his lords were astonied.</p>
+id: DAN/5/9
+next:
+  id: DAN/5/10
+  number: '10'
+previous:
+  id: DAN/5/8
+  number: '8'
+reference: 'Daniel 5:9'

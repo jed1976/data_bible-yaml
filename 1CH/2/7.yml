@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 2:7" class="v">7</span>And
+  the sons of Carmi; Achar, the troubler of Israel, who transgressed in the
+  thing accursed. </p>
+id: 1CH/2/7
+next:
+  id: 1CH/2/8
+  number: '8'
+previous:
+  id: 1CH/2/6
+  number: '6'
+reference: '1 Chronicles 2:7'

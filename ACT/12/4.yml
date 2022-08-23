@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 12:4" class="v">4</span>And
+  when he had apprehended him, he put <span class="add">him</span> in prison,
+  and delivered <span class="add">him</span> to four quaternions of soldiers to
+  keep him; intending after Easter to bring him forth to the people. </p>
+id: ACT/12/4
+next:
+  id: ACT/12/5
+  number: '5'
+previous:
+  id: ACT/12/3
+  number: '3'
+reference: 'Acts 12:4'

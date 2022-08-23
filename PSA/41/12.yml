@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 41:12"
+  class="v">12</span>And as for me, thou upholdest me in mine integrity, and
+  settest me before thy face for ever.</p>
+id: PSA/41/12
+next:
+  id: PSA/41/13
+  number: '13'
+previous:
+  id: PSA/41/11
+  number: '11'
+reference: 'Psalms 41:12'

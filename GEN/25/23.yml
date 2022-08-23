@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 25:23"
+  class="v">23</span>And the <span class="nd">LORD</span> said unto her, Two
+  nations <span class="add">are</span> in thy womb, and two manner of people
+  shall be separated from thy bowels; and <span class="add">the one</span>
+  people shall be stronger than <span class="add">the other</span> people; and
+  the elder shall serve the younger.</p>
+id: GEN/25/23
+next:
+  id: GEN/25/24
+  number: '24'
+previous:
+  id: GEN/25/22
+  number: '22'
+reference: 'Genesis 25:23'

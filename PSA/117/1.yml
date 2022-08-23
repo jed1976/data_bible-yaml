@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 117:1" class="v">1</span>O
+  praise the <span class="nd">LORD</span>, all ye nations: praise him, all ye
+  people.</p>
+id: PSA/117/1
+next:
+  id: PSA/117/2
+  number: '2'
+previous:
+  id: PSA/116/19
+  number: '19'
+reference: 'Psalms 117:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HAB 1:4"
+  class="v">4</span>Therefore the law is slacked, and judgment doth never go
+  forth: for the wicked doth compass about the righteous; therefore wrong
+  judgment proceedeth.</p>
+id: HAB/1/4
+next:
+  id: HAB/1/5
+  number: '5'
+previous:
+  id: HAB/1/3
+  number: '3'
+reference: 'Habakkuk 1:4'

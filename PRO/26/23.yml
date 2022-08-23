@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 26:23"
+  class="v">23</span>Burning lips and a wicked heart <span class="add">are
+  like</span> a potsherd covered with silver dross.</p>
+id: PRO/26/23
+next:
+  id: PRO/26/24
+  number: '24'
+previous:
+  id: PRO/26/22
+  number: '22'
+reference: 'Proverbs 26:23'

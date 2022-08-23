@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 10:16" class="v">16</span>¶
+  And when all Israel <span class="add">saw </span> that the king would not
+  hearken unto them, the people answered the king, saying, What portion have we
+  in David? and <span class="add">we have</span> none inheritance in the son of
+  Jesse: every man to your tents, O Israel: <span class="add">and</span> now,
+  David, see to thine own house. So all Israel went to their tents. </p>
+id: 2CH/10/16
+next:
+  id: 2CH/10/17
+  number: '17'
+previous:
+  id: 2CH/10/15
+  number: '15'
+reference: '2 Chronicles 10:16'

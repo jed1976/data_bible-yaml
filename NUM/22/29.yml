@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 22:29"
+  class="v">29</span>And Balaam said unto the ass, Because thou hast mocked me:
+  I would there were a sword in mine hand, for now would I kill thee. </p>
+id: NUM/22/29
+next:
+  id: NUM/22/30
+  number: '30'
+previous:
+  id: NUM/22/28
+  number: '28'
+reference: 'Numbers 22:29'

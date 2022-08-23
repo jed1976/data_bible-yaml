@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 13:10" class="v">10</span>¶
+  In the thirty and seventh year of Joash king of Judah began Jehoash the son of
+  Jehoahaz to reign over Israel in Samaria, <span class="add">and reigned</span>
+  sixteen years. </p>
+id: 2KI/13/10
+next:
+  id: 2KI/13/11
+  number: '11'
+previous:
+  id: 2KI/13/9
+  number: '9'
+reference: '2 Kings 13:10'

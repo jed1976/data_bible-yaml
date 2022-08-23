@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 12:1" class="v">1</span>I
+  beseech you therefore, brethren, by the mercies of God, that ye present your
+  bodies a living sacrifice, holy, acceptable unto God, <span class="add">which
+  is</span> your reasonable service. </p>
+id: ROM/12/1
+next:
+  id: ROM/12/2
+  number: '2'
+previous:
+  id: ROM/11/36
+  number: '36'
+reference: 'Romans 12:1'

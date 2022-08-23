@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="16" data-sid="PSA 55:16"
+  class="v">16</span>As for me, I will call upon God; and the <span
+  class="nd">LORD</span> shall save me.</p>
+id: PSA/55/16
+next:
+  id: PSA/55/17
+  number: '17'
+previous:
+  id: PSA/55/15
+  number: '15'
+reference: 'Psalms 55:16'

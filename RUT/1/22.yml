@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="RUT 1:22" class="v">22</span>So
+  Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which
+  returned out of the country of Moab: and they came to Beth-lehem in the
+  beginning of barley harvest.</p>
+id: RUT/1/22
+next:
+  id: RUT/2/1
+  number: '1'
+previous:
+  id: RUT/1/21
+  number: '21'
+reference: 'Ruth 1:22'

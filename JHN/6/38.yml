@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="JHN 6:38"
+  class="v">38</span><span class="wj">For I came down from heaven, not to do
+  mine own will, but the will of him that sent me.</span> </p>
+id: JHN/6/38
+next:
+  id: JHN/6/39
+  number: '39'
+previous:
+  id: JHN/6/37
+  number: '37'
+reference: 'John 6:38'

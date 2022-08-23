@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 1:15"
+  class="v">15</span><span class="add">That which is</span> crooked cannot be
+  made straight: and that which is wanting cannot be numbered. </p>
+id: ECC/1/15
+next:
+  id: ECC/1/16
+  number: '16'
+previous:
+  id: ECC/1/14
+  number: '14'
+reference: 'Ecclesiastes 1:15'

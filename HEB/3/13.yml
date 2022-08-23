@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 3:13" class="v">13</span>But
+  exhort one another daily, while it is called To day; lest any of you be
+  hardened through the deceitfulness of sin. </p>
+id: HEB/3/13
+next:
+  id: HEB/3/14
+  number: '14'
+previous:
+  id: HEB/3/12
+  number: '12'
+reference: 'Hebrews 3:13'

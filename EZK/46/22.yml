@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 46:22" class="v">22</span>In
+  the four corners of the court <span class="add">there were</span> courts
+  joined of forty <span class="add">cubits</span> long and thirty broad: these
+  four corners <span class="add">were</span> of one measure. </p>
+id: EZK/46/22
+next:
+  id: EZK/46/23
+  number: '23'
+previous:
+  id: EZK/46/21
+  number: '21'
+reference: 'Ezekiel 46:22'

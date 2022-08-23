@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 30:14"
+  class="v">14</span>But the word <span class="add">is</span> very nigh unto
+  thee, in thy mouth, and in thy heart, that thou mayest do it.</p>
+id: DEU/30/14
+next:
+  id: DEU/30/15
+  number: '15'
+previous:
+  id: DEU/30/13
+  number: '13'
+reference: 'Deuteronomy 30:14'

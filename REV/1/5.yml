@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 1:5" class="v">5</span>And
+  from Jesus Christ, <span class="add">who is</span> the faithful witness, <span
+  class="add">and</span> the first begotten of the dead, and the prince of the
+  kings of the earth. Unto him that loved us, and washed us from our sins in his
+  own blood, </p>
+id: REV/1/5
+next:
+  id: REV/1/6
+  number: '6'
+previous:
+  id: REV/1/4
+  number: '4'
+reference: 'Revelation 1:5'

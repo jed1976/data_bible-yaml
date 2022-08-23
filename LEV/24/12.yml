@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 24:12"
+  class="v">12</span>And they put him in ward, that the mind of the <span
+  class="nd">LORD</span> might be shewed them. </p>
+id: LEV/24/12
+next:
+  id: LEV/24/13
+  number: '13'
+previous:
+  id: LEV/24/11
+  number: '11'
+reference: 'Leviticus 24:12'

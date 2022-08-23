@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 15:3" class="v">3</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> a man of war: the
+  <span class="nd">LORD</span> <span class="add">is</span> his name. </p>
+id: EXO/15/3
+next:
+  id: EXO/15/4
+  number: '4'
+previous:
+  id: EXO/15/2
+  number: '2'
+reference: 'Exodus 15:3'

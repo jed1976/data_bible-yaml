@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 94:9" class="v">9</span>He
+  that planted the ear, shall he not hear? he that formed the eye, shall he not
+  see?</p>
+id: PSA/94/9
+next:
+  id: PSA/94/10
+  number: '10'
+previous:
+  id: PSA/94/8
+  number: '8'
+reference: 'Psalms 94:9'

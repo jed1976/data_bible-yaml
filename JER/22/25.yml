@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 22:25"
+  class="v">25</span>And I will give thee into the hand of them that seek thy
+  life, and into the hand <span class="add">of them</span> whose face thou
+  fearest, even into the hand of Nebuchadrezzar king of Babylon, and into the
+  hand of the Chaldeans. </p>
+id: JER/22/25
+next:
+  id: JER/22/26
+  number: '26'
+previous:
+  id: JER/22/24
+  number: '24'
+reference: 'Jeremiah 22:25'

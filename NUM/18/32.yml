@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 18:32"
+  class="v">32</span>And ye shall bear no sin by reason of it, when ye have
+  heaved from it the best of it: neither shall ye pollute the holy things of the
+  children of Israel, lest ye die.</p>
+id: NUM/18/32
+next:
+  id: NUM/19/1
+  number: '1'
+previous:
+  id: NUM/18/31
+  number: '31'
+reference: 'Numbers 18:32'

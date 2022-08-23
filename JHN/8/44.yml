@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="JHN 8:44"
+  class="v">44</span><span class="wj">Ye are of <span class="add">your</span>
+  father the devil, and the lusts of your father ye will do. He was a murderer
+  from the beginning, and abode not in the truth, because there is no truth in
+  him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the
+  father of it.</span> </p>
+id: JHN/8/44
+next:
+  id: JHN/8/45
+  number: '45'
+previous:
+  id: JHN/8/43
+  number: '43'
+reference: 'John 8:44'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 27:4"
+  class="v">4</span>Therefore it shall be when ye be gone over Jordan, <span
+  class="add">that</span> ye shall set up these stones, which I command you this
+  day, in mount Ebal, and thou shalt plaister them with plaister. </p>
+id: DEU/27/4
+next:
+  id: DEU/27/5
+  number: '5'
+previous:
+  id: DEU/27/3
+  number: '3'
+reference: 'Deuteronomy 27:4'

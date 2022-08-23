@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 89:8" class="v">8</span>O
+  <span class="nd">LORD</span> God of hosts, who <span class="add">is</span> a
+  strong <span class="nd">LORD</span> like unto thee? or to thy faithfulness
+  round about thee?</p>
+id: PSA/89/8
+next:
+  id: PSA/89/9
+  number: '9'
+previous:
+  id: PSA/89/7
+  number: '7'
+reference: 'Psalms 89:8'

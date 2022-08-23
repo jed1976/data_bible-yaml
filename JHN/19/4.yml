@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 19:4"
+  class="v">4</span>Pilate therefore went forth again, and saith unto them,
+  Behold, I bring him forth to you, that ye may know that I find no fault in
+  him. </p>
+id: JHN/19/4
+next:
+  id: JHN/19/5
+  number: '5'
+previous:
+  id: JHN/19/3
+  number: '3'
+reference: 'John 19:4'

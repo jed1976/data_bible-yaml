@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 19:7" class="v">7</span>All
+  the brethren of the poor do hate him: how much more do his friends go far from
+  him? he pursueth <span class="add">them with</span> words, <span
+  class="add">yet</span> they <span class="add">are</span> wanting <span
+  class="add">to him</span>. </p>
+id: PRO/19/7
+next:
+  id: PRO/19/8
+  number: '8'
+previous:
+  id: PRO/19/6
+  number: '6'
+reference: 'Proverbs 19:7'

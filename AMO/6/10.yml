@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="AMO 6:10" class="v">10</span>And
+  a man’s uncle shall take him up, and he that burneth him, to bring out the
+  bones out of the house, and shall say unto him that <span
+  class="add">is</span> by the sides of the house, <span class="add">Is
+  there</span> yet <span class="add">any</span> with thee? and he shall say, No.
+  Then shall he say, Hold thy tongue: for we may not make mention of the name of
+  the <span class="nd">LORD</span>. </p>
+id: AMO/6/10
+next:
+  id: AMO/6/11
+  number: '11'
+previous:
+  id: AMO/6/9
+  number: '9'
+reference: 'Amos 6:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 7:1"
+  class="v">1</span>Likewise this <span class="add">is</span> the law of the
+  trespass offering: it <span class="add">is</span> most holy. </p>
+id: LEV/7/1
+next:
+  id: LEV/7/2
+  number: '2'
+previous:
+  id: LEV/6/30
+  number: '30'
+reference: 'Leviticus 7:1'

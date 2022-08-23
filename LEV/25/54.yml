@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LEV 25:54"
+  class="v">54</span>And if he be not redeemed in these <span
+  class="add">years</span>, then he shall go out in the year of jubile, <span
+  class="add">both</span> he, and his children with him. </p>
+id: LEV/25/54
+next:
+  id: LEV/25/55
+  number: '55'
+previous:
+  id: LEV/25/53
+  number: '53'
+reference: 'Leviticus 25:54'

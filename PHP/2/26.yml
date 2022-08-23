@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PHP 2:26" class="v">26</span>For
+  he longed after you all, and was full of heaviness, because that ye had heard
+  that he had been sick. </p>
+id: PHP/2/26
+next:
+  id: PHP/2/27
+  number: '27'
+previous:
+  id: PHP/2/25
+  number: '25'
+reference: 'Philippians 2:26'

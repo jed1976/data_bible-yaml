@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 15:23" class="v">23</span>¶
+  In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem
+  began to reign over Israel in Samaria, <span class="add">and reigned</span>
+  two years. </p>
+id: 2KI/15/23
+next:
+  id: 2KI/15/24
+  number: '24'
+previous:
+  id: 2KI/15/22
+  number: '22'
+reference: '2 Kings 15:23'

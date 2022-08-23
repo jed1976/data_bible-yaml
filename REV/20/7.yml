@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="REV 20:7" class="v">7</span>And
+  when the thousand years are expired, Satan shall be loosed out of his prison,
+  </p>
+id: REV/20/7
+next:
+  id: REV/20/8
+  number: '8'
+previous:
+  id: REV/20/6
+  number: '6'
+reference: 'Revelation 20:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 1:5" class="v">5</span>The
+  sun also ariseth, and the sun goeth down, and hasteth to his place where he
+  arose. </p>
+id: ECC/1/5
+next:
+  id: ECC/1/6
+  number: '6'
+previous:
+  id: ECC/1/4
+  number: '4'
+reference: 'Ecclesiastes 1:5'

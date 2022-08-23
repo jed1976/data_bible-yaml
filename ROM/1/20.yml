@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 1:20" class="v">20</span>For
+  the invisible things of him from the creation of the world are clearly seen,
+  being understood by the things that are made, <span class="add">even</span>
+  his eternal power and Godhead; so that they are without excuse: </p>
+id: ROM/1/20
+next:
+  id: ROM/1/21
+  number: '21'
+previous:
+  id: ROM/1/19
+  number: '19'
+reference: 'Romans 1:20'

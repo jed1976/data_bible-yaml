@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 12:23"
+  class="v">23</span>Only be sure that thou eat not the blood: for the blood
+  <span class="add">is</span> the life; and thou mayest not eat the life with
+  the flesh. </p>
+id: DEU/12/23
+next:
+  id: DEU/12/24
+  number: '24'
+previous:
+  id: DEU/12/22
+  number: '22'
+reference: 'Deuteronomy 12:23'

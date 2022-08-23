@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ROM 10:17" class="v">17</span>So
+  then faith <span class="add">cometh</span> by hearing, and hearing by the word
+  of God. </p>
+id: ROM/10/17
+next:
+  id: ROM/10/18
+  number: '18'
+previous:
+  id: ROM/10/16
+  number: '16'
+reference: 'Romans 10:17'

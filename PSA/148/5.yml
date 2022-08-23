@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 148:5" class="v">5</span>Let
+  them praise the name of the <span class="nd">LORD</span>: for he commanded,
+  and they were created.</p>
+id: PSA/148/5
+next:
+  id: PSA/148/6
+  number: '6'
+previous:
+  id: PSA/148/4
+  number: '4'
+reference: 'Psalms 148:5'

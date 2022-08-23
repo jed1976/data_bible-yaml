@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="35" data-sid="PSA 68:35" class="v">35</span>O
+  God, <span class="add">thou art</span> terrible out of thy holy places: the
+  God of Israel <span class="add">is</span> he that giveth strength and power
+  unto <span class="add">his</span> people. Blessed <span class="add">be</span>
+  God.</p>
+id: PSA/68/35
+next:
+  id: PSA/69/1
+  number: '1'
+previous:
+  id: PSA/68/34
+  number: '34'
+reference: 'Psalms 68:35'

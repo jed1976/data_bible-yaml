@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 10:9"
+  class="v">9</span>Silver spread into plates is brought from Tarshish, and gold
+  from Uphaz, the work of the workman, and of the hands of the founder: blue and
+  purple <span class="add">is</span> their clothing: they <span
+  class="add">are</span> all the work of cunning <span class="add">men</span>.
+  </p>
+id: JER/10/9
+next:
+  id: JER/10/10
+  number: '10'
+previous:
+  id: JER/10/8
+  number: '8'
+reference: 'Jeremiah 10:9'

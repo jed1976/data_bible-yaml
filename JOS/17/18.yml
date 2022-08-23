@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 17:18"
+  class="v">18</span>But the mountain shall be thine; for it <span
+  class="add">is</span> a wood, and thou shalt cut it down: and the outgoings of
+  it shall be thine: for thou shalt drive out the Canaanites, though they have
+  iron chariots, <span class="add">and</span> though they <span
+  class="add">be</span> strong.</p>
+id: JOS/17/18
+next:
+  id: JOS/18/1
+  number: '1'
+previous:
+  id: JOS/17/17
+  number: '17'
+reference: 'Joshua 17:18'

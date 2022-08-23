@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 13:22"
+  class="v">22</span>And Absalom spake unto his brother Amnon neither good nor
+  bad: for Absalom hated Amnon, because he had forced his sister Tamar.</p>
+id: 2SA/13/22
+next:
+  id: 2SA/13/23
+  number: '23'
+previous:
+  id: 2SA/13/21
+  number: '21'
+reference: '2 Samuel 13:22'

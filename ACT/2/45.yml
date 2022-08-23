@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="ACT 2:45" class="v">45</span>And
+  sold their possessions and goods, and parted them to all <span
+  class="add">men</span>, as every man had need. </p>
+id: ACT/2/45
+next:
+  id: ACT/2/46
+  number: '46'
+previous:
+  id: ACT/2/44
+  number: '44'
+reference: 'Acts 2:45'

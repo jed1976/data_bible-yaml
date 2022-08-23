@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 8:21"
+  class="v">21</span>Else, if thou wilt not let my people go, behold, I will
+  send swarms <span class="add">of flies</span> upon thee, and upon thy
+  servants, and upon thy people, and into thy houses: and the houses of the
+  Egyptians shall be full of swarms <span class="add">of flies</span>, and also
+  the ground whereon they <span class="add">are</span>. </p>
+id: EXO/8/21
+next:
+  id: EXO/8/22
+  number: '22'
+previous:
+  id: EXO/8/20
+  number: '20'
+reference: 'Exodus 8:21'

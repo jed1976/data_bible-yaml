@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="LUK 1:39" class="v">39</span>And
+  Mary arose in those days, and went into the hill country with haste, into a
+  city of Juda; </p>
+id: LUK/1/39
+next:
+  id: LUK/1/40
+  number: '40'
+previous:
+  id: LUK/1/38
+  number: '38'
+reference: 'Luke 1:39'

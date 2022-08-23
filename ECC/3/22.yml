@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ECC 3:22"
+  class="v">22</span>Wherefore I perceive that <span class="add">there is</span>
+  nothing better, than that a man should rejoice in his own works; for that
+  <span class="add">is</span> his portion: for who shall bring him to see what
+  shall be after him?</p>
+id: ECC/3/22
+next:
+  id: ECC/4/1
+  number: '1'
+previous:
+  id: ECC/3/21
+  number: '21'
+reference: 'Ecclesiastes 3:22'

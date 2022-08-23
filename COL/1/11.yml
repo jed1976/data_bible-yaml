@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="COL 1:11"
+  class="v">11</span>Strengthened with all might, according to his glorious
+  power, unto all patience and longsuffering with joyfulness; </p>
+id: COL/1/11
+next:
+  id: COL/1/12
+  number: '12'
+previous:
+  id: COL/1/10
+  number: '10'
+reference: 'Colossians 1:11'

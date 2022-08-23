@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NEH 12:27" class="v">27</span>¶
+  And at the dedication of the wall of Jerusalem they sought the Levites out of
+  all their places, to bring them to Jerusalem, to keep the dedication with
+  gladness, both with thanksgivings, and with singing, <span
+  class="add">with</span> cymbals, psalteries, and with harps. </p>
+id: NEH/12/27
+next:
+  id: NEH/12/28
+  number: '28'
+previous:
+  id: NEH/12/26
+  number: '26'
+reference: 'Nehemiah 12:27'

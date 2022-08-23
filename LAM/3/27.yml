@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LAM 3:27"
+  class="v">27</span><span class="add">It is</span> good for a man that he bear
+  the yoke in his youth. </p>
+id: LAM/3/27
+next:
+  id: LAM/3/28
+  number: '28'
+previous:
+  id: LAM/3/26
+  number: '26'
+reference: 'Lamentations 3:27'

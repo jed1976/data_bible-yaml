@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 94:18"
+  class="v">18</span>When I said, My foot slippeth; thy mercy, O <span
+  class="nd">LORD</span>, held me up.</p>
+id: PSA/94/18
+next:
+  id: PSA/94/19
+  number: '19'
+previous:
+  id: PSA/94/17
+  number: '17'
+reference: 'Psalms 94:18'

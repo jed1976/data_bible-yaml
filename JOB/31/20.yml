@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 31:20" class="v">20</span>If
+  his loins have not blessed me, and <span class="add">if</span> he were <span
+  class="add">not</span> warmed with the fleece of my sheep; </p>
+id: JOB/31/20
+next:
+  id: JOB/31/21
+  number: '21'
+previous:
+  id: JOB/31/19
+  number: '19'
+reference: 'Job 31:20'

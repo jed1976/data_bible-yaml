@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 108:11"
+  class="v">11</span><span class="add">Wilt</span> not <span
+  class="add">thou</span>, O God, <span class="add">who</span> hast cast us off?
+  and wilt not thou, O God, go forth with our hosts?</p>
+id: PSA/108/11
+next:
+  id: PSA/108/12
+  number: '12'
+previous:
+  id: PSA/108/10
+  number: '10'
+reference: 'Psalms 108:11'

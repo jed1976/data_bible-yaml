@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 11:19"
+  class="v">19</span><span class="wj">The Son of man came eating and drinking,
+  and they say, Behold a man gluttonous, and a winebibber, a friend of publicans
+  and sinners. But wisdom is justified of her children.</span></p>
+id: MAT/11/19
+next:
+  id: MAT/11/20
+  number: '20'
+previous:
+  id: MAT/11/18
+  number: '18'
+reference: 'Matthew 11:19'

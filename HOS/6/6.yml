@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 6:6" class="v">6</span>For I
+  desired mercy, and not sacrifice; and the knowledge of God more than burnt
+  offerings. </p>
+id: HOS/6/6
+next:
+  id: HOS/6/7
+  number: '7'
+previous:
+  id: HOS/6/5
+  number: '5'
+reference: 'Hosea 6:6'

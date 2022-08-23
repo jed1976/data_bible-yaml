@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 116:16"
+  class="v">16</span>O <span class="nd">LORD</span>, truly I <span
+  class="add">am</span> thy servant; I <span class="add">am</span> thy servant,
+  <span class="add">and</span> the son of thine handmaid: thou hast loosed my
+  bonds.</p>
+id: PSA/116/16
+next:
+  id: PSA/116/17
+  number: '17'
+previous:
+  id: PSA/116/15
+  number: '15'
+reference: 'Psalms 116:16'

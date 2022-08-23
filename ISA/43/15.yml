@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 43:15" class="v">15</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span>, your Holy One,
+  the creator of Israel, your King. </p>
+id: ISA/43/15
+next:
+  id: ISA/43/16
+  number: '16'
+previous:
+  id: ISA/43/14
+  number: '14'
+reference: 'Isaiah 43:15'

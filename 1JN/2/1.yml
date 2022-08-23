@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1JN 2:1" class="v">1</span>My
+  little children, these things write I unto you, that ye sin not. And if any
+  man sin, we have an advocate with the Father, Jesus Christ the righteous: </p>
+id: 1JN/2/1
+next:
+  id: 1JN/2/2
+  number: '2'
+previous:
+  id: 1JN/1/10
+  number: '10'
+reference: '1 John 2:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="MAT 15:37"
+  class="v">37</span>And they did all eat, and were filled: and they took up of
+  the broken <span class="add">meat</span> that was left seven baskets full.
+  </p>
+id: MAT/15/37
+next:
+  id: MAT/15/38
+  number: '38'
+previous:
+  id: MAT/15/36
+  number: '36'
+reference: 'Matthew 15:37'

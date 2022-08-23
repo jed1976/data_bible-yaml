@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 23:14" class="v">14</span>¶
+  Three times thou shalt keep a feast unto me in the year. </p>
+id: EXO/23/14
+next:
+  id: EXO/23/15
+  number: '15'
+previous:
+  id: EXO/23/13
+  number: '13'
+reference: 'Exodus 23:14'

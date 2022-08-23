@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 11:3" class="v">3</span>Which
+  say, <span class="add">It is</span> not near; let us build houses: this <span
+  class="add">city is</span> the caldron, and we <span class="add">be</span> the
+  flesh.</p>
+id: EZK/11/3
+next:
+  id: EZK/11/4
+  number: '4'
+previous:
+  id: EZK/11/2
+  number: '2'
+reference: 'Ezekiel 11:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 33:5" class="v">5</span>He
+  loveth righteousness and judgment: the earth is full of the goodness of the
+  <span class="nd">LORD</span>.</p>
+id: PSA/33/5
+next:
+  id: PSA/33/6
+  number: '6'
+previous:
+  id: PSA/33/4
+  number: '4'
+reference: 'Psalms 33:5'

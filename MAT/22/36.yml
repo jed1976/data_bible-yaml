@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 22:36"
+  class="v">36</span>Master, which <span class="add">is</span> the great
+  commandment in the law? </p>
+id: MAT/22/36
+next:
+  id: MAT/22/37
+  number: '37'
+previous:
+  id: MAT/22/35
+  number: '35'
+reference: 'Matthew 22:36'

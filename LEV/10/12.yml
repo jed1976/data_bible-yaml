@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LEV 10:12" class="v">12</span>¶
+  And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that
+  were left, Take the meat offering that remaineth of the offerings of the <span
+  class="nd">LORD</span> made by fire, and eat it without leaven beside the
+  altar: for it <span class="add">is</span> most holy: </p>
+id: LEV/10/12
+next:
+  id: LEV/10/13
+  number: '13'
+previous:
+  id: LEV/10/11
+  number: '11'
+reference: 'Leviticus 10:12'

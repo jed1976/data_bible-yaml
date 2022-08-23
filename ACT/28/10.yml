@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 28:10"
+  class="v">10</span>Who also honoured us with many honours; and when we
+  departed, they laded <span class="add">us</span> with such things as were
+  necessary.</p>
+id: ACT/28/10
+next:
+  id: ACT/28/11
+  number: '11'
+previous:
+  id: ACT/28/9
+  number: '9'
+reference: 'Acts 28:10'

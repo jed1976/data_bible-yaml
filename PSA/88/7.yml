@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 88:7" class="v">7</span>Thy
+  wrath lieth hard upon me, and thou hast afflicted <span class="add">me</span>
+  with all thy waves. Selah.</p>
+id: PSA/88/7
+next:
+  id: PSA/88/8
+  number: '8'
+previous:
+  id: PSA/88/6
+  number: '6'
+reference: 'Psalms 88:7'

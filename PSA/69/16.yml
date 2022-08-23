@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 69:16"
+  class="v">16</span>Hear me, O <span class="nd">LORD</span>; for thy
+  lovingkindness <span class="add">is</span> good: turn unto me according to the
+  multitude of thy tender mercies.</p>
+id: PSA/69/16
+next:
+  id: PSA/69/17
+  number: '17'
+previous:
+  id: PSA/69/15
+  number: '15'
+reference: 'Psalms 69:16'

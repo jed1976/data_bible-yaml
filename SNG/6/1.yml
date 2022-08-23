@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 6:1"
+  class="v">1</span>Whither is thy beloved gone, O thou fairest among women?
+  whither is thy beloved turned aside? that we may seek him with thee. </p>
+id: SNG/6/1
+next:
+  id: SNG/6/2
+  number: '2'
+previous:
+  id: SNG/5/16
+  number: '16'
+reference: 'Song of Solomon 6:1'

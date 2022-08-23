@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 19:15"
+  class="v">15</span>And Kattath, and Nahallal, and Shimron, and Idalah, and
+  Beth-lehem: twelve cities with their villages. </p>
+id: JOS/19/15
+next:
+  id: JOS/19/16
+  number: '16'
+previous:
+  id: JOS/19/14
+  number: '14'
+reference: 'Joshua 19:15'

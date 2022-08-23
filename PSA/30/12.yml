@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 30:12"
+  class="v">12</span>To the end that <span class="add">my</span> glory may sing
+  praise to thee, and not be silent. O <span class="nd">LORD</span> my God, I
+  will give thanks unto thee for ever.</p>
+id: PSA/30/12
+next:
+  id: PSA/31/1
+  number: '1'
+previous:
+  id: PSA/30/11
+  number: '11'
+reference: 'Psalms 30:12'

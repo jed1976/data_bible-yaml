@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 20:3" class="v">3</span>Peter
+  therefore went forth, and that other disciple, and came to the sepulchre. </p>
+id: JHN/20/3
+next:
+  id: JHN/20/4
+  number: '4'
+previous:
+  id: JHN/20/2
+  number: '2'
+reference: 'John 20:3'

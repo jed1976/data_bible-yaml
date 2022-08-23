@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JOS 19:51"
+  class="v">51</span>These <span class="add">are</span> the inheritances, which
+  Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of
+  the tribes of the children of Israel, divided for an inheritance by lot in
+  Shiloh before the <span class="nd">LORD</span>, at the door of the tabernacle
+  of the congregation. So they made an end of dividing the country.</p>
+id: JOS/19/51
+next:
+  id: JOS/20/1
+  number: '1'
+previous:
+  id: JOS/19/50
+  number: '50'
+reference: 'Joshua 19:51'

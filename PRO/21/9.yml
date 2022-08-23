@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 21:9" class="v">9</span><span
+  class="add">It is</span> better to dwell in a corner of the housetop, than
+  with a brawling woman in a wide house. </p>
+id: PRO/21/9
+next:
+  id: PRO/21/10
+  number: '10'
+previous:
+  id: PRO/21/8
+  number: '8'
+reference: 'Proverbs 21:9'

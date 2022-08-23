@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NEH 12:26"
+  class="v">26</span>These <span class="add">were</span> in the days of Joiakim
+  the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the
+  governor, and of Ezra the priest, the scribe.</p>
+id: NEH/12/26
+next:
+  id: NEH/12/27
+  number: '27'
+previous:
+  id: NEH/12/25
+  number: '25'
+reference: 'Nehemiah 12:26'

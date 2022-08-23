@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 22:18"
+  class="v">18</span>Yet he filled their houses with good <span
+  class="add">things:</span> but the counsel of the wicked is far from me. </p>
+id: JOB/22/18
+next:
+  id: JOB/22/19
+  number: '19'
+previous:
+  id: JOB/22/17
+  number: '17'
+reference: 'Job 22:18'

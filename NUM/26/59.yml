@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="NUM 26:59"
+  class="v">59</span>And the name of Amram’s wife <span class="add">was</span>
+  Jochebed, the daughter of Levi, whom <span class="add">her mother</span> bare
+  to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their
+  sister. </p>
+id: NUM/26/59
+next:
+  id: NUM/26/60
+  number: '60'
+previous:
+  id: NUM/26/58
+  number: '58'
+reference: 'Numbers 26:59'

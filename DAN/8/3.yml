@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DAN 8:3" class="v">3</span>Then I
+  lifted up mine eyes, and saw, and, behold, there stood before the river a ram
+  which had <span class="add">two</span> horns: and the <span
+  class="add">two</span> horns <span class="add">were</span> high; but one <span
+  class="add">was</span> higher than the other, and the higher came up last.
+  </p>
+id: DAN/8/3
+next:
+  id: DAN/8/4
+  number: '4'
+previous:
+  id: DAN/8/2
+  number: '2'
+reference: 'Daniel 8:3'

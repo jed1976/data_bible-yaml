@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEC 9:8" class="v">8</span>And I
+  will encamp about mine house because of the army, because of him that passeth
+  by, and because of him that returneth: and no oppressor shall pass through
+  them any more: for now have I seen with mine eyes.</p>
+id: ZEC/9/8
+next:
+  id: ZEC/9/9
+  number: '9'
+previous:
+  id: ZEC/9/7
+  number: '7'
+reference: 'Zechariah 9:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 2:32"
+  class="v">32</span>This Jesus hath God raised up, whereof we all are
+  witnesses. </p>
+id: ACT/2/32
+next:
+  id: ACT/2/33
+  number: '33'
+previous:
+  id: ACT/2/31
+  number: '31'
+reference: 'Acts 2:32'

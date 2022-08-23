@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZK 40:13" class="v">13</span>He
+  measured then the gate from the roof of <span class="add">one</span> little
+  chamber to the roof of another: the breadth <span class="add">was</span> five
+  and twenty cubits, door against door. </p>
+id: EZK/40/13
+next:
+  id: EZK/40/14
+  number: '14'
+previous:
+  id: EZK/40/12
+  number: '12'
+reference: 'Ezekiel 40:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2KI 8:16" class="v">16</span>¶
+  And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat
+  <span class="add">being</span> then king of Judah, Jehoram the son of
+  Jehoshaphat king of Judah began to reign. </p>
+id: 2KI/8/16
+next:
+  id: 2KI/8/17
+  number: '17'
+previous:
+  id: 2KI/8/15
+  number: '15'
+reference: '2 Kings 8:16'

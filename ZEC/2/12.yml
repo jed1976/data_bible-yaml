@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ZEC 2:12" class="v">12</span>And
+  the <span class="nd">LORD</span> shall inherit Judah his portion in the holy
+  land, and shall choose Jerusalem again. </p>
+id: ZEC/2/12
+next:
+  id: ZEC/2/13
+  number: '13'
+previous:
+  id: ZEC/2/11
+  number: '11'
+reference: 'Zechariah 2:12'

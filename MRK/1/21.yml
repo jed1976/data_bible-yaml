@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 1:21" class="v">21</span>And
+  they went into Capernaum; and straightway on the sabbath day he entered into
+  the synagogue, and taught. </p>
+id: MRK/1/21
+next:
+  id: MRK/1/22
+  number: '22'
+previous:
+  id: MRK/1/20
+  number: '20'
+reference: 'Mark 1:21'

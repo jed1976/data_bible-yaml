@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 25:18"
+  class="v">18</span>Against whom when the accusers stood up, they brought none
+  accusation of such things as I supposed: </p>
+id: ACT/25/18
+next:
+  id: ACT/25/19
+  number: '19'
+previous:
+  id: ACT/25/17
+  number: '17'
+reference: 'Acts 25:18'

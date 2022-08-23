@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="DEU 28:38"
+  class="v">38</span>Thou shalt carry much seed out into the field, and shalt
+  gather <span class="add">but</span> little in; for the locust shall consume
+  it. </p>
+id: DEU/28/38
+next:
+  id: DEU/28/39
+  number: '39'
+previous:
+  id: DEU/28/37
+  number: '37'
+reference: 'Deuteronomy 28:38'

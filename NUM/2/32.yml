@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 2:32" class="v">32</span>¶
+  These <span class="add">are</span> those which were numbered of the children
+  of Israel by the house of their fathers: all those that were numbered of the
+  camps throughout their hosts <span class="add">were</span> six hundred
+  thousand and three thousand and five hundred and fifty. </p>
+id: NUM/2/32
+next:
+  id: NUM/2/33
+  number: '33'
+previous:
+  id: NUM/2/31
+  number: '31'
+reference: 'Numbers 2:32'

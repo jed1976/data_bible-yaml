@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm <span class="add">or</span> Song
+  of David.</p><p class="q1"><span data-number="1" data-sid="PSA 68:1"
+  class="v">1</span>Let God arise, let his enemies be scattered: let them also
+  that hate him flee before him.</p>
+id: PSA/68/1
+next:
+  id: PSA/68/2
+  number: '2'
+previous:
+  id: PSA/67/7
+  number: '7'
+reference: 'Psalms 68:1'

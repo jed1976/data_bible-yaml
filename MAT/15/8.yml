@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 15:8" class="v">8</span><span
+  class="wj">This people draweth nigh unto me with their mouth, and honoureth me
+  with <span class="add">their</span> lips; but their heart is far from
+  me.</span> </p>
+id: MAT/15/8
+next:
+  id: MAT/15/9
+  number: '9'
+previous:
+  id: MAT/15/7
+  number: '7'
+reference: 'Matthew 15:8'

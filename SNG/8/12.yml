@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 8:12" class="v">12</span>My
+  vineyard, which <span class="add">is</span> mine, <span class="add">is</span>
+  before me: thou, O Solomon, <span class="add">must have</span> a thousand, and
+  those that keep the fruit thereof two hundred.</p>
+id: SNG/8/12
+next:
+  id: SNG/8/13
+  number: '13'
+previous:
+  id: SNG/8/11
+  number: '11'
+reference: 'Song of Solomon 8:12'

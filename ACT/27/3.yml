@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 27:3" class="v">3</span>And
+  the next <span class="add">day</span> we touched at Sidon. And Julius
+  courteously entreated Paul, and gave <span class="add">him</span> liberty to
+  go unto his friends to refresh himself. </p>
+id: ACT/27/3
+next:
+  id: ACT/27/4
+  number: '4'
+previous:
+  id: ACT/27/2
+  number: '2'
+reference: 'Acts 27:3'

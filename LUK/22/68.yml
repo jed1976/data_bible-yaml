@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="68" data-sid="LUK 22:68"
+  class="v">68</span><span class="wj">And if I also ask <span
+  class="add">you</span>, ye will not answer me, nor let <span
+  class="add">me</span> go.</span> </p>
+id: LUK/22/68
+next:
+  id: LUK/22/69
+  number: '69'
+previous:
+  id: LUK/22/67
+  number: '67'
+reference: 'Luke 22:68'

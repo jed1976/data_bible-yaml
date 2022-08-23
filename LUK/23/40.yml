@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 23:40"
+  class="v">40</span>But the other answering rebuked him, saying, Dost not thou
+  fear God, seeing thou art in the same condemnation? </p>
+id: LUK/23/40
+next:
+  id: LUK/23/41
+  number: '41'
+previous:
+  id: LUK/23/39
+  number: '39'
+reference: 'Luke 23:40'

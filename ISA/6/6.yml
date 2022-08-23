@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 6:6" class="v">6</span>Then
+  flew one of the seraphims unto me, having a live coal in his hand, <span
+  class="add">which</span> he had taken with the tongs from off the altar: </p>
+id: ISA/6/6
+next:
+  id: ISA/6/7
+  number: '7'
+previous:
+  id: ISA/6/5
+  number: '5'
+reference: 'Isaiah 6:6'

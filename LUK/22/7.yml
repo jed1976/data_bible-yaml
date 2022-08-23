@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 22:7" class="v">7</span>¶
+  Then came the day of unleavened bread, when the passover must be killed. </p>
+id: LUK/22/7
+next:
+  id: LUK/22/8
+  number: '8'
+previous:
+  id: LUK/22/6
+  number: '6'
+reference: 'Luke 22:7'

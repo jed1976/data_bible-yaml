@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2CH 30:13" class="v">13</span>¶
+  And there assembled at Jerusalem much people to keep the feast of unleavened
+  bread in the second month, a very great congregation. </p>
+id: 2CH/30/13
+next:
+  id: 2CH/30/14
+  number: '14'
+previous:
+  id: 2CH/30/12
+  number: '12'
+reference: '2 Chronicles 30:13'

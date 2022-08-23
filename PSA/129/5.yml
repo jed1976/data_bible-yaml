@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 129:5"
+  class="v">5</span>Let them all be confounded and turned back that hate
+  Zion.</p>
+id: PSA/129/5
+next:
+  id: PSA/129/6
+  number: '6'
+previous:
+  id: PSA/129/4
+  number: '4'
+reference: 'Psalms 129:5'

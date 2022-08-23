@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 6:16"
+  class="v">16</span><span class="wj">¶ Moreover when ye fast, be not, as the
+  hypocrites, of a sad countenance: for they disfigure their faces, that they
+  may appear unto men to fast. Verily I say unto you, They have their
+  reward.</span> </p>
+id: MAT/6/16
+next:
+  id: MAT/6/17
+  number: '17'
+previous:
+  id: MAT/6/15
+  number: '15'
+reference: 'Matthew 6:16'

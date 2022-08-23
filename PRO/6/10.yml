@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 6:10"
+  class="v">10</span><span class="add">Yet</span> a little sleep, a little
+  slumber, a little folding of the hands to sleep: </p>
+id: PRO/6/10
+next:
+  id: PRO/6/11
+  number: '11'
+previous:
+  id: PRO/6/9
+  number: '9'
+reference: 'Proverbs 6:10'

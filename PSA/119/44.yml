@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="44" data-sid="PSA 119:44"
+  class="v">44</span>So shall I keep thy law continually for ever and ever.</p>
+id: PSA/119/44
+next:
+  id: PSA/119/45
+  number: '45'
+previous:
+  id: PSA/119/43
+  number: '43'
+reference: 'Psalms 119:44'

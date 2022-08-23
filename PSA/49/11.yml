@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 49:11"
+  class="v">11</span>Their inward thought <span class="add">is, that</span>
+  their houses <span class="add">shall continue</span> for ever, <span
+  class="add">and</span> their dwelling places to all generations; they call
+  <span class="add">their</span> lands after their own names.</p>
+id: PSA/49/11
+next:
+  id: PSA/49/12
+  number: '12'
+previous:
+  id: PSA/49/10
+  number: '10'
+reference: 'Psalms 49:11'

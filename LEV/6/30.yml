@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 6:30" class="v">30</span>And
+  no sin offering, whereof <span class="add">any</span> of the blood is brought
+  into the tabernacle of the congregation to reconcile <span
+  class="add">withal</span> in the holy <span class="add">place</span>, shall be
+  eaten: it shall be burnt in the fire.</p>
+id: LEV/6/30
+next:
+  id: LEV/7/1
+  number: '1'
+previous:
+  id: LEV/6/29
+  number: '29'
+reference: 'Leviticus 6:30'

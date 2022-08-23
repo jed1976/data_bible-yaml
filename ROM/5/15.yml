@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 5:15" class="v">15</span>But
+  not as the offence, so also <span class="add">is</span> the free gift. For if
+  through the offence of one many be dead, much more the grace of God, and the
+  gift by grace, <span class="add">which is</span> by one man, Jesus Christ,
+  hath abounded unto many. </p>
+id: ROM/5/15
+next:
+  id: ROM/5/16
+  number: '16'
+previous:
+  id: ROM/5/14
+  number: '14'
+reference: 'Romans 5:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LEV 25:43"
+  class="v">43</span>Thou shalt not rule over him with rigour; but shalt fear
+  thy God. </p>
+id: LEV/25/43
+next:
+  id: LEV/25/44
+  number: '44'
+previous:
+  id: LEV/25/42
+  number: '42'
+reference: 'Leviticus 25:43'

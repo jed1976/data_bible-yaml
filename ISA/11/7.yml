@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 11:7" class="v">7</span>And
+  the cow and the bear shall feed; their young ones shall lie down together: and
+  the lion shall eat straw like the ox. </p>
+id: ISA/11/7
+next:
+  id: ISA/11/8
+  number: '8'
+previous:
+  id: ISA/11/6
+  number: '6'
+reference: 'Isaiah 11:7'

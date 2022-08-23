@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 13:13"
+  class="v">13</span>Now when Paul and his company loosed from Paphos, they came
+  to Perga in Pamphylia: and John departing from them returned to Jerusalem.</p>
+id: ACT/13/13
+next:
+  id: ACT/13/14
+  number: '14'
+previous:
+  id: ACT/13/12
+  number: '12'
+reference: 'Acts 13:13'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1CH 20:6" class="v">6</span>And
+  yet again there was war at Gath, where was a man of <span
+  class="add">great</span> stature, whose fingers and toes <span
+  class="add">were</span> four and twenty, six <span class="add">on each
+  hand</span>, and six <span class="add">on each foot:</span> and he also was
+  the son of the giant. </p>
+id: 1CH/20/6
+next:
+  id: 1CH/20/7
+  number: '7'
+previous:
+  id: 1CH/20/5
+  number: '5'
+reference: '1 Chronicles 20:6'

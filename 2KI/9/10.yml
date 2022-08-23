@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2KI 9:10" class="v">10</span>And
+  the dogs shall eat Jezebel in the portion of Jezreel, and <span
+  class="add">there shall be</span> none to bury <span class="add">her</span>.
+  And he opened the door, and fled.</p>
+id: 2KI/9/10
+next:
+  id: 2KI/9/11
+  number: '11'
+previous:
+  id: 2KI/9/9
+  number: '9'
+reference: '2 Kings 9:10'

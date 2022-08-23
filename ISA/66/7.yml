@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 66:7"
+  class="v">7</span>Before she travailed, she brought forth; before her pain
+  came, she was delivered of a man child. </p>
+id: ISA/66/7
+next:
+  id: ISA/66/8
+  number: '8'
+previous:
+  id: ISA/66/6
+  number: '6'
+reference: 'Isaiah 66:7'

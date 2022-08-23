@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 17:6" class="v">6</span>And
+  when they found them not, they drew Jason and certain brethren unto the rulers
+  of the city, crying, These that have turned the world upside down are come
+  hither also; </p>
+id: ACT/17/6
+next:
+  id: ACT/17/7
+  number: '7'
+previous:
+  id: ACT/17/5
+  number: '5'
+reference: 'Acts 17:6'

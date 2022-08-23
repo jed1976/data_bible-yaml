@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 10:30"
+  class="v">30</span>And the <span class="nd">LORD</span> delivered it also, and
+  the king thereof, into the hand of Israel; and he smote it with the edge of
+  the sword, and all the souls that <span class="add">were</span> therein; he
+  let none remain in it; but did unto the king thereof as he did unto the king
+  of Jericho.</p>
+id: JOS/10/30
+next:
+  id: JOS/10/31
+  number: '31'
+previous:
+  id: JOS/10/29
+  number: '29'
+reference: 'Joshua 10:30'

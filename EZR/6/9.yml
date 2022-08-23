@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 6:9" class="v">9</span>And
+  that which they have need of, both young bullocks, and rams, and lambs, for
+  the burnt offerings of the God of heaven, wheat, salt, wine, and oil,
+  according to the appointment of the priests which <span class="add">are</span>
+  at Jerusalem, let it be given them day by day without fail: </p>
+id: EZR/6/9
+next:
+  id: EZR/6/10
+  number: '10'
+previous:
+  id: EZR/6/8
+  number: '8'
+reference: 'Ezra 6:9'

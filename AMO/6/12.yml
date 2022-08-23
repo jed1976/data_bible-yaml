@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 6:12" class="v">12</span>¶
+  Shall horses run upon the rock? will <span class="add">one</span> plow <span
+  class="add">there</span> with oxen? for ye have turned judgment into gall, and
+  the fruit of righteousness into hemlock: </p>
+id: AMO/6/12
+next:
+  id: AMO/6/13
+  number: '13'
+previous:
+  id: AMO/6/11
+  number: '11'
+reference: 'Amos 6:12'

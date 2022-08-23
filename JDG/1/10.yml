@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 1:10" class="v">10</span>And
+  Judah went against the Canaanites that dwelt in Hebron: (now the name of
+  Hebron before <span class="add">was</span> Kirjath-arba:) and they slew
+  Sheshai, and Ahiman, and Talmai. </p>
+id: JDG/1/10
+next:
+  id: JDG/1/11
+  number: '11'
+previous:
+  id: JDG/1/9
+  number: '9'
+reference: 'Judges 1:10'

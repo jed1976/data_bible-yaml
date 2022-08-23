@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 41:27"
+  class="v">27</span>The first <span class="add">shall say</span> to Zion,
+  Behold, behold them: and I will give to Jerusalem one that bringeth good
+  tidings. </p>
+id: ISA/41/27
+next:
+  id: ISA/41/28
+  number: '28'
+previous:
+  id: ISA/41/26
+  number: '26'
+reference: 'Isaiah 41:27'

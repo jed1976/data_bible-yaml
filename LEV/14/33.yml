@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LEV 14:33" class="v">33</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses and unto Aaron, saying,
+  </p>
+id: LEV/14/33
+next:
+  id: LEV/14/34
+  number: '34'
+previous:
+  id: LEV/14/32
+  number: '32'
+reference: 'Leviticus 14:33'

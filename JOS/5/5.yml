@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 5:5" class="v">5</span>Now
+  all the people that came out were circumcised: but all the people <span
+  class="add">that were</span> born in the wilderness by the way as they came
+  forth out of Egypt, <span class="add">them</span> they had not circumcised.
+  </p>
+id: JOS/5/5
+next:
+  id: JOS/5/6
+  number: '6'
+previous:
+  id: JOS/5/4
+  number: '4'
+reference: 'Joshua 5:5'

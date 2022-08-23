@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 7:42"
+  class="v">42</span>Hath not the scripture said, That Christ cometh of the seed
+  of David, and out of the town of Bethlehem, where David was? </p>
+id: JHN/7/42
+next:
+  id: JHN/7/43
+  number: '43'
+previous:
+  id: JHN/7/41
+  number: '41'
+reference: 'John 7:42'

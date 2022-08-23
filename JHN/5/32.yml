@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 5:32"
+  class="v">32</span><span class="wj">¶ There is another that beareth witness of
+  me; and I know that the witness which he witnesseth of me is true.</span> </p>
+id: JHN/5/32
+next:
+  id: JHN/5/33
+  number: '33'
+previous:
+  id: JHN/5/31
+  number: '31'
+reference: 'John 5:32'

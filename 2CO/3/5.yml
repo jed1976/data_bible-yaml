@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CO 3:5" class="v">5</span>Not
+  that we are sufficient of ourselves to think any thing as of ourselves; but
+  our sufficiency <span class="add">is</span> of God; </p>
+id: 2CO/3/5
+next:
+  id: 2CO/3/6
+  number: '6'
+previous:
+  id: 2CO/3/4
+  number: '4'
+reference: '2 Corinthians 3:5'

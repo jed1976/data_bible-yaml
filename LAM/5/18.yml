@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LAM 5:18"
+  class="v">18</span>Because of the mountain of Zion, which is desolate, the
+  foxes walk upon it. </p>
+id: LAM/5/18
+next:
+  id: LAM/5/19
+  number: '19'
+previous:
+  id: LAM/5/17
+  number: '17'
+reference: 'Lamentations 5:18'

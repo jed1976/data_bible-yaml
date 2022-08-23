@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 20:3" class="v">3</span>And
+  it came to pass on the morrow, that Pashur brought forth Jeremiah out of the
+  stocks. Then said Jeremiah unto him, The <span class="nd">LORD</span> hath not
+  called thy name Pashur, but Magor-missabib. </p>
+id: JER/20/3
+next:
+  id: JER/20/4
+  number: '4'
+previous:
+  id: JER/20/2
+  number: '2'
+reference: 'Jeremiah 20:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LUK 20:43"
+  class="v">43</span><span class="wj">Till I make thine enemies thy
+  footstool.</span> </p>
+id: LUK/20/43
+next:
+  id: LUK/20/44
+  number: '44'
+previous:
+  id: LUK/20/42
+  number: '42'
+reference: 'Luke 20:43'

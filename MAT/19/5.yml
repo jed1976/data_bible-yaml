@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 19:5" class="v">5</span><span
+  class="wj">And said, For this cause shall a man leave father and mother, and
+  shall cleave to his wife: and they twain shall be one flesh?</span> </p>
+id: MAT/19/5
+next:
+  id: MAT/19/6
+  number: '6'
+previous:
+  id: MAT/19/4
+  number: '4'
+reference: 'Matthew 19:5'

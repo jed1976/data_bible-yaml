@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOS 10:25"
+  class="v">25</span>And Joshua said unto them, Fear not, nor be dismayed, be
+  strong and of good courage: for thus shall the <span class="nd">LORD</span> do
+  to all your enemies against whom ye fight. </p>
+id: JOS/10/25
+next:
+  id: JOS/10/26
+  number: '26'
+previous:
+  id: JOS/10/24
+  number: '24'
+reference: 'Joshua 10:25'

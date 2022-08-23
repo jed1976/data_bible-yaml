@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 30:10" class="v">10</span>¶
+  Therefore fear thou not, O my servant Jacob, saith the <span
+  class="nd">LORD</span>; neither be dismayed, O Israel: for, lo, I will save
+  thee from afar, and thy seed from the land of their captivity; and Jacob shall
+  return, and shall be in rest, and be quiet, and none shall make <span
+  class="add">him</span> afraid. </p>
+id: JER/30/10
+next:
+  id: JER/30/11
+  number: '11'
+previous:
+  id: JER/30/9
+  number: '9'
+reference: 'Jeremiah 30:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 13:23"
+  class="v">23</span>Therefore ye shall see no more vanity, nor divine
+  divinations: for I will deliver my people out of your hand: and ye shall know
+  that I <span class="add">am</span> the <span class="nd">LORD</span>.</p>
+id: EZK/13/23
+next:
+  id: EZK/14/1
+  number: '1'
+previous:
+  id: EZK/13/22
+  number: '22'
+reference: 'Ezekiel 13:23'

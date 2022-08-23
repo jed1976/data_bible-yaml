@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 11:8" class="v">8</span>Of
+  their flesh shall ye not eat, and their carcase shall ye not touch; they <span
+  class="add">are</span> unclean to you.</p>
+id: LEV/11/8
+next:
+  id: LEV/11/9
+  number: '9'
+previous:
+  id: LEV/11/7
+  number: '7'
+reference: 'Leviticus 11:8'

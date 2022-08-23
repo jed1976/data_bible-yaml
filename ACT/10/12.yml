@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 10:12"
+  class="v">12</span>Wherein were all manner of fourfooted beasts of the earth,
+  and wild beasts, and creeping things, and fowls of the air. </p>
+id: ACT/10/12
+next:
+  id: ACT/10/13
+  number: '13'
+previous:
+  id: ACT/10/11
+  number: '11'
+reference: 'Acts 10:12'

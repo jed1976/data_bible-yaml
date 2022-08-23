@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 57:4"
+  class="v">4</span>Against whom do ye sport yourselves? against whom make ye a
+  wide mouth, <span class="add">and</span> draw out the tongue? <span
+  class="add">are</span> ye not children of transgression, a seed of falsehood,
+  </p>
+id: ISA/57/4
+next:
+  id: ISA/57/5
+  number: '5'
+previous:
+  id: ISA/57/3
+  number: '3'
+reference: 'Isaiah 57:4'

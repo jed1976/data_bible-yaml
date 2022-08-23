@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ECC 7:21"
+  class="v">21</span>Also take no heed unto all words that are spoken; lest thou
+  hear thy servant curse thee: </p>
+id: ECC/7/21
+next:
+  id: ECC/7/22
+  number: '22'
+previous:
+  id: ECC/7/20
+  number: '20'
+reference: 'Ecclesiastes 7:21'

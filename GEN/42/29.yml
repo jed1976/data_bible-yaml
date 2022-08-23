@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 42:29" class="v">29</span>¶
+  And they came unto Jacob their father unto the land of Canaan, and told him
+  all that befell unto them; saying, </p>
+id: GEN/42/29
+next:
+  id: GEN/42/30
+  number: '30'
+previous:
+  id: GEN/42/28
+  number: '28'
+reference: 'Genesis 42:29'

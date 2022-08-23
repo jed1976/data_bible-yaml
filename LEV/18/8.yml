@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 18:8" class="v">8</span>The
+  nakedness of thy father’s wife shalt thou not uncover: it <span
+  class="add">is</span> thy father’s nakedness. </p>
+id: LEV/18/8
+next:
+  id: LEV/18/9
+  number: '9'
+previous:
+  id: LEV/18/7
+  number: '7'
+reference: 'Leviticus 18:8'

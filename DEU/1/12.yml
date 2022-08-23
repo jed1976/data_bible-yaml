@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 1:12" class="v">12</span>How
+  can I myself alone bear your cumbrance, and your burden, and your strife? </p>
+id: DEU/1/12
+next:
+  id: DEU/1/13
+  number: '13'
+previous:
+  id: DEU/1/11
+  number: '11'
+reference: 'Deuteronomy 1:12'

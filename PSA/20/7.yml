@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 20:7" class="v">7</span>Some
+  <span class="add">trust</span> in chariots, and some in horses: but we will
+  remember the name of the <span class="nd">LORD</span> our God.</p>
+id: PSA/20/7
+next:
+  id: PSA/20/8
+  number: '8'
+previous:
+  id: PSA/20/6
+  number: '6'
+reference: 'Psalms 20:7'

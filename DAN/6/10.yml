@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 6:10" class="v">10</span>¶
+  Now when Daniel knew that the writing was signed, he went into his house; and
+  his windows being open in his chamber toward Jerusalem, he kneeled upon his
+  knees three times a day, and prayed, and gave thanks before his God, as he did
+  aforetime.</p>
+id: DAN/6/10
+next:
+  id: DAN/6/11
+  number: '11'
+previous:
+  id: DAN/6/9
+  number: '9'
+reference: 'Daniel 6:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NUM 31:35"
+  class="v">35</span>And thirty and two thousand persons in all, of women that
+  had not known man by lying with him. </p>
+id: NUM/31/35
+next:
+  id: NUM/31/36
+  number: '36'
+previous:
+  id: NUM/31/34
+  number: '34'
+reference: 'Numbers 31:35'

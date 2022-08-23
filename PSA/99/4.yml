@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 99:4" class="v">4</span>The
+  king’s strength also loveth judgment; thou dost establish equity, thou
+  executest judgment and righteousness in Jacob.</p>
+id: PSA/99/4
+next:
+  id: PSA/99/5
+  number: '5'
+previous:
+  id: PSA/99/3
+  number: '3'
+reference: 'Psalms 99:4'

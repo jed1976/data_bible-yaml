@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 4:13" class="v">13</span>¶
+  Now when they saw the boldness of Peter and John, and perceived that they were
+  unlearned and ignorant men, they marvelled; and they took knowledge of them,
+  that they had been with Jesus. </p>
+id: ACT/4/13
+next:
+  id: ACT/4/14
+  number: '14'
+previous:
+  id: ACT/4/12
+  number: '12'
+reference: 'Acts 4:13'

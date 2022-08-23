@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="9" data-sid="PSA 55:9"
+  class="v">9</span>Destroy, O Lord, <span class="add">and</span> divide their
+  tongues: for I have seen violence and strife in the city.</p>
+id: PSA/55/9
+next:
+  id: PSA/55/10
+  number: '10'
+previous:
+  id: PSA/55/8
+  number: '8'
+reference: 'Psalms 55:9'

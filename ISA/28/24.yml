@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 28:24"
+  class="v">24</span>Doth the plowman plow all day to sow? doth he open and
+  break the clods of his ground? </p>
+id: ISA/28/24
+next:
+  id: ISA/28/25
+  number: '25'
+previous:
+  id: ISA/28/23
+  number: '23'
+reference: 'Isaiah 28:24'

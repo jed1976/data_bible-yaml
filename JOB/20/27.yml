@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 20:27"
+  class="v">27</span>The heaven shall reveal his iniquity; and the earth shall
+  rise up against him. </p>
+id: JOB/20/27
+next:
+  id: JOB/20/28
+  number: '28'
+previous:
+  id: JOB/20/26
+  number: '26'
+reference: 'Job 20:27'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JAS 1:22" class="v">22</span>But
+  be ye doers of the word, and not hearers only, deceiving your own selves. </p>
+id: JAS/1/22
+next:
+  id: JAS/1/23
+  number: '23'
+previous:
+  id: JAS/1/21
+  number: '21'
+reference: 'James 1:22'

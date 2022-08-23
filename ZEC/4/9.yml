@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 4:9" class="v">9</span>The
+  hands of Zerubbabel have laid the foundation of this house; his hands shall
+  also finish it; and thou shalt know that the <span class="nd">LORD</span> of
+  hosts hath sent me unto you. </p>
+id: ZEC/4/9
+next:
+  id: ZEC/4/10
+  number: '10'
+previous:
+  id: ZEC/4/8
+  number: '8'
+reference: 'Zechariah 4:9'

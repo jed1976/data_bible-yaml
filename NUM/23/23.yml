@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 23:23"
+  class="v">23</span>Surely <span class="add">there is</span> no enchantment
+  against Jacob, neither <span class="add">is there</span> any divination
+  against Israel: according to this time it shall be said of Jacob and of
+  Israel, What hath God wrought! </p>
+id: NUM/23/23
+next:
+  id: NUM/23/24
+  number: '24'
+previous:
+  id: NUM/23/22
+  number: '22'
+reference: 'Numbers 23:23'

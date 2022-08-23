@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="REV 8:2" class="v">2</span>And I
+  saw the seven angels which stood before God; and to them were given seven
+  trumpets. </p>
+id: REV/8/2
+next:
+  id: REV/8/3
+  number: '3'
+previous:
+  id: REV/8/1
+  number: '1'
+reference: 'Revelation 8:2'

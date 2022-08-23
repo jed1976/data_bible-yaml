@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2TH 3:3" class="v">3</span>But
+  the Lord is faithful, who shall stablish you, and keep <span
+  class="add">you</span> from evil. </p>
+id: 2TH/3/3
+next:
+  id: 2TH/3/4
+  number: '4'
+previous:
+  id: 2TH/3/2
+  number: '2'
+reference: '2 Thessalonians 3:3'

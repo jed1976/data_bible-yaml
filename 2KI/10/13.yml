@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2KI 10:13"
+  class="v">13</span>Jehu met with the brethren of Ahaziah king of Judah, and
+  said, Who <span class="add">are</span> ye? And they answered, We <span
+  class="add">are</span> the brethren of Ahaziah; and we go down to salute the
+  children of the king and the children of the queen. </p>
+id: 2KI/10/13
+next:
+  id: 2KI/10/14
+  number: '14'
+previous:
+  id: 2KI/10/12
+  number: '12'
+reference: '2 Kings 10:13'

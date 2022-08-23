@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 12:4" class="v">4</span><span
+  class="wj">How he entered into the house of God, and did eat the shewbread,
+  which was not lawful for him to eat, neither for them which were with him, but
+  only for the priests?</span> </p>
+id: MAT/12/4
+next:
+  id: MAT/12/5
+  number: '5'
+previous:
+  id: MAT/12/3
+  number: '3'
+reference: 'Matthew 12:4'

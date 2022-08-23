@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 3:3" class="v">3</span>For
+  what if some did not believe? shall their unbelief make the faith of God
+  without effect? </p>
+id: ROM/3/3
+next:
+  id: ROM/3/4
+  number: '4'
+previous:
+  id: ROM/3/2
+  number: '2'
+reference: 'Romans 3:3'

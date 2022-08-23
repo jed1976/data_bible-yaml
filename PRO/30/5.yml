@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 30:5" class="v">5</span>Every
+  word of God <span class="add">is</span> pure: he <span class="add">is</span> a
+  shield unto them that put their trust in him. </p>
+id: PRO/30/5
+next:
+  id: PRO/30/6
+  number: '6'
+previous:
+  id: PRO/30/4
+  number: '4'
+reference: 'Proverbs 30:5'

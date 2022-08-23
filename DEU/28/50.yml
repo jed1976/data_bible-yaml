@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="DEU 28:50" class="v">50</span>A
+  nation of fierce countenance, which shall not regard the person of the old,
+  nor shew favour to the young: </p>
+id: DEU/28/50
+next:
+  id: DEU/28/51
+  number: '51'
+previous:
+  id: DEU/28/49
+  number: '49'
+reference: 'Deuteronomy 28:50'

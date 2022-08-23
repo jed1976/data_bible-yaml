@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 2:1" class="v">1</span>And
+  when the day of Pentecost was fully come, they were all with one accord in one
+  place. </p>
+id: ACT/2/1
+next:
+  id: ACT/2/2
+  number: '2'
+previous:
+  id: ACT/1/26
+  number: '26'
+reference: 'Acts 2:1'

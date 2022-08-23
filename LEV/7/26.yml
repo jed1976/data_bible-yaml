@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 7:26"
+  class="v">26</span>Moreover ye shall eat no manner of blood, <span
+  class="add">whether it be</span> of fowl or of beast, in any of your
+  dwellings. </p>
+id: LEV/7/26
+next:
+  id: LEV/7/27
+  number: '27'
+previous:
+  id: LEV/7/25
+  number: '25'
+reference: 'Leviticus 7:26'

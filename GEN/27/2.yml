@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 27:2" class="v">2</span>And
+  he said, Behold now, I am old, I know not the day of my death: </p>
+id: GEN/27/2
+next:
+  id: GEN/27/3
+  number: '3'
+previous:
+  id: GEN/27/1
+  number: '1'
+reference: 'Genesis 27:2'

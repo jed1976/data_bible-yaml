@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="MAT 24:49"
+  class="v">49</span><span class="wj">And shall begin to smite <span
+  class="add">his</span> fellowservants, and to eat and drink with the
+  drunken;</span> </p>
+id: MAT/24/49
+next:
+  id: MAT/24/50
+  number: '50'
+previous:
+  id: MAT/24/48
+  number: '48'
+reference: 'Matthew 24:49'

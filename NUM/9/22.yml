@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 9:22" class="v">22</span>Or
+  <span class="add">whether it were</span> two days, or a month, or a year, that
+  the cloud tarried upon the tabernacle, remaining thereon, the children of
+  Israel abode in their tents, and journeyed not: but when it was taken up, they
+  journeyed. </p>
+id: NUM/9/22
+next:
+  id: NUM/9/23
+  number: '23'
+previous:
+  id: NUM/9/21
+  number: '21'
+reference: 'Numbers 9:22'

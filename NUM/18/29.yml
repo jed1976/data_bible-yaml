@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 18:29"
+  class="v">29</span>Out of all your gifts ye shall offer every heave offering
+  of the <span class="nd">LORD</span>, of all the best thereof, <span
+  class="add">even</span> the hallowed part thereof out of it. </p>
+id: NUM/18/29
+next:
+  id: NUM/18/30
+  number: '30'
+previous:
+  id: NUM/18/28
+  number: '28'
+reference: 'Numbers 18:29'

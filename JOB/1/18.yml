@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 1:18"
+  class="v">18</span>While he <span class="add">was</span> yet speaking, there
+  came also another, and said, Thy sons and thy daughters <span
+  class="add">were</span> eating and drinking wine in their eldest brother’s
+  house: </p>
+id: JOB/1/18
+next:
+  id: JOB/1/19
+  number: '19'
+previous:
+  id: JOB/1/17
+  number: '17'
+reference: 'Job 1:18'

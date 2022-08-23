@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NEH 7:30" class="v">30</span>The
+  men of Ramah and Geba, six hundred twenty and one. </p>
+id: NEH/7/30
+next:
+  id: NEH/7/31
+  number: '31'
+previous:
+  id: NEH/7/29
+  number: '29'
+reference: 'Nehemiah 7:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NEH 5:19"
+  class="v">19</span>Think upon me, my God, for good, <span
+  class="add">according</span> to all that I have done for this people.</p>
+id: NEH/5/19
+next:
+  id: NEH/6/1
+  number: '1'
+previous:
+  id: NEH/5/18
+  number: '18'
+reference: 'Nehemiah 5:19'

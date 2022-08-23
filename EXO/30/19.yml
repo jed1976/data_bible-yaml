@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 30:19"
+  class="v">19</span>For Aaron and his sons shall wash their hands and their
+  feet thereat: </p>
+id: EXO/30/19
+next:
+  id: EXO/30/20
+  number: '20'
+previous:
+  id: EXO/30/18
+  number: '18'
+reference: 'Exodus 30:19'

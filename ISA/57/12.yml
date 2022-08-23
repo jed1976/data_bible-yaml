@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 57:12" class="v">12</span>I
+  will declare thy righteousness, and thy works; for they shall not profit
+  thee.</p>
+id: ISA/57/12
+next:
+  id: ISA/57/13
+  number: '13'
+previous:
+  id: ISA/57/11
+  number: '11'
+reference: 'Isaiah 57:12'

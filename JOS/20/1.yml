@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 20:1" class="v">1</span>The
+  <span class="nd">LORD</span> also spake unto Joshua, saying, </p>
+id: JOS/20/1
+next:
+  id: JOS/20/2
+  number: '2'
+previous:
+  id: JOS/19/51
+  number: '51'
+reference: 'Joshua 20:1'

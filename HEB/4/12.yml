@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 4:12" class="v">12</span>For
+  the word of God <span class="add">is</span> quick, and powerful, and sharper
+  than any twoedged sword, piercing even to the dividing asunder of soul and
+  spirit, and of the joints and marrow, and <span class="add">is</span> a
+  discerner of the thoughts and intents of the heart. </p>
+id: HEB/4/12
+next:
+  id: HEB/4/13
+  number: '13'
+previous:
+  id: HEB/4/11
+  number: '11'
+reference: 'Hebrews 4:12'

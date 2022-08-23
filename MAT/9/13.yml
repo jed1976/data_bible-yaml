@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 9:13"
+  class="v">13</span><span class="wj">But go ye and learn what <span
+  class="add">that</span> meaneth, I will have mercy, and not sacrifice: for I
+  am not come to call the righteous, but sinners to repentance.</span></p>
+id: MAT/9/13
+next:
+  id: MAT/9/14
+  number: '14'
+previous:
+  id: MAT/9/12
+  number: '12'
+reference: 'Matthew 9:13'

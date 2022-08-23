@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 15:3" class="v">3</span>And
+  being brought on their way by the church, they passed through Phenice and
+  Samaria, declaring the conversion of the Gentiles: and they caused great joy
+  unto all the brethren. </p>
+id: ACT/15/3
+next:
+  id: ACT/15/4
+  number: '4'
+previous:
+  id: ACT/15/2
+  number: '2'
+reference: 'Acts 15:3'

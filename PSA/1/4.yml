@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="4" data-sid="PSA 1:4"
+  class="v">4</span>The ungodly <span class="add">are</span> not so: but <span
+  class="add">are</span> like the chaff which the wind driveth away.</p>
+id: PSA/1/4
+next:
+  id: PSA/1/5
+  number: '5'
+previous:
+  id: PSA/1/3
+  number: '3'
+reference: 'Psalms 1:4'

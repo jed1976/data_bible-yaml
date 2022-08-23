@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 20:6"
+  class="v">6</span>Now know I that the <span class="nd">LORD</span> saveth his
+  anointed; he will hear him from his holy heaven with the saving strength of
+  his right hand.</p>
+id: PSA/20/6
+next:
+  id: PSA/20/7
+  number: '7'
+previous:
+  id: PSA/20/5
+  number: '5'
+reference: 'Psalms 20:6'

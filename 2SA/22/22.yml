@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 22:22"
+  class="v">22</span>For I have kept the ways of the <span
+  class="nd">LORD</span>, and have not wickedly departed from my God. </p>
+id: 2SA/22/22
+next:
+  id: 2SA/22/23
+  number: '23'
+previous:
+  id: 2SA/22/21
+  number: '21'
+reference: '2 Samuel 22:22'

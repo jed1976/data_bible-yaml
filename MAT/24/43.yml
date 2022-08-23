@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 24:43"
+  class="v">43</span><span class="wj">But know this, that if the goodman of the
+  house had known in what watch the thief would come, he would have watched, and
+  would not have suffered his house to be broken up.</span> </p>
+id: MAT/24/43
+next:
+  id: MAT/24/44
+  number: '44'
+previous:
+  id: MAT/24/42
+  number: '42'
+reference: 'Matthew 24:43'

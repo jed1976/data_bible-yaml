@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 15:23"
+  class="v">23</span>And they wrote <span class="add">letters</span> by them
+  after this manner; The apostles and elders and brethren <span
+  class="add">send</span> greeting unto the brethren which are of the Gentiles
+  in Antioch and Syria and Cilicia: </p>
+id: ACT/15/23
+next:
+  id: ACT/15/24
+  number: '24'
+previous:
+  id: ACT/15/22
+  number: '22'
+reference: 'Acts 15:23'

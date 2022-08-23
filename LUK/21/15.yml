@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 21:15"
+  class="v">15</span><span class="wj">For I will give you a mouth and wisdom,
+  which all your adversaries shall not be able to gainsay nor resist.</span>
+  </p>
+id: LUK/21/15
+next:
+  id: LUK/21/16
+  number: '16'
+previous:
+  id: LUK/21/14
+  number: '14'
+reference: 'Luke 21:15'

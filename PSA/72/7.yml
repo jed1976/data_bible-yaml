@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 72:7" class="v">7</span>In
+  his days shall the righteous flourish; and abundance of peace so long as the
+  moon endureth.</p>
+id: PSA/72/7
+next:
+  id: PSA/72/8
+  number: '8'
+previous:
+  id: PSA/72/6
+  number: '6'
+reference: 'Psalms 72:7'

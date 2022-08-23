@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 32:21"
+  class="v">21</span>Let me not, I pray you, accept any man’s person, neither
+  let me give flattering titles unto man. </p>
+id: JOB/32/21
+next:
+  id: JOB/32/22
+  number: '22'
+previous:
+  id: JOB/32/20
+  number: '20'
+reference: 'Job 32:21'

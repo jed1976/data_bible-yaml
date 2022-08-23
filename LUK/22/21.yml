@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 22:21"
+  class="v">21</span><span class="wj">¶ But, behold, the hand of him that
+  betrayeth me <span class="add">is</span> with me on the table.</span> </p>
+id: LUK/22/21
+next:
+  id: LUK/22/22
+  number: '22'
+previous:
+  id: LUK/22/20
+  number: '20'
+reference: 'Luke 22:21'

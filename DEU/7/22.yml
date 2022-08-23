@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 7:22" class="v">22</span>And
+  the <span class="nd">LORD</span> thy God will put out those nations before
+  thee by little and little: thou mayest not consume them at once, lest the
+  beasts of the field increase upon thee. </p>
+id: DEU/7/22
+next:
+  id: DEU/7/23
+  number: '23'
+previous:
+  id: DEU/7/21
+  number: '21'
+reference: 'Deuteronomy 7:22'

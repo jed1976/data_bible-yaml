@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 11:30"
+  class="v">30</span><span class="wj">For as Jonas was a sign unto the
+  Ninevites, so shall also the Son of man be to this generation.</span> </p>
+id: LUK/11/30
+next:
+  id: LUK/11/31
+  number: '31'
+previous:
+  id: LUK/11/29
+  number: '29'
+reference: 'Luke 11:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEC 3:10" class="v">10</span>In
+  that day, saith the <span class="nd">LORD</span> of hosts, shall ye call every
+  man his neighbour under the vine and under the fig tree.</p>
+id: ZEC/3/10
+next:
+  id: ZEC/4/1
+  number: '1'
+previous:
+  id: ZEC/3/9
+  number: '9'
+reference: 'Zechariah 3:10'

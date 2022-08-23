@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 16:14"
+  class="v">14</span>Moreover thou hast not brought us into a land that floweth
+  with milk and honey, or given us inheritance of fields and vineyards: wilt
+  thou put out the eyes of these men? we will not come up. </p>
+id: NUM/16/14
+next:
+  id: NUM/16/15
+  number: '15'
+previous:
+  id: NUM/16/13
+  number: '13'
+reference: 'Numbers 16:14'

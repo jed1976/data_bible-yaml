@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GAL 5:13"
+  class="v">13</span>For, brethren, ye have been called unto liberty; only <span
+  class="add">use</span> not liberty for an occasion to the flesh, but by love
+  serve one another. </p>
+id: GAL/5/13
+next:
+  id: GAL/5/14
+  number: '14'
+previous:
+  id: GAL/5/12
+  number: '12'
+reference: 'Galatians 5:13'

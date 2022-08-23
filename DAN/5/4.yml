@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 5:4" class="v">4</span>They
+  drank wine, and praised the gods of gold, and of silver, of brass, of iron, of
+  wood, and of stone.</p>
+id: DAN/5/4
+next:
+  id: DAN/5/5
+  number: '5'
+previous:
+  id: DAN/5/3
+  number: '3'
+reference: 'Daniel 5:4'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JHN 1:5" class="v">5</span>And
+  the light shineth in darkness; and the darkness comprehended it not.</p>
+id: JHN/1/5
+next:
+  id: JHN/1/6
+  number: '6'
+previous:
+  id: JHN/1/4
+  number: '4'
+reference: 'John 1:5'

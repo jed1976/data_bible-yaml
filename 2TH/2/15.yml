@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2TH 2:15"
+  class="v">15</span>Therefore, brethren, stand fast, and hold the traditions
+  which ye have been taught, whether by word, or our epistle. </p>
+id: 2TH/2/15
+next:
+  id: 2TH/2/16
+  number: '16'
+previous:
+  id: 2TH/2/14
+  number: '14'
+reference: '2 Thessalonians 2:15'

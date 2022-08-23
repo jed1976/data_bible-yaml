@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2TH 3:5" class="v">5</span>And
+  the Lord direct your hearts into the love of God, and into the patient waiting
+  for Christ.</p>
+id: 2TH/3/5
+next:
+  id: 2TH/3/6
+  number: '6'
+previous:
+  id: 2TH/3/4
+  number: '4'
+reference: '2 Thessalonians 3:5'

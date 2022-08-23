@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 14:26" class="v">26</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses and unto Aaron, saying,
+  </p>
+id: NUM/14/26
+next:
+  id: NUM/14/27
+  number: '27'
+previous:
+  id: NUM/14/25
+  number: '25'
+reference: 'Numbers 14:26'

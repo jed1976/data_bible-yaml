@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOS 8:8" class="v">8</span>And it
+  shall be, when ye have taken the city, <span class="add">that</span> ye shall
+  set the city on fire: according to the commandment of the <span
+  class="nd">LORD</span> shall ye do. See, I have commanded you.</p>
+id: JOS/8/8
+next:
+  id: JOS/8/9
+  number: '9'
+previous:
+  id: JOS/8/7
+  number: '7'
+reference: 'Joshua 8:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 35:4" class="v">4</span>¶ And
+  Moses spake unto all the congregation of the children of Israel, saying, This
+  <span class="add">is</span> the thing which the <span class="nd">LORD</span>
+  commanded, saying, </p>
+id: EXO/35/4
+next:
+  id: EXO/35/5
+  number: '5'
+previous:
+  id: EXO/35/3
+  number: '3'
+reference: 'Exodus 35:4'

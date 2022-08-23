@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 4:9" class="v">9</span>And
+  there shall be, like people, like priest: and I will punish them for their
+  ways, and reward them their doings. </p>
+id: HOS/4/9
+next:
+  id: HOS/4/10
+  number: '10'
+previous:
+  id: HOS/4/8
+  number: '8'
+reference: 'Hosea 4:9'

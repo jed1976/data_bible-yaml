@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 33:18" class="v">18</span>He
+  keepeth back his soul from the pit, and his life from perishing by the
+  sword.</p>
+id: JOB/33/18
+next:
+  id: JOB/33/19
+  number: '19'
+previous:
+  id: JOB/33/17
+  number: '17'
+reference: 'Job 33:18'

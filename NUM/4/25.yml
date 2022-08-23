@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 4:25" class="v">25</span>And
+  they shall bear the curtains of the tabernacle, and the tabernacle of the
+  congregation, his covering, and the covering of the badgers’ skins that <span
+  class="add">is</span> above upon it, and the hanging for the door of the
+  tabernacle of the congregation, </p>
+id: NUM/4/25
+next:
+  id: NUM/4/26
+  number: '26'
+previous:
+  id: NUM/4/24
+  number: '24'
+reference: 'Numbers 4:25'

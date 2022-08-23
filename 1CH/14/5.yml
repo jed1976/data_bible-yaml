@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 14:5" class="v">5</span>And
+  Ibhar, and Elishua, and Elpalet, </p>
+id: 1CH/14/5
+next:
+  id: 1CH/14/6
+  number: '6'
+previous:
+  id: 1CH/14/4
+  number: '4'
+reference: '1 Chronicles 14:5'

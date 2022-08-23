@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 39:5" class="v">5</span>And
+  the curious girdle of his ephod, that <span class="add">was</span> upon it,
+  <span class="add">was</span> of the same, according to the work thereof; <span
+  class="add">of</span> gold, blue, and purple, and scarlet, and fine twined
+  linen; as the <span class="nd">LORD</span> commanded Moses.</p>
+id: EXO/39/5
+next:
+  id: EXO/39/6
+  number: '6'
+previous:
+  id: EXO/39/4
+  number: '4'
+reference: 'Exodus 39:5'

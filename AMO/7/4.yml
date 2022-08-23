@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="AMO 7:4" class="v">4</span>¶ Thus
+  hath the Lord <span class="nd">GOD</span> shewed unto me: and, behold, the
+  Lord <span class="nd">GOD</span> called to contend by fire, and it devoured
+  the great deep, and did eat up a part. </p>
+id: AMO/7/4
+next:
+  id: AMO/7/5
+  number: '5'
+previous:
+  id: AMO/7/3
+  number: '3'
+reference: 'Amos 7:4'

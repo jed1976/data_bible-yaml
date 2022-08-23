@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 107:13"
+  class="v">13</span>Then they cried unto the <span class="nd">LORD</span> in
+  their trouble, <span class="add">and</span> he saved them out of their
+  distresses.</p>
+id: PSA/107/13
+next:
+  id: PSA/107/14
+  number: '14'
+previous:
+  id: PSA/107/12
+  number: '12'
+reference: 'Psalms 107:13'

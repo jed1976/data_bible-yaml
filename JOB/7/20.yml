@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 7:20" class="v">20</span>I
+  have sinned; what shall I do unto thee, O thou preserver of men? why hast thou
+  set me as a mark against thee, so that I am a burden to myself? </p>
+id: JOB/7/20
+next:
+  id: JOB/7/21
+  number: '21'
+previous:
+  id: JOB/7/19
+  number: '19'
+reference: 'Job 7:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 21:7"
+  class="v">7</span>For the king trusteth in the <span class="nd">LORD</span>,
+  and through the mercy of the most High he shall not be moved.</p>
+id: PSA/21/7
+next:
+  id: PSA/21/8
+  number: '8'
+previous:
+  id: PSA/21/6
+  number: '6'
+reference: 'Psalms 21:7'

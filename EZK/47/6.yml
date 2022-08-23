@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZK 47:6" class="v">6</span>¶ And
+  he said unto me, Son of man, hast thou seen <span class="add">this</span>?
+  Then he brought me, and caused me to return to the brink of the river. </p>
+id: EZK/47/6
+next:
+  id: EZK/47/7
+  number: '7'
+previous:
+  id: EZK/47/5
+  number: '5'
+reference: 'Ezekiel 47:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NAM 1:13" class="v">13</span>For
+  now will I break his yoke from off thee, and will burst thy bonds in sunder.
+  </p>
+id: NAM/1/13
+next:
+  id: NAM/1/14
+  number: '14'
+previous:
+  id: NAM/1/12
+  number: '12'
+reference: 'Nahum 1:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ZEC 7:6" class="v">6</span>And
+  when ye did eat, and when ye did drink, did not ye eat <span class="add">for
+  yourselves</span>, and drink <span class="add">for yourselves</span>? </p>
+id: ZEC/7/6
+next:
+  id: ZEC/7/7
+  number: '7'
+previous:
+  id: ZEC/7/5
+  number: '5'
+reference: 'Zechariah 7:6'

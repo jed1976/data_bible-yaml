@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 28:16" class="v">16</span>¶
+  Therefore thus saith the Lord <span class="nd">GOD</span>, Behold, I lay in
+  Zion for a foundation a stone, a tried stone, a precious corner <span
+  class="add">stone</span>, a sure foundation: he that believeth shall not make
+  haste. </p>
+id: ISA/28/16
+next:
+  id: ISA/28/17
+  number: '17'
+previous:
+  id: ISA/28/15
+  number: '15'
+reference: 'Isaiah 28:16'

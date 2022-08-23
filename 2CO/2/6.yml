@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2CO 2:6"
+  class="v">6</span>Sufficient to such a man <span class="add">is</span> this
+  punishment, which <span class="add">was inflicted</span> of many. </p>
+id: 2CO/2/6
+next:
+  id: 2CO/2/7
+  number: '7'
+previous:
+  id: 2CO/2/5
+  number: '5'
+reference: '2 Corinthians 2:6'

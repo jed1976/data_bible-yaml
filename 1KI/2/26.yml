@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1KI 2:26" class="v">26</span>¶
+  And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine
+  own fields; for thou <span class="add">art</span> worthy of death: but I will
+  not at this time put thee to death, because thou barest the ark of the Lord
+  <span class="nd">GOD</span> before David my father, and because thou hast been
+  afflicted in all wherein my father was afflicted. </p>
+id: 1KI/2/26
+next:
+  id: 1KI/2/27
+  number: '27'
+previous:
+  id: 1KI/2/25
+  number: '25'
+reference: '1 Kings 2:26'

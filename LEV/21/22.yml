@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 21:22" class="v">22</span>He
+  shall eat the bread of his God, <span class="add">both</span> of the most
+  holy, and of the holy. </p>
+id: LEV/21/22
+next:
+  id: LEV/21/23
+  number: '23'
+previous:
+  id: LEV/21/21
+  number: '21'
+reference: 'Leviticus 21:22'

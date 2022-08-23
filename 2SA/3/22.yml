@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 3:22" class="v">22</span>¶
+  And, behold, the servants of David and Joab came from <span
+  class="add">pursuing</span> a troop, and brought in a great spoil with them:
+  but Abner <span class="add">was</span> not with David in Hebron; for he had
+  sent him away, and he was gone in peace. </p>
+id: 2SA/3/22
+next:
+  id: 2SA/3/23
+  number: '23'
+previous:
+  id: 2SA/3/21
+  number: '21'
+reference: '2 Samuel 3:22'

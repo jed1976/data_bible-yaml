@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 39:8" class="v">8</span>¶ And
+  he made the breastplate <span class="add">of</span> cunning work, like the
+  work of the ephod; <span class="add">of</span> gold, blue, and purple, and
+  scarlet, and fine twined linen. </p>
+id: EXO/39/8
+next:
+  id: EXO/39/9
+  number: '9'
+previous:
+  id: EXO/39/7
+  number: '7'
+reference: 'Exodus 39:8'

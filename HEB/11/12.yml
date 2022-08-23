@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 11:12"
+  class="v">12</span>Therefore sprang there even of one, and him as good as
+  dead, <span class="add">so many</span> as the stars of the sky in multitude,
+  and as the sand which is by the sea shore innumerable. </p>
+id: HEB/11/12
+next:
+  id: HEB/11/13
+  number: '13'
+previous:
+  id: HEB/11/11
+  number: '11'
+reference: 'Hebrews 11:12'

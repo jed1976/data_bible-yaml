@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 8:3" class="v">3</span>And
+  Aaron did so; he lighted the lamps thereof over against the candlestick, as
+  the <span class="nd">LORD</span> commanded Moses. </p>
+id: NUM/8/3
+next:
+  id: NUM/8/4
+  number: '4'
+previous:
+  id: NUM/8/2
+  number: '2'
+reference: 'Numbers 8:3'

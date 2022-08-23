@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 41:22"
+  class="v">22</span>And I saw in my dream, and, behold, seven ears came up in
+  one stalk, full and good: </p>
+id: GEN/41/22
+next:
+  id: GEN/41/23
+  number: '23'
+previous:
+  id: GEN/41/21
+  number: '21'
+reference: 'Genesis 41:22'

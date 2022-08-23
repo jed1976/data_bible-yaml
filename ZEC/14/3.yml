@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 14:3" class="v">3</span>Then
+  shall the <span class="nd">LORD</span> go forth, and fight against those
+  nations, as when he fought in the day of battle.</p>
+id: ZEC/14/3
+next:
+  id: ZEC/14/4
+  number: '4'
+previous:
+  id: ZEC/14/2
+  number: '2'
+reference: 'Zechariah 14:3'

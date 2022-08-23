@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 2:23"
+  class="v">23</span>Him, being delivered by the determinate counsel and
+  foreknowledge of God, ye have taken, and by wicked hands have crucified and
+  slain: </p>
+id: ACT/2/23
+next:
+  id: ACT/2/24
+  number: '24'
+previous:
+  id: ACT/2/22
+  number: '22'
+reference: 'Acts 2:23'

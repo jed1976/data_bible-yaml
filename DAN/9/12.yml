@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 9:12" class="v">12</span>And
+  he hath confirmed his words, which he spake against us, and against our judges
+  that judged us, by bringing upon us a great evil: for under the whole heaven
+  hath not been done as hath been done upon Jerusalem. </p>
+id: DAN/9/12
+next:
+  id: DAN/9/13
+  number: '13'
+previous:
+  id: DAN/9/11
+  number: '11'
+reference: 'Daniel 9:12'

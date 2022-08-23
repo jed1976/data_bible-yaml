@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ISA 37:27"
+  class="v">27</span>Therefore their inhabitants <span class="add">were</span>
+  of small power, they were dismayed and confounded: they were <span
+  class="add">as</span> the grass of the field, and <span class="add">as</span>
+  the green herb, <span class="add">as</span> the grass on the housetops, and
+  <span class="add">as corn</span> blasted before it be grown up. </p>
+id: ISA/37/27
+next:
+  id: ISA/37/28
+  number: '28'
+previous:
+  id: ISA/37/26
+  number: '26'
+reference: 'Isaiah 37:27'

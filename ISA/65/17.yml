@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 65:17" class="v">17</span>¶
+  For, behold, I create new heavens and a new earth: and the former shall not be
+  remembered, nor come into mind. </p>
+id: ISA/65/17
+next:
+  id: ISA/65/18
+  number: '18'
+previous:
+  id: ISA/65/16
+  number: '16'
+reference: 'Isaiah 65:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 15:20"
+  class="v">20</span>And when they had mocked him, they took off the purple from
+  him, and put his own clothes on him, and led him out to crucify him. </p>
+id: MRK/15/20
+next:
+  id: MRK/15/21
+  number: '21'
+previous:
+  id: MRK/15/19
+  number: '19'
+reference: 'Mark 15:20'

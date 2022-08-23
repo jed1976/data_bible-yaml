@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 9:9" class="v">9</span>When I
+  was gone up into the mount to receive the tables of stone, <span
+  class="add">even</span> the tables of the covenant which the <span
+  class="nd">LORD</span> made with you, then I abode in the mount forty days and
+  forty nights, I neither did eat bread nor drink water: </p>
+id: DEU/9/9
+next:
+  id: DEU/9/10
+  number: '10'
+previous:
+  id: DEU/9/8
+  number: '8'
+reference: 'Deuteronomy 9:9'

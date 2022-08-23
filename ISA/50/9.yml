@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 50:9"
+  class="v">9</span>Behold, the Lord <span class="nd">GOD</span> will help me;
+  who <span class="add">is</span> he <span class="add">that</span> shall condemn
+  me? lo, they all shall wax old as a garment; the moth shall eat them up.</p>
+id: ISA/50/9
+next:
+  id: ISA/50/10
+  number: '10'
+previous:
+  id: ISA/50/8
+  number: '8'
+reference: 'Isaiah 50:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 111:8"
+  class="v">8</span>They stand fast for ever and ever, <span class="add">and
+  are</span> done in truth and uprightness.</p>
+id: PSA/111/8
+next:
+  id: PSA/111/9
+  number: '9'
+previous:
+  id: PSA/111/7
+  number: '7'
+reference: 'Psalms 111:8'

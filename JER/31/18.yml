@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JER 31:18" class="v">18</span>¶
+  I have surely heard Ephraim bemoaning himself <span class="add">thus;</span>
+  Thou hast chastised me, and I was chastised, as a bullock unaccustomed <span
+  class="add">to the yoke:</span> turn thou me, and I shall be turned; for thou
+  <span class="add">art</span> the <span class="nd">LORD</span> my God. </p>
+id: JER/31/18
+next:
+  id: JER/31/19
+  number: '19'
+previous:
+  id: JER/31/17
+  number: '17'
+reference: 'Jeremiah 31:18'

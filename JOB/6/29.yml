@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 6:29"
+  class="v">29</span>Return, I pray you, let it not be iniquity; yea, return
+  again, my righteousness <span class="add">is</span> in it. </p>
+id: JOB/6/29
+next:
+  id: JOB/6/30
+  number: '30'
+previous:
+  id: JOB/6/28
+  number: '28'
+reference: 'Job 6:29'

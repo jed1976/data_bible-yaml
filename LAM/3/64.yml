@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="LAM 3:64" class="v">64</span>¶
+  Render unto them a recompence, O <span class="nd">LORD</span>, according to
+  the work of their hands. </p>
+id: LAM/3/64
+next:
+  id: LAM/3/65
+  number: '65'
+previous:
+  id: LAM/3/63
+  number: '63'
+reference: 'Lamentations 3:64'

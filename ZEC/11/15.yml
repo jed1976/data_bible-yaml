@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ZEC 11:15" class="v">15</span>¶
+  And the <span class="nd">LORD</span> said unto me, Take unto thee yet the
+  instruments of a foolish shepherd. </p>
+id: ZEC/11/15
+next:
+  id: ZEC/11/16
+  number: '16'
+previous:
+  id: ZEC/11/14
+  number: '14'
+reference: 'Zechariah 11:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 32:21" class="v">21</span>So
+  went the present over before him: and himself lodged that night in the
+  company. </p>
+id: GEN/32/21
+next:
+  id: GEN/32/22
+  number: '22'
+previous:
+  id: GEN/32/20
+  number: '20'
+reference: 'Genesis 32:21'

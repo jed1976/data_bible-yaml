@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 8:24" class="v">24</span>And
+  it came to pass, when Israel had made an end of slaying all the inhabitants of
+  Ai in the field, in the wilderness wherein they chased them, and when they
+  were all fallen on the edge of the sword, until they were consumed, that all
+  the Israelites returned unto Ai, and smote it with the edge of the sword. </p>
+id: JOS/8/24
+next:
+  id: JOS/8/25
+  number: '25'
+previous:
+  id: JOS/8/23
+  number: '23'
+reference: 'Joshua 8:24'

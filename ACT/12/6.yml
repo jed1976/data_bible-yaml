@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 12:6" class="v">6</span>And
+  when Herod would have brought him forth, the same night Peter was sleeping
+  between two soldiers, bound with two chains: and the keepers before the door
+  kept the prison. </p>
+id: ACT/12/6
+next:
+  id: ACT/12/7
+  number: '7'
+previous:
+  id: ACT/12/5
+  number: '5'
+reference: 'Acts 12:6'

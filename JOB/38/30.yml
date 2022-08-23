@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 38:30"
+  class="v">30</span>The waters are hid as <span class="add">with</span> a
+  stone, and the face of the deep is frozen. </p>
+id: JOB/38/30
+next:
+  id: JOB/38/31
+  number: '31'
+previous:
+  id: JOB/38/29
+  number: '29'
+reference: 'Job 38:30'

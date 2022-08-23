@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 4:6" class="v">6</span>Better
+  <span class="add">is</span> an handful <span class="add">with</span>
+  quietness, than both the hands full <span class="add">with</span> travail and
+  vexation of spirit.</p>
+id: ECC/4/6
+next:
+  id: ECC/4/7
+  number: '7'
+previous:
+  id: ECC/4/5
+  number: '5'
+reference: 'Ecclesiastes 4:6'

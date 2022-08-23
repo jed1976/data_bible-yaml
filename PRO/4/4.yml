@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 4:4" class="v">4</span>He
+  taught me also, and said unto me, Let thine heart retain my words: keep my
+  commandments, and live. </p>
+id: PRO/4/4
+next:
+  id: PRO/4/5
+  number: '5'
+previous:
+  id: PRO/4/3
+  number: '3'
+reference: 'Proverbs 4:4'

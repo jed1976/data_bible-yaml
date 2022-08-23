@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 31:5" class="v">5</span>So
+  there were delivered out of the thousands of Israel, a thousand of <span
+  class="add">every</span> tribe, twelve thousand armed for war. </p>
+id: NUM/31/5
+next:
+  id: NUM/31/6
+  number: '6'
+previous:
+  id: NUM/31/4
+  number: '4'
+reference: 'Numbers 31:5'

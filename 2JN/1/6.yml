@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2JN 1:6" class="v">6</span>And
+  this is love, that we walk after his commandments. This is the commandment,
+  That, as ye have heard from the beginning, ye should walk in it. </p>
+id: 2JN/1/6
+next:
+  id: 2JN/1/7
+  number: '7'
+previous:
+  id: 2JN/1/5
+  number: '5'
+reference: '2 John 1:6'

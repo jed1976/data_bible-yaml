@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 22:22"
+  class="v">22</span>Blind, or broken, or maimed, or having a wen, or scurvy, or
+  scabbed, ye shall not offer these unto the <span class="nd">LORD</span>, nor
+  make an offering by fire of them upon the altar unto the <span
+  class="nd">LORD</span>. </p>
+id: LEV/22/22
+next:
+  id: LEV/22/23
+  number: '23'
+previous:
+  id: LEV/22/21
+  number: '21'
+reference: 'Leviticus 22:22'

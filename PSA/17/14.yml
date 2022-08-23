@@ -1,0 +1,16 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 17:14"
+  class="v">14</span>From men <span class="add">which are</span> thy hand, O
+  <span class="nd">LORD</span>, from men of the world, <span class="add">which
+  have</span> their portion in <span class="add">this</span> life, and whose
+  belly thou fillest with thy hid <span class="add">treasure:</span> they are
+  full of children, and leave the rest of their <span
+  class="add">substance</span> to their babes.</p>
+id: PSA/17/14
+next:
+  id: PSA/17/15
+  number: '15'
+previous:
+  id: PSA/17/13
+  number: '13'
+reference: 'Psalms 17:14'

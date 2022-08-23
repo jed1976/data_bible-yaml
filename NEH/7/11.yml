@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 7:11" class="v">11</span>The
+  children of Pahath-moab, of the children of Jeshua and Joab, two thousand and
+  eight hundred <span class="add">and</span> eighteen. </p>
+id: NEH/7/11
+next:
+  id: NEH/7/12
+  number: '12'
+previous:
+  id: NEH/7/10
+  number: '10'
+reference: 'Nehemiah 7:11'

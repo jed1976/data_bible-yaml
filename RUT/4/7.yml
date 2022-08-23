@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="RUT 4:7" class="v">7</span>Now
+  this <span class="add">was the manner</span> in former time in Israel
+  concerning redeeming and concerning changing, for to confirm all things; a man
+  plucked off his shoe, and gave <span class="add">it</span> to his neighbour:
+  and this <span class="add">was</span> a testimony in Israel. </p>
+id: RUT/4/7
+next:
+  id: RUT/4/8
+  number: '8'
+previous:
+  id: RUT/4/6
+  number: '6'
+reference: 'Ruth 4:7'

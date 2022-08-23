@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 2:12" class="v">12</span>¶
+  And I turned myself to behold wisdom, and madness, and folly: for what <span
+  class="add">can</span> the man <span class="add">do</span> that cometh after
+  the king? <span class="add">even</span> that which hath been already done.
+  </p>
+id: ECC/2/12
+next:
+  id: ECC/2/13
+  number: '13'
+previous:
+  id: ECC/2/11
+  number: '11'
+reference: 'Ecclesiastes 2:12'

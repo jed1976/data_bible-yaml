@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 23:11"
+  class="v">11</span>And Balak said unto Balaam, What hast thou done unto me? I
+  took thee to curse mine enemies, and, behold, thou hast blessed <span
+  class="add">them</span> altogether. </p>
+id: NUM/23/11
+next:
+  id: NUM/23/12
+  number: '12'
+previous:
+  id: NUM/23/10
+  number: '10'
+reference: 'Numbers 23:11'

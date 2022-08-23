@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JON 4:5" class="v">5</span>So
+  Jonah went out of the city, and sat on the east side of the city, and there
+  made him a booth, and sat under it in the shadow, till he might see what would
+  become of the city. </p>
+id: JON/4/5
+next:
+  id: JON/4/6
+  number: '6'
+previous:
+  id: JON/4/4
+  number: '4'
+reference: 'Jonah 4:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EXO 28:42"
+  class="v">42</span>And thou shalt make them linen breeches to cover their
+  nakedness; from the loins even unto the thighs they shall reach: </p>
+id: EXO/28/42
+next:
+  id: EXO/28/43
+  number: '43'
+previous:
+  id: EXO/28/41
+  number: '41'
+reference: 'Exodus 28:42'

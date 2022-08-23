@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 104:1"
+  class="v">1</span>Bless the <span class="nd">LORD</span>, O my soul. O <span
+  class="nd">LORD</span> my God, thou art very great; thou art clothed with
+  honour and majesty.</p>
+id: PSA/104/1
+next:
+  id: PSA/104/2
+  number: '2'
+previous:
+  id: PSA/103/22
+  number: '22'
+reference: 'Psalms 104:1'

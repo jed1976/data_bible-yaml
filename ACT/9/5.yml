@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 9:5" class="v">5</span>And he
+  said, Who art thou, Lord? And the Lord said, <span class="wj">I am Jesus whom
+  thou persecutest: <span class="add">it is</span> hard for thee to kick against
+  the pricks.</span> </p>
+id: ACT/9/5
+next:
+  id: ACT/9/6
+  number: '6'
+previous:
+  id: ACT/9/4
+  number: '4'
+reference: 'Acts 9:5'

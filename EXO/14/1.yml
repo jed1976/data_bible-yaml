@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 14:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: EXO/14/1
+next:
+  id: EXO/14/2
+  number: '2'
+previous:
+  id: EXO/13/22
+  number: '22'
+reference: 'Exodus 14:1'

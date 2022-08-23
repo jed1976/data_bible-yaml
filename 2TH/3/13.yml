@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2TH 3:13" class="v">13</span>But
+  ye, brethren, be not weary in well doing. </p>
+id: 2TH/3/13
+next:
+  id: 2TH/3/14
+  number: '14'
+previous:
+  id: 2TH/3/12
+  number: '12'
+reference: '2 Thessalonians 3:13'

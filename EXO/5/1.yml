@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 5:1" class="v">1</span>And
+  afterward Moses and Aaron went in, and told Pharaoh, Thus saith the <span
+  class="nd">LORD</span> God of Israel, Let my people go, that they may hold a
+  feast unto me in the wilderness. </p>
+id: EXO/5/1
+next:
+  id: EXO/5/2
+  number: '2'
+previous:
+  id: EXO/4/31
+  number: '31'
+reference: 'Exodus 5:1'

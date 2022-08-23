@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ECC 3:17" class="v">17</span>I
+  said in mine heart, God shall judge the righteous and the wicked: for <span
+  class="add">there is</span> a time there for every purpose and for every work.
+  </p>
+id: ECC/3/17
+next:
+  id: ECC/3/18
+  number: '18'
+previous:
+  id: ECC/3/16
+  number: '16'
+reference: 'Ecclesiastes 3:17'

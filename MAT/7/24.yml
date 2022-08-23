@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 7:24"
+  class="v">24</span><span class="wj">¶ Therefore whosoever heareth these
+  sayings of mine, and doeth them, I will liken him unto a wise man, which built
+  his house upon a rock:</span> </p>
+id: MAT/7/24
+next:
+  id: MAT/7/25
+  number: '25'
+previous:
+  id: MAT/7/23
+  number: '23'
+reference: 'Matthew 7:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2SA 23:8" class="v">8</span>¶
+  These <span class="add">be</span> the names of the mighty men whom David had:
+  The Tachmonite that sat in the seat, chief among the captains; the same <span
+  class="add">was</span> Adino the Eznite: <span class="add">he lift up his
+  spear</span> against eight hundred, whom he slew at one time. </p>
+id: 2SA/23/8
+next:
+  id: 2SA/23/9
+  number: '9'
+previous:
+  id: 2SA/23/7
+  number: '7'
+reference: '2 Samuel 23:8'

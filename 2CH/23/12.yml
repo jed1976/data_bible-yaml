@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 23:12" class="v">12</span>¶
+  Now when Athaliah heard the noise of the people running and praising the king,
+  she came to the people into the house of the <span class="nd">LORD</span>:
+  </p>
+id: 2CH/23/12
+next:
+  id: 2CH/23/13
+  number: '13'
+previous:
+  id: 2CH/23/11
+  number: '11'
+reference: '2 Chronicles 23:12'

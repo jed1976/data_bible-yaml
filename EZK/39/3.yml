@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 39:3" class="v">3</span>And I
+  will smite thy bow out of thy left hand, and will cause thine arrows to fall
+  out of thy right hand. </p>
+id: EZK/39/3
+next:
+  id: EZK/39/4
+  number: '4'
+previous:
+  id: EZK/39/2
+  number: '2'
+reference: 'Ezekiel 39:3'

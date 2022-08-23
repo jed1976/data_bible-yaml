@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 9:6" class="v">6</span>And
+  Moses said, This <span class="add">is</span> the thing which the <span
+  class="nd">LORD</span> commanded that ye should do: and the glory of the <span
+  class="nd">LORD</span> shall appear unto you. </p>
+id: LEV/9/6
+next:
+  id: LEV/9/7
+  number: '7'
+previous:
+  id: LEV/9/5
+  number: '5'
+reference: 'Leviticus 9:6'

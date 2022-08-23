@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 35:13"
+  class="v">13</span>Surely God will not hear vanity, neither will the Almighty
+  regard it.</p>
+id: JOB/35/13
+next:
+  id: JOB/35/14
+  number: '14'
+previous:
+  id: JOB/35/12
+  number: '12'
+reference: 'Job 35:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ECC 9:17" class="v">17</span>The
+  words of wise <span class="add">men are</span> heard in quiet more than the
+  cry of him that ruleth among fools. </p>
+id: ECC/9/17
+next:
+  id: ECC/9/18
+  number: '18'
+previous:
+  id: ECC/9/16
+  number: '16'
+reference: 'Ecclesiastes 9:17'

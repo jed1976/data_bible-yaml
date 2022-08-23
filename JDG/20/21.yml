@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JDG 20:21"
+  class="v">21</span>And the children of Benjamin came forth out of Gibeah, and
+  destroyed down to the ground of the Israelites that day twenty and two
+  thousand men. </p>
+id: JDG/20/21
+next:
+  id: JDG/20/22
+  number: '22'
+previous:
+  id: JDG/20/20
+  number: '20'
+reference: 'Judges 20:21'

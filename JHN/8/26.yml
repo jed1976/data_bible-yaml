@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JHN 8:26"
+  class="v">26</span><span class="wj">I have many things to say and to judge of
+  you: but he that sent me is true; and I speak to the world those things which
+  I have heard of him.</span> </p>
+id: JHN/8/26
+next:
+  id: JHN/8/27
+  number: '27'
+previous:
+  id: JHN/8/25
+  number: '25'
+reference: 'John 8:26'

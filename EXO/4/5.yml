@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 4:5" class="v">5</span>That
+  they may believe that the <span class="nd">LORD</span> God of their fathers,
+  the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto
+  thee.</p>
+id: EXO/4/5
+next:
+  id: EXO/4/6
+  number: '6'
+previous:
+  id: EXO/4/4
+  number: '4'
+reference: 'Exodus 4:5'

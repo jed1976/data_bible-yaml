@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 14:36"
+  class="v">36</span>And besought him that they might only touch the hem of his
+  garment: and as many as touched were made perfectly whole.</p>
+id: MAT/14/36
+next:
+  id: MAT/15/1
+  number: '1'
+previous:
+  id: MAT/14/35
+  number: '35'
+reference: 'Matthew 14:36'

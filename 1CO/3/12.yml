@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 3:12" class="v">12</span>Now
+  if any man build upon this foundation gold, silver, precious stones, wood,
+  hay, stubble; </p>
+id: 1CO/3/12
+next:
+  id: 1CO/3/13
+  number: '13'
+previous:
+  id: 1CO/3/11
+  number: '11'
+reference: '1 Corinthians 3:12'

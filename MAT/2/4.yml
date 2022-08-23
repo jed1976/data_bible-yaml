@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 2:4" class="v">4</span>And
+  when he had gathered all the chief priests and scribes of the people together,
+  he demanded of them where Christ should be born. </p>
+id: MAT/2/4
+next:
+  id: MAT/2/5
+  number: '5'
+previous:
+  id: MAT/2/3
+  number: '3'
+reference: 'Matthew 2:4'

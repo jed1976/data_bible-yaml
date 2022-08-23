@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZK 10:9" class="v">9</span>And
+  when I looked, behold the four wheels by the cherubims, one wheel by one
+  cherub, and another wheel by another cherub: and the appearance of the wheels
+  <span class="add">was</span> as the colour of a beryl stone. </p>
+id: EZK/10/9
+next:
+  id: EZK/10/10
+  number: '10'
+previous:
+  id: EZK/10/8
+  number: '8'
+reference: 'Ezekiel 10:9'

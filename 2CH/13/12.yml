@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 13:12"
+  class="v">12</span>And, behold, God himself <span class="add">is</span> with
+  us for <span class="add">our</span> captain, and his priests with sounding
+  trumpets to cry alarm against you. O children of Israel, fight ye not against
+  the <span class="nd">LORD</span> God of your fathers; for ye shall not
+  prosper.</p>
+id: 2CH/13/12
+next:
+  id: 2CH/13/13
+  number: '13'
+previous:
+  id: 2CH/13/11
+  number: '11'
+reference: '2 Chronicles 13:12'

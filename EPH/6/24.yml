@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EPH 6:24"
+  class="v">24</span>Grace <span class="add">be</span> with all them that love
+  our Lord Jesus Christ in sincerity. Amen.</p>
+id: EPH/6/24
+next:
+  id: PHP/intro/0
+  number: '0'
+previous:
+  id: EPH/6/23
+  number: '23'
+reference: 'Ephesians 6:24'

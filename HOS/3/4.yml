@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 3:4" class="v">4</span>For
+  the children of Israel shall abide many days without a king, and without a
+  prince, and without a sacrifice, and without an image, and without an ephod,
+  and <span class="add">without</span> teraphim: </p>
+id: HOS/3/4
+next:
+  id: HOS/3/5
+  number: '5'
+previous:
+  id: HOS/3/3
+  number: '3'
+reference: 'Hosea 3:4'

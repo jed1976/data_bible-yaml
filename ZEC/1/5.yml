@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 1:5" class="v">5</span>Your
+  fathers, where <span class="add">are</span> they? and the prophets, do they
+  live for ever? </p>
+id: ZEC/1/5
+next:
+  id: ZEC/1/6
+  number: '6'
+previous:
+  id: ZEC/1/4
+  number: '4'
+reference: 'Zechariah 1:5'

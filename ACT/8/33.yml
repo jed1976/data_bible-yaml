@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 8:33" class="v">33</span>In
+  his humiliation his judgment was taken away: and who shall declare his
+  generation? for his life is taken from the earth. </p>
+id: ACT/8/33
+next:
+  id: ACT/8/34
+  number: '34'
+previous:
+  id: ACT/8/32
+  number: '32'
+reference: 'Acts 8:33'

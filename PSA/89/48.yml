@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="48" data-sid="PSA 89:48"
+  class="v">48</span>What man <span class="add">is he that</span> liveth, and
+  shall not see death? shall he deliver his soul from the hand of the grave?
+  Selah.</p>
+id: PSA/89/48
+next:
+  id: PSA/89/49
+  number: '49'
+previous:
+  id: PSA/89/47
+  number: '47'
+reference: 'Psalms 89:48'

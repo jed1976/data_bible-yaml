@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 13:11" class="v">11</span>Of
+  the tribe of Joseph, <span class="add">namely</span>, of the tribe of
+  Manasseh, Gaddi the son of Susi. </p>
+id: NUM/13/11
+next:
+  id: NUM/13/12
+  number: '12'
+previous:
+  id: NUM/13/10
+  number: '10'
+reference: 'Numbers 13:11'

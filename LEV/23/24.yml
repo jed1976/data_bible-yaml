@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LEV 23:24"
+  class="v">24</span>Speak unto the children of Israel, saying, In the seventh
+  month, in the first <span class="add">day</span> of the month, shall ye have a
+  sabbath, a memorial of blowing of trumpets, an holy convocation. </p>
+id: LEV/23/24
+next:
+  id: LEV/23/25
+  number: '25'
+previous:
+  id: LEV/23/23
+  number: '23'
+reference: 'Leviticus 23:24'

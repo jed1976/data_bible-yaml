@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 8:33"
+  class="v">33</span>Then went the devils out of the man, and entered into the
+  swine: and the herd ran violently down a steep place into the lake, and were
+  choked. </p>
+id: LUK/8/33
+next:
+  id: LUK/8/34
+  number: '34'
+previous:
+  id: LUK/8/32
+  number: '32'
+reference: 'Luke 8:33'

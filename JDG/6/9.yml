@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 6:9" class="v">9</span>And I
+  delivered you out of the hand of the Egyptians, and out of the hand of all
+  that oppressed you, and drave them out from before you, and gave you their
+  land; </p>
+id: JDG/6/9
+next:
+  id: JDG/6/10
+  number: '10'
+previous:
+  id: JDG/6/8
+  number: '8'
+reference: 'Judges 6:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 9:29" class="v">29</span>Yet
+  they <span class="add">are</span> thy people and thine inheritance, which thou
+  broughtest out by thy mighty power and by thy stretched out arm.</p>
+id: DEU/9/29
+next:
+  id: DEU/10/1
+  number: '1'
+previous:
+  id: DEU/9/28
+  number: '28'
+reference: 'Deuteronomy 9:29'

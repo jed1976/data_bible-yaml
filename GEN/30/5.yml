@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 30:5" class="v">5</span>And
+  Bilhah conceived, and bare Jacob a son. </p>
+id: GEN/30/5
+next:
+  id: GEN/30/6
+  number: '6'
+previous:
+  id: GEN/30/4
+  number: '4'
+reference: 'Genesis 30:5'

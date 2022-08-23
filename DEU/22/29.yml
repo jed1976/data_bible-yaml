@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 22:29"
+  class="v">29</span>Then the man that lay with her shall give unto the damsel’s
+  father fifty <span class="add">shekels</span> of silver, and she shall be his
+  wife; because he hath humbled her, he may not put her away all his days.</p>
+id: DEU/22/29
+next:
+  id: DEU/22/30
+  number: '30'
+previous:
+  id: DEU/22/28
+  number: '28'
+reference: 'Deuteronomy 22:29'

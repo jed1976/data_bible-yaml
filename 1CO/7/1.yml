@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 7:1" class="v">1</span>Now
+  concerning the things whereof ye wrote unto me: <span class="add">It is</span>
+  good for a man not to touch a woman. </p>
+id: 1CO/7/1
+next:
+  id: 1CO/7/2
+  number: '2'
+previous:
+  id: 1CO/6/20
+  number: '20'
+reference: '1 Corinthians 7:1'

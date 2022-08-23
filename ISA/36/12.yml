@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 36:12" class="v">12</span>¶
+  But Rabshakeh said, Hath my master sent me to thy master and to thee to speak
+  these words? <span class="add">hath he</span> not <span class="add">sent
+  me</span> to the men that sit upon the wall, that they may eat their own dung,
+  and drink their own piss with you? </p>
+id: ISA/36/12
+next:
+  id: ISA/36/13
+  number: '13'
+previous:
+  id: ISA/36/11
+  number: '11'
+reference: 'Isaiah 36:12'

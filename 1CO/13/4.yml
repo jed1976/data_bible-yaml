@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 13:4"
+  class="v">4</span>Charity suffereth long, <span class="add">and</span> is
+  kind; charity envieth not; charity vaunteth not itself, is not puffed up, </p>
+id: 1CO/13/4
+next:
+  id: 1CO/13/5
+  number: '5'
+previous:
+  id: 1CO/13/3
+  number: '3'
+reference: '1 Corinthians 13:4'

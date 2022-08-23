@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 3:30"
+  class="v">30</span>Which was <span class="add">the son</span> of Simeon, which
+  was <span class="add">the son</span> of Juda, which was <span class="add">the
+  son</span> of Joseph, which was <span class="add">the son</span> of Jonan,
+  which was <span class="add">the son</span> of Eliakim, </p>
+id: LUK/3/30
+next:
+  id: LUK/3/31
+  number: '31'
+previous:
+  id: LUK/3/29
+  number: '29'
+reference: 'Luke 3:30'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="DEU 1:45" class="v">45</span>And
+  ye returned and wept before the <span class="nd">LORD</span>; but the <span
+  class="nd">LORD</span> would not hearken to your voice, nor give ear unto you.
+  </p>
+id: DEU/1/45
+next:
+  id: DEU/1/46
+  number: '46'
+previous:
+  id: DEU/1/44
+  number: '44'
+reference: 'Deuteronomy 1:45'

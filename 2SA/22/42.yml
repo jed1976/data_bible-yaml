@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="2SA 22:42"
+  class="v">42</span>They looked, but <span class="add">there was</span> none to
+  save; <span class="add">even</span> unto the <span class="nd">LORD</span>, but
+  he answered them not. </p>
+id: 2SA/22/42
+next:
+  id: 2SA/22/43
+  number: '43'
+previous:
+  id: 2SA/22/41
+  number: '41'
+reference: '2 Samuel 22:42'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 9:6" class="v">6</span>And
+  the <span class="nd">LORD</span> did that thing on the morrow, and all the
+  cattle of Egypt died: but of the cattle of the children of Israel died not
+  one. </p>
+id: EXO/9/6
+next:
+  id: EXO/9/7
+  number: '7'
+previous:
+  id: EXO/9/5
+  number: '5'
+reference: 'Exodus 9:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 17:21"
+  class="v">21</span>Thus saith the <span class="nd">LORD</span>; Take heed to
+  yourselves, and bear no burden on the sabbath day, nor bring <span
+  class="add">it</span> in by the gates of Jerusalem; </p>
+id: JER/17/21
+next:
+  id: JER/17/22
+  number: '22'
+previous:
+  id: JER/17/20
+  number: '20'
+reference: 'Jeremiah 17:21'

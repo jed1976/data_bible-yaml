@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON</p>
+id: PHM/intro/0
+next:
+  id: PHM/1/1
+  number: '1'
+previous:
+  id: TIT/3/15
+  number: '15'
+reference: Philemon

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 14:15"
+  class="v">15</span><span class="wj">And he will shew you a large upper room
+  furnished <span class="add">and</span> prepared: there make ready for
+  us.</span> </p>
+id: MRK/14/15
+next:
+  id: MRK/14/16
+  number: '16'
+previous:
+  id: MRK/14/14
+  number: '14'
+reference: 'Mark 14:15'

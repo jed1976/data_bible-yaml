@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 9:10" class="v">10</span>And
+  they kept that saying with themselves, questioning one with another what the
+  rising from the dead should mean.</p>
+id: MRK/9/10
+next:
+  id: MRK/9/11
+  number: '11'
+previous:
+  id: MRK/9/9
+  number: '9'
+reference: 'Mark 9:10'

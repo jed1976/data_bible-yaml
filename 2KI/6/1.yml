@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 6:1" class="v">1</span>And
+  the sons of the prophets said unto Elisha, Behold now, the place where we
+  dwell with thee is too strait for us. </p>
+id: 2KI/6/1
+next:
+  id: 2KI/6/2
+  number: '2'
+previous:
+  id: 2KI/5/27
+  number: '27'
+reference: '2 Kings 6:1'

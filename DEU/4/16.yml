@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 4:16"
+  class="v">16</span>Lest ye corrupt <span class="add">yourselves</span>, and
+  make you a graven image, the similitude of any figure, the likeness of male or
+  female, </p>
+id: DEU/4/16
+next:
+  id: DEU/4/17
+  number: '17'
+previous:
+  id: DEU/4/15
+  number: '15'
+reference: 'Deuteronomy 4:16'

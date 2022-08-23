@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZK 10:21"
+  class="v">21</span>Every one had four faces apiece, and every one four wings;
+  and the likeness of the hands of a man <span class="add">was</span> under
+  their wings. </p>
+id: EZK/10/21
+next:
+  id: EZK/10/22
+  number: '22'
+previous:
+  id: EZK/10/20
+  number: '20'
+reference: 'Ezekiel 10:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="SNG 4:8" class="v">8</span>¶ Come
+  with me from Lebanon, <span class="add">my</span> spouse, with me from
+  Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from
+  the lions’ dens, from the mountains of the leopards. </p>
+id: SNG/4/8
+next:
+  id: SNG/4/9
+  number: '9'
+previous:
+  id: SNG/4/7
+  number: '7'
+reference: 'Song of Solomon 4:8'

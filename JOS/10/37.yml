@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="JOS 10:37"
+  class="v">37</span>And they took it, and smote it with the edge of the sword,
+  and the king thereof, and all the cities thereof, and all the souls that <span
+  class="add">were</span> therein; he left none remaining, according to all that
+  he had done to Eglon; but destroyed it utterly, and all the souls that <span
+  class="add">were</span> therein.</p>
+id: JOS/10/37
+next:
+  id: JOS/10/38
+  number: '38'
+previous:
+  id: JOS/10/36
+  number: '36'
+reference: 'Joshua 10:37'

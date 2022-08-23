@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 23:32"
+  class="v">32</span>And there were also two other, malefactors, led with him to
+  be put to death. </p>
+id: LUK/23/32
+next:
+  id: LUK/23/33
+  number: '33'
+previous:
+  id: LUK/23/31
+  number: '31'
+reference: 'Luke 23:32'

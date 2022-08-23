@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 5:1" class="v">1</span>Hear
+  ye this word which I take up against you, <span class="add">even</span> a
+  lamentation, O house of Israel. </p>
+id: AMO/5/1
+next:
+  id: AMO/5/2
+  number: '2'
+previous:
+  id: AMO/4/13
+  number: '13'
+reference: 'Amos 5:1'

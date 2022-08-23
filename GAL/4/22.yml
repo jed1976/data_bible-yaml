@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GAL 4:22" class="v">22</span>For
+  it is written, that Abraham had two sons, the one by a bondmaid, the other by
+  a freewoman. </p>
+id: GAL/4/22
+next:
+  id: GAL/4/23
+  number: '23'
+previous:
+  id: GAL/4/21
+  number: '21'
+reference: 'Galatians 4:22'

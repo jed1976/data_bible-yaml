@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="COL 1:25"
+  class="v">25</span>Whereof I am made a minister, according to the dispensation
+  of God which is given to me for you, to fulfil the word of God; </p>
+id: COL/1/25
+next:
+  id: COL/1/26
+  number: '26'
+previous:
+  id: COL/1/24
+  number: '24'
+reference: 'Colossians 1:25'

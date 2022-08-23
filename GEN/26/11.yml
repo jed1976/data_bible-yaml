@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 26:11"
+  class="v">11</span>And Abimelech charged all <span class="add">his</span>
+  people, saying, He that toucheth this man or his wife shall surely be put to
+  death.</p>
+id: GEN/26/11
+next:
+  id: GEN/26/12
+  number: '12'
+previous:
+  id: GEN/26/10
+  number: '10'
+reference: 'Genesis 26:11'

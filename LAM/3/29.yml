@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LAM 3:29" class="v">29</span>He
+  putteth his mouth in the dust; if so be there may be hope. </p>
+id: LAM/3/29
+next:
+  id: LAM/3/30
+  number: '30'
+previous:
+  id: LAM/3/28
+  number: '28'
+reference: 'Lamentations 3:29'

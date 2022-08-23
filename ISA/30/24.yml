@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 30:24"
+  class="v">24</span>The oxen likewise and the young asses that ear the ground
+  shall eat clean provender, which hath been winnowed with the shovel and with
+  the fan. </p>
+id: ISA/30/24
+next:
+  id: ISA/30/25
+  number: '25'
+previous:
+  id: ISA/30/23
+  number: '23'
+reference: 'Isaiah 30:24'

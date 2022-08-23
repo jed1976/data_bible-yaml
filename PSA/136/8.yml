@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 136:8" class="v">8</span>The
+  sun to rule by day: for his mercy <span class="add">endureth</span> for
+  ever:</p>
+id: PSA/136/8
+next:
+  id: PSA/136/9
+  number: '9'
+previous:
+  id: PSA/136/7
+  number: '7'
+reference: 'Psalms 136:8'

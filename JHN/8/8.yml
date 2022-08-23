@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 8:8" class="v">8</span>And
+  again he stooped down, and wrote on the ground. </p>
+id: JHN/8/8
+next:
+  id: JHN/8/9
+  number: '9'
+previous:
+  id: JHN/8/7
+  number: '7'
+reference: 'John 8:8'

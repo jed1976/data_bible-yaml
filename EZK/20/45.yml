@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="EZK 20:45" class="v">45</span>¶
+  Moreover the word of the <span class="nd">LORD</span> came unto me, saying,
+  </p>
+id: EZK/20/45
+next:
+  id: EZK/20/46
+  number: '46'
+previous:
+  id: EZK/20/44
+  number: '44'
+reference: 'Ezekiel 20:45'

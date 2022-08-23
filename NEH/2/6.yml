@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NEH 2:6" class="v">6</span>And
+  the king said unto me, (the queen also sitting by him,) For how long shall thy
+  journey be? and when wilt thou return? So it pleased the king to send me; and
+  I set him a time. </p>
+id: NEH/2/6
+next:
+  id: NEH/2/7
+  number: '7'
+previous:
+  id: NEH/2/5
+  number: '5'
+reference: 'Nehemiah 2:6'

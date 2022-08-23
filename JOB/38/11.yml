@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 38:11"
+  class="v">11</span>And said, Hitherto shalt thou come, but no further: and
+  here shall thy proud waves be stayed?</p>
+id: JOB/38/11
+next:
+  id: JOB/38/12
+  number: '12'
+previous:
+  id: JOB/38/10
+  number: '10'
+reference: 'Job 38:11'

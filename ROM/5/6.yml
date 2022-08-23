@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 5:6" class="v">6</span>For
+  when we were yet without strength, in due time Christ died for the ungodly.
+  </p>
+id: ROM/5/6
+next:
+  id: ROM/5/7
+  number: '7'
+previous:
+  id: ROM/5/5
+  number: '5'
+reference: 'Romans 5:6'

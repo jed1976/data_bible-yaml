@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="ACT 13:52"
+  class="v">52</span>And the disciples were filled with joy, and with the Holy
+  Ghost.</p>
+id: ACT/13/52
+next:
+  id: ACT/14/1
+  number: '1'
+previous:
+  id: ACT/13/51
+  number: '51'
+reference: 'Acts 13:52'

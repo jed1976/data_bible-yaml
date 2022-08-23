@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 5:10" class="v">10</span>For
+  if, when we were enemies, we were reconciled to God by the death of his Son,
+  much more, being reconciled, we shall be saved by his life. </p>
+id: ROM/5/10
+next:
+  id: ROM/5/11
+  number: '11'
+previous:
+  id: ROM/5/9
+  number: '9'
+reference: 'Romans 5:10'

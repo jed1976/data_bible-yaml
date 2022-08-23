@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 6:8" class="v">8</span>And
+  thou shalt bind them for a sign upon thine hand, and they shall be as
+  frontlets between thine eyes. </p>
+id: DEU/6/8
+next:
+  id: DEU/6/9
+  number: '9'
+previous:
+  id: DEU/6/7
+  number: '7'
+reference: 'Deuteronomy 6:8'

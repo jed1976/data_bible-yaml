@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 52:22"
+  class="v">22</span>And a chapiter of brass <span class="add">was</span> upon
+  it; and the height of one chapiter <span class="add">was</span> five cubits,
+  with network and pomegranates upon the chapiters round about, all <span
+  class="add">of</span> brass. The second pillar also and the pomegranates <span
+  class="add">were</span> like unto these. </p>
+id: JER/52/22
+next:
+  id: JER/52/23
+  number: '23'
+previous:
+  id: JER/52/21
+  number: '21'
+reference: 'Jeremiah 52:22'

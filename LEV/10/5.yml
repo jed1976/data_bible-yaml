@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 10:5" class="v">5</span>So
+  they went near, and carried them in their coats out of the camp; as Moses had
+  said. </p>
+id: LEV/10/5
+next:
+  id: LEV/10/6
+  number: '6'
+previous:
+  id: LEV/10/4
+  number: '4'
+reference: 'Leviticus 10:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 60:1"
+  class="v">1</span>Arise, shine; for thy light is come, and the glory of the
+  <span class="nd">LORD</span> is risen upon thee. </p>
+id: ISA/60/1
+next:
+  id: ISA/60/2
+  number: '2'
+previous:
+  id: ISA/59/21
+  number: '21'
+reference: 'Isaiah 60:1'

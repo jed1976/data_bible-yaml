@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 20:42"
+  class="v">42</span><span class="wj">And David himself saith in the book of
+  Psalms, The <span class="nd">LORD</span> said unto my Lord, Sit thou on my
+  right hand,</span> </p>
+id: LUK/20/42
+next:
+  id: LUK/20/43
+  number: '43'
+previous:
+  id: LUK/20/41
+  number: '41'
+reference: 'Luke 20:42'

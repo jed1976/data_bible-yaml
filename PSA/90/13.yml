@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 90:13"
+  class="v">13</span>Return, O <span class="nd">LORD</span>, how long? and let
+  it repent thee concerning thy servants.</p>
+id: PSA/90/13
+next:
+  id: PSA/90/14
+  number: '14'
+previous:
+  id: PSA/90/12
+  number: '12'
+reference: 'Psalms 90:13'

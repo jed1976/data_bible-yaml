@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 1:22" class="v">22</span>¶
+  And the house of Joseph, they also went up against Beth-el: and the <span
+  class="nd">LORD</span> <span class="add">was</span> with them. </p>
+id: JDG/1/22
+next:
+  id: JDG/1/23
+  number: '23'
+previous:
+  id: JDG/1/21
+  number: '21'
+reference: 'Judges 1:22'

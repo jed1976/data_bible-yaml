@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 11:7" class="v">7</span>¶
+  Truly the light <span class="add">is</span> sweet, and a pleasant <span
+  class="add">thing it is</span> for the eyes to behold the sun: </p>
+id: ECC/11/7
+next:
+  id: ECC/11/8
+  number: '8'
+previous:
+  id: ECC/11/6
+  number: '6'
+reference: 'Ecclesiastes 11:7'

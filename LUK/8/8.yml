@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 8:8" class="v">8</span><span
+  class="wj">And other fell on good ground, and sprang up, and bare fruit an
+  hundredfold.</span> And when he had said these things, he cried, <span
+  class="wj">He that hath ears to hear, let him hear.</span> </p>
+id: LUK/8/8
+next:
+  id: LUK/8/9
+  number: '9'
+previous:
+  id: LUK/8/7
+  number: '7'
+reference: 'Luke 8:8'

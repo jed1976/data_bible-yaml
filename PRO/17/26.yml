@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 17:26"
+  class="v">26</span>Also to punish the just <span class="add">is</span> not
+  good, <span class="add">nor</span> to strike princes for equity.</p>
+id: PRO/17/26
+next:
+  id: PRO/17/27
+  number: '27'
+previous:
+  id: PRO/17/25
+  number: '25'
+reference: 'Proverbs 17:26'

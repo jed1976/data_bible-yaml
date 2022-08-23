@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 17:17"
+  class="v">17</span>Therefore disputed he in the synagogue with the Jews, and
+  with the devout persons, and in the market daily with them that met with him.
+  </p>
+id: ACT/17/17
+next:
+  id: ACT/17/18
+  number: '18'
+previous:
+  id: ACT/17/16
+  number: '16'
+reference: 'Acts 17:17'

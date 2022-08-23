@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="AMO 7:6" class="v">6</span>The
+  <span class="nd">LORD</span> repented for this: This also shall not be, saith
+  the Lord <span class="nd">GOD</span>.</p>
+id: AMO/7/6
+next:
+  id: AMO/7/7
+  number: '7'
+previous:
+  id: AMO/7/5
+  number: '5'
+reference: 'Amos 7:6'

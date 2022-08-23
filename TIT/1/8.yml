@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="TIT 1:8" class="v">8</span>But a
+  lover of hospitality, a lover of good men, sober, just, holy, temperate; </p>
+id: TIT/1/8
+next:
+  id: TIT/1/9
+  number: '9'
+previous:
+  id: TIT/1/7
+  number: '7'
+reference: 'Titus 1:8'

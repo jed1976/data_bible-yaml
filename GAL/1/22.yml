@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GAL 1:22" class="v">22</span>And
+  was unknown by face unto the churches of Judaea which were in Christ: </p>
+id: GAL/1/22
+next:
+  id: GAL/1/23
+  number: '23'
+previous:
+  id: GAL/1/21
+  number: '21'
+reference: 'Galatians 1:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 22:11" class="v">11</span>¶
+  Thou shalt not wear a garment of divers sorts, <span class="add">as</span> of
+  woollen and linen together.</p>
+id: DEU/22/11
+next:
+  id: DEU/22/12
+  number: '12'
+previous:
+  id: DEU/22/10
+  number: '10'
+reference: 'Deuteronomy 22:11'

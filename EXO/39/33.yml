@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 39:33" class="v">33</span>¶
+  And they brought the tabernacle unto Moses, the tent, and all his furniture,
+  his taches, his boards, his bars, and his pillars, and his sockets, </p>
+id: EXO/39/33
+next:
+  id: EXO/39/34
+  number: '34'
+previous:
+  id: EXO/39/32
+  number: '32'
+reference: 'Exodus 39:33'

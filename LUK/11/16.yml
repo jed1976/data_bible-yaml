@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 11:16"
+  class="v">16</span>And others, tempting <span class="add">him</span>, sought
+  of him a sign from heaven. </p>
+id: LUK/11/16
+next:
+  id: LUK/11/17
+  number: '17'
+previous:
+  id: LUK/11/15
+  number: '15'
+reference: 'Luke 11:16'

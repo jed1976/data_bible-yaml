@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 26:6" class="v">6</span>Hell
+  <span class="add">is</span> naked before him, and destruction hath no
+  covering. </p>
+id: JOB/26/6
+next:
+  id: JOB/26/7
+  number: '7'
+previous:
+  id: JOB/26/5
+  number: '5'
+reference: 'Job 26:6'

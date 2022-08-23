@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 24:13"
+  class="v">13</span>Neither can they prove the things whereof they now accuse
+  me. </p>
+id: ACT/24/13
+next:
+  id: ACT/24/14
+  number: '14'
+previous:
+  id: ACT/24/12
+  number: '12'
+reference: 'Acts 24:13'

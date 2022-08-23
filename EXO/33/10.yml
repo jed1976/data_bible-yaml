@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 33:10"
+  class="v">10</span>And all the people saw the cloudy pillar stand <span
+  class="add">at</span> the tabernacle door: and all the people rose up and
+  worshipped, every man <span class="add">in</span> his tent door. </p>
+id: EXO/33/10
+next:
+  id: EXO/33/11
+  number: '11'
+previous:
+  id: EXO/33/9
+  number: '9'
+reference: 'Exodus 33:10'

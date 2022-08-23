@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 2:11" class="v">11</span>¶
+  Then Huram the king of Tyre answered in writing, which he sent to Solomon,
+  Because the <span class="nd">LORD</span> hath loved his people, he hath made
+  thee king over them. </p>
+id: 2CH/2/11
+next:
+  id: 2CH/2/12
+  number: '12'
+previous:
+  id: 2CH/2/10
+  number: '10'
+reference: '2 Chronicles 2:11'

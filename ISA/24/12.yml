@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 24:12" class="v">12</span>In
+  the city is left desolation, and the gate is smitten with destruction.</p>
+id: ISA/24/12
+next:
+  id: ISA/24/13
+  number: '13'
+previous:
+  id: ISA/24/11
+  number: '11'
+reference: 'Isaiah 24:12'

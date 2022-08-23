@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 12:30"
+  class="v">30</span>Jesus answered and said, <span class="wj">This voice came
+  not because of me, but for your sakes.</span> </p>
+id: JHN/12/30
+next:
+  id: JHN/12/31
+  number: '31'
+previous:
+  id: JHN/12/29
+  number: '29'
+reference: 'John 12:30'

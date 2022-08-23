@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 34:8" class="v">8</span>¶ And
+  the children of Israel wept for Moses in the plains of Moab thirty days: so
+  the days of weeping <span class="add">and</span> mourning for Moses were
+  ended.</p>
+id: DEU/34/8
+next:
+  id: DEU/34/9
+  number: '9'
+previous:
+  id: DEU/34/7
+  number: '7'
+reference: 'Deuteronomy 34:8'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 21:21" class="v">21</span>¶
+  And Israel sent messengers unto Sihon king of the Amorites, saying, </p>
+id: NUM/21/21
+next:
+  id: NUM/21/22
+  number: '22'
+previous:
+  id: NUM/21/20
+  number: '20'
+reference: 'Numbers 21:21'

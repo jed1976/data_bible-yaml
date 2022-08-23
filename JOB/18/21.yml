@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 18:21"
+  class="v">21</span>Surely such <span class="add">are</span> the dwellings of
+  the wicked, and this <span class="add">is</span> the place <span
+  class="add">of him that</span> knoweth not God.</p>
+id: JOB/18/21
+next:
+  id: JOB/19/1
+  number: '1'
+previous:
+  id: JOB/18/20
+  number: '20'
+reference: 'Job 18:21'

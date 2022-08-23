@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LAM 3:42" class="v">42</span>We
+  have transgressed and have rebelled: thou hast not pardoned. </p>
+id: LAM/3/42
+next:
+  id: LAM/3/43
+  number: '43'
+previous:
+  id: LAM/3/41
+  number: '41'
+reference: 'Lamentations 3:42'

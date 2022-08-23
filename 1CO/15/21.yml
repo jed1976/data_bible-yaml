@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CO 15:21"
+  class="v">21</span>For since by man <span class="add">came</span> death, by
+  man <span class="add">came</span> also the resurrection of the dead. </p>
+id: 1CO/15/21
+next:
+  id: 1CO/15/22
+  number: '22'
+previous:
+  id: 1CO/15/20
+  number: '20'
+reference: '1 Corinthians 15:21'

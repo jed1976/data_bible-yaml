@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZR 4:12" class="v">12</span>Be
+  it known unto the king, that the Jews which came up from thee to us are come
+  unto Jerusalem, building the rebellious and the bad city, and have set up the
+  walls <span class="add">thereof</span>, and joined the foundations. </p>
+id: EZR/4/12
+next:
+  id: EZR/4/13
+  number: '13'
+previous:
+  id: EZR/4/11
+  number: '11'
+reference: 'Ezra 4:12'

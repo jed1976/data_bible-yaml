@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 14:7" class="v">7</span>And
+  there they preached the gospel.</p>
+id: ACT/14/7
+next:
+  id: ACT/14/8
+  number: '8'
+previous:
+  id: ACT/14/6
+  number: '6'
+reference: 'Acts 14:7'

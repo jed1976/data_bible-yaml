@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 21:30" class="v">30</span>We
+  have shot at them; Heshbon is perished even unto Dibon, and we have laid them
+  waste even unto Nophah, which <span class="add">reacheth</span> unto
+  Medeba.</p>
+id: NUM/21/30
+next:
+  id: NUM/21/31
+  number: '31'
+previous:
+  id: NUM/21/29
+  number: '29'
+reference: 'Numbers 21:30'

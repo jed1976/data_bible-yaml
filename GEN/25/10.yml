@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 25:10"
+  class="v">10</span>The field which Abraham purchased of the sons of Heth:
+  there was Abraham buried, and Sarah his wife.</p>
+id: GEN/25/10
+next:
+  id: GEN/25/11
+  number: '11'
+previous:
+  id: GEN/25/9
+  number: '9'
+reference: 'Genesis 25:10'

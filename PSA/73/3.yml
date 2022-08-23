@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 73:3" class="v">3</span>For
+  I was envious at the foolish, <span class="add">when</span> I saw the
+  prosperity of the wicked.</p>
+id: PSA/73/3
+next:
+  id: PSA/73/4
+  number: '4'
+previous:
+  id: PSA/73/2
+  number: '2'
+reference: 'Psalms 73:3'

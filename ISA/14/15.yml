@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 14:15"
+  class="v">15</span>Yet thou shalt be brought down to hell, to the sides of the
+  pit. </p>
+id: ISA/14/15
+next:
+  id: ISA/14/16
+  number: '16'
+previous:
+  id: ISA/14/14
+  number: '14'
+reference: 'Isaiah 14:15'

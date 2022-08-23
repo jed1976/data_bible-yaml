@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 23:5" class="v">5</span>As at
+  the report concerning Egypt, <span class="add">so</span> shall they be sorely
+  pained at the report of Tyre. </p>
+id: ISA/23/5
+next:
+  id: ISA/23/6
+  number: '6'
+previous:
+  id: ISA/23/4
+  number: '4'
+reference: 'Isaiah 23:5'

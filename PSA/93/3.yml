@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 93:3" class="v">3</span>The
+  floods have lifted up, O <span class="nd">LORD</span>, the floods have lifted
+  up their voice; the floods lift up their waves.</p>
+id: PSA/93/3
+next:
+  id: PSA/93/4
+  number: '4'
+previous:
+  id: PSA/93/2
+  number: '2'
+reference: 'Psalms 93:3'

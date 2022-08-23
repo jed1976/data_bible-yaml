@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 3:20"
+  class="v">20</span>Wherefore is light given to him that is in misery, and life
+  unto the bitter <span class="add">in</span> soul; </p>
+id: JOB/3/20
+next:
+  id: JOB/3/21
+  number: '21'
+previous:
+  id: JOB/3/19
+  number: '19'
+reference: 'Job 3:20'

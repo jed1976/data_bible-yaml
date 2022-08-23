@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 1:1" class="v">1</span>And
+  Solomon the son of David was strengthened in his kingdom, and the <span
+  class="nd">LORD</span> his God <span class="add">was</span> with him, and
+  magnified him exceedingly. </p>
+id: 2CH/1/1
+next:
+  id: 2CH/1/2
+  number: '2'
+previous:
+  id: 2CH/intro/0
+  number: '0'
+reference: '2 Chronicles 1:1'

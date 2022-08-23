@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 21:35"
+  class="v">35</span>And when he came upon the stairs, so it was, that he was
+  borne of the soldiers for the violence of the people. </p>
+id: ACT/21/35
+next:
+  id: ACT/21/36
+  number: '36'
+previous:
+  id: ACT/21/34
+  number: '34'
+reference: 'Acts 21:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 26:20" class="v">20</span>¶
+  Come, my people, enter thou into thy chambers, and shut thy doors about thee:
+  hide thyself as it were for a little moment, until the indignation be
+  overpast. </p>
+id: ISA/26/20
+next:
+  id: ISA/26/21
+  number: '21'
+previous:
+  id: ISA/26/19
+  number: '19'
+reference: 'Isaiah 26:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 29:23"
+  class="v">23</span>And it came to pass in the evening, that he took Leah his
+  daughter, and brought her to him; and he went in unto her. </p>
+id: GEN/29/23
+next:
+  id: GEN/29/24
+  number: '24'
+previous:
+  id: GEN/29/22
+  number: '22'
+reference: 'Genesis 29:23'

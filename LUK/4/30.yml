@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 4:30" class="v">30</span>But
+  he passing through the midst of them went his way, </p>
+id: LUK/4/30
+next:
+  id: LUK/4/31
+  number: '31'
+previous:
+  id: LUK/4/29
+  number: '29'
+reference: 'Luke 4:30'

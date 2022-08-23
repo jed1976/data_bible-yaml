@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 6:8"
+  class="v">8</span>Depart from me, all ye workers of iniquity; for the <span
+  class="nd">LORD</span> hath heard the voice of my weeping.</p>
+id: PSA/6/8
+next:
+  id: PSA/6/9
+  number: '9'
+previous:
+  id: PSA/6/7
+  number: '7'
+reference: 'Psalms 6:8'

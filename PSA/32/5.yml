@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 32:5" class="v">5</span>I
+  acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I
+  will confess my transgressions unto the <span class="nd">LORD</span>; and thou
+  forgavest the iniquity of my sin. Selah.</p>
+id: PSA/32/5
+next:
+  id: PSA/32/6
+  number: '6'
+previous:
+  id: PSA/32/4
+  number: '4'
+reference: 'Psalms 32:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 12:24"
+  class="v">24</span><span class="wj">Consider the ravens: for they neither sow
+  nor reap; which neither have storehouse nor barn; and God feedeth them: how
+  much more are ye better than the fowls?</span> </p>
+id: LUK/12/24
+next:
+  id: LUK/12/25
+  number: '25'
+previous:
+  id: LUK/12/23
+  number: '23'
+reference: 'Luke 12:24'

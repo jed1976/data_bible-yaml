@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 33:22" class="v">22</span>As
+  the host of heaven cannot be numbered, neither the sand of the sea measured:
+  so will I multiply the seed of David my servant, and the Levites that minister
+  unto me. </p>
+id: JER/33/22
+next:
+  id: JER/33/23
+  number: '23'
+previous:
+  id: JER/33/21
+  number: '21'
+reference: 'Jeremiah 33:22'

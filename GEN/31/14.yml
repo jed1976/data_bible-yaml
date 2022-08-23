@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 31:14"
+  class="v">14</span>And Rachel and Leah answered and said unto him, <span
+  class="add">Is there</span> yet any portion or inheritance for us in our
+  father’s house? </p>
+id: GEN/31/14
+next:
+  id: GEN/31/15
+  number: '15'
+previous:
+  id: GEN/31/13
+  number: '13'
+reference: 'Genesis 31:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 10:15" class="v">15</span>If
+  I be wicked, woe unto me; and <span class="add">if</span> I be righteous,
+  <span class="add">yet</span> will I not lift up my head. <span class="add">I
+  am</span> full of confusion; therefore see thou mine affliction; </p>
+id: JOB/10/15
+next:
+  id: JOB/10/16
+  number: '16'
+previous:
+  id: JOB/10/14
+  number: '14'
+reference: 'Job 10:15'

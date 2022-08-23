@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 26:31"
+  class="v">31</span>And <span class="add">of</span> Asriel, the family of the
+  Asrielites: and <span class="add">of</span> Shechem, the family of the
+  Shechemites: </p>
+id: NUM/26/31
+next:
+  id: NUM/26/32
+  number: '32'
+previous:
+  id: NUM/26/30
+  number: '30'
+reference: 'Numbers 26:31'

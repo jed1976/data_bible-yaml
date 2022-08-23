@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 1:12" class="v">12</span>And
+  the earth brought forth grass, <span class="add">and</span> herb yielding seed
+  after his kind, and the tree yielding fruit, whose seed <span
+  class="add">was</span> in itself, after his kind: and God saw that <span
+  class="add">it was</span> good. </p>
+id: GEN/1/12
+next:
+  id: GEN/1/13
+  number: '13'
+previous:
+  id: GEN/1/11
+  number: '11'
+reference: 'Genesis 1:12'

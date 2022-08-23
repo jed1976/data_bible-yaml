@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 36:1" class="v">1</span>Elihu
+  also proceeded, and said, </p>
+id: JOB/36/1
+next:
+  id: JOB/36/2
+  number: '2'
+previous:
+  id: JOB/35/16
+  number: '16'
+reference: 'Job 36:1'

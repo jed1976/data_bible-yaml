@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MAT 22:12"
+  class="v">12</span><span class="wj">And he saith unto him, Friend, how camest
+  thou in hither not having a wedding garment? And he was speechless.</span>
+  </p>
+id: MAT/22/12
+next:
+  id: MAT/22/13
+  number: '13'
+previous:
+  id: MAT/22/11
+  number: '11'
+reference: 'Matthew 22:12'

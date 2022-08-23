@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 1:5" class="v">5</span>And
+  Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat
+  Jesse; </p>
+id: MAT/1/5
+next:
+  id: MAT/1/6
+  number: '6'
+previous:
+  id: MAT/1/4
+  number: '4'
+reference: 'Matthew 1:5'

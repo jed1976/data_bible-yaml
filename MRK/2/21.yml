@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 2:21"
+  class="v">21</span><span class="wj">No man also seweth a piece of new cloth on
+  an old garment: else the new piece that filled it up taketh away from the old,
+  and the rent is made worse.</span> </p>
+id: MRK/2/21
+next:
+  id: MRK/2/22
+  number: '22'
+previous:
+  id: MRK/2/20
+  number: '20'
+reference: 'Mark 2:21'

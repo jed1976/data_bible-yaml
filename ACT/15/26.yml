@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 15:26"
+  class="v">26</span>Men that have hazarded their lives for the name of our Lord
+  Jesus Christ. </p>
+id: ACT/15/26
+next:
+  id: ACT/15/27
+  number: '27'
+previous:
+  id: ACT/15/25
+  number: '25'
+reference: 'Acts 15:26'

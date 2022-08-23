@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 18:7" class="v">7</span>A
+  fool’s mouth <span class="add">is</span> his destruction, and his lips <span
+  class="add">are</span> the snare of his soul. </p>
+id: PRO/18/7
+next:
+  id: PRO/18/8
+  number: '8'
+previous:
+  id: PRO/18/6
+  number: '6'
+reference: 'Proverbs 18:7'

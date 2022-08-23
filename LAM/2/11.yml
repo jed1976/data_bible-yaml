@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LAM 2:11"
+  class="v">11</span>Mine eyes do fail with tears, my bowels are troubled, my
+  liver is poured upon the earth, for the destruction of the daughter of my
+  people; because the children and the sucklings swoon in the streets of the
+  city. </p>
+id: LAM/2/11
+next:
+  id: LAM/2/12
+  number: '12'
+previous:
+  id: LAM/2/10
+  number: '10'
+reference: 'Lamentations 2:11'

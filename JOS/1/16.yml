@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 1:16" class="v">16</span>¶
+  And they answered Joshua, saying, All that thou commandest us we will do, and
+  whithersoever thou sendest us, we will go. </p>
+id: JOS/1/16
+next:
+  id: JOS/1/17
+  number: '17'
+previous:
+  id: JOS/1/15
+  number: '15'
+reference: 'Joshua 1:16'

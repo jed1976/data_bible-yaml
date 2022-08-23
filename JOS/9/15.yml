@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 9:15" class="v">15</span>And
+  Joshua made peace with them, and made a league with them, to let them live:
+  and the princes of the congregation sware unto them.</p>
+id: JOS/9/15
+next:
+  id: JOS/9/16
+  number: '16'
+previous:
+  id: JOS/9/14
+  number: '14'
+reference: 'Joshua 9:15'

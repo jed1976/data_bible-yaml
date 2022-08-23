@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 12:32"
+  class="v">32</span>And the scribe said unto him, Well, Master, thou hast said
+  the truth: for there is one God; and there is none other but he: </p>
+id: MRK/12/32
+next:
+  id: MRK/12/33
+  number: '33'
+previous:
+  id: MRK/12/31
+  number: '31'
+reference: 'Mark 12:32'

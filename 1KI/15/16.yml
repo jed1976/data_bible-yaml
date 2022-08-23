@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1KI 15:16" class="v">16</span>¶
+  And there was war between Asa and Baasha king of Israel all their days. </p>
+id: 1KI/15/16
+next:
+  id: 1KI/15/17
+  number: '17'
+previous:
+  id: 1KI/15/15
+  number: '15'
+reference: '1 Kings 15:16'

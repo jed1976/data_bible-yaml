@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EZK 16:21"
+  class="v">21</span>That thou hast slain my children, and delivered them to
+  cause them to pass through <span class="add">the fire</span> for them? </p>
+id: EZK/16/21
+next:
+  id: EZK/16/22
+  number: '22'
+previous:
+  id: EZK/16/20
+  number: '20'
+reference: 'Ezekiel 16:21'

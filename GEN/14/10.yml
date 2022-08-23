@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 14:10"
+  class="v">10</span>And the vale of Siddim <span class="add">was full of</span>
+  slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they
+  that remained fled to the mountain. </p>
+id: GEN/14/10
+next:
+  id: GEN/14/11
+  number: '11'
+previous:
+  id: GEN/14/9
+  number: '9'
+reference: 'Genesis 14:10'

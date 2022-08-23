@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 76:6" class="v">6</span>At
+  thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead
+  sleep.</p>
+id: PSA/76/6
+next:
+  id: PSA/76/7
+  number: '7'
+previous:
+  id: PSA/76/5
+  number: '5'
+reference: 'Psalms 76:6'

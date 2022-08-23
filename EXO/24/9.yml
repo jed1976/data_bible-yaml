@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 24:9" class="v">9</span>¶
+  Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of
+  Israel: </p>
+id: EXO/24/9
+next:
+  id: EXO/24/10
+  number: '10'
+previous:
+  id: EXO/24/8
+  number: '8'
+reference: 'Exodus 24:9'

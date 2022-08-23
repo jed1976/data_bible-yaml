@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 9:33" class="v">33</span>And
+  there he found a certain man named Æneas, which had kept his bed eight years,
+  and was sick of the palsy. </p>
+id: ACT/9/33
+next:
+  id: ACT/9/34
+  number: '34'
+previous:
+  id: ACT/9/32
+  number: '32'
+reference: 'Acts 9:33'

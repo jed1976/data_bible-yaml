@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 17:1" class="v">1</span>The
+  burden of Damascus. Behold, Damascus is taken away from <span
+  class="add">being</span> a city, and it shall be a ruinous heap. </p>
+id: ISA/17/1
+next:
+  id: ISA/17/2
+  number: '2'
+previous:
+  id: ISA/16/14
+  number: '14'
+reference: 'Isaiah 17:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 46:18"
+  class="v">18</span>These <span class="add">are</span> the sons of Zilpah, whom
+  Laban gave to Leah his daughter, and these she bare unto Jacob, <span
+  class="add">even</span> sixteen souls. </p>
+id: GEN/46/18
+next:
+  id: GEN/46/19
+  number: '19'
+previous:
+  id: GEN/46/17
+  number: '17'
+reference: 'Genesis 46:18'

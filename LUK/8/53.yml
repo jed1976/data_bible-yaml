@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="LUK 8:53" class="v">53</span>And
+  they laughed him to scorn, knowing that she was dead. </p>
+id: LUK/8/53
+next:
+  id: LUK/8/54
+  number: '54'
+previous:
+  id: LUK/8/52
+  number: '52'
+reference: 'Luke 8:53'

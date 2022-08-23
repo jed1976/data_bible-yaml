@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 19:12"
+  class="v">12</span>Then the elders of his city shall send and fetch him
+  thence, and deliver him into the hand of the avenger of blood, that he may
+  die. </p>
+id: DEU/19/12
+next:
+  id: DEU/19/13
+  number: '13'
+previous:
+  id: DEU/19/11
+  number: '11'
+reference: 'Deuteronomy 19:12'

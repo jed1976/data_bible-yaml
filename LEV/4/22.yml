@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 4:22" class="v">22</span>¶
+  When a ruler hath sinned, and done <span class="add">somewhat</span> through
+  ignorance <span class="add">against</span> any of the commandments of the
+  <span class="nd">LORD</span> his God <span class="add">concerning
+  things</span> which should not be done, and is guilty; </p>
+id: LEV/4/22
+next:
+  id: LEV/4/23
+  number: '23'
+previous:
+  id: LEV/4/21
+  number: '21'
+reference: 'Leviticus 4:22'

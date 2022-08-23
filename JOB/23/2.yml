@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOB 23:2" class="v">2</span>Even
+  to day <span class="add">is</span> my complaint bitter: my stroke is heavier
+  than my groaning. </p>
+id: JOB/23/2
+next:
+  id: JOB/23/3
+  number: '3'
+previous:
+  id: JOB/23/1
+  number: '1'
+reference: 'Job 23:2'

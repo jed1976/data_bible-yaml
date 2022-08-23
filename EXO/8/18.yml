@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 8:18" class="v">18</span>And
+  the magicians did so with their enchantments to bring forth lice, but they
+  could not: so there were lice upon man, and upon beast. </p>
+id: EXO/8/18
+next:
+  id: EXO/8/19
+  number: '19'
+previous:
+  id: EXO/8/17
+  number: '17'
+reference: 'Exodus 8:18'

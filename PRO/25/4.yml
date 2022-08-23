@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 25:4" class="v">4</span>Take
+  away the dross from the silver, and there shall come forth a vessel for the
+  finer. </p>
+id: PRO/25/4
+next:
+  id: PRO/25/5
+  number: '5'
+previous:
+  id: PRO/25/3
+  number: '3'
+reference: 'Proverbs 25:4'

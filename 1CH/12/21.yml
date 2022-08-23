@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CH 12:21"
+  class="v">21</span>And they helped David against the band <span class="add">of
+  the rovers:</span> for they <span class="add">were</span> all mighty men of
+  valour, and were captains in the host. </p>
+id: 1CH/12/21
+next:
+  id: 1CH/12/22
+  number: '22'
+previous:
+  id: 1CH/12/20
+  number: '20'
+reference: '1 Chronicles 12:21'

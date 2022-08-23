@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 68:3" class="v">3</span>But
+  let the righteous be glad; let them rejoice before God: yea, let them
+  exceedingly rejoice.</p>
+id: PSA/68/3
+next:
+  id: PSA/68/4
+  number: '4'
+previous:
+  id: PSA/68/2
+  number: '2'
+reference: 'Psalms 68:3'

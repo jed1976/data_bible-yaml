@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LEV 14:40"
+  class="v">40</span>Then the priest shall command that they take away the
+  stones in which the plague <span class="add">is</span>, and they shall cast
+  them into an unclean place without the city: </p>
+id: LEV/14/40
+next:
+  id: LEV/14/41
+  number: '41'
+previous:
+  id: LEV/14/39
+  number: '39'
+reference: 'Leviticus 14:40'

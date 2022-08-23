@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JAS 1:9" class="v">9</span>Let
+  the brother of low degree rejoice in that he is exalted: </p>
+id: JAS/1/9
+next:
+  id: JAS/1/10
+  number: '10'
+previous:
+  id: JAS/1/8
+  number: '8'
+reference: 'James 1:9'

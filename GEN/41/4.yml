@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 41:4" class="v">4</span>And
+  the ill favoured and leanfleshed kine did eat up the seven well favoured and
+  fat kine. So Pharaoh awoke. </p>
+id: GEN/41/4
+next:
+  id: GEN/41/5
+  number: '5'
+previous:
+  id: GEN/41/3
+  number: '3'
+reference: 'Genesis 41:4'

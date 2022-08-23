@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 4:10" class="v">10</span>And
+  thy meat which thou shalt eat <span class="add">shall be</span> by weight,
+  twenty shekels a day: from time to time shalt thou eat it. </p>
+id: EZK/4/10
+next:
+  id: EZK/4/11
+  number: '11'
+previous:
+  id: EZK/4/9
+  number: '9'
+reference: 'Ezekiel 4:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 48:16" class="v">16</span>¶
+  Come ye near unto me, hear ye this; I have not spoken in secret from the
+  beginning; from the time that it was, there <span class="add">am</span> I: and
+  now the Lord <span class="nd">GOD</span>, and his Spirit, hath sent me. </p>
+id: ISA/48/16
+next:
+  id: ISA/48/17
+  number: '17'
+previous:
+  id: ISA/48/15
+  number: '15'
+reference: 'Isaiah 48:16'

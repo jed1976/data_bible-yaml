@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 6:14" class="v">14</span>¶
+  These <span class="add">be</span> the heads of their fathers’ houses: The sons
+  of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these
+  <span class="add">be</span> the families of Reuben. </p>
+id: EXO/6/14
+next:
+  id: EXO/6/15
+  number: '15'
+previous:
+  id: EXO/6/13
+  number: '13'
+reference: 'Exodus 6:14'

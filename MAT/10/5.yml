@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 10:5" class="v">5</span>These
+  twelve Jesus sent forth, and commanded them, saying, <span class="wj">Go not
+  into the way of the Gentiles, and into <span class="add">any</span> city of
+  the Samaritans enter ye not:</span> </p>
+id: MAT/10/5
+next:
+  id: MAT/10/6
+  number: '6'
+previous:
+  id: MAT/10/4
+  number: '4'
+reference: 'Matthew 10:5'

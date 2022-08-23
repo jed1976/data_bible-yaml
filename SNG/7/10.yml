@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 7:10" class="v">10</span>¶ I
+  <span class="add">am</span> my beloved’s, and his desire <span
+  class="add">is</span> toward me. </p>
+id: SNG/7/10
+next:
+  id: SNG/7/11
+  number: '11'
+previous:
+  id: SNG/7/9
+  number: '9'
+reference: 'Song of Solomon 7:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 7:12" class="v">12</span>The
+  children of Elam, a thousand two hundred fifty and four. </p>
+id: NEH/7/12
+next:
+  id: NEH/7/13
+  number: '13'
+previous:
+  id: NEH/7/11
+  number: '11'
+reference: 'Nehemiah 7:12'

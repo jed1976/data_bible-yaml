@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DEU 32:33"
+  class="v">33</span>Their wine <span class="add">is</span> the poison of
+  dragons, and the cruel venom of asps. </p>
+id: DEU/32/33
+next:
+  id: DEU/32/34
+  number: '34'
+previous:
+  id: DEU/32/32
+  number: '32'
+reference: 'Deuteronomy 32:33'

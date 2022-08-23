@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 16:6" class="v">6</span>And
+  he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was
+  crucified: he is risen; he is not here: behold the place where they laid him.
+  </p>
+id: MRK/16/6
+next:
+  id: MRK/16/7
+  number: '7'
+previous:
+  id: MRK/16/5
+  number: '5'
+reference: 'Mark 16:6'

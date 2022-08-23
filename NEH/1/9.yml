@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 1:9" class="v">9</span>But
+  <span class="add">if</span> ye turn unto me, and keep my commandments, and do
+  them; though there were of you cast out unto the uttermost part of the heaven,
+  <span class="add">yet</span> will I gather them from thence, and will bring
+  them unto the place that I have chosen to set my name there. </p>
+id: NEH/1/9
+next:
+  id: NEH/1/10
+  number: '10'
+previous:
+  id: NEH/1/8
+  number: '8'
+reference: 'Nehemiah 1:9'

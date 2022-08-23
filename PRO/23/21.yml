@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 23:21"
+  class="v">21</span>For the drunkard and the glutton shall come to poverty: and
+  drowsiness shall clothe <span class="add">a man</span> with rags. </p>
+id: PRO/23/21
+next:
+  id: PRO/23/22
+  number: '22'
+previous:
+  id: PRO/23/20
+  number: '20'
+reference: 'Proverbs 23:21'

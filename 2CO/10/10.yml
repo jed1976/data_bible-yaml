@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CO 10:10"
+  class="v">10</span>For <span class="add">his</span> letters, say they, <span
+  class="add">are</span> weighty and powerful; but <span class="add">his</span>
+  bodily presence <span class="add">is</span> weak, and <span
+  class="add">his</span> speech contemptible. </p>
+id: 2CO/10/10
+next:
+  id: 2CO/10/11
+  number: '11'
+previous:
+  id: 2CO/10/9
+  number: '9'
+reference: '2 Corinthians 10:10'

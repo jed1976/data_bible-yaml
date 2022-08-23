@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 9:25" class="v">25</span>¶
+  Behold, the days come, saith the <span class="nd">LORD</span>, that I will
+  punish all <span class="add">them which are</span> circumcised with the
+  uncircumcised; </p>
+id: JER/9/25
+next:
+  id: JER/9/26
+  number: '26'
+previous:
+  id: JER/9/24
+  number: '24'
+reference: 'Jeremiah 9:25'

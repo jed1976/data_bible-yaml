@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2CH 9:20" class="v">20</span>¶
+  And all the drinking vessels of king Solomon <span class="add">were of</span>
+  gold, and all the vessels of the house of the forest of Lebanon <span
+  class="add">were of</span> pure gold: none <span class="add">were of</span>
+  silver; it was <span class="add">not</span> any thing accounted of in the days
+  of Solomon. </p>
+id: 2CH/9/20
+next:
+  id: 2CH/9/21
+  number: '21'
+previous:
+  id: 2CH/9/19
+  number: '19'
+reference: '2 Chronicles 9:20'

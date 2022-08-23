@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 7:16" class="v">16</span>For
+  before the child shall know to refuse the evil, and choose the good, the land
+  that thou abhorrest shall be forsaken of both her kings.</p>
+id: ISA/7/16
+next:
+  id: ISA/7/17
+  number: '17'
+previous:
+  id: ISA/7/15
+  number: '15'
+reference: 'Isaiah 7:16'

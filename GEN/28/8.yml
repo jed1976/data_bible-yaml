@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 28:8" class="v">8</span>And
+  Esau seeing that the daughters of Canaan pleased not Isaac his father; </p>
+id: GEN/28/8
+next:
+  id: GEN/28/9
+  number: '9'
+previous:
+  id: GEN/28/7
+  number: '7'
+reference: 'Genesis 28:8'

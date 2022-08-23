@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="RUT 3:15"
+  class="v">15</span>Also he said, Bring the vail that <span class="add">thou
+  hast</span> upon thee, and hold it. And when she held it, he measured six
+  <span class="add">measures</span> of barley, and laid <span
+  class="add">it</span> on her: and she went into the city. </p>
+id: RUT/3/15
+next:
+  id: RUT/3/16
+  number: '16'
+previous:
+  id: RUT/3/14
+  number: '14'
+reference: 'Ruth 3:15'

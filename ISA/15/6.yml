@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 15:6" class="v">6</span>For
+  the waters of Nimrim shall be desolate: for the hay is withered away, the
+  grass faileth, there is no green thing. </p>
+id: ISA/15/6
+next:
+  id: ISA/15/7
+  number: '7'
+previous:
+  id: ISA/15/5
+  number: '5'
+reference: 'Isaiah 15:6'

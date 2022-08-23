@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 78:16"
+  class="v">16</span>He brought streams also out of the rock, and caused waters
+  to run down like rivers.</p>
+id: PSA/78/16
+next:
+  id: PSA/78/17
+  number: '17'
+previous:
+  id: PSA/78/15
+  number: '15'
+reference: 'Psalms 78:16'

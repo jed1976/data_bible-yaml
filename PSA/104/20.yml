@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 104:20"
+  class="v">20</span>Thou makest darkness, and it is night: wherein all the
+  beasts of the forest do creep <span class="add">forth</span>.</p>
+id: PSA/104/20
+next:
+  id: PSA/104/21
+  number: '21'
+previous:
+  id: PSA/104/19
+  number: '19'
+reference: 'Psalms 104:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1TH 5:5" class="v">5</span>Ye are
+  all the children of light, and the children of the day: we are not of the
+  night, nor of darkness. </p>
+id: 1TH/5/5
+next:
+  id: 1TH/5/6
+  number: '6'
+previous:
+  id: 1TH/5/4
+  number: '4'
+reference: '1 Thessalonians 5:5'

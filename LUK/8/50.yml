@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 8:50" class="v">50</span>But
+  when Jesus heard <span class="add">it</span>, he answered him, saying, <span
+  class="wj">Fear not: believe only, and she shall be made whole.</span> </p>
+id: LUK/8/50
+next:
+  id: LUK/8/51
+  number: '51'
+previous:
+  id: LUK/8/49
+  number: '49'
+reference: 'Luke 8:50'

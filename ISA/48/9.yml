@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 48:9" class="v">9</span>¶ For
+  my name’s sake will I defer mine anger, and for my praise will I refrain for
+  thee, that I cut thee not off. </p>
+id: ISA/48/9
+next:
+  id: ISA/48/10
+  number: '10'
+previous:
+  id: ISA/48/8
+  number: '8'
+reference: 'Isaiah 48:9'

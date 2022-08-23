@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JDG 10:15" class="v">15</span>¶
+  And the children of Israel said unto the <span class="nd">LORD</span>, We have
+  sinned: do thou unto us whatsoever seemeth good unto thee; deliver us only, we
+  pray thee, this day. </p>
+id: JDG/10/15
+next:
+  id: JDG/10/16
+  number: '16'
+previous:
+  id: JDG/10/14
+  number: '14'
+reference: 'Judges 10:15'

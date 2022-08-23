@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1JN 2:2" class="v">2</span>And he
+  is the propitiation for our sins: and not for ours only, but also for <span
+  class="add">the sins of</span> the whole world. </p>
+id: 1JN/2/2
+next:
+  id: 1JN/2/3
+  number: '3'
+previous:
+  id: 1JN/2/1
+  number: '1'
+reference: '1 John 2:2'

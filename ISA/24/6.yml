@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 24:6"
+  class="v">6</span>Therefore hath the curse devoured the earth, and they that
+  dwell therein are desolate: therefore the inhabitants of the earth are burned,
+  and few men left. </p>
+id: ISA/24/6
+next:
+  id: ISA/24/7
+  number: '7'
+previous:
+  id: ISA/24/5
+  number: '5'
+reference: 'Isaiah 24:6'

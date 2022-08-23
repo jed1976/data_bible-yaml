@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 34:11" class="v">11</span>In
+  all the signs and the wonders, which the <span class="nd">LORD</span> sent him
+  to do in the land of Egypt to Pharaoh, and to all his servants, and to all his
+  land, </p>
+id: DEU/34/11
+next:
+  id: DEU/34/12
+  number: '12'
+previous:
+  id: DEU/34/10
+  number: '10'
+reference: 'Deuteronomy 34:11'

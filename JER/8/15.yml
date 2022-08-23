@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 8:15" class="v">15</span>We
+  looked for peace, but no good <span class="add">came; and</span> for a time of
+  health, and behold trouble! </p>
+id: JER/8/15
+next:
+  id: JER/8/16
+  number: '16'
+previous:
+  id: JER/8/14
+  number: '14'
+reference: 'Jeremiah 8:15'

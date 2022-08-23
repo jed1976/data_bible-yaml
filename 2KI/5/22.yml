@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2KI 5:22" class="v">22</span>And
+  he said, All <span class="add">is</span> well. My master hath sent me, saying,
+  Behold, even now there be come to me from mount Ephraim two young men of the
+  sons of the prophets: give them, I pray thee, a talent of silver, and two
+  changes of garments. </p>
+id: 2KI/5/22
+next:
+  id: 2KI/5/23
+  number: '23'
+previous:
+  id: 2KI/5/21
+  number: '21'
+reference: '2 Kings 5:22'

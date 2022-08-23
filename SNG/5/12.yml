@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="SNG 5:12" class="v">12</span>His
+  eyes <span class="add">are</span> as <span class="add">the eyes</span> of
+  doves by the rivers of waters, washed with milk, <span class="add">and</span>
+  fitly set. </p>
+id: SNG/5/12
+next:
+  id: SNG/5/13
+  number: '13'
+previous:
+  id: SNG/5/11
+  number: '11'
+reference: 'Song of Solomon 5:12'

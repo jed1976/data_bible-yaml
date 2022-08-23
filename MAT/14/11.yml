@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 14:11"
+  class="v">11</span>And his head was brought in a charger, and given to the
+  damsel: and she brought <span class="add">it</span> to her mother. </p>
+id: MAT/14/11
+next:
+  id: MAT/14/12
+  number: '12'
+previous:
+  id: MAT/14/10
+  number: '10'
+reference: 'Matthew 14:11'

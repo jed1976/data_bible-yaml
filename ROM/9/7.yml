@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 9:7"
+  class="v">7</span>Neither, because they are the seed of Abraham, <span
+  class="add">are they</span> all children: but, In Isaac shall thy seed be
+  called. </p>
+id: ROM/9/7
+next:
+  id: ROM/9/8
+  number: '8'
+previous:
+  id: ROM/9/6
+  number: '6'
+reference: 'Romans 9:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 12:7" class="v">7</span>¶
+  <span class="add">He is</span> a merchant, the balances of deceit <span
+  class="add">are</span> in his hand: he loveth to oppress. </p>
+id: HOS/12/7
+next:
+  id: HOS/12/8
+  number: '8'
+previous:
+  id: HOS/12/6
+  number: '6'
+reference: 'Hosea 12:7'

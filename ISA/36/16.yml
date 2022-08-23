@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 36:16"
+  class="v">16</span>Hearken not to Hezekiah: for thus saith the king of
+  Assyria, Make <span class="add">an agreement</span> with me <span
+  class="add">by</span> a present, and come out to me: and eat ye every one of
+  his vine, and every one of his fig tree, and drink ye every one the waters of
+  his own cistern; </p>
+id: ISA/36/16
+next:
+  id: ISA/36/17
+  number: '17'
+previous:
+  id: ISA/36/15
+  number: '15'
+reference: 'Isaiah 36:16'

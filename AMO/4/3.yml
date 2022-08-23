@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 4:3" class="v">3</span>And ye
+  shall go out at the breaches, every <span class="add">cow at that which
+  is</span> before her; and ye shall cast <span class="add">them</span> into the
+  palace, saith the <span class="nd">LORD</span>.</p>
+id: AMO/4/3
+next:
+  id: AMO/4/4
+  number: '4'
+previous:
+  id: AMO/4/2
+  number: '2'
+reference: 'Amos 4:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 25:32"
+  class="v">32</span>Notwithstanding the cities of the Levites, <span
+  class="add">and</span> the houses of the cities of their possession, may the
+  Levites redeem at any time. </p>
+id: LEV/25/32
+next:
+  id: LEV/25/33
+  number: '33'
+previous:
+  id: LEV/25/31
+  number: '31'
+reference: 'Leviticus 25:32'

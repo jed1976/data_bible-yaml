@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 20:3" class="v">3</span>And
+  he answered and said unto them, <span class="wj">I will also ask you one
+  thing; and answer me:</span> </p>
+id: LUK/20/3
+next:
+  id: LUK/20/4
+  number: '4'
+previous:
+  id: LUK/20/2
+  number: '2'
+reference: 'Luke 20:3'

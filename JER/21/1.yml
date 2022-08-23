@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 21:1" class="v">1</span>The
+  word which came unto Jeremiah from the <span class="nd">LORD</span>, when king
+  Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of
+  Maaseiah the priest, saying, </p>
+id: JER/21/1
+next:
+  id: JER/21/2
+  number: '2'
+previous:
+  id: JER/20/18
+  number: '18'
+reference: 'Jeremiah 21:1'

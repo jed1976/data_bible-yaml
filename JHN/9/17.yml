@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JHN 9:17"
+  class="v">17</span>They say unto the blind man again, What sayest thou of him,
+  that he hath opened thine eyes? He said, He is a prophet. </p>
+id: JHN/9/17
+next:
+  id: JHN/9/18
+  number: '18'
+previous:
+  id: JHN/9/16
+  number: '16'
+reference: 'John 9:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 33:33"
+  class="v">33</span>And they went from Hor-hagidgad, and pitched in Jotbathah.
+  </p>
+id: NUM/33/33
+next:
+  id: NUM/33/34
+  number: '34'
+previous:
+  id: NUM/33/32
+  number: '32'
+reference: 'Numbers 33:33'

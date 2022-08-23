@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 7:7" class="v">7</span>This
+  thy stature is like to a palm tree, and thy breasts to clusters <span
+  class="add">of grapes</span>. </p>
+id: SNG/7/7
+next:
+  id: SNG/7/8
+  number: '8'
+previous:
+  id: SNG/7/6
+  number: '6'
+reference: 'Song of Solomon 7:7'

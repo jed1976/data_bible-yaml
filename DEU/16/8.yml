@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 16:8" class="v">8</span>Six
+  days thou shalt eat unleavened bread: and on the seventh day <span
+  class="add">shall be</span> a solemn assembly to the <span
+  class="nd">LORD</span> thy God: thou shalt do no work <span
+  class="add">therein</span>.</p>
+id: DEU/16/8
+next:
+  id: DEU/16/9
+  number: '9'
+previous:
+  id: DEU/16/7
+  number: '7'
+reference: 'Deuteronomy 16:8'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="2CH 24:27" class="v">27</span>¶
+  Now <span class="add">concerning</span> his sons, and the greatness of the
+  burdens <span class="add">laid</span> upon him, and the repairing of the house
+  of God, behold, they <span class="add">are</span> written in the story of the
+  book of the kings. And Amaziah his son reigned in his stead.</p>
+id: 2CH/24/27
+next:
+  id: 2CH/25/1
+  number: '1'
+previous:
+  id: 2CH/24/26
+  number: '26'
+reference: '2 Chronicles 24:27'

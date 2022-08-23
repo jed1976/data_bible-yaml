@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1KI 19:7" class="v">7</span>And
+  the angel of the <span class="nd">LORD</span> came again the second time, and
+  touched him, and said, Arise <span class="add">and</span> eat; because the
+  journey <span class="add">is</span> too great for thee. </p>
+id: 1KI/19/7
+next:
+  id: 1KI/19/8
+  number: '8'
+previous:
+  id: 1KI/19/6
+  number: '6'
+reference: '1 Kings 19:7'

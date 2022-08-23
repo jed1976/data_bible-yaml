@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 29:29"
+  class="v">29</span>And Laban gave to Rachel his daughter Bilhah his handmaid
+  to be her maid. </p>
+id: GEN/29/29
+next:
+  id: GEN/29/30
+  number: '30'
+previous:
+  id: GEN/29/28
+  number: '28'
+reference: 'Genesis 29:29'

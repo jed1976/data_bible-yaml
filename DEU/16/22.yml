@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 16:22"
+  class="v">22</span>Neither shalt thou set thee up <span class="add">any</span>
+  image; which the <span class="nd">LORD</span> thy God hateth.</p>
+id: DEU/16/22
+next:
+  id: DEU/17/1
+  number: '1'
+previous:
+  id: DEU/16/21
+  number: '21'
+reference: 'Deuteronomy 16:22'

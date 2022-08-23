@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 9:21" class="v">21</span>But
+  by what means he now seeth, we know not; or who hath opened his eyes, we know
+  not: he is of age; ask him: he shall speak for himself. </p>
+id: JHN/9/21
+next:
+  id: JHN/9/22
+  number: '22'
+previous:
+  id: JHN/9/20
+  number: '20'
+reference: 'John 9:21'

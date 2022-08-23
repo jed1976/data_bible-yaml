@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 8:20" class="v">20</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Rise up early in the
+  morning, and stand before Pharaoh; lo, he cometh forth to the water; and say
+  unto him, Thus saith the <span class="nd">LORD</span>, Let my people go, that
+  they may serve me. </p>
+id: EXO/8/20
+next:
+  id: EXO/8/21
+  number: '21'
+previous:
+  id: EXO/8/19
+  number: '19'
+reference: 'Exodus 8:20'

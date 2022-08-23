@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOS 4:6" class="v">6</span>That
+  this may be a sign among you, <span class="add">that</span> when your children
+  ask <span class="add">their fathers</span> in time to come, saying, What <span
+  class="add">mean</span> ye by these stones? </p>
+id: JOS/4/6
+next:
+  id: JOS/4/7
+  number: '7'
+previous:
+  id: JOS/4/5
+  number: '5'
+reference: 'Joshua 4:6'

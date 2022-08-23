@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 24:26" class="v">26</span>He
+  hoped also that money should have been given him of Paul, that he might loose
+  him: wherefore he sent for him the oftener, and communed with him. </p>
+id: ACT/24/26
+next:
+  id: ACT/24/27
+  number: '27'
+previous:
+  id: ACT/24/25
+  number: '25'
+reference: 'Acts 24:26'

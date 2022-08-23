@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="ACT 7:54" class="v">54</span>¶
+  When they heard these things, they were cut to the heart, and they gnashed on
+  him with <span class="add">their</span> teeth. </p>
+id: ACT/7/54
+next:
+  id: ACT/7/55
+  number: '55'
+previous:
+  id: ACT/7/53
+  number: '53'
+reference: 'Acts 7:54'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 6:35" class="v">35</span>And
+  Jesus said unto them, <span class="wj">I am the bread of life: he that cometh
+  to me shall never hunger; and he that believeth on me shall never
+  thirst.</span> </p>
+id: JHN/6/35
+next:
+  id: JHN/6/36
+  number: '36'
+previous:
+  id: JHN/6/34
+  number: '34'
+reference: 'John 6:35'

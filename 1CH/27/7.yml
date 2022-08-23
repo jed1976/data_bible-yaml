@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 27:7" class="v">7</span>The
+  fourth <span class="add">captain</span> for the fourth month <span
+  class="add">was</span> Asahel the brother of Joab, and Zebadiah his son after
+  him: and in his course <span class="add">were</span> twenty and four thousand.
+  </p>
+id: 1CH/27/7
+next:
+  id: 1CH/27/8
+  number: '8'
+previous:
+  id: 1CH/27/6
+  number: '6'
+reference: '1 Chronicles 27:7'

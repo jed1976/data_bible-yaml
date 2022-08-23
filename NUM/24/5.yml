@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 24:5" class="v">5</span>How
+  goodly are thy tents, O Jacob, <span class="add">and</span> thy tabernacles, O
+  Israel! </p>
+id: NUM/24/5
+next:
+  id: NUM/24/6
+  number: '6'
+previous:
+  id: NUM/24/4
+  number: '4'
+reference: 'Numbers 24:5'

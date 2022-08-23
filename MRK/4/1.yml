@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MRK 4:1" class="v">1</span>And he
+  began again to teach by the sea side: and there was gathered unto him a great
+  multitude, so that he entered into a ship, and sat in the sea; and the whole
+  multitude was by the sea on the land. </p>
+id: MRK/4/1
+next:
+  id: MRK/4/2
+  number: '2'
+previous:
+  id: MRK/3/35
+  number: '35'
+reference: 'Mark 4:1'

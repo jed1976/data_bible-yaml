@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 1:13" class="v">13</span>And
+  he was there in the wilderness forty days, tempted of Satan; and was with the
+  wild beasts; and the angels ministered unto him. </p>
+id: MRK/1/13
+next:
+  id: MRK/1/14
+  number: '14'
+previous:
+  id: MRK/1/12
+  number: '12'
+reference: 'Mark 1:13'

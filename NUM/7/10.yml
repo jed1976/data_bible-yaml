@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 7:10" class="v">10</span>¶
+  And the princes offered for dedicating of the altar in the day that it was
+  anointed, even the princes offered their offering before the altar. </p>
+id: NUM/7/10
+next:
+  id: NUM/7/11
+  number: '11'
+previous:
+  id: NUM/7/9
+  number: '9'
+reference: 'Numbers 7:10'

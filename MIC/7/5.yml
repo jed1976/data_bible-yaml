@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 7:5" class="v">5</span>¶
+  Trust ye not in a friend, put ye not confidence in a guide: keep the doors of
+  thy mouth from her that lieth in thy bosom. </p>
+id: MIC/7/5
+next:
+  id: MIC/7/6
+  number: '6'
+previous:
+  id: MIC/7/4
+  number: '4'
+reference: 'Micah 7:5'

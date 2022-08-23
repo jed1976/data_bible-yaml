@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 6:5" class="v">5</span>And he
+  said unto them, <span class="wj">That the Son of man is Lord also of the
+  sabbath.</span> </p>
+id: LUK/6/5
+next:
+  id: LUK/6/6
+  number: '6'
+previous:
+  id: LUK/6/4
+  number: '4'
+reference: 'Luke 6:5'

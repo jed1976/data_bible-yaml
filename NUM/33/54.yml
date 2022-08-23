@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="NUM 33:54"
+  class="v">54</span>And ye shall divide the land by lot for an inheritance
+  among your families: <span class="add">and</span> to the more ye shall give
+  the more inheritance, and to the fewer ye shall give the less inheritance:
+  every man’s <span class="add">inheritance</span> shall be in the place where
+  his lot falleth; according to the tribes of your fathers ye shall inherit.
+  </p>
+id: NUM/33/54
+next:
+  id: NUM/33/55
+  number: '55'
+previous:
+  id: NUM/33/53
+  number: '53'
+reference: 'Numbers 33:54'

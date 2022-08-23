@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 13:25"
+  class="v">25</span>And, behold, men passed by, and saw the carcase cast in the
+  way, and the lion standing by the carcase: and they came and told <span
+  class="add">it</span> in the city where the old prophet dwelt. </p>
+id: 1KI/13/25
+next:
+  id: 1KI/13/26
+  number: '26'
+previous:
+  id: 1KI/13/24
+  number: '24'
+reference: '1 Kings 13:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="TIT 2:9" class="v">9</span><span
+  class="add">Exhort</span> servants to be obedient unto their own masters,
+  <span class="add">and</span> to please <span class="add">them</span> well in
+  all <span class="add">things</span>; not answering again; </p>
+id: TIT/2/9
+next:
+  id: TIT/2/10
+  number: '10'
+previous:
+  id: TIT/2/8
+  number: '8'
+reference: 'Titus 2:9'

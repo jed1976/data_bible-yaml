@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 43:1" class="v">1</span>And
+  the famine <span class="add">was</span> sore in the land. </p>
+id: GEN/43/1
+next:
+  id: GEN/43/2
+  number: '2'
+previous:
+  id: GEN/42/38
+  number: '38'
+reference: 'Genesis 43:1'

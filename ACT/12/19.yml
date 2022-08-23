@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 12:19"
+  class="v">19</span>And when Herod had sought for him, and found him not, he
+  examined the keepers, and commanded that <span class="add">they</span> should
+  be put to death. And he went down from Judæa to Cæsarea, and <span
+  class="add">there</span> abode.</p>
+id: ACT/12/19
+next:
+  id: ACT/12/20
+  number: '20'
+previous:
+  id: ACT/12/18
+  number: '18'
+reference: 'Acts 12:19'

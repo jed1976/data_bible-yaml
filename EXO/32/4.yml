@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 32:4" class="v">4</span>And
+  he received <span class="add">them</span> at their hand, and fashioned it with
+  a graving tool, after he had made it a molten calf: and they said, These <span
+  class="add">be</span> thy gods, O Israel, which brought thee up out of the
+  land of Egypt. </p>
+id: EXO/32/4
+next:
+  id: EXO/32/5
+  number: '5'
+previous:
+  id: EXO/32/3
+  number: '3'
+reference: 'Exodus 32:4'

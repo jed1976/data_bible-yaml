@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 21:5" class="v">5</span>And
+  they answered the king, The man that consumed us, and that devised against us
+  <span class="add">that</span> we should be destroyed from remaining in any of
+  the coasts of Israel, </p>
+id: 2SA/21/5
+next:
+  id: 2SA/21/6
+  number: '6'
+previous:
+  id: 2SA/21/4
+  number: '4'
+reference: '2 Samuel 21:5'

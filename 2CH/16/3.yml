@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 16:3" class="v">3</span><span
+  class="add">There is</span> a league between me and thee, as <span
+  class="add">there was</span> between my father and thy father: behold, I have
+  sent thee silver and gold; go, break thy league with Baasha king of Israel,
+  that he may depart from me. </p>
+id: 2CH/16/3
+next:
+  id: 2CH/16/4
+  number: '4'
+previous:
+  id: 2CH/16/2
+  number: '2'
+reference: '2 Chronicles 16:3'

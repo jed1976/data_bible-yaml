@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 32:11"
+  class="v">11</span>And Moses besought the <span class="nd">LORD</span> his
+  God, and said, <span class="nd">LORD</span>, why doth thy wrath wax hot
+  against thy people, which thou hast brought forth out of the land of Egypt
+  with great power, and with a mighty hand? </p>
+id: EXO/32/11
+next:
+  id: EXO/32/12
+  number: '12'
+previous:
+  id: EXO/32/10
+  number: '10'
+reference: 'Exodus 32:11'

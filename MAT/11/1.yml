@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 11:1" class="v">1</span>And
+  it came to pass, when Jesus had made an end of commanding his twelve
+  disciples, he departed thence to teach and to preach in their cities. </p>
+id: MAT/11/1
+next:
+  id: MAT/11/2
+  number: '2'
+previous:
+  id: MAT/10/42
+  number: '42'
+reference: 'Matthew 11:1'

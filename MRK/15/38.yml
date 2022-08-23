@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MRK 15:38"
+  class="v">38</span>And the veil of the temple was rent in twain from the top
+  to the bottom.</p>
+id: MRK/15/38
+next:
+  id: MRK/15/39
+  number: '39'
+previous:
+  id: MRK/15/37
+  number: '37'
+reference: 'Mark 15:38'

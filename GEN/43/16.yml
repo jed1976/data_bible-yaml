@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 43:16"
+  class="v">16</span>And when Joseph saw Benjamin with them, he said to the
+  ruler of his house, Bring <span class="add">these</span> men home, and slay,
+  and make ready; for <span class="add">these</span> men shall dine with me at
+  noon. </p>
+id: GEN/43/16
+next:
+  id: GEN/43/17
+  number: '17'
+previous:
+  id: GEN/43/15
+  number: '15'
+reference: 'Genesis 43:16'

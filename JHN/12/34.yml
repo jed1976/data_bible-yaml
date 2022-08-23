@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JHN 12:34"
+  class="v">34</span>The people answered him, We have heard out of the law that
+  Christ abideth for ever: and how sayest thou, The Son of man must be lifted
+  up? who is this Son of man? </p>
+id: JHN/12/34
+next:
+  id: JHN/12/35
+  number: '35'
+previous:
+  id: JHN/12/33
+  number: '33'
+reference: 'John 12:34'

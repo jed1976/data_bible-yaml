@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="NUM 7:59" class="v">59</span>And
+  for a sacrifice of peace offerings, two oxen, five rams, five he goats, five
+  lambs of the first year: this <span class="add">was</span> the offering of
+  Gamaliel the son of Pedahzur.</p>
+id: NUM/7/59
+next:
+  id: NUM/7/60
+  number: '60'
+previous:
+  id: NUM/7/58
+  number: '58'
+reference: 'Numbers 7:59'

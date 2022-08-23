@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 7:12" class="v">12</span>And
+  there was much murmuring among the people concerning him: for some said, He is
+  a good man: others said, Nay; but he deceiveth the people. </p>
+id: JHN/7/12
+next:
+  id: JHN/7/13
+  number: '13'
+previous:
+  id: JHN/7/11
+  number: '11'
+reference: 'John 7:12'

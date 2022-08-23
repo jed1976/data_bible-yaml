@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 2:10" class="v">10</span>And
+  he spread it before me; and it <span class="add">was</span> written within and
+  without: and <span class="add">there was</span> written therein lamentations,
+  and mourning, and woe.</p>
+id: EZK/2/10
+next:
+  id: EZK/3/1
+  number: '1'
+previous:
+  id: EZK/2/9
+  number: '9'
+reference: 'Ezekiel 2:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEP 2:8" class="v">8</span>¶ I
+  have heard the reproach of Moab, and the revilings of the children of Ammon,
+  whereby they have reproached my people, and magnified <span
+  class="add">themselves</span> against their border. </p>
+id: ZEP/2/8
+next:
+  id: ZEP/2/9
+  number: '9'
+previous:
+  id: ZEP/2/7
+  number: '7'
+reference: 'Zephaniah 2:8'

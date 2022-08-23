@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 27:5" class="v">5</span>The
+  third captain of the host for the third month <span class="add">was</span>
+  Benaiah the son of Jehoiada, a chief priest: and in his course <span
+  class="add">were</span> twenty and four thousand. </p>
+id: 1CH/27/5
+next:
+  id: 1CH/27/6
+  number: '6'
+previous:
+  id: 1CH/27/4
+  number: '4'
+reference: '1 Chronicles 27:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 8:18"
+  class="v">18</span>Riches and honour <span class="add">are</span> with me;
+  <span class="add">yea</span>, durable riches and righteousness. </p>
+id: PRO/8/18
+next:
+  id: PRO/8/19
+  number: '19'
+previous:
+  id: PRO/8/17
+  number: '17'
+reference: 'Proverbs 8:18'

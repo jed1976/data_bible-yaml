@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 31:24"
+  class="v">24</span>And ye shall wash your clothes on the seventh day, and ye
+  shall be clean, and afterward ye shall come into the camp.</p>
+id: NUM/31/24
+next:
+  id: NUM/31/25
+  number: '25'
+previous:
+  id: NUM/31/23
+  number: '23'
+reference: 'Numbers 31:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 23:24"
+  class="v">24</span>Thou shalt not bow down to their gods, nor serve them, nor
+  do after their works: but thou shalt utterly overthrow them, and quite break
+  down their images. </p>
+id: EXO/23/24
+next:
+  id: EXO/23/25
+  number: '25'
+previous:
+  id: EXO/23/23
+  number: '23'
+reference: 'Exodus 23:24'

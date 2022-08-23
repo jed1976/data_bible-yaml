@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 24:15"
+  class="v">15</span>And if it seem evil unto you to serve the <span
+  class="nd">LORD</span>, choose you this day whom ye will serve; whether the
+  gods which your fathers served that <span class="add">were</span> on the other
+  side of the flood, or the gods of the Amorites, in whose land ye dwell: but as
+  for me and my house, we will serve the <span class="nd">LORD</span>. </p>
+id: JOS/24/15
+next:
+  id: JOS/24/16
+  number: '16'
+previous:
+  id: JOS/24/14
+  number: '14'
+reference: 'Joshua 24:15'

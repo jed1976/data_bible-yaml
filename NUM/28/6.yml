@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 28:6" class="v">6</span><span
+  class="add">It is</span> a continual burnt offering, which was ordained in
+  mount Sinai for a sweet savour, a sacrifice made by fire unto the <span
+  class="nd">LORD</span>. </p>
+id: NUM/28/6
+next:
+  id: NUM/28/7
+  number: '7'
+previous:
+  id: NUM/28/5
+  number: '5'
+reference: 'Numbers 28:6'

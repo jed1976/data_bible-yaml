@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 40:15"
+  class="v">15</span>For indeed I was stolen away out of the land of the
+  Hebrews: and here also have I done nothing that they should put me into the
+  dungeon. </p>
+id: GEN/40/15
+next:
+  id: GEN/40/16
+  number: '16'
+previous:
+  id: GEN/40/14
+  number: '14'
+reference: 'Genesis 40:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 32:8" class="v">8</span>And
+  said, If Esau come to the one company, and smite it, then the other company
+  which is left shall escape.</p>
+id: GEN/32/8
+next:
+  id: GEN/32/9
+  number: '9'
+previous:
+  id: GEN/32/7
+  number: '7'
+reference: 'Genesis 32:8'

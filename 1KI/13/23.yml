@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 13:23" class="v">23</span>¶
+  And it came to pass, after he had eaten bread, and after he had drunk, that he
+  saddled for him the ass, <span class="add">to wit</span>, for the prophet whom
+  he had brought back. </p>
+id: 1KI/13/23
+next:
+  id: 1KI/13/24
+  number: '24'
+previous:
+  id: 1KI/13/22
+  number: '22'
+reference: '1 Kings 13:23'

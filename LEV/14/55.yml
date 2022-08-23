@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LEV 14:55"
+  class="v">55</span>And for the leprosy of a garment, and of a house, </p>
+id: LEV/14/55
+next:
+  id: LEV/14/56
+  number: '56'
+previous:
+  id: LEV/14/54
+  number: '54'
+reference: 'Leviticus 14:55'

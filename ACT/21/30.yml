@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 21:30"
+  class="v">30</span>And all the city was moved, and the people ran together:
+  and they took Paul, and drew him out of the temple: and forthwith the doors
+  were shut. </p>
+id: ACT/21/30
+next:
+  id: ACT/21/31
+  number: '31'
+previous:
+  id: ACT/21/29
+  number: '29'
+reference: 'Acts 21:30'

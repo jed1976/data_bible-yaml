@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ECC 10:20" class="v">20</span>¶
+  Curse not the king, no not in thy thought; and curse not the rich in thy
+  bedchamber: for a bird of the air shall carry the voice, and that which hath
+  wings shall tell the matter.</p>
+id: ECC/10/20
+next:
+  id: ECC/11/1
+  number: '1'
+previous:
+  id: ECC/10/19
+  number: '19'
+reference: 'Ecclesiastes 10:20'

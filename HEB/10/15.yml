@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="HEB 10:15"
+  class="v">15</span><span class="add">Whereof</span> the Holy Ghost also is a
+  witness to us: for after that he had said before, </p>
+id: HEB/10/15
+next:
+  id: HEB/10/16
+  number: '16'
+previous:
+  id: HEB/10/14
+  number: '14'
+reference: 'Hebrews 10:15'

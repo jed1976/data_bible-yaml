@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 4:1" class="v">1</span>Hear,
+  ye children, the instruction of a father, and attend to know understanding.
+  </p>
+id: PRO/4/1
+next:
+  id: PRO/4/2
+  number: '2'
+previous:
+  id: PRO/3/35
+  number: '35'
+reference: 'Proverbs 4:1'

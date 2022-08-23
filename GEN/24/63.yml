@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="63" data-sid="GEN 24:63"
+  class="v">63</span>And Isaac went out to meditate in the field at the
+  eventide: and he lifted up his eyes, and saw, and, behold, the camels <span
+  class="add">were</span> coming. </p>
+id: GEN/24/63
+next:
+  id: GEN/24/64
+  number: '64'
+previous:
+  id: GEN/24/62
+  number: '62'
+reference: 'Genesis 24:63'

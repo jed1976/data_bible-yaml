@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 2:9" class="v">9</span>And
+  Pharaoh’s daughter said unto her, Take this child away, and nurse it for me,
+  and I will give <span class="add">thee</span> thy wages. And the woman took
+  the child, and nursed it. </p>
+id: EXO/2/9
+next:
+  id: EXO/2/10
+  number: '10'
+previous:
+  id: EXO/2/8
+  number: '8'
+reference: 'Exodus 2:9'

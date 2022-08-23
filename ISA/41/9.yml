@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 41:9" class="v">9</span><span
+  class="add">Thou</span> whom I have taken from the ends of the earth, and
+  called thee from the chief men thereof, and said unto thee, Thou <span
+  class="add">art</span> my servant; I have chosen thee, and not cast thee
+  away.</p>
+id: ISA/41/9
+next:
+  id: ISA/41/10
+  number: '10'
+previous:
+  id: ISA/41/8
+  number: '8'
+reference: 'Isaiah 41:9'

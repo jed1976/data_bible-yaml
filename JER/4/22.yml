@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 4:22" class="v">22</span>For
+  my people <span class="add">is</span> foolish, they have not known me; they
+  <span class="add">are</span> sottish children, and they have none
+  understanding: they <span class="add">are</span> wise to do evil, but to do
+  good they have no knowledge. </p>
+id: JER/4/22
+next:
+  id: JER/4/23
+  number: '23'
+previous:
+  id: JER/4/21
+  number: '21'
+reference: 'Jeremiah 4:22'

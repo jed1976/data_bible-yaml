@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 116:11"
+  class="v">11</span>I said in my haste, All men <span class="add">are</span>
+  liars.</p>
+id: PSA/116/11
+next:
+  id: PSA/116/12
+  number: '12'
+previous:
+  id: PSA/116/10
+  number: '10'
+reference: 'Psalms 116:11'

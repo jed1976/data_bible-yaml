@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 16:20" class="v">20</span>¶
+  And when he hath made an end of reconciling the holy <span
+  class="add">place</span>, and the tabernacle of the congregation, and the
+  altar, he shall bring the live goat: </p>
+id: LEV/16/20
+next:
+  id: LEV/16/21
+  number: '21'
+previous:
+  id: LEV/16/19
+  number: '19'
+reference: 'Leviticus 16:20'

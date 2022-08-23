@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DAN 7:19"
+  class="v">19</span>Then I would know the truth of the fourth beast, which was
+  diverse from all the others, exceeding dreadful, whose teeth <span
+  class="add">were of</span> iron, and his nails <span class="add">of</span>
+  brass; <span class="add">which</span> devoured, brake in pieces, and stamped
+  the residue with his feet; </p>
+id: DAN/7/19
+next:
+  id: DAN/7/20
+  number: '20'
+previous:
+  id: DAN/7/18
+  number: '18'
+reference: 'Daniel 7:19'

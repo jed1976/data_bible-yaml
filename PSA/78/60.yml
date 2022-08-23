@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="60" data-sid="PSA 78:60"
+  class="v">60</span>So that he forsook the tabernacle of Shiloh, the tent <span
+  class="add">which</span> he placed among men;</p>
+id: PSA/78/60
+next:
+  id: PSA/78/61
+  number: '61'
+previous:
+  id: PSA/78/59
+  number: '59'
+reference: 'Psalms 78:60'

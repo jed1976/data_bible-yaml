@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 8:1" class="v">1</span>Again
+  the word of the <span class="nd">LORD</span> of hosts came <span
+  class="add">to me</span>, saying, </p>
+id: ZEC/8/1
+next:
+  id: ZEC/8/2
+  number: '2'
+previous:
+  id: ZEC/7/14
+  number: '14'
+reference: 'Zechariah 8:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="OBA 1:20" class="v">20</span>And
+  the captivity of this host of the children of Israel <span class="add">shall
+  possess</span> that of the Canaanites, <span class="add">even</span> unto
+  Zarephath; and the captivity of Jerusalem, which <span class="add">is</span>
+  in Sepharad, shall possess the cities of the south. </p>
+id: OBA/1/20
+next:
+  id: OBA/1/21
+  number: '21'
+previous:
+  id: OBA/1/19
+  number: '19'
+reference: 'Obadiah 1:20'

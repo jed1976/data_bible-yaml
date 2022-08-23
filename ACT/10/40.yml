@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="ACT 10:40"
+  class="v">40</span>Him God raised up the third day, and shewed him openly;
+  </p>
+id: ACT/10/40
+next:
+  id: ACT/10/41
+  number: '41'
+previous:
+  id: ACT/10/39
+  number: '39'
+reference: 'Acts 10:40'

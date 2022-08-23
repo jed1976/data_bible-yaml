@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 50:11"
+  class="v">11</span>And when the inhabitants of the land, the Canaanites, saw
+  the mourning in the floor of Atad, they said, This <span class="add">is</span>
+  a grievous mourning to the Egyptians: wherefore the name of it was called
+  Abel-mizraim, which <span class="add">is</span> beyond Jordan. </p>
+id: GEN/50/11
+next:
+  id: GEN/50/12
+  number: '12'
+previous:
+  id: GEN/50/10
+  number: '10'
+reference: 'Genesis 50:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 10:17" class="v">17</span>¶
+  And when he was gone forth into the way, there came one running, and kneeled
+  to him, and asked him, Good Master, what shall I do that I may inherit eternal
+  life? </p>
+id: MRK/10/17
+next:
+  id: MRK/10/18
+  number: '18'
+previous:
+  id: MRK/10/16
+  number: '16'
+reference: 'Mark 10:17'

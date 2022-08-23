@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 72:13"
+  class="v">13</span>He shall spare the poor and needy, and shall save the souls
+  of the needy.</p>
+id: PSA/72/13
+next:
+  id: PSA/72/14
+  number: '14'
+previous:
+  id: PSA/72/12
+  number: '12'
+reference: 'Psalms 72:13'

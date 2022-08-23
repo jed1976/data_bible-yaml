@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 22:22" class="v">22</span>¶
+  If a man be found lying with a woman married to an husband, then they shall
+  both of them die, <span class="add">both</span> the man that lay with the
+  woman, and the woman: so shalt thou put away evil from Israel.</p>
+id: DEU/22/22
+next:
+  id: DEU/22/23
+  number: '23'
+previous:
+  id: DEU/22/21
+  number: '21'
+reference: 'Deuteronomy 22:22'

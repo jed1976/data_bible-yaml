@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 8:1" class="v">1</span>Doth
+  not wisdom cry? and understanding put forth her voice? </p>
+id: PRO/8/1
+next:
+  id: PRO/8/2
+  number: '2'
+previous:
+  id: PRO/7/27
+  number: '27'
+reference: 'Proverbs 8:1'

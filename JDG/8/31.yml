@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JDG 8:31" class="v">31</span>And
+  his concubine that <span class="add">was</span> in Shechem, she also bare him
+  a son, whose name he called Abimelech.</p>
+id: JDG/8/31
+next:
+  id: JDG/8/32
+  number: '32'
+previous:
+  id: JDG/8/30
+  number: '30'
+reference: 'Judges 8:31'

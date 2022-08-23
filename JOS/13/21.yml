@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 13:21"
+  class="v">21</span>And all the cities of the plain, and all the kingdom of
+  Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with
+  the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, <span
+  class="add">which were</span> dukes of Sihon, dwelling in the country.</p>
+id: JOS/13/21
+next:
+  id: JOS/13/22
+  number: '22'
+previous:
+  id: JOS/13/20
+  number: '20'
+reference: 'Joshua 13:21'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="1KI 8:37" class="v">37</span>¶
+  If there be in the land famine, if there be pestilence, blasting, mildew,
+  locust, <span class="add">or</span> if there be caterpiller; if their enemy
+  besiege them in the land of their cities; whatsoever plague, whatsoever
+  sickness <span class="add">there be;</span> </p>
+id: 1KI/8/37
+next:
+  id: 1KI/8/38
+  number: '38'
+previous:
+  id: 1KI/8/36
+  number: '36'
+reference: '1 Kings 8:37'

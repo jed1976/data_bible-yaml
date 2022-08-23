@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 2:13" class="v">13</span>And
+  upon all the cedars of Lebanon, <span class="add">that are</span> high and
+  lifted up, and upon all the oaks of Bashan, </p>
+id: ISA/2/13
+next:
+  id: ISA/2/14
+  number: '14'
+previous:
+  id: ISA/2/12
+  number: '12'
+reference: 'Isaiah 2:13'

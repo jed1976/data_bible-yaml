@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 22:32"
+  class="v">32</span>Neither shall ye profane my holy name; but I will be
+  hallowed among the children of Israel: I <span class="add">am</span> the <span
+  class="nd">LORD</span> which hallow you, </p>
+id: LEV/22/32
+next:
+  id: LEV/22/33
+  number: '33'
+previous:
+  id: LEV/22/31
+  number: '31'
+reference: 'Leviticus 22:32'

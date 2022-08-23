@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 17:5" class="v">5</span>He
+  took also of the seed of the land, and planted it in a fruitful field; he
+  placed <span class="add">it</span> by great waters, <span
+  class="add">and</span> set it <span class="add">as</span> a willow tree. </p>
+id: EZK/17/5
+next:
+  id: EZK/17/6
+  number: '6'
+previous:
+  id: EZK/17/4
+  number: '4'
+reference: 'Ezekiel 17:5'

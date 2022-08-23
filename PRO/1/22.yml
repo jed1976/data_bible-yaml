@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 1:22" class="v">22</span>How
+  long, ye simple ones, will ye love simplicity? and the scorners delight in
+  their scorning, and fools hate knowledge? </p>
+id: PRO/1/22
+next:
+  id: PRO/1/23
+  number: '23'
+previous:
+  id: PRO/1/21
+  number: '21'
+reference: 'Proverbs 1:22'

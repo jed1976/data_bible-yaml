@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 32:10"
+  class="v">10</span>Thus saith Sennacherib king of Assyria, Whereon do ye
+  trust, that ye abide in the siege in Jerusalem? </p>
+id: 2CH/32/10
+next:
+  id: 2CH/32/11
+  number: '11'
+previous:
+  id: 2CH/32/9
+  number: '9'
+reference: '2 Chronicles 32:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="NUM 1:51" class="v">51</span>And
+  when the tabernacle setteth forward, the Levites shall take it down: and when
+  the tabernacle is to be pitched, the Levites shall set it up: and the stranger
+  that cometh nigh shall be put to death. </p>
+id: NUM/1/51
+next:
+  id: NUM/1/52
+  number: '52'
+previous:
+  id: NUM/1/50
+  number: '50'
+reference: 'Numbers 1:51'

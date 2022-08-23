@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 4:11"
+  class="v">11</span>Thou shalt drink also water by measure, the sixth part of
+  an hin: from time to time shalt thou drink. </p>
+id: EZK/4/11
+next:
+  id: EZK/4/12
+  number: '12'
+previous:
+  id: EZK/4/10
+  number: '10'
+reference: 'Ezekiel 4:11'

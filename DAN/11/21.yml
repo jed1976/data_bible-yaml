@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DAN 11:21"
+  class="v">21</span>And in his estate shall stand up a vile person, to whom
+  they shall not give the honour of the kingdom: but he shall come in peaceably,
+  and obtain the kingdom by flatteries. </p>
+id: DAN/11/21
+next:
+  id: DAN/11/22
+  number: '22'
+previous:
+  id: DAN/11/20
+  number: '20'
+reference: 'Daniel 11:21'

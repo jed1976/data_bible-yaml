@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 36:3" class="v">3</span>And
+  if they be married to any of the sons of the <span class="add">other</span>
+  tribes of the children of Israel, then shall their inheritance be taken from
+  the inheritance of our fathers, and shall be put to the inheritance of the
+  tribe whereunto they are received: so shall it be taken from the lot of our
+  inheritance. </p>
+id: NUM/36/3
+next:
+  id: NUM/36/4
+  number: '4'
+previous:
+  id: NUM/36/2
+  number: '2'
+reference: 'Numbers 36:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 14:21"
+  class="v">21</span><span class="wj">The Son of man indeed goeth, as it is
+  written of him: but woe to that man by whom the Son of man is betrayed! good
+  were it for that man if he had never been born.</span></p>
+id: MRK/14/21
+next:
+  id: MRK/14/22
+  number: '22'
+previous:
+  id: MRK/14/20
+  number: '20'
+reference: 'Mark 14:21'

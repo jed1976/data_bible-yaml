@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1KI 11:4" class="v">4</span>For
+  it came to pass, when Solomon was old, <span class="add">that</span> his wives
+  turned away his heart after other gods: and his heart was not perfect with the
+  <span class="nd">LORD</span> his God, as <span class="add">was</span> the
+  heart of David his father. </p>
+id: 1KI/11/4
+next:
+  id: 1KI/11/5
+  number: '5'
+previous:
+  id: 1KI/11/3
+  number: '3'
+reference: '1 Kings 11:4'

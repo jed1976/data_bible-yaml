@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 11:14"
+  class="v">14</span>That I will give <span class="add">you</span> the rain of
+  your land in his due season, the first rain and the latter rain, that thou
+  mayest gather in thy corn, and thy wine, and thine oil. </p>
+id: DEU/11/14
+next:
+  id: DEU/11/15
+  number: '15'
+previous:
+  id: DEU/11/13
+  number: '13'
+reference: 'Deuteronomy 11:14'

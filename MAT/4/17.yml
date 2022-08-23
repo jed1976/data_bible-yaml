@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 4:17" class="v">17</span>¶
+  From that time Jesus began to preach, and to say, <span class="wj">Repent: for
+  the kingdom of heaven is at hand.</span></p>
+id: MAT/4/17
+next:
+  id: MAT/4/18
+  number: '18'
+previous:
+  id: MAT/4/16
+  number: '16'
+reference: 'Matthew 4:17'

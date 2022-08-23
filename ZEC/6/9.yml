@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 6:9" class="v">9</span>¶ And
+  the word of the <span class="nd">LORD</span> came unto me, saying, </p>
+id: ZEC/6/9
+next:
+  id: ZEC/6/10
+  number: '10'
+previous:
+  id: ZEC/6/8
+  number: '8'
+reference: 'Zechariah 6:9'

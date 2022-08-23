@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 7:7"
+  class="v">7</span>Wherefore neither thought I myself worthy to come unto thee:
+  but say in a word, and my servant shall be healed. </p>
+id: LUK/7/7
+next:
+  id: LUK/7/8
+  number: '8'
+previous:
+  id: LUK/7/6
+  number: '6'
+reference: 'Luke 7:7'

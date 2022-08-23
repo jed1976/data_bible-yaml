@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="43" data-sid="PSA 89:43"
+  class="v">43</span>Thou hast also turned the edge of his sword, and hast not
+  made him to stand in the battle.</p>
+id: PSA/89/43
+next:
+  id: PSA/89/44
+  number: '44'
+previous:
+  id: PSA/89/42
+  number: '42'
+reference: 'Psalms 89:43'

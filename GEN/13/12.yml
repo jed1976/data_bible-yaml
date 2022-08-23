@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 13:12"
+  class="v">12</span>Abram dwelled in the land of Canaan, and Lot dwelled in the
+  cities of the plain, and pitched <span class="add">his</span> tent toward
+  Sodom. </p>
+id: GEN/13/12
+next:
+  id: GEN/13/13
+  number: '13'
+previous:
+  id: GEN/13/11
+  number: '11'
+reference: 'Genesis 13:12'

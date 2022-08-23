@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="DEU 4:39"
+  class="v">39</span>Know therefore this day, and consider <span
+  class="add">it</span> in thine heart, that the <span class="nd">LORD</span> he
+  <span class="add">is</span> God in heaven above, and upon the earth beneath:
+  <span class="add">there is</span> none else. </p>
+id: DEU/4/39
+next:
+  id: DEU/4/40
+  number: '40'
+previous:
+  id: DEU/4/38
+  number: '38'
+reference: 'Deuteronomy 4:39'

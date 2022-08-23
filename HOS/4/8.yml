@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 4:8" class="v">8</span>They
+  eat up the sin of my people, and they set their heart on their iniquity. </p>
+id: HOS/4/8
+next:
+  id: HOS/4/9
+  number: '9'
+previous:
+  id: HOS/4/7
+  number: '7'
+reference: 'Hosea 4:8'

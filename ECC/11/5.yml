@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 11:5" class="v">5</span>As
+  thou knowest not what <span class="add">is</span> the way of the spirit, <span
+  class="add">nor</span> how the bones <span class="add">do grow</span> in the
+  womb of her that is with child: even so thou knowest not the works of God who
+  maketh all. </p>
+id: ECC/11/5
+next:
+  id: ECC/11/6
+  number: '6'
+previous:
+  id: ECC/11/4
+  number: '4'
+reference: 'Ecclesiastes 11:5'

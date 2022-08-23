@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 43:7" class="v">7</span>And
+  they said, The man asked us straitly of our state, and of our kindred, saying,
+  <span class="add">Is</span> your father yet alive? have ye <span
+  class="add">another</span> brother? and we told him according to the tenor of
+  these words: could we certainly know that he would say, Bring your brother
+  down? </p>
+id: GEN/43/7
+next:
+  id: GEN/43/8
+  number: '8'
+previous:
+  id: GEN/43/6
+  number: '6'
+reference: 'Genesis 43:7'

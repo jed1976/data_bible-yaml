@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 29:22"
+  class="v">22</span>And of them shall be taken up a curse by all the captivity
+  of Judah which <span class="add">are</span> in Babylon, saying, The <span
+  class="nd">LORD</span> make thee like Zedekiah and like Ahab, whom the king of
+  Babylon roasted in the fire; </p>
+id: JER/29/22
+next:
+  id: JER/29/23
+  number: '23'
+previous:
+  id: JER/29/21
+  number: '21'
+reference: 'Jeremiah 29:22'

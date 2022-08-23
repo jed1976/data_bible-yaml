@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NEH 11:15"
+  class="v">15</span>Also of the Levites: Shemaiah the son of Hashub, the son of
+  Azrikam, the son of Hashabiah, the son of Bunni; </p>
+id: NEH/11/15
+next:
+  id: NEH/11/16
+  number: '16'
+previous:
+  id: NEH/11/14
+  number: '14'
+reference: 'Nehemiah 11:15'

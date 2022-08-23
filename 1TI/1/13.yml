@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="1TI 1:13" class="v">13</span>Who
+  was before a blasphemer, and a persecutor, and injurious: but I obtained
+  mercy, because I did <span class="add">it</span> ignorantly in unbelief. </p>
+id: 1TI/1/13
+next:
+  id: 1TI/1/14
+  number: '14'
+previous:
+  id: 1TI/1/12
+  number: '12'
+reference: '1 Timothy 1:13'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 2:23" class="v">23</span>¶
+  So the two men returned, and descended from the mountain, and passed over, and
+  came to Joshua the son of Nun, and told him all <span
+  class="add">things</span> that befell them: </p>
+id: JOS/2/23
+next:
+  id: JOS/2/24
+  number: '24'
+previous:
+  id: JOS/2/22
+  number: '22'
+reference: 'Joshua 2:23'

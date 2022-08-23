@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 17:3" class="v">3</span>Get
+  thee hence, and turn thee eastward, and hide thyself by the brook Cherith,
+  that <span class="add">is</span> before Jordan. </p>
+id: 1KI/17/3
+next:
+  id: 1KI/17/4
+  number: '4'
+previous:
+  id: 1KI/17/2
+  number: '2'
+reference: '1 Kings 17:3'

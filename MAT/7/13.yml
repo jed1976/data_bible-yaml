@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 7:13"
+  class="v">13</span><span class="wj">¶ Enter ye in at the strait gate: for wide
+  <span class="add">is</span> the gate, and broad <span class="add">is</span>
+  the way, that leadeth to destruction, and many there be which go in
+  thereat:</span> </p>
+id: MAT/7/13
+next:
+  id: MAT/7/14
+  number: '14'
+previous:
+  id: MAT/7/12
+  number: '12'
+reference: 'Matthew 7:13'

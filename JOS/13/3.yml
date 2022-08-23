@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 13:3" class="v">3</span>From
+  Sihor, which <span class="add">is</span> before Egypt, even unto the borders
+  of Ekron northward, <span class="add">which</span> is counted to the
+  Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites,
+  the Eshkalonites, the Gittites, and the Ekronites; also the Avites: </p>
+id: JOS/13/3
+next:
+  id: JOS/13/4
+  number: '4'
+previous:
+  id: JOS/13/2
+  number: '2'
+reference: 'Joshua 13:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 15:22"
+  class="v">22</span><span class="wj">But the father said to his servants, Bring
+  forth the best robe, and put <span class="add">it</span> on him; and put a
+  ring on his hand, and shoes on <span class="add">his</span> feet:</span> </p>
+id: LUK/15/22
+next:
+  id: LUK/15/23
+  number: '23'
+previous:
+  id: LUK/15/21
+  number: '21'
+reference: 'Luke 15:22'

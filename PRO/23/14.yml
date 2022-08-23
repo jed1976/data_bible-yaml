@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 23:14"
+  class="v">14</span>Thou shalt beat him with the rod, and shalt deliver his
+  soul from hell. </p>
+id: PRO/23/14
+next:
+  id: PRO/23/15
+  number: '15'
+previous:
+  id: PRO/23/13
+  number: '13'
+reference: 'Proverbs 23:14'

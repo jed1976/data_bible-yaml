@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LAM 1:16" class="v">16</span>For
+  these <span class="add">things</span> I weep; mine eye, mine eye runneth down
+  with water, because the comforter that should relieve my soul is far from me:
+  my children are desolate, because the enemy prevailed. </p>
+id: LAM/1/16
+next:
+  id: LAM/1/17
+  number: '17'
+previous:
+  id: LAM/1/15
+  number: '15'
+reference: 'Lamentations 1:16'

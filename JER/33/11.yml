@@ -1,0 +1,18 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JER 33:11"
+  class="v">11</span>The voice of joy, and the voice of gladness, the voice of
+  the bridegroom, and the voice of the bride, the voice of them that shall say,
+  Praise the <span class="nd">LORD</span> of hosts: for the <span
+  class="nd">LORD</span> <span class="add">is</span> good; for his mercy <span
+  class="add">endureth</span> for ever: <span class="add">and</span> of them
+  that shall bring the sacrifice of praise into the house of the <span
+  class="nd">LORD</span>. For I will cause to return the captivity of the land,
+  as at the first, saith the <span class="nd">LORD</span>. </p>
+id: JER/33/11
+next:
+  id: JER/33/12
+  number: '12'
+previous:
+  id: JER/33/10
+  number: '10'
+reference: 'Jeremiah 33:11'

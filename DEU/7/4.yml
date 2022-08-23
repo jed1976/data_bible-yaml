@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 7:4" class="v">4</span>For
+  they will turn away thy son from following me, that they may serve other gods:
+  so will the anger of the <span class="nd">LORD</span> be kindled against you,
+  and destroy thee suddenly. </p>
+id: DEU/7/4
+next:
+  id: DEU/7/5
+  number: '5'
+previous:
+  id: DEU/7/3
+  number: '3'
+reference: 'Deuteronomy 7:4'

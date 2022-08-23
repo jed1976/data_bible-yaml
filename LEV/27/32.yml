@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 27:32"
+  class="v">32</span>And concerning the tithe of the herd, or of the flock,
+  <span class="add">even</span> of whatsoever passeth under the rod, the tenth
+  shall be holy unto the <span class="nd">LORD</span>. </p>
+id: LEV/27/32
+next:
+  id: LEV/27/33
+  number: '33'
+previous:
+  id: LEV/27/31
+  number: '31'
+reference: 'Leviticus 27:32'

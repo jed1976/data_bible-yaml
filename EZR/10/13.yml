@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EZR 10:13"
+  class="v">13</span>But the people <span class="add">are</span> many, and <span
+  class="add">it is</span> a time of much rain, and we are not able to stand
+  without, neither <span class="add">is this</span> a work of one day or two:
+  for we are many that have transgressed in this thing. </p>
+id: EZR/10/13
+next:
+  id: EZR/10/14
+  number: '14'
+previous:
+  id: EZR/10/12
+  number: '12'
+reference: 'Ezra 10:13'

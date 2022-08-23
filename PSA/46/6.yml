@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 46:6"
+  class="v">6</span>The heathen raged, the kingdoms were moved: he uttered his
+  voice, the earth melted.</p>
+id: PSA/46/6
+next:
+  id: PSA/46/7
+  number: '7'
+previous:
+  id: PSA/46/5
+  number: '5'
+reference: 'Psalms 46:6'

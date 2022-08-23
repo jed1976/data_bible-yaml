@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="DEU 31:2" class="v">2</span>And
+  he said unto them, I <span class="add">am</span> an hundred and twenty years
+  old this day; I can no more go out and come in: also the <span
+  class="nd">LORD</span> hath said unto me, Thou shalt not go over this Jordan.
+  </p>
+id: DEU/31/2
+next:
+  id: DEU/31/3
+  number: '3'
+previous:
+  id: DEU/31/1
+  number: '1'
+reference: 'Deuteronomy 31:2'

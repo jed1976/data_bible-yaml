@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ROM 15:32"
+  class="v">32</span>That I may come unto you with joy by the will of God, and
+  may with you be refreshed. </p>
+id: ROM/15/32
+next:
+  id: ROM/15/33
+  number: '33'
+previous:
+  id: ROM/15/31
+  number: '31'
+reference: 'Romans 15:32'

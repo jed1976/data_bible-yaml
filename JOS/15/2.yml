@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JOS 15:2" class="v">2</span>And
+  their south border was from the shore of the salt sea, from the bay that
+  looketh southward: </p>
+id: JOS/15/2
+next:
+  id: JOS/15/3
+  number: '3'
+previous:
+  id: JOS/15/1
+  number: '1'
+reference: 'Joshua 15:2'

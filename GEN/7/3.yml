@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 7:3" class="v">3</span>Of
+  fowls also of the air by sevens, the male and the female; to keep seed alive
+  upon the face of all the earth. </p>
+id: GEN/7/3
+next:
+  id: GEN/7/4
+  number: '4'
+previous:
+  id: GEN/7/2
+  number: '2'
+reference: 'Genesis 7:3'

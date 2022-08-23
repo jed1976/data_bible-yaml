@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 2:4" class="v">4</span>And
+  when they could not come nigh unto him for the press, they uncovered the roof
+  where he was: and when they had broken <span class="add">it</span> up, they
+  let down the bed wherein the sick of the palsy lay. </p>
+id: MRK/2/4
+next:
+  id: MRK/2/5
+  number: '5'
+previous:
+  id: MRK/2/3
+  number: '3'
+reference: 'Mark 2:4'

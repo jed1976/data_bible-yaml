@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 8:1" class="v">1</span>And it
+  came to pass in the sixth year, in the sixth <span class="add">month</span>,
+  in the fifth <span class="add">day</span> of the month, <span
+  class="add">as</span> I sat in mine house, and the elders of Judah sat before
+  me, that the hand of the Lord <span class="nd">GOD</span> fell there upon me.
+  </p>
+id: EZK/8/1
+next:
+  id: EZK/8/2
+  number: '2'
+previous:
+  id: EZK/7/27
+  number: '27'
+reference: 'Ezekiel 8:1'

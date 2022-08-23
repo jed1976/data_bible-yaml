@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 23:6" class="v">6</span><span
+  class="wj">And love the uppermost rooms at feasts, and the chief seats in the
+  synagogues,</span> </p>
+id: MAT/23/6
+next:
+  id: MAT/23/7
+  number: '7'
+previous:
+  id: MAT/23/5
+  number: '5'
+reference: 'Matthew 23:6'

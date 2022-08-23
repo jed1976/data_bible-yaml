@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="AMO 3:5" class="v">5</span>Can a
+  bird fall in a snare upon the earth, where no gin <span class="add">is</span>
+  for him? shall <span class="add">one</span> take up a snare from the earth,
+  and have taken nothing at all? </p>
+id: AMO/3/5
+next:
+  id: AMO/3/6
+  number: '6'
+previous:
+  id: AMO/3/4
+  number: '4'
+reference: 'Amos 3:5'

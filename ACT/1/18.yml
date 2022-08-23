@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 1:18" class="v">18</span>Now
+  this man purchased a field with the reward of iniquity; and falling headlong,
+  he burst asunder in the midst, and all his bowels gushed out. </p>
+id: ACT/1/18
+next:
+  id: ACT/1/19
+  number: '19'
+previous:
+  id: ACT/1/17
+  number: '17'
+reference: 'Acts 1:18'

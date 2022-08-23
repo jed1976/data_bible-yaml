@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 69:3" class="v">3</span>I am
+  weary of my crying: my throat is dried: mine eyes fail while I wait for my
+  God.</p>
+id: PSA/69/3
+next:
+  id: PSA/69/4
+  number: '4'
+previous:
+  id: PSA/69/2
+  number: '2'
+reference: 'Psalms 69:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 81:4" class="v">4</span>For
+  this <span class="add">was</span> a statute for Israel, <span
+  class="add">and</span> a law of the God of Jacob.</p>
+id: PSA/81/4
+next:
+  id: PSA/81/5
+  number: '5'
+previous:
+  id: PSA/81/3
+  number: '3'
+reference: 'Psalms 81:4'

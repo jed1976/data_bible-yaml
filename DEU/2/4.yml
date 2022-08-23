@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 2:4" class="v">4</span>And
+  command thou the people, saying, Ye <span class="add">are</span> to pass
+  through the coast of your brethren the children of Esau, which dwell in Seir;
+  and they shall be afraid of you: take ye good heed unto yourselves therefore:
+  </p>
+id: DEU/2/4
+next:
+  id: DEU/2/5
+  number: '5'
+previous:
+  id: DEU/2/3
+  number: '3'
+reference: 'Deuteronomy 2:4'

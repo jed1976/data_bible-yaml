@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 5:3" class="v">3</span>And
+  she said unto her mistress, Would God my lord <span class="add">were</span>
+  with the prophet that <span class="add">is</span> in Samaria! for he would
+  recover him of his leprosy. </p>
+id: 2KI/5/3
+next:
+  id: 2KI/5/4
+  number: '4'
+previous:
+  id: 2KI/5/2
+  number: '2'
+reference: '2 Kings 5:3'

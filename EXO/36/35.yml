@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 36:35" class="v">35</span>¶
+  And he made a vail <span class="add">of</span> blue, and purple, and scarlet,
+  and fine twined linen: <span class="add">with</span> cherubims made he it of
+  cunning work. </p>
+id: EXO/36/35
+next:
+  id: EXO/36/36
+  number: '36'
+previous:
+  id: EXO/36/34
+  number: '34'
+reference: 'Exodus 36:35'

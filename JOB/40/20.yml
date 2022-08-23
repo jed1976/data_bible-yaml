@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 40:20"
+  class="v">20</span>Surely the mountains bring him forth food, where all the
+  beasts of the field play. </p>
+id: JOB/40/20
+next:
+  id: JOB/40/21
+  number: '21'
+previous:
+  id: JOB/40/19
+  number: '19'
+reference: 'Job 40:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JDG 20:42"
+  class="v">42</span>Therefore they turned <span class="add">their backs</span>
+  before the men of Israel unto the way of the wilderness; but the battle
+  overtook them; and them which <span class="add">came</span> out of the cities
+  they destroyed in the midst of them. </p>
+id: JDG/20/42
+next:
+  id: JDG/20/43
+  number: '43'
+previous:
+  id: JDG/20/41
+  number: '41'
+reference: 'Judges 20:42'

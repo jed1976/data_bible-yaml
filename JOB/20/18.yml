@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 20:18"
+  class="v">18</span>That which he laboured for shall he restore, and shall not
+  swallow <span class="add">it</span> down: according to <span
+  class="add">his</span> substance <span class="add">shall</span> the
+  restitution <span class="add">be</span>, and he shall not rejoice <span
+  class="add">therein</span>. </p>
+id: JOB/20/18
+next:
+  id: JOB/20/19
+  number: '19'
+previous:
+  id: JOB/20/17
+  number: '17'
+reference: 'Job 20:18'

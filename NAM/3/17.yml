@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NAM 3:17" class="v">17</span>Thy
+  crowned <span class="add">are</span> as the locusts, and thy captains as the
+  great grasshoppers, which camp in the hedges in the cold day, <span
+  class="add">but</span> when the sun ariseth they flee away, and their place is
+  not known where they <span class="add">are</span>. </p>
+id: NAM/3/17
+next:
+  id: NAM/3/18
+  number: '18'
+previous:
+  id: NAM/3/16
+  number: '16'
+reference: 'Nahum 3:17'

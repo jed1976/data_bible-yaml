@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PHP 1:10"
+  class="v">10</span>That ye may approve things that are excellent; that ye may
+  be sincere and without offence till the day of Christ; </p>
+id: PHP/1/10
+next:
+  id: PHP/1/11
+  number: '11'
+previous:
+  id: PHP/1/9
+  number: '9'
+reference: 'Philippians 1:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 10:7" class="v">7</span>And
+  let it be, when these signs are come unto thee, <span class="add">that</span>
+  thou do as occasion serve thee; for God <span class="add">is</span> with thee.
+  </p>
+id: 1SA/10/7
+next:
+  id: 1SA/10/8
+  number: '8'
+previous:
+  id: 1SA/10/6
+  number: '6'
+reference: '1 Samuel 10:7'

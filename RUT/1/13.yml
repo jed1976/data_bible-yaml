@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="RUT 1:13"
+  class="v">13</span>Would ye tarry for them till they were grown? would ye stay
+  for them from having husbands? nay, my daughters; for it grieveth me much for
+  your sakes that the hand of the <span class="nd">LORD</span> is gone out
+  against me. </p>
+id: RUT/1/13
+next:
+  id: RUT/1/14
+  number: '14'
+previous:
+  id: RUT/1/12
+  number: '12'
+reference: 'Ruth 1:13'

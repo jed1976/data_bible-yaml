@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 23:8" class="v">8</span>But
+  ye shall offer an offering made by fire unto the <span class="nd">LORD</span>
+  seven days: in the seventh day <span class="add">is</span> an holy
+  convocation: ye shall do no servile work <span class="add">therein</span>.</p>
+id: LEV/23/8
+next:
+  id: LEV/23/9
+  number: '9'
+previous:
+  id: LEV/23/7
+  number: '7'
+reference: 'Leviticus 23:8'

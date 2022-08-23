@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 59:4" class="v">4</span>They
+  run and prepare themselves without <span class="add">my</span> fault: awake to
+  help me, and behold.</p>
+id: PSA/59/4
+next:
+  id: PSA/59/5
+  number: '5'
+previous:
+  id: PSA/59/3
+  number: '3'
+reference: 'Psalms 59:4'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 36:3" class="v">3</span>And
+  Bashemath Ishmael’s daughter, sister of Nebajoth. </p>
+id: GEN/36/3
+next:
+  id: GEN/36/4
+  number: '4'
+previous:
+  id: GEN/36/2
+  number: '2'
+reference: 'Genesis 36:3'

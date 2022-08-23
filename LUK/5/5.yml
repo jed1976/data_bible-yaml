@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 5:5" class="v">5</span>And
+  Simon answering said unto him, Master, we have toiled all the night, and have
+  taken nothing: nevertheless at thy word I will let down the net. </p>
+id: LUK/5/5
+next:
+  id: LUK/5/6
+  number: '6'
+previous:
+  id: LUK/5/4
+  number: '4'
+reference: 'Luke 5:5'

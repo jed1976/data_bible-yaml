@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 28:6" class="v">6</span>¶
+  When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram,
+  to take him a wife from thence; and that as he blessed him he gave him a
+  charge, saying, Thou shalt not take a wife of the daughters of Canaan; </p>
+id: GEN/28/6
+next:
+  id: GEN/28/7
+  number: '7'
+previous:
+  id: GEN/28/5
+  number: '5'
+reference: 'Genesis 28:6'

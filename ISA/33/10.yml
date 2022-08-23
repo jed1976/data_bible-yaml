@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 33:10"
+  class="v">10</span>Now will I rise, saith the <span class="nd">LORD</span>;
+  now will I be exalted; now will I lift up myself. </p>
+id: ISA/33/10
+next:
+  id: ISA/33/11
+  number: '11'
+previous:
+  id: ISA/33/9
+  number: '9'
+reference: 'Isaiah 33:10'

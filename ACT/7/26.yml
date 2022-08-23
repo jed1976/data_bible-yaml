@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 7:26" class="v">26</span>And
+  the next day he shewed himself unto them as they strove, and would have set
+  them at one again, saying, Sirs, ye are brethren; why do ye wrong one to
+  another? </p>
+id: ACT/7/26
+next:
+  id: ACT/7/27
+  number: '27'
+previous:
+  id: ACT/7/25
+  number: '25'
+reference: 'Acts 7:26'

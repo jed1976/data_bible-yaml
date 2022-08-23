@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 9:4" class="v">4</span>For
+  thou hast broken the yoke of his burden, and the staff of his shoulder, the
+  rod of his oppressor, as in the day of Midian. </p>
+id: ISA/9/4
+next:
+  id: ISA/9/5
+  number: '5'
+previous:
+  id: ISA/9/3
+  number: '3'
+reference: 'Isaiah 9:4'

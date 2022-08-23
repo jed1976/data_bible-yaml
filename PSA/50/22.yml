@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 50:22"
+  class="v">22</span>Now consider this, ye that forget God, lest I tear <span
+  class="add">you</span> in pieces, and <span class="add">there be</span> none
+  to deliver.</p>
+id: PSA/50/22
+next:
+  id: PSA/50/23
+  number: '23'
+previous:
+  id: PSA/50/21
+  number: '21'
+reference: 'Psalms 50:22'

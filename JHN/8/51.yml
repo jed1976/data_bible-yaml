@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="JHN 8:51"
+  class="v">51</span><span class="wj">Verily, verily, I say unto you, If a man
+  keep my saying, he shall never see death.</span> </p>
+id: JHN/8/51
+next:
+  id: JHN/8/52
+  number: '52'
+previous:
+  id: JHN/8/50
+  number: '50'
+reference: 'John 8:51'

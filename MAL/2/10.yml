@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAL 2:10"
+  class="v">10</span>Have we not all one father? hath not one God created us?
+  why do we deal treacherously every man against his brother, by profaning the
+  covenant of our fathers?</p>
+id: MAL/2/10
+next:
+  id: MAL/2/11
+  number: '11'
+previous:
+  id: MAL/2/9
+  number: '9'
+reference: 'Malachi 2:10'

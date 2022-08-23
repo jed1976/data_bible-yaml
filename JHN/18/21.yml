@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 18:21"
+  class="v">21</span><span class="wj">Why askest thou me? ask them which heard
+  me, what I have said unto them: behold, they know what I said.</span> </p>
+id: JHN/18/21
+next:
+  id: JHN/18/22
+  number: '22'
+previous:
+  id: JHN/18/20
+  number: '20'
+reference: 'John 18:21'

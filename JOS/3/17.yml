@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOS 3:17" class="v">17</span>And
+  the priests that bare the ark of the covenant of the <span
+  class="nd">LORD</span> stood firm on dry ground in the midst of Jordan, and
+  all the Israelites passed over on dry ground, until all the people were passed
+  clean over Jordan.</p>
+id: JOS/3/17
+next:
+  id: JOS/4/1
+  number: '1'
+previous:
+  id: JOS/3/16
+  number: '16'
+reference: 'Joshua 3:17'

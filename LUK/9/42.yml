@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 9:42" class="v">42</span>And
+  as he was yet a coming, the devil threw him down, and tare <span
+  class="add">him</span>. And Jesus rebuked the unclean spirit, and healed the
+  child, and delivered him again to his father.</p>
+id: LUK/9/42
+next:
+  id: LUK/9/43
+  number: '43'
+previous:
+  id: LUK/9/41
+  number: '41'
+reference: 'Luke 9:42'

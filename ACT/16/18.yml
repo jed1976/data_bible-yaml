@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 16:18"
+  class="v">18</span>And this did she many days. But Paul, being grieved, turned
+  and said to the spirit, I command thee in the name of Jesus Christ to come out
+  of her. And he came out the same hour.</p>
+id: ACT/16/18
+next:
+  id: ACT/16/19
+  number: '19'
+previous:
+  id: ACT/16/17
+  number: '17'
+reference: 'Acts 16:18'

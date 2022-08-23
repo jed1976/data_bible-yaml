@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 104:2" class="v">2</span>Who
+  coverest <span class="add">thyself</span> with light as <span
+  class="add">with</span> a garment: who stretchest out the heavens like a
+  curtain:</p>
+id: PSA/104/2
+next:
+  id: PSA/104/3
+  number: '3'
+previous:
+  id: PSA/104/1
+  number: '1'
+reference: 'Psalms 104:2'

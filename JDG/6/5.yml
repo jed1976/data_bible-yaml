@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 6:5" class="v">5</span>For
+  they came up with their cattle and their tents, and they came as grasshoppers
+  for multitude; <span class="add">for</span> both they and their camels were
+  without number: and they entered into the land to destroy it. </p>
+id: JDG/6/5
+next:
+  id: JDG/6/6
+  number: '6'
+previous:
+  id: JDG/6/4
+  number: '4'
+reference: 'Judges 6:5'

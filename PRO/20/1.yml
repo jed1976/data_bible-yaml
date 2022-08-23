@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 20:1" class="v">1</span>Wine
+  <span class="add">is</span> a mocker, strong drink <span class="add">is</span>
+  raging: and whosoever is deceived thereby is not wise. </p>
+id: PRO/20/1
+next:
+  id: PRO/20/2
+  number: '2'
+previous:
+  id: PRO/19/29
+  number: '29'
+reference: 'Proverbs 20:1'

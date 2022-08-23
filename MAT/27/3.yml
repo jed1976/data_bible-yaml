@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 27:3" class="v">3</span>¶
+  Then Judas, which had betrayed him, when he saw that he was condemned,
+  repented himself, and brought again the thirty pieces of silver to the chief
+  priests and elders, </p>
+id: MAT/27/3
+next:
+  id: MAT/27/4
+  number: '4'
+previous:
+  id: MAT/27/2
+  number: '2'
+reference: 'Matthew 27:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 5:1" class="v">1</span>And
+  Hiram king of Tyre sent his servants unto Solomon; for he had heard that they
+  had anointed him king in the room of his father: for Hiram was ever a lover of
+  David. </p>
+id: 1KI/5/1
+next:
+  id: 1KI/5/2
+  number: '2'
+previous:
+  id: 1KI/4/34
+  number: '34'
+reference: '1 Kings 5:1'

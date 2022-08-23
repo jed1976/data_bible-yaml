@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician on Neginoth upon Sheminith, A Psalm of
+  David.</p><p class="q1"><span data-number="1" data-sid="PSA 6:1"
+  class="v">1</span>O <span class="nd">LORD</span>, rebuke me not in thine
+  anger, neither chasten me in thy hot displeasure.</p>
+id: PSA/6/1
+next:
+  id: PSA/6/2
+  number: '2'
+previous:
+  id: PSA/5/12
+  number: '12'
+reference: 'Psalms 6:1'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NEH 6:16" class="v">16</span>And
+  it came to pass, that when all our enemies heard <span
+  class="add">thereof</span>, and all the heathen that <span
+  class="add">were</span> about us saw <span class="add">these things</span>,
+  they were much cast down in their own eyes: for they perceived that this work
+  was wrought of our God.</p>
+id: NEH/6/16
+next:
+  id: NEH/6/17
+  number: '17'
+previous:
+  id: NEH/6/15
+  number: '15'
+reference: 'Nehemiah 6:16'

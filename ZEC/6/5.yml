@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ZEC 6:5" class="v">5</span>And
+  the angel answered and said unto me, These <span class="add">are</span> the
+  four spirits of the heavens, which go forth from standing before the Lord of
+  all the earth. </p>
+id: ZEC/6/5
+next:
+  id: ZEC/6/6
+  number: '6'
+previous:
+  id: ZEC/6/4
+  number: '4'
+reference: 'Zechariah 6:5'

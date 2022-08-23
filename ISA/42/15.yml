@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 42:15" class="v">15</span>I
+  will make waste mountains and hills, and dry up all their herbs; and I will
+  make the rivers islands, and I will dry up the pools. </p>
+id: ISA/42/15
+next:
+  id: ISA/42/16
+  number: '16'
+previous:
+  id: ISA/42/14
+  number: '14'
+reference: 'Isaiah 42:15'

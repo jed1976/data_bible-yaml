@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 41:32"
+  class="v">32</span>And for that the dream was doubled unto Pharaoh twice;
+  <span class="add">it is</span> because the thing <span class="add">is</span>
+  established by God, and God will shortly bring it to pass.</p>
+id: GEN/41/32
+next:
+  id: GEN/41/33
+  number: '33'
+previous:
+  id: GEN/41/31
+  number: '31'
+reference: 'Genesis 41:32'

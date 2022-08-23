@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 40:7" class="v">7</span>And
+  he asked Pharaoh’s officers that <span class="add">were</span> with him in the
+  ward of his lord’s house, saying, Wherefore look ye <span
+  class="add">so</span> sadly to day? </p>
+id: GEN/40/7
+next:
+  id: GEN/40/8
+  number: '8'
+previous:
+  id: GEN/40/6
+  number: '6'
+reference: 'Genesis 40:7'

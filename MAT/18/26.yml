@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 18:26"
+  class="v">26</span><span class="wj">The servant therefore fell down, and
+  worshipped him, saying, Lord, have patience with me, and I will pay thee
+  all.</span> </p>
+id: MAT/18/26
+next:
+  id: MAT/18/27
+  number: '27'
+previous:
+  id: MAT/18/25
+  number: '25'
+reference: 'Matthew 18:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 15:13" class="v">13</span>¶
+  And there came a messenger to David, saying, The hearts of the men of Israel
+  are after Absalom. </p>
+id: 2SA/15/13
+next:
+  id: 2SA/15/14
+  number: '14'
+previous:
+  id: 2SA/15/12
+  number: '12'
+reference: '2 Samuel 15:13'

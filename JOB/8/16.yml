@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 8:16" class="v">16</span>He
+  <span class="add">is</span> green before the sun, and his branch shooteth
+  forth in his garden. </p>
+id: JOB/8/16
+next:
+  id: JOB/8/17
+  number: '17'
+previous:
+  id: JOB/8/15
+  number: '15'
+reference: 'Job 8:16'

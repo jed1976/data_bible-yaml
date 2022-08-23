@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="1CH 8:38" class="v">38</span>And
+  Azel had six sons, whose names <span class="add">are</span> these, Azrikam,
+  Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these <span
+  class="add">were</span> the sons of Azel. </p>
+id: 1CH/8/38
+next:
+  id: 1CH/8/39
+  number: '39'
+previous:
+  id: 1CH/8/37
+  number: '37'
+reference: '1 Chronicles 8:38'

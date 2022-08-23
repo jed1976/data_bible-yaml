@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JOS 10:36"
+  class="v">36</span>And Joshua went up from Eglon, and all Israel with him,
+  unto Hebron; and they fought against it: </p>
+id: JOS/10/36
+next:
+  id: JOS/10/37
+  number: '37'
+previous:
+  id: JOS/10/35
+  number: '35'
+reference: 'Joshua 10:36'

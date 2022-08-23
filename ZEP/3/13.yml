@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ZEP 3:13" class="v">13</span>The
+  remnant of Israel shall not do iniquity, nor speak lies; neither shall a
+  deceitful tongue be found in their mouth: for they shall feed and lie down,
+  and none shall make <span class="add">them</span> afraid.</p>
+id: ZEP/3/13
+next:
+  id: ZEP/3/14
+  number: '14'
+previous:
+  id: ZEP/3/12
+  number: '12'
+reference: 'Zephaniah 3:13'

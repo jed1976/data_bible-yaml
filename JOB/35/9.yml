@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 35:9" class="v">9</span>By
+  reason of the multitude of oppressions they make <span class="add">the
+  oppressed</span> to cry: they cry out by reason of the arm of the mighty. </p>
+id: JOB/35/9
+next:
+  id: JOB/35/10
+  number: '10'
+previous:
+  id: JOB/35/8
+  number: '8'
+reference: 'Job 35:9'

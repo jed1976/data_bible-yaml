@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="RUT 4:2" class="v">2</span>And he
+  took ten men of the elders of the city, and said, Sit ye down here. And they
+  sat down. </p>
+id: RUT/4/2
+next:
+  id: RUT/4/3
+  number: '3'
+previous:
+  id: RUT/4/1
+  number: '1'
+reference: 'Ruth 4:2'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 2:5" class="v">5</span>¶ And
+  David sent messengers unto the men of Jabesh-gilead, and said unto them,
+  Blessed <span class="add">be</span> ye of the <span class="nd">LORD</span>,
+  that ye have shewed this kindness unto your lord, <span
+  class="add">even</span> unto Saul, and have buried him. </p>
+id: 2SA/2/5
+next:
+  id: 2SA/2/6
+  number: '6'
+previous:
+  id: 2SA/2/4
+  number: '4'
+reference: '2 Samuel 2:5'

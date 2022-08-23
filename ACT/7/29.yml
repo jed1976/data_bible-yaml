@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ACT 7:29"
+  class="v">29</span>Then fled Moses at this saying, and was a stranger in the
+  land of Madian, where he begat two sons. </p>
+id: ACT/7/29
+next:
+  id: ACT/7/30
+  number: '30'
+previous:
+  id: ACT/7/28
+  number: '28'
+reference: 'Acts 7:29'

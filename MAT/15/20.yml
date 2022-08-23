@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 15:20"
+  class="v">20</span><span class="wj">These are <span class="add">the
+  things</span> which defile a man: but to eat with unwashen hands defileth not
+  a man.</span></p>
+id: MAT/15/20
+next:
+  id: MAT/15/21
+  number: '21'
+previous:
+  id: MAT/15/19
+  number: '19'
+reference: 'Matthew 15:20'

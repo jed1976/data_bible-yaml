@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 5:3" class="v">3</span>The
+  <span class="nd">LORD</span> made not this covenant with our fathers, but with
+  us, <span class="add">even</span> us, who <span class="add">are</span> all of
+  us here alive this day. </p>
+id: DEU/5/3
+next:
+  id: DEU/5/4
+  number: '4'
+previous:
+  id: DEU/5/2
+  number: '2'
+reference: 'Deuteronomy 5:3'

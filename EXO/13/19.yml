@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 13:19"
+  class="v">19</span>And Moses took the bones of Joseph with him: for he had
+  straitly sworn the children of Israel, saying, God will surely visit you; and
+  ye shall carry up my bones away hence with you.</p>
+id: EXO/13/19
+next:
+  id: EXO/13/20
+  number: '20'
+previous:
+  id: EXO/13/18
+  number: '18'
+reference: 'Exodus 13:19'

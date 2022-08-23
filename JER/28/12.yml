@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 28:12" class="v">12</span>¶
+  Then the word of the <span class="nd">LORD</span> came unto Jeremiah <span
+  class="add">the prophet</span>, after that Hananiah the prophet had broken the
+  yoke from off the neck of the prophet Jeremiah, saying, </p>
+id: JER/28/12
+next:
+  id: JER/28/13
+  number: '13'
+previous:
+  id: JER/28/11
+  number: '11'
+reference: 'Jeremiah 28:12'

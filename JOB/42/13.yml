@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 42:13" class="v">13</span>He
+  had also seven sons and three daughters. </p>
+id: JOB/42/13
+next:
+  id: JOB/42/14
+  number: '14'
+previous:
+  id: JOB/42/12
+  number: '12'
+reference: 'Job 42:13'

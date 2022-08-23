@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 13:5" class="v">5</span>And
+  the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad
+  under mount Hermon unto the entering into Hamath. </p>
+id: JOS/13/5
+next:
+  id: JOS/13/6
+  number: '6'
+previous:
+  id: JOS/13/4
+  number: '4'
+reference: 'Joshua 13:5'

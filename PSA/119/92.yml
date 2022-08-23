@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="92" data-sid="PSA 119:92"
+  class="v">92</span>Unless thy law <span class="add">had been</span> my
+  delights, I should then have perished in mine affliction.</p>
+id: PSA/119/92
+next:
+  id: PSA/119/93
+  number: '93'
+previous:
+  id: PSA/119/91
+  number: '91'
+reference: 'Psalms 119:92'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CO 7:5" class="v">5</span>For,
+  when we were come into Macedonia, our flesh had no rest, but we were troubled
+  on every side; without <span class="add">were</span> fightings, within <span
+  class="add">were</span> fears. </p>
+id: 2CO/7/5
+next:
+  id: 2CO/7/6
+  number: '6'
+previous:
+  id: 2CO/7/4
+  number: '4'
+reference: '2 Corinthians 7:5'

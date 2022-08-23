@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="SNG 2:4" class="v">4</span>He
+  brought me to the banqueting house, and his banner over me <span
+  class="add">was</span> love. </p>
+id: SNG/2/4
+next:
+  id: SNG/2/5
+  number: '5'
+previous:
+  id: SNG/2/3
+  number: '3'
+reference: 'Song of Solomon 2:4'

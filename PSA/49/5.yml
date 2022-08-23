@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 49:5"
+  class="v">5</span>Wherefore should I fear in the days of evil, <span
+  class="add">when</span> the iniquity of my heels shall compass me about?</p>
+id: PSA/49/5
+next:
+  id: PSA/49/6
+  number: '6'
+previous:
+  id: PSA/49/4
+  number: '4'
+reference: 'Psalms 49:5'

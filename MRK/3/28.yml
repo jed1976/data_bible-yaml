@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="MRK 3:28"
+  class="v">28</span><span class="wj">Verily I say unto you, All sins shall be
+  forgiven unto the sons of men, and blasphemies wherewith soever they shall
+  blaspheme:</span> </p>
+id: MRK/3/28
+next:
+  id: MRK/3/29
+  number: '29'
+previous:
+  id: MRK/3/27
+  number: '27'
+reference: 'Mark 3:28'

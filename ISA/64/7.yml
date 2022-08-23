@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 64:7" class="v">7</span>And
+  <span class="add">there is</span> none that calleth upon thy name, that
+  stirreth up himself to take hold of thee: for thou hast hid thy face from us,
+  and hast consumed us, because of our iniquities. </p>
+id: ISA/64/7
+next:
+  id: ISA/64/8
+  number: '8'
+previous:
+  id: ISA/64/6
+  number: '6'
+reference: 'Isaiah 64:7'

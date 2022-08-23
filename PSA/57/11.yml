@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 57:11"
+  class="v">11</span>Be thou exalted, O God, above the heavens: <span
+  class="add">let</span> thy glory <span class="add">be</span> above all the
+  earth.</p>
+id: PSA/57/11
+next:
+  id: PSA/58/1
+  number: '1'
+previous:
+  id: PSA/57/10
+  number: '10'
+reference: 'Psalms 57:11'

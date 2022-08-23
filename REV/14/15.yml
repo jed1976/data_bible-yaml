@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 14:15"
+  class="v">15</span>And another angel came out of the temple, crying with a
+  loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for
+  the time is come for thee to reap; for the harvest of the earth is ripe. </p>
+id: REV/14/15
+next:
+  id: REV/14/16
+  number: '16'
+previous:
+  id: REV/14/14
+  number: '14'
+reference: 'Revelation 14:15'

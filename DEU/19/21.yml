@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 19:21"
+  class="v">21</span>And thine eye shall not pity; <span class="add">but</span>
+  life <span class="add">shall go</span> for life, eye for eye, tooth for tooth,
+  hand for hand, foot for foot.</p>
+id: DEU/19/21
+next:
+  id: DEU/20/1
+  number: '1'
+previous:
+  id: DEU/19/20
+  number: '20'
+reference: 'Deuteronomy 19:21'

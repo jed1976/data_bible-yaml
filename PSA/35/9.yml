@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 35:9" class="v">9</span>And
+  my soul shall be joyful in the <span class="nd">LORD</span>: it shall rejoice
+  in his salvation.</p>
+id: PSA/35/9
+next:
+  id: PSA/35/10
+  number: '10'
+previous:
+  id: PSA/35/8
+  number: '8'
+reference: 'Psalms 35:9'

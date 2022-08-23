@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JDG 1:32" class="v">32</span>But
+  the Asherites dwelt among the Canaanites, the inhabitants of the land: for
+  they did not drive them out.</p>
+id: JDG/1/32
+next:
+  id: JDG/1/33
+  number: '33'
+previous:
+  id: JDG/1/31
+  number: '31'
+reference: 'Judges 1:32'

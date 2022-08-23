@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1SA 1:7" class="v">7</span>And
+  <span class="add">as</span> he did so year by year, when she went up to the
+  house of the <span class="nd">LORD</span>, so she provoked her; therefore she
+  wept, and did not eat. </p>
+id: 1SA/1/7
+next:
+  id: 1SA/1/8
+  number: '8'
+previous:
+  id: 1SA/1/6
+  number: '6'
+reference: '1 Samuel 1:7'

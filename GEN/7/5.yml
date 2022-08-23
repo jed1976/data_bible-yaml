@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 7:5" class="v">5</span>And
+  Noah did according unto all that the <span class="nd">LORD</span> commanded
+  him. </p>
+id: GEN/7/5
+next:
+  id: GEN/7/6
+  number: '6'
+previous:
+  id: GEN/7/4
+  number: '4'
+reference: 'Genesis 7:5'

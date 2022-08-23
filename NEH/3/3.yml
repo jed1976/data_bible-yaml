@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 3:3" class="v">3</span>But
+  the fish gate did the sons of Hassenaah build, who <span
+  class="add">also</span> laid the beams thereof, and set up the doors thereof,
+  the locks thereof, and the bars thereof. </p>
+id: NEH/3/3
+next:
+  id: NEH/3/4
+  number: '4'
+previous:
+  id: NEH/3/2
+  number: '2'
+reference: 'Nehemiah 3:3'

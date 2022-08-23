@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="RUT 1:6" class="v">6</span>¶ Then
+  she arose with her daughters in law, that she might return from the country of
+  Moab: for she had heard in the country of Moab how that the <span
+  class="nd">LORD</span> had visited his people in giving them bread. </p>
+id: RUT/1/6
+next:
+  id: RUT/1/7
+  number: '7'
+previous:
+  id: RUT/1/5
+  number: '5'
+reference: 'Ruth 1:6'

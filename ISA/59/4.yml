@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 59:4" class="v">4</span>None
+  calleth for justice, nor <span class="add">any</span> pleadeth for truth: they
+  trust in vanity, and speak lies; they conceive mischief, and bring forth
+  iniquity. </p>
+id: ISA/59/4
+next:
+  id: ISA/59/5
+  number: '5'
+previous:
+  id: ISA/59/3
+  number: '3'
+reference: 'Isaiah 59:4'

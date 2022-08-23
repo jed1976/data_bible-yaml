@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="GEN 41:34"
+  class="v">34</span>Let Pharaoh do <span class="add">this</span>, and let him
+  appoint officers over the land, and take up the fifth part of the land of
+  Egypt in the seven plenteous years. </p>
+id: GEN/41/34
+next:
+  id: GEN/41/35
+  number: '35'
+previous:
+  id: GEN/41/33
+  number: '33'
+reference: 'Genesis 41:34'

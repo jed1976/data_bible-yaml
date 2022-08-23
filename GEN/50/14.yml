@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 50:14" class="v">14</span>¶
+  And Joseph returned into Egypt, he, and his brethren, and all that went up
+  with him to bury his father, after he had buried his father.</p>
+id: GEN/50/14
+next:
+  id: GEN/50/15
+  number: '15'
+previous:
+  id: GEN/50/13
+  number: '13'
+reference: 'Genesis 50:14'

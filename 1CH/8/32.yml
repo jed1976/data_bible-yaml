@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1CH 8:32" class="v">32</span>And
+  Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem,
+  over against them.</p>
+id: 1CH/8/32
+next:
+  id: 1CH/8/33
+  number: '33'
+previous:
+  id: 1CH/8/31
+  number: '31'
+reference: '1 Chronicles 8:32'

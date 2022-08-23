@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="NUM 3:48" class="v">48</span>And
+  thou shalt give the money, wherewith the odd number of them is to be redeemed,
+  unto Aaron and to his sons. </p>
+id: NUM/3/48
+next:
+  id: NUM/3/49
+  number: '49'
+previous:
+  id: NUM/3/47
+  number: '47'
+reference: 'Numbers 3:48'

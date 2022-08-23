@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 19:7" class="v">7</span>Then
+  the priest shall wash his clothes, and he shall bathe his flesh in water, and
+  afterward he shall come into the camp, and the priest shall be unclean until
+  the even. </p>
+id: NUM/19/7
+next:
+  id: NUM/19/8
+  number: '8'
+previous:
+  id: NUM/19/6
+  number: '6'
+reference: 'Numbers 19:7'

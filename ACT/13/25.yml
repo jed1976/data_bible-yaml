@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 13:25"
+  class="v">25</span>And as John fulfilled his course, he said, Whom think ye
+  that I am? I am not <span class="add">he</span>. But, behold, there cometh one
+  after me, whose shoes of <span class="add">his</span> feet I am not worthy to
+  loose. </p>
+id: ACT/13/25
+next:
+  id: ACT/13/26
+  number: '26'
+previous:
+  id: ACT/13/24
+  number: '24'
+reference: 'Acts 13:25'

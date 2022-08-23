@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 26:6" class="v">6</span>The
+  foot shall tread it down, <span class="add">even</span> the feet of the poor,
+  <span class="add">and</span> the steps of the needy. </p>
+id: ISA/26/6
+next:
+  id: ISA/26/7
+  number: '7'
+previous:
+  id: ISA/26/5
+  number: '5'
+reference: 'Isaiah 26:6'

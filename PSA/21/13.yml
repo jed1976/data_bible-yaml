@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 21:13"
+  class="v">13</span>Be thou exalted, <span class="nd">LORD</span>, in thine own
+  strength: <span class="add">so</span> will we sing and praise thy power.</p>
+id: PSA/21/13
+next:
+  id: PSA/22/1
+  number: '1'
+previous:
+  id: PSA/21/12
+  number: '12'
+reference: 'Psalms 21:13'

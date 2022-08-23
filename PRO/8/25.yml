@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 8:25"
+  class="v">25</span>Before the mountains were settled, before the hills was I
+  brought forth: </p>
+id: PRO/8/25
+next:
+  id: PRO/8/26
+  number: '26'
+previous:
+  id: PRO/8/24
+  number: '24'
+reference: 'Proverbs 8:25'

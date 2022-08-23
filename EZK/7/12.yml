@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 7:12" class="v">12</span>The
+  time is come, the day draweth near: let not the buyer rejoice, nor the seller
+  mourn: for wrath <span class="add">is</span> upon all the multitude thereof.
+  </p>
+id: EZK/7/12
+next:
+  id: EZK/7/13
+  number: '13'
+previous:
+  id: EZK/7/11
+  number: '11'
+reference: 'Ezekiel 7:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 2:15" class="v">15</span>And
+  thou shalt put oil upon it, and lay frankincense thereon: it <span
+  class="add">is</span> a meat offering. </p>
+id: LEV/2/15
+next:
+  id: LEV/2/16
+  number: '16'
+previous:
+  id: LEV/2/14
+  number: '14'
+reference: 'Leviticus 2:15'

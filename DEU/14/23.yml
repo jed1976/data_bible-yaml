@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 14:23"
+  class="v">23</span>And thou shalt eat before the <span class="nd">LORD</span>
+  thy God, in the place which he shall choose to place his name there, the tithe
+  of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds
+  and of thy flocks; that thou mayest learn to fear the <span
+  class="nd">LORD</span> thy God always. </p>
+id: DEU/14/23
+next:
+  id: DEU/14/24
+  number: '24'
+previous:
+  id: DEU/14/22
+  number: '22'
+reference: 'Deuteronomy 14:23'

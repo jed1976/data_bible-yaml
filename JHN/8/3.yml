@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 8:3" class="v">3</span>And
+  the scribes and Pharisees brought unto him a woman taken in adultery; and when
+  they had set her in the midst, </p>
+id: JHN/8/3
+next:
+  id: JHN/8/4
+  number: '4'
+previous:
+  id: JHN/8/2
+  number: '2'
+reference: 'John 8:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 6:23" class="v">23</span>And
+  he sware unto her, Whatsoever thou shalt ask of me, I will give <span
+  class="add">it</span> thee, unto the half of my kingdom. </p>
+id: MRK/6/23
+next:
+  id: MRK/6/24
+  number: '24'
+previous:
+  id: MRK/6/22
+  number: '22'
+reference: 'Mark 6:23'

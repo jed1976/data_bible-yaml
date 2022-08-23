@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 16:26"
+  class="v">26</span>Six days ye shall gather it; but on the seventh day, <span
+  class="add">which is</span> the sabbath, in it there shall be none.</p>
+id: EXO/16/26
+next:
+  id: EXO/16/27
+  number: '27'
+previous:
+  id: EXO/16/25
+  number: '25'
+reference: 'Exodus 16:26'

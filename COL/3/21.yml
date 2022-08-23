@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="COL 3:21"
+  class="v">21</span>Fathers, provoke not your children <span class="add">to
+  anger</span>, lest they be discouraged. </p>
+id: COL/3/21
+next:
+  id: COL/3/22
+  number: '22'
+previous:
+  id: COL/3/20
+  number: '20'
+reference: 'Colossians 3:21'

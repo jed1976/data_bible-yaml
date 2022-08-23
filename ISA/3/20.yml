@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 3:20" class="v">20</span>The
+  bonnets, and the ornaments of the legs, and the headbands, and the tablets,
+  and the earrings, </p>
+id: ISA/3/20
+next:
+  id: ISA/3/21
+  number: '21'
+previous:
+  id: ISA/3/19
+  number: '19'
+reference: 'Isaiah 3:20'

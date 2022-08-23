@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JER 19:12"
+  class="v">12</span>Thus will I do unto this place, saith the <span
+  class="nd">LORD</span>, and to the inhabitants thereof, and <span
+  class="add">even</span> make this city as Tophet: </p>
+id: JER/19/12
+next:
+  id: JER/19/13
+  number: '13'
+previous:
+  id: JER/19/11
+  number: '11'
+reference: 'Jeremiah 19:12'

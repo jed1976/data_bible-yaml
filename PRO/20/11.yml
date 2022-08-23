@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 20:11"
+  class="v">11</span>Even a child is known by his doings, whether his work <span
+  class="add">be</span> pure, and whether <span class="add">it be</span> right.
+  </p>
+id: PRO/20/11
+next:
+  id: PRO/20/12
+  number: '12'
+previous:
+  id: PRO/20/10
+  number: '10'
+reference: 'Proverbs 20:11'

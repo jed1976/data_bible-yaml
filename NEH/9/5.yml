@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NEH 9:5" class="v">5</span>Then
+  the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah,
+  Shebaniah, <span class="add">and</span> Pethahiah, said, Stand up <span
+  class="add">and</span> bless the <span class="nd">LORD</span> your God for
+  ever and ever: and blessed be thy glorious name, which is exalted above all
+  blessing and praise. </p>
+id: NEH/9/5
+next:
+  id: NEH/9/6
+  number: '6'
+previous:
+  id: NEH/9/4
+  number: '4'
+reference: 'Nehemiah 9:5'

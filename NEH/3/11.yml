@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 3:11"
+  class="v">11</span>Malchijah the son of Harim, and Hashub the son of
+  Pahath-moab, repaired the other piece, and the tower of the furnaces. </p>
+id: NEH/3/11
+next:
+  id: NEH/3/12
+  number: '12'
+previous:
+  id: NEH/3/10
+  number: '10'
+reference: 'Nehemiah 3:11'

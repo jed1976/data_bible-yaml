@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 108:4" class="v">4</span>For
+  thy mercy <span class="add">is</span> great above the heavens: and thy truth
+  <span class="add">reacheth</span> unto the clouds.</p>
+id: PSA/108/4
+next:
+  id: PSA/108/5
+  number: '5'
+previous:
+  id: PSA/108/3
+  number: '3'
+reference: 'Psalms 108:4'

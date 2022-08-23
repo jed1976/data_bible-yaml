@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOS 24:29" class="v">29</span>¶
+  And it came to pass after these things, that Joshua the son of Nun, the
+  servant of the <span class="nd">LORD</span>, died, <span
+  class="add">being</span> an hundred and ten years old. </p>
+id: JOS/24/29
+next:
+  id: JOS/24/30
+  number: '30'
+previous:
+  id: JOS/24/28
+  number: '28'
+reference: 'Joshua 24:29'

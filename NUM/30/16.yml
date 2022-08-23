@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 30:16"
+  class="v">16</span>These <span class="add">are</span> the statutes, which the
+  <span class="nd">LORD</span> commanded Moses, between a man and his wife,
+  between the father and his daughter, <span class="add">being yet</span> in her
+  youth in her father’s house.</p>
+id: NUM/30/16
+next:
+  id: NUM/31/1
+  number: '1'
+previous:
+  id: NUM/30/15
+  number: '15'
+reference: 'Numbers 30:16'

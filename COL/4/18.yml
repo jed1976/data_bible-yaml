@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="COL 4:18" class="v">18</span>The
+  salutation by the hand of me Paul. Remember my bonds. Grace <span
+  class="add">be</span> with you. Amen.</p>
+id: COL/4/18
+next:
+  id: 1TH/intro/0
+  number: '0'
+previous:
+  id: COL/4/17
+  number: '17'
+reference: 'Colossians 4:18'

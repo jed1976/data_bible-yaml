@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 27:14"
+  class="v">14</span>For ye rebelled against my commandment in the desert of
+  Zin, in the strife of the congregation, to sanctify me at the water before
+  their eyes: that <span class="add">is</span> the water of Meribah in Kadesh in
+  the wilderness of Zin.</p>
+id: NUM/27/14
+next:
+  id: NUM/27/15
+  number: '15'
+previous:
+  id: NUM/27/13
+  number: '13'
+reference: 'Numbers 27:14'

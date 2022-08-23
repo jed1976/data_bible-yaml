@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 25:11"
+  class="v">11</span>And he shall spread forth his hands in the midst of them,
+  as he that swimmeth spreadeth forth <span class="add">his hands</span> to
+  swim: and he shall bring down their pride together with the spoils of their
+  hands. </p>
+id: ISA/25/11
+next:
+  id: ISA/25/12
+  number: '12'
+previous:
+  id: ISA/25/10
+  number: '10'
+reference: 'Isaiah 25:11'

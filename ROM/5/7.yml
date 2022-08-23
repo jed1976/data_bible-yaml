@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 5:7" class="v">7</span>For
+  scarcely for a righteous man will one die: yet peradventure for a good man
+  some would even dare to die. </p>
+id: ROM/5/7
+next:
+  id: ROM/5/8
+  number: '8'
+previous:
+  id: ROM/5/6
+  number: '6'
+reference: 'Romans 5:7'

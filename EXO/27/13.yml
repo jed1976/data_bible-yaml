@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 27:13"
+  class="v">13</span>And the breadth of the court on the east side eastward
+  <span class="add">shall be</span> fifty cubits. </p>
+id: EXO/27/13
+next:
+  id: EXO/27/14
+  number: '14'
+previous:
+  id: EXO/27/12
+  number: '12'
+reference: 'Exodus 27:13'

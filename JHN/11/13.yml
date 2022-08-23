@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 11:13"
+  class="v">13</span>Howbeit Jesus spake of his death: but they thought that he
+  had spoken of taking of rest in sleep. </p>
+id: JHN/11/13
+next:
+  id: JHN/11/14
+  number: '14'
+previous:
+  id: JHN/11/12
+  number: '12'
+reference: 'John 11:13'

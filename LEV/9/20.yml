@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 9:20" class="v">20</span>And
+  they put the fat upon the breasts, and he burnt the fat upon the altar: </p>
+id: LEV/9/20
+next:
+  id: LEV/9/21
+  number: '21'
+previous:
+  id: LEV/9/19
+  number: '19'
+reference: 'Leviticus 9:20'

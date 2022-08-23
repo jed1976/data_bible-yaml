@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 10:3" class="v">3</span>And
+  when they shall blow with them, all the assembly shall assemble themselves to
+  thee at the door of the tabernacle of the congregation. </p>
+id: NUM/10/3
+next:
+  id: NUM/10/4
+  number: '4'
+previous:
+  id: NUM/10/2
+  number: '2'
+reference: 'Numbers 10:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 143:10"
+  class="v">10</span>Teach me to do thy will; for thou <span
+  class="add">art</span> my God: thy spirit <span class="add">is</span> good;
+  lead me into the land of uprightness.</p>
+id: PSA/143/10
+next:
+  id: PSA/143/11
+  number: '11'
+previous:
+  id: PSA/143/9
+  number: '9'
+reference: 'Psalms 143:10'

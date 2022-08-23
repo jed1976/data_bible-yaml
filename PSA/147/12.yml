@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="12" data-sid="PSA 147:12"
+  class="v">12</span>Praise the <span class="nd">LORD</span>, O Jerusalem;
+  praise thy God, O Zion.</p>
+id: PSA/147/12
+next:
+  id: PSA/147/13
+  number: '13'
+previous:
+  id: PSA/147/11
+  number: '11'
+reference: 'Psalms 147:12'

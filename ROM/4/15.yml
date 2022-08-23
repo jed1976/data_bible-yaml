@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ROM 4:15"
+  class="v">15</span>Because the law worketh wrath: for where no law is, <span
+  class="add">there is</span> no transgression. </p>
+id: ROM/4/15
+next:
+  id: ROM/4/16
+  number: '16'
+previous:
+  id: ROM/4/14
+  number: '14'
+reference: 'Romans 4:15'

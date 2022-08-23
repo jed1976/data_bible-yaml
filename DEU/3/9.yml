@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 3:9" class="v">9</span>(<span
+  class="add">Which</span> Hermon the Sidonians call Sirion; and the Amorites
+  call it Shenir;) </p>
+id: DEU/3/9
+next:
+  id: DEU/3/10
+  number: '10'
+previous:
+  id: DEU/3/8
+  number: '8'
+reference: 'Deuteronomy 3:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 5:14"
+  class="v">14</span>Nevertheless death reigned from Adam to Moses, even over
+  them that had not sinned after the similitude of Adam’s transgression, who is
+  the figure of him that was to come. </p>
+id: ROM/5/14
+next:
+  id: ROM/5/15
+  number: '15'
+previous:
+  id: ROM/5/13
+  number: '13'
+reference: 'Romans 5:14'

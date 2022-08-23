@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 22:22"
+  class="v">22</span>And Chesed, and Hazo, and Pildash, and Jidlaph, and
+  Bethuel. </p>
+id: GEN/22/22
+next:
+  id: GEN/22/23
+  number: '23'
+previous:
+  id: GEN/22/21
+  number: '21'
+reference: 'Genesis 22:22'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 5:14" class="v">14</span>But
+  the seventh day <span class="add">is</span> the sabbath of the <span
+  class="nd">LORD</span> thy God: <span class="add">in it</span> thou shalt not
+  do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy
+  maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy
+  stranger that <span class="add">is</span> within thy gates; that thy
+  manservant and thy maidservant may rest as well as thou. </p>
+id: DEU/5/14
+next:
+  id: DEU/5/15
+  number: '15'
+previous:
+  id: DEU/5/13
+  number: '13'
+reference: 'Deuteronomy 5:14'

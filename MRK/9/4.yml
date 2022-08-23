@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 9:4" class="v">4</span>And
+  there appeared unto them Elias with Moses: and they were talking with Jesus.
+  </p>
+id: MRK/9/4
+next:
+  id: MRK/9/5
+  number: '5'
+previous:
+  id: MRK/9/3
+  number: '3'
+reference: 'Mark 9:4'

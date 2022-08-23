@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 7:7" class="v">7</span>After
+  this I saw in the night visions, and behold a fourth beast, dreadful and
+  terrible, and strong exceedingly; and it had great iron teeth: it devoured and
+  brake in pieces, and stamped the residue with the feet of it: and it <span
+  class="add">was</span> diverse from all the beasts that <span
+  class="add">were</span> before it; and it had ten horns. </p>
+id: DAN/7/7
+next:
+  id: DAN/7/8
+  number: '8'
+previous:
+  id: DAN/7/6
+  number: '6'
+reference: 'Daniel 7:7'

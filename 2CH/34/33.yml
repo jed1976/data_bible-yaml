@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2CH 34:33"
+  class="v">33</span>And Josiah took away all the abominations out of all the
+  countries that <span class="add">pertained</span> to the children of Israel,
+  and made all that were present in Israel to serve, <span
+  class="add">even</span> to serve the <span class="nd">LORD</span> their God.
+  <span class="add">And</span> all his days they departed not from following the
+  <span class="nd">LORD</span>, the God of their fathers.</p>
+id: 2CH/34/33
+next:
+  id: 2CH/35/1
+  number: '1'
+previous:
+  id: 2CH/34/32
+  number: '32'
+reference: '2 Chronicles 34:33'

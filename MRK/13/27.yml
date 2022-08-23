@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 13:27"
+  class="v">27</span><span class="wj">And then shall he send his angels, and
+  shall gather together his elect from the four winds, from the uttermost part
+  of the earth to the uttermost part of heaven.</span> </p>
+id: MRK/13/27
+next:
+  id: MRK/13/28
+  number: '28'
+previous:
+  id: MRK/13/26
+  number: '26'
+reference: 'Mark 13:27'

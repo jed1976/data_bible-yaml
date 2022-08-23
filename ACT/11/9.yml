@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 11:9" class="v">9</span>But
+  the voice answered me again from heaven, What God hath cleansed, <span
+  class="add">that</span> call not thou common. </p>
+id: ACT/11/9
+next:
+  id: ACT/11/10
+  number: '10'
+previous:
+  id: ACT/11/8
+  number: '8'
+reference: 'Acts 11:9'

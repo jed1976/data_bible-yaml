@@ -1,0 +1,14 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David, Maschil.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 32:1" class="v">1</span>Blessed
+  <span class="add">is he whose</span> transgression <span class="add">is</span>
+  forgiven, <span class="add">whose</span> sin <span class="add">is</span>
+  covered.</p>
+id: PSA/32/1
+next:
+  id: PSA/32/2
+  number: '2'
+previous:
+  id: PSA/31/24
+  number: '24'
+reference: 'Psalms 32:1'

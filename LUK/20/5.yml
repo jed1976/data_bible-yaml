@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 20:5" class="v">5</span>And
+  they reasoned with themselves, saying, If we shall say, From heaven; he will
+  say, Why then believed ye him not? </p>
+id: LUK/20/5
+next:
+  id: LUK/20/6
+  number: '6'
+previous:
+  id: LUK/20/4
+  number: '4'
+reference: 'Luke 20:5'

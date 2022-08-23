@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 31:6" class="v">6</span>Be
+  strong and of a good courage, fear not, nor be afraid of them: for the <span
+  class="nd">LORD</span> thy God, he <span class="add">it is</span> that doth go
+  with thee; he will not fail thee, nor forsake thee.</p>
+id: DEU/31/6
+next:
+  id: DEU/31/7
+  number: '7'
+previous:
+  id: DEU/31/5
+  number: '5'
+reference: 'Deuteronomy 31:6'

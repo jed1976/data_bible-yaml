@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">To the chief Musician, Al-taschith, A Psalm <span
+  class="add">or</span> Song of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 75:1" class="v">1</span>Unto thee, O God, do we give thanks,
+  <span class="add">unto thee</span> do we give thanks: for <span
+  class="add">that</span> thy name is near thy wondrous works declare.</p>
+id: PSA/75/1
+next:
+  id: PSA/75/2
+  number: '2'
+previous:
+  id: PSA/74/23
+  number: '23'
+reference: 'Psalms 75:1'

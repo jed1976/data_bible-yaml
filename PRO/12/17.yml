@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 12:17"
+  class="v">17</span><span class="add">He that</span> speaketh truth sheweth
+  forth righteousness: but a false witness deceit. </p>
+id: PRO/12/17
+next:
+  id: PRO/12/18
+  number: '18'
+previous:
+  id: PRO/12/16
+  number: '16'
+reference: 'Proverbs 12:17'

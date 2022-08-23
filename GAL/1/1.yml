@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GAL 1:1" class="v">1</span>Paul,
+  an apostle, (not of men, neither by man, but by Jesus Christ, and God the
+  Father, who raised him from the dead;) </p>
+id: GAL/1/1
+next:
+  id: GAL/1/2
+  number: '2'
+previous:
+  id: GAL/intro/0
+  number: '0'
+reference: 'Galatians 1:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 5:4" class="v">4</span>And
+  this <span class="add">is</span> the cause why Joshua did circumcise: All the
+  people that came out of Egypt, <span class="add">that were</span> males, <span
+  class="add">even</span> all the men of war, died in the wilderness by the way,
+  after they came out of Egypt. </p>
+id: JOS/5/4
+next:
+  id: JOS/5/5
+  number: '5'
+previous:
+  id: JOS/5/3
+  number: '3'
+reference: 'Joshua 5:4'

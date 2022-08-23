@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 26:13" class="v">13</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span> your God, which
+  brought you forth out of the land of Egypt, that ye should not be their
+  bondmen; and I have broken the bands of your yoke, and made you go
+  upright.</p>
+id: LEV/26/13
+next:
+  id: LEV/26/14
+  number: '14'
+previous:
+  id: LEV/26/12
+  number: '12'
+reference: 'Leviticus 26:13'

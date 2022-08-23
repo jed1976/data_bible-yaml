@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EZR 2:32" class="v">32</span>The
+  children of Harim, three hundred and twenty. </p>
+id: EZR/2/32
+next:
+  id: EZR/2/33
+  number: '33'
+previous:
+  id: EZR/2/31
+  number: '31'
+reference: 'Ezra 2:32'

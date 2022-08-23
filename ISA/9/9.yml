@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 9:9" class="v">9</span>And
+  all the people shall know, <span class="add">even</span> Ephraim and the
+  inhabitant of Samaria, that say in the pride and stoutness of heart, </p>
+id: ISA/9/9
+next:
+  id: ISA/9/10
+  number: '10'
+previous:
+  id: ISA/9/8
+  number: '8'
+reference: 'Isaiah 9:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ROM 8:38" class="v">38</span>For
+  I am persuaded, that neither death, nor life, nor angels, nor principalities,
+  nor powers, nor things present, nor things to come, </p>
+id: ROM/8/38
+next:
+  id: ROM/8/39
+  number: '39'
+previous:
+  id: ROM/8/37
+  number: '37'
+reference: 'Romans 8:38'

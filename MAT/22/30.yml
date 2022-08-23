@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 22:30"
+  class="v">30</span><span class="wj">For in the resurrection they neither
+  marry, nor are given in marriage, but are as the angels of God in
+  heaven.</span> </p>
+id: MAT/22/30
+next:
+  id: MAT/22/31
+  number: '31'
+previous:
+  id: MAT/22/29
+  number: '29'
+reference: 'Matthew 22:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="TIT 2:5" class="v">5</span><span
+  class="add">To be</span> discreet, chaste, keepers at home, good, obedient to
+  their own husbands, that the word of God be not blasphemed. </p>
+id: TIT/2/5
+next:
+  id: TIT/2/6
+  number: '6'
+previous:
+  id: TIT/2/4
+  number: '4'
+reference: 'Titus 2:5'

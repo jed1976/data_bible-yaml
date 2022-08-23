@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 16:4" class="v">4</span>And
+  if it be meet that I go also, they shall go with me. </p>
+id: 1CO/16/4
+next:
+  id: 1CO/16/5
+  number: '5'
+previous:
+  id: 1CO/16/3
+  number: '3'
+reference: '1 Corinthians 16:4'

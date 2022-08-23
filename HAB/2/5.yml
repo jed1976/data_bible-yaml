@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HAB 2:5" class="v">5</span>¶ Yea
+  also, because he transgresseth by wine, <span class="add">he is</span> a proud
+  man, neither keepeth at home, who enlargeth his desire as hell, and <span
+  class="add">is</span> as death, and cannot be satisfied, but gathereth unto
+  him all nations, and heapeth unto him all people: </p>
+id: HAB/2/5
+next:
+  id: HAB/2/6
+  number: '6'
+previous:
+  id: HAB/2/4
+  number: '4'
+reference: 'Habakkuk 2:5'

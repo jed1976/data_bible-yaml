@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 26:5" class="v">5</span>Fifty
+  loops shalt thou make in the one curtain, and fifty loops shalt thou make in
+  the edge of the curtain that <span class="add">is</span> in the coupling of
+  the second; that the loops may take hold one of another. </p>
+id: EXO/26/5
+next:
+  id: EXO/26/6
+  number: '6'
+previous:
+  id: EXO/26/4
+  number: '4'
+reference: 'Exodus 26:5'

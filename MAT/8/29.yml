@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 8:29"
+  class="v">29</span>And, behold, they cried out, saying, What have we to do
+  with thee, Jesus, thou Son of God? art thou come hither to torment us before
+  the time? </p>
+id: MAT/8/29
+next:
+  id: MAT/8/30
+  number: '30'
+previous:
+  id: MAT/8/28
+  number: '28'
+reference: 'Matthew 8:29'

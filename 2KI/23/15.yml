@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2KI 23:15" class="v">15</span>¶
+  Moreover the altar that <span class="add">was</span> at Beth-el, <span
+  class="add">and</span> the high place which Jeroboam the son of Nebat, who
+  made Israel to sin, had made, both that altar and the high place he brake
+  down, and burned the high place, <span class="add">and</span> stamped <span
+  class="add">it</span> small to powder, and burned the grove. </p>
+id: 2KI/23/15
+next:
+  id: 2KI/23/16
+  number: '16'
+previous:
+  id: 2KI/23/14
+  number: '14'
+reference: '2 Kings 23:15'

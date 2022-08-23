@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JDG 20:30"
+  class="v">30</span>And the children of Israel went up against the children of
+  Benjamin on the third day, and put themselves in array against Gibeah, as at
+  other times. </p>
+id: JDG/20/30
+next:
+  id: JDG/20/31
+  number: '31'
+previous:
+  id: JDG/20/29
+  number: '29'
+reference: 'Judges 20:30'

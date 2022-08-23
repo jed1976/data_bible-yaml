@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 6:26"
+  class="v">26</span>These <span class="add">are</span> that Aaron and Moses, to
+  whom the <span class="nd">LORD</span> said, Bring out the children of Israel
+  from the land of Egypt according to their armies. </p>
+id: EXO/6/26
+next:
+  id: EXO/6/27
+  number: '27'
+previous:
+  id: EXO/6/25
+  number: '25'
+reference: 'Exodus 6:26'

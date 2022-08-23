@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 7:11"
+  class="v">11</span>Then Pharaoh also called the wise men and the sorcerers:
+  now the magicians of Egypt, they also did in like manner with their
+  enchantments. </p>
+id: EXO/7/11
+next:
+  id: EXO/7/12
+  number: '12'
+previous:
+  id: EXO/7/10
+  number: '10'
+reference: 'Exodus 7:11'

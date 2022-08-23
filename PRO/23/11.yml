@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 23:11"
+  class="v">11</span>For their redeemer <span class="add">is</span> mighty; he
+  shall plead their cause with thee.</p>
+id: PRO/23/11
+next:
+  id: PRO/23/12
+  number: '12'
+previous:
+  id: PRO/23/10
+  number: '10'
+reference: 'Proverbs 23:11'

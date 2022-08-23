@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 42:14" class="v">14</span>I
+  have long time holden my peace; I have been still, <span
+  class="add">and</span> refrained myself: <span class="add">now</span> will I
+  cry like a travailing woman; I will destroy and devour at once. </p>
+id: ISA/42/14
+next:
+  id: ISA/42/15
+  number: '15'
+previous:
+  id: ISA/42/13
+  number: '13'
+reference: 'Isaiah 42:14'

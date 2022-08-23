@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 27:8" class="v">8</span>The
+  fifth captain for the fifth month <span class="add">was</span> Shamhuth the
+  Izrahite: and in his course <span class="add">were</span> twenty and four
+  thousand. </p>
+id: 1CH/27/8
+next:
+  id: 1CH/27/9
+  number: '9'
+previous:
+  id: 1CH/27/7
+  number: '7'
+reference: '1 Chronicles 27:8'

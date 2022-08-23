@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 1:3" class="v">3</span>To
+  receive the instruction of wisdom, justice, and judgment, and equity; </p>
+id: PRO/1/3
+next:
+  id: PRO/1/4
+  number: '4'
+previous:
+  id: PRO/1/2
+  number: '2'
+reference: 'Proverbs 1:3'

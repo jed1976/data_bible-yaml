@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 20:18"
+  class="v">18</span><span class="wj">Behold, we go up to Jerusalem; and the Son
+  of man shall be betrayed unto the chief priests and unto the scribes, and they
+  shall condemn him to death,</span> </p>
+id: MAT/20/18
+next:
+  id: MAT/20/19
+  number: '19'
+previous:
+  id: MAT/20/17
+  number: '17'
+reference: 'Matthew 20:18'

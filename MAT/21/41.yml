@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 21:41"
+  class="v">41</span>They say unto him, He will miserably destroy those wicked
+  men, and will let out <span class="add">his</span> vineyard unto other
+  husbandmen, which shall render him the fruits in their seasons. </p>
+id: MAT/21/41
+next:
+  id: MAT/21/42
+  number: '42'
+previous:
+  id: MAT/21/40
+  number: '40'
+reference: 'Matthew 21:41'

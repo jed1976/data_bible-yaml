@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 9:5" class="v">5</span>What
+  will ye do in the solemn day, and in the day of the feast of the <span
+  class="nd">LORD</span>? </p>
+id: HOS/9/5
+next:
+  id: HOS/9/6
+  number: '6'
+previous:
+  id: HOS/9/4
+  number: '4'
+reference: 'Hosea 9:5'

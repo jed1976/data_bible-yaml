@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EZR 7:25" class="v">25</span>And
+  thou, Ezra, after the wisdom of thy God, that <span class="add">is</span> in
+  thine hand, set magistrates and judges, which may judge all the people that
+  <span class="add">are</span> beyond the river, all such as know the laws of
+  thy God; and teach ye them that know <span class="add">them</span> not. </p>
+id: EZR/7/25
+next:
+  id: EZR/7/26
+  number: '26'
+previous:
+  id: EZR/7/24
+  number: '24'
+reference: 'Ezra 7:25'

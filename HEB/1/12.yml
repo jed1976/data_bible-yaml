@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 1:12" class="v">12</span>And
+  as a vesture shalt thou fold them up, and they shall be changed: but thou art
+  the same, and thy years shall not fail. </p>
+id: HEB/1/12
+next:
+  id: HEB/1/13
+  number: '13'
+previous:
+  id: HEB/1/11
+  number: '11'
+reference: 'Hebrews 1:12'

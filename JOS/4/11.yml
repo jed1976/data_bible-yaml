@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 4:11" class="v">11</span>And
+  it came to pass, when all the people were clean passed over, that the ark of
+  the <span class="nd">LORD</span> passed over, and the priests, in the presence
+  of the people. </p>
+id: JOS/4/11
+next:
+  id: JOS/4/12
+  number: '12'
+previous:
+  id: JOS/4/10
+  number: '10'
+reference: 'Joshua 4:11'

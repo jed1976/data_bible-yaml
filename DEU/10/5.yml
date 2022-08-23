@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 10:5" class="v">5</span>And I
+  turned myself and came down from the mount, and put the tables in the ark
+  which I had made; and there they be, as the <span class="nd">LORD</span>
+  commanded me.</p>
+id: DEU/10/5
+next:
+  id: DEU/10/6
+  number: '6'
+previous:
+  id: DEU/10/4
+  number: '4'
+reference: 'Deuteronomy 10:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 30:1" class="v">1</span>And
+  Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and
+  Manasseh, that they should come to the house of the <span
+  class="nd">LORD</span> at Jerusalem, to keep the passover unto the <span
+  class="nd">LORD</span> God of Israel. </p>
+id: 2CH/30/1
+next:
+  id: 2CH/30/2
+  number: '2'
+previous:
+  id: 2CH/29/36
+  number: '36'
+reference: '2 Chronicles 30:1'

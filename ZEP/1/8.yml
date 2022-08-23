@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ZEP 1:8" class="v">8</span>And it
+  shall come to pass in the day of the <span class="nd">LORD’s</span> sacrifice,
+  that I will punish the princes, and the king’s children, and all such as are
+  clothed with strange apparel. </p>
+id: ZEP/1/8
+next:
+  id: ZEP/1/9
+  number: '9'
+previous:
+  id: ZEP/1/7
+  number: '7'
+reference: 'Zephaniah 1:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JAS 5:18" class="v">18</span>And
+  he prayed again, and the heaven gave rain, and the earth brought forth her
+  fruit. </p>
+id: JAS/5/18
+next:
+  id: JAS/5/19
+  number: '19'
+previous:
+  id: JAS/5/17
+  number: '17'
+reference: 'James 5:18'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 19:8" class="v">8</span>¶
+  When Pilate therefore heard that saying, he was the more afraid; </p>
+id: JHN/19/8
+next:
+  id: JHN/19/9
+  number: '9'
+previous:
+  id: JHN/19/7
+  number: '7'
+reference: 'John 19:8'

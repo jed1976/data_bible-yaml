@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 23:3" class="v">3</span>And
+  by great waters the seed of Sihor, the harvest of the river, <span
+  class="add">is</span> her revenue; and she is a mart of nations. </p>
+id: ISA/23/3
+next:
+  id: ISA/23/4
+  number: '4'
+previous:
+  id: ISA/23/2
+  number: '2'
+reference: 'Isaiah 23:3'

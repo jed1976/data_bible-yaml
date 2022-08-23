@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 21:7" class="v">7</span>¶ And
+  if a man sell his daughter to be a maidservant, she shall not go out as the
+  menservants do. </p>
+id: EXO/21/7
+next:
+  id: EXO/21/8
+  number: '8'
+previous:
+  id: EXO/21/6
+  number: '6'
+reference: 'Exodus 21:7'

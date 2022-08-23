@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="SNG 5:5" class="v">5</span>I rose
+  up to open to my beloved; and my hands dropped <span class="add">with</span>
+  myrrh, and my fingers <span class="add">with</span> sweet smelling myrrh, upon
+  the handles of the lock. </p>
+id: SNG/5/5
+next:
+  id: SNG/5/6
+  number: '6'
+previous:
+  id: SNG/5/4
+  number: '4'
+reference: 'Song of Solomon 5:5'

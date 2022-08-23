@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 143:5" class="v">5</span>I
+  remember the days of old; I meditate on all thy works; I muse on the work of
+  thy hands.</p>
+id: PSA/143/5
+next:
+  id: PSA/143/6
+  number: '6'
+previous:
+  id: PSA/143/4
+  number: '4'
+reference: 'Psalms 143:5'

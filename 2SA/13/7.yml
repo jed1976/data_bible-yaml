@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 13:7" class="v">7</span>Then
+  David sent home to Tamar, saying, Go now to thy brother Amnon’s house, and
+  dress him meat. </p>
+id: 2SA/13/7
+next:
+  id: 2SA/13/8
+  number: '8'
+previous:
+  id: 2SA/13/6
+  number: '6'
+reference: '2 Samuel 13:7'

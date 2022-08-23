@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NEH 11:11"
+  class="v">11</span>Seraiah the son of Hilkiah, the son of Meshullam, the son
+  of Zadok, the son of Meraioth, the son of Ahitub, <span class="add">was</span>
+  the ruler of the house of God. </p>
+id: NEH/11/11
+next:
+  id: NEH/11/12
+  number: '12'
+previous:
+  id: NEH/11/10
+  number: '10'
+reference: 'Nehemiah 11:11'

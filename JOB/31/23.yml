@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 31:23"
+  class="v">23</span>For destruction <span class="add">from</span> God <span
+  class="add">was</span> a terror to me, and by reason of his highness I could
+  not endure.</p>
+id: JOB/31/23
+next:
+  id: JOB/31/24
+  number: '24'
+previous:
+  id: JOB/31/22
+  number: '22'
+reference: 'Job 31:23'

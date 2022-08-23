@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2SA 20:3" class="v">3</span>¶ And
+  David came to his house at Jerusalem; and the king took the ten women <span
+  class="add">his</span> concubines, whom he had left to keep the house, and put
+  them in ward, and fed them, but went not in unto them. So they were shut up
+  unto the day of their death, living in widowhood.</p>
+id: 2SA/20/3
+next:
+  id: 2SA/20/4
+  number: '4'
+previous:
+  id: 2SA/20/2
+  number: '2'
+reference: '2 Samuel 20:3'

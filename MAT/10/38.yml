@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 10:38"
+  class="v">38</span><span class="wj">And he that taketh not his cross, and
+  followeth after me, is not worthy of me.</span> </p>
+id: MAT/10/38
+next:
+  id: MAT/10/39
+  number: '39'
+previous:
+  id: MAT/10/37
+  number: '37'
+reference: 'Matthew 10:38'

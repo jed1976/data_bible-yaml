@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 13:11"
+  class="v">11</span>And I will punish the world for <span
+  class="add">their</span> evil, and the wicked for their iniquity; and I will
+  cause the arrogancy of the proud to cease, and will lay low the haughtiness of
+  the terrible. </p>
+id: ISA/13/11
+next:
+  id: ISA/13/12
+  number: '12'
+previous:
+  id: ISA/13/10
+  number: '10'
+reference: 'Isaiah 13:11'

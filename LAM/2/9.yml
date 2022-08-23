@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LAM 2:9" class="v">9</span>Her
+  gates are sunk into the ground; he hath destroyed and broken her bars: her
+  king and her princes <span class="add">are</span> among the Gentiles: the law
+  <span class="add">is</span> no <span class="add">more;</span> her prophets
+  also find no vision from the <span class="nd">LORD</span>.</p>
+id: LAM/2/9
+next:
+  id: LAM/2/10
+  number: '10'
+previous:
+  id: LAM/2/8
+  number: '8'
+reference: 'Lamentations 2:9'

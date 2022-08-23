@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 24:25"
+  class="v">25</span>And as he reasoned of righteousness, temperance, and
+  judgment to come, Felix trembled, and answered, Go thy way for this time; when
+  I have a convenient season, I will call for thee. </p>
+id: ACT/24/25
+next:
+  id: ACT/24/26
+  number: '26'
+previous:
+  id: ACT/24/24
+  number: '24'
+reference: 'Acts 24:25'

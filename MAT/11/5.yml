@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 11:5" class="v">5</span><span
+  class="wj">The blind receive their sight, and the lame walk, the lepers are
+  cleansed, and the deaf hear, the dead are raised up, and the poor have the
+  gospel preached to them.</span> </p>
+id: MAT/11/5
+next:
+  id: MAT/11/6
+  number: '6'
+previous:
+  id: MAT/11/4
+  number: '4'
+reference: 'Matthew 11:5'

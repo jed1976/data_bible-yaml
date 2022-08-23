@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 10:5" class="v">5</span>When
+  they told <span class="add">it</span> unto David, he sent to meet them,
+  because the men were greatly ashamed: and the king said, Tarry at Jericho
+  until your beards be grown, and <span class="add">then</span> return.</p>
+id: 2SA/10/5
+next:
+  id: 2SA/10/6
+  number: '6'
+previous:
+  id: 2SA/10/4
+  number: '4'
+reference: '2 Samuel 10:5'

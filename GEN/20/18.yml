@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 20:18"
+  class="v">18</span>For the <span class="nd">LORD</span> had fast closed up all
+  the wombs of the house of Abimelech, because of Sarah Abraham’s wife.</p>
+id: GEN/20/18
+next:
+  id: GEN/21/1
+  number: '1'
+previous:
+  id: GEN/20/17
+  number: '17'
+reference: 'Genesis 20:18'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 18:18" class="v">18</span>¶
+  And Paul <span class="add">after this</span> tarried <span
+  class="add">there</span> yet a good while, and then took his leave of the
+  brethren, and sailed thence into Syria, and with him Priscilla and Aquila;
+  having shorn <span class="add">his</span> head in Cenchrea: for he had a vow.
+  </p>
+id: ACT/18/18
+next:
+  id: ACT/18/19
+  number: '19'
+previous:
+  id: ACT/18/17
+  number: '17'
+reference: 'Acts 18:18'

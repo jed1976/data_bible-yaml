@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 28:14"
+  class="v">14</span>And thou shalt not go aside from any of the words which I
+  command thee this day, <span class="add">to</span> the right hand, or <span
+  class="add">to</span> the left, to go after other gods to serve them.</p>
+id: DEU/28/14
+next:
+  id: DEU/28/15
+  number: '15'
+previous:
+  id: DEU/28/13
+  number: '13'
+reference: 'Deuteronomy 28:14'

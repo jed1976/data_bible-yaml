@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 42:16"
+  class="v">16</span>Then it shall come to pass, <span class="add">that</span>
+  the sword, which ye feared, shall overtake you there in the land of Egypt, and
+  the famine, whereof ye were afraid, shall follow close after you there in
+  Egypt; and there ye shall die. </p>
+id: JER/42/16
+next:
+  id: JER/42/17
+  number: '17'
+previous:
+  id: JER/42/15
+  number: '15'
+reference: 'Jeremiah 42:16'

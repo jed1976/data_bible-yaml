@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 5:35"
+  class="v">35</span>While he yet spake, there came from the ruler of the
+  synagogue’s <span class="add">house certain</span> which said, Thy daughter is
+  dead: why troublest thou the Master any further? </p>
+id: MRK/5/35
+next:
+  id: MRK/5/36
+  number: '36'
+previous:
+  id: MRK/5/34
+  number: '34'
+reference: 'Mark 5:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 23:7" class="v">7</span>And
+  he took up his parable, and said, Balak the king of Moab hath brought me from
+  Aram, out of the mountains of the east, <span class="add">saying</span>, Come,
+  curse me Jacob, and come, defy Israel. </p>
+id: NUM/23/7
+next:
+  id: NUM/23/8
+  number: '8'
+previous:
+  id: NUM/23/6
+  number: '6'
+reference: 'Numbers 23:7'

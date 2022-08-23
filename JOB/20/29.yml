@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 20:29"
+  class="v">29</span>This <span class="add">is</span> the portion of a wicked
+  man from God, and the heritage appointed unto him by God.</p>
+id: JOB/20/29
+next:
+  id: JOB/21/1
+  number: '1'
+previous:
+  id: JOB/20/28
+  number: '28'
+reference: 'Job 20:29'

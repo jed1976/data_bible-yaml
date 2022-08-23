@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 2:9" class="v">9</span>And
+  they buried him in the border of his inheritance in Timnath-heres, in the
+  mount of Ephraim, on the north side of the hill Gaash. </p>
+id: JDG/2/9
+next:
+  id: JDG/2/10
+  number: '10'
+previous:
+  id: JDG/2/8
+  number: '8'
+reference: 'Judges 2:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 23:4" class="v">4</span>¶
+  These <span class="add">are</span> the feasts of the <span
+  class="nd">LORD</span>, <span class="add">even</span> holy convocations, which
+  ye shall proclaim in their seasons. </p>
+id: LEV/23/4
+next:
+  id: LEV/23/5
+  number: '5'
+previous:
+  id: LEV/23/3
+  number: '3'
+reference: 'Leviticus 23:4'

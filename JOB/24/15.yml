@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 24:15"
+  class="v">15</span>The eye also of the adulterer waiteth for the twilight,
+  saying, No eye shall see me: and disguiseth <span class="add">his</span> face.
+  </p>
+id: JOB/24/15
+next:
+  id: JOB/24/16
+  number: '16'
+previous:
+  id: JOB/24/14
+  number: '14'
+reference: 'Job 24:15'

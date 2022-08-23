@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 3:5" class="v">5</span>And
+  Moses verily <span class="add">was</span> faithful in all his house, as a
+  servant, for a testimony of those things which were to be spoken after; </p>
+id: HEB/3/5
+next:
+  id: HEB/3/6
+  number: '6'
+previous:
+  id: HEB/3/4
+  number: '4'
+reference: 'Hebrews 3:5'

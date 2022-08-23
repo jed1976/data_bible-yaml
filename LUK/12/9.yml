@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 12:9" class="v">9</span><span
+  class="wj">But he that denieth me before men shall be denied before the angels
+  of God.</span> </p>
+id: LUK/12/9
+next:
+  id: LUK/12/10
+  number: '10'
+previous:
+  id: LUK/12/8
+  number: '8'
+reference: 'Luke 12:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="REV 2:21"
+  class="v">21</span><span class="wj">And I gave her space to repent of her
+  fornication; and she repented not.</span> </p>
+id: REV/2/21
+next:
+  id: REV/2/22
+  number: '22'
+previous:
+  id: REV/2/20
+  number: '20'
+reference: 'Revelation 2:21'

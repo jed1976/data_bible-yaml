@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 7:16" class="v">16</span>Be
+  not righteous over much; neither make thyself over wise: why shouldest thou
+  destroy thyself? </p>
+id: ECC/7/16
+next:
+  id: ECC/7/17
+  number: '17'
+previous:
+  id: ECC/7/15
+  number: '15'
+reference: 'Ecclesiastes 7:16'

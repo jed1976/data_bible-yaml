@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 29:31"
+  class="v">31</span>And one goat <span class="add">for</span> a sin offering;
+  beside the continual burnt offering, his meat offering, and his drink
+  offering.</p>
+id: NUM/29/31
+next:
+  id: NUM/29/32
+  number: '32'
+previous:
+  id: NUM/29/30
+  number: '30'
+reference: 'Numbers 29:31'

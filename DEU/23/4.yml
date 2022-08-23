@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 23:4"
+  class="v">4</span>Because they met you not with bread and with water in the
+  way, when ye came forth out of Egypt; and because they hired against thee
+  Balaam the son of Beor of Pethor of Mesopotamia, to curse thee. </p>
+id: DEU/23/4
+next:
+  id: DEU/23/5
+  number: '5'
+previous:
+  id: DEU/23/3
+  number: '3'
+reference: 'Deuteronomy 23:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 6:8" class="v">8</span>Also I
+  heard the voice of the Lord, saying, Whom shall I send, and who will go for
+  us? Then said I, Here <span class="add">am</span> I; send me.</p>
+id: ISA/6/8
+next:
+  id: ISA/6/9
+  number: '9'
+previous:
+  id: ISA/6/7
+  number: '7'
+reference: 'Isaiah 6:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 11:30"
+  class="v">30</span>Which also they did, and sent it to the elders by the hands
+  of Barnabas and Saul.</p>
+id: ACT/11/30
+next:
+  id: ACT/12/1
+  number: '1'
+previous:
+  id: ACT/11/29
+  number: '29'
+reference: 'Acts 11:30'

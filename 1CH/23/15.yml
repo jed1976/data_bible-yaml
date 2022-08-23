@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1CH 23:15"
+  class="v">15</span>The sons of Moses <span class="add">were</span>, Gershom,
+  and Eliezer. </p>
+id: 1CH/23/15
+next:
+  id: 1CH/23/16
+  number: '16'
+previous:
+  id: 1CH/23/14
+  number: '14'
+reference: '1 Chronicles 23:15'

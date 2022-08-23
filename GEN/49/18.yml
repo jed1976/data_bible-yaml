@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 49:18" class="v">18</span>I
+  have waited for thy salvation, O <span class="nd">LORD</span>.</p>
+id: GEN/49/18
+next:
+  id: GEN/49/19
+  number: '19'
+previous:
+  id: GEN/49/17
+  number: '17'
+reference: 'Genesis 49:18'

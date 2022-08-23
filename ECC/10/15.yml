@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 10:15"
+  class="v">15</span>The labour of the foolish wearieth every one of them,
+  because he knoweth not how to go to the city.</p>
+id: ECC/10/15
+next:
+  id: ECC/10/16
+  number: '16'
+previous:
+  id: ECC/10/14
+  number: '14'
+reference: 'Ecclesiastes 10:15'

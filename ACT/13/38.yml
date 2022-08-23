@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="ACT 13:38" class="v">38</span>¶
+  Be it known unto you therefore, men <span class="add">and</span> brethren,
+  that through this man is preached unto you the forgiveness of sins: </p>
+id: ACT/13/38
+next:
+  id: ACT/13/39
+  number: '39'
+previous:
+  id: ACT/13/37
+  number: '37'
+reference: 'Acts 13:38'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1JN 5:5" class="v">5</span>Who is
+  he that overcometh the world, but he that believeth that Jesus is the Son of
+  God? </p>
+id: 1JN/5/5
+next:
+  id: 1JN/5/6
+  number: '6'
+previous:
+  id: 1JN/5/4
+  number: '4'
+reference: '1 John 5:5'

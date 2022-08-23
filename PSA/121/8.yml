@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 121:8" class="v">8</span>The
+  <span class="nd">LORD</span> shall preserve thy going out and thy coming in
+  from this time forth, and even for evermore.</p>
+id: PSA/121/8
+next:
+  id: PSA/122/1
+  number: '1'
+previous:
+  id: PSA/121/7
+  number: '7'
+reference: 'Psalms 121:8'

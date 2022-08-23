@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HEB 3:12"
+  class="v">12</span>Take heed, brethren, lest there be in any of you an evil
+  heart of unbelief, in departing from the living God. </p>
+id: HEB/3/12
+next:
+  id: HEB/3/13
+  number: '13'
+previous:
+  id: HEB/3/11
+  number: '11'
+reference: 'Hebrews 3:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 79:6"
+  class="v">6</span>Pour out thy wrath upon the heathen that have not known
+  thee, and upon the kingdoms that have not called upon thy name.</p>
+id: PSA/79/6
+next:
+  id: PSA/79/7
+  number: '7'
+previous:
+  id: PSA/79/5
+  number: '5'
+reference: 'Psalms 79:6'

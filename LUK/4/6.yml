@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 4:6" class="v">6</span>And
+  the devil said unto him, All this power will I give thee, and the glory of
+  them: for that is delivered unto me; and to whomsoever I will I give it. </p>
+id: LUK/4/6
+next:
+  id: LUK/4/7
+  number: '7'
+previous:
+  id: LUK/4/5
+  number: '5'
+reference: 'Luke 4:6'

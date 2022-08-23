@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 26:17" class="v">17</span>Of
+  Arod, the family of the Arodites: of Areli, the family of the Arelites. </p>
+id: NUM/26/17
+next:
+  id: NUM/26/18
+  number: '18'
+previous:
+  id: NUM/26/16
+  number: '16'
+reference: 'Numbers 26:17'

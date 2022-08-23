@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 4:12" class="v">12</span>But
+  they know not the thoughts of the <span class="nd">LORD</span>, neither
+  understand they his counsel: for he shall gather them as the sheaves into the
+  floor. </p>
+id: MIC/4/12
+next:
+  id: MIC/4/13
+  number: '13'
+previous:
+  id: MIC/4/11
+  number: '11'
+reference: 'Micah 4:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LEV 25:38" class="v">38</span>I
+  <span class="add">am</span> the <span class="nd">LORD</span> your God, which
+  brought you forth out of the land of Egypt, to give you the land of Canaan,
+  <span class="add">and</span> to be your God.</p>
+id: LEV/25/38
+next:
+  id: LEV/25/39
+  number: '39'
+previous:
+  id: LEV/25/37
+  number: '37'
+reference: 'Leviticus 25:38'

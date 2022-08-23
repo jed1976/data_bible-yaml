@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 5:5" class="v">5</span>Better
+  <span class="add">is it</span> that thou shouldest not vow, than that thou
+  shouldest vow and not pay. </p>
+id: ECC/5/5
+next:
+  id: ECC/5/6
+  number: '6'
+previous:
+  id: ECC/5/4
+  number: '4'
+reference: 'Ecclesiastes 5:5'

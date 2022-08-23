@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 23:4" class="v">4</span>And
+  God met Balaam: and he said unto him, I have prepared seven altars, and I have
+  offered upon <span class="add">every</span> altar a bullock and a ram. </p>
+id: NUM/23/4
+next:
+  id: NUM/23/5
+  number: '5'
+previous:
+  id: NUM/23/3
+  number: '3'
+reference: 'Numbers 23:4'

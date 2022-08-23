@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 31:6" class="v">6</span>¶
+  Turn ye unto <span class="add">him from</span> whom the children of Israel
+  have deeply revolted. </p>
+id: ISA/31/6
+next:
+  id: ISA/31/7
+  number: '7'
+previous:
+  id: ISA/31/5
+  number: '5'
+reference: 'Isaiah 31:6'

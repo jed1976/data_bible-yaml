@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 2:15" class="v">15</span>For
+  these are not drunken, as ye suppose, seeing it is <span
+  class="add">but</span> the third hour of the day. </p>
+id: ACT/2/15
+next:
+  id: ACT/2/16
+  number: '16'
+previous:
+  id: ACT/2/14
+  number: '14'
+reference: 'Acts 2:15'

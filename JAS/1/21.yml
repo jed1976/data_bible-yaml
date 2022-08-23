@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JAS 1:21"
+  class="v">21</span>Wherefore lay apart all filthiness and superfluity of
+  naughtiness, and receive with meekness the engrafted word, which is able to
+  save your souls. </p>
+id: JAS/1/21
+next:
+  id: JAS/1/22
+  number: '22'
+previous:
+  id: JAS/1/20
+  number: '20'
+reference: 'James 1:21'

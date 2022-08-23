@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="REV 13:5" class="v">5</span>And
+  there was given unto him a mouth speaking great things and blasphemies; and
+  power was given unto him to continue forty <span class="add">and</span> two
+  months. </p>
+id: REV/13/5
+next:
+  id: REV/13/6
+  number: '6'
+previous:
+  id: REV/13/4
+  number: '4'
+reference: 'Revelation 13:5'

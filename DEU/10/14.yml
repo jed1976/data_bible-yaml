@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 10:14"
+  class="v">14</span>Behold, the heaven and the heaven of heavens <span
+  class="add">is</span> the <span class="nd">LORD’s</span> thy God, the earth
+  <span class="add">also</span>, with all that therein <span
+  class="add">is</span>. </p>
+id: DEU/10/14
+next:
+  id: DEU/10/15
+  number: '15'
+previous:
+  id: DEU/10/13
+  number: '13'
+reference: 'Deuteronomy 10:14'

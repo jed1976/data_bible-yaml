@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JOB 36:31"
+  class="v">31</span>For by them judgeth he the people; he giveth meat in
+  abundance. </p>
+id: JOB/36/31
+next:
+  id: JOB/36/32
+  number: '32'
+previous:
+  id: JOB/36/30
+  number: '30'
+reference: 'Job 36:31'

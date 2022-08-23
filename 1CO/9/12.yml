@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CO 9:12" class="v">12</span>If
+  others be partakers of <span class="add">this</span> power over you, <span
+  class="add">are</span> not we rather? Nevertheless we have not used this
+  power; but suffer all things, lest we should hinder the gospel of Christ. </p>
+id: 1CO/9/12
+next:
+  id: 1CO/9/13
+  number: '13'
+previous:
+  id: 1CO/9/11
+  number: '11'
+reference: '1 Corinthians 9:12'

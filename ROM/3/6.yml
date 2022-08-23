@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 3:6" class="v">6</span>God
+  forbid: for then how shall God judge the world? </p>
+id: ROM/3/6
+next:
+  id: ROM/3/7
+  number: '7'
+previous:
+  id: ROM/3/5
+  number: '5'
+reference: 'Romans 3:6'

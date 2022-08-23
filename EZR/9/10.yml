@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 9:10" class="v">10</span>And
+  now, O our God, what shall we say after this? for we have forsaken thy
+  commandments, </p>
+id: EZR/9/10
+next:
+  id: EZR/9/11
+  number: '11'
+previous:
+  id: EZR/9/9
+  number: '9'
+reference: 'Ezra 9:10'

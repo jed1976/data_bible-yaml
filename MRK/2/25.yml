@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 2:25" class="v">25</span>And
+  he said unto them, <span class="wj">Have ye never read what David did, when he
+  had need, and was an hungred, he, and they that were with him?</span> </p>
+id: MRK/2/25
+next:
+  id: MRK/2/26
+  number: '26'
+previous:
+  id: MRK/2/24
+  number: '24'
+reference: 'Mark 2:25'

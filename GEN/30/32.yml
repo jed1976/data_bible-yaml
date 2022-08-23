@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 30:32" class="v">32</span>I
+  will pass through all thy flock to day, removing from thence all the speckled
+  and spotted cattle, and all the brown cattle among the sheep, and the spotted
+  and speckled among the goats: and <span class="add">of such</span> shall be my
+  hire. </p>
+id: GEN/30/32
+next:
+  id: GEN/30/33
+  number: '33'
+previous:
+  id: GEN/30/31
+  number: '31'
+reference: 'Genesis 30:32'

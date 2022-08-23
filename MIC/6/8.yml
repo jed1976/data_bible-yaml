@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MIC 6:8" class="v">8</span>He
+  hath shewed thee, O man, what <span class="add">is</span> good; and what doth
+  the <span class="nd">LORD</span> require of thee, but to do justly, and to
+  love mercy, and to walk humbly with thy God?</p>
+id: MIC/6/8
+next:
+  id: MIC/6/9
+  number: '9'
+previous:
+  id: MIC/6/7
+  number: '7'
+reference: 'Micah 6:8'

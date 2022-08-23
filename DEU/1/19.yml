@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 1:19" class="v">19</span>¶
+  And when we departed from Horeb, we went through all that great and terrible
+  wilderness, which ye saw by the way of the mountain of the Amorites, as the
+  <span class="nd">LORD</span> our God commanded us; and we came to
+  Kadesh-barnea. </p>
+id: DEU/1/19
+next:
+  id: DEU/1/20
+  number: '20'
+previous:
+  id: DEU/1/18
+  number: '18'
+reference: 'Deuteronomy 1:19'

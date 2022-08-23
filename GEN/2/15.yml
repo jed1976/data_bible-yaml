@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 2:15" class="v">15</span>And
+  the <span class="nd">LORD</span> God took the man, and put him into the garden
+  of Eden to dress it and to keep it.</p>
+id: GEN/2/15
+next:
+  id: GEN/2/16
+  number: '16'
+previous:
+  id: GEN/2/14
+  number: '14'
+reference: 'Genesis 2:15'

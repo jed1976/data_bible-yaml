@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 14:20"
+  class="v">20</span><span class="wj">And another said, I have married a wife,
+  and therefore I cannot come.</span> </p>
+id: LUK/14/20
+next:
+  id: LUK/14/21
+  number: '21'
+previous:
+  id: LUK/14/19
+  number: '19'
+reference: 'Luke 14:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JUD 1:11" class="v">11</span>Woe
+  unto them! for they have gone in the way of Cain, and ran greedily after the
+  error of Balaam for reward, and perished in the gainsaying of Core. </p>
+id: JUD/1/11
+next:
+  id: JUD/1/12
+  number: '12'
+previous:
+  id: JUD/1/10
+  number: '10'
+reference: 'Jude 1:11'

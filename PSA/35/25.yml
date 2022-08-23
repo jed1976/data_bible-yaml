@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 35:25"
+  class="v">25</span>Let them not say in their hearts, Ah, so would we have it:
+  let them not say, We have swallowed him up.</p>
+id: PSA/35/25
+next:
+  id: PSA/35/26
+  number: '26'
+previous:
+  id: PSA/35/24
+  number: '24'
+reference: 'Psalms 35:25'

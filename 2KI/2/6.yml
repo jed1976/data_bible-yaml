@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 2:6" class="v">6</span>And
+  Elijah said unto him, Tarry, I pray thee, here; for the <span
+  class="nd">LORD</span> hath sent me to Jordan. And he said, <span
+  class="add">As</span> the <span class="nd">LORD</span> liveth, and <span
+  class="add">as</span> thy soul liveth, I will not leave thee. And they two
+  went on. </p>
+id: 2KI/2/6
+next:
+  id: 2KI/2/7
+  number: '7'
+previous:
+  id: 2KI/2/5
+  number: '5'
+reference: '2 Kings 2:6'

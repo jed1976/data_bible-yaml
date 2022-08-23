@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2SA 3:15" class="v">15</span>And
+  Ish-bosheth sent, and took her from <span class="add">her</span> husband,
+  <span class="add">even</span> from Phaltiel the son of Laish. </p>
+id: 2SA/3/15
+next:
+  id: 2SA/3/16
+  number: '16'
+previous:
+  id: 2SA/3/14
+  number: '14'
+reference: '2 Samuel 3:15'

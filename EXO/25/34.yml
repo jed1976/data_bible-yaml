@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EXO 25:34"
+  class="v">34</span>And in the candlestick <span class="add">shall be</span>
+  four bowls made like unto almonds, <span class="add">with</span> their knops
+  and their flowers. </p>
+id: EXO/25/34
+next:
+  id: EXO/25/35
+  number: '35'
+previous:
+  id: EXO/25/33
+  number: '33'
+reference: 'Exodus 25:34'

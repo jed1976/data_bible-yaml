@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 33:20"
+  class="v">20</span>Our soul waiteth for the <span class="nd">LORD</span>: he
+  <span class="add">is</span> our help and our shield.</p>
+id: PSA/33/20
+next:
+  id: PSA/33/21
+  number: '21'
+previous:
+  id: PSA/33/19
+  number: '19'
+reference: 'Psalms 33:20'

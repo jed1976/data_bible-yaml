@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 16:26"
+  class="v">26</span><span class="wj">For what is a man profited, if he shall
+  gain the whole world, and lose his own soul? or what shall a man give in
+  exchange for his soul?</span> </p>
+id: MAT/16/26
+next:
+  id: MAT/16/27
+  number: '27'
+previous:
+  id: MAT/16/25
+  number: '25'
+reference: 'Matthew 16:26'

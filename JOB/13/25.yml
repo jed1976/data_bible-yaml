@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 13:25"
+  class="v">25</span>Wilt thou break a leaf driven to and fro? and wilt thou
+  pursue the dry stubble? </p>
+id: JOB/13/25
+next:
+  id: JOB/13/26
+  number: '26'
+previous:
+  id: JOB/13/24
+  number: '24'
+reference: 'Job 13:25'

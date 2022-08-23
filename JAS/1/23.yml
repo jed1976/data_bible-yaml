@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JAS 1:23" class="v">23</span>For
+  if any be a hearer of the word, and not a doer, he is like unto a man
+  beholding his natural face in a glass: </p>
+id: JAS/1/23
+next:
+  id: JAS/1/24
+  number: '24'
+previous:
+  id: JAS/1/22
+  number: '22'
+reference: 'James 1:23'

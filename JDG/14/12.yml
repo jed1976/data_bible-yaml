@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 14:12" class="v">12</span>¶
+  And Samson said unto them, I will now put forth a riddle unto you: if ye can
+  certainly declare it me within the seven days of the feast, and find <span
+  class="add">it</span> out, then I will give you thirty sheets and thirty
+  change of garments: </p>
+id: JDG/14/12
+next:
+  id: JDG/14/13
+  number: '13'
+previous:
+  id: JDG/14/11
+  number: '11'
+reference: 'Judges 14:12'

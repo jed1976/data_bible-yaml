@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 11:19"
+  class="v">19</span>Also thou shalt lie down, and none shall make <span
+  class="add">thee</span> afraid; yea, many shall make suit unto thee. </p>
+id: JOB/11/19
+next:
+  id: JOB/11/20
+  number: '20'
+previous:
+  id: JOB/11/18
+  number: '18'
+reference: 'Job 11:19'

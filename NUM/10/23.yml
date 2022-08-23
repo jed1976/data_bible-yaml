@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="NUM 10:23"
+  class="v">23</span>And over the host of the tribe of the children of Manasseh
+  <span class="add">was</span> Gamaliel the son of Pedahzur. </p>
+id: NUM/10/23
+next:
+  id: NUM/10/24
+  number: '24'
+previous:
+  id: NUM/10/22
+  number: '22'
+reference: 'Numbers 10:23'

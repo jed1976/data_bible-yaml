@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NAM 3:6" class="v">6</span>And I
+  will cast abominable filth upon thee, and make thee vile, and will set thee as
+  a gazingstock. </p>
+id: NAM/3/6
+next:
+  id: NAM/3/7
+  number: '7'
+previous:
+  id: NAM/3/5
+  number: '5'
+reference: 'Nahum 3:6'

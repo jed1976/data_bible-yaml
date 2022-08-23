@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 5:8" class="v">8</span>¶ Woe
+  unto them that join house to house, <span class="add">that</span> lay field to
+  field, till <span class="add">there be</span> no place, that they may be
+  placed alone in the midst of the earth! </p>
+id: ISA/5/8
+next:
+  id: ISA/5/9
+  number: '9'
+previous:
+  id: ISA/5/7
+  number: '7'
+reference: 'Isaiah 5:8'

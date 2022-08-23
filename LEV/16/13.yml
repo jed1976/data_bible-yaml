@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 16:13"
+  class="v">13</span>And he shall put the incense upon the fire before the <span
+  class="nd">LORD</span>, that the cloud of the incense may cover the mercy seat
+  that <span class="add">is</span> upon the testimony, that he die not: </p>
+id: LEV/16/13
+next:
+  id: LEV/16/14
+  number: '14'
+previous:
+  id: LEV/16/12
+  number: '12'
+reference: 'Leviticus 16:13'

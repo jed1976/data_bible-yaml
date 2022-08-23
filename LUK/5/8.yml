@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LUK 5:8" class="v">8</span>When
+  Simon Peter saw <span class="add">it</span>, he fell down at Jesus’ knees,
+  saying, Depart from me; for I am a sinful man, O Lord. </p>
+id: LUK/5/8
+next:
+  id: LUK/5/9
+  number: '9'
+previous:
+  id: LUK/5/7
+  number: '7'
+reference: 'Luke 5:8'

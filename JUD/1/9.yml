@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JUD 1:9" class="v">9</span>Yet
+  Michael the archangel, when contending with the devil he disputed about the
+  body of Moses, durst not bring against him a railing accusation, but said, The
+  Lord rebuke thee. </p>
+id: JUD/1/9
+next:
+  id: JUD/1/10
+  number: '10'
+previous:
+  id: JUD/1/8
+  number: '8'
+reference: 'Jude 1:9'

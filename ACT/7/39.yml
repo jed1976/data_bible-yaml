@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="ACT 7:39" class="v">39</span>To
+  whom our fathers would not obey, but thrust <span class="add">him</span> from
+  them, and in their hearts turned back again into Egypt, </p>
+id: ACT/7/39
+next:
+  id: ACT/7/40
+  number: '40'
+previous:
+  id: ACT/7/38
+  number: '38'
+reference: 'Acts 7:39'

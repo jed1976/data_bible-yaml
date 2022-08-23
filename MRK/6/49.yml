@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="MRK 6:49" class="v">49</span>But
+  when they saw him walking upon the sea, they supposed it had been a spirit,
+  and cried out: </p>
+id: MRK/6/49
+next:
+  id: MRK/6/50
+  number: '50'
+previous:
+  id: MRK/6/48
+  number: '48'
+reference: 'Mark 6:49'

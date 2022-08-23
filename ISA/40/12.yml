@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 40:12" class="v">12</span>¶
+  Who hath measured the waters in the hollow of his hand, and meted out heaven
+  with the span, and comprehended the dust of the earth in a measure, and
+  weighed the mountains in scales, and the hills in a balance? </p>
+id: ISA/40/12
+next:
+  id: ISA/40/13
+  number: '13'
+previous:
+  id: ISA/40/11
+  number: '11'
+reference: 'Isaiah 40:12'

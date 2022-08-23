@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2TH 1:5" class="v">5</span><span
+  class="add">Which is</span> a manifest token of the righteous judgment of God,
+  that ye may be counted worthy of the kingdom of God, for which ye also suffer:
+  </p>
+id: 2TH/1/5
+next:
+  id: 2TH/1/6
+  number: '6'
+previous:
+  id: 2TH/1/4
+  number: '4'
+reference: '2 Thessalonians 1:5'

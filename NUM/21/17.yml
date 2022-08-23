@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 21:17" class="v">17</span>¶
+  Then Israel sang this song, Spring up, O well; sing ye unto it: </p>
+id: NUM/21/17
+next:
+  id: NUM/21/18
+  number: '18'
+previous:
+  id: NUM/21/16
+  number: '16'
+reference: 'Numbers 21:17'

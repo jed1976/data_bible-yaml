@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MAT 18:14"
+  class="v">14</span><span class="wj">Even so it is not the will of your Father
+  which is in heaven, that one of these little ones should perish.</span></p>
+id: MAT/18/14
+next:
+  id: MAT/18/15
+  number: '15'
+previous:
+  id: MAT/18/13
+  number: '13'
+reference: 'Matthew 18:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MIC 7:15"
+  class="v">15</span>According to the days of thy coming out of the land of
+  Egypt will I shew unto him marvellous <span class="add">things</span>.</p>
+id: MIC/7/15
+next:
+  id: MIC/7/16
+  number: '16'
+previous:
+  id: MIC/7/14
+  number: '14'
+reference: 'Micah 7:15'

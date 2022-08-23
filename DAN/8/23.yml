@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DAN 8:23" class="v">23</span>And
+  in the latter time of their kingdom, when the transgressors are come to the
+  full, a king of fierce countenance, and understanding dark sentences, shall
+  stand up. </p>
+id: DAN/8/23
+next:
+  id: DAN/8/24
+  number: '24'
+previous:
+  id: DAN/8/22
+  number: '22'
+reference: 'Daniel 8:23'

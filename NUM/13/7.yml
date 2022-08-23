@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 13:7" class="v">7</span>Of
+  the tribe of Issachar, Igal the son of Joseph. </p>
+id: NUM/13/7
+next:
+  id: NUM/13/8
+  number: '8'
+previous:
+  id: NUM/13/6
+  number: '6'
+reference: 'Numbers 13:7'

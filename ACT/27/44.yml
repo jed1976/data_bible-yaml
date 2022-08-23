@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="ACT 27:44"
+  class="v">44</span>And the rest, some on boards, and some on <span
+  class="add">broken pieces</span> of the ship. And so it came to pass, that
+  they escaped all safe to land.</p>
+id: ACT/27/44
+next:
+  id: ACT/28/1
+  number: '1'
+previous:
+  id: ACT/27/43
+  number: '43'
+reference: 'Acts 27:44'

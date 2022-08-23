@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 1:15" class="v">15</span>And
+  the priest shall bring it unto the altar, and wring off his head, and burn
+  <span class="add">it</span> on the altar; and the blood thereof shall be wrung
+  out at the side of the altar: </p>
+id: LEV/1/15
+next:
+  id: LEV/1/16
+  number: '16'
+previous:
+  id: LEV/1/14
+  number: '14'
+reference: 'Leviticus 1:15'

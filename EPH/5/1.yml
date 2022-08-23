@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EPH 5:1" class="v">1</span>Be ye
+  therefore followers of God, as dear children; </p>
+id: EPH/5/1
+next:
+  id: EPH/5/2
+  number: '2'
+previous:
+  id: EPH/4/32
+  number: '32'
+reference: 'Ephesians 5:1'

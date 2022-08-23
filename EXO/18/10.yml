@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 18:10"
+  class="v">10</span>And Jethro said, Blessed <span class="add">be</span> the
+  <span class="nd">LORD</span>, who hath delivered you out of the hand of the
+  Egyptians, and out of the hand of Pharaoh, who hath delivered the people from
+  under the hand of the Egyptians. </p>
+id: EXO/18/10
+next:
+  id: EXO/18/11
+  number: '11'
+previous:
+  id: EXO/18/9
+  number: '9'
+reference: 'Exodus 18:10'

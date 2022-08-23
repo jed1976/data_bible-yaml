@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 35:27"
+  class="v">27</span>And the revenger of blood find him without the borders of
+  the city of his refuge, and the revenger of blood kill the slayer; he shall
+  not be guilty of blood: </p>
+id: NUM/35/27
+next:
+  id: NUM/35/28
+  number: '28'
+previous:
+  id: NUM/35/26
+  number: '26'
+reference: 'Numbers 35:27'

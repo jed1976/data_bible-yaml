@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 78:4" class="v">4</span>We
+  will not hide <span class="add">them</span> from their children, shewing to
+  the generation to come the praises of the <span class="nd">LORD</span>, and
+  his strength, and his wonderful works that he hath done.</p>
+id: PSA/78/4
+next:
+  id: PSA/78/5
+  number: '5'
+previous:
+  id: PSA/78/3
+  number: '3'
+reference: 'Psalms 78:4'

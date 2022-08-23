@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOL 1:15"
+  class="v">15</span>Alas for the day! for the day of the <span
+  class="nd">LORD</span> <span class="add">is</span> at hand, and as a
+  destruction from the Almighty shall it come. </p>
+id: JOL/1/15
+next:
+  id: JOL/1/16
+  number: '16'
+previous:
+  id: JOL/1/14
+  number: '14'
+reference: 'Joel 1:15'

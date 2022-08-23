@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 45:15"
+  class="v">15</span>Verily thou <span class="add">art</span> a God that hidest
+  thyself, O God of Israel, the Saviour. </p>
+id: ISA/45/15
+next:
+  id: ISA/45/16
+  number: '16'
+previous:
+  id: ISA/45/14
+  number: '14'
+reference: 'Isaiah 45:15'

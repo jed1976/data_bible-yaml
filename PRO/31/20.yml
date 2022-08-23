@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 31:20"
+  class="v">20</span>She stretcheth out her hand to the poor; yea, she reacheth
+  forth her hands to the needy. </p>
+id: PRO/31/20
+next:
+  id: PRO/31/21
+  number: '21'
+previous:
+  id: PRO/31/19
+  number: '19'
+reference: 'Proverbs 31:20'

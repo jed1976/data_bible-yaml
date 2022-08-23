@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 25:41"
+  class="v">41</span><span class="wj">Then shall he say also unto them on the
+  left hand, Depart from me, ye cursed, into everlasting fire, prepared for the
+  devil and his angels:</span> </p>
+id: MAT/25/41
+next:
+  id: MAT/25/42
+  number: '42'
+previous:
+  id: MAT/25/40
+  number: '40'
+reference: 'Matthew 25:41'

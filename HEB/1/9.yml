@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HEB 1:9" class="v">9</span>Thou
+  hast loved righteousness, and hated iniquity; therefore God, <span
+  class="add">even</span> thy God, hath anointed thee with the oil of gladness
+  above thy fellows. </p>
+id: HEB/1/9
+next:
+  id: HEB/1/10
+  number: '10'
+previous:
+  id: HEB/1/8
+  number: '8'
+reference: 'Hebrews 1:9'

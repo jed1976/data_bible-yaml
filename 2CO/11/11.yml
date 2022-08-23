@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CO 11:11"
+  class="v">11</span>Wherefore? because I love you not? God knoweth. </p>
+id: 2CO/11/11
+next:
+  id: 2CO/11/12
+  number: '12'
+previous:
+  id: 2CO/11/10
+  number: '10'
+reference: '2 Corinthians 11:11'

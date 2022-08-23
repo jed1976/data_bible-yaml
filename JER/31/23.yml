@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 31:23"
+  class="v">23</span>Thus saith the <span class="nd">LORD</span> of hosts, the
+  God of Israel; As yet they shall use this speech in the land of Judah and in
+  the cities thereof, when I shall bring again their captivity; The <span
+  class="nd">LORD</span> bless thee, O habitation of justice, <span
+  class="add">and</span> mountain of holiness. </p>
+id: JER/31/23
+next:
+  id: JER/31/24
+  number: '24'
+previous:
+  id: JER/31/22
+  number: '22'
+reference: 'Jeremiah 31:23'

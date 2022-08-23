@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 32:7" class="v">7</span>The
+  instruments also of the churl <span class="add">are</span> evil: he deviseth
+  wicked devices to destroy the poor with lying words, even when the needy
+  speaketh right. </p>
+id: ISA/32/7
+next:
+  id: ISA/32/8
+  number: '8'
+previous:
+  id: ISA/32/6
+  number: '6'
+reference: 'Isaiah 32:7'

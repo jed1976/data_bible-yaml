@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 21:24"
+  class="v">24</span>And Abraham said, I will swear. </p>
+id: GEN/21/24
+next:
+  id: GEN/21/25
+  number: '25'
+previous:
+  id: GEN/21/23
+  number: '23'
+reference: 'Genesis 21:24'

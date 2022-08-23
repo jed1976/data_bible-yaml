@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 2:22" class="v">22</span>Ye
+  men of Israel, hear these words; Jesus of Nazareth, a man approved of God
+  among you by miracles and wonders and signs, which God did by him in the midst
+  of you, as ye yourselves also know: </p>
+id: ACT/2/22
+next:
+  id: ACT/2/23
+  number: '23'
+previous:
+  id: ACT/2/21
+  number: '21'
+reference: 'Acts 2:22'

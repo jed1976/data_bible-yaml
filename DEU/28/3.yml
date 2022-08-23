@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 28:3"
+  class="v">3</span>Blessed <span class="add">shalt</span> thou <span
+  class="add">be</span> in the city, and blessed <span class="add">shalt</span>
+  thou <span class="add">be</span> in the field. </p>
+id: DEU/28/3
+next:
+  id: DEU/28/4
+  number: '4'
+previous:
+  id: DEU/28/2
+  number: '2'
+reference: 'Deuteronomy 28:3'

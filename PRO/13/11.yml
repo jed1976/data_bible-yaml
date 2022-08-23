@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 13:11"
+  class="v">11</span>Wealth <span class="add">gotten</span> by vanity shall be
+  diminished: but he that gathereth by labour shall increase. </p>
+id: PRO/13/11
+next:
+  id: PRO/13/12
+  number: '12'
+previous:
+  id: PRO/13/10
+  number: '10'
+reference: 'Proverbs 13:11'

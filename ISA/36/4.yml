@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 36:4" class="v">4</span>¶ And
+  Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king,
+  the king of Assyria, What confidence <span class="add">is</span> this wherein
+  thou trustest? </p>
+id: ISA/36/4
+next:
+  id: ISA/36/5
+  number: '5'
+previous:
+  id: ISA/36/3
+  number: '3'
+reference: 'Isaiah 36:4'

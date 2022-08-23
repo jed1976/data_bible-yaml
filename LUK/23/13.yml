@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 23:13" class="v">13</span>¶
+  And Pilate, when he had called together the chief priests and the rulers and
+  the people, </p>
+id: LUK/23/13
+next:
+  id: LUK/23/14
+  number: '14'
+previous:
+  id: LUK/23/12
+  number: '12'
+reference: 'Luke 23:13'

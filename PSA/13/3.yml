@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 13:3"
+  class="v">3</span>Consider <span class="add">and</span> hear me, O <span
+  class="nd">LORD</span> my God: lighten mine eyes, lest I sleep the <span
+  class="add">sleep of</span> death;</p>
+id: PSA/13/3
+next:
+  id: PSA/13/4
+  number: '4'
+previous:
+  id: PSA/13/2
+  number: '2'
+reference: 'Psalms 13:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 44:4" class="v">4</span>And
+  they shall spring up <span class="add">as</span> among the grass, as willows
+  by the water courses. </p>
+id: ISA/44/4
+next:
+  id: ISA/44/5
+  number: '5'
+previous:
+  id: ISA/44/3
+  number: '3'
+reference: 'Isaiah 44:4'

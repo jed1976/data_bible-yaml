@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 11:1" class="v">1</span>Now
+  Jephthah the Gileadite was a mighty man of valour, and he <span
+  class="add">was</span> the son of an harlot: and Gilead begat Jephthah. </p>
+id: JDG/11/1
+next:
+  id: JDG/11/2
+  number: '2'
+previous:
+  id: JDG/10/18
+  number: '18'
+reference: 'Judges 11:1'

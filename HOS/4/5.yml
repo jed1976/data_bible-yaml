@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 4:5"
+  class="v">5</span>Therefore shalt thou fall in the day, and the prophet also
+  shall fall with thee in the night, and I will destroy thy mother.</p>
+id: HOS/4/5
+next:
+  id: HOS/4/6
+  number: '6'
+previous:
+  id: HOS/4/4
+  number: '4'
+reference: 'Hosea 4:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CH 24:8" class="v">8</span>And
+  at the king’s commandment they made a chest, and set it without at the gate of
+  the house of the <span class="nd">LORD</span>. </p>
+id: 2CH/24/8
+next:
+  id: 2CH/24/9
+  number: '9'
+previous:
+  id: 2CH/24/7
+  number: '7'
+reference: '2 Chronicles 24:8'

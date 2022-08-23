@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 11:25" class="v">25</span>¶
+  At that time Jesus answered and said, <span class="wj">I thank thee, O Father,
+  Lord of heaven and earth, because thou hast hid these things from the wise and
+  prudent, and hast revealed them unto babes.</span> </p>
+id: MAT/11/25
+next:
+  id: MAT/11/26
+  number: '26'
+previous:
+  id: MAT/11/24
+  number: '24'
+reference: 'Matthew 11:25'

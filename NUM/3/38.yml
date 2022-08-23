@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="NUM 3:38" class="v">38</span>¶
+  But those that encamp before the tabernacle toward the east, <span
+  class="add">even</span> before the tabernacle of the congregation eastward,
+  <span class="add">shall be</span> Moses, and Aaron and his sons, keeping the
+  charge of the sanctuary for the charge of the children of Israel; and the
+  stranger that cometh nigh shall be put to death. </p>
+id: NUM/3/38
+next:
+  id: NUM/3/39
+  number: '39'
+previous:
+  id: NUM/3/37
+  number: '37'
+reference: 'Numbers 3:38'

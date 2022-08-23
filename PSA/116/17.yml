@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 116:17"
+  class="v">17</span>I will offer to thee the sacrifice of thanksgiving, and
+  will call upon the name of the <span class="nd">LORD</span>.</p>
+id: PSA/116/17
+next:
+  id: PSA/116/18
+  number: '18'
+previous:
+  id: PSA/116/16
+  number: '16'
+reference: 'Psalms 116:17'

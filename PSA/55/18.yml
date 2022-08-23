@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 55:18"
+  class="v">18</span>He hath delivered my soul in peace from the battle <span
+  class="add">that was</span> against me: for there were many with me.</p>
+id: PSA/55/18
+next:
+  id: PSA/55/19
+  number: '19'
+previous:
+  id: PSA/55/17
+  number: '17'
+reference: 'Psalms 55:18'

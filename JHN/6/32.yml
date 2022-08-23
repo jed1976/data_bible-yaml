@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JHN 6:32"
+  class="v">32</span>Then Jesus said unto them, <span class="wj">Verily, verily,
+  I say unto you, Moses gave you not that bread from heaven; but my Father
+  giveth you the true bread from heaven.</span> </p>
+id: JHN/6/32
+next:
+  id: JHN/6/33
+  number: '33'
+previous:
+  id: JHN/6/31
+  number: '31'
+reference: 'John 6:32'

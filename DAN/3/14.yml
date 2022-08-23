@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DAN 3:14"
+  class="v">14</span>Nebuchadnezzar spake and said unto them, <span
+  class="add">Is it</span> true, O Shadrach, Meshach, and Abed-nego, do not ye
+  serve my gods, nor worship the golden image which I have set up? </p>
+id: DAN/3/14
+next:
+  id: DAN/3/15
+  number: '15'
+previous:
+  id: DAN/3/13
+  number: '13'
+reference: 'Daniel 3:14'

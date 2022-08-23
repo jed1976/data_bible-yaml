@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 38:11" class="v">11</span>I
+  said, I shall not see the <span class="nd">LORD</span>, <span
+  class="add">even</span> the <span class="nd">LORD</span>, in the land of the
+  living: I shall behold man no more with the inhabitants of the world. </p>
+id: ISA/38/11
+next:
+  id: ISA/38/12
+  number: '12'
+previous:
+  id: ISA/38/10
+  number: '10'
+reference: 'Isaiah 38:11'

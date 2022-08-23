@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 18:19"
+  class="v">19</span>And it shall come to pass, <span class="add">that</span>
+  whosoever will not hearken unto my words which he shall speak in my name, I
+  will require <span class="add">it</span> of him. </p>
+id: DEU/18/19
+next:
+  id: DEU/18/20
+  number: '20'
+previous:
+  id: DEU/18/18
+  number: '18'
+reference: 'Deuteronomy 18:19'

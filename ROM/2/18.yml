@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ROM 2:18" class="v">18</span>And
+  knowest <span class="add">his</span> will, and approvest the things that are
+  more excellent, being instructed out of the law; </p>
+id: ROM/2/18
+next:
+  id: ROM/2/19
+  number: '19'
+previous:
+  id: ROM/2/17
+  number: '17'
+reference: 'Romans 2:18'

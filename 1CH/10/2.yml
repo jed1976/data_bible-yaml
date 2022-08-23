@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CH 10:2" class="v">2</span>And
+  the Philistines followed hard after Saul, and after his sons; and the
+  Philistines slew Jonathan, and Abinadab, and Malchi-shua, the sons of Saul.
+  </p>
+id: 1CH/10/2
+next:
+  id: 1CH/10/3
+  number: '3'
+previous:
+  id: 1CH/10/1
+  number: '1'
+reference: '1 Chronicles 10:2'

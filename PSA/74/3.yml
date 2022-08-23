@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 74:3" class="v">3</span>Lift
+  up thy feet unto the perpetual desolations; <span class="add">even</span> all
+  <span class="add">that</span> the enemy hath done wickedly in the
+  sanctuary.</p>
+id: PSA/74/3
+next:
+  id: PSA/74/4
+  number: '4'
+previous:
+  id: PSA/74/2
+  number: '2'
+reference: 'Psalms 74:3'

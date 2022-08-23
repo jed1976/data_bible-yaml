@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 5:31" class="v">31</span>And
+  all the days of Lamech were seven hundred seventy and seven years: and he
+  died. </p>
+id: GEN/5/31
+next:
+  id: GEN/5/32
+  number: '32'
+previous:
+  id: GEN/5/30
+  number: '30'
+reference: 'Genesis 5:31'

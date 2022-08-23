@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HOS 13:11" class="v">11</span>I
+  gave thee a king in mine anger, and took <span class="add">him</span> away in
+  my wrath. </p>
+id: HOS/13/11
+next:
+  id: HOS/13/12
+  number: '12'
+previous:
+  id: HOS/13/10
+  number: '10'
+reference: 'Hosea 13:11'

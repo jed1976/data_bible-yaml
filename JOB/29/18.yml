@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 29:18"
+  class="v">18</span>Then I said, I shall die in my nest, and I shall multiply
+  <span class="add">my</span> days as the sand. </p>
+id: JOB/29/18
+next:
+  id: JOB/29/19
+  number: '19'
+previous:
+  id: JOB/29/17
+  number: '17'
+reference: 'Job 29:18'

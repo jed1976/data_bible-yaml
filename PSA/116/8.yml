@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 116:8" class="v">8</span>For
+  thou hast delivered my soul from death, mine eyes from tears, <span
+  class="add">and</span> my feet from falling.</p>
+id: PSA/116/8
+next:
+  id: PSA/116/9
+  number: '9'
+previous:
+  id: PSA/116/7
+  number: '7'
+reference: 'Psalms 116:8'

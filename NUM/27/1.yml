@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 27:1" class="v">1</span>Then
+  came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the
+  son of Machir, the son of Manasseh, of the families of Manasseh the son of
+  Joseph: and these <span class="add">are</span> the names of his daughters;
+  Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. </p>
+id: NUM/27/1
+next:
+  id: NUM/27/2
+  number: '2'
+previous:
+  id: NUM/26/65
+  number: '65'
+reference: 'Numbers 27:1'

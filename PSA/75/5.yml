@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 75:5" class="v">5</span>Lift
+  not up your horn on high: speak <span class="add">not with</span> a stiff
+  neck.</p>
+id: PSA/75/5
+next:
+  id: PSA/75/6
+  number: '6'
+previous:
+  id: PSA/75/4
+  number: '4'
+reference: 'Psalms 75:5'

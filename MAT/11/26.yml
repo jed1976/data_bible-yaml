@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 11:26"
+  class="v">26</span><span class="wj">Even so, Father: for so it seemed good in
+  thy sight.</span> </p>
+id: MAT/11/26
+next:
+  id: MAT/11/27
+  number: '27'
+previous:
+  id: MAT/11/25
+  number: '25'
+reference: 'Matthew 11:26'

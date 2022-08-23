@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 19:11"
+  class="v">11</span>And, behold, Amariah the chief priest <span
+  class="add">is</span> over you in all matters of the <span
+  class="nd">LORD</span>; and Zebadiah the son of Ishmael, the ruler of the
+  house of Judah, for all the king’s matters: also the Levites <span
+  class="add">shall be</span> officers before you. Deal courageously, and the
+  <span class="nd">LORD</span> shall be with the good.</p>
+id: 2CH/19/11
+next:
+  id: 2CH/20/1
+  number: '1'
+previous:
+  id: 2CH/19/10
+  number: '10'
+reference: '2 Chronicles 19:11'

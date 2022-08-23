@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ROM 16:25"
+  class="v">25</span>Now to him that is of power to stablish you according to my
+  gospel, and the preaching of Jesus Christ, according to the revelation of the
+  mystery, which was kept secret since the world began, </p>
+id: ROM/16/25
+next:
+  id: ROM/16/26
+  number: '26'
+previous:
+  id: ROM/16/24
+  number: '24'
+reference: 'Romans 16:25'

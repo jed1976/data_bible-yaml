@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 10:23"
+  class="v">23</span>And Jesus walked in the temple in Solomon’s porch. </p>
+id: JHN/10/23
+next:
+  id: JHN/10/24
+  number: '24'
+previous:
+  id: JHN/10/22
+  number: '22'
+reference: 'John 10:23'

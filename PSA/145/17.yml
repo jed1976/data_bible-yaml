@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 145:17"
+  class="v">17</span>The <span class="nd">LORD</span> <span
+  class="add">is</span> righteous in all his ways, and holy in all his
+  works.</p>
+id: PSA/145/17
+next:
+  id: PSA/145/18
+  number: '18'
+previous:
+  id: PSA/145/16
+  number: '16'
+reference: 'Psalms 145:17'

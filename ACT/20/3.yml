@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 20:3" class="v">3</span>And
+  <span class="add">there</span> abode three months. And when the Jews laid wait
+  for him, as he was about to sail into Syria, he purposed to return through
+  Macedonia. </p>
+id: ACT/20/3
+next:
+  id: ACT/20/4
+  number: '4'
+previous:
+  id: ACT/20/2
+  number: '2'
+reference: 'Acts 20:3'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2SA 23:16"
+  class="v">16</span>And the three mighty men brake through the host of the
+  Philistines, and drew water out of the well of Beth-lehem, that <span
+  class="add">was</span> by the gate, and took <span class="add">it</span>, and
+  brought <span class="add">it</span> to David: nevertheless he would not drink
+  thereof, but poured it out unto the <span class="nd">LORD</span>. </p>
+id: 2SA/23/16
+next:
+  id: 2SA/23/17
+  number: '17'
+previous:
+  id: 2SA/23/15
+  number: '15'
+reference: '2 Samuel 23:16'

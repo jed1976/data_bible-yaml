@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HAB 1:6" class="v">6</span>For,
+  lo, I raise up the Chaldeans, <span class="add">that</span> bitter and hasty
+  nation, which shall march through the breadth of the land, to possess the
+  dwellingplaces <span class="add">that are</span> not theirs. </p>
+id: HAB/1/6
+next:
+  id: HAB/1/7
+  number: '7'
+previous:
+  id: HAB/1/5
+  number: '5'
+reference: 'Habakkuk 1:6'

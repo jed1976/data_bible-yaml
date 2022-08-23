@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 14:3" class="v">3</span>They
+  are all gone aside, they are <span class="add">all</span> together become
+  filthy: <span class="add">there is</span> none that doeth good, no, not
+  one.</p>
+id: PSA/14/3
+next:
+  id: PSA/14/4
+  number: '4'
+previous:
+  id: PSA/14/2
+  number: '2'
+reference: 'Psalms 14:3'

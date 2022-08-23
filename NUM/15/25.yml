@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 15:25"
+  class="v">25</span>And the priest shall make an atonement for all the
+  congregation of the children of Israel, and it shall be forgiven them; for it
+  <span class="add">is</span> ignorance: and they shall bring their offering, a
+  sacrifice made by fire unto the <span class="nd">LORD</span>, and their sin
+  offering before the <span class="nd">LORD</span>, for their ignorance: </p>
+id: NUM/15/25
+next:
+  id: NUM/15/26
+  number: '26'
+previous:
+  id: NUM/15/24
+  number: '24'
+reference: 'Numbers 15:25'

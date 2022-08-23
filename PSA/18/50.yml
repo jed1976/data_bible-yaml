@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="50" data-sid="PSA 18:50"
+  class="v">50</span>Great deliverance giveth he to his king; and sheweth mercy
+  to his anointed, to David, and to his seed for evermore.</p>
+id: PSA/18/50
+next:
+  id: PSA/19/1
+  number: '1'
+previous:
+  id: PSA/18/49
+  number: '49'
+reference: 'Psalms 18:50'

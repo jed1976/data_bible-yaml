@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 2:16" class="v">16</span>And
+  when the scribes and Pharisees saw him eat with publicans and sinners, they
+  said unto his disciples, How is it that he eateth and drinketh with publicans
+  and sinners? </p>
+id: MRK/2/16
+next:
+  id: MRK/2/17
+  number: '17'
+previous:
+  id: MRK/2/15
+  number: '15'
+reference: 'Mark 2:16'

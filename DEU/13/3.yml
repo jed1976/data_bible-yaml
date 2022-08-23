@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 13:3" class="v">3</span>Thou
+  shalt not hearken unto the words of that prophet, or that dreamer of dreams:
+  for the <span class="nd">LORD</span> your God proveth you, to know whether ye
+  love the <span class="nd">LORD</span> your God with all your heart and with
+  all your soul. </p>
+id: DEU/13/3
+next:
+  id: DEU/13/4
+  number: '4'
+previous:
+  id: DEU/13/2
+  number: '2'
+reference: 'Deuteronomy 13:3'

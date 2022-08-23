@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 8:6" class="v">6</span>And
+  the people with one accord gave heed unto those things which Philip spake,
+  hearing and seeing the miracles which he did. </p>
+id: ACT/8/6
+next:
+  id: ACT/8/7
+  number: '7'
+previous:
+  id: ACT/8/5
+  number: '5'
+reference: 'Acts 8:6'

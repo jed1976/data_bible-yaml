@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JER 50:25"
+  class="v">25</span>The <span class="nd">LORD</span> hath opened his armoury,
+  and hath brought forth the weapons of his indignation: for this <span
+  class="add">is</span> the work of the Lord <span class="nd">GOD</span> of
+  hosts in the land of the Chaldeans. </p>
+id: JER/50/25
+next:
+  id: JER/50/26
+  number: '26'
+previous:
+  id: JER/50/24
+  number: '24'
+reference: 'Jeremiah 50:25'

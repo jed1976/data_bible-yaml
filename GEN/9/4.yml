@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 9:4" class="v">4</span>But
+  flesh with the life thereof, <span class="add">which is</span> the blood
+  thereof, shall ye not eat. </p>
+id: GEN/9/4
+next:
+  id: GEN/9/5
+  number: '5'
+previous:
+  id: GEN/9/3
+  number: '3'
+reference: 'Genesis 9:4'

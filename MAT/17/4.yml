@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 17:4" class="v">4</span>Then
+  answered Peter, and said unto Jesus, Lord, it is good for us to be here: if
+  thou wilt, let us make here three tabernacles; one for thee, and one for
+  Moses, and one for Elias. </p>
+id: MAT/17/4
+next:
+  id: MAT/17/5
+  number: '5'
+previous:
+  id: MAT/17/3
+  number: '3'
+reference: 'Matthew 17:4'

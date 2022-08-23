@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JER 30:5" class="v">5</span>For
+  thus saith the <span class="nd">LORD</span>; We have heard a voice of
+  trembling, of fear, and not of peace. </p>
+id: JER/30/5
+next:
+  id: JER/30/6
+  number: '6'
+previous:
+  id: JER/30/4
+  number: '4'
+reference: 'Jeremiah 30:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 8:13" class="v">13</span>And
+  I beheld, and heard an angel flying through the midst of heaven, saying with a
+  loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the
+  other voices of the trumpet of the three angels, which are yet to sound!</p>
+id: REV/8/13
+next:
+  id: REV/9/1
+  number: '1'
+previous:
+  id: REV/8/12
+  number: '12'
+reference: 'Revelation 8:13'

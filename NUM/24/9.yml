@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 24:9" class="v">9</span>He
+  couched, he lay down as a lion, and as a great lion: who shall stir him up?
+  Blessed <span class="add">is</span> he that blesseth thee, and cursed <span
+  class="add">is</span> he that curseth thee.</p>
+id: NUM/24/9
+next:
+  id: NUM/24/10
+  number: '10'
+previous:
+  id: NUM/24/8
+  number: '8'
+reference: 'Numbers 24:9'

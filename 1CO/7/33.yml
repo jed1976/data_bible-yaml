@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="1CO 7:33" class="v">33</span>But
+  he that is married careth for the things that are of the world, how he may
+  please <span class="add">his</span> wife. </p>
+id: 1CO/7/33
+next:
+  id: 1CO/7/34
+  number: '34'
+previous:
+  id: 1CO/7/32
+  number: '32'
+reference: '1 Corinthians 7:33'

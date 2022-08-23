@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LEV 19:17" class="v">17</span>¶
+  Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke
+  thy neighbour, and not suffer sin upon him.</p>
+id: LEV/19/17
+next:
+  id: LEV/19/18
+  number: '18'
+previous:
+  id: LEV/19/16
+  number: '16'
+reference: 'Leviticus 19:17'

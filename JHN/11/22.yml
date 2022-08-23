@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 11:22"
+  class="v">22</span>But I know, that even now, whatsoever thou wilt ask of God,
+  God will give <span class="add">it</span> thee. </p>
+id: JHN/11/22
+next:
+  id: JHN/11/23
+  number: '23'
+previous:
+  id: JHN/11/21
+  number: '21'
+reference: 'John 11:22'

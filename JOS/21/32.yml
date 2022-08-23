@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 21:32"
+  class="v">32</span>And out of the tribe of Naphtali, Kedesh in Galilee with
+  her suburbs, <span class="add">to be</span> a city of refuge for the slayer;
+  and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities.
+  </p>
+id: JOS/21/32
+next:
+  id: JOS/21/33
+  number: '33'
+previous:
+  id: JOS/21/31
+  number: '31'
+reference: 'Joshua 21:32'

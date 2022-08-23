@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 31:21" class="v">21</span>So
+  he fled with all that he had; and he rose up, and passed over the river, and
+  set his face <span class="add">toward</span> the mount Gilead. </p>
+id: GEN/31/21
+next:
+  id: GEN/31/22
+  number: '22'
+previous:
+  id: GEN/31/20
+  number: '20'
+reference: 'Genesis 31:21'

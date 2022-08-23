@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 143:11"
+  class="v">11</span>Quicken me, O <span class="nd">LORD</span>, for thy name’s
+  sake: for thy righteousness’ sake bring my soul out of trouble.</p>
+id: PSA/143/11
+next:
+  id: PSA/143/12
+  number: '12'
+previous:
+  id: PSA/143/10
+  number: '10'
+reference: 'Psalms 143:11'

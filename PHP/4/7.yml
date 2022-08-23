@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PHP 4:7" class="v">7</span>And
+  the peace of God, which passeth all understanding, shall keep your hearts and
+  minds through Christ Jesus. </p>
+id: PHP/4/7
+next:
+  id: PHP/4/8
+  number: '8'
+previous:
+  id: PHP/4/6
+  number: '6'
+reference: 'Philippians 4:7'

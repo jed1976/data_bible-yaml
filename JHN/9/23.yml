@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 9:23"
+  class="v">23</span>Therefore said his parents, He is of age; ask him. </p>
+id: JHN/9/23
+next:
+  id: JHN/9/24
+  number: '24'
+previous:
+  id: JHN/9/22
+  number: '22'
+reference: 'John 9:23'

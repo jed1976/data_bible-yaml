@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 14:24"
+  class="v">24</span>And if the way be too long for thee, so that thou art not
+  able to carry it; <span class="add">or</span> if the place be too far from
+  thee, which the <span class="nd">LORD</span> thy God shall choose to set his
+  name there, when the <span class="nd">LORD</span> thy God hath blessed thee:
+  </p>
+id: DEU/14/24
+next:
+  id: DEU/14/25
+  number: '25'
+previous:
+  id: DEU/14/23
+  number: '23'
+reference: 'Deuteronomy 14:24'

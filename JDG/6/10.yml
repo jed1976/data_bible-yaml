@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 6:10" class="v">10</span>And
+  I said unto you, I <span class="add">am</span> the <span
+  class="nd">LORD</span> your God; fear not the gods of the Amorites, in whose
+  land ye dwell: but ye have not obeyed my voice.</p>
+id: JDG/6/10
+next:
+  id: JDG/6/11
+  number: '11'
+previous:
+  id: JDG/6/9
+  number: '9'
+reference: 'Judges 6:10'

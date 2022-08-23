@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 20:3" class="v">3</span>(Now
+  the children of Benjamin heard that the children of Israel were gone up to
+  Mizpeh.) Then said the children of Israel, Tell <span class="add">us</span>,
+  how was this wickedness? </p>
+id: JDG/20/3
+next:
+  id: JDG/20/4
+  number: '4'
+previous:
+  id: JDG/20/2
+  number: '2'
+reference: 'Judges 20:3'

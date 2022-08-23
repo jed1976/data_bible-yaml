@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1JN 3:1"
+  class="v">1</span>Behold, what manner of love the Father hath bestowed upon
+  us, that we should be called the sons of God: therefore the world knoweth us
+  not, because it knew him not. </p>
+id: 1JN/3/1
+next:
+  id: 1JN/3/2
+  number: '2'
+previous:
+  id: 1JN/2/29
+  number: '29'
+reference: '1 John 3:1'

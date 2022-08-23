@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEC 9:9" class="v">9</span>¶
+  Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold,
+  thy King cometh unto thee: he <span class="add">is</span> just, and having
+  salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+  </p>
+id: ZEC/9/9
+next:
+  id: ZEC/9/10
+  number: '10'
+previous:
+  id: ZEC/9/8
+  number: '8'
+reference: 'Zechariah 9:9'

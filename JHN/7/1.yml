@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 7:1" class="v">1</span>After
+  these things Jesus walked in Galilee: for he would not walk in Jewry, because
+  the Jews sought to kill him. </p>
+id: JHN/7/1
+next:
+  id: JHN/7/2
+  number: '2'
+previous:
+  id: JHN/6/71
+  number: '71'
+reference: 'John 7:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 92:7"
+  class="v">7</span>When the wicked spring as the grass, and when all the
+  workers of iniquity do flourish; <span class="add">it is</span> that they
+  shall be destroyed for ever:</p>
+id: PSA/92/7
+next:
+  id: PSA/92/8
+  number: '8'
+previous:
+  id: PSA/92/6
+  number: '6'
+reference: 'Psalms 92:7'

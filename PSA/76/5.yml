@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 76:5" class="v">5</span>The
+  stouthearted are spoiled, they have slept their sleep: and none of the men of
+  might have found their hands.</p>
+id: PSA/76/5
+next:
+  id: PSA/76/6
+  number: '6'
+previous:
+  id: PSA/76/4
+  number: '4'
+reference: 'Psalms 76:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 20:19" class="v">19</span>¶
+  Then the same day at evening, being the first <span class="add">day</span> of
+  the week, when the doors were shut where the disciples were assembled for fear
+  of the Jews, came Jesus and stood in the midst, and saith unto them, <span
+  class="wj">Peace <span class="add">be</span> unto you.</span> </p>
+id: JHN/20/19
+next:
+  id: JHN/20/20
+  number: '20'
+previous:
+  id: JHN/20/18
+  number: '18'
+reference: 'John 20:19'

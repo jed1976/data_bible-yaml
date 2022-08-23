@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="GEN 24:31"
+  class="v">31</span>And he said, Come in, thou blessed of the <span
+  class="nd">LORD</span>; wherefore standest thou without? for I have prepared
+  the house, and room for the camels.</p>
+id: GEN/24/31
+next:
+  id: GEN/24/32
+  number: '32'
+previous:
+  id: GEN/24/30
+  number: '30'
+reference: 'Genesis 24:31'

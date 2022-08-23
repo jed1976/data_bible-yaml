@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JDG 4:11" class="v">11</span>Now
+  Heber the Kenite, <span class="add">which was</span> of the children of Hobab
+  the father in law of Moses, had severed himself from the Kenites, and pitched
+  his tent unto the plain of Zaanaim, which <span class="add">is</span> by
+  Kedesh. </p>
+id: JDG/4/11
+next:
+  id: JDG/4/12
+  number: '12'
+previous:
+  id: JDG/4/10
+  number: '10'
+reference: 'Judges 4:11'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 11:23"
+  class="v">23</span><span class="wj">And thou, Capernaum, which art exalted
+  unto heaven, shalt be brought down to hell: for if the mighty works, which
+  have been done in thee, had been done in Sodom, it would have remained until
+  this day.</span> </p>
+id: MAT/11/23
+next:
+  id: MAT/11/24
+  number: '24'
+previous:
+  id: MAT/11/22
+  number: '22'
+reference: 'Matthew 11:23'

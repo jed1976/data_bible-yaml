@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="EXO 22:29" class="v">29</span>¶
+  Thou shalt not delay <span class="add">to offer</span> the first of thy ripe
+  fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
+  </p>
+id: EXO/22/29
+next:
+  id: EXO/22/30
+  number: '30'
+previous:
+  id: EXO/22/28
+  number: '28'
+reference: 'Exodus 22:29'

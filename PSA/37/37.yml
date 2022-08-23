@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="37" data-sid="PSA 37:37"
+  class="v">37</span>Mark the perfect <span class="add">man</span>, and behold
+  the upright: for the end of <span class="add">that</span> man <span
+  class="add">is</span> peace.</p>
+id: PSA/37/37
+next:
+  id: PSA/37/38
+  number: '38'
+previous:
+  id: PSA/37/36
+  number: '36'
+reference: 'Psalms 37:37'

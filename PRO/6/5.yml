@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 6:5"
+  class="v">5</span>Deliver thyself as a roe from the hand <span class="add">of
+  the hunter</span>, and as a bird from the hand of the fowler.</p>
+id: PRO/6/5
+next:
+  id: PRO/6/6
+  number: '6'
+previous:
+  id: PRO/6/4
+  number: '4'
+reference: 'Proverbs 6:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 31:8" class="v">8</span>¶
+  Then shall the Assyrian fall with the sword, not of a mighty man; and the
+  sword, not of a mean man, shall devour him: but he shall flee from the sword,
+  and his young men shall be discomfited. </p>
+id: ISA/31/8
+next:
+  id: ISA/31/9
+  number: '9'
+previous:
+  id: ISA/31/7
+  number: '7'
+reference: 'Isaiah 31:8'

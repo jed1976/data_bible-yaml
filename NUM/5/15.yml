@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 5:15"
+  class="v">15</span>Then shall the man bring his wife unto the priest, and he
+  shall bring her offering for her, the tenth <span class="add">part</span> of
+  an ephah of barley meal; he shall pour no oil upon it, nor put frankincense
+  thereon; for it <span class="add">is</span> an offering of jealousy, an
+  offering of memorial, bringing iniquity to remembrance. </p>
+id: NUM/5/15
+next:
+  id: NUM/5/16
+  number: '16'
+previous:
+  id: NUM/5/14
+  number: '14'
+reference: 'Numbers 5:15'

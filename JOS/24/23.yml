@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOS 24:23"
+  class="v">23</span>Now therefore put away, <span class="add">said he</span>,
+  the strange gods which <span class="add">are</span> among you, and incline
+  your heart unto the <span class="nd">LORD</span> God of Israel. </p>
+id: JOS/24/23
+next:
+  id: JOS/24/24
+  number: '24'
+previous:
+  id: JOS/24/22
+  number: '22'
+reference: 'Joshua 24:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PHP 3:14" class="v">14</span>I
+  press toward the mark for the prize of the high calling of God in Christ
+  Jesus. </p>
+id: PHP/3/14
+next:
+  id: PHP/3/15
+  number: '15'
+previous:
+  id: PHP/3/13
+  number: '13'
+reference: 'Philippians 3:14'

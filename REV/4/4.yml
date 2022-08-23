@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 4:4" class="v">4</span>And
+  round about the throne <span class="add">were</span> four and twenty seats:
+  and upon the seats I saw four and twenty elders sitting, clothed in white
+  raiment; and they had on their heads crowns of gold. </p>
+id: REV/4/4
+next:
+  id: REV/4/5
+  number: '5'
+previous:
+  id: REV/4/3
+  number: '3'
+reference: 'Revelation 4:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 18:20"
+  class="v">20</span>When they desired <span class="add">him</span> to tarry
+  longer time with them, he consented not; </p>
+id: ACT/18/20
+next:
+  id: ACT/18/21
+  number: '21'
+previous:
+  id: ACT/18/19
+  number: '19'
+reference: 'Acts 18:20'

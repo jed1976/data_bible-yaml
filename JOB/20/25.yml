@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 20:25" class="v">25</span>It
+  is drawn, and cometh out of the body; yea, the glittering sword cometh out of
+  his gall: terrors <span class="add">are</span> upon him. </p>
+id: JOB/20/25
+next:
+  id: JOB/20/26
+  number: '26'
+previous:
+  id: JOB/20/24
+  number: '24'
+reference: 'Job 20:25'

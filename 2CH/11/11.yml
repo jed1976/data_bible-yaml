@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 11:11"
+  class="v">11</span>And he fortified the strong holds, and put captains in
+  them, and store of victual, and of oil and wine. </p>
+id: 2CH/11/11
+next:
+  id: 2CH/11/12
+  number: '12'
+previous:
+  id: 2CH/11/10
+  number: '10'
+reference: '2 Chronicles 11:11'

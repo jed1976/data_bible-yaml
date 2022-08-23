@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 39:6" class="v">6</span>Whose
+  house I have made the wilderness, and the barren land his dwellings. </p>
+id: JOB/39/6
+next:
+  id: JOB/39/7
+  number: '7'
+previous:
+  id: JOB/39/5
+  number: '5'
+reference: 'Job 39:6'

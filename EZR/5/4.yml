@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 5:4" class="v">4</span>Then
+  said we unto them after this manner, What are the names of the men that make
+  this building? </p>
+id: EZR/5/4
+next:
+  id: EZR/5/5
+  number: '5'
+previous:
+  id: EZR/5/3
+  number: '3'
+reference: 'Ezra 5:4'

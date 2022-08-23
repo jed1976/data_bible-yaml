@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 45:7" class="v">7</span>I
+  form the light, and create darkness: I make peace, and create evil: I the
+  <span class="nd">LORD</span> do all these <span class="add">things</span>.
+  </p>
+id: ISA/45/7
+next:
+  id: ISA/45/8
+  number: '8'
+previous:
+  id: ISA/45/6
+  number: '6'
+reference: 'Isaiah 45:7'

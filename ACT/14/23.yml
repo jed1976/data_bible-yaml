@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ACT 14:23"
+  class="v">23</span>And when they had ordained them elders in every church, and
+  had prayed with fasting, they commended them to the Lord, on whom they
+  believed. </p>
+id: ACT/14/23
+next:
+  id: ACT/14/24
+  number: '24'
+previous:
+  id: ACT/14/22
+  number: '22'
+reference: 'Acts 14:23'

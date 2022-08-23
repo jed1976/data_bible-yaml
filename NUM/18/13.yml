@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 18:13"
+  class="v">13</span><span class="add">And</span> whatsoever is first ripe in
+  the land, which they shall bring unto the <span class="nd">LORD</span>, shall
+  be thine; every one that is clean in thine house shall eat <span
+  class="add">of</span> it. </p>
+id: NUM/18/13
+next:
+  id: NUM/18/14
+  number: '14'
+previous:
+  id: NUM/18/12
+  number: '12'
+reference: 'Numbers 18:13'

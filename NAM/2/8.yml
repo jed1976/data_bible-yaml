@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NAM 2:8" class="v">8</span>But
+  Nineveh <span class="add">is</span> of old like a pool of water: yet they
+  shall flee away. Stand, stand, <span class="add">shall they cry;</span> but
+  none shall look back. </p>
+id: NAM/2/8
+next:
+  id: NAM/2/9
+  number: '9'
+previous:
+  id: NAM/2/7
+  number: '7'
+reference: 'Nahum 2:8'

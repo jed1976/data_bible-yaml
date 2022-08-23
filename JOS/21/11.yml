@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 21:11"
+  class="v">11</span>And they gave them the city of Arba the father of Anak,
+  which <span class="add">city is</span> Hebron, in the hill <span
+  class="add">country</span> of Judah, with the suburbs thereof round about it.
+  </p>
+id: JOS/21/11
+next:
+  id: JOS/21/12
+  number: '12'
+previous:
+  id: JOS/21/10
+  number: '10'
+reference: 'Joshua 21:11'

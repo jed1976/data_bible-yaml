@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 6:6" class="v">6</span>Thy
+  teeth <span class="add">are</span> as a flock of sheep which go up from the
+  washing, whereof every one beareth twins, and <span class="add">there
+  is</span> not one barren among them. </p>
+id: SNG/6/6
+next:
+  id: SNG/6/7
+  number: '7'
+previous:
+  id: SNG/6/5
+  number: '5'
+reference: 'Song of Solomon 6:6'

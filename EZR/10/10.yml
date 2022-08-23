@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZR 10:10"
+  class="v">10</span>And Ezra the priest stood up, and said unto them, Ye have
+  transgressed, and have taken strange wives, to increase the trespass of
+  Israel. </p>
+id: EZR/10/10
+next:
+  id: EZR/10/11
+  number: '11'
+previous:
+  id: EZR/10/9
+  number: '9'
+reference: 'Ezra 10:10'

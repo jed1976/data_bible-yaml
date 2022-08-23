@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ROM 8:30"
+  class="v">30</span>Moreover whom he did predestinate, them he also called: and
+  whom he called, them he also justified: and whom he justified, them he also
+  glorified. </p>
+id: ROM/8/30
+next:
+  id: ROM/8/31
+  number: '31'
+previous:
+  id: ROM/8/29
+  number: '29'
+reference: 'Romans 8:30'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 4:10" class="v">10</span>For
+  they shall eat, and not have enough: they shall commit whoredom, and shall not
+  increase: because they have left off to take heed to the <span
+  class="nd">LORD</span>. </p>
+id: HOS/4/10
+next:
+  id: HOS/4/11
+  number: '11'
+previous:
+  id: HOS/4/9
+  number: '9'
+reference: 'Hosea 4:10'

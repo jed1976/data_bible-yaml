@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 36:1" class="v">1</span>Now
+  these <span class="add">are</span> the generations of Esau, who <span
+  class="add">is</span> Edom. </p>
+id: GEN/36/1
+next:
+  id: GEN/36/2
+  number: '2'
+previous:
+  id: GEN/35/29
+  number: '29'
+reference: 'Genesis 36:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 4:15" class="v">15</span>The
+  woman saith unto him, Sir, give me this water, that I thirst not, neither come
+  hither to draw. </p>
+id: JHN/4/15
+next:
+  id: JHN/4/16
+  number: '16'
+previous:
+  id: JHN/4/14
+  number: '14'
+reference: 'John 4:15'

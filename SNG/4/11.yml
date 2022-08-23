@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 4:11" class="v">11</span>Thy
+  lips, O <span class="add">my</span> spouse, drop <span class="add">as</span>
+  the honeycomb: honey and milk <span class="add">are</span> under thy tongue;
+  and the smell of thy garments <span class="add">is</span> like the smell of
+  Lebanon. </p>
+id: SNG/4/11
+next:
+  id: SNG/4/12
+  number: '12'
+previous:
+  id: SNG/4/10
+  number: '10'
+reference: 'Song of Solomon 4:11'

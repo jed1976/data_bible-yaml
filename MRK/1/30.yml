@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 1:30" class="v">30</span>But
+  Simon’s wife’s mother lay sick of a fever, and anon they tell him of her. </p>
+id: MRK/1/30
+next:
+  id: MRK/1/31
+  number: '31'
+previous:
+  id: MRK/1/29
+  number: '29'
+reference: 'Mark 1:30'

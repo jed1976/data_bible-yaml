@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 25:6" class="v">6</span><span
+  class="wj">And at midnight there was a cry made, Behold, the bridegroom
+  cometh; go ye out to meet him.</span> </p>
+id: MAT/25/6
+next:
+  id: MAT/25/7
+  number: '7'
+previous:
+  id: MAT/25/5
+  number: '5'
+reference: 'Matthew 25:6'

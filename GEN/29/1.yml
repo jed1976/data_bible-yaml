@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 29:1" class="v">1</span>Then
+  Jacob went on his journey, and came into the land of the people of the east.
+  </p>
+id: GEN/29/1
+next:
+  id: GEN/29/2
+  number: '2'
+previous:
+  id: GEN/28/22
+  number: '22'
+reference: 'Genesis 29:1'

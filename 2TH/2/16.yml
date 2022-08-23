@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2TH 2:16" class="v">16</span>Now
+  our Lord Jesus Christ himself, and God, even our Father, which hath loved us,
+  and hath given <span class="add">us</span> everlasting consolation and good
+  hope through grace, </p>
+id: 2TH/2/16
+next:
+  id: 2TH/2/17
+  number: '17'
+previous:
+  id: 2TH/2/15
+  number: '15'
+reference: '2 Thessalonians 2:16'

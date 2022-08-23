@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 95:10"
+  class="v">10</span>Forty years long was I grieved with <span
+  class="add">this</span> generation, and said, It <span class="add">is</span> a
+  people that do err in their heart, and they have not known my ways:</p>
+id: PSA/95/10
+next:
+  id: PSA/95/11
+  number: '11'
+previous:
+  id: PSA/95/9
+  number: '9'
+reference: 'Psalms 95:10'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 3:41" class="v">41</span>And
+  thou shalt take the Levites for me (I <span class="add">am</span> the <span
+  class="nd">LORD</span>) instead of all the firstborn among the children of
+  Israel; and the cattle of the Levites instead of all the firstlings among the
+  cattle of the children of Israel. </p>
+id: NUM/3/41
+next:
+  id: NUM/3/42
+  number: '42'
+previous:
+  id: NUM/3/40
+  number: '40'
+reference: 'Numbers 3:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 44:21"
+  class="v">21</span>Shall not God search this out? for he knoweth the secrets
+  of the heart.</p>
+id: PSA/44/21
+next:
+  id: PSA/44/22
+  number: '22'
+previous:
+  id: PSA/44/20
+  number: '20'
+reference: 'Psalms 44:21'

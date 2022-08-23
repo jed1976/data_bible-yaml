@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 9:24" class="v">24</span>He
+  said unto them, <span class="wj">Give place: for the maid is not dead, but
+  sleepeth.</span> And they laughed him to scorn. </p>
+id: MAT/9/24
+next:
+  id: MAT/9/25
+  number: '25'
+previous:
+  id: MAT/9/23
+  number: '23'
+reference: 'Matthew 9:24'

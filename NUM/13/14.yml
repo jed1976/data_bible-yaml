@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 13:14" class="v">14</span>Of
+  the tribe of Naphtali, Nahbi the son of Vophsi. </p>
+id: NUM/13/14
+next:
+  id: NUM/13/15
+  number: '15'
+previous:
+  id: NUM/13/13
+  number: '13'
+reference: 'Numbers 13:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JHN 15:8" class="v">8</span><span
+  class="wj">Herein is my Father glorified, that ye bear much fruit; so shall ye
+  be my disciples.</span> </p>
+id: JHN/15/8
+next:
+  id: JHN/15/9
+  number: '9'
+previous:
+  id: JHN/15/7
+  number: '7'
+reference: 'John 15:8'

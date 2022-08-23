@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 38:14"
+  class="v">14</span>Thus I was as a man that heareth not, and in whose mouth
+  <span class="add">are</span> no reproofs.</p>
+id: PSA/38/14
+next:
+  id: PSA/38/15
+  number: '15'
+previous:
+  id: PSA/38/13
+  number: '13'
+reference: 'Psalms 38:14'

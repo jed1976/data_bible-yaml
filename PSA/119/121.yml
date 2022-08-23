@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ע AIN.</span></p><p
+  class="q1"><span data-number="121" data-sid="PSA 119:121"
+  class="v">121</span>I have done judgment and justice: leave me not to mine
+  oppressors.</p>
+id: PSA/119/121
+next:
+  id: PSA/119/122
+  number: '122'
+previous:
+  id: PSA/119/120
+  number: '120'
+reference: 'Psalms 119:121'

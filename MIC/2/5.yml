@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 2:5"
+  class="v">5</span>Therefore thou shalt have none that shall cast a cord by lot
+  in the congregation of the <span class="nd">LORD</span>.</p>
+id: MIC/2/5
+next:
+  id: MIC/2/6
+  number: '6'
+previous:
+  id: MIC/2/4
+  number: '4'
+reference: 'Micah 2:5'

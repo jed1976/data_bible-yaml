@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JAS 4:12"
+  class="v">12</span>There is one lawgiver, who is able to save and to destroy:
+  who art thou that judgest another?</p>
+id: JAS/4/12
+next:
+  id: JAS/4/13
+  number: '13'
+previous:
+  id: JAS/4/11
+  number: '11'
+reference: 'James 4:12'

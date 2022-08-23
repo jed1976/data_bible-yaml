@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 14:32"
+  class="v">32</span>And they came to a place which was named Gethsemane: and he
+  saith to his disciples, <span class="wj">Sit ye here, while I shall
+  pray.</span> </p>
+id: MRK/14/32
+next:
+  id: MRK/14/33
+  number: '33'
+previous:
+  id: MRK/14/31
+  number: '31'
+reference: 'Mark 14:32'

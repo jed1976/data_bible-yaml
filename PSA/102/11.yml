@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 102:11"
+  class="v">11</span>My days <span class="add">are</span> like a shadow that
+  declineth; and I am withered like grass.</p>
+id: PSA/102/11
+next:
+  id: PSA/102/12
+  number: '12'
+previous:
+  id: PSA/102/10
+  number: '10'
+reference: 'Psalms 102:11'

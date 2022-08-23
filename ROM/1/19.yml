@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 1:19"
+  class="v">19</span>Because that which may be known of God is manifest in them;
+  for God hath shewed <span class="add">it</span> unto them. </p>
+id: ROM/1/19
+next:
+  id: ROM/1/20
+  number: '20'
+previous:
+  id: ROM/1/18
+  number: '18'
+reference: 'Romans 1:19'

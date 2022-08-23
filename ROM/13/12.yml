@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 13:12"
+  class="v">12</span>The night is far spent, the day is at hand: let us
+  therefore cast off the works of darkness, and let us put on the armour of
+  light. </p>
+id: ROM/13/12
+next:
+  id: ROM/13/13
+  number: '13'
+previous:
+  id: ROM/13/11
+  number: '11'
+reference: 'Romans 13:12'

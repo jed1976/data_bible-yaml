@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 18:8" class="v">8</span>And
+  Moses told his father in law all that the <span class="nd">LORD</span> had
+  done unto Pharaoh and to the Egyptians for Israel’s sake, <span
+  class="add">and</span> all the travail that had come upon them by the way, and
+  <span class="add">how</span> the <span class="nd">LORD</span> delivered them.
+  </p>
+id: EXO/18/8
+next:
+  id: EXO/18/9
+  number: '9'
+previous:
+  id: EXO/18/7
+  number: '7'
+reference: 'Exodus 18:8'

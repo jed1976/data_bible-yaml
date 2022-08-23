@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CH 16:11"
+  class="v">11</span>Seek the <span class="nd">LORD</span> and his strength,
+  seek his face continually. </p>
+id: 1CH/16/11
+next:
+  id: 1CH/16/12
+  number: '12'
+previous:
+  id: 1CH/16/10
+  number: '10'
+reference: '1 Chronicles 16:11'

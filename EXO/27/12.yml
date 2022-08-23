@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 27:12" class="v">12</span>¶
+  And <span class="add">for</span> the breadth of the court on the west side
+  <span class="add">shall be</span> hangings of fifty cubits: their pillars ten,
+  and their sockets ten. </p>
+id: EXO/27/12
+next:
+  id: EXO/27/13
+  number: '13'
+previous:
+  id: EXO/27/11
+  number: '11'
+reference: 'Exodus 27:12'

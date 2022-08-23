@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 46:24" class="v">24</span>¶
+  And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem. </p>
+id: GEN/46/24
+next:
+  id: GEN/46/25
+  number: '25'
+previous:
+  id: GEN/46/23
+  number: '23'
+reference: 'Genesis 46:24'

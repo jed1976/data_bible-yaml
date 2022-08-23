@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JAS 5:20" class="v">20</span>Let
+  him know, that he which converteth the sinner from the error of his way shall
+  save a soul from death, and shall hide a multitude of sins.</p>
+id: JAS/5/20
+next:
+  id: 1PE/intro/0
+  number: '0'
+previous:
+  id: JAS/5/19
+  number: '19'
+reference: 'James 5:20'

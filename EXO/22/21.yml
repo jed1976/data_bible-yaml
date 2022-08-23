@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 22:21" class="v">21</span>¶
+  Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in
+  the land of Egypt.</p>
+id: EXO/22/21
+next:
+  id: EXO/22/22
+  number: '22'
+previous:
+  id: EXO/22/20
+  number: '20'
+reference: 'Exodus 22:21'

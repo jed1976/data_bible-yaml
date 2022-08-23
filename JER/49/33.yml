@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JER 49:33"
+  class="v">33</span>And Hazor shall be a dwelling for dragons, <span
+  class="add">and</span> a desolation for ever: there shall no man abide there,
+  nor <span class="add">any</span> son of man dwell in it.</p>
+id: JER/49/33
+next:
+  id: JER/49/34
+  number: '34'
+previous:
+  id: JER/49/32
+  number: '32'
+reference: 'Jeremiah 49:33'

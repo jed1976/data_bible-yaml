@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 118:16"
+  class="v">16</span>The right hand of the <span class="nd">LORD</span> is
+  exalted: the right hand of the <span class="nd">LORD</span> doeth
+  valiantly.</p>
+id: PSA/118/16
+next:
+  id: PSA/118/17
+  number: '17'
+previous:
+  id: PSA/118/15
+  number: '15'
+reference: 'Psalms 118:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 27:3" class="v">3</span>He
+  built the high gate of the house of the <span class="nd">LORD</span>, and on
+  the wall of Ophel he built much. </p>
+id: 2CH/27/3
+next:
+  id: 2CH/27/4
+  number: '4'
+previous:
+  id: 2CH/27/2
+  number: '2'
+reference: '2 Chronicles 27:3'

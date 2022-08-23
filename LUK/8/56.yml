@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LUK 8:56" class="v">56</span>And
+  her parents were astonished: but he charged them that they should tell no man
+  what was done.</p>
+id: LUK/8/56
+next:
+  id: LUK/9/1
+  number: '1'
+previous:
+  id: LUK/8/55
+  number: '55'
+reference: 'Luke 8:56'

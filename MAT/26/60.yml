@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="MAT 26:60"
+  class="v">60</span>But found none: yea, though many false witnesses came,
+  <span class="add">yet</span> found they none. At the last came two false
+  witnesses, </p>
+id: MAT/26/60
+next:
+  id: MAT/26/61
+  number: '61'
+previous:
+  id: MAT/26/59
+  number: '59'
+reference: 'Matthew 26:60'

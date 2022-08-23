@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 73:8" class="v">8</span>They
+  are corrupt, and speak wickedly <span class="add">concerning</span>
+  oppression: they speak loftily.</p>
+id: PSA/73/8
+next:
+  id: PSA/73/9
+  number: '9'
+previous:
+  id: PSA/73/7
+  number: '7'
+reference: 'Psalms 73:8'

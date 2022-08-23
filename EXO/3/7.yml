@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 3:7" class="v">7</span>¶ And
+  the <span class="nd">LORD</span> said, I have surely seen the affliction of my
+  people which <span class="add">are</span> in Egypt, and have heard their cry
+  by reason of their taskmasters; for I know their sorrows; </p>
+id: EXO/3/7
+next:
+  id: EXO/3/8
+  number: '8'
+previous:
+  id: EXO/3/6
+  number: '6'
+reference: 'Exodus 3:7'

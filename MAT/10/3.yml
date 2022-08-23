@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 10:3"
+  class="v">3</span>Philip, and Bartholomew; Thomas, and Matthew the publican;
+  James <span class="add">the son</span> of Alphaeus, and Lebbaeus, whose
+  surname was Thaddaeus; </p>
+id: MAT/10/3
+next:
+  id: MAT/10/4
+  number: '4'
+previous:
+  id: MAT/10/2
+  number: '2'
+reference: 'Matthew 10:3'

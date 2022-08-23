@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 37:11"
+  class="v">11</span>And he overlaid it with pure gold, and made thereunto a
+  crown of gold round about. </p>
+id: EXO/37/11
+next:
+  id: EXO/37/12
+  number: '12'
+previous:
+  id: EXO/37/10
+  number: '10'
+reference: 'Exodus 37:11'

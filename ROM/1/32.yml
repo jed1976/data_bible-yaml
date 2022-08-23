@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ROM 1:32" class="v">32</span>Who
+  knowing the judgment of God, that they which commit such things are worthy of
+  death, not only do the same, but have pleasure in them that do them.</p>
+id: ROM/1/32
+next:
+  id: ROM/2/1
+  number: '1'
+previous:
+  id: ROM/1/31
+  number: '31'
+reference: 'Romans 1:32'

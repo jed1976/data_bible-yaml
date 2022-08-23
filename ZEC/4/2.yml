@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ZEC 4:2" class="v">2</span>And
+  said unto me, What seest thou? And I said, I have looked, and behold a
+  candlestick all <span class="add">of</span> gold, with a bowl upon the top of
+  it, and his seven lamps thereon, and seven pipes to the seven lamps, which
+  <span class="add">are</span> upon the top thereof: </p>
+id: ZEC/4/2
+next:
+  id: ZEC/4/3
+  number: '3'
+previous:
+  id: ZEC/4/1
+  number: '1'
+reference: 'Zechariah 4:2'

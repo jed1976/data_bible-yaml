@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAT 5:2" class="v">2</span>And he
+  opened his mouth, and taught them, saying, </p>
+id: MAT/5/2
+next:
+  id: MAT/5/3
+  number: '3'
+previous:
+  id: MAT/5/1
+  number: '1'
+reference: 'Matthew 5:2'

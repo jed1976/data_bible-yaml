@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 12:25"
+  class="v">25</span>And it shall come to pass, when ye be come to the land
+  which the <span class="nd">LORD</span> will give you, according as he hath
+  promised, that ye shall keep this service. </p>
+id: EXO/12/25
+next:
+  id: EXO/12/26
+  number: '26'
+previous:
+  id: EXO/12/24
+  number: '24'
+reference: 'Exodus 12:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 41:7" class="v">7</span>All
+  that hate me whisper together against me: against me do they devise my
+  hurt.</p>
+id: PSA/41/7
+next:
+  id: PSA/41/8
+  number: '8'
+previous:
+  id: PSA/41/6
+  number: '6'
+reference: 'Psalms 41:7'

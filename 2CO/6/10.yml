@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CO 6:10" class="v">10</span>As
+  sorrowful, yet alway rejoicing; as poor, yet making many rich; as having
+  nothing, and <span class="add">yet</span> possessing all things.</p>
+id: 2CO/6/10
+next:
+  id: 2CO/6/11
+  number: '11'
+previous:
+  id: 2CO/6/9
+  number: '9'
+reference: '2 Corinthians 6:10'

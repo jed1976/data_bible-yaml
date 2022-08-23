@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 88:17"
+  class="v">17</span>They came round about me daily like water; they compassed
+  me about together.</p>
+id: PSA/88/17
+next:
+  id: PSA/88/18
+  number: '18'
+previous:
+  id: PSA/88/16
+  number: '16'
+reference: 'Psalms 88:17'

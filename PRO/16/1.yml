@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 16:1" class="v">1</span>The
+  preparations of the heart in man, and the answer of the tongue, <span
+  class="add">is</span> from the <span class="nd">LORD</span>. </p>
+id: PRO/16/1
+next:
+  id: PRO/16/2
+  number: '2'
+previous:
+  id: PRO/15/33
+  number: '33'
+reference: 'Proverbs 16:1'

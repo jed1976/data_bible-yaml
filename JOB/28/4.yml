@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 28:4" class="v">4</span>The
+  flood breaketh out from the inhabitant; <span class="add">even the
+  waters</span> forgotten of the foot: they are dried up, they are gone away
+  from men. </p>
+id: JOB/28/4
+next:
+  id: JOB/28/5
+  number: '5'
+previous:
+  id: JOB/28/3
+  number: '3'
+reference: 'Job 28:4'

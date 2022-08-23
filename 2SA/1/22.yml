@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 1:22"
+  class="v">22</span>From the blood of the slain, from the fat of the mighty,
+  the bow of Jonathan turned not back, and the sword of Saul returned not empty.
+  </p>
+id: 2SA/1/22
+next:
+  id: 2SA/1/23
+  number: '23'
+previous:
+  id: 2SA/1/21
+  number: '21'
+reference: '2 Samuel 1:22'

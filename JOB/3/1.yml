@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 3:1" class="v">1</span>After
+  this opened Job his mouth, and cursed his day. </p>
+id: JOB/3/1
+next:
+  id: JOB/3/2
+  number: '2'
+previous:
+  id: JOB/2/13
+  number: '13'
+reference: 'Job 3:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 35:33"
+  class="v">33</span>And in the cutting of stones, to set <span
+  class="add">them</span>, and in carving of wood, to make any manner of cunning
+  work. </p>
+id: EXO/35/33
+next:
+  id: EXO/35/34
+  number: '34'
+previous:
+  id: EXO/35/32
+  number: '32'
+reference: 'Exodus 35:33'

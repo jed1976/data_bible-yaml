@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NEH 2:2"
+  class="v">2</span>Wherefore the king said unto me, Why <span
+  class="add">is</span> thy countenance sad, seeing thou <span
+  class="add">art</span> not sick? this <span class="add">is</span> nothing
+  <span class="add">else</span> but sorrow of heart. Then I was very sore
+  afraid, </p>
+id: NEH/2/2
+next:
+  id: NEH/2/3
+  number: '3'
+previous:
+  id: NEH/2/1
+  number: '1'
+reference: 'Nehemiah 2:2'

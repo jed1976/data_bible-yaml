@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CH 3:1" class="v">1</span>Now
+  these were the sons of David, which were born unto him in Hebron; the
+  firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail
+  the Carmelitess: </p>
+id: 1CH/3/1
+next:
+  id: 1CH/3/2
+  number: '2'
+previous:
+  id: 1CH/2/55
+  number: '55'
+reference: '1 Chronicles 3:1'

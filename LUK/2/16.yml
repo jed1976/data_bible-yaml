@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 2:16" class="v">16</span>And
+  they came with haste, and found Mary, and Joseph, and the babe lying in a
+  manger. </p>
+id: LUK/2/16
+next:
+  id: LUK/2/17
+  number: '17'
+previous:
+  id: LUK/2/15
+  number: '15'
+reference: 'Luke 2:16'

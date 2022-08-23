@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="71" data-sid="NEH 7:71" class="v">71</span>And
+  <span class="add">some</span> of the chief of the fathers gave to the treasure
+  of the work twenty thousand drams of gold, and two thousand and two hundred
+  pound of silver. </p>
+id: NEH/7/71
+next:
+  id: NEH/7/72
+  number: '72'
+previous:
+  id: NEH/7/70
+  number: '70'
+reference: 'Nehemiah 7:71'

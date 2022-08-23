@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 22:23"
+  class="v">23</span>For the <span class="nd">LORD</span> will plead their
+  cause, and spoil the soul of those that spoiled them.</p>
+id: PRO/22/23
+next:
+  id: PRO/22/24
+  number: '24'
+previous:
+  id: PRO/22/22
+  number: '22'
+reference: 'Proverbs 22:23'

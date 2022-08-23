@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ECC 2:22" class="v">22</span>For
+  what hath man of all his labour, and of the vexation of his heart, wherein he
+  hath laboured under the sun? </p>
+id: ECC/2/22
+next:
+  id: ECC/2/23
+  number: '23'
+previous:
+  id: ECC/2/21
+  number: '21'
+reference: 'Ecclesiastes 2:22'

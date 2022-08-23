@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="LUK 22:28"
+  class="v">28</span><span class="wj">Ye are they which have continued with me
+  in my temptations.</span> </p>
+id: LUK/22/28
+next:
+  id: LUK/22/29
+  number: '29'
+previous:
+  id: LUK/22/27
+  number: '27'
+reference: 'Luke 22:28'

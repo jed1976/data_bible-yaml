@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DAN 10:9" class="v">9</span>Yet
+  heard I the voice of his words: and when I heard the voice of his words, then
+  was I in a deep sleep on my face, and my face toward the ground.</p>
+id: DAN/10/9
+next:
+  id: DAN/10/10
+  number: '10'
+previous:
+  id: DAN/10/8
+  number: '8'
+reference: 'Daniel 10:9'

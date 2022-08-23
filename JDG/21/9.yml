@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 21:9" class="v">9</span>For
+  the people were numbered, and, behold, <span class="add">there were</span>
+  none of the inhabitants of Jabesh-gilead there. </p>
+id: JDG/21/9
+next:
+  id: JDG/21/10
+  number: '10'
+previous:
+  id: JDG/21/8
+  number: '8'
+reference: 'Judges 21:9'

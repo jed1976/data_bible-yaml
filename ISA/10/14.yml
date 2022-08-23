@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 10:14"
+  class="v">14</span>And my hand hath found as a nest the riches of the people:
+  and as one gathereth eggs <span class="add">that are</span> left, have I
+  gathered all the earth; and there was none that moved the wing, or opened the
+  mouth, or peeped. </p>
+id: ISA/10/14
+next:
+  id: ISA/10/15
+  number: '15'
+previous:
+  id: ISA/10/13
+  number: '13'
+reference: 'Isaiah 10:14'

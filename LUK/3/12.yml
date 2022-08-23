@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 3:12"
+  class="v">12</span>Then came also publicans to be baptized, and said unto him,
+  Master, what shall we do? </p>
+id: LUK/3/12
+next:
+  id: LUK/3/13
+  number: '13'
+previous:
+  id: LUK/3/11
+  number: '11'
+reference: 'Luke 3:12'

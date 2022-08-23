@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NAM 2:5" class="v">5</span>He
+  shall recount his worthies: they shall stumble in their walk; they shall make
+  haste to the wall thereof, and the defence shall be prepared. </p>
+id: NAM/2/5
+next:
+  id: NAM/2/6
+  number: '6'
+previous:
+  id: NAM/2/4
+  number: '4'
+reference: 'Nahum 2:5'

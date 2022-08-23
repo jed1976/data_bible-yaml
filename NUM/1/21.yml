@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 1:21"
+  class="v">21</span>Those that were numbered of them, <span
+  class="add">even</span> of the tribe of Reuben, <span class="add">were</span>
+  forty and six thousand and five hundred.</p>
+id: NUM/1/21
+next:
+  id: NUM/1/22
+  number: '22'
+previous:
+  id: NUM/1/20
+  number: '20'
+reference: 'Numbers 1:21'

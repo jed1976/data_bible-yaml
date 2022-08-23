@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="MAT 27:52"
+  class="v">52</span>And the graves were opened; and many bodies of the saints
+  which slept arose, </p>
+id: MAT/27/52
+next:
+  id: MAT/27/53
+  number: '53'
+previous:
+  id: MAT/27/51
+  number: '51'
+reference: 'Matthew 27:52'

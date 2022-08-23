@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 8:4" class="v">4</span>I saw
+  the ram pushing westward, and northward, and southward; so that no beasts
+  might stand before him, neither <span class="add">was there any</span> that
+  could deliver out of his hand; but he did according to his will, and became
+  great. </p>
+id: DAN/8/4
+next:
+  id: DAN/8/5
+  number: '5'
+previous:
+  id: DAN/8/3
+  number: '3'
+reference: 'Daniel 8:4'

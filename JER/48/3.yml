@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 48:3" class="v">3</span>A
+  voice of crying <span class="add">shall be</span> from Horonaim, spoiling and
+  great destruction. </p>
+id: JER/48/3
+next:
+  id: JER/48/4
+  number: '4'
+previous:
+  id: JER/48/2
+  number: '2'
+reference: 'Jeremiah 48:3'

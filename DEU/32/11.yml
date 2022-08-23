@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 32:11" class="v">11</span>As
+  an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her
+  wings, taketh them, beareth them on her wings: </p>
+id: DEU/32/11
+next:
+  id: DEU/32/12
+  number: '12'
+previous:
+  id: DEU/32/10
+  number: '10'
+reference: 'Deuteronomy 32:11'

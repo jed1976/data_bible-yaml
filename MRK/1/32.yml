@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MRK 1:32" class="v">32</span>And
+  at even, when the sun did set, they brought unto him all that were diseased,
+  and them that were possessed with devils. </p>
+id: MRK/1/32
+next:
+  id: MRK/1/33
+  number: '33'
+previous:
+  id: MRK/1/31
+  number: '31'
+reference: 'Mark 1:32'

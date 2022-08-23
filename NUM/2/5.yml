@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 2:5" class="v">5</span>And
+  those that do pitch next unto him <span class="add">shall be</span> the tribe
+  of Issachar: and Nethaneel the son of Zuar <span class="add">shall be</span>
+  captain of the children of Issachar. </p>
+id: NUM/2/5
+next:
+  id: NUM/2/6
+  number: '6'
+previous:
+  id: NUM/2/4
+  number: '4'
+reference: 'Numbers 2:5'

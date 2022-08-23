@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 13:3" class="v">3</span>And I
+  saw one of his heads as it were wounded to death; and his deadly wound was
+  healed: and all the world wondered after the beast. </p>
+id: REV/13/3
+next:
+  id: REV/13/4
+  number: '4'
+previous:
+  id: REV/13/2
+  number: '2'
+reference: 'Revelation 13:3'

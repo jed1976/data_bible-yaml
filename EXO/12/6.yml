@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 12:6" class="v">6</span>And
+  ye shall keep it up until the fourteenth day of the same month: and the whole
+  assembly of the congregation of Israel shall kill it in the evening. </p>
+id: EXO/12/6
+next:
+  id: EXO/12/7
+  number: '7'
+previous:
+  id: EXO/12/5
+  number: '5'
+reference: 'Exodus 12:6'

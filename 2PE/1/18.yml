@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2PE 1:18" class="v">18</span>And
+  this voice which came from heaven we heard, when we were with him in the holy
+  mount. </p>
+id: 2PE/1/18
+next:
+  id: 2PE/1/19
+  number: '19'
+previous:
+  id: 2PE/1/17
+  number: '17'
+reference: '2 Peter 1:18'

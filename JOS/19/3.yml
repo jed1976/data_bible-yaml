@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOS 19:3" class="v">3</span>And
+  Hazar-shual, and Balah, and Azem, </p>
+id: JOS/19/3
+next:
+  id: JOS/19/4
+  number: '4'
+previous:
+  id: JOS/19/2
+  number: '2'
+reference: 'Joshua 19:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MRK 10:50"
+  class="v">50</span>And he, casting away his garment, rose, and came to Jesus.
+  </p>
+id: MRK/10/50
+next:
+  id: MRK/10/51
+  number: '51'
+previous:
+  id: MRK/10/49
+  number: '49'
+reference: 'Mark 10:50'

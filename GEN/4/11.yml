@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 4:11" class="v">11</span>And
+  now <span class="add">art</span> thou cursed from the earth, which hath opened
+  her mouth to receive thy brother’s blood from thy hand; </p>
+id: GEN/4/11
+next:
+  id: GEN/4/12
+  number: '12'
+previous:
+  id: GEN/4/10
+  number: '10'
+reference: 'Genesis 4:11'

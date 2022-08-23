@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 27:12" class="v">12</span>A
+  prudent <span class="add">man</span> foreseeth the evil, <span
+  class="add">and</span> hideth himself; <span class="add">but</span> the simple
+  pass on, <span class="add">and</span> are punished. </p>
+id: PRO/27/12
+next:
+  id: PRO/27/13
+  number: '13'
+previous:
+  id: PRO/27/11
+  number: '11'
+reference: 'Proverbs 27:12'

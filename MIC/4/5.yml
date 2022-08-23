@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MIC 4:5" class="v">5</span>For
+  all people will walk every one in the name of his god, and we will walk in the
+  name of the <span class="nd">LORD</span> our God for ever and ever. </p>
+id: MIC/4/5
+next:
+  id: MIC/4/6
+  number: '6'
+previous:
+  id: MIC/4/4
+  number: '4'
+reference: 'Micah 4:5'

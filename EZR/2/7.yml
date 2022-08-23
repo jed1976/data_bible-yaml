@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EZR 2:7" class="v">7</span>The
+  children of Elam, a thousand two hundred fifty and four. </p>
+id: EZR/2/7
+next:
+  id: EZR/2/8
+  number: '8'
+previous:
+  id: EZR/2/6
+  number: '6'
+reference: 'Ezra 2:7'

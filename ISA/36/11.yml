@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 36:11" class="v">11</span>¶
+  Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto
+  thy servants in the Syrian language; for we understand <span
+  class="add">it:</span> and speak not to us in the Jews’ language, in the ears
+  of the people that <span class="add">are</span> on the wall.</p>
+id: ISA/36/11
+next:
+  id: ISA/36/12
+  number: '12'
+previous:
+  id: ISA/36/10
+  number: '10'
+reference: 'Isaiah 36:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 17:5" class="v">5</span>And
+  there fell ten portions to Manasseh, beside the land of Gilead and Bashan,
+  which <span class="add">were</span> on the other side Jordan; </p>
+id: JOS/17/5
+next:
+  id: JOS/17/6
+  number: '6'
+previous:
+  id: JOS/17/4
+  number: '4'
+reference: 'Joshua 17:5'

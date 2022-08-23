@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 2:9" class="v">9</span>¶
+  Wherefore I will yet plead with you, saith the <span class="nd">LORD</span>,
+  and with your children’s children will I plead. </p>
+id: JER/2/9
+next:
+  id: JER/2/10
+  number: '10'
+previous:
+  id: JER/2/8
+  number: '8'
+reference: 'Jeremiah 2:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 10:7"
+  class="v">7</span>Howbeit he meaneth not so, neither doth his heart think so;
+  but <span class="add">it is</span> in his heart to destroy and cut off nations
+  not a few. </p>
+id: ISA/10/7
+next:
+  id: ISA/10/8
+  number: '8'
+previous:
+  id: ISA/10/6
+  number: '6'
+reference: 'Isaiah 10:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 32:10"
+  class="v">10</span>Therefore I said, Hearken to me; I also will shew mine
+  opinion. </p>
+id: JOB/32/10
+next:
+  id: JOB/32/11
+  number: '11'
+previous:
+  id: JOB/32/9
+  number: '9'
+reference: 'Job 32:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 11:18"
+  class="v">18</span>And thou shalt be secure, because there is hope; yea, thou
+  shalt dig <span class="add">about thee, and</span> thou shalt take thy rest in
+  safety. </p>
+id: JOB/11/18
+next:
+  id: JOB/11/19
+  number: '19'
+previous:
+  id: JOB/11/17
+  number: '17'
+reference: 'Job 11:18'

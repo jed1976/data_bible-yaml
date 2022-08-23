@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2SA 19:33"
+  class="v">33</span>And the king said unto Barzillai, Come thou over with me,
+  and I will feed thee with me in Jerusalem. </p>
+id: 2SA/19/33
+next:
+  id: 2SA/19/34
+  number: '34'
+previous:
+  id: 2SA/19/32
+  number: '32'
+reference: '2 Samuel 19:33'

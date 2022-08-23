@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 24:11"
+  class="v">11</span><span class="add">Which</span> make oil within their walls,
+  <span class="add">and</span> tread <span class="add">their</span> winepresses,
+  and suffer thirst. </p>
+id: JOB/24/11
+next:
+  id: JOB/24/12
+  number: '12'
+previous:
+  id: JOB/24/10
+  number: '10'
+reference: 'Job 24:11'

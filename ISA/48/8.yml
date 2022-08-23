@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 48:8" class="v">8</span>Yea,
+  thou heardest not; yea, thou knewest not; yea, from that time <span
+  class="add">that</span> thine ear was not opened: for I knew that thou
+  wouldest deal very treacherously, and wast called a transgressor from the
+  womb.</p>
+id: ISA/48/8
+next:
+  id: ISA/48/9
+  number: '9'
+previous:
+  id: ISA/48/7
+  number: '7'
+reference: 'Isaiah 48:8'

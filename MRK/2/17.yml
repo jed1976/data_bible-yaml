@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MRK 2:17"
+  class="v">17</span>When Jesus heard <span class="add">it</span>, he saith unto
+  them, <span class="wj">They that are whole have no need of the physician, but
+  they that are sick: I came not to call the righteous, but sinners to
+  repentance.</span> </p>
+id: MRK/2/17
+next:
+  id: MRK/2/18
+  number: '18'
+previous:
+  id: MRK/2/16
+  number: '16'
+reference: 'Mark 2:17'

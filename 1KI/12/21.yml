@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1KI 12:21" class="v">21</span>¶
+  And when Rehoboam was come to Jerusalem, he assembled all the house of Judah,
+  with the tribe of Benjamin, an hundred and fourscore thousand chosen men,
+  which were warriors, to fight against the house of Israel, to bring the
+  kingdom again to Rehoboam the son of Solomon. </p>
+id: 1KI/12/21
+next:
+  id: 1KI/12/22
+  number: '22'
+previous:
+  id: 1KI/12/20
+  number: '20'
+reference: '1 Kings 12:21'

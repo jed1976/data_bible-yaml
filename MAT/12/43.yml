@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="MAT 12:43"
+  class="v">43</span><span class="wj">When the unclean spirit is gone out of a
+  man, he walketh through dry places, seeking rest, and findeth none.</span>
+  </p>
+id: MAT/12/43
+next:
+  id: MAT/12/44
+  number: '44'
+previous:
+  id: MAT/12/42
+  number: '42'
+reference: 'Matthew 12:43'

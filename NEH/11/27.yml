@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NEH 11:27"
+  class="v">27</span>And at Hazar-shual, and at Beer-sheba, and <span
+  class="add">in</span> the villages thereof, </p>
+id: NEH/11/27
+next:
+  id: NEH/11/28
+  number: '28'
+previous:
+  id: NEH/11/26
+  number: '26'
+reference: 'Nehemiah 11:27'

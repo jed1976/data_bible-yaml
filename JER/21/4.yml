@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 21:4" class="v">4</span>Thus
+  saith the <span class="nd">LORD</span> God of Israel; Behold, I will turn back
+  the weapons of war that <span class="add">are</span> in your hands, wherewith
+  ye fight against the king of Babylon, and <span class="add">against</span> the
+  Chaldeans, which besiege you without the walls, and I will assemble them into
+  the midst of this city. </p>
+id: JER/21/4
+next:
+  id: JER/21/5
+  number: '5'
+previous:
+  id: JER/21/3
+  number: '3'
+reference: 'Jeremiah 21:4'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 14:1" class="v">1</span>Then
+  came certain of the elders of Israel unto me, and sat before me. </p>
+id: EZK/14/1
+next:
+  id: EZK/14/2
+  number: '2'
+previous:
+  id: EZK/13/23
+  number: '23'
+reference: 'Ezekiel 14:1'

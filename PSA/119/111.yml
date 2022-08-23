@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="111" data-sid="PSA 119:111"
+  class="v">111</span>Thy testimonies have I taken as an heritage for ever: for
+  they <span class="add">are</span> the rejoicing of my heart.</p>
+id: PSA/119/111
+next:
+  id: PSA/119/112
+  number: '112'
+previous:
+  id: PSA/119/110
+  number: '110'
+reference: 'Psalms 119:111'

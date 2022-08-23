@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 31:2" class="v">2</span>Yet
+  he also <span class="add">is</span> wise, and will bring evil, and will not
+  call back his words: but will arise against the house of the evildoers, and
+  against the help of them that work iniquity. </p>
+id: ISA/31/2
+next:
+  id: ISA/31/3
+  number: '3'
+previous:
+  id: ISA/31/1
+  number: '1'
+reference: 'Isaiah 31:2'

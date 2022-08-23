@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="OBA 1:5" class="v">5</span>If
+  thieves came to thee, if robbers by night, (how art thou cut off!) would they
+  not have stolen till they had enough? if the grapegatherers came to thee,
+  would they not leave <span class="add">some</span> grapes? </p>
+id: OBA/1/5
+next:
+  id: OBA/1/6
+  number: '6'
+previous:
+  id: OBA/1/4
+  number: '4'
+reference: 'Obadiah 1:5'

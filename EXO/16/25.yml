@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="EXO 16:25"
+  class="v">25</span>And Moses said, Eat that to day; for to day <span
+  class="add">is</span> a sabbath unto the <span class="nd">LORD</span>: to day
+  ye shall not find it in the field. </p>
+id: EXO/16/25
+next:
+  id: EXO/16/26
+  number: '26'
+previous:
+  id: EXO/16/24
+  number: '24'
+reference: 'Exodus 16:25'

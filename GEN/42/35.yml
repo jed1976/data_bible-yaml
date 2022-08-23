@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 42:35" class="v">35</span>¶
+  And it came to pass as they emptied their sacks, that, behold, every man’s
+  bundle of money <span class="add">was</span> in his sack: and when <span
+  class="add">both</span> they and their father saw the bundles of money, they
+  were afraid. </p>
+id: GEN/42/35
+next:
+  id: GEN/42/36
+  number: '36'
+previous:
+  id: GEN/42/34
+  number: '34'
+reference: 'Genesis 42:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 1:24"
+  class="v">24</span>Therefore saith the Lord, the <span class="nd">LORD</span>
+  of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries,
+  and avenge me of mine enemies:</p>
+id: ISA/1/24
+next:
+  id: ISA/1/25
+  number: '25'
+previous:
+  id: ISA/1/23
+  number: '23'
+reference: 'Isaiah 1:24'

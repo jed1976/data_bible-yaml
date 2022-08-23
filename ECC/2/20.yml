@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ECC 2:20"
+  class="v">20</span>Therefore I went about to cause my heart to despair of all
+  the labour which I took under the sun. </p>
+id: ECC/2/20
+next:
+  id: ECC/2/21
+  number: '21'
+previous:
+  id: ECC/2/19
+  number: '19'
+reference: 'Ecclesiastes 2:20'

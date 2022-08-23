@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ISA 37:30"
+  class="v">30</span>And this <span class="add">shall be</span> a sign unto
+  thee, Ye shall eat <span class="add">this</span> year such as groweth of
+  itself; and the second year that which springeth of the same: and in the third
+  year sow ye, and reap, and plant vineyards, and eat the fruit thereof. </p>
+id: ISA/37/30
+next:
+  id: ISA/37/31
+  number: '31'
+previous:
+  id: ISA/37/29
+  number: '29'
+reference: 'Isaiah 37:30'

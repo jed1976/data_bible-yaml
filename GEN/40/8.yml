@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 40:8" class="v">8</span>And
+  they said unto him, We have dreamed a dream, and <span class="add">there
+  is</span> no interpreter of it. And Joseph said unto them, <span
+  class="add">Do</span> not interpretations <span class="add">belong</span> to
+  God? tell me <span class="add">them</span>, I pray you. </p>
+id: GEN/40/8
+next:
+  id: GEN/40/9
+  number: '9'
+previous:
+  id: GEN/40/7
+  number: '7'
+reference: 'Genesis 40:8'

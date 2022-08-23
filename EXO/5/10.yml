@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 5:10" class="v">10</span>¶
+  And the taskmasters of the people went out, and their officers, and they spake
+  to the people, saying, Thus saith Pharaoh, I will not give you straw. </p>
+id: EXO/5/10
+next:
+  id: EXO/5/11
+  number: '11'
+previous:
+  id: EXO/5/9
+  number: '9'
+reference: 'Exodus 5:10'

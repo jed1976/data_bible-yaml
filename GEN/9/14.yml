@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 9:14" class="v">14</span>And
+  it shall come to pass, when I bring a cloud over the earth, that the bow shall
+  be seen in the cloud: </p>
+id: GEN/9/14
+next:
+  id: GEN/9/15
+  number: '15'
+previous:
+  id: GEN/9/13
+  number: '13'
+reference: 'Genesis 9:14'

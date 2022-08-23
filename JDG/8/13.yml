@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 8:13" class="v">13</span>¶
+  And Gideon the son of Joash returned from battle before the sun <span
+  class="add">was up</span>, </p>
+id: JDG/8/13
+next:
+  id: JDG/8/14
+  number: '14'
+previous:
+  id: JDG/8/12
+  number: '12'
+reference: 'Judges 8:13'

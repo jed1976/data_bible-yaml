@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 13:12"
+  class="v">12</span>And Manoah said, Now let thy words come to pass. How shall
+  we order the child, and <span class="add">how</span> shall we do unto him?
+  </p>
+id: JDG/13/12
+next:
+  id: JDG/13/13
+  number: '13'
+previous:
+  id: JDG/13/11
+  number: '11'
+reference: 'Judges 13:12'

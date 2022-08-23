@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ISA 41:24"
+  class="v">24</span>Behold, ye <span class="add">are</span> of nothing, and
+  your work of nought: an abomination <span class="add">is he that</span>
+  chooseth you. </p>
+id: ISA/41/24
+next:
+  id: ISA/41/25
+  number: '25'
+previous:
+  id: ISA/41/23
+  number: '23'
+reference: 'Isaiah 41:24'

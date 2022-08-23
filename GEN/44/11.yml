@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 44:11"
+  class="v">11</span>Then they speedily took down every man his sack to the
+  ground, and opened every man his sack. </p>
+id: GEN/44/11
+next:
+  id: GEN/44/12
+  number: '12'
+previous:
+  id: GEN/44/10
+  number: '10'
+reference: 'Genesis 44:11'

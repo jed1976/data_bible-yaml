@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LEV 19:32" class="v">32</span>¶
+  Thou shalt rise up before the hoary head, and honour the face of the old man,
+  and fear thy God: I <span class="add">am</span> the <span
+  class="nd">LORD</span>.</p>
+id: LEV/19/32
+next:
+  id: LEV/19/33
+  number: '33'
+previous:
+  id: LEV/19/31
+  number: '31'
+reference: 'Leviticus 19:32'

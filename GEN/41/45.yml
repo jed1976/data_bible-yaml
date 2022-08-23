@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="GEN 41:45"
+  class="v">45</span>And Pharaoh called Joseph’s name Zaphnath-paaneah; and he
+  gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph
+  went out over <span class="add">all</span> the land of Egypt.</p>
+id: GEN/41/45
+next:
+  id: GEN/41/46
+  number: '46'
+previous:
+  id: GEN/41/44
+  number: '44'
+reference: 'Genesis 41:45'

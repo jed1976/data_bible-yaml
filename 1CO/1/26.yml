@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1CO 1:26" class="v">26</span>For
+  ye see your calling, brethren, how that not many wise men after the flesh, not
+  many mighty, not many noble, <span class="add">are called</span>: </p>
+id: 1CO/1/26
+next:
+  id: 1CO/1/27
+  number: '27'
+previous:
+  id: 1CO/1/25
+  number: '25'
+reference: '1 Corinthians 1:26'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 25:20"
+  class="v">20</span><span class="wj">And so he that had received five talents
+  came and brought other five talents, saying, Lord, thou deliveredst unto me
+  five talents: behold, I have gained beside them five talents more.</span> </p>
+id: MAT/25/20
+next:
+  id: MAT/25/21
+  number: '21'
+previous:
+  id: MAT/25/19
+  number: '19'
+reference: 'Matthew 25:20'

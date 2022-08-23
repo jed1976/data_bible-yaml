@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 20:20"
+  class="v">20</span>And if a man shall lie with his uncle’s wife, he hath
+  uncovered his uncle’s nakedness: they shall bear their sin; they shall die
+  childless. </p>
+id: LEV/20/20
+next:
+  id: LEV/20/21
+  number: '21'
+previous:
+  id: LEV/20/19
+  number: '19'
+reference: 'Leviticus 20:20'

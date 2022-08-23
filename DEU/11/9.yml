@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 11:9" class="v">9</span>And
+  that ye may prolong <span class="add">your</span> days in the land, which the
+  <span class="nd">LORD</span> sware unto your fathers to give unto them and to
+  their seed, a land that floweth with milk and honey.</p>
+id: DEU/11/9
+next:
+  id: DEU/11/10
+  number: '10'
+previous:
+  id: DEU/11/8
+  number: '8'
+reference: 'Deuteronomy 11:9'

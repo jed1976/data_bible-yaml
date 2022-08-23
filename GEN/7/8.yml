@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 7:8" class="v">8</span>Of
+  clean beasts, and of beasts that <span class="add">are</span> not clean, and
+  of fowls, and of every thing that creepeth upon the earth, </p>
+id: GEN/7/8
+next:
+  id: GEN/7/9
+  number: '9'
+previous:
+  id: GEN/7/7
+  number: '7'
+reference: 'Genesis 7:8'

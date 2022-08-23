@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2SA 24:24"
+  class="v">24</span>And the king said unto Araunah, Nay; but I will surely buy
+  <span class="add">it</span> of thee at a price: neither will I offer burnt
+  offerings unto the <span class="nd">LORD</span> my God of that which doth cost
+  me nothing. So David bought the threshingfloor and the oxen for fifty shekels
+  of silver. </p>
+id: 2SA/24/24
+next:
+  id: 2SA/24/25
+  number: '25'
+previous:
+  id: 2SA/24/23
+  number: '23'
+reference: '2 Samuel 24:24'

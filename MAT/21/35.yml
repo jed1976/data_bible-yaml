@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 21:35"
+  class="v">35</span><span class="wj">And the husbandmen took his servants, and
+  beat one, and killed another, and stoned another.</span> </p>
+id: MAT/21/35
+next:
+  id: MAT/21/36
+  number: '36'
+previous:
+  id: MAT/21/34
+  number: '34'
+reference: 'Matthew 21:35'

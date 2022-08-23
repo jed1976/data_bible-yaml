@@ -1,0 +1,9 @@
+content: <p class="mt1">THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS</p>
+id: COL/intro/0
+next:
+  id: COL/1/1
+  number: '1'
+previous:
+  id: PHP/4/23
+  number: '23'
+reference: Colossians

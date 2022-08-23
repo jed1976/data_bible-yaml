@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 51:14"
+  class="v">14</span>The captive exile hasteneth that he may be loosed, and that
+  he should not die in the pit, nor that his bread should fail. </p>
+id: ISA/51/14
+next:
+  id: ISA/51/15
+  number: '15'
+previous:
+  id: ISA/51/13
+  number: '13'
+reference: 'Isaiah 51:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 43:12"
+  class="v">12</span>This <span class="add">is</span> the law of the house; Upon
+  the top of the mountain the whole limit thereof round about <span
+  class="add">shall be</span> most holy. Behold, this <span
+  class="add">is</span> the law of the house.</p>
+id: EZK/43/12
+next:
+  id: EZK/43/13
+  number: '13'
+previous:
+  id: EZK/43/11
+  number: '11'
+reference: 'Ezekiel 43:12'

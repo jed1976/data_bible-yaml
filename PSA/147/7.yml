@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 147:7"
+  class="v">7</span>Sing unto the <span class="nd">LORD</span> with
+  thanksgiving; sing praise upon the harp unto our God:</p>
+id: PSA/147/7
+next:
+  id: PSA/147/8
+  number: '8'
+previous:
+  id: PSA/147/6
+  number: '6'
+reference: 'Psalms 147:7'

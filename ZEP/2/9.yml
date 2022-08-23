@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ZEP 2:9"
+  class="v">9</span>Therefore <span class="add">as</span> I live, saith the
+  <span class="nd">LORD</span> of hosts, the God of Israel, Surely Moab shall be
+  as Sodom, and the children of Ammon as Gomorrah, <span class="add">even</span>
+  the breeding of nettles, and saltpits, and a perpetual desolation: the residue
+  of my people shall spoil them, and the remnant of my people shall possess
+  them. </p>
+id: ZEP/2/9
+next:
+  id: ZEP/2/10
+  number: '10'
+previous:
+  id: ZEP/2/8
+  number: '8'
+reference: 'Zephaniah 2:9'

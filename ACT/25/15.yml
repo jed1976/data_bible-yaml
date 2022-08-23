@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 25:15"
+  class="v">15</span>About whom, when I was at Jerusalem, the chief priests and
+  the elders of the Jews informed <span class="add">me</span>, desiring <span
+  class="add">to have</span> judgment against him. </p>
+id: ACT/25/15
+next:
+  id: ACT/25/16
+  number: '16'
+previous:
+  id: ACT/25/14
+  number: '14'
+reference: 'Acts 25:15'

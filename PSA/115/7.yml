@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 115:7"
+  class="v">7</span>They have hands, but they handle not: feet have they, but
+  they walk not: neither speak they through their throat.</p>
+id: PSA/115/7
+next:
+  id: PSA/115/8
+  number: '8'
+previous:
+  id: PSA/115/6
+  number: '6'
+reference: 'Psalms 115:7'

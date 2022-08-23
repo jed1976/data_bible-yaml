@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 8:9" class="v">9</span>But
+  the dove found no rest for the sole of her foot, and she returned unto him
+  into the ark, for the waters <span class="add">were</span> on the face of the
+  whole earth: then he put forth his hand, and took her, and pulled her in unto
+  him into the ark. </p>
+id: GEN/8/9
+next:
+  id: GEN/8/10
+  number: '10'
+previous:
+  id: GEN/8/8
+  number: '8'
+reference: 'Genesis 8:9'

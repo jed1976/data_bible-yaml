@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EZR 5:6" class="v">6</span>¶ The
+  copy of the letter that Tatnai, governor on this side the river, and
+  Shethar-boznai, and his companions the Apharsachites, which <span
+  class="add">were</span> on this side the river, sent unto Darius the king:
+  </p>
+id: EZR/5/6
+next:
+  id: EZR/5/7
+  number: '7'
+previous:
+  id: EZR/5/5
+  number: '5'
+reference: 'Ezra 5:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 10:12"
+  class="v">12</span>And their whole body, and their backs, and their hands, and
+  their wings, and the wheels, <span class="add">were</span> full of eyes round
+  about, <span class="add">even</span> the wheels that they four had. </p>
+id: EZK/10/12
+next:
+  id: EZK/10/13
+  number: '13'
+previous:
+  id: EZK/10/11
+  number: '11'
+reference: 'Ezekiel 10:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 9:9" class="v">9</span>And
+  they had breastplates, as it were breastplates of iron; and the sound of their
+  wings <span class="add">was</span> as the sound of chariots of many horses
+  running to battle. </p>
+id: REV/9/9
+next:
+  id: REV/9/10
+  number: '10'
+previous:
+  id: REV/9/8
+  number: '8'
+reference: 'Revelation 9:9'

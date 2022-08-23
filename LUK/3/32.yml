@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 3:32"
+  class="v">32</span>Which was <span class="add">the son</span> of Jesse, which
+  was <span class="add">the son</span> of Obed, which was <span class="add">the
+  son</span> of Booz, which was <span class="add">the son</span> of Salmon,
+  which was <span class="add">the son</span> of Naasson, </p>
+id: LUK/3/32
+next:
+  id: LUK/3/33
+  number: '33'
+previous:
+  id: LUK/3/31
+  number: '31'
+reference: 'Luke 3:32'

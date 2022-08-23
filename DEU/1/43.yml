@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DEU 1:43" class="v">43</span>So
+  I spake unto you; and ye would not hear, but rebelled against the commandment
+  of the <span class="nd">LORD</span>, and went presumptuously up into the hill.
+  </p>
+id: DEU/1/43
+next:
+  id: DEU/1/44
+  number: '44'
+previous:
+  id: DEU/1/42
+  number: '42'
+reference: 'Deuteronomy 1:43'

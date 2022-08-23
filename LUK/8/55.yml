@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LUK 8:55" class="v">55</span>And
+  her spirit came again, and she arose straightway: and he commanded to give her
+  meat. </p>
+id: LUK/8/55
+next:
+  id: LUK/8/56
+  number: '56'
+previous:
+  id: LUK/8/54
+  number: '54'
+reference: 'Luke 8:55'

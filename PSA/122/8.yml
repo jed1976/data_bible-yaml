@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 122:8" class="v">8</span>For
+  my brethren and companions’ sakes, I will now say, Peace <span
+  class="add">be</span> within thee.</p>
+id: PSA/122/8
+next:
+  id: PSA/122/9
+  number: '9'
+previous:
+  id: PSA/122/7
+  number: '7'
+reference: 'Psalms 122:8'

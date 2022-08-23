@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="RUT 3:3" class="v">3</span>Wash
+  thyself therefore, and anoint thee, and put thy raiment upon thee, and get
+  thee down to the floor: <span class="add">but</span> make not thyself known
+  unto the man, until he shall have done eating and drinking. </p>
+id: RUT/3/3
+next:
+  id: RUT/3/4
+  number: '4'
+previous:
+  id: RUT/3/2
+  number: '2'
+reference: 'Ruth 3:3'

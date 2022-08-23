@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 54:9" class="v">9</span>For
+  this <span class="add">is as</span> the waters of Noah unto me: for <span
+  class="add">as</span> I have sworn that the waters of Noah should no more go
+  over the earth; so have I sworn that I would not be wroth with thee, nor
+  rebuke thee. </p>
+id: ISA/54/9
+next:
+  id: ISA/54/10
+  number: '10'
+previous:
+  id: ISA/54/8
+  number: '8'
+reference: 'Isaiah 54:9'

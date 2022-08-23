@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 28:11"
+  class="v">11</span>And he lighted upon a certain place, and tarried there all
+  night, because the sun was set; and he took of the stones of that place, and
+  put <span class="add">them for</span> his pillows, and lay down in that place
+  to sleep. </p>
+id: GEN/28/11
+next:
+  id: GEN/28/12
+  number: '12'
+previous:
+  id: GEN/28/10
+  number: '10'
+reference: 'Genesis 28:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JAS 1:8" class="v">8</span>A
+  double minded man <span class="add">is</span> unstable in all his ways. </p>
+id: JAS/1/8
+next:
+  id: JAS/1/9
+  number: '9'
+previous:
+  id: JAS/1/7
+  number: '7'
+reference: 'James 1:8'

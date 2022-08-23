@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 19:10"
+  class="v">10</span><span class="wj">For the Son of man is come to seek and to
+  save that which was lost.</span> </p>
+id: LUK/19/10
+next:
+  id: LUK/19/11
+  number: '11'
+previous:
+  id: LUK/19/9
+  number: '9'
+reference: 'Luke 19:10'

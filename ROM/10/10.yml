@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ROM 10:10"
+  class="v">10</span>For with the heart man believeth unto righteousness; and
+  with the mouth confession is made unto salvation. </p>
+id: ROM/10/10
+next:
+  id: ROM/10/11
+  number: '11'
+previous:
+  id: ROM/10/9
+  number: '9'
+reference: 'Romans 10:10'

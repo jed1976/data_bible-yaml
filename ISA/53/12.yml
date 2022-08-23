@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 53:12"
+  class="v">12</span>Therefore will I divide him <span class="add">a
+  portion</span> with the great, and he shall divide the spoil with the strong;
+  because he hath poured out his soul unto death: and he was numbered with the
+  transgressors; and he bare the sin of many, and made intercession for the
+  transgressors.</p>
+id: ISA/53/12
+next:
+  id: ISA/54/1
+  number: '1'
+previous:
+  id: ISA/53/11
+  number: '11'
+reference: 'Isaiah 53:12'

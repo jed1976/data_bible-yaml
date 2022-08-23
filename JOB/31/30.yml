@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOB 31:30"
+  class="v">30</span>Neither have I suffered my mouth to sin by wishing a curse
+  to his soul. </p>
+id: JOB/31/30
+next:
+  id: JOB/31/31
+  number: '31'
+previous:
+  id: JOB/31/29
+  number: '29'
+reference: 'Job 31:30'

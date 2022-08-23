@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="64" data-sid="PSA 78:64"
+  class="v">64</span>Their priests fell by the sword; and their widows made no
+  lamentation.</p>
+id: PSA/78/64
+next:
+  id: PSA/78/65
+  number: '65'
+previous:
+  id: PSA/78/63
+  number: '63'
+reference: 'Psalms 78:64'

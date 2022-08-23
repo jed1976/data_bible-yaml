@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 59:10" class="v">10</span>We
+  grope for the wall like the blind, and we grope as if <span class="add">we
+  had</span> no eyes: we stumble at noonday as in the night; <span
+  class="add">we are</span> in desolate places as dead <span
+  class="add">men</span>. </p>
+id: ISA/59/10
+next:
+  id: ISA/59/11
+  number: '11'
+previous:
+  id: ISA/59/9
+  number: '9'
+reference: 'Isaiah 59:10'

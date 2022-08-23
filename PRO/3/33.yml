@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 3:33" class="v">33</span>¶
+  The curse of the <span class="nd">LORD</span> <span class="add">is</span> in
+  the house of the wicked: but he blesseth the habitation of the just. </p>
+id: PRO/3/33
+next:
+  id: PRO/3/34
+  number: '34'
+previous:
+  id: PRO/3/32
+  number: '32'
+reference: 'Proverbs 3:33'

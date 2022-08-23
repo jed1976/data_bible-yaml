@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 2:23"
+  class="v">23</span>Thou that makest thy boast of the law, through breaking the
+  law dishonourest thou God? </p>
+id: ROM/2/23
+next:
+  id: ROM/2/24
+  number: '24'
+previous:
+  id: ROM/2/22
+  number: '22'
+reference: 'Romans 2:23'

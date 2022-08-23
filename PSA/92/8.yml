@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 92:8" class="v">8</span>But
+  thou, <span class="nd">LORD</span>, <span class="add">art most</span> high for
+  evermore.</p>
+id: PSA/92/8
+next:
+  id: PSA/92/9
+  number: '9'
+previous:
+  id: PSA/92/7
+  number: '7'
+reference: 'Psalms 92:8'

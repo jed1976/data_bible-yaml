@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="PRO 16:11" class="v">11</span>A
+  just weight and balance <span class="add">are</span> the <span
+  class="nd">LORD’s</span>: all the weights of the bag <span
+  class="add">are</span> his work. </p>
+id: PRO/16/11
+next:
+  id: PRO/16/12
+  number: '12'
+previous:
+  id: PRO/16/10
+  number: '10'
+reference: 'Proverbs 16:11'

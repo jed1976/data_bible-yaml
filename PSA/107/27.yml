@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 107:27"
+  class="v">27</span>They reel to and fro, and stagger like a drunken man, and
+  are at their wits’ end. </p>
+id: PSA/107/27
+next:
+  id: PSA/107/28
+  number: '28'
+previous:
+  id: PSA/107/26
+  number: '26'
+reference: 'Psalms 107:27'

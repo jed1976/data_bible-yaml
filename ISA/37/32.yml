@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ISA 37:32"
+  class="v">32</span>For out of Jerusalem shall go forth a remnant, and they
+  that escape out of mount Zion: the zeal of the <span class="nd">LORD</span> of
+  hosts shall do this. </p>
+id: ISA/37/32
+next:
+  id: ISA/37/33
+  number: '33'
+previous:
+  id: ISA/37/31
+  number: '31'
+reference: 'Isaiah 37:32'

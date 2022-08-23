@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 20:27"
+  class="v">27</span><span class="wj">And whosoever will be chief among you, let
+  him be your servant:</span> </p>
+id: MAT/20/27
+next:
+  id: MAT/20/28
+  number: '28'
+previous:
+  id: MAT/20/26
+  number: '26'
+reference: 'Matthew 20:27'

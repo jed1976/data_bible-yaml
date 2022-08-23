@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 2:3" class="v">3</span>And I
+  will cut off the judge from the midst thereof, and will slay all the princes
+  thereof with him, saith the <span class="nd">LORD</span>.</p>
+id: AMO/2/3
+next:
+  id: AMO/2/4
+  number: '4'
+previous:
+  id: AMO/2/2
+  number: '2'
+reference: 'Amos 2:3'

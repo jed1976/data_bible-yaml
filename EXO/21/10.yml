@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 21:10" class="v">10</span>If
+  he take him another <span class="add">wife;</span> her food, her raiment, and
+  her duty of marriage, shall he not diminish. </p>
+id: EXO/21/10
+next:
+  id: EXO/21/11
+  number: '11'
+previous:
+  id: EXO/21/9
+  number: '9'
+reference: 'Exodus 21:10'

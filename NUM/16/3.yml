@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 16:3" class="v">3</span>And
+  they gathered themselves together against Moses and against Aaron, and said
+  unto them, <span class="add">Ye take</span> too much upon you, seeing all the
+  congregation <span class="add">are</span> holy, every one of them, and the
+  <span class="nd">LORD</span> <span class="add">is</span> among them: wherefore
+  then lift ye up yourselves above the congregation of the <span
+  class="nd">LORD</span>? </p>
+id: NUM/16/3
+next:
+  id: NUM/16/4
+  number: '4'
+previous:
+  id: NUM/16/2
+  number: '2'
+reference: 'Numbers 16:3'

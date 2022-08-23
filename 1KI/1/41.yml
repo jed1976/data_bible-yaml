@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="1KI 1:41" class="v">41</span>¶
+  And Adonijah and all the guests that <span class="add">were</span> with him
+  heard <span class="add">it</span> as they had made an end of eating. And when
+  Joab heard the sound of the trumpet, he said, Wherefore <span class="add">is
+  this</span> noise of the city being in an uproar? </p>
+id: 1KI/1/41
+next:
+  id: 1KI/1/42
+  number: '42'
+previous:
+  id: 1KI/1/40
+  number: '40'
+reference: '1 Kings 1:41'

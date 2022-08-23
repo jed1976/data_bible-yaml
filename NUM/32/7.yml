@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 32:7" class="v">7</span>And
+  wherefore discourage ye the heart of the children of Israel from going over
+  into the land which the <span class="nd">LORD</span> hath given them? </p>
+id: NUM/32/7
+next:
+  id: NUM/32/8
+  number: '8'
+previous:
+  id: NUM/32/6
+  number: '6'
+reference: 'Numbers 32:7'

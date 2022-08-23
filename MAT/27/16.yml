@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 27:16"
+  class="v">16</span>And they had then a notable prisoner, called Barabbas. </p>
+id: MAT/27/16
+next:
+  id: MAT/27/17
+  number: '17'
+previous:
+  id: MAT/27/15
+  number: '15'
+reference: 'Matthew 27:16'

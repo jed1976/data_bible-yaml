@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 13:6" class="v">6</span>¶
+  Howl ye; for the day of the <span class="nd">LORD</span> <span
+  class="add">is</span> at hand; it shall come as a destruction from the
+  Almighty. </p>
+id: ISA/13/6
+next:
+  id: ISA/13/7
+  number: '7'
+previous:
+  id: ISA/13/5
+  number: '5'
+reference: 'Isaiah 13:6'

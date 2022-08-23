@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 10:6" class="v">6</span><span
+  class="wj">But from the beginning of the creation God made them male and
+  female.</span> </p>
+id: MRK/10/6
+next:
+  id: MRK/10/7
+  number: '7'
+previous:
+  id: MRK/10/5
+  number: '5'
+reference: 'Mark 10:6'

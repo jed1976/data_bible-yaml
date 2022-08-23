@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 58:5" class="v">5</span>Is it
+  such a fast that I have chosen? a day for a man to afflict his soul? <span
+  class="add">is it</span> to bow down his head as a bulrush, and to spread
+  sackcloth and ashes <span class="add">under him</span>? wilt thou call this a
+  fast, and an acceptable day to the <span class="nd">LORD</span>? </p>
+id: ISA/58/5
+next:
+  id: ISA/58/6
+  number: '6'
+previous:
+  id: ISA/58/4
+  number: '4'
+reference: 'Isaiah 58:5'

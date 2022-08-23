@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="15" data-sid="PSA 25:15"
+  class="v">15</span>Mine eyes <span class="add">are</span> ever toward the
+  <span class="nd">LORD</span>; for he shall pluck my feet out of the net.</p>
+id: PSA/25/15
+next:
+  id: PSA/25/16
+  number: '16'
+previous:
+  id: PSA/25/14
+  number: '14'
+reference: 'Psalms 25:15'

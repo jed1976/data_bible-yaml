@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 20:11"
+  class="v">11</span>When he therefore was come up again, and had broken bread,
+  and eaten, and talked a long while, even till break of day, so he departed.
+  </p>
+id: ACT/20/11
+next:
+  id: ACT/20/12
+  number: '12'
+previous:
+  id: ACT/20/10
+  number: '10'
+reference: 'Acts 20:11'

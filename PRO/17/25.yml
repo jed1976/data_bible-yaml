@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 17:25" class="v">25</span>A
+  foolish son <span class="add">is</span> a grief to his father, and bitterness
+  to her that bare him. </p>
+id: PRO/17/25
+next:
+  id: PRO/17/26
+  number: '26'
+previous:
+  id: PRO/17/24
+  number: '24'
+reference: 'Proverbs 17:25'

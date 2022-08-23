@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 22:26"
+  class="v">26</span>Likewise the second also, and the third, unto the seventh.
+  </p>
+id: MAT/22/26
+next:
+  id: MAT/22/27
+  number: '27'
+previous:
+  id: MAT/22/25
+  number: '25'
+reference: 'Matthew 22:26'

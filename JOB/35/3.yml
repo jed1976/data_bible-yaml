@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 35:3" class="v">3</span>For
+  thou saidst, What advantage will it be unto thee? <span
+  class="add">and</span>, What profit shall I have, <span class="add">if I be
+  cleansed</span> from my sin? </p>
+id: JOB/35/3
+next:
+  id: JOB/35/4
+  number: '4'
+previous:
+  id: JOB/35/2
+  number: '2'
+reference: 'Job 35:3'

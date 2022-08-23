@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 17:1" class="v">1</span>And
+  all the congregation of the children of Israel journeyed from the wilderness
+  of Sin, after their journeys, according to the commandment of the <span
+  class="nd">LORD</span>, and pitched in Rephidim: and <span class="add">there
+  was</span> no water for the people to drink. </p>
+id: EXO/17/1
+next:
+  id: EXO/17/2
+  number: '2'
+previous:
+  id: EXO/16/36
+  number: '36'
+reference: 'Exodus 17:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 31:23"
+  class="v">23</span>Her husband is known in the gates, when he sitteth among
+  the elders of the land. </p>
+id: PRO/31/23
+next:
+  id: PRO/31/24
+  number: '24'
+previous:
+  id: PRO/31/22
+  number: '22'
+reference: 'Proverbs 31:23'

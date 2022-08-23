@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 22:8" class="v">8</span>He
+  trusted on the <span class="nd">LORD</span> <span class="add">that</span> he
+  would deliver him: let him deliver him, seeing he delighted in him.</p>
+id: PSA/22/8
+next:
+  id: PSA/22/9
+  number: '9'
+previous:
+  id: PSA/22/7
+  number: '7'
+reference: 'Psalms 22:8'

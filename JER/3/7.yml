@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JER 3:7" class="v">7</span>And I
+  said after she had done all these <span class="add">things</span>, Turn thou
+  unto me. But she returned not. And her treacherous sister Judah saw <span
+  class="add">it</span>. </p>
+id: JER/3/7
+next:
+  id: JER/3/8
+  number: '8'
+previous:
+  id: JER/3/6
+  number: '6'
+reference: 'Jeremiah 3:7'

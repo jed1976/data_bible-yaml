@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 9:22"
+  class="v">22</span>These <span class="add">words</span> spake his parents,
+  because they feared the Jews: for the Jews had agreed already, that if any man
+  did confess that he was Christ, he should be put out of the synagogue. </p>
+id: JHN/9/22
+next:
+  id: JHN/9/23
+  number: '23'
+previous:
+  id: JHN/9/21
+  number: '21'
+reference: 'John 9:22'

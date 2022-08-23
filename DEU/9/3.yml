@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 9:3"
+  class="v">3</span>Understand therefore this day, that the <span
+  class="nd">LORD</span> thy God <span class="add">is</span> he which goeth over
+  before thee; <span class="add">as</span> a consuming fire he shall destroy
+  them, and he shall bring them down before thy face: so shalt thou drive them
+  out, and destroy them quickly, as the <span class="nd">LORD</span> hath said
+  unto thee. </p>
+id: DEU/9/3
+next:
+  id: DEU/9/4
+  number: '4'
+previous:
+  id: DEU/9/2
+  number: '2'
+reference: 'Deuteronomy 9:3'

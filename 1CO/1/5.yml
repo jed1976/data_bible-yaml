@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CO 1:5" class="v">5</span>That
+  in every thing ye are enriched by him, in all utterance, and <span
+  class="add">in</span> all knowledge; </p>
+id: 1CO/1/5
+next:
+  id: 1CO/1/6
+  number: '6'
+previous:
+  id: 1CO/1/4
+  number: '4'
+reference: '1 Corinthians 1:5'

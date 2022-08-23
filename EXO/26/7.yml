@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 26:7" class="v">7</span>¶ And
+  thou shalt make curtains <span class="add">of</span> goats’ <span
+  class="add">hair</span> to be a covering upon the tabernacle: eleven curtains
+  shalt thou make. </p>
+id: EXO/26/7
+next:
+  id: EXO/26/8
+  number: '8'
+previous:
+  id: EXO/26/6
+  number: '6'
+reference: 'Exodus 26:7'

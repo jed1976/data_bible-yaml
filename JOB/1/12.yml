@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 1:12" class="v">12</span>And
+  the <span class="nd">LORD</span> said unto Satan, Behold, all that he hath
+  <span class="add">is</span> in thy power; only upon himself put not forth
+  thine hand. So Satan went forth from the presence of the <span
+  class="nd">LORD</span>.</p>
+id: JOB/1/12
+next:
+  id: JOB/1/13
+  number: '13'
+previous:
+  id: JOB/1/11
+  number: '11'
+reference: 'Job 1:12'

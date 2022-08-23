@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 6:1" class="v">1</span>And
+  the children of Israel did evil in the sight of the <span
+  class="nd">LORD</span>: and the <span class="nd">LORD</span> delivered them
+  into the hand of Midian seven years. </p>
+id: JDG/6/1
+next:
+  id: JDG/6/2
+  number: '2'
+previous:
+  id: JDG/5/31
+  number: '31'
+reference: 'Judges 6:1'

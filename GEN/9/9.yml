@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 9:9" class="v">9</span>And I,
+  behold, I establish my covenant with you, and with your seed after you; </p>
+id: GEN/9/9
+next:
+  id: GEN/9/10
+  number: '10'
+previous:
+  id: GEN/9/8
+  number: '8'
+reference: 'Genesis 9:9'

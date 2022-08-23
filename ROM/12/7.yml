@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 12:7" class="v">7</span>Or
+  ministry, <span class="add">let us wait</span> on <span class="add">our</span>
+  ministering: or he that teacheth, on teaching; </p>
+id: ROM/12/7
+next:
+  id: ROM/12/8
+  number: '8'
+previous:
+  id: ROM/12/6
+  number: '6'
+reference: 'Romans 12:7'

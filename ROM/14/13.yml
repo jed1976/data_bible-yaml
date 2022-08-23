@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 14:13"
+  class="v">13</span>Let us not therefore judge one another any more: but judge
+  this rather, that no man put a stumblingblock or an occasion to fall in <span
+  class="add">his</span> brother’s way. </p>
+id: ROM/14/13
+next:
+  id: ROM/14/14
+  number: '14'
+previous:
+  id: ROM/14/12
+  number: '12'
+reference: 'Romans 14:13'

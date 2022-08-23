@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 39:10"
+  class="v">10</span>And it came to pass, as she spake to Joseph day by day,
+  that he hearkened not unto her, to lie by her, <span class="add">or</span> to
+  be with her. </p>
+id: GEN/39/10
+next:
+  id: GEN/39/11
+  number: '11'
+previous:
+  id: GEN/39/9
+  number: '9'
+reference: 'Genesis 39:10'

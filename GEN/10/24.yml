@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 10:24"
+  class="v">24</span>And Arphaxad begat Salah; and Salah begat Eber. </p>
+id: GEN/10/24
+next:
+  id: GEN/10/25
+  number: '25'
+previous:
+  id: GEN/10/23
+  number: '23'
+reference: 'Genesis 10:24'

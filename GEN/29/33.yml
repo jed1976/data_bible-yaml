@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="GEN 29:33"
+  class="v">33</span>And she conceived again, and bare a son; and said, Because
+  the <span class="nd">LORD</span> hath heard that I <span
+  class="add">was</span> hated, he hath therefore given me this <span
+  class="add">son</span> also: and she called his name Simeon. </p>
+id: GEN/29/33
+next:
+  id: GEN/29/34
+  number: '34'
+previous:
+  id: GEN/29/32
+  number: '32'
+reference: 'Genesis 29:33'

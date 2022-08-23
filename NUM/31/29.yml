@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 31:29"
+  class="v">29</span>Take <span class="add">it</span> of their half, and give it
+  unto Eleazar the priest, <span class="add">for</span> an heave offering of the
+  <span class="nd">LORD</span>. </p>
+id: NUM/31/29
+next:
+  id: NUM/31/30
+  number: '30'
+previous:
+  id: NUM/31/28
+  number: '28'
+reference: 'Numbers 31:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LEV 14:56"
+  class="v">56</span>And for a rising, and for a scab, and for a bright spot:
+  </p>
+id: LEV/14/56
+next:
+  id: LEV/14/57
+  number: '57'
+previous:
+  id: LEV/14/55
+  number: '55'
+reference: 'Leviticus 14:56'

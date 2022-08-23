@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 59:2" class="v">2</span>But
+  your iniquities have separated between you and your God, and your sins have
+  hid <span class="add">his</span> face from you, that he will not hear. </p>
+id: ISA/59/2
+next:
+  id: ISA/59/3
+  number: '3'
+previous:
+  id: ISA/59/1
+  number: '1'
+reference: 'Isaiah 59:2'

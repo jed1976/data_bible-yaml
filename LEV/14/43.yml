@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="LEV 14:43"
+  class="v">43</span>And if the plague come again, and break out in the house,
+  after that he hath taken away the stones, and after he hath scraped the house,
+  and after it is plaistered; </p>
+id: LEV/14/43
+next:
+  id: LEV/14/44
+  number: '44'
+previous:
+  id: LEV/14/42
+  number: '42'
+reference: 'Leviticus 14:43'

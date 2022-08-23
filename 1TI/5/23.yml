@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1TI 5:23"
+  class="v">23</span>Drink no longer water, but use a little wine for thy
+  stomach’s sake and thine often infirmities. </p>
+id: 1TI/5/23
+next:
+  id: 1TI/5/24
+  number: '24'
+previous:
+  id: 1TI/5/22
+  number: '22'
+reference: '1 Timothy 5:23'

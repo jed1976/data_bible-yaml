@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 1:1" class="v">1</span>These
+  <span class="add">be</span> the words which Moses spake unto all Israel on
+  this side Jordan in the wilderness, in the plain over against the Red <span
+  class="add">sea</span>, between Paran, and Tophel, and Laban, and Hazeroth,
+  and Dizahab. </p>
+id: DEU/1/1
+next:
+  id: DEU/1/2
+  number: '2'
+previous:
+  id: DEU/intro/0
+  number: '0'
+reference: 'Deuteronomy 1:1'

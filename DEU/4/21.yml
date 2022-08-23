@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 4:21"
+  class="v">21</span>Furthermore the <span class="nd">LORD</span> was angry with
+  me for your sakes, and sware that I should not go over Jordan, and that I
+  should not go in unto that good land, which the <span class="nd">LORD</span>
+  thy God giveth thee <span class="add">for</span> an inheritance: </p>
+id: DEU/4/21
+next:
+  id: DEU/4/22
+  number: '22'
+previous:
+  id: DEU/4/20
+  number: '20'
+reference: 'Deuteronomy 4:21'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="25" data-sid="PSA 89:25" class="v">25</span>I
+  will set his hand also in the sea, and his right hand in the rivers.</p>
+id: PSA/89/25
+next:
+  id: PSA/89/26
+  number: '26'
+previous:
+  id: PSA/89/24
+  number: '24'
+reference: 'Psalms 89:25'

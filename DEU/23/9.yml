@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="DEU 23:9" class="v">9</span>¶
+  When the host goeth forth against thine enemies, then keep thee from every
+  wicked thing.</p>
+id: DEU/23/9
+next:
+  id: DEU/23/10
+  number: '10'
+previous:
+  id: DEU/23/8
+  number: '8'
+reference: 'Deuteronomy 23:9'

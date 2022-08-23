@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MIC 3:7" class="v">7</span>Then
+  shall the seers be ashamed, and the diviners confounded: yea, they shall all
+  cover their lips; for <span class="add">there is</span> no answer of God.</p>
+id: MIC/3/7
+next:
+  id: MIC/3/8
+  number: '8'
+previous:
+  id: MIC/3/6
+  number: '6'
+reference: 'Micah 3:7'

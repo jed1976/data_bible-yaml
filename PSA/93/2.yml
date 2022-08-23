@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 93:2" class="v">2</span>Thy
+  throne <span class="add">is</span> established of old: thou <span
+  class="add">art</span> from everlasting.</p>
+id: PSA/93/2
+next:
+  id: PSA/93/3
+  number: '3'
+previous:
+  id: PSA/93/1
+  number: '1'
+reference: 'Psalms 93:2'

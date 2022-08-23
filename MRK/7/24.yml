@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 7:24" class="v">24</span>¶
+  And from thence he arose, and went into the borders of Tyre and Sidon, and
+  entered into an house, and would have no man know <span class="add">it</span>:
+  but he could not be hid. </p>
+id: MRK/7/24
+next:
+  id: MRK/7/25
+  number: '25'
+previous:
+  id: MRK/7/23
+  number: '23'
+reference: 'Mark 7:24'

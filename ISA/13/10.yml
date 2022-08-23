@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 13:10"
+  class="v">10</span>For the stars of heaven and the constellations thereof
+  shall not give their light: the sun shall be darkened in his going forth, and
+  the moon shall not cause her light to shine. </p>
+id: ISA/13/10
+next:
+  id: ISA/13/11
+  number: '11'
+previous:
+  id: ISA/13/9
+  number: '9'
+reference: 'Isaiah 13:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LUK 8:49" class="v">49</span>¶
+  While he yet spake, there cometh one from the ruler of the synagogue’s <span
+  class="add">house</span>, saying to him, Thy daughter is dead; trouble not the
+  Master. </p>
+id: LUK/8/49
+next:
+  id: LUK/8/50
+  number: '50'
+previous:
+  id: LUK/8/48
+  number: '48'
+reference: 'Luke 8:49'

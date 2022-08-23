@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LEV 25:7" class="v">7</span>And
+  for thy cattle, and for the beast that <span class="add">are</span> in thy
+  land, shall all the increase thereof be meat.</p>
+id: LEV/25/7
+next:
+  id: LEV/25/8
+  number: '8'
+previous:
+  id: LEV/25/6
+  number: '6'
+reference: 'Leviticus 25:7'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 28:17"
+  class="v">17</span>And he was afraid, and said, How dreadful <span
+  class="add">is</span> this place! this <span class="add">is</span> none other
+  but the house of God, and this <span class="add">is</span> the gate of heaven.
+  </p>
+id: GEN/28/17
+next:
+  id: GEN/28/18
+  number: '18'
+previous:
+  id: GEN/28/16
+  number: '16'
+reference: 'Genesis 28:17'

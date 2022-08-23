@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 13:9" class="v">9</span><span
+  class="wj">Who hath ears to hear, let him hear.</span> </p>
+id: MAT/13/9
+next:
+  id: MAT/13/10
+  number: '10'
+previous:
+  id: MAT/13/8
+  number: '8'
+reference: 'Matthew 13:9'

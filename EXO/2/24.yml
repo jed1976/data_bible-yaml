@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 2:24" class="v">24</span>And
+  God heard their groaning, and God remembered his covenant with Abraham, with
+  Isaac, and with Jacob. </p>
+id: EXO/2/24
+next:
+  id: EXO/2/25
+  number: '25'
+previous:
+  id: EXO/2/23
+  number: '23'
+reference: 'Exodus 2:24'

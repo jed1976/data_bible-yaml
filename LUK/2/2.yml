@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LUK 2:2" class="v">2</span>(<span
+  class="add">And</span> this taxing was first made when Cyrenius was governor
+  of Syria.) </p>
+id: LUK/2/2
+next:
+  id: LUK/2/3
+  number: '3'
+previous:
+  id: LUK/2/1
+  number: '1'
+reference: 'Luke 2:2'

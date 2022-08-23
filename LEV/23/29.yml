@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 23:29"
+  class="v">29</span>For whatsoever soul <span class="add">it be</span> that
+  shall not be afflicted in that same day, he shall be cut off from among his
+  people. </p>
+id: LEV/23/29
+next:
+  id: LEV/23/30
+  number: '30'
+previous:
+  id: LEV/23/28
+  number: '28'
+reference: 'Leviticus 23:29'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 42:1" class="v">1</span>Then
+  he brought me forth into the utter court, the way toward the north: and he
+  brought me into the chamber that <span class="add">was</span> over against the
+  separate place, and which <span class="add">was</span> before the building
+  toward the north. </p>
+id: EZK/42/1
+next:
+  id: EZK/42/2
+  number: '2'
+previous:
+  id: EZK/41/26
+  number: '26'
+reference: 'Ezekiel 42:1'

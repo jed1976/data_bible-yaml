@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="AMO 8:9" class="v">9</span>And it
+  shall come to pass in that day, saith the Lord <span class="nd">GOD</span>,
+  that I will cause the sun to go down at noon, and I will darken the earth in
+  the clear day: </p>
+id: AMO/8/9
+next:
+  id: AMO/8/10
+  number: '10'
+previous:
+  id: AMO/8/8
+  number: '8'
+reference: 'Amos 8:9'

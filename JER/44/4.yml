@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 44:4"
+  class="v">4</span>Howbeit I sent unto you all my servants the prophets, rising
+  early and sending <span class="add">them</span>, saying, Oh, do not this
+  abominable thing that I hate. </p>
+id: JER/44/4
+next:
+  id: JER/44/5
+  number: '5'
+previous:
+  id: JER/44/3
+  number: '3'
+reference: 'Jeremiah 44:4'

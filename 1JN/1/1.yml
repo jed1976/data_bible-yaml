@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1JN 1:1" class="v">1</span>That
+  which was from the beginning, which we have heard, which we have seen with our
+  eyes, which we have looked upon, and our hands have handled, of the Word of
+  life; </p>
+id: 1JN/1/1
+next:
+  id: 1JN/1/2
+  number: '2'
+previous:
+  id: 1JN/intro/0
+  number: '0'
+reference: '1 John 1:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="19" data-sid="PSA 118:19"
+  class="v">19</span>Open to me the gates of righteousness: I will go into them,
+  <span class="add">and</span> I will praise the <span
+  class="nd">LORD</span>:</p>
+id: PSA/118/19
+next:
+  id: PSA/118/20
+  number: '20'
+previous:
+  id: PSA/118/18
+  number: '18'
+reference: 'Psalms 118:19'

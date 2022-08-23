@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 105:4"
+  class="v">4</span>Seek the <span class="nd">LORD</span>, and his strength:
+  seek his face evermore.</p>
+id: PSA/105/4
+next:
+  id: PSA/105/5
+  number: '5'
+previous:
+  id: PSA/105/3
+  number: '3'
+reference: 'Psalms 105:4'

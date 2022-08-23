@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DAN 5:12"
+  class="v">12</span>Forasmuch as an excellent spirit, and knowledge, and
+  understanding, interpreting of dreams, and shewing of hard sentences, and
+  dissolving of doubts, were found in the same Daniel, whom the king named
+  Belteshazzar: now let Daniel be called, and he will shew the interpretation.
+  </p>
+id: DAN/5/12
+next:
+  id: DAN/5/13
+  number: '13'
+previous:
+  id: DAN/5/11
+  number: '11'
+reference: 'Daniel 5:12'

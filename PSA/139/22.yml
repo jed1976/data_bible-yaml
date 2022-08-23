@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 139:22"
+  class="v">22</span>I hate them with perfect hatred: I count them mine
+  enemies.</p>
+id: PSA/139/22
+next:
+  id: PSA/139/23
+  number: '23'
+previous:
+  id: PSA/139/21
+  number: '21'
+reference: 'Psalms 139:22'

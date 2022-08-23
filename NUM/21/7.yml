@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 21:7" class="v">7</span>¶
+  Therefore the people came to Moses, and said, We have sinned, for we have
+  spoken against the <span class="nd">LORD</span>, and against thee; pray unto
+  the <span class="nd">LORD</span>, that he take away the serpents from us. And
+  Moses prayed for the people. </p>
+id: NUM/21/7
+next:
+  id: NUM/21/8
+  number: '8'
+previous:
+  id: NUM/21/6
+  number: '6'
+reference: 'Numbers 21:7'

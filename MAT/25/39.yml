@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 25:39"
+  class="v">39</span><span class="wj">Or when saw we thee sick, or in prison,
+  and came unto thee?</span> </p>
+id: MAT/25/39
+next:
+  id: MAT/25/40
+  number: '40'
+previous:
+  id: MAT/25/38
+  number: '38'
+reference: 'Matthew 25:39'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GAL 6:7" class="v">7</span>Be not
+  deceived; God is not mocked: for whatsoever a man soweth, that shall he also
+  reap. </p>
+id: GAL/6/7
+next:
+  id: GAL/6/8
+  number: '8'
+previous:
+  id: GAL/6/6
+  number: '6'
+reference: 'Galatians 6:7'

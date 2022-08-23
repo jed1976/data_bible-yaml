@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 41:12" class="v">12</span>I
+  will not conceal his parts, nor his power, nor his comely proportion. </p>
+id: JOB/41/12
+next:
+  id: JOB/41/13
+  number: '13'
+previous:
+  id: JOB/41/11
+  number: '11'
+reference: 'Job 41:12'

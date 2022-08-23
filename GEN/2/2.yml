@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 2:2" class="v">2</span>And on
+  the seventh day God ended his work which he had made; and he rested on the
+  seventh day from all his work which he had made. </p>
+id: GEN/2/2
+next:
+  id: GEN/2/3
+  number: '3'
+previous:
+  id: GEN/2/1
+  number: '1'
+reference: 'Genesis 2:2'

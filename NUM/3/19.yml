@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 3:19" class="v">19</span>And
+  the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
+  </p>
+id: NUM/3/19
+next:
+  id: NUM/3/20
+  number: '20'
+previous:
+  id: NUM/3/18
+  number: '18'
+reference: 'Numbers 3:19'

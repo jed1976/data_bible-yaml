@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="23" data-sid="PSA 136:23"
+  class="v">23</span>Who remembered us in our low estate: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/23
+next:
+  id: PSA/136/24
+  number: '24'
+previous:
+  id: PSA/136/22
+  number: '22'
+reference: 'Psalms 136:23'

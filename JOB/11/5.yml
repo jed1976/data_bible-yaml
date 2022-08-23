@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOB 11:5" class="v">5</span>But
+  oh that God would speak, and open his lips against thee; </p>
+id: JOB/11/5
+next:
+  id: JOB/11/6
+  number: '6'
+previous:
+  id: JOB/11/4
+  number: '4'
+reference: 'Job 11:5'

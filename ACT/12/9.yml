@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 12:9" class="v">9</span>And
+  he went out, and followed him; and wist not that it was true which was done by
+  the angel; but thought he saw a vision. </p>
+id: ACT/12/9
+next:
+  id: ACT/12/10
+  number: '10'
+previous:
+  id: ACT/12/8
+  number: '8'
+reference: 'Acts 12:9'

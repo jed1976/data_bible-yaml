@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 3:2" class="v">2</span>Many
+  <span class="add">there be</span> which say of my soul, <span
+  class="add">There is</span> no help for him in God. Selah.</p>
+id: PSA/3/2
+next:
+  id: PSA/3/3
+  number: '3'
+previous:
+  id: PSA/3/1
+  number: '1'
+reference: 'Psalms 3:2'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 28:3" class="v">3</span>And
+  thou shalt say unto them, This <span class="add">is</span> the offering made
+  by fire which ye shall offer unto the <span class="nd">LORD</span>; two lambs
+  of the first year without spot day by day, <span class="add">for</span> a
+  continual burnt offering. </p>
+id: NUM/28/3
+next:
+  id: NUM/28/4
+  number: '4'
+previous:
+  id: NUM/28/2
+  number: '2'
+reference: 'Numbers 28:3'

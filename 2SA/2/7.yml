@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 2:7"
+  class="v">7</span>Therefore now let your hands be strengthened, and be ye
+  valiant: for your master Saul is dead, and also the house of Judah have
+  anointed me king over them.</p>
+id: 2SA/2/7
+next:
+  id: 2SA/2/8
+  number: '8'
+previous:
+  id: 2SA/2/6
+  number: '6'
+reference: '2 Samuel 2:7'

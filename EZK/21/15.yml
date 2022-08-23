@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZK 21:15" class="v">15</span>I
+  have set the point of the sword against all their gates, that <span
+  class="add">their</span> heart may faint, and <span class="add">their</span>
+  ruins be multiplied: ah! <span class="add">it is</span> made bright, <span
+  class="add">it is</span> wrapped up for the slaughter. </p>
+id: EZK/21/15
+next:
+  id: EZK/21/16
+  number: '16'
+previous:
+  id: EZK/21/14
+  number: '14'
+reference: 'Ezekiel 21:15'

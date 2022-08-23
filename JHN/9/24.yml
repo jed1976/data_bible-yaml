@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 9:24"
+  class="v">24</span>Then again called they the man that was blind, and said
+  unto him, Give God the praise: we know that this man is a sinner. </p>
+id: JHN/9/24
+next:
+  id: JHN/9/25
+  number: '25'
+previous:
+  id: JHN/9/23
+  number: '23'
+reference: 'John 9:24'

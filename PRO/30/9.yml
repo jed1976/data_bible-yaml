@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 30:9" class="v">9</span>Lest
+  I be full, and deny <span class="add">thee</span>, and say, Who <span
+  class="add">is</span> the <span class="nd">LORD</span>? or lest I be poor, and
+  steal, and take the name of my God <span class="add">in vain</span>.</p>
+id: PRO/30/9
+next:
+  id: PRO/30/10
+  number: '10'
+previous:
+  id: PRO/30/8
+  number: '8'
+reference: 'Proverbs 30:9'

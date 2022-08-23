@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2SA 20:20"
+  class="v">20</span>And Joab answered and said, Far be it, far be it from me,
+  that I should swallow up or destroy. </p>
+id: 2SA/20/20
+next:
+  id: 2SA/20/21
+  number: '21'
+previous:
+  id: 2SA/20/19
+  number: '19'
+reference: '2 Samuel 20:20'

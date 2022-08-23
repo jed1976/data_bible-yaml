@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 5:10" class="v">10</span>And
+  so <span class="add">was</span> also James, and John, the sons of Zebedee,
+  which were partners with Simon. And Jesus said unto Simon, <span
+  class="wj">Fear not; from henceforth thou shalt catch men.</span> </p>
+id: LUK/5/10
+next:
+  id: LUK/5/11
+  number: '11'
+previous:
+  id: LUK/5/9
+  number: '9'
+reference: 'Luke 5:10'

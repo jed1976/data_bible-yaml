@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="AMO 9:13"
+  class="v">13</span>Behold, the days come, saith the <span
+  class="nd">LORD</span>, that the plowman shall overtake the reaper, and the
+  treader of grapes him that soweth seed; and the mountains shall drop sweet
+  wine, and all the hills shall melt. </p>
+id: AMO/9/13
+next:
+  id: AMO/9/14
+  number: '14'
+previous:
+  id: AMO/9/12
+  number: '12'
+reference: 'Amos 9:13'

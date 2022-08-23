@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ROM 2:4" class="v">4</span>Or
+  despisest thou the riches of his goodness and forbearance and longsuffering;
+  not knowing that the goodness of God leadeth thee to repentance? </p>
+id: ROM/2/4
+next:
+  id: ROM/2/5
+  number: '5'
+previous:
+  id: ROM/2/3
+  number: '3'
+reference: 'Romans 2:4'

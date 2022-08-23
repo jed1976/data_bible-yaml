@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 7:10" class="v">10</span>¶
+  And Moses and Aaron went in unto Pharaoh, and they did so as the <span
+  class="nd">LORD</span> had commanded: and Aaron cast down his rod before
+  Pharaoh, and before his servants, and it became a serpent. </p>
+id: EXO/7/10
+next:
+  id: EXO/7/11
+  number: '11'
+previous:
+  id: EXO/7/9
+  number: '9'
+reference: 'Exodus 7:10'

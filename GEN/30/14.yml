@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 30:14" class="v">14</span>¶
+  And Reuben went in the days of wheat harvest, and found mandrakes in the
+  field, and brought them unto his mother Leah. Then Rachel said to Leah, Give
+  me, I pray thee, of thy son’s mandrakes. </p>
+id: GEN/30/14
+next:
+  id: GEN/30/15
+  number: '15'
+previous:
+  id: GEN/30/13
+  number: '13'
+reference: 'Genesis 30:14'

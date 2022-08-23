@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="DAN 2:34"
+  class="v">34</span>Thou sawest till that a stone was cut out without hands,
+  which smote the image upon his feet <span class="add">that were</span> of iron
+  and clay, and brake them to pieces. </p>
+id: DAN/2/34
+next:
+  id: DAN/2/35
+  number: '35'
+previous:
+  id: DAN/2/33
+  number: '33'
+reference: 'Daniel 2:34'

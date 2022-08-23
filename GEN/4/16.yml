@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 4:16" class="v">16</span>¶
+  And Cain went out from the presence of the <span class="nd">LORD</span>, and
+  dwelt in the land of Nod, on the east of Eden. </p>
+id: GEN/4/16
+next:
+  id: GEN/4/17
+  number: '17'
+previous:
+  id: GEN/4/15
+  number: '15'
+reference: 'Genesis 4:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 22:16"
+  class="v">16</span>For dogs have compassed me: the assembly of the wicked have
+  inclosed me: they pierced my hands and my feet.</p>
+id: PSA/22/16
+next:
+  id: PSA/22/17
+  number: '17'
+previous:
+  id: PSA/22/15
+  number: '15'
+reference: 'Psalms 22:16'

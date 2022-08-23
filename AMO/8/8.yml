@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 8:8" class="v">8</span>Shall
+  not the land tremble for this, and every one mourn that dwelleth therein? and
+  it shall rise up wholly as a flood; and it shall be cast out and drowned, as
+  <span class="add">by</span> the flood of Egypt. </p>
+id: AMO/8/8
+next:
+  id: AMO/8/9
+  number: '9'
+previous:
+  id: AMO/8/7
+  number: '7'
+reference: 'Amos 8:8'

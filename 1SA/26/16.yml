@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1SA 26:16"
+  class="v">16</span>This thing <span class="add">is</span> not good that thou
+  hast done. <span class="add">As</span> the <span class="nd">LORD</span>
+  liveth, ye <span class="add">are</span> worthy to die, because ye have not
+  kept your master, the <span class="nd">LORD’s</span> anointed. And now see
+  where the king’s spear <span class="add">is</span>, and the cruse of water
+  that <span class="add">was</span> at his bolster. </p>
+id: 1SA/26/16
+next:
+  id: 1SA/26/17
+  number: '17'
+previous:
+  id: 1SA/26/15
+  number: '15'
+reference: '1 Samuel 26:16'

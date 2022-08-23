@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 65:22"
+  class="v">22</span>They shall not build, and another inhabit; they shall not
+  plant, and another eat: for as the days of a tree <span class="add">are</span>
+  the days of my people, and mine elect shall long enjoy the work of their
+  hands. </p>
+id: ISA/65/22
+next:
+  id: ISA/65/23
+  number: '23'
+previous:
+  id: ISA/65/21
+  number: '21'
+reference: 'Isaiah 65:22'

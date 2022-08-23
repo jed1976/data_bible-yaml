@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 13:9" class="v">9</span><span
+  class="add">Is</span> not the whole land before thee? separate thyself, I pray
+  thee, from me: if <span class="add">thou wilt take</span> the left hand, then
+  I will go to the right; or if <span class="add">thou depart</span> to the
+  right hand, then I will go to the left.</p>
+id: GEN/13/9
+next:
+  id: GEN/13/10
+  number: '10'
+previous:
+  id: GEN/13/8
+  number: '8'
+reference: 'Genesis 13:9'

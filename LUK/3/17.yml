@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 3:17"
+  class="v">17</span>Whose fan <span class="add">is</span> in his hand, and he
+  will throughly purge his floor, and will gather the wheat into his garner; but
+  the chaff he will burn with fire unquenchable. </p>
+id: LUK/3/17
+next:
+  id: LUK/3/18
+  number: '18'
+previous:
+  id: LUK/3/16
+  number: '16'
+reference: 'Luke 3:17'

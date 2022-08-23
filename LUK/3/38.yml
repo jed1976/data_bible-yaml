@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 3:38"
+  class="v">38</span>Which was <span class="add">the son</span> of Enos, which
+  was <span class="add">the son</span> of Seth, which was <span class="add">the
+  son</span> of Adam, which was <span class="add">the son</span> of God.</p>
+id: LUK/3/38
+next:
+  id: LUK/4/1
+  number: '1'
+previous:
+  id: LUK/3/37
+  number: '37'
+reference: 'Luke 3:38'

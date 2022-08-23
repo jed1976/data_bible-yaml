@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 65:12"
+  class="v">12</span>Therefore will I number you to the sword, and ye shall all
+  bow down to the slaughter: because when I called, ye did not answer; when I
+  spake, ye did not hear; but did evil before mine eyes, and did choose <span
+  class="add">that</span> wherein I delighted not. </p>
+id: ISA/65/12
+next:
+  id: ISA/65/13
+  number: '13'
+previous:
+  id: ISA/65/11
+  number: '11'
+reference: 'Isaiah 65:12'

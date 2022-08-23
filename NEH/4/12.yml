@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NEH 4:12" class="v">12</span>And
+  it came to pass, that when the Jews which dwelt by them came, they said unto
+  us ten times, From all places whence ye shall return unto us <span
+  class="add">they will be upon you</span>.</p>
+id: NEH/4/12
+next:
+  id: NEH/4/13
+  number: '13'
+previous:
+  id: NEH/4/11
+  number: '11'
+reference: 'Nehemiah 4:12'

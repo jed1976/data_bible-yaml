@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1SA 3:6" class="v">6</span>And
+  the <span class="nd">LORD</span> called yet again, Samuel. And Samuel arose
+  and went to Eli, and said, Here <span class="add">am</span> I; for thou didst
+  call me. And he answered, I called not, my son; lie down again. </p>
+id: 1SA/3/6
+next:
+  id: 1SA/3/7
+  number: '7'
+previous:
+  id: 1SA/3/5
+  number: '5'
+reference: '1 Samuel 3:6'

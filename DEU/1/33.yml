@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DEU 1:33" class="v">33</span>Who
+  went in the way before you, to search you out a place to pitch your tents
+  <span class="add">in</span>, in fire by night, to shew you by what way ye
+  should go, and in a cloud by day. </p>
+id: DEU/1/33
+next:
+  id: DEU/1/34
+  number: '34'
+previous:
+  id: DEU/1/32
+  number: '32'
+reference: 'Deuteronomy 1:33'

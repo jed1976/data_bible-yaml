@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 9:1" class="v">1</span>And
+  Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and
+  communed with them, and with all the family of the house of his mother’s
+  father, saying, </p>
+id: JDG/9/1
+next:
+  id: JDG/9/2
+  number: '2'
+previous:
+  id: JDG/8/35
+  number: '35'
+reference: 'Judges 9:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="60" data-sid="MRK 14:60"
+  class="v">60</span>And the high priest stood up in the midst, and asked Jesus,
+  saying, Answerest thou nothing? what <span class="add">is it which</span>
+  these witness against thee? </p>
+id: MRK/14/60
+next:
+  id: MRK/14/61
+  number: '61'
+previous:
+  id: MRK/14/59
+  number: '59'
+reference: 'Mark 14:60'

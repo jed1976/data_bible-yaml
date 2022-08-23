@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 9:3" class="v">3</span>And
+  they bend their tongues <span class="add">like</span> their bow <span
+  class="add">for</span> lies: but they are not valiant for the truth upon the
+  earth; for they proceed from evil to evil, and they know not me, saith the
+  <span class="nd">LORD</span>. </p>
+id: JER/9/3
+next:
+  id: JER/9/4
+  number: '4'
+previous:
+  id: JER/9/2
+  number: '2'
+reference: 'Jeremiah 9:3'

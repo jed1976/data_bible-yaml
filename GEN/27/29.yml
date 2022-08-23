@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 27:29"
+  class="v">29</span>Let people serve thee, and nations bow down to thee: be
+  lord over thy brethren, and let thy mother’s sons bow down to thee: cursed
+  <span class="add">be</span> every one that curseth thee, and blessed <span
+  class="add">be</span> he that blesseth thee.</p>
+id: GEN/27/29
+next:
+  id: GEN/27/30
+  number: '30'
+previous:
+  id: GEN/27/28
+  number: '28'
+reference: 'Genesis 27:29'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 18:9" class="v">9</span>And
+  the men went and passed through the land, and described it by cities into
+  seven parts in a book, and came <span class="add">again</span> to Joshua to
+  the host at Shiloh.</p>
+id: JOS/18/9
+next:
+  id: JOS/18/10
+  number: '10'
+previous:
+  id: JOS/18/8
+  number: '8'
+reference: 'Joshua 18:9'

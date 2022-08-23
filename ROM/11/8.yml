@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 11:8"
+  class="v">8</span>(According as it is written, God hath given them the spirit
+  of slumber, eyes that they should not see, and ears that they should not
+  hear;) unto this day. </p>
+id: ROM/11/8
+next:
+  id: ROM/11/9
+  number: '9'
+previous:
+  id: ROM/11/7
+  number: '7'
+reference: 'Romans 11:8'

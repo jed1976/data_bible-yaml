@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 6:22" class="v">22</span>And
+  the <span class="nd">LORD</span> shewed signs and wonders, great and sore,
+  upon Egypt, upon Pharaoh, and upon all his household, before our eyes: </p>
+id: DEU/6/22
+next:
+  id: DEU/6/23
+  number: '23'
+previous:
+  id: DEU/6/21
+  number: '21'
+reference: 'Deuteronomy 6:22'

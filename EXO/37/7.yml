@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 37:7" class="v">7</span>And
+  he made two cherubims <span class="add">of</span> gold, beaten out of one
+  piece made he them, on the two ends of the mercy seat; </p>
+id: EXO/37/7
+next:
+  id: EXO/37/8
+  number: '8'
+previous:
+  id: EXO/37/6
+  number: '6'
+reference: 'Exodus 37:7'

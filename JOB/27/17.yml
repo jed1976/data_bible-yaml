@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 27:17" class="v">17</span>He
+  may prepare <span class="add">it</span>, but the just shall put <span
+  class="add">it</span> on, and the innocent shall divide the silver. </p>
+id: JOB/27/17
+next:
+  id: JOB/27/18
+  number: '18'
+previous:
+  id: JOB/27/16
+  number: '16'
+reference: 'Job 27:17'

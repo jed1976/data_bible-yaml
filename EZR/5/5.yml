@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZR 5:5" class="v">5</span>But
+  the eye of their God was upon the elders of the Jews, that they could not
+  cause them to cease, till the matter came to Darius: and then they returned
+  answer by letter concerning this <span class="add">matter</span>.</p>
+id: EZR/5/5
+next:
+  id: EZR/5/6
+  number: '6'
+previous:
+  id: EZR/5/4
+  number: '4'
+reference: 'Ezra 5:5'

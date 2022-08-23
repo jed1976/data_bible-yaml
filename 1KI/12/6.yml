@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="1KI 12:6" class="v">6</span>¶ And
+  king Rehoboam consulted with the old men, that stood before Solomon his father
+  while he yet lived, and said, How do ye advise that I may answer this people?
+  </p>
+id: 1KI/12/6
+next:
+  id: 1KI/12/7
+  number: '7'
+previous:
+  id: 1KI/12/5
+  number: '5'
+reference: '1 Kings 12:6'

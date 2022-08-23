@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="AMO 3:12"
+  class="v">12</span>Thus saith the <span class="nd">LORD</span>; As the
+  shepherd taketh out of the mouth of the lion two legs, or a piece of an ear;
+  so shall the children of Israel be taken out that dwell in Samaria in the
+  corner of a bed, and in Damascus <span class="add">in</span> a couch. </p>
+id: AMO/3/12
+next:
+  id: AMO/3/13
+  number: '13'
+previous:
+  id: AMO/3/11
+  number: '11'
+reference: 'Amos 3:12'

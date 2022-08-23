@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 33:19"
+  class="v">19</span>To deliver their soul from death, and to keep them alive in
+  famine.</p>
+id: PSA/33/19
+next:
+  id: PSA/33/20
+  number: '20'
+previous:
+  id: PSA/33/18
+  number: '18'
+reference: 'Psalms 33:19'

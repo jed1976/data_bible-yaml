@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="HOS 10:1"
+  class="v">1</span>Israel <span class="add">is</span> an empty vine, he
+  bringeth forth fruit unto himself: according to the multitude of his fruit he
+  hath increased the altars; according to the goodness of his land they have
+  made goodly images. </p>
+id: HOS/10/1
+next:
+  id: HOS/10/2
+  number: '2'
+previous:
+  id: HOS/9/17
+  number: '17'
+reference: 'Hosea 10:1'

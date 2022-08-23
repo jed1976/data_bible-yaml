@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 12:13"
+  class="v">13</span>And when the dragon saw that he was cast unto the earth, he
+  persecuted the woman which brought forth the man <span
+  class="add">child</span>. </p>
+id: REV/12/13
+next:
+  id: REV/12/14
+  number: '14'
+previous:
+  id: REV/12/12
+  number: '12'
+reference: 'Revelation 12:13'

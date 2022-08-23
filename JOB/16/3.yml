@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 16:3" class="v">3</span>Shall
+  vain words have an end? or what emboldeneth thee that thou answerest? </p>
+id: JOB/16/3
+next:
+  id: JOB/16/4
+  number: '4'
+previous:
+  id: JOB/16/2
+  number: '2'
+reference: 'Job 16:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MRK 1:36" class="v">36</span>And
+  Simon and they that were with him followed after him. </p>
+id: MRK/1/36
+next:
+  id: MRK/1/37
+  number: '37'
+previous:
+  id: MRK/1/35
+  number: '35'
+reference: 'Mark 1:36'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 8:29"
+  class="v">29</span><span class="wj">And he that sent me is with me: the Father
+  hath not left me alone; for I do always those things that please him.</span>
+  </p>
+id: JHN/8/29
+next:
+  id: JHN/8/30
+  number: '30'
+previous:
+  id: JHN/8/28
+  number: '28'
+reference: 'John 8:29'

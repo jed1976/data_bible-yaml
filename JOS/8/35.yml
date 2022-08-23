@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JOS 8:35"
+  class="v">35</span>There was not a word of all that Moses commanded, which
+  Joshua read not before all the congregation of Israel, with the women, and the
+  little ones, and the strangers that were conversant among them.</p>
+id: JOS/8/35
+next:
+  id: JOS/9/1
+  number: '1'
+previous:
+  id: JOS/8/34
+  number: '34'
+reference: 'Joshua 8:35'

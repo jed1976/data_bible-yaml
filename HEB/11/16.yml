@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="HEB 11:16"
+  class="v">16</span>But now they desire a better <span
+  class="add">country</span>, that is, an heavenly: wherefore God is not ashamed
+  to be called their God: for he hath prepared for them a city. </p>
+id: HEB/11/16
+next:
+  id: HEB/11/17
+  number: '17'
+previous:
+  id: HEB/11/15
+  number: '15'
+reference: 'Hebrews 11:16'

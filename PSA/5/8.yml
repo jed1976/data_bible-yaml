@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 5:8" class="v">8</span>Lead
+  me, O <span class="nd">LORD</span>, in thy righteousness because of mine
+  enemies; make thy way straight before my face.</p>
+id: PSA/5/8
+next:
+  id: PSA/5/9
+  number: '9'
+previous:
+  id: PSA/5/7
+  number: '7'
+reference: 'Psalms 5:8'

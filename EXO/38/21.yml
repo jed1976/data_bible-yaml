@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 38:21" class="v">21</span>¶
+  This is the sum of the tabernacle, <span class="add">even</span> of the
+  tabernacle of testimony, as it was counted, according to the commandment of
+  Moses, <span class="add">for</span> the service of the Levites, by the hand of
+  Ithamar, son to Aaron the priest. </p>
+id: EXO/38/21
+next:
+  id: EXO/38/22
+  number: '22'
+previous:
+  id: EXO/38/20
+  number: '20'
+reference: 'Exodus 38:21'

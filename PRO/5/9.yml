@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 5:9" class="v">9</span>Lest
+  thou give thine honour unto others, and thy years unto the cruel: </p>
+id: PRO/5/9
+next:
+  id: PRO/5/10
+  number: '10'
+previous:
+  id: PRO/5/8
+  number: '8'
+reference: 'Proverbs 5:9'

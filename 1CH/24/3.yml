@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 24:3" class="v">3</span>And
+  David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of
+  the sons of Ithamar, according to their offices in their service. </p>
+id: 1CH/24/3
+next:
+  id: 1CH/24/4
+  number: '4'
+previous:
+  id: 1CH/24/2
+  number: '2'
+reference: '1 Chronicles 24:3'

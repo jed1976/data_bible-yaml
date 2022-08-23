@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CH 26:20" class="v">20</span>¶
+  And of the Levites, Ahijah <span class="add">was</span> over the treasures of
+  the house of God, and over the treasures of the dedicated things. </p>
+id: 1CH/26/20
+next:
+  id: 1CH/26/21
+  number: '21'
+previous:
+  id: 1CH/26/19
+  number: '19'
+reference: '1 Chronicles 26:20'

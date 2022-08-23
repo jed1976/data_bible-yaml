@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NEH 4:14" class="v">14</span>And
+  I looked, and rose up, and said unto the nobles, and to the rulers, and to the
+  rest of the people, Be not ye afraid of them: remember the Lord, <span
+  class="add">which is</span> great and terrible, and fight for your brethren,
+  your sons, and your daughters, your wives, and your houses. </p>
+id: NEH/4/14
+next:
+  id: NEH/4/15
+  number: '15'
+previous:
+  id: NEH/4/13
+  number: '13'
+reference: 'Nehemiah 4:14'

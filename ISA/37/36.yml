@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="ISA 37:36"
+  class="v">36</span>Then the angel of the <span class="nd">LORD</span> went
+  forth, and smote in the camp of the Assyrians a hundred and fourscore and five
+  thousand: and when they arose early in the morning, behold, they <span
+  class="add">were</span> all dead corpses.</p>
+id: ISA/37/36
+next:
+  id: ISA/37/37
+  number: '37'
+previous:
+  id: ISA/37/35
+  number: '35'
+reference: 'Isaiah 37:36'

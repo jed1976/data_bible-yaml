@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 31:41"
+  class="v">41</span>And Moses gave the tribute, <span class="add">which
+  was</span> the <span class="nd">LORD’s</span> heave offering, unto Eleazar the
+  priest, as the <span class="nd">LORD</span> commanded Moses. </p>
+id: NUM/31/41
+next:
+  id: NUM/31/42
+  number: '42'
+previous:
+  id: NUM/31/40
+  number: '40'
+reference: 'Numbers 31:41'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 14:4" class="v">4</span>But
+  his father and his mother knew not that it <span class="add">was</span> of the
+  <span class="nd">LORD</span>, that he sought an occasion against the
+  Philistines: for at that time the Philistines had dominion over Israel.</p>
+id: JDG/14/4
+next:
+  id: JDG/14/5
+  number: '5'
+previous:
+  id: JDG/14/3
+  number: '3'
+reference: 'Judges 14:4'

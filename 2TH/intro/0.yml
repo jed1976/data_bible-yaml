@@ -1,0 +1,9 @@
+content: <p class="mt1">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</p>
+id: 2TH/intro/0
+next:
+  id: 2TH/1/1
+  number: '1'
+previous:
+  id: 1TH/5/28
+  number: '28'
+reference: 2 Thessalonians

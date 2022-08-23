@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 5:9" class="v">9</span>For
+  <span class="add">there is</span> no faithfulness in their mouth; their inward
+  part <span class="add">is</span> very wickedness; their throat <span
+  class="add">is</span> an open sepulchre; they flatter with their tongue.</p>
+id: PSA/5/9
+next:
+  id: PSA/5/10
+  number: '10'
+previous:
+  id: PSA/5/8
+  number: '8'
+reference: 'Psalms 5:9'

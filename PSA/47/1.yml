@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm for the sons of Korah.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 47:1" class="v">1</span>O clap
+  your hands, all ye people; shout unto God with the voice of triumph.</p>
+id: PSA/47/1
+next:
+  id: PSA/47/2
+  number: '2'
+previous:
+  id: PSA/46/11
+  number: '11'
+reference: 'Psalms 47:1'

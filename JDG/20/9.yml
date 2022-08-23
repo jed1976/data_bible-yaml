@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 20:9" class="v">9</span>But
+  now this <span class="add">shall be</span> the thing which we will do to
+  Gibeah; <span class="add">we will go up</span> by lot against it; </p>
+id: JDG/20/9
+next:
+  id: JDG/20/10
+  number: '10'
+previous:
+  id: JDG/20/8
+  number: '8'
+reference: 'Judges 20:9'

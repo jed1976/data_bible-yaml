@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 12:3" class="v">3</span>With
+  twelve hundred chariots, and threescore thousand horsemen: and the people
+  <span class="add">were</span> without number that came with him out of Egypt;
+  the Lubims, the Sukkiims, and the Ethiopians. </p>
+id: 2CH/12/3
+next:
+  id: 2CH/12/4
+  number: '4'
+previous:
+  id: 2CH/12/2
+  number: '2'
+reference: '2 Chronicles 12:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 40:10"
+  class="v">10</span>And thou shalt anoint the altar of the burnt offering, and
+  all his vessels, and sanctify the altar: and it shall be an altar most holy.
+  </p>
+id: EXO/40/10
+next:
+  id: EXO/40/11
+  number: '11'
+previous:
+  id: EXO/40/9
+  number: '9'
+reference: 'Exodus 40:10'

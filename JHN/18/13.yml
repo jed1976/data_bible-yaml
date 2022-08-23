@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JHN 18:13"
+  class="v">13</span>And led him away to Annas first; for he was father in law
+  to Caiaphas, which was the high priest that same year. </p>
+id: JHN/18/13
+next:
+  id: JHN/18/14
+  number: '14'
+previous:
+  id: JHN/18/12
+  number: '12'
+reference: 'John 18:13'

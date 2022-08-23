@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 10:7" class="v">7</span>I
+  have seen servants upon horses, and princes walking as servants upon the
+  earth. </p>
+id: ECC/10/7
+next:
+  id: ECC/10/8
+  number: '8'
+previous:
+  id: ECC/10/6
+  number: '6'
+reference: 'Ecclesiastes 10:7'

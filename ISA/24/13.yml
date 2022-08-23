@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 24:13" class="v">13</span>¶
+  When thus it shall be in the midst of the land among the people, <span
+  class="add">there shall be</span> as the shaking of an olive tree, <span
+  class="add">and</span> as the gleaning grapes when the vintage is done. </p>
+id: ISA/24/13
+next:
+  id: ISA/24/14
+  number: '14'
+previous:
+  id: ISA/24/12
+  number: '12'
+reference: 'Isaiah 24:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JDG 3:12" class="v">12</span>¶
+  And the children of Israel did evil again in the sight of the <span
+  class="nd">LORD</span>: and the <span class="nd">LORD</span> strengthened
+  Eglon the king of Moab against Israel, because they had done evil in the sight
+  of the <span class="nd">LORD</span>. </p>
+id: JDG/3/12
+next:
+  id: JDG/3/13
+  number: '13'
+previous:
+  id: JDG/3/11
+  number: '11'
+reference: 'Judges 3:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 21:32"
+  class="v">32</span>And Moses sent to spy out Jaazer, and they took the
+  villages thereof, and drove out the Amorites that <span
+  class="add">were</span> there.</p>
+id: NUM/21/32
+next:
+  id: NUM/21/33
+  number: '33'
+previous:
+  id: NUM/21/31
+  number: '31'
+reference: 'Numbers 21:32'

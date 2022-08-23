@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 18:6" class="v">6</span>A
+  fool’s lips enter into contention, and his mouth calleth for strokes. </p>
+id: PRO/18/6
+next:
+  id: PRO/18/7
+  number: '7'
+previous:
+  id: PRO/18/5
+  number: '5'
+reference: 'Proverbs 18:6'

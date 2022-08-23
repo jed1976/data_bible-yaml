@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 17:15"
+  class="v">15</span>And Moses built an altar, and called the name of it
+  Jehovah-nissi: </p>
+id: EXO/17/15
+next:
+  id: EXO/17/16
+  number: '16'
+previous:
+  id: EXO/17/14
+  number: '14'
+reference: 'Exodus 17:15'

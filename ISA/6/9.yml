@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 6:9" class="v">9</span>¶ And
+  he said, Go, and tell this people, Hear ye indeed, but understand not; and see
+  ye indeed, but perceive not. </p>
+id: ISA/6/9
+next:
+  id: ISA/6/10
+  number: '10'
+previous:
+  id: ISA/6/8
+  number: '8'
+reference: 'Isaiah 6:9'

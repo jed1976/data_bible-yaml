@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 19:6" class="v">6</span>His
+  going forth <span class="add">is</span> from the end of the heaven, and his
+  circuit unto the ends of it: and there is nothing hid from the heat
+  thereof.</p>
+id: PSA/19/6
+next:
+  id: PSA/19/7
+  number: '7'
+previous:
+  id: PSA/19/5
+  number: '5'
+reference: 'Psalms 19:6'

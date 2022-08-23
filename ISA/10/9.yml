@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 10:9" class="v">9</span><span
+  class="add">Is</span> not Calno as Carchemish? <span class="add">is</span> not
+  Hamath as Arpad? <span class="add">is</span> not Samaria as Damascus? </p>
+id: ISA/10/9
+next:
+  id: ISA/10/10
+  number: '10'
+previous:
+  id: ISA/10/8
+  number: '8'
+reference: 'Isaiah 10:9'

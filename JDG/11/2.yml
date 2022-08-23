@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JDG 11:2" class="v">2</span>And
+  Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out
+  Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for
+  thou <span class="add">art</span> the son of a strange woman. </p>
+id: JDG/11/2
+next:
+  id: JDG/11/3
+  number: '3'
+previous:
+  id: JDG/11/1
+  number: '1'
+reference: 'Judges 11:2'

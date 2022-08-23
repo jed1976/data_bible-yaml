@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2SA 20:5" class="v">5</span>So
+  Amasa went to assemble <span class="add">the men of</span> Judah: but he
+  tarried longer than the set time which he had appointed him. </p>
+id: 2SA/20/5
+next:
+  id: 2SA/20/6
+  number: '6'
+previous:
+  id: 2SA/20/4
+  number: '4'
+reference: '2 Samuel 20:5'

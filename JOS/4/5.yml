@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 4:5" class="v">5</span>And
+  Joshua said unto them, Pass over before the ark of the <span
+  class="nd">LORD</span> your God into the midst of Jordan, and take ye up every
+  man of you a stone upon his shoulder, according unto the number of the tribes
+  of the children of Israel: </p>
+id: JOS/4/5
+next:
+  id: JOS/4/6
+  number: '6'
+previous:
+  id: JOS/4/4
+  number: '4'
+reference: 'Joshua 4:5'

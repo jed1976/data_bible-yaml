@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1TH 5:4" class="v">4</span>But
+  ye, brethren, are not in darkness, that that day should overtake you as a
+  thief. </p>
+id: 1TH/5/4
+next:
+  id: 1TH/5/5
+  number: '5'
+previous:
+  id: 1TH/5/3
+  number: '3'
+reference: '1 Thessalonians 5:4'

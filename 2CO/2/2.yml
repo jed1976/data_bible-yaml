@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="2CO 2:2" class="v">2</span>For if
+  I make you sorry, who is he then that maketh me glad, but the same which is
+  made sorry by me? </p>
+id: 2CO/2/2
+next:
+  id: 2CO/2/3
+  number: '3'
+previous:
+  id: 2CO/2/1
+  number: '1'
+reference: '2 Corinthians 2:2'

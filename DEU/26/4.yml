@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 26:4" class="v">4</span>And
+  the priest shall take the basket out of thine hand, and set it down before the
+  altar of the <span class="nd">LORD</span> thy God. </p>
+id: DEU/26/4
+next:
+  id: DEU/26/5
+  number: '5'
+previous:
+  id: DEU/26/3
+  number: '3'
+reference: 'Deuteronomy 26:4'

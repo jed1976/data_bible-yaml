@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 60:2" class="v">2</span>Thou
+  hast made the earth to tremble; thou hast broken it: heal the breaches
+  thereof; for it shaketh.</p>
+id: PSA/60/2
+next:
+  id: PSA/60/3
+  number: '3'
+previous:
+  id: PSA/60/1
+  number: '1'
+reference: 'Psalms 60:2'

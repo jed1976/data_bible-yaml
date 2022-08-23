@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 20:5" class="v">5</span>¶ And
+  the officers shall speak unto the people, saying, What man <span
+  class="add">is there</span> that hath built a new house, and hath not
+  dedicated it? let him go and return to his house, lest he die in the battle,
+  and another man dedicate it. </p>
+id: DEU/20/5
+next:
+  id: DEU/20/6
+  number: '6'
+previous:
+  id: DEU/20/4
+  number: '4'
+reference: 'Deuteronomy 20:5'

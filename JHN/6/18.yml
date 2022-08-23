@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 6:18" class="v">18</span>And
+  the sea arose by reason of a great wind that blew. </p>
+id: JHN/6/18
+next:
+  id: JHN/6/19
+  number: '19'
+previous:
+  id: JHN/6/17
+  number: '17'
+reference: 'John 6:18'

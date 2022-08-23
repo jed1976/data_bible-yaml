@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DAN 9:8" class="v">8</span>O
+  Lord, to us <span class="add">belongeth</span> confusion of face, to our
+  kings, to our princes, and to our fathers, because we have sinned against
+  thee. </p>
+id: DAN/9/8
+next:
+  id: DAN/9/9
+  number: '9'
+previous:
+  id: DAN/9/7
+  number: '7'
+reference: 'Daniel 9:8'

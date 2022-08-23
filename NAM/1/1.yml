@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NAM 1:1" class="v">1</span>The
+  burden of Nineveh. The book of the vision of Nahum the Elkoshite.</p>
+id: NAM/1/1
+next:
+  id: NAM/1/2
+  number: '2'
+previous:
+  id: NAM/intro/0
+  number: '0'
+reference: 'Nahum 1:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 41:12"
+  class="v">12</span>Thou shalt seek them, and shalt not find them, <span
+  class="add">even</span> them that contended with thee: they that war against
+  thee shall be as nothing, and as a thing of nought. </p>
+id: ISA/41/12
+next:
+  id: ISA/41/13
+  number: '13'
+previous:
+  id: ISA/41/11
+  number: '11'
+reference: 'Isaiah 41:12'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 24:1" class="v">1</span>Be
+  not thou envious against evil men, neither desire to be with them. </p>
+id: PRO/24/1
+next:
+  id: PRO/24/2
+  number: '2'
+previous:
+  id: PRO/23/35
+  number: '35'
+reference: 'Proverbs 24:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 15:33"
+  class="v">33</span>And they that found him gathering sticks brought him unto
+  Moses and Aaron, and unto all the congregation. </p>
+id: NUM/15/33
+next:
+  id: NUM/15/34
+  number: '34'
+previous:
+  id: NUM/15/32
+  number: '32'
+reference: 'Numbers 15:33'

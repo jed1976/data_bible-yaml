@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="DEU 32:39"
+  class="v">39</span>See now that I, <span class="add">even</span> I, <span
+  class="add">am</span> he, and <span class="add">there is</span> no god with
+  me: I kill, and I make alive; I wound, and I heal: neither <span
+  class="add">is there any</span> that can deliver out of my hand. </p>
+id: DEU/32/39
+next:
+  id: DEU/32/40
+  number: '40'
+previous:
+  id: DEU/32/38
+  number: '38'
+reference: 'Deuteronomy 32:39'

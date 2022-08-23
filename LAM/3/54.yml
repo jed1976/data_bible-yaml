@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="LAM 3:54"
+  class="v">54</span>Waters flowed over mine head; <span class="add">then</span>
+  I said, I am cut off.</p>
+id: LAM/3/54
+next:
+  id: LAM/3/55
+  number: '55'
+previous:
+  id: LAM/3/53
+  number: '53'
+reference: 'Lamentations 3:54'

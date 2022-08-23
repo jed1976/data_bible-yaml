@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 23:19"
+  class="v">19</span><span class="wj"><span class="add">Ye</span> fools and
+  blind: for whether <span class="add">is</span> greater, the gift, or the altar
+  that sanctifieth the gift?</span> </p>
+id: MAT/23/19
+next:
+  id: MAT/23/20
+  number: '20'
+previous:
+  id: MAT/23/18
+  number: '18'
+reference: 'Matthew 23:19'

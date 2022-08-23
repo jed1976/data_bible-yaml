@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 29:7" class="v">7</span>¶ And
+  ye shall have on the tenth <span class="add">day</span> of this seventh month
+  an holy convocation; and ye shall afflict your souls: ye shall not do any work
+  <span class="add">therein:</span> </p>
+id: NUM/29/7
+next:
+  id: NUM/29/8
+  number: '8'
+previous:
+  id: NUM/29/6
+  number: '6'
+reference: 'Numbers 29:7'

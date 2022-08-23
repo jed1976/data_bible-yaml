@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1SA 6:12" class="v">12</span>And
+  the kine took the straight way to the way of Beth-shemesh, <span
+  class="add">and</span> went along the highway, lowing as they went, and turned
+  not aside <span class="add">to</span> the right hand or <span
+  class="add">to</span> the left; and the lords of the Philistines went after
+  them unto the border of Beth-shemesh. </p>
+id: 1SA/6/12
+next:
+  id: 1SA/6/13
+  number: '13'
+previous:
+  id: 1SA/6/11
+  number: '11'
+reference: '1 Samuel 6:12'

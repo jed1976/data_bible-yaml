@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LEV 19:34"
+  class="v">34</span><span class="add">But</span> the stranger that dwelleth
+  with you shall be unto you as one born among you, and thou shalt love him as
+  thyself; for ye were strangers in the land of Egypt: I <span
+  class="add">am</span> the <span class="nd">LORD</span> your God.</p>
+id: LEV/19/34
+next:
+  id: LEV/19/35
+  number: '35'
+previous:
+  id: LEV/19/33
+  number: '33'
+reference: 'Leviticus 19:34'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1KI 20:25"
+  class="v">25</span>And number thee an army, like the army that thou hast lost,
+  horse for horse, and chariot for chariot: and we will fight against them in
+  the plain, <span class="add">and</span> surely we shall be stronger than they.
+  And he hearkened unto their voice, and did so. </p>
+id: 1KI/20/25
+next:
+  id: 1KI/20/26
+  number: '26'
+previous:
+  id: 1KI/20/24
+  number: '24'
+reference: '1 Kings 20:25'

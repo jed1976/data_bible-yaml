@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PRO 7:16" class="v">16</span>I
+  have decked my bed with coverings of tapestry, with carved <span
+  class="add">works</span>, with fine linen of Egypt. </p>
+id: PRO/7/16
+next:
+  id: PRO/7/17
+  number: '17'
+previous:
+  id: PRO/7/15
+  number: '15'
+reference: 'Proverbs 7:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 20:10"
+  class="v">10</span>His children shall seek to please the poor, and his hands
+  shall restore their goods. </p>
+id: JOB/20/10
+next:
+  id: JOB/20/11
+  number: '11'
+previous:
+  id: JOB/20/9
+  number: '9'
+reference: 'Job 20:10'

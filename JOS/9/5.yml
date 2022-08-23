@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 9:5" class="v">5</span>And
+  old shoes and clouted upon their feet, and old garments upon them; and all the
+  bread of their provision was dry <span class="add">and</span> mouldy. </p>
+id: JOS/9/5
+next:
+  id: JOS/9/6
+  number: '6'
+previous:
+  id: JOS/9/4
+  number: '4'
+reference: 'Joshua 9:5'

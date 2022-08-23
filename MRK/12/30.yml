@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MRK 12:30"
+  class="v">30</span><span class="wj">And thou shalt love the Lord thy God with
+  all thy heart, and with all thy soul, and with all thy mind, and with all thy
+  strength: this <span class="add">is</span> the first commandment.</span> </p>
+id: MRK/12/30
+next:
+  id: MRK/12/31
+  number: '31'
+previous:
+  id: MRK/12/29
+  number: '29'
+reference: 'Mark 12:30'

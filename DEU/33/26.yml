@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 33:26" class="v">26</span>¶
+  <span class="add">There is</span> none like unto the God of Jeshurun, <span
+  class="add">who</span> rideth upon the heaven in thy help, and in his
+  excellency on the sky. </p>
+id: DEU/33/26
+next:
+  id: DEU/33/27
+  number: '27'
+previous:
+  id: DEU/33/25
+  number: '25'
+reference: 'Deuteronomy 33:26'

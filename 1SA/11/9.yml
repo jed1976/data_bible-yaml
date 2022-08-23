@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1SA 11:9" class="v">9</span>And
+  they said unto the messengers that came, Thus shall ye say unto the men of
+  Jabesh-gilead, To morrow, by <span class="add">that time</span> the sun be
+  hot, ye shall have help. And the messengers came and shewed <span
+  class="add">it</span> to the men of Jabesh; and they were glad. </p>
+id: 1SA/11/9
+next:
+  id: 1SA/11/10
+  number: '10'
+previous:
+  id: 1SA/11/8
+  number: '8'
+reference: '1 Samuel 11:9'

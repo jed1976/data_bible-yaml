@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 4:24" class="v">24</span>And
+  he said unto them, <span class="wj">Take heed what ye hear: with what measure
+  ye mete, it shall be measured to you: and unto you that hear shall more be
+  given.</span> </p>
+id: MRK/4/24
+next:
+  id: MRK/4/25
+  number: '25'
+previous:
+  id: MRK/4/23
+  number: '23'
+reference: 'Mark 4:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 10:7" class="v">7</span>And
+  the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and
+  the sons of Raamah; Sheba, and Dedan. </p>
+id: GEN/10/7
+next:
+  id: GEN/10/8
+  number: '8'
+previous:
+  id: GEN/10/6
+  number: '6'
+reference: 'Genesis 10:7'

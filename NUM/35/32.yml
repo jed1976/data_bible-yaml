@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 35:32"
+  class="v">32</span>And ye shall take no satisfaction for him that is fled to
+  the city of his refuge, that he should come again to dwell in the land, until
+  the death of the priest. </p>
+id: NUM/35/32
+next:
+  id: NUM/35/33
+  number: '33'
+previous:
+  id: NUM/35/31
+  number: '31'
+reference: 'Numbers 35:32'

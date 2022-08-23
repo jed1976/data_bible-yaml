@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 8:25"
+  class="v">25</span>Then said they unto him, Who art thou? And Jesus saith unto
+  them, <span class="wj">Even <span class="add">the same</span> that I said unto
+  you from the beginning.</span> </p>
+id: JHN/8/25
+next:
+  id: JHN/8/26
+  number: '26'
+previous:
+  id: JHN/8/24
+  number: '24'
+reference: 'John 8:25'

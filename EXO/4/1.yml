@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 4:1" class="v">1</span>And
+  Moses answered and said, But, behold, they will not believe me, nor hearken
+  unto my voice: for they will say, The <span class="nd">LORD</span> hath not
+  appeared unto thee. </p>
+id: EXO/4/1
+next:
+  id: EXO/4/2
+  number: '2'
+previous:
+  id: EXO/3/22
+  number: '22'
+reference: 'Exodus 4:1'

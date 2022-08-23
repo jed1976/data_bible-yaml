@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 35:25"
+  class="v">25</span>And the sons of Bilhah, Rachel’s handmaid; Dan, and
+  Naphtali: </p>
+id: GEN/35/25
+next:
+  id: GEN/35/26
+  number: '26'
+previous:
+  id: GEN/35/24
+  number: '24'
+reference: 'Genesis 35:25'

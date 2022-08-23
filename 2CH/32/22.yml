@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2CH 32:22"
+  class="v">22</span>Thus the <span class="nd">LORD</span> saved Hezekiah and
+  the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria,
+  and from the hand of all <span class="add">other</span>, and guided them on
+  every side. </p>
+id: 2CH/32/22
+next:
+  id: 2CH/32/23
+  number: '23'
+previous:
+  id: 2CH/32/21
+  number: '21'
+reference: '2 Chronicles 32:22'

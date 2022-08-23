@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 18:3"
+  class="v">3</span>Wherefore are we counted as beasts, <span
+  class="add">and</span> reputed vile in your sight? </p>
+id: JOB/18/3
+next:
+  id: JOB/18/4
+  number: '4'
+previous:
+  id: JOB/18/2
+  number: '2'
+reference: 'Job 18:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 6:34"
+  class="v">34</span><span class="wj">And if ye lend <span class="add">to
+  them</span> of whom ye hope to receive, what thank have ye? for sinners also
+  lend to sinners, to receive as much again.</span> </p>
+id: LUK/6/34
+next:
+  id: LUK/6/35
+  number: '35'
+previous:
+  id: LUK/6/33
+  number: '33'
+reference: 'Luke 6:34'

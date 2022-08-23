@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 15:16"
+  class="v">16</span>After this I will return, and will build again the
+  tabernacle of David, which is fallen down; and I will build again the ruins
+  thereof, and I will set it up: </p>
+id: ACT/15/16
+next:
+  id: ACT/15/17
+  number: '17'
+previous:
+  id: ACT/15/15
+  number: '15'
+reference: 'Acts 15:16'

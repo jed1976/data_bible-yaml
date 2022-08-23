@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 30:6" class="v">6</span>To
+  dwell in the clifts of the valleys, <span class="add">in</span> caves of the
+  earth, and <span class="add">in</span> the rocks. </p>
+id: JOB/30/6
+next:
+  id: JOB/30/7
+  number: '7'
+previous:
+  id: JOB/30/5
+  number: '5'
+reference: 'Job 30:6'

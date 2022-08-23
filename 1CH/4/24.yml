@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 4:24" class="v">24</span>¶
+  The sons of Simeon <span class="add">were</span>, Nemuel, and Jamin, Jarib,
+  Zerah, <span class="add">and</span> Shaul: </p>
+id: 1CH/4/24
+next:
+  id: 1CH/4/25
+  number: '25'
+previous:
+  id: 1CH/4/23
+  number: '23'
+reference: '1 Chronicles 4:24'

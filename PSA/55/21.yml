@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 55:21"
+  class="v">21</span><span class="add">The words</span> of his mouth were
+  smoother than butter, but war <span class="add">was</span> in his heart: his
+  words were softer than oil, yet <span class="add">were</span> they drawn
+  swords.</p>
+id: PSA/55/21
+next:
+  id: PSA/55/22
+  number: '22'
+previous:
+  id: PSA/55/20
+  number: '20'
+reference: 'Psalms 55:21'

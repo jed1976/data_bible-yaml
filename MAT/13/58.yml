@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="MAT 13:58"
+  class="v">58</span>And he did not many mighty works there because of their
+  unbelief.</p>
+id: MAT/13/58
+next:
+  id: MAT/14/1
+  number: '1'
+previous:
+  id: MAT/13/57
+  number: '57'
+reference: 'Matthew 13:58'

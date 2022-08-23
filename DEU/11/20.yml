@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 11:20"
+  class="v">20</span>And thou shalt write them upon the door posts of thine
+  house, and upon thy gates: </p>
+id: DEU/11/20
+next:
+  id: DEU/11/21
+  number: '21'
+previous:
+  id: DEU/11/19
+  number: '19'
+reference: 'Deuteronomy 11:20'

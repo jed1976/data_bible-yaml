@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="LUK 5:39"
+  class="v">39</span><span class="wj">No man also having drunk old <span
+  class="add">wine</span> straightway desireth new: for he saith, The old is
+  better.</span></p>
+id: LUK/5/39
+next:
+  id: LUK/6/1
+  number: '1'
+previous:
+  id: LUK/5/38
+  number: '38'
+reference: 'Luke 5:39'

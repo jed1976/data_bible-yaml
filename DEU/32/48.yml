@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="DEU 32:48"
+  class="v">48</span>And the <span class="nd">LORD</span> spake unto Moses that
+  selfsame day, saying, </p>
+id: DEU/32/48
+next:
+  id: DEU/32/49
+  number: '49'
+previous:
+  id: DEU/32/47
+  number: '47'
+reference: 'Deuteronomy 32:48'

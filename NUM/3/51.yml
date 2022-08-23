@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="NUM 3:51" class="v">51</span>And
+  Moses gave the money of them that were redeemed unto Aaron and to his sons,
+  according to the word of the <span class="nd">LORD</span>, as the <span
+  class="nd">LORD</span> commanded Moses.</p>
+id: NUM/3/51
+next:
+  id: NUM/4/1
+  number: '1'
+previous:
+  id: NUM/3/50
+  number: '50'
+reference: 'Numbers 3:51'

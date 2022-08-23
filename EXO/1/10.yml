@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 1:10"
+  class="v">10</span>Come on, let us deal wisely with them; lest they multiply,
+  and it come to pass, that, when there falleth out any war, they join also unto
+  our enemies, and fight against us, and <span class="add">so</span> get them up
+  out of the land. </p>
+id: EXO/1/10
+next:
+  id: EXO/1/11
+  number: '11'
+previous:
+  id: EXO/1/9
+  number: '9'
+reference: 'Exodus 1:10'

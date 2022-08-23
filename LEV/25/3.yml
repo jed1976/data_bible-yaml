@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LEV 25:3" class="v">3</span>Six
+  years thou shalt sow thy field, and six years thou shalt prune thy vineyard,
+  and gather in the fruit thereof; </p>
+id: LEV/25/3
+next:
+  id: LEV/25/4
+  number: '4'
+previous:
+  id: LEV/25/2
+  number: '2'
+reference: 'Leviticus 25:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 32:1"
+  class="v">1</span>Behold, a king shall reign in righteousness, and princes
+  shall rule in judgment. </p>
+id: ISA/32/1
+next:
+  id: ISA/32/2
+  number: '2'
+previous:
+  id: ISA/31/9
+  number: '9'
+reference: 'Isaiah 32:1'

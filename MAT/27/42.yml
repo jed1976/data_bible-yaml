@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 27:42" class="v">42</span>He
+  saved others; himself he cannot save. If he be the King of Israel, let him now
+  come down from the cross, and we will believe him. </p>
+id: MAT/27/42
+next:
+  id: MAT/27/43
+  number: '43'
+previous:
+  id: MAT/27/41
+  number: '41'
+reference: 'Matthew 27:42'

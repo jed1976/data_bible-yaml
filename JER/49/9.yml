@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 49:9" class="v">9</span>If
+  grapegatherers come to thee, would they not leave <span
+  class="add">some</span> gleaning grapes? if thieves by night, they will
+  destroy till they have enough. </p>
+id: JER/49/9
+next:
+  id: JER/49/10
+  number: '10'
+previous:
+  id: JER/49/8
+  number: '8'
+reference: 'Jeremiah 49:9'

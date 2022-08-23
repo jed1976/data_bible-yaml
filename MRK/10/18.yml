@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 10:18"
+  class="v">18</span>And Jesus said unto him, <span class="wj">Why callest thou
+  me good? <span class="add">there is</span> none good but one, <span
+  class="add">that is</span>, God.</span> </p>
+id: MRK/10/18
+next:
+  id: MRK/10/19
+  number: '19'
+previous:
+  id: MRK/10/17
+  number: '17'
+reference: 'Mark 10:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 62:7" class="v">7</span>And
+  give him no rest, till he establish, and till he make Jerusalem a praise in
+  the earth. </p>
+id: ISA/62/7
+next:
+  id: ISA/62/8
+  number: '8'
+previous:
+  id: ISA/62/6
+  number: '6'
+reference: 'Isaiah 62:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 22:27"
+  class="v">27</span>Then the chief captain came, and said unto him, Tell me,
+  art thou a Roman? He said, Yea. </p>
+id: ACT/22/27
+next:
+  id: ACT/22/28
+  number: '28'
+previous:
+  id: ACT/22/26
+  number: '26'
+reference: 'Acts 22:27'

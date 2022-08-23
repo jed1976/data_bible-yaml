@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 57:16"
+  class="v">16</span>For I will not contend for ever, neither will I be always
+  wroth: for the spirit should fail before me, and the souls <span
+  class="add">which</span> I have made.</p>
+id: ISA/57/16
+next:
+  id: ISA/57/17
+  number: '17'
+previous:
+  id: ISA/57/15
+  number: '15'
+reference: 'Isaiah 57:16'

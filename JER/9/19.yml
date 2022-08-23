@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JER 9:19" class="v">19</span>For
+  a voice of wailing is heard out of Zion, How are we spoiled! we are greatly
+  confounded, because we have forsaken the land, because our dwellings have cast
+  <span class="add">us</span> out. </p>
+id: JER/9/19
+next:
+  id: JER/9/20
+  number: '20'
+previous:
+  id: JER/9/18
+  number: '18'
+reference: 'Jeremiah 9:19'

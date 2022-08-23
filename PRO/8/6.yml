@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 8:6" class="v">6</span>Hear;
+  for I will speak of excellent things; and the opening of my lips <span
+  class="add">shall be</span> right things. </p>
+id: PRO/8/6
+next:
+  id: PRO/8/7
+  number: '7'
+previous:
+  id: PRO/8/5
+  number: '5'
+reference: 'Proverbs 8:6'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="SNG 4:1"
+  class="v">1</span>Behold, thou <span class="add">art</span> fair, my love;
+  behold, thou <span class="add">art</span> fair; thou <span
+  class="add">hast</span> doves’ eyes within thy locks: thy hair <span
+  class="add">is</span> as a flock of goats, that appear from mount Gilead. </p>
+id: SNG/4/1
+next:
+  id: SNG/4/2
+  number: '2'
+previous:
+  id: SNG/3/11
+  number: '11'
+reference: 'Song of Solomon 4:1'

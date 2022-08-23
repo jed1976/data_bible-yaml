@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2PE 3:10" class="v">10</span>But
+  the day of the Lord will come as a thief in the night; in the which the
+  heavens shall pass away with a great noise, and the elements shall melt with
+  fervent heat, the earth also and the works that are therein shall be burned
+  up. </p>
+id: 2PE/3/10
+next:
+  id: 2PE/3/11
+  number: '11'
+previous:
+  id: 2PE/3/9
+  number: '9'
+reference: '2 Peter 3:10'

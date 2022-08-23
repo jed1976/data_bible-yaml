@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 33:3" class="v">3</span>Yea,
+  he loved the people; all his saints <span class="add">are</span> in thy hand:
+  and they sat down at thy feet; <span class="add">every one</span> shall
+  receive of thy words. </p>
+id: DEU/33/3
+next:
+  id: DEU/33/4
+  number: '4'
+previous:
+  id: DEU/33/2
+  number: '2'
+reference: 'Deuteronomy 33:3'

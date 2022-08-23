@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LEV 25:17" class="v">17</span>Ye
+  shall not therefore oppress one another; but thou shalt fear thy God: for I
+  <span class="add">am</span> the <span class="nd">LORD</span> your God.</p>
+id: LEV/25/17
+next:
+  id: LEV/25/18
+  number: '18'
+previous:
+  id: LEV/25/16
+  number: '16'
+reference: 'Leviticus 25:17'

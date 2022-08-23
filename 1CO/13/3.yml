@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CO 13:3" class="v">3</span>And
+  though I bestow all my goods to feed <span class="add">the poor</span>, and
+  though I give my body to be burned, and have not charity, it profiteth me
+  nothing. </p>
+id: 1CO/13/3
+next:
+  id: 1CO/13/4
+  number: '4'
+previous:
+  id: 1CO/13/2
+  number: '2'
+reference: '1 Corinthians 13:3'

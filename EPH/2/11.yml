@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EPH 2:11"
+  class="v">11</span>Wherefore remember, that ye <span class="add">being</span>
+  in time past Gentiles in the flesh, who are called Uncircumcision by that
+  which is called the Circumcision in the flesh made by hands; </p>
+id: EPH/2/11
+next:
+  id: EPH/2/12
+  number: '12'
+previous:
+  id: EPH/2/10
+  number: '10'
+reference: 'Ephesians 2:11'

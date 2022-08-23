@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 19:30" class="v">30</span>¶
+  Ye shall keep my sabbaths, and reverence my sanctuary: I <span
+  class="add">am</span> the <span class="nd">LORD</span>.</p>
+id: LEV/19/30
+next:
+  id: LEV/19/31
+  number: '31'
+previous:
+  id: LEV/19/29
+  number: '29'
+reference: 'Leviticus 19:30'

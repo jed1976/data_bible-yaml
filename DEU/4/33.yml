@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DEU 4:33" class="v">33</span>Did
+  <span class="add">ever</span> people hear the voice of God speaking out of the
+  midst of the fire, as thou hast heard, and live? </p>
+id: DEU/4/33
+next:
+  id: DEU/4/34
+  number: '34'
+previous:
+  id: DEU/4/32
+  number: '32'
+reference: 'Deuteronomy 4:33'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LAM 5:10" class="v">10</span>Our
+  skin was black like an oven because of the terrible famine. </p>
+id: LAM/5/10
+next:
+  id: LAM/5/11
+  number: '11'
+previous:
+  id: LAM/5/9
+  number: '9'
+reference: 'Lamentations 5:10'

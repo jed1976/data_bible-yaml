@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NAM 1:14" class="v">14</span>And
+  the <span class="nd">LORD</span> hath given a commandment concerning thee,
+  <span class="add">that</span> no more of thy name be sown: out of the house of
+  thy gods will I cut off the graven image and the molten image: I will make thy
+  grave; for thou art vile. </p>
+id: NAM/1/14
+next:
+  id: NAM/1/15
+  number: '15'
+previous:
+  id: NAM/1/13
+  number: '13'
+reference: 'Nahum 1:14'

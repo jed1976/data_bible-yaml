@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 4:29"
+  class="v">29</span>Come, see a man, which told me all things that ever I did:
+  is not this the Christ? </p>
+id: JHN/4/29
+next:
+  id: JHN/4/30
+  number: '30'
+previous:
+  id: JHN/4/28
+  number: '28'
+reference: 'John 4:29'

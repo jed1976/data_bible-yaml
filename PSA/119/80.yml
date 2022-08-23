@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="80" data-sid="PSA 119:80"
+  class="v">80</span>Let my heart be sound in thy statutes; that I be not
+  ashamed.</p>
+id: PSA/119/80
+next:
+  id: PSA/119/81
+  number: '81'
+previous:
+  id: PSA/119/79
+  number: '79'
+reference: 'Psalms 119:80'

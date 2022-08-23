@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 29:3"
+  class="v">3</span>Speak, and say, Thus saith the Lord <span
+  class="nd">GOD</span>; Behold, I <span class="add">am</span> against thee,
+  Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers,
+  which hath said, My river <span class="add">is</span> mine own, and I have
+  made <span class="add">it</span> for myself. </p>
+id: EZK/29/3
+next:
+  id: EZK/29/4
+  number: '4'
+previous:
+  id: EZK/29/2
+  number: '2'
+reference: 'Ezekiel 29:3'

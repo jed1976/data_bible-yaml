@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 6:14" class="v">14</span>To
+  him that is afflicted pity <span class="add">should be shewed</span> from his
+  friend; but he forsaketh the fear of the Almighty. </p>
+id: JOB/6/14
+next:
+  id: JOB/6/15
+  number: '15'
+previous:
+  id: JOB/6/13
+  number: '13'
+reference: 'Job 6:14'

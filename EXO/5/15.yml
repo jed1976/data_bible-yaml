@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 5:15" class="v">15</span>¶
+  Then the officers of the children of Israel came and cried unto Pharaoh,
+  saying, Wherefore dealest thou thus with thy servants? </p>
+id: EXO/5/15
+next:
+  id: EXO/5/16
+  number: '16'
+previous:
+  id: EXO/5/14
+  number: '14'
+reference: 'Exodus 5:15'

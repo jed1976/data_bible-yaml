@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 4:30"
+  class="v">30</span>Then they went out of the city, and came unto him.</p>
+id: JHN/4/30
+next:
+  id: JHN/4/31
+  number: '31'
+previous:
+  id: JHN/4/29
+  number: '29'
+reference: 'John 4:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ECC 9:5" class="v">5</span>For
+  the living know that they shall die: but the dead know not any thing, neither
+  have they any more a reward; for the memory of them is forgotten. </p>
+id: ECC/9/5
+next:
+  id: ECC/9/6
+  number: '6'
+previous:
+  id: ECC/9/4
+  number: '4'
+reference: 'Ecclesiastes 9:5'

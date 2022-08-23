@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 6:26"
+  class="v">26</span><span class="wj">Behold the fowls of the air: for they sow
+  not, neither do they reap, nor gather into barns; yet your heavenly Father
+  feedeth them. Are ye not much better than they?</span> </p>
+id: MAT/6/26
+next:
+  id: MAT/6/27
+  number: '27'
+previous:
+  id: MAT/6/25
+  number: '25'
+reference: 'Matthew 6:26'

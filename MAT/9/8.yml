@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 9:8" class="v">8</span>But
+  when the multitudes saw <span class="add">it</span>, they marvelled, and
+  glorified God, which had given such power unto men.</p>
+id: MAT/9/8
+next:
+  id: MAT/9/9
+  number: '9'
+previous:
+  id: MAT/9/7
+  number: '7'
+reference: 'Matthew 9:8'

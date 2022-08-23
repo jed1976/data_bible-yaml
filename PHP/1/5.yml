@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PHP 1:5" class="v">5</span>For
+  your fellowship in the gospel from the first day until now; </p>
+id: PHP/1/5
+next:
+  id: PHP/1/6
+  number: '6'
+previous:
+  id: PHP/1/4
+  number: '4'
+reference: 'Philippians 1:5'

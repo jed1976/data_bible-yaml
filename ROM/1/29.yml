@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ROM 1:29"
+  class="v">29</span>Being filled with all unrighteousness, fornication,
+  wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit,
+  malignity; whisperers, </p>
+id: ROM/1/29
+next:
+  id: ROM/1/30
+  number: '30'
+previous:
+  id: ROM/1/28
+  number: '28'
+reference: 'Romans 1:29'

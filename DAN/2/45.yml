@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="DAN 2:45"
+  class="v">45</span>Forasmuch as thou sawest that the stone was cut out of the
+  mountain without hands, and that it brake in pieces the iron, the brass, the
+  clay, the silver, and the gold; the great God hath made known to the king what
+  shall come to pass hereafter: and the dream <span class="add">is</span>
+  certain, and the interpretation thereof sure.</p>
+id: DAN/2/45
+next:
+  id: DAN/2/46
+  number: '46'
+previous:
+  id: DAN/2/44
+  number: '44'
+reference: 'Daniel 2:45'

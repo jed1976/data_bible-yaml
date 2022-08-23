@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 72:10"
+  class="v">10</span>The kings of Tarshish and of the isles shall bring
+  presents: the kings of Sheba and Seba shall offer gifts.</p>
+id: PSA/72/10
+next:
+  id: PSA/72/11
+  number: '11'
+previous:
+  id: PSA/72/9
+  number: '9'
+reference: 'Psalms 72:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CO 1:9" class="v">9</span>God
+  <span class="add">is</span> faithful, by whom ye were called unto the
+  fellowship of his Son Jesus Christ our Lord.</p>
+id: 1CO/1/9
+next:
+  id: 1CO/1/10
+  number: '10'
+previous:
+  id: 1CO/1/8
+  number: '8'
+reference: '1 Corinthians 1:9'

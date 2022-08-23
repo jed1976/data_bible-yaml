@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 11:1" class="v">1</span>And
+  the rulers of the people dwelt at Jerusalem: the rest of the people also cast
+  lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts
+  <span class="add">to dwell</span> in <span class="add">other</span> cities.
+  </p>
+id: NEH/11/1
+next:
+  id: NEH/11/2
+  number: '2'
+previous:
+  id: NEH/10/39
+  number: '39'
+reference: 'Nehemiah 11:1'

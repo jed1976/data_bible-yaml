@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JER 32:1" class="v">1</span>The
+  word that came to Jeremiah from the <span class="nd">LORD</span> in the tenth
+  year of Zedekiah king of Judah, which <span class="add">was</span> the
+  eighteenth year of Nebuchadrezzar. </p>
+id: JER/32/1
+next:
+  id: JER/32/2
+  number: '2'
+previous:
+  id: JER/31/40
+  number: '40'
+reference: 'Jeremiah 32:1'

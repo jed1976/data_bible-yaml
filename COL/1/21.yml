@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="COL 1:21" class="v">21</span>And
+  you, that were sometime alienated and enemies in <span class="add">your</span>
+  mind by wicked works, yet now hath he reconciled </p>
+id: COL/1/21
+next:
+  id: COL/1/22
+  number: '22'
+previous:
+  id: COL/1/20
+  number: '20'
+reference: 'Colossians 1:21'

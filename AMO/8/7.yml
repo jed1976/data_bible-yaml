@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="AMO 8:7" class="v">7</span>The
+  <span class="nd">LORD</span> hath sworn by the excellency of Jacob, Surely I
+  will never forget any of their works. </p>
+id: AMO/8/7
+next:
+  id: AMO/8/8
+  number: '8'
+previous:
+  id: AMO/8/6
+  number: '6'
+reference: 'Amos 8:7'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 135:20"
+  class="v">20</span>Bless the <span class="nd">LORD</span>, O house of Levi: ye
+  that fear the <span class="nd">LORD</span>, bless the <span
+  class="nd">LORD</span>.</p>
+id: PSA/135/20
+next:
+  id: PSA/135/21
+  number: '21'
+previous:
+  id: PSA/135/19
+  number: '19'
+reference: 'Psalms 135:20'

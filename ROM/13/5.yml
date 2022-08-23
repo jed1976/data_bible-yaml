@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 13:5"
+  class="v">5</span>Wherefore <span class="add">ye</span> must needs be subject,
+  not only for wrath, but also for conscience sake. </p>
+id: ROM/13/5
+next:
+  id: ROM/13/6
+  number: '6'
+previous:
+  id: ROM/13/4
+  number: '4'
+reference: 'Romans 13:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 28:7" class="v">7</span>Whoso
+  keepeth the law <span class="add">is</span> a wise son: but he that is a
+  companion of riotous <span class="add">men</span> shameth his father. </p>
+id: PRO/28/7
+next:
+  id: PRO/28/8
+  number: '8'
+previous:
+  id: PRO/28/6
+  number: '6'
+reference: 'Proverbs 28:7'

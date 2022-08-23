@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 1:1" class="v">1</span>The
+  words of Nehemiah the son of Hachaliah. And it came to pass in the month
+  Chisleu, in the twentieth year, as I was in Shushan the palace, </p>
+id: NEH/1/1
+next:
+  id: NEH/1/2
+  number: '2'
+previous:
+  id: NEH/intro/0
+  number: '0'
+reference: 'Nehemiah 1:1'

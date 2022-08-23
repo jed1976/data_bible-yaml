@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="PRO 24:31"
+  class="v">31</span>And, lo, it was all grown over with thorns, <span
+  class="add">and</span> nettles had covered the face thereof, and the stone
+  wall thereof was broken down. </p>
+id: PRO/24/31
+next:
+  id: PRO/24/32
+  number: '32'
+previous:
+  id: PRO/24/30
+  number: '30'
+reference: 'Proverbs 24:31'

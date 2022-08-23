@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="PRO 11:22"
+  class="v">22</span><span class="add">As</span> a jewel of gold in a swine’s
+  snout, <span class="add">so is</span> a fair woman which is without
+  discretion. </p>
+id: PRO/11/22
+next:
+  id: PRO/11/23
+  number: '23'
+previous:
+  id: PRO/11/21
+  number: '21'
+reference: 'Proverbs 11:22'

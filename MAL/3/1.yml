@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAL 3:1"
+  class="v">1</span>Behold, I will send my messenger, and he shall prepare the
+  way before me: and the Lord, whom ye seek, shall suddenly come to his temple,
+  even the messenger of the covenant, whom ye delight in: behold, he shall come,
+  saith the <span class="nd">LORD</span> of hosts. </p>
+id: MAL/3/1
+next:
+  id: MAL/3/2
+  number: '2'
+previous:
+  id: MAL/2/17
+  number: '17'
+reference: 'Malachi 3:1'

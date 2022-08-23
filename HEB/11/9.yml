@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HEB 11:9" class="v">9</span>By
+  faith he sojourned in the land of promise, as <span class="add">in</span> a
+  strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with
+  him of the same promise: </p>
+id: HEB/11/9
+next:
+  id: HEB/11/10
+  number: '10'
+previous:
+  id: HEB/11/8
+  number: '8'
+reference: 'Hebrews 11:9'

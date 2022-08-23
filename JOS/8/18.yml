@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 8:18" class="v">18</span>And
+  the <span class="nd">LORD</span> said unto Joshua, Stretch out the spear that
+  <span class="add">is</span> in thy hand toward Ai; for I will give it into
+  thine hand. And Joshua stretched out the spear that <span class="add">he
+  had</span> in his hand toward the city. </p>
+id: JOS/8/18
+next:
+  id: JOS/8/19
+  number: '19'
+previous:
+  id: JOS/8/17
+  number: '17'
+reference: 'Joshua 8:18'

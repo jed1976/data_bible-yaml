@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ROM 3:17" class="v">17</span>And
+  the way of peace have they not known: </p>
+id: ROM/3/17
+next:
+  id: ROM/3/18
+  number: '18'
+previous:
+  id: ROM/3/16
+  number: '16'
+reference: 'Romans 3:17'

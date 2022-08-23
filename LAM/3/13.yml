@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LAM 3:13" class="v">13</span>He
+  hath caused the arrows of his quiver to enter into my reins. </p>
+id: LAM/3/13
+next:
+  id: LAM/3/14
+  number: '14'
+previous:
+  id: LAM/3/12
+  number: '12'
+reference: 'Lamentations 3:13'

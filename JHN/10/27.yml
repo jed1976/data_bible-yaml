@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JHN 10:27"
+  class="v">27</span><span class="wj">My sheep hear my voice, and I know them,
+  and they follow me:</span> </p>
+id: JHN/10/27
+next:
+  id: JHN/10/28
+  number: '28'
+previous:
+  id: JHN/10/26
+  number: '26'
+reference: 'John 10:27'

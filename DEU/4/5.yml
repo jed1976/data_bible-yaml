@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 4:5"
+  class="v">5</span>Behold, I have taught you statutes and judgments, even as
+  the <span class="nd">LORD</span> my God commanded me, that ye should do so in
+  the land whither ye go to possess it. </p>
+id: DEU/4/5
+next:
+  id: DEU/4/6
+  number: '6'
+previous:
+  id: DEU/4/4
+  number: '4'
+reference: 'Deuteronomy 4:5'

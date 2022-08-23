@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 10:5" class="v">5</span>And
+  when his armourbearer saw that Saul was dead, he fell likewise on the sword,
+  and died. </p>
+id: 1CH/10/5
+next:
+  id: 1CH/10/6
+  number: '6'
+previous:
+  id: 1CH/10/4
+  number: '4'
+reference: '1 Chronicles 10:5'

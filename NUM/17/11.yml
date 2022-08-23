@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 17:11"
+  class="v">11</span>And Moses did <span class="add">so:</span> as the <span
+  class="nd">LORD</span> commanded him, so did he. </p>
+id: NUM/17/11
+next:
+  id: NUM/17/12
+  number: '12'
+previous:
+  id: NUM/17/10
+  number: '10'
+reference: 'Numbers 17:11'

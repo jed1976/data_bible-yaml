@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">A Psalm of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 82:1" class="v">1</span>God standeth in the congregation of the
+  mighty; he judgeth among the gods.</p>
+id: PSA/82/1
+next:
+  id: PSA/82/2
+  number: '2'
+previous:
+  id: PSA/81/16
+  number: '16'
+reference: 'Psalms 82:1'

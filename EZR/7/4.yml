@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZR 7:4" class="v">4</span>The
+  son of Zerahiah, the son of Uzzi, the son of Bukki, </p>
+id: EZR/7/4
+next:
+  id: EZR/7/5
+  number: '5'
+previous:
+  id: EZR/7/3
+  number: '3'
+reference: 'Ezra 7:4'

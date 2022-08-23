@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 107:9" class="v">9</span>For
+  he satisfieth the longing soul, and filleth the hungry soul with goodness.</p>
+id: PSA/107/9
+next:
+  id: PSA/107/10
+  number: '10'
+previous:
+  id: PSA/107/8
+  number: '8'
+reference: 'Psalms 107:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 5:5" class="v">5</span><span
+  class="wj">Blessed <span class="add">are</span> the meek: for they shall
+  inherit the earth.</span> </p>
+id: MAT/5/5
+next:
+  id: MAT/5/6
+  number: '6'
+previous:
+  id: MAT/5/4
+  number: '4'
+reference: 'Matthew 5:5'

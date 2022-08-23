@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 89:23"
+  class="v">23</span>And I will beat down his foes before his face, and plague
+  them that hate him.</p>
+id: PSA/89/23
+next:
+  id: PSA/89/24
+  number: '24'
+previous:
+  id: PSA/89/22
+  number: '22'
+reference: 'Psalms 89:23'

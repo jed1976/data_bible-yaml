@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ACT 3:12" class="v">12</span>¶
+  And when Peter saw <span class="add">it</span>, he answered unto the people,
+  Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as
+  though by our own power or holiness we had made this man to walk? </p>
+id: ACT/3/12
+next:
+  id: ACT/3/13
+  number: '13'
+previous:
+  id: ACT/3/11
+  number: '11'
+reference: 'Acts 3:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NUM 2:17" class="v">17</span>¶
+  Then the tabernacle of the congregation shall set forward with the camp of the
+  Levites in the midst of the camp: as they encamp, so shall they set forward,
+  every man in his place by their standards.</p>
+id: NUM/2/17
+next:
+  id: NUM/2/18
+  number: '18'
+previous:
+  id: NUM/2/16
+  number: '16'
+reference: 'Numbers 2:17'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 16:9" class="v">9</span>And a
+  vision appeared to Paul in the night; There stood a man of Macedonia, and
+  prayed him, saying, Come over into Macedonia, and help us. </p>
+id: ACT/16/9
+next:
+  id: ACT/16/10
+  number: '10'
+previous:
+  id: ACT/16/8
+  number: '8'
+reference: 'Acts 16:9'

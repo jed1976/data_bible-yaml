@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 11:22"
+  class="v">22</span>And they possessed all the coasts of the Amorites, from
+  Arnon even unto Jabbok, and from the wilderness even unto Jordan. </p>
+id: JDG/11/22
+next:
+  id: JDG/11/23
+  number: '23'
+previous:
+  id: JDG/11/21
+  number: '21'
+reference: 'Judges 11:22'

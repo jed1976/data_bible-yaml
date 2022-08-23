@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DEU 1:24" class="v">24</span>And
+  they turned and went up into the mountain, and came unto the valley of Eshcol,
+  and searched it out. </p>
+id: DEU/1/24
+next:
+  id: DEU/1/25
+  number: '25'
+previous:
+  id: DEU/1/23
+  number: '23'
+reference: 'Deuteronomy 1:24'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 6:21" class="v">21</span>¶
+  And the sons of Izhar; Korah, and Nepheg, and Zichri. </p>
+id: EXO/6/21
+next:
+  id: EXO/6/22
+  number: '22'
+previous:
+  id: EXO/6/20
+  number: '20'
+reference: 'Exodus 6:21'

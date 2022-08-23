@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 85:2" class="v">2</span>Thou
+  hast forgiven the iniquity of thy people, thou hast covered all their sin.
+  Selah.</p>
+id: PSA/85/2
+next:
+  id: PSA/85/3
+  number: '3'
+previous:
+  id: PSA/85/1
+  number: '1'
+reference: 'Psalms 85:2'

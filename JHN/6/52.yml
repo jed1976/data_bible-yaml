@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="JHN 6:52" class="v">52</span>The
+  Jews therefore strove among themselves, saying, How can this man give us <span
+  class="add">his</span> flesh to eat? </p>
+id: JHN/6/52
+next:
+  id: JHN/6/53
+  number: '53'
+previous:
+  id: JHN/6/51
+  number: '51'
+reference: 'John 6:52'

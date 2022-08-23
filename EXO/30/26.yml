@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 30:26"
+  class="v">26</span>And thou shalt anoint the tabernacle of the congregation
+  therewith, and the ark of the testimony, </p>
+id: EXO/30/26
+next:
+  id: EXO/30/27
+  number: '27'
+previous:
+  id: EXO/30/25
+  number: '25'
+reference: 'Exodus 30:26'

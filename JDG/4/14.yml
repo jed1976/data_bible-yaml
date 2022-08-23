@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JDG 4:14" class="v">14</span>And
+  Deborah said unto Barak, Up; for this <span class="add">is</span> the day in
+  which the <span class="nd">LORD</span> hath delivered Sisera into thine hand:
+  is not the <span class="nd">LORD</span> gone out before thee? So Barak went
+  down from mount Tabor, and ten thousand men after him. </p>
+id: JDG/4/14
+next:
+  id: JDG/4/15
+  number: '15'
+previous:
+  id: JDG/4/13
+  number: '13'
+reference: 'Judges 4:14'

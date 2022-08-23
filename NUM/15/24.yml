@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 15:24"
+  class="v">24</span>Then it shall be, if <span class="add">ought</span> be
+  committed by ignorance without the knowledge of the congregation, that all the
+  congregation shall offer one young bullock for a burnt offering, for a sweet
+  savour unto the <span class="nd">LORD</span>, with his meat offering, and his
+  drink offering, according to the manner, and one kid of the goats for a sin
+  offering. </p>
+id: NUM/15/24
+next:
+  id: NUM/15/25
+  number: '25'
+previous:
+  id: NUM/15/23
+  number: '23'
+reference: 'Numbers 15:24'

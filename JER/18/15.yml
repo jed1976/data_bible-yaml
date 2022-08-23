@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 18:15"
+  class="v">15</span>Because my people hath forgotten me, they have burned
+  incense to vanity, and they have caused them to stumble in their ways <span
+  class="add">from</span> the ancient paths, to walk in paths, <span
+  class="add">in</span> a way not cast up; </p>
+id: JER/18/15
+next:
+  id: JER/18/16
+  number: '16'
+previous:
+  id: JER/18/14
+  number: '14'
+reference: 'Jeremiah 18:15'

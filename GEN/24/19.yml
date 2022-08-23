@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="GEN 24:19"
+  class="v">19</span>And when she had done giving him drink, she said, I will
+  draw <span class="add">water</span> for thy camels also, until they have done
+  drinking. </p>
+id: GEN/24/19
+next:
+  id: GEN/24/20
+  number: '20'
+previous:
+  id: GEN/24/18
+  number: '18'
+reference: 'Genesis 24:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 66:21"
+  class="v">21</span>And I will also take of them for priests <span
+  class="add">and</span> for Levites, saith the <span class="nd">LORD</span>.
+  </p>
+id: ISA/66/21
+next:
+  id: ISA/66/22
+  number: '22'
+previous:
+  id: ISA/66/20
+  number: '20'
+reference: 'Isaiah 66:21'

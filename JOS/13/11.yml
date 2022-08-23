@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 13:11"
+  class="v">11</span>And Gilead, and the border of the Geshurites and
+  Maachathites, and all mount Hermon, and all Bashan unto Salcah; </p>
+id: JOS/13/11
+next:
+  id: JOS/13/12
+  number: '12'
+previous:
+  id: JOS/13/10
+  number: '10'
+reference: 'Joshua 13:11'

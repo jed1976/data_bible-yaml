@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 19:20" class="v">20</span>My
+  bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my
+  teeth. </p>
+id: JOB/19/20
+next:
+  id: JOB/19/21
+  number: '21'
+previous:
+  id: JOB/19/19
+  number: '19'
+reference: 'Job 19:20'

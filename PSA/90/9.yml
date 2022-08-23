@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 90:9" class="v">9</span>For
+  all our days are passed away in thy wrath: we spend our years as a tale <span
+  class="add">that is told</span>.</p>
+id: PSA/90/9
+next:
+  id: PSA/90/10
+  number: '10'
+previous:
+  id: PSA/90/8
+  number: '8'
+reference: 'Psalms 90:9'

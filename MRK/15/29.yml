@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MRK 15:29"
+  class="v">29</span>And they that passed by railed on him, wagging their heads,
+  and saying, Ah, thou that destroyest the temple, and buildest <span
+  class="add">it</span> in three days, </p>
+id: MRK/15/29
+next:
+  id: MRK/15/30
+  number: '30'
+previous:
+  id: MRK/15/28
+  number: '28'
+reference: 'Mark 15:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LAM 5:20"
+  class="v">20</span>Wherefore dost thou forget us for ever, <span
+  class="add">and</span> forsake us so long time? </p>
+id: LAM/5/20
+next:
+  id: LAM/5/21
+  number: '21'
+previous:
+  id: LAM/5/19
+  number: '19'
+reference: 'Lamentations 5:20'

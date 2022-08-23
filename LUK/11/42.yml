@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="LUK 11:42"
+  class="v">42</span><span class="wj">But woe unto you, Pharisees! for ye tithe
+  mint and rue and all manner of herbs, and pass over judgment and the love of
+  God: these ought ye to have done, and not to leave the other undone.</span>
+  </p>
+id: LUK/11/42
+next:
+  id: LUK/11/43
+  number: '43'
+previous:
+  id: LUK/11/41
+  number: '41'
+reference: 'Luke 11:42'

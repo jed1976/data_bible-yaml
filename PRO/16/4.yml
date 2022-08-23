@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 16:4" class="v">4</span>The
+  <span class="nd">LORD</span> hath made all <span class="add">things</span> for
+  himself: yea, even the wicked for the day of evil. </p>
+id: PRO/16/4
+next:
+  id: PRO/16/5
+  number: '5'
+previous:
+  id: PRO/16/3
+  number: '3'
+reference: 'Proverbs 16:4'

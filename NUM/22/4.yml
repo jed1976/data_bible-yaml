@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 22:4" class="v">4</span>And
+  Moab said unto the elders of Midian, Now shall this company lick up all <span
+  class="add">that are</span> round about us, as the ox licketh up the grass of
+  the field. And Balak the son of Zippor <span class="add">was</span> king of
+  the Moabites at that time. </p>
+id: NUM/22/4
+next:
+  id: NUM/22/5
+  number: '5'
+previous:
+  id: NUM/22/3
+  number: '3'
+reference: 'Numbers 22:4'

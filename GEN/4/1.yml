@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 4:1" class="v">1</span>And
+  Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have
+  gotten a man from the <span class="nd">LORD</span>. </p>
+id: GEN/4/1
+next:
+  id: GEN/4/2
+  number: '2'
+previous:
+  id: GEN/3/24
+  number: '24'
+reference: 'Genesis 4:1'

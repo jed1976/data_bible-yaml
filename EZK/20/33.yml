@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EZK 20:33" class="v">33</span>¶
+  <span class="add">As</span> I live, saith the Lord <span
+  class="nd">GOD</span>, surely with a mighty hand, and with a stretched out
+  arm, and with fury poured out, will I rule over you: </p>
+id: EZK/20/33
+next:
+  id: EZK/20/34
+  number: '34'
+previous:
+  id: EZK/20/32
+  number: '32'
+reference: 'Ezekiel 20:33'

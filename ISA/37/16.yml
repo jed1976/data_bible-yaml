@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 37:16" class="v">16</span>O
+  <span class="nd">LORD</span> of hosts, God of Israel, that dwellest <span
+  class="add">between</span> the cherubims, thou <span class="add">art</span>
+  the God, <span class="add">even</span> thou alone, of all the kingdoms of the
+  earth: thou hast made heaven and earth. </p>
+id: ISA/37/16
+next:
+  id: ISA/37/17
+  number: '17'
+previous:
+  id: ISA/37/15
+  number: '15'
+reference: 'Isaiah 37:16'

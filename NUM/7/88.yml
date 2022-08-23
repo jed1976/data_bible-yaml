@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="88" data-sid="NUM 7:88" class="v">88</span>And
+  all the oxen for the sacrifice of the peace offerings <span
+  class="add">were</span> twenty and four bullocks, the rams sixty, the he goats
+  sixty, the lambs of the first year sixty. This <span class="add">was</span>
+  the dedication of the altar, after that it was anointed. </p>
+id: NUM/7/88
+next:
+  id: NUM/7/89
+  number: '89'
+previous:
+  id: NUM/7/87
+  number: '87'
+reference: 'Numbers 7:88'

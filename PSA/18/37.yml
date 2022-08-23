@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="37" data-sid="PSA 18:37" class="v">37</span>I
+  have pursued mine enemies, and overtaken them: neither did I turn again till
+  they were consumed.</p>
+id: PSA/18/37
+next:
+  id: PSA/18/38
+  number: '38'
+previous:
+  id: PSA/18/36
+  number: '36'
+reference: 'Psalms 18:37'

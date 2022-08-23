@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 86:13"
+  class="v">13</span>For great <span class="add">is</span> thy mercy toward me:
+  and thou hast delivered my soul from the lowest hell.</p>
+id: PSA/86/13
+next:
+  id: PSA/86/14
+  number: '14'
+previous:
+  id: PSA/86/12
+  number: '12'
+reference: 'Psalms 86:13'

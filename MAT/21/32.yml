@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="MAT 21:32"
+  class="v">32</span><span class="wj">For John came unto you in the way of
+  righteousness, and ye believed him not: but the publicans and the harlots
+  believed him: and ye, when ye had seen <span class="add">it</span>, repented
+  not afterward, that ye might believe him.</span></p>
+id: MAT/21/32
+next:
+  id: MAT/21/33
+  number: '33'
+previous:
+  id: MAT/21/31
+  number: '31'
+reference: 'Matthew 21:32'

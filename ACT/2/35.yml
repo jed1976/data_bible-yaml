@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 2:35"
+  class="v">35</span>Until I make thy foes thy footstool. </p>
+id: ACT/2/35
+next:
+  id: ACT/2/36
+  number: '36'
+previous:
+  id: ACT/2/34
+  number: '34'
+reference: 'Acts 2:35'

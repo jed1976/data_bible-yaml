@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MRK 9:13"
+  class="v">13</span><span class="wj">But I say unto you, That Elias is indeed
+  come, and they have done unto him whatsoever they listed, as it is written of
+  him.</span></p>
+id: MRK/9/13
+next:
+  id: MRK/9/14
+  number: '14'
+previous:
+  id: MRK/9/12
+  number: '12'
+reference: 'Mark 9:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 14:17"
+  class="v">17</span><span class="wj">And sent his servant at supper time to say
+  to them that were bidden, Come; for all things are now ready.</span> </p>
+id: LUK/14/17
+next:
+  id: LUK/14/18
+  number: '18'
+previous:
+  id: LUK/14/16
+  number: '16'
+reference: 'Luke 14:17'

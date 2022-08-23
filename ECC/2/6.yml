@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 2:6" class="v">6</span>I made
+  me pools of water, to water therewith the wood that bringeth forth trees: </p>
+id: ECC/2/6
+next:
+  id: ECC/2/7
+  number: '7'
+previous:
+  id: ECC/2/5
+  number: '5'
+reference: 'Ecclesiastes 2:6'

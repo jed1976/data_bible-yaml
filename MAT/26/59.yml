@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="MAT 26:59"
+  class="v">59</span>Now the chief priests, and elders, and all the council,
+  sought false witness against Jesus, to put him to death; </p>
+id: MAT/26/59
+next:
+  id: MAT/26/60
+  number: '60'
+previous:
+  id: MAT/26/58
+  number: '58'
+reference: 'Matthew 26:59'

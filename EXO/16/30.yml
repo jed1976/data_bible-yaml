@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 16:30" class="v">30</span>So
+  the people rested on the seventh day. </p>
+id: EXO/16/30
+next:
+  id: EXO/16/31
+  number: '31'
+previous:
+  id: EXO/16/29
+  number: '29'
+reference: 'Exodus 16:30'

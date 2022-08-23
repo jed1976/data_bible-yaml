@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NEH 9:13"
+  class="v">13</span>Thou camest down also upon mount Sinai, and spakest with
+  them from heaven, and gavest them right judgments, and true laws, good
+  statutes and commandments: </p>
+id: NEH/9/13
+next:
+  id: NEH/9/14
+  number: '14'
+previous:
+  id: NEH/9/12
+  number: '12'
+reference: 'Nehemiah 9:13'

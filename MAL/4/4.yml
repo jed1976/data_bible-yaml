@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAL 4:4" class="v">4</span>¶
+  Remember ye the law of Moses my servant, which I commanded unto him in Horeb
+  for all Israel, <span class="add">with</span> the statutes and judgments.</p>
+id: MAL/4/4
+next:
+  id: MAL/4/5
+  number: '5'
+previous:
+  id: MAL/4/3
+  number: '3'
+reference: 'Malachi 4:4'

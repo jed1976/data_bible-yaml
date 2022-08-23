@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="2KI 2:25" class="v">25</span>And
+  he went from thence to mount Carmel, and from thence he returned to
+  Samaria.</p>
+id: 2KI/2/25
+next:
+  id: 2KI/3/1
+  number: '1'
+previous:
+  id: 2KI/2/24
+  number: '24'
+reference: '2 Kings 2:25'

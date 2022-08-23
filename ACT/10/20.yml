@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 10:20"
+  class="v">20</span>Arise therefore, and get thee down, and go with them,
+  doubting nothing: for I have sent them. </p>
+id: ACT/10/20
+next:
+  id: ACT/10/21
+  number: '21'
+previous:
+  id: ACT/10/19
+  number: '19'
+reference: 'Acts 10:20'

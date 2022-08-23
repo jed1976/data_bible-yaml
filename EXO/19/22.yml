@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 19:22"
+  class="v">22</span>And let the priests also, which come near to the <span
+  class="nd">LORD</span>, sanctify themselves, lest the <span
+  class="nd">LORD</span> break forth upon them. </p>
+id: EXO/19/22
+next:
+  id: EXO/19/23
+  number: '23'
+previous:
+  id: EXO/19/21
+  number: '21'
+reference: 'Exodus 19:22'

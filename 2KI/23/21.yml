@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 23:21" class="v">21</span>¶
+  And the king commanded all the people, saying, Keep the passover unto the
+  <span class="nd">LORD</span> your God, as <span class="add">it is</span>
+  written in the book of this covenant. </p>
+id: 2KI/23/21
+next:
+  id: 2KI/23/22
+  number: '22'
+previous:
+  id: 2KI/23/20
+  number: '20'
+reference: '2 Kings 23:21'

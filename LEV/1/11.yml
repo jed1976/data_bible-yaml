@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 1:11" class="v">11</span>And
+  he shall kill it on the side of the altar northward before the <span
+  class="nd">LORD</span>: and the priests, Aaron’s sons, shall sprinkle his
+  blood round about upon the altar. </p>
+id: LEV/1/11
+next:
+  id: LEV/1/12
+  number: '12'
+previous:
+  id: LEV/1/10
+  number: '10'
+reference: 'Leviticus 1:11'

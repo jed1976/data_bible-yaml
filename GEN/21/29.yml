@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 21:29"
+  class="v">29</span>And Abimelech said unto Abraham, What <span
+  class="add">mean</span> these seven ewe lambs which thou hast set by
+  themselves? </p>
+id: GEN/21/29
+next:
+  id: GEN/21/30
+  number: '30'
+previous:
+  id: GEN/21/28
+  number: '28'
+reference: 'Genesis 21:29'

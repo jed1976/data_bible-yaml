@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2CH 2:15" class="v">15</span>Now
+  therefore the wheat, and the barley, the oil, and the wine, which my lord hath
+  spoken of, let him send unto his servants: </p>
+id: 2CH/2/15
+next:
+  id: 2CH/2/16
+  number: '16'
+previous:
+  id: 2CH/2/14
+  number: '14'
+reference: '2 Chronicles 2:15'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="MAT 10:41"
+  class="v">41</span><span class="wj">He that receiveth a prophet in the name of
+  a prophet shall receive a prophet’s reward; and he that receiveth a righteous
+  man in the name of a righteous man shall receive a righteous man’s
+  reward.</span> </p>
+id: MAT/10/41
+next:
+  id: MAT/10/42
+  number: '42'
+previous:
+  id: MAT/10/40
+  number: '40'
+reference: 'Matthew 10:41'

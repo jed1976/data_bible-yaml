@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 38:7" class="v">7</span>And
+  this <span class="add">shall be</span> a sign unto thee from the <span
+  class="nd">LORD</span>, that the <span class="nd">LORD</span> will do this
+  thing that he hath spoken; </p>
+id: ISA/38/7
+next:
+  id: ISA/38/8
+  number: '8'
+previous:
+  id: ISA/38/6
+  number: '6'
+reference: 'Isaiah 38:7'

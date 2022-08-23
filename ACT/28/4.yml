@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 28:4" class="v">4</span>And
+  when the barbarians saw the <span class="add">venomous</span> beast hang on
+  his hand, they said among themselves, No doubt this man is a murderer, whom,
+  though he hath escaped the sea, yet vengeance suffereth not to live. </p>
+id: ACT/28/4
+next:
+  id: ACT/28/5
+  number: '5'
+previous:
+  id: ACT/28/3
+  number: '3'
+reference: 'Acts 28:4'

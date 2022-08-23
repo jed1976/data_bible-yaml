@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1KI 17:24" class="v">24</span>¶
+  And the woman said to Elijah, Now by this I know that thou <span
+  class="add">art</span> a man of God, <span class="add">and</span> that the
+  word of the <span class="nd">LORD</span> in thy mouth <span
+  class="add">is</span> truth.</p>
+id: 1KI/17/24
+next:
+  id: 1KI/18/1
+  number: '1'
+previous:
+  id: 1KI/17/23
+  number: '23'
+reference: '1 Kings 17:24'

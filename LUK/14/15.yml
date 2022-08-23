@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LUK 14:15" class="v">15</span>¶
+  And when one of them that sat at meat with him heard these things, he said
+  unto him, Blessed <span class="add">is</span> he that shall eat bread in the
+  kingdom of God. </p>
+id: LUK/14/15
+next:
+  id: LUK/14/16
+  number: '16'
+previous:
+  id: LUK/14/14
+  number: '14'
+reference: 'Luke 14:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 12:8" class="v">8</span>Or he
+  that exhorteth, on exhortation: he that giveth, <span class="add">let him do
+  it</span> with simplicity; he that ruleth, with diligence; he that sheweth
+  mercy, with cheerfulness.</p>
+id: ROM/12/8
+next:
+  id: ROM/12/9
+  number: '9'
+previous:
+  id: ROM/12/7
+  number: '7'
+reference: 'Romans 12:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 10:1" class="v">1</span>And
+  when the queen of Sheba heard of the fame of Solomon concerning the name of
+  the <span class="nd">LORD</span>, she came to prove him with hard questions.
+  </p>
+id: 1KI/10/1
+next:
+  id: 1KI/10/2
+  number: '2'
+previous:
+  id: 1KI/9/28
+  number: '28'
+reference: '1 Kings 10:1'

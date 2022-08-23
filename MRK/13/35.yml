@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MRK 13:35"
+  class="v">35</span><span class="wj">Watch ye therefore: for ye know not when
+  the master of the house cometh, at even, or at midnight, or at the
+  cockcrowing, or in the morning:</span> </p>
+id: MRK/13/35
+next:
+  id: MRK/13/36
+  number: '36'
+previous:
+  id: MRK/13/34
+  number: '34'
+reference: 'Mark 13:35'

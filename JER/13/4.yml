@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 13:4" class="v">4</span>Take
+  the girdle that thou hast got, which <span class="add">is</span> upon thy
+  loins, and arise, go to Euphrates, and hide it there in a hole of the rock.
+  </p>
+id: JER/13/4
+next:
+  id: JER/13/5
+  number: '5'
+previous:
+  id: JER/13/3
+  number: '3'
+reference: 'Jeremiah 13:4'

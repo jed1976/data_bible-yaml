@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 10:23" class="v">23</span>¶
+  O <span class="nd">LORD</span>, I know that the way of man <span
+  class="add">is</span> not in himself: <span class="add">it is</span> not in
+  man that walketh to direct his steps. </p>
+id: JER/10/23
+next:
+  id: JER/10/24
+  number: '24'
+previous:
+  id: JER/10/22
+  number: '22'
+reference: 'Jeremiah 10:23'

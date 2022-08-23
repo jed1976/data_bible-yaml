@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 8:9" class="v">9</span>¶
+  Joshua therefore sent them forth: and they went to lie in ambush, and abode
+  between Beth-el and Ai, on the west side of Ai: but Joshua lodged that night
+  among the people. </p>
+id: JOS/8/9
+next:
+  id: JOS/8/10
+  number: '10'
+previous:
+  id: JOS/8/8
+  number: '8'
+reference: 'Joshua 8:9'

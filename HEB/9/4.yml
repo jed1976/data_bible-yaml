@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HEB 9:4" class="v">4</span>Which
+  had the golden censer, and the ark of the covenant overlaid round about with
+  gold, wherein <span class="add">was</span> the golden pot that had manna, and
+  Aaron’s rod that budded, and the tables of the covenant; </p>
+id: HEB/9/4
+next:
+  id: HEB/9/5
+  number: '5'
+previous:
+  id: HEB/9/3
+  number: '3'
+reference: 'Hebrews 9:4'

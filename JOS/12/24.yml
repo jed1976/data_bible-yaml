@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 12:24"
+  class="v">24</span>The king of Tirzah, one: all the kings thirty and one.</p>
+id: JOS/12/24
+next:
+  id: JOS/13/1
+  number: '1'
+previous:
+  id: JOS/12/23
+  number: '23'
+reference: 'Joshua 12:24'

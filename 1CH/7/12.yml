@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CH 7:12"
+  class="v">12</span>Shuppim also, and Huppim, the children of Ir, <span
+  class="add">and</span> Hushim, the sons of Aher.</p>
+id: 1CH/7/12
+next:
+  id: 1CH/7/13
+  number: '13'
+previous:
+  id: 1CH/7/11
+  number: '11'
+reference: '1 Chronicles 7:12'

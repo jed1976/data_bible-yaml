@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="62" data-sid="GEN 24:62"
+  class="v">62</span>And Isaac came from the way of the well Lahai-roi; for he
+  dwelt in the south country. </p>
+id: GEN/24/62
+next:
+  id: GEN/24/63
+  number: '63'
+previous:
+  id: GEN/24/61
+  number: '61'
+reference: 'Genesis 24:62'

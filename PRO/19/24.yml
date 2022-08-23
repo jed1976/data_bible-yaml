@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 19:24" class="v">24</span>A
+  slothful <span class="add">man</span> hideth his hand in <span
+  class="add">his</span> bosom, and will not so much as bring it to his mouth
+  again. </p>
+id: PRO/19/24
+next:
+  id: PRO/19/25
+  number: '25'
+previous:
+  id: PRO/19/23
+  number: '23'
+reference: 'Proverbs 19:24'

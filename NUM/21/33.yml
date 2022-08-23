@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="NUM 21:33" class="v">33</span>¶
+  And they turned and went up by the way of Bashan: and Og the king of Bashan
+  went out against them, he, and all his people, to the battle at Edrei. </p>
+id: NUM/21/33
+next:
+  id: NUM/21/34
+  number: '34'
+previous:
+  id: NUM/21/32
+  number: '32'
+reference: 'Numbers 21:33'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 40:6" class="v">6</span>¶
+  Then answered the <span class="nd">LORD</span> unto Job out of the whirlwind,
+  and said, </p>
+id: JOB/40/6
+next:
+  id: JOB/40/7
+  number: '7'
+previous:
+  id: JOB/40/5
+  number: '5'
+reference: 'Job 40:6'

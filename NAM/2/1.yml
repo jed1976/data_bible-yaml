@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NAM 2:1" class="v">1</span>He
+  that dasheth in pieces is come up before thy face: keep the munition, watch
+  the way, make <span class="add">thy</span> loins strong, fortify <span
+  class="add">thy</span> power mightily. </p>
+id: NAM/2/1
+next:
+  id: NAM/2/2
+  number: '2'
+previous:
+  id: NAM/1/15
+  number: '15'
+reference: 'Nahum 2:1'

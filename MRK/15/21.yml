@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="MRK 15:21"
+  class="v">21</span>And they compel one Simon a Cyrenian, who passed by, coming
+  out of the country, the father of Alexander and Rufus, to bear his cross. </p>
+id: MRK/15/21
+next:
+  id: MRK/15/22
+  number: '22'
+previous:
+  id: MRK/15/20
+  number: '20'
+reference: 'Mark 15:21'

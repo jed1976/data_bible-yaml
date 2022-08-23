@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JHN 8:24"
+  class="v">24</span><span class="wj">I said therefore unto you, that ye shall
+  die in your sins: for if ye believe not that I am <span class="add">he</span>,
+  ye shall die in your sins.</span> </p>
+id: JHN/8/24
+next:
+  id: JHN/8/25
+  number: '25'
+previous:
+  id: JHN/8/23
+  number: '23'
+reference: 'John 8:24'

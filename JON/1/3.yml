@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JON 1:3" class="v">3</span>But
+  Jonah rose up to flee unto Tarshish from the presence of the <span
+  class="nd">LORD</span>, and went down to Joppa; and he found a ship going to
+  Tarshish: so he paid the fare thereof, and went down into it, to go with them
+  unto Tarshish from the presence of the <span class="nd">LORD</span>.</p>
+id: JON/1/3
+next:
+  id: JON/1/4
+  number: '4'
+previous:
+  id: JON/1/2
+  number: '2'
+reference: 'Jonah 1:3'

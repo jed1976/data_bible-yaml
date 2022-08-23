@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 6:19"
+  class="v">19</span><span class="wj">¶ Lay not up for yourselves treasures upon
+  earth, where moth and rust doth corrupt, and where thieves break through and
+  steal:</span> </p>
+id: MAT/6/19
+next:
+  id: MAT/6/20
+  number: '20'
+previous:
+  id: MAT/6/18
+  number: '18'
+reference: 'Matthew 6:19'

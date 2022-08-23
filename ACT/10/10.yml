@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 10:10"
+  class="v">10</span>And he became very hungry, and would have eaten: but while
+  they made ready, he fell into a trance, </p>
+id: ACT/10/10
+next:
+  id: ACT/10/11
+  number: '11'
+previous:
+  id: ACT/10/9
+  number: '9'
+reference: 'Acts 10:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 9:16" class="v">16</span>So
+  then <span class="add">it is</span> not of him that willeth, nor of him that
+  runneth, but of God that sheweth mercy. </p>
+id: ROM/9/16
+next:
+  id: ROM/9/17
+  number: '17'
+previous:
+  id: ROM/9/15
+  number: '15'
+reference: 'Romans 9:16'

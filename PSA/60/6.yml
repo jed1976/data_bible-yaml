@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 60:6"
+  class="v">6</span>God hath spoken in his holiness; I will rejoice, I will
+  divide Shechem, and mete out the valley of Succoth.</p>
+id: PSA/60/6
+next:
+  id: PSA/60/7
+  number: '7'
+previous:
+  id: PSA/60/5
+  number: '5'
+reference: 'Psalms 60:6'

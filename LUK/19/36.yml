@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 19:36"
+  class="v">36</span>And as he went, they spread their clothes in the way. </p>
+id: LUK/19/36
+next:
+  id: LUK/19/37
+  number: '37'
+previous:
+  id: LUK/19/35
+  number: '35'
+reference: 'Luke 19:36'

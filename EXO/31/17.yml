@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 31:17" class="v">17</span>It
+  <span class="add">is</span> a sign between me and the children of Israel for
+  ever: for <span class="add">in</span> six days the <span
+  class="nd">LORD</span> made heaven and earth, and on the seventh day he
+  rested, and was refreshed.</p>
+id: EXO/31/17
+next:
+  id: EXO/31/18
+  number: '18'
+previous:
+  id: EXO/31/16
+  number: '16'
+reference: 'Exodus 31:17'

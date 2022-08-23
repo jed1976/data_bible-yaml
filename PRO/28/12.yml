@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="PRO 28:12"
+  class="v">12</span>When righteous <span class="add">men</span> do rejoice,
+  <span class="add">there is</span> great glory: but when the wicked rise, a man
+  is hidden. </p>
+id: PRO/28/12
+next:
+  id: PRO/28/13
+  number: '13'
+previous:
+  id: PRO/28/11
+  number: '11'
+reference: 'Proverbs 28:12'

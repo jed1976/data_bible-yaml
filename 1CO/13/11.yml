@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CO 13:11"
+  class="v">11</span>When I was a child, I spake as a child, I understood as a
+  child, I thought as a child: but when I became a man, I put away childish
+  things. </p>
+id: 1CO/13/11
+next:
+  id: 1CO/13/12
+  number: '12'
+previous:
+  id: 1CO/13/10
+  number: '10'
+reference: '1 Corinthians 13:11'

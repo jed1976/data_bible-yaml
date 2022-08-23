@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LAM 5:11"
+  class="v">11</span>They ravished the women in Zion, <span
+  class="add">and</span> the maids in the cities of Judah. </p>
+id: LAM/5/11
+next:
+  id: LAM/5/12
+  number: '12'
+previous:
+  id: LAM/5/10
+  number: '10'
+reference: 'Lamentations 5:11'

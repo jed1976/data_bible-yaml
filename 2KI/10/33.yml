@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2KI 10:33"
+  class="v">33</span>From Jordan eastward, all the land of Gilead, the Gadites,
+  and the Reubenites, and the Manassites, from Aroer, which <span
+  class="add">is</span> by the river Arnon, even Gilead and Bashan. </p>
+id: 2KI/10/33
+next:
+  id: 2KI/10/34
+  number: '34'
+previous:
+  id: 2KI/10/32
+  number: '32'
+reference: '2 Kings 10:33'

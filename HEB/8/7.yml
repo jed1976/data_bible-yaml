@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HEB 8:7" class="v">7</span>For if
+  that first <span class="add">covenant</span> had been faultless, then should
+  no place have been sought for the second. </p>
+id: HEB/8/7
+next:
+  id: HEB/8/8
+  number: '8'
+previous:
+  id: HEB/8/6
+  number: '6'
+reference: 'Hebrews 8:7'

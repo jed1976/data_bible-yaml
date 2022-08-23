@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 103:5" class="v">5</span>Who
+  satisfieth thy mouth with good <span class="add">things; so that</span> thy
+  youth is renewed like the eagle’s.</p>
+id: PSA/103/5
+next:
+  id: PSA/103/6
+  number: '6'
+previous:
+  id: PSA/103/4
+  number: '4'
+reference: 'Psalms 103:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 1:11"
+  class="v">11</span>Therefore they did set over them taskmasters to afflict
+  them with their burdens. And they built for Pharaoh treasure cities, Pithom
+  and Raamses. </p>
+id: EXO/1/11
+next:
+  id: EXO/1/12
+  number: '12'
+previous:
+  id: EXO/1/10
+  number: '10'
+reference: 'Exodus 1:11'

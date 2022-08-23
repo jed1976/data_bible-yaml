@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 30:6" class="v">6</span>And
+  Rachel said, God hath judged me, and hath also heard my voice, and hath given
+  me a son: therefore called she his name Dan. </p>
+id: GEN/30/6
+next:
+  id: GEN/30/7
+  number: '7'
+previous:
+  id: GEN/30/5
+  number: '5'
+reference: 'Genesis 30:6'

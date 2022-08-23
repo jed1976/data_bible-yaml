@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 41:4" class="v">4</span>I
+  said, <span class="nd">LORD</span>, be merciful unto me: heal my soul; for I
+  have sinned against thee.</p>
+id: PSA/41/4
+next:
+  id: PSA/41/5
+  number: '5'
+previous:
+  id: PSA/41/3
+  number: '3'
+reference: 'Psalms 41:4'

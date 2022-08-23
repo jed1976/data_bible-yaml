@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="LUK 11:49"
+  class="v">49</span><span class="wj">Therefore also said the wisdom of God, I
+  will send them prophets and apostles, and <span class="add">some</span> of
+  them they shall slay and persecute:</span> </p>
+id: LUK/11/49
+next:
+  id: LUK/11/50
+  number: '50'
+previous:
+  id: LUK/11/48
+  number: '48'
+reference: 'Luke 11:49'

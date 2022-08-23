@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 13:15"
+  class="v">15</span>And it came to pass, when Pharaoh would hardly let us go,
+  that the <span class="nd">LORD</span> slew all the firstborn in the land of
+  Egypt, both the firstborn of man, and the firstborn of beast: therefore I
+  sacrifice to the <span class="nd">LORD</span> all that openeth the matrix,
+  being males; but all the firstborn of my children I redeem. </p>
+id: EXO/13/15
+next:
+  id: EXO/13/16
+  number: '16'
+previous:
+  id: EXO/13/14
+  number: '14'
+reference: 'Exodus 13:15'

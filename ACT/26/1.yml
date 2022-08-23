@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 26:1" class="v">1</span>Then
+  Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul
+  stretched forth the hand, and answered for himself: </p>
+id: ACT/26/1
+next:
+  id: ACT/26/2
+  number: '2'
+previous:
+  id: ACT/25/27
+  number: '27'
+reference: 'Acts 26:1'

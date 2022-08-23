@@ -1,0 +1,13 @@
+content: >-
+  <p class="s1"><span class="tl">ב BETH.</span></p><p class="q1"><span
+  data-number="9" data-sid="PSA 119:9" class="v">9</span>Wherewithal shall a
+  young man cleanse his way? by taking heed <span class="add">thereto</span>
+  according to thy word.</p>
+id: PSA/119/9
+next:
+  id: PSA/119/10
+  number: '10'
+previous:
+  id: PSA/119/8
+  number: '8'
+reference: 'Psalms 119:9'

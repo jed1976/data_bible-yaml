@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 15:23" class="v">23</span>He
+  wandereth abroad for bread, <span class="add">saying</span>, Where <span
+  class="add">is it</span>? he knoweth that the day of darkness is ready at his
+  hand. </p>
+id: JOB/15/23
+next:
+  id: JOB/15/24
+  number: '24'
+previous:
+  id: JOB/15/22
+  number: '22'
+reference: 'Job 15:23'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NUM 15:30" class="v">30</span>¶
+  But the soul that doeth <span class="add">ought</span> presumptuously, <span
+  class="add">whether he be</span> born in the land, or a stranger, the same
+  reproacheth the <span class="nd">LORD</span>; and that soul shall be cut off
+  from among his people. </p>
+id: NUM/15/30
+next:
+  id: NUM/15/31
+  number: '31'
+previous:
+  id: NUM/15/29
+  number: '29'
+reference: 'Numbers 15:30'

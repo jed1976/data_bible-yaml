@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 124:6"
+  class="v">6</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span>, who hath not given us <span class="add">as</span> a
+  prey to their teeth.</p>
+id: PSA/124/6
+next:
+  id: PSA/124/7
+  number: '7'
+previous:
+  id: PSA/124/5
+  number: '5'
+reference: 'Psalms 124:6'

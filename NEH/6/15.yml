@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NEH 6:15" class="v">15</span>¶
+  So the wall was finished in the twenty and fifth <span class="add">day</span>
+  of <span class="add">the month</span> Elul, in fifty and two days. </p>
+id: NEH/6/15
+next:
+  id: NEH/6/16
+  number: '16'
+previous:
+  id: NEH/6/14
+  number: '14'
+reference: 'Nehemiah 6:15'

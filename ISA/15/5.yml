@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 15:5" class="v">5</span>My
+  heart shall cry out for Moab; his fugitives <span class="add">shall
+  flee</span> unto Zoar, an heifer of three years old: for by the mounting up of
+  Luhith with weeping shall they go it up; for in the way of Horonaim they shall
+  raise up a cry of destruction.</p>
+id: ISA/15/5
+next:
+  id: ISA/15/6
+  number: '6'
+previous:
+  id: ISA/15/4
+  number: '4'
+reference: 'Isaiah 15:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="NUM 3:47"
+  class="v">47</span>Thou shalt even take five shekels apiece by the poll, after
+  the shekel of the sanctuary shalt thou take <span class="add">them:</span>
+  (the shekel <span class="add">is</span> twenty gerahs:) </p>
+id: NUM/3/47
+next:
+  id: NUM/3/48
+  number: '48'
+previous:
+  id: NUM/3/46
+  number: '46'
+reference: 'Numbers 3:47'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 30:22" class="v">22</span>¶
+  And God remembered Rachel, and God hearkened to her, and opened her womb. </p>
+id: GEN/30/22
+next:
+  id: GEN/30/23
+  number: '23'
+previous:
+  id: GEN/30/21
+  number: '21'
+reference: 'Genesis 30:22'

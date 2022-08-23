@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 33:1"
+  class="v">1</span>Manasseh <span class="add">was</span> twelve years old when
+  he began to reign, and he reigned fifty and five years in Jerusalem: </p>
+id: 2CH/33/1
+next:
+  id: 2CH/33/2
+  number: '2'
+previous:
+  id: 2CH/32/33
+  number: '33'
+reference: '2 Chronicles 33:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="DEU 32:36"
+  class="v">36</span>For the <span class="nd">LORD</span> shall judge his
+  people, and repent himself for his servants, when he seeth that <span
+  class="add">their</span> power is gone, and <span class="add">there is</span>
+  none shut up, or left. </p>
+id: DEU/32/36
+next:
+  id: DEU/32/37
+  number: '37'
+previous:
+  id: DEU/32/35
+  number: '35'
+reference: 'Deuteronomy 32:36'

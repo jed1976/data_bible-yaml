@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 23:16" class="v">16</span>He
+  shall dwell with thee, <span class="add">even</span> among you, in that place
+  which he shall choose in one of thy gates, where it liketh him best: thou
+  shalt not oppress him.</p>
+id: DEU/23/16
+next:
+  id: DEU/23/17
+  number: '17'
+previous:
+  id: DEU/23/15
+  number: '15'
+reference: 'Deuteronomy 23:16'

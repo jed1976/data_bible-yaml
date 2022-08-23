@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 34:4" class="v">4</span>And
+  all the host of heaven shall be dissolved, and the heavens shall be rolled
+  together as a scroll: and all their host shall fall down, as the leaf falleth
+  off from the vine, and as a falling <span class="add">fig</span> from the fig
+  tree. </p>
+id: ISA/34/4
+next:
+  id: ISA/34/5
+  number: '5'
+previous:
+  id: ISA/34/3
+  number: '3'
+reference: 'Isaiah 34:4'

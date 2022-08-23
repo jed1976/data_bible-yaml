@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="NUM 26:51"
+  class="v">51</span>These <span class="add">were</span> the numbered of the
+  children of Israel, six hundred thousand and a thousand seven hundred and
+  thirty.</p>
+id: NUM/26/51
+next:
+  id: NUM/26/52
+  number: '52'
+previous:
+  id: NUM/26/50
+  number: '50'
+reference: 'Numbers 26:51'

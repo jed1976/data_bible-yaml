@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="RUT 4:5" class="v">5</span>Then
+  said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy
+  <span class="add">it</span> also of Ruth the Moabitess, the wife of the dead,
+  to raise up the name of the dead upon his inheritance.</p>
+id: RUT/4/5
+next:
+  id: RUT/4/6
+  number: '6'
+previous:
+  id: RUT/4/4
+  number: '4'
+reference: 'Ruth 4:5'

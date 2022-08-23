@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 24:15"
+  class="v">15</span>And have hope toward God, which they themselves also allow,
+  that there shall be a resurrection of the dead, both of the just and unjust.
+  </p>
+id: ACT/24/15
+next:
+  id: ACT/24/16
+  number: '16'
+previous:
+  id: ACT/24/14
+  number: '14'
+reference: 'Acts 24:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NEH 10:32"
+  class="v">32</span>Also we made ordinances for us, to charge ourselves yearly
+  with the third part of a shekel for the service of the house of our God; </p>
+id: NEH/10/32
+next:
+  id: NEH/10/33
+  number: '33'
+previous:
+  id: NEH/10/31
+  number: '31'
+reference: 'Nehemiah 10:32'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 24:5" class="v">5</span>The
+  earth also is defiled under the inhabitants thereof; because they have
+  transgressed the laws, changed the ordinance, broken the everlasting covenant.
+  </p>
+id: ISA/24/5
+next:
+  id: ISA/24/6
+  number: '6'
+previous:
+  id: ISA/24/4
+  number: '4'
+reference: 'Isaiah 24:5'

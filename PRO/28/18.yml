@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 28:18"
+  class="v">18</span>Whoso walketh uprightly shall be saved: but <span
+  class="add">he that is</span> perverse <span class="add">in his</span> ways
+  shall fall at once. </p>
+id: PRO/28/18
+next:
+  id: PRO/28/19
+  number: '19'
+previous:
+  id: PRO/28/17
+  number: '17'
+reference: 'Proverbs 28:18'

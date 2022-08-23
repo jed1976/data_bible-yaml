@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CO 10:12"
+  class="v">12</span>For we dare not make ourselves of the number, or compare
+  ourselves with some that commend themselves: but they measuring themselves by
+  themselves, and comparing themselves among themselves, are not wise. </p>
+id: 2CO/10/12
+next:
+  id: 2CO/10/13
+  number: '13'
+previous:
+  id: 2CO/10/11
+  number: '11'
+reference: '2 Corinthians 10:12'

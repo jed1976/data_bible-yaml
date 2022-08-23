@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 16:9" class="v">9</span>¶ And
+  Moses spake unto Aaron, Say unto all the congregation of the children of
+  Israel, Come near before the <span class="nd">LORD</span>: for he hath heard
+  your murmurings. </p>
+id: EXO/16/9
+next:
+  id: EXO/16/10
+  number: '10'
+previous:
+  id: EXO/16/8
+  number: '8'
+reference: 'Exodus 16:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 14:30" class="v">30</span>A
+  sound heart <span class="add">is</span> the life of the flesh: but envy the
+  rottenness of the bones. </p>
+id: PRO/14/30
+next:
+  id: PRO/14/31
+  number: '31'
+previous:
+  id: PRO/14/29
+  number: '29'
+reference: 'Proverbs 14:30'

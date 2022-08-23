@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 12:29"
+  class="v">29</span>The people therefore, that stood by, and heard <span
+  class="add">it</span>, said that it thundered: others said, An angel spake to
+  him. </p>
+id: JHN/12/29
+next:
+  id: JHN/12/30
+  number: '30'
+previous:
+  id: JHN/12/28
+  number: '28'
+reference: 'John 12:29'

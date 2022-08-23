@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOS 7:4" class="v">4</span>So
+  there went up thither of the people about three thousand men: and they fled
+  before the men of Ai. </p>
+id: JOS/7/4
+next:
+  id: JOS/7/5
+  number: '5'
+previous:
+  id: JOS/7/3
+  number: '3'
+reference: 'Joshua 7:4'

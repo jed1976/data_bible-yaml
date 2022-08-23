@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 6:29"
+  class="v">29</span>Jesus answered and said unto them, <span class="wj">This is
+  the work of God, that ye believe on him whom he hath sent.</span> </p>
+id: JHN/6/29
+next:
+  id: JHN/6/30
+  number: '30'
+previous:
+  id: JHN/6/28
+  number: '28'
+reference: 'John 6:29'

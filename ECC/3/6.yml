@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ECC 3:6" class="v">6</span>A time
+  to get, and a time to lose; a time to keep, and a time to cast away; </p>
+id: ECC/3/6
+next:
+  id: ECC/3/7
+  number: '7'
+previous:
+  id: ECC/3/5
+  number: '5'
+reference: 'Ecclesiastes 3:6'

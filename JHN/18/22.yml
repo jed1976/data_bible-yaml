@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 18:22"
+  class="v">22</span>And when he had thus spoken, one of the officers which
+  stood by struck Jesus with the palm of his hand, saying, Answerest thou the
+  high priest so? </p>
+id: JHN/18/22
+next:
+  id: JHN/18/23
+  number: '23'
+previous:
+  id: JHN/18/21
+  number: '21'
+reference: 'John 18:22'

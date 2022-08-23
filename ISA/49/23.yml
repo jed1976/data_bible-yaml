@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 49:23"
+  class="v">23</span>And kings shall be thy nursing fathers, and their queens
+  thy nursing mothers: they shall bow down to thee with <span
+  class="add">their</span> face toward the earth, and lick up the dust of thy
+  feet; and thou shalt know that I <span class="add">am</span> the <span
+  class="nd">LORD</span>: for they shall not be ashamed that wait for me.</p>
+id: ISA/49/23
+next:
+  id: ISA/49/24
+  number: '24'
+previous:
+  id: ISA/49/22
+  number: '22'
+reference: 'Isaiah 49:23'

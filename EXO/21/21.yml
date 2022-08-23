@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 21:21"
+  class="v">21</span>Notwithstanding, if he continue a day or two, he shall not
+  be punished: for he <span class="add">is</span> his money.</p>
+id: EXO/21/21
+next:
+  id: EXO/21/22
+  number: '22'
+previous:
+  id: EXO/21/20
+  number: '20'
+reference: 'Exodus 21:21'

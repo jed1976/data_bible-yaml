@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 25:8" class="v">8</span>Go
+  not forth hastily to strive, lest <span class="add">thou know not</span> what
+  to do in the end thereof, when thy neighbour hath put thee to shame. </p>
+id: PRO/25/8
+next:
+  id: PRO/25/9
+  number: '9'
+previous:
+  id: PRO/25/7
+  number: '7'
+reference: 'Proverbs 25:8'

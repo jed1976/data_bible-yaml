@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 34:25" class="v">25</span>¶
+  And it came to pass on the third day, when they were sore, that two of the
+  sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and
+  came upon the city boldly, and slew all the males. </p>
+id: GEN/34/25
+next:
+  id: GEN/34/26
+  number: '26'
+previous:
+  id: GEN/34/24
+  number: '24'
+reference: 'Genesis 34:25'

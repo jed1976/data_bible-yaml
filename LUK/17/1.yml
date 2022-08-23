@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 17:1" class="v">1</span>Then
+  said he unto the disciples, <span class="wj">It is impossible but that
+  offences will come: but woe <span class="add">unto him</span>, through whom
+  they come!</span> </p>
+id: LUK/17/1
+next:
+  id: LUK/17/2
+  number: '2'
+previous:
+  id: LUK/16/31
+  number: '31'
+reference: 'Luke 17:1'

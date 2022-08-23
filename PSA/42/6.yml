@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 42:6"
+  class="v">6</span>O my God, my soul is cast down within me: therefore will I
+  remember thee from the land of Jordan, and of the Hermonites, from the hill
+  Mizar.</p>
+id: PSA/42/6
+next:
+  id: PSA/42/7
+  number: '7'
+previous:
+  id: PSA/42/5
+  number: '5'
+reference: 'Psalms 42:6'

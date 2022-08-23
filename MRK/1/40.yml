@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MRK 1:40" class="v">40</span>And
+  there came a leper to him, beseeching him, and kneeling down to him, and
+  saying unto him, If thou wilt, thou canst make me clean. </p>
+id: MRK/1/40
+next:
+  id: MRK/1/41
+  number: '41'
+previous:
+  id: MRK/1/39
+  number: '39'
+reference: 'Mark 1:40'

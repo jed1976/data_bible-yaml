@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EST 2:18"
+  class="v">18</span>Then the king made a great feast unto all his princes and
+  his servants, <span class="add">even</span> Esther’s feast; and he made a
+  release to the provinces, and gave gifts, according to the state of the king.
+  </p>
+id: EST/2/18
+next:
+  id: EST/2/19
+  number: '19'
+previous:
+  id: EST/2/17
+  number: '17'
+reference: 'Esther 2:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HAG 2:6" class="v">6</span>For
+  thus saith the <span class="nd">LORD</span> of hosts; Yet once, it <span
+  class="add">is</span> a little while, and I will shake the heavens, and the
+  earth, and the sea, and the dry <span class="add">land;</span> </p>
+id: HAG/2/6
+next:
+  id: HAG/2/7
+  number: '7'
+previous:
+  id: HAG/2/5
+  number: '5'
+reference: 'Haggai 2:6'

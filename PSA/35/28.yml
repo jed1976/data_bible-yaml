@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="28" data-sid="PSA 35:28"
+  class="v">28</span>And my tongue shall speak of thy righteousness <span
+  class="add">and</span> of thy praise all the day long.</p>
+id: PSA/35/28
+next:
+  id: PSA/36/1
+  number: '1'
+previous:
+  id: PSA/35/27
+  number: '27'
+reference: 'Psalms 35:28'

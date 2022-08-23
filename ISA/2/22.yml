@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 2:22"
+  class="v">22</span>Cease ye from man, whose breath <span class="add">is</span>
+  in his nostrils: for wherein is he to be accounted of?</p>
+id: ISA/2/22
+next:
+  id: ISA/3/1
+  number: '1'
+previous:
+  id: ISA/2/21
+  number: '21'
+reference: 'Isaiah 2:22'

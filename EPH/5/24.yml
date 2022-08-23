@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EPH 5:24"
+  class="v">24</span>Therefore as the church is subject unto Christ, so <span
+  class="add">let</span> the wives <span class="add">be</span> to their own
+  husbands in every thing. </p>
+id: EPH/5/24
+next:
+  id: EPH/5/25
+  number: '25'
+previous:
+  id: EPH/5/23
+  number: '23'
+reference: 'Ephesians 5:24'

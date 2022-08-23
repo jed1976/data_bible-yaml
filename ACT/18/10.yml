@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 18:10"
+  class="v">10</span><span class="wj">For I am with thee, and no man shall set
+  on thee to hurt thee: for I have much people in this city.</span> </p>
+id: ACT/18/10
+next:
+  id: ACT/18/11
+  number: '11'
+previous:
+  id: ACT/18/9
+  number: '9'
+reference: 'Acts 18:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 38:26"
+  class="v">26</span>And Judah acknowledged <span class="add">them</span>, and
+  said, She hath been more righteous than I; because that I gave her not to
+  Shelah my son. And he knew her again no more.</p>
+id: GEN/38/26
+next:
+  id: GEN/38/27
+  number: '27'
+previous:
+  id: GEN/38/25
+  number: '25'
+reference: 'Genesis 38:26'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 33:13"
+  class="v">13</span>The <span class="nd">LORD</span> looketh from heaven; he
+  beholdeth all the sons of men.</p>
+id: PSA/33/13
+next:
+  id: PSA/33/14
+  number: '14'
+previous:
+  id: PSA/33/12
+  number: '12'
+reference: 'Psalms 33:13'

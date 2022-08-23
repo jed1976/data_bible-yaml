@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2PE 3:4" class="v">4</span>And
+  saying, Where is the promise of his coming? for since the fathers fell asleep,
+  all things continue as <span class="add">they were</span> from the beginning
+  of the creation. </p>
+id: 2PE/3/4
+next:
+  id: 2PE/3/5
+  number: '5'
+previous:
+  id: 2PE/3/3
+  number: '3'
+reference: '2 Peter 3:4'

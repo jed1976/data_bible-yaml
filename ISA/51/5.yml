@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 51:5" class="v">5</span>My
+  righteousness <span class="add">is</span> near; my salvation is gone forth,
+  and mine arms shall judge the people; the isles shall wait upon me, and on
+  mine arm shall they trust. </p>
+id: ISA/51/5
+next:
+  id: ISA/51/6
+  number: '6'
+previous:
+  id: ISA/51/4
+  number: '4'
+reference: 'Isaiah 51:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 12:5" class="v">5</span>Peter
+  therefore was kept in prison: but prayer was made without ceasing of the
+  church unto God for him. </p>
+id: ACT/12/5
+next:
+  id: ACT/12/6
+  number: '6'
+previous:
+  id: ACT/12/4
+  number: '4'
+reference: 'Acts 12:5'

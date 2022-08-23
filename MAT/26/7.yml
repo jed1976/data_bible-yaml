@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 26:7" class="v">7</span>There
+  came unto him a woman having an alabaster box of very precious ointment, and
+  poured it on his head, as he sat <span class="add">at meat</span>. </p>
+id: MAT/26/7
+next:
+  id: MAT/26/8
+  number: '8'
+previous:
+  id: MAT/26/6
+  number: '6'
+reference: 'Matthew 26:7'

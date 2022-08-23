@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 36:1" class="v">1</span>And
+  the chief fathers of the families of the children of Gilead, the son of
+  Machir, the son of Manasseh, of the families of the sons of Joseph, came near,
+  and spake before Moses, and before the princes, the chief fathers of the
+  children of Israel: </p>
+id: NUM/36/1
+next:
+  id: NUM/36/2
+  number: '2'
+previous:
+  id: NUM/35/34
+  number: '34'
+reference: 'Numbers 36:1'

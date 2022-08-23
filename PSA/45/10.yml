@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="10" data-sid="PSA 45:10"
+  class="v">10</span>Hearken, O daughter, and consider, and incline thine ear;
+  forget also thine own people, and thy father’s house;</p>
+id: PSA/45/10
+next:
+  id: PSA/45/11
+  number: '11'
+previous:
+  id: PSA/45/9
+  number: '9'
+reference: 'Psalms 45:10'

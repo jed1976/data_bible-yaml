@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 84:8"
+  class="v">8</span>O <span class="nd">LORD</span> God of hosts, hear my prayer:
+  give ear, O God of Jacob. Selah.</p>
+id: PSA/84/8
+next:
+  id: PSA/84/9
+  number: '9'
+previous:
+  id: PSA/84/7
+  number: '7'
+reference: 'Psalms 84:8'

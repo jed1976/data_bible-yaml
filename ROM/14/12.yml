@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 14:12" class="v">12</span>So
+  then every one of us shall give account of himself to God. </p>
+id: ROM/14/12
+next:
+  id: ROM/14/13
+  number: '13'
+previous:
+  id: ROM/14/11
+  number: '11'
+reference: 'Romans 14:12'

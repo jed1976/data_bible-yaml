@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 23:23"
+  class="v">23</span>Buy the truth, and sell <span class="add">it</span> not;
+  <span class="add">also</span> wisdom, and instruction, and understanding. </p>
+id: PRO/23/23
+next:
+  id: PRO/23/24
+  number: '24'
+previous:
+  id: PRO/23/22
+  number: '22'
+reference: 'Proverbs 23:23'

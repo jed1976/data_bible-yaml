@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 23:13"
+  class="v">13</span>And in all <span class="add">things</span> that I have said
+  unto you be circumspect: and make no mention of the name of other gods,
+  neither let it be heard out of thy mouth.</p>
+id: EXO/23/13
+next:
+  id: EXO/23/14
+  number: '14'
+previous:
+  id: EXO/23/12
+  number: '12'
+reference: 'Exodus 23:13'

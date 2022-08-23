@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2TI 4:4" class="v">4</span>And
+  they shall turn away <span class="add">their</span> ears from the truth, and
+  shall be turned unto fables. </p>
+id: 2TI/4/4
+next:
+  id: 2TI/4/5
+  number: '5'
+previous:
+  id: 2TI/4/3
+  number: '3'
+reference: '2 Timothy 4:4'

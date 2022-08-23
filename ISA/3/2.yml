@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 3:2" class="v">2</span>The
+  mighty man, and the man of war, the judge, and the prophet, and the prudent,
+  and the ancient, </p>
+id: ISA/3/2
+next:
+  id: ISA/3/3
+  number: '3'
+previous:
+  id: ISA/3/1
+  number: '1'
+reference: 'Isaiah 3:2'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 1:22" class="v">22</span>Thy
+  silver is become dross, thy wine mixed with water: </p>
+id: ISA/1/22
+next:
+  id: ISA/1/23
+  number: '23'
+previous:
+  id: ISA/1/21
+  number: '21'
+reference: 'Isaiah 1:22'

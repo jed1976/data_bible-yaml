@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 10:8"
+  class="v">8</span>Maaziah, Bilgai, Shemaiah: these <span
+  class="add">were</span> the priests. </p>
+id: NEH/10/8
+next:
+  id: NEH/10/9
+  number: '9'
+previous:
+  id: NEH/10/7
+  number: '7'
+reference: 'Nehemiah 10:8'

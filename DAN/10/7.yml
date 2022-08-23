@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 10:7" class="v">7</span>And I
+  Daniel alone saw the vision: for the men that were with me saw not the vision;
+  but a great quaking fell upon them, so that they fled to hide themselves. </p>
+id: DAN/10/7
+next:
+  id: DAN/10/8
+  number: '8'
+previous:
+  id: DAN/10/6
+  number: '6'
+reference: 'Daniel 10:7'

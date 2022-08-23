@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 135:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. Praise ye the
+  name of the <span class="nd">LORD</span>; praise <span class="add">him</span>,
+  O ye servants of the <span class="nd">LORD</span>.</p>
+id: PSA/135/1
+next:
+  id: PSA/135/2
+  number: '2'
+previous:
+  id: PSA/134/3
+  number: '3'
+reference: 'Psalms 135:1'

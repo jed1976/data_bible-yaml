@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 30:20"
+  class="v">20</span>Such <span class="add">is</span> the way of an adulterous
+  woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
+  </p>
+id: PRO/30/20
+next:
+  id: PRO/30/21
+  number: '21'
+previous:
+  id: PRO/30/19
+  number: '19'
+reference: 'Proverbs 30:20'

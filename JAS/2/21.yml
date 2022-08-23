@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JAS 2:21" class="v">21</span>Was
+  not Abraham our father justified by works, when he had offered Isaac his son
+  upon the altar? </p>
+id: JAS/2/21
+next:
+  id: JAS/2/22
+  number: '22'
+previous:
+  id: JAS/2/20
+  number: '20'
+reference: 'James 2:21'

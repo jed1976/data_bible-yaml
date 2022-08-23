@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EXO 14:2" class="v">2</span>Speak
+  unto the children of Israel, that they turn and encamp before Pi-hahiroth,
+  between Migdol and the sea, over against Baal-zephon: before it shall ye
+  encamp by the sea. </p>
+id: EXO/14/2
+next:
+  id: EXO/14/3
+  number: '3'
+previous:
+  id: EXO/14/1
+  number: '1'
+reference: 'Exodus 14:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="MRK 14:55"
+  class="v">55</span>And the chief priests and all the council sought for
+  witness against Jesus to put him to death; and found none. </p>
+id: MRK/14/55
+next:
+  id: MRK/14/56
+  number: '56'
+previous:
+  id: MRK/14/54
+  number: '54'
+reference: 'Mark 14:55'

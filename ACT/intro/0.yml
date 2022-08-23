@@ -1,0 +1,9 @@
+content: <p class="mt1">THE ACTS OF THE APOSTLES</p>
+id: ACT/intro/0
+next:
+  id: ACT/1/1
+  number: '1'
+previous:
+  id: JHN/21/25
+  number: '25'
+reference: Acts

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 10:4" class="v">4</span>And
+  in the four and twentieth day of the first month, as I was by the side of the
+  great river, which <span class="add">is</span> Hiddekel; </p>
+id: DAN/10/4
+next:
+  id: DAN/10/5
+  number: '5'
+previous:
+  id: DAN/10/3
+  number: '3'
+reference: 'Daniel 10:4'

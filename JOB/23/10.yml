@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOB 23:10"
+  class="v">10</span>But he knoweth the way that I take: <span
+  class="add">when</span> he hath tried me, I shall come forth as gold. </p>
+id: JOB/23/10
+next:
+  id: JOB/23/11
+  number: '11'
+previous:
+  id: JOB/23/9
+  number: '9'
+reference: 'Job 23:10'

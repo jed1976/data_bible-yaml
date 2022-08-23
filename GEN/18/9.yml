@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 18:9" class="v">9</span>¶ And
+  they said unto him, Where <span class="add">is</span> Sarah thy wife? And he
+  said, Behold, in the tent. </p>
+id: GEN/18/9
+next:
+  id: GEN/18/10
+  number: '10'
+previous:
+  id: GEN/18/8
+  number: '8'
+reference: 'Genesis 18:9'

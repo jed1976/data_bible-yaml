@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 150:1"
+  class="v">1</span>Praise ye the <span class="nd">LORD</span>. Praise God in
+  his sanctuary: praise him in the firmament of his power.</p>
+id: PSA/150/1
+next:
+  id: PSA/150/2
+  number: '2'
+previous:
+  id: PSA/149/9
+  number: '9'
+reference: 'Psalms 150:1'

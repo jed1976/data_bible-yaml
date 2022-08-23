@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 23:13"
+  class="v">13</span>And he spake unto Ephron in the audience of the people of
+  the land, saying, But if thou <span class="add">wilt give it</span>, I pray
+  thee, hear me: I will give thee money for the field; take <span
+  class="add">it</span> of me, and I will bury my dead there. </p>
+id: GEN/23/13
+next:
+  id: GEN/23/14
+  number: '14'
+previous:
+  id: GEN/23/12
+  number: '12'
+reference: 'Genesis 23:13'

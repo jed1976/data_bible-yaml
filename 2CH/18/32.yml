@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="2CH 18:32"
+  class="v">32</span>For it came to pass, that, when the captains of the
+  chariots perceived that it was not the king of Israel, they turned back again
+  from pursuing him. </p>
+id: 2CH/18/32
+next:
+  id: 2CH/18/33
+  number: '33'
+previous:
+  id: 2CH/18/31
+  number: '31'
+reference: '2 Chronicles 18:32'

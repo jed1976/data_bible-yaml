@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="JER 50:33" class="v">33</span>¶
+  Thus saith the <span class="nd">LORD</span> of hosts; The children of Israel
+  and the children of Judah <span class="add">were</span> oppressed together:
+  and all that took them captives held them fast; they refused to let them go.
+  </p>
+id: JER/50/33
+next:
+  id: JER/50/34
+  number: '34'
+previous:
+  id: JER/50/32
+  number: '32'
+reference: 'Jeremiah 50:33'

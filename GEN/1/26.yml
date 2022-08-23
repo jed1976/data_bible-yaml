@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 1:26" class="v">26</span>¶
+  And God said, Let us make man in our image, after our likeness: and let them
+  have dominion over the fish of the sea, and over the fowl of the air, and over
+  the cattle, and over all the earth, and over every creeping thing that
+  creepeth upon the earth. </p>
+id: GEN/1/26
+next:
+  id: GEN/1/27
+  number: '27'
+previous:
+  id: GEN/1/25
+  number: '25'
+reference: 'Genesis 1:26'

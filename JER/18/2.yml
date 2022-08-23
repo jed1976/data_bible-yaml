@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="JER 18:2"
+  class="v">2</span>Arise, and go down to the potter’s house, and there I will
+  cause thee to hear my words. </p>
+id: JER/18/2
+next:
+  id: JER/18/3
+  number: '3'
+previous:
+  id: JER/18/1
+  number: '1'
+reference: 'Jeremiah 18:2'

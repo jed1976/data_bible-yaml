@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 24:7" class="v">7</span>The
+  new wine mourneth, the vine languisheth, all the merryhearted do sigh. </p>
+id: ISA/24/7
+next:
+  id: ISA/24/8
+  number: '8'
+previous:
+  id: ISA/24/6
+  number: '6'
+reference: 'Isaiah 24:7'

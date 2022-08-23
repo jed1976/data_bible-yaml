@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 19:6" class="v">6</span>Many
+  will intreat the favour of the prince: and every man <span
+  class="add">is</span> a friend to him that giveth gifts. </p>
+id: PRO/19/6
+next:
+  id: PRO/19/7
+  number: '7'
+previous:
+  id: PRO/19/5
+  number: '5'
+reference: 'Proverbs 19:6'

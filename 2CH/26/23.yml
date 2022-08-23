@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2CH 26:23" class="v">23</span>So
+  Uzziah slept with his fathers, and they buried him with his fathers in the
+  field of the burial which <span class="add">belonged</span> to the kings; for
+  they said, He <span class="add">is</span> a leper: and Jotham his son reigned
+  in his stead.</p>
+id: 2CH/26/23
+next:
+  id: 2CH/27/1
+  number: '1'
+previous:
+  id: 2CH/26/22
+  number: '22'
+reference: '2 Chronicles 26:23'

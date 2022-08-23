@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 17:13"
+  class="v">13</span>And they lifted up <span class="add">their</span> voices,
+  and said, Jesus, Master, have mercy on us. </p>
+id: LUK/17/13
+next:
+  id: LUK/17/14
+  number: '14'
+previous:
+  id: LUK/17/12
+  number: '12'
+reference: 'Luke 17:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 29:12"
+  class="v">12</span>And the book is delivered to him that is not learned,
+  saying, Read this, I pray thee: and he saith, I am not learned.</p>
+id: ISA/29/12
+next:
+  id: ISA/29/13
+  number: '13'
+previous:
+  id: ISA/29/11
+  number: '11'
+reference: 'Isaiah 29:12'

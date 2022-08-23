@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 28:1" class="v">1</span>Ahaz
+  <span class="add">was</span> twenty years old when he began to reign, and he
+  reigned sixteen years in Jerusalem: but he did not <span class="add">that
+  which was</span> right in the sight of the <span class="nd">LORD</span>, like
+  David his father: </p>
+id: 2CH/28/1
+next:
+  id: 2CH/28/2
+  number: '2'
+previous:
+  id: 2CH/27/9
+  number: '9'
+reference: '2 Chronicles 28:1'

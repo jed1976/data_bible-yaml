@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 34:22"
+  class="v">22</span><span class="add">There is</span> no darkness, nor shadow
+  of death, where the workers of iniquity may hide themselves. </p>
+id: JOB/34/22
+next:
+  id: JOB/34/23
+  number: '23'
+previous:
+  id: JOB/34/21
+  number: '21'
+reference: 'Job 34:22'

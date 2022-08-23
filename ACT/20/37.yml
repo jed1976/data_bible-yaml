@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="ACT 20:37"
+  class="v">37</span>And they all wept sore, and fell on Paul’s neck, and kissed
+  him, </p>
+id: ACT/20/37
+next:
+  id: ACT/20/38
+  number: '38'
+previous:
+  id: ACT/20/36
+  number: '36'
+reference: 'Acts 20:37'

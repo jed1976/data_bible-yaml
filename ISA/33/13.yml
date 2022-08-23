@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 33:13" class="v">13</span>¶
+  Hear, ye <span class="add">that are</span> far off, what I have done; and, ye
+  <span class="add">that are</span> near, acknowledge my might. </p>
+id: ISA/33/13
+next:
+  id: ISA/33/14
+  number: '14'
+previous:
+  id: ISA/33/12
+  number: '12'
+reference: 'Isaiah 33:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 49:11"
+  class="v">11</span>And I will make all my mountains a way, and my highways
+  shall be exalted. </p>
+id: ISA/49/11
+next:
+  id: ISA/49/12
+  number: '12'
+previous:
+  id: ISA/49/10
+  number: '10'
+reference: 'Isaiah 49:11'

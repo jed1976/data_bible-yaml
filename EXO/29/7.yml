@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 29:7" class="v">7</span>Then
+  shalt thou take the anointing oil, and pour <span class="add">it</span> upon
+  his head, and anoint him. </p>
+id: EXO/29/7
+next:
+  id: EXO/29/8
+  number: '8'
+previous:
+  id: EXO/29/6
+  number: '6'
+reference: 'Exodus 29:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JOB 15:29" class="v">29</span>He
+  shall not be rich, neither shall his substance continue, neither shall he
+  prolong the perfection thereof upon the earth. </p>
+id: JOB/15/29
+next:
+  id: JOB/15/30
+  number: '30'
+previous:
+  id: JOB/15/28
+  number: '28'
+reference: 'Job 15:29'

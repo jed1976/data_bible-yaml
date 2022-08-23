@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 14:9" class="v">9</span>And
+  the king was sorry: nevertheless for the oath’s sake, and them which sat with
+  him at meat, he commanded <span class="add">it</span> to be given <span
+  class="add">her</span>. </p>
+id: MAT/14/9
+next:
+  id: MAT/14/10
+  number: '10'
+previous:
+  id: MAT/14/8
+  number: '8'
+reference: 'Matthew 14:9'

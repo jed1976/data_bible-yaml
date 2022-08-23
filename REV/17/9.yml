@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 17:9" class="v">9</span>And
+  here <span class="add">is</span> the mind which hath wisdom. The seven heads
+  are seven mountains, on which the woman sitteth. </p>
+id: REV/17/9
+next:
+  id: REV/17/10
+  number: '10'
+previous:
+  id: REV/17/8
+  number: '8'
+reference: 'Revelation 17:9'

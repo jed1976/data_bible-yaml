@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 21:6" class="v">6</span>For
+  thou hast made him most blessed for ever: thou hast made him exceeding glad
+  with thy countenance.</p>
+id: PSA/21/6
+next:
+  id: PSA/21/7
+  number: '7'
+previous:
+  id: PSA/21/5
+  number: '5'
+reference: 'Psalms 21:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ROM 5:13"
+  class="v">13</span>(For until the law sin was in the world: but sin is not
+  imputed when there is no law. </p>
+id: ROM/5/13
+next:
+  id: ROM/5/14
+  number: '14'
+previous:
+  id: ROM/5/12
+  number: '12'
+reference: 'Romans 5:13'

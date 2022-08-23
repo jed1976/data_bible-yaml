@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 9:5" class="v">5</span>¶ And
+  they brought <span class="add">that</span> which Moses commanded before the
+  tabernacle of the congregation: and all the congregation drew near and stood
+  before the <span class="nd">LORD</span>. </p>
+id: LEV/9/5
+next:
+  id: LEV/9/6
+  number: '6'
+previous:
+  id: LEV/9/4
+  number: '4'
+reference: 'Leviticus 9:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EPH 2:1" class="v">1</span>And
+  you <span class="add">hath he quickened</span>, who were dead in trespasses
+  and sins; </p>
+id: EPH/2/1
+next:
+  id: EPH/2/2
+  number: '2'
+previous:
+  id: EPH/1/23
+  number: '23'
+reference: 'Ephesians 2:1'

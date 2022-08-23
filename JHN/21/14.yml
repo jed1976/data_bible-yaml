@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JHN 21:14"
+  class="v">14</span>This is now the third time that Jesus shewed himself to his
+  disciples, after that he was risen from the dead.</p>
+id: JHN/21/14
+next:
+  id: JHN/21/15
+  number: '15'
+previous:
+  id: JHN/21/13
+  number: '13'
+reference: 'John 21:14'

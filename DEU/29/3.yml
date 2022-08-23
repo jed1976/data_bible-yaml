@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 29:3" class="v">3</span>The
+  great temptations which thine eyes have seen, the signs, and those great
+  miracles: </p>
+id: DEU/29/3
+next:
+  id: DEU/29/4
+  number: '4'
+previous:
+  id: DEU/29/2
+  number: '2'
+reference: 'Deuteronomy 29:3'

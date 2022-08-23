@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 15:23" class="v">23</span>¶
+  And when they came to Marah, they could not drink of the waters of Marah, for
+  they <span class="add">were</span> bitter: therefore the name of it was called
+  Marah. </p>
+id: EXO/15/23
+next:
+  id: EXO/15/24
+  number: '24'
+previous:
+  id: EXO/15/22
+  number: '22'
+reference: 'Exodus 15:23'

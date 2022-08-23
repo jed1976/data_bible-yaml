@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CH 20:5" class="v">5</span>And
+  there was war again with the Philistines; and Elhanan the son of Jair slew
+  Lahmi the brother of Goliath the Gittite, whose spear staff <span
+  class="add">was</span> like a weaver’s beam. </p>
+id: 1CH/20/5
+next:
+  id: 1CH/20/6
+  number: '6'
+previous:
+  id: 1CH/20/4
+  number: '4'
+reference: '1 Chronicles 20:5'

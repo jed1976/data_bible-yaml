@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ROM 16:6" class="v">6</span>Greet
+  Mary, who bestowed much labour on us. </p>
+id: ROM/16/6
+next:
+  id: ROM/16/7
+  number: '7'
+previous:
+  id: ROM/16/5
+  number: '5'
+reference: 'Romans 16:6'

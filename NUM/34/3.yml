@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 34:3" class="v">3</span>Then
+  your south quarter shall be from the wilderness of Zin along by the coast of
+  Edom, and your south border shall be the outmost coast of the salt sea
+  eastward: </p>
+id: NUM/34/3
+next:
+  id: NUM/34/4
+  number: '4'
+previous:
+  id: NUM/34/2
+  number: '2'
+reference: 'Numbers 34:3'

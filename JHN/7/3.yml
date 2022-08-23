@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 7:3" class="v">3</span>His
+  brethren therefore said unto him, Depart hence, and go into Judæa, that thy
+  disciples also may see the works that thou doest. </p>
+id: JHN/7/3
+next:
+  id: JHN/7/4
+  number: '4'
+previous:
+  id: JHN/7/2
+  number: '2'
+reference: 'John 7:3'

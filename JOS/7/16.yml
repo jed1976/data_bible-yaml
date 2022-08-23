@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 7:16" class="v">16</span>¶
+  So Joshua rose up early in the morning, and brought Israel by their tribes;
+  and the tribe of Judah was taken: </p>
+id: JOS/7/16
+next:
+  id: JOS/7/17
+  number: '17'
+previous:
+  id: JOS/7/15
+  number: '15'
+reference: 'Joshua 7:16'

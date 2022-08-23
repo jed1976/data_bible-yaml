@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 15:8" class="v">8</span>And
+  if he that hath the issue spit upon him that is clean; then he shall wash his
+  clothes, and bathe <span class="add">himself</span> in water, and be unclean
+  until the even. </p>
+id: LEV/15/8
+next:
+  id: LEV/15/9
+  number: '9'
+previous:
+  id: LEV/15/7
+  number: '7'
+reference: 'Leviticus 15:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 8:10" class="v">10</span>And
+  Joshua rose up early in the morning, and numbered the people, and went up, he
+  and the elders of Israel, before the people to Ai. </p>
+id: JOS/8/10
+next:
+  id: JOS/8/11
+  number: '11'
+previous:
+  id: JOS/8/9
+  number: '9'
+reference: 'Joshua 8:10'

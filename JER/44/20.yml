@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 44:20" class="v">20</span>¶
+  Then Jeremiah said unto all the people, to the men, and to the women, and to
+  all the people which had given him <span class="add">that</span> answer,
+  saying, </p>
+id: JER/44/20
+next:
+  id: JER/44/21
+  number: '21'
+previous:
+  id: JER/44/19
+  number: '19'
+reference: 'Jeremiah 44:20'

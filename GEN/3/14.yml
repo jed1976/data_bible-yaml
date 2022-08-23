@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 3:14" class="v">14</span>And
+  the <span class="nd">LORD</span> God said unto the serpent, Because thou hast
+  done this, thou <span class="add">art</span> cursed above all cattle, and
+  above every beast of the field; upon thy belly shalt thou go, and dust shalt
+  thou eat all the days of thy life: </p>
+id: GEN/3/14
+next:
+  id: GEN/3/15
+  number: '15'
+previous:
+  id: GEN/3/13
+  number: '13'
+reference: 'Genesis 3:14'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 23:10"
+  class="v">10</span>And when there arose a great dissension, the chief captain,
+  fearing lest Paul should have been pulled in pieces of them, commanded the
+  soldiers to go down, and to take him by force from among them, and to bring
+  <span class="add">him</span> into the castle. </p>
+id: ACT/23/10
+next:
+  id: ACT/23/11
+  number: '11'
+previous:
+  id: ACT/23/9
+  number: '9'
+reference: 'Acts 23:10'

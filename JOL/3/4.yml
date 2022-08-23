@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOL 3:4" class="v">4</span>Yea,
+  and what have ye to do with me, O Tyre, and Zidon, and all the coasts of
+  Palestine? will ye render me a recompence? and if ye recompense me, swiftly
+  <span class="add">and</span> speedily will I return your recompence upon your
+  own head; </p>
+id: JOL/3/4
+next:
+  id: JOL/3/5
+  number: '5'
+previous:
+  id: JOL/3/3
+  number: '3'
+reference: 'Joel 3:4'

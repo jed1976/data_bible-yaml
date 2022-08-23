@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 25:21" class="v">21</span>If
+  thine enemy be hungry, give him bread to eat; and if he be thirsty, give him
+  water to drink: </p>
+id: PRO/25/21
+next:
+  id: PRO/25/22
+  number: '22'
+previous:
+  id: PRO/25/20
+  number: '20'
+reference: 'Proverbs 25:21'

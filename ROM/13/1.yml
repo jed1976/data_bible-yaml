@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 13:1" class="v">1</span>Let
+  every soul be subject unto the higher powers. For there is no power but of
+  God: the powers that be are ordained of God. </p>
+id: ROM/13/1
+next:
+  id: ROM/13/2
+  number: '2'
+previous:
+  id: ROM/12/21
+  number: '21'
+reference: 'Romans 13:1'

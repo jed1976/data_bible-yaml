@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 12:25"
+  class="v">25</span>Thou shalt not eat it; that it may go well with thee, and
+  with thy children after thee, when thou shalt do <span class="add">that which
+  is</span> right in the sight of the <span class="nd">LORD</span>. </p>
+id: DEU/12/25
+next:
+  id: DEU/12/26
+  number: '26'
+previous:
+  id: DEU/12/24
+  number: '24'
+reference: 'Deuteronomy 12:25'

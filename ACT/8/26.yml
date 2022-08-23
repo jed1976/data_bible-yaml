@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ACT 8:26" class="v">26</span>And
+  the angel of the Lord spake unto Philip, saying, Arise, and go toward the
+  south unto the way that goeth down from Jerusalem unto Gaza, which is desert.
+  </p>
+id: ACT/8/26
+next:
+  id: ACT/8/27
+  number: '27'
+previous:
+  id: ACT/8/25
+  number: '25'
+reference: 'Acts 8:26'

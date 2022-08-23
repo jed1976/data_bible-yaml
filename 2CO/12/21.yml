@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2CO 12:21"
+  class="v">21</span><span class="add">And</span> lest, when I come again, my
+  God will humble me among you, and <span class="add">that</span> I shall bewail
+  many which have sinned already, and have not repented of the uncleanness and
+  fornication and lasciviousness which they have committed.</p>
+id: 2CO/12/21
+next:
+  id: 2CO/13/1
+  number: '1'
+previous:
+  id: 2CO/12/20
+  number: '20'
+reference: '2 Corinthians 12:21'

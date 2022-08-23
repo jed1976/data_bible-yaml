@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 1:18" class="v">18</span>And
+  Zacharias said unto the angel, Whereby shall I know this? for I am an old man,
+  and my wife well stricken in years. </p>
+id: LUK/1/18
+next:
+  id: LUK/1/19
+  number: '19'
+previous:
+  id: LUK/1/17
+  number: '17'
+reference: 'Luke 1:18'

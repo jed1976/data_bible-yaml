@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="RUT 1:5" class="v">5</span>And
+  Mahlon and Chilion died also both of them; and the woman was left of her two
+  sons and her husband.</p>
+id: RUT/1/5
+next:
+  id: RUT/1/6
+  number: '6'
+previous:
+  id: RUT/1/4
+  number: '4'
+reference: 'Ruth 1:5'

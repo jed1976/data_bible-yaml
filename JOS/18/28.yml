@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="JOS 18:28"
+  class="v">28</span>And Zelah, Eleph, and Jebusi, which <span
+  class="add">is</span> Jerusalem, Gibeath, <span class="add">and</span>
+  Kirjath; fourteen cities with their villages. This <span class="add">is</span>
+  the inheritance of the children of Benjamin according to their families.</p>
+id: JOS/18/28
+next:
+  id: JOS/19/1
+  number: '1'
+previous:
+  id: JOS/18/27
+  number: '27'
+reference: 'Joshua 18:28'

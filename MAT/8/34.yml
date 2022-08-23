@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MAT 8:34"
+  class="v">34</span>And, behold, the whole city came out to meet Jesus: and
+  when they saw him, they besought <span class="add">him</span> that he would
+  depart out of their coasts.</p>
+id: MAT/8/34
+next:
+  id: MAT/9/1
+  number: '1'
+previous:
+  id: MAT/8/33
+  number: '33'
+reference: 'Matthew 8:34'

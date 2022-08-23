@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MRK 15:44"
+  class="v">44</span>And Pilate marvelled if he were already dead: and calling
+  <span class="add">unto him</span> the centurion, he asked him whether he had
+  been any while dead. </p>
+id: MRK/15/44
+next:
+  id: MRK/15/45
+  number: '45'
+previous:
+  id: MRK/15/43
+  number: '43'
+reference: 'Mark 15:44'

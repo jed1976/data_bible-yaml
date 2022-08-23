@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 10:12"
+  class="v">12</span><span class="wj">But he that is an hireling, and not the
+  shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the
+  sheep, and fleeth: and the wolf catcheth them, and scattereth the
+  sheep.</span> </p>
+id: JHN/10/12
+next:
+  id: JHN/10/13
+  number: '13'
+previous:
+  id: JHN/10/11
+  number: '11'
+reference: 'John 10:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ACT 19:18"
+  class="v">18</span>And many that believed came, and confessed, and shewed
+  their deeds. </p>
+id: ACT/19/18
+next:
+  id: ACT/19/19
+  number: '19'
+previous:
+  id: ACT/19/17
+  number: '17'
+reference: 'Acts 19:18'

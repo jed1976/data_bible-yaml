@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="MAT 22:44"
+  class="v">44</span><span class="wj">The <span class="nd">LORD</span> said unto
+  my Lord, Sit thou on my right hand, till I make thine enemies thy
+  footstool?</span> </p>
+id: MAT/22/44
+next:
+  id: MAT/22/45
+  number: '45'
+previous:
+  id: MAT/22/43
+  number: '43'
+reference: 'Matthew 22:44'

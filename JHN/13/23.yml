@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JHN 13:23"
+  class="v">23</span>Now there was leaning on Jesus’ bosom one of his disciples,
+  whom Jesus loved. </p>
+id: JHN/13/23
+next:
+  id: JHN/13/24
+  number: '24'
+previous:
+  id: JHN/13/22
+  number: '22'
+reference: 'John 13:23'

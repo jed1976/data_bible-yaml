@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 66:6" class="v">6</span>He
+  turned the sea into dry <span class="add">land:</span> they went through the
+  flood on foot: there did we rejoice in him.</p>
+id: PSA/66/6
+next:
+  id: PSA/66/7
+  number: '7'
+previous:
+  id: PSA/66/5
+  number: '5'
+reference: 'Psalms 66:6'

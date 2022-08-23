@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JDG 9:34" class="v">34</span>¶
+  And Abimelech rose up, and all the people that <span class="add">were</span>
+  with him, by night, and they laid wait against Shechem in four companies. </p>
+id: JDG/9/34
+next:
+  id: JDG/9/35
+  number: '35'
+previous:
+  id: JDG/9/33
+  number: '33'
+reference: 'Judges 9:34'

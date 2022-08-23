@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 27:4" class="v">4</span>Fury
+  <span class="add">is</span> not in me: who would set the briers <span
+  class="add">and</span> thorns against me in battle? I would go through them, I
+  would burn them together. </p>
+id: ISA/27/4
+next:
+  id: ISA/27/5
+  number: '5'
+previous:
+  id: ISA/27/3
+  number: '3'
+reference: 'Isaiah 27:4'

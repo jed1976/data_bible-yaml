@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 1:5" class="v">5</span><span
+  class="wj">For John truly baptized with water; but ye shall be baptized with
+  the Holy Ghost not many days hence.</span> </p>
+id: ACT/1/5
+next:
+  id: ACT/1/6
+  number: '6'
+previous:
+  id: ACT/1/4
+  number: '4'
+reference: 'Acts 1:5'

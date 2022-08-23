@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 23:6"
+  class="v">6</span>Surely goodness and mercy shall follow me all the days of my
+  life: and I will dwell in the house of the <span class="nd">LORD</span> for
+  ever.</p>
+id: PSA/23/6
+next:
+  id: PSA/24/1
+  number: '1'
+previous:
+  id: PSA/23/5
+  number: '5'
+reference: 'Psalms 23:6'

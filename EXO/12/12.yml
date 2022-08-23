@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 12:12"
+  class="v">12</span>For I will pass through the land of Egypt this night, and
+  will smite all the firstborn in the land of Egypt, both man and beast; and
+  against all the gods of Egypt I will execute judgment: I <span
+  class="add">am</span> the <span class="nd">LORD</span>. </p>
+id: EXO/12/12
+next:
+  id: EXO/12/13
+  number: '13'
+previous:
+  id: EXO/12/11
+  number: '11'
+reference: 'Exodus 12:12'

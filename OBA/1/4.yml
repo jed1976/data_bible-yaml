@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="OBA 1:4" class="v">4</span>Though
+  thou exalt <span class="add">thyself</span> as the eagle, and though thou set
+  thy nest among the stars, thence will I bring thee down, saith the <span
+  class="nd">LORD</span>. </p>
+id: OBA/1/4
+next:
+  id: OBA/1/5
+  number: '5'
+previous:
+  id: OBA/1/3
+  number: '3'
+reference: 'Obadiah 1:4'

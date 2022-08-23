@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 112:4"
+  class="v">4</span>Unto the upright there ariseth light in the darkness: <span
+  class="add">he is</span> gracious, and full of compassion, and righteous.</p>
+id: PSA/112/4
+next:
+  id: PSA/112/5
+  number: '5'
+previous:
+  id: PSA/112/3
+  number: '3'
+reference: 'Psalms 112:4'

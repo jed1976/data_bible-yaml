@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 4:29" class="v">29</span>¶
+  As for the sons of Merari, thou shalt number them after their families, by the
+  house of their fathers; </p>
+id: NUM/4/29
+next:
+  id: NUM/4/30
+  number: '30'
+previous:
+  id: NUM/4/28
+  number: '28'
+reference: 'Numbers 4:29'

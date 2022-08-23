@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 40:14"
+  class="v">14</span>And thou shalt bring his sons, and clothe them with coats:
+  </p>
+id: EXO/40/14
+next:
+  id: EXO/40/15
+  number: '15'
+previous:
+  id: EXO/40/13
+  number: '13'
+reference: 'Exodus 40:14'

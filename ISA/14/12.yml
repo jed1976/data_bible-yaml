@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 14:12"
+  class="v">12</span>How art thou fallen from heaven, O Lucifer, son of the
+  morning! <span class="add">how</span> art thou cut down to the ground, which
+  didst weaken the nations! </p>
+id: ISA/14/12
+next:
+  id: ISA/14/13
+  number: '13'
+previous:
+  id: ISA/14/11
+  number: '11'
+reference: 'Isaiah 14:12'

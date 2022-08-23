@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="NUM 26:53"
+  class="v">53</span>Unto these the land shall be divided for an inheritance
+  according to the number of names. </p>
+id: NUM/26/53
+next:
+  id: NUM/26/54
+  number: '54'
+previous:
+  id: NUM/26/52
+  number: '52'
+reference: 'Numbers 26:53'

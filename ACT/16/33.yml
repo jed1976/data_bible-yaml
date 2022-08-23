@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ACT 16:33"
+  class="v">33</span>And he took them the same hour of the night, and washed
+  <span class="add">their</span> stripes; and was baptized, he and all his,
+  straightway. </p>
+id: ACT/16/33
+next:
+  id: ACT/16/34
+  number: '34'
+previous:
+  id: ACT/16/32
+  number: '32'
+reference: 'Acts 16:33'

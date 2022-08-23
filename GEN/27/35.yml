@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="GEN 27:35"
+  class="v">35</span>And he said, Thy brother came with subtilty, and hath taken
+  away thy blessing. </p>
+id: GEN/27/35
+next:
+  id: GEN/27/36
+  number: '36'
+previous:
+  id: GEN/27/34
+  number: '34'
+reference: 'Genesis 27:35'

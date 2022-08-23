@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="DEU 28:33"
+  class="v">33</span>The fruit of thy land, and all thy labours, shall a nation
+  which thou knowest not eat up; and thou shalt be only oppressed and crushed
+  alway: </p>
+id: DEU/28/33
+next:
+  id: DEU/28/34
+  number: '34'
+previous:
+  id: DEU/28/32
+  number: '32'
+reference: 'Deuteronomy 28:33'

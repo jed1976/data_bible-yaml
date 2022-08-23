@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 14:21"
+  class="v">21</span><span class="wj">He that hath my commandments, and keepeth
+  them, he it is that loveth me: and he that loveth me shall be loved of my
+  Father, and I will love him, and will manifest myself to him.</span> </p>
+id: JHN/14/21
+next:
+  id: JHN/14/22
+  number: '22'
+previous:
+  id: JHN/14/20
+  number: '20'
+reference: 'John 14:21'

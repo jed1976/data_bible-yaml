@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="JHN 7:46" class="v">46</span>The
+  officers answered, Never man spake like this man. </p>
+id: JHN/7/46
+next:
+  id: JHN/7/47
+  number: '47'
+previous:
+  id: JHN/7/45
+  number: '45'
+reference: 'John 7:46'

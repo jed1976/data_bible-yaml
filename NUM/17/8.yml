@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 17:8" class="v">8</span>And
+  it came to pass, that on the morrow Moses went into the tabernacle of witness;
+  and, behold, the rod of Aaron for the house of Levi was budded, and brought
+  forth buds, and bloomed blossoms, and yielded almonds. </p>
+id: NUM/17/8
+next:
+  id: NUM/17/9
+  number: '9'
+previous:
+  id: NUM/17/7
+  number: '7'
+reference: 'Numbers 17:8'

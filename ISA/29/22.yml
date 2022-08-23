@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ISA 29:22"
+  class="v">22</span>Therefore thus saith the <span class="nd">LORD</span>, who
+  redeemed Abraham, concerning the house of Jacob, Jacob shall not now be
+  ashamed, neither shall his face now wax pale. </p>
+id: ISA/29/22
+next:
+  id: ISA/29/23
+  number: '23'
+previous:
+  id: ISA/29/21
+  number: '21'
+reference: 'Isaiah 29:22'

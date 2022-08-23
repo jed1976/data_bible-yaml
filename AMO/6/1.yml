@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="AMO 6:1" class="v">1</span>Woe to
+  them <span class="add">that are</span> at ease in Zion, and trust in the
+  mountain of Samaria, <span class="add">which are</span> named chief of the
+  nations, to whom the house of Israel came! </p>
+id: AMO/6/1
+next:
+  id: AMO/6/2
+  number: '2'
+previous:
+  id: AMO/5/27
+  number: '27'
+reference: 'Amos 6:1'

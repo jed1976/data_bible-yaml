@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JHN 16:3" class="v">3</span><span
+  class="wj">And these things will they do unto you, because they have not known
+  the Father, nor me.</span> </p>
+id: JHN/16/3
+next:
+  id: JHN/16/4
+  number: '4'
+previous:
+  id: JHN/16/2
+  number: '2'
+reference: 'John 16:3'

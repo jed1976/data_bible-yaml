@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LEV 2:6" class="v">6</span>Thou
+  shalt part it in pieces, and pour oil thereon: it <span class="add">is</span>
+  a meat offering.</p>
+id: LEV/2/6
+next:
+  id: LEV/2/7
+  number: '7'
+previous:
+  id: LEV/2/5
+  number: '5'
+reference: 'Leviticus 2:6'

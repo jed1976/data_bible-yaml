@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 24:16" class="v">16</span>¶
+  From the uttermost part of the earth have we heard songs, <span
+  class="add">even</span> glory to the righteous. But I said, My leanness, my
+  leanness, woe unto me! the treacherous dealers have dealt treacherously; yea,
+  the treacherous dealers have dealt very treacherously. </p>
+id: ISA/24/16
+next:
+  id: ISA/24/17
+  number: '17'
+previous:
+  id: ISA/24/15
+  number: '15'
+reference: 'Isaiah 24:16'

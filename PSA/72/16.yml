@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 72:16"
+  class="v">16</span>There shall be an handful of corn in the earth upon the top
+  of the mountains; the fruit thereof shall shake like Lebanon: and <span
+  class="add">they</span> of the city shall flourish like grass of the
+  earth.</p>
+id: PSA/72/16
+next:
+  id: PSA/72/17
+  number: '17'
+previous:
+  id: PSA/72/15
+  number: '15'
+reference: 'Psalms 72:16'

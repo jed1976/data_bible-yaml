@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CH 16:25"
+  class="v">25</span>For great <span class="add">is</span> the <span
+  class="nd">LORD</span>, and greatly to be praised: he also <span
+  class="add">is</span> to be feared above all gods. </p>
+id: 1CH/16/25
+next:
+  id: 1CH/16/26
+  number: '26'
+previous:
+  id: 1CH/16/24
+  number: '24'
+reference: '1 Chronicles 16:25'

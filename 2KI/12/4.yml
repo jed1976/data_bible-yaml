@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 12:4" class="v">4</span>¶ And
+  Jehoash said to the priests, All the money of the dedicated things that is
+  brought into the house of the <span class="nd">LORD</span>, <span
+  class="add">even</span> the money of every one that passeth <span
+  class="add">the account</span>, the money that every man is set at, <span
+  class="add">and</span> all the money that cometh into any man’s heart to bring
+  into the house of the <span class="nd">LORD</span>, </p>
+id: 2KI/12/4
+next:
+  id: 2KI/12/5
+  number: '5'
+previous:
+  id: 2KI/12/3
+  number: '3'
+reference: '2 Kings 12:4'

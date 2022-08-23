@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 6:3" class="v">3</span>And
+  one said, Be content, I pray thee, and go with thy servants. And he answered,
+  I will go. </p>
+id: 2KI/6/3
+next:
+  id: 2KI/6/4
+  number: '4'
+previous:
+  id: 2KI/6/2
+  number: '2'
+reference: '2 Kings 6:3'

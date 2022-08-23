@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 8:22" class="v">22</span>And
+  I will sever in that day the land of Goshen, in which my people dwell, that no
+  swarms <span class="add">of flies</span> shall be there; to the end thou
+  mayest know that I <span class="add">am</span> the <span
+  class="nd">LORD</span> in the midst of the earth. </p>
+id: EXO/8/22
+next:
+  id: EXO/8/23
+  number: '23'
+previous:
+  id: EXO/8/21
+  number: '21'
+reference: 'Exodus 8:22'

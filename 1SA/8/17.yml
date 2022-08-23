@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1SA 8:17" class="v">17</span>He
+  will take the tenth of your sheep: and ye shall be his servants. </p>
+id: 1SA/8/17
+next:
+  id: 1SA/8/18
+  number: '18'
+previous:
+  id: 1SA/8/16
+  number: '16'
+reference: '1 Samuel 8:17'

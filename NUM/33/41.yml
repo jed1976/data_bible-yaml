@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="NUM 33:41"
+  class="v">41</span>And they departed from mount Hor, and pitched in Zalmonah.
+  </p>
+id: NUM/33/41
+next:
+  id: NUM/33/42
+  number: '42'
+previous:
+  id: NUM/33/40
+  number: '40'
+reference: 'Numbers 33:41'

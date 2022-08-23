@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm.</p><p class="q1"><span data-number="1" data-sid="PSA
+  98:1" class="v">1</span>O sing unto the <span class="nd">LORD</span> a new
+  song; for he hath done marvellous things: his right hand, and his holy arm,
+  hath gotten him the victory.</p>
+id: PSA/98/1
+next:
+  id: PSA/98/2
+  number: '2'
+previous:
+  id: PSA/97/12
+  number: '12'
+reference: 'Psalms 98:1'

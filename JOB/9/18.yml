@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 9:18" class="v">18</span>He
+  will not suffer me to take my breath, but filleth me with bitterness. </p>
+id: JOB/9/18
+next:
+  id: JOB/9/19
+  number: '19'
+previous:
+  id: JOB/9/17
+  number: '17'
+reference: 'Job 9:18'

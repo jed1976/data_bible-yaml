@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 12:7"
+  class="v">7</span>Sallu, Amok, Hilkiah, Jedaiah. These <span
+  class="add">were</span> the chief of the priests and of their brethren in the
+  days of Jeshua. </p>
+id: NEH/12/7
+next:
+  id: NEH/12/8
+  number: '8'
+previous:
+  id: NEH/12/6
+  number: '6'
+reference: 'Nehemiah 12:7'

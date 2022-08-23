@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 24:16" class="v">16</span>He
+  hath said, which heard the words of God, and knew the knowledge of the most
+  High, <span class="add">which</span> saw the vision of the Almighty, falling
+  <span class="add">into a trance</span>, but having his eyes open: </p>
+id: NUM/24/16
+next:
+  id: NUM/24/17
+  number: '17'
+previous:
+  id: NUM/24/15
+  number: '15'
+reference: 'Numbers 24:16'

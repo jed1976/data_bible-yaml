@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 15:19"
+  class="v">19</span>Then it shall be, that, when ye eat of the bread of the
+  land, ye shall offer up an heave offering unto the <span
+  class="nd">LORD</span>. </p>
+id: NUM/15/19
+next:
+  id: NUM/15/20
+  number: '20'
+previous:
+  id: NUM/15/18
+  number: '18'
+reference: 'Numbers 15:19'

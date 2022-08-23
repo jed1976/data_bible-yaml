@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 10:13"
+  class="v">13</span>And ye shall eat it in the holy place, because it <span
+  class="add">is</span> thy due, and thy sons’ due, of the sacrifices of the
+  <span class="nd">LORD</span> made by fire: for so I am commanded. </p>
+id: LEV/10/13
+next:
+  id: LEV/10/14
+  number: '14'
+previous:
+  id: LEV/10/12
+  number: '12'
+reference: 'Leviticus 10:13'

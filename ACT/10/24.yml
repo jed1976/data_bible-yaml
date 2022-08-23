@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 10:24"
+  class="v">24</span>And the morrow after they entered into Cæsarea. And
+  Cornelius waited for them, and had called together his kinsmen and near
+  friends. </p>
+id: ACT/10/24
+next:
+  id: ACT/10/25
+  number: '25'
+previous:
+  id: ACT/10/23
+  number: '23'
+reference: 'Acts 10:24'

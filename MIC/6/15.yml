@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MIC 6:15"
+  class="v">15</span>Thou shalt sow, but thou shalt not reap; thou shalt tread
+  the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt
+  not drink wine.</p>
+id: MIC/6/15
+next:
+  id: MIC/6/16
+  number: '16'
+previous:
+  id: MIC/6/14
+  number: '14'
+reference: 'Micah 6:15'

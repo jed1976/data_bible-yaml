@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 5:15" class="v">15</span>And
+  remember that thou wast a servant in the land of Egypt, and <span
+  class="add">that</span> the <span class="nd">LORD</span> thy God brought thee
+  out thence through a mighty hand and by a stretched out arm: therefore the
+  <span class="nd">LORD</span> thy God commanded thee to keep the sabbath
+  day.</p>
+id: DEU/5/15
+next:
+  id: DEU/5/16
+  number: '16'
+previous:
+  id: DEU/5/14
+  number: '14'
+reference: 'Deuteronomy 5:15'

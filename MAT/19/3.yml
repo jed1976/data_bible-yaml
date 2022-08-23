@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 19:3" class="v">3</span>¶ The
+  Pharisees also came unto him, tempting him, and saying unto him, Is it lawful
+  for a man to put away his wife for every cause? </p>
+id: MAT/19/3
+next:
+  id: MAT/19/4
+  number: '4'
+previous:
+  id: MAT/19/2
+  number: '2'
+reference: 'Matthew 19:3'

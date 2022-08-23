@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 26:20"
+  class="v">20</span>And for the second side of the tabernacle on the north side
+  <span class="add">there shall be</span> twenty boards: </p>
+id: EXO/26/20
+next:
+  id: EXO/26/21
+  number: '21'
+previous:
+  id: EXO/26/19
+  number: '19'
+reference: 'Exodus 26:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="53" data-sid="MRK 14:53" class="v">53</span>¶
+  And they led Jesus away to the high priest: and with him were assembled all
+  the chief priests and the elders and the scribes. </p>
+id: MRK/14/53
+next:
+  id: MRK/14/54
+  number: '54'
+previous:
+  id: MRK/14/52
+  number: '52'
+reference: 'Mark 14:53'

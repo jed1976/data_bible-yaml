@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="MRK 10:40"
+  class="v">40</span><span class="wj">But to sit on my right hand and on my left
+  hand is not mine to give; but <span class="add">it shall be given to
+  them</span> for whom it is prepared.</span> </p>
+id: MRK/10/40
+next:
+  id: MRK/10/41
+  number: '41'
+previous:
+  id: MRK/10/39
+  number: '39'
+reference: 'Mark 10:40'

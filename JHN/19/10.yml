@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 19:10"
+  class="v">10</span>Then saith Pilate unto him, Speakest thou not unto me?
+  knowest thou not that I have power to crucify thee, and have power to release
+  thee? </p>
+id: JHN/19/10
+next:
+  id: JHN/19/11
+  number: '11'
+previous:
+  id: JHN/19/9
+  number: '9'
+reference: 'John 19:10'

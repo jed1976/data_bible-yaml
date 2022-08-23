@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 9:19" class="v">19</span>And
+  Jesus arose, and followed him, and <span class="add">so did</span> his
+  disciples.</p>
+id: MAT/9/19
+next:
+  id: MAT/9/20
+  number: '20'
+previous:
+  id: MAT/9/18
+  number: '18'
+reference: 'Matthew 9:19'

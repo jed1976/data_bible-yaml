@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 1:3" class="v">3</span>And
+  they said unto me, The remnant that are left of the captivity there in the
+  province <span class="add">are</span> in great affliction and reproach: the
+  wall of Jerusalem also <span class="add">is</span> broken down, and the gates
+  thereof are burned with fire.</p>
+id: NEH/1/3
+next:
+  id: NEH/1/4
+  number: '4'
+previous:
+  id: NEH/1/2
+  number: '2'
+reference: 'Nehemiah 1:3'

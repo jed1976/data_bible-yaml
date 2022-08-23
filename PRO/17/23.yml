@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="PRO 17:23" class="v">23</span>A
+  wicked <span class="add">man</span> taketh a gift out of the bosom to pervert
+  the ways of judgment. </p>
+id: PRO/17/23
+next:
+  id: PRO/17/24
+  number: '24'
+previous:
+  id: PRO/17/22
+  number: '22'
+reference: 'Proverbs 17:23'

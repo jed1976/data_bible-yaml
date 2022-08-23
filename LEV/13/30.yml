@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LEV 13:30"
+  class="v">30</span>Then the priest shall see the plague: and, behold, if it
+  <span class="add">be</span> in sight deeper than the skin; <span
+  class="add">and there be</span> in it a yellow thin hair; then the priest
+  shall pronounce him unclean: it <span class="add">is</span> a dry scall, <span
+  class="add">even</span> a leprosy upon the head or beard. </p>
+id: LEV/13/30
+next:
+  id: LEV/13/31
+  number: '31'
+previous:
+  id: LEV/13/29
+  number: '29'
+reference: 'Leviticus 13:30'

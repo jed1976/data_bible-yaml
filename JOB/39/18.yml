@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 39:18"
+  class="v">18</span>What time she lifteth up herself on high, she scorneth the
+  horse and his rider.</p>
+id: JOB/39/18
+next:
+  id: JOB/39/19
+  number: '19'
+previous:
+  id: JOB/39/17
+  number: '17'
+reference: 'Job 39:18'

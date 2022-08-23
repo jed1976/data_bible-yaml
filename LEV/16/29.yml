@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LEV 16:29" class="v">29</span>¶
+  And <span class="add">this</span> shall be a statute for ever unto you: <span
+  class="add">that</span> in the seventh month, on the tenth <span
+  class="add">day</span> of the month, ye shall afflict your souls, and do no
+  work at all, <span class="add">whether it be</span> one of your own country,
+  or a stranger that sojourneth among you: </p>
+id: LEV/16/29
+next:
+  id: LEV/16/30
+  number: '30'
+previous:
+  id: LEV/16/28
+  number: '28'
+reference: 'Leviticus 16:29'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 47:30"
+  class="v">30</span>But I will lie with my fathers, and thou shalt carry me out
+  of Egypt, and bury me in their buryingplace. And he said, I will do as thou
+  hast said. </p>
+id: GEN/47/30
+next:
+  id: GEN/47/31
+  number: '31'
+previous:
+  id: GEN/47/29
+  number: '29'
+reference: 'Genesis 47:30'

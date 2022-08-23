@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JAS 5:4"
+  class="v">4</span>Behold, the hire of the labourers who have reaped down your
+  fields, which is of you kept back by fraud, crieth: and the cries of them
+  which have reaped are entered into the ears of the Lord of sabaoth. </p>
+id: JAS/5/4
+next:
+  id: JAS/5/5
+  number: '5'
+previous:
+  id: JAS/5/3
+  number: '3'
+reference: 'James 5:4'

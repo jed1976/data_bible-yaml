@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 23:1" class="v">1</span>Thou
+  shalt not raise a false report: put not thine hand with the wicked to be an
+  unrighteous witness.</p>
+id: EXO/23/1
+next:
+  id: EXO/23/2
+  number: '2'
+previous:
+  id: EXO/22/31
+  number: '31'
+reference: 'Exodus 23:1'

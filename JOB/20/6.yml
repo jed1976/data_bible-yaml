@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 20:6"
+  class="v">6</span>Though his excellency mount up to the heavens, and his head
+  reach unto the clouds; </p>
+id: JOB/20/6
+next:
+  id: JOB/20/7
+  number: '7'
+previous:
+  id: JOB/20/5
+  number: '5'
+reference: 'Job 20:6'

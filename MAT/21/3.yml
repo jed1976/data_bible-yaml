@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 21:3" class="v">3</span><span
+  class="wj">And if any <span class="add">man</span> say ought unto you, ye
+  shall say, The Lord hath need of them; and straightway he will send
+  them.</span> </p>
+id: MAT/21/3
+next:
+  id: MAT/21/4
+  number: '4'
+previous:
+  id: MAT/21/2
+  number: '2'
+reference: 'Matthew 21:3'

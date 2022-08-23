@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 22:1" class="v">1</span>Now
+  the feast of unleavened bread drew nigh, which is called the Passover. </p>
+id: LUK/22/1
+next:
+  id: LUK/22/2
+  number: '2'
+previous:
+  id: LUK/21/38
+  number: '38'
+reference: 'Luke 22:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 12:20"
+  class="v">20</span>Now there were seven brethren: and the first took a wife,
+  and dying left no seed. </p>
+id: MRK/12/20
+next:
+  id: MRK/12/21
+  number: '21'
+previous:
+  id: MRK/12/19
+  number: '19'
+reference: 'Mark 12:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GAL 3:13"
+  class="v">13</span>Christ hath redeemed us from the curse of the law, being
+  made a curse for us: for it is written, Cursed <span class="add">is</span>
+  every one that hangeth on a tree: </p>
+id: GAL/3/13
+next:
+  id: GAL/3/14
+  number: '14'
+previous:
+  id: GAL/3/12
+  number: '12'
+reference: 'Galatians 3:13'

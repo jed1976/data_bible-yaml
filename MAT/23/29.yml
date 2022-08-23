@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="MAT 23:29"
+  class="v">29</span><span class="wj">Woe unto you, scribes and Pharisees,
+  hypocrites! because ye build the tombs of the prophets, and garnish the
+  sepulchres of the righteous,</span> </p>
+id: MAT/23/29
+next:
+  id: MAT/23/30
+  number: '30'
+previous:
+  id: MAT/23/28
+  number: '28'
+reference: 'Matthew 23:29'

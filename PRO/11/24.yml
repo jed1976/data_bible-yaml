@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 11:24"
+  class="v">24</span>There is that scattereth, and yet increaseth; and <span
+  class="add">there is</span> that withholdeth more than is meet, but <span
+  class="add">it tendeth</span> to poverty. </p>
+id: PRO/11/24
+next:
+  id: PRO/11/25
+  number: '25'
+previous:
+  id: PRO/11/23
+  number: '23'
+reference: 'Proverbs 11:24'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 2:8" class="v">8</span>And a
+  letter unto Asaph the keeper of the king’s forest, that he may give me timber
+  to make beams for the gates of the palace which <span
+  class="add">appertained</span> to the house, and for the wall of the city, and
+  for the house that I shall enter into. And the king granted me, according to
+  the good hand of my God upon me.</p>
+id: NEH/2/8
+next:
+  id: NEH/2/9
+  number: '9'
+previous:
+  id: NEH/2/7
+  number: '7'
+reference: 'Nehemiah 2:8'

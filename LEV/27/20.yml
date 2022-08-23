@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 27:20"
+  class="v">20</span>And if he will not redeem the field, or if he have sold the
+  field to another man, it shall not be redeemed any more. </p>
+id: LEV/27/20
+next:
+  id: LEV/27/21
+  number: '21'
+previous:
+  id: LEV/27/19
+  number: '19'
+reference: 'Leviticus 27:20'

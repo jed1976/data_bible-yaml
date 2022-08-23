@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 28:27"
+  class="v">27</span>For the heart of this people is waxed gross, and their ears
+  are dull of hearing, and their eyes have they closed; lest they should see
+  with <span class="add">their</span> eyes, and hear with <span
+  class="add">their</span> ears, and understand with <span
+  class="add">their</span> heart, and should be converted, and I should heal
+  them. </p>
+id: ACT/28/27
+next:
+  id: ACT/28/28
+  number: '28'
+previous:
+  id: ACT/28/26
+  number: '26'
+reference: 'Acts 28:27'

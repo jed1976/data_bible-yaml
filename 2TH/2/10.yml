@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2TH 2:10" class="v">10</span>And
+  with all deceivableness of unrighteousness in them that perish; because they
+  received not the love of the truth, that they might be saved. </p>
+id: 2TH/2/10
+next:
+  id: 2TH/2/11
+  number: '11'
+previous:
+  id: 2TH/2/9
+  number: '9'
+reference: '2 Thessalonians 2:10'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 22:32"
+  class="v">32</span>And the angel of the <span class="nd">LORD</span> said unto
+  him, Wherefore hast thou smitten thine ass these three times? behold, I went
+  out to withstand thee, because <span class="add">thy</span> way is perverse
+  before me: </p>
+id: NUM/22/32
+next:
+  id: NUM/22/33
+  number: '33'
+previous:
+  id: NUM/22/31
+  number: '31'
+reference: 'Numbers 22:32'

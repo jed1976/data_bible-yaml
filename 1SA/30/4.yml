@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 30:4" class="v">4</span>Then
+  David and the people that <span class="add">were</span> with him lifted up
+  their voice and wept, until they had no more power to weep. </p>
+id: 1SA/30/4
+next:
+  id: 1SA/30/5
+  number: '5'
+previous:
+  id: 1SA/30/3
+  number: '3'
+reference: '1 Samuel 30:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DEU 21:1" class="v">1</span>If
+  <span class="add">one</span> be found slain in the land which the <span
+  class="nd">LORD</span> thy God giveth thee to possess it, lying in the field,
+  <span class="add">and</span> it be not known who hath slain him: </p>
+id: DEU/21/1
+next:
+  id: DEU/21/2
+  number: '2'
+previous:
+  id: DEU/20/20
+  number: '20'
+reference: 'Deuteronomy 21:1'

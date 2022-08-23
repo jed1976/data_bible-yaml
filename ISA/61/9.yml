@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 61:9" class="v">9</span>And
+  their seed shall be known among the Gentiles, and their offspring among the
+  people: all that see them shall acknowledge them, that they <span
+  class="add">are</span> the seed <span class="add">which</span> the <span
+  class="nd">LORD</span> hath blessed.</p>
+id: ISA/61/9
+next:
+  id: ISA/61/10
+  number: '10'
+previous:
+  id: ISA/61/8
+  number: '8'
+reference: 'Isaiah 61:9'

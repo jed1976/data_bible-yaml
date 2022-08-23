@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 10:1" class="v">1</span>And
+  the <span class="nd">LORD</span> said unto Moses, Go in unto Pharaoh: for I
+  have hardened his heart, and the heart of his servants, that I might shew
+  these my signs before him: </p>
+id: EXO/10/1
+next:
+  id: EXO/10/2
+  number: '2'
+previous:
+  id: EXO/9/35
+  number: '35'
+reference: 'Exodus 10:1'

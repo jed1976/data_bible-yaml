@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="14" data-sid="PSA 115:14"
+  class="v">14</span>The <span class="nd">LORD</span> shall increase you more
+  and more, you and your children.</p>
+id: PSA/115/14
+next:
+  id: PSA/115/15
+  number: '15'
+previous:
+  id: PSA/115/13
+  number: '13'
+reference: 'Psalms 115:14'

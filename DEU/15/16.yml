@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 15:16"
+  class="v">16</span>And it shall be, if he say unto thee, I will not go away
+  from thee; because he loveth thee and thine house, because he is well with
+  thee; </p>
+id: DEU/15/16
+next:
+  id: DEU/15/17
+  number: '17'
+previous:
+  id: DEU/15/15
+  number: '15'
+reference: 'Deuteronomy 15:16'

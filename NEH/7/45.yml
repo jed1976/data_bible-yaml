@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="NEH 7:45" class="v">45</span>¶
+  The porters: the children of Shallum, the children of Ater, the children of
+  Talmon, the children of Akkub, the children of Hatita, the children of Shobai,
+  an hundred thirty and eight.</p>
+id: NEH/7/45
+next:
+  id: NEH/7/46
+  number: '46'
+previous:
+  id: NEH/7/44
+  number: '44'
+reference: 'Nehemiah 7:45'

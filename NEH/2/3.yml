@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NEH 2:3" class="v">3</span>And
+  said unto the king, Let the king live for ever: why should not my countenance
+  be sad, when the city, the place of my fathers’ sepulchres, <span
+  class="add">lieth</span> waste, and the gates thereof are consumed with fire?
+  </p>
+id: NEH/2/3
+next:
+  id: NEH/2/4
+  number: '4'
+previous:
+  id: NEH/2/2
+  number: '2'
+reference: 'Nehemiah 2:3'

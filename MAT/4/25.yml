@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MAT 4:25" class="v">25</span>And
+  there followed him great multitudes of people from Galilee, and <span
+  class="add">from</span> Decapolis, and <span class="add">from</span>
+  Jerusalem, and <span class="add">from</span> Judaea, and <span
+  class="add">from</span> beyond Jordan.</p>
+id: MAT/4/25
+next:
+  id: MAT/5/1
+  number: '1'
+previous:
+  id: MAT/4/24
+  number: '24'
+reference: 'Matthew 4:25'

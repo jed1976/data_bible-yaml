@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="57" data-sid="LAM 3:57"
+  class="v">57</span>Thou drewest near in the day <span class="add">that</span>
+  I called upon thee: thou saidst, Fear not. </p>
+id: LAM/3/57
+next:
+  id: LAM/3/58
+  number: '58'
+previous:
+  id: LAM/3/56
+  number: '56'
+reference: 'Lamentations 3:57'

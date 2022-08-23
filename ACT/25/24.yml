@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 25:24"
+  class="v">24</span>And Festus said, King Agrippa, and all men which are here
+  present with us, ye see this man, about whom all the multitude of the Jews
+  have dealt with me, both at Jerusalem, and <span class="add">also</span> here,
+  crying that he ought not to live any longer. </p>
+id: ACT/25/24
+next:
+  id: ACT/25/25
+  number: '25'
+previous:
+  id: ACT/25/23
+  number: '23'
+reference: 'Acts 25:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="NUM 2:29" class="v">29</span>¶
+  Then the tribe of Naphtali: and the captain of the children of Naphtali <span
+  class="add">shall be</span> Ahira the son of Enan. </p>
+id: NUM/2/29
+next:
+  id: NUM/2/30
+  number: '30'
+previous:
+  id: NUM/2/28
+  number: '28'
+reference: 'Numbers 2:29'

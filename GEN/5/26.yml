@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 5:26" class="v">26</span>And
+  Methuselah lived after he begat Lamech seven hundred eighty and two years, and
+  begat sons and daughters: </p>
+id: GEN/5/26
+next:
+  id: GEN/5/27
+  number: '27'
+previous:
+  id: GEN/5/25
+  number: '25'
+reference: 'Genesis 5:26'

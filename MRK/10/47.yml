@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MRK 10:47"
+  class="v">47</span>And when he heard that it was Jesus of Nazareth, he began
+  to cry out, and say, Jesus, <span class="add">thou</span> Son of David, have
+  mercy on me. </p>
+id: MRK/10/47
+next:
+  id: MRK/10/48
+  number: '48'
+previous:
+  id: MRK/10/46
+  number: '46'
+reference: 'Mark 10:47'

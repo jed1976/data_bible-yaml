@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 11:1" class="v">1</span>Also
+  I in the first year of Darius the Mede, <span class="add">even</span> I, stood
+  to confirm and to strengthen him. </p>
+id: DAN/11/1
+next:
+  id: DAN/11/2
+  number: '2'
+previous:
+  id: DAN/10/21
+  number: '21'
+reference: 'Daniel 11:1'

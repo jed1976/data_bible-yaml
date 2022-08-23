@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="EXO 29:40"
+  class="v">40</span>And with the one lamb a tenth deal of flour mingled with
+  the fourth part of an hin of beaten oil; and the fourth part of an hin of wine
+  <span class="add">for</span> a drink offering. </p>
+id: EXO/29/40
+next:
+  id: EXO/29/41
+  number: '41'
+previous:
+  id: EXO/29/39
+  number: '39'
+reference: 'Exodus 29:40'

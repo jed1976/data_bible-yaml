@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 14:5" class="v">5</span>And
+  when he would have put him to death, he feared the multitude, because they
+  counted him as a prophet. </p>
+id: MAT/14/5
+next:
+  id: MAT/14/6
+  number: '6'
+previous:
+  id: MAT/14/4
+  number: '4'
+reference: 'Matthew 14:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 35:21"
+  class="v">21</span>Yea, they opened their mouth wide against me, <span
+  class="add">and</span> said, Aha, aha, our eye hath seen <span
+  class="add">it</span>.</p>
+id: PSA/35/21
+next:
+  id: PSA/35/22
+  number: '22'
+previous:
+  id: PSA/35/20
+  number: '20'
+reference: 'Psalms 35:21'

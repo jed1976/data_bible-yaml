@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 1:23" class="v">23</span>And
+  changed the glory of the uncorruptible God into an image made like to
+  corruptible man, and to birds, and fourfooted beasts, and creeping things.</p>
+id: ROM/1/23
+next:
+  id: ROM/1/24
+  number: '24'
+previous:
+  id: ROM/1/22
+  number: '22'
+reference: 'Romans 1:23'

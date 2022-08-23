@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PHP 2:29"
+  class="v">29</span>Receive him therefore in the Lord with all gladness; and
+  hold such in reputation: </p>
+id: PHP/2/29
+next:
+  id: PHP/2/30
+  number: '30'
+previous:
+  id: PHP/2/28
+  number: '28'
+reference: 'Philippians 2:29'

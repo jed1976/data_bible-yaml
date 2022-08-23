@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CH 2:21" class="v">21</span>¶
+  And afterward Hezron went in to the daughter of Machir the father of Gilead,
+  whom he married when he <span class="add">was</span> threescore years old; and
+  she bare him Segub. </p>
+id: 1CH/2/21
+next:
+  id: 1CH/2/22
+  number: '22'
+previous:
+  id: 1CH/2/20
+  number: '20'
+reference: '1 Chronicles 2:21'

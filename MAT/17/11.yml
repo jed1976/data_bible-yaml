@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 17:11"
+  class="v">11</span>And Jesus answered and said unto them, <span
+  class="wj">Elias truly shall first come, and restore all things.</span> </p>
+id: MAT/17/11
+next:
+  id: MAT/17/12
+  number: '12'
+previous:
+  id: MAT/17/10
+  number: '10'
+reference: 'Matthew 17:11'

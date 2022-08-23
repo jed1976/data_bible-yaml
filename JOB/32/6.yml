@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 32:6" class="v">6</span>And
+  Elihu the son of Barachel the Buzite answered and said, I <span
+  class="add">am</span> young, and ye <span class="add">are</span> very old;
+  wherefore I was afraid, and durst not shew you mine opinion. </p>
+id: JOB/32/6
+next:
+  id: JOB/32/7
+  number: '7'
+previous:
+  id: JOB/32/5
+  number: '5'
+reference: 'Job 32:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 89:27"
+  class="v">27</span>Also I will make him <span class="add">my</span> firstborn,
+  higher than the kings of the earth.</p>
+id: PSA/89/27
+next:
+  id: PSA/89/28
+  number: '28'
+previous:
+  id: PSA/89/26
+  number: '26'
+reference: 'Psalms 89:27'

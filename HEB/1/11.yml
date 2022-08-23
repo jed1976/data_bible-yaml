@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="HEB 1:11"
+  class="v">11</span>They shall perish; but thou remainest; and they all shall
+  wax old as doth a garment; </p>
+id: HEB/1/11
+next:
+  id: HEB/1/12
+  number: '12'
+previous:
+  id: HEB/1/10
+  number: '10'
+reference: 'Hebrews 1:11'

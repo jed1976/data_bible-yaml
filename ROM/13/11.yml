@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ROM 13:11"
+  class="v">11</span>And that, knowing the time, that now <span class="add">it
+  is</span> high time to awake out of sleep: for now <span class="add">is</span>
+  our salvation nearer than when we believed. </p>
+id: ROM/13/11
+next:
+  id: ROM/13/12
+  number: '12'
+previous:
+  id: ROM/13/10
+  number: '10'
+reference: 'Romans 13:11'

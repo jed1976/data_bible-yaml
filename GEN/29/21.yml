@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 29:21" class="v">21</span>¶
+  And Jacob said unto Laban, Give <span class="add">me</span> my wife, for my
+  days are fulfilled, that I may go in unto her. </p>
+id: GEN/29/21
+next:
+  id: GEN/29/22
+  number: '22'
+previous:
+  id: GEN/29/20
+  number: '20'
+reference: 'Genesis 29:21'

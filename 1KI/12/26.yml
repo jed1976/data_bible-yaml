@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1KI 12:26"
+  class="v">26</span>And Jeroboam said in his heart, Now shall the kingdom
+  return to the house of David: </p>
+id: 1KI/12/26
+next:
+  id: 1KI/12/27
+  number: '27'
+previous:
+  id: 1KI/12/25
+  number: '25'
+reference: '1 Kings 12:26'

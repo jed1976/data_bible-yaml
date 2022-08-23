@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 4:3" class="v">3</span>Yea,
+  better <span class="add">is he</span> than both they, which hath not yet been,
+  who hath not seen the evil work that is done under the sun.</p>
+id: ECC/4/3
+next:
+  id: ECC/4/4
+  number: '4'
+previous:
+  id: ECC/4/2
+  number: '2'
+reference: 'Ecclesiastes 4:3'

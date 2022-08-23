@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 2:8" class="v">8</span>Their
+  land also is full of idols; they worship the work of their own hands, that
+  which their own fingers have made: </p>
+id: ISA/2/8
+next:
+  id: ISA/2/9
+  number: '9'
+previous:
+  id: ISA/2/7
+  number: '7'
+reference: 'Isaiah 2:8'

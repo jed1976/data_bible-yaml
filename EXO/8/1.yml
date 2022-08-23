@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 8:1" class="v">1</span>And
+  the <span class="nd">LORD</span> spake unto Moses, Go unto Pharaoh, and say
+  unto him, Thus saith the <span class="nd">LORD</span>, Let my people go, that
+  they may serve me. </p>
+id: EXO/8/1
+next:
+  id: EXO/8/2
+  number: '2'
+previous:
+  id: EXO/7/25
+  number: '25'
+reference: 'Exodus 8:1'

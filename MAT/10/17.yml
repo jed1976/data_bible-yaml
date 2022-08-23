@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 10:17"
+  class="v">17</span><span class="wj">But beware of men: for they will deliver
+  you up to the councils, and they will scourge you in their synagogues;</span>
+  </p>
+id: MAT/10/17
+next:
+  id: MAT/10/18
+  number: '18'
+previous:
+  id: MAT/10/16
+  number: '16'
+reference: 'Matthew 10:17'

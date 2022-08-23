@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="RUT 2:21" class="v">21</span>And
+  Ruth the Moabitess said, He said unto me also, Thou shalt keep fast by my
+  young men, until they have ended all my harvest. </p>
+id: RUT/2/21
+next:
+  id: RUT/2/22
+  number: '22'
+previous:
+  id: RUT/2/20
+  number: '20'
+reference: 'Ruth 2:21'

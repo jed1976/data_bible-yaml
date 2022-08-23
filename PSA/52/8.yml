@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 52:8" class="v">8</span>But
+  I <span class="add">am</span> like a green olive tree in the house of God: I
+  trust in the mercy of God for ever and ever.</p>
+id: PSA/52/8
+next:
+  id: PSA/52/9
+  number: '9'
+previous:
+  id: PSA/52/7
+  number: '7'
+reference: 'Psalms 52:8'

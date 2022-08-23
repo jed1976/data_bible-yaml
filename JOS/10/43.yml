@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JOS 10:43"
+  class="v">43</span>And Joshua returned, and all Israel with him, unto the camp
+  to Gilgal.</p>
+id: JOS/10/43
+next:
+  id: JOS/11/1
+  number: '1'
+previous:
+  id: JOS/10/42
+  number: '42'
+reference: 'Joshua 10:43'

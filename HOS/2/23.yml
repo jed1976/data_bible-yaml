@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="HOS 2:23" class="v">23</span>And
+  I will sow her unto me in the earth; and I will have mercy upon her that had
+  not obtained mercy; and I will say to <span class="add">them which were</span>
+  not my people, Thou <span class="add">art</span> my people; and they shall
+  say, <span class="add">Thou art</span> my God.</p>
+id: HOS/2/23
+next:
+  id: HOS/3/1
+  number: '1'
+previous:
+  id: HOS/2/22
+  number: '22'
+reference: 'Hosea 2:23'

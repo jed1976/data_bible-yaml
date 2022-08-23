@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 84:10"
+  class="v">10</span>For a day in thy courts <span class="add">is</span> better
+  than a thousand. I had rather be a doorkeeper in the house of my God, than to
+  dwell in the tents of wickedness.</p>
+id: PSA/84/10
+next:
+  id: PSA/84/11
+  number: '11'
+previous:
+  id: PSA/84/9
+  number: '9'
+reference: 'Psalms 84:10'

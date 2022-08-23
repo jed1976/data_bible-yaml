@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 15:7"
+  class="v">7</span>Therefore the abundance they have gotten, and that which
+  they have laid up, shall they carry away to the brook of the willows. </p>
+id: ISA/15/7
+next:
+  id: ISA/15/8
+  number: '8'
+previous:
+  id: ISA/15/6
+  number: '6'
+reference: 'Isaiah 15:7'

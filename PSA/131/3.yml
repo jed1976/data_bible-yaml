@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 131:3" class="v">3</span>Let
+  Israel hope in the <span class="nd">LORD</span> from henceforth and for
+  ever.</p>
+id: PSA/131/3
+next:
+  id: PSA/132/1
+  number: '1'
+previous:
+  id: PSA/131/2
+  number: '2'
+reference: 'Psalms 131:3'

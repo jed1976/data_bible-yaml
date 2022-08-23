@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EST 4:13"
+  class="v">13</span>Then Mordecai commanded to answer Esther, Think not with
+  thyself that thou shalt escape in the king’s house, more than all the Jews.
+  </p>
+id: EST/4/13
+next:
+  id: EST/4/14
+  number: '14'
+previous:
+  id: EST/4/12
+  number: '12'
+reference: 'Esther 4:13'

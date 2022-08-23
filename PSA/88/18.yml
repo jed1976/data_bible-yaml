@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 88:18"
+  class="v">18</span>Lover and friend hast thou put far from me, <span
+  class="add">and</span> mine acquaintance into darkness.</p>
+id: PSA/88/18
+next:
+  id: PSA/89/1
+  number: '1'
+previous:
+  id: PSA/88/17
+  number: '17'
+reference: 'Psalms 88:18'

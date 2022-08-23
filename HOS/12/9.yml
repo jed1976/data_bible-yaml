@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 12:9" class="v">9</span>And I
+  <span class="add">that am</span> the <span class="nd">LORD</span> thy God from
+  the land of Egypt will yet make thee to dwell in tabernacles, as in the days
+  of the solemn feast. </p>
+id: HOS/12/9
+next:
+  id: HOS/12/10
+  number: '10'
+previous:
+  id: HOS/12/8
+  number: '8'
+reference: 'Hosea 12:9'

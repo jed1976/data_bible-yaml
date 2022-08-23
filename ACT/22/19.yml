@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 22:19"
+  class="v">19</span>And I said, Lord, they know that I imprisoned and beat in
+  every synagogue them that believed on thee: </p>
+id: ACT/22/19
+next:
+  id: ACT/22/20
+  number: '20'
+previous:
+  id: ACT/22/18
+  number: '18'
+reference: 'Acts 22:19'

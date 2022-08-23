@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 141:9"
+  class="v">9</span>Keep me from the snares <span class="add">which</span> they
+  have laid for me, and the gins of the workers of iniquity.</p>
+id: PSA/141/9
+next:
+  id: PSA/141/10
+  number: '10'
+previous:
+  id: PSA/141/8
+  number: '8'
+reference: 'Psalms 141:9'

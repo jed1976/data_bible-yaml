@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 70:4" class="v">4</span>Let
+  all those that seek thee rejoice and be glad in thee: and let such as love thy
+  salvation say continually, Let God be magnified.</p>
+id: PSA/70/4
+next:
+  id: PSA/70/5
+  number: '5'
+previous:
+  id: PSA/70/3
+  number: '3'
+reference: 'Psalms 70:4'

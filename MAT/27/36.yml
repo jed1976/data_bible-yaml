@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 27:36"
+  class="v">36</span>And sitting down they watched him there; </p>
+id: MAT/27/36
+next:
+  id: MAT/27/37
+  number: '37'
+previous:
+  id: MAT/27/35
+  number: '35'
+reference: 'Matthew 27:36'

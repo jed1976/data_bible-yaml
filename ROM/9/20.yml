@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 9:20" class="v">20</span>Nay
+  but, O man, who art thou that repliest against God? Shall the thing formed say
+  to him that formed <span class="add">it</span>, Why hast thou made me thus?
+  </p>
+id: ROM/9/20
+next:
+  id: ROM/9/21
+  number: '21'
+previous:
+  id: ROM/9/19
+  number: '19'
+reference: 'Romans 9:20'

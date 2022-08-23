@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 24:22"
+  class="v">22</span>And it came to pass, as the camels had done drinking, that
+  the man took a golden earring of half a shekel weight, and two bracelets for
+  her hands of ten <span class="add">shekels</span> weight of gold; </p>
+id: GEN/24/22
+next:
+  id: GEN/24/23
+  number: '23'
+previous:
+  id: GEN/24/21
+  number: '21'
+reference: 'Genesis 24:22'

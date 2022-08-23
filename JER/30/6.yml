@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 30:6" class="v">6</span>Ask
+  ye now, and see whether a man doth travail with child? wherefore do I see
+  every man with his hands on his loins, as a woman in travail, and all faces
+  are turned into paleness? </p>
+id: JER/30/6
+next:
+  id: JER/30/7
+  number: '7'
+previous:
+  id: JER/30/5
+  number: '5'
+reference: 'Jeremiah 30:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="NEH 11:36"
+  class="v">36</span>And of the Levites <span class="add">were</span> divisions
+  <span class="add">in</span> Judah, <span class="add">and</span> in
+  Benjamin.</p>
+id: NEH/11/36
+next:
+  id: NEH/12/1
+  number: '1'
+previous:
+  id: NEH/11/35
+  number: '35'
+reference: 'Nehemiah 11:36'

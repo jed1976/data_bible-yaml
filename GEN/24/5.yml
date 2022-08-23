@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 24:5" class="v">5</span>And
+  the servant said unto him, Peradventure the woman will not be willing to
+  follow me unto this land: must I needs bring thy son again unto the land from
+  whence thou camest? </p>
+id: GEN/24/5
+next:
+  id: GEN/24/6
+  number: '6'
+previous:
+  id: GEN/24/4
+  number: '4'
+reference: 'Genesis 24:5'

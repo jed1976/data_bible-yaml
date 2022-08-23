@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="DEU 4:41" class="v">41</span>¶
+  Then Moses severed three cities on this side Jordan toward the sunrising; </p>
+id: DEU/4/41
+next:
+  id: DEU/4/42
+  number: '42'
+previous:
+  id: DEU/4/40
+  number: '40'
+reference: 'Deuteronomy 4:41'

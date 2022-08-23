@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 37:6" class="v">6</span>¶ And
+  he made the mercy seat <span class="add">of</span> pure gold: two cubits and a
+  half <span class="add">was</span> the length thereof, and one cubit and a half
+  the breadth thereof. </p>
+id: EXO/37/6
+next:
+  id: EXO/37/7
+  number: '7'
+previous:
+  id: EXO/37/5
+  number: '5'
+reference: 'Exodus 37:6'

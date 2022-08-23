@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 2:7" class="v">7</span>Jesus
+  saith unto them, <span class="wj">Fill the waterpots with water.</span> And
+  they filled them up to the brim. </p>
+id: JHN/2/7
+next:
+  id: JHN/2/8
+  number: '8'
+previous:
+  id: JHN/2/6
+  number: '6'
+reference: 'John 2:7'

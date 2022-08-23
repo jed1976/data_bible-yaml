@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="NUM 21:27"
+  class="v">27</span>Wherefore they that speak in proverbs say, Come into
+  Heshbon, let the city of Sihon be built and prepared: </p>
+id: NUM/21/27
+next:
+  id: NUM/21/28
+  number: '28'
+previous:
+  id: NUM/21/26
+  number: '26'
+reference: 'Numbers 21:27'

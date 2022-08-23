@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="NUM 21:13"
+  class="v">13</span>From thence they removed, and pitched on the other side of
+  Arnon, which <span class="add">is</span> in the wilderness that cometh out of
+  the coasts of the Amorites: for Arnon <span class="add">is</span> the border
+  of Moab, between Moab and the Amorites. </p>
+id: NUM/21/13
+next:
+  id: NUM/21/14
+  number: '14'
+previous:
+  id: NUM/21/12
+  number: '12'
+reference: 'Numbers 21:13'

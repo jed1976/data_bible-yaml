@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ROM 11:26"
+  class="v">26</span>And so all Israel shall be saved: as it is written, There
+  shall come out of Sion the Deliverer, and shall turn away ungodliness from
+  Jacob: </p>
+id: ROM/11/26
+next:
+  id: ROM/11/27
+  number: '27'
+previous:
+  id: ROM/11/25
+  number: '25'
+reference: 'Romans 11:26'

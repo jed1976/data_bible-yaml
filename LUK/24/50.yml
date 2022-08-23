@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 24:50" class="v">50</span>¶
+  And he led them out as far as to Bethany, and he lifted up his hands, and
+  blessed them. </p>
+id: LUK/24/50
+next:
+  id: LUK/24/51
+  number: '51'
+previous:
+  id: LUK/24/49
+  number: '49'
+reference: 'Luke 24:50'

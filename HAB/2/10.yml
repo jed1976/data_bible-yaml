@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HAB 2:10"
+  class="v">10</span>Thou hast consulted shame to thy house by cutting off many
+  people, and hast sinned <span class="add">against</span> thy soul. </p>
+id: HAB/2/10
+next:
+  id: HAB/2/11
+  number: '11'
+previous:
+  id: HAB/2/9
+  number: '9'
+reference: 'Habakkuk 2:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EST 3:11" class="v">11</span>And
+  the king said unto Haman, The silver <span class="add">is</span> given to
+  thee, the people also, to do with them as it seemeth good to thee. </p>
+id: EST/3/11
+next:
+  id: EST/3/12
+  number: '12'
+previous:
+  id: EST/3/10
+  number: '10'
+reference: 'Esther 3:11'

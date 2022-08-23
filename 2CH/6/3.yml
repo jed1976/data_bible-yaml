@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 6:3" class="v">3</span>And
+  the king turned his face, and blessed the whole congregation of Israel: and
+  all the congregation of Israel stood. </p>
+id: 2CH/6/3
+next:
+  id: 2CH/6/4
+  number: '4'
+previous:
+  id: 2CH/6/2
+  number: '2'
+reference: '2 Chronicles 6:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of David.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 24:1" class="v">1</span>The earth <span class="add">is</span>
+  the <span class="nd">LORD’s</span>, and the fulness thereof; the world, and
+  they that dwell therein.</p>
+id: PSA/24/1
+next:
+  id: PSA/24/2
+  number: '2'
+previous:
+  id: PSA/23/6
+  number: '6'
+reference: 'Psalms 24:1'

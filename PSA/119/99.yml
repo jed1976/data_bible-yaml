@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="99" data-sid="PSA 119:99"
+  class="v">99</span>I have more understanding than all my teachers: for thy
+  testimonies <span class="add">are</span> my meditation.</p>
+id: PSA/119/99
+next:
+  id: PSA/119/100
+  number: '100'
+previous:
+  id: PSA/119/98
+  number: '98'
+reference: 'Psalms 119:99'

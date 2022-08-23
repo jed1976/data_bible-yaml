@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 69:21"
+  class="v">21</span>They gave me also gall for my meat; and in my thirst they
+  gave me vinegar to drink.</p>
+id: PSA/69/21
+next:
+  id: PSA/69/22
+  number: '22'
+previous:
+  id: PSA/69/20
+  number: '20'
+reference: 'Psalms 69:21'

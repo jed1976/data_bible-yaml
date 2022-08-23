@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 7:6" class="v">6</span>For
+  thou <span class="add">art</span> an holy people unto the <span
+  class="nd">LORD</span> thy God: the <span class="nd">LORD</span> thy God hath
+  chosen thee to be a special people unto himself, above all people that <span
+  class="add">are</span> upon the face of the earth. </p>
+id: DEU/7/6
+next:
+  id: DEU/7/7
+  number: '7'
+previous:
+  id: DEU/7/5
+  number: '5'
+reference: 'Deuteronomy 7:6'

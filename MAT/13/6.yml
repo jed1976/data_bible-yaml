@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 13:6" class="v">6</span><span
+  class="wj">And when the sun was up, they were scorched; and because they had
+  no root, they withered away.</span> </p>
+id: MAT/13/6
+next:
+  id: MAT/13/7
+  number: '7'
+previous:
+  id: MAT/13/5
+  number: '5'
+reference: 'Matthew 13:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOB 1:15" class="v">15</span>And
+  the Sabeans fell <span class="add">upon them</span>, and took them away; yea,
+  they have slain the servants with the edge of the sword; and I only am escaped
+  alone to tell thee. </p>
+id: JOB/1/15
+next:
+  id: JOB/1/16
+  number: '16'
+previous:
+  id: JOB/1/14
+  number: '14'
+reference: 'Job 1:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="MAT 24:36"
+  class="v">36</span><span class="wj">¶ But of that day and hour knoweth no
+  <span class="add">man</span>, no, not the angels of heaven, but my Father
+  only.</span> </p>
+id: MAT/24/36
+next:
+  id: MAT/24/37
+  number: '37'
+previous:
+  id: MAT/24/35
+  number: '35'
+reference: 'Matthew 24:36'

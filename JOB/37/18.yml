@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 37:18"
+  class="v">18</span>Hast thou with him spread out the sky, <span
+  class="add">which is</span> strong, <span class="add">and</span> as a molten
+  looking glass? </p>
+id: JOB/37/18
+next:
+  id: JOB/37/19
+  number: '19'
+previous:
+  id: JOB/37/17
+  number: '17'
+reference: 'Job 37:18'

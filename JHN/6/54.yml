@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="JHN 6:54"
+  class="v">54</span><span class="wj">Whoso eateth my flesh, and drinketh my
+  blood, hath eternal life; and I will raise him up at the last day.</span> </p>
+id: JHN/6/54
+next:
+  id: JHN/6/55
+  number: '55'
+previous:
+  id: JHN/6/53
+  number: '53'
+reference: 'John 6:54'

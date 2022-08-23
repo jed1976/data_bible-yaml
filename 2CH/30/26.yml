@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2CH 30:26" class="v">26</span>So
+  there was great joy in Jerusalem: for since the time of Solomon the son of
+  David king of Israel <span class="add">there was</span> not the like in
+  Jerusalem.</p>
+id: 2CH/30/26
+next:
+  id: 2CH/30/27
+  number: '27'
+previous:
+  id: 2CH/30/25
+  number: '25'
+reference: '2 Chronicles 30:26'

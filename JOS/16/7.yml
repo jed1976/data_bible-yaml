@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOS 16:7" class="v">7</span>And
+  it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and
+  went out at Jordan. </p>
+id: JOS/16/7
+next:
+  id: JOS/16/8
+  number: '8'
+previous:
+  id: JOS/16/6
+  number: '6'
+reference: 'Joshua 16:7'

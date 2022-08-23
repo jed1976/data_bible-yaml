@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JDG 11:18"
+  class="v">18</span>Then they went along through the wilderness, and compassed
+  the land of Edom, and the land of Moab, and came by the east side of the land
+  of Moab, and pitched on the other side of Arnon, but came not within the
+  border of Moab: for Arnon <span class="add">was</span> the border of Moab.
+  </p>
+id: JDG/11/18
+next:
+  id: JDG/11/19
+  number: '19'
+previous:
+  id: JDG/11/17
+  number: '17'
+reference: 'Judges 11:18'

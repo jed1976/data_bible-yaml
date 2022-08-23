@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 77:4" class="v">4</span>Thou
+  holdest mine eyes waking: I am so troubled that I cannot speak.</p>
+id: PSA/77/4
+next:
+  id: PSA/77/5
+  number: '5'
+previous:
+  id: PSA/77/3
+  number: '3'
+reference: 'Psalms 77:4'

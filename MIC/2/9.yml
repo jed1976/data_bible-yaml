@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MIC 2:9" class="v">9</span>The
+  women of my people have ye cast out from their pleasant houses; from their
+  children have ye taken away my glory for ever. </p>
+id: MIC/2/9
+next:
+  id: MIC/2/10
+  number: '10'
+previous:
+  id: MIC/2/8
+  number: '8'
+reference: 'Micah 2:9'

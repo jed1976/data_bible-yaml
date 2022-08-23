@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 53:5" class="v">5</span>But
+  he <span class="add">was</span> wounded for our transgressions, <span
+  class="add">he was</span> bruised for our iniquities: the chastisement of our
+  peace <span class="add">was</span> upon him; and with his stripes we are
+  healed. </p>
+id: ISA/53/5
+next:
+  id: ISA/53/6
+  number: '6'
+previous:
+  id: ISA/53/4
+  number: '4'
+reference: 'Isaiah 53:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LEV 25:9" class="v">9</span>Then
+  shalt thou cause the trumpet of the jubile to sound on the tenth <span
+  class="add">day</span> of the seventh month, in the day of atonement shall ye
+  make the trumpet sound throughout all your land. </p>
+id: LEV/25/9
+next:
+  id: LEV/25/10
+  number: '10'
+previous:
+  id: LEV/25/8
+  number: '8'
+reference: 'Leviticus 25:9'

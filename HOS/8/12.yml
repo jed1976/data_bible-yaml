@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 8:12" class="v">12</span>I
+  have written to him the great things of my law, <span class="add">but</span>
+  they were counted as a strange thing. </p>
+id: HOS/8/12
+next:
+  id: HOS/8/13
+  number: '13'
+previous:
+  id: HOS/8/11
+  number: '11'
+reference: 'Hosea 8:12'

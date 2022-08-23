@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 29:17"
+  class="v">17</span>And thou shalt cut the ram in pieces, and wash the inwards
+  of him, and his legs, and put <span class="add">them</span> unto his pieces,
+  and unto his head. </p>
+id: EXO/29/17
+next:
+  id: EXO/29/18
+  number: '18'
+previous:
+  id: EXO/29/16
+  number: '16'
+reference: 'Exodus 29:17'

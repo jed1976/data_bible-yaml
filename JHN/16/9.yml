@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JHN 16:9" class="v">9</span><span
+  class="wj">Of sin, because they believe not on me;</span> </p>
+id: JHN/16/9
+next:
+  id: JHN/16/10
+  number: '10'
+previous:
+  id: JHN/16/8
+  number: '8'
+reference: 'John 16:9'

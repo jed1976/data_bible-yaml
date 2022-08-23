@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 31:5" class="v">5</span>As
+  birds flying, so will the <span class="nd">LORD</span> of hosts defend
+  Jerusalem; defending also he will deliver <span class="add">it; and</span>
+  passing over he will preserve it.</p>
+id: ISA/31/5
+next:
+  id: ISA/31/6
+  number: '6'
+previous:
+  id: ISA/31/4
+  number: '4'
+reference: 'Isaiah 31:5'

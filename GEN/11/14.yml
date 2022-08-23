@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 11:14"
+  class="v">14</span>And Salah lived thirty years, and begat Eber: </p>
+id: GEN/11/14
+next:
+  id: GEN/11/15
+  number: '15'
+previous:
+  id: GEN/11/13
+  number: '13'
+reference: 'Genesis 11:14'

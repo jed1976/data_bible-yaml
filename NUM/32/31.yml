@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="NUM 32:31"
+  class="v">31</span>And the children of Gad and the children of Reuben
+  answered, saying, As the <span class="nd">LORD</span> hath said unto thy
+  servants, so will we do. </p>
+id: NUM/32/31
+next:
+  id: NUM/32/32
+  number: '32'
+previous:
+  id: NUM/32/30
+  number: '30'
+reference: 'Numbers 32:31'

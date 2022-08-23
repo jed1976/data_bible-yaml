@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 15:24"
+  class="v">24</span>And the people murmured against Moses, saying, What shall
+  we drink? </p>
+id: EXO/15/24
+next:
+  id: EXO/15/25
+  number: '25'
+previous:
+  id: EXO/15/23
+  number: '23'
+reference: 'Exodus 15:24'

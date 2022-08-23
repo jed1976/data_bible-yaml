@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 24:36" class="v">36</span>¶
+  And as they thus spake, Jesus himself stood in the midst of them, and saith
+  unto them, <span class="wj">Peace <span class="add">be</span> unto you.</span>
+  </p>
+id: LUK/24/36
+next:
+  id: LUK/24/37
+  number: '37'
+previous:
+  id: LUK/24/35
+  number: '35'
+reference: 'Luke 24:36'

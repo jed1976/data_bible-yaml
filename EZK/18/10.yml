@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 18:10" class="v">10</span>¶
+  If he beget a son <span class="add">that is</span> a robber, a shedder of
+  blood, and <span class="add">that</span> doeth the like to <span
+  class="add">any</span> one of these <span class="add">things</span>, </p>
+id: EZK/18/10
+next:
+  id: EZK/18/11
+  number: '11'
+previous:
+  id: EZK/18/9
+  number: '9'
+reference: 'Ezekiel 18:10'

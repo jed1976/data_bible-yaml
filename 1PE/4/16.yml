@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1PE 4:16" class="v">16</span>Yet
+  if <span class="add">any man suffer</span> as a Christian, let him not be
+  ashamed; but let him glorify God on this behalf. </p>
+id: 1PE/4/16
+next:
+  id: 1PE/4/17
+  number: '17'
+previous:
+  id: 1PE/4/15
+  number: '15'
+reference: '1 Peter 4:16'

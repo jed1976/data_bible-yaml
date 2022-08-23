@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 118:4" class="v">4</span>Let
+  them now that fear the <span class="nd">LORD</span> say, that his mercy <span
+  class="add">endureth</span> for ever.</p>
+id: PSA/118/4
+next:
+  id: PSA/118/5
+  number: '5'
+previous:
+  id: PSA/118/3
+  number: '3'
+reference: 'Psalms 118:4'

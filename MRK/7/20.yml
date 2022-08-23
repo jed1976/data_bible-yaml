@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 7:20" class="v">20</span>And
+  he said, <span class="wj">That which cometh out of the man, that defileth the
+  man.</span> </p>
+id: MRK/7/20
+next:
+  id: MRK/7/21
+  number: '21'
+previous:
+  id: MRK/7/19
+  number: '19'
+reference: 'Mark 7:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 49:13"
+  class="v">13</span>This their way <span class="add">is</span> their folly: yet
+  their posterity approve their sayings. Selah.</p>
+id: PSA/49/13
+next:
+  id: PSA/49/14
+  number: '14'
+previous:
+  id: PSA/49/12
+  number: '12'
+reference: 'Psalms 49:13'

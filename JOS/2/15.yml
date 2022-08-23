@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JOS 2:15"
+  class="v">15</span>Then she let them down by a cord through the window: for
+  her house <span class="add">was</span> upon the town wall, and she dwelt upon
+  the wall. </p>
+id: JOS/2/15
+next:
+  id: JOS/2/16
+  number: '16'
+previous:
+  id: JOS/2/14
+  number: '14'
+reference: 'Joshua 2:15'

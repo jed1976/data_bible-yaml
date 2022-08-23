@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 48:11"
+  class="v">11</span>For mine own sake, <span class="add">even</span> for mine
+  own sake, will I do <span class="add">it:</span> for how should <span
+  class="add">my name</span> be polluted? and I will not give my glory unto
+  another.</p>
+id: ISA/48/11
+next:
+  id: ISA/48/12
+  number: '12'
+previous:
+  id: ISA/48/10
+  number: '10'
+reference: 'Isaiah 48:11'

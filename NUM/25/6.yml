@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 25:6" class="v">6</span>¶
+  And, behold, one of the children of Israel came and brought unto his brethren
+  a Midianitish woman in the sight of Moses, and in the sight of all the
+  congregation of the children of Israel, who <span class="add">were</span>
+  weeping <span class="add">before</span> the door of the tabernacle of the
+  congregation. </p>
+id: NUM/25/6
+next:
+  id: NUM/25/7
+  number: '7'
+previous:
+  id: NUM/25/5
+  number: '5'
+reference: 'Numbers 25:6'

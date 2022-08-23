@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 21:5"
+  class="v">5</span>Prepare the table, watch in the watchtower, eat, drink:
+  arise, ye princes, <span class="add">and</span> anoint the shield. </p>
+id: ISA/21/5
+next:
+  id: ISA/21/6
+  number: '6'
+previous:
+  id: ISA/21/4
+  number: '4'
+reference: 'Isaiah 21:5'

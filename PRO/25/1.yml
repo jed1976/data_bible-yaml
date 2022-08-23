@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 25:1" class="v">1</span>These
+  <span class="add">are</span> also proverbs of Solomon, which the men of
+  Hezekiah king of Judah copied out.</p>
+id: PRO/25/1
+next:
+  id: PRO/25/2
+  number: '2'
+previous:
+  id: PRO/24/34
+  number: '34'
+reference: 'Proverbs 25:1'

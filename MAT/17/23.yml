@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 17:23"
+  class="v">23</span><span class="wj">And they shall kill him, and the third day
+  he shall be raised again.</span> And they were exceeding sorry.</p>
+id: MAT/17/23
+next:
+  id: MAT/17/24
+  number: '24'
+previous:
+  id: MAT/17/22
+  number: '22'
+reference: 'Matthew 17:23'

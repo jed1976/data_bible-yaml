@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 16:5" class="v">5</span>And
+  it shall come to pass, that on the sixth day they shall prepare <span
+  class="add">that</span> which they bring in; and it shall be twice as much as
+  they gather daily. </p>
+id: EXO/16/5
+next:
+  id: EXO/16/6
+  number: '6'
+previous:
+  id: EXO/16/4
+  number: '4'
+reference: 'Exodus 16:5'

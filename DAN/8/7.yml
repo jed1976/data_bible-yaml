@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 8:7" class="v">7</span>And I
+  saw him come close unto the ram, and he was moved with choler against him, and
+  smote the ram, and brake his two horns: and there was no power in the ram to
+  stand before him, but he cast him down to the ground, and stamped upon him:
+  and there was none that could deliver the ram out of his hand. </p>
+id: DAN/8/7
+next:
+  id: DAN/8/8
+  number: '8'
+previous:
+  id: DAN/8/6
+  number: '6'
+reference: 'Daniel 8:7'

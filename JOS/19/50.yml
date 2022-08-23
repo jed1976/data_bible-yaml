@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="JOS 19:50"
+  class="v">50</span>According to the word of the <span class="nd">LORD</span>
+  they gave him the city which he asked, <span class="add">even</span>
+  Timnath-serah in mount Ephraim: and he built the city, and dwelt therein. </p>
+id: JOS/19/50
+next:
+  id: JOS/19/51
+  number: '51'
+previous:
+  id: JOS/19/49
+  number: '49'
+reference: 'Joshua 19:50'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Song of degrees of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 131:1" class="v">1</span><span
+  class="nd">LORD</span>, my heart is not haughty, nor mine eyes lofty: neither
+  do I exercise myself in great matters, or in things too high for me.</p>
+id: PSA/131/1
+next:
+  id: PSA/131/2
+  number: '2'
+previous:
+  id: PSA/130/8
+  number: '8'
+reference: 'Psalms 131:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="MRK 2:15" class="v">15</span>And
+  it came to pass, that, as Jesus sat at meat in his house, many publicans and
+  sinners sat also together with Jesus and his disciples: for there were many,
+  and they followed him. </p>
+id: MRK/2/15
+next:
+  id: MRK/2/16
+  number: '16'
+previous:
+  id: MRK/2/14
+  number: '14'
+reference: 'Mark 2:15'

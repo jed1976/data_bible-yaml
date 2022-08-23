@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 15:22" class="v">22</span>¶
+  And if ye have erred, and not observed all these commandments, which the <span
+  class="nd">LORD</span> hath spoken unto Moses, </p>
+id: NUM/15/22
+next:
+  id: NUM/15/23
+  number: '23'
+previous:
+  id: NUM/15/21
+  number: '21'
+reference: 'Numbers 15:22'

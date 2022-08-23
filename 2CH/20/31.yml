@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="2CH 20:31" class="v">31</span>¶
+  And Jehoshaphat reigned over Judah: <span class="add">he was</span> thirty and
+  five years old when he began to reign, and he reigned twenty and five years in
+  Jerusalem. And his mother’s name <span class="add">was</span> Azubah the
+  daughter of Shilhi. </p>
+id: 2CH/20/31
+next:
+  id: 2CH/20/32
+  number: '32'
+previous:
+  id: 2CH/20/30
+  number: '30'
+reference: '2 Chronicles 20:31'

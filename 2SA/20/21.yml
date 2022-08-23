@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2SA 20:21"
+  class="v">21</span>The matter <span class="add">is</span> not so: but a man of
+  mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand
+  against the king, <span class="add">even</span> against David: deliver him
+  only, and I will depart from the city. And the woman said unto Joab, Behold,
+  his head shall be thrown to thee over the wall. </p>
+id: 2SA/20/21
+next:
+  id: 2SA/20/22
+  number: '22'
+previous:
+  id: 2SA/20/20
+  number: '20'
+reference: '2 Samuel 20:21'

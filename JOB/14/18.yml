@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 14:18"
+  class="v">18</span>And surely the mountain falling cometh to nought, and the
+  rock is removed out of his place. </p>
+id: JOB/14/18
+next:
+  id: JOB/14/19
+  number: '19'
+previous:
+  id: JOB/14/17
+  number: '17'
+reference: 'Job 14:18'

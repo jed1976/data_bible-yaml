@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PHP 1:30"
+  class="v">30</span>Having the same conflict which ye saw in me, and now hear
+  <span class="add">to be</span> in me.</p>
+id: PHP/1/30
+next:
+  id: PHP/2/1
+  number: '1'
+previous:
+  id: PHP/1/29
+  number: '29'
+reference: 'Philippians 1:30'

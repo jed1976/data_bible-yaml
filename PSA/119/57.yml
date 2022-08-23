@@ -1,0 +1,13 @@
+content: >-
+  <p class="s1"><span class="tl">ח CHETH.</span></p><p class="q1"><span
+  data-number="57" data-sid="PSA 119:57" class="v">57</span><span
+  class="add">Thou art</span> my portion, O <span class="nd">LORD</span>: I have
+  said that I would keep thy words.</p>
+id: PSA/119/57
+next:
+  id: PSA/119/58
+  number: '58'
+previous:
+  id: PSA/119/56
+  number: '56'
+reference: 'Psalms 119:57'

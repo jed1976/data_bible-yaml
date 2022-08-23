@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 38:10"
+  class="v">10</span>Their pillars <span class="add">were</span> twenty, and
+  their brasen sockets twenty; the hooks of the pillars and their fillets <span
+  class="add">were of</span> silver. </p>
+id: EXO/38/10
+next:
+  id: EXO/38/11
+  number: '11'
+previous:
+  id: EXO/38/9
+  number: '9'
+reference: 'Exodus 38:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 48:11"
+  class="v">11</span>And Israel said unto Joseph, I had not thought to see thy
+  face: and, lo, God hath shewed me also thy seed. </p>
+id: GEN/48/11
+next:
+  id: GEN/48/12
+  number: '12'
+previous:
+  id: GEN/48/10
+  number: '10'
+reference: 'Genesis 48:11'

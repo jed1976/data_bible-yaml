@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 11:3" class="v">3</span>Then
+  Jephthah fled from his brethren, and dwelt in the land of Tob: and there were
+  gathered vain men to Jephthah, and went out with him.</p>
+id: JDG/11/3
+next:
+  id: JDG/11/4
+  number: '4'
+previous:
+  id: JDG/11/2
+  number: '2'
+reference: 'Judges 11:3'

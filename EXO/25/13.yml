@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 25:13"
+  class="v">13</span>And thou shalt make staves <span class="add">of</span>
+  shittim wood, and overlay them with gold. </p>
+id: EXO/25/13
+next:
+  id: EXO/25/14
+  number: '14'
+previous:
+  id: EXO/25/12
+  number: '12'
+reference: 'Exodus 25:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">A Psalm <span class="add">or</span> Song for the sabbath
+  day.</p><p class="q1"><span data-number="1" data-sid="PSA 92:1"
+  class="v">1</span><span class="add">It is a</span> good <span
+  class="add">thing</span> to give thanks unto the <span class="nd">LORD</span>,
+  and to sing praises unto thy name, O most High:</p>
+id: PSA/92/1
+next:
+  id: PSA/92/2
+  number: '2'
+previous:
+  id: PSA/91/16
+  number: '16'
+reference: 'Psalms 92:1'

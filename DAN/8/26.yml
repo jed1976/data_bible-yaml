@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DAN 8:26" class="v">26</span>And
+  the vision of the evening and the morning which was told <span
+  class="add">is</span> true: wherefore shut thou up the vision; for it <span
+  class="add">shall be</span> for many days. </p>
+id: DAN/8/26
+next:
+  id: DAN/8/27
+  number: '27'
+previous:
+  id: DAN/8/25
+  number: '25'
+reference: 'Daniel 8:26'

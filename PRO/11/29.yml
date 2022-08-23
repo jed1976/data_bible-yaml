@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 11:29" class="v">29</span>He
+  that troubleth his own house shall inherit the wind: and the fool <span
+  class="add">shall be</span> servant to the wise of heart. </p>
+id: PRO/11/29
+next:
+  id: PRO/11/30
+  number: '30'
+previous:
+  id: PRO/11/28
+  number: '28'
+reference: 'Proverbs 11:29'

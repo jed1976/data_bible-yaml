@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 16:21"
+  class="v">21</span>The wise in heart shall be called prudent: and the
+  sweetness of the lips increaseth learning. </p>
+id: PRO/16/21
+next:
+  id: PRO/16/22
+  number: '22'
+previous:
+  id: PRO/16/20
+  number: '20'
+reference: 'Proverbs 16:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="PRO 26:21"
+  class="v">21</span><span class="add">As</span> coals <span
+  class="add">are</span> to burning coals, and wood to fire; so <span
+  class="add">is</span> a contentious man to kindle strife. </p>
+id: PRO/26/21
+next:
+  id: PRO/26/22
+  number: '22'
+previous:
+  id: PRO/26/20
+  number: '20'
+reference: 'Proverbs 26:21'

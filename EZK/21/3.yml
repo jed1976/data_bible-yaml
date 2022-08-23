@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 21:3" class="v">3</span>And
+  say to the land of Israel, Thus saith the <span class="nd">LORD</span>;
+  Behold, I <span class="add">am</span> against thee, and will draw forth my
+  sword out of his sheath, and will cut off from thee the righteous and the
+  wicked. </p>
+id: EZK/21/3
+next:
+  id: EZK/21/4
+  number: '4'
+previous:
+  id: EZK/21/2
+  number: '2'
+reference: 'Ezekiel 21:3'

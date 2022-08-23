@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EZK 35:12"
+  class="v">12</span>And thou shalt know that I <span class="add">am</span> the
+  <span class="nd">LORD</span>, <span class="add">and that</span> I have heard
+  all thy blasphemies which thou hast spoken against the mountains of Israel,
+  saying, They are laid desolate, they are given us to consume. </p>
+id: EZK/35/12
+next:
+  id: EZK/35/13
+  number: '13'
+previous:
+  id: EZK/35/11
+  number: '11'
+reference: 'Ezekiel 35:12'

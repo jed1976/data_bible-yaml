@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 28:3" class="v">3</span>And
+  thou shalt speak unto all <span class="add">that are</span> wise hearted, whom
+  I have filled with the spirit of wisdom, that they may make Aaron’s garments
+  to consecrate him, that he may minister unto me in the priest’s office. </p>
+id: EXO/28/3
+next:
+  id: EXO/28/4
+  number: '4'
+previous:
+  id: EXO/28/2
+  number: '2'
+reference: 'Exodus 28:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 26:14"
+  class="v">14</span>These <span class="add">are</span> the families of the
+  Simeonites, twenty and two thousand and two hundred.</p>
+id: NUM/26/14
+next:
+  id: NUM/26/15
+  number: '15'
+previous:
+  id: NUM/26/13
+  number: '13'
+reference: 'Numbers 26:14'

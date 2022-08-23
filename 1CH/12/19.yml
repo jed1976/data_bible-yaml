@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1CH 12:19"
+  class="v">19</span>And there fell <span class="add">some</span> of Manasseh to
+  David, when he came with the Philistines against Saul to battle: but they
+  helped them not: for the lords of the Philistines upon advisement sent him
+  away, saying, He will fall to his master Saul to <span class="add">the
+  jeopardy of</span> our heads. </p>
+id: 1CH/12/19
+next:
+  id: 1CH/12/20
+  number: '20'
+previous:
+  id: 1CH/12/18
+  number: '18'
+reference: '1 Chronicles 12:19'

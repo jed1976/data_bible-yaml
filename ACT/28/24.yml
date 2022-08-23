@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 28:24"
+  class="v">24</span>And some believed the things which were spoken, and some
+  believed not. </p>
+id: ACT/28/24
+next:
+  id: ACT/28/25
+  number: '25'
+previous:
+  id: ACT/28/23
+  number: '23'
+reference: 'Acts 28:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LUK 17:22"
+  class="v">22</span>And he said unto the disciples, <span class="wj">The days
+  will come, when ye shall desire to see one of the days of the Son of man, and
+  ye shall not see <span class="add">it</span>.</span> </p>
+id: LUK/17/22
+next:
+  id: LUK/17/23
+  number: '23'
+previous:
+  id: LUK/17/21
+  number: '21'
+reference: 'Luke 17:22'

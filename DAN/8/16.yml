@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 8:16" class="v">16</span>And
+  I heard a man’s voice between <span class="add">the banks of</span> Ulai,
+  which called, and said, Gabriel, make this <span class="add">man</span> to
+  understand the vision. </p>
+id: DAN/8/16
+next:
+  id: DAN/8/17
+  number: '17'
+previous:
+  id: DAN/8/15
+  number: '15'
+reference: 'Daniel 8:16'

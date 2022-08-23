@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 29:1" class="v">1</span>Woe
+  to Ariel, to Ariel, the city <span class="add">where</span> David dwelt! add
+  ye year to year; let them kill sacrifices. </p>
+id: ISA/29/1
+next:
+  id: ISA/29/2
+  number: '2'
+previous:
+  id: ISA/28/29
+  number: '29'
+reference: 'Isaiah 29:1'

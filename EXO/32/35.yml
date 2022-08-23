@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 32:35"
+  class="v">35</span>And the <span class="nd">LORD</span> plagued the people,
+  because they made the calf, which Aaron made.</p>
+id: EXO/32/35
+next:
+  id: EXO/33/1
+  number: '1'
+previous:
+  id: EXO/32/34
+  number: '34'
+reference: 'Exodus 32:35'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="d">A Song of degrees.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 125:1" class="v">1</span>They that trust in the <span
+  class="nd">LORD</span> <span class="add">shall be</span> as mount Zion, <span
+  class="add">which</span> cannot be removed, <span class="add">but</span>
+  abideth for ever.</p>
+id: PSA/125/1
+next:
+  id: PSA/125/2
+  number: '2'
+previous:
+  id: PSA/124/8
+  number: '8'
+reference: 'Psalms 125:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 44:18"
+  class="v">18</span>They have not known nor understood: for he hath shut their
+  eyes, that they cannot see; <span class="add">and</span> their hearts, that
+  they cannot understand. </p>
+id: ISA/44/18
+next:
+  id: ISA/44/19
+  number: '19'
+previous:
+  id: ISA/44/17
+  number: '17'
+reference: 'Isaiah 44:18'

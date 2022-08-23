@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="TIT 3:3" class="v">3</span>For we
+  ourselves also were sometimes foolish, disobedient, deceived, serving divers
+  lusts and pleasures, living in malice and envy, hateful, <span
+  class="add">and</span> hating one another. </p>
+id: TIT/3/3
+next:
+  id: TIT/3/4
+  number: '4'
+previous:
+  id: TIT/3/2
+  number: '2'
+reference: 'Titus 3:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 7:7" class="v">7</span>The
+  <span class="nd">LORD</span> did not set his love upon you, nor choose you,
+  because ye were more in number than any people; for ye <span
+  class="add">were</span> the fewest of all people: </p>
+id: DEU/7/7
+next:
+  id: DEU/7/8
+  number: '8'
+previous:
+  id: DEU/7/6
+  number: '6'
+reference: 'Deuteronomy 7:7'

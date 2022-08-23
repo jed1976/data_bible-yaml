@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ECC 6:3" class="v">3</span>¶ If a
+  man beget an hundred <span class="add">children</span>, and live many years,
+  so that the days of his years be many, and his soul be not filled with good,
+  and also <span class="add">that</span> he have no burial; I say, <span
+  class="add">that</span> an untimely birth <span class="add">is</span> better
+  than he. </p>
+id: ECC/6/3
+next:
+  id: ECC/6/4
+  number: '4'
+previous:
+  id: ECC/6/2
+  number: '2'
+reference: 'Ecclesiastes 6:3'

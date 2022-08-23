@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 4:1" class="v">1</span>But in
+  the last days it shall come to pass, <span class="add">that</span> the
+  mountain of the house of the <span class="nd">LORD</span> shall be established
+  in the top of the mountains, and it shall be exalted above the hills; and
+  people shall flow unto it. </p>
+id: MIC/4/1
+next:
+  id: MIC/4/2
+  number: '2'
+previous:
+  id: MIC/3/12
+  number: '12'
+reference: 'Micah 4:1'

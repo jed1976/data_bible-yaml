@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GAL 3:22" class="v">22</span>But
+  the scripture hath concluded all under sin, that the promise by faith of Jesus
+  Christ might be given to them that believe.</p>
+id: GAL/3/22
+next:
+  id: GAL/3/23
+  number: '23'
+previous:
+  id: GAL/3/21
+  number: '21'
+reference: 'Galatians 3:22'

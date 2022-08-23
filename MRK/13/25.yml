@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 13:25"
+  class="v">25</span><span class="wj">And the stars of heaven shall fall, and
+  the powers that are in heaven shall be shaken.</span> </p>
+id: MRK/13/25
+next:
+  id: MRK/13/26
+  number: '26'
+previous:
+  id: MRK/13/24
+  number: '24'
+reference: 'Mark 13:25'

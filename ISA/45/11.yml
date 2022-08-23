@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 45:11"
+  class="v">11</span>Thus saith the <span class="nd">LORD</span>, the Holy One
+  of Israel, and his Maker, Ask me of things to come concerning my sons, and
+  concerning the work of my hands command ye me. </p>
+id: ISA/45/11
+next:
+  id: ISA/45/12
+  number: '12'
+previous:
+  id: ISA/45/10
+  number: '10'
+reference: 'Isaiah 45:11'

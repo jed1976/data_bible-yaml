@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="2CO 12:8" class="v">8</span>For
+  this thing I besought the Lord thrice, that it might depart from me. </p>
+id: 2CO/12/8
+next:
+  id: 2CO/12/9
+  number: '9'
+previous:
+  id: 2CO/12/7
+  number: '7'
+reference: '2 Corinthians 12:8'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 24:21"
+  class="v">21</span>Except it be for this one voice, that I cried standing
+  among them, Touching the resurrection of the dead I am called in question by
+  you this day.</p>
+id: ACT/24/21
+next:
+  id: ACT/24/22
+  number: '22'
+previous:
+  id: ACT/24/20
+  number: '20'
+reference: 'Acts 24:21'

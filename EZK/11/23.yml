@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EZK 11:23"
+  class="v">23</span>And the glory of the <span class="nd">LORD</span> went up
+  from the midst of the city, and stood upon the mountain which <span
+  class="add">is</span> on the east side of the city.</p>
+id: EZK/11/23
+next:
+  id: EZK/11/24
+  number: '24'
+previous:
+  id: EZK/11/22
+  number: '22'
+reference: 'Ezekiel 11:23'

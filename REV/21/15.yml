@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="REV 21:15"
+  class="v">15</span>And he that talked with me had a golden reed to measure the
+  city, and the gates thereof, and the wall thereof. </p>
+id: REV/21/15
+next:
+  id: REV/21/16
+  number: '16'
+previous:
+  id: REV/21/14
+  number: '14'
+reference: 'Revelation 21:15'

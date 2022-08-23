@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOS 3:5" class="v">5</span>And
+  Joshua said unto the people, Sanctify yourselves: for to morrow the <span
+  class="nd">LORD</span> will do wonders among you. </p>
+id: JOS/3/5
+next:
+  id: JOS/3/6
+  number: '6'
+previous:
+  id: JOS/3/4
+  number: '4'
+reference: 'Joshua 3:5'

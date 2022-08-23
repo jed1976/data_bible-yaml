@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 10:3" class="v">3</span>Mine
+  anger was kindled against the shepherds, and I punished the goats: for the
+  <span class="nd">LORD</span> of hosts hath visited his flock the house of
+  Judah, and hath made them as his goodly horse in the battle. </p>
+id: ZEC/10/3
+next:
+  id: ZEC/10/4
+  number: '4'
+previous:
+  id: ZEC/10/2
+  number: '2'
+reference: 'Zechariah 10:3'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 48:1" class="v">1</span>Hear
+  ye this, O house of Jacob, which are called by the name of Israel, and are
+  come forth out of the waters of Judah, which swear by the name of the <span
+  class="nd">LORD</span>, and make mention of the God of Israel, <span
+  class="add">but</span> not in truth, nor in righteousness. </p>
+id: ISA/48/1
+next:
+  id: ISA/48/2
+  number: '2'
+previous:
+  id: ISA/47/15
+  number: '15'
+reference: 'Isaiah 48:1'

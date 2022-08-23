@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="38" data-sid="PSA 105:38"
+  class="v">38</span>Egypt was glad when they departed: for the fear of them
+  fell upon them.</p>
+id: PSA/105/38
+next:
+  id: PSA/105/39
+  number: '39'
+previous:
+  id: PSA/105/37
+  number: '37'
+reference: 'Psalms 105:38'

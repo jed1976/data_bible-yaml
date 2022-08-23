@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="PRO 31:26"
+  class="v">26</span>She openeth her mouth with wisdom; and in her tongue <span
+  class="add">is</span> the law of kindness. </p>
+id: PRO/31/26
+next:
+  id: PRO/31/27
+  number: '27'
+previous:
+  id: PRO/31/25
+  number: '25'
+reference: 'Proverbs 31:26'

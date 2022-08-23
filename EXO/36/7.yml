@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="EXO 36:7" class="v">7</span>For
+  the stuff they had was sufficient for all the work to make it, and too
+  much.</p>
+id: EXO/36/7
+next:
+  id: EXO/36/8
+  number: '8'
+previous:
+  id: EXO/36/6
+  number: '6'
+reference: 'Exodus 36:7'

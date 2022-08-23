@@ -1,0 +1,14 @@
+content: >-
+  <p class="d"><span class="add">A Psalm</span> of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 26:1" class="v">1</span>Judge me, O <span
+  class="nd">LORD</span>; for I have walked in mine integrity: I have trusted
+  also in the <span class="nd">LORD</span>; <span class="add">therefore</span> I
+  shall not slide.</p>
+id: PSA/26/1
+next:
+  id: PSA/26/2
+  number: '2'
+previous:
+  id: PSA/25/22
+  number: '22'
+reference: 'Psalms 26:1'

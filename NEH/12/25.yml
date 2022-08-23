@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NEH 12:25"
+  class="v">25</span>Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon,
+  Akkub, <span class="add">were</span> porters keeping the ward at the
+  thresholds of the gates. </p>
+id: NEH/12/25
+next:
+  id: NEH/12/26
+  number: '26'
+previous:
+  id: NEH/12/24
+  number: '24'
+reference: 'Nehemiah 12:25'

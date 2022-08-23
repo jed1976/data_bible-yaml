@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 23:22" class="v">22</span>¶
+  And when ye reap the harvest of your land, thou shalt not make clean riddance
+  of the corners of thy field when thou reapest, neither shalt thou gather any
+  gleaning of thy harvest: thou shalt leave them unto the poor, and to the
+  stranger: I <span class="add">am</span> the <span class="nd">LORD</span> your
+  God.</p>
+id: LEV/23/22
+next:
+  id: LEV/23/23
+  number: '23'
+previous:
+  id: LEV/23/21
+  number: '21'
+reference: 'Leviticus 23:22'

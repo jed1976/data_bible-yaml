@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EST 9:32" class="v">32</span>And
+  the decree of Esther confirmed these matters of Purim; and it was written in
+  the book.</p>
+id: EST/9/32
+next:
+  id: EST/10/1
+  number: '1'
+previous:
+  id: EST/9/31
+  number: '31'
+reference: 'Esther 9:32'

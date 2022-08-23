@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EZR 7:9" class="v">9</span>For
+  upon the first <span class="add">day</span> of the first month began he to go
+  up from Babylon, and on the first <span class="add">day</span> of the fifth
+  month came he to Jerusalem, according to the good hand of his God upon him.
+  </p>
+id: EZR/7/9
+next:
+  id: EZR/7/10
+  number: '10'
+previous:
+  id: EZR/7/8
+  number: '8'
+reference: 'Ezra 7:9'

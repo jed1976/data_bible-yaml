@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="GEN 34:29"
+  class="v">29</span>And all their wealth, and all their little ones, and their
+  wives took they captive, and spoiled even all that <span
+  class="add">was</span> in the house. </p>
+id: GEN/34/29
+next:
+  id: GEN/34/30
+  number: '30'
+previous:
+  id: GEN/34/28
+  number: '28'
+reference: 'Genesis 34:29'

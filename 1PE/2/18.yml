@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1PE 2:18"
+  class="v">18</span>Servants, <span class="add">be</span> subject to <span
+  class="add">your</span> masters with all fear; not only to the good and
+  gentle, but also to the froward. </p>
+id: 1PE/2/18
+next:
+  id: 1PE/2/19
+  number: '19'
+previous:
+  id: 1PE/2/17
+  number: '17'
+reference: '1 Peter 2:18'

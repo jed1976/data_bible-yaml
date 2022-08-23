@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="REV 12:16"
+  class="v">16</span>And the earth helped the woman, and the earth opened her
+  mouth, and swallowed up the flood which the dragon cast out of his mouth. </p>
+id: REV/12/16
+next:
+  id: REV/12/17
+  number: '17'
+previous:
+  id: REV/12/15
+  number: '15'
+reference: 'Revelation 12:16'

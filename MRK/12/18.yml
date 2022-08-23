@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 12:18" class="v">18</span>¶
+  Then come unto him the Sadducees, which say there is no resurrection; and they
+  asked him, saying, </p>
+id: MRK/12/18
+next:
+  id: MRK/12/19
+  number: '19'
+previous:
+  id: MRK/12/17
+  number: '17'
+reference: 'Mark 12:18'

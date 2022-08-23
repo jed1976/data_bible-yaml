@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 30:4" class="v">4</span>If
+  <span class="add">any</span> of thine be driven out unto the outmost <span
+  class="add">parts</span> of heaven, from thence will the <span
+  class="nd">LORD</span> thy God gather thee, and from thence will he fetch
+  thee: </p>
+id: DEU/30/4
+next:
+  id: DEU/30/5
+  number: '5'
+previous:
+  id: DEU/30/3
+  number: '3'
+reference: 'Deuteronomy 30:4'

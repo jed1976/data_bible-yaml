@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="PHP 1:16" class="v">16</span>The
+  one preach Christ of contention, not sincerely, supposing to add affliction to
+  my bonds: </p>
+id: PHP/1/16
+next:
+  id: PHP/1/17
+  number: '17'
+previous:
+  id: PHP/1/15
+  number: '15'
+reference: 'Philippians 1:16'

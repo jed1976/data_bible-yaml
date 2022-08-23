@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2TH 1:1" class="v">1</span>Paul,
+  and Silvanus, and Timotheus, unto the church of the Thessalonians in God our
+  Father and the Lord Jesus Christ: </p>
+id: 2TH/1/1
+next:
+  id: 2TH/1/2
+  number: '2'
+previous:
+  id: 2TH/intro/0
+  number: '0'
+reference: '2 Thessalonians 1:1'

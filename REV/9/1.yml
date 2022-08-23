@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 9:1" class="v">1</span>And
+  the fifth angel sounded, and I saw a star fall from heaven unto the earth: and
+  to him was given the key of the bottomless pit. </p>
+id: REV/9/1
+next:
+  id: REV/9/2
+  number: '2'
+previous:
+  id: REV/8/13
+  number: '13'
+reference: 'Revelation 9:1'

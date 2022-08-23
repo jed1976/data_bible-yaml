@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 12:20"
+  class="v">20</span>Deceit <span class="add">is</span> in the heart of them
+  that imagine evil: but to the counsellors of peace <span class="add">is</span>
+  joy. </p>
+id: PRO/12/20
+next:
+  id: PRO/12/21
+  number: '21'
+previous:
+  id: PRO/12/19
+  number: '19'
+reference: 'Proverbs 12:20'

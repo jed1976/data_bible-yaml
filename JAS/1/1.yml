@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JAS 1:1" class="v">1</span>James,
+  a servant of God and of the Lord Jesus Christ, to the twelve tribes which are
+  scattered abroad, greeting.</p>
+id: JAS/1/1
+next:
+  id: JAS/1/2
+  number: '2'
+previous:
+  id: JAS/intro/0
+  number: '0'
+reference: 'James 1:1'

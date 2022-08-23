@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 74:16"
+  class="v">16</span>The day <span class="add">is</span> thine, the night also
+  <span class="add">is</span> thine: thou hast prepared the light and the
+  sun.</p>
+id: PSA/74/16
+next:
+  id: PSA/74/17
+  number: '17'
+previous:
+  id: PSA/74/15
+  number: '15'
+reference: 'Psalms 74:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 28:14"
+  class="v">14</span>And two chains <span class="add">of</span> pure gold at the
+  ends; <span class="add">of</span> wreathen work shalt thou make them, and
+  fasten the wreathen chains to the ouches.</p>
+id: EXO/28/14
+next:
+  id: EXO/28/15
+  number: '15'
+previous:
+  id: EXO/28/13
+  number: '13'
+reference: 'Exodus 28:14'

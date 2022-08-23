@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 39:6"
+  class="v">6</span>Behold, the days come, that all that <span
+  class="add">is</span> in thine house, and <span class="add">that</span> which
+  thy fathers have laid up in store until this day, shall be carried to Babylon:
+  nothing shall be left, saith the <span class="nd">LORD</span>. </p>
+id: ISA/39/6
+next:
+  id: ISA/39/7
+  number: '7'
+previous:
+  id: ISA/39/5
+  number: '5'
+reference: 'Isaiah 39:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 14:22" class="v">22</span>¶
+  And as they did eat, Jesus took bread, and blessed, and brake <span
+  class="add">it</span>, and gave to them, and said, <span class="wj">Take, eat:
+  this is my body.</span> </p>
+id: MRK/14/22
+next:
+  id: MRK/14/23
+  number: '23'
+previous:
+  id: MRK/14/21
+  number: '21'
+reference: 'Mark 14:22'

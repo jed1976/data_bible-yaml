@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LEV 11:14"
+  class="v">14</span>And the vulture, and the kite after his kind; </p>
+id: LEV/11/14
+next:
+  id: LEV/11/15
+  number: '15'
+previous:
+  id: LEV/11/13
+  number: '13'
+reference: 'Leviticus 11:14'

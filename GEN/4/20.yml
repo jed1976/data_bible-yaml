@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 4:20" class="v">20</span>And
+  Adah bare Jabal: he was the father of such as dwell in tents, and <span
+  class="add">of such as have</span> cattle. </p>
+id: GEN/4/20
+next:
+  id: GEN/4/21
+  number: '21'
+previous:
+  id: GEN/4/19
+  number: '19'
+reference: 'Genesis 4:20'

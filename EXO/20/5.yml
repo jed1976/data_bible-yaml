@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 20:5" class="v">5</span>Thou
+  shalt not bow down thyself to them, nor serve them: for I the <span
+  class="nd">LORD</span> thy God <span class="add">am</span> a jealous God,
+  visiting the iniquity of the fathers upon the children unto the third and
+  fourth <span class="add">generation</span> of them that hate me; </p>
+id: EXO/20/5
+next:
+  id: EXO/20/6
+  number: '6'
+previous:
+  id: EXO/20/4
+  number: '4'
+reference: 'Exodus 20:5'

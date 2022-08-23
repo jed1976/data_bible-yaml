@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JAS 5:6" class="v">6</span>Ye
+  have condemned <span class="add">and</span> killed the just; <span
+  class="add">and</span> he doth not resist you.</p>
+id: JAS/5/6
+next:
+  id: JAS/5/7
+  number: '7'
+previous:
+  id: JAS/5/5
+  number: '5'
+reference: 'James 5:6'

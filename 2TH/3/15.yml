@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="2TH 3:15" class="v">15</span>Yet
+  count <span class="add">him</span> not as an enemy, but admonish <span
+  class="add">him</span> as a brother. </p>
+id: 2TH/3/15
+next:
+  id: 2TH/3/16
+  number: '16'
+previous:
+  id: 2TH/3/14
+  number: '14'
+reference: '2 Thessalonians 3:15'

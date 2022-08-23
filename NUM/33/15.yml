@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 33:15"
+  class="v">15</span>And they departed from Rephidim, and pitched in the
+  wilderness of Sinai. </p>
+id: NUM/33/15
+next:
+  id: NUM/33/16
+  number: '16'
+previous:
+  id: NUM/33/14
+  number: '14'
+reference: 'Numbers 33:15'

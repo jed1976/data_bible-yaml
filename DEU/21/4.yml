@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 21:4" class="v">4</span>And
+  the elders of that city shall bring down the heifer unto a rough valley, which
+  is neither eared nor sown, and shall strike off the heifer’s neck there in the
+  valley: </p>
+id: DEU/21/4
+next:
+  id: DEU/21/5
+  number: '5'
+previous:
+  id: DEU/21/3
+  number: '3'
+reference: 'Deuteronomy 21:4'

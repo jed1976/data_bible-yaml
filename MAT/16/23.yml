@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 16:23"
+  class="v">23</span>But he turned, and said unto Peter, <span class="wj">Get
+  thee behind me, Satan: thou art an offence unto me: for thou savourest not the
+  things that be of God, but those that be of men.</span></p>
+id: MAT/16/23
+next:
+  id: MAT/16/24
+  number: '24'
+previous:
+  id: MAT/16/22
+  number: '22'
+reference: 'Matthew 16:23'

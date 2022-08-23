@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MAT 28:6" class="v">6</span>He is
+  not here: for he is risen, as he said. Come, see the place where the Lord lay.
+  </p>
+id: MAT/28/6
+next:
+  id: MAT/28/7
+  number: '7'
+previous:
+  id: MAT/28/5
+  number: '5'
+reference: 'Matthew 28:6'

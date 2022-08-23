@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 14:3" class="v">3</span>And
+  take with thee ten loaves, and cracknels, and a cruse of honey, and go to him:
+  he shall tell thee what shall become of the child. </p>
+id: 1KI/14/3
+next:
+  id: 1KI/14/4
+  number: '4'
+previous:
+  id: 1KI/14/2
+  number: '2'
+reference: '1 Kings 14:3'

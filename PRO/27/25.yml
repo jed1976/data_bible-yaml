@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 27:25"
+  class="v">25</span>The hay appeareth, and the tender grass sheweth itself, and
+  herbs of the mountains are gathered. </p>
+id: PRO/27/25
+next:
+  id: PRO/27/26
+  number: '26'
+previous:
+  id: PRO/27/24
+  number: '24'
+reference: 'Proverbs 27:25'

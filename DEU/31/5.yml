@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 31:5" class="v">5</span>And
+  the <span class="nd">LORD</span> shall give them up before your face, that ye
+  may do unto them according unto all the commandments which I have commanded
+  you. </p>
+id: DEU/31/5
+next:
+  id: DEU/31/6
+  number: '6'
+previous:
+  id: DEU/31/4
+  number: '4'
+reference: 'Deuteronomy 31:5'

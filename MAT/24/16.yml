@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 24:16"
+  class="v">16</span><span class="wj">Then let them which be in Judaea flee into
+  the mountains:</span> </p>
+id: MAT/24/16
+next:
+  id: MAT/24/17
+  number: '17'
+previous:
+  id: MAT/24/15
+  number: '15'
+reference: 'Matthew 24:16'

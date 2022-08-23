@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="NUM 12:3" class="v">3</span>(Now
+  the man Moses <span class="add">was</span> very meek, above all the men which
+  <span class="add">were</span> upon the face of the earth.)</p>
+id: NUM/12/3
+next:
+  id: NUM/12/4
+  number: '4'
+previous:
+  id: NUM/12/2
+  number: '2'
+reference: 'Numbers 12:3'

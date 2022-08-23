@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JOB 28:17"
+  class="v">17</span>The gold and the crystal cannot equal it: and the exchange
+  of it <span class="add">shall not be for</span> jewels of fine gold. </p>
+id: JOB/28/17
+next:
+  id: JOB/28/18
+  number: '18'
+previous:
+  id: JOB/28/16
+  number: '16'
+reference: 'Job 28:17'

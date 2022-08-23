@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="46" data-sid="PSA 89:46"
+  class="v">46</span>How long, <span class="nd">LORD</span>? wilt thou hide
+  thyself for ever? shall thy wrath burn like fire?</p>
+id: PSA/89/46
+next:
+  id: PSA/89/47
+  number: '47'
+previous:
+  id: PSA/89/45
+  number: '45'
+reference: 'Psalms 89:46'

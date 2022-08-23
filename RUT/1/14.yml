@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="RUT 1:14" class="v">14</span>And
+  they lifted up their voice, and wept again: and Orpah kissed her mother in
+  law; but Ruth clave unto her. </p>
+id: RUT/1/14
+next:
+  id: RUT/1/15
+  number: '15'
+previous:
+  id: RUT/1/13
+  number: '13'
+reference: 'Ruth 1:14'

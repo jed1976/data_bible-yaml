@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 21:18" class="v">18</span>¶
+  If a man have a stubborn and rebellious son, which will not obey the voice of
+  his father, or the voice of his mother, and <span class="add">that</span>,
+  when they have chastened him, will not hearken unto them: </p>
+id: DEU/21/18
+next:
+  id: DEU/21/19
+  number: '19'
+previous:
+  id: DEU/21/17
+  number: '17'
+reference: 'Deuteronomy 21:18'

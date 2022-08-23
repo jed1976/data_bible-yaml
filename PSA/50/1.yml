@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Psalm of Asaph.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 50:1" class="v">1</span>The mighty God, <span
+  class="add">even</span> the <span class="nd">LORD</span>, hath spoken, and
+  called the earth from the rising of the sun unto the going down thereof.</p>
+id: PSA/50/1
+next:
+  id: PSA/50/2
+  number: '2'
+previous:
+  id: PSA/49/20
+  number: '20'
+reference: 'Psalms 50:1'

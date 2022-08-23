@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 35:20"
+  class="v">20</span>For they speak not peace: but they devise deceitful matters
+  against <span class="add">them that are</span> quiet in the land.</p>
+id: PSA/35/20
+next:
+  id: PSA/35/21
+  number: '21'
+previous:
+  id: PSA/35/19
+  number: '19'
+reference: 'Psalms 35:20'

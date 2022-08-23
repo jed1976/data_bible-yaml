@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 37:5"
+  class="v">5</span>Commit thy way unto the <span class="nd">LORD</span>; trust
+  also in him; and he shall bring <span class="add">it</span> to pass.</p>
+id: PSA/37/5
+next:
+  id: PSA/37/6
+  number: '6'
+previous:
+  id: PSA/37/4
+  number: '4'
+reference: 'Psalms 37:5'

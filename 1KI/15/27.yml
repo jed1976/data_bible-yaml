@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1KI 15:27" class="v">27</span>¶
+  And Baasha the son of Ahijah, of the house of Issachar, conspired against him;
+  and Baasha smote him at Gibbethon, which <span class="add">belonged</span> to
+  the Philistines; for Nadab and all Israel laid siege to Gibbethon. </p>
+id: 1KI/15/27
+next:
+  id: 1KI/15/28
+  number: '28'
+previous:
+  id: 1KI/15/26
+  number: '26'
+reference: '1 Kings 15:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ACT 26:2" class="v">2</span>I
+  think myself happy, king Agrippa, because I shall answer for myself this day
+  before thee touching all the things whereof I am accused of the Jews: </p>
+id: ACT/26/2
+next:
+  id: ACT/26/3
+  number: '3'
+previous:
+  id: ACT/26/1
+  number: '1'
+reference: 'Acts 26:2'

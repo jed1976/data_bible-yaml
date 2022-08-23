@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JHN 18:10"
+  class="v">10</span>Then Simon Peter having a sword drew it, and smote the high
+  priest’s servant, and cut off his right ear. The servant’s name was Malchus.
+  </p>
+id: JHN/18/10
+next:
+  id: JHN/18/11
+  number: '11'
+previous:
+  id: JHN/18/9
+  number: '9'
+reference: 'John 18:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="1CO 10:25"
+  class="v">25</span>Whatsoever is sold in the shambles, <span
+  class="add">that</span> eat, asking no question for conscience sake: </p>
+id: 1CO/10/25
+next:
+  id: 1CO/10/26
+  number: '26'
+previous:
+  id: 1CO/10/24
+  number: '24'
+reference: '1 Corinthians 10:25'

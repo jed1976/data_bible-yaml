@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ISA 54:15"
+  class="v">15</span>Behold, they shall surely gather together, <span
+  class="add">but</span> not by me: whosoever shall gather together against thee
+  shall fall for thy sake. </p>
+id: ISA/54/15
+next:
+  id: ISA/54/16
+  number: '16'
+previous:
+  id: ISA/54/14
+  number: '14'
+reference: 'Isaiah 54:15'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 8:11" class="v">11</span>¶
+  Behold, the days come, saith the Lord <span class="nd">GOD</span>, that I will
+  send a famine in the land, not a famine of bread, nor a thirst for water, but
+  of hearing the words of the <span class="nd">LORD</span>: </p>
+id: AMO/8/11
+next:
+  id: AMO/8/12
+  number: '12'
+previous:
+  id: AMO/8/10
+  number: '10'
+reference: 'Amos 8:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 15:6" class="v">6</span>Or
+  for a ram, thou shalt prepare <span class="add">for</span> a meat offering two
+  tenth deals of flour mingled with the third <span class="add">part</span> of
+  an hin of oil. </p>
+id: NUM/15/6
+next:
+  id: NUM/15/7
+  number: '7'
+previous:
+  id: NUM/15/5
+  number: '5'
+reference: 'Numbers 15:6'

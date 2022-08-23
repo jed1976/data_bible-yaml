@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 3:5" class="v">5</span>¶ And
+  the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and
+  Perizzites, and Hivites, and Jebusites: </p>
+id: JDG/3/5
+next:
+  id: JDG/3/6
+  number: '6'
+previous:
+  id: JDG/3/4
+  number: '4'
+reference: 'Judges 3:5'

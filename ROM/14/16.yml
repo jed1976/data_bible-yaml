@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 14:16"
+  class="v">16</span>Let not then your good be evil spoken of: </p>
+id: ROM/14/16
+next:
+  id: ROM/14/17
+  number: '17'
+previous:
+  id: ROM/14/15
+  number: '15'
+reference: 'Romans 14:16'

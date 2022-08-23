@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 4:34"
+  class="v">34</span>Neither was there any among them that lacked: for as many
+  as were possessors of lands or houses sold them, and brought the prices of the
+  things that were sold, </p>
+id: ACT/4/34
+next:
+  id: ACT/4/35
+  number: '35'
+previous:
+  id: ACT/4/33
+  number: '33'
+reference: 'Acts 4:34'

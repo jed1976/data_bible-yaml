@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 23:7" class="v">7</span>For
+  as he thinketh in his heart, so <span class="add">is</span> he: Eat and drink,
+  saith he to thee; but his heart <span class="add">is</span> not with thee.
+  </p>
+id: PRO/23/7
+next:
+  id: PRO/23/8
+  number: '8'
+previous:
+  id: PRO/23/6
+  number: '6'
+reference: 'Proverbs 23:7'

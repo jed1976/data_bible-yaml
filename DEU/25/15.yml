@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DEU 25:15"
+  class="v">15</span><span class="add">But</span> thou shalt have a perfect and
+  just weight, a perfect and just measure shalt thou have: that thy days may be
+  lengthened in the land which the <span class="nd">LORD</span> thy God giveth
+  thee. </p>
+id: DEU/25/15
+next:
+  id: DEU/25/16
+  number: '16'
+previous:
+  id: DEU/25/14
+  number: '14'
+reference: 'Deuteronomy 25:15'

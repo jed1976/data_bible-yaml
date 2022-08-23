@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LEV 22:17" class="v">17</span>¶
+  And the <span class="nd">LORD</span> spake unto Moses, saying, </p>
+id: LEV/22/17
+next:
+  id: LEV/22/18
+  number: '18'
+previous:
+  id: LEV/22/16
+  number: '16'
+reference: 'Leviticus 22:17'

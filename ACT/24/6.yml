@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 24:6" class="v">6</span>Who
+  also hath gone about to profane the temple: whom we took, and would have
+  judged according to our law. </p>
+id: ACT/24/6
+next:
+  id: ACT/24/7
+  number: '7'
+previous:
+  id: ACT/24/5
+  number: '5'
+reference: 'Acts 24:6'

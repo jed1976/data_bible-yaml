@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="REV 3:21"
+  class="v">21</span><span class="wj">To him that overcometh will I grant to sit
+  with me in my throne, even as I also overcame, and am set down with my Father
+  in his throne.</span> </p>
+id: REV/3/21
+next:
+  id: REV/3/22
+  number: '22'
+previous:
+  id: REV/3/20
+  number: '20'
+reference: 'Revelation 3:21'

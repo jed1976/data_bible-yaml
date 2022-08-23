@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 17:5" class="v">5</span>And
+  it shall come to pass, <span class="add">that</span> the man’s rod, whom I
+  shall choose, shall blossom: and I will make to cease from me the murmurings
+  of the children of Israel, whereby they murmur against you.</p>
+id: NUM/17/5
+next:
+  id: NUM/17/6
+  number: '6'
+previous:
+  id: NUM/17/4
+  number: '4'
+reference: 'Numbers 17:5'

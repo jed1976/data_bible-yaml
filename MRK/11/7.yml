@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MRK 11:7" class="v">7</span>And
+  they brought the colt to Jesus, and cast their garments on him; and he sat
+  upon him. </p>
+id: MRK/11/7
+next:
+  id: MRK/11/8
+  number: '8'
+previous:
+  id: MRK/11/6
+  number: '6'
+reference: 'Mark 11:7'

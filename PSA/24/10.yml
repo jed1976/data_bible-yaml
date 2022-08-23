@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 24:10"
+  class="v">10</span>Who is this King of glory? The <span class="nd">LORD</span>
+  of hosts, he <span class="add">is</span> the King of glory. Selah.</p>
+id: PSA/24/10
+next:
+  id: PSA/25/1
+  number: '1'
+previous:
+  id: PSA/24/9
+  number: '9'
+reference: 'Psalms 24:10'

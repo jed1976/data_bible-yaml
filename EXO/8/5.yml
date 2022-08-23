@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 8:5" class="v">5</span>¶ And
+  the <span class="nd">LORD</span> spake unto Moses, Say unto Aaron, Stretch
+  forth thine hand with thy rod over the streams, over the rivers, and over the
+  ponds, and cause frogs to come up upon the land of Egypt. </p>
+id: EXO/8/5
+next:
+  id: EXO/8/6
+  number: '6'
+previous:
+  id: EXO/8/4
+  number: '4'
+reference: 'Exodus 8:5'

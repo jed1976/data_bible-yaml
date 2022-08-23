@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 72:3" class="v">3</span>The
+  mountains shall bring peace to the people, and the little hills, by
+  righteousness.</p>
+id: PSA/72/3
+next:
+  id: PSA/72/4
+  number: '4'
+previous:
+  id: PSA/72/2
+  number: '2'
+reference: 'Psalms 72:3'

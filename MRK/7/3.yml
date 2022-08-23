@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 7:3" class="v">3</span>For
+  the Pharisees, and all the Jews, except they wash <span
+  class="add">their</span> hands oft, eat not, holding the tradition of the
+  elders. </p>
+id: MRK/7/3
+next:
+  id: MRK/7/4
+  number: '4'
+previous:
+  id: MRK/7/2
+  number: '2'
+reference: 'Mark 7:3'

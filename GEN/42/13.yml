@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 42:13"
+  class="v">13</span>And they said, Thy servants <span class="add">are</span>
+  twelve brethren, the sons of one man in the land of Canaan; and, behold, the
+  youngest <span class="add">is</span> this day with our father, and one <span
+  class="add">is</span> not. </p>
+id: GEN/42/13
+next:
+  id: GEN/42/14
+  number: '14'
+previous:
+  id: GEN/42/12
+  number: '12'
+reference: 'Genesis 42:13'

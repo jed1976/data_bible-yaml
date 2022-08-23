@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 17:11" class="v">11</span>My
+  days are past, my purposes are broken off, <span class="add">even</span> the
+  thoughts of my heart. </p>
+id: JOB/17/11
+next:
+  id: JOB/17/12
+  number: '12'
+previous:
+  id: JOB/17/10
+  number: '10'
+reference: 'Job 17:11'

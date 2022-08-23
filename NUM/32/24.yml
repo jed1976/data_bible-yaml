@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="NUM 32:24"
+  class="v">24</span>Build you cities for your little ones, and folds for your
+  sheep; and do that which hath proceeded out of your mouth. </p>
+id: NUM/32/24
+next:
+  id: NUM/32/25
+  number: '25'
+previous:
+  id: NUM/32/23
+  number: '23'
+reference: 'Numbers 32:24'

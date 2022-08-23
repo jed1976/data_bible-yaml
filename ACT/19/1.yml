@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 19:1" class="v">1</span>And
+  it came to pass, that, while Apollos was at Corinth, Paul having passed
+  through the upper coasts came to Ephesus: and finding certain disciples, </p>
+id: ACT/19/1
+next:
+  id: ACT/19/2
+  number: '2'
+previous:
+  id: ACT/18/28
+  number: '28'
+reference: 'Acts 19:1'

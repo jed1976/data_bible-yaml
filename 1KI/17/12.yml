@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1KI 17:12"
+  class="v">12</span>And she said, <span class="add">As</span> the <span
+  class="nd">LORD</span> thy God liveth, I have not a cake, but an handful of
+  meal in a barrel, and a little oil in a cruse: and, behold, I <span
+  class="add">am</span> gathering two sticks, that I may go in and dress it for
+  me and my son, that we may eat it, and die. </p>
+id: 1KI/17/12
+next:
+  id: 1KI/17/13
+  number: '13'
+previous:
+  id: 1KI/17/11
+  number: '11'
+reference: '1 Kings 17:12'

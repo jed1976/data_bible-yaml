@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 41:22"
+  class="v">22</span>The altar of wood <span class="add">was</span> three cubits
+  high, and the length thereof two cubits; and the corners thereof, and the
+  length thereof, and the walls thereof, <span class="add">were</span> of wood:
+  and he said unto me, This <span class="add">is</span> the table that <span
+  class="add">is</span> before the <span class="nd">LORD</span>. </p>
+id: EZK/41/22
+next:
+  id: EZK/41/23
+  number: '23'
+previous:
+  id: EZK/41/21
+  number: '21'
+reference: 'Ezekiel 41:22'

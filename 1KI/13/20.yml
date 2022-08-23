@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 13:20" class="v">20</span>¶
+  And it came to pass, as they sat at the table, that the word of the <span
+  class="nd">LORD</span> came unto the prophet that brought him back: </p>
+id: 1KI/13/20
+next:
+  id: 1KI/13/21
+  number: '21'
+previous:
+  id: 1KI/13/19
+  number: '19'
+reference: '1 Kings 13:20'

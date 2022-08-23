@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="DAN 2:40" class="v">40</span>And
+  the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in
+  pieces and subdueth all <span class="add">things:</span> and as iron that
+  breaketh all these, shall it break in pieces and bruise. </p>
+id: DAN/2/40
+next:
+  id: DAN/2/41
+  number: '41'
+previous:
+  id: DAN/2/39
+  number: '39'
+reference: 'Daniel 2:40'

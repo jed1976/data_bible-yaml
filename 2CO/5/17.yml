@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="2CO 5:17"
+  class="v">17</span>Therefore if any man <span class="add">be</span> in Christ,
+  <span class="add">he is</span> a new creature: old things are passed away;
+  behold, all things are become new. </p>
+id: 2CO/5/17
+next:
+  id: 2CO/5/18
+  number: '18'
+previous:
+  id: 2CO/5/16
+  number: '16'
+reference: '2 Corinthians 5:17'

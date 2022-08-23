@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NEH 1:2" class="v">2</span>That
+  Hanani, one of my brethren, came, he and <span class="add">certain</span> men
+  of Judah; and I asked them concerning the Jews that had escaped, which were
+  left of the captivity, and concerning Jerusalem. </p>
+id: NEH/1/2
+next:
+  id: NEH/1/3
+  number: '3'
+previous:
+  id: NEH/1/1
+  number: '1'
+reference: 'Nehemiah 1:2'

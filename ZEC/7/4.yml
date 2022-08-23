@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ZEC 7:4" class="v">4</span>¶ Then
+  came the word of the <span class="nd">LORD</span> of hosts unto me, saying,
+  </p>
+id: ZEC/7/4
+next:
+  id: ZEC/7/5
+  number: '5'
+previous:
+  id: ZEC/7/3
+  number: '3'
+reference: 'Zechariah 7:4'

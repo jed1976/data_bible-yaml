@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 106:3"
+  class="v">3</span>Blessed <span class="add">are</span> they that keep
+  judgment, <span class="add">and</span> he that doeth righteousness at all
+  times.</p>
+id: PSA/106/3
+next:
+  id: PSA/106/4
+  number: '4'
+previous:
+  id: PSA/106/2
+  number: '2'
+reference: 'Psalms 106:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NEH 11:26"
+  class="v">26</span>And at Jeshua, and at Moladah, and at Beth-phelet, </p>
+id: NEH/11/26
+next:
+  id: NEH/11/27
+  number: '27'
+previous:
+  id: NEH/11/25
+  number: '25'
+reference: 'Nehemiah 11:26'

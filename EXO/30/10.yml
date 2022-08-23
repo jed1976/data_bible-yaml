@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 30:10"
+  class="v">10</span>And Aaron shall make an atonement upon the horns of it once
+  in a year with the blood of the sin offering of atonements: once in the year
+  shall he make atonement upon it throughout your generations: it <span
+  class="add">is</span> most holy unto the <span class="nd">LORD</span>.</p>
+id: EXO/30/10
+next:
+  id: EXO/30/11
+  number: '11'
+previous:
+  id: EXO/30/9
+  number: '9'
+reference: 'Exodus 30:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 8:19" class="v">19</span>And
+  it shall be, if thou do at all forget the <span class="nd">LORD</span> thy
+  God, and walk after other gods, and serve them, and worship them, I testify
+  against you this day that ye shall surely perish. </p>
+id: DEU/8/19
+next:
+  id: DEU/8/20
+  number: '20'
+previous:
+  id: DEU/8/18
+  number: '18'
+reference: 'Deuteronomy 8:19'

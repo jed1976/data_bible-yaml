@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 71:7" class="v">7</span>I am
+  as a wonder unto many; but thou <span class="add">art</span> my strong
+  refuge.</p>
+id: PSA/71/7
+next:
+  id: PSA/71/8
+  number: '8'
+previous:
+  id: PSA/71/6
+  number: '6'
+reference: 'Psalms 71:7'

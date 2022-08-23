@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 128:6"
+  class="v">6</span>Yea, thou shalt see thy children’s children, <span
+  class="add">and</span> peace upon Israel.</p>
+id: PSA/128/6
+next:
+  id: PSA/129/1
+  number: '1'
+previous:
+  id: PSA/128/5
+  number: '5'
+reference: 'Psalms 128:6'

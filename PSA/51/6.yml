@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 51:6"
+  class="v">6</span>Behold, thou desirest truth in the inward parts: and in the
+  hidden <span class="add">part</span> thou shalt make me to know wisdom.</p>
+id: PSA/51/6
+next:
+  id: PSA/51/7
+  number: '7'
+previous:
+  id: PSA/51/5
+  number: '5'
+reference: 'Psalms 51:6'

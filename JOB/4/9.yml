@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 4:9" class="v">9</span>By the
+  blast of God they perish, and by the breath of his nostrils are they consumed.
+  </p>
+id: JOB/4/9
+next:
+  id: JOB/4/10
+  number: '10'
+previous:
+  id: JOB/4/8
+  number: '8'
+reference: 'Job 4:9'

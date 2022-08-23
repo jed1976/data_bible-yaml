@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="DEU 32:27"
+  class="v">27</span>Were it not that I feared the wrath of the enemy, lest
+  their adversaries should behave themselves strangely, <span
+  class="add">and</span> lest they should say, Our hand <span
+  class="add">is</span> high, and the <span class="nd">LORD</span> hath not done
+  all this. </p>
+id: DEU/32/27
+next:
+  id: DEU/32/28
+  number: '28'
+previous:
+  id: DEU/32/26
+  number: '26'
+reference: 'Deuteronomy 32:27'

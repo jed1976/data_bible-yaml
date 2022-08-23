@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="REV 21:21"
+  class="v">21</span>And the twelve gates <span class="add">were</span> twelve
+  pearls; every several gate was of one pearl: and the street of the city <span
+  class="add">was</span> pure gold, as it were transparent glass. </p>
+id: REV/21/21
+next:
+  id: REV/21/22
+  number: '22'
+previous:
+  id: REV/21/20
+  number: '20'
+reference: 'Revelation 21:21'

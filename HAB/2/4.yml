@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HAB 2:4"
+  class="v">4</span>Behold, his soul <span class="add">which</span> is lifted up
+  is not upright in him: but the just shall live by his faith.</p>
+id: HAB/2/4
+next:
+  id: HAB/2/5
+  number: '5'
+previous:
+  id: HAB/2/3
+  number: '3'
+reference: 'Habakkuk 2:4'

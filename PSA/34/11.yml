@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 34:11"
+  class="v">11</span>Come, ye children, hearken unto me: I will teach you the
+  fear of the <span class="nd">LORD</span>.</p>
+id: PSA/34/11
+next:
+  id: PSA/34/12
+  number: '12'
+previous:
+  id: PSA/34/10
+  number: '10'
+reference: 'Psalms 34:11'

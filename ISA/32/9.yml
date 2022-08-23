@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 32:9" class="v">9</span>¶
+  Rise up, ye women that are at ease; hear my voice, ye careless daughters; give
+  ear unto my speech. </p>
+id: ISA/32/9
+next:
+  id: ISA/32/10
+  number: '10'
+previous:
+  id: ISA/32/8
+  number: '8'
+reference: 'Isaiah 32:9'

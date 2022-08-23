@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 13:25"
+  class="v">25</span>And they returned from searching of the land after forty
+  days.</p>
+id: NUM/13/25
+next:
+  id: NUM/13/26
+  number: '26'
+previous:
+  id: NUM/13/24
+  number: '24'
+reference: 'Numbers 13:25'

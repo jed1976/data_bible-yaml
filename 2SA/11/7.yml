@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="2SA 11:7" class="v">7</span>And
+  when Uriah was come unto him, David demanded <span class="add">of him</span>
+  how Joab did, and how the people did, and how the war prospered. </p>
+id: 2SA/11/7
+next:
+  id: 2SA/11/8
+  number: '8'
+previous:
+  id: 2SA/11/6
+  number: '6'
+reference: '2 Samuel 11:7'

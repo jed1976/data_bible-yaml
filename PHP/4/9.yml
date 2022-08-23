@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PHP 4:9" class="v">9</span>Those
+  things, which ye have both learned, and received, and heard, and seen in me,
+  do: and the God of peace shall be with you.</p>
+id: PHP/4/9
+next:
+  id: PHP/4/10
+  number: '10'
+previous:
+  id: PHP/4/8
+  number: '8'
+reference: 'Philippians 4:9'

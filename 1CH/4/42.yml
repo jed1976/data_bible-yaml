@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="1CH 4:42" class="v">42</span>And
+  <span class="add">some</span> of them, <span class="add">even</span> of the
+  sons of Simeon, five hundred men, went to mount Seir, having for their
+  captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
+  </p>
+id: 1CH/4/42
+next:
+  id: 1CH/4/43
+  number: '43'
+previous:
+  id: 1CH/4/41
+  number: '41'
+reference: '1 Chronicles 4:42'

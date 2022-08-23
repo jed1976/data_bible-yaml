@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 10:10"
+  class="v">10</span>And the beginning of his kingdom was Babel, and Erech, and
+  Accad, and Calneh, in the land of Shinar. </p>
+id: GEN/10/10
+next:
+  id: GEN/10/11
+  number: '11'
+previous:
+  id: GEN/10/9
+  number: '9'
+reference: 'Genesis 10:10'

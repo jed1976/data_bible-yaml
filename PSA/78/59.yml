@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="59" data-sid="PSA 78:59"
+  class="v">59</span>When God heard <span class="add">this</span>, he was wroth,
+  and greatly abhorred Israel:</p>
+id: PSA/78/59
+next:
+  id: PSA/78/60
+  number: '60'
+previous:
+  id: PSA/78/58
+  number: '58'
+reference: 'Psalms 78:59'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="ISA 41:29"
+  class="v">29</span>Behold, they <span class="add">are</span> all vanity; their
+  works <span class="add">are</span> nothing: their molten images <span
+  class="add">are</span> wind and confusion.</p>
+id: ISA/41/29
+next:
+  id: ISA/42/1
+  number: '1'
+previous:
+  id: ISA/41/28
+  number: '28'
+reference: 'Isaiah 41:29'

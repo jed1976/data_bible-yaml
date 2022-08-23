@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EPH 4:14"
+  class="v">14</span>That we <span class="add">henceforth</span> be no more
+  children, tossed to and fro, and carried about with every wind of doctrine, by
+  the sleight of men, <span class="add">and</span> cunning craftiness, whereby
+  they lie in wait to deceive; </p>
+id: EPH/4/14
+next:
+  id: EPH/4/15
+  number: '15'
+previous:
+  id: EPH/4/13
+  number: '13'
+reference: 'Ephesians 4:14'

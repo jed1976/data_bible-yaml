@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 15:23"
+  class="v">23</span>But now having no more place in these parts, and having a
+  great desire these many years to come unto you; </p>
+id: ROM/15/23
+next:
+  id: ROM/15/24
+  number: '24'
+previous:
+  id: ROM/15/22
+  number: '22'
+reference: 'Romans 15:23'

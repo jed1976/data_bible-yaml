@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 145:5" class="v">5</span>I
+  will speak of the glorious honour of thy majesty, and of thy wondrous
+  works.</p>
+id: PSA/145/5
+next:
+  id: PSA/145/6
+  number: '6'
+previous:
+  id: PSA/145/4
+  number: '4'
+reference: 'Psalms 145:5'

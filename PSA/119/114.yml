@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="114" data-sid="PSA 119:114"
+  class="v">114</span>Thou <span class="add">art</span> my hiding place and my
+  shield: I hope in thy word.</p>
+id: PSA/119/114
+next:
+  id: PSA/119/115
+  number: '115'
+previous:
+  id: PSA/119/113
+  number: '113'
+reference: 'Psalms 119:114'

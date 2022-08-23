@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 23:7" class="v">7</span>And
+  Abraham stood up, and bowed himself to the people of the land, <span
+  class="add">even</span> to the children of Heth. </p>
+id: GEN/23/7
+next:
+  id: GEN/23/8
+  number: '8'
+previous:
+  id: GEN/23/6
+  number: '6'
+reference: 'Genesis 23:7'

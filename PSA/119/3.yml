@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 119:3"
+  class="v">3</span>They also do no iniquity: they walk in his ways.</p>
+id: PSA/119/3
+next:
+  id: PSA/119/4
+  number: '4'
+previous:
+  id: PSA/119/2
+  number: '2'
+reference: 'Psalms 119:3'

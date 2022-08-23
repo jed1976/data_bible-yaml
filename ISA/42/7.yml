@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 42:7" class="v">7</span>To
+  open the blind eyes, to bring out the prisoners from the prison, <span
+  class="add">and</span> them that sit in darkness out of the prison house. </p>
+id: ISA/42/7
+next:
+  id: ISA/42/8
+  number: '8'
+previous:
+  id: ISA/42/6
+  number: '6'
+reference: 'Isaiah 42:7'

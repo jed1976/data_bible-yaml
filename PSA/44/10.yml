@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 44:10"
+  class="v">10</span>Thou makest us to turn back from the enemy: and they which
+  hate us spoil for themselves.</p>
+id: PSA/44/10
+next:
+  id: PSA/44/11
+  number: '11'
+previous:
+  id: PSA/44/9
+  number: '9'
+reference: 'Psalms 44:10'

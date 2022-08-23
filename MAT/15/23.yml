@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 15:23"
+  class="v">23</span>But he answered her not a word. And his disciples came and
+  besought him, saying, Send her away; for she crieth after us. </p>
+id: MAT/15/23
+next:
+  id: MAT/15/24
+  number: '24'
+previous:
+  id: MAT/15/22
+  number: '22'
+reference: 'Matthew 15:23'

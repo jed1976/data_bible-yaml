@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 19:1" class="v">1</span>And
+  after these things I heard a great voice of much people in heaven, saying,
+  Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
+  </p>
+id: REV/19/1
+next:
+  id: REV/19/2
+  number: '2'
+previous:
+  id: REV/18/24
+  number: '24'
+reference: 'Revelation 19:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 10:21"
+  class="v">21</span>Then Peter went down to the men which were sent unto him
+  from Cornelius; and said, Behold, I am he whom ye seek: what <span
+  class="add">is</span> the cause wherefore ye are come? </p>
+id: ACT/10/21
+next:
+  id: ACT/10/22
+  number: '22'
+previous:
+  id: ACT/10/20
+  number: '20'
+reference: 'Acts 10:21'

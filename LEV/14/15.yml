@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LEV 14:15"
+  class="v">15</span>And the priest shall take <span class="add">some</span> of
+  the log of oil, and pour <span class="add">it</span> into the palm of his own
+  left hand: </p>
+id: LEV/14/15
+next:
+  id: LEV/14/16
+  number: '16'
+previous:
+  id: LEV/14/14
+  number: '14'
+reference: 'Leviticus 14:15'

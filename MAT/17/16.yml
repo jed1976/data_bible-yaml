@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 17:16"
+  class="v">16</span>And I brought him to thy disciples, and they could not cure
+  him. </p>
+id: MAT/17/16
+next:
+  id: MAT/17/17
+  number: '17'
+previous:
+  id: MAT/17/15
+  number: '15'
+reference: 'Matthew 17:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 16:2" class="v">2</span>For
+  it shall be, <span class="add">that</span>, as a wandering bird cast out of
+  the nest, <span class="add">so</span> the daughters of Moab shall be at the
+  fords of Arnon. </p>
+id: ISA/16/2
+next:
+  id: ISA/16/3
+  number: '3'
+previous:
+  id: ISA/16/1
+  number: '1'
+reference: 'Isaiah 16:2'

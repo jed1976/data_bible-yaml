@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="71" data-sid="MRK 14:71"
+  class="v">71</span>But he began to curse and to swear, <span
+  class="add">saying</span>, I know not this man of whom ye speak. </p>
+id: MRK/14/71
+next:
+  id: MRK/14/72
+  number: '72'
+previous:
+  id: MRK/14/70
+  number: '70'
+reference: 'Mark 14:71'

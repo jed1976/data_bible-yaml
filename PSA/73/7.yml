@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 73:7"
+  class="v">7</span>Their eyes stand out with fatness: they have more than heart
+  could wish.</p>
+id: PSA/73/7
+next:
+  id: PSA/73/8
+  number: '8'
+previous:
+  id: PSA/73/6
+  number: '6'
+reference: 'Psalms 73:7'

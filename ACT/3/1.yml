@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 3:1" class="v">1</span>Now
+  Peter and John went up together into the temple at the hour of prayer, <span
+  class="add">being</span> the ninth <span class="add">hour</span>. </p>
+id: ACT/3/1
+next:
+  id: ACT/3/2
+  number: '2'
+previous:
+  id: ACT/2/47
+  number: '47'
+reference: 'Acts 3:1'

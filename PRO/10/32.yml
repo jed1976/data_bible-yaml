@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="PRO 10:32"
+  class="v">32</span>The lips of the righteous know what is acceptable: but the
+  mouth of the wicked <span class="add">speaketh</span> frowardness.</p>
+id: PRO/10/32
+next:
+  id: PRO/11/1
+  number: '1'
+previous:
+  id: PRO/10/31
+  number: '31'
+reference: 'Proverbs 10:32'

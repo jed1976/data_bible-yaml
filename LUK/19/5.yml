@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LUK 19:5" class="v">5</span>And
+  when Jesus came to the place, he looked up, and saw him, and said unto him,
+  <span class="wj">Zacchæus, make haste, and come down; for to day I must abide
+  at thy house.</span> </p>
+id: LUK/19/5
+next:
+  id: LUK/19/6
+  number: '6'
+previous:
+  id: LUK/19/4
+  number: '4'
+reference: 'Luke 19:5'

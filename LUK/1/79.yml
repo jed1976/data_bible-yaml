@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="79" data-sid="LUK 1:79" class="v">79</span>To
+  give light to them that sit in darkness and <span class="add">in</span> the
+  shadow of death, to guide our feet into the way of peace. </p>
+id: LUK/1/79
+next:
+  id: LUK/1/80
+  number: '80'
+previous:
+  id: LUK/1/78
+  number: '78'
+reference: 'Luke 1:79'

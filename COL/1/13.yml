@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="COL 1:13" class="v">13</span>Who
+  hath delivered us from the power of darkness, and hath translated <span
+  class="add">us</span> into the kingdom of his dear Son: </p>
+id: COL/1/13
+next:
+  id: COL/1/14
+  number: '14'
+previous:
+  id: COL/1/12
+  number: '12'
+reference: 'Colossians 1:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 61:11"
+  class="v">11</span>For as the earth bringeth forth her bud, and as the garden
+  causeth the things that are sown in it to spring forth; so the Lord <span
+  class="nd">GOD</span> will cause righteousness and praise to spring forth
+  before all the nations.</p>
+id: ISA/61/11
+next:
+  id: ISA/62/1
+  number: '1'
+previous:
+  id: ISA/61/10
+  number: '10'
+reference: 'Isaiah 61:11'

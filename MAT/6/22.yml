@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 6:22"
+  class="v">22</span><span class="wj">The light of the body is the eye: if
+  therefore thine eye be single, thy whole body shall be full of light.</span>
+  </p>
+id: MAT/6/22
+next:
+  id: MAT/6/23
+  number: '23'
+previous:
+  id: MAT/6/21
+  number: '21'
+reference: 'Matthew 6:22'

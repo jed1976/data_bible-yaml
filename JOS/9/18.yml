@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOS 9:18" class="v">18</span>And
+  the children of Israel smote them not, because the princes of the congregation
+  had sworn unto them by the <span class="nd">LORD</span> God of Israel. And all
+  the congregation murmured against the princes. </p>
+id: JOS/9/18
+next:
+  id: JOS/9/19
+  number: '19'
+previous:
+  id: JOS/9/17
+  number: '17'
+reference: 'Joshua 9:18'

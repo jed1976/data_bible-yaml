@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 23:20"
+  class="v">20</span>And he said, The Jews have agreed to desire thee that thou
+  wouldest bring down Paul to morrow into the council, as though they would
+  enquire somewhat of him more perfectly. </p>
+id: ACT/23/20
+next:
+  id: ACT/23/21
+  number: '21'
+previous:
+  id: ACT/23/19
+  number: '19'
+reference: 'Acts 23:20'

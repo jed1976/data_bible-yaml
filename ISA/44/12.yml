@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 44:12"
+  class="v">12</span>The smith with the tongs both worketh in the coals, and
+  fashioneth it with hammers, and worketh it with the strength of his arms: yea,
+  he is hungry, and his strength faileth: he drinketh no water, and is faint.
+  </p>
+id: ISA/44/12
+next:
+  id: ISA/44/13
+  number: '13'
+previous:
+  id: ISA/44/11
+  number: '11'
+reference: 'Isaiah 44:12'

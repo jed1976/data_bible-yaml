@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="33" data-sid="PSA 105:33"
+  class="v">33</span>He smote their vines also and their fig trees; and brake
+  the trees of their coasts.</p>
+id: PSA/105/33
+next:
+  id: PSA/105/34
+  number: '34'
+previous:
+  id: PSA/105/32
+  number: '32'
+reference: 'Psalms 105:33'

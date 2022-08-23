@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ROM 8:34" class="v">34</span>Who
+  <span class="add">is</span> he that condemneth? <span class="add">It is</span>
+  Christ that died, yea rather, that is risen again, who is even at the right
+  hand of God, who also maketh intercession for us. </p>
+id: ROM/8/34
+next:
+  id: ROM/8/35
+  number: '35'
+previous:
+  id: ROM/8/33
+  number: '33'
+reference: 'Romans 8:34'

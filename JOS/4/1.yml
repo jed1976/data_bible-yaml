@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 4:1" class="v">1</span>And it
+  came to pass, when all the people were clean passed over Jordan, that the
+  <span class="nd">LORD</span> spake unto Joshua, saying, </p>
+id: JOS/4/1
+next:
+  id: JOS/4/2
+  number: '2'
+previous:
+  id: JOS/3/17
+  number: '17'
+reference: 'Joshua 4:1'

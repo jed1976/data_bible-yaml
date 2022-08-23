@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 4:5" class="v">5</span>Get
+  wisdom, get understanding: forget <span class="add">it</span> not; neither
+  decline from the words of my mouth. </p>
+id: PRO/4/5
+next:
+  id: PRO/4/6
+  number: '6'
+previous:
+  id: PRO/4/4
+  number: '4'
+reference: 'Proverbs 4:5'

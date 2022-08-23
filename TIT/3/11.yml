@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="TIT 3:11"
+  class="v">11</span>Knowing that he that is such is subverted, and sinneth,
+  being condemned of himself.</p>
+id: TIT/3/11
+next:
+  id: TIT/3/12
+  number: '12'
+previous:
+  id: TIT/3/10
+  number: '10'
+reference: 'Titus 3:11'

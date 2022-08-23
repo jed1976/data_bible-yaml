@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 5:15" class="v">15</span>And
+  now the wise <span class="add">men</span>, the astrologers, have been brought
+  in before me, that they should read this writing, and make known unto me the
+  interpretation thereof: but they could not shew the interpretation of the
+  thing: </p>
+id: DAN/5/15
+next:
+  id: DAN/5/16
+  number: '16'
+previous:
+  id: DAN/5/14
+  number: '14'
+reference: 'Daniel 5:15'

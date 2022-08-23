@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 37:20"
+  class="v">20</span>Now therefore, O <span class="nd">LORD</span> our God, save
+  us from his hand, that all the kingdoms of the earth may know that thou <span
+  class="add">art</span> the <span class="nd">LORD</span>, <span
+  class="add">even</span> thou only.</p>
+id: ISA/37/20
+next:
+  id: ISA/37/21
+  number: '21'
+previous:
+  id: ISA/37/19
+  number: '19'
+reference: 'Isaiah 37:20'

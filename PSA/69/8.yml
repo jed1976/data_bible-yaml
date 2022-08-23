@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 69:8" class="v">8</span>I am
+  become a stranger unto my brethren, and an alien unto my mother’s
+  children.</p>
+id: PSA/69/8
+next:
+  id: PSA/69/9
+  number: '9'
+previous:
+  id: PSA/69/7
+  number: '7'
+reference: 'Psalms 69:8'

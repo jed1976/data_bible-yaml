@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="1CH 4:12" class="v">12</span>And
+  Eshton begat Beth-rapha, and Paseah, and Tehinnah the father of Ir-nahash.
+  These <span class="add">are</span> the men of Rechah. </p>
+id: 1CH/4/12
+next:
+  id: 1CH/4/13
+  number: '13'
+previous:
+  id: 1CH/4/11
+  number: '11'
+reference: '1 Chronicles 4:12'

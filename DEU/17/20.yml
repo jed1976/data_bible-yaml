@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 17:20"
+  class="v">20</span>That his heart be not lifted up above his brethren, and
+  that he turn not aside from the commandment, <span class="add">to</span> the
+  right hand, or <span class="add">to</span> the left: to the end that he may
+  prolong <span class="add">his</span> days in his kingdom, he, and his
+  children, in the midst of Israel.</p>
+id: DEU/17/20
+next:
+  id: DEU/18/1
+  number: '1'
+previous:
+  id: DEU/17/19
+  number: '19'
+reference: 'Deuteronomy 17:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="HEB 10:30"
+  class="v">30</span>For we know him that hath said, Vengeance <span
+  class="add">belongeth</span> unto me, I will recompense, saith the Lord. And
+  again, The Lord shall judge his people. </p>
+id: HEB/10/30
+next:
+  id: HEB/10/31
+  number: '31'
+previous:
+  id: HEB/10/29
+  number: '29'
+reference: 'Hebrews 10:30'

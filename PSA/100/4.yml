@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 100:4"
+  class="v">4</span>Enter into his gates with thanksgiving, <span
+  class="add">and</span> into his courts with praise: be thankful unto him,
+  <span class="add">and</span> bless his name.</p>
+id: PSA/100/4
+next:
+  id: PSA/100/5
+  number: '5'
+previous:
+  id: PSA/100/3
+  number: '3'
+reference: 'Psalms 100:4'

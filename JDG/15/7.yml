@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 15:7" class="v">7</span>¶ And
+  Samson said unto them, Though ye have done this, yet will I be avenged of you,
+  and after that I will cease. </p>
+id: JDG/15/7
+next:
+  id: JDG/15/8
+  number: '8'
+previous:
+  id: JDG/15/6
+  number: '6'
+reference: 'Judges 15:7'

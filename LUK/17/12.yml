@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="LUK 17:12"
+  class="v">12</span>And as he entered into a certain village, there met him ten
+  men that were lepers, which stood afar off: </p>
+id: LUK/17/12
+next:
+  id: LUK/17/13
+  number: '13'
+previous:
+  id: LUK/17/11
+  number: '11'
+reference: 'Luke 17:12'

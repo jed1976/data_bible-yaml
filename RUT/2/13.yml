@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="RUT 2:13"
+  class="v">13</span>Then she said, Let me find favour in thy sight, my lord;
+  for that thou hast comforted me, and for that thou hast spoken friendly unto
+  thine handmaid, though I be not like unto one of thine handmaidens. </p>
+id: RUT/2/13
+next:
+  id: RUT/2/14
+  number: '14'
+previous:
+  id: RUT/2/12
+  number: '12'
+reference: 'Ruth 2:13'

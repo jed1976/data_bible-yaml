@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="REV 22:9" class="v">9</span>Then
+  saith he unto me, See <span class="add">thou do it</span> not: for I am thy
+  fellowservant, and of thy brethren the prophets, and of them which keep the
+  sayings of this book: worship God. </p>
+id: REV/22/9
+next:
+  id: REV/22/10
+  number: '10'
+previous:
+  id: REV/22/8
+  number: '8'
+reference: 'Revelation 22:9'

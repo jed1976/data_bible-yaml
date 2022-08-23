@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 6:7" class="v">7</span>¶ And
+  it came to pass, when the children of Israel cried unto the <span
+  class="nd">LORD</span> because of the Midianites, </p>
+id: JDG/6/7
+next:
+  id: JDG/6/8
+  number: '8'
+previous:
+  id: JDG/6/6
+  number: '6'
+reference: 'Judges 6:7'

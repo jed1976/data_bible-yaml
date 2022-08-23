@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 14:4" class="v">4</span>¶ I
+  will heal their backsliding, I will love them freely: for mine anger is turned
+  away from him. </p>
+id: HOS/14/4
+next:
+  id: HOS/14/5
+  number: '5'
+previous:
+  id: HOS/14/3
+  number: '3'
+reference: 'Hosea 14:4'

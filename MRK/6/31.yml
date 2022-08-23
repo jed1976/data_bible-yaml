@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="MRK 6:31" class="v">31</span>And
+  he said unto them, <span class="wj">Come ye yourselves apart into a desert
+  place, and rest a while:</span> for there were many coming and going, and they
+  had no leisure so much as to eat. </p>
+id: MRK/6/31
+next:
+  id: MRK/6/32
+  number: '32'
+previous:
+  id: MRK/6/30
+  number: '30'
+reference: 'Mark 6:31'

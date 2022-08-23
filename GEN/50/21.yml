@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 50:21"
+  class="v">21</span>Now therefore fear ye not: I will nourish you, and your
+  little ones. And he comforted them, and spake kindly unto them.</p>
+id: GEN/50/21
+next:
+  id: GEN/50/22
+  number: '22'
+previous:
+  id: GEN/50/20
+  number: '20'
+reference: 'Genesis 50:21'

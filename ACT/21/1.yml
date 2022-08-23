@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 21:1" class="v">1</span>And
+  it came to pass, that after we were gotten from them, and had launched, we
+  came with a straight course unto Coos, and the <span class="add">day</span>
+  following unto Rhodes, and from thence unto Patara: </p>
+id: ACT/21/1
+next:
+  id: ACT/21/2
+  number: '2'
+previous:
+  id: ACT/20/38
+  number: '38'
+reference: 'Acts 21:1'

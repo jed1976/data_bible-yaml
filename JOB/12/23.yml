@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JOB 12:23" class="v">23</span>He
+  increaseth the nations, and destroyeth them: he enlargeth the nations, and
+  straiteneth them <span class="add">again</span>. </p>
+id: JOB/12/23
+next:
+  id: JOB/12/24
+  number: '24'
+previous:
+  id: JOB/12/22
+  number: '22'
+reference: 'Job 12:23'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 10:11"
+  class="v">11</span>Shall I not, as I have done unto Samaria and her idols, so
+  do to Jerusalem and her idols? </p>
+id: ISA/10/11
+next:
+  id: ISA/10/12
+  number: '12'
+previous:
+  id: ISA/10/10
+  number: '10'
+reference: 'Isaiah 10:11'

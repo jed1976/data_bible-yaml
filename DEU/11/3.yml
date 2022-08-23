@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 11:3" class="v">3</span>And
+  his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh
+  the king of Egypt, and unto all his land; </p>
+id: DEU/11/3
+next:
+  id: DEU/11/4
+  number: '4'
+previous:
+  id: DEU/11/2
+  number: '2'
+reference: 'Deuteronomy 11:3'

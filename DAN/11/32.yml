@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="DAN 11:32"
+  class="v">32</span>And such as do wickedly against the covenant shall he
+  corrupt by flatteries: but the people that do know their God shall be strong,
+  and do <span class="add">exploits</span>. </p>
+id: DAN/11/32
+next:
+  id: DAN/11/33
+  number: '33'
+previous:
+  id: DAN/11/31
+  number: '31'
+reference: 'Daniel 11:32'

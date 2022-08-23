@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="27" data-sid="PSA 73:27"
+  class="v">27</span>For, lo, they that are far from thee shall perish: thou
+  hast destroyed all them that go a whoring from thee.</p>
+id: PSA/73/27
+next:
+  id: PSA/73/28
+  number: '28'
+previous:
+  id: PSA/73/26
+  number: '26'
+reference: 'Psalms 73:27'

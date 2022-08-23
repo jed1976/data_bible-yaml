@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 31:9" class="v">9</span>And
+  the altar of burnt offering with all his furniture, and the laver and his
+  foot, </p>
+id: EXO/31/9
+next:
+  id: EXO/31/10
+  number: '10'
+previous:
+  id: EXO/31/8
+  number: '8'
+reference: 'Exodus 31:9'

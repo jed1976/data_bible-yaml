@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NEH 9:7" class="v">7</span>Thou
+  <span class="add">art</span> the <span class="nd">LORD</span> the God, who
+  didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and
+  gavest him the name of Abraham; </p>
+id: NEH/9/7
+next:
+  id: NEH/9/8
+  number: '8'
+previous:
+  id: NEH/9/6
+  number: '6'
+reference: 'Nehemiah 9:7'

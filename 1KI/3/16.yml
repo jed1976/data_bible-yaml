@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1KI 3:16" class="v">16</span>¶
+  Then came there two women, <span class="add">that were</span> harlots, unto
+  the king, and stood before him. </p>
+id: 1KI/3/16
+next:
+  id: 1KI/3/17
+  number: '17'
+previous:
+  id: 1KI/3/15
+  number: '15'
+reference: '1 Kings 3:16'

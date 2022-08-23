@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="MRK 9:14" class="v">14</span>¶
+  And when he came to <span class="add">his</span> disciples, he saw a great
+  multitude about them, and the scribes questioning with them. </p>
+id: MRK/9/14
+next:
+  id: MRK/9/15
+  number: '15'
+previous:
+  id: MRK/9/13
+  number: '13'
+reference: 'Mark 9:14'

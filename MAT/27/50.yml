@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MAT 27:50" class="v">50</span>¶
+  Jesus, when he had cried again with a loud voice, yielded up the ghost. </p>
+id: MAT/27/50
+next:
+  id: MAT/27/51
+  number: '51'
+previous:
+  id: MAT/27/49
+  number: '49'
+reference: 'Matthew 27:50'

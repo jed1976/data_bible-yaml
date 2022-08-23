@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOB 24:24"
+  class="v">24</span>They are exalted for a little while, but are gone and
+  brought low; they are taken out of the way as all <span
+  class="add">other</span>, and cut off as the tops of the ears of corn. </p>
+id: JOB/24/24
+next:
+  id: JOB/24/25
+  number: '25'
+previous:
+  id: JOB/24/23
+  number: '23'
+reference: 'Job 24:24'

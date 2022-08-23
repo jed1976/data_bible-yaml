@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 14:14"
+  class="v">14</span>And when Abram heard that his brother was taken captive, he
+  armed his trained <span class="add">servants</span>, born in his own house,
+  three hundred and eighteen, and pursued <span class="add">them</span> unto
+  Dan. </p>
+id: GEN/14/14
+next:
+  id: GEN/14/15
+  number: '15'
+previous:
+  id: GEN/14/13
+  number: '13'
+reference: 'Genesis 14:14'

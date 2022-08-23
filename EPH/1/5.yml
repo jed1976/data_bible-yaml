@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EPH 1:5" class="v">5</span>Having
+  predestinated us unto the adoption of children by Jesus Christ to himself,
+  according to the good pleasure of his will, </p>
+id: EPH/1/5
+next:
+  id: EPH/1/6
+  number: '6'
+previous:
+  id: EPH/1/4
+  number: '4'
+reference: 'Ephesians 1:5'

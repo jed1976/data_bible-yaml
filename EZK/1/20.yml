@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 1:20"
+  class="v">20</span>Whithersoever the spirit was to go, they went, thither
+  <span class="add">was their</span> spirit to go; and the wheels were lifted up
+  over against them: for the spirit of the living creature <span
+  class="add">was</span> in the wheels. </p>
+id: EZK/1/20
+next:
+  id: EZK/1/21
+  number: '21'
+previous:
+  id: EZK/1/19
+  number: '19'
+reference: 'Ezekiel 1:20'

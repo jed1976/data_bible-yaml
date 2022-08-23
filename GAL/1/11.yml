@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GAL 1:11" class="v">11</span>But
+  I certify you, brethren, that the gospel which was preached of me is not after
+  man. </p>
+id: GAL/1/11
+next:
+  id: GAL/1/12
+  number: '12'
+previous:
+  id: GAL/1/10
+  number: '10'
+reference: 'Galatians 1:11'

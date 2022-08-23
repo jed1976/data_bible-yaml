@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 32:19"
+  class="v">19</span>When it shall hail, coming down on the forest; and the city
+  shall be low in a low place. </p>
+id: ISA/32/19
+next:
+  id: ISA/32/20
+  number: '20'
+previous:
+  id: ISA/32/18
+  number: '18'
+reference: 'Isaiah 32:19'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 92:11"
+  class="v">11</span>Mine eye also shall see <span class="add">my desire</span>
+  on mine enemies, <span class="add">and</span> mine ears shall hear <span
+  class="add">my desire</span> of the wicked that rise up against me.</p>
+id: PSA/92/11
+next:
+  id: PSA/92/12
+  number: '12'
+previous:
+  id: PSA/92/10
+  number: '10'
+reference: 'Psalms 92:11'

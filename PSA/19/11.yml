@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 19:11"
+  class="v">11</span>Moreover by them is thy servant warned: <span
+  class="add">and</span> in keeping of them <span class="add">there is</span>
+  great reward.</p>
+id: PSA/19/11
+next:
+  id: PSA/19/12
+  number: '12'
+previous:
+  id: PSA/19/10
+  number: '10'
+reference: 'Psalms 19:11'

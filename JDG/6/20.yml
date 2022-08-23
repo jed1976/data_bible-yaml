@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 6:20" class="v">20</span>And
+  the angel of God said unto him, Take the flesh and the unleavened cakes, and
+  lay <span class="add">them</span> upon this rock, and pour out the broth. And
+  he did so.</p>
+id: JDG/6/20
+next:
+  id: JDG/6/21
+  number: '21'
+previous:
+  id: JDG/6/19
+  number: '19'
+reference: 'Judges 6:20'

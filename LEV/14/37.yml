@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="37" data-sid="LEV 14:37"
+  class="v">37</span>And he shall look on the plague, and, behold, <span
+  class="add">if</span> the plague <span class="add">be</span> in the walls of
+  the house with hollow strakes, greenish or reddish, which in sight <span
+  class="add">are</span> lower than the wall; </p>
+id: LEV/14/37
+next:
+  id: LEV/14/38
+  number: '38'
+previous:
+  id: LEV/14/36
+  number: '36'
+reference: 'Leviticus 14:37'

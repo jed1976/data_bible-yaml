@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ISA 60:20"
+  class="v">20</span>Thy sun shall no more go down; neither shall thy moon
+  withdraw itself: for the <span class="nd">LORD</span> shall be thine
+  everlasting light, and the days of thy mourning shall be ended. </p>
+id: ISA/60/20
+next:
+  id: ISA/60/21
+  number: '21'
+previous:
+  id: ISA/60/19
+  number: '19'
+reference: 'Isaiah 60:20'

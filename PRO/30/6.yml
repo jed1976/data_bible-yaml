@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 30:6" class="v">6</span>Add
+  thou not unto his words, lest he reprove thee, and thou be found a liar.</p>
+id: PRO/30/6
+next:
+  id: PRO/30/7
+  number: '7'
+previous:
+  id: PRO/30/5
+  number: '5'
+reference: 'Proverbs 30:6'

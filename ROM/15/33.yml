@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="ROM 15:33"
+  class="v">33</span>Now the God of peace <span class="add">be</span> with you
+  all. Amen.</p>
+id: ROM/15/33
+next:
+  id: ROM/16/1
+  number: '1'
+previous:
+  id: ROM/15/32
+  number: '32'
+reference: 'Romans 15:33'

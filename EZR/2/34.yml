@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EZR 2:34" class="v">34</span>The
+  children of Jericho, three hundred forty and five. </p>
+id: EZR/2/34
+next:
+  id: EZR/2/35
+  number: '35'
+previous:
+  id: EZR/2/33
+  number: '33'
+reference: 'Ezra 2:34'

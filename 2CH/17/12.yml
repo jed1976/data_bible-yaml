@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 17:12" class="v">12</span>¶
+  And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and
+  cities of store. </p>
+id: 2CH/17/12
+next:
+  id: 2CH/17/13
+  number: '13'
+previous:
+  id: 2CH/17/11
+  number: '11'
+reference: '2 Chronicles 17:12'

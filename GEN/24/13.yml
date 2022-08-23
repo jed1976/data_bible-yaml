@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 24:13"
+  class="v">13</span>Behold, I stand <span class="add">here</span> by the well
+  of water; and the daughters of the men of the city come out to draw water:
+  </p>
+id: GEN/24/13
+next:
+  id: GEN/24/14
+  number: '14'
+previous:
+  id: GEN/24/12
+  number: '12'
+reference: 'Genesis 24:13'

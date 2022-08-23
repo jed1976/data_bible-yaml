@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="DAN 2:15" class="v">15</span>He
+  answered and said to Arioch the king’s captain, Why <span
+  class="add">is</span> the decree <span class="add">so</span> hasty from the
+  king? Then Arioch made the thing known to Daniel. </p>
+id: DAN/2/15
+next:
+  id: DAN/2/16
+  number: '16'
+previous:
+  id: DAN/2/14
+  number: '14'
+reference: 'Daniel 2:15'

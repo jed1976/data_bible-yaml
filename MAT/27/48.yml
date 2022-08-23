@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MAT 27:48"
+  class="v">48</span>And straightway one of them ran, and took a spunge, and
+  filled <span class="add">it</span> with vinegar, and put <span
+  class="add">it</span> on a reed, and gave him to drink. </p>
+id: MAT/27/48
+next:
+  id: MAT/27/49
+  number: '49'
+previous:
+  id: MAT/27/47
+  number: '47'
+reference: 'Matthew 27:48'

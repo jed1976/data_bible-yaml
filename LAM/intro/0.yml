@@ -1,0 +1,9 @@
+content: <p class="mt1">The Lamentations of Jeremiah</p>
+id: LAM/intro/0
+next:
+  id: LAM/1/1
+  number: '1'
+previous:
+  id: JER/52/34
+  number: '34'
+reference: Lamentations

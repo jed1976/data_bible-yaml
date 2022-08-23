@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 22:3" class="v">3</span>¶ And
+  it came to pass in the eighteenth year of king Josiah, <span
+  class="add">that</span> the king sent Shaphan the son of Azaliah, the son of
+  Meshullam, the scribe, to the house of the <span class="nd">LORD</span>,
+  saying, </p>
+id: 2KI/22/3
+next:
+  id: 2KI/22/4
+  number: '4'
+previous:
+  id: 2KI/22/2
+  number: '2'
+reference: '2 Kings 22:3'

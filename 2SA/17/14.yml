@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2SA 17:14"
+  class="v">14</span>And Absalom and all the men of Israel said, The counsel of
+  Hushai the Archite <span class="add">is</span> better than the counsel of
+  Ahithophel. For the <span class="nd">LORD</span> had appointed to defeat the
+  good counsel of Ahithophel, to the intent that the <span
+  class="nd">LORD</span> might bring evil upon Absalom.</p>
+id: 2SA/17/14
+next:
+  id: 2SA/17/15
+  number: '15'
+previous:
+  id: 2SA/17/13
+  number: '13'
+reference: '2 Samuel 17:14'

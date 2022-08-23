@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LUK 10:17" class="v">17</span>¶
+  And the seventy returned again with joy, saying, Lord, even the devils are
+  subject unto us through thy name. </p>
+id: LUK/10/17
+next:
+  id: LUK/10/18
+  number: '18'
+previous:
+  id: LUK/10/16
+  number: '16'
+reference: 'Luke 10:17'

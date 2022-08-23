@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 50:11"
+  class="v">11</span>Behold, all ye that kindle a fire, that compass <span
+  class="add">yourselves</span> about with sparks: walk in the light of your
+  fire, and in the sparks <span class="add">that</span> ye have kindled. This
+  shall ye have of mine hand; ye shall lie down in sorrow.</p>
+id: ISA/50/11
+next:
+  id: ISA/51/1
+  number: '1'
+previous:
+  id: ISA/50/10
+  number: '10'
+reference: 'Isaiah 50:11'

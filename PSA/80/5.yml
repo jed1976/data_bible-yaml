@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 80:5" class="v">5</span>Thou
+  feedest them with the bread of tears; and givest them tears to drink in great
+  measure.</p>
+id: PSA/80/5
+next:
+  id: PSA/80/6
+  number: '6'
+previous:
+  id: PSA/80/4
+  number: '4'
+reference: 'Psalms 80:5'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JHN 8:19"
+  class="v">19</span>Then said they unto him, Where is thy Father? Jesus
+  answered, <span class="wj">Ye neither know me, nor my Father: if ye had known
+  me, ye should have known my Father also.</span> </p>
+id: JHN/8/19
+next:
+  id: JHN/8/20
+  number: '20'
+previous:
+  id: JHN/8/18
+  number: '18'
+reference: 'John 8:19'

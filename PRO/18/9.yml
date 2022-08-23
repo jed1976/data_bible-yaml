@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 18:9" class="v">9</span>He
+  also that is slothful in his work is brother to him that is a great waster.
+  </p>
+id: PRO/18/9
+next:
+  id: PRO/18/10
+  number: '10'
+previous:
+  id: PRO/18/8
+  number: '8'
+reference: 'Proverbs 18:9'

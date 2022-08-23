@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ROM 5:20"
+  class="v">20</span>Moreover the law entered, that the offence might abound.
+  But where sin abounded, grace did much more abound: </p>
+id: ROM/5/20
+next:
+  id: ROM/5/21
+  number: '21'
+previous:
+  id: ROM/5/19
+  number: '19'
+reference: 'Romans 5:20'

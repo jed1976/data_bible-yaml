@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 7:20" class="v">20</span>And
+  Moses and Aaron did so, as the <span class="nd">LORD</span> commanded; and he
+  lifted up the rod, and smote the waters that <span class="add">were</span> in
+  the river, in the sight of Pharaoh, and in the sight of his servants; and all
+  the waters that <span class="add">were</span> in the river were turned to
+  blood. </p>
+id: EXO/7/20
+next:
+  id: EXO/7/21
+  number: '21'
+previous:
+  id: EXO/7/19
+  number: '19'
+reference: 'Exodus 7:20'

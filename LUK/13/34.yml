@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="LUK 13:34"
+  class="v">34</span><span class="wj">O Jerusalem, Jerusalem, which killest the
+  prophets, and stonest them that are sent unto thee; how often would I have
+  gathered thy children together, as a hen <span class="add">doth gather</span>
+  her brood under <span class="add">her</span> wings, and ye would not!</span>
+  </p>
+id: LUK/13/34
+next:
+  id: LUK/13/35
+  number: '35'
+previous:
+  id: LUK/13/33
+  number: '33'
+reference: 'Luke 13:34'

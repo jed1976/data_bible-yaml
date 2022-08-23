@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 2:1" class="v">1</span>And
+  Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go
+  view the land, even Jericho. And they went, and came into an harlot’s house,
+  named Rahab, and lodged there. </p>
+id: JOS/2/1
+next:
+  id: JOS/2/2
+  number: '2'
+previous:
+  id: JOS/1/18
+  number: '18'
+reference: 'Joshua 2:1'

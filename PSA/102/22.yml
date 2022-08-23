@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 102:22"
+  class="v">22</span>When the people are gathered together, and the kingdoms, to
+  serve the <span class="nd">LORD</span>.</p>
+id: PSA/102/22
+next:
+  id: PSA/102/23
+  number: '23'
+previous:
+  id: PSA/102/21
+  number: '21'
+reference: 'Psalms 102:22'

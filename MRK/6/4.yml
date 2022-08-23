@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MRK 6:4" class="v">4</span>But
+  Jesus said unto them, <span class="wj">A prophet is not without honour, but in
+  his own country, and among his own kin, and in his own house.</span> </p>
+id: MRK/6/4
+next:
+  id: MRK/6/5
+  number: '5'
+previous:
+  id: MRK/6/3
+  number: '3'
+reference: 'Mark 6:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EXO 2:3" class="v">3</span>And
+  when she could not longer hide him, she took for him an ark of bulrushes, and
+  daubed it with slime and with pitch, and put the child therein; and she laid
+  <span class="add">it</span> in the flags by the river’s brink. </p>
+id: EXO/2/3
+next:
+  id: EXO/2/4
+  number: '4'
+previous:
+  id: EXO/2/2
+  number: '2'
+reference: 'Exodus 2:3'

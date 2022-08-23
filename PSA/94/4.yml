@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 94:4"
+  class="v">4</span><span class="add">How long</span> shall they utter <span
+  class="add">and</span> speak hard things? <span class="add">and</span> all the
+  workers of iniquity boast themselves?</p>
+id: PSA/94/4
+next:
+  id: PSA/94/5
+  number: '5'
+previous:
+  id: PSA/94/3
+  number: '3'
+reference: 'Psalms 94:4'

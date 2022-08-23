@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 51:2" class="v">2</span>Look
+  unto Abraham your father, and unto Sarah <span class="add">that</span> bare
+  you: for I called him alone, and blessed him, and increased him. </p>
+id: ISA/51/2
+next:
+  id: ISA/51/3
+  number: '3'
+previous:
+  id: ISA/51/1
+  number: '1'
+reference: 'Isaiah 51:2'

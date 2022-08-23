@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="65" data-sid="NUM 26:65"
+  class="v">65</span>For the <span class="nd">LORD</span> had said of them, They
+  shall surely die in the wilderness. And there was not left a man of them, save
+  Caleb the son of Jephunneh, and Joshua the son of Nun.</p>
+id: NUM/26/65
+next:
+  id: NUM/27/1
+  number: '1'
+previous:
+  id: NUM/26/64
+  number: '64'
+reference: 'Numbers 26:65'

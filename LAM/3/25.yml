@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LAM 3:25" class="v">25</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> good unto them that
+  wait for him, to the soul <span class="add">that</span> seeketh him. </p>
+id: LAM/3/25
+next:
+  id: LAM/3/26
+  number: '26'
+previous:
+  id: LAM/3/24
+  number: '24'
+reference: 'Lamentations 3:25'

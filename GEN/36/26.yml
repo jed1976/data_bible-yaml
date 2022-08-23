@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 36:26"
+  class="v">26</span>And these <span class="add">are</span> the children of
+  Dishon; Hemdan, and Eshban, and Ithran, and Cheran. </p>
+id: GEN/36/26
+next:
+  id: GEN/36/27
+  number: '27'
+previous:
+  id: GEN/36/25
+  number: '25'
+reference: 'Genesis 36:26'

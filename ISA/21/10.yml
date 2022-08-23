@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 21:10" class="v">10</span>O
+  my threshing, and the corn of my floor: that which I have heard of the <span
+  class="nd">LORD</span> of hosts, the God of Israel, have I declared unto
+  you.</p>
+id: ISA/21/10
+next:
+  id: ISA/21/11
+  number: '11'
+previous:
+  id: ISA/21/9
+  number: '9'
+reference: 'Isaiah 21:10'

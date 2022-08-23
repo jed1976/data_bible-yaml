@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 6:1" class="v">1</span>It
+  pleased Darius to set over the kingdom an hundred and twenty princes, which
+  should be over the whole kingdom; </p>
+id: DAN/6/1
+next:
+  id: DAN/6/2
+  number: '2'
+previous:
+  id: DAN/5/31
+  number: '31'
+reference: 'Daniel 6:1'

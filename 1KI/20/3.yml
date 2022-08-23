@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1KI 20:3" class="v">3</span>Thy
+  silver and thy gold <span class="add">is</span> mine; thy wives also and thy
+  children, <span class="add">even</span> the goodliest, <span
+  class="add">are</span> mine. </p>
+id: 1KI/20/3
+next:
+  id: 1KI/20/4
+  number: '4'
+previous:
+  id: 1KI/20/2
+  number: '2'
+reference: '1 Kings 20:3'

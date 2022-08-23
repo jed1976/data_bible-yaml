@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MRK 7:12"
+  class="v">12</span><span class="wj">And ye suffer him no more to do ought for
+  his father or his mother;</span> </p>
+id: MRK/7/12
+next:
+  id: MRK/7/13
+  number: '13'
+previous:
+  id: MRK/7/11
+  number: '11'
+reference: 'Mark 7:12'

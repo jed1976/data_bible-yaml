@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="15" data-sid="PSA 78:15"
+  class="v">15</span>He clave the rocks in the wilderness, and gave <span
+  class="add">them</span> drink as <span class="add">out of</span> the great
+  depths.</p>
+id: PSA/78/15
+next:
+  id: PSA/78/16
+  number: '16'
+previous:
+  id: PSA/78/14
+  number: '14'
+reference: 'Psalms 78:15'

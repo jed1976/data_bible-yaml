@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="EXO 29:45" class="v">45</span>¶
+  And I will dwell among the children of Israel, and will be their God. </p>
+id: EXO/29/45
+next:
+  id: EXO/29/46
+  number: '46'
+previous:
+  id: EXO/29/44
+  number: '44'
+reference: 'Exodus 29:45'

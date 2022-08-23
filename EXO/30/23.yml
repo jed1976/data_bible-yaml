@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 30:23"
+  class="v">23</span>Take thou also unto thee principal spices, of pure myrrh
+  five hundred <span class="add">shekels</span>, and of sweet cinnamon half so
+  much, <span class="add">even</span> two hundred and fifty <span
+  class="add">shekels</span>, and of sweet calamus two hundred and fifty <span
+  class="add">shekels</span>, </p>
+id: EXO/30/23
+next:
+  id: EXO/30/24
+  number: '24'
+previous:
+  id: EXO/30/22
+  number: '22'
+reference: 'Exodus 30:23'

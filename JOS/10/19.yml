@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOS 10:19"
+  class="v">19</span>And stay ye not, <span class="add">but</span> pursue after
+  your enemies, and smite the hindmost of them; suffer them not to enter into
+  their cities: for the <span class="nd">LORD</span> your God hath delivered
+  them into your hand. </p>
+id: JOS/10/19
+next:
+  id: JOS/10/20
+  number: '20'
+previous:
+  id: JOS/10/18
+  number: '18'
+reference: 'Joshua 10:19'

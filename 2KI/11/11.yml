@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2KI 11:11"
+  class="v">11</span>And the guard stood, every man with his weapons in his
+  hand, round about the king, from the right corner of the temple to the left
+  corner of the temple, <span class="add">along</span> by the altar and the
+  temple. </p>
+id: 2KI/11/11
+next:
+  id: 2KI/11/12
+  number: '12'
+previous:
+  id: 2KI/11/10
+  number: '10'
+reference: '2 Kings 11:11'

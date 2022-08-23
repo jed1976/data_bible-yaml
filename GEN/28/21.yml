@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 28:21" class="v">21</span>So
+  that I come again to my father’s house in peace; then shall the <span
+  class="nd">LORD</span> be my God: </p>
+id: GEN/28/21
+next:
+  id: GEN/28/22
+  number: '22'
+previous:
+  id: GEN/28/20
+  number: '20'
+reference: 'Genesis 28:21'

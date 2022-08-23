@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAL 1:4"
+  class="v">4</span>Whereas Edom saith, We are impoverished, but we will return
+  and build the desolate places; thus saith the <span class="nd">LORD</span> of
+  hosts, They shall build, but I will throw down; and they shall call them, The
+  border of wickedness, and, The people against whom the <span
+  class="nd">LORD</span> hath indignation for ever. </p>
+id: MAL/1/4
+next:
+  id: MAL/1/5
+  number: '5'
+previous:
+  id: MAL/1/3
+  number: '3'
+reference: 'Malachi 1:4'

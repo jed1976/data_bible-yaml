@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 13:26"
+  class="v">26</span><span class="wj">But when the blade was sprung up, and
+  brought forth fruit, then appeared the tares also.</span> </p>
+id: MAT/13/26
+next:
+  id: MAT/13/27
+  number: '27'
+previous:
+  id: MAT/13/25
+  number: '25'
+reference: 'Matthew 13:26'

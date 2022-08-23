@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 22:20"
+  class="v">20</span>And he saith unto them, <span class="wj">Whose <span
+  class="add">is</span> this image and superscription?</span> </p>
+id: MAT/22/20
+next:
+  id: MAT/22/21
+  number: '21'
+previous:
+  id: MAT/22/19
+  number: '19'
+reference: 'Matthew 22:20'

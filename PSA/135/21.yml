@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 135:21"
+  class="v">21</span>Blessed be the <span class="nd">LORD</span> out of Zion,
+  which dwelleth at Jerusalem. Praise ye the <span class="nd">LORD</span>.</p>
+id: PSA/135/21
+next:
+  id: PSA/136/1
+  number: '1'
+previous:
+  id: PSA/135/20
+  number: '20'
+reference: 'Psalms 135:21'

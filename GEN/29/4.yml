@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 29:4" class="v">4</span>And
+  Jacob said unto them, My brethren, whence <span class="add">be</span> ye? And
+  they said, Of Haran <span class="add">are</span> we. </p>
+id: GEN/29/4
+next:
+  id: GEN/29/5
+  number: '5'
+previous:
+  id: GEN/29/3
+  number: '3'
+reference: 'Genesis 29:4'

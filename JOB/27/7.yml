@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 27:7" class="v">7</span>Let
+  mine enemy be as the wicked, and he that riseth up against me as the
+  unrighteous. </p>
+id: JOB/27/7
+next:
+  id: JOB/27/8
+  number: '8'
+previous:
+  id: JOB/27/6
+  number: '6'
+reference: 'Job 27:7'

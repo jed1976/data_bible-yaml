@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 23:4" class="v">4</span>Then
+  said Pilate to the chief priests and <span class="add">to</span> the people, I
+  find no fault in this man. </p>
+id: LUK/23/4
+next:
+  id: LUK/23/5
+  number: '5'
+previous:
+  id: LUK/23/3
+  number: '3'
+reference: 'Luke 23:4'

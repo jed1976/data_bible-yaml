@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1KI 11:1" class="v">1</span>But
+  king Solomon loved many strange women, together with the daughter of Pharaoh,
+  women of the Moabites, Ammonites, Edomites, Zidonians, <span
+  class="add">and</span> Hittites; </p>
+id: 1KI/11/1
+next:
+  id: 1KI/11/2
+  number: '2'
+previous:
+  id: 1KI/10/29
+  number: '29'
+reference: '1 Kings 11:1'

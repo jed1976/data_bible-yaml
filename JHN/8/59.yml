@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="JHN 8:59"
+  class="v">59</span>Then took they up stones to cast at him: but Jesus hid
+  himself, and went out of the temple, going through the midst of them, and so
+  passed by.</p>
+id: JHN/8/59
+next:
+  id: JHN/9/1
+  number: '1'
+previous:
+  id: JHN/8/58
+  number: '58'
+reference: 'John 8:59'

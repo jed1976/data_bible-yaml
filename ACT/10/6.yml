@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 10:6" class="v">6</span>He
+  lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell
+  thee what thou oughtest to do. </p>
+id: ACT/10/6
+next:
+  id: ACT/10/7
+  number: '7'
+previous:
+  id: ACT/10/5
+  number: '5'
+reference: 'Acts 10:6'

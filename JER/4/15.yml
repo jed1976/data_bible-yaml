@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 4:15" class="v">15</span>For
+  a voice declareth from Dan, and publisheth affliction from mount Ephraim. </p>
+id: JER/4/15
+next:
+  id: JER/4/16
+  number: '16'
+previous:
+  id: JER/4/14
+  number: '14'
+reference: 'Jeremiah 4:15'

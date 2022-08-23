@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 1:8" class="v">8</span>And
+  the daughter of Zion is left as a cottage in a vineyard, as a lodge in a
+  garden of cucumbers, as a besieged city. </p>
+id: ISA/1/8
+next:
+  id: ISA/1/9
+  number: '9'
+previous:
+  id: ISA/1/7
+  number: '7'
+reference: 'Isaiah 1:8'

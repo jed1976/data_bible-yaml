@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 11:22" class="v">22</span>¶
+  Then tidings of these things came unto the ears of the church which was in
+  Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
+  </p>
+id: ACT/11/22
+next:
+  id: ACT/11/23
+  number: '23'
+previous:
+  id: ACT/11/21
+  number: '21'
+reference: 'Acts 11:22'

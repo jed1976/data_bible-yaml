@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 4:3" class="v">3</span>And it
+  shall come to pass, <span class="add">that he that is</span> left in Zion, and
+  <span class="add">he that</span> remaineth in Jerusalem, shall be called holy,
+  <span class="add">even</span> every one that is written among the living in
+  Jerusalem: </p>
+id: ISA/4/3
+next:
+  id: ISA/4/4
+  number: '4'
+previous:
+  id: ISA/4/2
+  number: '2'
+reference: 'Isaiah 4:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOB 41:34" class="v">34</span>He
+  beholdeth all high <span class="add">things:</span> he <span
+  class="add">is</span> a king over all the children of pride.</p>
+id: JOB/41/34
+next:
+  id: JOB/42/1
+  number: '1'
+previous:
+  id: JOB/41/33
+  number: '33'
+reference: 'Job 41:34'

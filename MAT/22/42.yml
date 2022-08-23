@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="MAT 22:42"
+  class="v">42</span>Saying, <span class="wj">What think ye of Christ? whose son
+  is he?</span> They say unto him, <span class="add">The Son</span> of David.
+  </p>
+id: MAT/22/42
+next:
+  id: MAT/22/43
+  number: '43'
+previous:
+  id: MAT/22/41
+  number: '41'
+reference: 'Matthew 22:42'

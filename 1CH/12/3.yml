@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 12:3" class="v">3</span>The
+  chief <span class="add">was</span> Ahiezer, then Joash, the sons of Shemaah
+  the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and
+  Jehu the Antothite, </p>
+id: 1CH/12/3
+next:
+  id: 1CH/12/4
+  number: '4'
+previous:
+  id: 1CH/12/2
+  number: '2'
+reference: '1 Chronicles 12:3'

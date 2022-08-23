@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ACT 13:4" class="v">4</span>¶ So
+  they, being sent forth by the Holy Ghost, departed unto Seleucia; and from
+  thence they sailed to Cyprus. </p>
+id: ACT/13/4
+next:
+  id: ACT/13/5
+  number: '5'
+previous:
+  id: ACT/13/3
+  number: '3'
+reference: 'Acts 13:4'

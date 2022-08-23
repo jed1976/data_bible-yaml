@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="DEU 4:14" class="v">14</span>¶
+  And the <span class="nd">LORD</span> commanded me at that time to teach you
+  statutes and judgments, that ye might do them in the land whither ye go over
+  to possess it. </p>
+id: DEU/4/14
+next:
+  id: DEU/4/15
+  number: '15'
+previous:
+  id: DEU/4/13
+  number: '13'
+reference: 'Deuteronomy 4:14'

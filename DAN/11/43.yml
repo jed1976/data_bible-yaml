@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DAN 11:43"
+  class="v">43</span>But he shall have power over the treasures of gold and of
+  silver, and over all the precious things of Egypt: and the Libyans and the
+  Ethiopians <span class="add">shall be</span> at his steps. </p>
+id: DAN/11/43
+next:
+  id: DAN/11/44
+  number: '44'
+previous:
+  id: DAN/11/42
+  number: '42'
+reference: 'Daniel 11:43'

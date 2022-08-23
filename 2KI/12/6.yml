@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 12:6" class="v">6</span>But
+  it was <span class="add">so, that</span> in the three and twentieth year of
+  king Jehoash the priests had not repaired the breaches of the house. </p>
+id: 2KI/12/6
+next:
+  id: 2KI/12/7
+  number: '7'
+previous:
+  id: 2KI/12/5
+  number: '5'
+reference: '2 Kings 12:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 106:6"
+  class="v">6</span>We have sinned with our fathers, we have committed iniquity,
+  we have done wickedly.</p>
+id: PSA/106/6
+next:
+  id: PSA/106/7
+  number: '7'
+previous:
+  id: PSA/106/5
+  number: '5'
+reference: 'Psalms 106:6'

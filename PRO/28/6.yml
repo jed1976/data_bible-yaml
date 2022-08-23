@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="PRO 28:6"
+  class="v">6</span>Better <span class="add">is</span> the poor that walketh in
+  his uprightness, than <span class="add">he that is</span> perverse <span
+  class="add">in his</span> ways, though he <span class="add">be</span> rich.
+  </p>
+id: PRO/28/6
+next:
+  id: PRO/28/7
+  number: '7'
+previous:
+  id: PRO/28/5
+  number: '5'
+reference: 'Proverbs 28:6'

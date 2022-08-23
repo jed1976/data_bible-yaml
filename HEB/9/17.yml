@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="HEB 9:17" class="v">17</span>For
+  a testament <span class="add">is</span> of force after men are dead: otherwise
+  it is of no strength at all while the testator liveth. </p>
+id: HEB/9/17
+next:
+  id: HEB/9/18
+  number: '18'
+previous:
+  id: HEB/9/16
+  number: '16'
+reference: 'Hebrews 9:17'

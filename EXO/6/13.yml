@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 6:13" class="v">13</span>And
+  the <span class="nd">LORD</span> spake unto Moses and unto Aaron, and gave
+  them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to
+  bring the children of Israel out of the land of Egypt.</p>
+id: EXO/6/13
+next:
+  id: EXO/6/14
+  number: '14'
+previous:
+  id: EXO/6/12
+  number: '12'
+reference: 'Exodus 6:13'

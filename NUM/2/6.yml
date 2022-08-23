@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NUM 2:6" class="v">6</span>And
+  his host, and those that were numbered thereof, <span class="add">were</span>
+  fifty and four thousand and four hundred. </p>
+id: NUM/2/6
+next:
+  id: NUM/2/7
+  number: '7'
+previous:
+  id: NUM/2/5
+  number: '5'
+reference: 'Numbers 2:6'

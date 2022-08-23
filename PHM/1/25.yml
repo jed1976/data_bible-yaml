@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PHM 1:25" class="v">25</span>The
+  grace of our Lord Jesus Christ <span class="add">be</span> with your spirit.
+  Amen.</p>
+id: PHM/1/25
+next:
+  id: HEB/intro/0
+  number: '0'
+previous:
+  id: PHM/1/24
+  number: '24'
+reference: 'Philemon 1:25'

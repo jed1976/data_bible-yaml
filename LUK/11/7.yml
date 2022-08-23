@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="LUK 11:7" class="v">7</span><span
+  class="wj">And he from within shall answer and say, Trouble me not: the door
+  is now shut, and my children are with me in bed; I cannot rise and give
+  thee.</span> </p>
+id: LUK/11/7
+next:
+  id: LUK/11/8
+  number: '8'
+previous:
+  id: LUK/11/6
+  number: '6'
+reference: 'Luke 11:7'

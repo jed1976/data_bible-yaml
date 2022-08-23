@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1CO 4:11"
+  class="v">11</span>Even unto this present hour we both hunger, and thirst, and
+  are naked, and are buffeted, and have no certain dwellingplace; </p>
+id: 1CO/4/11
+next:
+  id: 1CO/4/12
+  number: '12'
+previous:
+  id: 1CO/4/10
+  number: '10'
+reference: '1 Corinthians 4:11'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 15:16" class="v">16</span>¶
+  And also <span class="add">concerning</span> Maachah the mother of Asa the
+  king, he removed her from <span class="add">being</span> queen, because she
+  had made an idol in a grove: and Asa cut down her idol, and stamped <span
+  class="add">it</span>, and burnt <span class="add">it</span> at the brook
+  Kidron. </p>
+id: 2CH/15/16
+next:
+  id: 2CH/15/17
+  number: '17'
+previous:
+  id: 2CH/15/15
+  number: '15'
+reference: '2 Chronicles 15:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 113:8"
+  class="v">8</span>That he may set <span class="add">him</span> with princes,
+  <span class="add">even</span> with the princes of his people.</p>
+id: PSA/113/8
+next:
+  id: PSA/113/9
+  number: '9'
+previous:
+  id: PSA/113/7
+  number: '7'
+reference: 'Psalms 113:8'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 135:8" class="v">8</span>Who
+  smote the firstborn of Egypt, both of man and beast.</p>
+id: PSA/135/8
+next:
+  id: PSA/135/9
+  number: '9'
+previous:
+  id: PSA/135/7
+  number: '7'
+reference: 'Psalms 135:8'

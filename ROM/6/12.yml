@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 6:12" class="v">12</span>Let
+  not sin therefore reign in your mortal body, that ye should obey it in the
+  lusts thereof. </p>
+id: ROM/6/12
+next:
+  id: ROM/6/13
+  number: '13'
+previous:
+  id: ROM/6/11
+  number: '11'
+reference: 'Romans 6:12'

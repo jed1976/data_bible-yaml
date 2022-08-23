@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 8:20" class="v">20</span>And
+  he cut the ram into pieces; and Moses burnt the head, and the pieces, and the
+  fat. </p>
+id: LEV/8/20
+next:
+  id: LEV/8/21
+  number: '21'
+previous:
+  id: LEV/8/19
+  number: '19'
+reference: 'Leviticus 8:20'

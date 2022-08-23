@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 24:9" class="v">9</span>They
+  shall not drink wine with a song; strong drink shall be bitter to them that
+  drink it. </p>
+id: ISA/24/9
+next:
+  id: ISA/24/10
+  number: '10'
+previous:
+  id: ISA/24/8
+  number: '8'
+reference: 'Isaiah 24:9'

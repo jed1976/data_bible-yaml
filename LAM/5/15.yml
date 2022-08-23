@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="LAM 5:15" class="v">15</span>The
+  joy of our heart is ceased; our dance is turned into mourning. </p>
+id: LAM/5/15
+next:
+  id: LAM/5/16
+  number: '16'
+previous:
+  id: LAM/5/14
+  number: '14'
+reference: 'Lamentations 5:15'

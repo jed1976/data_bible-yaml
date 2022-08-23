@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LAM 5:3" class="v">3</span>We are
+  orphans and fatherless, our mothers <span class="add">are</span> as widows.
+  </p>
+id: LAM/5/3
+next:
+  id: LAM/5/4
+  number: '4'
+previous:
+  id: LAM/5/2
+  number: '2'
+reference: 'Lamentations 5:3'

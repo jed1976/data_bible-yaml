@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 12:8" class="v">8</span>And
+  the angel said unto him, Gird thyself, and bind on thy sandals. And so he did.
+  And he saith unto him, Cast thy garment about thee, and follow me. </p>
+id: ACT/12/8
+next:
+  id: ACT/12/9
+  number: '9'
+previous:
+  id: ACT/12/7
+  number: '7'
+reference: 'Acts 12:8'

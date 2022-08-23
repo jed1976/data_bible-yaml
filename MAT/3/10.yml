@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 3:10" class="v">10</span>And
+  now also the axe is laid unto the root of the trees: therefore every tree
+  which bringeth not forth good fruit is hewn down, and cast into the fire. </p>
+id: MAT/3/10
+next:
+  id: MAT/3/11
+  number: '11'
+previous:
+  id: MAT/3/9
+  number: '9'
+reference: 'Matthew 3:10'

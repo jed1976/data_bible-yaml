@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="HOS 4:6" class="v">6</span>¶ My
+  people are destroyed for lack of knowledge: because thou hast rejected
+  knowledge, I will also reject thee, that thou shalt be no priest to me: seeing
+  thou hast forgotten the law of thy God, I will also forget thy children. </p>
+id: HOS/4/6
+next:
+  id: HOS/4/7
+  number: '7'
+previous:
+  id: HOS/4/5
+  number: '5'
+reference: 'Hosea 4:6'

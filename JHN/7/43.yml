@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="JHN 7:43" class="v">43</span>So
+  there was a division among the people because of him. </p>
+id: JHN/7/43
+next:
+  id: JHN/7/44
+  number: '44'
+previous:
+  id: JHN/7/42
+  number: '42'
+reference: 'John 7:43'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 25:15"
+  class="v">15</span>Hadar, and Tema, Jetur, Naphish, and Kedemah: </p>
+id: GEN/25/15
+next:
+  id: GEN/25/16
+  number: '16'
+previous:
+  id: GEN/25/14
+  number: '14'
+reference: 'Genesis 25:15'

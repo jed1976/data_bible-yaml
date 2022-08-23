@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 43:27"
+  class="v">27</span>And he asked them of <span class="add">their</span>
+  welfare, and said, <span class="add">Is</span> your father well, the old man
+  of whom ye spake? <span class="add">Is</span> he yet alive? </p>
+id: GEN/43/27
+next:
+  id: GEN/43/28
+  number: '28'
+previous:
+  id: GEN/43/26
+  number: '26'
+reference: 'Genesis 43:27'

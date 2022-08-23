@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JHN 6:15" class="v">15</span>¶
+  When Jesus therefore perceived that they would come and take him by force, to
+  make him a king, he departed again into a mountain himself alone. </p>
+id: JHN/6/15
+next:
+  id: JHN/6/16
+  number: '16'
+previous:
+  id: JHN/6/14
+  number: '14'
+reference: 'John 6:15'

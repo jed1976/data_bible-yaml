@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 32:11"
+  class="v">11</span>Tremble, ye women that are at ease; be troubled, ye
+  careless ones: strip you, and make you bare, and gird <span
+  class="add">sackcloth</span> upon <span class="add">your</span> loins. </p>
+id: ISA/32/11
+next:
+  id: ISA/32/12
+  number: '12'
+previous:
+  id: ISA/32/10
+  number: '10'
+reference: 'Isaiah 32:11'

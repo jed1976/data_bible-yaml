@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 33:16"
+  class="v">16</span>And they removed from the desert of Sinai, and pitched at
+  Kibroth-hattaavah. </p>
+id: NUM/33/16
+next:
+  id: NUM/33/17
+  number: '17'
+previous:
+  id: NUM/33/15
+  number: '15'
+reference: 'Numbers 33:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 18:20"
+  class="v">20</span>Moreover thou shalt not lie carnally with thy neighbour’s
+  wife, to defile thyself with her. </p>
+id: LEV/18/20
+next:
+  id: LEV/18/21
+  number: '21'
+previous:
+  id: LEV/18/19
+  number: '19'
+reference: 'Leviticus 18:20'

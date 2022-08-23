@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 36:10"
+  class="v">10</span>Then read Baruch in the book the words of Jeremiah in the
+  house of the <span class="nd">LORD</span>, in the chamber of Gemariah the son
+  of Shaphan the scribe, in the higher court, at the entry of the new gate of
+  the <span class="nd">LORD’s</span> house, in the ears of all the people.</p>
+id: JER/36/10
+next:
+  id: JER/36/11
+  number: '11'
+previous:
+  id: JER/36/9
+  number: '9'
+reference: 'Jeremiah 36:10'

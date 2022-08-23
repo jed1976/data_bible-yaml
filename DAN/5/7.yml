@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 5:7" class="v">7</span>The
+  king cried aloud to bring in the astrologers, the Chaldeans, and the
+  soothsayers. <span class="add">And</span> the king spake, and said to the wise
+  <span class="add">men</span> of Babylon, Whosoever shall read this writing,
+  and shew me the interpretation thereof, shall be clothed with scarlet, and
+  <span class="add">have</span> a chain of gold about his neck, and shall be the
+  third ruler in the kingdom. </p>
+id: DAN/5/7
+next:
+  id: DAN/5/8
+  number: '8'
+previous:
+  id: DAN/5/6
+  number: '6'
+reference: 'Daniel 5:7'

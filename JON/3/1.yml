@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JON 3:1" class="v">1</span>And
+  the word of the <span class="nd">LORD</span> came unto Jonah the second time,
+  saying, </p>
+id: JON/3/1
+next:
+  id: JON/3/2
+  number: '2'
+previous:
+  id: JON/2/10
+  number: '10'
+reference: 'Jonah 3:1'

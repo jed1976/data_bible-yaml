@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="24" data-sid="PSA 136:24"
+  class="v">24</span>And hath redeemed us from our enemies: for his mercy <span
+  class="add">endureth</span> for ever.</p>
+id: PSA/136/24
+next:
+  id: PSA/136/25
+  number: '25'
+previous:
+  id: PSA/136/23
+  number: '23'
+reference: 'Psalms 136:24'

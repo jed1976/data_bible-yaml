@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="ECC 2:26" class="v">26</span>For
+  <span class="add">God</span> giveth to a man that <span class="add">is</span>
+  good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth
+  travail, to gather and to heap up, that he may give to <span class="add">him
+  that is</span> good before God. This also <span class="add">is</span> vanity
+  and vexation of spirit.</p>
+id: ECC/2/26
+next:
+  id: ECC/3/1
+  number: '1'
+previous:
+  id: ECC/2/25
+  number: '25'
+reference: 'Ecclesiastes 2:26'

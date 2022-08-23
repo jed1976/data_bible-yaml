@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 4:35" class="v">35</span>And
+  laid <span class="add">them</span> down at the apostles’ feet: and
+  distribution was made unto every man according as he had need. </p>
+id: ACT/4/35
+next:
+  id: ACT/4/36
+  number: '36'
+previous:
+  id: ACT/4/34
+  number: '34'
+reference: 'Acts 4:35'

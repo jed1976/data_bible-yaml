@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 16:20"
+  class="v">20</span>And brought them to the magistrates, saying, These men,
+  being Jews, do exceedingly trouble our city, </p>
+id: ACT/16/20
+next:
+  id: ACT/16/21
+  number: '21'
+previous:
+  id: ACT/16/19
+  number: '19'
+reference: 'Acts 16:20'

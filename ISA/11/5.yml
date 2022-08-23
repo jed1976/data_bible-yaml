@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 11:5" class="v">5</span>And
+  righteousness shall be the girdle of his loins, and faithfulness the girdle of
+  his reins. </p>
+id: ISA/11/5
+next:
+  id: ISA/11/6
+  number: '6'
+previous:
+  id: ISA/11/4
+  number: '4'
+reference: 'Isaiah 11:5'

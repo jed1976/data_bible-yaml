@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 22:20"
+  class="v">20</span>And when the blood of thy martyr Stephen was shed, I also
+  was standing by, and consenting unto his death, and kept the raiment of them
+  that slew him. </p>
+id: ACT/22/20
+next:
+  id: ACT/22/21
+  number: '21'
+previous:
+  id: ACT/22/19
+  number: '19'
+reference: 'Acts 22:20'

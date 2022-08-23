@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LUK 21:1" class="v">1</span>And
+  he looked up, and saw the rich men casting their gifts into the treasury. </p>
+id: LUK/21/1
+next:
+  id: LUK/21/2
+  number: '2'
+previous:
+  id: LUK/20/47
+  number: '47'
+reference: 'Luke 21:1'

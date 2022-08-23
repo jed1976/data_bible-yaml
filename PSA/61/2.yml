@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 61:2" class="v">2</span>From
+  the end of the earth will I cry unto thee, when my heart is overwhelmed: lead
+  me to the rock <span class="add">that</span> is higher than I.</p>
+id: PSA/61/2
+next:
+  id: PSA/61/3
+  number: '3'
+previous:
+  id: PSA/61/1
+  number: '1'
+reference: 'Psalms 61:2'

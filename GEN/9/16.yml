@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 9:16" class="v">16</span>And
+  the bow shall be in the cloud; and I will look upon it, that I may remember
+  the everlasting covenant between God and every living creature of all flesh
+  that <span class="add">is</span> upon the earth. </p>
+id: GEN/9/16
+next:
+  id: GEN/9/17
+  number: '17'
+previous:
+  id: GEN/9/15
+  number: '15'
+reference: 'Genesis 9:16'

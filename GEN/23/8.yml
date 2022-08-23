@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 23:8" class="v">8</span>And
+  he communed with them, saying, If it be your mind that I should bury my dead
+  out of my sight; hear me, and intreat for me to Ephron the son of Zohar, </p>
+id: GEN/23/8
+next:
+  id: GEN/23/9
+  number: '9'
+previous:
+  id: GEN/23/7
+  number: '7'
+reference: 'Genesis 23:8'

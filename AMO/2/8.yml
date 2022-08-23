@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="AMO 2:8" class="v">8</span>And
+  they lay <span class="add">themselves</span> down upon clothes laid to pledge
+  by every altar, and they drink the wine of the condemned <span
+  class="add">in</span> the house of their god.</p>
+id: AMO/2/8
+next:
+  id: AMO/2/9
+  number: '9'
+previous:
+  id: AMO/2/7
+  number: '7'
+reference: 'Amos 2:8'

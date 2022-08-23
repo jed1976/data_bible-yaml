@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ROM 1:24"
+  class="v">24</span>Wherefore God also gave them up to uncleanness through the
+  lusts of their own hearts, to dishonour their own bodies between themselves:
+  </p>
+id: ROM/1/24
+next:
+  id: ROM/1/25
+  number: '25'
+previous:
+  id: ROM/1/23
+  number: '23'
+reference: 'Romans 1:24'

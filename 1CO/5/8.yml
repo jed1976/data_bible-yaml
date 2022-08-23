@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CO 5:8"
+  class="v">8</span>Therefore let us keep the feast, not with old leaven,
+  neither with the leaven of malice and wickedness; but with the unleavened
+  <span class="add">bread</span> of sincerity and truth. </p>
+id: 1CO/5/8
+next:
+  id: 1CO/5/9
+  number: '9'
+previous:
+  id: 1CO/5/7
+  number: '7'
+reference: '1 Corinthians 5:8'

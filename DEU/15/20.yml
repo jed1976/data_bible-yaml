@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 15:20"
+  class="v">20</span>Thou shalt eat <span class="add">it</span> before the <span
+  class="nd">LORD</span> thy God year by year in the place which the <span
+  class="nd">LORD</span> shall choose, thou and thy household. </p>
+id: DEU/15/20
+next:
+  id: DEU/15/21
+  number: '21'
+previous:
+  id: DEU/15/19
+  number: '19'
+reference: 'Deuteronomy 15:20'

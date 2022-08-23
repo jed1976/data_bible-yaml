@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="NUM 11:25"
+  class="v">25</span>And the <span class="nd">LORD</span> came down in a cloud,
+  and spake unto him, and took of the spirit that <span class="add">was</span>
+  upon him, and gave <span class="add">it</span> unto the seventy elders: and it
+  came to pass, <span class="add">that</span>, when the spirit rested upon them,
+  they prophesied, and did not cease. </p>
+id: NUM/11/25
+next:
+  id: NUM/11/26
+  number: '26'
+previous:
+  id: NUM/11/24
+  number: '24'
+reference: 'Numbers 11:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MIC 7:8" class="v">8</span>¶
+  Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit
+  in darkness, the <span class="nd">LORD</span> <span class="add">shall
+  be</span> a light unto me. </p>
+id: MIC/7/8
+next:
+  id: MIC/7/9
+  number: '9'
+previous:
+  id: MIC/7/7
+  number: '7'
+reference: 'Micah 7:8'

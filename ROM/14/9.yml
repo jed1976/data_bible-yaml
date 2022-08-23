@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 14:9" class="v">9</span>For
+  to this end Christ both died, and rose, and revived, that he might be Lord
+  both of the dead and living. </p>
+id: ROM/14/9
+next:
+  id: ROM/14/10
+  number: '10'
+previous:
+  id: ROM/14/8
+  number: '8'
+reference: 'Romans 14:9'

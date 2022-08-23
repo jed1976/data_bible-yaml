@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 7:16" class="v">16</span>If
+  then I do that which I would not, I consent unto the law that <span
+  class="add">it is</span> good. </p>
+id: ROM/7/16
+next:
+  id: ROM/7/17
+  number: '17'
+previous:
+  id: ROM/7/15
+  number: '15'
+reference: 'Romans 7:16'

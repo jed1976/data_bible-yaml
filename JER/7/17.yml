@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JER 7:17" class="v">17</span>¶
+  Seest thou not what they do in the cities of Judah and in the streets of
+  Jerusalem? </p>
+id: JER/7/17
+next:
+  id: JER/7/18
+  number: '18'
+previous:
+  id: JER/7/16
+  number: '16'
+reference: 'Jeremiah 7:17'

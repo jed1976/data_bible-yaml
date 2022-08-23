@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="GEN 29:25"
+  class="v">25</span>And it came to pass, that in the morning, behold, it <span
+  class="add">was</span> Leah: and he said to Laban, What <span
+  class="add">is</span> this thou hast done unto me? did not I serve with thee
+  for Rachel? wherefore then hast thou beguiled me? </p>
+id: GEN/29/25
+next:
+  id: GEN/29/26
+  number: '26'
+previous:
+  id: GEN/29/24
+  number: '24'
+reference: 'Genesis 29:25'

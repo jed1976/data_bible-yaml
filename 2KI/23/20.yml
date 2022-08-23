@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 23:20"
+  class="v">20</span>And he slew all the priests of the high places that <span
+  class="add">were</span> there upon the altars, and burned men’s bones upon
+  them, and returned to Jerusalem.</p>
+id: 2KI/23/20
+next:
+  id: 2KI/23/21
+  number: '21'
+previous:
+  id: 2KI/23/19
+  number: '19'
+reference: '2 Kings 23:20'

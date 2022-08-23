@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CO 16:21"
+  class="v">21</span>The salutation of <span class="add">me</span> Paul with
+  mine own hand. </p>
+id: 1CO/16/21
+next:
+  id: 1CO/16/22
+  number: '22'
+previous:
+  id: 1CO/16/20
+  number: '20'
+reference: '1 Corinthians 16:21'

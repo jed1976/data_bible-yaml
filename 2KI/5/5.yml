@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2KI 5:5" class="v">5</span>And
+  the king of Syria said, Go to, go, and I will send a letter unto the king of
+  Israel. And he departed, and took with him ten talents of silver, and six
+  thousand <span class="add">pieces</span> of gold, and ten changes of raiment.
+  </p>
+id: 2KI/5/5
+next:
+  id: 2KI/5/6
+  number: '6'
+previous:
+  id: 2KI/5/4
+  number: '4'
+reference: '2 Kings 5:5'

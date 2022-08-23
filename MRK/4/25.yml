@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="MRK 4:25"
+  class="v">25</span><span class="wj">For he that hath, to him shall be given:
+  and he that hath not, from him shall be taken even that which he
+  hath.</span></p>
+id: MRK/4/25
+next:
+  id: MRK/4/26
+  number: '26'
+previous:
+  id: MRK/4/24
+  number: '24'
+reference: 'Mark 4:25'

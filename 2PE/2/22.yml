@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2PE 2:22" class="v">22</span>But
+  it is happened unto them according to the true proverb, The dog <span
+  class="add">is</span> turned to his own vomit again; and the sow that was
+  washed to her wallowing in the mire.</p>
+id: 2PE/2/22
+next:
+  id: 2PE/3/1
+  number: '1'
+previous:
+  id: 2PE/2/21
+  number: '21'
+reference: '2 Peter 2:22'

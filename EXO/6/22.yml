@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 6:22" class="v">22</span>And
+  the sons of Uzziel; Mishael, and Elzaphan, and Zithri. </p>
+id: EXO/6/22
+next:
+  id: EXO/6/23
+  number: '23'
+previous:
+  id: EXO/6/21
+  number: '21'
+reference: 'Exodus 6:22'

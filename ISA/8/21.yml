@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 8:21" class="v">21</span>And
+  they shall pass through it, hardly bestead and hungry: and it shall come to
+  pass, that when they shall be hungry, they shall fret themselves, and curse
+  their king and their God, and look upward. </p>
+id: ISA/8/21
+next:
+  id: ISA/8/22
+  number: '22'
+previous:
+  id: ISA/8/20
+  number: '20'
+reference: 'Isaiah 8:21'

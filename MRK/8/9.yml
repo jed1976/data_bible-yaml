@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 8:9" class="v">9</span>And
+  they that had eaten were about four thousand: and he sent them away.</p>
+id: MRK/8/9
+next:
+  id: MRK/8/10
+  number: '10'
+previous:
+  id: MRK/8/8
+  number: '8'
+reference: 'Mark 8:9'

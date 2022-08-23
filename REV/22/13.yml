@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="REV 22:13"
+  class="v">13</span><span class="wj">I am Alpha and Omega, the beginning and
+  the end, the first and the last.</span> </p>
+id: REV/22/13
+next:
+  id: REV/22/14
+  number: '14'
+previous:
+  id: REV/22/12
+  number: '12'
+reference: 'Revelation 22:13'

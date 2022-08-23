@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 6:3" class="v">3</span>And
+  the <span class="nd">LORD</span> said, My spirit shall not always strive with
+  man, for that he also <span class="add">is</span> flesh: yet his days shall be
+  an hundred and twenty years.</p>
+id: GEN/6/3
+next:
+  id: GEN/6/4
+  number: '4'
+previous:
+  id: GEN/6/2
+  number: '2'
+reference: 'Genesis 6:3'

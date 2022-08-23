@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 23:18"
+  class="v">18</span><span class="wj">And, Whosoever shall swear by the altar,
+  it is nothing; but whosoever sweareth by the gift that is upon it, he is
+  guilty.</span> </p>
+id: MAT/23/18
+next:
+  id: MAT/23/19
+  number: '19'
+previous:
+  id: MAT/23/17
+  number: '17'
+reference: 'Matthew 23:18'

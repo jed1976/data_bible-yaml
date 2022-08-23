@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 17:3" class="v">3</span>And
+  hath gone and served other gods, and worshipped them, either the sun, or moon,
+  or any of the host of heaven, which I have not commanded; </p>
+id: DEU/17/3
+next:
+  id: DEU/17/4
+  number: '4'
+previous:
+  id: DEU/17/2
+  number: '2'
+reference: 'Deuteronomy 17:3'

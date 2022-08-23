@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 21:3"
+  class="v">3</span>Suffer me that I may speak; and after that I have spoken,
+  mock on. </p>
+id: JOB/21/3
+next:
+  id: JOB/21/4
+  number: '4'
+previous:
+  id: JOB/21/2
+  number: '2'
+reference: 'Job 21:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 16:19"
+  class="v">19</span>Thou shalt not wrest judgment; thou shalt not respect
+  persons, neither take a gift: for a gift doth blind the eyes of the wise, and
+  pervert the words of the righteous. </p>
+id: DEU/16/19
+next:
+  id: DEU/16/20
+  number: '20'
+previous:
+  id: DEU/16/18
+  number: '18'
+reference: 'Deuteronomy 16:19'

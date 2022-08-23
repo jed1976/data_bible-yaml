@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="DEU 28:40"
+  class="v">40</span>Thou shalt have olive trees throughout all thy coasts, but
+  thou shalt not anoint <span class="add">thyself</span> with the oil; for thine
+  olive shall cast <span class="add">his fruit</span>. </p>
+id: DEU/28/40
+next:
+  id: DEU/28/41
+  number: '41'
+previous:
+  id: DEU/28/39
+  number: '39'
+reference: 'Deuteronomy 28:40'

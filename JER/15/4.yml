@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 15:4" class="v">4</span>And I
+  will cause them to be removed into all kingdoms of the earth, because of
+  Manasseh the son of Hezekiah king of Judah, for <span class="add">that</span>
+  which he did in Jerusalem. </p>
+id: JER/15/4
+next:
+  id: JER/15/5
+  number: '5'
+previous:
+  id: JER/15/3
+  number: '3'
+reference: 'Jeremiah 15:4'

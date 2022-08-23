@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DEU 1:10" class="v">10</span>The
+  <span class="nd">LORD</span> your God hath multiplied you, and, behold, ye
+  <span class="add">are</span> this day as the stars of heaven for multitude.
+  </p>
+id: DEU/1/10
+next:
+  id: DEU/1/11
+  number: '11'
+previous:
+  id: DEU/1/9
+  number: '9'
+reference: 'Deuteronomy 1:10'

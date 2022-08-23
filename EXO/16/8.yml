@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 16:8" class="v">8</span>And
+  Moses said, <span class="add">This shall be</span>, when the <span
+  class="nd">LORD</span> shall give you in the evening flesh to eat, and in the
+  morning bread to the full; for that the <span class="nd">LORD</span> heareth
+  your murmurings which ye murmur against him: and what <span
+  class="add">are</span> we? your murmurings <span class="add">are</span> not
+  against us, but against the <span class="nd">LORD</span>.</p>
+id: EXO/16/8
+next:
+  id: EXO/16/9
+  number: '9'
+previous:
+  id: EXO/16/7
+  number: '7'
+reference: 'Exodus 16:8'

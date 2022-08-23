@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 16:15" class="v">15</span>In
+  the light of the king’s countenance <span class="add">is</span> life; and his
+  favour <span class="add">is</span> as a cloud of the latter rain. </p>
+id: PRO/16/15
+next:
+  id: PRO/16/16
+  number: '16'
+previous:
+  id: PRO/16/14
+  number: '14'
+reference: 'Proverbs 16:15'

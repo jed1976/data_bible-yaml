@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 6:21" class="v">21</span>For
+  now ye are nothing; ye see <span class="add">my</span> casting down, and are
+  afraid.</p>
+id: JOB/6/21
+next:
+  id: JOB/6/22
+  number: '22'
+previous:
+  id: JOB/6/20
+  number: '20'
+reference: 'Job 6:21'

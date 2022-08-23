@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 13:4" class="v">4</span>And
+  all the congregation said that they would do so: for the thing was right in
+  the eyes of all the people. </p>
+id: 1CH/13/4
+next:
+  id: 1CH/13/5
+  number: '5'
+previous:
+  id: 1CH/13/3
+  number: '3'
+reference: '1 Chronicles 13:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 7:11" class="v">11</span>Ask
+  thee a sign of the <span class="nd">LORD</span> thy God; ask it either in the
+  depth, or in the height above. </p>
+id: ISA/7/11
+next:
+  id: ISA/7/12
+  number: '12'
+previous:
+  id: ISA/7/10
+  number: '10'
+reference: 'Isaiah 7:11'

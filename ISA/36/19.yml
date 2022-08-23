@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 36:19"
+  class="v">19</span>Where <span class="add">are</span> the gods of Hamath and
+  Arphad? where <span class="add">are</span> the gods of Sepharvaim? and have
+  they delivered Samaria out of my hand? </p>
+id: ISA/36/19
+next:
+  id: ISA/36/20
+  number: '20'
+previous:
+  id: ISA/36/18
+  number: '18'
+reference: 'Isaiah 36:19'

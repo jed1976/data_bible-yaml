@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CO 15:20"
+  class="v">20</span>But now is Christ risen from the dead, <span
+  class="add">and</span> become the firstfruits of them that slept. </p>
+id: 1CO/15/20
+next:
+  id: 1CO/15/21
+  number: '21'
+previous:
+  id: 1CO/15/19
+  number: '19'
+reference: '1 Corinthians 15:20'

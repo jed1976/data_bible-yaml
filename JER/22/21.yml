@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 22:21" class="v">21</span>I
+  spake unto thee in thy prosperity; <span class="add">but</span> thou saidst, I
+  will not hear. This <span class="add">hath been</span> thy manner from thy
+  youth, that thou obeyedst not my voice. </p>
+id: JER/22/21
+next:
+  id: JER/22/22
+  number: '22'
+previous:
+  id: JER/22/20
+  number: '20'
+reference: 'Jeremiah 22:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EZR 7:8" class="v">8</span>And he
+  came to Jerusalem in the fifth month, which <span class="add">was</span> in
+  the seventh year of the king. </p>
+id: EZR/7/8
+next:
+  id: EZR/7/9
+  number: '9'
+previous:
+  id: EZR/7/7
+  number: '7'
+reference: 'Ezra 7:8'

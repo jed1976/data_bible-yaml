@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 14:18"
+  class="v">18</span>The simple inherit folly: but the prudent are crowned with
+  knowledge. </p>
+id: PRO/14/18
+next:
+  id: PRO/14/19
+  number: '19'
+previous:
+  id: PRO/14/17
+  number: '17'
+reference: 'Proverbs 14:18'

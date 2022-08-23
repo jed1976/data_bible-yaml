@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 14:21"
+  class="v">21</span>His sons come to honour, and he knoweth <span
+  class="add">it</span> not; and they are brought low, but he perceiveth <span
+  class="add">it</span> not of them. </p>
+id: JOB/14/21
+next:
+  id: JOB/14/22
+  number: '22'
+previous:
+  id: JOB/14/20
+  number: '20'
+reference: 'Job 14:21'

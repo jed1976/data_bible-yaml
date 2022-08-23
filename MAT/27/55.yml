@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="MAT 27:55"
+  class="v">55</span>And many women were there beholding afar off, which
+  followed Jesus from Galilee, ministering unto him: </p>
+id: MAT/27/55
+next:
+  id: MAT/27/56
+  number: '56'
+previous:
+  id: MAT/27/54
+  number: '54'
+reference: 'Matthew 27:55'

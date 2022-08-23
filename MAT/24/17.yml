@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 24:17"
+  class="v">17</span><span class="wj">Let him which is on the housetop not come
+  down to take any thing out of his house:</span> </p>
+id: MAT/24/17
+next:
+  id: MAT/24/18
+  number: '18'
+previous:
+  id: MAT/24/16
+  number: '16'
+reference: 'Matthew 24:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZR 5:3" class="v">3</span>¶ At
+  the same time came to them Tatnai, governor on this side the river, and
+  Shethar-boznai, and their companions, and said thus unto them, Who hath
+  commanded you to build this house, and to make up this wall? </p>
+id: EZR/5/3
+next:
+  id: EZR/5/4
+  number: '4'
+previous:
+  id: EZR/5/2
+  number: '2'
+reference: 'Ezra 5:3'

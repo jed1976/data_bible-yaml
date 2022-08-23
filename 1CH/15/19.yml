@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="1CH 15:19" class="v">19</span>So
+  the singers, Heman, Asaph, and Ethan, <span class="add">were appointed</span>
+  to sound with cymbals of brass; </p>
+id: 1CH/15/19
+next:
+  id: 1CH/15/20
+  number: '20'
+previous:
+  id: 1CH/15/18
+  number: '18'
+reference: '1 Chronicles 15:19'

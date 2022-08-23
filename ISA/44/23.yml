@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 44:23"
+  class="v">23</span>Sing, O ye heavens; for the <span class="nd">LORD</span>
+  hath done <span class="add">it:</span> shout, ye lower parts of the earth:
+  break forth into singing, ye mountains, O forest, and every tree therein: for
+  the <span class="nd">LORD</span> hath redeemed Jacob, and glorified himself in
+  Israel. </p>
+id: ISA/44/23
+next:
+  id: ISA/44/24
+  number: '24'
+previous:
+  id: ISA/44/22
+  number: '22'
+reference: 'Isaiah 44:23'

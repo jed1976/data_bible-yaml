@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 15:10"
+  class="v">10</span>Correction <span class="add">is</span> grievous unto him
+  that forsaketh the way: <span class="add">and</span> he that hateth reproof
+  shall die. </p>
+id: PRO/15/10
+next:
+  id: PRO/15/11
+  number: '11'
+previous:
+  id: PRO/15/9
+  number: '9'
+reference: 'Proverbs 15:10'

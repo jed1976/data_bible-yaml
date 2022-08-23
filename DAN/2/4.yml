@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DAN 2:4" class="v">4</span>Then
+  spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy
+  servants the dream, and we will shew the interpretation. </p>
+id: DAN/2/4
+next:
+  id: DAN/2/5
+  number: '5'
+previous:
+  id: DAN/2/3
+  number: '3'
+reference: 'Daniel 2:4'

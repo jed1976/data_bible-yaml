@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="GEN 12:5" class="v">5</span>And
+  Abram took Sarai his wife, and Lot his brother’s son, and all their substance
+  that they had gathered, and the souls that they had gotten in Haran; and they
+  went forth to go into the land of Canaan; and into the land of Canaan they
+  came.</p>
+id: GEN/12/5
+next:
+  id: GEN/12/6
+  number: '6'
+previous:
+  id: GEN/12/4
+  number: '4'
+reference: 'Genesis 12:5'

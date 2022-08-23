@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 12:4" class="v">4</span>Then
+  saith one of his disciples, Judas Iscariot, Simon’s <span
+  class="add">son</span>, which should betray him, </p>
+id: JHN/12/4
+next:
+  id: JHN/12/5
+  number: '5'
+previous:
+  id: JHN/12/3
+  number: '3'
+reference: 'John 12:4'

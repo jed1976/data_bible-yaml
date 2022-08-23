@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 88:13"
+  class="v">13</span>But unto thee have I cried, O <span class="nd">LORD</span>;
+  and in the morning shall my prayer prevent thee.</p>
+id: PSA/88/13
+next:
+  id: PSA/88/14
+  number: '14'
+previous:
+  id: PSA/88/12
+  number: '12'
+reference: 'Psalms 88:13'

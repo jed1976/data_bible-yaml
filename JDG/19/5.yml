@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 19:5" class="v">5</span>¶ And
+  it came to pass on the fourth day, when they arose early in the morning, that
+  he rose up to depart: and the damsel’s father said unto his son in law,
+  Comfort thine heart with a morsel of bread, and afterward go your way. </p>
+id: JDG/19/5
+next:
+  id: JDG/19/6
+  number: '6'
+previous:
+  id: JDG/19/4
+  number: '4'
+reference: 'Judges 19:5'

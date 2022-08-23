@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOS 9:13" class="v">13</span>And
+  these bottles of wine, which we filled, <span class="add">were</span> new;
+  and, behold, they be rent: and these our garments and our shoes are become old
+  by reason of the very long journey. </p>
+id: JOS/9/13
+next:
+  id: JOS/9/14
+  number: '14'
+previous:
+  id: JOS/9/12
+  number: '12'
+reference: 'Joshua 9:13'

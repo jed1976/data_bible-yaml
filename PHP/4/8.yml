@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PHP 4:8"
+  class="v">8</span>Finally, brethren, whatsoever things are true, whatsoever
+  things <span class="add">are</span> honest, whatsoever things <span
+  class="add">are</span> just, whatsoever things <span class="add">are</span>
+  pure, whatsoever things <span class="add">are</span> lovely, whatsoever things
+  <span class="add">are</span> of good report; if <span class="add">there
+  be</span> any virtue, and if <span class="add">there be</span> any praise,
+  think on these things. </p>
+id: PHP/4/8
+next:
+  id: PHP/4/9
+  number: '9'
+previous:
+  id: PHP/4/7
+  number: '7'
+reference: 'Philippians 4:8'

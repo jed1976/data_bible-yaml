@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="DEU 31:4" class="v">4</span>And
+  the <span class="nd">LORD</span> shall do unto them as he did to Sihon and to
+  Og, kings of the Amorites, and unto the land of them, whom he destroyed. </p>
+id: DEU/31/4
+next:
+  id: DEU/31/5
+  number: '5'
+previous:
+  id: DEU/31/3
+  number: '3'
+reference: 'Deuteronomy 31:4'

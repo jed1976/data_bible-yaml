@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="NUM 26:44" class="v">44</span>¶
+  <span class="add">Of</span> the children of Asher after their families: of
+  Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of
+  Beriah, the family of the Beriites. </p>
+id: NUM/26/44
+next:
+  id: NUM/26/45
+  number: '45'
+previous:
+  id: NUM/26/43
+  number: '43'
+reference: 'Numbers 26:44'

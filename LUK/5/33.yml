@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 5:33" class="v">33</span>¶
+  And they said unto him, Why do the disciples of John fast often, and make
+  prayers, and likewise <span class="add">the disciples</span> of the Pharisees;
+  but thine eat and drink? </p>
+id: LUK/5/33
+next:
+  id: LUK/5/34
+  number: '34'
+previous:
+  id: LUK/5/32
+  number: '32'
+reference: 'Luke 5:33'

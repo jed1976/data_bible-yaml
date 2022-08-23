@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 15:14"
+  class="v">14</span>And also that nation, whom they shall serve, will I judge:
+  and afterward shall they come out with great substance. </p>
+id: GEN/15/14
+next:
+  id: GEN/15/15
+  number: '15'
+previous:
+  id: GEN/15/13
+  number: '13'
+reference: 'Genesis 15:14'

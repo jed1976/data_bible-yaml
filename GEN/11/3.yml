@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 11:3" class="v">3</span>And
+  they said one to another, Go to, let us make brick, and burn them throughly.
+  And they had brick for stone, and slime had they for morter. </p>
+id: GEN/11/3
+next:
+  id: GEN/11/4
+  number: '4'
+previous:
+  id: GEN/11/2
+  number: '2'
+reference: 'Genesis 11:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 2:12" class="v">12</span>¶
+  After this he went down to Capernaum, he, and his mother, and his brethren,
+  and his disciples: and they continued there not many days.</p>
+id: JHN/2/12
+next:
+  id: JHN/2/13
+  number: '13'
+previous:
+  id: JHN/2/11
+  number: '11'
+reference: 'John 2:12'

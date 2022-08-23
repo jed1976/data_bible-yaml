@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="LUK 17:24"
+  class="v">24</span><span class="wj">For as the lightning, that lighteneth out
+  of the one <span class="add">part</span> under heaven, shineth unto the other
+  <span class="add">part</span> under heaven; so shall also the Son of man be in
+  his day.</span> </p>
+id: LUK/17/24
+next:
+  id: LUK/17/25
+  number: '25'
+previous:
+  id: LUK/17/23
+  number: '23'
+reference: 'Luke 17:24'

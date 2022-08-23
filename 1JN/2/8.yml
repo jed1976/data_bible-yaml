@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1JN 2:8" class="v">8</span>Again,
+  a new commandment I write unto you, which thing is true in him and in you:
+  because the darkness is past, and the true light now shineth. </p>
+id: 1JN/2/8
+next:
+  id: 1JN/2/9
+  number: '9'
+previous:
+  id: 1JN/2/7
+  number: '7'
+reference: '1 John 2:8'

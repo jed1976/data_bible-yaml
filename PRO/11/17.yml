@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 11:17"
+  class="v">17</span>The merciful man doeth good to his own soul: but <span
+  class="add">he that is</span> cruel troubleth his own flesh. </p>
+id: PRO/11/17
+next:
+  id: PRO/11/18
+  number: '18'
+previous:
+  id: PRO/11/16
+  number: '16'
+reference: 'Proverbs 11:17'

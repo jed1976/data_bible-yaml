@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LUK 3:36"
+  class="v">36</span>Which was <span class="add">the son</span> of Cainan, which
+  was <span class="add">the son</span> of Arphaxad, which was <span
+  class="add">the son</span> of Sem, which was <span class="add">the son</span>
+  of Noe, which was <span class="add">the son</span> of Lamech, </p>
+id: LUK/3/36
+next:
+  id: LUK/3/37
+  number: '37'
+previous:
+  id: LUK/3/35
+  number: '35'
+reference: 'Luke 3:36'

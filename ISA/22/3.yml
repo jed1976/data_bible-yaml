@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 22:3" class="v">3</span>All
+  thy rulers are fled together, they are bound by the archers: all that are
+  found in thee are bound together, <span class="add">which</span> have fled
+  from far. </p>
+id: ISA/22/3
+next:
+  id: ISA/22/4
+  number: '4'
+previous:
+  id: ISA/22/2
+  number: '2'
+reference: 'Isaiah 22:3'

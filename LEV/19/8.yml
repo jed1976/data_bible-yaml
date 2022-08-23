@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 19:8"
+  class="v">8</span>Therefore <span class="add">every one</span> that eateth it
+  shall bear his iniquity, because he hath profaned the hallowed thing of the
+  <span class="nd">LORD</span>: and that soul shall be cut off from among his
+  people.</p>
+id: LEV/19/8
+next:
+  id: LEV/19/9
+  number: '9'
+previous:
+  id: LEV/19/7
+  number: '7'
+reference: 'Leviticus 19:8'

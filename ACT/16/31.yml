@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 16:31"
+  class="v">31</span>And they said, Believe on the Lord Jesus Christ, and thou
+  shalt be saved, and thy house. </p>
+id: ACT/16/31
+next:
+  id: ACT/16/32
+  number: '32'
+previous:
+  id: ACT/16/30
+  number: '30'
+reference: 'Acts 16:31'

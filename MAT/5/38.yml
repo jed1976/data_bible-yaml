@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="MAT 5:38"
+  class="v">38</span><span class="wj">¶ Ye have heard that it hath been said, An
+  eye for an eye, and a tooth for a tooth:</span> </p>
+id: MAT/5/38
+next:
+  id: MAT/5/39
+  number: '39'
+previous:
+  id: MAT/5/37
+  number: '37'
+reference: 'Matthew 5:38'

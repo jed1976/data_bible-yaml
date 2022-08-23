@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 42:19"
+  class="v">19</span>Who <span class="add">is</span> blind, but my servant? or
+  deaf, as my messenger <span class="add">that</span> I sent? who <span
+  class="add">is</span> blind as <span class="add">he that is</span> perfect,
+  and blind as the <span class="nd">LORD’s</span> servant? </p>
+id: ISA/42/19
+next:
+  id: ISA/42/20
+  number: '20'
+previous:
+  id: ISA/42/18
+  number: '18'
+reference: 'Isaiah 42:19'

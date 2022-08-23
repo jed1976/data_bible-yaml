@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MAT 28:9" class="v">9</span>¶ And
+  as they went to tell his disciples, behold, Jesus met them, saying, <span
+  class="wj">All hail.</span> And they came and held him by the feet, and
+  worshipped him. </p>
+id: MAT/28/9
+next:
+  id: MAT/28/10
+  number: '10'
+previous:
+  id: MAT/28/8
+  number: '8'
+reference: 'Matthew 28:9'

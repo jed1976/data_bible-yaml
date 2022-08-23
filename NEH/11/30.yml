@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="NEH 11:30"
+  class="v">30</span>Zanoah, Adullam, and <span class="add">in</span> their
+  villages, at Lachish, and the fields thereof, at Azekah, and <span
+  class="add">in</span> the villages thereof. And they dwelt from Beer-sheba
+  unto the valley of Hinnom. </p>
+id: NEH/11/30
+next:
+  id: NEH/11/31
+  number: '31'
+previous:
+  id: NEH/11/29
+  number: '29'
+reference: 'Nehemiah 11:30'

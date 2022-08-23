@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="NUM 11:5" class="v">5</span>We
+  remember the fish, which we did eat in Egypt freely; the cucumbers, and the
+  melons, and the leeks, and the onions, and the garlick: </p>
+id: NUM/11/5
+next:
+  id: NUM/11/6
+  number: '6'
+previous:
+  id: NUM/11/4
+  number: '4'
+reference: 'Numbers 11:5'

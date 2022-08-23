@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="DEU 5:30" class="v">30</span>Go
+  say to them, Get you into your tents again. </p>
+id: DEU/5/30
+next:
+  id: DEU/5/31
+  number: '31'
+previous:
+  id: DEU/5/29
+  number: '29'
+reference: 'Deuteronomy 5:30'

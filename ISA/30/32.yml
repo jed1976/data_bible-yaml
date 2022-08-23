@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ISA 30:32"
+  class="v">32</span>And <span class="add">in</span> every place where the
+  grounded staff shall pass, which the <span class="nd">LORD</span> shall lay
+  upon him, <span class="add">it</span> shall be with tabrets and harps: and in
+  battles of shaking will he fight with it. </p>
+id: ISA/30/32
+next:
+  id: ISA/30/33
+  number: '33'
+previous:
+  id: ISA/30/31
+  number: '31'
+reference: 'Isaiah 30:32'

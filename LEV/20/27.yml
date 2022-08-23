@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="LEV 20:27" class="v">27</span>¶
+  A man also or woman that hath a familiar spirit, or that is a wizard, shall
+  surely be put to death: they shall stone them with stones: their blood <span
+  class="add">shall be</span> upon them.</p>
+id: LEV/20/27
+next:
+  id: LEV/21/1
+  number: '1'
+previous:
+  id: LEV/20/26
+  number: '26'
+reference: 'Leviticus 20:27'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="AMO 2:11" class="v">11</span>And
+  I raised up of your sons for prophets, and of your young men for Nazarites.
+  <span class="add">Is it</span> not even thus, O ye children of Israel? saith
+  the <span class="nd">LORD</span>. </p>
+id: AMO/2/11
+next:
+  id: AMO/2/12
+  number: '12'
+previous:
+  id: AMO/2/10
+  number: '10'
+reference: 'Amos 2:11'

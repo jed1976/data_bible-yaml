@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 6:5" class="v">5</span>¶ And
+  the saying pleased the whole multitude: and they chose Stephen, a man full of
+  faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and
+  Timon, and Parmenas, and Nicolas a proselyte of Antioch: </p>
+id: ACT/6/5
+next:
+  id: ACT/6/6
+  number: '6'
+previous:
+  id: ACT/6/4
+  number: '4'
+reference: 'Acts 6:5'

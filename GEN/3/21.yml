@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 3:21"
+  class="v">21</span>Unto Adam also and to his wife did the <span
+  class="nd">LORD</span> God make coats of skins, and clothed them.</p>
+id: GEN/3/21
+next:
+  id: GEN/3/22
+  number: '22'
+previous:
+  id: GEN/3/20
+  number: '20'
+reference: 'Genesis 3:21'

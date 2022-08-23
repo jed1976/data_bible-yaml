@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2KI 6:24" class="v">24</span>¶
+  And it came to pass after this, that Ben-hadad king of Syria gathered all his
+  host, and went up, and besieged Samaria. </p>
+id: 2KI/6/24
+next:
+  id: 2KI/6/25
+  number: '25'
+previous:
+  id: 2KI/6/23
+  number: '23'
+reference: '2 Kings 6:24'

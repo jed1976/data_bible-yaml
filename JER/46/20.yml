@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JER 46:20"
+  class="v">20</span>Egypt <span class="add">is like</span> a very fair heifer,
+  <span class="add">but</span> destruction cometh; it cometh out of the north.
+  </p>
+id: JER/46/20
+next:
+  id: JER/46/21
+  number: '21'
+previous:
+  id: JER/46/19
+  number: '19'
+reference: 'Jeremiah 46:20'

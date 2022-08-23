@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="DEU 26:6" class="v">6</span>And
+  the Egyptians evil entreated us, and afflicted us, and laid upon us hard
+  bondage: </p>
+id: DEU/26/6
+next:
+  id: DEU/26/7
+  number: '7'
+previous:
+  id: DEU/26/5
+  number: '5'
+reference: 'Deuteronomy 26:6'

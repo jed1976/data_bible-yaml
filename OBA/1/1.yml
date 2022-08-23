@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="OBA 1:1" class="v">1</span>The
+  vision of Obadiah. Thus saith the Lord <span class="nd">GOD</span> concerning
+  Edom; We have heard a rumour from the <span class="nd">LORD</span>, and an
+  ambassador is sent among the heathen, Arise ye, and let us rise up against her
+  in battle. </p>
+id: OBA/1/1
+next:
+  id: OBA/1/2
+  number: '2'
+previous:
+  id: OBA/intro/0
+  number: '0'
+reference: 'Obadiah 1:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 1:6" class="v">6</span>¶ Now
+  there was a day when the sons of God came to present themselves before the
+  <span class="nd">LORD</span>, and Satan came also among them. </p>
+id: JOB/1/6
+next:
+  id: JOB/1/7
+  number: '7'
+previous:
+  id: JOB/1/5
+  number: '5'
+reference: 'Job 1:6'

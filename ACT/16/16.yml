@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 16:16" class="v">16</span>¶
+  And it came to pass, as we went to prayer, a certain damsel possessed with a
+  spirit of divination met us, which brought her masters much gain by
+  soothsaying: </p>
+id: ACT/16/16
+next:
+  id: ACT/16/17
+  number: '17'
+previous:
+  id: ACT/16/15
+  number: '15'
+reference: 'Acts 16:16'

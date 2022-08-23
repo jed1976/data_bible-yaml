@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 15:1" class="v">1</span>Then
+  answered Eliphaz the Temanite, and said, </p>
+id: JOB/15/1
+next:
+  id: JOB/15/2
+  number: '2'
+previous:
+  id: JOB/14/22
+  number: '22'
+reference: 'Job 15:1'

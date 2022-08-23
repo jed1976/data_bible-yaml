@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="18" data-sid="PSA 72:18"
+  class="v">18</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span> God, the God of Israel, who only doeth wondrous
+  things.</p>
+id: PSA/72/18
+next:
+  id: PSA/72/19
+  number: '19'
+previous:
+  id: PSA/72/17
+  number: '17'
+reference: 'Psalms 72:18'

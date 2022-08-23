@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 16:27"
+  class="v">27</span><span class="wj">For the Son of man shall come in the glory
+  of his Father with his angels; and then he shall reward every man according to
+  his works.</span> </p>
+id: MAT/16/27
+next:
+  id: MAT/16/28
+  number: '28'
+previous:
+  id: MAT/16/26
+  number: '26'
+reference: 'Matthew 16:27'

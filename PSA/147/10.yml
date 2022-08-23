@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 147:10"
+  class="v">10</span>He delighteth not in the strength of the horse: he taketh
+  not pleasure in the legs of a man.</p>
+id: PSA/147/10
+next:
+  id: PSA/147/11
+  number: '11'
+previous:
+  id: PSA/147/9
+  number: '9'
+reference: 'Psalms 147:10'

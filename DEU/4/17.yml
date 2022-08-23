@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DEU 4:17" class="v">17</span>The
+  likeness of any beast that <span class="add">is</span> on the earth, the
+  likeness of any winged fowl that flieth in the air, </p>
+id: DEU/4/17
+next:
+  id: DEU/4/18
+  number: '18'
+previous:
+  id: DEU/4/16
+  number: '16'
+reference: 'Deuteronomy 4:17'

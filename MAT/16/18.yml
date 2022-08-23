@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 16:18"
+  class="v">18</span><span class="wj">And I say also unto thee, That thou art
+  Peter, and upon this rock I will build my church; and the gates of hell shall
+  not prevail against it.</span> </p>
+id: MAT/16/18
+next:
+  id: MAT/16/19
+  number: '19'
+previous:
+  id: MAT/16/17
+  number: '17'
+reference: 'Matthew 16:18'

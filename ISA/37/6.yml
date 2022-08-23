@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 37:6" class="v">6</span>¶ And
+  Isaiah said unto them, Thus shall ye say unto your master, Thus saith the
+  <span class="nd">LORD</span>, Be not afraid of the words that thou hast heard,
+  wherewith the servants of the king of Assyria have blasphemed me. </p>
+id: ISA/37/6
+next:
+  id: ISA/37/7
+  number: '7'
+previous:
+  id: ISA/37/5
+  number: '5'
+reference: 'Isaiah 37:6'

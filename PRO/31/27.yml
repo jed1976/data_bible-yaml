@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 31:27"
+  class="v">27</span>She looketh well to the ways of her household, and eateth
+  not the bread of idleness. </p>
+id: PRO/31/27
+next:
+  id: PRO/31/28
+  number: '28'
+previous:
+  id: PRO/31/26
+  number: '26'
+reference: 'Proverbs 31:27'

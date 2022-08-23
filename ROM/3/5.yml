@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ROM 3:5" class="v">5</span>But if
+  our unrighteousness commend the righteousness of God, what shall we say? <span
+  class="add">Is</span> God unrighteous who taketh vengeance? (I speak as a man)
+  </p>
+id: ROM/3/5
+next:
+  id: ROM/3/6
+  number: '6'
+previous:
+  id: ROM/3/4
+  number: '4'
+reference: 'Romans 3:5'

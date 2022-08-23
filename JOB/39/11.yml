@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOB 39:11"
+  class="v">11</span>Wilt thou trust him, because his strength <span
+  class="add">is</span> great? or wilt thou leave thy labour to him? </p>
+id: JOB/39/11
+next:
+  id: JOB/39/12
+  number: '12'
+previous:
+  id: JOB/39/10
+  number: '10'
+reference: 'Job 39:11'

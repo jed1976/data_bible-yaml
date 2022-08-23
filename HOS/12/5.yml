@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 12:5" class="v">5</span>Even
+  the <span class="nd">LORD</span> God of hosts; the <span
+  class="nd">LORD</span> <span class="add">is</span> his memorial. </p>
+id: HOS/12/5
+next:
+  id: HOS/12/6
+  number: '6'
+previous:
+  id: HOS/12/4
+  number: '4'
+reference: 'Hosea 12:5'

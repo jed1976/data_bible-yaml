@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ISA 62:8" class="v">8</span>The
+  <span class="nd">LORD</span> hath sworn by his right hand, and by the arm of
+  his strength, Surely I will no more give thy corn <span class="add">to
+  be</span> meat for thine enemies; and the sons of the stranger shall not drink
+  thy wine, for the which thou hast laboured: </p>
+id: ISA/62/8
+next:
+  id: ISA/62/9
+  number: '9'
+previous:
+  id: ISA/62/7
+  number: '7'
+reference: 'Isaiah 62:8'

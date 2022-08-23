@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 7:21" class="v">21</span>And
+  when he was cast out, Pharaoh’s daughter took him up, and nourished him for
+  her own son. </p>
+id: ACT/7/21
+next:
+  id: ACT/7/22
+  number: '22'
+previous:
+  id: ACT/7/20
+  number: '20'
+reference: 'Acts 7:21'

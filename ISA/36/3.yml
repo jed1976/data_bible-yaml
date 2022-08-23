@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 36:3" class="v">3</span>Then
+  came forth unto him Eliakim, Hilkiah’s son, which was over the house, and
+  Shebna the scribe, and Joah, Asaph’s son, the recorder.</p>
+id: ISA/36/3
+next:
+  id: ISA/36/4
+  number: '4'
+previous:
+  id: ISA/36/2
+  number: '2'
+reference: 'Isaiah 36:3'

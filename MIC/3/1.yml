@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MIC 3:1" class="v">1</span>And I
+  said, Hear, I pray you, O heads of Jacob, and ye princes of the house of
+  Israel; <span class="add">Is it</span> not for you to know judgment? </p>
+id: MIC/3/1
+next:
+  id: MIC/3/2
+  number: '2'
+previous:
+  id: MIC/2/13
+  number: '13'
+reference: 'Micah 3:1'

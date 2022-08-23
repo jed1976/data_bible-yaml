@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="HEB 10:21"
+  class="v">21</span>And <span class="add">having</span> an high priest over the
+  house of God; </p>
+id: HEB/10/21
+next:
+  id: HEB/10/22
+  number: '22'
+previous:
+  id: HEB/10/20
+  number: '20'
+reference: 'Hebrews 10:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 23:50" class="v">50</span>¶
+  And, behold, <span class="add">there was</span> a man named Joseph, a
+  counsellor; <span class="add">and he was</span> a good man, and a just: </p>
+id: LUK/23/50
+next:
+  id: LUK/23/51
+  number: '51'
+previous:
+  id: LUK/23/49
+  number: '49'
+reference: 'Luke 23:50'

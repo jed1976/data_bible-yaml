@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 4:11" class="v">11</span>And
+  the <span class="nd">LORD</span> said unto him, Who hath made man’s mouth? or
+  who maketh the dumb, or deaf, or the seeing, or the blind? have not I the
+  <span class="nd">LORD</span>? </p>
+id: EXO/4/11
+next:
+  id: EXO/4/12
+  number: '12'
+previous:
+  id: EXO/4/10
+  number: '10'
+reference: 'Exodus 4:11'

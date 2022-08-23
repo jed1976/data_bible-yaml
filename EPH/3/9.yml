@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EPH 3:9" class="v">9</span>And to
+  make all <span class="add">men</span> see what <span class="add">is</span> the
+  fellowship of the mystery, which from the beginning of the world hath been hid
+  in God, who created all things by Jesus Christ: </p>
+id: EPH/3/9
+next:
+  id: EPH/3/10
+  number: '10'
+previous:
+  id: EPH/3/8
+  number: '8'
+reference: 'Ephesians 3:9'

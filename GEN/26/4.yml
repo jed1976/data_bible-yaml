@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 26:4" class="v">4</span>And I
+  will make thy seed to multiply as the stars of heaven, and will give unto thy
+  seed all these countries; and in thy seed shall all the nations of the earth
+  be blessed; </p>
+id: GEN/26/4
+next:
+  id: GEN/26/5
+  number: '5'
+previous:
+  id: GEN/26/3
+  number: '3'
+reference: 'Genesis 26:4'

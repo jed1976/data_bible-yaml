@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="LUK 17:2" class="v">2</span><span
+  class="wj">It were better for him that a millstone were hanged about his neck,
+  and he cast into the sea, than that he should offend one of these little
+  ones.</span></p>
+id: LUK/17/2
+next:
+  id: LUK/17/3
+  number: '3'
+previous:
+  id: LUK/17/1
+  number: '1'
+reference: 'Luke 17:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 14:1" class="v">1</span>In
+  the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the
+  son of Joash king of Judah. </p>
+id: 2KI/14/1
+next:
+  id: 2KI/14/2
+  number: '2'
+previous:
+  id: 2KI/13/25
+  number: '25'
+reference: '2 Kings 14:1'

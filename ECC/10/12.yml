@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ECC 10:12"
+  class="v">12</span>The words of a wise man’s mouth <span
+  class="add">are</span> gracious; but the lips of a fool will swallow up
+  himself. </p>
+id: ECC/10/12
+next:
+  id: ECC/10/13
+  number: '13'
+previous:
+  id: ECC/10/11
+  number: '11'
+reference: 'Ecclesiastes 10:12'

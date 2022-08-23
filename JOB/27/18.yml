@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JOB 27:18" class="v">18</span>He
+  buildeth his house as a moth, and as a booth <span class="add">that</span> the
+  keeper maketh. </p>
+id: JOB/27/18
+next:
+  id: JOB/27/19
+  number: '19'
+previous:
+  id: JOB/27/17
+  number: '17'
+reference: 'Job 27:18'

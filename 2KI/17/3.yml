@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 17:3" class="v">3</span>¶
+  Against him came up Shalmaneser king of Assyria; and Hoshea became his
+  servant, and gave him presents. </p>
+id: 2KI/17/3
+next:
+  id: 2KI/17/4
+  number: '4'
+previous:
+  id: 2KI/17/2
+  number: '2'
+reference: '2 Kings 17:3'

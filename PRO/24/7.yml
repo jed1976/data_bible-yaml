@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 24:7"
+  class="v">7</span>Wisdom <span class="add">is</span> too high for a fool: he
+  openeth not his mouth in the gate. </p>
+id: PRO/24/7
+next:
+  id: PRO/24/8
+  number: '8'
+previous:
+  id: PRO/24/6
+  number: '6'
+reference: 'Proverbs 24:7'

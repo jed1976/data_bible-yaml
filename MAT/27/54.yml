@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="54" data-sid="MAT 27:54"
+  class="v">54</span>Now when the centurion, and they that were with him,
+  watching Jesus, saw the earthquake, and those things that were done, they
+  feared greatly, saying, Truly this was the Son of God. </p>
+id: MAT/27/54
+next:
+  id: MAT/27/55
+  number: '55'
+previous:
+  id: MAT/27/53
+  number: '53'
+reference: 'Matthew 27:54'

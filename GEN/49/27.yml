@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 49:27" class="v">27</span>¶
+  Benjamin shall ravin <span class="add">as</span> a wolf: in the morning he
+  shall devour the prey, and at night he shall divide the spoil.</p>
+id: GEN/49/27
+next:
+  id: GEN/49/28
+  number: '28'
+previous:
+  id: GEN/49/26
+  number: '26'
+reference: 'Genesis 49:27'

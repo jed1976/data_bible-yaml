@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 9:14" class="v">14</span>And
+  here he hath authority from the chief priests to bind all that call on thy
+  name. </p>
+id: ACT/9/14
+next:
+  id: ACT/9/15
+  number: '15'
+previous:
+  id: ACT/9/13
+  number: '13'
+reference: 'Acts 9:14'

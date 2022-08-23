@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DAN 7:18" class="v">18</span>But
+  the saints of the most High shall take the kingdom, and possess the kingdom
+  for ever, even for ever and ever. </p>
+id: DAN/7/18
+next:
+  id: DAN/7/19
+  number: '19'
+previous:
+  id: DAN/7/17
+  number: '17'
+reference: 'Daniel 7:18'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1CO 1:10" class="v">10</span>Now
+  I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all
+  speak the same thing, and <span class="add">that</span> there be no divisions
+  among you; but <span class="add">that</span> ye be perfectly joined together
+  in the same mind and in the same judgment. </p>
+id: 1CO/1/10
+next:
+  id: 1CO/1/11
+  number: '11'
+previous:
+  id: 1CO/1/9
+  number: '9'
+reference: '1 Corinthians 1:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 21:18"
+  class="v">18</span>Arise, lift up the lad, and hold him in thine hand; for I
+  will make him a great nation. </p>
+id: GEN/21/18
+next:
+  id: GEN/21/19
+  number: '19'
+previous:
+  id: GEN/21/17
+  number: '17'
+reference: 'Genesis 21:18'

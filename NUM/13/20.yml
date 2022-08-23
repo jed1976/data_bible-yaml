@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 13:20"
+  class="v">20</span>And what the land <span class="add">is</span>, whether it
+  <span class="add">be</span> fat or lean, whether there be wood therein, or
+  not. And be ye of good courage, and bring of the fruit of the land. Now the
+  time <span class="add">was</span> the time of the firstripe grapes.</p>
+id: NUM/13/20
+next:
+  id: NUM/13/21
+  number: '21'
+previous:
+  id: NUM/13/19
+  number: '19'
+reference: 'Numbers 13:20'

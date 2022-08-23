@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HOS 2:5" class="v">5</span>For
+  their mother hath played the harlot: she that conceived them hath done
+  shamefully: for she said, I will go after my lovers, that give <span
+  class="add">me</span> my bread and my water, my wool and my flax, mine oil and
+  my drink.</p>
+id: HOS/2/5
+next:
+  id: HOS/2/6
+  number: '6'
+previous:
+  id: HOS/2/4
+  number: '4'
+reference: 'Hosea 2:5'

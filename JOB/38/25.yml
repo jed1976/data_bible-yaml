@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 38:25"
+  class="v">25</span>Who hath divided a watercourse for the overflowing of
+  waters, or a way for the lightning of thunder; </p>
+id: JOB/38/25
+next:
+  id: JOB/38/26
+  number: '26'
+previous:
+  id: JOB/38/24
+  number: '24'
+reference: 'Job 38:25'

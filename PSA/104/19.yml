@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="19" data-sid="PSA 104:19"
+  class="v">19</span>He appointed the moon for seasons: the sun knoweth his
+  going down.</p>
+id: PSA/104/19
+next:
+  id: PSA/104/20
+  number: '20'
+previous:
+  id: PSA/104/18
+  number: '18'
+reference: 'Psalms 104:19'

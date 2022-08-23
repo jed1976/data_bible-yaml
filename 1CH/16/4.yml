@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CH 16:4" class="v">4</span>¶ And
+  he appointed <span class="add">certain</span> of the Levites to minister
+  before the ark of the <span class="nd">LORD</span>, and to record, and to
+  thank and praise the <span class="nd">LORD</span> God of Israel: </p>
+id: 1CH/16/4
+next:
+  id: 1CH/16/5
+  number: '5'
+previous:
+  id: 1CH/16/3
+  number: '3'
+reference: '1 Chronicles 16:4'

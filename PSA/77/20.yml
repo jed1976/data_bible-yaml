@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 77:20"
+  class="v">20</span>Thou leddest thy people like a flock by the hand of Moses
+  and Aaron.</p>
+id: PSA/77/20
+next:
+  id: PSA/78/1
+  number: '1'
+previous:
+  id: PSA/77/19
+  number: '19'
+reference: 'Psalms 77:20'

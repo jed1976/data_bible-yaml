@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 14:7" class="v">7</span>And
+  Elishama, and Beeliada, and Eliphalet.</p>
+id: 1CH/14/7
+next:
+  id: 1CH/14/8
+  number: '8'
+previous:
+  id: 1CH/14/6
+  number: '6'
+reference: '1 Chronicles 14:7'

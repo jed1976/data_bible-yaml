@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2SA 13:23" class="v">23</span>¶
+  And it came to pass after two full years, that Absalom had sheepshearers in
+  Baal-hazor, which <span class="add">is</span> beside Ephraim: and Absalom
+  invited all the king’s sons. </p>
+id: 2SA/13/23
+next:
+  id: 2SA/13/24
+  number: '24'
+previous:
+  id: 2SA/13/22
+  number: '22'
+reference: '2 Samuel 13:23'

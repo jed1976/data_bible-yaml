@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 37:3"
+  class="v">3</span>Trust in the <span class="nd">LORD</span>, and do good;
+  <span class="add">so</span> shalt thou dwell in the land, and verily thou
+  shalt be fed.</p>
+id: PSA/37/3
+next:
+  id: PSA/37/4
+  number: '4'
+previous:
+  id: PSA/37/2
+  number: '2'
+reference: 'Psalms 37:3'

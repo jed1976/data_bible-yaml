@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="JHN 1:29" class="v">29</span>¶
+  The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of
+  God, which taketh away the sin of the world. </p>
+id: JHN/1/29
+next:
+  id: JHN/1/30
+  number: '30'
+previous:
+  id: JHN/1/28
+  number: '28'
+reference: 'John 1:29'

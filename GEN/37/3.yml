@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 37:3" class="v">3</span>Now
+  Israel loved Joseph more than all his children, because he <span
+  class="add">was</span> the son of his old age: and he made him a coat of <span
+  class="add">many</span> colours. </p>
+id: GEN/37/3
+next:
+  id: GEN/37/4
+  number: '4'
+previous:
+  id: GEN/37/2
+  number: '2'
+reference: 'Genesis 37:3'

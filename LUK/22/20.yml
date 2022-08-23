@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LUK 22:20"
+  class="v">20</span>Likewise also the cup after supper, saying, <span
+  class="wj">This cup <span class="add">is</span> the new testament in my blood,
+  which is shed for you.</span></p>
+id: LUK/22/20
+next:
+  id: LUK/22/21
+  number: '21'
+previous:
+  id: LUK/22/19
+  number: '19'
+reference: 'Luke 22:20'

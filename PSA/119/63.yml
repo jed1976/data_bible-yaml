@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="63" data-sid="PSA 119:63"
+  class="v">63</span>I <span class="add">am</span> a companion of all <span
+  class="add">them</span> that fear thee, and of them that keep thy
+  precepts.</p>
+id: PSA/119/63
+next:
+  id: PSA/119/64
+  number: '64'
+previous:
+  id: PSA/119/62
+  number: '62'
+reference: 'Psalms 119:63'

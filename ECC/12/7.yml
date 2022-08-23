@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ECC 12:7" class="v">7</span>Then
+  shall the dust return to the earth as it was: and the spirit shall return unto
+  God who gave it.</p>
+id: ECC/12/7
+next:
+  id: ECC/12/8
+  number: '8'
+previous:
+  id: ECC/12/6
+  number: '6'
+reference: 'Ecclesiastes 12:7'

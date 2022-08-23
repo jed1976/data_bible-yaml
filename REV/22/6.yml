@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 22:6" class="v">6</span>And
+  he said unto me, These sayings <span class="add">are</span> faithful and true:
+  and the Lord God of the holy prophets sent his angel to shew unto his servants
+  the things which must shortly be done. </p>
+id: REV/22/6
+next:
+  id: REV/22/7
+  number: '7'
+previous:
+  id: REV/22/5
+  number: '5'
+reference: 'Revelation 22:6'

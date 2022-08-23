@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 29:17"
+  class="v">17</span>Leah <span class="add">was</span> tender eyed; but Rachel
+  was beautiful and well favoured. </p>
+id: GEN/29/17
+next:
+  id: GEN/29/18
+  number: '18'
+previous:
+  id: GEN/29/16
+  number: '16'
+reference: 'Genesis 29:17'

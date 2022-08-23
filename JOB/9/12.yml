@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 9:12"
+  class="v">12</span>Behold, he taketh away, who can hinder him? who will say
+  unto him, What doest thou? </p>
+id: JOB/9/12
+next:
+  id: JOB/9/13
+  number: '13'
+previous:
+  id: JOB/9/11
+  number: '11'
+reference: 'Job 9:12'

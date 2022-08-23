@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 10:3" class="v">3</span>The
+  <span class="nd">LORD</span> will not suffer the soul of the righteous to
+  famish: but he casteth away the substance of the wicked. </p>
+id: PRO/10/3
+next:
+  id: PRO/10/4
+  number: '4'
+previous:
+  id: PRO/10/2
+  number: '2'
+reference: 'Proverbs 10:3'

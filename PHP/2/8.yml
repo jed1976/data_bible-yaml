@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PHP 2:8" class="v">8</span>And
+  being found in fashion as a man, he humbled himself, and became obedient unto
+  death, even the death of the cross. </p>
+id: PHP/2/8
+next:
+  id: PHP/2/9
+  number: '9'
+previous:
+  id: PHP/2/7
+  number: '7'
+reference: 'Philippians 2:8'

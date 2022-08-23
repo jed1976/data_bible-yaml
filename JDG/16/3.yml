@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JDG 16:3" class="v">3</span>And
+  Samson lay till midnight, and arose at midnight, and took the doors of the
+  gate of the city, and the two posts, and went away with them, bar and all, and
+  put <span class="add">them</span> upon his shoulders, and carried them up to
+  the top of an hill that <span class="add">is</span> before Hebron.</p>
+id: JDG/16/3
+next:
+  id: JDG/16/4
+  number: '4'
+previous:
+  id: JDG/16/2
+  number: '2'
+reference: 'Judges 16:3'

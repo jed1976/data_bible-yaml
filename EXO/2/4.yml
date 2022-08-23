@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 2:4" class="v">4</span>And
+  his sister stood afar off, to wit what would be done to him.</p>
+id: EXO/2/4
+next:
+  id: EXO/2/5
+  number: '5'
+previous:
+  id: EXO/2/3
+  number: '3'
+reference: 'Exodus 2:4'

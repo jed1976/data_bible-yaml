@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 18:4" class="v">4</span>And
+  the name of the other <span class="add">was</span> Eliezer; for the God of my
+  father, <span class="add">said he, was</span> mine help, and delivered me from
+  the sword of Pharaoh: </p>
+id: EXO/18/4
+next:
+  id: EXO/18/5
+  number: '5'
+previous:
+  id: EXO/18/3
+  number: '3'
+reference: 'Exodus 18:4'

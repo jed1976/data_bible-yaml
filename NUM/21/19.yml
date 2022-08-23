@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 21:19"
+  class="v">19</span>And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
+  </p>
+id: NUM/21/19
+next:
+  id: NUM/21/20
+  number: '20'
+previous:
+  id: NUM/21/18
+  number: '18'
+reference: 'Numbers 21:19'

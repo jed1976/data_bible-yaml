@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 26:14"
+  class="v">14</span><span class="add">They are</span> dead, they shall not
+  live; <span class="add">they are</span> deceased, they shall not rise:
+  therefore hast thou visited and destroyed them, and made all their memory to
+  perish. </p>
+id: ISA/26/14
+next:
+  id: ISA/26/15
+  number: '15'
+previous:
+  id: ISA/26/13
+  number: '13'
+reference: 'Isaiah 26:14'

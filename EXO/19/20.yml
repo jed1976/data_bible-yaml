@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 19:20"
+  class="v">20</span>And the <span class="nd">LORD</span> came down upon mount
+  Sinai, on the top of the mount: and the <span class="nd">LORD</span> called
+  Moses <span class="add">up</span> to the top of the mount; and Moses went up.
+  </p>
+id: EXO/19/20
+next:
+  id: EXO/19/21
+  number: '21'
+previous:
+  id: EXO/19/19
+  number: '19'
+reference: 'Exodus 19:20'

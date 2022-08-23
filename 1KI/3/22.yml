@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="1KI 3:22" class="v">22</span>And
+  the other woman said, Nay; but the living <span class="add">is</span> my son,
+  and the dead <span class="add">is</span> thy son. And this said, No; but the
+  dead <span class="add">is</span> thy son, and the living <span
+  class="add">is</span> my son. Thus they spake before the king. </p>
+id: 1KI/3/22
+next:
+  id: 1KI/3/23
+  number: '23'
+previous:
+  id: 1KI/3/21
+  number: '21'
+reference: '1 Kings 3:22'

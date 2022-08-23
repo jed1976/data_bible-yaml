@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">A Song of degrees.</p><p class="q1"><span data-number="1"
+  data-sid="PSA 128:1" class="v">1</span>Blessed <span class="add">is</span>
+  every one that feareth the <span class="nd">LORD</span>; that walketh in his
+  ways.</p>
+id: PSA/128/1
+next:
+  id: PSA/128/2
+  number: '2'
+previous:
+  id: PSA/127/5
+  number: '5'
+reference: 'Psalms 128:1'

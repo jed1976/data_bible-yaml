@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 23:1" class="v">1</span>And
+  Balaam said unto Balak, Build me here seven altars, and prepare me here seven
+  oxen and seven rams. </p>
+id: NUM/23/1
+next:
+  id: NUM/23/2
+  number: '2'
+previous:
+  id: NUM/22/41
+  number: '41'
+reference: 'Numbers 23:1'

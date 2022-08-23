@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 5:3" class="v">3</span>O
+  <span class="nd">LORD</span>, <span class="add">are</span> not thine eyes upon
+  the truth? thou hast stricken them, but they have not grieved; thou hast
+  consumed them, <span class="add">but</span> they have refused to receive
+  correction: they have made their faces harder than a rock; they have refused
+  to return. </p>
+id: JER/5/3
+next:
+  id: JER/5/4
+  number: '4'
+previous:
+  id: JER/5/2
+  number: '2'
+reference: 'Jeremiah 5:3'

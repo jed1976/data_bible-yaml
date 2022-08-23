@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="23" data-sid="PSA 73:23"
+  class="v">23</span>Nevertheless I <span class="add">am</span> continually with
+  thee: thou hast holden <span class="add">me</span> by my right hand.</p>
+id: PSA/73/23
+next:
+  id: PSA/73/24
+  number: '24'
+previous:
+  id: PSA/73/22
+  number: '22'
+reference: 'Psalms 73:23'

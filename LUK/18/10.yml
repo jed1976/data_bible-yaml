@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 18:10"
+  class="v">10</span><span class="wj">Two men went up into the temple to pray;
+  the one a Pharisee, and the other a publican.</span> </p>
+id: LUK/18/10
+next:
+  id: LUK/18/11
+  number: '11'
+previous:
+  id: LUK/18/9
+  number: '9'
+reference: 'Luke 18:10'

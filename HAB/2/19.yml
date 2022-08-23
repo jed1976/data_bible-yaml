@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="HAB 2:19" class="v">19</span>Woe
+  unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall
+  teach! Behold, it <span class="add">is</span> laid over with gold and silver,
+  and <span class="add">there is</span> no breath at all in the midst of it.
+  </p>
+id: HAB/2/19
+next:
+  id: HAB/2/20
+  number: '20'
+previous:
+  id: HAB/2/18
+  number: '18'
+reference: 'Habakkuk 2:19'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="ACT 2:24"
+  class="v">24</span>Whom God hath raised up, having loosed the pains of death:
+  because it was not possible that he should be holden of it. </p>
+id: ACT/2/24
+next:
+  id: ACT/2/25
+  number: '25'
+previous:
+  id: ACT/2/23
+  number: '23'
+reference: 'Acts 2:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ROM 9:27"
+  class="v">27</span>Esaias also crieth concerning Israel, Though the number of
+  the children of Israel be as the sand of the sea, a remnant shall be saved:
+  </p>
+id: ROM/9/27
+next:
+  id: ROM/9/28
+  number: '28'
+previous:
+  id: ROM/9/26
+  number: '26'
+reference: 'Romans 9:27'

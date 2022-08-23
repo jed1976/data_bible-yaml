@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="HOS 13:4" class="v">4</span>Yet I
+  <span class="add">am</span> the <span class="nd">LORD</span> thy God from the
+  land of Egypt, and thou shalt know no god but me: for <span class="add">there
+  is</span> no saviour beside me.</p>
+id: HOS/13/4
+next:
+  id: HOS/13/5
+  number: '5'
+previous:
+  id: HOS/13/3
+  number: '3'
+reference: 'Hosea 13:4'

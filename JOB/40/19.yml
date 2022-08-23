@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 40:19" class="v">19</span>He
+  <span class="add">is</span> the chief of the ways of God: he that made him can
+  make his sword to approach <span class="add">unto him</span>. </p>
+id: JOB/40/19
+next:
+  id: JOB/40/20
+  number: '20'
+previous:
+  id: JOB/40/18
+  number: '18'
+reference: 'Job 40:19'

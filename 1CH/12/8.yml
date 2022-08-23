@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1CH 12:8" class="v">8</span>And
+  of the Gadites there separated themselves unto David into the hold to the
+  wilderness men of might, <span class="add">and</span> men of war <span
+  class="add">fit</span> for the battle, that could handle shield and buckler,
+  whose faces <span class="add">were like</span> the faces of lions, and <span
+  class="add">were</span> as swift as the roes upon the mountains; </p>
+id: 1CH/12/8
+next:
+  id: 1CH/12/9
+  number: '9'
+previous:
+  id: 1CH/12/7
+  number: '7'
+reference: '1 Chronicles 12:8'

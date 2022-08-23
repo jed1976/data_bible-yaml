@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 16:22"
+  class="v">22</span>Then Peter took him, and began to rebuke him, saying, Be it
+  far from thee, Lord: this shall not be unto thee. </p>
+id: MAT/16/22
+next:
+  id: MAT/16/23
+  number: '23'
+previous:
+  id: MAT/16/21
+  number: '21'
+reference: 'Matthew 16:22'

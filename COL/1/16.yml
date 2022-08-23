@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="COL 1:16" class="v">16</span>For
+  by him were all things created, that are in heaven, and that are in earth,
+  visible and invisible, whether <span class="add">they be</span> thrones, or
+  dominions, or principalities, or powers: all things were created by him, and
+  for him: </p>
+id: COL/1/16
+next:
+  id: COL/1/17
+  number: '17'
+previous:
+  id: COL/1/15
+  number: '15'
+reference: 'Colossians 1:16'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 10:4" class="v">4</span>Hast
+  thou eyes of flesh? or seest thou as man seeth? </p>
+id: JOB/10/4
+next:
+  id: JOB/10/5
+  number: '5'
+previous:
+  id: JOB/10/3
+  number: '3'
+reference: 'Job 10:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 8:1"
+  class="v">1</span>Moreover the <span class="nd">LORD</span> said unto me, Take
+  thee a great roll, and write in it with a man’s pen concerning
+  Maher-shalal-hash-baz. </p>
+id: ISA/8/1
+next:
+  id: ISA/8/2
+  number: '2'
+previous:
+  id: ISA/7/25
+  number: '25'
+reference: 'Isaiah 8:1'

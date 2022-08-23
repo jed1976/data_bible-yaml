@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="NEH 9:2" class="v">2</span>And
+  the seed of Israel separated themselves from all strangers, and stood and
+  confessed their sins, and the iniquities of their fathers. </p>
+id: NEH/9/2
+next:
+  id: NEH/9/3
+  number: '3'
+previous:
+  id: NEH/9/1
+  number: '1'
+reference: 'Nehemiah 9:2'

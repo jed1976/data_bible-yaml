@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 20:9" class="v">9</span>Then
+  I said, I will not make mention of him, nor speak any more in his name. But
+  <span class="add">his word</span> was in mine heart as a burning fire shut up
+  in my bones, and I was weary with forbearing, and I could not <span
+  class="add">stay</span>.</p>
+id: JER/20/9
+next:
+  id: JER/20/10
+  number: '10'
+previous:
+  id: JER/20/8
+  number: '8'
+reference: 'Jeremiah 20:9'

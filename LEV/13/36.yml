@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="LEV 13:36"
+  class="v">36</span>Then the priest shall look on him: and, behold, if the
+  scall be spread in the skin, the priest shall not seek for yellow hair; he
+  <span class="add">is</span> unclean. </p>
+id: LEV/13/36
+next:
+  id: LEV/13/37
+  number: '37'
+previous:
+  id: LEV/13/35
+  number: '35'
+reference: 'Leviticus 13:36'

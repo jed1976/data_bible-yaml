@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="COL 1:5" class="v">5</span>For
+  the hope which is laid up for you in heaven, whereof ye heard before in the
+  word of the truth of the gospel; </p>
+id: COL/1/5
+next:
+  id: COL/1/6
+  number: '6'
+previous:
+  id: COL/1/4
+  number: '4'
+reference: 'Colossians 1:5'

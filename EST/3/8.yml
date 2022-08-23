@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EST 3:8" class="v">8</span>¶ And
+  Haman said unto king Ahasuerus, There is a certain people scattered abroad and
+  dispersed among the people in all the provinces of thy kingdom; and their laws
+  <span class="add">are</span> diverse from all people; neither keep they the
+  king’s laws: therefore it <span class="add">is</span> not for the king’s
+  profit to suffer them. </p>
+id: EST/3/8
+next:
+  id: EST/3/9
+  number: '9'
+previous:
+  id: EST/3/7
+  number: '7'
+reference: 'Esther 3:8'

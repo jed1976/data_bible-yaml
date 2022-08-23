@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PHM 1:20"
+  class="v">20</span>Yea, brother, let me have joy of thee in the Lord: refresh
+  my bowels in the Lord.</p>
+id: PHM/1/20
+next:
+  id: PHM/1/21
+  number: '21'
+previous:
+  id: PHM/1/19
+  number: '19'
+reference: 'Philemon 1:20'

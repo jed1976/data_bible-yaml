@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JER 50:41"
+  class="v">41</span>Behold, a people shall come from the north, and a great
+  nation, and many kings shall be raised up from the coasts of the earth. </p>
+id: JER/50/41
+next:
+  id: JER/50/42
+  number: '42'
+previous:
+  id: JER/50/40
+  number: '40'
+reference: 'Jeremiah 50:41'

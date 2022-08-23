@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HAG 1:5" class="v">5</span>Now
+  therefore thus saith the <span class="nd">LORD</span> of hosts; Consider your
+  ways. </p>
+id: HAG/1/5
+next:
+  id: HAG/1/6
+  number: '6'
+previous:
+  id: HAG/1/4
+  number: '4'
+reference: 'Haggai 1:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JOS 8:32" class="v">32</span>¶
+  And he wrote there upon the stones a copy of the law of Moses, which he wrote
+  in the presence of the children of Israel. </p>
+id: JOS/8/32
+next:
+  id: JOS/8/33
+  number: '33'
+previous:
+  id: JOS/8/31
+  number: '31'
+reference: 'Joshua 8:32'

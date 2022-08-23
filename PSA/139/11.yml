@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 139:11"
+  class="v">11</span>If I say, Surely the darkness shall cover me; even the
+  night shall be light about me.</p>
+id: PSA/139/11
+next:
+  id: PSA/139/12
+  number: '12'
+previous:
+  id: PSA/139/10
+  number: '10'
+reference: 'Psalms 139:11'

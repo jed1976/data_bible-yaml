@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 45:23"
+  class="v">23</span>And to his father he sent after this <span
+  class="add">manner;</span> ten asses laden with the good things of Egypt, and
+  ten she asses laden with corn and bread and meat for his father by the way.
+  </p>
+id: GEN/45/23
+next:
+  id: GEN/45/24
+  number: '24'
+previous:
+  id: GEN/45/22
+  number: '22'
+reference: 'Genesis 45:23'

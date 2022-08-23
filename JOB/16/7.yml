@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 16:7" class="v">7</span>But
+  now he hath made me weary: thou hast made desolate all my company. </p>
+id: JOB/16/7
+next:
+  id: JOB/16/8
+  number: '8'
+previous:
+  id: JOB/16/6
+  number: '6'
+reference: 'Job 16:7'

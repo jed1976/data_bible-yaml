@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 11:11"
+  class="v">11</span><span class="wj">If a son shall ask bread of any of you
+  that is a father, will he give him a stone? or if <span class="add">he
+  ask</span> a fish, will he for a fish give him a serpent?</span> </p>
+id: LUK/11/11
+next:
+  id: LUK/11/12
+  number: '12'
+previous:
+  id: LUK/11/10
+  number: '10'
+reference: 'Luke 11:11'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JDG 7:7" class="v">7</span>And
+  the <span class="nd">LORD</span> said unto Gideon, By the three hundred men
+  that lapped will I save you, and deliver the Midianites into thine hand: and
+  let all the <span class="add">other</span> people go every man unto his place.
+  </p>
+id: JDG/7/7
+next:
+  id: JDG/7/8
+  number: '8'
+previous:
+  id: JDG/7/6
+  number: '6'
+reference: 'Judges 7:7'

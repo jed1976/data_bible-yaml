@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CH 28:16"
+  class="v">16</span>And by weight <span class="add">he gave</span> gold for the
+  tables of shewbread, for every table; and <span class="add">likewise</span>
+  silver for the tables of silver: </p>
+id: 1CH/28/16
+next:
+  id: 1CH/28/17
+  number: '17'
+previous:
+  id: 1CH/28/15
+  number: '15'
+reference: '1 Chronicles 28:16'

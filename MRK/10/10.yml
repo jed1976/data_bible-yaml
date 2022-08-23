@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MRK 10:10"
+  class="v">10</span>And in the house his disciples asked him again of the same
+  <span class="add">matter</span>. </p>
+id: MRK/10/10
+next:
+  id: MRK/10/11
+  number: '11'
+previous:
+  id: MRK/10/9
+  number: '9'
+reference: 'Mark 10:10'

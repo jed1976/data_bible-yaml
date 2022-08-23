@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 24:3" class="v">3</span>They
+  drive away the ass of the fatherless, they take the widow’s ox for a pledge.
+  </p>
+id: JOB/24/3
+next:
+  id: JOB/24/4
+  number: '4'
+previous:
+  id: JOB/24/2
+  number: '2'
+reference: 'Job 24:3'

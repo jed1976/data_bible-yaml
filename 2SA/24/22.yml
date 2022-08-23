@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="2SA 24:22"
+  class="v">22</span>And Araunah said unto David, Let my lord the king take and
+  offer up what <span class="add">seemeth</span> good unto him: behold, <span
+  class="add">here be</span> oxen for burnt sacrifice, and threshing instruments
+  and <span class="add">other</span> instruments of the oxen for wood. </p>
+id: 2SA/24/22
+next:
+  id: 2SA/24/23
+  number: '23'
+previous:
+  id: 2SA/24/21
+  number: '21'
+reference: '2 Samuel 24:22'

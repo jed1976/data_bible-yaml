@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="2CH 28:27"
+  class="v">27</span>And Ahaz slept with his fathers, and they buried him in the
+  city, <span class="add">even</span> in Jerusalem: but they brought him not
+  into the sepulchres of the kings of Israel: and Hezekiah his son reigned in
+  his stead.</p>
+id: 2CH/28/27
+next:
+  id: 2CH/29/1
+  number: '1'
+previous:
+  id: 2CH/28/26
+  number: '26'
+reference: '2 Chronicles 28:27'

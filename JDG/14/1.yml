@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 14:1" class="v">1</span>And
+  Samson went down to Timnath, and saw a woman in Timnath of the daughters of
+  the Philistines. </p>
+id: JDG/14/1
+next:
+  id: JDG/14/2
+  number: '2'
+previous:
+  id: JDG/13/25
+  number: '25'
+reference: 'Judges 14:1'

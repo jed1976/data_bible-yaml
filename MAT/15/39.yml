@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="MAT 15:39"
+  class="v">39</span>And he sent away the multitude, and took ship, and came
+  into the coasts of Magdala.</p>
+id: MAT/15/39
+next:
+  id: MAT/16/1
+  number: '1'
+previous:
+  id: MAT/15/38
+  number: '38'
+reference: 'Matthew 15:39'

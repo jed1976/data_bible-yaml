@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EXO 7:22" class="v">22</span>And
+  the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was
+  hardened, neither did he hearken unto them; as the <span
+  class="nd">LORD</span> had said. </p>
+id: EXO/7/22
+next:
+  id: EXO/7/23
+  number: '23'
+previous:
+  id: EXO/7/21
+  number: '21'
+reference: 'Exodus 7:22'

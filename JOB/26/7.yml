@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 26:7" class="v">7</span>He
+  stretcheth out the north over the empty place, <span class="add">and</span>
+  hangeth the earth upon nothing. </p>
+id: JOB/26/7
+next:
+  id: JOB/26/8
+  number: '8'
+previous:
+  id: JOB/26/6
+  number: '6'
+reference: 'Job 26:7'

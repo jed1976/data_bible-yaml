@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CO 16:23"
+  class="v">23</span>The grace of our Lord Jesus Christ <span
+  class="add">be</span> with you. </p>
+id: 1CO/16/23
+next:
+  id: 1CO/16/24
+  number: '24'
+previous:
+  id: 1CO/16/22
+  number: '22'
+reference: '1 Corinthians 16:23'

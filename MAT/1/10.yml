@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 1:10" class="v">10</span>And
+  Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias; </p>
+id: MAT/1/10
+next:
+  id: MAT/1/11
+  number: '11'
+previous:
+  id: MAT/1/9
+  number: '9'
+reference: 'Matthew 1:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="PRO 5:10"
+  class="v">10</span>Lest strangers be filled with thy wealth; and thy labours
+  <span class="add">be</span> in the house of a stranger; </p>
+id: PRO/5/10
+next:
+  id: PRO/5/11
+  number: '11'
+previous:
+  id: PRO/5/9
+  number: '9'
+reference: 'Proverbs 5:10'

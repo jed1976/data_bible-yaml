@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 28:3" class="v">3</span>And
+  when Paul had gathered a bundle of sticks, and laid <span
+  class="add">them</span> on the fire, there came a viper out of the heat, and
+  fastened on his hand. </p>
+id: ACT/28/3
+next:
+  id: ACT/28/4
+  number: '4'
+previous:
+  id: ACT/28/2
+  number: '2'
+reference: 'Acts 28:3'

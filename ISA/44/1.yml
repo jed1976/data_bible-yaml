@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 44:1" class="v">1</span>Yet
+  now hear, O Jacob my servant; and Israel, whom I have chosen: </p>
+id: ISA/44/1
+next:
+  id: ISA/44/2
+  number: '2'
+previous:
+  id: ISA/43/28
+  number: '28'
+reference: 'Isaiah 44:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 17:6" class="v">6</span>He
+  hath made me also a byword of the people; and aforetime I was as a tabret.
+  </p>
+id: JOB/17/6
+next:
+  id: JOB/17/7
+  number: '7'
+previous:
+  id: JOB/17/5
+  number: '5'
+reference: 'Job 17:6'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 19:41"
+  class="v">41</span>Now in the place where he was crucified there was a garden;
+  and in the garden a new sepulchre, wherein was never man yet laid. </p>
+id: JHN/19/41
+next:
+  id: JHN/19/42
+  number: '42'
+previous:
+  id: JHN/19/40
+  number: '40'
+reference: 'John 19:41'

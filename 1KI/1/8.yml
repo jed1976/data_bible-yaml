@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="1KI 1:8" class="v">8</span>But
+  Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and
+  Shimei, and Rei, and the mighty men which <span class="add">belonged</span> to
+  David, were not with Adonijah. </p>
+id: 1KI/1/8
+next:
+  id: 1KI/1/9
+  number: '9'
+previous:
+  id: 1KI/1/7
+  number: '7'
+reference: '1 Kings 1:8'

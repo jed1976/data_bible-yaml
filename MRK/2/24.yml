@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MRK 2:24" class="v">24</span>And
+  the Pharisees said unto him, Behold, why do they on the sabbath day that which
+  is not lawful? </p>
+id: MRK/2/24
+next:
+  id: MRK/2/25
+  number: '25'
+previous:
+  id: MRK/2/23
+  number: '23'
+reference: 'Mark 2:24'

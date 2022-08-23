@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="MAT 16:17"
+  class="v">17</span>And Jesus answered and said unto him, <span
+  class="wj">Blessed art thou, Simon Bar-jona: for flesh and blood hath not
+  revealed <span class="add">it</span> unto thee, but my Father which is in
+  heaven.</span> </p>
+id: MAT/16/17
+next:
+  id: MAT/16/18
+  number: '18'
+previous:
+  id: MAT/16/16
+  number: '16'
+reference: 'Matthew 16:17'

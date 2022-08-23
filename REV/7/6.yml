@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="REV 7:6" class="v">6</span>Of the
+  tribe of Aser <span class="add">were</span> sealed twelve thousand. Of the
+  tribe of Nepthalim <span class="add">were</span> sealed twelve thousand. Of
+  the tribe of Manasses <span class="add">were</span> sealed twelve thousand.
+  </p>
+id: REV/7/6
+next:
+  id: REV/7/7
+  number: '7'
+previous:
+  id: REV/7/5
+  number: '5'
+reference: 'Revelation 7:6'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="RUT 4:21" class="v">21</span>And
+  Salmon begat Boaz, and Boaz begat Obed, </p>
+id: RUT/4/21
+next:
+  id: RUT/4/22
+  number: '22'
+previous:
+  id: RUT/4/20
+  number: '20'
+reference: 'Ruth 4:21'

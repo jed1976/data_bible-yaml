@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 28:25"
+  class="v">25</span>The <span class="nd">LORD</span> shall cause thee to be
+  smitten before thine enemies: thou shalt go out one way against them, and flee
+  seven ways before them: and shalt be removed into all the kingdoms of the
+  earth. </p>
+id: DEU/28/25
+next:
+  id: DEU/28/26
+  number: '26'
+previous:
+  id: DEU/28/24
+  number: '24'
+reference: 'Deuteronomy 28:25'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 14:1" class="v">1</span>So
+  Abijah slept with his fathers, and they buried him in the city of David: and
+  Asa his son reigned in his stead. In his days the land was quiet ten years.
+  </p>
+id: 2CH/14/1
+next:
+  id: 2CH/14/2
+  number: '2'
+previous:
+  id: 2CH/13/22
+  number: '22'
+reference: '2 Chronicles 14:1'

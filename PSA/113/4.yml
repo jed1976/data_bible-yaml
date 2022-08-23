@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 113:4" class="v">4</span>The
+  <span class="nd">LORD</span> <span class="add">is</span> high above all
+  nations, <span class="add">and</span> his glory above the heavens.</p>
+id: PSA/113/4
+next:
+  id: PSA/113/5
+  number: '5'
+previous:
+  id: PSA/113/3
+  number: '3'
+reference: 'Psalms 113:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 5:3" class="v">3</span>Then
+  said he unto me, This <span class="add">is</span> the curse that goeth forth
+  over the face of the whole earth: for every one that stealeth shall be cut off
+  <span class="add">as</span> on this side according to it; and every one that
+  sweareth shall be cut off <span class="add">as</span> on that side according
+  to it. </p>
+id: ZEC/5/3
+next:
+  id: ZEC/5/4
+  number: '4'
+previous:
+  id: ZEC/5/2
+  number: '2'
+reference: 'Zechariah 5:3'

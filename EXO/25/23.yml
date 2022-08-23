@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 25:23" class="v">23</span>¶
+  Thou shalt also make a table <span class="add">of</span> shittim wood: two
+  cubits <span class="add">shall be</span> the length thereof, and a cubit the
+  breadth thereof, and a cubit and a half the height thereof. </p>
+id: EXO/25/23
+next:
+  id: EXO/25/24
+  number: '24'
+previous:
+  id: EXO/25/22
+  number: '22'
+reference: 'Exodus 25:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EXO 19:5" class="v">5</span>Now
+  therefore, if ye will obey my voice indeed, and keep my covenant, then ye
+  shall be a peculiar treasure unto me above all people: for all the earth <span
+  class="add">is</span> mine: </p>
+id: EXO/19/5
+next:
+  id: EXO/19/6
+  number: '6'
+previous:
+  id: EXO/19/4
+  number: '4'
+reference: 'Exodus 19:5'

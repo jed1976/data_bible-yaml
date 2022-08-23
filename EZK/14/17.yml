@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EZK 14:17" class="v">17</span>¶
+  Or <span class="add">if</span> I bring a sword upon that land, and say, Sword,
+  go through the land; so that I cut off man and beast from it: </p>
+id: EZK/14/17
+next:
+  id: EZK/14/18
+  number: '18'
+previous:
+  id: EZK/14/16
+  number: '16'
+reference: 'Ezekiel 14:17'

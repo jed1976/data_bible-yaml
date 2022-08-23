@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 50:1" class="v">1</span>Thus
+  saith the <span class="nd">LORD</span>, Where <span class="add">is</span> the
+  bill of your mother’s divorcement, whom I have put away? or which of my
+  creditors <span class="add">is it</span> to whom I have sold you? Behold, for
+  your iniquities have ye sold yourselves, and for your transgressions is your
+  mother put away. </p>
+id: ISA/50/1
+next:
+  id: ISA/50/2
+  number: '2'
+previous:
+  id: ISA/49/26
+  number: '26'
+reference: 'Isaiah 50:1'

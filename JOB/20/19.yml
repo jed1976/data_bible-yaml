@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 20:19"
+  class="v">19</span>Because he hath oppressed <span class="add">and</span> hath
+  forsaken the poor; <span class="add">because</span> he hath violently taken
+  away an house which he builded not; </p>
+id: JOB/20/19
+next:
+  id: JOB/20/20
+  number: '20'
+previous:
+  id: JOB/20/18
+  number: '18'
+reference: 'Job 20:19'

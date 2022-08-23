@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 36:23"
+  class="v">23</span>And he made boards for the tabernacle; twenty boards for
+  the south side southward: </p>
+id: EXO/36/23
+next:
+  id: EXO/36/24
+  number: '24'
+previous:
+  id: EXO/36/22
+  number: '22'
+reference: 'Exodus 36:23'

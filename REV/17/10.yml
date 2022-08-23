@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 17:10"
+  class="v">10</span>And there are seven kings: five are fallen, and one is,
+  <span class="add">and</span> the other is not yet come; and when he cometh, he
+  must continue a short space. </p>
+id: REV/17/10
+next:
+  id: REV/17/11
+  number: '11'
+previous:
+  id: REV/17/9
+  number: '9'
+reference: 'Revelation 17:10'

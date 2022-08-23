@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 8:3" class="v">3</span>And
+  the songs of the temple shall be howlings in that day, saith the Lord <span
+  class="nd">GOD</span>: <span class="add">there shall be</span> many dead
+  bodies in every place; they shall cast <span class="add">them</span> forth
+  with silence.</p>
+id: AMO/8/3
+next:
+  id: AMO/8/4
+  number: '4'
+previous:
+  id: AMO/8/2
+  number: '2'
+reference: 'Amos 8:3'

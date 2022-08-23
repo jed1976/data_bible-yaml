@@ -1,0 +1,17 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 12:18"
+  class="v">18</span>But thou must eat them before the <span
+  class="nd">LORD</span> thy God in the place which the <span
+  class="nd">LORD</span> thy God shall choose, thou, and thy son, and thy
+  daughter, and thy manservant, and thy maidservant, and the Levite that <span
+  class="add">is</span> within thy gates: and thou shalt rejoice before the
+  <span class="nd">LORD</span> thy God in all that thou puttest thine hands
+  unto. </p>
+id: DEU/12/18
+next:
+  id: DEU/12/19
+  number: '19'
+previous:
+  id: DEU/12/17
+  number: '17'
+reference: 'Deuteronomy 12:18'

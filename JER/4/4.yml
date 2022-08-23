@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 4:4"
+  class="v">4</span>Circumcise yourselves to the <span class="nd">LORD</span>,
+  and take away the foreskins of your heart, ye men of Judah and inhabitants of
+  Jerusalem: lest my fury come forth like fire, and burn that none can quench
+  <span class="add">it</span>, because of the evil of your doings.</p>
+id: JER/4/4
+next:
+  id: JER/4/5
+  number: '5'
+previous:
+  id: JER/4/3
+  number: '3'
+reference: 'Jeremiah 4:4'

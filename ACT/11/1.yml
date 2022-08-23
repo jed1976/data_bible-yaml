@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 11:1" class="v">1</span>And
+  the apostles and brethren that were in Judæa heard that the Gentiles had also
+  received the word of God. </p>
+id: ACT/11/1
+next:
+  id: ACT/11/2
+  number: '2'
+previous:
+  id: ACT/10/48
+  number: '48'
+reference: 'Acts 11:1'

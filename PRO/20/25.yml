@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="PRO 20:25"
+  class="v">25</span><span class="add">It is</span> a snare to the man <span
+  class="add">who</span> devoureth <span class="add">that which is</span> holy,
+  and after vows to make enquiry. </p>
+id: PRO/20/25
+next:
+  id: PRO/20/26
+  number: '26'
+previous:
+  id: PRO/20/24
+  number: '24'
+reference: 'Proverbs 20:25'

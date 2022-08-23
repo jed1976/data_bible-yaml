@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 28:10"
+  class="v">10</span>For precept <span class="add">must be</span> upon precept,
+  precept upon precept; line upon line, line upon line; here a little, <span
+  class="add">and</span> there a little: </p>
+id: ISA/28/10
+next:
+  id: ISA/28/11
+  number: '11'
+previous:
+  id: ISA/28/9
+  number: '9'
+reference: 'Isaiah 28:10'

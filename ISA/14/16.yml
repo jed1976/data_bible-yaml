@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ISA 14:16"
+  class="v">16</span>They that see thee shall narrowly look upon thee, <span
+  class="add">and</span> consider thee, <span class="add">saying, Is</span> this
+  the man that made the earth to tremble, that did shake kingdoms; </p>
+id: ISA/14/16
+next:
+  id: ISA/14/17
+  number: '17'
+previous:
+  id: ISA/14/15
+  number: '15'
+reference: 'Isaiah 14:16'

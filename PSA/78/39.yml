@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="39" data-sid="PSA 78:39"
+  class="v">39</span>For he remembered that they <span class="add">were
+  but</span> flesh; a wind that passeth away, and cometh not again.</p>
+id: PSA/78/39
+next:
+  id: PSA/78/40
+  number: '40'
+previous:
+  id: PSA/78/38
+  number: '38'
+reference: 'Psalms 78:39'

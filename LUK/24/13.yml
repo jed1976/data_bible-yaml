@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LUK 24:13" class="v">13</span>¶
+  And, behold, two of them went that same day to a village called Emmaus, which
+  was from Jerusalem <span class="add">about</span> threescore furlongs. </p>
+id: LUK/24/13
+next:
+  id: LUK/24/14
+  number: '14'
+previous:
+  id: LUK/24/12
+  number: '12'
+reference: 'Luke 24:13'

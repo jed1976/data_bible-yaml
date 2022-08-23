@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 136:16"
+  class="v">16</span>To him which led his people through the wilderness: for his
+  mercy <span class="add">endureth</span> for ever.</p>
+id: PSA/136/16
+next:
+  id: PSA/136/17
+  number: '17'
+previous:
+  id: PSA/136/15
+  number: '15'
+reference: 'Psalms 136:16'

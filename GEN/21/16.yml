@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 21:16"
+  class="v">16</span>And she went, and sat her down over against <span
+  class="add">him</span> a good way off, as it were a bowshot: for she said, Let
+  me not see the death of the child. And she sat over against <span
+  class="add">him</span>, and lift up her voice, and wept. </p>
+id: GEN/21/16
+next:
+  id: GEN/21/17
+  number: '17'
+previous:
+  id: GEN/21/15
+  number: '15'
+reference: 'Genesis 21:16'

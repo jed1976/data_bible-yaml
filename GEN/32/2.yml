@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 32:2" class="v">2</span>And
+  when Jacob saw them, he said, This <span class="add">is</span> God’s host: and
+  he called the name of that place Mahanaim.</p>
+id: GEN/32/2
+next:
+  id: GEN/32/3
+  number: '3'
+previous:
+  id: GEN/32/1
+  number: '1'
+reference: 'Genesis 32:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 8:4" class="v">4</span>If thy
+  children have sinned against him, and he have cast them away for their
+  transgression; </p>
+id: JOB/8/4
+next:
+  id: JOB/8/5
+  number: '5'
+previous:
+  id: JOB/8/3
+  number: '3'
+reference: 'Job 8:4'

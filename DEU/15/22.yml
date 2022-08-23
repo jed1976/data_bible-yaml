@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 15:22"
+  class="v">22</span>Thou shalt eat it within thy gates: the unclean and the
+  clean <span class="add">person shall eat it</span> alike, as the roebuck, and
+  as the hart. </p>
+id: DEU/15/22
+next:
+  id: DEU/15/23
+  number: '23'
+previous:
+  id: DEU/15/21
+  number: '21'
+reference: 'Deuteronomy 15:22'

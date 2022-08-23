@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="GEN 17:12"
+  class="v">12</span>And he that is eight days old shall be circumcised among
+  you, every man child in your generations, he that is born in the house, or
+  bought with money of any stranger, which <span class="add">is</span> not of
+  thy seed. </p>
+id: GEN/17/12
+next:
+  id: GEN/17/13
+  number: '13'
+previous:
+  id: GEN/17/11
+  number: '11'
+reference: 'Genesis 17:12'

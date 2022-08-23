@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NEH 7:10" class="v">10</span>The
+  children of Arah, six hundred fifty and two. </p>
+id: NEH/7/10
+next:
+  id: NEH/7/11
+  number: '11'
+previous:
+  id: NEH/7/9
+  number: '9'
+reference: 'Nehemiah 7:10'

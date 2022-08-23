@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOB 34:12"
+  class="v">12</span>Yea, surely God will not do wickedly, neither will the
+  Almighty pervert judgment. </p>
+id: JOB/34/12
+next:
+  id: JOB/34/13
+  number: '13'
+previous:
+  id: JOB/34/11
+  number: '11'
+reference: 'Job 34:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JAS 1:6" class="v">6</span>But
+  let him ask in faith, nothing wavering. For he that wavereth is like a wave of
+  the sea driven with the wind and tossed. </p>
+id: JAS/1/6
+next:
+  id: JAS/1/7
+  number: '7'
+previous:
+  id: JAS/1/5
+  number: '5'
+reference: 'James 1:6'

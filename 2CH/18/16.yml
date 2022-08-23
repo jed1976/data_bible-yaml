@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="2CH 18:16"
+  class="v">16</span>Then he said, I did see all Israel scattered upon the
+  mountains, as sheep that have no shepherd: and the <span
+  class="nd">LORD</span> said, These have no master; let them return <span
+  class="add">therefore</span> every man to his house in peace. </p>
+id: 2CH/18/16
+next:
+  id: 2CH/18/17
+  number: '17'
+previous:
+  id: 2CH/18/15
+  number: '15'
+reference: '2 Chronicles 18:16'

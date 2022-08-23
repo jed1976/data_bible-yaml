@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="LEV 11:13" class="v">13</span>¶
+  And these <span class="add">are they which</span> ye shall have in abomination
+  among the fowls; they shall not be eaten, they <span class="add">are</span> an
+  abomination: the eagle, and the ossifrage, and the ospray, </p>
+id: LEV/11/13
+next:
+  id: LEV/11/14
+  number: '14'
+previous:
+  id: LEV/11/12
+  number: '12'
+reference: 'Leviticus 11:13'

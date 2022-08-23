@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="GEN 5:18" class="v">18</span>¶
+  And Jared lived an hundred sixty and two years, and he begat Enoch: </p>
+id: GEN/5/18
+next:
+  id: GEN/5/19
+  number: '19'
+previous:
+  id: GEN/5/17
+  number: '17'
+reference: 'Genesis 5:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EZK 34:11" class="v">11</span>¶
+  For thus saith the Lord <span class="nd">GOD</span>; Behold, I, <span
+  class="add">even</span> I, will both search my sheep, and seek them out. </p>
+id: EZK/34/11
+next:
+  id: EZK/34/12
+  number: '12'
+previous:
+  id: EZK/34/10
+  number: '10'
+reference: 'Ezekiel 34:11'

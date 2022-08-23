@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="LUK 19:14"
+  class="v">14</span><span class="wj">But his citizens hated him, and sent a
+  message after him, saying, We will not have this <span class="add">man</span>
+  to reign over us.</span> </p>
+id: LUK/19/14
+next:
+  id: LUK/19/15
+  number: '15'
+previous:
+  id: LUK/19/13
+  number: '13'
+reference: 'Luke 19:14'

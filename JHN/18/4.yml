@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 18:4" class="v">4</span>Jesus
+  therefore, knowing all things that should come upon him, went forth, and said
+  unto them, <span class="wj">Whom seek ye?</span> </p>
+id: JHN/18/4
+next:
+  id: JHN/18/5
+  number: '5'
+previous:
+  id: JHN/18/3
+  number: '3'
+reference: 'John 18:4'

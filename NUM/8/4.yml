@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 8:4" class="v">4</span>And
+  this work of the candlestick <span class="add">was of</span> beaten gold, unto
+  the shaft thereof, unto the flowers thereof, <span class="add">was</span>
+  beaten work: according unto the pattern which the <span class="nd">LORD</span>
+  had shewed Moses, so he made the candlestick.</p>
+id: NUM/8/4
+next:
+  id: NUM/8/5
+  number: '5'
+previous:
+  id: NUM/8/3
+  number: '3'
+reference: 'Numbers 8:4'

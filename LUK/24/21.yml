@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LUK 24:21"
+  class="v">21</span>But we trusted that it had been he which should have
+  redeemed Israel: and beside all this, to day is the third day since these
+  things were done. </p>
+id: LUK/24/21
+next:
+  id: LUK/24/22
+  number: '22'
+previous:
+  id: LUK/24/20
+  number: '20'
+reference: 'Luke 24:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="ACT 2:25" class="v">25</span>For
+  David speaketh concerning him, I foresaw the Lord always before my face, for
+  he is on my right hand, that I should not be moved: </p>
+id: ACT/2/25
+next:
+  id: ACT/2/26
+  number: '26'
+previous:
+  id: ACT/2/24
+  number: '24'
+reference: 'Acts 2:25'

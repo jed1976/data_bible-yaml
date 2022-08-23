@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2KI 12:1" class="v">1</span>In
+  the seventh year of Jehu Jehoash began to reign; and forty years reigned he in
+  Jerusalem. And his mother’s name <span class="add">was</span> Zibiah of
+  Beer-sheba. </p>
+id: 2KI/12/1
+next:
+  id: 2KI/12/2
+  number: '2'
+previous:
+  id: 2KI/11/21
+  number: '21'
+reference: '2 Kings 12:1'

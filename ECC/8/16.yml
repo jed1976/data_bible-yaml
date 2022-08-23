@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ECC 8:16" class="v">16</span>¶
+  When I applied mine heart to know wisdom, and to see the business that is done
+  upon the earth: (for also <span class="add">there is that</span> neither day
+  nor night seeth sleep with his eyes:) </p>
+id: ECC/8/16
+next:
+  id: ECC/8/17
+  number: '17'
+previous:
+  id: ECC/8/15
+  number: '15'
+reference: 'Ecclesiastes 8:16'

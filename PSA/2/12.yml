@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 2:12"
+  class="v">12</span>Kiss the Son, lest he be angry, and ye perish <span
+  class="add">from</span> the way, when his wrath is kindled but a little.
+  Blessed <span class="add">are</span> all they that put their trust in him.</p>
+id: PSA/2/12
+next:
+  id: PSA/3/1
+  number: '1'
+previous:
+  id: PSA/2/11
+  number: '11'
+reference: 'Psalms 2:12'

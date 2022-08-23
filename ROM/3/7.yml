@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ROM 3:7" class="v">7</span>For if
+  the truth of God hath more abounded through my lie unto his glory; why yet am
+  I also judged as a sinner? </p>
+id: ROM/3/7
+next:
+  id: ROM/3/8
+  number: '8'
+previous:
+  id: ROM/3/6
+  number: '6'
+reference: 'Romans 3:7'

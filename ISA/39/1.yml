@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 39:1" class="v">1</span>At
+  that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters
+  and a present to Hezekiah: for he had heard that he had been sick, and was
+  recovered. </p>
+id: ISA/39/1
+next:
+  id: ISA/39/2
+  number: '2'
+previous:
+  id: ISA/38/22
+  number: '22'
+reference: 'Isaiah 39:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1JN 5:4" class="v">4</span>For
+  whatsoever is born of God overcometh the world: and this is the victory that
+  overcometh the world, <span class="add">even</span> our faith. </p>
+id: 1JN/5/4
+next:
+  id: 1JN/5/5
+  number: '5'
+previous:
+  id: 1JN/5/3
+  number: '3'
+reference: '1 John 5:4'

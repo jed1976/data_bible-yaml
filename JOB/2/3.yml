@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JOB 2:3" class="v">3</span>And
+  the <span class="nd">LORD</span> said unto Satan, Hast thou considered my
+  servant Job, that <span class="add">there is</span> none like him in the
+  earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+  and still he holdeth fast his integrity, although thou movedst me against him,
+  to destroy him without cause. </p>
+id: JOB/2/3
+next:
+  id: JOB/2/4
+  number: '4'
+previous:
+  id: JOB/2/2
+  number: '2'
+reference: 'Job 2:3'

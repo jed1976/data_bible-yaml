@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="PRO 25:20"
+  class="v">20</span><span class="add">As</span> he that taketh away a garment
+  in cold weather, <span class="add">and as</span> vinegar upon nitre, so <span
+  class="add">is</span> he that singeth songs to an heavy heart.</p>
+id: PRO/25/20
+next:
+  id: PRO/25/21
+  number: '21'
+previous:
+  id: PRO/25/19
+  number: '19'
+reference: 'Proverbs 25:20'

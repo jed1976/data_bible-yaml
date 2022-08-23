@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1TI 4:3"
+  class="v">3</span>Forbidding to marry, <span class="add">and commanding</span>
+  to abstain from meats, which God hath created to be received with thanksgiving
+  of them which believe and know the truth. </p>
+id: 1TI/4/3
+next:
+  id: 1TI/4/4
+  number: '4'
+previous:
+  id: 1TI/4/2
+  number: '2'
+reference: '1 Timothy 4:3'

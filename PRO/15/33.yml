@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="PRO 15:33"
+  class="v">33</span>The fear of the <span class="nd">LORD</span> <span
+  class="add">is</span> the instruction of wisdom; and before honour <span
+  class="add">is</span> humility.</p>
+id: PRO/15/33
+next:
+  id: PRO/16/1
+  number: '1'
+previous:
+  id: PRO/15/32
+  number: '32'
+reference: 'Proverbs 15:33'

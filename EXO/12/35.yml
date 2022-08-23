@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="EXO 12:35"
+  class="v">35</span>And the children of Israel did according to the word of
+  Moses; and they borrowed of the Egyptians jewels of silver, and jewels of
+  gold, and raiment: </p>
+id: EXO/12/35
+next:
+  id: EXO/12/36
+  number: '36'
+previous:
+  id: EXO/12/34
+  number: '34'
+reference: 'Exodus 12:35'

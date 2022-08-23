@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NAM 1:9" class="v">9</span>What
+  do ye imagine against the <span class="nd">LORD</span>? he will make an utter
+  end: affliction shall not rise up the second time. </p>
+id: NAM/1/9
+next:
+  id: NAM/1/10
+  number: '10'
+previous:
+  id: NAM/1/8
+  number: '8'
+reference: 'Nahum 1:9'

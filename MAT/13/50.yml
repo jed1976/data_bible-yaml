@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="MAT 13:50"
+  class="v">50</span><span class="wj">And shall cast them into the furnace of
+  fire: there shall be wailing and gnashing of teeth.</span> </p>
+id: MAT/13/50
+next:
+  id: MAT/13/51
+  number: '51'
+previous:
+  id: MAT/13/49
+  number: '49'
+reference: 'Matthew 13:50'

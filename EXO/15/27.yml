@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="EXO 15:27" class="v">27</span>¶
+  And they came to Elim, where <span class="add">were</span> twelve wells of
+  water, and threescore and ten palm trees: and they encamped there by the
+  waters.</p>
+id: EXO/15/27
+next:
+  id: EXO/16/1
+  number: '1'
+previous:
+  id: EXO/15/26
+  number: '26'
+reference: 'Exodus 15:27'

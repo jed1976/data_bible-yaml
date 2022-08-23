@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="PRO 15:30"
+  class="v">30</span>The light of the eyes rejoiceth the heart: <span
+  class="add">and</span> a good report maketh the bones fat. </p>
+id: PRO/15/30
+next:
+  id: PRO/15/31
+  number: '31'
+previous:
+  id: PRO/15/29
+  number: '29'
+reference: 'Proverbs 15:30'

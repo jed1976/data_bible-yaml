@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="7" data-sid="PSA 32:7"
+  class="v">7</span>Thou <span class="add">art</span> my hiding place; thou
+  shalt preserve me from trouble; thou shalt compass me about with songs of
+  deliverance. Selah.</p>
+id: PSA/32/7
+next:
+  id: PSA/32/8
+  number: '8'
+previous:
+  id: PSA/32/6
+  number: '6'
+reference: 'Psalms 32:7'

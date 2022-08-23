@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="JER 49:15"
+  class="v">15</span>For, lo, I will make thee small among the heathen, <span
+  class="add">and</span> despised among men. </p>
+id: JER/49/15
+next:
+  id: JER/49/16
+  number: '16'
+previous:
+  id: JER/49/14
+  number: '14'
+reference: 'Jeremiah 49:15'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="MAT 26:58"
+  class="v">58</span>But Peter followed him afar off unto the high priest’s
+  palace, and went in, and sat with the servants, to see the end. </p>
+id: MAT/26/58
+next:
+  id: MAT/26/59
+  number: '59'
+previous:
+  id: MAT/26/57
+  number: '57'
+reference: 'Matthew 26:58'

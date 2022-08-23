@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="8" data-sid="PSA 138:8" class="v">8</span>The
+  <span class="nd">LORD</span> will perfect <span class="add">that which</span>
+  concerneth me: thy mercy, O <span class="nd">LORD</span>, <span
+  class="add">endureth</span> for ever: forsake not the works of thine own
+  hands.</p>
+id: PSA/138/8
+next:
+  id: PSA/139/1
+  number: '1'
+previous:
+  id: PSA/138/7
+  number: '7'
+reference: 'Psalms 138:8'

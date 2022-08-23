@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 44:11"
+  class="v">11</span>Thou hast given us like sheep <span
+  class="add">appointed</span> for meat; and hast scattered us among the
+  heathen.</p>
+id: PSA/44/11
+next:
+  id: PSA/44/12
+  number: '12'
+previous:
+  id: PSA/44/10
+  number: '10'
+reference: 'Psalms 44:11'

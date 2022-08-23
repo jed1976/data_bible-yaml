@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="58" data-sid="JHN 6:58"
+  class="v">58</span><span class="wj">This is that bread which came down from
+  heaven: not as your fathers did eat manna, and are dead: he that eateth of
+  this bread shall live for ever.</span> </p>
+id: JHN/6/58
+next:
+  id: JHN/6/59
+  number: '59'
+previous:
+  id: JHN/6/57
+  number: '57'
+reference: 'John 6:58'

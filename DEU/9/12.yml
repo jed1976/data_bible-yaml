@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 9:12" class="v">12</span>And
+  the <span class="nd">LORD</span> said unto me, Arise, get thee down quickly
+  from hence; for thy people which thou hast brought forth out of Egypt have
+  corrupted <span class="add">themselves;</span> they are quickly turned aside
+  out of the way which I commanded them; they have made them a molten image.
+  </p>
+id: DEU/9/12
+next:
+  id: DEU/9/13
+  number: '13'
+previous:
+  id: DEU/9/11
+  number: '11'
+reference: 'Deuteronomy 9:12'

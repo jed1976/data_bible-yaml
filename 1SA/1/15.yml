@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="1SA 1:15" class="v">15</span>And
+  Hannah answered and said, No, my lord, I <span class="add">am</span> a woman
+  of a sorrowful spirit: I have drunk neither wine nor strong drink, but have
+  poured out my soul before the <span class="nd">LORD</span>. </p>
+id: 1SA/1/15
+next:
+  id: 1SA/1/16
+  number: '16'
+previous:
+  id: 1SA/1/14
+  number: '14'
+reference: '1 Samuel 1:15'

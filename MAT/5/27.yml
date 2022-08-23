@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MAT 5:27"
+  class="v">27</span><span class="wj">¶ Ye have heard that it was said by them
+  of old time, Thou shalt not commit adultery:</span> </p>
+id: MAT/5/27
+next:
+  id: MAT/5/28
+  number: '28'
+previous:
+  id: MAT/5/26
+  number: '26'
+reference: 'Matthew 5:27'

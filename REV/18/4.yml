@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="REV 18:4" class="v">4</span>And I
+  heard another voice from heaven, saying, Come out of her, my people, that ye
+  be not partakers of her sins, and that ye receive not of her plagues. </p>
+id: REV/18/4
+next:
+  id: REV/18/5
+  number: '5'
+previous:
+  id: REV/18/3
+  number: '3'
+reference: 'Revelation 18:4'

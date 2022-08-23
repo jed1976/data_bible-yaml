@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ACT 7:35"
+  class="v">35</span>This Moses whom they refused, saying, Who made thee a ruler
+  and a judge? the same did God send <span class="add">to be</span> a ruler and
+  a deliverer by the hand of the angel which appeared to him in the bush. </p>
+id: ACT/7/35
+next:
+  id: ACT/7/36
+  number: '36'
+previous:
+  id: ACT/7/34
+  number: '34'
+reference: 'Acts 7:35'

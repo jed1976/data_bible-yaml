@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 11:5" class="v">5</span>And
+  the coney, because he cheweth the cud, but divideth not the hoof; he <span
+  class="add">is</span> unclean unto you. </p>
+id: LEV/11/5
+next:
+  id: LEV/11/6
+  number: '6'
+previous:
+  id: LEV/11/4
+  number: '4'
+reference: 'Leviticus 11:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 11:16" class="v">16</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Gather unto me seventy
+  men of the elders of Israel, whom thou knowest to be the elders of the people,
+  and officers over them; and bring them unto the tabernacle of the
+  congregation, that they may stand there with thee. </p>
+id: NUM/11/16
+next:
+  id: NUM/11/17
+  number: '17'
+previous:
+  id: NUM/11/15
+  number: '15'
+reference: 'Numbers 11:16'

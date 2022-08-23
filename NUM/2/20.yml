@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 2:20" class="v">20</span>And
+  by him <span class="add">shall be</span> the tribe of Manasseh: and the
+  captain of the children of Manasseh <span class="add">shall be</span> Gamaliel
+  the son of Pedahzur. </p>
+id: NUM/2/20
+next:
+  id: NUM/2/21
+  number: '21'
+previous:
+  id: NUM/2/19
+  number: '19'
+reference: 'Numbers 2:20'

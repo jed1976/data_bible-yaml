@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 10:14"
+  class="v">14</span>And Pathrusim, and Casluhim, (out of whom came Philistim,)
+  and Caphtorim.</p>
+id: GEN/10/14
+next:
+  id: GEN/10/15
+  number: '15'
+previous:
+  id: GEN/10/13
+  number: '13'
+reference: 'Genesis 10:14'

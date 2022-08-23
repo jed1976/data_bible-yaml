@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GAL 6:4" class="v">4</span>But
+  let every man prove his own work, and then shall he have rejoicing in himself
+  alone, and not in another. </p>
+id: GAL/6/4
+next:
+  id: GAL/6/5
+  number: '5'
+previous:
+  id: GAL/6/3
+  number: '3'
+reference: 'Galatians 6:4'

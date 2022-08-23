@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 79:10"
+  class="v">10</span>Wherefore should the heathen say, Where <span
+  class="add">is</span> their God? let him be known among the heathen in our
+  sight <span class="add">by</span> the revenging of the blood of thy servants
+  <span class="add">which is</span> shed.</p>
+id: PSA/79/10
+next:
+  id: PSA/79/11
+  number: '11'
+previous:
+  id: PSA/79/9
+  number: '9'
+reference: 'Psalms 79:10'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 17:8" class="v">8</span>And
+  when they had lifted up their eyes, they saw no man, save Jesus only. </p>
+id: MAT/17/8
+next:
+  id: MAT/17/9
+  number: '9'
+previous:
+  id: MAT/17/7
+  number: '7'
+reference: 'Matthew 17:8'

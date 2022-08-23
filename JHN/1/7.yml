@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JHN 1:7" class="v">7</span>The
+  same came for a witness, to bear witness of the Light, that all <span
+  class="add">men</span> through him might believe. </p>
+id: JHN/1/7
+next:
+  id: JHN/1/8
+  number: '8'
+previous:
+  id: JHN/1/6
+  number: '6'
+reference: 'John 1:7'

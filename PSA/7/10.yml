@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="10" data-sid="PSA 7:10"
+  class="v">10</span>My defence <span class="add">is</span> of God, which saveth
+  the upright in heart.</p>
+id: PSA/7/10
+next:
+  id: PSA/7/11
+  number: '11'
+previous:
+  id: PSA/7/9
+  number: '9'
+reference: 'Psalms 7:10'

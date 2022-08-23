@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="MAT 11:7" class="v">7</span>¶ And
+  as they departed, Jesus began to say unto the multitudes concerning John,
+  <span class="wj">What went ye out into the wilderness to see? A reed shaken
+  with the wind?</span> </p>
+id: MAT/11/7
+next:
+  id: MAT/11/8
+  number: '8'
+previous:
+  id: MAT/11/6
+  number: '6'
+reference: 'Matthew 11:7'

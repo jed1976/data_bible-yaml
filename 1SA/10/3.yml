@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1SA 10:3" class="v">3</span>Then
+  shalt thou go on forward from thence, and thou shalt come to the plain of
+  Tabor, and there shall meet thee three men going up to God to Beth-el, one
+  carrying three kids, and another carrying three loaves of bread, and another
+  carrying a bottle of wine: </p>
+id: 1SA/10/3
+next:
+  id: 1SA/10/4
+  number: '4'
+previous:
+  id: 1SA/10/2
+  number: '2'
+reference: '1 Samuel 10:3'

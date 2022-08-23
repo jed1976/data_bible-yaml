@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 56:7" class="v">7</span>Even
+  them will I bring to my holy mountain, and make them joyful in my house of
+  prayer: their burnt offerings and their sacrifices <span class="add">shall
+  be</span> accepted upon mine altar; for mine house shall be called an house of
+  prayer for all people. </p>
+id: ISA/56/7
+next:
+  id: ISA/56/8
+  number: '8'
+previous:
+  id: ISA/56/6
+  number: '6'
+reference: 'Isaiah 56:7'

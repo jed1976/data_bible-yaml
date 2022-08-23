@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JDG 2:1" class="v">1</span>And an
+  angel of the <span class="nd">LORD</span> came up from Gilgal to Bochim, and
+  said, I made you to go up out of Egypt, and have brought you unto the land
+  which I sware unto your fathers; and I said, I will never break my covenant
+  with you. </p>
+id: JDG/2/1
+next:
+  id: JDG/2/2
+  number: '2'
+previous:
+  id: JDG/1/36
+  number: '36'
+reference: 'Judges 2:1'

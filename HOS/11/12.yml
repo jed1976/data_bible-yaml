@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 11:12"
+  class="v">12</span>Ephraim compasseth me about with lies, and the house of
+  Israel with deceit: but Judah yet ruleth with God, and is faithful with the
+  saints.</p>
+id: HOS/11/12
+next:
+  id: HOS/12/1
+  number: '1'
+previous:
+  id: HOS/11/11
+  number: '11'
+reference: 'Hosea 11:12'

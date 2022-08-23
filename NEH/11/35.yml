@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="NEH 11:35"
+  class="v">35</span>Lod, and Ono, the valley of craftsmen. </p>
+id: NEH/11/35
+next:
+  id: NEH/11/36
+  number: '36'
+previous:
+  id: NEH/11/34
+  number: '34'
+reference: 'Nehemiah 11:35'

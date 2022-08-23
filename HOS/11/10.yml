@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="HOS 11:10"
+  class="v">10</span>They shall walk after the <span class="nd">LORD</span>: he
+  shall roar like a lion: when he shall roar, then the children shall tremble
+  from the west. </p>
+id: HOS/11/10
+next:
+  id: HOS/11/11
+  number: '11'
+previous:
+  id: HOS/11/9
+  number: '9'
+reference: 'Hosea 11:10'

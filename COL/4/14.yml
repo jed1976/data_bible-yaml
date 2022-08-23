@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="COL 4:14"
+  class="v">14</span>Luke, the beloved physician, and Demas, greet you. </p>
+id: COL/4/14
+next:
+  id: COL/4/15
+  number: '15'
+previous:
+  id: COL/4/13
+  number: '13'
+reference: 'Colossians 4:14'

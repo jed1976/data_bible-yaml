@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="JHN 2:18" class="v">18</span>¶
+  Then answered the Jews and said unto him, What sign shewest thou unto us,
+  seeing that thou doest these things? </p>
+id: JHN/2/18
+next:
+  id: JHN/2/19
+  number: '19'
+previous:
+  id: JHN/2/17
+  number: '17'
+reference: 'John 2:18'

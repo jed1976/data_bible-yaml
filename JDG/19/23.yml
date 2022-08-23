@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JDG 19:23"
+  class="v">23</span>And the man, the master of the house, went out unto them,
+  and said unto them, Nay, my brethren, <span class="add">nay</span>, I pray
+  you, do not <span class="add">so</span> wickedly; seeing that this man is come
+  into mine house, do not this folly. </p>
+id: JDG/19/23
+next:
+  id: JDG/19/24
+  number: '24'
+previous:
+  id: JDG/19/22
+  number: '22'
+reference: 'Judges 19:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 1:21" class="v">21</span>And
+  said, Naked came I out of my mother’s womb, and naked shall I return thither:
+  the <span class="nd">LORD</span> gave, and the <span class="nd">LORD</span>
+  hath taken away; blessed be the name of the <span class="nd">LORD</span>. </p>
+id: JOB/1/21
+next:
+  id: JOB/1/22
+  number: '22'
+previous:
+  id: JOB/1/20
+  number: '20'
+reference: 'Job 1:21'

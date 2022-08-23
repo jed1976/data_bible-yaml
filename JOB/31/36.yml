@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="JOB 31:36"
+  class="v">36</span>Surely I would take it upon my shoulder, <span
+  class="add">and</span> bind it <span class="add">as</span> a crown to me. </p>
+id: JOB/31/36
+next:
+  id: JOB/31/37
+  number: '37'
+previous:
+  id: JOB/31/35
+  number: '35'
+reference: 'Job 31:36'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 23:5"
+  class="v">5</span>Nevertheless the <span class="nd">LORD</span> thy God would
+  not hearken unto Balaam; but the <span class="nd">LORD</span> thy God turned
+  the curse into a blessing unto thee, because the <span class="nd">LORD</span>
+  thy God loved thee. </p>
+id: DEU/23/5
+next:
+  id: DEU/23/6
+  number: '6'
+previous:
+  id: DEU/23/4
+  number: '4'
+reference: 'Deuteronomy 23:5'

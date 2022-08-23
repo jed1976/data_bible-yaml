@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ACT 5:34"
+  class="v">34</span>Then stood there up one in the council, a Pharisee, named
+  Gamaliel, a doctor of the law, had in reputation among all the people, and
+  commanded to put the apostles forth a little space; </p>
+id: ACT/5/34
+next:
+  id: ACT/5/35
+  number: '35'
+previous:
+  id: ACT/5/33
+  number: '33'
+reference: 'Acts 5:34'

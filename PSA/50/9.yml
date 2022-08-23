@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 50:9" class="v">9</span>I
+  will take no bullock out of thy house, <span class="add">nor</span> he goats
+  out of thy folds.</p>
+id: PSA/50/9
+next:
+  id: PSA/50/10
+  number: '10'
+previous:
+  id: PSA/50/8
+  number: '8'
+reference: 'Psalms 50:9'

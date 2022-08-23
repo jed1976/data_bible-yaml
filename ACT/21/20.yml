@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ACT 21:20"
+  class="v">20</span>And when they heard <span class="add">it</span>, they
+  glorified the Lord, and said unto him, Thou seest, brother, how many thousands
+  of Jews there are which believe; and they are all zealous of the law: </p>
+id: ACT/21/20
+next:
+  id: ACT/21/21
+  number: '21'
+previous:
+  id: ACT/21/19
+  number: '19'
+reference: 'Acts 21:20'

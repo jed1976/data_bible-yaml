@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 23:7" class="v">7</span>¶
+  Thou shalt not abhor an Edomite; for he <span class="add">is</span> thy
+  brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his
+  land. </p>
+id: DEU/23/7
+next:
+  id: DEU/23/8
+  number: '8'
+previous:
+  id: DEU/23/6
+  number: '6'
+reference: 'Deuteronomy 23:7'

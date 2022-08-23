@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JDG 9:4" class="v">4</span>And
+  they gave him threescore and ten <span class="add">pieces</span> of silver out
+  of the house of Baal-berith, wherewith Abimelech hired vain and light persons,
+  which followed him. </p>
+id: JDG/9/4
+next:
+  id: JDG/9/5
+  number: '5'
+previous:
+  id: JDG/9/3
+  number: '3'
+reference: 'Judges 9:4'

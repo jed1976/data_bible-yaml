@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ECC 7:15" class="v">15</span>All
+  <span class="add">things</span> have I seen in the days of my vanity: there is
+  a just <span class="add">man</span> that perisheth in his righteousness, and
+  there is a wicked <span class="add">man</span> that prolongeth <span
+  class="add">his life</span> in his wickedness. </p>
+id: ECC/7/15
+next:
+  id: ECC/7/16
+  number: '16'
+previous:
+  id: ECC/7/14
+  number: '14'
+reference: 'Ecclesiastes 7:15'

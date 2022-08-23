@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="GEN 4:10" class="v">10</span>And
+  he said, What hast thou done? the voice of thy brother’s blood crieth unto me
+  from the ground. </p>
+id: GEN/4/10
+next:
+  id: GEN/4/11
+  number: '11'
+previous:
+  id: GEN/4/9
+  number: '9'
+reference: 'Genesis 4:10'

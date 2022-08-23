@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="MAT 10:24"
+  class="v">24</span><span class="wj">The disciple is not above <span
+  class="add">his</span> master, nor the servant above his lord.</span> </p>
+id: MAT/10/24
+next:
+  id: MAT/10/25
+  number: '25'
+previous:
+  id: MAT/10/23
+  number: '23'
+reference: 'Matthew 10:24'

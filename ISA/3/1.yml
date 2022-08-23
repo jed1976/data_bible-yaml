@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ISA 3:1" class="v">1</span>For,
+  behold, the Lord, the <span class="nd">LORD</span> of hosts, doth take away
+  from Jerusalem and from Judah the stay and the staff, the whole stay of bread,
+  and the whole stay of water, </p>
+id: ISA/3/1
+next:
+  id: ISA/3/2
+  number: '2'
+previous:
+  id: ISA/2/22
+  number: '22'
+reference: 'Isaiah 3:1'

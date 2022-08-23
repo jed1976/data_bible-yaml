@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EZK 41:24"
+  class="v">24</span>And the doors had two leaves <span
+  class="add">apiece</span>, two turning leaves; two <span
+  class="add">leaves</span> for the one door, and two leaves for the other <span
+  class="add">door</span>. </p>
+id: EZK/41/24
+next:
+  id: EZK/41/25
+  number: '25'
+previous:
+  id: EZK/41/23
+  number: '23'
+reference: 'Ezekiel 41:24'

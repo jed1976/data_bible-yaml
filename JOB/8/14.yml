@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 8:14"
+  class="v">14</span>Whose hope shall be cut off, and whose trust <span
+  class="add">shall be</span> a spider’s web. </p>
+id: JOB/8/14
+next:
+  id: JOB/8/15
+  number: '15'
+previous:
+  id: JOB/8/13
+  number: '13'
+reference: 'Job 8:14'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1SA 27:5" class="v">5</span>¶ And
+  David said unto Achish, If I have now found grace in thine eyes, let them give
+  me a place in some town in the country, that I may dwell there: for why should
+  thy servant dwell in the royal city with thee? </p>
+id: 1SA/27/5
+next:
+  id: 1SA/27/6
+  number: '6'
+previous:
+  id: 1SA/27/4
+  number: '4'
+reference: '1 Samuel 27:5'

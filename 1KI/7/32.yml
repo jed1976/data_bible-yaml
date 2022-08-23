@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1KI 7:32" class="v">32</span>And
+  under the borders <span class="add">were</span> four wheels; and the axletrees
+  of the wheels <span class="add">were joined</span> to the base: and the height
+  of a wheel <span class="add">was</span> a cubit and half a cubit. </p>
+id: 1KI/7/32
+next:
+  id: 1KI/7/33
+  number: '33'
+previous:
+  id: 1KI/7/31
+  number: '31'
+reference: '1 Kings 7:32'

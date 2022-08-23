@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 34:5" class="v">5</span>And
+  they were scattered, because <span class="add">there is</span> no shepherd:
+  and they became meat to all the beasts of the field, when they were scattered.
+  </p>
+id: EZK/34/5
+next:
+  id: EZK/34/6
+  number: '6'
+previous:
+  id: EZK/34/4
+  number: '4'
+reference: 'Ezekiel 34:5'

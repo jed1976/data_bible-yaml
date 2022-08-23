@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 12:8" class="v">8</span>A man
+  shall be commended according to his wisdom: but he that is of a perverse heart
+  shall be despised. </p>
+id: PRO/12/8
+next:
+  id: PRO/12/9
+  number: '9'
+previous:
+  id: PRO/12/7
+  number: '7'
+reference: 'Proverbs 12:8'

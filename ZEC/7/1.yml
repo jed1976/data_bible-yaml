@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 7:1" class="v">1</span>And it
+  came to pass in the fourth year of king Darius, <span class="add">that</span>
+  the word of the <span class="nd">LORD</span> came unto Zechariah in the fourth
+  <span class="add">day</span> of the ninth month, <span class="add">even</span>
+  in Chisleu; </p>
+id: ZEC/7/1
+next:
+  id: ZEC/7/2
+  number: '2'
+previous:
+  id: ZEC/6/15
+  number: '15'
+reference: 'Zechariah 7:1'

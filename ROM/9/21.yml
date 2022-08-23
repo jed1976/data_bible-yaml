@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ROM 9:21"
+  class="v">21</span>Hath not the potter power over the clay, of the same lump
+  to make one vessel unto honour, and another unto dishonour? </p>
+id: ROM/9/21
+next:
+  id: ROM/9/22
+  number: '22'
+previous:
+  id: ROM/9/20
+  number: '20'
+reference: 'Romans 9:21'

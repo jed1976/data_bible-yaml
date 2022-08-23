@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="GEN 41:56"
+  class="v">56</span>And the famine was over all the face of the earth: and
+  Joseph opened all the storehouses, and sold unto the Egyptians; and the famine
+  waxed sore in the land of Egypt. </p>
+id: GEN/41/56
+next:
+  id: GEN/41/57
+  number: '57'
+previous:
+  id: GEN/41/55
+  number: '55'
+reference: 'Genesis 41:56'

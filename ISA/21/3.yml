@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 21:3"
+  class="v">3</span>Therefore are my loins filled with pain: pangs have taken
+  hold upon me, as the pangs of a woman that travaileth: I was bowed down at the
+  hearing <span class="add">of it;</span> I was dismayed at the seeing <span
+  class="add">of it</span>. </p>
+id: ISA/21/3
+next:
+  id: ISA/21/4
+  number: '4'
+previous:
+  id: ISA/21/2
+  number: '2'
+reference: 'Isaiah 21:3'

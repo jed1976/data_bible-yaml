@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 8:18" class="v">18</span>But
+  thou shalt remember the <span class="nd">LORD</span> thy God: for <span
+  class="add">it is</span> he that giveth thee power to get wealth, that he may
+  establish his covenant which he sware unto thy fathers, as <span
+  class="add">it is</span> this day. </p>
+id: DEU/8/18
+next:
+  id: DEU/8/19
+  number: '19'
+previous:
+  id: DEU/8/17
+  number: '17'
+reference: 'Deuteronomy 8:18'

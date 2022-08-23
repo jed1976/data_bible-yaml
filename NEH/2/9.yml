@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NEH 2:9" class="v">9</span>¶ Then
+  I came to the governors beyond the river, and gave them the king’s letters.
+  Now the king had sent captains of the army and horsemen with me. </p>
+id: NEH/2/9
+next:
+  id: NEH/2/10
+  number: '10'
+previous:
+  id: NEH/2/8
+  number: '8'
+reference: 'Nehemiah 2:9'

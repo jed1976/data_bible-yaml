@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 6:18" class="v">18</span>An
+  heart that deviseth wicked imaginations, feet that be swift in running to
+  mischief, </p>
+id: PRO/6/18
+next:
+  id: PRO/6/19
+  number: '19'
+previous:
+  id: PRO/6/17
+  number: '17'
+reference: 'Proverbs 6:18'

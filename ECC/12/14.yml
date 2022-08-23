@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ECC 12:14"
+  class="v">14</span>For God shall bring every work into judgment, with every
+  secret thing, whether <span class="add">it be</span> good, or whether <span
+  class="add">it be</span> evil.</p>
+id: ECC/12/14
+next:
+  id: SNG/intro/0
+  number: '0'
+previous:
+  id: ECC/12/13
+  number: '13'
+reference: 'Ecclesiastes 12:14'

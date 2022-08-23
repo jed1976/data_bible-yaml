@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="LUK 22:44"
+  class="v">44</span>And being in an agony he prayed more earnestly: and his
+  sweat was as it were great drops of blood falling down to the ground. </p>
+id: LUK/22/44
+next:
+  id: LUK/22/45
+  number: '45'
+previous:
+  id: LUK/22/43
+  number: '43'
+reference: 'Luke 22:44'

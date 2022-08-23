@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="2SA 13:19" class="v">19</span>¶
+  And Tamar put ashes on her head, and rent her garment of divers colours that
+  <span class="add">was</span> on her, and laid her hand on her head, and went
+  on crying. </p>
+id: 2SA/13/19
+next:
+  id: 2SA/13/20
+  number: '20'
+previous:
+  id: 2SA/13/18
+  number: '18'
+reference: '2 Samuel 13:19'

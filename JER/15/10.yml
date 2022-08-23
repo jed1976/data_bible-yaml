@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 15:10" class="v">10</span>¶
+  Woe is me, my mother, that thou hast borne me a man of strife and a man of
+  contention to the whole earth! I have neither lent on usury, nor men have lent
+  to me on usury; <span class="add">yet</span> every one of them doth curse me.
+  </p>
+id: JER/15/10
+next:
+  id: JER/15/11
+  number: '11'
+previous:
+  id: JER/15/9
+  number: '9'
+reference: 'Jeremiah 15:10'

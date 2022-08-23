@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="HAG 2:21"
+  class="v">21</span>Speak to Zerubbabel, governor of Judah, saying, I will
+  shake the heavens and the earth; </p>
+id: HAG/2/21
+next:
+  id: HAG/2/22
+  number: '22'
+previous:
+  id: HAG/2/20
+  number: '20'
+reference: 'Haggai 2:21'

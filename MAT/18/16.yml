@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 18:16"
+  class="v">16</span><span class="wj">But if he will not hear <span
+  class="add">thee, then</span> take with thee one or two more, that in the
+  mouth of two or three witnesses every word may be established.</span> </p>
+id: MAT/18/16
+next:
+  id: MAT/18/17
+  number: '17'
+previous:
+  id: MAT/18/15
+  number: '15'
+reference: 'Matthew 18:16'

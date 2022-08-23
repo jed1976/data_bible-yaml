@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="HOS 11:7" class="v">7</span>And
+  my people are bent to backsliding from me: though they called them to the most
+  High, none at all would exalt <span class="add">him</span>.</p>
+id: HOS/11/7
+next:
+  id: HOS/11/8
+  number: '8'
+previous:
+  id: HOS/11/6
+  number: '6'
+reference: 'Hosea 11:7'

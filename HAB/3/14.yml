@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="HAB 3:14"
+  class="v">14</span>Thou didst strike through with his staves the head of his
+  villages: they came out as a whirlwind to scatter me: their rejoicing <span
+  class="add">was</span> as to devour the poor secretly. </p>
+id: HAB/3/14
+next:
+  id: HAB/3/15
+  number: '15'
+previous:
+  id: HAB/3/13
+  number: '13'
+reference: 'Habakkuk 3:14'

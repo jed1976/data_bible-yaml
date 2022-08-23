@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 12:1" class="v">1</span>Now
+  these <span class="add">are</span> the kings of the land, which the children
+  of Israel smote, and possessed their land on the other side Jordan toward the
+  rising of the sun, from the river Arnon unto mount Hermon, and all the plain
+  on the east: </p>
+id: JOS/12/1
+next:
+  id: JOS/12/2
+  number: '2'
+previous:
+  id: JOS/11/23
+  number: '23'
+reference: 'Joshua 12:1'

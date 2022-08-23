@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 6:9" class="v">9</span>¶ Then
+  there arose certain of the synagogue, which is called <span class="add">the
+  synagogue</span> of the Libertines, and Cyrenians, and Alexandrians, and of
+  them of Cilicia and of Asia, disputing with Stephen. </p>
+id: ACT/6/9
+next:
+  id: ACT/6/10
+  number: '10'
+previous:
+  id: ACT/6/8
+  number: '8'
+reference: 'Acts 6:9'

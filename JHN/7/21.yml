@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JHN 7:21"
+  class="v">21</span>Jesus answered and said unto them, <span class="wj">I have
+  done one work, and ye all marvel.</span> </p>
+id: JHN/7/21
+next:
+  id: JHN/7/22
+  number: '22'
+previous:
+  id: JHN/7/20
+  number: '20'
+reference: 'John 7:21'

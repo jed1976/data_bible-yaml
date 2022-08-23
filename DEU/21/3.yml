@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="DEU 21:3" class="v">3</span>And
+  it shall be, <span class="add">that</span> the city <span class="add">which
+  is</span> next unto the slain man, even the elders of that city shall take an
+  heifer, which hath not been wrought with, <span class="add">and</span> which
+  hath not drawn in the yoke; </p>
+id: DEU/21/3
+next:
+  id: DEU/21/4
+  number: '4'
+previous:
+  id: DEU/21/2
+  number: '2'
+reference: 'Deuteronomy 21:3'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="NUM 4:32" class="v">32</span>And
+  the pillars of the court round about, and their sockets, and their pins, and
+  their cords, with all their instruments, and with all their service: and by
+  name ye shall reckon the instruments of the charge of their burden. </p>
+id: NUM/4/32
+next:
+  id: NUM/4/33
+  number: '33'
+previous:
+  id: NUM/4/31
+  number: '31'
+reference: 'Numbers 4:32'

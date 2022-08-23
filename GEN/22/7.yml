@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 22:7" class="v">7</span>And
+  Isaac spake unto Abraham his father, and said, My father: and he said, Here
+  <span class="add">am</span> I, my son. And he said, Behold the fire and the
+  wood: but where <span class="add">is</span> the lamb for a burnt offering?
+  </p>
+id: GEN/22/7
+next:
+  id: GEN/22/8
+  number: '8'
+previous:
+  id: GEN/22/6
+  number: '6'
+reference: 'Genesis 22:7'

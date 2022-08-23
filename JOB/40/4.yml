@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JOB 40:4"
+  class="v">4</span>Behold, I am vile; what shall I answer thee? I will lay mine
+  hand upon my mouth. </p>
+id: JOB/40/4
+next:
+  id: JOB/40/5
+  number: '5'
+previous:
+  id: JOB/40/3
+  number: '3'
+reference: 'Job 40:4'

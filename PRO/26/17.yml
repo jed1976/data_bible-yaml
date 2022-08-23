@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="PRO 26:17" class="v">17</span>He
+  that passeth by, <span class="add">and</span> meddleth with strife <span
+  class="add">belonging</span> not to him, <span class="add">is like</span> one
+  that taketh a dog by the ears.</p>
+id: PRO/26/17
+next:
+  id: PRO/26/18
+  number: '18'
+previous:
+  id: PRO/26/16
+  number: '16'
+reference: 'Proverbs 26:17'

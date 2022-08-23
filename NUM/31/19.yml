@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="NUM 31:19"
+  class="v">19</span>And do ye abide without the camp seven days: whosoever hath
+  killed any person, and whosoever hath touched any slain, purify <span
+  class="add">both</span> yourselves and your captives on the third day, and on
+  the seventh day. </p>
+id: NUM/31/19
+next:
+  id: NUM/31/20
+  number: '20'
+previous:
+  id: NUM/31/18
+  number: '18'
+reference: 'Numbers 31:19'

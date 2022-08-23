@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="32" data-sid="PSA 69:32"
+  class="v">32</span>The humble shall see <span class="add">this, and</span> be
+  glad: and your heart shall live that seek God.</p>
+id: PSA/69/32
+next:
+  id: PSA/69/33
+  number: '33'
+previous:
+  id: PSA/69/31
+  number: '31'
+reference: 'Psalms 69:32'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 2:10"
+  class="v">10</span><span class="wj">Fear none of those things which thou shalt
+  suffer: behold, the devil shall cast <span class="add">some</span> of you into
+  prison, that ye may be tried; and ye shall have tribulation ten days: be thou
+  faithful unto death, and I will give thee a crown of life.</span> </p>
+id: REV/2/10
+next:
+  id: REV/2/11
+  number: '11'
+previous:
+  id: REV/2/9
+  number: '9'
+reference: 'Revelation 2:10'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 3:3" class="v">3</span>Let
+  not mercy and truth forsake thee: bind them about thy neck; write them upon
+  the table of thine heart: </p>
+id: PRO/3/3
+next:
+  id: PRO/3/4
+  number: '4'
+previous:
+  id: PRO/3/2
+  number: '2'
+reference: 'Proverbs 3:3'

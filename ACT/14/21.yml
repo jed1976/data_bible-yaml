@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ACT 14:21"
+  class="v">21</span>And when they had preached the gospel to that city, and had
+  taught many, they returned again to Lystra, and <span class="add">to</span>
+  Iconium, and Antioch, </p>
+id: ACT/14/21
+next:
+  id: ACT/14/22
+  number: '22'
+previous:
+  id: ACT/14/20
+  number: '20'
+reference: 'Acts 14:21'

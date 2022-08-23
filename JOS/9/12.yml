@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JOS 9:12"
+  class="v">12</span>This our bread we took hot <span class="add">for</span> our
+  provision out of our houses on the day we came forth to go unto you; but now,
+  behold, it is dry, and it is mouldy: </p>
+id: JOS/9/12
+next:
+  id: JOS/9/13
+  number: '13'
+previous:
+  id: JOS/9/11
+  number: '11'
+reference: 'Joshua 9:12'

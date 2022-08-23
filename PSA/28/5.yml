@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 28:5"
+  class="v">5</span>Because they regard not the works of the <span
+  class="nd">LORD</span>, nor the operation of his hands, he shall destroy them,
+  and not build them up.</p>
+id: PSA/28/5
+next:
+  id: PSA/28/6
+  number: '6'
+previous:
+  id: PSA/28/4
+  number: '4'
+reference: 'Psalms 28:5'

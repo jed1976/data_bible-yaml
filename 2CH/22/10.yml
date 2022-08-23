@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="2CH 22:10" class="v">10</span>¶
+  But when Athaliah the mother of Ahaziah saw that her son was dead, she arose
+  and destroyed all the seed royal of the house of Judah. </p>
+id: 2CH/22/10
+next:
+  id: 2CH/22/11
+  number: '11'
+previous:
+  id: 2CH/22/9
+  number: '9'
+reference: '2 Chronicles 22:10'

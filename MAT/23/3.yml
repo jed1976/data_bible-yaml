@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MAT 23:3" class="v">3</span><span
+  class="wj">All therefore whatsoever they bid you observe, <span
+  class="add">that</span> observe and do; but do not ye after their works: for
+  they say, and do not.</span> </p>
+id: MAT/23/3
+next:
+  id: MAT/23/4
+  number: '4'
+previous:
+  id: MAT/23/2
+  number: '2'
+reference: 'Matthew 23:3'

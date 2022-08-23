@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 5:8" class="v">8</span><span
+  class="wj">Blessed <span class="add">are</span> the pure in heart: for they
+  shall see God.</span> </p>
+id: MAT/5/8
+next:
+  id: MAT/5/9
+  number: '9'
+previous:
+  id: MAT/5/7
+  number: '7'
+reference: 'Matthew 5:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="HOS 8:9" class="v">9</span>For
+  they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired
+  lovers. </p>
+id: HOS/8/9
+next:
+  id: HOS/8/10
+  number: '10'
+previous:
+  id: HOS/8/8
+  number: '8'
+reference: 'Hosea 8:9'

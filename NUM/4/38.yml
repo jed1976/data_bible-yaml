@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="NUM 4:38" class="v">38</span>And
+  those that were numbered of the sons of Gershon, throughout their families,
+  and by the house of their fathers, </p>
+id: NUM/4/38
+next:
+  id: NUM/4/39
+  number: '39'
+previous:
+  id: NUM/4/37
+  number: '37'
+reference: 'Numbers 4:38'

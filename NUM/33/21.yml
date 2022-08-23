@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 33:21"
+  class="v">21</span>And they removed from Libnah, and pitched at Rissah. </p>
+id: NUM/33/21
+next:
+  id: NUM/33/22
+  number: '22'
+previous:
+  id: NUM/33/20
+  number: '20'
+reference: 'Numbers 33:21'

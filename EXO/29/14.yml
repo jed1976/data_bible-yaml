@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EXO 29:14"
+  class="v">14</span>But the flesh of the bullock, and his skin, and his dung,
+  shalt thou burn with fire without the camp: it <span class="add">is</span> a
+  sin offering.</p>
+id: EXO/29/14
+next:
+  id: EXO/29/15
+  number: '15'
+previous:
+  id: EXO/29/13
+  number: '13'
+reference: 'Exodus 29:14'

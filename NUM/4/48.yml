@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="NUM 4:48"
+  class="v">48</span>Even those that were numbered of them, were eight thousand
+  and five hundred and fourscore. </p>
+id: NUM/4/48
+next:
+  id: NUM/4/49
+  number: '49'
+previous:
+  id: NUM/4/47
+  number: '47'
+reference: 'Numbers 4:48'

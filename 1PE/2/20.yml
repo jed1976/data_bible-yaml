@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1PE 2:20" class="v">20</span>For
+  what glory <span class="add">is it</span>, if, when ye be buffeted for your
+  faults, ye shall take it patiently? but if, when ye do well, and suffer <span
+  class="add">for it</span>, ye take it patiently, this <span
+  class="add">is</span> acceptable with God. </p>
+id: 1PE/2/20
+next:
+  id: 1PE/2/21
+  number: '21'
+previous:
+  id: 1PE/2/19
+  number: '19'
+reference: '1 Peter 2:20'

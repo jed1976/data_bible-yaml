@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JDG 7:16" class="v">16</span>And
+  he divided the three hundred men <span class="add">into</span> three
+  companies, and he put a trumpet in every man’s hand, with empty pitchers, and
+  lamps within the pitchers. </p>
+id: JDG/7/16
+next:
+  id: JDG/7/17
+  number: '17'
+previous:
+  id: JDG/7/15
+  number: '15'
+reference: 'Judges 7:16'

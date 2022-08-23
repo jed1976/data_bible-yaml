@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 22:21"
+  class="v">21</span>Acquaint now thyself with him, and be at peace: thereby
+  good shall come unto thee. </p>
+id: JOB/22/21
+next:
+  id: JOB/22/22
+  number: '22'
+previous:
+  id: JOB/22/20
+  number: '20'
+reference: 'Job 22:21'

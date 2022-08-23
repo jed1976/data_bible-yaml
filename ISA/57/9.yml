@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 57:9" class="v">9</span>And
+  thou wentest to the king with ointment, and didst increase thy perfumes, and
+  didst send thy messengers far off, and didst debase <span class="add">thyself
+  even</span> unto hell. </p>
+id: ISA/57/9
+next:
+  id: ISA/57/10
+  number: '10'
+previous:
+  id: ISA/57/8
+  number: '8'
+reference: 'Isaiah 57:9'

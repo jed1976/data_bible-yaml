@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 16:16" class="v">16</span>¶
+  This <span class="add">is</span> the thing which the <span
+  class="nd">LORD</span> hath commanded, Gather of it every man according to his
+  eating, an omer for every man, <span class="add">according to</span> the
+  number of your persons; take ye every man for <span class="add">them</span>
+  which <span class="add">are</span> in his tents. </p>
+id: EXO/16/16
+next:
+  id: EXO/16/17
+  number: '17'
+previous:
+  id: EXO/16/15
+  number: '15'
+reference: 'Exodus 16:16'

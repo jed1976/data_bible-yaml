@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ACT 28:17"
+  class="v">17</span>And it came to pass, that after three days Paul called the
+  chief of the Jews together: and when they were come together, he said unto
+  them, Men <span class="add">and</span> brethren, though I have committed
+  nothing against the people, or customs of our fathers, yet was I delivered
+  prisoner from Jerusalem into the hands of the Romans. </p>
+id: ACT/28/17
+next:
+  id: ACT/28/18
+  number: '18'
+previous:
+  id: ACT/28/16
+  number: '16'
+reference: 'Acts 28:17'

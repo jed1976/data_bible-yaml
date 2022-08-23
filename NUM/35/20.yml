@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="NUM 35:20"
+  class="v">20</span>But if he thrust him of hatred, or hurl at him by laying of
+  wait, that he die; </p>
+id: NUM/35/20
+next:
+  id: NUM/35/21
+  number: '21'
+previous:
+  id: NUM/35/19
+  number: '19'
+reference: 'Numbers 35:20'

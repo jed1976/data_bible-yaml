@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 45:8" class="v">8</span>So
+  now <span class="add">it was</span> not you <span class="add">that</span> sent
+  me hither, but God: and he hath made me a father to Pharaoh, and lord of all
+  his house, and a ruler throughout all the land of Egypt. </p>
+id: GEN/45/8
+next:
+  id: GEN/45/9
+  number: '9'
+previous:
+  id: GEN/45/7
+  number: '7'
+reference: 'Genesis 45:8'

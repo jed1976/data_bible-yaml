@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 11:14"
+  class="v">14</span>Who shall tell thee words, whereby thou and all thy house
+  shall be saved. </p>
+id: ACT/11/14
+next:
+  id: ACT/11/15
+  number: '15'
+previous:
+  id: ACT/11/13
+  number: '13'
+reference: 'Acts 11:14'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 2:4" class="v">4</span>He
+  that sitteth in the heavens shall laugh: the Lord shall have them in
+  derision.</p>
+id: PSA/2/4
+next:
+  id: PSA/2/5
+  number: '5'
+previous:
+  id: PSA/2/3
+  number: '3'
+reference: 'Psalms 2:4'

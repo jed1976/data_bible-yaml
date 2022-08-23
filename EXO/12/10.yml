@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EXO 12:10"
+  class="v">10</span>And ye shall let nothing of it remain until the morning;
+  and that which remaineth of it until the morning ye shall burn with fire.</p>
+id: EXO/12/10
+next:
+  id: EXO/12/11
+  number: '11'
+previous:
+  id: EXO/12/9
+  number: '9'
+reference: 'Exodus 12:10'

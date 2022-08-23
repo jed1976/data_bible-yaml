@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 12:3" class="v">3</span>¶ He
+  took his brother by the heel in the womb, and by his strength he had power
+  with God: </p>
+id: HOS/12/3
+next:
+  id: HOS/12/4
+  number: '4'
+previous:
+  id: HOS/12/2
+  number: '2'
+reference: 'Hosea 12:3'

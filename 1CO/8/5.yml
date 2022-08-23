@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="1CO 8:5" class="v">5</span>For
+  though there be that are called gods, whether in heaven or in earth, (as there
+  be gods many, and lords many,) </p>
+id: 1CO/8/5
+next:
+  id: 1CO/8/6
+  number: '6'
+previous:
+  id: 1CO/8/4
+  number: '4'
+reference: '1 Corinthians 8:5'

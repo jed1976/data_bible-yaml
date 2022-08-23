@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ACT 7:6" class="v">6</span>And
+  God spake on this wise, That his seed should sojourn in a strange land; and
+  that they should bring them into bondage, and entreat <span
+  class="add">them</span> evil four hundred years. </p>
+id: ACT/7/6
+next:
+  id: ACT/7/7
+  number: '7'
+previous:
+  id: ACT/7/5
+  number: '5'
+reference: 'Acts 7:6'

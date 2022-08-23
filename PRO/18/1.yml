@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="PRO 18:1"
+  class="v">1</span>Through desire a man, having separated himself, seeketh
+  <span class="add">and</span> intermeddleth with all wisdom. </p>
+id: PRO/18/1
+next:
+  id: PRO/18/2
+  number: '2'
+previous:
+  id: PRO/17/28
+  number: '28'
+reference: 'Proverbs 18:1'

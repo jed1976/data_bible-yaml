@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 15:13"
+  class="v">13</span>But he answered and said, <span class="wj">Every plant,
+  which my heavenly Father hath not planted, shall be rooted up.</span> </p>
+id: MAT/15/13
+next:
+  id: MAT/15/14
+  number: '14'
+previous:
+  id: MAT/15/12
+  number: '12'
+reference: 'Matthew 15:13'

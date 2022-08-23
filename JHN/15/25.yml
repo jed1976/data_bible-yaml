@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JHN 15:25"
+  class="v">25</span><span class="wj">But <span class="add">this cometh to
+  pass</span>, that the word might be fulfilled that is written in their law,
+  They hated me without a cause.</span> </p>
+id: JHN/15/25
+next:
+  id: JHN/15/26
+  number: '26'
+previous:
+  id: JHN/15/24
+  number: '24'
+reference: 'John 15:25'

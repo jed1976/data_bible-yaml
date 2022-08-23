@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="AMO 6:3" class="v">3</span>Ye
+  that put far away the evil day, and cause the seat of violence to come near;
+  </p>
+id: AMO/6/3
+next:
+  id: AMO/6/4
+  number: '4'
+previous:
+  id: AMO/6/2
+  number: '2'
+reference: 'Amos 6:3'

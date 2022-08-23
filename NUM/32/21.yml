@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="NUM 32:21"
+  class="v">21</span>And will go all of you armed over Jordan before the <span
+  class="nd">LORD</span>, until he hath driven out his enemies from before him,
+  </p>
+id: NUM/32/21
+next:
+  id: NUM/32/22
+  number: '22'
+previous:
+  id: NUM/32/20
+  number: '20'
+reference: 'Numbers 32:21'

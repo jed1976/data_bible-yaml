@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2CH 30:23"
+  class="v">23</span>And the whole assembly took counsel to keep other seven
+  days: and they kept <span class="add">other</span> seven days with gladness.
+  </p>
+id: 2CH/30/23
+next:
+  id: 2CH/30/24
+  number: '24'
+previous:
+  id: 2CH/30/22
+  number: '22'
+reference: '2 Chronicles 30:23'

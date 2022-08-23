@@ -1,0 +1,11 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 30:6"
+  class="v">6</span>And in my prosperity I said, I shall never be moved.</p>
+id: PSA/30/6
+next:
+  id: PSA/30/7
+  number: '7'
+previous:
+  id: PSA/30/5
+  number: '5'
+reference: 'Psalms 30:6'

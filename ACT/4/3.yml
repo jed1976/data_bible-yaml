@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ACT 4:3" class="v">3</span>And
+  they laid hands on them, and put <span class="add">them</span> in hold unto
+  the next day: for it was now eventide. </p>
+id: ACT/4/3
+next:
+  id: ACT/4/4
+  number: '4'
+previous:
+  id: ACT/4/2
+  number: '2'
+reference: 'Acts 4:3'

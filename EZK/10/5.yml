@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="EZK 10:5" class="v">5</span>And
+  the sound of the cherubims’ wings was heard <span class="add">even</span> to
+  the outer court, as the voice of the Almighty God when he speaketh. </p>
+id: EZK/10/5
+next:
+  id: EZK/10/6
+  number: '6'
+previous:
+  id: EZK/10/4
+  number: '4'
+reference: 'Ezekiel 10:5'

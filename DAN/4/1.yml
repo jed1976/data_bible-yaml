@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="DAN 4:1"
+  class="v">1</span>Nebuchadnezzar the king, unto all people, nations, and
+  languages, that dwell in all the earth; Peace be multiplied unto you. </p>
+id: DAN/4/1
+next:
+  id: DAN/4/2
+  number: '2'
+previous:
+  id: DAN/3/30
+  number: '30'
+reference: 'Daniel 4:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="DEU 1:34" class="v">34</span>And
+  the <span class="nd">LORD</span> heard the voice of your words, and was wroth,
+  and sware, saying, </p>
+id: DEU/1/34
+next:
+  id: DEU/1/35
+  number: '35'
+previous:
+  id: DEU/1/33
+  number: '33'
+reference: 'Deuteronomy 1:34'

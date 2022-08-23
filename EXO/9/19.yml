@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 9:19"
+  class="v">19</span>Send therefore now, <span class="add">and</span> gather thy
+  cattle, and all that thou hast in the field; <span class="add">for upon</span>
+  every man and beast which shall be found in the field, and shall not be
+  brought home, the hail shall come down upon them, and they shall die. </p>
+id: EXO/9/19
+next:
+  id: EXO/9/20
+  number: '20'
+previous:
+  id: EXO/9/18
+  number: '18'
+reference: 'Exodus 9:19'

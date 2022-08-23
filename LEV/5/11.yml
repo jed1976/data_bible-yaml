@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 5:11" class="v">11</span>¶
+  But if he be not able to bring two turtledoves, or two young pigeons, then he
+  that sinned shall bring for his offering the tenth part of an ephah of fine
+  flour for a sin offering; he shall put no oil upon it, neither shall he put
+  <span class="add">any</span> frankincense thereon: for it <span
+  class="add">is</span> a sin offering. </p>
+id: LEV/5/11
+next:
+  id: LEV/5/12
+  number: '12'
+previous:
+  id: LEV/5/10
+  number: '10'
+reference: 'Leviticus 5:11'

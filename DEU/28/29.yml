@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="DEU 28:29"
+  class="v">29</span>And thou shalt grope at noonday, as the blind gropeth in
+  darkness, and thou shalt not prosper in thy ways: and thou shalt be only
+  oppressed and spoiled evermore, and no man shall save <span
+  class="add">thee</span>. </p>
+id: DEU/28/29
+next:
+  id: DEU/28/30
+  number: '30'
+previous:
+  id: DEU/28/28
+  number: '28'
+reference: 'Deuteronomy 28:29'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GAL 2:15" class="v">15</span>We
+  <span class="add">who are</span> Jews by nature, and not sinners of the
+  Gentiles, </p>
+id: GAL/2/15
+next:
+  id: GAL/2/16
+  number: '16'
+previous:
+  id: GAL/2/14
+  number: '14'
+reference: 'Galatians 2:15'

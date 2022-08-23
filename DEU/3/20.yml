@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 3:20"
+  class="v">20</span>Until the <span class="nd">LORD</span> have given rest unto
+  your brethren, as well as unto you, and <span class="add">until</span> they
+  also possess the land which the <span class="nd">LORD</span> your God hath
+  given them beyond Jordan: and <span class="add">then</span> shall ye return
+  every man unto his possession, which I have given you.</p>
+id: DEU/3/20
+next:
+  id: DEU/3/21
+  number: '21'
+previous:
+  id: DEU/3/19
+  number: '19'
+reference: 'Deuteronomy 3:20'

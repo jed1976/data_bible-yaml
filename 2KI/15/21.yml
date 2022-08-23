@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2KI 15:21" class="v">21</span>¶
+  And the rest of the acts of Menahem, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Israel? </p>
+id: 2KI/15/21
+next:
+  id: 2KI/15/22
+  number: '22'
+previous:
+  id: 2KI/15/20
+  number: '20'
+reference: '2 Kings 15:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="ISA 13:4" class="v">4</span>The
+  noise of a multitude in the mountains, like as of a great people; a tumultuous
+  noise of the kingdoms of nations gathered together: the <span
+  class="nd">LORD</span> of hosts mustereth the host of the battle. </p>
+id: ISA/13/4
+next:
+  id: ISA/13/5
+  number: '5'
+previous:
+  id: ISA/13/3
+  number: '3'
+reference: 'Isaiah 13:4'

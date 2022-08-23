@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 34:2" class="v">2</span>And
+  when Shechem the son of Hamor the Hivite, prince of the country, saw her, he
+  took her, and lay with her, and defiled her. </p>
+id: GEN/34/2
+next:
+  id: GEN/34/3
+  number: '3'
+previous:
+  id: GEN/34/1
+  number: '1'
+reference: 'Genesis 34:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 65:19"
+  class="v">19</span>And I will rejoice in Jerusalem, and joy in my people: and
+  the voice of weeping shall be no more heard in her, nor the voice of crying.
+  </p>
+id: ISA/65/19
+next:
+  id: ISA/65/20
+  number: '20'
+previous:
+  id: ISA/65/18
+  number: '18'
+reference: 'Isaiah 65:19'

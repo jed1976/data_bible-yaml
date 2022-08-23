@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 8:16" class="v">16</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Say unto Aaron, Stretch
+  out thy rod, and smite the dust of the land, that it may become lice
+  throughout all the land of Egypt. </p>
+id: EXO/8/16
+next:
+  id: EXO/8/17
+  number: '17'
+previous:
+  id: EXO/8/15
+  number: '15'
+reference: 'Exodus 8:16'

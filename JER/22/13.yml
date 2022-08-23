@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 22:13" class="v">13</span>¶
+  Woe unto him that buildeth his house by unrighteousness, and his chambers by
+  wrong; <span class="add">that</span> useth his neighbour’s service without
+  wages, and giveth him not for his work; </p>
+id: JER/22/13
+next:
+  id: JER/22/14
+  number: '14'
+previous:
+  id: JER/22/12
+  number: '12'
+reference: 'Jeremiah 22:13'

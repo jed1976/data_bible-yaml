@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="8" data-sid="PSA 17:8"
+  class="v">8</span>Keep me as the apple of the eye, hide me under the shadow of
+  thy wings,</p>
+id: PSA/17/8
+next:
+  id: PSA/17/9
+  number: '9'
+previous:
+  id: PSA/17/7
+  number: '7'
+reference: 'Psalms 17:8'

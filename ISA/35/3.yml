@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 35:3" class="v">3</span>¶
+  Strengthen ye the weak hands, and confirm the feeble knees. </p>
+id: ISA/35/3
+next:
+  id: ISA/35/4
+  number: '4'
+previous:
+  id: ISA/35/2
+  number: '2'
+reference: 'Isaiah 35:3'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="PRO 7:14"
+  class="v">14</span><span class="add">I have</span> peace offerings with me;
+  this day have I payed my vows. </p>
+id: PRO/7/14
+next:
+  id: PRO/7/15
+  number: '15'
+previous:
+  id: PRO/7/13
+  number: '13'
+reference: 'Proverbs 7:14'

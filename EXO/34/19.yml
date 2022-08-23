@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="EXO 34:19"
+  class="v">19</span>All that openeth the matrix <span class="add">is</span>
+  mine; and every firstling among thy cattle, <span class="add">whether</span>
+  ox or sheep, <span class="add">that is male</span>. </p>
+id: EXO/34/19
+next:
+  id: EXO/34/20
+  number: '20'
+previous:
+  id: EXO/34/18
+  number: '18'
+reference: 'Exodus 34:19'

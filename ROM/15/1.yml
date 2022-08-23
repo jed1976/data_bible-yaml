@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 15:1" class="v">1</span>We
+  then that are strong ought to bear the infirmities of the weak, and not to
+  please ourselves. </p>
+id: ROM/15/1
+next:
+  id: ROM/15/2
+  number: '2'
+previous:
+  id: ROM/14/23
+  number: '23'
+reference: 'Romans 15:1'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="2CH 12:9" class="v">9</span>So
+  Shishak king of Egypt came up against Jerusalem, and took away the treasures
+  of the house of the <span class="nd">LORD</span>, and the treasures of the
+  king’s house; he took all: he carried away also the shields of gold which
+  Solomon had made. </p>
+id: 2CH/12/9
+next:
+  id: 2CH/12/10
+  number: '10'
+previous:
+  id: 2CH/12/8
+  number: '8'
+reference: '2 Chronicles 12:9'

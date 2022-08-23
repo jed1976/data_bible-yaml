@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="GEN 10:1" class="v">1</span>Now
+  these <span class="add">are</span> the generations of the sons of Noah, Shem,
+  Ham, and Japheth: and unto them were sons born after the flood. </p>
+id: GEN/10/1
+next:
+  id: GEN/10/2
+  number: '2'
+previous:
+  id: GEN/9/29
+  number: '29'
+reference: 'Genesis 10:1'

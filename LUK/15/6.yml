@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="LUK 15:6" class="v">6</span><span
+  class="wj">And when he cometh home, he calleth together <span
+  class="add">his</span> friends and neighbours, saying unto them, Rejoice with
+  me; for I have found my sheep which was lost.</span> </p>
+id: LUK/15/6
+next:
+  id: LUK/15/7
+  number: '7'
+previous:
+  id: LUK/15/5
+  number: '5'
+reference: 'Luke 15:6'

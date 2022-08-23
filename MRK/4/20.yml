@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MRK 4:20"
+  class="v">20</span><span class="wj">And these are they which are sown on good
+  ground; such as hear the word, and receive <span class="add">it</span>, and
+  bring forth fruit, some thirtyfold, some sixty, and some an
+  hundred.</span></p>
+id: MRK/4/20
+next:
+  id: MRK/4/21
+  number: '21'
+previous:
+  id: MRK/4/19
+  number: '19'
+reference: 'Mark 4:20'

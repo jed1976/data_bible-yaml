@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EXO 28:18"
+  class="v">18</span>And the second row <span class="add">shall be</span> an
+  emerald, a sapphire, and a diamond. </p>
+id: EXO/28/18
+next:
+  id: EXO/28/19
+  number: '19'
+previous:
+  id: EXO/28/17
+  number: '17'
+reference: 'Exodus 28:18'

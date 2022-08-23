@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="EZR 2:52" class="v">52</span>The
+  children of Bazluth, the children of Mehida, the children of Harsha, </p>
+id: EZR/2/52
+next:
+  id: EZR/2/53
+  number: '53'
+previous:
+  id: EZR/2/51
+  number: '51'
+reference: 'Ezra 2:52'

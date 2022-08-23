@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CH 15:9" class="v">9</span>Of
+  the sons of Hebron; Eliel the chief, and his brethren fourscore: </p>
+id: 1CH/15/9
+next:
+  id: 1CH/15/10
+  number: '10'
+previous:
+  id: 1CH/15/8
+  number: '8'
+reference: '1 Chronicles 15:9'

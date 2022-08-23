@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="EXO 4:8" class="v">8</span>And it
+  shall come to pass, if they will not believe thee, neither hearken to the
+  voice of the first sign, that they will believe the voice of the latter sign.
+  </p>
+id: EXO/4/8
+next:
+  id: EXO/4/9
+  number: '9'
+previous:
+  id: EXO/4/7
+  number: '7'
+reference: 'Exodus 4:8'

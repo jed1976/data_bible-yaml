@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 27:27"
+  class="v">27</span>And <span class="add">thou shalt have</span> goats’ milk
+  enough for thy food, for the food of thy household, and <span
+  class="add">for</span> the maintenance for thy maidens.</p>
+id: PRO/27/27
+next:
+  id: PRO/28/1
+  number: '1'
+previous:
+  id: PRO/27/26
+  number: '26'
+reference: 'Proverbs 27:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="7" data-sid="PSA 33:7" class="v">7</span>He
+  gathereth the waters of the sea together as an heap: he layeth up the depth in
+  storehouses.</p>
+id: PSA/33/7
+next:
+  id: PSA/33/8
+  number: '8'
+previous:
+  id: PSA/33/6
+  number: '6'
+reference: 'Psalms 33:7'

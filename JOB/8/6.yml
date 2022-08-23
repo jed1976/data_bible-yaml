@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 8:6" class="v">6</span>If
+  thou <span class="add">wert</span> pure and upright; surely now he would awake
+  for thee, and make the habitation of thy righteousness prosperous. </p>
+id: JOB/8/6
+next:
+  id: JOB/8/7
+  number: '7'
+previous:
+  id: JOB/8/5
+  number: '5'
+reference: 'Job 8:6'

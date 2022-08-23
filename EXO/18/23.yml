@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="EXO 18:23" class="v">23</span>If
+  thou shalt do this thing, and God command thee <span class="add">so</span>,
+  then thou shalt be able to endure, and all this people shall also go to their
+  place in peace. </p>
+id: EXO/18/23
+next:
+  id: EXO/18/24
+  number: '24'
+previous:
+  id: EXO/18/22
+  number: '22'
+reference: 'Exodus 18:23'

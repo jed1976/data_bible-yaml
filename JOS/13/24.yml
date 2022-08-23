@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JOS 13:24"
+  class="v">24</span>And Moses gave <span class="add">inheritance</span> unto
+  the tribe of Gad, <span class="add">even</span> unto the children of Gad
+  according to their families. </p>
+id: JOS/13/24
+next:
+  id: JOS/13/25
+  number: '25'
+previous:
+  id: JOS/13/23
+  number: '23'
+reference: 'Joshua 13:24'

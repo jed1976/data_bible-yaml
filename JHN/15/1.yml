@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JHN 15:1" class="v">1</span><span
+  class="wj">I am the true vine, and my Father is the husbandman.</span> </p>
+id: JHN/15/1
+next:
+  id: JHN/15/2
+  number: '2'
+previous:
+  id: JHN/14/31
+  number: '31'
+reference: 'John 15:1'

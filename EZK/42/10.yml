@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="EZK 42:10"
+  class="v">10</span>The chambers <span class="add">were</span> in the thickness
+  of the wall of the court toward the east, over against the separate place, and
+  over against the building. </p>
+id: EZK/42/10
+next:
+  id: EZK/42/11
+  number: '11'
+previous:
+  id: EZK/42/9
+  number: '9'
+reference: 'Ezekiel 42:10'

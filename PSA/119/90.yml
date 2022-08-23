@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="90" data-sid="PSA 119:90"
+  class="v">90</span>Thy faithfulness <span class="add">is</span> unto all
+  generations: thou hast established the earth, and it abideth.</p>
+id: PSA/119/90
+next:
+  id: PSA/119/91
+  number: '91'
+previous:
+  id: PSA/119/89
+  number: '89'
+reference: 'Psalms 119:90'

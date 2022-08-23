@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 37:13"
+  class="v">13</span>And he cast for it four rings of gold, and put the rings
+  upon the four corners that <span class="add">were</span> in the four feet
+  thereof. </p>
+id: EXO/37/13
+next:
+  id: EXO/37/14
+  number: '14'
+previous:
+  id: EXO/37/12
+  number: '12'
+reference: 'Exodus 37:13'

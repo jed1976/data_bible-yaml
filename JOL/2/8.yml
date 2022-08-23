@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOL 2:8"
+  class="v">8</span>Neither shall one thrust another; they shall walk every one
+  in his path: and <span class="add">when</span> they fall upon the sword, they
+  shall not be wounded. </p>
+id: JOL/2/8
+next:
+  id: JOL/2/9
+  number: '9'
+previous:
+  id: JOL/2/7
+  number: '7'
+reference: 'Joel 2:8'

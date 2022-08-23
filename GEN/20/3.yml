@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 20:3" class="v">3</span>But
+  God came to Abimelech in a dream by night, and said to him, Behold, thou <span
+  class="add">art but</span> a dead man, for the woman which thou hast taken;
+  for she <span class="add">is</span> a man’s wife. </p>
+id: GEN/20/3
+next:
+  id: GEN/20/4
+  number: '4'
+previous:
+  id: GEN/20/2
+  number: '2'
+reference: 'Genesis 20:3'

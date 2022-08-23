@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 4:24"
+  class="v">24</span>This <span class="add">is</span> the interpretation, O
+  king, and this <span class="add">is</span> the decree of the most High, which
+  is come upon my lord the king: </p>
+id: DAN/4/24
+next:
+  id: DAN/4/25
+  number: '25'
+previous:
+  id: DAN/4/23
+  number: '23'
+reference: 'Daniel 4:24'

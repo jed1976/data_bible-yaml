@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="PRO 28:19" class="v">19</span>He
+  that tilleth his land shall have plenty of bread: but he that followeth after
+  vain <span class="add">persons</span> shall have poverty enough. </p>
+id: PRO/28/19
+next:
+  id: PRO/28/20
+  number: '20'
+previous:
+  id: PRO/28/18
+  number: '18'
+reference: 'Proverbs 28:19'

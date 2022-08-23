@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="1CH 3:24" class="v">24</span>And
+  the sons of Elioenai <span class="add">were</span>, Hodaiah, and Eliashib, and
+  Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.</p>
+id: 1CH/3/24
+next:
+  id: 1CH/4/1
+  number: '1'
+previous:
+  id: 1CH/3/23
+  number: '23'
+reference: '1 Chronicles 3:24'

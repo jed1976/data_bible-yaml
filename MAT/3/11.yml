@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 3:11" class="v">11</span>I
+  indeed baptize you with water unto repentance: but he that cometh after me is
+  mightier than I, whose shoes I am not worthy to bear: he shall baptize you
+  with the Holy Ghost, and <span class="add">with</span> fire: </p>
+id: MAT/3/11
+next:
+  id: MAT/3/12
+  number: '12'
+previous:
+  id: MAT/3/10
+  number: '10'
+reference: 'Matthew 3:11'

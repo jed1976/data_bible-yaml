@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="SNG 6:7" class="v">7</span>As a
+  piece of a pomegranate <span class="add">are</span> thy temples within thy
+  locks. </p>
+id: SNG/6/7
+next:
+  id: SNG/6/8
+  number: '8'
+previous:
+  id: SNG/6/6
+  number: '6'
+reference: 'Song of Solomon 6:7'

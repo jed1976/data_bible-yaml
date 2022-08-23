@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="MRK 13:6" class="v">6</span><span
+  class="wj">For many shall come in my name, saying, I am <span
+  class="add">Christ</span>; and shall deceive many.</span> </p>
+id: MRK/13/6
+next:
+  id: MRK/13/7
+  number: '7'
+previous:
+  id: MRK/13/5
+  number: '5'
+reference: 'Mark 13:6'

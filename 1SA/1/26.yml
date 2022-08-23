@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1SA 1:26" class="v">26</span>And
+  she said, Oh my lord, <span class="add">as</span> thy soul liveth, my lord, I
+  <span class="add">am</span> the woman that stood by thee here, praying unto
+  the <span class="nd">LORD</span>. </p>
+id: 1SA/1/26
+next:
+  id: 1SA/1/27
+  number: '27'
+previous:
+  id: 1SA/1/25
+  number: '25'
+reference: '1 Samuel 1:26'

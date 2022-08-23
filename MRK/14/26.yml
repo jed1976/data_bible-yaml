@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MRK 14:26" class="v">26</span>¶
+  And when they had sung an hymn, they went out into the mount of Olives. </p>
+id: MRK/14/26
+next:
+  id: MRK/14/27
+  number: '27'
+previous:
+  id: MRK/14/25
+  number: '25'
+reference: 'Mark 14:26'

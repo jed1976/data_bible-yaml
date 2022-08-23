@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 18:4" class="v">4</span>And
+  Jonathan stripped himself of the robe that <span class="add">was</span> upon
+  him, and gave it to David, and his garments, even to his sword, and to his
+  bow, and to his girdle.</p>
+id: 1SA/18/4
+next:
+  id: 1SA/18/5
+  number: '5'
+previous:
+  id: 1SA/18/3
+  number: '3'
+reference: '1 Samuel 18:4'

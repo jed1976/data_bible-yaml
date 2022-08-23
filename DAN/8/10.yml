@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 8:10" class="v">10</span>And
+  it waxed great, <span class="add">even</span> to the host of heaven; and it
+  cast down <span class="add">some</span> of the host and of the stars to the
+  ground, and stamped upon them. </p>
+id: DAN/8/10
+next:
+  id: DAN/8/11
+  number: '11'
+previous:
+  id: DAN/8/9
+  number: '9'
+reference: 'Daniel 8:10'

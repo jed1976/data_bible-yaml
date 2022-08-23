@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 10:33"
+  class="v">33</span><span class="wj">But whosoever shall deny me before men,
+  him will I also deny before my Father which is in heaven.</span> </p>
+id: MAT/10/33
+next:
+  id: MAT/10/34
+  number: '34'
+previous:
+  id: MAT/10/32
+  number: '32'
+reference: 'Matthew 10:33'

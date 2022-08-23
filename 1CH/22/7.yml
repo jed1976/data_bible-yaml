@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="1CH 22:7" class="v">7</span>And
+  David said to Solomon, My son, as for me, it was in my mind to build an house
+  unto the name of the <span class="nd">LORD</span> my God: </p>
+id: 1CH/22/7
+next:
+  id: 1CH/22/8
+  number: '8'
+previous:
+  id: 1CH/22/6
+  number: '6'
+reference: '1 Chronicles 22:7'

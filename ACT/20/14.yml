@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ACT 20:14"
+  class="v">14</span>And when he met with us at Assos, we took him in, and came
+  to Mitylene. </p>
+id: ACT/20/14
+next:
+  id: ACT/20/15
+  number: '15'
+previous:
+  id: ACT/20/13
+  number: '13'
+reference: 'Acts 20:14'

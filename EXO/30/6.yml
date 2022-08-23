@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EXO 30:6" class="v">6</span>And
+  thou shalt put it before the vail that <span class="add">is</span> by the ark
+  of the testimony, before the mercy seat that <span class="add">is</span> over
+  the testimony, where I will meet with thee. </p>
+id: EXO/30/6
+next:
+  id: EXO/30/7
+  number: '7'
+previous:
+  id: EXO/30/5
+  number: '5'
+reference: 'Exodus 30:6'

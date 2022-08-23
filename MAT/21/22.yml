@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 21:22"
+  class="v">22</span><span class="wj">And all things, whatsoever ye shall ask in
+  prayer, believing, ye shall receive.</span></p>
+id: MAT/21/22
+next:
+  id: MAT/21/23
+  number: '23'
+previous:
+  id: MAT/21/21
+  number: '21'
+reference: 'Matthew 21:22'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="DEU 8:8" class="v">8</span>A land
+  of wheat, and barley, and vines, and fig trees, and pomegranates; a land of
+  oil olive, and honey; </p>
+id: DEU/8/8
+next:
+  id: DEU/8/9
+  number: '9'
+previous:
+  id: DEU/8/7
+  number: '7'
+reference: 'Deuteronomy 8:8'

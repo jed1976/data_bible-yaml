@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 13:3" class="v">3</span>He
+  that keepeth his mouth keepeth his life: <span class="add">but</span> he that
+  openeth wide his lips shall have destruction. </p>
+id: PRO/13/3
+next:
+  id: PRO/13/4
+  number: '4'
+previous:
+  id: PRO/13/2
+  number: '2'
+reference: 'Proverbs 13:3'

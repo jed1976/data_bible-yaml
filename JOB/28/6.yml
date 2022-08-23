@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JOB 28:6" class="v">6</span>The
+  stones of it <span class="add">are</span> the place of sapphires: and it hath
+  dust of gold. </p>
+id: JOB/28/6
+next:
+  id: JOB/28/7
+  number: '7'
+previous:
+  id: JOB/28/5
+  number: '5'
+reference: 'Job 28:6'

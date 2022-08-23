@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 8:23" class="v">23</span>And
+  he slew <span class="add">it;</span> and Moses took of the blood of it, and
+  put <span class="add">it</span> upon the tip of Aaron’s right ear, and upon
+  the thumb of his right hand, and upon the great toe of his right foot. </p>
+id: LEV/8/23
+next:
+  id: LEV/8/24
+  number: '24'
+previous:
+  id: LEV/8/22
+  number: '22'
+reference: 'Leviticus 8:23'

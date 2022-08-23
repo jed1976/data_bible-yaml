@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 2:8" class="v">8</span>For
+  she did not know that I gave her corn, and wine, and oil, and multiplied her
+  silver and gold, <span class="add">which</span> they prepared for Baal. </p>
+id: HOS/2/8
+next:
+  id: HOS/2/9
+  number: '9'
+previous:
+  id: HOS/2/7
+  number: '7'
+reference: 'Hosea 2:8'

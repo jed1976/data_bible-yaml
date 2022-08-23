@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MAT 5:48"
+  class="v">48</span><span class="wj">Be ye therefore perfect, even as your
+  Father which is in heaven is perfect.</span></p>
+id: MAT/5/48
+next:
+  id: MAT/6/1
+  number: '1'
+previous:
+  id: MAT/5/47
+  number: '47'
+reference: 'Matthew 5:48'

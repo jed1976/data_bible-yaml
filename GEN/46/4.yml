@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 46:4" class="v">4</span>I
+  will go down with thee into Egypt; and I will also surely bring thee up <span
+  class="add">again:</span> and Joseph shall put his hand upon thine eyes.</p>
+id: GEN/46/4
+next:
+  id: GEN/46/5
+  number: '5'
+previous:
+  id: GEN/46/3
+  number: '3'
+reference: 'Genesis 46:4'

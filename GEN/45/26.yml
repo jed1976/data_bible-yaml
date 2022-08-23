@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GEN 45:26"
+  class="v">26</span>And told him, saying, Joseph <span class="add">is</span>
+  yet alive, and he <span class="add">is</span> governor over all the land of
+  Egypt. And Jacob’s heart fainted, for he believed them not. </p>
+id: GEN/45/26
+next:
+  id: GEN/45/27
+  number: '27'
+previous:
+  id: GEN/45/25
+  number: '25'
+reference: 'Genesis 45:26'

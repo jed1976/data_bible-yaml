@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="NUM 1:43"
+  class="v">43</span>Those that were numbered of them, <span
+  class="add">even</span> of the tribe of Naphtali, <span
+  class="add">were</span> fifty and three thousand and four hundred.</p>
+id: NUM/1/43
+next:
+  id: NUM/1/44
+  number: '44'
+previous:
+  id: NUM/1/42
+  number: '42'
+reference: 'Numbers 1:43'

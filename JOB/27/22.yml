@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JOB 27:22"
+  class="v">22</span>For <span class="add">God</span> shall cast upon him, and
+  not spare: he would fain flee out of his hand. </p>
+id: JOB/27/22
+next:
+  id: JOB/27/23
+  number: '23'
+previous:
+  id: JOB/27/21
+  number: '21'
+reference: 'Job 27:22'

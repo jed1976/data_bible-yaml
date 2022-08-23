@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="1CH 5:3" class="v">3</span>The
+  sons, <span class="add">I say</span>, of Reuben the firstborn of Israel <span
+  class="add">were</span>, Hanoch, and Pallu, Hezron, and Carmi. </p>
+id: 1CH/5/3
+next:
+  id: 1CH/5/4
+  number: '4'
+previous:
+  id: 1CH/5/2
+  number: '2'
+reference: '1 Chronicles 5:3'

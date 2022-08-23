@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 27:9" class="v">9</span>¶ And
+  thou shalt make the court of the tabernacle: for the south side southward
+  <span class="add">there shall be</span> hangings for the court <span
+  class="add">of</span> fine twined linen of an hundred cubits long for one
+  side: </p>
+id: EXO/27/9
+next:
+  id: EXO/27/10
+  number: '10'
+previous:
+  id: EXO/27/8
+  number: '8'
+reference: 'Exodus 27:9'

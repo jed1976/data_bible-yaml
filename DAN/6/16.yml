@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DAN 6:16"
+  class="v">16</span>Then the king commanded, and they brought Daniel, and cast
+  <span class="add">him</span> into the den of lions. <span
+  class="add">Now</span> the king spake and said unto Daniel, Thy God whom thou
+  servest continually, he will deliver thee. </p>
+id: DAN/6/16
+next:
+  id: DAN/6/17
+  number: '17'
+previous:
+  id: DAN/6/15
+  number: '15'
+reference: 'Daniel 6:16'

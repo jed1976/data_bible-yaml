@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="GEN 4:22" class="v">22</span>And
+  Zillah, she also bare Tubal-cain, an instructer of every artificer in brass
+  and iron: and the sister of Tubal-cain <span class="add">was</span>
+  Naamah.</p>
+id: GEN/4/22
+next:
+  id: GEN/4/23
+  number: '23'
+previous:
+  id: GEN/4/21
+  number: '21'
+reference: 'Genesis 4:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="NUM 35:34"
+  class="v">34</span>Defile not therefore the land which ye shall inhabit,
+  wherein I dwell: for I the <span class="nd">LORD</span> dwell among the
+  children of Israel.</p>
+id: NUM/35/34
+next:
+  id: NUM/36/1
+  number: '1'
+previous:
+  id: NUM/35/33
+  number: '33'
+reference: 'Numbers 35:34'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 78:20"
+  class="v">20</span>Behold, he smote the rock, that the waters gushed out, and
+  the streams overflowed; can he give bread also? can he provide flesh for his
+  people?</p>
+id: PSA/78/20
+next:
+  id: PSA/78/21
+  number: '21'
+previous:
+  id: PSA/78/19
+  number: '19'
+reference: 'Psalms 78:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 94:1" class="v">1</span>O
+  <span class="nd">LORD</span> God, to whom vengeance belongeth; O God, to whom
+  vengeance belongeth, shew thyself.</p>
+id: PSA/94/1
+next:
+  id: PSA/94/2
+  number: '2'
+previous:
+  id: PSA/93/5
+  number: '5'
+reference: 'Psalms 94:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="1KI 5:11" class="v">11</span>And
+  Solomon gave Hiram twenty thousand measures of wheat <span
+  class="add">for</span> food to his household, and twenty measures of pure oil:
+  thus gave Solomon to Hiram year by year. </p>
+id: 1KI/5/11
+next:
+  id: 1KI/5/12
+  number: '12'
+previous:
+  id: 1KI/5/10
+  number: '10'
+reference: '1 Kings 5:11'

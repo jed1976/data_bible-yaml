@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2KI 18:3" class="v">3</span>And
+  he did <span class="add">that which was</span> right in the sight of the <span
+  class="nd">LORD</span>, according to all that David his father did.</p>
+id: 2KI/18/3
+next:
+  id: 2KI/18/4
+  number: '4'
+previous:
+  id: 2KI/18/2
+  number: '2'
+reference: '2 Kings 18:3'

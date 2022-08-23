@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="ECC 7:20" class="v">20</span>For
+  <span class="add">there is</span> not a just man upon earth, that doeth good,
+  and sinneth not. </p>
+id: ECC/7/20
+next:
+  id: ECC/7/21
+  number: '21'
+previous:
+  id: ECC/7/19
+  number: '19'
+reference: 'Ecclesiastes 7:20'

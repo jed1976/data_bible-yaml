@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 26:11"
+  class="v">11</span><span class="nd">LORD</span>, <span class="add">when</span>
+  thy hand is lifted up, they will not see: <span class="add">but</span> they
+  shall see, and be ashamed for <span class="add">their</span> envy at the
+  people; yea, the fire of thine enemies shall devour them.</p>
+id: ISA/26/11
+next:
+  id: ISA/26/12
+  number: '12'
+previous:
+  id: ISA/26/10
+  number: '10'
+reference: 'Isaiah 26:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="ISA 37:34" class="v">34</span>By
+  the way that he came, by the same shall he return, and shall not come into
+  this city, saith the <span class="nd">LORD</span>. </p>
+id: ISA/37/34
+next:
+  id: ISA/37/35
+  number: '35'
+previous:
+  id: ISA/37/33
+  number: '33'
+reference: 'Isaiah 37:34'

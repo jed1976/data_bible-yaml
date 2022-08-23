@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 49:23"
+  class="v">23</span>The archers have sorely grieved him, and shot <span
+  class="add">at him</span>, and hated him: </p>
+id: GEN/49/23
+next:
+  id: GEN/49/24
+  number: '24'
+previous:
+  id: GEN/49/22
+  number: '22'
+reference: 'Genesis 49:23'

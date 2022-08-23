@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 51:10"
+  class="v">10</span><span class="add">Art</span> thou not it which hath dried
+  the sea, the waters of the great deep; that hath made the depths of the sea a
+  way for the ransomed to pass over? </p>
+id: ISA/51/10
+next:
+  id: ISA/51/11
+  number: '11'
+previous:
+  id: ISA/51/9
+  number: '9'
+reference: 'Isaiah 51:10'

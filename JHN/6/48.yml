@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="JHN 6:48"
+  class="v">48</span><span class="wj">I am that bread of life.</span> </p>
+id: JHN/6/48
+next:
+  id: JHN/6/49
+  number: '49'
+previous:
+  id: JHN/6/47
+  number: '47'
+reference: 'John 6:48'

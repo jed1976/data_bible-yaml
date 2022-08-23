@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="2SA 17:24"
+  class="v">24</span>Then David came to Mahanaim. And Absalom passed over
+  Jordan, he and all the men of Israel with him.</p>
+id: 2SA/17/24
+next:
+  id: 2SA/17/25
+  number: '25'
+previous:
+  id: 2SA/17/23
+  number: '23'
+reference: '2 Samuel 17:24'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 5:25"
+  class="v">25</span>Thou shalt know also that thy seed <span class="add">shall
+  be</span> great, and thine offspring as the grass of the earth. </p>
+id: JOB/5/25
+next:
+  id: JOB/5/26
+  number: '26'
+previous:
+  id: JOB/5/24
+  number: '24'
+reference: 'Job 5:25'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 61:4" class="v">4</span>I
+  will abide in thy tabernacle for ever: I will trust in the covert of thy
+  wings. Selah.</p>
+id: PSA/61/4
+next:
+  id: PSA/61/5
+  number: '5'
+previous:
+  id: PSA/61/3
+  number: '3'
+reference: 'Psalms 61:4'

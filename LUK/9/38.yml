@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="38" data-sid="LUK 9:38"
+  class="v">38</span>And, behold, a man of the company cried out, saying,
+  Master, I beseech thee, look upon my son: for he is mine only child. </p>
+id: LUK/9/38
+next:
+  id: LUK/9/39
+  number: '39'
+previous:
+  id: LUK/9/37
+  number: '37'
+reference: 'Luke 9:38'

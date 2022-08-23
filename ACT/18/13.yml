@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ACT 18:13"
+  class="v">13</span>Saying, This <span class="add">fellow</span> persuadeth men
+  to worship God contrary to the law. </p>
+id: ACT/18/13
+next:
+  id: ACT/18/14
+  number: '14'
+previous:
+  id: ACT/18/12
+  number: '12'
+reference: 'Acts 18:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 18:35"
+  class="v">35</span>Pilate answered, Am I a Jew? Thine own nation and the chief
+  priests have delivered thee unto me: what hast thou done? </p>
+id: JHN/18/35
+next:
+  id: JHN/18/36
+  number: '36'
+previous:
+  id: JHN/18/34
+  number: '34'
+reference: 'John 18:35'

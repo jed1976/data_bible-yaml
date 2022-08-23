@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 46:3"
+  class="v">3</span><span class="add">Though</span> the waters thereof roar
+  <span class="add">and</span> be troubled, <span class="add">though</span> the
+  mountains shake with the swelling thereof. Selah.</p>
+id: PSA/46/3
+next:
+  id: PSA/46/4
+  number: '4'
+previous:
+  id: PSA/46/2
+  number: '2'
+reference: 'Psalms 46:3'

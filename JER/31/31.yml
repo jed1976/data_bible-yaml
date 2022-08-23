@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="JER 31:31" class="v">31</span>¶
+  Behold, the days come, saith the <span class="nd">LORD</span>, that I will
+  make a new covenant with the house of Israel, and with the house of Judah:
+  </p>
+id: JER/31/31
+next:
+  id: JER/31/32
+  number: '32'
+previous:
+  id: JER/31/30
+  number: '30'
+reference: 'Jeremiah 31:31'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EXO 15:17"
+  class="v">17</span>Thou shalt bring them in, and plant them in the mountain of
+  thine inheritance, <span class="add">in</span> the place, O <span
+  class="nd">LORD</span>, <span class="add">which</span> thou hast made for thee
+  to dwell in, <span class="add">in</span> the Sanctuary, O Lord, <span
+  class="add">which</span> thy hands have established. </p>
+id: EXO/15/17
+next:
+  id: EXO/15/18
+  number: '18'
+previous:
+  id: EXO/15/16
+  number: '16'
+reference: 'Exodus 15:17'

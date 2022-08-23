@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DAN 9:20" class="v">20</span>¶
+  And whiles I <span class="add">was</span> speaking, and praying, and
+  confessing my sin and the sin of my people Israel, and presenting my
+  supplication before the <span class="nd">LORD</span> my God for the holy
+  mountain of my God; </p>
+id: DAN/9/20
+next:
+  id: DAN/9/21
+  number: '21'
+previous:
+  id: DAN/9/19
+  number: '19'
+reference: 'Daniel 9:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 46:27"
+  class="v">27</span>And the sons of Joseph, which were born him in Egypt, <span
+  class="add">were</span> two souls: all the souls of the house of Jacob, which
+  came into Egypt, <span class="add">were</span> threescore and ten.</p>
+id: GEN/46/27
+next:
+  id: GEN/46/28
+  number: '28'
+previous:
+  id: GEN/46/26
+  number: '26'
+reference: 'Genesis 46:27'

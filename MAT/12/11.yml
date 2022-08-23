@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 12:11"
+  class="v">11</span>And he said unto them, <span class="wj">What man shall
+  there be among you, that shall have one sheep, and if it fall into a pit on
+  the sabbath day, will he not lay hold on it, and lift <span
+  class="add">it</span> out?</span> </p>
+id: MAT/12/11
+next:
+  id: MAT/12/12
+  number: '12'
+previous:
+  id: MAT/12/10
+  number: '10'
+reference: 'Matthew 12:11'

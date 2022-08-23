@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="EXO 19:24"
+  class="v">24</span>And the <span class="nd">LORD</span> said unto him, Away,
+  get thee down, and thou shalt come up, thou, and Aaron with thee: but let not
+  the priests and the people break through to come up unto the <span
+  class="nd">LORD</span>, lest he break forth upon them. </p>
+id: EXO/19/24
+next:
+  id: EXO/19/25
+  number: '25'
+previous:
+  id: EXO/19/23
+  number: '23'
+reference: 'Exodus 19:24'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="1KI 1:31"
+  class="v">31</span>Then Bath-sheba bowed with <span class="add">her</span>
+  face to the earth, and did reverence to the king, and said, Let my lord king
+  David live for ever.</p>
+id: 1KI/1/31
+next:
+  id: 1KI/1/32
+  number: '32'
+previous:
+  id: 1KI/1/30
+  number: '30'
+reference: '1 Kings 1:31'

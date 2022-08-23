@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EXO 11:1" class="v">1</span>And
+  the <span class="nd">LORD</span> said unto Moses, Yet will I bring one plague
+  <span class="add">more</span> upon Pharaoh, and upon Egypt; afterwards he will
+  let you go hence: when he shall let <span class="add">you</span> go, he shall
+  surely thrust you out hence altogether. </p>
+id: EXO/11/1
+next:
+  id: EXO/11/2
+  number: '2'
+previous:
+  id: EXO/10/29
+  number: '29'
+reference: 'Exodus 11:1'

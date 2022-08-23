@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 8:7" class="v">7</span>And
+  thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying
+  upon them, and let them shave all their flesh, and let them wash their
+  clothes, and <span class="add">so</span> make themselves clean. </p>
+id: NUM/8/7
+next:
+  id: NUM/8/8
+  number: '8'
+previous:
+  id: NUM/8/6
+  number: '6'
+reference: 'Numbers 8:7'

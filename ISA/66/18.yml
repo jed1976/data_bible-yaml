@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 66:18"
+  class="v">18</span>For I <span class="add">know</span> their works and their
+  thoughts: it shall come, that I will gather all nations and tongues; and they
+  shall come, and see my glory. </p>
+id: ISA/66/18
+next:
+  id: ISA/66/19
+  number: '19'
+previous:
+  id: ISA/66/17
+  number: '17'
+reference: 'Isaiah 66:18'

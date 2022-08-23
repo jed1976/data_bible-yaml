@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MAT 12:22" class="v">22</span>¶
+  Then was brought unto him one possessed with a devil, blind, and dumb: and he
+  healed him, insomuch that the blind and dumb both spake and saw. </p>
+id: MAT/12/22
+next:
+  id: MAT/12/23
+  number: '23'
+previous:
+  id: MAT/12/21
+  number: '21'
+reference: 'Matthew 12:22'

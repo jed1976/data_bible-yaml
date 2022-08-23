@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="2SA 2:13" class="v">13</span>And
+  Joab the son of Zeruiah, and the servants of David, went out, and met together
+  by the pool of Gibeon: and they sat down, the one on the one side of the pool,
+  and the other on the other side of the pool. </p>
+id: 2SA/2/13
+next:
+  id: 2SA/2/14
+  number: '14'
+previous:
+  id: 2SA/2/12
+  number: '12'
+reference: '2 Samuel 2:13'

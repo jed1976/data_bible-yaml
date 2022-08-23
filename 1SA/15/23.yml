@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 15:23"
+  class="v">23</span>For rebellion <span class="add">is as</span> the sin of
+  witchcraft, and stubbornness <span class="add">is as</span> iniquity and
+  idolatry. Because thou hast rejected the word of the <span
+  class="nd">LORD</span>, he hath also rejected thee from <span
+  class="add">being</span> king.</p>
+id: 1SA/15/23
+next:
+  id: 1SA/15/24
+  number: '24'
+previous:
+  id: 1SA/15/22
+  number: '22'
+reference: '1 Samuel 15:23'

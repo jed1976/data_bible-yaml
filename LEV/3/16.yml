@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LEV 3:16" class="v">16</span>And
+  the priest shall burn them upon the altar: <span class="add">it is</span> the
+  food of the offering made by fire for a sweet savour: all the fat <span
+  class="add">is</span> the <span class="nd">LORD’s</span>. </p>
+id: LEV/3/16
+next:
+  id: LEV/3/17
+  number: '17'
+previous:
+  id: LEV/3/15
+  number: '15'
+reference: 'Leviticus 3:16'

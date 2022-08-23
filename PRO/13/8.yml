@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 13:8" class="v">8</span>The
+  ransom of a man’s life <span class="add">are</span> his riches: but the poor
+  heareth not rebuke. </p>
+id: PRO/13/8
+next:
+  id: PRO/13/9
+  number: '9'
+previous:
+  id: PRO/13/7
+  number: '7'
+reference: 'Proverbs 13:8'

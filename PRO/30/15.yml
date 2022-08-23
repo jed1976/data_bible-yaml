@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="PRO 30:15"
+  class="v">15</span>The horseleach hath two daughters, <span
+  class="add">crying</span>, Give, give. There are three <span
+  class="add">things that</span> are never satisfied, <span
+  class="add">yea</span>, four <span class="add">things</span> say not, <span
+  class="add">It is</span> enough: </p>
+id: PRO/30/15
+next:
+  id: PRO/30/16
+  number: '16'
+previous:
+  id: PRO/30/14
+  number: '14'
+reference: 'Proverbs 30:15'

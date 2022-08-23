@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LEV 21:4" class="v">4</span><span
+  class="add">But</span> he shall not defile himself, <span
+  class="add">being</span> a chief man among his people, to profane himself.
+  </p>
+id: LEV/21/4
+next:
+  id: LEV/21/5
+  number: '5'
+previous:
+  id: LEV/21/3
+  number: '3'
+reference: 'Leviticus 21:4'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LEV 14:11"
+  class="v">11</span>And the priest that maketh <span class="add">him</span>
+  clean shall present the man that is to be made clean, and those things, before
+  the <span class="nd">LORD</span>, <span class="add">at</span> the door of the
+  tabernacle of the congregation: </p>
+id: LEV/14/11
+next:
+  id: LEV/14/12
+  number: '12'
+previous:
+  id: LEV/14/10
+  number: '10'
+reference: 'Leviticus 14:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 17:1" class="v">1</span>And
+  Jehoshaphat his son reigned in his stead, and strengthened himself against
+  Israel. </p>
+id: 2CH/17/1
+next:
+  id: 2CH/17/2
+  number: '2'
+previous:
+  id: 2CH/16/14
+  number: '14'
+reference: '2 Chronicles 17:1'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="47" data-sid="MAT 24:47"
+  class="v">47</span><span class="wj">Verily I say unto you, That he shall make
+  him ruler over all his goods.</span> </p>
+id: MAT/24/47
+next:
+  id: MAT/24/48
+  number: '48'
+previous:
+  id: MAT/24/46
+  number: '46'
+reference: 'Matthew 24:47'

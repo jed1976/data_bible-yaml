@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 25:3" class="v">3</span>Yea,
+  let none that wait on thee be ashamed: let them be ashamed which transgress
+  without cause.</p>
+id: PSA/25/3
+next:
+  id: PSA/25/4
+  number: '4'
+previous:
+  id: PSA/25/2
+  number: '2'
+reference: 'Psalms 25:3'

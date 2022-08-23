@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOB 19:21"
+  class="v">21</span>Have pity upon me, have pity upon me, O ye my friends; for
+  the hand of God hath touched me. </p>
+id: JOB/19/21
+next:
+  id: JOB/19/22
+  number: '22'
+previous:
+  id: JOB/19/20
+  number: '20'
+reference: 'Job 19:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOB 38:9" class="v">9</span>When
+  I made the cloud the garment thereof, and thick darkness a swaddlingband for
+  it, </p>
+id: JOB/38/9
+next:
+  id: JOB/38/10
+  number: '10'
+previous:
+  id: JOB/38/8
+  number: '8'
+reference: 'Job 38:9'

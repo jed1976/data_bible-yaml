@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LEV 19:5" class="v">5</span>¶ And
+  if ye offer a sacrifice of peace offerings unto the <span
+  class="nd">LORD</span>, ye shall offer it at your own will. </p>
+id: LEV/19/5
+next:
+  id: LEV/19/6
+  number: '6'
+previous:
+  id: LEV/19/4
+  number: '4'
+reference: 'Leviticus 19:5'

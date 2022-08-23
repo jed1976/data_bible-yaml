@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="56" data-sid="LAM 3:56"
+  class="v">56</span>Thou hast heard my voice: hide not thine ear at my
+  breathing, at my cry. </p>
+id: LAM/3/56
+next:
+  id: LAM/3/57
+  number: '57'
+previous:
+  id: LAM/3/55
+  number: '55'
+reference: 'Lamentations 3:56'

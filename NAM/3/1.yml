@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NAM 3:1" class="v">1</span>Woe to
+  the bloody city! it <span class="add">is</span> all full of lies <span
+  class="add">and</span> robbery; the prey departeth not; </p>
+id: NAM/3/1
+next:
+  id: NAM/3/2
+  number: '2'
+previous:
+  id: NAM/2/13
+  number: '13'
+reference: 'Nahum 3:1'

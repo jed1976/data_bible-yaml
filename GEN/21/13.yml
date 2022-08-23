@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="GEN 21:13"
+  class="v">13</span>And also of the son of the bondwoman will I make a nation,
+  because he <span class="add">is</span> thy seed.</p>
+id: GEN/21/13
+next:
+  id: GEN/21/14
+  number: '14'
+previous:
+  id: GEN/21/12
+  number: '12'
+reference: 'Genesis 21:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2KI 9:4" class="v">4</span>¶ So
+  the young man, <span class="add">even</span> the young man the prophet, went
+  to Ramoth-gilead. </p>
+id: 2KI/9/4
+next:
+  id: 2KI/9/5
+  number: '5'
+previous:
+  id: 2KI/9/3
+  number: '3'
+reference: '2 Kings 9:4'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="GEN 41:16"
+  class="v">16</span>And Joseph answered Pharaoh, saying, <span class="add">It
+  is</span> not in me: God shall give Pharaoh an answer of peace.</p>
+id: GEN/41/16
+next:
+  id: GEN/41/17
+  number: '17'
+previous:
+  id: GEN/41/15
+  number: '15'
+reference: 'Genesis 41:16'

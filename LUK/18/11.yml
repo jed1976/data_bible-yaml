@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="LUK 18:11"
+  class="v">11</span><span class="wj">The Pharisee stood and prayed thus with
+  himself, God, I thank thee, that I am not as other men <span
+  class="add">are</span>, extortioners, unjust, adulterers, or even as this
+  publican.</span> </p>
+id: LUK/18/11
+next:
+  id: LUK/18/12
+  number: '12'
+previous:
+  id: LUK/18/10
+  number: '10'
+reference: 'Luke 18:11'

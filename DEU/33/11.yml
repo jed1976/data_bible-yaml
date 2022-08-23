@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 33:11"
+  class="v">11</span>Bless, <span class="nd">LORD</span>, his substance, and
+  accept the work of his hands: smite through the loins of them that rise
+  against him, and of them that hate him, that they rise not again.</p>
+id: DEU/33/11
+next:
+  id: DEU/33/12
+  number: '12'
+previous:
+  id: DEU/33/10
+  number: '10'
+reference: 'Deuteronomy 33:11'

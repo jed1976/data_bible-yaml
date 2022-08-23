@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 26:14"
+  class="v">14</span>Lo, these <span class="add">are</span> parts of his ways:
+  but how little a portion is heard of him? but the thunder of his power who can
+  understand?</p>
+id: JOB/26/14
+next:
+  id: JOB/27/1
+  number: '1'
+previous:
+  id: JOB/26/13
+  number: '13'
+reference: 'Job 26:14'

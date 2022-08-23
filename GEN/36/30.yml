@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 36:30"
+  class="v">30</span>Duke Dishon, duke Ezer, duke Dishan: these <span
+  class="add">are</span> the dukes <span class="add">that came</span> of Hori,
+  among their dukes in the land of Seir.</p>
+id: GEN/36/30
+next:
+  id: GEN/36/31
+  number: '31'
+previous:
+  id: GEN/36/29
+  number: '29'
+reference: 'Genesis 36:30'

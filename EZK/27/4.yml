@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 27:4" class="v">4</span>Thy
+  borders <span class="add">are</span> in the midst of the seas, thy builders
+  have perfected thy beauty. </p>
+id: EZK/27/4
+next:
+  id: EZK/27/5
+  number: '5'
+previous:
+  id: EZK/27/3
+  number: '3'
+reference: 'Ezekiel 27:4'

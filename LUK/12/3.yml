@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="LUK 12:3" class="v">3</span><span
+  class="wj">Therefore whatsoever ye have spoken in darkness shall be heard in
+  the light; and that which ye have spoken in the ear in closets shall be
+  proclaimed upon the housetops.</span> </p>
+id: LUK/12/3
+next:
+  id: LUK/12/4
+  number: '4'
+previous:
+  id: LUK/12/2
+  number: '2'
+reference: 'Luke 12:3'

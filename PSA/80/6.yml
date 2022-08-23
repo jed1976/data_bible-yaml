@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="6" data-sid="PSA 80:6" class="v">6</span>Thou
+  makest us a strife unto our neighbours: and our enemies laugh among
+  themselves.</p>
+id: PSA/80/6
+next:
+  id: PSA/80/7
+  number: '7'
+previous:
+  id: PSA/80/5
+  number: '5'
+reference: 'Psalms 80:6'

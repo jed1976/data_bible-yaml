@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 9:20" class="v">20</span>And
+  Noah began <span class="add">to be</span> an husbandman, and he planted a
+  vineyard: </p>
+id: GEN/9/20
+next:
+  id: GEN/9/21
+  number: '21'
+previous:
+  id: GEN/9/19
+  number: '19'
+reference: 'Genesis 9:20'

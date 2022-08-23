@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 27:7" class="v">7</span>And
+  thou shalt offer peace offerings, and shalt eat there, and rejoice before the
+  <span class="nd">LORD</span> thy God. </p>
+id: DEU/27/7
+next:
+  id: DEU/27/8
+  number: '8'
+previous:
+  id: DEU/27/6
+  number: '6'
+reference: 'Deuteronomy 27:7'

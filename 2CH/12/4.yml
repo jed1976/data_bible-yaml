@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2CH 12:4" class="v">4</span>And
+  he took the fenced cities which <span class="add">pertained</span> to Judah,
+  and came to Jerusalem.</p>
+id: 2CH/12/4
+next:
+  id: 2CH/12/5
+  number: '5'
+previous:
+  id: 2CH/12/3
+  number: '3'
+reference: '2 Chronicles 12:4'

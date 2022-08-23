@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 64:5" class="v">5</span>Thou
+  meetest him that rejoiceth and worketh righteousness, <span class="add">those
+  that</span> remember thee in thy ways: behold, thou art wroth; for we have
+  sinned: in those is continuance, and we shall be saved.</p>
+id: ISA/64/5
+next:
+  id: ISA/64/6
+  number: '6'
+previous:
+  id: ISA/64/4
+  number: '4'
+reference: 'Isaiah 64:5'

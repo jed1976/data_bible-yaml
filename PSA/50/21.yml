@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="21" data-sid="PSA 50:21"
+  class="v">21</span>These <span class="add">things</span> hast thou done, and I
+  kept silence; thou thoughtest that I was altogether <span class="add">such an
+  one</span> as thyself: <span class="add">but</span> I will reprove thee, and
+  set <span class="add">them</span> in order before thine eyes.</p>
+id: PSA/50/21
+next:
+  id: PSA/50/22
+  number: '22'
+previous:
+  id: PSA/50/20
+  number: '20'
+reference: 'Psalms 50:21'

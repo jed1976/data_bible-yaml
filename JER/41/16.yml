@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 41:16"
+  class="v">16</span>Then took Johanan the son of Kareah, and all the captains
+  of the forces that <span class="add">were</span> with him, all the remnant of
+  the people whom he had recovered from Ishmael the son of Nethaniah, from
+  Mizpah, after <span class="add">that</span> he had slain Gedaliah the son of
+  Ahikam, <span class="add">even</span> mighty men of war, and the women, and
+  the children, and the eunuchs, whom he had brought again from Gibeon: </p>
+id: JER/41/16
+next:
+  id: JER/41/17
+  number: '17'
+previous:
+  id: JER/41/15
+  number: '15'
+reference: 'Jeremiah 41:16'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="DEU 16:21" class="v">21</span>¶
+  Thou shalt not plant thee a grove of any trees near unto the altar of the
+  <span class="nd">LORD</span> thy God, which thou shalt make thee. </p>
+id: DEU/16/21
+next:
+  id: DEU/16/22
+  number: '22'
+previous:
+  id: DEU/16/20
+  number: '20'
+reference: 'Deuteronomy 16:21'

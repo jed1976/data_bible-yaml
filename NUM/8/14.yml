@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 8:14"
+  class="v">14</span>Thus shalt thou separate the Levites from among the
+  children of Israel: and the Levites shall be mine. </p>
+id: NUM/8/14
+next:
+  id: NUM/8/15
+  number: '15'
+previous:
+  id: NUM/8/13
+  number: '13'
+reference: 'Numbers 8:14'

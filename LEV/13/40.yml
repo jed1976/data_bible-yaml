@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LEV 13:40"
+  class="v">40</span>And the man whose hair is fallen off his head, he <span
+  class="add">is</span> bald; <span class="add">yet is</span> he clean. </p>
+id: LEV/13/40
+next:
+  id: LEV/13/41
+  number: '41'
+previous:
+  id: LEV/13/39
+  number: '39'
+reference: 'Leviticus 13:40'

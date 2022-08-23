@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="46" data-sid="MAT 5:46"
+  class="v">46</span><span class="wj">For if ye love them which love you, what
+  reward have ye? do not even the publicans the same?</span> </p>
+id: MAT/5/46
+next:
+  id: MAT/5/47
+  number: '47'
+previous:
+  id: MAT/5/45
+  number: '45'
+reference: 'Matthew 5:46'

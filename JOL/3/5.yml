@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JOL 3:5"
+  class="v">5</span>Because ye have taken my silver and my gold, and have
+  carried into your temples my goodly pleasant things: </p>
+id: JOL/3/5
+next:
+  id: JOL/3/6
+  number: '6'
+previous:
+  id: JOL/3/4
+  number: '4'
+reference: 'Joel 3:5'

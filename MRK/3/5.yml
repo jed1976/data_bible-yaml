@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MRK 3:5" class="v">5</span>And
+  when he had looked round about on them with anger, being grieved for the
+  hardness of their hearts, he saith unto the man, <span class="wj">Stretch
+  forth thine hand.</span> And he stretched <span class="add">it</span> out: and
+  his hand was restored whole as the other. </p>
+id: MRK/3/5
+next:
+  id: MRK/3/6
+  number: '6'
+previous:
+  id: MRK/3/4
+  number: '4'
+reference: 'Mark 3:5'

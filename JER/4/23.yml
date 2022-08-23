@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 4:23" class="v">23</span>I
+  beheld the earth, and, lo, <span class="add">it was</span> without form, and
+  void; and the heavens, and they <span class="add">had</span> no light. </p>
+id: JER/4/23
+next:
+  id: JER/4/24
+  number: '24'
+previous:
+  id: JER/4/22
+  number: '22'
+reference: 'Jeremiah 4:23'

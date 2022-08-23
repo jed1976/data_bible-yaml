@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 7:16" class="v">16</span>And
+  there came a fear on all: and they glorified God, saying, That a great prophet
+  is risen up among us; and, That God hath visited his people. </p>
+id: LUK/7/16
+next:
+  id: LUK/7/17
+  number: '17'
+previous:
+  id: LUK/7/15
+  number: '15'
+reference: 'Luke 7:16'

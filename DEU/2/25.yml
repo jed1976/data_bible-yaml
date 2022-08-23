@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="DEU 2:25"
+  class="v">25</span>This day will I begin to put the dread of thee and the fear
+  of thee upon the nations <span class="add">that are</span> under the whole
+  heaven, who shall hear report of thee, and shall tremble, and be in anguish
+  because of thee.</p>
+id: DEU/2/25
+next:
+  id: DEU/2/26
+  number: '26'
+previous:
+  id: DEU/2/24
+  number: '24'
+reference: 'Deuteronomy 2:25'

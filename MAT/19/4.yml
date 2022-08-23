@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 19:4" class="v">4</span>And
+  he answered and said unto them, <span class="wj">Have ye not read, that he
+  which made <span class="add">them</span> at the beginning made them male and
+  female,</span> </p>
+id: MAT/19/4
+next:
+  id: MAT/19/5
+  number: '5'
+previous:
+  id: MAT/19/3
+  number: '3'
+reference: 'Matthew 19:4'

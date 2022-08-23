@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 8:23" class="v">23</span>And
+  the rest of the acts of Joram, and all that he did, <span
+  class="add">are</span> they not written in the book of the chronicles of the
+  kings of Judah? </p>
+id: 2KI/8/23
+next:
+  id: 2KI/8/24
+  number: '24'
+previous:
+  id: 2KI/8/22
+  number: '22'
+reference: '2 Kings 8:23'

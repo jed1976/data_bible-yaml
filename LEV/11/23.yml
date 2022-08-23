@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LEV 11:23"
+  class="v">23</span>But all <span class="add">other</span> flying creeping
+  things, which have four feet, <span class="add">shall be</span> an abomination
+  unto you. </p>
+id: LEV/11/23
+next:
+  id: LEV/11/24
+  number: '24'
+previous:
+  id: LEV/11/22
+  number: '22'
+reference: 'Leviticus 11:23'

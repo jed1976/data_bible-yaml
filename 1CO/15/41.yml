@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="1CO 15:41"
+  class="v">41</span><span class="add">There is</span> one glory of the sun, and
+  another glory of the moon, and another glory of the stars: for <span
+  class="add">one</span> star differeth from <span class="add">another</span>
+  star in glory. </p>
+id: 1CO/15/41
+next:
+  id: 1CO/15/42
+  number: '42'
+previous:
+  id: 1CO/15/40
+  number: '40'
+reference: '1 Corinthians 15:41'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="PRO 29:4" class="v">4</span>The
+  king by judgment establisheth the land: but he that receiveth gifts
+  overthroweth it. </p>
+id: PRO/29/4
+next:
+  id: PRO/29/5
+  number: '5'
+previous:
+  id: PRO/29/3
+  number: '3'
+reference: 'Proverbs 29:4'

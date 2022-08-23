@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="s1"><span class="tl">ו VAU.</span></p><p
+  class="q1"><span data-number="41" data-sid="PSA 119:41" class="v">41</span>Let
+  thy mercies come also unto me, O <span class="nd">LORD</span>, <span
+  class="add">even</span> thy salvation, according to thy word.</p>
+id: PSA/119/41
+next:
+  id: PSA/119/42
+  number: '42'
+previous:
+  id: PSA/119/40
+  number: '40'
+reference: 'Psalms 119:41'

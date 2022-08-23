@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 52:10"
+  class="v">10</span>And the king of Babylon slew the sons of Zedekiah before
+  his eyes: he slew also all the princes of Judah in Riblah. </p>
+id: JER/52/10
+next:
+  id: JER/52/11
+  number: '11'
+previous:
+  id: JER/52/9
+  number: '9'
+reference: 'Jeremiah 52:10'

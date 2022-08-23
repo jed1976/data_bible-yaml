@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 6:23" class="v">23</span>¶
+  And within the oracle he made two cherubims <span class="add">of</span> olive
+  tree, <span class="add">each</span> ten cubits high. </p>
+id: 1KI/6/23
+next:
+  id: 1KI/6/24
+  number: '24'
+previous:
+  id: 1KI/6/22
+  number: '22'
+reference: '1 Kings 6:23'

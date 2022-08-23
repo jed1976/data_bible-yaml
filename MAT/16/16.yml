@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MAT 16:16"
+  class="v">16</span>And Simon Peter answered and said, Thou art the Christ, the
+  Son of the living God. </p>
+id: MAT/16/16
+next:
+  id: MAT/16/17
+  number: '17'
+previous:
+  id: MAT/16/15
+  number: '15'
+reference: 'Matthew 16:16'

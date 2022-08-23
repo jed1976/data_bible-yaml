@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DAN 2:7" class="v">7</span>They
+  answered again and said, Let the king tell his servants the dream, and we will
+  shew the interpretation of it. </p>
+id: DAN/2/7
+next:
+  id: DAN/2/8
+  number: '8'
+previous:
+  id: DAN/2/6
+  number: '6'
+reference: 'Daniel 2:7'

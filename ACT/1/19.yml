@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ACT 1:19" class="v">19</span>And
+  it was known unto all the dwellers at Jerusalem; insomuch as that field is
+  called in their proper tongue, Aceldama, that is to say, The field of blood.
+  </p>
+id: ACT/1/19
+next:
+  id: ACT/1/20
+  number: '20'
+previous:
+  id: ACT/1/18
+  number: '18'
+reference: 'Acts 1:19'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="EXO 18:21"
+  class="v">21</span>Moreover thou shalt provide out of all the people able men,
+  such as fear God, men of truth, hating covetousness; and place <span
+  class="add">such</span> over them, <span class="add">to be</span> rulers of
+  thousands, <span class="add">and</span> rulers of hundreds, rulers of fifties,
+  and rulers of tens: </p>
+id: EXO/18/21
+next:
+  id: EXO/18/22
+  number: '22'
+previous:
+  id: EXO/18/20
+  number: '20'
+reference: 'Exodus 18:21'

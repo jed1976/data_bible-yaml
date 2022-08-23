@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOS 18:16"
+  class="v">16</span>And the border came down to the end of the mountain that
+  <span class="add">lieth</span> before the valley of the son of Hinnom, <span
+  class="add">and</span> which <span class="add">is</span> in the valley of the
+  giants on the north, and descended to the valley of Hinnom, to the side of
+  Jebusi on the south, and descended to En-rogel, </p>
+id: JOS/18/16
+next:
+  id: JOS/18/17
+  number: '17'
+previous:
+  id: JOS/18/15
+  number: '15'
+reference: 'Joshua 18:16'

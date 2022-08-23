@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="DEU 28:51"
+  class="v">51</span>And he shall eat the fruit of thy cattle, and the fruit of
+  thy land, until thou be destroyed: which <span class="add">also</span> shall
+  not leave thee <span class="add">either</span> corn, wine, or oil, <span
+  class="add">or</span> the increase of thy kine, or flocks of thy sheep, until
+  he have destroyed thee. </p>
+id: DEU/28/51
+next:
+  id: DEU/28/52
+  number: '52'
+previous:
+  id: DEU/28/50
+  number: '50'
+reference: 'Deuteronomy 28:51'

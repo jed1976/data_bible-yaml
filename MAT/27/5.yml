@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 27:5" class="v">5</span>And
+  he cast down the pieces of silver in the temple, and departed, and went and
+  hanged himself. </p>
+id: MAT/27/5
+next:
+  id: MAT/27/6
+  number: '6'
+previous:
+  id: MAT/27/4
+  number: '4'
+reference: 'Matthew 27:5'

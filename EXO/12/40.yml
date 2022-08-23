@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="EXO 12:40" class="v">40</span>¶
+  Now the sojourning of the children of Israel, who dwelt in Egypt, <span
+  class="add">was</span> four hundred and thirty years. </p>
+id: EXO/12/40
+next:
+  id: EXO/12/41
+  number: '41'
+previous:
+  id: EXO/12/39
+  number: '39'
+reference: 'Exodus 12:40'

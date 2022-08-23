@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="JDG 3:24"
+  class="v">24</span>When he was gone out, his servants came; and when they saw
+  that, behold, the doors of the parlour <span class="add">were</span> locked,
+  they said, Surely he covereth his feet in his summer chamber. </p>
+id: JDG/3/24
+next:
+  id: JDG/3/25
+  number: '25'
+previous:
+  id: JDG/3/23
+  number: '23'
+reference: 'Judges 3:24'

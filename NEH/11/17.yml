@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="NEH 11:17"
+  class="v">17</span>And Mattaniah the son of Micha, the son of Zabdi, the son
+  of Asaph, <span class="add">was</span> the principal to begin the thanksgiving
+  in prayer: and Bakbukiah the second among his brethren, and Abda the son of
+  Shammua, the son of Galal, the son of Jeduthun. </p>
+id: NEH/11/17
+next:
+  id: NEH/11/18
+  number: '18'
+previous:
+  id: NEH/11/16
+  number: '16'
+reference: 'Nehemiah 11:17'

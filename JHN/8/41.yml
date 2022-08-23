@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 8:41"
+  class="v">41</span><span class="wj">Ye do the deeds of your father.</span>
+  Then said they to him, We be not born of fornication; we have one Father,
+  <span class="add">even</span> God. </p>
+id: JHN/8/41
+next:
+  id: JHN/8/42
+  number: '42'
+previous:
+  id: JHN/8/40
+  number: '40'
+reference: 'John 8:41'

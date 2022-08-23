@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 89:17"
+  class="v">17</span>For thou <span class="add">art</span> the glory of their
+  strength: and in thy favour our horn shall be exalted.</p>
+id: PSA/89/17
+next:
+  id: PSA/89/18
+  number: '18'
+previous:
+  id: PSA/89/16
+  number: '16'
+reference: 'Psalms 89:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 98:9"
+  class="v">9</span>Before the <span class="nd">LORD</span>; for he cometh to
+  judge the earth: with righteousness shall he judge the world, and the people
+  with equity.</p>
+id: PSA/98/9
+next:
+  id: PSA/99/1
+  number: '1'
+previous:
+  id: PSA/98/8
+  number: '8'
+reference: 'Psalms 98:9'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 8:11" class="v">11</span>¶
+  And Solomon brought up the daughter of Pharaoh out of the city of David unto
+  the house that he had built for her: for he said, My wife shall not dwell in
+  the house of David king of Israel, because <span class="add">the places
+  are</span> holy, whereunto the ark of the <span class="nd">LORD</span> hath
+  come.</p>
+id: 2CH/8/11
+next:
+  id: 2CH/8/12
+  number: '12'
+previous:
+  id: 2CH/8/10
+  number: '10'
+reference: '2 Chronicles 8:11'

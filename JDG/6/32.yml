@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JDG 6:32"
+  class="v">32</span>Therefore on that day he called him Jerubbaal, saying, Let
+  Baal plead against him, because he hath thrown down his altar.</p>
+id: JDG/6/32
+next:
+  id: JDG/6/33
+  number: '33'
+previous:
+  id: JDG/6/31
+  number: '31'
+reference: 'Judges 6:32'

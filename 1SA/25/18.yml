@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1SA 25:18" class="v">18</span>¶
+  Then Abigail made haste, and took two hundred loaves, and two bottles of wine,
+  and five sheep ready dressed, and five measures of parched <span
+  class="add">corn</span>, and an hundred clusters of raisins, and two hundred
+  cakes of figs, and laid <span class="add">them</span> on asses. </p>
+id: 1SA/25/18
+next:
+  id: 1SA/25/19
+  number: '19'
+previous:
+  id: 1SA/25/17
+  number: '17'
+reference: '1 Samuel 25:18'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ACT 21:9" class="v">9</span>And
+  the same man had four daughters, virgins, which did prophesy. </p>
+id: ACT/21/9
+next:
+  id: ACT/21/10
+  number: '10'
+previous:
+  id: ACT/21/8
+  number: '8'
+reference: 'Acts 21:9'

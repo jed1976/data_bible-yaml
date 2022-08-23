@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 12:35"
+  class="v">35</span><span class="wj">A good man out of the good treasure of the
+  heart bringeth forth good things: and an evil man out of the evil treasure
+  bringeth forth evil things.</span> </p>
+id: MAT/12/35
+next:
+  id: MAT/12/36
+  number: '36'
+previous:
+  id: MAT/12/34
+  number: '34'
+reference: 'Matthew 12:35'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ROM 4:9" class="v">9</span><span
+  class="add">Cometh</span> this blessedness then upon the circumcision <span
+  class="add">only</span>, or upon the uncircumcision also? for we say that
+  faith was reckoned to Abraham for righteousness. </p>
+id: ROM/4/9
+next:
+  id: ROM/4/10
+  number: '10'
+previous:
+  id: ROM/4/8
+  number: '8'
+reference: 'Romans 4:9'

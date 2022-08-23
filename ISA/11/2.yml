@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="ISA 11:2" class="v">2</span>And
+  the spirit of the <span class="nd">LORD</span> shall rest upon him, the spirit
+  of wisdom and understanding, the spirit of counsel and might, the spirit of
+  knowledge and of the fear of the <span class="nd">LORD</span>; </p>
+id: ISA/11/2
+next:
+  id: ISA/11/3
+  number: '3'
+previous:
+  id: ISA/11/1
+  number: '1'
+reference: 'Isaiah 11:2'

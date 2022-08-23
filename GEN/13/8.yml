@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 13:8" class="v">8</span>And
+  Abram said unto Lot, Let there be no strife, I pray thee, between me and thee,
+  and between my herdmen and thy herdmen; for we <span class="add">be</span>
+  brethren. </p>
+id: GEN/13/8
+next:
+  id: GEN/13/9
+  number: '9'
+previous:
+  id: GEN/13/7
+  number: '7'
+reference: 'Genesis 13:8'

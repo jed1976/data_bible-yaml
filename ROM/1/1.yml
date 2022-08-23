@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ROM 1:1" class="v">1</span>Paul,
+  a servant of Jesus Christ, called <span class="add">to be</span> an apostle,
+  separated unto the gospel of God, </p>
+id: ROM/1/1
+next:
+  id: ROM/1/2
+  number: '2'
+previous:
+  id: ROM/intro/0
+  number: '0'
+reference: 'Romans 1:1'

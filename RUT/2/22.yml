@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="RUT 2:22" class="v">22</span>And
+  Naomi said unto Ruth her daughter in law, <span class="add">It is</span> good,
+  my daughter, that thou go out with his maidens, that they meet thee not in any
+  other field. </p>
+id: RUT/2/22
+next:
+  id: RUT/2/23
+  number: '23'
+previous:
+  id: RUT/2/21
+  number: '21'
+reference: 'Ruth 2:22'

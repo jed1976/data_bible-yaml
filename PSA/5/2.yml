@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 5:2"
+  class="v">2</span>Hearken unto the voice of my cry, my King, and my God: for
+  unto thee will I pray.</p>
+id: PSA/5/2
+next:
+  id: PSA/5/3
+  number: '3'
+previous:
+  id: PSA/5/1
+  number: '1'
+reference: 'Psalms 5:2'

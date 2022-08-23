@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm of David.</p><p class="q1"><span
+  data-number="1" data-sid="PSA 31:1" class="v">1</span>In thee, O <span
+  class="nd">LORD</span>, do I put my trust; let me never be ashamed: deliver me
+  in thy righteousness.</p>
+id: PSA/31/1
+next:
+  id: PSA/31/2
+  number: '2'
+previous:
+  id: PSA/30/12
+  number: '12'
+reference: 'Psalms 31:1'

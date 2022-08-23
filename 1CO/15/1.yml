@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1CO 15:1"
+  class="v">1</span>Moreover, brethren, I declare unto you the gospel which I
+  preached unto you, which also ye have received, and wherein ye stand; </p>
+id: 1CO/15/1
+next:
+  id: 1CO/15/2
+  number: '2'
+previous:
+  id: 1CO/14/40
+  number: '40'
+reference: '1 Corinthians 15:1'

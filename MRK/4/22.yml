@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="MRK 4:22"
+  class="v">22</span><span class="wj">For there is nothing hid, which shall not
+  be manifested; neither was any thing kept secret, but that it should come
+  abroad.</span> </p>
+id: MRK/4/22
+next:
+  id: MRK/4/23
+  number: '23'
+previous:
+  id: MRK/4/21
+  number: '21'
+reference: 'Mark 4:22'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1SA 14:45"
+  class="v">45</span>And the people said unto Saul, Shall Jonathan die, who hath
+  wrought this great salvation in Israel? God forbid: <span
+  class="add">as</span> the <span class="nd">LORD</span> liveth, there shall not
+  one hair of his head fall to the ground; for he hath wrought with God this
+  day. So the people rescued Jonathan, that he died not. </p>
+id: 1SA/14/45
+next:
+  id: 1SA/14/46
+  number: '46'
+previous:
+  id: 1SA/14/44
+  number: '44'
+reference: '1 Samuel 14:45'

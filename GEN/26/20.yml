@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 26:20"
+  class="v">20</span>And the herdmen of Gerar did strive with Isaac’s herdmen,
+  saying, The water <span class="add">is</span> ours: and he called the name of
+  the well Esek; because they strove with him. </p>
+id: GEN/26/20
+next:
+  id: GEN/26/21
+  number: '21'
+previous:
+  id: GEN/26/19
+  number: '19'
+reference: 'Genesis 26:20'

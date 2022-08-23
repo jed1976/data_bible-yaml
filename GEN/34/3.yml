@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 34:3" class="v">3</span>And
+  his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and
+  spake kindly unto the damsel. </p>
+id: GEN/34/3
+next:
+  id: GEN/34/4
+  number: '4'
+previous:
+  id: GEN/34/2
+  number: '2'
+reference: 'Genesis 34:3'

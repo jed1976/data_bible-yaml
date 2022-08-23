@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 7:6" class="v">6</span>And
+  Esther said, The adversary and enemy <span class="add">is</span> this wicked
+  Haman. Then Haman was afraid before the king and the queen.</p>
+id: EST/7/6
+next:
+  id: EST/7/7
+  number: '7'
+previous:
+  id: EST/7/5
+  number: '5'
+reference: 'Esther 7:6'

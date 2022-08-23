@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 94:3"
+  class="v">3</span><span class="nd">LORD</span>, how long shall the wicked, how
+  long shall the wicked triumph?</p>
+id: PSA/94/3
+next:
+  id: PSA/94/4
+  number: '4'
+previous:
+  id: PSA/94/2
+  number: '2'
+reference: 'Psalms 94:3'

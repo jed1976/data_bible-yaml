@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EZK 45:20"
+  class="v">20</span>And so thou shalt do the seventh <span
+  class="add">day</span> of the month for every one that erreth, and for <span
+  class="add">him that is</span> simple: so shall ye reconcile the house. </p>
+id: EZK/45/20
+next:
+  id: EZK/45/21
+  number: '21'
+previous:
+  id: EZK/45/19
+  number: '19'
+reference: 'Ezekiel 45:20'

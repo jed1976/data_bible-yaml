@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MAT 26:18"
+  class="v">18</span>And he said, <span class="wj">Go into the city to such a
+  man, and say unto him, The Master saith, My time is at hand; I will keep the
+  passover at thy house with my disciples.</span> </p>
+id: MAT/26/18
+next:
+  id: MAT/26/19
+  number: '19'
+previous:
+  id: MAT/26/17
+  number: '17'
+reference: 'Matthew 26:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="71" data-sid="MAT 26:71"
+  class="v">71</span>And when he was gone out into the porch, another <span
+  class="add">maid</span> saw him, and said unto them that were there, This
+  <span class="add">fellow</span> was also with Jesus of Nazareth. </p>
+id: MAT/26/71
+next:
+  id: MAT/26/72
+  number: '72'
+previous:
+  id: MAT/26/70
+  number: '70'
+reference: 'Matthew 26:71'

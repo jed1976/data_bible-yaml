@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 14:9" class="v">9</span>And
+  Moses sware on that day, saying, Surely the land whereon thy feet have trodden
+  shall be thine inheritance, and thy children’s for ever, because thou hast
+  wholly followed the <span class="nd">LORD</span> my God. </p>
+id: JOS/14/9
+next:
+  id: JOS/14/10
+  number: '10'
+previous:
+  id: JOS/14/8
+  number: '8'
+reference: 'Joshua 14:9'

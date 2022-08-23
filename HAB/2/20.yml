@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="HAB 2:20" class="v">20</span>But
+  the <span class="nd">LORD</span> <span class="add">is</span> in his holy
+  temple: let all the earth keep silence before him.</p>
+id: HAB/2/20
+next:
+  id: HAB/3/1
+  number: '1'
+previous:
+  id: HAB/2/19
+  number: '19'
+reference: 'Habakkuk 2:20'

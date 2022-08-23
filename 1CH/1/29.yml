@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="1CH 1:29" class="v">29</span>¶
+  These <span class="add">are</span> their generations: The firstborn of
+  Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam, </p>
+id: 1CH/1/29
+next:
+  id: 1CH/1/30
+  number: '30'
+previous:
+  id: 1CH/1/28
+  number: '28'
+reference: '1 Chronicles 1:29'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 51:18"
+  class="v">18</span><span class="add">There is</span> none to guide her among
+  all the sons <span class="add">whom</span> she hath brought forth; neither
+  <span class="add">is there any</span> that taketh her by the hand of all the
+  sons <span class="add">that</span> she hath brought up. </p>
+id: ISA/51/18
+next:
+  id: ISA/51/19
+  number: '19'
+previous:
+  id: ISA/51/17
+  number: '17'
+reference: 'Isaiah 51:18'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZR 5:1" class="v">1</span>Then
+  the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied
+  unto the Jews that <span class="add">were</span> in Judah and Jerusalem in the
+  name of the God of Israel, <span class="add">even</span> unto them. </p>
+id: EZR/5/1
+next:
+  id: EZR/5/2
+  number: '2'
+previous:
+  id: EZR/4/24
+  number: '24'
+reference: 'Ezra 5:1'

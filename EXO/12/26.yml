@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="EXO 12:26"
+  class="v">26</span>And it shall come to pass, when your children shall say
+  unto you, What mean ye by this service? </p>
+id: EXO/12/26
+next:
+  id: EXO/12/27
+  number: '27'
+previous:
+  id: EXO/12/25
+  number: '25'
+reference: 'Exodus 12:26'

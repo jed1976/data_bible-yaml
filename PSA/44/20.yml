@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 44:20"
+  class="v">20</span>If we have forgotten the name of our God, or stretched out
+  our hands to a strange god;</p>
+id: PSA/44/20
+next:
+  id: PSA/44/21
+  number: '21'
+previous:
+  id: PSA/44/19
+  number: '19'
+reference: 'Psalms 44:20'

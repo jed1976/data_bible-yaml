@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="COL 2:15"
+  class="v">15</span><span class="add">And</span> having spoiled principalities
+  and powers, he made a shew of them openly, triumphing over them in it. </p>
+id: COL/2/15
+next:
+  id: COL/2/16
+  number: '16'
+previous:
+  id: COL/2/14
+  number: '14'
+reference: 'Colossians 2:15'

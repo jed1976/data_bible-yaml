@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 4:21" class="v">21</span>And
+  he shall carry forth the bullock without the camp, and burn him as he burned
+  the first bullock: it <span class="add">is</span> a sin offering for the
+  congregation.</p>
+id: LEV/4/21
+next:
+  id: LEV/4/22
+  number: '22'
+previous:
+  id: LEV/4/20
+  number: '20'
+reference: 'Leviticus 4:21'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 45:6" class="v">6</span>That
+  they may know from the rising of the sun, and from the west, that <span
+  class="add">there is</span> none beside me. I <span class="add">am</span> the
+  <span class="nd">LORD</span>, and <span class="add">there is</span> none else.
+  </p>
+id: ISA/45/6
+next:
+  id: ISA/45/7
+  number: '7'
+previous:
+  id: ISA/45/5
+  number: '5'
+reference: 'Isaiah 45:6'

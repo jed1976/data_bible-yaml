@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 18:11"
+  class="v">11</span>Now I know that the <span class="nd">LORD</span> <span
+  class="add">is</span> greater than all gods: for in the thing wherein they
+  dealt proudly <span class="add">he was</span> above them. </p>
+id: EXO/18/11
+next:
+  id: EXO/18/12
+  number: '12'
+previous:
+  id: EXO/18/10
+  number: '10'
+reference: 'Exodus 18:11'

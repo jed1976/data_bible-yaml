@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 25:9"
+  class="v">9</span>According to all that I shew thee, <span
+  class="add">after</span> the pattern of the tabernacle, and the pattern of all
+  the instruments thereof, even so shall ye make <span
+  class="add">it</span>.</p>
+id: EXO/25/9
+next:
+  id: EXO/25/10
+  number: '10'
+previous:
+  id: EXO/25/8
+  number: '8'
+reference: 'Exodus 25:9'

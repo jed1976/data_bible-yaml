@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1SA 9:21" class="v">21</span>And
+  Saul answered and said, <span class="add">Am</span> not I a Benjamite, of the
+  smallest of the tribes of Israel? and my family the least of all the families
+  of the tribe of Benjamin? wherefore then speakest thou so to me? </p>
+id: 1SA/9/21
+next:
+  id: 1SA/9/22
+  number: '22'
+previous:
+  id: 1SA/9/20
+  number: '20'
+reference: '1 Samuel 9:21'

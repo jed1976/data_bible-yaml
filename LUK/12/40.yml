@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="LUK 12:40"
+  class="v">40</span><span class="wj">Be ye therefore ready also: for the Son of
+  man cometh at an hour when ye think not.</span></p>
+id: LUK/12/40
+next:
+  id: LUK/12/41
+  number: '41'
+previous:
+  id: LUK/12/39
+  number: '39'
+reference: 'Luke 12:40'

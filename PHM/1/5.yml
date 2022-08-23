@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PHM 1:5"
+  class="v">5</span>Hearing of thy love and faith, which thou hast toward the
+  Lord Jesus, and toward all saints; </p>
+id: PHM/1/5
+next:
+  id: PHM/1/6
+  number: '6'
+previous:
+  id: PHM/1/4
+  number: '4'
+reference: 'Philemon 1:5'

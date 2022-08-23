@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 18:15"
+  class="v">15</span>Then Sarah denied, saying, I laughed not; for she was
+  afraid. And he said, Nay; but thou didst laugh.</p>
+id: GEN/18/15
+next:
+  id: GEN/18/16
+  number: '16'
+previous:
+  id: GEN/18/14
+  number: '14'
+reference: 'Genesis 18:15'

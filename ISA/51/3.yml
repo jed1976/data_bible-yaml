@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 51:3" class="v">3</span>For
+  the <span class="nd">LORD</span> shall comfort Zion: he will comfort all her
+  waste places; and he will make her wilderness like Eden, and her desert like
+  the garden of the <span class="nd">LORD</span>; joy and gladness shall be
+  found therein, thanksgiving, and the voice of melody.</p>
+id: ISA/51/3
+next:
+  id: ISA/51/4
+  number: '4'
+previous:
+  id: ISA/51/2
+  number: '2'
+reference: 'Isaiah 51:3'

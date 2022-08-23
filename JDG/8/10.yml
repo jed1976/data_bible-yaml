@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 8:10" class="v">10</span>¶
+  Now Zebah and Zalmunna <span class="add">were</span> in Karkor, and their
+  hosts with them, about fifteen thousand <span class="add">men</span>, all that
+  were left of all the hosts of the children of the east: for there fell an
+  hundred and twenty thousand men that drew sword.</p>
+id: JDG/8/10
+next:
+  id: JDG/8/11
+  number: '11'
+previous:
+  id: JDG/8/9
+  number: '9'
+reference: 'Judges 8:10'

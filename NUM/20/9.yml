@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="NUM 20:9" class="v">9</span>And
+  Moses took the rod from before the <span class="nd">LORD</span>, as he
+  commanded him. </p>
+id: NUM/20/9
+next:
+  id: NUM/20/10
+  number: '10'
+previous:
+  id: NUM/20/8
+  number: '8'
+reference: 'Numbers 20:9'

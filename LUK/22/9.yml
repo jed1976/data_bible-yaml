@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="LUK 22:9" class="v">9</span>And
+  they said unto him, Where wilt thou that we prepare? </p>
+id: LUK/22/9
+next:
+  id: LUK/22/10
+  number: '10'
+previous:
+  id: LUK/22/8
+  number: '8'
+reference: 'Luke 22:9'

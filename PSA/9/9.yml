@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 9:9" class="v">9</span>The
+  <span class="nd">LORD</span> also will be a refuge for the oppressed, a refuge
+  in times of trouble.</p>
+id: PSA/9/9
+next:
+  id: PSA/9/10
+  number: '10'
+previous:
+  id: PSA/9/8
+  number: '8'
+reference: 'Psalms 9:9'

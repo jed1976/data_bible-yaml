@@ -1,0 +1,12 @@
+content: >-
+  <p class="d">David’s <span class="add">Psalm</span> of praise.</p><p
+  class="q1"><span data-number="1" data-sid="PSA 145:1" class="v">1</span>I will
+  extol thee, my God, O king; and I will bless thy name for ever and ever.</p>
+id: PSA/145/1
+next:
+  id: PSA/145/2
+  number: '2'
+previous:
+  id: PSA/144/15
+  number: '15'
+reference: 'Psalms 145:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 15:9" class="v">9</span>And
+  the border was drawn from the top of the hill unto the fountain of the water
+  of Nephtoah, and went out to the cities of mount Ephron; and the border was
+  drawn to Baalah, which <span class="add">is</span> Kirjath-jearim: </p>
+id: JOS/15/9
+next:
+  id: JOS/15/10
+  number: '10'
+previous:
+  id: JOS/15/8
+  number: '8'
+reference: 'Joshua 15:9'

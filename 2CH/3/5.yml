@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 3:5" class="v">5</span>And
+  the greater house he cieled with fir tree, which he overlaid with fine gold,
+  and set thereon palm trees and chains. </p>
+id: 2CH/3/5
+next:
+  id: 2CH/3/6
+  number: '6'
+previous:
+  id: 2CH/3/4
+  number: '4'
+reference: '2 Chronicles 3:5'

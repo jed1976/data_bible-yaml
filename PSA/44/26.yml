@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="26" data-sid="PSA 44:26"
+  class="v">26</span>Arise for our help, and redeem us for thy mercies’
+  sake.</p>
+id: PSA/44/26
+next:
+  id: PSA/45/1
+  number: '1'
+previous:
+  id: PSA/44/25
+  number: '25'
+reference: 'Psalms 44:26'

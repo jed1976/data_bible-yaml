@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 6:4" class="v">4</span>There
+  were giants in the earth in those days; and also after that, when the sons of
+  God came in unto the daughters of men, and they bare <span
+  class="add">children</span> to them, the same <span class="add">became</span>
+  mighty men which <span class="add">were</span> of old, men of renown.</p>
+id: GEN/6/4
+next:
+  id: GEN/6/5
+  number: '5'
+previous:
+  id: GEN/6/3
+  number: '3'
+reference: 'Genesis 6:4'

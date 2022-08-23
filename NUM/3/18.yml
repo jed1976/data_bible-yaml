@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NUM 3:18" class="v">18</span>And
+  these <span class="add">are</span> the names of the sons of Gershon by their
+  families; Libni, and Shimei. </p>
+id: NUM/3/18
+next:
+  id: NUM/3/19
+  number: '19'
+previous:
+  id: NUM/3/17
+  number: '17'
+reference: 'Numbers 3:18'

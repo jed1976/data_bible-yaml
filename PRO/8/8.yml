@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="PRO 8:8" class="v">8</span>All
+  the words of my mouth <span class="add">are</span> in righteousness; <span
+  class="add">there is</span> nothing froward or perverse in them. </p>
+id: PRO/8/8
+next:
+  id: PRO/8/9
+  number: '9'
+previous:
+  id: PRO/8/7
+  number: '7'
+reference: 'Proverbs 8:8'

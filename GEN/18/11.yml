@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 18:11"
+  class="v">11</span>Now Abraham and Sarah <span class="add">were</span> old
+  <span class="add">and</span> well stricken in age; <span
+  class="add">and</span> it ceased to be with Sarah after the manner of women.
+  </p>
+id: GEN/18/11
+next:
+  id: GEN/18/12
+  number: '12'
+previous:
+  id: GEN/18/10
+  number: '10'
+reference: 'Genesis 18:11'

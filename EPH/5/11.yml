@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EPH 5:11" class="v">11</span>And
+  have no fellowship with the unfruitful works of darkness, but rather reprove
+  <span class="add">them</span>. </p>
+id: EPH/5/11
+next:
+  id: EPH/5/12
+  number: '12'
+previous:
+  id: EPH/5/10
+  number: '10'
+reference: 'Ephesians 5:11'

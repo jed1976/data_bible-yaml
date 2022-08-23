@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="COL 3:11"
+  class="v">11</span>Where there is neither Greek nor Jew, circumcision nor
+  uncircumcision, Barbarian, Scythian, bond <span class="add">nor</span> free:
+  but Christ <span class="add">is</span> all, and in all. </p>
+id: COL/3/11
+next:
+  id: COL/3/12
+  number: '12'
+previous:
+  id: COL/3/10
+  number: '10'
+reference: 'Colossians 3:11'

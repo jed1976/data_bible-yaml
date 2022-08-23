@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JDG 18:9" class="v">9</span>And
+  they said, Arise, that we may go up against them: for we have seen the land,
+  and, behold, it <span class="add">is</span> very good: and <span
+  class="add">are</span> ye still? be not slothful to go, <span
+  class="add">and</span> to enter to possess the land. </p>
+id: JDG/18/9
+next:
+  id: JDG/18/10
+  number: '10'
+previous:
+  id: JDG/18/8
+  number: '8'
+reference: 'Judges 18:9'

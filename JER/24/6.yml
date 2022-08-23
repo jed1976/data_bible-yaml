@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="JER 24:6" class="v">6</span>For I
+  will set mine eyes upon them for good, and I will bring them again to this
+  land: and I will build them, and not pull <span class="add">them</span> down;
+  and I will plant them, and not pluck <span class="add">them</span> up. </p>
+id: JER/24/6
+next:
+  id: JER/24/7
+  number: '7'
+previous:
+  id: JER/24/5
+  number: '5'
+reference: 'Jeremiah 24:6'

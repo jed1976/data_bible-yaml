@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="28" data-sid="GEN 41:28"
+  class="v">28</span>This <span class="add">is</span> the thing which I have
+  spoken unto Pharaoh: What God <span class="add">is</span> about to do he
+  sheweth unto Pharaoh. </p>
+id: GEN/41/28
+next:
+  id: GEN/41/29
+  number: '29'
+previous:
+  id: GEN/41/27
+  number: '27'
+reference: 'Genesis 41:28'

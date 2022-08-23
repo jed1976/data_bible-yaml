@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="ISA 37:35"
+  class="v">35</span>For I will defend this city to save it for mine own sake,
+  and for my servant David’s sake. </p>
+id: ISA/37/35
+next:
+  id: ISA/37/36
+  number: '36'
+previous:
+  id: ISA/37/34
+  number: '34'
+reference: 'Isaiah 37:35'

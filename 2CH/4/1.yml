@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="2CH 4:1"
+  class="v">1</span>Moreover he made an altar of brass, twenty cubits the length
+  thereof, and twenty cubits the breadth thereof, and ten cubits the height
+  thereof.</p>
+id: 2CH/4/1
+next:
+  id: 2CH/4/2
+  number: '2'
+previous:
+  id: 2CH/3/17
+  number: '17'
+reference: '2 Chronicles 4:1'

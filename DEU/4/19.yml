@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 4:19" class="v">19</span>And
+  lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the
+  moon, and the stars, <span class="add">even</span> all the host of heaven,
+  shouldest be driven to worship them, and serve them, which the <span
+  class="nd">LORD</span> thy God hath divided unto all nations under the whole
+  heaven. </p>
+id: DEU/4/19
+next:
+  id: DEU/4/20
+  number: '20'
+previous:
+  id: DEU/4/18
+  number: '18'
+reference: 'Deuteronomy 4:19'

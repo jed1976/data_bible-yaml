@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 5:23"
+  class="v">23</span>Which justify the wicked for reward, and take away the
+  righteousness of the righteous from him! </p>
+id: ISA/5/23
+next:
+  id: ISA/5/24
+  number: '24'
+previous:
+  id: ISA/5/22
+  number: '22'
+reference: 'Isaiah 5:23'

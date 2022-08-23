@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 9:24"
+  class="v">24</span>Seventy weeks are determined upon thy people and upon thy
+  holy city, to finish the transgression, and to make an end of sins, and to
+  make reconciliation for iniquity, and to bring in everlasting righteousness,
+  and to seal up the vision and prophecy, and to anoint the most Holy. </p>
+id: DAN/9/24
+next:
+  id: DAN/9/25
+  number: '25'
+previous:
+  id: DAN/9/23
+  number: '23'
+reference: 'Daniel 9:24'

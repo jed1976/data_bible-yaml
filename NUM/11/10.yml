@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="NUM 11:10" class="v">10</span>¶
+  Then Moses heard the people weep throughout their families, every man in the
+  door of his tent: and the anger of the <span class="nd">LORD</span> was
+  kindled greatly; Moses also was displeased. </p>
+id: NUM/11/10
+next:
+  id: NUM/11/11
+  number: '11'
+previous:
+  id: NUM/11/9
+  number: '9'
+reference: 'Numbers 11:10'

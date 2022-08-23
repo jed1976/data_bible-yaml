@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 7:23" class="v">23</span>And
+  every living substance was destroyed which was upon the face of the ground,
+  both man, and cattle, and the creeping things, and the fowl of the heaven; and
+  they were destroyed from the earth: and Noah only remained <span
+  class="add">alive</span>, and they that <span class="add">were</span> with him
+  in the ark. </p>
+id: GEN/7/23
+next:
+  id: GEN/7/24
+  number: '24'
+previous:
+  id: GEN/7/22
+  number: '22'
+reference: 'Genesis 7:23'

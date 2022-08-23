@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 4:3" class="v">3</span>And he
+  that sat was to look upon like a jasper and a sardine stone: and <span
+  class="add">there was</span> a rainbow round about the throne, in sight like
+  unto an emerald. </p>
+id: REV/4/3
+next:
+  id: REV/4/4
+  number: '4'
+previous:
+  id: REV/4/2
+  number: '2'
+reference: 'Revelation 4:3'

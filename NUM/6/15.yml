@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="NUM 6:15" class="v">15</span>And
+  a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers
+  of unleavened bread anointed with oil, and their meat offering, and their
+  drink offerings. </p>
+id: NUM/6/15
+next:
+  id: NUM/6/16
+  number: '16'
+previous:
+  id: NUM/6/14
+  number: '14'
+reference: 'Numbers 6:15'

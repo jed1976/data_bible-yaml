@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="1PE 5:14"
+  class="v">14</span>Greet ye one another with a kiss of charity. Peace <span
+  class="add">be</span> with you all that are in Christ Jesus. Amen.</p>
+id: 1PE/5/14
+next:
+  id: 2PE/intro/0
+  number: '0'
+previous:
+  id: 1PE/5/13
+  number: '13'
+reference: '1 Peter 5:14'

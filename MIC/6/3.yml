@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MIC 6:3" class="v">3</span>O my
+  people, what have I done unto thee? and wherein have I wearied thee? testify
+  against me. </p>
+id: MIC/6/3
+next:
+  id: MIC/6/4
+  number: '4'
+previous:
+  id: MIC/6/2
+  number: '2'
+reference: 'Micah 6:3'

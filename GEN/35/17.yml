@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 35:17"
+  class="v">17</span>And it came to pass, when she was in hard labour, that the
+  midwife said unto her, Fear not; thou shalt have this son also. </p>
+id: GEN/35/17
+next:
+  id: GEN/35/18
+  number: '18'
+previous:
+  id: GEN/35/16
+  number: '16'
+reference: 'Genesis 35:17'

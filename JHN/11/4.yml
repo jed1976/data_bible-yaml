@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JHN 11:4" class="v">4</span>When
+  Jesus heard <span class="add">that</span>, he said, <span class="wj">This
+  sickness is not unto death, but for the glory of God, that the Son of God
+  might be glorified thereby.</span> </p>
+id: JHN/11/4
+next:
+  id: JHN/11/5
+  number: '5'
+previous:
+  id: JHN/11/3
+  number: '3'
+reference: 'John 11:4'

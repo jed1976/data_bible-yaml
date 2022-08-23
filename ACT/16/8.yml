@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 16:8" class="v">8</span>And
+  they passing by Mysia came down to Troas. </p>
+id: ACT/16/8
+next:
+  id: ACT/16/9
+  number: '9'
+previous:
+  id: ACT/16/7
+  number: '7'
+reference: 'Acts 16:8'

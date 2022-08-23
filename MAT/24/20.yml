@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="MAT 24:20"
+  class="v">20</span><span class="wj">But pray ye that your flight be not in the
+  winter, neither on the sabbath day:</span> </p>
+id: MAT/24/20
+next:
+  id: MAT/24/21
+  number: '21'
+previous:
+  id: MAT/24/19
+  number: '19'
+reference: 'Matthew 24:20'

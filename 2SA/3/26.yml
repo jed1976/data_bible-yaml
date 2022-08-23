@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="2SA 3:26" class="v">26</span>And
+  when Joab was come out from David, he sent messengers after Abner, which
+  brought him again from the well of Sirah: but David knew <span
+  class="add">it</span> not. </p>
+id: 2SA/3/26
+next:
+  id: 2SA/3/27
+  number: '27'
+previous:
+  id: 2SA/3/25
+  number: '25'
+reference: '2 Samuel 3:26'

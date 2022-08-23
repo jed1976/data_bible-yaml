@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 10:42"
+  class="v">42</span>And many believed on him there.</p>
+id: JHN/10/42
+next:
+  id: JHN/11/1
+  number: '1'
+previous:
+  id: JHN/10/41
+  number: '41'
+reference: 'John 10:42'

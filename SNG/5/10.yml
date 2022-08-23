@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="SNG 5:10" class="v">10</span>My
+  beloved <span class="add">is</span> white and ruddy, the chiefest among ten
+  thousand. </p>
+id: SNG/5/10
+next:
+  id: SNG/5/11
+  number: '11'
+previous:
+  id: SNG/5/9
+  number: '9'
+reference: 'Song of Solomon 5:10'

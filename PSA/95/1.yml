@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="1" data-sid="PSA 95:1" class="v">1</span>O
+  come, let us sing unto the <span class="nd">LORD</span>: let us make a joyful
+  noise to the rock of our salvation.</p>
+id: PSA/95/1
+next:
+  id: PSA/95/2
+  number: '2'
+previous:
+  id: PSA/94/23
+  number: '23'
+reference: 'Psalms 95:1'

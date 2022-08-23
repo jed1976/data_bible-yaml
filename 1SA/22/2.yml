@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1SA 22:2" class="v">2</span>And
+  every one <span class="add">that was</span> in distress, and every one that
+  <span class="add">was</span> in debt, and every one <span class="add">that
+  was</span> discontented, gathered themselves unto him; and he became a captain
+  over them: and there were with him about four hundred men.</p>
+id: 1SA/22/2
+next:
+  id: 1SA/22/3
+  number: '3'
+previous:
+  id: 1SA/22/1
+  number: '1'
+reference: '1 Samuel 22:2'

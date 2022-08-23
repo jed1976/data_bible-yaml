@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="112" data-sid="PSA 119:112"
+  class="v">112</span>I have inclined mine heart to perform thy statutes alway,
+  <span class="add">even unto</span> the end.</p>
+id: PSA/119/112
+next:
+  id: PSA/119/113
+  number: '113'
+previous:
+  id: PSA/119/111
+  number: '111'
+reference: 'Psalms 119:112'

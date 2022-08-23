@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="HOS 12:8" class="v">8</span>And
+  Ephraim said, Yet I am become rich, I have found me out substance: <span
+  class="add">in</span> all my labours they shall find none iniquity in me that
+  <span class="add">were</span> sin. </p>
+id: HOS/12/8
+next:
+  id: HOS/12/9
+  number: '9'
+previous:
+  id: HOS/12/7
+  number: '7'
+reference: 'Hosea 12:8'

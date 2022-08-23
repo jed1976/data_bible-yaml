@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 2:7" class="v">7</span>He
+  layeth up sound wisdom for the righteous: <span class="add">he is</span> a
+  buckler to them that walk uprightly. </p>
+id: PRO/2/7
+next:
+  id: PRO/2/8
+  number: '8'
+previous:
+  id: PRO/2/6
+  number: '6'
+reference: 'Proverbs 2:7'

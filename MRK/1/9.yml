@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="MRK 1:9" class="v">9</span>And it
+  came to pass in those days, that Jesus came from Nazareth of Galilee, and was
+  baptized of John in Jordan. </p>
+id: MRK/1/9
+next:
+  id: MRK/1/10
+  number: '10'
+previous:
+  id: MRK/1/8
+  number: '8'
+reference: 'Mark 1:9'

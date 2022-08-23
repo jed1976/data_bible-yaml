@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 37:12"
+  class="v">12</span>Also he made thereunto a border of an handbreadth round
+  about; and made a crown of gold for the border thereof round about. </p>
+id: EXO/37/12
+next:
+  id: EXO/37/13
+  number: '13'
+previous:
+  id: EXO/37/11
+  number: '11'
+reference: 'Exodus 37:12'

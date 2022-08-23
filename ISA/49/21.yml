@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 49:21"
+  class="v">21</span>Then shalt thou say in thine heart, Who hath begotten me
+  these, seeing I have lost my children, and am desolate, a captive, and
+  removing to and fro? and who hath brought up these? Behold, I was left alone;
+  these, where <span class="add">had</span> they <span class="add">been</span>?
+  </p>
+id: ISA/49/21
+next:
+  id: ISA/49/22
+  number: '22'
+previous:
+  id: ISA/49/20
+  number: '20'
+reference: 'Isaiah 49:21'

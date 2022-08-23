@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="REV 3:10"
+  class="v">10</span><span class="wj">Because thou hast kept the word of my
+  patience, I also will keep thee from the hour of temptation, which shall come
+  upon all the world, to try them that dwell upon the earth.</span> </p>
+id: REV/3/10
+next:
+  id: REV/3/11
+  number: '11'
+previous:
+  id: REV/3/9
+  number: '9'
+reference: 'Revelation 3:10'

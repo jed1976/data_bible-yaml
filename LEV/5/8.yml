@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="LEV 5:8" class="v">8</span>And he
+  shall bring them unto the priest, who shall offer <span
+  class="add">that</span> which <span class="add">is</span> for the sin offering
+  first, and wring off his head from his neck, but shall not divide <span
+  class="add">it</span> asunder: </p>
+id: LEV/5/8
+next:
+  id: LEV/5/9
+  number: '9'
+previous:
+  id: LEV/5/7
+  number: '7'
+reference: 'Leviticus 5:8'

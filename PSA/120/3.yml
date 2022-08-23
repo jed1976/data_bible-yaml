@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="3" data-sid="PSA 120:3"
+  class="v">3</span>What shall be given unto thee? or what shall be done unto
+  thee, thou false tongue?</p>
+id: PSA/120/3
+next:
+  id: PSA/120/4
+  number: '4'
+previous:
+  id: PSA/120/2
+  number: '2'
+reference: 'Psalms 120:3'

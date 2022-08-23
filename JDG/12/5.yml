@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 12:5" class="v">5</span>And
+  the Gileadites took the passages of Jordan before the Ephraimites: and it was
+  <span class="add">so</span>, that when those Ephraimites which were escaped
+  said, Let me go over; that the men of Gilead said unto him, <span
+  class="add">Art</span> thou an Ephraimite? If he said, Nay; </p>
+id: JDG/12/5
+next:
+  id: JDG/12/6
+  number: '6'
+previous:
+  id: JDG/12/4
+  number: '4'
+reference: 'Judges 12:5'

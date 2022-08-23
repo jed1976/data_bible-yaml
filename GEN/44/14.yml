@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="GEN 44:14" class="v">14</span>¶
+  And Judah and his brethren came to Joseph’s house; for he <span
+  class="add">was</span> yet there: and they fell before him on the ground. </p>
+id: GEN/44/14
+next:
+  id: GEN/44/15
+  number: '15'
+previous:
+  id: GEN/44/13
+  number: '13'
+reference: 'Genesis 44:14'

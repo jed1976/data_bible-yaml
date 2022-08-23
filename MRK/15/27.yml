@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="MRK 15:27"
+  class="v">27</span>And with him they crucify two thieves; the one on his right
+  hand, and the other on his left. </p>
+id: MRK/15/27
+next:
+  id: MRK/15/28
+  number: '28'
+previous:
+  id: MRK/15/26
+  number: '26'
+reference: 'Mark 15:27'

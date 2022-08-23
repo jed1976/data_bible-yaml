@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 33:7" class="v">7</span>¶ And
+  this <span class="add">is the blessing</span> of Judah: and he said, Hear,
+  <span class="nd">LORD</span>, the voice of Judah, and bring him unto his
+  people: let his hands be sufficient for him; and be thou an help <span
+  class="add">to him</span> from his enemies.</p>
+id: DEU/33/7
+next:
+  id: DEU/33/8
+  number: '8'
+previous:
+  id: DEU/33/6
+  number: '6'
+reference: 'Deuteronomy 33:7'

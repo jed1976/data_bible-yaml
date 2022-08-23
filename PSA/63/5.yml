@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 63:5" class="v">5</span>My
+  soul shall be satisfied as <span class="add">with</span> marrow and fatness;
+  and my mouth shall praise <span class="add">thee</span> with joyful lips:</p>
+id: PSA/63/5
+next:
+  id: PSA/63/6
+  number: '6'
+previous:
+  id: PSA/63/4
+  number: '4'
+reference: 'Psalms 63:5'

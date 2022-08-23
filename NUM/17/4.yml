@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 17:4" class="v">4</span>And
+  thou shalt lay them up in the tabernacle of the congregation before the
+  testimony, where I will meet with you. </p>
+id: NUM/17/4
+next:
+  id: NUM/17/5
+  number: '5'
+previous:
+  id: NUM/17/3
+  number: '3'
+reference: 'Numbers 17:4'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 45:18"
+  class="v">18</span>For thus saith the <span class="nd">LORD</span> that
+  created the heavens; God himself that formed the earth and made it; he hath
+  established it, he created it not in vain, he formed it to be inhabited: I
+  <span class="add">am</span> the <span class="nd">LORD</span>; and <span
+  class="add">there is</span> none else. </p>
+id: ISA/45/18
+next:
+  id: ISA/45/19
+  number: '19'
+previous:
+  id: ISA/45/17
+  number: '17'
+reference: 'Isaiah 45:18'

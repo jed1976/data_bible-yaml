@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ROM 7:23" class="v">23</span>But
+  I see another law in my members, warring against the law of my mind, and
+  bringing me into captivity to the law of sin which is in my members. </p>
+id: ROM/7/23
+next:
+  id: ROM/7/24
+  number: '24'
+previous:
+  id: ROM/7/22
+  number: '22'
+reference: 'Romans 7:23'

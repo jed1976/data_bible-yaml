@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 14:3" class="v">3</span>Let
+  not him that eateth despise him that eateth not; and let not him which eateth
+  not judge him that eateth: for God hath received him. </p>
+id: ROM/14/3
+next:
+  id: ROM/14/4
+  number: '4'
+previous:
+  id: ROM/14/2
+  number: '2'
+reference: 'Romans 14:3'

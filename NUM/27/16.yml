@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="NUM 27:16"
+  class="v">16</span>Let the <span class="nd">LORD</span>, the God of the
+  spirits of all flesh, set a man over the congregation, </p>
+id: NUM/27/16
+next:
+  id: NUM/27/17
+  number: '17'
+previous:
+  id: NUM/27/15
+  number: '15'
+reference: 'Numbers 27:16'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 41:15"
+  class="v">15</span>And Pharaoh said unto Joseph, I have dreamed a dream, and
+  <span class="add">there is</span> none that can interpret it: and I have heard
+  say of thee, <span class="add">that</span> thou canst understand a dream to
+  interpret it. </p>
+id: GEN/41/15
+next:
+  id: GEN/41/16
+  number: '16'
+previous:
+  id: GEN/41/14
+  number: '14'
+reference: 'Genesis 41:15'

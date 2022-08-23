@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="JOS 3:11"
+  class="v">11</span>Behold, the ark of the covenant of the Lord of all the
+  earth passeth over before you into Jordan. </p>
+id: JOS/3/11
+next:
+  id: JOS/3/12
+  number: '12'
+previous:
+  id: JOS/3/10
+  number: '10'
+reference: 'Joshua 3:11'

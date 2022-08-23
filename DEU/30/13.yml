@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DEU 30:13"
+  class="v">13</span>Neither <span class="add">is</span> it beyond the sea, that
+  thou shouldest say, Who shall go over the sea for us, and bring it unto us,
+  that we may hear it, and do it? </p>
+id: DEU/30/13
+next:
+  id: DEU/30/14
+  number: '14'
+previous:
+  id: DEU/30/12
+  number: '12'
+reference: 'Deuteronomy 30:13'

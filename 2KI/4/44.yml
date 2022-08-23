@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="2KI 4:44" class="v">44</span>So
+  he set <span class="add">it</span> before them, and they did eat, and left
+  <span class="add">thereof</span>, according to the word of the <span
+  class="nd">LORD</span>.</p>
+id: 2KI/4/44
+next:
+  id: 2KI/5/1
+  number: '1'
+previous:
+  id: 2KI/4/43
+  number: '43'
+reference: '2 Kings 4:44'

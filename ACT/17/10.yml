@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ACT 17:10" class="v">10</span>¶
+  And the brethren immediately sent away Paul and Silas by night unto Berea: who
+  coming <span class="add">thither</span> went into the synagogue of the Jews.
+  </p>
+id: ACT/17/10
+next:
+  id: ACT/17/11
+  number: '11'
+previous:
+  id: ACT/17/9
+  number: '9'
+reference: 'Acts 17:10'

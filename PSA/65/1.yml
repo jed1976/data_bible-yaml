@@ -1,0 +1,13 @@
+content: >-
+  <p class="d">To the chief Musician, A Psalm <span class="add">and</span> Song
+  of David.</p><p class="q1"><span data-number="1" data-sid="PSA 65:1"
+  class="v">1</span>Praise waiteth for thee, O God, in Sion: and unto thee shall
+  the vow be performed.</p>
+id: PSA/65/1
+next:
+  id: PSA/65/2
+  number: '2'
+previous:
+  id: PSA/64/10
+  number: '10'
+reference: 'Psalms 65:1'

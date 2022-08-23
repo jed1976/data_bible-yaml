@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 132:4" class="v">4</span>I
+  will not give sleep to mine eyes, <span class="add">or</span> slumber to mine
+  eyelids,</p>
+id: PSA/132/4
+next:
+  id: PSA/132/5
+  number: '5'
+previous:
+  id: PSA/132/3
+  number: '3'
+reference: 'Psalms 132:4'

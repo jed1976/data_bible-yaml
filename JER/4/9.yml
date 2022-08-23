@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JER 4:9" class="v">9</span>And it
+  shall come to pass at that day, saith the <span class="nd">LORD</span>, <span
+  class="add">that</span> the heart of the king shall perish, and the heart of
+  the princes; and the priests shall be astonished, and the prophets shall
+  wonder. </p>
+id: JER/4/9
+next:
+  id: JER/4/10
+  number: '10'
+previous:
+  id: JER/4/8
+  number: '8'
+reference: 'Jeremiah 4:9'

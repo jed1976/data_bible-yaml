@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="PRO 30:18"
+  class="v">18</span>There be three <span class="add">things which</span> are
+  too wonderful for me, yea, four which I know not: </p>
+id: PRO/30/18
+next:
+  id: PRO/30/19
+  number: '19'
+previous:
+  id: PRO/30/17
+  number: '17'
+reference: 'Proverbs 30:18'

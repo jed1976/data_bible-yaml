@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="ISA 13:18"
+  class="v">18</span><span class="add">Their</span> bows also shall dash the
+  young men to pieces; and they shall have no pity on the fruit of the womb;
+  their eye shall not spare children.</p>
+id: ISA/13/18
+next:
+  id: ISA/13/19
+  number: '19'
+previous:
+  id: ISA/13/17
+  number: '17'
+reference: 'Isaiah 13:18'

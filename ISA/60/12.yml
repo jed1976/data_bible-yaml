@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 60:12"
+  class="v">12</span>For the nation and kingdom that will not serve thee shall
+  perish; yea, <span class="add">those</span> nations shall be utterly wasted.
+  </p>
+id: ISA/60/12
+next:
+  id: ISA/60/13
+  number: '13'
+previous:
+  id: ISA/60/11
+  number: '11'
+reference: 'Isaiah 60:12'

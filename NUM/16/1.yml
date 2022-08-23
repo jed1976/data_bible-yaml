@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NUM 16:1" class="v">1</span>Now
+  Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and
+  Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took
+  <span class="add">men:</span> </p>
+id: NUM/16/1
+next:
+  id: NUM/16/2
+  number: '2'
+previous:
+  id: NUM/15/41
+  number: '41'
+reference: 'Numbers 16:1'

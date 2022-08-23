@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="EXO 14:20"
+  class="v">20</span>And it came between the camp of the Egyptians and the camp
+  of Israel; and it was a cloud and darkness <span class="add">to them</span>,
+  but it gave light by night <span class="add">to these:</span> so that the one
+  came not near the other all the night.</p>
+id: EXO/14/20
+next:
+  id: EXO/14/21
+  number: '21'
+previous:
+  id: EXO/14/19
+  number: '19'
+reference: 'Exodus 14:20'

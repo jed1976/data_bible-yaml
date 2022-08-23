@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 89:42"
+  class="v">42</span>Thou hast set up the right hand of his adversaries; thou
+  hast made all his enemies to rejoice.</p>
+id: PSA/89/42
+next:
+  id: PSA/89/43
+  number: '43'
+previous:
+  id: PSA/89/41
+  number: '41'
+reference: 'Psalms 89:42'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 2:3" class="v">3</span>Yea,
+  if thou criest after knowledge, <span class="add">and</span> liftest up thy
+  voice for understanding; </p>
+id: PRO/2/3
+next:
+  id: PRO/2/4
+  number: '4'
+previous:
+  id: PRO/2/2
+  number: '2'
+reference: 'Proverbs 2:3'

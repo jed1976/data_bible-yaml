@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="EPH 5:17"
+  class="v">17</span>Wherefore be ye not unwise, but understanding what the will
+  of the Lord <span class="add">is</span>. </p>
+id: EPH/5/17
+next:
+  id: EPH/5/18
+  number: '18'
+previous:
+  id: EPH/5/16
+  number: '16'
+reference: 'Ephesians 5:17'

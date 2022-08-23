@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="ISA 42:13"
+  class="v">13</span>The <span class="nd">LORD</span> shall go forth as a mighty
+  man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he
+  shall prevail against his enemies. </p>
+id: ISA/42/13
+next:
+  id: ISA/42/14
+  number: '14'
+previous:
+  id: ISA/42/12
+  number: '12'
+reference: 'Isaiah 42:13'

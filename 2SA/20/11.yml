@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2SA 20:11"
+  class="v">11</span>And one of Joab’s men stood by him, and said, He that
+  favoureth Joab, and he that <span class="add">is</span> for David, <span
+  class="add">let him go</span> after Joab. </p>
+id: 2SA/20/11
+next:
+  id: 2SA/20/12
+  number: '12'
+previous:
+  id: 2SA/20/10
+  number: '10'
+reference: '2 Samuel 20:11'

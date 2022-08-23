@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 17:10"
+  class="v">10</span>Southward <span class="add">it was</span> Ephraim’s, and
+  northward <span class="add">it was</span> Manasseh’s, and the sea is his
+  border; and they met together in Asher on the north, and in Issachar on the
+  east. </p>
+id: JOS/17/10
+next:
+  id: JOS/17/11
+  number: '11'
+previous:
+  id: JOS/17/9
+  number: '9'
+reference: 'Joshua 17:10'

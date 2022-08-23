@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ZEP 3:10"
+  class="v">10</span>From beyond the rivers of Ethiopia my suppliants, <span
+  class="add">even</span> the daughter of my dispersed, shall bring mine
+  offering. </p>
+id: ZEP/3/10
+next:
+  id: ZEP/3/11
+  number: '11'
+previous:
+  id: ZEP/3/9
+  number: '9'
+reference: 'Zephaniah 3:10'

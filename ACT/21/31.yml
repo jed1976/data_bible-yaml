@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="31" data-sid="ACT 21:31"
+  class="v">31</span>And as they went about to kill him, tidings came unto the
+  chief captain of the band, that all Jerusalem was in an uproar. </p>
+id: ACT/21/31
+next:
+  id: ACT/21/32
+  number: '32'
+previous:
+  id: ACT/21/30
+  number: '30'
+reference: 'Acts 21:31'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="2PE 2:4" class="v">4</span>For if
+  God spared not the angels that sinned, but cast <span class="add">them</span>
+  down to hell, and delivered <span class="add">them</span> into chains of
+  darkness, to be reserved unto judgment; </p>
+id: 2PE/2/4
+next:
+  id: 2PE/2/5
+  number: '5'
+previous:
+  id: 2PE/2/3
+  number: '3'
+reference: '2 Peter 2:4'

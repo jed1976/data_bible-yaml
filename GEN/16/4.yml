@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="GEN 16:4" class="v">4</span>¶ And
+  he went in unto Hagar, and she conceived: and when she saw that she had
+  conceived, her mistress was despised in her eyes. </p>
+id: GEN/16/4
+next:
+  id: GEN/16/5
+  number: '5'
+previous:
+  id: GEN/16/3
+  number: '3'
+reference: 'Genesis 16:4'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="ACT 27:22"
+  class="v">22</span>And now I exhort you to be of good cheer: for there shall
+  be no loss of <span class="add">any man’s</span> life among you, but of the
+  ship. </p>
+id: ACT/27/22
+next:
+  id: ACT/27/23
+  number: '23'
+previous:
+  id: ACT/27/21
+  number: '21'
+reference: 'Acts 27:22'

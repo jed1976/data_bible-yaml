@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="DEU 33:22" class="v">22</span>¶
+  And of Dan he said, Dan <span class="add">is</span> a lion’s whelp: he shall
+  leap from Bashan.</p>
+id: DEU/33/22
+next:
+  id: DEU/33/23
+  number: '23'
+previous:
+  id: DEU/33/21
+  number: '21'
+reference: 'Deuteronomy 33:22'

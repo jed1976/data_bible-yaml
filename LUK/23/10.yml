@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="LUK 23:10"
+  class="v">10</span>And the chief priests and scribes stood and vehemently
+  accused him. </p>
+id: LUK/23/10
+next:
+  id: LUK/23/11
+  number: '11'
+previous:
+  id: LUK/23/9
+  number: '9'
+reference: 'Luke 23:10'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="NUM 23:26"
+  class="v">26</span>But Balaam answered and said unto Balak, Told not I thee,
+  saying, All that the <span class="nd">LORD</span> speaketh, that I must
+  do?</p>
+id: NUM/23/26
+next:
+  id: NUM/23/27
+  number: '27'
+previous:
+  id: NUM/23/25
+  number: '25'
+reference: 'Numbers 23:26'

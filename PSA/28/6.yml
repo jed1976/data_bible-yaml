@@ -1,0 +1,13 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="6" data-sid="PSA 28:6"
+  class="v">6</span>Blessed <span class="add">be</span> the <span
+  class="nd">LORD</span>, because he hath heard the voice of my
+  supplications.</p>
+id: PSA/28/6
+next:
+  id: PSA/28/7
+  number: '7'
+previous:
+  id: PSA/28/5
+  number: '5'
+reference: 'Psalms 28:6'

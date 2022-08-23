@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="13" data-sid="PSA 77:13"
+  class="v">13</span>Thy way, O God, <span class="add">is</span> in the
+  sanctuary: who <span class="add">is so</span> great a God as <span
+  class="add">our</span> God?</p>
+id: PSA/77/13
+next:
+  id: PSA/77/14
+  number: '14'
+previous:
+  id: PSA/77/12
+  number: '12'
+reference: 'Psalms 77:13'

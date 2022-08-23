@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 28:14"
+  class="v">14</span>And their drink offerings shall be half an hin of wine unto
+  a bullock, and the third <span class="add">part</span> of an hin unto a ram,
+  and a fourth <span class="add">part</span> of an hin unto a lamb: this <span
+  class="add">is</span> the burnt offering of every month throughout the months
+  of the year. </p>
+id: NUM/28/14
+next:
+  id: NUM/28/15
+  number: '15'
+previous:
+  id: NUM/28/13
+  number: '13'
+reference: 'Numbers 28:14'

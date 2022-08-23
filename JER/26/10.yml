@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 26:10" class="v">10</span>¶
+  When the princes of Judah heard these things, then they came up from the
+  king’s house unto the house of the <span class="nd">LORD</span>, and sat down
+  in the entry of the new gate of the <span class="nd">LORD’s</span> <span
+  class="add">house</span>. </p>
+id: JER/26/10
+next:
+  id: JER/26/11
+  number: '11'
+previous:
+  id: JER/26/9
+  number: '9'
+reference: 'Jeremiah 26:10'

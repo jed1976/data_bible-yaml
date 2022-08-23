@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="GEN 26:23"
+  class="v">23</span>And he went up from thence to Beer-sheba. </p>
+id: GEN/26/23
+next:
+  id: GEN/26/24
+  number: '24'
+previous:
+  id: GEN/26/22
+  number: '22'
+reference: 'Genesis 26:23'

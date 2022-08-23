@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="2KI 10:6" class="v">6</span>Then
+  he wrote a letter the second time to them, saying, If ye <span
+  class="add">be</span> mine, and <span class="add">if</span> ye will hearken
+  unto my voice, take ye the heads of the men your master’s sons, and come to me
+  to Jezreel by to morrow this time. Now the king’s sons, <span
+  class="add">being</span> seventy persons, <span class="add">were</span> with
+  the great men of the city, which brought them up. </p>
+id: 2KI/10/6
+next:
+  id: 2KI/10/7
+  number: '7'
+previous:
+  id: 2KI/10/5
+  number: '5'
+reference: '2 Kings 10:6'

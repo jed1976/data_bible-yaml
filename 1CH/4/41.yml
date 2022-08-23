@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="1CH 4:41" class="v">41</span>And
+  these written by name came in the days of Hezekiah king of Judah, and smote
+  their tents, and the habitations that were found there, and destroyed them
+  utterly unto this day, and dwelt in their rooms: because <span
+  class="add">there was</span> pasture there for their flocks. </p>
+id: 1CH/4/41
+next:
+  id: 1CH/4/42
+  number: '42'
+previous:
+  id: 1CH/4/40
+  number: '40'
+reference: '1 Chronicles 4:41'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOS 7:1" class="v">1</span>But
+  the children of Israel committed a trespass in the accursed thing: for Achan,
+  the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah,
+  took of the accursed thing: and the anger of the <span class="nd">LORD</span>
+  was kindled against the children of Israel. </p>
+id: JOS/7/1
+next:
+  id: JOS/7/2
+  number: '2'
+previous:
+  id: JOS/6/27
+  number: '27'
+reference: 'Joshua 7:1'

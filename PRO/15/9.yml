@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 15:9" class="v">9</span>The
+  way of the wicked <span class="add">is</span> an abomination unto the <span
+  class="nd">LORD</span>: but he loveth him that followeth after righteousness.
+  </p>
+id: PRO/15/9
+next:
+  id: PRO/15/10
+  number: '10'
+previous:
+  id: PRO/15/8
+  number: '8'
+reference: 'Proverbs 15:9'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="MAT 12:48"
+  class="v">48</span>But he answered and said unto him that told him, <span
+  class="wj">Who is my mother? and who are my brethren?</span> </p>
+id: MAT/12/48
+next:
+  id: MAT/12/49
+  number: '49'
+previous:
+  id: MAT/12/47
+  number: '47'
+reference: 'Matthew 12:48'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="DEU 19:19"
+  class="v">19</span>Then shall ye do unto him, as he had thought to have done
+  unto his brother: so shalt thou put the evil away from among you. </p>
+id: DEU/19/19
+next:
+  id: DEU/19/20
+  number: '20'
+previous:
+  id: DEU/19/18
+  number: '18'
+reference: 'Deuteronomy 19:19'

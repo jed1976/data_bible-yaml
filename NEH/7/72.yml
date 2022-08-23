@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="72" data-sid="NEH 7:72" class="v">72</span>And
+  <span class="add">that</span> which the rest of the people gave <span
+  class="add">was</span> twenty thousand drams of gold, and two thousand pound
+  of silver, and threescore and seven priests’ garments. </p>
+id: NEH/7/72
+next:
+  id: NEH/7/73
+  number: '73'
+previous:
+  id: NEH/7/71
+  number: '71'
+reference: 'Nehemiah 7:72'

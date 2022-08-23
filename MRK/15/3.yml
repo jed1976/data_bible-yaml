@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="MRK 15:3" class="v">3</span>And
+  the chief priests accused him of many things: but he answered nothing. </p>
+id: MRK/15/3
+next:
+  id: MRK/15/4
+  number: '4'
+previous:
+  id: MRK/15/2
+  number: '2'
+reference: 'Mark 15:3'

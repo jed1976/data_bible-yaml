@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="GEN 50:6" class="v">6</span>And
+  Pharaoh said, Go up, and bury thy father, according as he made thee swear.</p>
+id: GEN/50/6
+next:
+  id: GEN/50/7
+  number: '7'
+previous:
+  id: GEN/50/5
+  number: '5'
+reference: 'Genesis 50:6'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NEH 12:22" class="v">22</span>¶
+  The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, <span
+  class="add">were</span> recorded chief of the fathers: also the priests, to
+  the reign of Darius the Persian. </p>
+id: NEH/12/22
+next:
+  id: NEH/12/23
+  number: '23'
+previous:
+  id: NEH/12/21
+  number: '21'
+reference: 'Nehemiah 12:22'

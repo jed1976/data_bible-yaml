@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="JOB 21:14"
+  class="v">14</span>Therefore they say unto God, Depart from us; for we desire
+  not the knowledge of thy ways. </p>
+id: JOB/21/14
+next:
+  id: JOB/21/15
+  number: '15'
+previous:
+  id: JOB/21/13
+  number: '13'
+reference: 'Job 21:14'

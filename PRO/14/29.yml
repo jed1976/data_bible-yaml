@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="PRO 14:29"
+  class="v">29</span><span class="add">He that is</span> slow to wrath <span
+  class="add">is</span> of great understanding: but <span class="add">he that
+  is</span> hasty of spirit exalteth folly. </p>
+id: PRO/14/29
+next:
+  id: PRO/14/30
+  number: '30'
+previous:
+  id: PRO/14/28
+  number: '28'
+reference: 'Proverbs 14:29'

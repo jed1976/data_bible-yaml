@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JHN 18:30"
+  class="v">30</span>They answered and said unto him, If he were not a
+  malefactor, we would not have delivered him up unto thee. </p>
+id: JHN/18/30
+next:
+  id: JHN/18/31
+  number: '31'
+previous:
+  id: JHN/18/29
+  number: '29'
+reference: 'John 18:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="MAT 6:8" class="v">8</span><span
+  class="wj">Be not ye therefore like unto them: for your Father knoweth what
+  things ye have need of, before ye ask him.</span> </p>
+id: MAT/6/8
+next:
+  id: MAT/6/9
+  number: '9'
+previous:
+  id: MAT/6/7
+  number: '7'
+reference: 'Matthew 6:8'

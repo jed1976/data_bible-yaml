@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="NUM 26:11"
+  class="v">11</span>Notwithstanding the children of Korah died not.</p>
+id: NUM/26/11
+next:
+  id: NUM/26/12
+  number: '12'
+previous:
+  id: NUM/26/10
+  number: '10'
+reference: 'Numbers 26:11'

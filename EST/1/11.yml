@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EST 1:11" class="v">11</span>To
+  bring Vashti the queen before the king with the crown royal, to shew the
+  people and the princes her beauty: for she <span class="add">was</span> fair
+  to look on. </p>
+id: EST/1/11
+next:
+  id: EST/1/12
+  number: '12'
+previous:
+  id: EST/1/10
+  number: '10'
+reference: 'Esther 1:11'

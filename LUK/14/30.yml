@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 14:30"
+  class="v">30</span><span class="wj">Saying, This man began to build, and was
+  not able to finish.</span> </p>
+id: LUK/14/30
+next:
+  id: LUK/14/31
+  number: '31'
+previous:
+  id: LUK/14/29
+  number: '29'
+reference: 'Luke 14:30'

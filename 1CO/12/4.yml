@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1CO 12:4" class="v">4</span>Now
+  there are diversities of gifts, but the same Spirit. </p>
+id: 1CO/12/4
+next:
+  id: 1CO/12/5
+  number: '5'
+previous:
+  id: 1CO/12/3
+  number: '3'
+reference: '1 Corinthians 12:4'

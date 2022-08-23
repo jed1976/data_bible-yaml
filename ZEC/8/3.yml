@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ZEC 8:3" class="v">3</span>Thus
+  saith the <span class="nd">LORD</span>; I am returned unto Zion, and will
+  dwell in the midst of Jerusalem: and Jerusalem shall be called a city of
+  truth; and the mountain of the <span class="nd">LORD</span> of hosts the holy
+  mountain. </p>
+id: ZEC/8/3
+next:
+  id: ZEC/8/4
+  number: '4'
+previous:
+  id: ZEC/8/2
+  number: '2'
+reference: 'Zechariah 8:3'

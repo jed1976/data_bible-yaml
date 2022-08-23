@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="NUM 13:4" class="v">4</span>And
+  these <span class="add">were</span> their names: of the tribe of Reuben,
+  Shammua the son of Zaccur. </p>
+id: NUM/13/4
+next:
+  id: NUM/13/5
+  number: '5'
+previous:
+  id: NUM/13/3
+  number: '3'
+reference: 'Numbers 13:4'

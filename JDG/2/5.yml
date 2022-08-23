@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="JDG 2:5" class="v">5</span>And
+  they called the name of that place Bochim: and they sacrificed there unto the
+  <span class="nd">LORD</span>.</p>
+id: JDG/2/5
+next:
+  id: JDG/2/6
+  number: '6'
+previous:
+  id: JDG/2/4
+  number: '4'
+reference: 'Judges 2:5'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="EZK 2:2" class="v">2</span>And
+  the spirit entered into me when he spake unto me, and set me upon my feet,
+  that I heard him that spake unto me. </p>
+id: EZK/2/2
+next:
+  id: EZK/2/3
+  number: '3'
+previous:
+  id: EZK/2/1
+  number: '1'
+reference: 'Ezekiel 2:2'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="GEN 30:42"
+  class="v">42</span>But when the cattle were feeble, he put <span
+  class="add">them</span> not in: so the feebler were Laban’s, and the stronger
+  Jacob’s. </p>
+id: GEN/30/42
+next:
+  id: GEN/30/43
+  number: '43'
+previous:
+  id: GEN/30/41
+  number: '41'
+reference: 'Genesis 30:42'

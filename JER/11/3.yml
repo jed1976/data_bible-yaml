@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="JER 11:3" class="v">3</span>And
+  say thou unto them, Thus saith the <span class="nd">LORD</span> God of Israel;
+  Cursed <span class="add">be</span> the man that obeyeth not the words of this
+  covenant, </p>
+id: JER/11/3
+next:
+  id: JER/11/4
+  number: '4'
+previous:
+  id: JER/11/2
+  number: '2'
+reference: 'Jeremiah 11:3'

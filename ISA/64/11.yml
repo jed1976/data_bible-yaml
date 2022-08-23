@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ISA 64:11"
+  class="v">11</span>Our holy and our beautiful house, where our fathers praised
+  thee, is burned up with fire: and all our pleasant things are laid waste. </p>
+id: ISA/64/11
+next:
+  id: ISA/64/12
+  number: '12'
+previous:
+  id: ISA/64/10
+  number: '10'
+reference: 'Isaiah 64:11'

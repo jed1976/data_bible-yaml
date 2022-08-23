@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="DEU 10:18" class="v">18</span>He
+  doth execute the judgment of the fatherless and widow, and loveth the
+  stranger, in giving him food and raiment. </p>
+id: DEU/10/18
+next:
+  id: DEU/10/19
+  number: '19'
+previous:
+  id: DEU/10/17
+  number: '17'
+reference: 'Deuteronomy 10:18'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="5" data-sid="PSA 130:5"
+  class="v">5</span>I wait for the <span class="nd">LORD</span>, my soul doth
+  wait, and in his word do I hope.</p>
+id: PSA/130/5
+next:
+  id: PSA/130/6
+  number: '6'
+previous:
+  id: PSA/130/4
+  number: '4'
+reference: 'Psalms 130:5'

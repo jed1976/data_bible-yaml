@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 5:23" class="v">23</span>And
+  it came to pass, when ye heard the voice out of the midst of the darkness,
+  (for the mountain did burn with fire,) that ye came near unto me, <span
+  class="add">even</span> all the heads of your tribes, and your elders; </p>
+id: DEU/5/23
+next:
+  id: DEU/5/24
+  number: '24'
+previous:
+  id: DEU/5/22
+  number: '22'
+reference: 'Deuteronomy 5:23'

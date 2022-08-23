@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="1CO 5:2" class="v">2</span>And ye
+  are puffed up, and have not rather mourned, that he that hath done this deed
+  might be taken away from among you. </p>
+id: 1CO/5/2
+next:
+  id: 1CO/5/3
+  number: '3'
+previous:
+  id: 1CO/5/1
+  number: '1'
+reference: '1 Corinthians 5:2'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 22:6" class="v">6</span>And
+  Elam bare the quiver with chariots of men <span class="add">and</span>
+  horsemen, and Kir uncovered the shield. </p>
+id: ISA/22/6
+next:
+  id: ISA/22/7
+  number: '7'
+previous:
+  id: ISA/22/5
+  number: '5'
+reference: 'Isaiah 22:6'

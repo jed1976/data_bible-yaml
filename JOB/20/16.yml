@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JOB 20:16" class="v">16</span>He
+  shall suck the poison of asps: the viper’s tongue shall slay him. </p>
+id: JOB/20/16
+next:
+  id: JOB/20/17
+  number: '17'
+previous:
+  id: JOB/20/15
+  number: '15'
+reference: 'Job 20:16'

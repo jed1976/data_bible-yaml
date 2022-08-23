@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ISA 41:14"
+  class="v">14</span>Fear not, thou worm Jacob, <span class="add">and</span> ye
+  men of Israel; I will help thee, saith the <span class="nd">LORD</span>, and
+  thy redeemer, the Holy One of Israel. </p>
+id: ISA/41/14
+next:
+  id: ISA/41/15
+  number: '15'
+previous:
+  id: ISA/41/13
+  number: '13'
+reference: 'Isaiah 41:14'

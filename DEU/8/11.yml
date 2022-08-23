@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="DEU 8:11"
+  class="v">11</span>Beware that thou forget not the <span
+  class="nd">LORD</span> thy God, in not keeping his commandments, and his
+  judgments, and his statutes, which I command thee this day: </p>
+id: DEU/8/11
+next:
+  id: DEU/8/12
+  number: '12'
+previous:
+  id: DEU/8/10
+  number: '10'
+reference: 'Deuteronomy 8:11'

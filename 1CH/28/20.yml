@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1CH 28:20"
+  class="v">20</span>And David said to Solomon his son, Be strong and of good
+  courage, and do <span class="add">it:</span> fear not, nor be dismayed: for
+  the <span class="nd">LORD</span> God, <span class="add">even</span> my God,
+  <span class="add">will be</span> with thee; he will not fail thee, nor forsake
+  thee, until thou hast finished all the work for the service of the house of
+  the <span class="nd">LORD</span>. </p>
+id: 1CH/28/20
+next:
+  id: 1CH/28/21
+  number: '21'
+previous:
+  id: 1CH/28/19
+  number: '19'
+reference: '1 Chronicles 28:20'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 8:12" class="v">12</span>¶
+  Then Solomon offered burnt offerings unto the <span class="nd">LORD</span> on
+  the altar of the <span class="nd">LORD</span>, which he had built before the
+  porch, </p>
+id: 2CH/8/12
+next:
+  id: 2CH/8/13
+  number: '13'
+previous:
+  id: 2CH/8/11
+  number: '11'
+reference: '2 Chronicles 8:12'

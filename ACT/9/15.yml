@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ACT 9:15" class="v">15</span>But
+  the Lord said unto him, <span class="wj">Go thy way: for he is a chosen vessel
+  unto me, to bear my name before the Gentiles, and kings, and the children of
+  Israel:</span> </p>
+id: ACT/9/15
+next:
+  id: ACT/9/16
+  number: '16'
+previous:
+  id: ACT/9/14
+  number: '14'
+reference: 'Acts 9:15'

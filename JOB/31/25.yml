@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="JOB 31:25" class="v">25</span>If
+  I rejoiced because my wealth <span class="add">was</span> great, and because
+  mine hand had gotten much; </p>
+id: JOB/31/25
+next:
+  id: JOB/31/26
+  number: '26'
+previous:
+  id: JOB/31/24
+  number: '24'
+reference: 'Job 31:25'

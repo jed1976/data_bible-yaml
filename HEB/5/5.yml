@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="HEB 5:5" class="v">5</span>So
+  also Christ glorified not himself to be made an high priest; but he that said
+  unto him, Thou art my Son, to day have I begotten thee. </p>
+id: HEB/5/5
+next:
+  id: HEB/5/6
+  number: '6'
+previous:
+  id: HEB/5/4
+  number: '4'
+reference: 'Hebrews 5:5'

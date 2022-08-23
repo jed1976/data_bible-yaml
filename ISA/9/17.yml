@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="ISA 9:17"
+  class="v">17</span>Therefore the Lord shall have no joy in their young men,
+  neither shall have mercy on their fatherless and widows: for every one <span
+  class="add">is</span> an hypocrite and an evildoer, and every mouth speaketh
+  folly. For all this his anger is not turned away, but his hand <span
+  class="add">is</span> stretched out still.</p>
+id: ISA/9/17
+next:
+  id: ISA/9/18
+  number: '18'
+previous:
+  id: ISA/9/16
+  number: '16'
+reference: 'Isaiah 9:17'

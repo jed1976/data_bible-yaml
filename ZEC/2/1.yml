@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ZEC 2:1" class="v">1</span>I
+  lifted up mine eyes again, and looked, and behold a man with a measuring line
+  in his hand. </p>
+id: ZEC/2/1
+next:
+  id: ZEC/2/2
+  number: '2'
+previous:
+  id: ZEC/1/21
+  number: '21'
+reference: 'Zechariah 2:1'

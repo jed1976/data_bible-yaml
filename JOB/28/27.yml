@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="JOB 28:27"
+  class="v">27</span>Then did he see it, and declare it; he prepared it, yea,
+  and searched it out. </p>
+id: JOB/28/27
+next:
+  id: JOB/28/28
+  number: '28'
+previous:
+  id: JOB/28/26
+  number: '26'
+reference: 'Job 28:27'

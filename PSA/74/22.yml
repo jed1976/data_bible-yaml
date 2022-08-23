@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="22" data-sid="PSA 74:22"
+  class="v">22</span>Arise, O God, plead thine own cause: remember how the
+  foolish man reproacheth thee daily.</p>
+id: PSA/74/22
+next:
+  id: PSA/74/23
+  number: '23'
+previous:
+  id: PSA/74/21
+  number: '21'
+reference: 'Psalms 74:22'

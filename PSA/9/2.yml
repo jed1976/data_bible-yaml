@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="2" data-sid="PSA 9:2" class="v">2</span>I
+  will be glad and rejoice in thee: I will sing praise to thy name, O thou most
+  High.</p>
+id: PSA/9/2
+next:
+  id: PSA/9/3
+  number: '3'
+previous:
+  id: PSA/9/1
+  number: '1'
+reference: 'Psalms 9:2'

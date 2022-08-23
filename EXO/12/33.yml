@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EXO 12:33"
+  class="v">33</span>And the Egyptians were urgent upon the people, that they
+  might send them out of the land in haste; for they said, We <span
+  class="add">be</span> all dead <span class="add">men</span>. </p>
+id: EXO/12/33
+next:
+  id: EXO/12/34
+  number: '34'
+previous:
+  id: EXO/12/32
+  number: '32'
+reference: 'Exodus 12:33'

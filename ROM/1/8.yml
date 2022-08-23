@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ROM 1:8" class="v">8</span>First,
+  I thank my God through Jesus Christ for you all, that your faith is spoken of
+  throughout the whole world. </p>
+id: ROM/1/8
+next:
+  id: ROM/1/9
+  number: '9'
+previous:
+  id: ROM/1/7
+  number: '7'
+reference: 'Romans 1:8'

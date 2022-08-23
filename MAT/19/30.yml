@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="MAT 19:30"
+  class="v">30</span><span class="wj">But many <span class="add">that are</span>
+  first shall be last; and the last <span class="add">shall be</span>
+  first.</span></p>
+id: MAT/19/30
+next:
+  id: MAT/20/1
+  number: '1'
+previous:
+  id: MAT/19/29
+  number: '29'
+reference: 'Matthew 19:30'

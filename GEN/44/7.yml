@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 44:7" class="v">7</span>And
+  they said unto him, Wherefore saith my lord these words? God forbid that thy
+  servants should do according to this thing: </p>
+id: GEN/44/7
+next:
+  id: GEN/44/8
+  number: '8'
+previous:
+  id: GEN/44/6
+  number: '6'
+reference: 'Genesis 44:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="55" data-sid="LUK 22:55"
+  class="v">55</span>And when they had kindled a fire in the midst of the hall,
+  and were set down together, Peter sat down among them. </p>
+id: LUK/22/55
+next:
+  id: LUK/22/56
+  number: '56'
+previous:
+  id: LUK/22/54
+  number: '54'
+reference: 'Luke 22:55'

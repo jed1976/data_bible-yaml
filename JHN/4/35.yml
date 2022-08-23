@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="JHN 4:35"
+  class="v">35</span><span class="wj">Say not ye, There are yet four months, and
+  <span class="add">then</span> cometh harvest? behold, I say unto you, Lift up
+  your eyes, and look on the fields; for they are white already to
+  harvest.</span> </p>
+id: JHN/4/35
+next:
+  id: JHN/4/36
+  number: '36'
+previous:
+  id: JHN/4/34
+  number: '34'
+reference: 'John 4:35'

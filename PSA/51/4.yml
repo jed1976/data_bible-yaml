@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="4" data-sid="PSA 51:4"
+  class="v">4</span>Against thee, thee only, have I sinned, and done <span
+  class="add">this</span> evil in thy sight: that thou mightest be justified
+  when thou speakest, <span class="add">and</span> be clear when thou
+  judgest.</p>
+id: PSA/51/4
+next:
+  id: PSA/51/5
+  number: '5'
+previous:
+  id: PSA/51/3
+  number: '3'
+reference: 'Psalms 51:4'

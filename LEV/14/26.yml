@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LEV 14:26"
+  class="v">26</span>And the priest shall pour of the oil into the palm of his
+  own left hand: </p>
+id: LEV/14/26
+next:
+  id: LEV/14/27
+  number: '27'
+previous:
+  id: LEV/14/25
+  number: '25'
+reference: 'Leviticus 14:26'

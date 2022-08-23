@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="PRO 10:5" class="v">5</span>He
+  that gathereth in summer <span class="add">is</span> a wise son: <span
+  class="add">but</span> he that sleepeth in harvest <span class="add">is</span>
+  a son that causeth shame. </p>
+id: PRO/10/5
+next:
+  id: PRO/10/6
+  number: '6'
+previous:
+  id: PRO/10/4
+  number: '4'
+reference: 'Proverbs 10:5'

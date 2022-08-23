@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="LUK 15:4" class="v">4</span><span
+  class="wj">What man of you, having an hundred sheep, if he lose one of them,
+  doth not leave the ninety and nine in the wilderness, and go after that which
+  is lost, until he find it?</span> </p>
+id: LUK/15/4
+next:
+  id: LUK/15/5
+  number: '5'
+previous:
+  id: LUK/15/3
+  number: '3'
+reference: 'Luke 15:4'

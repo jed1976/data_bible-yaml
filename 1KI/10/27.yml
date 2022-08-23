@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="1KI 10:27"
+  class="v">27</span>And the king made silver <span class="add">to be</span> in
+  Jerusalem as stones, and cedars made he <span class="add">to be</span> as the
+  sycomore trees that <span class="add">are</span> in the vale, for
+  abundance.</p>
+id: 1KI/10/27
+next:
+  id: 1KI/10/28
+  number: '28'
+previous:
+  id: 1KI/10/26
+  number: '26'
+reference: '1 Kings 10:27'

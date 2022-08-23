@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="5" data-sid="PSA 1:5"
+  class="v">5</span>Therefore the ungodly shall not stand in the judgment, nor
+  sinners in the congregation of the righteous.</p>
+id: PSA/1/5
+next:
+  id: PSA/1/6
+  number: '6'
+previous:
+  id: PSA/1/4
+  number: '4'
+reference: 'Psalms 1:5'

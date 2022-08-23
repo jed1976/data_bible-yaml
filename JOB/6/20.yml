@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOB 6:20"
+  class="v">20</span>They were confounded because they had hoped; they came
+  thither, and were ashamed. </p>
+id: JOB/6/20
+next:
+  id: JOB/6/21
+  number: '21'
+previous:
+  id: JOB/6/19
+  number: '19'
+reference: 'Job 6:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 20:4" class="v">4</span><span
+  class="wj">And said unto them; Go ye also into the vineyard, and whatsoever is
+  right I will give you. And they went their way.</span> </p>
+id: MAT/20/4
+next:
+  id: MAT/20/5
+  number: '5'
+previous:
+  id: MAT/20/3
+  number: '3'
+reference: 'Matthew 20:4'

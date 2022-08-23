@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="EXO 39:42"
+  class="v">42</span>According to all that the <span class="nd">LORD</span>
+  commanded Moses, so the children of Israel made all the work. </p>
+id: EXO/39/42
+next:
+  id: EXO/39/43
+  number: '43'
+previous:
+  id: EXO/39/41
+  number: '41'
+reference: 'Exodus 39:42'

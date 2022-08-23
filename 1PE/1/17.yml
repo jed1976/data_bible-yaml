@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="1PE 1:17" class="v">17</span>And
+  if ye call on the Father, who without respect of persons judgeth according to
+  every man’s work, pass the time of your sojourning <span
+  class="add">here</span> in fear: </p>
+id: 1PE/1/17
+next:
+  id: 1PE/1/18
+  number: '18'
+previous:
+  id: 1PE/1/16
+  number: '16'
+reference: '1 Peter 1:17'

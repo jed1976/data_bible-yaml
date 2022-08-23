@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="2CH 29:33"
+  class="v">33</span>And the consecrated things <span class="add">were</span>
+  six hundred oxen and three thousand sheep. </p>
+id: 2CH/29/33
+next:
+  id: 2CH/29/34
+  number: '34'
+previous:
+  id: 2CH/29/32
+  number: '32'
+reference: '2 Chronicles 29:33'

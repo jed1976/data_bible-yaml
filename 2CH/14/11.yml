@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 14:11"
+  class="v">11</span>And Asa cried unto the <span class="nd">LORD</span> his
+  God, and said, <span class="nd">LORD</span>, <span class="add">it is</span>
+  nothing with thee to help, whether with many, or with them that have no power:
+  help us, O <span class="nd">LORD</span> our God; for we rest on thee, and in
+  thy name we go against this multitude. O <span class="nd">LORD</span>, thou
+  <span class="add">art</span> our God; let not man prevail against thee. </p>
+id: 2CH/14/11
+next:
+  id: 2CH/14/12
+  number: '12'
+previous:
+  id: 2CH/14/10
+  number: '10'
+reference: '2 Chronicles 14:11'

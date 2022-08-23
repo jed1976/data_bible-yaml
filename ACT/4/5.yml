@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ACT 4:5" class="v">5</span>¶ And
+  it came to pass on the morrow, that their rulers, and elders, and scribes,
+  </p>
+id: ACT/4/5
+next:
+  id: ACT/4/6
+  number: '6'
+previous:
+  id: ACT/4/4
+  number: '4'
+reference: 'Acts 4:5'

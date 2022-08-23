@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="64" data-sid="EZR 2:64" class="v">64</span>¶
+  The whole congregation together <span class="add">was</span> forty and two
+  thousand three hundred <span class="add">and</span> threescore, </p>
+id: EZR/2/64
+next:
+  id: EZR/2/65
+  number: '65'
+previous:
+  id: EZR/2/63
+  number: '63'
+reference: 'Ezra 2:64'

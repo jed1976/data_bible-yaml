@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="HEB 13:22"
+  class="v">22</span>And I beseech you, brethren, suffer the word of
+  exhortation: for I have written a letter unto you in few words. </p>
+id: HEB/13/22
+next:
+  id: HEB/13/23
+  number: '23'
+previous:
+  id: HEB/13/21
+  number: '21'
+reference: 'Hebrews 13:22'

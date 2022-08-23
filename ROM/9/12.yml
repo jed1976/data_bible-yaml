@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ROM 9:12" class="v">12</span>It
+  was said unto her, The elder shall serve the younger. </p>
+id: ROM/9/12
+next:
+  id: ROM/9/13
+  number: '13'
+previous:
+  id: ROM/9/11
+  number: '11'
+reference: 'Romans 9:12'

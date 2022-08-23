@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="GEN 30:24"
+  class="v">24</span>And she called his name Joseph; and said, The <span
+  class="nd">LORD</span> shall add to me another son.</p>
+id: GEN/30/24
+next:
+  id: GEN/30/25
+  number: '25'
+previous:
+  id: GEN/30/23
+  number: '23'
+reference: 'Genesis 30:24'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="DEU 19:5" class="v">5</span>As
+  when a man goeth into the wood with his neighbour to hew wood, and his hand
+  fetcheth a stroke with the axe to cut down the tree, and the head slippeth
+  from the helve, and lighteth upon his neighbour, that he die; he shall flee
+  unto one of those cities, and live: </p>
+id: DEU/19/5
+next:
+  id: DEU/19/6
+  number: '6'
+previous:
+  id: DEU/19/4
+  number: '4'
+reference: 'Deuteronomy 19:5'

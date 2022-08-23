@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="ROM 7:14" class="v">14</span>For
+  we know that the law is spiritual: but I am carnal, sold under sin. </p>
+id: ROM/7/14
+next:
+  id: ROM/7/15
+  number: '15'
+previous:
+  id: ROM/7/13
+  number: '13'
+reference: 'Romans 7:14'

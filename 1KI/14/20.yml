@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 14:20"
+  class="v">20</span>And the days which Jeroboam reigned <span
+  class="add">were</span> two and twenty years: and he slept with his fathers,
+  and Nadab his son reigned in his stead.</p>
+id: 1KI/14/20
+next:
+  id: 1KI/14/21
+  number: '21'
+previous:
+  id: 1KI/14/19
+  number: '19'
+reference: '1 Kings 14:20'

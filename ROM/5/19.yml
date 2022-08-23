@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ROM 5:19" class="v">19</span>For
+  as by one man’s disobedience many were made sinners, so by the obedience of
+  one shall many be made righteous. </p>
+id: ROM/5/19
+next:
+  id: ROM/5/20
+  number: '20'
+previous:
+  id: ROM/5/18
+  number: '18'
+reference: 'Romans 5:19'

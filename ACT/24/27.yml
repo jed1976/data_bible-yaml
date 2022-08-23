@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="ACT 24:27"
+  class="v">27</span>But after two years Porcius Festus came into Felix’ room:
+  and Felix, willing to shew the Jews a pleasure, left Paul bound.</p>
+id: ACT/24/27
+next:
+  id: ACT/25/1
+  number: '1'
+previous:
+  id: ACT/24/26
+  number: '26'
+reference: 'Acts 24:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="EXO 22:16" class="v">16</span>¶
+  And if a man entice a maid that is not betrothed, and lie with her, he shall
+  surely endow her to be his wife. </p>
+id: EXO/22/16
+next:
+  id: EXO/22/17
+  number: '17'
+previous:
+  id: EXO/22/15
+  number: '15'
+reference: 'Exodus 22:16'

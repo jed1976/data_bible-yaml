@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 7:13" class="v">13</span>I
+  saw in the night visions, and, behold, <span class="add">one</span> like the
+  Son of man came with the clouds of heaven, and came to the Ancient of days,
+  and they brought him near before him. </p>
+id: DAN/7/13
+next:
+  id: DAN/7/14
+  number: '14'
+previous:
+  id: DAN/7/12
+  number: '12'
+reference: 'Daniel 7:13'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="PRO 17:7"
+  class="v">7</span>Excellent speech becometh not a fool: much less do lying
+  lips a prince. </p>
+id: PRO/17/7
+next:
+  id: PRO/17/8
+  number: '8'
+previous:
+  id: PRO/17/6
+  number: '6'
+reference: 'Proverbs 17:7'

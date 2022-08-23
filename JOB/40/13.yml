@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JOB 40:13"
+  class="v">13</span>Hide them in the dust together; <span
+  class="add">and</span> bind their faces in secret. </p>
+id: JOB/40/13
+next:
+  id: JOB/40/14
+  number: '14'
+previous:
+  id: JOB/40/12
+  number: '12'
+reference: 'Job 40:13'

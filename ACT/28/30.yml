@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="ACT 28:30"
+  class="v">30</span>And Paul dwelt two whole years in his own hired house, and
+  received all that came in unto him, </p>
+id: ACT/28/30
+next:
+  id: ACT/28/31
+  number: '31'
+previous:
+  id: ACT/28/29
+  number: '29'
+reference: 'Acts 28:30'

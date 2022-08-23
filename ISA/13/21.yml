@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 13:21"
+  class="v">21</span>But wild beasts of the desert shall lie there; and their
+  houses shall be full of doleful creatures; and owls shall dwell there, and
+  satyrs shall dance there. </p>
+id: ISA/13/21
+next:
+  id: ISA/13/22
+  number: '22'
+previous:
+  id: ISA/13/20
+  number: '20'
+reference: 'Isaiah 13:21'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="EXO 39:30" class="v">30</span>¶
+  And they made the plate of the holy crown <span class="add">of</span> pure
+  gold, and wrote upon it a writing, <span class="add">like to</span> the
+  engravings of a signet, HOLINESS TO THE <span class="nd">LORD</span>. </p>
+id: EXO/39/30
+next:
+  id: EXO/39/31
+  number: '31'
+previous:
+  id: EXO/39/29
+  number: '29'
+reference: 'Exodus 39:30'

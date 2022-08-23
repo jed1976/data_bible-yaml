@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 18:16"
+  class="v">16</span>He sent from above, he took me, he drew me out of many
+  waters.</p>
+id: PSA/18/16
+next:
+  id: PSA/18/17
+  number: '17'
+previous:
+  id: PSA/18/15
+  number: '15'
+reference: 'Psalms 18:16'

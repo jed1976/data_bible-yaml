@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="HOS 7:3" class="v">3</span>They
+  make the king glad with their wickedness, and the princes with their lies.
+  </p>
+id: HOS/7/3
+next:
+  id: HOS/7/4
+  number: '4'
+previous:
+  id: HOS/7/2
+  number: '2'
+reference: 'Hosea 7:3'

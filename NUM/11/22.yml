@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="NUM 11:22"
+  class="v">22</span>Shall the flocks and the herds be slain for them, to
+  suffice them? or shall all the fish of the sea be gathered together for them,
+  to suffice them? </p>
+id: NUM/11/22
+next:
+  id: NUM/11/23
+  number: '23'
+previous:
+  id: NUM/11/21
+  number: '21'
+reference: 'Numbers 11:22'

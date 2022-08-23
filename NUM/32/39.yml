@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="39" data-sid="NUM 32:39"
+  class="v">39</span>And the children of Machir the son of Manasseh went to
+  Gilead, and took it, and dispossessed the Amorite which <span
+  class="add">was</span> in it. </p>
+id: NUM/32/39
+next:
+  id: NUM/32/40
+  number: '40'
+previous:
+  id: NUM/32/38
+  number: '38'
+reference: 'Numbers 32:39'

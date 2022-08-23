@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="49" data-sid="NEH 7:49" class="v">49</span>The
+  children of Hanan, the children of Giddel, the children of Gahar, </p>
+id: NEH/7/49
+next:
+  id: NEH/7/50
+  number: '50'
+previous:
+  id: NEH/7/48
+  number: '48'
+reference: 'Nehemiah 7:49'

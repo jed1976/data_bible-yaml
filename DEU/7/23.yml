@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="DEU 7:23" class="v">23</span>But
+  the <span class="nd">LORD</span> thy God shall deliver them unto thee, and
+  shall destroy them with a mighty destruction, until they be destroyed. </p>
+id: DEU/7/23
+next:
+  id: DEU/7/24
+  number: '24'
+previous:
+  id: DEU/7/22
+  number: '22'
+reference: 'Deuteronomy 7:23'

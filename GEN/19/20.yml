@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 19:20"
+  class="v">20</span>Behold now, this city <span class="add">is</span> near to
+  flee unto, and it <span class="add">is</span> a little one: Oh, let me escape
+  thither, (<span class="add">is</span> it not a little one?) and my soul shall
+  live. </p>
+id: GEN/19/20
+next:
+  id: GEN/19/21
+  number: '21'
+previous:
+  id: GEN/19/19
+  number: '19'
+reference: 'Genesis 19:20'

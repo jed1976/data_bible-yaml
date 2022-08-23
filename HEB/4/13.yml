@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 4:13"
+  class="v">13</span>Neither is there any creature that is not manifest in his
+  sight: but all things <span class="add">are</span> naked and opened unto the
+  eyes of him with whom we have to do. </p>
+id: HEB/4/13
+next:
+  id: HEB/4/14
+  number: '14'
+previous:
+  id: HEB/4/12
+  number: '12'
+reference: 'Hebrews 4:13'

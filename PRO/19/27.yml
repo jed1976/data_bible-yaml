@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 19:27"
+  class="v">27</span>Cease, my son, to hear the instruction <span
+  class="add">that causeth</span> to err from the words of knowledge. </p>
+id: PRO/19/27
+next:
+  id: PRO/19/28
+  number: '28'
+previous:
+  id: PRO/19/26
+  number: '26'
+reference: 'Proverbs 19:27'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 1:32" class="v">32</span>He
+  shall be great, and shall be called the Son of the Highest: and the Lord God
+  shall give unto him the throne of his father David: </p>
+id: LUK/1/32
+next:
+  id: LUK/1/33
+  number: '33'
+previous:
+  id: LUK/1/31
+  number: '31'
+reference: 'Luke 1:32'

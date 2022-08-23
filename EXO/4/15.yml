@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 4:15" class="v">15</span>And
+  thou shalt speak unto him, and put words in his mouth: and I will be with thy
+  mouth, and with his mouth, and will teach you what ye shall do. </p>
+id: EXO/4/15
+next:
+  id: EXO/4/16
+  number: '16'
+previous:
+  id: EXO/4/14
+  number: '14'
+reference: 'Exodus 4:15'

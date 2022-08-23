@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JHN 10:22" class="v">22</span>¶
+  And it was at Jerusalem the feast of the dedication, and it was winter. </p>
+id: JHN/10/22
+next:
+  id: JHN/10/23
+  number: '23'
+previous:
+  id: JHN/10/21
+  number: '21'
+reference: 'John 10:22'

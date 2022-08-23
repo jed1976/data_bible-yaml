@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CO 1:16" class="v">16</span>And
+  I baptized also the household of Stephanas: besides, I know not whether I
+  baptized any other. </p>
+id: 1CO/1/16
+next:
+  id: 1CO/1/17
+  number: '17'
+previous:
+  id: 1CO/1/15
+  number: '15'
+reference: '1 Corinthians 1:16'

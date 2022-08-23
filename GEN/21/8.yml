@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 21:8" class="v">8</span>And
+  the child grew, and was weaned: and Abraham made a great feast the <span
+  class="add">same</span> day that Isaac was weaned.</p>
+id: GEN/21/8
+next:
+  id: GEN/21/9
+  number: '9'
+previous:
+  id: GEN/21/7
+  number: '7'
+reference: 'Genesis 21:8'

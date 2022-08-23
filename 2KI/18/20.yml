@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="2KI 18:20"
+  class="v">20</span>Thou sayest, (but <span class="add">they are but</span>
+  vain words,) <span class="add">I have</span> counsel and strength for the war.
+  Now on whom dost thou trust, that thou rebellest against me? </p>
+id: 2KI/18/20
+next:
+  id: 2KI/18/21
+  number: '21'
+previous:
+  id: 2KI/18/19
+  number: '19'
+reference: '2 Kings 18:20'

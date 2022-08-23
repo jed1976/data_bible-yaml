@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="HOS 12:12"
+  class="v">12</span>And Jacob fled into the country of Syria, and Israel served
+  for a wife, and for a wife he kept <span class="add">sheep</span>. </p>
+id: HOS/12/12
+next:
+  id: HOS/12/13
+  number: '13'
+previous:
+  id: HOS/12/11
+  number: '11'
+reference: 'Hosea 12:12'

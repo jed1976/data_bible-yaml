@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JHN 9:20" class="v">20</span>His
+  parents answered them and said, We know that this is our son, and that he was
+  born blind: </p>
+id: JHN/9/20
+next:
+  id: JHN/9/21
+  number: '21'
+previous:
+  id: JHN/9/19
+  number: '19'
+reference: 'John 9:20'

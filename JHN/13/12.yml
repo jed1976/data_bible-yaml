@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="JHN 13:12" class="v">12</span>So
+  after he had washed their feet, and had taken his garments, and was set down
+  again, he said unto them, <span class="wj">Know ye what I have done to
+  you?</span> </p>
+id: JHN/13/12
+next:
+  id: JHN/13/13
+  number: '13'
+previous:
+  id: JHN/13/11
+  number: '11'
+reference: 'John 13:12'

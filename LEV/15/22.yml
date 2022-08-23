@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="LEV 15:22"
+  class="v">22</span>And whosoever toucheth any thing that she sat upon shall
+  wash his clothes, and bathe <span class="add">himself</span> in water, and be
+  unclean until the even. </p>
+id: LEV/15/22
+next:
+  id: LEV/15/23
+  number: '23'
+previous:
+  id: LEV/15/21
+  number: '21'
+reference: 'Leviticus 15:22'

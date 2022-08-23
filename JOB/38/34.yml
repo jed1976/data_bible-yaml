@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="JOB 38:34"
+  class="v">34</span>Canst thou lift up thy voice to the clouds, that abundance
+  of waters may cover thee? </p>
+id: JOB/38/34
+next:
+  id: JOB/38/35
+  number: '35'
+previous:
+  id: JOB/38/33
+  number: '33'
+reference: 'Job 38:34'

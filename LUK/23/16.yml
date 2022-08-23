@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="LUK 23:16" class="v">16</span>I
+  will therefore chastise him, and release <span class="add">him</span>. </p>
+id: LUK/23/16
+next:
+  id: LUK/23/17
+  number: '17'
+previous:
+  id: LUK/23/15
+  number: '15'
+reference: 'Luke 23:16'

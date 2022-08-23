@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="COL 1:7" class="v">7</span>As ye
+  also learned of Epaphras our dear fellowservant, who is for you a faithful
+  minister of Christ; </p>
+id: COL/1/7
+next:
+  id: COL/1/8
+  number: '8'
+previous:
+  id: COL/1/6
+  number: '6'
+reference: 'Colossians 1:7'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="EPH 5:18" class="v">18</span>And
+  be not drunk with wine, wherein is excess; but be filled with the Spirit; </p>
+id: EPH/5/18
+next:
+  id: EPH/5/19
+  number: '19'
+previous:
+  id: EPH/5/17
+  number: '17'
+reference: 'Ephesians 5:18'

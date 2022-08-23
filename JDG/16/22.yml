@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JDG 16:22"
+  class="v">22</span>Howbeit the hair of his head began to grow again after he
+  was shaven. </p>
+id: JDG/16/22
+next:
+  id: JDG/16/23
+  number: '23'
+previous:
+  id: JDG/16/21
+  number: '21'
+reference: 'Judges 16:22'

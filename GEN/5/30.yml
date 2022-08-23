@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="GEN 5:30" class="v">30</span>And
+  Lamech lived after he begat Noah five hundred ninety and five years, and begat
+  sons and daughters: </p>
+id: GEN/5/30
+next:
+  id: GEN/5/31
+  number: '31'
+previous:
+  id: GEN/5/29
+  number: '29'
+reference: 'Genesis 5:30'

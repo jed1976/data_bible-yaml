@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="ISA 63:19" class="v">19</span>We
+  are <span class="add">thine:</span> thou never barest rule over them; they
+  were not called by thy name.</p>
+id: ISA/63/19
+next:
+  id: ISA/64/1
+  number: '1'
+previous:
+  id: ISA/63/18
+  number: '18'
+reference: 'Isaiah 63:19'

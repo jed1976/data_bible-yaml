@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="MAT 18:34"
+  class="v">34</span><span class="wj">And his lord was wroth, and delivered him
+  to the tormentors, till he should pay all that was due unto him.</span> </p>
+id: MAT/18/34
+next:
+  id: MAT/18/35
+  number: '35'
+previous:
+  id: MAT/18/33
+  number: '33'
+reference: 'Matthew 18:34'

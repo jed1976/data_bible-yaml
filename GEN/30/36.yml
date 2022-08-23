@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="36" data-sid="GEN 30:36"
+  class="v">36</span>And he set three days’ journey betwixt himself and Jacob:
+  and Jacob fed the rest of Laban’s flocks.</p>
+id: GEN/30/36
+next:
+  id: GEN/30/37
+  number: '37'
+previous:
+  id: GEN/30/35
+  number: '35'
+reference: 'Genesis 30:36'

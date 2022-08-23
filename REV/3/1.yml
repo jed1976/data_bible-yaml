@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="REV 3:1" class="v">1</span><span
+  class="wj">And unto the angel of the church in Sardis write; These things
+  saith he that hath the seven Spirits of God, and the seven stars; I know thy
+  works, that thou hast a name that thou livest, and art dead.</span> </p>
+id: REV/3/1
+next:
+  id: REV/3/2
+  number: '2'
+previous:
+  id: REV/2/29
+  number: '29'
+reference: 'Revelation 3:1'

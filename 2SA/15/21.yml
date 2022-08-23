@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="2SA 15:21"
+  class="v">21</span>And Ittai answered the king, and said, <span
+  class="add">As</span> the <span class="nd">LORD</span> liveth, and <span
+  class="add">as</span> my lord the king liveth, surely in what place my lord
+  the king shall be, whether in death or life, even there also will thy servant
+  be. </p>
+id: 2SA/15/21
+next:
+  id: 2SA/15/22
+  number: '22'
+previous:
+  id: 2SA/15/20
+  number: '20'
+reference: '2 Samuel 15:21'

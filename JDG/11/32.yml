@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="JDG 11:32" class="v">32</span>¶
+  So Jephthah passed over unto the children of Ammon to fight against them; and
+  the <span class="nd">LORD</span> delivered them into his hands. </p>
+id: JDG/11/32
+next:
+  id: JDG/11/33
+  number: '33'
+previous:
+  id: JDG/11/31
+  number: '31'
+reference: 'Judges 11:32'

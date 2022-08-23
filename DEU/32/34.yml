@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="DEU 32:34"
+  class="v">34</span><span class="add">Is</span> not this laid up in store with
+  me, <span class="add">and</span> sealed up among my treasures? </p>
+id: DEU/32/34
+next:
+  id: DEU/32/35
+  number: '35'
+previous:
+  id: DEU/32/33
+  number: '33'
+reference: 'Deuteronomy 32:34'

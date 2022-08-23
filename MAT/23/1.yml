@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="MAT 23:1" class="v">1</span>Then
+  spake Jesus to the multitude, and to his disciples, </p>
+id: MAT/23/1
+next:
+  id: MAT/23/2
+  number: '2'
+previous:
+  id: MAT/22/46
+  number: '46'
+reference: 'Matthew 23:1'

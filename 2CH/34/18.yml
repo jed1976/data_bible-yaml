@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="2CH 34:18"
+  class="v">18</span>Then Shaphan the scribe told the king, saying, Hilkiah the
+  priest hath given me a book. And Shaphan read it before the king. </p>
+id: 2CH/34/18
+next:
+  id: 2CH/34/19
+  number: '19'
+previous:
+  id: 2CH/34/17
+  number: '17'
+reference: '2 Chronicles 34:18'

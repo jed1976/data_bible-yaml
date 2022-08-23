@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EZK 10:4" class="v">4</span>Then
+  the glory of the <span class="nd">LORD</span> went up from the cherub, <span
+  class="add">and stood</span> over the threshold of the house; and the house
+  was filled with the cloud, and the court was full of the brightness of the
+  <span class="nd">LORD’s</span> glory. </p>
+id: EZK/10/4
+next:
+  id: EZK/10/5
+  number: '5'
+previous:
+  id: EZK/10/3
+  number: '3'
+reference: 'Ezekiel 10:4'

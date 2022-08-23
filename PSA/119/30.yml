@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="30" data-sid="PSA 119:30"
+  class="v">30</span>I have chosen the way of truth: thy judgments have I laid
+  <span class="add">before me</span>.</p>
+id: PSA/119/30
+next:
+  id: PSA/119/31
+  number: '31'
+previous:
+  id: PSA/119/29
+  number: '29'
+reference: 'Psalms 119:30'

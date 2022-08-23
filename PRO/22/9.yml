@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PRO 22:9" class="v">9</span>He
+  that hath a bountiful eye shall be blessed; for he giveth of his bread to the
+  poor. </p>
+id: PRO/22/9
+next:
+  id: PRO/22/10
+  number: '10'
+previous:
+  id: PRO/22/8
+  number: '8'
+reference: 'Proverbs 22:9'

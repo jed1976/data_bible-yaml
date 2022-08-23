@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 43:21"
+  class="v">21</span>This people have I formed for myself; they shall shew forth
+  my praise.</p>
+id: ISA/43/21
+next:
+  id: ISA/43/22
+  number: '22'
+previous:
+  id: ISA/43/20
+  number: '20'
+reference: 'Isaiah 43:21'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 10:16"
+  class="v">16</span>And he took them up in his arms, put <span
+  class="add">his</span> hands upon them, and blessed them.</p>
+id: MRK/10/16
+next:
+  id: MRK/10/17
+  number: '17'
+previous:
+  id: MRK/10/15
+  number: '15'
+reference: 'Mark 10:16'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="DAN 5:13"
+  class="v">13</span>Then was Daniel brought in before the king. <span
+  class="add">And</span> the king spake and said unto Daniel, <span
+  class="add">Art</span> thou that Daniel, which <span class="add">art</span> of
+  the children of the captivity of Judah, whom the king my father brought out of
+  Jewry? </p>
+id: DAN/5/13
+next:
+  id: DAN/5/14
+  number: '14'
+previous:
+  id: DAN/5/12
+  number: '12'
+reference: 'Daniel 5:13'

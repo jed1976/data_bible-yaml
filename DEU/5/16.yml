@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="DEU 5:16" class="v">16</span>¶
+  Honour thy father and thy mother, as the <span class="nd">LORD</span> thy God
+  hath commanded thee; that thy days may be prolonged, and that it may go well
+  with thee, in the land which the <span class="nd">LORD</span> thy God giveth
+  thee. </p>
+id: DEU/5/16
+next:
+  id: DEU/5/17
+  number: '17'
+previous:
+  id: DEU/5/15
+  number: '15'
+reference: 'Deuteronomy 5:16'

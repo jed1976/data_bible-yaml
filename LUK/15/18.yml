@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="LUK 15:18"
+  class="v">18</span><span class="wj">I will arise and go to my father, and will
+  say unto him, Father, I have sinned against heaven, and before thee,</span>
+  </p>
+id: LUK/15/18
+next:
+  id: LUK/15/19
+  number: '19'
+previous:
+  id: LUK/15/17
+  number: '17'
+reference: 'Luke 15:18'

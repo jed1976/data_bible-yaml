@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="PRO 20:27"
+  class="v">27</span>The spirit of man <span class="add">is</span> the candle of
+  the <span class="nd">LORD</span>, searching all the inward parts of the belly.
+  </p>
+id: PRO/20/27
+next:
+  id: PRO/20/28
+  number: '28'
+previous:
+  id: PRO/20/26
+  number: '26'
+reference: 'Proverbs 20:27'

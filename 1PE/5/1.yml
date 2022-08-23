@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1PE 5:1" class="v">1</span>The
+  elders which are among you I exhort, who am also an elder, and a witness of
+  the sufferings of Christ, and also a partaker of the glory that shall be
+  revealed: </p>
+id: 1PE/5/1
+next:
+  id: 1PE/5/2
+  number: '2'
+previous:
+  id: 1PE/4/19
+  number: '19'
+reference: '1 Peter 5:1'

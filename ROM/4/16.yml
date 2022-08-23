@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ROM 4:16"
+  class="v">16</span>Therefore <span class="add">it is</span> of faith, that
+  <span class="add">it might be</span> by grace; to the end the promise might be
+  sure to all the seed; not to that only which is of the law, but to that also
+  which is of the faith of Abraham; who is the father of us all, </p>
+id: ROM/4/16
+next:
+  id: ROM/4/17
+  number: '17'
+previous:
+  id: ROM/4/15
+  number: '15'
+reference: 'Romans 4:16'

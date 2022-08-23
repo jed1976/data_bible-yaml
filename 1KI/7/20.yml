@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1KI 7:20" class="v">20</span>And
+  the chapiters upon the two pillars <span class="add">had pomegranates</span>
+  also above, over against the belly which <span class="add">was</span> by the
+  network: and the pomegranates <span class="add">were</span> two hundred in
+  rows round about upon the other chapiter. </p>
+id: 1KI/7/20
+next:
+  id: 1KI/7/21
+  number: '21'
+previous:
+  id: 1KI/7/19
+  number: '19'
+reference: '1 Kings 7:20'

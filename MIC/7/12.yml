@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="MIC 7:12"
+  class="v">12</span><span class="add">In</span> that day <span
+  class="add">also</span> he shall come even to thee from Assyria, and <span
+  class="add">from</span> the fortified cities, and from the fortress even to
+  the river, and from sea to sea, and <span class="add">from</span> mountain to
+  mountain. </p>
+id: MIC/7/12
+next:
+  id: MIC/7/13
+  number: '13'
+previous:
+  id: MIC/7/11
+  number: '11'
+reference: 'Micah 7:12'

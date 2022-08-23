@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 10:18"
+  class="v">18</span>Hodijah, Hashum, Bezai, </p>
+id: NEH/10/18
+next:
+  id: NEH/10/19
+  number: '19'
+previous:
+  id: NEH/10/17
+  number: '17'
+reference: 'Nehemiah 10:18'

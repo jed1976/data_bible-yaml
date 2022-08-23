@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="EXO 26:12"
+  class="v">12</span>And the remnant that remaineth of the curtains of the tent,
+  the half curtain that remaineth, shall hang over the backside of the
+  tabernacle. </p>
+id: EXO/26/12
+next:
+  id: EXO/26/13
+  number: '13'
+previous:
+  id: EXO/26/11
+  number: '11'
+reference: 'Exodus 26:12'

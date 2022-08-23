@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="GAL 3:26" class="v">26</span>For
+  ye are all the children of God by faith in Christ Jesus. </p>
+id: GAL/3/26
+next:
+  id: GAL/3/27
+  number: '27'
+previous:
+  id: GAL/3/25
+  number: '25'
+reference: 'Galatians 3:26'

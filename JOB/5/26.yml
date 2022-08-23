@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOB 5:26"
+  class="v">26</span>Thou shalt come to <span class="add">thy</span> grave in a
+  full age, like as a shock of corn cometh in in his season. </p>
+id: JOB/5/26
+next:
+  id: JOB/5/27
+  number: '27'
+previous:
+  id: JOB/5/25
+  number: '25'
+reference: 'Job 5:26'

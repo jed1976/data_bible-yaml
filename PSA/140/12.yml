@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 140:12"
+  class="v">12</span>I know that the <span class="nd">LORD</span> will maintain
+  the cause of the afflicted, <span class="add">and</span> the right of the
+  poor.</p>
+id: PSA/140/12
+next:
+  id: PSA/140/13
+  number: '13'
+previous:
+  id: PSA/140/11
+  number: '11'
+reference: 'Psalms 140:12'

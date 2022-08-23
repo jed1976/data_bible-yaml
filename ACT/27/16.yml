@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ACT 27:16"
+  class="v">16</span>And running under a certain island which is called Clauda,
+  we had much work to come by the boat: </p>
+id: ACT/27/16
+next:
+  id: ACT/27/17
+  number: '17'
+previous:
+  id: ACT/27/15
+  number: '15'
+reference: 'Acts 27:16'

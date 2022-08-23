@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="ACT 2:11"
+  class="v">11</span>Cretes and Arabians, we do hear them speak in our tongues
+  the wonderful works of God. </p>
+id: ACT/2/11
+next:
+  id: ACT/2/12
+  number: '12'
+previous:
+  id: ACT/2/10
+  number: '10'
+reference: 'Acts 2:11'

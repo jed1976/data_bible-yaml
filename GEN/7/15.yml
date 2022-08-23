@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="GEN 7:15" class="v">15</span>And
+  they went in unto Noah into the ark, two and two of all flesh, wherein <span
+  class="add">is</span> the breath of life. </p>
+id: GEN/7/15
+next:
+  id: GEN/7/16
+  number: '16'
+previous:
+  id: GEN/7/14
+  number: '14'
+reference: 'Genesis 7:15'

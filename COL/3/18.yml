@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="COL 3:18"
+  class="v">18</span>Wives, submit yourselves unto your own husbands, as it is
+  fit in the Lord. </p>
+id: COL/3/18
+next:
+  id: COL/3/19
+  number: '19'
+previous:
+  id: COL/3/17
+  number: '17'
+reference: 'Colossians 3:18'

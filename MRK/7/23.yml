@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MRK 7:23"
+  class="v">23</span><span class="wj">All these evil things come from within,
+  and defile the man.</span></p>
+id: MRK/7/23
+next:
+  id: MRK/7/24
+  number: '24'
+previous:
+  id: MRK/7/22
+  number: '22'
+reference: 'Mark 7:23'

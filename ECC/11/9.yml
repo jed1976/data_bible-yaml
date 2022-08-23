@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ECC 11:9" class="v">9</span>¶
+  Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days
+  of thy youth, and walk in the ways of thine heart, and in the sight of thine
+  eyes: but know thou, that for all these <span class="add">things</span> God
+  will bring thee into judgment. </p>
+id: ECC/11/9
+next:
+  id: ECC/11/10
+  number: '10'
+previous:
+  id: ECC/11/8
+  number: '8'
+reference: 'Ecclesiastes 11:9'

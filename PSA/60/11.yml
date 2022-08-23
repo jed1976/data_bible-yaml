@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 60:11"
+  class="v">11</span>Give us help from trouble: for vain <span
+  class="add">is</span> the help of man.</p>
+id: PSA/60/11
+next:
+  id: PSA/60/12
+  number: '12'
+previous:
+  id: PSA/60/10
+  number: '10'
+reference: 'Psalms 60:11'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="REV 17:3" class="v">3</span>So he
+  carried me away in the spirit into the wilderness: and I saw a woman sit upon
+  a scarlet coloured beast, full of names of blasphemy, having seven heads and
+  ten horns. </p>
+id: REV/17/3
+next:
+  id: REV/17/4
+  number: '4'
+previous:
+  id: REV/17/2
+  number: '2'
+reference: 'Revelation 17:3'

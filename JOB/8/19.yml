@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="JOB 8:19"
+  class="v">19</span>Behold, this <span class="add">is</span> the joy of his
+  way, and out of the earth shall others grow.</p>
+id: JOB/8/19
+next:
+  id: JOB/8/20
+  number: '20'
+previous:
+  id: JOB/8/18
+  number: '18'
+reference: 'Job 8:19'

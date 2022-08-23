@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="JOB 22:8" class="v">8</span>But
+  <span class="add">as for</span> the mighty man, he had the earth; and the
+  honourable man dwelt in it. </p>
+id: JOB/22/8
+next:
+  id: JOB/22/9
+  number: '9'
+previous:
+  id: JOB/22/7
+  number: '7'
+reference: 'Job 22:8'

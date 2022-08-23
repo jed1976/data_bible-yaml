@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="MAT 15:26"
+  class="v">26</span>But he answered and said, <span class="wj">It is not meet
+  to take the children’s bread, and to cast <span class="add">it</span> to
+  dogs.</span> </p>
+id: MAT/15/26
+next:
+  id: MAT/15/27
+  number: '27'
+previous:
+  id: MAT/15/25
+  number: '25'
+reference: 'Matthew 15:26'

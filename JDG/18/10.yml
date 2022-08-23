@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 18:10"
+  class="v">10</span>When ye go, ye shall come unto a people secure, and to a
+  large land: for God hath given it into your hands; a place where <span
+  class="add">there is</span> no want of any thing that <span
+  class="add">is</span> in the earth.</p>
+id: JDG/18/10
+next:
+  id: JDG/18/11
+  number: '11'
+previous:
+  id: JDG/18/9
+  number: '9'
+reference: 'Judges 18:10'

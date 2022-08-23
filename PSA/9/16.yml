@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="16" data-sid="PSA 9:16"
+  class="v">16</span>The <span class="nd">LORD</span> is known <span
+  class="add">by</span> the judgment <span class="add">which</span> he
+  executeth: the wicked is snared in the work of his own hands. Higgaion.
+  Selah.</p>
+id: PSA/9/16
+next:
+  id: PSA/9/17
+  number: '17'
+previous:
+  id: PSA/9/15
+  number: '15'
+reference: 'Psalms 9:16'

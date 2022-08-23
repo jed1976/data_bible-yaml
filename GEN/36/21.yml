@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="GEN 36:21"
+  class="v">21</span>And Dishon, and Ezer, and Dishan: these <span
+  class="add">are</span> the dukes of the Horites, the children of Seir in the
+  land of Edom. </p>
+id: GEN/36/21
+next:
+  id: GEN/36/22
+  number: '22'
+previous:
+  id: GEN/36/20
+  number: '20'
+reference: 'Genesis 36:21'

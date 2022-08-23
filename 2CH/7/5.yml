@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="2CH 7:5" class="v">5</span>And
+  king Solomon offered a sacrifice of twenty and two thousand oxen, and an
+  hundred and twenty thousand sheep: so the king and all the people dedicated
+  the house of God. </p>
+id: 2CH/7/5
+next:
+  id: 2CH/7/6
+  number: '6'
+previous:
+  id: 2CH/7/4
+  number: '4'
+reference: '2 Chronicles 7:5'

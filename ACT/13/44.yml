@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="44" data-sid="ACT 13:44" class="v">44</span>¶
+  And the next sabbath day came almost the whole city together to hear the word
+  of God. </p>
+id: ACT/13/44
+next:
+  id: ACT/13/45
+  number: '45'
+previous:
+  id: ACT/13/43
+  number: '43'
+reference: 'Acts 13:44'

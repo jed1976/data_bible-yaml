@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ISA 36:7" class="v">7</span>But
+  if thou say to me, We trust in the <span class="nd">LORD</span> our God: <span
+  class="add">is it</span> not he, whose high places and whose altars Hezekiah
+  hath taken away, and said to Judah and to Jerusalem, Ye shall worship before
+  this altar? </p>
+id: ISA/36/7
+next:
+  id: ISA/36/8
+  number: '8'
+previous:
+  id: ISA/36/6
+  number: '6'
+reference: 'Isaiah 36:7'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="78" data-sid="NUM 7:78" class="v">78</span>¶
+  On the twelfth day Ahira the son of Enan, prince of the children of Naphtali,
+  <span class="add">offered:</span> </p>
+id: NUM/7/78
+next:
+  id: NUM/7/79
+  number: '79'
+previous:
+  id: NUM/7/77
+  number: '77'
+reference: 'Numbers 7:78'

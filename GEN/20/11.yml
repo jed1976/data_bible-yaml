@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 20:11"
+  class="v">11</span>And Abraham said, Because I thought, Surely the fear of God
+  <span class="add">is</span> not in this place; and they will slay me for my
+  wife’s sake. </p>
+id: GEN/20/11
+next:
+  id: GEN/20/12
+  number: '12'
+previous:
+  id: GEN/20/10
+  number: '10'
+reference: 'Genesis 20:11'

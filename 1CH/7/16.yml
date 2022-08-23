@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="1CH 7:16" class="v">16</span>And
+  Maachah the wife of Machir bare a son, and she called his name Peresh; and the
+  name of his brother <span class="add">was</span> Sheresh; and his sons <span
+  class="add">were</span> Ulam and Rakem. </p>
+id: 1CH/7/16
+next:
+  id: 1CH/7/17
+  number: '17'
+previous:
+  id: 1CH/7/15
+  number: '15'
+reference: '1 Chronicles 7:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 4:9" class="v">9</span>¶ And
+  the <span class="nd">LORD</span> said unto Cain, Where <span
+  class="add">is</span> Abel thy brother? And he said, I know not: <span
+  class="add">Am</span> I my brother’s keeper? </p>
+id: GEN/4/9
+next:
+  id: GEN/4/10
+  number: '10'
+previous:
+  id: GEN/4/8
+  number: '8'
+reference: 'Genesis 4:9'

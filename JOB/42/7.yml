@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="JOB 42:7" class="v">7</span>¶ And
+  it was <span class="add">so</span>, that after the <span
+  class="nd">LORD</span> had spoken these words unto Job, the <span
+  class="nd">LORD</span> said to Eliphaz the Temanite, My wrath is kindled
+  against thee, and against thy two friends: for ye have not spoken of me <span
+  class="add">the thing that is</span> right, as my servant Job <span
+  class="add">hath</span>. </p>
+id: JOB/42/7
+next:
+  id: JOB/42/8
+  number: '8'
+previous:
+  id: JOB/42/6
+  number: '6'
+reference: 'Job 42:7'

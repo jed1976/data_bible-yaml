@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1SA 13:23"
+  class="v">23</span>And the garrison of the Philistines went out to the passage
+  of Michmash.</p>
+id: 1SA/13/23
+next:
+  id: 1SA/14/1
+  number: '1'
+previous:
+  id: 1SA/13/22
+  number: '22'
+reference: '1 Samuel 13:23'

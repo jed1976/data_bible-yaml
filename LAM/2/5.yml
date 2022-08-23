@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="LAM 2:5" class="v">5</span>The
+  Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all
+  her palaces: he hath destroyed his strong holds, and hath increased in the
+  daughter of Judah mourning and lamentation. </p>
+id: LAM/2/5
+next:
+  id: LAM/2/6
+  number: '6'
+previous:
+  id: LAM/2/4
+  number: '4'
+reference: 'Lamentations 2:5'

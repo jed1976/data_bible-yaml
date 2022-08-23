@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="EZK 10:14"
+  class="v">14</span>And every one had four faces: the first face <span
+  class="add">was</span> the face of a cherub, and the second face <span
+  class="add">was</span> the face of a man, and the third the face of a lion,
+  and the fourth the face of an eagle. </p>
+id: EZK/10/14
+next:
+  id: EZK/10/15
+  number: '15'
+previous:
+  id: EZK/10/13
+  number: '13'
+reference: 'Ezekiel 10:14'

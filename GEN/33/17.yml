@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="GEN 33:17"
+  class="v">17</span>And Jacob journeyed to Succoth, and built him an house, and
+  made booths for his cattle: therefore the name of the place is called
+  Succoth.</p>
+id: GEN/33/17
+next:
+  id: GEN/33/18
+  number: '18'
+previous:
+  id: GEN/33/16
+  number: '16'
+reference: 'Genesis 33:17'

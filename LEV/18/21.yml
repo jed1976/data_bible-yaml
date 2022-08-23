@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="LEV 18:21"
+  class="v">21</span>And thou shalt not let any of thy seed pass through <span
+  class="add">the fire</span> to Molech, neither shalt thou profane the name of
+  thy God: I <span class="add">am</span> the <span class="nd">LORD</span>. </p>
+id: LEV/18/21
+next:
+  id: LEV/18/22
+  number: '22'
+previous:
+  id: LEV/18/20
+  number: '20'
+reference: 'Leviticus 18:21'

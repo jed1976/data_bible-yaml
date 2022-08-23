@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="9" data-sid="PSA 103:9" class="v">9</span>He
+  will not always chide: neither will he keep <span class="add">his anger</span>
+  for ever.</p>
+id: PSA/103/9
+next:
+  id: PSA/103/10
+  number: '10'
+previous:
+  id: PSA/103/8
+  number: '8'
+reference: 'Psalms 103:9'

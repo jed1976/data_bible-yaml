@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EPH 1:11" class="v">11</span>In
+  whom also we have obtained an inheritance, being predestinated according to
+  the purpose of him who worketh all things after the counsel of his own will:
+  </p>
+id: EPH/1/11
+next:
+  id: EPH/1/12
+  number: '12'
+previous:
+  id: EPH/1/10
+  number: '10'
+reference: 'Ephesians 1:11'

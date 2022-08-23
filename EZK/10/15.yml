@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EZK 10:15"
+  class="v">15</span>And the cherubims were lifted up. This <span
+  class="add">is</span> the living creature that I saw by the river of Chebar.
+  </p>
+id: EZK/10/15
+next:
+  id: EZK/10/16
+  number: '16'
+previous:
+  id: EZK/10/14
+  number: '14'
+reference: 'Ezekiel 10:15'

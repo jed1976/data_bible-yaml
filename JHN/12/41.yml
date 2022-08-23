@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="41" data-sid="JHN 12:41"
+  class="v">41</span>These things said Esaias, when he saw his glory, and spake
+  of him.</p>
+id: JHN/12/41
+next:
+  id: JHN/12/42
+  number: '42'
+previous:
+  id: JHN/12/40
+  number: '40'
+reference: 'John 12:41'

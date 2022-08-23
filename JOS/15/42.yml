@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JOS 15:42"
+  class="v">42</span>Libnah, and Ether, and Ashan, </p>
+id: JOS/15/42
+next:
+  id: JOS/15/43
+  number: '43'
+previous:
+  id: JOS/15/41
+  number: '41'
+reference: 'Joshua 15:42'

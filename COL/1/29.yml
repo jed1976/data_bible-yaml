@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="COL 1:29"
+  class="v">29</span>Whereunto I also labour, striving according to his working,
+  which worketh in me mightily.</p>
+id: COL/1/29
+next:
+  id: COL/2/1
+  number: '1'
+previous:
+  id: COL/1/28
+  number: '28'
+reference: 'Colossians 1:29'

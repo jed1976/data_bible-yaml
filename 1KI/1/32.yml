@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1KI 1:32" class="v">32</span>¶
+  And king David said, Call me Zadok the priest, and Nathan the prophet, and
+  Benaiah the son of Jehoiada. And they came before the king. </p>
+id: 1KI/1/32
+next:
+  id: 1KI/1/33
+  number: '33'
+previous:
+  id: 1KI/1/31
+  number: '31'
+reference: '1 Kings 1:32'

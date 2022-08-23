@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="19" data-sid="PSA 136:19"
+  class="v">19</span>Sihon king of the Amorites: for his mercy <span
+  class="add">endureth</span> for ever:</p>
+id: PSA/136/19
+next:
+  id: PSA/136/20
+  number: '20'
+previous:
+  id: PSA/136/18
+  number: '18'
+reference: 'Psalms 136:19'

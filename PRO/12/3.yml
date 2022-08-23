@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="PRO 12:3" class="v">3</span>A man
+  shall not be established by wickedness: but the root of the righteous shall
+  not be moved. </p>
+id: PRO/12/3
+next:
+  id: PRO/12/4
+  number: '4'
+previous:
+  id: PRO/12/2
+  number: '2'
+reference: 'Proverbs 12:3'

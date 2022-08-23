@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="ISA 43:12" class="v">12</span>I
+  have declared, and have saved, and I have shewed, when <span class="add">there
+  was</span> no strange <span class="add">god</span> among you: therefore ye
+  <span class="add">are</span> my witnesses, saith the <span
+  class="nd">LORD</span>, that I <span class="add">am</span> God. </p>
+id: ISA/43/12
+next:
+  id: ISA/43/13
+  number: '13'
+previous:
+  id: ISA/43/11
+  number: '11'
+reference: 'Isaiah 43:12'

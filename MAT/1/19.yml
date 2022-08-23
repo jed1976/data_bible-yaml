@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="19" data-sid="MAT 1:19"
+  class="v">19</span>Then Joseph her husband, being a just <span
+  class="add">man</span>, and not willing to make her a publick example, was
+  minded to put her away privily. </p>
+id: MAT/1/19
+next:
+  id: MAT/1/20
+  number: '20'
+previous:
+  id: MAT/1/18
+  number: '18'
+reference: 'Matthew 1:19'

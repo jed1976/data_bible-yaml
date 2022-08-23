@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 30:5" class="v">5</span>They
+  were all ashamed of a people <span class="add">that</span> could not profit
+  them, nor be an help nor profit, but a shame, and also a reproach. </p>
+id: ISA/30/5
+next:
+  id: ISA/30/6
+  number: '6'
+previous:
+  id: ISA/30/4
+  number: '4'
+reference: 'Isaiah 30:5'

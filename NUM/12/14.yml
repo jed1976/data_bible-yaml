@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="NUM 12:14" class="v">14</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, If her father had but
+  spit in her face, should she not be ashamed seven days? let her be shut out
+  from the camp seven days, and after that let her be received in <span
+  class="add">again</span>. </p>
+id: NUM/12/14
+next:
+  id: NUM/12/15
+  number: '15'
+previous:
+  id: NUM/12/13
+  number: '13'
+reference: 'Numbers 12:14'

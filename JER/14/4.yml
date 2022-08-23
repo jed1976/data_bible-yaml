@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="JER 14:4"
+  class="v">4</span>Because the ground is chapt, for there was no rain in the
+  earth, the plowmen were ashamed, they covered their heads. </p>
+id: JER/14/4
+next:
+  id: JER/14/5
+  number: '5'
+previous:
+  id: JER/14/3
+  number: '3'
+reference: 'Jeremiah 14:4'

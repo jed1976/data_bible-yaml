@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="SNG 5:13" class="v">13</span>His
+  cheeks <span class="add">are</span> as a bed of spices, <span
+  class="add">as</span> sweet flowers: his lips <span class="add">like</span>
+  lilies, dropping sweet smelling myrrh. </p>
+id: SNG/5/13
+next:
+  id: SNG/5/14
+  number: '14'
+previous:
+  id: SNG/5/12
+  number: '12'
+reference: 'Song of Solomon 5:13'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="2CH 10:14"
+  class="v">14</span>And answered them after the advice of the young men,
+  saying, My father made your yoke heavy, but I will add thereto: my father
+  chastised you with whips, but I <span class="add">will chastise you</span>
+  with scorpions. </p>
+id: 2CH/10/14
+next:
+  id: 2CH/10/15
+  number: '15'
+previous:
+  id: 2CH/10/13
+  number: '13'
+reference: '2 Chronicles 10:14'

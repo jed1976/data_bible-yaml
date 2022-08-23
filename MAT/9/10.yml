@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="MAT 9:10" class="v">10</span>¶
+  And it came to pass, as Jesus sat at meat in the house, behold, many publicans
+  and sinners came and sat down with him and his disciples. </p>
+id: MAT/9/10
+next:
+  id: MAT/9/11
+  number: '11'
+previous:
+  id: MAT/9/9
+  number: '9'
+reference: 'Matthew 9:10'

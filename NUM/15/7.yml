@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="NUM 15:7" class="v">7</span>And
+  for a drink offering thou shalt offer the third <span class="add">part</span>
+  of an hin of wine, <span class="add">for</span> a sweet savour unto the <span
+  class="nd">LORD</span>. </p>
+id: NUM/15/7
+next:
+  id: NUM/15/8
+  number: '8'
+previous:
+  id: NUM/15/6
+  number: '6'
+reference: 'Numbers 15:7'

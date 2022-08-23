@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="27" data-sid="GEN 42:27"
+  class="v">27</span>And as one of them opened his sack to give his ass
+  provender in the inn, he espied his money; for, behold, it <span
+  class="add">was</span> in his sack’s mouth. </p>
+id: GEN/42/27
+next:
+  id: GEN/42/28
+  number: '28'
+previous:
+  id: GEN/42/26
+  number: '26'
+reference: 'Genesis 42:27'

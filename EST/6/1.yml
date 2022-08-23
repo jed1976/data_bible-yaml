@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EST 6:1" class="v">1</span>On
+  that night could not the king sleep, and he commanded to bring the book of
+  records of the chronicles; and they were read before the king. </p>
+id: EST/6/1
+next:
+  id: EST/6/2
+  number: '2'
+previous:
+  id: EST/5/14
+  number: '14'
+reference: 'Esther 6:1'

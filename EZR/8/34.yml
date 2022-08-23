@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="EZR 8:34" class="v">34</span>By
+  number <span class="add">and</span> by weight of every one: and all the weight
+  was written at that time. </p>
+id: EZR/8/34
+next:
+  id: EZR/8/35
+  number: '35'
+previous:
+  id: EZR/8/33
+  number: '33'
+reference: 'Ezra 8:34'

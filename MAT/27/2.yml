@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="MAT 27:2" class="v">2</span>And
+  when they had bound him, they led <span class="add">him</span> away, and
+  delivered him to Pontius Pilate the governor.</p>
+id: MAT/27/2
+next:
+  id: MAT/27/3
+  number: '3'
+previous:
+  id: MAT/27/1
+  number: '1'
+reference: 'Matthew 27:2'

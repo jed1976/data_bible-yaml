@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="2CH 6:11" class="v">11</span>And
+  in it have I put the ark, wherein <span class="add">is</span> the covenant of
+  the <span class="nd">LORD</span>, that he made with the children of
+  Israel.</p>
+id: 2CH/6/11
+next:
+  id: 2CH/6/12
+  number: '12'
+previous:
+  id: 2CH/6/10
+  number: '10'
+reference: '2 Chronicles 6:11'

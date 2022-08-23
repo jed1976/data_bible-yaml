@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="GEN 2:3" class="v">3</span>And
+  God blessed the seventh day, and sanctified it: because that in it he had
+  rested from all his work which God created and made.</p>
+id: GEN/2/3
+next:
+  id: GEN/2/4
+  number: '4'
+previous:
+  id: GEN/2/2
+  number: '2'
+reference: 'Genesis 2:3'

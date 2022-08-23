@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JER 43:13" class="v">13</span>He
+  shall break also the images of Beth-shemesh, that <span class="add">is</span>
+  in the land of Egypt; and the houses of the gods of the Egyptians shall he
+  burn with fire.</p>
+id: JER/43/13
+next:
+  id: JER/44/1
+  number: '1'
+previous:
+  id: JER/43/12
+  number: '12'
+reference: 'Jeremiah 43:13'

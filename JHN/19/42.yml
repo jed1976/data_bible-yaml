@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="42" data-sid="JHN 19:42"
+  class="v">42</span>There laid they Jesus therefore because of the Jews’
+  preparation <span class="add">day</span>; for the sepulchre was nigh at
+  hand.</p>
+id: JHN/19/42
+next:
+  id: JHN/20/1
+  number: '1'
+previous:
+  id: JHN/19/41
+  number: '41'
+reference: 'John 19:42'

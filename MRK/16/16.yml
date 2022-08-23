@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="MRK 16:16"
+  class="v">16</span><span class="wj">He that believeth and is baptized shall be
+  saved; but he that believeth not shall be damned.</span> </p>
+id: MRK/16/16
+next:
+  id: MRK/16/17
+  number: '17'
+previous:
+  id: MRK/16/15
+  number: '15'
+reference: 'Mark 16:16'

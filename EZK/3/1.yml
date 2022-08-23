@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="EZK 3:1"
+  class="v">1</span>Moreover he said unto me, Son of man, eat that thou findest;
+  eat this roll, and go speak unto the house of Israel. </p>
+id: EZK/3/1
+next:
+  id: EZK/3/2
+  number: '2'
+previous:
+  id: EZK/2/10
+  number: '10'
+reference: 'Ezekiel 3:1'

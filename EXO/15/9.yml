@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="EXO 15:9" class="v">9</span>The
+  enemy said, I will pursue, I will overtake, I will divide the spoil; my lust
+  shall be satisfied upon them; I will draw my sword, my hand shall destroy
+  them. </p>
+id: EXO/15/9
+next:
+  id: EXO/15/10
+  number: '10'
+previous:
+  id: EXO/15/8
+  number: '8'
+reference: 'Exodus 15:9'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="12" data-sid="PSA 132:12"
+  class="v">12</span>If thy children will keep my covenant and my testimony that
+  I shall teach them, their children shall also sit upon thy throne for
+  evermore.</p>
+id: PSA/132/12
+next:
+  id: PSA/132/13
+  number: '13'
+previous:
+  id: PSA/132/11
+  number: '11'
+reference: 'Psalms 132:12'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 14:23"
+  class="v">23</span><span class="wj">And the lord said unto the servant, Go out
+  into the highways and hedges, and compel <span class="add">them</span> to come
+  in, that my house may be filled.</span> </p>
+id: LUK/14/23
+next:
+  id: LUK/14/24
+  number: '24'
+previous:
+  id: LUK/14/22
+  number: '22'
+reference: 'Luke 14:23'

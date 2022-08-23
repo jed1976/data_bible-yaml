@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 9:12"
+  class="v">12</span>They shall leave none of it unto the morning, nor break any
+  bone of it: according to all the ordinances of the passover they shall keep
+  it. </p>
+id: NUM/9/12
+next:
+  id: NUM/9/13
+  number: '13'
+previous:
+  id: NUM/9/11
+  number: '11'
+reference: 'Numbers 9:12'

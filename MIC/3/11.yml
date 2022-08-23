@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MIC 3:11" class="v">11</span>The
+  heads thereof judge for reward, and the priests thereof teach for hire, and
+  the prophets thereof divine for money: yet will they lean upon the <span
+  class="nd">LORD</span>, and say, <span class="add">Is</span> not the <span
+  class="nd">LORD</span> among us? none evil can come upon us. </p>
+id: MIC/3/11
+next:
+  id: MIC/3/12
+  number: '12'
+previous:
+  id: MIC/3/10
+  number: '10'
+reference: 'Micah 3:11'

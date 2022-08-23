@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="JOS 3:9" class="v">9</span>¶ And
+  Joshua said unto the children of Israel, Come hither, and hear the words of
+  the <span class="nd">LORD</span> your God. </p>
+id: JOS/3/9
+next:
+  id: JOS/3/10
+  number: '10'
+previous:
+  id: JOS/3/8
+  number: '8'
+reference: 'Joshua 3:9'

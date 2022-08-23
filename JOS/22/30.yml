@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 22:30" class="v">30</span>¶
+  And when Phinehas the priest, and the princes of the congregation and heads of
+  the thousands of Israel which <span class="add">were</span> with him, heard
+  the words that the children of Reuben and the children of Gad and the children
+  of Manasseh spake, it pleased them. </p>
+id: JOS/22/30
+next:
+  id: JOS/22/31
+  number: '31'
+previous:
+  id: JOS/22/29
+  number: '29'
+reference: 'Joshua 22:30'

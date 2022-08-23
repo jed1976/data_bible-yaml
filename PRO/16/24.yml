@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="PRO 16:24"
+  class="v">24</span>Pleasant words <span class="add">are as</span> an
+  honeycomb, sweet to the soul, and health to the bones. </p>
+id: PRO/16/24
+next:
+  id: PRO/16/25
+  number: '25'
+previous:
+  id: PRO/16/23
+  number: '23'
+reference: 'Proverbs 16:24'

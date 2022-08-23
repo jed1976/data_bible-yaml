@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EXO 9:32" class="v">32</span>But
+  the wheat and the rie were not smitten: for they <span class="add">were</span>
+  not grown up. </p>
+id: EXO/9/32
+next:
+  id: EXO/9/33
+  number: '33'
+previous:
+  id: EXO/9/31
+  number: '31'
+reference: 'Exodus 9:32'

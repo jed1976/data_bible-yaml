@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="EXO 5:13" class="v">13</span>And
+  the taskmasters hasted <span class="add">them</span>, saying, Fulfil your
+  works, <span class="add">your</span> daily tasks, as when there was straw.
+  </p>
+id: EXO/5/13
+next:
+  id: EXO/5/14
+  number: '14'
+previous:
+  id: EXO/5/12
+  number: '12'
+reference: 'Exodus 5:13'

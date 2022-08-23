@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="PHP 3:9" class="v">9</span>And be
+  found in him, not having mine own righteousness, which is of the law, but that
+  which is through the faith of Christ, the righteousness which is of God by
+  faith: </p>
+id: PHP/3/9
+next:
+  id: PHP/3/10
+  number: '10'
+previous:
+  id: PHP/3/8
+  number: '8'
+reference: 'Philippians 3:9'

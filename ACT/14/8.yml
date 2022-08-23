@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="ACT 14:8" class="v">8</span>¶ And
+  there sat a certain man at Lystra, impotent in his feet, being a cripple from
+  his mother’s womb, who never had walked: </p>
+id: ACT/14/8
+next:
+  id: ACT/14/9
+  number: '9'
+previous:
+  id: ACT/14/7
+  number: '7'
+reference: 'Acts 14:8'

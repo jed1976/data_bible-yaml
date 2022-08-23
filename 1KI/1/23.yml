@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1KI 1:23" class="v">23</span>And
+  they told the king, saying, Behold Nathan the prophet. And when he was come in
+  before the king, he bowed himself before the king with his face to the ground.
+  </p>
+id: 1KI/1/23
+next:
+  id: 1KI/1/24
+  number: '24'
+previous:
+  id: 1KI/1/22
+  number: '22'
+reference: '1 Kings 1:23'

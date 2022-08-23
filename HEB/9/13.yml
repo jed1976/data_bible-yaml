@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="HEB 9:13" class="v">13</span>For
+  if the blood of bulls and of goats, and the ashes of an heifer sprinkling the
+  unclean, sanctifieth to the purifying of the flesh: </p>
+id: HEB/9/13
+next:
+  id: HEB/9/14
+  number: '14'
+previous:
+  id: HEB/9/12
+  number: '12'
+reference: 'Hebrews 9:13'

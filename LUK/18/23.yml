@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="LUK 18:23"
+  class="v">23</span>And when he heard this, he was very sorrowful: for he was
+  very rich. </p>
+id: LUK/18/23
+next:
+  id: LUK/18/24
+  number: '24'
+previous:
+  id: LUK/18/22
+  number: '22'
+reference: 'Luke 18:23'

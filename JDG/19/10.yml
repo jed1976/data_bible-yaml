@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JDG 19:10"
+  class="v">10</span>But the man would not tarry that night, but he rose up and
+  departed, and came over against Jebus, which <span class="add">is</span>
+  Jerusalem; and <span class="add">there were</span> with him two asses saddled,
+  his concubine also <span class="add">was</span> with him. </p>
+id: JDG/19/10
+next:
+  id: JDG/19/11
+  number: '11'
+previous:
+  id: JDG/19/9
+  number: '9'
+reference: 'Judges 19:10'

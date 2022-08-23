@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="EZR 8:32" class="v">32</span>And
+  we came to Jerusalem, and abode there three days.</p>
+id: EZR/8/32
+next:
+  id: EZR/8/33
+  number: '33'
+previous:
+  id: EZR/8/31
+  number: '31'
+reference: 'Ezra 8:32'

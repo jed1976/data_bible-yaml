@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="2CH 14:12" class="v">12</span>So
+  the <span class="nd">LORD</span> smote the Ethiopians before Asa, and before
+  Judah; and the Ethiopians fled. </p>
+id: 2CH/14/12
+next:
+  id: 2CH/14/13
+  number: '13'
+previous:
+  id: 2CH/14/11
+  number: '11'
+reference: '2 Chronicles 14:12'

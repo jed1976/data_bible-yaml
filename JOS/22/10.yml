@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JOS 22:10" class="v">10</span>¶
+  And when they came unto the borders of Jordan, that <span
+  class="add">are</span> in the land of Canaan, the children of Reuben and the
+  children of Gad and the half tribe of Manasseh built there an altar by Jordan,
+  a great altar to see to.</p>
+id: JOS/22/10
+next:
+  id: JOS/22/11
+  number: '11'
+previous:
+  id: JOS/22/9
+  number: '9'
+reference: 'Joshua 22:10'

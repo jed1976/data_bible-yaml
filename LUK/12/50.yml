@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="50" data-sid="LUK 12:50"
+  class="v">50</span><span class="wj">But I have a baptism to be baptized with;
+  and how am I straitened till it be accomplished!</span> </p>
+id: LUK/12/50
+next:
+  id: LUK/12/51
+  number: '51'
+previous:
+  id: LUK/12/49
+  number: '49'
+reference: 'Luke 12:50'

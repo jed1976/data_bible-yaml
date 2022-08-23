@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="JOS 13:30"
+  class="v">30</span>And their coast was from Mahanaim, all Bashan, all the
+  kingdom of Og king of Bashan, and all the towns of Jair, which <span
+  class="add">are</span> in Bashan, threescore cities: </p>
+id: JOS/13/30
+next:
+  id: JOS/13/31
+  number: '31'
+previous:
+  id: JOS/13/29
+  number: '29'
+reference: 'Joshua 13:30'

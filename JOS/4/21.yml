@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 4:21" class="v">21</span>And
+  he spake unto the children of Israel, saying, When your children shall ask
+  their fathers in time to come, saying, What <span class="add">mean</span>
+  these stones? </p>
+id: JOS/4/21
+next:
+  id: JOS/4/22
+  number: '22'
+previous:
+  id: JOS/4/20
+  number: '20'
+reference: 'Joshua 4:21'

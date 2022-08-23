@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="MRK 8:18"
+  class="v">18</span><span class="wj">Having eyes, see ye not? and having ears,
+  hear ye not? and do ye not remember?</span> </p>
+id: MRK/8/18
+next:
+  id: MRK/8/19
+  number: '19'
+previous:
+  id: MRK/8/17
+  number: '17'
+reference: 'Mark 8:18'

@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="JER 5:22"
+  class="v">22</span>Fear ye not me? saith the <span class="nd">LORD</span>:
+  will ye not tremble at my presence, which have placed the sand <span
+  class="add">for</span> the bound of the sea by a perpetual decree, that it
+  cannot pass it: and though the waves thereof toss themselves, yet can they not
+  prevail; though they roar, yet can they not pass over it? </p>
+id: JER/5/22
+next:
+  id: JER/5/23
+  number: '23'
+previous:
+  id: JER/5/21
+  number: '21'
+reference: 'Jeremiah 5:22'

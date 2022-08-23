@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NUM 22:8" class="v">8</span>And
+  he said unto them, Lodge here this night, and I will bring you word again, as
+  the <span class="nd">LORD</span> shall speak unto me: and the princes of Moab
+  abode with Balaam. </p>
+id: NUM/22/8
+next:
+  id: NUM/22/9
+  number: '9'
+previous:
+  id: NUM/22/7
+  number: '7'
+reference: 'Numbers 22:8'

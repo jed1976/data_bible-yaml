@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="LEV 22:20"
+  class="v">20</span><span class="add">But</span> whatsoever hath a blemish,
+  <span class="add">that</span> shall ye not offer: for it shall not be
+  acceptable for you. </p>
+id: LEV/22/20
+next:
+  id: LEV/22/21
+  number: '21'
+previous:
+  id: LEV/22/19
+  number: '19'
+reference: 'Leviticus 22:20'

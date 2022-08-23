@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 3:24"
+  class="v">24</span>Then Nebuchadnezzar the king was astonied, and rose up in
+  haste, <span class="add">and</span> spake, and said unto his counsellors, Did
+  not we cast three men bound into the midst of the fire? They answered and said
+  unto the king, True, O king. </p>
+id: DAN/3/24
+next:
+  id: DAN/3/25
+  number: '25'
+previous:
+  id: DAN/3/23
+  number: '23'
+reference: 'Daniel 3:24'

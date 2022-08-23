@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="GEN 22:11"
+  class="v">11</span>And the angel of the <span class="nd">LORD</span> called
+  unto him out of heaven, and said, Abraham, Abraham: and he said, Here <span
+  class="add">am</span> I. </p>
+id: GEN/22/11
+next:
+  id: GEN/22/12
+  number: '12'
+previous:
+  id: GEN/22/10
+  number: '10'
+reference: 'Genesis 22:11'

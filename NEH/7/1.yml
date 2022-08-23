@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="NEH 7:1" class="v">1</span>Now it
+  came to pass, when the wall was built, and I had set up the doors, and the
+  porters and the singers and the Levites were appointed, </p>
+id: NEH/7/1
+next:
+  id: NEH/7/2
+  number: '2'
+previous:
+  id: NEH/6/19
+  number: '19'
+reference: 'Nehemiah 7:1'

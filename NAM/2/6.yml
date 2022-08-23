@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="NAM 2:6" class="v">6</span>The
+  gates of the rivers shall be opened, and the palace shall be dissolved. </p>
+id: NAM/2/6
+next:
+  id: NAM/2/7
+  number: '7'
+previous:
+  id: NAM/2/5
+  number: '5'
+reference: 'Nahum 2:6'

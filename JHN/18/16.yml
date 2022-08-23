@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JHN 18:16"
+  class="v">16</span>But Peter stood at the door without. Then went out that
+  other disciple, which was known unto the high priest, and spake unto her that
+  kept the door, and brought in Peter. </p>
+id: JHN/18/16
+next:
+  id: JHN/18/17
+  number: '17'
+previous:
+  id: JHN/18/15
+  number: '15'
+reference: 'John 18:16'

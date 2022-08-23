@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="NEH 11:18"
+  class="v">18</span>All the Levites in the holy city <span
+  class="add">were</span> two hundred fourscore and four. </p>
+id: NEH/11/18
+next:
+  id: NEH/11/19
+  number: '19'
+previous:
+  id: NEH/11/17
+  number: '17'
+reference: 'Nehemiah 11:18'

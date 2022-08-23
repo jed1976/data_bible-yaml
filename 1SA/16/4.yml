@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="1SA 16:4" class="v">4</span>And
+  Samuel did that which the <span class="nd">LORD</span> spake, and came to
+  Beth-lehem. And the elders of the town trembled at his coming, and said,
+  Comest thou peaceably? </p>
+id: 1SA/16/4
+next:
+  id: 1SA/16/5
+  number: '5'
+previous:
+  id: 1SA/16/3
+  number: '3'
+reference: '1 Samuel 16:4'

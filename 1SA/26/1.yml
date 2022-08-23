@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="1SA 26:1" class="v">1</span>And
+  the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in
+  the hill of Hachilah, <span class="add">which is</span> before Jeshimon? </p>
+id: 1SA/26/1
+next:
+  id: 1SA/26/2
+  number: '2'
+previous:
+  id: 1SA/25/44
+  number: '44'
+reference: '1 Samuel 26:1'

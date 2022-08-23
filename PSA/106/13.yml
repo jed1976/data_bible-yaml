@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="13" data-sid="PSA 106:13"
+  class="v">13</span>They soon forgat his works; they waited not for his
+  counsel:</p>
+id: PSA/106/13
+next:
+  id: PSA/106/14
+  number: '14'
+previous:
+  id: PSA/106/12
+  number: '12'
+reference: 'Psalms 106:13'

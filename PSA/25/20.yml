@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="20" data-sid="PSA 25:20" class="v">20</span>O
+  keep my soul, and deliver me: let me not be ashamed; for I put my trust in
+  thee.</p>
+id: PSA/25/20
+next:
+  id: PSA/25/21
+  number: '21'
+previous:
+  id: PSA/25/19
+  number: '19'
+reference: 'Psalms 25:20'

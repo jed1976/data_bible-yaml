@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="MAT 24:5" class="v">5</span><span
+  class="wj">For many shall come in my name, saying, I am Christ; and shall
+  deceive many.</span> </p>
+id: MAT/24/5
+next:
+  id: MAT/24/6
+  number: '6'
+previous:
+  id: MAT/24/4
+  number: '4'
+reference: 'Matthew 24:5'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="LUK 16:26"
+  class="v">26</span><span class="wj">And beside all this, between us and you
+  there is a great gulf fixed: so that they which would pass from hence to you
+  cannot; neither can they pass to us, that <span class="add">would come</span>
+  from thence.</span> </p>
+id: LUK/16/26
+next:
+  id: LUK/16/27
+  number: '27'
+previous:
+  id: LUK/16/25
+  number: '25'
+reference: 'Luke 16:26'

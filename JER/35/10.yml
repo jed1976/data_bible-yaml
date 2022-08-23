@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="JER 35:10"
+  class="v">10</span>But we have dwelt in tents, and have obeyed, and done
+  according to all that Jonadab our father commanded us. </p>
+id: JER/35/10
+next:
+  id: JER/35/11
+  number: '11'
+previous:
+  id: JER/35/9
+  number: '9'
+reference: 'Jeremiah 35:10'

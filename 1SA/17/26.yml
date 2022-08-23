@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="1SA 17:26"
+  class="v">26</span>And David spake to the men that stood by him, saying, What
+  shall be done to the man that killeth this Philistine, and taketh away the
+  reproach from Israel? for who <span class="add">is</span> this uncircumcised
+  Philistine, that he should defy the armies of the living God? </p>
+id: 1SA/17/26
+next:
+  id: 1SA/17/27
+  number: '27'
+previous:
+  id: 1SA/17/25
+  number: '25'
+reference: '1 Samuel 17:26'

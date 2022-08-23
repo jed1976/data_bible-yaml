@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="10" data-sid="PSA 5:10"
+  class="v">10</span>Destroy thou them, O God; let them fall by their own
+  counsels; cast them out in the multitude of their transgressions; for they
+  have rebelled against thee.</p>
+id: PSA/5/10
+next:
+  id: PSA/5/11
+  number: '11'
+previous:
+  id: PSA/5/9
+  number: '9'
+reference: 'Psalms 5:10'

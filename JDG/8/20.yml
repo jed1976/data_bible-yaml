@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JDG 8:20" class="v">20</span>And
+  he said unto Jether his firstborn, Up, <span class="add">and</span> slay them.
+  But the youth drew not his sword: for he feared, because he <span
+  class="add">was</span> yet a youth. </p>
+id: JDG/8/20
+next:
+  id: JDG/8/21
+  number: '21'
+previous:
+  id: JDG/8/19
+  number: '19'
+reference: 'Judges 8:20'

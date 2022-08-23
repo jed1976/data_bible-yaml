@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="JDG 11:17"
+  class="v">17</span>Then Israel sent messengers unto the king of Edom, saying,
+  Let me, I pray thee, pass through thy land: but the king of Edom would not
+  hearken <span class="add">thereto</span>. And in like manner they sent unto
+  the king of Moab: but he would not <span class="add">consent:</span> and
+  Israel abode in Kadesh. </p>
+id: JDG/11/17
+next:
+  id: JDG/11/18
+  number: '18'
+previous:
+  id: JDG/11/16
+  number: '16'
+reference: 'Judges 11:17'

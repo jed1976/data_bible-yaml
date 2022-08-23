@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="40" data-sid="NUM 3:40" class="v">40</span>¶
+  And the <span class="nd">LORD</span> said unto Moses, Number all the firstborn
+  of the males of the children of Israel from a month old and upward, and take
+  the number of their names. </p>
+id: NUM/3/40
+next:
+  id: NUM/3/41
+  number: '41'
+previous:
+  id: NUM/3/39
+  number: '39'
+reference: 'Numbers 3:40'

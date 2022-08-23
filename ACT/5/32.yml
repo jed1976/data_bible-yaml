@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="ACT 5:32" class="v">32</span>And
+  we are his witnesses of these things; and <span class="add">so is</span> also
+  the Holy Ghost, whom God hath given to them that obey him.</p>
+id: ACT/5/32
+next:
+  id: ACT/5/33
+  number: '33'
+previous:
+  id: ACT/5/31
+  number: '31'
+reference: 'Acts 5:32'

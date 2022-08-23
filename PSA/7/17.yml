@@ -1,0 +1,13 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 7:17" class="v">17</span>I
+  will praise the <span class="nd">LORD</span> according to his righteousness:
+  and will sing praise to the name of the <span class="nd">LORD</span> most
+  high.</p>
+id: PSA/7/17
+next:
+  id: PSA/8/1
+  number: '1'
+previous:
+  id: PSA/7/16
+  number: '16'
+reference: 'Psalms 7:17'

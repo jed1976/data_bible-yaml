@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="LUK 12:32"
+  class="v">32</span><span class="wj">Fear not, little flock; for it is your
+  Father’s good pleasure to give you the kingdom.</span> </p>
+id: LUK/12/32
+next:
+  id: LUK/12/33
+  number: '33'
+previous:
+  id: LUK/12/31
+  number: '31'
+reference: 'Luke 12:32'

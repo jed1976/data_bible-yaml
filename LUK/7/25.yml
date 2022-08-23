@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="25" data-sid="LUK 7:25"
+  class="v">25</span><span class="wj">But what went ye out for to see? A man
+  clothed in soft raiment? Behold, they which are gorgeously apparelled, and
+  live delicately, are in kings’ courts.</span> </p>
+id: LUK/7/25
+next:
+  id: LUK/7/26
+  number: '26'
+previous:
+  id: LUK/7/24
+  number: '24'
+reference: 'Luke 7:25'

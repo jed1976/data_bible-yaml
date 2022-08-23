@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="11" data-sid="PSA 77:11"
+  class="v">11</span>I will remember the works of the <span
+  class="nd">LORD</span>: surely I will remember thy wonders of old.</p>
+id: PSA/77/11
+next:
+  id: PSA/77/12
+  number: '12'
+previous:
+  id: PSA/77/10
+  number: '10'
+reference: 'Psalms 77:11'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="52" data-sid="JHN 4:52"
+  class="v">52</span>Then enquired he of them the hour when he began to amend.
+  And they said unto him, Yesterday at the seventh hour the fever left him. </p>
+id: JHN/4/52
+next:
+  id: JHN/4/53
+  number: '53'
+previous:
+  id: JHN/4/51
+  number: '51'
+reference: 'John 4:52'

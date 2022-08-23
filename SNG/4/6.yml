@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="SNG 4:6" class="v">6</span>Until
+  the day break, and the shadows flee away, I will get me to the mountain of
+  myrrh, and to the hill of frankincense. </p>
+id: SNG/4/6
+next:
+  id: SNG/4/7
+  number: '7'
+previous:
+  id: SNG/4/5
+  number: '5'
+reference: 'Song of Solomon 4:6'

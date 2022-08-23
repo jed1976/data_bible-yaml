@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="NUM 16:12" class="v">12</span>¶
+  And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We
+  will not come up: </p>
+id: NUM/16/12
+next:
+  id: NUM/16/13
+  number: '13'
+previous:
+  id: NUM/16/11
+  number: '11'
+reference: 'Numbers 16:12'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 96:11"
+  class="v">11</span>Let the heavens rejoice, and let the earth be glad; let the
+  sea roar, and the fulness thereof.</p>
+id: PSA/96/11
+next:
+  id: PSA/96/12
+  number: '12'
+previous:
+  id: PSA/96/10
+  number: '10'
+reference: 'Psalms 96:11'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="1JN 2:20" class="v">20</span>But
+  ye have an unction from the Holy One, and ye know all things. </p>
+id: 1JN/2/20
+next:
+  id: 1JN/2/21
+  number: '21'
+previous:
+  id: 1JN/2/19
+  number: '19'
+reference: '1 John 2:20'

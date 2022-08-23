@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="JER 52:23"
+  class="v">23</span>And there were ninety and six pomegranates on a side; <span
+  class="add">and</span> all the pomegranates upon the network <span
+  class="add">were</span> an hundred round about.</p>
+id: JER/52/23
+next:
+  id: JER/52/24
+  number: '24'
+previous:
+  id: JER/52/22
+  number: '22'
+reference: 'Jeremiah 52:23'

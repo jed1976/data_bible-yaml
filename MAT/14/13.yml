@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 14:13" class="v">13</span>¶
+  When Jesus heard <span class="add">of it</span>, he departed thence by ship
+  into a desert place apart: and when the people had heard <span
+  class="add">thereof</span>, they followed him on foot out of the cities. </p>
+id: MAT/14/13
+next:
+  id: MAT/14/14
+  number: '14'
+previous:
+  id: MAT/14/12
+  number: '12'
+reference: 'Matthew 14:13'

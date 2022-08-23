@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="JOB 11:1" class="v">1</span>Then
+  answered Zophar the Naamathite, and said, </p>
+id: JOB/11/1
+next:
+  id: JOB/11/2
+  number: '2'
+previous:
+  id: JOB/10/22
+  number: '22'
+reference: 'Job 11:1'

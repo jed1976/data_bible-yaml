@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="MAT 10:11"
+  class="v">11</span><span class="wj">And into whatsoever city or town ye shall
+  enter, enquire who in it is worthy; and there abide till ye go thence.</span>
+  </p>
+id: MAT/10/11
+next:
+  id: MAT/10/12
+  number: '12'
+previous:
+  id: MAT/10/10
+  number: '10'
+reference: 'Matthew 10:11'

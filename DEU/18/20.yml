@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="DEU 18:20"
+  class="v">20</span>But the prophet, which shall presume to speak a word in my
+  name, which I have not commanded him to speak, or that shall speak in the name
+  of other gods, even that prophet shall die. </p>
+id: DEU/18/20
+next:
+  id: DEU/18/21
+  number: '21'
+previous:
+  id: DEU/18/19
+  number: '19'
+reference: 'Deuteronomy 18:20'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="GEN 12:20"
+  class="v">20</span>And Pharaoh commanded <span class="add">his</span> men
+  concerning him: and they sent him away, and his wife, and all that he had.</p>
+id: GEN/12/20
+next:
+  id: GEN/13/1
+  number: '1'
+previous:
+  id: GEN/12/19
+  number: '19'
+reference: 'Genesis 12:20'

@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="LEV 5:1" class="v">1</span>And if
+  a soul sin, and hear the voice of swearing, and <span class="add">is</span> a
+  witness, whether he hath seen or known <span class="add">of it;</span> if he
+  do not utter <span class="add">it</span>, then he shall bear his iniquity.
+  </p>
+id: LEV/5/1
+next:
+  id: LEV/5/2
+  number: '2'
+previous:
+  id: LEV/4/35
+  number: '35'
+reference: 'Leviticus 5:1'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 13:3" class="v">3</span>For
+  rulers are not a terror to good works, but to the evil. Wilt thou then not be
+  afraid of the power? do that which is good, and thou shalt have praise of the
+  same: </p>
+id: ROM/13/3
+next:
+  id: ROM/13/4
+  number: '4'
+previous:
+  id: ROM/13/2
+  number: '2'
+reference: 'Romans 13:3'

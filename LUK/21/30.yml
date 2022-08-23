@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="30" data-sid="LUK 21:30"
+  class="v">30</span><span class="wj">When they now shoot forth, ye see and know
+  of your own selves that summer is now nigh at hand.</span> </p>
+id: LUK/21/30
+next:
+  id: LUK/21/31
+  number: '31'
+previous:
+  id: LUK/21/29
+  number: '29'
+reference: 'Luke 21:30'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="GEN 36:32"
+  class="v">32</span>And Bela the son of Beor reigned in Edom: and the name of
+  his city <span class="add">was</span> Dinhabah. </p>
+id: GEN/36/32
+next:
+  id: GEN/36/33
+  number: '33'
+previous:
+  id: GEN/36/31
+  number: '31'
+reference: 'Genesis 36:32'

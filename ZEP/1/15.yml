@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="ZEP 1:15"
+  class="v">15</span>That day <span class="add">is</span> a day of wrath, a day
+  of trouble and distress, a day of wasteness and desolation, a day of darkness
+  and gloominess, a day of clouds and thick darkness, </p>
+id: ZEP/1/15
+next:
+  id: ZEP/1/16
+  number: '16'
+previous:
+  id: ZEP/1/14
+  number: '14'
+reference: 'Zephaniah 1:15'

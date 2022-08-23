@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="ISA 14:9" class="v">9</span>Hell
+  from beneath is moved for thee to meet <span class="add">thee</span> at thy
+  coming: it stirreth up the dead for thee, <span class="add">even</span> all
+  the chief ones of the earth; it hath raised up from their thrones all the
+  kings of the nations. </p>
+id: ISA/14/9
+next:
+  id: ISA/14/10
+  number: '10'
+previous:
+  id: ISA/14/8
+  number: '8'
+reference: 'Isaiah 14:9'

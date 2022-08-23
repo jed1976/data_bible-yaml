@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="JOS 6:26" class="v">26</span>¶
+  And Joshua adjured <span class="add">them</span> at that time, saying, Cursed
+  <span class="add">be</span> the man before the <span class="nd">LORD</span>,
+  that riseth up and buildeth this city Jericho: he shall lay the foundation
+  thereof in his firstborn, and in his youngest <span class="add">son</span>
+  shall he set up the gates of it. </p>
+id: JOS/6/26
+next:
+  id: JOS/6/27
+  number: '27'
+previous:
+  id: JOS/6/25
+  number: '25'
+reference: 'Joshua 6:26'

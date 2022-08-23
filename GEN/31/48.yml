@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="48" data-sid="GEN 31:48"
+  class="v">48</span>And Laban said, This heap <span class="add">is</span> a
+  witness between me and thee this day. Therefore was the name of it called
+  Galeed; </p>
+id: GEN/31/48
+next:
+  id: GEN/31/49
+  number: '49'
+previous:
+  id: GEN/31/47
+  number: '47'
+reference: 'Genesis 31:48'

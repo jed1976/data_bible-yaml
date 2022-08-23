@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ROM 16:3" class="v">3</span>Greet
+  Priscilla and Aquila my helpers in Christ Jesus: </p>
+id: ROM/16/3
+next:
+  id: ROM/16/4
+  number: '4'
+previous:
+  id: ROM/16/2
+  number: '2'
+reference: 'Romans 16:3'

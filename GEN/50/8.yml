@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="GEN 50:8" class="v">8</span>And
+  all the house of Joseph, and his brethren, and his father’s house: only their
+  little ones, and their flocks, and their herds, they left in the land of
+  Goshen. </p>
+id: GEN/50/8
+next:
+  id: GEN/50/9
+  number: '9'
+previous:
+  id: GEN/50/7
+  number: '7'
+reference: 'Genesis 50:8'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="EXO 6:11" class="v">11</span>Go
+  in, speak unto Pharaoh king of Egypt, that he let the children of Israel go
+  out of his land. </p>
+id: EXO/6/11
+next:
+  id: EXO/6/12
+  number: '12'
+previous:
+  id: EXO/6/10
+  number: '10'
+reference: 'Exodus 6:11'

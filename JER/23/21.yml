@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JER 23:21" class="v">21</span>I
+  have not sent these prophets, yet they ran: I have not spoken to them, yet
+  they prophesied. </p>
+id: JER/23/21
+next:
+  id: JER/23/22
+  number: '22'
+previous:
+  id: JER/23/20
+  number: '20'
+reference: 'Jeremiah 23:21'

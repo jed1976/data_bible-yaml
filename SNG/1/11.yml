@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="11" data-sid="SNG 1:11" class="v">11</span>We
+  will make thee borders of gold with studs of silver.</p>
+id: SNG/1/11
+next:
+  id: SNG/1/12
+  number: '12'
+previous:
+  id: SNG/1/10
+  number: '10'
+reference: 'Song of Solomon 1:11'

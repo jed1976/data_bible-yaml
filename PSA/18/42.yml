@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="42" data-sid="PSA 18:42"
+  class="v">42</span>Then did I beat them small as the dust before the wind: I
+  did cast them out as the dirt in the streets.</p>
+id: PSA/18/42
+next:
+  id: PSA/18/43
+  number: '43'
+previous:
+  id: PSA/18/41
+  number: '41'
+reference: 'Psalms 18:42'

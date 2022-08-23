@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="18" data-sid="1KI 3:18" class="v">18</span>And
+  it came to pass the third day after that I was delivered, that this woman was
+  delivered also: and we <span class="add">were</span> together; <span
+  class="add">there was</span> no stranger with us in the house, save we two in
+  the house. </p>
+id: 1KI/3/18
+next:
+  id: 1KI/3/19
+  number: '19'
+previous:
+  id: 1KI/3/17
+  number: '17'
+reference: '1 Kings 3:18'

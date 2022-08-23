@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="51" data-sid="ACT 7:51" class="v">51</span>¶
+  Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the
+  Holy Ghost: as your fathers <span class="add">did</span>, so <span
+  class="add">do</span> ye. </p>
+id: ACT/7/51
+next:
+  id: ACT/7/52
+  number: '52'
+previous:
+  id: ACT/7/50
+  number: '50'
+reference: 'Acts 7:51'

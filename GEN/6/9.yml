@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 6:9" class="v">9</span>¶
+  These <span class="add">are</span> the generations of Noah: Noah was a just
+  man <span class="add">and</span> perfect in his generations, <span
+  class="add">and</span> Noah walked with God. </p>
+id: GEN/6/9
+next:
+  id: GEN/6/10
+  number: '10'
+previous:
+  id: GEN/6/8
+  number: '8'
+reference: 'Genesis 6:9'

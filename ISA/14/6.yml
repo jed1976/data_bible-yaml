@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="ISA 14:6" class="v">6</span>He
+  who smote the people in wrath with a continual stroke, he that ruled the
+  nations in anger, is persecuted, <span class="add">and</span> none hindereth. 
+  </p>
+id: ISA/14/6
+next:
+  id: ISA/14/7
+  number: '7'
+previous:
+  id: ISA/14/5
+  number: '5'
+reference: 'Isaiah 14:6'

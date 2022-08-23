@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="11" data-sid="PSA 80:11"
+  class="v">11</span>She sent out her boughs unto the sea, and her branches unto
+  the river.</p>
+id: PSA/80/11
+next:
+  id: PSA/80/12
+  number: '12'
+previous:
+  id: PSA/80/10
+  number: '10'
+reference: 'Psalms 80:11'

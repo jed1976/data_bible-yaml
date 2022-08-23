@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="JER 3:16" class="v">16</span>And
+  it shall come to pass, when ye be multiplied and increased in the land, in
+  those days, saith the <span class="nd">LORD</span>, they shall say no more,
+  The ark of the covenant of the <span class="nd">LORD</span>: neither shall it
+  come to mind: neither shall they remember it; neither shall they visit <span
+  class="add">it;</span> neither shall <span class="add">that</span> be done any
+  more. </p>
+id: JER/3/16
+next:
+  id: JER/3/17
+  number: '17'
+previous:
+  id: JER/3/15
+  number: '15'
+reference: 'Jeremiah 3:16'

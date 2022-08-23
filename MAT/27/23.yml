@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="MAT 27:23"
+  class="v">23</span>And the governor said, Why, what evil hath he done? But
+  they cried out the more, saying, Let him be crucified.</p>
+id: MAT/27/23
+next:
+  id: MAT/27/24
+  number: '24'
+previous:
+  id: MAT/27/22
+  number: '22'
+reference: 'Matthew 27:23'

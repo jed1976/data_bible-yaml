@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ZEC 1:7" class="v">7</span>¶ Upon
+  the four and twentieth day of the eleventh month, which <span
+  class="add">is</span> the month Sebat, in the second year of Darius, came the
+  word of the <span class="nd">LORD</span> unto Zechariah, the son of Berechiah,
+  the son of Iddo the prophet, saying, </p>
+id: ZEC/1/7
+next:
+  id: ZEC/1/8
+  number: '8'
+previous:
+  id: ZEC/1/6
+  number: '6'
+reference: 'Zechariah 1:7'

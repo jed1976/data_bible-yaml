@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="EZR 8:33" class="v">33</span>¶
+  Now on the fourth day was the silver and the gold and the vessels weighed in
+  the house of our God by the hand of Meremoth the son of Uriah the priest; and
+  with him <span class="add">was</span> Eleazar the son of Phinehas; and with
+  them <span class="add">was</span> Jozabad the son of Jeshua, and Noadiah the
+  son of Binnui, Levites; </p>
+id: EZR/8/33
+next:
+  id: EZR/8/34
+  number: '34'
+previous:
+  id: EZR/8/32
+  number: '32'
+reference: 'Ezra 8:33'

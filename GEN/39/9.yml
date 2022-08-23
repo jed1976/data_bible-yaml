@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="GEN 39:9" class="v">9</span><span
+  class="add">There is</span> none greater in this house than I; neither hath he
+  kept back any thing from me but thee, because thou <span
+  class="add">art</span> his wife: how then can I do this great wickedness, and
+  sin against God? </p>
+id: GEN/39/9
+next:
+  id: GEN/39/10
+  number: '10'
+previous:
+  id: GEN/39/8
+  number: '8'
+reference: 'Genesis 39:9'

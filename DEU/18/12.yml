@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="12" data-sid="DEU 18:12"
+  class="v">12</span>For all that do these things <span class="add">are</span>
+  an abomination unto the <span class="nd">LORD</span>: and because of these
+  abominations the <span class="nd">LORD</span> thy God doth drive them out from
+  before thee. </p>
+id: DEU/18/12
+next:
+  id: DEU/18/13
+  number: '13'
+previous:
+  id: DEU/18/11
+  number: '11'
+reference: 'Deuteronomy 18:12'

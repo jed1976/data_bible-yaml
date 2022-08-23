@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="1CH 21:23"
+  class="v">23</span>And Ornan said unto David, Take <span class="add">it</span>
+  to thee, and let my lord the king do <span class="add">that which is</span>
+  good in his eyes: lo, I give <span class="add">thee</span> the oxen <span
+  class="add">also</span> for burnt offerings, and the threshing instruments for
+  wood, and the wheat for the meat offering; I give it all. </p>
+id: 1CH/21/23
+next:
+  id: 1CH/21/24
+  number: '24'
+previous:
+  id: 1CH/21/22
+  number: '22'
+reference: '1 Chronicles 21:23'

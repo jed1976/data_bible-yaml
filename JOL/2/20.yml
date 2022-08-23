@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="20" data-sid="JOL 2:20" class="v">20</span>But
+  I will remove far off from you the northern <span class="add">army</span>, and
+  will drive him into a land barren and desolate, with his face toward the east
+  sea, and his hinder part toward the utmost sea, and his stink shall come up,
+  and his ill savour shall come up, because he hath done great things.</p>
+id: JOL/2/20
+next:
+  id: JOL/2/21
+  number: '21'
+previous:
+  id: JOL/2/19
+  number: '19'
+reference: 'Joel 2:20'

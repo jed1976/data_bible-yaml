@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="EZK 34:3" class="v">3</span>Ye
+  eat the fat, and ye clothe you with the wool, ye kill them that are fed: <span
+  class="add">but</span> ye feed not the flock. </p>
+id: EZK/34/3
+next:
+  id: EZK/34/4
+  number: '4'
+previous:
+  id: EZK/34/2
+  number: '2'
+reference: 'Ezekiel 34:3'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="1CO 5:9" class="v">9</span>I
+  wrote unto you in an epistle not to company with fornicators: </p>
+id: 1CO/5/9
+next:
+  id: 1CO/5/10
+  number: '10'
+previous:
+  id: 1CO/5/8
+  number: '8'
+reference: '1 Corinthians 5:9'

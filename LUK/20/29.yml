@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="29" data-sid="LUK 20:29"
+  class="v">29</span>There were therefore seven brethren: and the first took a
+  wife, and died without children. </p>
+id: LUK/20/29
+next:
+  id: LUK/20/30
+  number: '30'
+previous:
+  id: LUK/20/28
+  number: '28'
+reference: 'Luke 20:29'

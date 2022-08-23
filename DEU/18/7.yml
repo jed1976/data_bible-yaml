@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="DEU 18:7" class="v">7</span>Then
+  he shall minister in the name of the <span class="nd">LORD</span> his God, as
+  all his brethren the Levites <span class="add">do</span>, which stand there
+  before the <span class="nd">LORD</span>. </p>
+id: DEU/18/7
+next:
+  id: DEU/18/8
+  number: '8'
+previous:
+  id: DEU/18/6
+  number: '6'
+reference: 'Deuteronomy 18:7'

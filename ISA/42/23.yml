@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="ISA 42:23"
+  class="v">23</span>Who among you will give ear to this? <span
+  class="add">who</span> will hearken and hear for the time to come? </p>
+id: ISA/42/23
+next:
+  id: ISA/42/24
+  number: '24'
+previous:
+  id: ISA/42/22
+  number: '22'
+reference: 'Isaiah 42:23'

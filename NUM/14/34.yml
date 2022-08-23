@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="34" data-sid="NUM 14:34"
+  class="v">34</span>After the number of the days in which ye searched the land,
+  <span class="add">even</span> forty days, each day for a year, shall ye bear
+  your iniquities, <span class="add">even</span> forty years, and ye shall know
+  my breach of promise. </p>
+id: NUM/14/34
+next:
+  id: NUM/14/35
+  number: '35'
+previous:
+  id: NUM/14/33
+  number: '33'
+reference: 'Numbers 14:34'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="DAN 10:10" class="v">10</span>¶
+  And, behold, an hand touched me, which set me upon my knees and <span
+  class="add">upon</span> the palms of my hands. </p>
+id: DAN/10/10
+next:
+  id: DAN/10/11
+  number: '11'
+previous:
+  id: DAN/10/9
+  number: '9'
+reference: 'Daniel 10:10'

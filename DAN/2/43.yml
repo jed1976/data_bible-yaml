@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="43" data-sid="DAN 2:43" class="v">43</span>And
+  whereas thou sawest iron mixed with miry clay, they shall mingle themselves
+  with the seed of men: but they shall not cleave one to another, even as iron
+  is not mixed with clay. </p>
+id: DAN/2/43
+next:
+  id: DAN/2/44
+  number: '44'
+previous:
+  id: DAN/2/42
+  number: '42'
+reference: 'Daniel 2:43'

@@ -1,0 +1,11 @@
+content: >-
+  <p class="p"><span data-number="73" data-sid="LUK 1:73" class="v">73</span>The
+  oath which he sware to our father Abraham, </p>
+id: LUK/1/73
+next:
+  id: LUK/1/74
+  number: '74'
+previous:
+  id: LUK/1/72
+  number: '72'
+reference: 'Luke 1:73'

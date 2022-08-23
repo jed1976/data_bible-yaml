@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="26" data-sid="DEU 1:26"
+  class="v">26</span>Notwithstanding ye would not go up, but rebelled against
+  the commandment of the <span class="nd">LORD</span> your God: </p>
+id: DEU/1/26
+next:
+  id: DEU/1/27
+  number: '27'
+previous:
+  id: DEU/1/25
+  number: '25'
+reference: 'Deuteronomy 1:26'

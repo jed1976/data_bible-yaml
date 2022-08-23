@@ -1,0 +1,12 @@
+content: >-
+  <p class="q1"><span data-number="18" data-sid="PSA 132:18"
+  class="v">18</span>His enemies will I clothe with shame: but upon himself
+  shall his crown flourish.</p>
+id: PSA/132/18
+next:
+  id: PSA/133/1
+  number: '1'
+previous:
+  id: PSA/132/17
+  number: '17'
+reference: 'Psalms 132:18'

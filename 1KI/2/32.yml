@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="32" data-sid="1KI 2:32" class="v">32</span>And
+  the <span class="nd">LORD</span> shall return his blood upon his own head, who
+  fell upon two men more righteous and better than he, and slew them with the
+  sword, my father David not knowing <span class="add">thereof, to wit</span>,
+  Abner the son of Ner, captain of the host of Israel, and Amasa the son of
+  Jether, captain of the host of Judah. </p>
+id: 1KI/2/32
+next:
+  id: 1KI/2/33
+  number: '33'
+previous:
+  id: 1KI/2/31
+  number: '31'
+reference: '1 Kings 2:32'

@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="LUK 19:33"
+  class="v">33</span>And as they were loosing the colt, the owners thereof said
+  unto them, Why loose ye the colt? </p>
+id: LUK/19/33
+next:
+  id: LUK/19/34
+  number: '34'
+previous:
+  id: LUK/19/32
+  number: '32'
+reference: 'Luke 19:33'

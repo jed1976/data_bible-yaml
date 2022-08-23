@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="HEB 6:16" class="v">16</span>For
+  men verily swear by the greater: and an oath for confirmation <span
+  class="add">is</span> to them an end of all strife. </p>
+id: HEB/6/16
+next:
+  id: HEB/6/17
+  number: '17'
+previous:
+  id: HEB/6/15
+  number: '15'
+reference: 'Hebrews 6:16'

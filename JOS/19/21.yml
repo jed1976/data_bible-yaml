@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="JOS 19:21"
+  class="v">21</span>And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;
+  </p>
+id: JOS/19/21
+next:
+  id: JOS/19/22
+  number: '22'
+previous:
+  id: JOS/19/20
+  number: '20'
+reference: 'Joshua 19:21'

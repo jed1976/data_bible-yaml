@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="59" data-sid="LAM 3:59" class="v">59</span>O
+  <span class="nd">LORD</span>, thou hast seen my wrong: judge thou my cause.
+  </p>
+id: LAM/3/59
+next:
+  id: LAM/3/60
+  number: '60'
+previous:
+  id: LAM/3/58
+  number: '58'
+reference: 'Lamentations 3:59'

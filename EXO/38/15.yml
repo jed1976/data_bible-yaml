@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="15" data-sid="EXO 38:15"
+  class="v">15</span>And for the other side of the court gate, on this hand and
+  that hand, <span class="add">were</span> hangings of fifteen cubits; their
+  pillars three, and their sockets three. </p>
+id: EXO/38/15
+next:
+  id: EXO/38/16
+  number: '16'
+previous:
+  id: EXO/38/14
+  number: '14'
+reference: 'Exodus 38:15'

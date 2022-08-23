@@ -1,0 +1,15 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="LEV 18:17"
+  class="v">17</span>Thou shalt not uncover the nakedness of a woman and her
+  daughter, neither shalt thou take her son’s daughter, or her daughter’s
+  daughter, to uncover her nakedness; <span class="add">for</span> they <span
+  class="add">are</span> her near kinswomen: it <span class="add">is</span>
+  wickedness. </p>
+id: LEV/18/17
+next:
+  id: LEV/18/18
+  number: '18'
+previous:
+  id: LEV/18/16
+  number: '16'
+reference: 'Leviticus 18:17'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="ISA 3:10" class="v">10</span>Say
+  ye to the righteous, that <span class="add">it shall be</span> well <span
+  class="add">with him:</span> for they shall eat the fruit of their doings.
+  </p>
+id: ISA/3/10
+next:
+  id: ISA/3/11
+  number: '11'
+previous:
+  id: ISA/3/9
+  number: '9'
+reference: 'Isaiah 3:10'

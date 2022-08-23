@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="35" data-sid="MAT 10:35"
+  class="v">35</span><span class="wj">For I am come to set a man at variance
+  against his father, and the daughter against her mother, and the daughter in
+  law against her mother in law.</span> </p>
+id: MAT/10/35
+next:
+  id: MAT/10/36
+  number: '36'
+previous:
+  id: MAT/10/34
+  number: '34'
+reference: 'Matthew 10:35'

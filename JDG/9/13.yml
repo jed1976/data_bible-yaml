@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="JDG 9:13" class="v">13</span>And
+  the vine said unto them, Should I leave my wine, which cheereth God and man,
+  and go to be promoted over the trees? </p>
+id: JDG/9/13
+next:
+  id: JDG/9/14
+  number: '14'
+previous:
+  id: JDG/9/12
+  number: '12'
+reference: 'Judges 9:13'

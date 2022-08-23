@@ -1,0 +1,12 @@
+content: >-
+  <p class="b"></p><p class="q1"><span data-number="22" data-sid="PSA 68:22"
+  class="v">22</span>The Lord said, I will bring again from Bashan, I will bring
+  <span class="add">my people</span> again from the depths of the sea:</p>
+id: PSA/68/22
+next:
+  id: PSA/68/23
+  number: '23'
+previous:
+  id: PSA/68/21
+  number: '21'
+reference: 'Psalms 68:22'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="ISA 10:3" class="v">3</span>And
+  what will ye do in the day of visitation, and in the desolation <span
+  class="add">which</span> shall come from far? to whom will ye flee for help?
+  and where will ye leave your glory? </p>
+id: ISA/10/3
+next:
+  id: ISA/10/4
+  number: '4'
+previous:
+  id: ISA/10/2
+  number: '2'
+reference: 'Isaiah 10:3'

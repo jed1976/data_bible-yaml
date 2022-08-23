@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="5" data-sid="ISA 52:5" class="v">5</span>Now
+  therefore, what have I here, saith the <span class="nd">LORD</span>, that my
+  people is taken away for nought? they that rule over them make them to howl,
+  saith the <span class="nd">LORD</span>; and my name continually every day
+  <span class="add">is</span> blasphemed. </p>
+id: ISA/52/5
+next:
+  id: ISA/52/6
+  number: '6'
+previous:
+  id: ISA/52/4
+  number: '4'
+reference: 'Isaiah 52:5'

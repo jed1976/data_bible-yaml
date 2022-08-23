@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="MAT 28:4" class="v">4</span>And
+  for fear of him the keepers did shake, and became as dead <span
+  class="add">men</span>. </p>
+id: MAT/28/4
+next:
+  id: MAT/28/5
+  number: '5'
+previous:
+  id: MAT/28/3
+  number: '3'
+reference: 'Matthew 28:4'

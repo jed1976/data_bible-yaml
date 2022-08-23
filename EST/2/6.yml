@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="6" data-sid="EST 2:6" class="v">6</span>Who
+  had been carried away from Jerusalem with the captivity which had been carried
+  away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had
+  carried away. </p>
+id: EST/2/6
+next:
+  id: EST/2/7
+  number: '7'
+previous:
+  id: EST/2/5
+  number: '5'
+reference: 'Esther 2:6'

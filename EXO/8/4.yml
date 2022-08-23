@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="4" data-sid="EXO 8:4" class="v">4</span>And
+  the frogs shall come up both on thee, and upon thy people, and upon all thy
+  servants.</p>
+id: EXO/8/4
+next:
+  id: EXO/8/5
+  number: '5'
+previous:
+  id: EXO/8/3
+  number: '3'
+reference: 'Exodus 8:4'

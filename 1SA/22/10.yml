@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="10" data-sid="1SA 22:10"
+  class="v">10</span>And he enquired of the <span class="nd">LORD</span> for
+  him, and gave him victuals, and gave him the sword of Goliath the Philistine.
+  </p>
+id: 1SA/22/10
+next:
+  id: 1SA/22/11
+  number: '11'
+previous:
+  id: 1SA/22/9
+  number: '9'
+reference: '1 Samuel 22:10'

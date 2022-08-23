@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="33" data-sid="MAT 9:33" class="v">33</span>And
+  when the devil was cast out, the dumb spake: and the multitudes marvelled,
+  saying, It was never so seen in Israel. </p>
+id: MAT/9/33
+next:
+  id: MAT/9/34
+  number: '34'
+previous:
+  id: MAT/9/32
+  number: '32'
+reference: 'Matthew 9:33'

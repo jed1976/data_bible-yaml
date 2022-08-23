@@ -1,0 +1,14 @@
+content: >-
+  <p class="q1"><span data-number="17" data-sid="PSA 68:17"
+  class="v">17</span>The chariots of God <span class="add">are</span> twenty
+  thousand, <span class="add">even</span> thousands of angels: the Lord <span
+  class="add">is</span> among them, <span class="add">as in</span> Sinai, in the
+  holy <span class="add">place</span>.</p>
+id: PSA/68/17
+next:
+  id: PSA/68/18
+  number: '18'
+previous:
+  id: PSA/68/16
+  number: '16'
+reference: 'Psalms 68:17'

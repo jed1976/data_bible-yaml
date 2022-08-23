@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="16" data-sid="ZEP 3:16" class="v">16</span>In
+  that day it shall be said to Jerusalem, Fear thou not: <span class="add">and
+  to</span> Zion, Let not thine hands be slack. </p>
+id: ZEP/3/16
+next:
+  id: ZEP/3/17
+  number: '17'
+previous:
+  id: ZEP/3/15
+  number: '15'
+reference: 'Zephaniah 3:16'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="45" data-sid="1KI 1:45" class="v">45</span>And
+  Zadok the priest and Nathan the prophet have anointed him king in Gihon: and
+  they are come up from thence rejoicing, so that the city rang again. This
+  <span class="add">is</span> the noise that ye have heard. </p>
+id: 1KI/1/45
+next:
+  id: 1KI/1/46
+  number: '46'
+previous:
+  id: 1KI/1/44
+  number: '44'
+reference: '1 Kings 1:45'

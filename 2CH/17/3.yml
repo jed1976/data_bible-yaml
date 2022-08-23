@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="3" data-sid="2CH 17:3" class="v">3</span>And
+  the <span class="nd">LORD</span> was with Jehoshaphat, because he walked in
+  the first ways of his father David, and sought not unto Baalim; </p>
+id: 2CH/17/3
+next:
+  id: 2CH/17/4
+  number: '4'
+previous:
+  id: 2CH/17/2
+  number: '2'
+reference: '2 Chronicles 17:3'

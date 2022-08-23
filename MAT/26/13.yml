@@ -1,0 +1,14 @@
+content: >-
+  <p class="p"><span data-number="13" data-sid="MAT 26:13"
+  class="v">13</span><span class="wj">Verily I say unto you, Wheresoever this
+  gospel shall be preached in the whole world, <span class="add">there</span>
+  shall also this, that this woman hath done, be told for a memorial of
+  her.</span></p>
+id: MAT/26/13
+next:
+  id: MAT/26/14
+  number: '14'
+previous:
+  id: MAT/26/12
+  number: '12'
+reference: 'Matthew 26:13'

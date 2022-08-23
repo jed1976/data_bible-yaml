@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="ACT 8:7" class="v">7</span>For
+  unclean spirits, crying with loud voice, came out of many that were possessed
+  <span class="add">with them</span>: and many taken with palsies, and that were
+  lame, were healed. </p>
+id: ACT/8/7
+next:
+  id: ACT/8/8
+  number: '8'
+previous:
+  id: ACT/8/6
+  number: '6'
+reference: 'Acts 8:7'

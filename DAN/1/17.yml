@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="17" data-sid="DAN 1:17" class="v">17</span>¶
+  As for these four children, God gave them knowledge and skill in all learning
+  and wisdom: and Daniel had understanding in all visions and dreams. </p>
+id: DAN/1/17
+next:
+  id: DAN/1/18
+  number: '18'
+previous:
+  id: DAN/1/16
+  number: '16'
+reference: 'Daniel 1:17'

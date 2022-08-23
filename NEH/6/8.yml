@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="8" data-sid="NEH 6:8" class="v">8</span>Then I
+  sent unto him, saying, There are no such things done as thou sayest, but thou
+  feignest them out of thine own heart. </p>
+id: NEH/6/8
+next:
+  id: NEH/6/9
+  number: '9'
+previous:
+  id: NEH/6/7
+  number: '7'
+reference: 'Nehemiah 6:8'

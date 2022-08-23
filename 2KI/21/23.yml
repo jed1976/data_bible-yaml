@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="23" data-sid="2KI 21:23" class="v">23</span>¶
+  And the servants of Amon conspired against him, and slew the king in his own
+  house. </p>
+id: 2KI/21/23
+next:
+  id: 2KI/21/24
+  number: '24'
+previous:
+  id: 2KI/21/22
+  number: '22'
+reference: '2 Kings 21:23'

@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="7" data-sid="GEN 50:7" class="v">7</span>¶ And
+  Joseph went up to bury his father: and with him went up all the servants of
+  Pharaoh, the elders of his house, and all the elders of the land of Egypt,
+  </p>
+id: GEN/50/7
+next:
+  id: GEN/50/8
+  number: '8'
+previous:
+  id: GEN/50/6
+  number: '6'
+reference: 'Genesis 50:7'

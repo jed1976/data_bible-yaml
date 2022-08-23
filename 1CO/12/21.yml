@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="1CO 12:21"
+  class="v">21</span>And the eye cannot say unto the hand, I have no need of
+  thee: nor again the head to the feet, I have no need of you. </p>
+id: 1CO/12/21
+next:
+  id: 1CO/12/22
+  number: '22'
+previous:
+  id: 1CO/12/20
+  number: '20'
+reference: '1 Corinthians 12:21'

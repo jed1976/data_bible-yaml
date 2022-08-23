@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="24" data-sid="DAN 7:24" class="v">24</span>And
+  the ten horns out of this kingdom <span class="add">are</span> ten kings <span
+  class="add">that</span> shall arise: and another shall rise after them; and he
+  shall be diverse from the first, and he shall subdue three kings. </p>
+id: DAN/7/24
+next:
+  id: DAN/7/25
+  number: '25'
+previous:
+  id: DAN/7/23
+  number: '23'
+reference: 'Daniel 7:24'

@@ -1,0 +1,16 @@
+content: >-
+  <p class="p"><span data-number="9" data-sid="SNG 6:9" class="v">9</span>My
+  dove, my undefiled is <span class="add">but</span> one; she <span
+  class="add">is</span> the <span class="add">only</span> one of her mother, she
+  <span class="add">is</span> the choice <span class="add">one</span> of her
+  that bare her. The daughters saw her, and blessed her; <span
+  class="add">yea</span>, the queens and the concubines, and they praised
+  her.</p>
+id: SNG/6/9
+next:
+  id: SNG/6/10
+  number: '10'
+previous:
+  id: SNG/6/8
+  number: '8'
+reference: 'Song of Solomon 6:9'

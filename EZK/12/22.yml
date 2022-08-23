@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="22" data-sid="EZK 12:22"
+  class="v">22</span>Son of man, what <span class="add">is</span> that proverb
+  <span class="add">that</span> ye have in the land of Israel, saying, The days
+  are prolonged, and every vision faileth? </p>
+id: EZK/12/22
+next:
+  id: EZK/12/23
+  number: '23'
+previous:
+  id: EZK/12/21
+  number: '21'
+reference: 'Ezekiel 12:22'

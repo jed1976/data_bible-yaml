@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="21" data-sid="ISA 37:21" class="v">21</span>¶
+  Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the <span
+  class="nd">LORD</span> God of Israel, Whereas thou hast prayed to me against
+  Sennacherib king of Assyria: </p>
+id: ISA/37/21
+next:
+  id: ISA/37/22
+  number: '22'
+previous:
+  id: ISA/37/20
+  number: '20'
+reference: 'Isaiah 37:21'

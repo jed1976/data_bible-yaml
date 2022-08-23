@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="2" data-sid="GEN 4:2" class="v">2</span>And
+  she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was
+  a tiller of the ground.</p>
+id: GEN/4/2
+next:
+  id: GEN/4/3
+  number: '3'
+previous:
+  id: GEN/4/1
+  number: '1'
+reference: 'Genesis 4:2'

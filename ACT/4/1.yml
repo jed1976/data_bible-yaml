@@ -1,0 +1,12 @@
+content: >-
+  <p class="p"><span data-number="1" data-sid="ACT 4:1" class="v">1</span>And as
+  they spake unto the people, the priests, and the captain of the temple, and
+  the Sadducees, came upon them, </p>
+id: ACT/4/1
+next:
+  id: ACT/4/2
+  number: '2'
+previous:
+  id: ACT/3/26
+  number: '26'
+reference: 'Acts 4:1'

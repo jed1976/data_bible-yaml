@@ -1,0 +1,13 @@
+content: >-
+  <p class="p"><span data-number="14" data-sid="REV 1:14" class="v">14</span>His
+  head and <span class="add">his</span> hairs <span class="add">were</span>
+  white like wool, as white as snow; and his eyes <span class="add">were</span>
+  as a flame of fire; </p>
+id: REV/1/14
+next:
+  id: REV/1/15
+  number: '15'
+previous:
+  id: REV/1/13
+  number: '13'
+reference: 'Revelation 1:14'
